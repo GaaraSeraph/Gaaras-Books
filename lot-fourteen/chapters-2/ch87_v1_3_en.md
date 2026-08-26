@@ -105,7 +105,7 @@ Then he put the case on the table and did not open it.
 
 "I have brought it. I am going to tell you the name and then I am going to give you the file, and I want the order said out loud, because the order is the whole of my position." Baek put one hand flat on the case. "I am not giving you the name because you got her out. I am giving it to you because I signed forty-four payments and stopped asking about them in 2016, and there is no version of the next ten years in which I go on holding it."
 
-"Say it."
+"Then both."
 
 * * *
 

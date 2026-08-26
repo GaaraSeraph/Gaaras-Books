@@ -798,10 +798,12 @@ die fünf Stellen, die bleiben sollen.
    Buchstabierungen.
 2. **b1 30/31 und b2 61/75 als Paare lesen**, nicht als Einzelkapitel. Beide
    Male sagt das zweite Kapitel das erste noch einmal.
-3. **Den Sprechbefehl auf ein Viertel senken.** 577 ist keine Handschrift.
-   Vorschlag zur Prüfung: nur noch Annie und Sang-hoon dürfen ihn benutzen,
-   weil bei ihnen die Machtlage ihn trägt, und Mr Ahn, Sim und Mrs Jeon
-   bekommen je einen eigenen Weg, eine Auskunft zu verlangen.
+3. ~~**Den Sprechbefehl auf ein Viertel senken.**~~ **ERLEDIGT am 26.08.**
+   Der Autor hat entschieden, dass Annie und Sang-hoon ihn behalten; alle
+   anderen haben einen eigenen Weg an eine Auskunft bekommen. **Von 577 auf
+   299, von 5,5 auf 2,8 Prozent, von 113 auf 81 Kapitel.** Die Register je
+   Figur, der Schlussstand, die eine Ausnahme und die zwei Fehler, die der
+   Lauf gekostet hat, stehen in `doc/12-stimmen.md`.
 
 **Die Zahlen sind jederzeit nachzurechnen:**
 

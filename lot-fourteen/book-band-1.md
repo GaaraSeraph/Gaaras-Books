@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.241 Woerter.
+Book One, 34 Kapitel, 101.250 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,45 +11,45 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.11 | 2.418 |
+| 01 | v6.12 | 2.417 |
 | 02 | v11.12 | 3.163 |
 | 03 | v2.9 | 3.378 |
 | 04 | v1.11 | 2.441 |
 | 05 | v5.14 | 4.327 |
 | 06 | v1.10 | 2.068 |
 | 07 | v6.6 | 3.860 |
-| 08 | v3.8 | 2.691 |
+| 08 | v3.9 | 2.690 |
 | 09 | v3.5 | 3.120 |
 | 10 | v2.6 | 2.985 |
-| 11 | v2.12 | 2.722 |
+| 11 | v2.13 | 2.721 |
 | 12 | v1.12 | 2.354 |
 | 13 | v2.10 | 2.822 |
 | 14 | v7.10 | 2.601 |
-| 15 | v2.11 | 4.227 |
-| 16 | v1.19 | 3.271 |
-| 17 | v12.16 | 2.743 |
+| 15 | v2.12 | 4.230 |
+| 16 | v1.20 | 3.271 |
+| 17 | v12.17 | 2.742 |
 | 18 | v2.12 | 2.957 |
-| 19 | v1.15 | 3.197 |
+| 19 | v1.16 | 3.198 |
 | 20 | v1.9 | 2.101 |
-| 21 | v1.12 | 4.078 |
+| 21 | v1.12 | 4.086 |
 | 22 | v1.5 | 2.588 |
-| 23 | v3.8 | 2.654 |
-| 24 | v1.8 | 2.664 |
-| 25 | v1.6 | 2.555 |
-| 26 | v1.9 | 2.410 |
-| 27 | v3.10 | 3.123 |
-| 28 | v1.10 | 2.707 |
+| 23 | v3.9 | 2.653 |
+| 24 | v1.9 | 2.661 |
+| 25 | v1.7 | 2.555 |
+| 26 | v1.10 | 2.407 |
+| 27 | v3.11 | 3.130 |
+| 28 | v1.11 | 2.706 |
 | 29 | v1.5 | 1.992 |
-| 30 | v1.13 | 3.551 |
-| 31 | v1.10 | 3.258 |
-| 32 | v1.4 | 2.579 |
+| 30 | v1.15 | 3.555 |
+| 31 | v1.11 | 3.254 |
+| 32 | v1.5 | 2.581 |
 | 33 | v1.16 | 3.341 |
 | 34 | v1.11 | 4.295 |
 
 ---
 
 # Book One · Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.11 · EN
+*Lot Fourteen* · Version 6.12 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -157,7 +157,7 @@ Georgij said nothing. He was still looking at the dent.
 
 She didn't react. He couldn't tell whether that had been the right answer or the wrong one, and not being able to tell bothered him more than the auction had.
 
-"Say the rest."
+"The rest."
 
 "There isn't a rest."
 
@@ -1994,7 +1994,7 @@ He had five.
 ---
 
 # Book One · Chapter 8: Something to do with my hands
-*Lot Fourteen* · Version 3.8 · EN
+*Lot Fourteen* · Version 3.9 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2036,7 +2036,7 @@ He had decided against it in the car and he decided against it again standing th
 
 "It's the only answer that shows up two years later."
 
-"Then say that at dinner."
+"Then that, at dinner."
 
 "I'm not at dinner." She said it entirely without self-pity, which he liked. "I'm here until the speeches and then I go back to the office and do the thing they'll all be told about in March."
 
@@ -2905,7 +2905,7 @@ It was an instruction from a man who intended to be given something and had deci
 ---
 
 # Book One · Chapter 11: Thank you for telling me
-*Lot Fourteen* · Version 2.12 · EN
+*Lot Fourteen* · Version 2.13 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2971,7 +2971,7 @@ Then Kang.
 
 "Hong. And Hana had told me thirty minutes earlier that it was a good tool and that I should be careful how many times it fit, and I did it anyway."
 
-"Say the rest."
+"The rest."
 
 "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling him where the hole was." He kept his chin level. "He asked how he could reach me. I declined to give him anything, which was the only sound thing I did in the whole exchange, and it will not matter, because he has a ministry and I have a face."
 
@@ -3933,7 +3933,7 @@ Annie looked at him for a moment.
 ---
 
 # Book One · Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.11 · EN
+*Lot Fourteen* · Version 2.12 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -3973,7 +3973,7 @@ Hana laughed out loud.
 
 "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij. "Her brother has the title. She has the family."
 
-"Then tell me the part I can't see."
+"Then the part I can't see."
 
 "She holds one point four per cent." Hana said it flatly, the way you read out a bus number. "Her brother has eleven. Two cousins have nine and seven, a sister-in-law has six, and there are two nephews with four each, and nobody at that end has the faintest idea what a berth is worth."
 
@@ -4037,7 +4037,7 @@ Annie did not tell him he had read it wrongly, and did not tell him he had read 
 
 "Something closed while you were talking that has been open for three weeks," said Georgij. "I will say it now, before we go on."
 
-"Go on."
+"And?"
 
 "On the terrace at the Grand Hotel you told a minister that the approach on the eastern parcel was a discourtesy rather than a threat. Nobody is insulted on somebody else's behalf. A man is insulted by a price when the price was offered to him."
 
@@ -4221,7 +4221,7 @@ Hana put her glass down.
 
 "There is a part of it that nobody at this table has said," said Georgij. "I am going to say it now, because in March somebody who is not sitting here is going to say it for us."
 
-"Go on."
+"Then nobody has said it."
 
 "There is a second half to that veto, and we have spent this evening calling it safety. If you hold the routes through Incheon, your own intermediates arrive on the day they are supposed to arrive."
 
@@ -4317,7 +4317,7 @@ Annie was quiet for what felt like a considerable time.
 
 "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to either." Hana turned her glass once. "I want you to know why I am asking."
 
-"Go on."
+"And the rest of it."
 
 "Because I have sat at this table for three hours and watched the two of you decide to ruin a man with nineteen pages in which every word is true." She said it without any heat at all. "You have both been extremely straight with me all evening. I believe every single thing either of you has said. And I would be a fool to be the only person in this room without a piece of paper."
 
@@ -4364,7 +4364,7 @@ She went out to her car.
 ---
 
 # Book One · Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.19 · EN
+*Lot Fourteen* · Version 1.20 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4416,7 +4416,7 @@ Something happened at the corner of Sang-hoon's mouth.
 
 "Before we go any further," he said, "I would like to tell you how I am going to conduct this evening, because it will save us both a great deal of time."
 
-"Go on."
+"How, then."
 
 "Three things." He put both hands on the table. "The first is that I will not say anything to you that is untrue. Not this evening and not afterwards. If I am guessing I will say I am guessing."
 
@@ -4709,7 +4709,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Book One · Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.16 · EN
+*Lot Fourteen* · Version 12.17 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4769,7 +4769,7 @@ Annie turned her head.
 
 She was quiet for the length of two lamp posts.
 
-"Say the guess."
+"The guess."
 
 "Sang-hoon put the container into that shipment, and he did not do it to slow them down. Customs have been in that building a month and they have not stopped one lorry leaving that yard."
 
@@ -5243,7 +5243,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Book One · Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.15 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5413,7 +5413,7 @@ Georgij looked at it.
 
 "Of course it is inside. I am not going to be the reason a boy has to telephone a woman from a shed." Woo signed underneath it, and dated it, and pushed it back. "Two conditions and neither of them is money."
 
-"Go on."
+"Then the ask."
 
 "Get me a room with that family in it and somebody who can actually sign. Not the ones who talk. Not the nephew." He held up one finger. "And no photograph with a politician in it. I have spent my whole life not being in those and I am not starting at seventy-eight."
 
@@ -5783,7 +5783,7 @@ Hana picked up on the third ring and said her own name into it, which almost nob
 
 "This is Georgij."
 
-"I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." A cup went down on a saucer somewhere on her side. "It will be mine by two o'clock either way."
+"I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." A cup went down on a saucer somewhere on her side. "So this is going to cost me an afternoon."
 
 "I would like an hour of your afternoon, and I would like it to be somewhere that is not this house."
 
@@ -5877,7 +5877,7 @@ She turned her glass, which had water in it.
 
 Georgij did not say anything for a moment, because a thing had just gone past him and he wanted to catch it before it was out of the room.
 
-"Say that again."
+"Again."
 
 "Ye-rin comes at nine."
 
@@ -5933,7 +5933,7 @@ He did not answer, and it was not a technique. He was still working out how much
 
 "I am entirely entitled to it and I am not going to have it." She put the hand back down on her knee. "I heard myself ask, and I would like us both to notice that I stopped."
 
-"Say why you stopped."
+"You stopped in the middle of that."
 
 "Because of the man you just refused to say anything about."
 
@@ -5981,7 +5981,7 @@ Georgij went back through the running order in the order she had given it, and f
 
 "There is a problem, and it is mine and not yours."
 
-"Say it."
+"It will be mine by two o'clock either way."
 
 "Your chairman leaves at nine. Ye-rin arrives at nine."
 
@@ -6419,7 +6419,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Book One · Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.8 · EN
+*Lot Fourteen* · Version 3.9 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6599,7 +6599,7 @@ After a moment Georgij sat down beside her.
 
 The traffic went over the joint in the roadway above them, one axle at a time.
 
-"Say why you did it," said Georgij.
+"Why you did it," said Georgij.
 
 "You have worked it out."
 
@@ -6706,7 +6706,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Book One · Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6732,7 +6732,7 @@ Annie put her hands on the rail.
 
 "That is part of it."
 
-"Say the other part."
+"The other part."
 
 "You have believed since October that nobody is anywhere except for what you pay them."
 
@@ -6862,7 +6862,7 @@ Then she said something in Korean, two syllables, in a voice she had not used in
 
 Georgij turned round.
 
-"Say that again."
+"Again."
 
 She said it again.
 
@@ -7033,7 +7033,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Book One · Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -7079,7 +7079,7 @@ The lawyer was somewhere at the end of his fifties, with the flat, unhurried cou
 
 "Then I will say the part I say to beneficiaries." Mr Chae sat down. "This instrument is smaller than you think it is. It looks like a door and it is a window, and I have watched four men walk into a wall with one of these in their hand."
 
-"Then say the wall."
+"Then the wall."
 
 He opened the case.
 
@@ -7113,7 +7113,7 @@ Mr Chae looked at him for a moment.
 
 "No."
 
-"Say why not, because I will have to write it down."
+"There will be a reason, because I will have to write it down."
 
 "Because a revocation line that she can pull without telling anybody is worth more to me than a fixed term." Georgij put the page back on the square. "If she can end it in four seconds, she does not have to be careful about giving it to me. Take the line out and she will spend the next three months deciding whether I am about to embarrass her. I would be doing my work through that."
 
@@ -7193,7 +7193,7 @@ Georgij said nothing at all, which was the whole of what he had.
 
 "I am not asking you," said Mr Chae. "I want to be precise about that, because you are going to be in a room with me again and it will save us both an afternoon. I am not asking, and I am not going to ask, and if you told me I would decline to hear it."
 
-"Then say what this is."
+"Then what this is."
 
 "It is a man of fifty-eight telling a man of your age that he is not stupid." He put the glasses back on. "I have been her lawyer since before there was anything worth the name, and she has never once used me badly."
 
@@ -7308,7 +7308,7 @@ It would keep until she asked.
 ---
 
 # Book One · Chapter 26: The name and the control
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Sixty-Three · Friday 5 December
 
@@ -7316,7 +7316,7 @@ She sent for him at nine in the morning and had the filing on the desk in front 
 
 "Say it," said Annie.
 
-"Say which part?"
+"Which part?"
 
 "The part you have been carrying since the fifth of November and did not say yesterday."
 
@@ -7400,7 +7400,7 @@ He had put this man at the top of a page in November on the basis of two trips t
 
 "I do."
 
-"Then say what she wants and I will decide whether to be angry after you have said it."
+"Then what she wants, and I will decide whether to be angry after you have said it."
 
 Georgij put the folder on the table and opened it and took out one page.
 
@@ -7460,7 +7460,7 @@ The cousin put the legal pad down.
 
 "No," said Georgij. "That is control of the company. The company stays yours."
 
-"Say the difference, then, and say it in a way I can repeat to my wife."
+"Then the difference, and in a way I can repeat to my wife."
 
 "You keep the name," said Georgij. "The building says Kim on it in March the way it says Kim on it today. Your brother is chairman, your family is on the register, and every customer you have ever had deals with the same three people they dealt with in September. Nobody outside this room is told anything, and there is no announcement, because there is nothing to announce."
 
@@ -7542,7 +7542,7 @@ Do-yun turned round.
 
 Neither of them said anything for about four seconds, which in that room was a considerable length of time.
 
-"Say it, then."
+"I am waiting for it."
 
 "No," said Georgij.
 
@@ -7589,7 +7589,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Book One · Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.10 · EN
+*Lot Fourteen* · Version 3.11 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -7799,7 +7799,7 @@ She got to the end of it before he did.
 
 "He knew before he asked. And he knows it is a thousand metres short of what he has in Yeonan, and he is taking it anyway, and the reason he gave me is a gate."
 
-"Then say the part that is mine."
+"Then the part that is mine, because I have to live with it."
 
 "He will deal with you directly. There is no broker, no introduction fee, no commission to anybody, and the rate is yours to name in the same way his rate was his to name." Georgij kept his hands where they were. "He asked for the drawing. That is all he asked for."
 
@@ -7843,7 +7843,7 @@ He owns nothing and can sign nothing, and for one afternoon that was the whole o
 
 "Because it takes the designation out of the middle of your life."
 
-"Say that properly."
+"That is not properly."
 
 "At the moment everything you have is worth what a department says it is worth," said Georgij. "One meeting in one building and you are a woman with a lot of land and a third charge that has come loose. There is nothing you can do about that in March except be very charming to men who do not care."
 
@@ -7904,7 +7904,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Book One · Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -8124,7 +8124,7 @@ Hana telephoned at twenty past four.
 
 Georgij stood with the telephone in his hand for a moment.
 
-"Say what that was."
+"What that was."
 
 "That was her telling me she had understood every single thing about why I was standing in her garden," said Hana, "and that she was not going to make me say any of it out loud. It is the kindest thing that woman does and it is also the closest she comes to a warning."
 
@@ -8376,7 +8376,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Book One · Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8464,7 +8464,7 @@ Ye-rin did not blink.
 
 She looked at him for a while.
 
-"Then say why you are out here."
+"Then why you are out here."
 
 "I am going to put three things in front of you and then I am going to stop." Georgij did not move at all. "Nothing tonight requires you to sign anything, or to say yes to anything, or to answer me before you go home. That was in the card and it is still true out here."
 
@@ -8500,7 +8500,7 @@ The heater made the noise heaters make.
 
 "Second thing," said Georgij.
 
-"Go on."
+"And?"
 
 "My employer's offer is capital, security over the routes, and a veto. Your family keeps the name. She gets the control. I said that standing up in your brother's boardroom in the first four minutes and I am saying it out here in the same words, because it is going to be true whether or not I dress it."
 
@@ -8522,7 +8522,7 @@ Ye-rin did not move for a long time.
 
 The room went on behind the glass. Somebody laughed near the fireplace. Her brother was at the far end with a glass in his hand, being cheerful at the woman who writes about houses.
 
-"Say it again."
+"That is worth hearing twice."
 
 "Six people telephone you before they sign anything. They have done it for twenty years and none of them can read a balance sheet." He did not soften it anywhere. "One day you will not pick up. It might be twenty years from now. Who do they call that morning?"
 
@@ -8574,7 +8574,7 @@ She was quiet for a moment.
 
 The wind came up off the garden and neither of them did anything about it.
 
-"Then tell me why I would ever agree to it."
+"Then there is a reason I would ever agree to it."
 
 "Because I cannot think of a reason and you can. I know what it costs you. I do not know what it buys you, and I have thought about it for four days, and I am not going to invent something and put it in your mouth."
 
@@ -8618,7 +8618,7 @@ She walked four paces along the rail and stopped.
 
 "I want one thing, and I have two things to pay for it with."
 
-"Tell me the thing first."
+"The thing first."
 
 "The veto covers boxes." She put it down the way you put an object on a table. "Which box, which sailing, which port, which week. It does not cover people. Nobody in that family is moved, retired, or given a smaller room by a woman in Hannam who has never met any of them."
 
@@ -8648,7 +8648,7 @@ She took that without any expression.
 
 "The second thing. Do-yun."
 
-"Say it properly."
+"That is a name and not a thing."
 
 "I can deliver my nephew. Where he works, what he carries out of that building, and whose telephone he answers on a Sunday." She looked straight at him. "He would do it because I asked him and for no other reason, and there is nobody else alive who can say that sentence about him. That is what I am putting up."
 
@@ -8737,7 +8737,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 ---
 
 # Book One · Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9015,7 +9015,7 @@ He telephoned Chairman Woo at eight, from the passage, because a man of seventy-
 
 "It is done, Chairman."
 
-"Say it properly. I am old and I do not fill in gaps for people."
+"I am old and I do not fill in gaps for people."
 
 "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person in the document, and the named person is her. Her brother's office gets the paper this week."
 
@@ -9039,7 +9039,7 @@ Woo did not say anything for a second.
 
 "There is one more thing and it is yours."
 
-"Then say it."
+"Then mine."
 
 "You told me in November about a man who lent you money and asked you what would happen to the terminal if you died on the Tuesday." Georgij looked at the wall of the passage, which has nothing on it. "You said it was the only conversation about that terminal you had ever repeated to anybody."
 
@@ -9070,7 +9070,7 @@ Chairman Woo was quiet for long enough that Georgij checked the line.
 ---
 
 # Book One · Chapter 32: In those words
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eighty · Monday 22 December
 
@@ -9122,7 +9122,7 @@ He looked at the second cousin and not at Sung-ho, because the second cousin was
 
 The legal pad cousin wrote something on the legal pad for the first time in two meetings.
 
-"Say what control means," said Sung-ho.
+"Control is a word people use," said Sung-ho.
 
 "It means that when there is a decision about which box goes on which sailing, she makes it. Not a committee, not a vote, not a consultation." Georgij had not moved from where he was standing. "It reaches your people as well as your cargo. It has to, because the man who decides which box goes on which sailing is the man who decides who loads it, and a control that stops at the cargo is a line in a document."
 

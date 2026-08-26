@@ -3469,3 +3469,84 @@ Hinweis.**
 214 sind zugeordnet und zu ersetzen, 229 sind noch nicht zugeordnet und werden
 beim Anfassen des jeweiligen Kapitels mitentschieden.
 
+### Ausgeführt am 26.08.: der Stand danach
+
+**Von 577 auf 299.** Gemessen über beide Bände, mit derselben Zählung wie am
+Anfang: Repliken, die mit einem Befehl zum Sprechen beginnen.
+
+| | vorher | nachher |
+|---|---|---|
+| Sprechbefehle | **577** | **299** |
+| Anteil aller Repliken | 5,5 % | **2,8 %** |
+| Kapitel, in denen einer vorkommt | 113 von 123 | **81 von 123** |
+| *"Say it ..."* | 146 in 79 Kapiteln | **72 in 47** |
+| *"Go on ..."* | 93 in 61 Kapiteln | **41 in 31** |
+
+**Was übrig ist, gehört Annie und Sang-hoon**, und das war die Entscheidung.
+`sprechbefehl.py` meldet noch elf Stellen mit einem anderen Namen; sie sind
+einzeln gelesen und stehen aus vier Gründen:
+
+1. **Fehlmeldungen des Regex.** `b2 23 Z154` und `b2 82 Z146` fangen ein *say*
+   mitten in einer langen Replik und nicht am Anfang.
+2. **Fehlmeldungen der Zuordnung.** `b1 03 Z274`, `b1 14 Z130`, `b2 42 Z260`,
+   `b2 62 Z108`, `b2 80 Z50` und `b2 43 Z78` gehören Annie oder Sang-hoon; die
+   Abwechslungsrechnung rutscht dort an einer Szenenkante.
+3. **Die 102 nicht zugeordneten Stellen** sind fast vollständig Annie: allein
+   `b2 74` und `b2 75` tragen achtunddreißig davon, und das sind die beiden
+   Kapitel, in denen sie ihn über ihren eigenen Vater befragt.
+4. **Die eine Ausnahme, und sie bleibt mit Absicht.**
+
+### Die Ausnahme: *"Say that I am yours."*
+
+**Band 2, Kapitel 6.** Sie steht, und sie ist die einzige.
+
+Die Regel richtet sich gegen den Befehl als **Weg an eine Auskunft** - gegen
+den Mann, der einem anderen befiehlt zu reden, damit er etwas erfährt. Hier
+gibt es nichts zu erfahren. Georgij bittet um ein Gelübde, und er bittet die
+einzige Person, von der er es annehmen würde. Wer diese Zeile mit der
+Nominalphrase ersetzt, bekommt *"That I am yours."* und hat die Szene zerstört.
+
+**Wer die Regel künftig prüft, prüft sie gegen diesen Satz mit.**
+
+### Zwei Fehler, die der Lauf gekostet hat, und was daraus folgt
+
+**1. Ungebundene Suchstrings verrutschen.** In `b2 73` und `b1 21` hat ein
+`"Say it."` ohne Anker die erste Fundstelle der Datei erwischt statt der
+gemeinten - in b1 21 landete Hanas Antwort auf ein Problem um zwei Uhr in
+einem Telefonat um neun. In b2 73 hat ein einziger Fehlschlag drei folgende
+Ersetzungen um je eine Stelle verschoben.
+
+**Regel daraus: jede Mehrfachersetzung wird an ihre Nachbarzeile gebunden.**
+Und wenn eine von mehreren gleichlautenden fehlschlägt, sind alle folgenden
+verdächtig und werden nachgesehen.
+
+**2. Ein Tic lässt sich durch einen zweiten ersetzen.** Beim ersten Durchgang
+habe ich viermal eine Geste eingesetzt, die im selben Kapitel schon dastand -
+Mr Ahns Lappen, Sims Manschette. Das Nachlesen hat es gefangen, `doppelt.py`
+hätte es später gefangen. **Ein Ersatz wird gegen das Kapitel geprüft, in das
+er kommt, und nicht nur gegen die Figur.**
+
+### Der Befund, der die Arbeit billig gemacht hat
+
+**An etwa einem Drittel aller Stellen stand der Grund oder der Zweck schon
+hinter dem Befehl**, und die Zeile wird ohne ihn nur härter:
+
+- Sim: ~~Say whether that is right, because~~ *"I would rather have that from
+  you than work it out later. I have got very good at working things out
+  later."*
+- Chairman Woo: ~~Say it~~ *"Before the tea comes, then. Tea makes it polite
+  and then it takes an hour."*
+- Chairman Woo: ~~Say it properly.~~ *"I am old and I do not fill in gaps for
+  people."*
+- Hana: ~~Say the rest of it, because there is a rest of it, and~~ *"I would
+  like the whole of it at two o'clock, not half of it now and the other half in
+  the hall at four."*
+
+Bei Hana fällt damit zusätzlich eine Doublette weg, weil Georgij in der nächsten
+Zeile mit genau *"There is a rest of it"* antwortet.
+
+**Und zweitens:** wo ich zum Beat greifen wollte, trug fast immer doch eine
+Nominalphrase, weil der andere gerade selbst gesagt hat, was kommt. Sim sagt
+*"You will not like the last of it"* - Georgij antwortet *"The last of it."*
+Kürzer als ein Beat, und es zeigt, dass er zuhört.
+

@@ -3253,7 +3253,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch15:22` (Tag 41) - one, three
 - `b1ch20:16` (Tag 49) - nine
-- `b1ch21:12` (Tag 49) - six, two
+- `b1ch21:12` (Tag 49) - six
 - `b1ch22:38` (Tag 55) - two
 - `b1ch22:280` (Tag 55) - eleven
 - `b1ch24:46` (Tag 55) - eight, one
@@ -3994,7 +3994,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch41:202 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
 | 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
 | 5 | b2ch43:186 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
-| 5 | b2ch43:218 | "Say where that would be, for a man like Choi." |
+| 5 | b2ch43:218 | "Where that would be, for a man like Choi." |
 | 10 | b2ch47:148 | "He has not told Choi Dae-ho," he said slowly. |
 | 2 | b2ch48:138 | "And if he goes to Choi Dae-ho the same afternoon." |
 | 25 | b2ch60:56 | Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the flo.. |
@@ -4478,7 +4478,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 37 | b2ch66:138 | *If I go to Mrs Ha, and she is still frightened, she telephones the person she was told .. |
 | 37 | b2ch66:252 | *Friday, eleven o'clock, Mapo. Mrs Ha. I will ask her one question about April eleven ye.. |
 | 39 | b2ch67:24 | Mrs Ha is in her sixties and answered the door herself and looked at his coat before she.. |
-| 39 | b2ch67:40 | "Say what you want," said Mrs Ha. |
+| 39 | b2ch67:40 | "You'll want something," said Mrs Ha. |
 | 39 | b2ch67:76 | Mrs Ha put both hands flat on her knees. |
 | 39 | b2ch67:96 | "The bride came to this office." Mrs Ha said it flatly. "On the Monday. Not the mother, .. |
 | 39 | b2ch67:100 | "For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and e.. |
