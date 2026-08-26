@@ -28,7 +28,55 @@ Ausrufezeichen · **kein einziger Schluss** · Status und Sorge in vier Wörtern
 
 ---
 
-## Sechs Quellen. Fehlt eine, ist es keine Figur.
+## Die erste Quelle, und ohne sie helfen die anderen nicht
+
+### 0. Ein Zug, der ihr nicht schmeichelt
+
+**Der Dialog bleibt maschinell, solange jede Figur würdig ist.** Man kann
+Anliegen, Maßeinheit, Zug, Satzform und alles Übrige erfüllen und bekommt
+trotzdem eine Funktion - eine **würdige** Funktion. Der Grund ist einfach: **in
+so einem Buch redet jeder nützlich. Jeder Satz dient.**
+
+**Gemessen an *Lot Fourteen*, 124 Kapitel:**
+
+| | Fundstellen |
+|---|---|
+| beschwert sich über jemanden, der mit der Sache nichts zu tun hat | **1** |
+| Neid | 3, und alle drei sind strategische Beobachtungen |
+| Selbstmitleid | 3, und alle drei sind Analysen |
+| irrt sich und berichtigt sich mitten im Satz | faktisch 0 |
+| körperliches Unbehagen | 3, davon zwei als **Beweisstück** und nicht als Leiden |
+
+**Die eine Fundstelle ist der Musterfall selbst:** *"You hear that? No respect
+for the neighbours."* Und im selben Absatz: Neid auf den Sohn der Nachbarin, der
+nach Hanyang gekommen ist, Selbstmitleid über den eigenen, der es vielleicht
+nach Ajou schafft. **Kleinlich, neidisch, selbstmitleidig - in drei Sätzen, über
+Leute, die in dem Buch nie wieder vorkommen.**
+
+**Das ist es, was sie lebendig macht, und es ist das Einzige, was die anderen
+nicht haben.**
+
+**Also bekommt jede Figur einen Zug, der ihr nicht schmeichelt**, und er darf
+nichts mit ihrer Rolle zu tun haben:
+
+- sie ist neidisch auf jemanden, der nichts kann
+- sie langweilt mit einer Geschichte, die sie schon erzählt hat
+- sie hat unrecht und merkt es nicht
+- sie ist ungerecht zu einem Abwesenden
+- sie hört nicht zu und antwortet auf die Frage davor
+- sie ist eitel wegen einer Kleinigkeit
+
+**Die Probe:** *Was an dieser Figur ist unangenehm, ohne dass die Geschichte es
+braucht?* Ist die Antwort "nichts", ist sie eine Funktion mit einem Namen davor.
+
+**Und die Sperre dazu:** der Zug darf nicht **entschuldigt** werden. Kein Satz
+danach, der ihn erklärt, mildert oder in eine Stärke umdeutet. Die Gießkanne
+bekommt keine Zeile, die sagt, dass sie es schwer hat. **Wer den unvorteilhaften
+Zug rechtfertigt, nimmt ihn zurück.**
+
+---
+
+## Sechs weitere Quellen. Fehlt eine, ist es keine Figur.
 
 ### 1. Ein Anliegen neben der Handlung
 
@@ -190,7 +238,7 @@ Probe, die eine Reparatur als Fehler meldet, misst die Reparatur.
    Regelwerk trägt oder nur beschreibt.
 6. **Leseprobe** vor jeder Abnahme.
 
-**Was zuerst gebaut wird, wenn die Zeit knapp ist:** der unverwertbare Satz und
-die Satzform. Anliegen, Maßeinheit und Zug schreiben sich fast von selbst,
+**Was zuerst gebaut wird, wenn die Zeit knapp ist:** der Zug, der ihr nicht
+schmeichelt. Dann der unverwertbare Satz und die Satzform. Anliegen, Maßeinheit und Zug schreiben sich fast von selbst,
 sobald diese zwei stehen - **und ohne sie klingen alle Figuren gleich, egal wie
 gut die anderen vier ausgearbeitet sind.**
