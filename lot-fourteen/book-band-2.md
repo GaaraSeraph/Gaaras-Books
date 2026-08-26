@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 82 Kapitel, 218.862 Woerter.
+Book Two, 82 Kapitel, 218.892 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -83,7 +83,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 77 | v1.3 | 2.317 |
 | 78 | v1.5 | 4.048 |
 | 80 | v1.2 | 2.060 |
-| 81 | v1.5 | 2.640 |
+| 81 | v1.7 | 2.640 |
 | 82 | v1.3 | 2.448 |
 | 83 | v1.2 | 2.428 |
 | 84 | v1.2 | 2.132 |
@@ -92,7 +92,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 87 | v1.3 | 2.013 |
 | 88 | v1.3 | 2.229 |
 | 89 | v1.0 | 2.085 |
-| 90 | v1.8 | 2.696 |
+| 90 | v1.9 | 2.726 |
 
 ---
 
@@ -17845,7 +17845,7 @@ He sat with the pen and then wrote one more line.
 ---
 
 # Book Two · Chapter 81: The permanent series
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -19782,7 +19782,7 @@ Georgij came down the stairs of a building in Jongno with three doors off a corr
 ---
 
 # Book Two · Chapter 90: The weapon
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Four Hundred and Fifteen · Sunday 22 November
 
@@ -19854,7 +19854,9 @@ She does not want it confirmed anywhere that she bought two lots at that house.
 
 Since May she has taken on every one of the former employees of it and given them work that none of them asked for. The woman off the front desk. All of them, inside a fortnight, and she has not once said why.
 
-Mr Hwang was offered something in October that is a long way beneath him. He has not answered it and it has not been withdrawn, and he is the only man alive who can close what is left of that house, and both of them know both of those things.
+Mr Hwang was offered work in October and it is a long way beneath him. He was told in April that it would be, in his own office, by a man who did not know then who it would come from.
+
+He has not answered it and it has not been withdrawn. He is the only man alive who can close what is left of that house, and everybody concerned knows that, and none of them has said it.
 
 Except one.
 

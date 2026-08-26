@@ -447,10 +447,26 @@ will nicht bestaetigt haben, dass sie zwei Lose in dem Haus gekauft hat. Seit
 Mai nimmt sie deshalb saemtliche ehemaligen Angestellten bei sich auf,
 innerhalb von vierzehn Tagen, ohne je zu sagen warum. **Ausser einem.**
 
-**Mr Hwang** bekommt im Oktober ein Angebot, das weit unter seiner Wuerde ist.
-Er hat nicht geantwortet und es ist nicht zurueckgezogen, und er ist der
-einzige, der schliessen kann, was von dem Haus uebrig ist. **Beide wissen
-beides.**
+**Mr Hwang** bekommt im Oktober Arbeit angeboten, die weit unter seiner Wuerde
+ist - **und das ist die Einloesung eines Satzes aus Kapitel 21**, aus dem
+ersten Treffen, in seinem eigenen Buero:
+
+> *"You will not be given another house. You are going to be given work by
+> somebody eventually and it is going to be beneath you, and you are going to
+> take it, and you will do it properly because you cannot do anything the other
+> way."*
+
+Sechs Monate zwischen dem Satz und dem Angebot. **Georgij wusste im April
+nicht, von wem es kommen wuerde**, und der Text sagt das ausdruecklich, weil
+die Prophezeiung sonst wie ein Plan aussaehe. Hwang hat nicht geantwortet, es
+ist nicht zurueckgezogen, und er ist der einzige, der schliessen kann, was von
+dem Haus uebrig ist.
+
+**Und eine Werkzeuglehre:** ich habe die Stelle nicht gefunden, weil sie das
+Wort *offer* nicht benutzt, und habe sie deshalb in K81 noch einmal
+geschrieben. Der Autor hat sie in K21 gefunden. **Wer im Text nach einem
+Begriff sucht, findet die Stellen, die ihn benutzen, und uebersieht die, die
+ihn umschreiben** - und in diesem Buch umschreibt fast alles.
 
 **Und was der Text ausdruecklich nicht sagt.** Der Autor am 26.08.: *"Schliesst
 ihn nicht ein ist eine nette Beschreibung fuer sie hat einige Auftragsmoerder

@@ -1,7 +1,7 @@
-Book Two · Chapter 81: The permanent series
-Lot Fourteen · Version 1.5 · EN
+# Chapter 81: The permanent series
+*Lot Fourteen* · Version 1.7 · EN
 
-Day Three Hundred and Seventy-Seven · Thursday 15 October
+## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
 The house has been winding up since April and it looks it.
 
@@ -9,7 +9,7 @@ Two of the four rooms on the ground floor are empty and the doors are wedged ope
 
 Georgij was at the desk at two minutes to nine and Mr Hwang was already behind it, with a sheet of paper in his hand, which is how that man is always found.
 
-———
+* * *
 
 "The eleventh of June," said Mr Hwang. "That was the last time you were in this building, at twenty past two, and you were here for nineteen minutes."
 
@@ -25,7 +25,7 @@ Georgij sat down.
 
 "The fourth line on that page you asked about in August is a woman. She is on our books under a reference of six characters. I have known that since the twelfth of August, because I wrote the reply myself." Mr Hwang did not take his hand off the sheet. "I have known she is a person since the twelfth of August. It is the fifteenth of October. That is nine weeks and I have done nothing."
 
-———
+* * *
 
 The room did what a half emptied room does at nine in the morning.
 
@@ -37,7 +37,7 @@ The room did what a half emptied room does at nine in the morning.
 
 "It is the rule and it is also true. I have looked for the other answer for nine weeks and there is not one." Mr Hwang moved the sheet four centimetres. "So I have been a man who knows and files, and that is the second time, and I would like that said in this room before you tell me what you came for."
 
-———
+* * *
 
 Georgij had built the sentence over six days and had taken it apart on the Sunday.
 
@@ -47,7 +47,7 @@ He did not use any of it.
 
 "In her order, then."
 
-———
+* * *
 
 He gave it to him and it took eleven minutes, and he read most of it off the page.
 
@@ -65,7 +65,7 @@ Mr Hwang had not moved his hand.
 
 "Consent," said Georgij. "The house is in wind-up and a consignment cannot be assigned out of it without the administrator, and you are the administrator, and you refused a woman in January on exactly that authority."
 
-———
+* * *
 
 "I did," said Mr Hwang.
 
@@ -75,7 +75,7 @@ Mr Hwang looked at the sheet on his desk for a while.
 
 Then he turned it over, face down, which is the first time Georgij has seen him let go of a piece of paper.
 
-———
+* * *
 
 "Yes," he said.
 
@@ -91,7 +91,7 @@ Georgij did not say anything.
 
 "She knows what a form is. She may not know the rest of it, and I am going to say the rest of it to you now so that you carry it back today and not in three weeks."
 
-———
+* * *
 
 "Then it should be said."
 
@@ -101,7 +101,7 @@ Georgij did not say anything.
 
 "Then you know it works in both directions." He put one finger on the desk and did not tap it. "An assignment out of a wind-up is a matter of the house. It goes into the same series, at its own entry, in the sequence, with the date and the two parties. It cannot be sealed and it cannot be withdrawn and there is no application for either, because I did not write one in."
 
-———
+* * *
 
 Georgij sat very still.
 
@@ -113,7 +113,7 @@ Georgij sat very still.
 
 "And a price."
 
-———
+* * *
 
 Neither of them said anything for a moment.
 
@@ -127,7 +127,7 @@ Out in the corridor two men carried something past the open door and one of them
 
 "Then that is the correct answer and it took you about a second and a half."
 
-———
+* * *
 
 Georgij stood up, and then did not go.
 
@@ -143,7 +143,7 @@ Mr Hwang did not reach for anything.
 
 "That is not nothing."
 
-———
+* * *
 
 "There is no lot. There is no reference. There is no entry, no clearing slip, no commission, and no line in any book in this building with that name on it or with any number that has ever been attached to that name." He said it the way he says dates. "I have had the whole of the series since April and I have read it twice, and I have read it a third time since August with a particular question in my head, and there is nothing."
 
@@ -151,7 +151,7 @@ Mr Hwang did not reach for anything.
 
 "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade that is done properly leaves a line. A woman who has been in a building for eleven years and has no line was not acquired. She was kept, and the person who kept her has never once had to account for her to anybody, because there is no document to account against."
 
-———
+* * *
 
 "And there is no clause for that," said Georgij.
 
@@ -161,7 +161,7 @@ Mr Hwang did not reach for anything.
 
 "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hwang straightened the sheet again. "I am the administrator of a house that is going to be gone by Christmas. After that there is no series left to ask." He straightened the sheet again. "There will be one woman in a house near Wonju who is a lot and one who is not, and only one of them can be got out with a form."
 
-———
+* * *
 
 At the door there was one more thing and it was Georgij's.
 
@@ -171,7 +171,7 @@ Mr Hwang did not move at all.
 
 "It exists," said Georgij. "One page. It is signed and it is dated the fourteenth of June and it is nine lines long. I have read it and I am the only person other than the woman who wrote it who has."
 
-———
+* * *
 
 The room was very quiet.
 
@@ -183,7 +183,7 @@ The room was very quiet.
 
 "Because she wrote it on the condition that I would keep it and not use it, and I said yes." Georgij did not look away from him. "Reading you a line out of it this morning, in this room, eleven minutes after you agreed to sign a form for me, would be using it. There is no version of it that is not."
 
-———
+* * *
 
 Mr Hwang put the sheet down on the desk and left his hand off it.
 
@@ -197,7 +197,7 @@ Mr Hwang put the sheet down on the desk and left his hand off it.
 
 "And bring her name on the fourth page in her own hand, because I am not going to accept a typed one on a matter that goes into the sequence."
 
-———
+* * *
 
 He was out of the building at ten past ten and the men in the corridor had got as far as the third room.
 
@@ -205,20 +205,20 @@ He did not go to the car.
 
 He stood on the step of a house that will not exist by Christmas and did the arithmetic, which is what he has been doing since March. It came out in about four seconds and he did not like any of it.
 
-She has spent nineteen years not being on a piece of paper next to anything.
+*She has spent nineteen years not being on a piece of paper next to anything.*
 
-She has moved money four hundred times and never once had to say beforehand what it was for.
+*She has moved money four hundred times and never once had to say beforehand what it was for.*
 
-And the price is not the money. It is an entry in a numbered sequence, with two names and a figure, that somebody reads in nine years for a reason nobody in this alive can guess at.
+*And the price is not the money. It is an entry in a numbered sequence, with two names and a figure, that somebody reads in nine years for a reason nobody in this alive can guess at.*
 
-———
+* * *
 
 He wrote four lines in the car and did not start the engine while he wrote them.
 
-He said yes in about forty seconds and he had been waiting nine weeks to be asked.
+*He said yes in about forty seconds and he had been waiting nine weeks to be asked.*
 
-He told me the price himself, unasked, before I could find it, and it is the only part of this morning he did not have to give me.
+*He told me the price himself, unasked, before I could find it, and it is the only part of this morning he did not have to give me.*
 
-There is no line anywhere on the other woman. Not one. That is not an oversight and it is not carelessness.
+*There is no line anywhere on the other woman. Not one. That is not an oversight and it is not carelessness.*
 
-A man who keeps somebody without a line has decided in advance that nobody will ever be able to ask.
+*A man who keeps somebody without a line has decided in advance that nobody will ever be able to ask.*

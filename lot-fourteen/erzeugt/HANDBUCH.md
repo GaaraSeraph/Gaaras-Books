@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 320.027 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 320.029 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -6862,7 +6862,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     nobody."*
   - **Faellig: Donnerstag, der 15. Oktober, neun Uhr** (Tag 377).
 
-- **Band 2, Kapitel 81** *The permanent series* (v1.5) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
+- **Band 2, Kapitel 81** *The permanent series* (v1.7) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang nimmt vorweg, wie immer**, mit Datum und Uhrzeit: der 11. Juni,
@@ -7289,7 +7289,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     had spent eight months building."* **Achtundfuenfzig Namen stehen hinten im
     Buch und das wird Jahre dauern.**
 
-- **Band 2, Kapitel 90** *The weapon* (v1.8) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
+- **Band 2, Kapitel 90** *The weapon* (v1.9) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Zwei Menschen mehr im Haus, und es hat alles veraendert, und niemand hat es
@@ -23162,13 +23162,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch89:148 | Annie asked him about it that evening and asked it in one sentence. |
 | 19 | b2ch90:16 | The second time she stayed four hours and came back with oil on the sleeve of a coat tha.. |
 | 19 | b2ch90:68 | One of the three is Annie. |
-| 19 | b2ch90:134 | Annie let that stand for a moment before she took it apart, which is the difference betw.. |
-| 19 | b2ch90:182 | He noticed on the Thursday that this had gone past three weeks, and he did not do anythi.. |
-| 19 | b2ch90:198 | "You have not slept since the second," said Annie. |
-| 19 | b2ch90:216 | Annie's hand did not move. |
-| 19 | b2ch90:224 | "Then say the rest of it," said Annie. |
-| 19 | b2ch90:244 | Annie did not say anything. |
-| 19 | b2ch90:268 | Annie put her hand back into his hair. |
+| 19 | b2ch90:138 | Annie let that stand for a moment before she took it apart, which is the difference betw.. |
+| 19 | b2ch90:186 | He noticed on the Thursday that this had gone past three weeks, and he did not do anythi.. |
+| 19 | b2ch90:202 | "You have not slept since the second," said Annie. |
+| 19 | b2ch90:220 | Annie's hand did not move. |
+| 19 | b2ch90:228 | "Then say the rest of it," said Annie. |
+| 19 | b2ch90:248 | Annie did not say anything. |
+| 19 | b2ch90:272 | Annie put her hand back into his hair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -23424,7 +23424,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:148` (Tag 15) - one
 - `b2ch90:16` (Tag 19) - four, one
 - `b2ch90:68` (Tag 19) - one, three
-- `b2ch90:182` (Tag 19) - three
+- `b2ch90:186` (Tag 19) - three
 
 ---
 
@@ -23709,7 +23709,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch51:162 | Sang-hoon did not say anything for long enough that Georgij could hear the yard behind h.. |
 | 3 | b2ch51:180 | "That is the answer I expected and I still wish it were the other one." Sang-hoon let it.. |
 | 22 | b2ch58:102 | The twentieth of July. Jang's rota and Jang's grocery numbers, in his own hand, four lin.. |
-| 19 | b2ch90:108 | Park Sang-hoon first, because he is the one who matters and because he has four decision.. |
+| 19 | b2ch90:112 | Park Sang-hoon first, because he is the one who matters and because he has four decision.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -23837,7 +23837,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch50:306` (Tag 10) - four, one
 - `b2ch51:180` (Tag 3) - one
 - `b2ch58:102` (Tag 22) - four
-- `b2ch90:108` (Tag 19) - four, one
+- `b2ch90:112` (Tag 19) - four, one
 
 ---
 
@@ -24096,7 +24096,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 10 | b2ch87:174 | "My father took a man out of a service by giving him one thing he could not undo," she s.. |
 | 19 | b2ch90:58 | Woo has not been in that house since the fifth of October. |
-| 19 | b2ch90:114 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:118 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -24249,7 +24249,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:274` (Tag 10) - one
 - `b2ch78:338` (Tag 10) - four, twenty-four
 - `b2ch87:174` (Tag 10) - one, twenty-four
-- `b2ch90:114` (Tag 19) - eleven, four, two
+- `b2ch90:118` (Tag 19) - eleven, four, two
 
 ---
 
@@ -25250,8 +25250,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch85:36 | Mr Hwang telephoned it through and did not dress it. |
 | 3 | b2ch85:134 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
 | 8 | b2ch86:66 | The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. T.. |
-| 19 | b2ch90:80 | Mr Hwang was offered something in October that is a long way beneath him. He has not ans.. |
-| 19 | b2ch90:114 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:80 | Mr Hwang was offered work in October and it is a long way beneath him. He was told in Ap.. |
+| 19 | b2ch90:118 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -25309,7 +25309,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch84:40` (Tag 9) - four
 - `b2ch85:6` (Tag 12) - eleven, four, twenty
 - `b2ch85:134` (Tag 3) - four, three
-- `b2ch90:114` (Tag 19) - eleven, four, two
+- `b2ch90:118` (Tag 19) - eleven, four, two
 
 ---
 
@@ -25709,7 +25709,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 16 | b2ch55:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 | 44 | b2ch69:420 | "That a struck line is a record." Georgij did not look away. "And I found that out in Ap.. |
-| 19 | b2ch90:114 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:118 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Yeo
 
@@ -25738,7 +25738,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:136` (Tag 16) - four, seven
-- `b2ch90:114` (Tag 19) - eleven, four, two
+- `b2ch90:118` (Tag 19) - eleven, four, two
 
 ---
 
@@ -25897,7 +25897,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 16 | b2ch55:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 | 44 | b2ch69:420 | "That a struck line is a record." Georgij did not look away. "And I found that out in Ap.. |
-| 19 | b2ch90:114 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:118 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Yeom
 
@@ -25922,7 +25922,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:136` (Tag 16) - four, seven
-- `b2ch90:114` (Tag 19) - eleven, four, two
+- `b2ch90:118` (Tag 19) - eleven, four, two
 
 ---
 
@@ -26734,7 +26734,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch87:126 | Baek Jun-ho looked at the case. |
 | 10 | b2ch87:158 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
 | 12 | b2ch88:94 | She did not say Baek Jun-ho's name and she did not need to. |
-| 19 | b2ch90:114 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:118 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -26747,7 +26747,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:92` (Tag 10) - two
 - `b2ch87:112` (Tag 10) - eleven, one, twenty, two
 - `b2ch87:158` (Tag 10) - four, one
-- `b2ch90:114` (Tag 19) - eleven, four, two
+- `b2ch90:118` (Tag 19) - eleven, four, two
 
 ---
 
@@ -26778,7 +26778,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 17 | b2ch22:220 | "Mr Byun." |
 | 24 | b2ch23:16 | That is not a technicality and he is not going to let himself have it as one. He said a .. |
 | 19 | b2ch90:64 | In May the three of them were told what Mr Byun had taken off them, with the amount and .. |
-| 19 | b2ch90:88 | Mr Byun has not been seen in that trade since May. |
+| 19 | b2ch90:92 | Mr Byun has not been seen in that trade since May. |
 
 ### Zahlen in der Naehe von Mr Byun
 
