@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 266.281 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 267.485 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -13326,6 +13326,141 @@ längst ablegen lassen.
 Und das Buch unterscheidet die beiden Lächeln selbst, damit niemand sie
 verwechselt: *"it was not the smile from Mrs Bae's front desk, and it was not a
 performance either."* (K52)
+
+#### Die Maschine, und sie stand bis zum 26.08. nicht auf diesem Blatt
+
+**Er richtet dem anderen die Bequemlichkeit im Voraus ein, ungefragt, und
+benennt die Einrichtung dann laut - damit sie keine Schuld wird.** Die
+Reihenfolge ist immer dieselbe: erst die Höflichkeit, dann die Mechanik der
+Höflichkeit, und seit b2 K52 auch, was sie ihn kostet.
+
+> b2 K72: *"It is a box in Jongno and it is raining on me, **and I have put in
+> more than I need, so do not talk quickly on my account.**"*
+
+> b2 K68: *"You will not want these." … "**I have brought them anyway.** A man
+> who puts nothing on a table is telling the other man how long the conversation
+> will be, and I did not want to tell you that before you sat down."*
+
+**Er zählt nicht Jahre und nicht Daten. Er zählt die Ausgänge, die er anderen
+Leuten gebaut hat** - und dass sie keinen genommen haben:
+
+> b2 K72: *"I gave her three places to. I told her the weather might turn. I
+> told her the gutters. I said that I would be in that part of the country in
+> the spring in any case. **She did not take one of them.**"*
+
+Dazu die kleinen Siege, die er verschenkt: die falsche Tram-Nummer, damit der
+andere ihn verbessern darf (b2 K52, b2 K72). Und die Bilanz darüber, was er nie
+genommen hat: *"I have never in my working life asked anybody for anything. So
+I count."* (b2 K74)
+
+#### Er darf nicht: Georgijs Enthüllungsrahmen - und er hat ihn viermal benutzt
+
+**Das ist die scharfe Abgrenzung dieses Blattes, so wie bei Jang die
+Verneinung.** Georgij **hält zurück und gibt dann frei** - er verwaltet, was der
+andere noch nicht weiß. **Sim hält nichts zurück.** Er gibt her und erklärt die
+Gabe. Ein Sim, der eine zweite Hälfte ankündigt, ist Georgij mit einem
+Blumenstrauß in der Hand.
+
+**Nachgemessen am 26.08.: vier Wendungen, die im ganzen Buch nur Georgij und Sim
+benutzen und sonst niemand.**
+
+| Georgij | Sim, geliehen |
+|---|---|
+| b2 K18 *"And there is a second half,"* | b2 K74 *"There is a second half and you have not asked for it"* |
+| b2 K21 *"There is one more thing and it is not an argument"* | b2 K72 *"There is one more thing and it is mine and not hers"* |
+| b2 K19 *"neither of them is a comfort"* | b2 K72 *"two voices … and neither of them was his"* |
+| b2 K19 *"he is not the one who wrote the letter"* | b2 K64 *"a question and it is not the one you are braced for"* |
+
+**Drei der vier eröffnen einen Takt und werden mit *"Go on."* beantwortet.** Das
+ist der Rhythmus eines Mannes, der Auskunft dosiert.
+
+**Was ihm dagegen gehört und bleibt:** *"you have not asked"*. Bei Georgij
+markiert es, dass er etwas hat. **Bei Sim markiert es, dass er wartet, geben zu
+dürfen** - *"Ask me what you came to ask, because you have not asked anything,
+and I have been waiting for it since the door."* (b2 K52) Der Wortlaut ist
+gleich, der Zug ist der umgekehrte.
+
+**Er darf ausserdem keinen Haustic.** Gemessen hat er **null** - kein
+which-Satz, keine Und-Kette, keine Kontraktion, keine Negativdefinition, keine
+Selbstdiagnose. Das ist bei ihm kein Mangel, sondern die Kontrolle selbst.
+
+#### Das Anliegen
+
+**Nicht Absolution. Zeugenschaft.** Er will, dass jemand gehört hat, dass er
+gegeben hat, ohne zu fordern - und er sagt es dreimal in zwei Kapiteln:
+
+> *"I was glad to. **I would like you to have heard me say that part.**"* (K52)
+> *"**I want that said properly.**"* (K68)
+> *"…said by the only man in eleven years **who did not need anything from me
+> when he said it**."* (K68)
+
+#### Wie er mit wem redet
+
+- **Zu Georgij.** Er behandelt ihn vom ersten Satz an als jemanden, den er
+  kennt, und sagt die Regel dazu: *"You have come with something and you are not
+  going to make me guess."* Kein Titel, kein Name.
+- **Zu Fremden, die er bearbeitet.** Die vorweggenommene Vertrautheit, *"It has
+  been good to see you again"* - siehe *Choi Dae-ho*: die Zeile ist Chois
+  Erfindung und Sims Werkzeug.
+- **Zu Dienstleuten.** Er bezahlt vorher und im Umschlag, nimmt keine Quittung,
+  und gibt dem Raum und nicht der Person.
+
+#### Was passiert, wenn er warm wird
+
+**Bis b2 K41 gar nichts - die Wärme läuft ohnehin die ganze Zeit, und das ist
+sein Panzer.** Ab b2 K52 ist es umgekehrt, und der Bruch ist, dass sie
+**aufhört**. Danach nimmt er sie wieder auf, aber benannt und gewählt, und in
+K68 legt er sie ganz ab.
+
+**Wer ihn warm schreiben will, gibt ihm nichts Freundliches zu sagen** - er gibt
+ihm etwas einzurichten, das niemand bestellt hat, und lässt ihn danach
+aussprechen, wie es eingerichtet ist.
+
+#### Unter Druck
+
+**Er wird nicht kürzer, er wird gastgeberischer** - und die Genauigkeit
+verschiebt sich von der Sache auf den Zustand des anderen: ob er geschlafen hat,
+ob er nass geworden ist, wie lange das Gespräch dauern wird. **Er sagt nie, dass
+ihm etwas naheging - er sagt, was er deshalb vorbereitet hat.**
+
+#### Vier Beispiele
+
+**Erfundene Muster, nicht im Text** - sie zeigen die Maschine, sie belegen sie
+nicht.
+
+**Ruhig, er richtet vorher ein:**
+
+> "The table by the window was taken, so I took this one at half past six and
+> paid for both hours." He did not sit down first. "That is not generosity. It
+> is so that nobody comes over and asks us whether we are finished."
+
+**Er gibt her, ungefragt, und erklärt die Gabe:**
+
+> "You have not asked me for the name of the man who signs, and you were not
+> going to, because you have worked out that I would have to break something to
+> give it to you." He put the envelope down and took his hand off it. "I am
+> going to break it. I would rather you watched me do it than found it on a
+> desk."
+
+**Unter Druck, und die Genauigkeit geht auf den anderen über:**
+
+> "You have been in the rain and you have not eaten since the train." He moved
+> the pot two inches towards him and did not look up. "I have ordered something.
+> You do not have to touch it. I would like it to be sitting there in case the
+> next part takes longer than you think it will."
+
+**Der schlimmste Moment - die Wärme hört auf, eine Zeile lang:**
+
+> "No." He did not move the pot, and he did not fill the pause. "Do not make it easier
+> for me. I have had thirty years of rooms where somebody made it easier, and I
+> made most of them myself, and I would like to know what one feels like from
+> this side."
+
+**Die Probe.** In allen vieren steht **eine Einrichtung, die er vorher getroffen
+hat**, und **ein Satz, der sie benennt, damit sie keine Schuld wird**. Kein Tic,
+keine Zahl über sich selbst, und **nichts, was er zurückhält, um es gleich
+darauf freizugeben.**
+
 
 #### Was das Blatt nicht hatte
 
