@@ -2042,3 +2042,49 @@ gekostet haette.
 *Unsicher:* ob *"A woman in Seoul"* Georgij zu viel preisgibt - er haelt Annie
 sonst streng zurueck. Der Name bleibt drin nicht drin, aber die Existenz einer
 Auftraggeberin ist neu gesagt. **Das gehoert vom Inhalts-Chat geprueft.**
+
+## Fragezeichen: 150 gesetzt, 6 stehen gelassen
+
+**Die Regel stand seit dem 24.08. in `doc/01-craft.md`:** *"Steht er in
+Fragesyntax oder ist er eine verkuerzte Frage, kommt ein Fragezeichen hin, egal
+wie kalt er ist."* **Das Buch hat sie 156-mal nicht befolgt.**
+
+**Gearbeitet wurde auf `check.py`s eigener Liste**, nicht auf einem Muster von
+mir - ihr Ausdruck verlangt, dass die **ganze** Replik die Frage ist
+(`^"QWORD[^?"]{0,70}\."$`). Ein selbstgebautes Muster haette Deklarativsaetze
+mit Fragewort am Anfang mitgerissen.
+
+**150 gesetzt, in 70 Kapiteln. Sechs bleiben, und jeder einzeln begruendet:**
+
+| Stelle | warum |
+|---|---|
+| b1 K01 *"When he bought the boy."* | Antwort auf *"When."*, Aussagesatz |
+| b1 K09 *"Whatever I was given."* | Aussagesatz |
+| b1 K24 *"What you paid me in on the gravel…"* | Aussagesatz, wh-Satz ist das Subjekt |
+| b1 K26 *"What she wants is shares, security…"* | dito |
+| b2 K18 *"What it changes is you."* | dito |
+| **b1 K34 *"Is that all of it."*** | **vom Handwerksdokument ausdruecklich gesetzt** - die Gegenprobe zu Georgijs *"That is all of it?"* drei Seiten davor. *"Umgestellt ist Forderung."* |
+
+`check.py` meldet danach genau diese sechs. **`faktenspur.py`: null bewegte
+Zahlen, Daten und Namen.**
+
+## Mrs Ha: die Antwort aendert, was sie hergibt
+
+**Der zweite Teil der BG3-Mechanik.** Bisher verdiente Georgijs Antwort ein Lob,
+aber sie aenderte nichts. Jetzt macht sie den Zustandswechsel ausdruecklich -
+mit dem Gegenfall, der ihn erst sichtbar macht:
+
+> *"Then she's getting her money's worth." Mrs Ha sat back. **"If you'd said
+> insurance, you'd have had the wedding and the door. You can have the afternoon
+> instead."** "She was the calmest person in this room…"*
+
+**Der Gegenfall ist das Ganze.** Ohne ihn ist eine Belohnung nur Freundlichkeit;
+mit ihm war das Gespraech ein Zustand, den seine Antwort verschoben hat. Und er
+bindet zurueck an ihre erste Zeile an der Tuer - *"You are not from the
+insurance."* - und an ihre eigene Waehrung, *"the first interesting afternoon
+I've had since February."*
+
+`faktenspur.py`: null bewegte Zahlen.
+
+*Unsicher:* weiterhin nur *"A woman in Seoul"* - dass Georgij die Existenz einer
+Auftraggeberin ueberhaupt einraeumt, gehoert vom Inhalts-Chat geprueft.

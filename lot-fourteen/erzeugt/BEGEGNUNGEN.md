@@ -1297,7 +1297,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:220 | Sang-hoon looked out of the window at a car park. |
 | 60 | b2ch04:232 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
 | 60 | b2ch04:244 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
-| 60 | b2ch05:46 | "What did you pay Park Sang-hoon with." |
+| 60 | b2ch05:46 | "What did you pay Park Sang-hoon with?" |
 | 60 | b2ch05:74 | "And it cost you Sang-hoon knowing that this house is interested in a book by the river." |
 | 60 | b2ch05:196 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
 | 60 | b2ch05:232 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
@@ -4235,7 +4235,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch67:76 | Mrs Ha put both hands flat on her knees. |
 | 39 | b2ch67:96 | "The bride came to this office." Mrs Ha said it flatly. "On the Monday. Not the mother, .. |
 | 39 | b2ch67:100 | "For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and e.. |
-| 39 | b2ch67:118 | "Then she's getting her money's worth." Mrs Ha sat back. "She was the calmest person in .. |
+| 39 | b2ch67:118 | "Then she's getting her money's worth." Mrs Ha sat back. "If you'd said insurance, you'd.. |
 | 39 | b2ch67:122 | "Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell.. |
 | 39 | b2ch67:130 | "I asked her whether it might be later in the year," said Mrs Ha. |
 | 39 | b2ch67:138 | "There is not going to be a later." Mrs Ha said it exactly, and then she said the rest o.. |
