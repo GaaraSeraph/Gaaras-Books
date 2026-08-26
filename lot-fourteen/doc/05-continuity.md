@@ -4047,7 +4047,191 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt nicht von einem Mann) und Georgijs Zusage aus Kapitel 63 (*"Somebody is
     going to stand underneath her before anybody takes the floor away"*).
 
+- **Band 2, Kapitel 87** *The first hour* (v1.1) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
 
+  **Nachgetragen und inhaltlich geprueft am 26.08.**
+  - **Die erste Stunde hat zwei Menschen darin und keiner davon wohnt in dem Haus.**
+    Mrs Jeon liest Ahn Jung-hee das Instrument vollstaendig und laut vor, in der
+    Reihenfolge, **den dritten Absatz zweimal**, und fasst an keiner Stelle
+    zusammen. Annie sitzt oben mit einer Seite, die sie fuenfzig Minuten nicht
+    umblaettert. Georgij steht ausser Hoerweite und hat sich selbst dorthin
+    gestellt.
+  - **Was das Instrument tut, sind vier Dinge**, und das vierte ist der dritte
+    Absatz: nichts darin begruendet **irgendeine Verpflichtung gegenueber der
+    Kaeuferin**, und jeder kuenftige Anspruch auf das Gegenteil ist nichtig,
+    unterschrieben oder nicht.
+  - **Sie unterschreibt um sieben nach elf, in der aelteren Schreibweise, mit dem
+    Schriftzeichen ihres Vaters.**
+  - **Ihre zweite Frage in vier Jahren** ist, ob die Frau, die bezahlt hat, sie
+    treffen will - und ob das eine Bitte oder eine Anordnung waere. Annies Antwort:
+    *"Then it is a request. Tell her that it can be any day or no day, and if it is
+    no day I will not be told a reason."* **Ueberbringen soll es Mrs Jeon und
+    niemand, der in dem Haus wohnt.**
+  - **Und die elf Sekunden im Korridor, die Mrs Jeon weitergibt, weil er nicht
+    fragen wuerde:** Ahn Jung-hee hat den ganzen Montagabend darauf verwendet,
+    herauszufinden, **wer von den dreien entschieden hat, dass niemand aussteigt**,
+    und hat falsch geraten.
+  - **BAEK JUN-HO KOMMT UM ZWEI UND BRINGT DIE AKTE.** Er fragt zuerst im Stehen,
+    ob die Frau im Haus und ob sie wohlauf ist, und setzt sich erst, als beides
+    beantwortet ist. **Er nennt die Reihenfolge seiner Gruende selbst:** *"I am not
+    giving you the name because you got her out. I am giving it to you because I
+    signed forty-four payments and stopped asking about them in 2016."*
+  - **DER NAME: Choi Dae-ho.** Der Trust wurde in der **zweiten Maerzwoche vor elf
+    Jahren** gestiftet, der Stifter kam persoenlich, blieb etwa zwanzig Minuten,
+    brachte keinen Anwalt und brauchte keinen.
+  - **DIE ZWEI KORREKTUREN, und sie sind das Zentrum des Kapitels.** Erstens: der
+    Treuhaender darf **nicht verpflichtet werden, die Beguenstigte ueber ihre
+    eigene Beguenstigung zu informieren.** Zweitens: **die Zahlungen koennen von
+    ihm nicht gestoppt werden** - nicht vom Nachlass, nicht von einem Nachfolger,
+    nicht per Vollmacht. *"Him, personally, in his lifetime."*
+  - **Baeks eigenes Urteil nach elf Jahren, und er faellt es ausdruecklich nicht:**
+    *"It is either the only decent thing that man has ever done, or the most
+    complete thing I have ever seen one person do to another. It is possible that
+    there is no difference."*
+  - **DAS SCHLIMMSTE IN DER AKTE ist eine Adressaenderung.** Die stehende Anweisung
+    wurde **genau einmal** geaendert, in der **zweiten Februarwoche vor vier
+    Jahren** - **derselbe Monat, in dem Ahn Jung-hee in das Haus kam.** Baek:
+    *"Somebody put them under one roof to save on a heating bill."* **Damit ist
+    auch die Sauerstoffmeldung vom Juli desselben Jahres (Kapitel 44) eingeordnet:
+    sie kam im Februar, das Geraet im Juli.**
+  - **Annies Lesart am Abend, und sie ist die Klammer zu Woos Satz vom 18.
+    September:** ihr Vater hat einen Mann aus einem Dienst geholt, indem er ihm
+    **eine Sache gab, die er nicht rueckgaengig machen konnte.** Elf Jahre spaeter
+    baut derselbe Mann sich in zwanzig Minuten genau das - **gegen sich selbst, in
+    Schriftform, haltbar gegen die einzige Person, die es je brechen wollen wuerde.**
+  - **Und Georgijs Antwort auf die Frage, ob ihn das besser macht:** *"No. It makes
+    him legible."* Zum ersten Mal in acht Monaten liegt ein Dokument auf einem
+    Tisch, in dem Chois **Absicht** steht.
+
+- **Band 2, Kapitel 88** *The invitation* (v1.0) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
+
+  **Nachgetragen und inhaltlich geprueft am 26.08.**
+  - **Die Einladung kommt per Hand**, vier Zeilen, ohne Absender, fuer den naechsten
+    Abend, und sie erwaehnt nichts. **Choi weiss seit etwa dem 28. Oktober**, weil
+    das Namensfeld auf dem Formular nicht optional ist, und hat acht Tage lang
+    nichts damit getan, ausser herauszufinden, wie man ihr schreibt.
+  - **Annie entscheidet in vier Minuten und nennt drei Gruende, von denen nur der
+    dritte der Grund ist:** *"He has never in his life had to ask anybody for
+    anything, and I am going to walk into a room and ask him for something in front
+    of two witnesses."*
+  - **Choi Dae-ho steht auf, neunundfuenfzig, und ist der Einzige im Raum ohne Glas
+    in der Hand.** Sein erster Satz ist die Formel im Original: **"It has been very
+    good to see you again."** Sie ist in neun Monaten aus vier fremden Muendern
+    gekommen, und keiner der vier wusste, woher er sie hatte.
+  - **Er stellt ihr in zwei Stunden keine einzige Frage ueber sie selbst.** Er
+    erzaehlt ihr stattdessen von den Fotografien ihres Vaters, die er nie gesehen
+    hat, und von einem Mittagessen im Fruehjahr 2002. **Jedes Wort davon ist wahr.**
+  - **Annie sagt das Ganze in neun Minuten**, in der Reihenfolge, vor jeder Bitte.
+    Baek Jun-hos Namen nennt sie nicht und muss ihn nicht nennen.
+  - **CHOIS ANTWORT IST DAS EINZIGE, WAS ER JE TUT, und sie kommt vor der Bitte:**
+    Moon Hae-sook wird am 12. verlegt, ein Platz bei Chuncheon mit Nachmittagsgarten,
+    **und das Personal dort hat ihre Akte seit der zweiten Augustwoche.**
+  - **AUGUST IST VOR ALLEM.** Vor dem Brief, vor dem Formular, vor dem Preis, vor
+    den acht Tagen, **vor dem Tag, an dem irgendwer in dem Haus wusste, dass Moon
+    Hae-sook einen Namen hat.** *"It was arranged before it could be asked for. It
+    is always arranged before it can be asked for."*
+  - **Sie fragt trotzdem, in einem vollstaendigen Satz** - *"I want her"* - und
+    bekommt *"You may have her"*, ohne Bedingungen, ohne Gegenleistung, ohne
+    Papier. **Der Trust zahlt weiter, weil Choi ihn nicht stoppen kann:** *"It was
+    not built for this."*
+  - **Und die Zeile an Georgij, die keine Drohung ist und nicht dazu gemacht werden
+    kann:** *"You went to Mapo on the fourth of September. That was correct. If you
+    had gone in March I would have moved them both in April."* Dann noch einmal die
+    Formel, diesmal an ihn.
+  - **IM WAGEN FAELLT DIE ENTSCHEIDUNG DES BANDES.** Georgij nennt sie mit Datum,
+    damit er sie im Januar nicht umdeuten kann: am 23. April hat er in Yeouido
+    gesagt, er werde Choi vor Jahresende haben. **Er wird ihn nicht haben.** *"He
+    does not own anything... I have spent eight months looking for the document and
+    the document is a kindness."*
+  - **Annies Schlusssatz ist der haerteste des Bandes:** *"You will spend the rest
+    of your life knowing that he could have been asked in August and would have said
+    yes, and that nobody asked. That is the entire mechanism, and there is no
+    version of it in which he is at fault for it."*
+
+- **Band 2, Kapitel 89** *What became of them* (v1.0) - **Tag 404 bis 411, Mi 11. bis Mi 18. November. Vier Menschen bekommen das Ganze, und keiner will den Teil, den er acht Monate gebaut hat.**
+
+  **Nachgetragen und inhaltlich geprueft am 26.08.**
+  - **Moon Hae-sook kommt am Mittwoch** und es dauert den ganzen Tag, weil ein
+    Mensch am Sauerstoff anders reist. Ahn Jung-hee faehrt mit und hat **Mrs Seo
+    darum gebeten und nicht Annie.** Am Stufenrand steht sie auf und geht allein
+    hinein, und niemand hilft ihr, **weil Ahn Jung-hee im Hof gesagt hat, dass sie
+    das nicht wollen wuerde.**
+  - **Ihr erster Satz in dem Haus ist eine Zugluft:** *"There is a draught under
+    this door. It is cold on the left ankle and not the right one."* Mrs Seo holt
+    eine Rolle, bevor sonst jemand im Raum den Satz verstanden hat.
+  - **Sie fragt vier Tage lang nicht, was jetzt geschieht**, und Georgij schreibt
+    auf, warum: *"Eleven years have taught her that a question produces a lie.
+    Nobody in this house has worked out yet that not asking is not the same as not
+    wanting to know."*
+  - **Am Montag fragt sie doch, und zwar ihn:** *"You are the one who found me.
+    Then you will know what became of them."* **Zweiundsechzig Einladungen. Er hat
+    vier davon**, und er sagt vorher, welche Teile er sicher weiss, und beschreibt
+    niemanden, den er nicht gesehen hat.
+  - **Die vierte ist Mrs Ha**, die die Blumen und die Waesche fuer die Hochzeit
+    gemacht hat und dreissig Jahre lang ein Geschaeft in Mapo hatte. Sie hat es vor
+    vier Jahren verloren. **Moon Hae-sooks einziger Kommentar:** *"She did the
+    flowers for my mother."*
+  - **Ihr Auftrag, in ihren Worten und nicht in seinen:** *"That I asked what became
+    of her, and that I asked in November. And that I did not ask anybody about the
+    ribbon."*
+  - **Mrs Ha laesst ihn den zweiten Teil zweimal sagen**, sagt, sie habe elf Jahre
+    lang jeden Maerz an das Maedchen gedacht und nie ein Wort darueber verloren, und
+    **faengt jetzt nicht damit an.** Dann vierzig Minuten Tee ueber das Gewerbe.
+    **An der Tuer gibt sie ihm das Durchschlagbuch fuer den Fruehling jenes Jahres.**
+  - **Mrs Sunwoo, einundachtzig, hoert fuenfzig Minuten zu und unterbricht kein
+    einziges Mal.** Ihr Satz danach: *"You have not told me the part where you did
+    something clever."* - *"There is not one."* - **"No. There is not, and I have
+    been waiting for it for fifty minutes, and I want you to notice that I had to
+    wait."**
+  - **SIM STELLT DIE EINZIGE FRAGE, DIE ER JE GESTELLT HAT:** *"Was I good at it."*
+    Und bekommt die Antwort ohne Bedenkzeit, weil Bedenkzeit eine Entscheidung
+    ueber den Wortlaut gewesen waere: *"You were the best I have ever seen."*
+    **Seine Quittung darauf:** *"No. It is the bill."* Dann giesst er den Tee ein,
+    den er auf die Minute getimt hat, und bittet ihn, im Fruehjahr zu kommen, **und
+    nicht fuer etwas.**
+  - **Und der Ertrag des Kapitels steht am Schluss im Notizbuch:** *"Four people
+    this month have had the whole of it from me, and none of them wanted the part I
+    had spent eight months building."* **Achtundfuenfzig Namen stehen hinten im
+    Buch und das wird Jahre dauern.**
+
+- **Band 2, Kapitel 90** *The weapon* (v1.1) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
+
+  **Nachgetragen und inhaltlich geprueft am 26.08.**
+  - **Zwei Menschen mehr im Haus, und es hat alles veraendert, und niemand hat es
+    gesagt.** Vier Abendessen statt zwei, eines davon weich und auf einem Tablett.
+    Mrs Seo steht seit dem Elften zwanzig Minuten frueher auf und erwaehnt es nicht.
+    **Die zweite Lieferung am zweiten Dienstag, und der Mann klopft zweimal und
+    kommt herein - weil jemand es im Wagen am 2. November gesagt hat.**
+  - **Ahn Jung-hee war zweimal in Gangnam-gu**, beim zweiten Mal vier Stunden, und
+    kam mit Oel am Aermel eines fremden Mantels zurueck. **Niemand fragt.**
+  - **Sie loest die elf Sekunden aus Kapitel 87 selbst ein**, in einem Gang, weil es
+    keinen besseren Ort geben wird: sie hat falsch geraten, wer entschieden hat.
+    Und dann die Bitte, die nur er erfuellen kann: *"He has never in his life said a
+    thing like that out loud. I would like it noted by somebody that he did, and
+    there is nobody in this house who would know that it was unusual."*
+  - **Annies drei Wochen, und nichts davon zeigt sich.** Sie geht seit dem 10.
+    November nicht mehr ans Ende der Gasse, was sie vier Jahre lang zweimal die
+    Woche getan hat, **und sagt nicht warum und niemand fragt.** **Woo ist seit dem
+    5. Oktober nicht in dem Haus gewesen** und hat am 3. November einmal angerufen,
+    eine Frage gestellt und aufgelegt: ob die Frau draussen ist.
+  - **Georgij schlaeft seit dem 2. November nicht**, und der Grund ist keiner, den
+    jemand raten wuerde. **Es gibt nichts mehr zu bauen.**
+  - **Und dann der Grund darunter, und er braucht acht Sekunden:** die vierzehn Tage
+    im Maerz, in denen eine Frau mit vier Lastwagen etwas aufgehoben und auf Annie
+    gerichtet hat, **und das Aufgehobene war er.** Er hat es seit dem 3. April
+    gewusst und zweimal ruhig als Tatsache ausgesprochen.
+  - **Er korrigiert sich mitten im Satz, weil er hoert, dass es nicht stimmt**, und
+    verweigert ausdruecklich die Zahl: *"giving you the number would be the fourth
+    cleverest thing I have done this year."* Dann der Rest: **"If the world points
+    anything at you at all, I will burn the world down."**
+  - **DIE ZEILE DES BANDES STEHT**, unter Erschoepfung, an einem Schreibtisch, nach
+    drei Wochen ohne Schlaf, und sie ist nicht die Geste aus dem Ballsaal:
+    **"You are such a beautiful, strong woman. Thank you for buying me."** Annie
+    antwortet nicht mit Worten, sondern legt die Hand zurueck in sein Haar.
+  - **Der letzte Absatz des Bandes ist ein Ventilator**, der seit dem 15. September
+    in einer Werkstatt laeuft und den niemand abgestellt hat, **und die Frau, fuer
+    die er repariert wurde, war seither zweimal in dem Raum und hat ihn auch nicht
+    erwaehnt.**
 
 ---
 
