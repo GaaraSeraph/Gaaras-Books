@@ -77,7 +77,7 @@ Since May she has taken on every one of the former employees of it and given the
 
 ---
 
-Mr Hwang was offered work in October and it is a long way beneath him. He was told in April that it would be, in his own office, by a man who did not know then who it would come from.
+Mr Hwang was offered work in October and it is a long way beneath him. He was told in May that it would be, in his own office, on a Monday, by a man who did not know then who it would come from.
 
 ---
 

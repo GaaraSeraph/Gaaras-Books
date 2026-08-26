@@ -3061,7 +3061,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch85:36 | Mr Hwang telephoned it through and did not dress it. |
 | 3 | b2ch85:134 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
 | 8 | b2ch86:66 | The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. T.. |
-| 19 | b2ch90:80 | Mr Hwang was offered work in October and it is a long way beneath him. He was told in Ap.. |
+| 19 | b2ch90:80 | Mr Hwang was offered work in October and it is a long way beneath him. He was told in Ma.. |
 | 19 | b2ch90:118 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Hwang

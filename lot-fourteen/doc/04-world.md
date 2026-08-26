@@ -456,7 +456,7 @@ ersten Treffen, in seinem eigenen Buero:
 > take it, and you will do it properly because you cannot do anything the other
 > way."*
 
-Sechs Monate zwischen dem Satz und dem Angebot. **Georgij wusste im April
+Fuenf Monate zwischen dem Satz und dem Angebot. **Georgij wusste im Mai
 nicht, von wem es kommen wuerde**, und der Text sagt das ausdruecklich, weil
 die Prophezeiung sonst wie ein Plan aussaehe. Hwang hat nicht geantwortet, es
 ist nicht zurueckgezogen, und er ist der einzige, der schliessen kann, was von

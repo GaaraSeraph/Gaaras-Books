@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 320.029 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 320.185 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -3014,10 +3014,26 @@ will nicht bestaetigt haben, dass sie zwei Lose in dem Haus gekauft hat. Seit
 Mai nimmt sie deshalb saemtliche ehemaligen Angestellten bei sich auf,
 innerhalb von vierzehn Tagen, ohne je zu sagen warum. **Ausser einem.**
 
-**Mr Hwang** bekommt im Oktober ein Angebot, das weit unter seiner Wuerde ist.
-Er hat nicht geantwortet und es ist nicht zurueckgezogen, und er ist der
-einzige, der schliessen kann, was von dem Haus uebrig ist. **Beide wissen
-beides.**
+**Mr Hwang** bekommt im Oktober Arbeit angeboten, die weit unter seiner Wuerde
+ist - **und das ist die Einloesung eines Satzes aus Kapitel 21**, aus dem
+ersten Treffen, in seinem eigenen Buero:
+
+> *"You will not be given another house. You are going to be given work by
+> somebody eventually and it is going to be beneath you, and you are going to
+> take it, and you will do it properly because you cannot do anything the other
+> way."*
+
+Fuenf Monate zwischen dem Satz und dem Angebot. **Georgij wusste im Mai
+nicht, von wem es kommen wuerde**, und der Text sagt das ausdruecklich, weil
+die Prophezeiung sonst wie ein Plan aussaehe. Hwang hat nicht geantwortet, es
+ist nicht zurueckgezogen, und er ist der einzige, der schliessen kann, was von
+dem Haus uebrig ist.
+
+**Und eine Werkzeuglehre:** ich habe die Stelle nicht gefunden, weil sie das
+Wort *offer* nicht benutzt, und habe sie deshalb in K81 noch einmal
+geschrieben. Der Autor hat sie in K21 gefunden. **Wer im Text nach einem
+Begriff sucht, findet die Stellen, die ihn benutzen, und uebersieht die, die
+ihn umschreiben** - und in diesem Buch umschreibt fast alles.
 
 **Und was der Text ausdruecklich nicht sagt.** Der Autor am 26.08.: *"Schliesst
 ihn nicht ein ist eine nette Beschreibung fuer sie hat einige Auftragsmoerder
@@ -25250,7 +25266,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch85:36 | Mr Hwang telephoned it through and did not dress it. |
 | 3 | b2ch85:134 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
 | 8 | b2ch86:66 | The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. T.. |
-| 19 | b2ch90:80 | Mr Hwang was offered work in October and it is a long way beneath him. He was told in Ap.. |
+| 19 | b2ch90:80 | Mr Hwang was offered work in October and it is a long way beneath him. He was told in Ma.. |
 | 19 | b2ch90:118 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Hwang
