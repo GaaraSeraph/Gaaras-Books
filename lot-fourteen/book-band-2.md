@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.920 Woerter.
+Book Two, 89 Kapitel, 219.926 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -62,7 +62,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 49 | v1.3 | 2.023 |
 | 50 | v2.6 | 2.914 |
 | 51 | v1.3 | 2.103 |
-| 52 | v1.6 | 3.096 |
+| 52 | v1.7 | 3.097 |
 | 53 | v1.4 | 2.481 |
 | 54 | v1.3 | 2.826 |
 | 55 | v1.3 | 2.042 |
@@ -73,11 +73,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.3 | 2.443 |
 | 61 | v1.6 | 2.327 |
 | 62 | v1.10 | 2.499 |
-| 63 | v1.7 | 2.139 |
-| 64 | v1.7 | 2.276 |
+| 63 | v1.8 | 2.146 |
+| 64 | v1.8 | 2.278 |
 | 65 | v1.6 | 2.130 |
 | 66 | v1.3 | 2.096 |
-| 67 | v1.8 | 2.567 |
+| 67 | v1.9 | 2.563 |
 | 68 | v1.3 | 2.451 |
 | 69 | v1.4 | 2.944 |
 | 70 | v1.1 | 2.275 |
@@ -11095,7 +11095,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 52: Against her return
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -11259,7 +11259,7 @@ Georgij did not say that out loud. He wrote it on the back of the envelope after
 
 "There is one more thing," said Georgij, "and then you have everything I have."
 
-Sim straightened his cuff.
+Sim did not tell him to stop.
 
 "That house had no oxygen in it until the July on that invoice." He said it without arranging it at all. "A tank in a private house has to be told to the fire authority. The filing is one event. There is nothing before it. It has never been renewed as new and it has never been cancelled."
 
@@ -11289,7 +11289,7 @@ He had arranged that household for eleven years and had never once been given a 
 
 "I am going to, and then I will stop." He did not soften any of it. "A man who is told she is worse has an explanation for a doctor, a tank, four more staff and a flat. It covers every fact he can see. It is the only one he was ever offered."
 
-"Then I will have the rest of it, because half of this is worse than none."
+"You will not stop in the middle. Half of this is worse than none."
 
 "You did not fail to work it out. You were answered before you had a question."
 
@@ -13482,7 +13482,7 @@ He waited.
 ---
 
 # Book Two · Chapter 63: One sentence
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Twenty-Six · Tuesday 25 August
 
@@ -13648,7 +13648,7 @@ He had spent seven minutes looking for the one thing he owns that nobody could h
 
 "There is one more thing you should decide before I take it."
 
-Mr Ahn wiped his hands on the cloth.
+Mr Ahn turned the pump a quarter turn on the bench and left it there.
 
 "If she works it out, she will know that you are looking for her." Georgij held his eye. "That is four years of a man not stopping, delivered to a woman who arranged her own consignment in four days so that he would not have to carry it. She may not be glad."
 
@@ -13707,7 +13707,7 @@ He wrote the last line standing outside the car, because he could not do it sitt
 ---
 
 # Book Two · Chapter 64: The one who orders
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Twenty-Eight · Thursday 27 August
 
@@ -13811,7 +13811,7 @@ Sim went very still.
 
 "I do not know."
 
-"You have not written one down, and that is the one I am asking for."
+"There is one you have not written down, and that is the one I am asking for."
 
 Georgij looked at him.
 
@@ -14292,7 +14292,7 @@ Then he wrote the last line, which is not evidence and is not for anybody, and w
 ---
 
 # Book Two · Chapter 67: Four hundred and one
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Thirty-Six · Friday 4 September
 
@@ -14530,7 +14530,7 @@ He got into the car at eleven minutes past twelve and Jang did not start the eng
 
 "She has not telephoned anybody yet."
 
-"Without a number that is not worth anything."
+"Not without a number."
 
 "Sixty per cent, and I am telling you the number because it is a guess and I am telling you it is a guess." Georgij put the notebook on his knee and did not open it. "She has had eleven years of thinking she was being decent. A woman does not go straight to the telephone from that."
 

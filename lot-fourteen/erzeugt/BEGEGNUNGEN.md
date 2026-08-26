@@ -2588,7 +2588,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch52:178 | "I know you have. She told me." Sim did look up then. "She told me exactly what you look.. |
 | 5 | b2ch52:188 | Sim put both hands flat on the table on either side of the page. |
 | 5 | b2ch52:196 | "It is not hers," said Sim. |
-| 5 | b2ch52:224 | Sim straightened his cuff. |
+| 5 | b2ch52:224 | Sim did not tell him to stop. |
 | 5 | b2ch52:230 | Sim did not move for a long moment. |
 | 5 | b2ch52:242 | Sim put one hand flat on the table beside the page and left it there. |
 | 5 | b2ch52:266 | Sim was quiet for about four seconds. |
@@ -3339,7 +3339,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 29 | b2ch63:184 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
 | 29 | b2ch63:190 | "Nobody knows that," said Mr Ahn. "My wife's family don't. The woman from the noodle pla.. |
 | 29 | b2ch63:200 | "She'll hear the whole of it in about a second and a half." Mr Ahn said it without any p.. |
-| 29 | b2ch63:204 | Mr Ahn wiped his hands on the cloth. |
+| 29 | b2ch63:204 | Mr Ahn turned the pump a quarter turn on the bench and left it there. |
 | 29 | b2ch63:210 | Mr Ahn thought about that for a long moment, and it was not the seven minutes and it was.. |
 | 29 | b2ch63:230 | Mr Ahn looked at him. |
 | 29 | b2ch63:240 | "How long," said Mr Ahn. |

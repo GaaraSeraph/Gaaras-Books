@@ -1,5 +1,5 @@
 # Chapter 52: Against her return
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -221,7 +221,7 @@ Georgij did not say that out loud. He wrote it on the back of the envelope after
 
 "There is one more thing," said Georgij, "and then you have everything I have."
 
-Sim straightened his cuff.
+Sim did not tell him to stop.
 
 "That house had no oxygen in it until the July on that invoice." He said it without arranging it at all. "A tank in a private house has to be told to the fire authority. The filing is one event. There is nothing before it. It has never been renewed as new and it has never been cancelled."
 
@@ -257,7 +257,7 @@ He had arranged that household for eleven years and had never once been given a 
 
 "I am going to, and then I will stop." He did not soften any of it. "A man who is told she is worse has an explanation for a doctor, a tank, four more staff and a flat. It covers every fact he can see. It is the only one he was ever offered."
 
-"Then I will have the rest of it, because half of this is worse than none."
+"You will not stop in the middle. Half of this is worse than none."
 
 "You did not fail to work it out. You were answered before you had a question."
 
