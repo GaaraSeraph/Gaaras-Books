@@ -1,5 +1,5 @@
 # Chapter 38: Tell him or ask him
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -31,7 +31,7 @@ Sang-hoon made the sound again that was almost a laugh.
 
 "A private room at a place near Sinsa that does not exist any more, because the owner sold up in the spring. I remember the food and I remember losing forty thousand won at cards I do not remember agreeing to play." He said it without any weight in it at all. "And I remember that it was Y who suggested the cards, because it is not a thing he usually does, and I noticed it and then forgot to keep noticing it, which I understand now is the entire method."
 
-"Say the whole name."
+"The whole name."
 
 "Yeom," said Sang-hoon. "The man who used to own the auction house on the river. You have met him, which is why I thought of him at all."
 

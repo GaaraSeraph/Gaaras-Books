@@ -1,41 +1,75 @@
-Book Two · Chapter 43: A shape the size of a person
-Lot Fourteen · Version 2.2 · EN
+# Chapter 43: A shape the size of a person
+*Lot Fourteen* · Version 2.3 · EN
 
-Day Two Hundred and Seventy-Three · Friday 3 July
+## Day Two Hundred and Seventy-Three · Friday 3 July
 
 He had promised Sang-hoon an answer at the end of May, and it was July before he had one worth giving.
 
+---
+
 Georgij spread three things across the small room's desk before Annie was even awake. The restaurant's reservation book, copied out over two evenings in June and handed back exactly when he had said he would. Byun's folded sheet, read so many times the crease in it had gone soft. And the notebook, open at a page he had left blank on purpose in May.
+
+---
 
 The reservation book gave him tables, not names. A table booked under one initial, a time, and sometimes a note about who had paid and who had not.
 
+---
+
 He had already found Y in it, a fortnight ago, sitting at a table with a companion who ate while Choi Dae-ho never came at all. That one was finished. Yeom had been cleared, and the companion still had no name.
+
+---
 
 Three letters remained, and he had spent the whole of Thursday on the first two.
 
-S. 8pm. March, four years ago. The same spring, Georgij now saw, as the auction where lot six was kept open until midnight with no clearing behind it.
+---
+
+*S. 8pm. March, four years ago. The same spring, Georgij now saw, as the auction where lot six was kept open until midnight with no clearing behind it.*
+
+---
 
 He had written that line in May and left it alone since, because a single date without a second one to check it against was not a fact. It was a guess dressed as one, and he had learned this year what that costs.
 
+---
+
 The second date changed it from a guess into something he could stand behind.
 
-H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a house that was already dying and did not know it yet.
+---
+
+*H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a house that was already dying and did not know it yet.*
+
+---
 
 He sat back and read the two lines together, the way Mrs Jeon had taught him to read a column instead of a single figure. One line proves nothing. Two lines, laid side by side, either agree with each other or they do not, and either answer is worth having.
 
+---
+
 Byun's sheet was the reason he trusted the second line at all. A single word on it, half the name of a delivery firm, matched a line in the reservation book he had not been looking for. It named a driver sent to the same address, that same October. Two documents that had never been meant to sit next to each other agreed anyway. That was the closest thing to proof he was going to get without asking somebody who could still be hurt by the answer.
+
+---
 
 Four years ago in March. Three years after that in August. Two tables, two hours, and between them the exact stretch of time it had taken the house's secret to outgrow what Sang-hoon could carry alone. By October it needed a stranger's hands on it.
 
+---
+
 He did not think that was a coincidence. He had spent enough of this year finding out what a coincidence actually looks like to know the difference, and this was not one. This was two ends of the same rope, and he had been holding both without noticing they were already tied together.
+
+---
 
 K gave him nothing at all.
 
+---
+
 He went through the reservation book twice more, once by initial and once by table number, and found no third letter in the same hand at the same restaurant in the four years the book covered. Either K had eaten somewhere else entirely, or K had not eaten anywhere.
+
+---
 
 He wrote that down as well, because a list that only shows what was found is a worse list than one that shows what was looked for and was not there. Mrs Jeon had taught him that too, without meaning to, the first time he saw forty lines in an exercise book that were records and not accusations.
 
-K. Nothing in the book, in four years of it. Try somewhere that keeps no book at all.
+---
+
+*K. Nothing in the book, in four years of it. Try somewhere that keeps no book at all.*
+
+---
 
 He closed the notebook a little after nine and telephoned Sang-hoon before he could decide that a Friday morning was the wrong time for it.
 
@@ -43,7 +77,7 @@ He closed the notebook a little after nine and telephoned Sang-hoon before he co
 
 "Say them where I can hear your face as well as your voice."
 
-———
+* * *
 
 Jang telephoned at half past twelve, before Georgij had left for the restaurant, and said the word before he said anything else.
 
@@ -53,15 +87,19 @@ Jang telephoned at half past twelve, before Georgij had left for the restaurant,
 
 "The rota is nine people," said Jang. "Four cars, morning and evening, two of them carrying two. I have counted that on four separate mornings and it has been nine every time. Two of the nine are the same two who do the Wednesday night, so a Wednesday is nine plus nobody and not ten."
 
-"Go on."
+"And the delivery."
 
 "The Friday delivery is a standing order. The grocer's man told me the number himself, in a lay-by, while he was eating, and I did not ask him for it." Jang paused in the way he does when he is making sure of a sentence before he hands it over. "It feeds more than nine, and it has fed more than nine every Friday I have watched. Not double. One person's worth more, near enough, and the same amount every week."
 
+---
+
 Georgij stood with the receiver against his ear and did not write anything down yet.
 
-"Say the part you have not said."
+"The part you have not said."
 
 "He has been on that round for six years, and he said it without me asking, because a man talks about the odd houses." Jang took a breath. "The standing order went up once in six years. It went up in the summer four years ago and it has never gone back down."
+
+---
 
 Neither of them said anything for a moment. Georgij could hear a road behind Jang, and a bird, and a man breathing carefully because he had just said a thing and did not want to decorate it.
 
@@ -71,6 +109,8 @@ Neither of them said anything for a moment. Georgij could hear a road behind Jan
 
 "I have been standing here for two hours deciding whether to telephone at all, and what I do not have is whether you have it in the right size."
 
+---
+
 Georgij put his hand flat on the wall beside the telephone.
 
 "A house that feeds nine people feeds ten," he said. "It has done since the summer four years ago, and the tenth one did not arrive in a car this morning and has not arrived in a car on any morning you have watched. That is not proof of a person. It is a shape the size of one."
@@ -79,33 +119,49 @@ Georgij put his hand flat on the wall beside the telephone.
 
 "Then it is enough for today, and it is more than anybody has had in eleven years. You got it out of a man eating his lunch in a lay-by, without going one metre closer to that gate than you already were."
 
+---
+
 Jang did not say anything to that, which is how he takes it when somebody has noticed.
 
 "Two more weeks and I can give you the other word," he said.
 
 "Take the two weeks."
 
+---
+
 He rang off, and Georgij stood in the corridor for a while with his hand still on the wall.
+
+---
 
 Four years ago in July a doctor drove a long way to see a patient who was written down as a lot number. Four years ago in the same summer a standing order at a grocer's went up by one person and never came down.
 
 Two men who have never met, neither of whom knows what he is holding, describing the same arrival from two sides of a wall.
 
+---
+
 He wrote it down and then did the harder thing, which was to decide what to do with it before he walked into a restaurant.
 
-Not tonight. He has had Sim for three days and he has held it, and a man who is holding one thing for me does not get a second one on Friday to find out whether he can carry both.
+---
 
-And it is not his road. She said that in front of Jang on the twenty-first and she was right. The first thing to come off that house in eleven years does not get spent on a man who cannot use it.
+*Not tonight. He has had Sim for three days and he has held it, and a man who is holding one thing for me does not get a second one on Friday to find out whether he can carry both.*
+
+*And it is not his road. She said that in front of Jang on the twenty-first and she was right. The first thing to come off that house in eleven years does not get spent on a man who cannot use it.*
+
+---
 
 He put the notebook in the drawer that does not lock and went to get the car.
 
-———
+* * *
 
 They met at the same table as Tuesday, because Sang-hoon had said on the telephone that a place which had already carried one hard conversation could carry a second one without anybody at the next table noticing the difference.
+
+---
 
 He did not open a folder this time. He sat with both hands around a cup he was not drinking from and waited for Georgij to start.
 
 "S. Eight in the evening, in March, four years ago," said Georgij. "The same spring as the auction that lost the fourth line."
+
+---
 
 Sang-hoon's face did not move, and that itself was the answer, because his face had moved for every other thing Georgij had brought him this year.
 
@@ -115,11 +171,15 @@ Sang-hoon's face did not move, and that itself was the answer, because his face 
 
 "H. Half past seven, in August, three years after the first. Six weeks before a man called Hwang was brought into a house that did not yet know it was dying."
 
+---
+
 Something moved in him then that had not moved for the first date.
 
-"Say that again. The distance, not the month."
+"Again. The distance, not the month."
 
 "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrived. I do not know the day of your dinner, so I counted backward from the one date I was sure of."
+
+---
 
 Sang-hoon set the cup down without having drunk from it once.
 
@@ -128,6 +188,8 @@ Sang-hoon set the cup down without having drunk from it once.
 "You did not know Hwang was coming."
 
 "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He looked at Georgij for a long moment. "I made a decision at that table last August and have been calling it small ever since. You have just told me it was the last small decision before somebody decided that small was not going to work anymore."
+
+---
 
 Georgij did not offer him anything to soften that, because there was nothing true he could have offered instead.
 
@@ -139,7 +201,11 @@ Georgij did not offer him anything to soften that, because there was nothing tru
 
 "Find where a man decides something when there is no table and no bill to prove he was ever there." Sang-hoon stood, and left money for a lunch neither of them had eaten again. "I have carried that August for the better part of a year without knowing it was six weeks. I did not expect the man who finally counted them to be you."
 
+---
+
 He went, and Georgij sat alone with the notebook open at a page that had two finished lines and a third one waiting on nothing.
+
+---
 
 Annie was in the small room when he came back, going through a delivery ledger of her own, and she did not look up until he had closed the door.
 
@@ -161,14 +227,24 @@ Annie was in the small room when he came back, going through a delivery ledger o
 
 "You did not ask before. You are asking the right question now, which is a different thing from asking a kind one, and I would rather you keep asking the right one." She went back to her own ledger, and did not say anything further about her father that morning.
 
+---
+
 He wrote it down before he sat, because the sentence was better than anything he could have improved by waiting.
+
+---
 
 He thought about the two dates he had already closed, and about how neither of them had needed him to walk into a room and demand anything. A reservation book, a folded sheet, a delivery record nobody had thought worth protecting. Small paper, kept honestly by people who had no reason to lie about a table number, had done more than a single confrontation ever could have.
 
+---
+
 K would not be like that, and he understood why the moment Annie said it aloud. A golf course keeps a membership list and a tee time, not a conversation. A private room keeps a booking and a bill for the towels, not the four sentences said inside it. Whatever K had decided, it had been decided in a place built precisely so that being there proved nothing at all.
+
+---
 
 He did not take that as a reason to stop. He took it as a description of the work still ahead: no single document would settle K, the way one line each had settled S and H. He would need two or three small facts, unconnected on paper, that turned out to agree with each other by accident. Byun's driver and Sang-hoon's dinner had done exactly that, agreeing with each other before either paper knew the other one existed, and he did not see why the same patience would fail him a third time.
 
-K decided something somewhere that looks like leisure and is not. Try the places nobody keeps a book about, because nobody thought they needed one.
+---
 
-Two anchors now instead of one. The distance between them is not an accident, and I do not think the distance to K will be either, once I find where to start counting from.
+*K decided something somewhere that looks like leisure and is not. Try the places nobody keeps a book about, because nobody thought they needed one.*
+
+*Two anchors now instead of one. The distance between them is not an accident, and I do not think the distance to K will be either, once I find where to start counting from.*

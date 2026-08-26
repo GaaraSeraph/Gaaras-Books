@@ -1,5 +1,5 @@
 # Chapter 42: The evenings he lost nothing at
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
@@ -153,8 +153,6 @@ Sang-hoon took that better than Georgij had expected, and worse than he let it s
 
 "I have had a week longer because a registry does not care how impatient either of us is." Sang-hoon set a folder down between them and did not open it yet. "I am going to tell you what it took to get this before I tell you what it says, because the first part explains why you are not going to like how long the second part took."
 
-"Say it."
-
 "Four owners is not four names," said Sang-hoon. "It is four holding companies, each one owning the company below it, and the bottom one owning the land. Three of the four are registered in this country and exist for no reason except to own the company beneath them. They have no offices. They have no other business. They file exactly the paperwork the law requires and not one page more."
 
 "And the fourth."
@@ -173,7 +171,7 @@ Georgij went very still.
 
 Georgij did not answer that directly, and Sang-hoon did not press him on it, which was itself a kind of answer.
 
-"Say the solicitor's full name."
+"The solicitor's full name."
 
 "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because I did not want to hand you a coincidence and have you build a theory on it." Sang-hoon's voice did not change. "He has no history with the trade you have been working in. He administers trusts for people who want their names kept off paper, which in this country is a legitimate profession and a crowded one. He has never once been investigated for anything, because being investigated is the one thing a man in his line of work cannot survive twice."
 
@@ -185,11 +183,11 @@ Georgij did not answer that directly, and Sang-hoon did not press him on it, whi
 
 "I know you were not. I am telling you anyway, because you have gone to other offices this year on less provocation than this, and I would like it on the record that I said so before you did anything, not after."
 
-"Say what the man looks like."
+"What the man looks like."
 
 "Sixty-three, according to the bar association's own photograph, which is eleven years old and probably flattering. Married, no children the record shows, a house in Seongbuk-dong he has owned since before the trust existed." Sang-hoon said it the way a man reads a shopping list. "Nothing about him suggests he has ever once needed the money. That is either the most honest fact in the whole file or the most carefully arranged one, and I have not decided which."
 
-"Say why that actually matters."
+"Why that actually matters."
 
 "Because a man who does this for money can be bought back out of it," said Sang-hoon. "A man who does it because he has decided it is simply his profession, the way another man decides to be a surgeon, cannot be bought at all. You can only wait for him to retire or die, and I do not know his age well enough to tell you which comes first."
 

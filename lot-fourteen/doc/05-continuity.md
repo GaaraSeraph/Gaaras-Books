@@ -1950,7 +1950,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *An empty table* (v2.2) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *An empty table* (v2.3) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -1967,7 +1967,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
 
-- **Band 2, Kapitel 37** *The one who asked a question* (v2.5) - **Tag 251, Do 11. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
+- **Band 2, Kapitel 37** *The one who asked a question* (v2.6) - **Tag 251, Do 11. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
 
   **Mrs Jeons erster Tag bei Gwangyang, und sie beginnt ihn, indem sie eine fremde Schuld begleicht statt der eigenen Arbeit.** Der Brief, den sie Hwang in Kapitel 32 versprochen hat, kommt mit Gwangyang-Poststempel am selben Morgen: *"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."*
 
@@ -1979,7 +1979,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
-- **Band 2, Kapitel 38** *Tell him or ask him* (v2.6) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+- **Band 2, Kapitel 38** *Tell him or ask him* (v2.7) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
 
   **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
 
@@ -1991,7 +1991,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
-- **Band 2, Kapitel 39** *The man kitchens talk to* (v2.4) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+- **Band 2, Kapitel 39** *The man kitchens talk to* (v2.5) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
 
   **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
 
@@ -2001,7 +2001,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
 
-- **Band 2, Kapitel 40** *Somebody who did not arrive in a car* (v2.8) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
+- **Band 2, Kapitel 40** *Somebody who did not arrive in a car* (v2.9) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
 
   **Jangs Bericht nach sechzehn Beobachtungstagen, und Annie gibt ihm dafuer den ganzen Vormittag - ungewoehnlich fuer einen Bericht, den man im Stehen abliefern koennte.** Er hat das Grundstueck nicht betreten: *"I have not been onto the property. I have not spoken to anybody who works there ... I do not go past a line I have not been given."*
 
@@ -2013,7 +2013,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss gehoert Jang, nicht Georgij:** *"The light was on when I left this morning. She was awake before six."* Kein Kommentar, keine Deutung - nur die eine Tatsache, die ohne Vermutung auskommt.
 
-- **Band 2, Kapitel 41** *The name he books under* (v2.4) - **Tag 262, Mo 22. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
+- **Band 2, Kapitel 41** *The name he books under* (v2.5) - **Tag 262, Mo 22. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
 
   **Der Arzt-Faden aus Kapitel 30/32, endlich aufgenommen - und ganz ohne eine einzige Tuer.** Georgij nutzt das erzwungene Stillhalten fuer genau die Ermittlung, die keine Adresse braucht: Hausbesuch-Praxen sind oeffentlich lizenziert, und eine Rechnung, deren Anfahrt dreimal so teuer war wie der Termin selbst, ist keine Stadtrechnung.
 
@@ -2027,7 +2027,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Nachgetragen in Fassung 1.1:** Das Kapitel sagt jetzt aus, **warum** er den schnellen Weg nicht nimmt, und legt damit das Werkzeug fuer Kapitel 46 hin. Der Laptop steht seit seiner ersten Woche im kleinen Zimmer, von Annie selbst dorthin gestellt. Der Grund ist nicht die Regel dieser Woche: **Papier hinterlaesst keine Handschrift.** Jedes Register, das er dieses Jahr gelesen hat, haette jeder lesen koennen - und Choi Dae-ho liest Handschrift.
 
-- **Band 2, Kapitel 42** *The evenings he lost nothing at* (v2.6) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
+- **Band 2, Kapitel 42** *The evenings he lost nothing at* (v2.7) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
 
   **Sang-hoon liefert das Ergebnis, das der ganze Faden seit Kapitel 33 gebraucht hat.** Vier Eigentuemer sind vier Firmen, drei davon reine Huellen ohne eigenes Geschaeft. **Die vierte ist ein Trust** - und ein Trust muss niemanden nennen, der davon profitiert, nur wer ihn verwaltet: Solicitor **Baek Jun-ho**, Yeouido, seit elf Jahren, ausdruecklich nicht der Koch aus Kapitel 39 (Sang-hoon hat es selbst geprueft, bevor er den Namen brachte - dieselbe Vorsicht, die Georgij sich seit Kapitel 37 selbst auferlegt hat).
 
@@ -2039,7 +2039,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *A shape the size of a person* (v2.2) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
+- **Band 2, Kapitel 43** *A shape the size of a person* (v2.3) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 

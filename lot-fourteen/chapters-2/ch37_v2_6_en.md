@@ -1,5 +1,5 @@
 # Chapter 37: The one who asked a question
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
@@ -33,7 +33,7 @@ Georgij sat.
 
 "Yes."
 
-"Then say who you work for, because I am going to want to know that before anything else and I am not going to pretend otherwise."
+"Then who you work for, because I am going to want to know that before anything else and I am not going to pretend otherwise."
 
 "I work for a woman on the river. She has no interest in you and no business with you, and you will not hear from her." Georgij put his hands flat on his knees. "She is not why I am here and she does not know I am in this room this morning. I told her I was coming and she did not ask which man."
 
@@ -65,8 +65,6 @@ The kettle got to the noise it makes before it boils and Mr Koh turned it off be
 
 Mr Koh sat down in his own chair, on the far side of his own desk, which was the first defensive thing he had done.
 
-"Go on."
-
 "You went to that table for four years," said Georgij. "The last time was the eleventh of March, and you have not been asked since, and nobody has ever told you why."
 
 "I know all of that. I have known it for five years."
@@ -85,7 +83,7 @@ Mr Koh did not answer straight away, and when he did his voice had changed by ex
 
 Mr Koh put both hands on the desk.
 
-"Say the right one."
+"There is a right one and that was not it."
 
 "At that dinner, late, you asked who the third man at the table was."
 
@@ -141,7 +139,7 @@ The traffic outside did the thing traffic does when a room has gone quiet.
 
 "Nothing at all."
 
-"Say that again."
+"Nobody comes up those stairs to want nothing."
 
 "Nothing." Georgij stood up. "I am not asking you for a statement, or for a name, or to make a telephone call, or to remember something. There is nothing you have that I need. I came up two flights of stairs to give a man his correct explanation and then to go back down them."
 
@@ -173,7 +171,7 @@ It was the wide one, the one that goes all the way up and arrives about a quarte
 
 Mr Koh smiled back before he had decided to, which is what that smile is for, and then looked faintly annoyed with himself, which is also what it is for.
 
-"Go on," he said. "You have got somebody else to go and ruin an afternoon for."
+"You have got somebody else to go and ruin an afternoon for," he said.
 
 ---
 

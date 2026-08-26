@@ -1,5 +1,5 @@
 # Chapter 36: An empty table
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Forty-Nine · Tuesday 9 June
 
@@ -25,7 +25,7 @@ Annie had looked at him for a while before she answered that one.
 
 "Once," she said. "Eleven years ago, before any of the people I spoke to knew him the way they know him now."
 
-"Say what you have got, even if it is not a name."
+"What you have got, even if it is not a name."
 
 "A room, a wedding that did not happen, and a man who left the country for four years afterward." She paused. "He came back changed enough that two people used the word unrecognisable to me, independently, in different rooms, in the same week." Annie kept her hands flat on the folder. "Nobody I found would say who was in the room with him. Two of them stopped the conversation entirely when I asked a second time."
 
@@ -145,7 +145,7 @@ The rain eased outside and started again, harder.
 
 Georgij did not answer that immediately, because it deserved thought and not a reflex.
 
-"Say who you think it is," said Georgij.
+"Who you think it is," said Georgij.
 
 ---
 

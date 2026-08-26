@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.955 Woerter.
+Book Two, 89 Kapitel, 219.951 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -46,14 +46,14 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 33 | v1.5 | 1.984 |
 | 34 | v1.6 | 2.240 |
 | 35 | v2.9 | 3.880 |
-| 36 | v2.2 | 3.251 |
-| 37 | v2.5 | 3.850 |
-| 38 | v2.6 | 2.934 |
-| 39 | v2.4 | 2.886 |
-| 40 | v2.8 | 2.776 |
-| 41 | v2.4 | 3.856 |
-| 42 | v2.6 | 3.332 |
-| 43 | v2.2 | 2.771 |
+| 36 | v2.3 | 3.249 |
+| 37 | v2.6 | 3.856 |
+| 38 | v2.7 | 2.933 |
+| 39 | v2.5 | 2.889 |
+| 40 | v2.9 | 2.775 |
+| 41 | v2.5 | 3.854 |
+| 42 | v2.7 | 3.327 |
+| 43 | v2.3 | 2.769 |
 | 44 | v2.2 | 2.497 |
 | 45 | v1.4 | 2.163 |
 | 46 | v1.3 | 2.549 |
@@ -7789,7 +7789,7 @@ Georgij stood in the cooling garage a moment longer before he went in to find so
 ---
 
 # Book Two · Chapter 36: An empty table
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Forty-Nine · Tuesday 9 June
 
@@ -7811,7 +7811,7 @@ Annie had looked at him for a while before she answered that one.
 
 "Once," she said. "Eleven years ago, before any of the people I spoke to knew him the way they know him now."
 
-"Say what you have got, even if it is not a name."
+"What you have got, even if it is not a name."
 
 "A room, a wedding that did not happen, and a man who left the country for four years afterward." She paused. "He came back changed enough that two people used the word unrecognisable to me, independently, in different rooms, in the same week." Annie kept her hands flat on the folder. "Nobody I found would say who was in the room with him. Two of them stopped the conversation entirely when I asked a second time."
 
@@ -7905,7 +7905,7 @@ The rain eased outside and started again, harder.
 
 Georgij did not answer that immediately, because it deserved thought and not a reflex.
 
-"Say who you think it is," said Georgij.
+"Who you think it is," said Georgij.
 
 Sang-hoon looked at the window for a moment before he answered, and Georgij had the sense, not for the first time that morning, that the rain was doing some of his thinking for him.
 
@@ -8044,7 +8044,7 @@ There is no version of the next four weeks in which he does not leave the same t
 ---
 
 # Book Two · Chapter 37: The one who asked a question
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
@@ -8068,7 +8068,7 @@ Georgij sat.
 
 "Yes."
 
-"Then say who you work for, because I am going to want to know that before anything else and I am not going to pretend otherwise."
+"Then who you work for, because I am going to want to know that before anything else and I am not going to pretend otherwise."
 
 "I work for a woman on the river. She has no interest in you and no business with you, and you will not hear from her." Georgij put his hands flat on his knees. "She is not why I am here and she does not know I am in this room this morning. I told her I was coming and she did not ask which man."
 
@@ -8092,8 +8092,6 @@ The kettle got to the noise it makes before it boils and Mr Koh turned it off be
 
 Mr Koh sat down in his own chair, on the far side of his own desk, which was the first defensive thing he had done.
 
-"Go on."
-
 "You went to that table for four years," said Georgij. "The last time was the eleventh of March, and you have not been asked since, and nobody has ever told you why."
 
 "I know all of that. I have known it for five years."
@@ -8108,7 +8106,7 @@ Mr Koh did not answer straight away, and when he did his voice had changed by ex
 
 Mr Koh put both hands on the desk.
 
-"Say the right one."
+"There is a right one and that was not it."
 
 "At that dinner, late, you asked who the third man at the table was."
 
@@ -8154,7 +8152,7 @@ The traffic outside did the thing traffic does when a room has gone quiet.
 
 "Nothing at all."
 
-"Say that again."
+"Nobody comes up those stairs to want nothing."
 
 "Nothing." Georgij stood up. "I am not asking you for a statement, or for a name, or to make a telephone call, or to remember something. There is nothing you have that I need. I came up two flights of stairs to give a man his correct explanation and then to go back down them."
 
@@ -8176,7 +8174,7 @@ It was the wide one, the one that goes all the way up and arrives about a quarte
 
 Mr Koh smiled back before he had decided to, which is what that smile is for, and then looked faintly annoyed with himself, which is also what it is for.
 
-"Go on," he said. "You have got somebody else to go and ruin an afternoon for."
+"You have got somebody else to go and ruin an afternoon for," he said.
 
 Georgij went down the two flights and stood on the street for a moment before he walked to the bus.
 
@@ -8345,7 +8343,7 @@ She was, he thought later, almost certainly right, and he wrote her reasoning in
 ---
 
 # Book Two · Chapter 38: Tell him or ask him
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -8369,7 +8367,7 @@ Sang-hoon made the sound again that was almost a laugh.
 
 "A private room at a place near Sinsa that does not exist any more, because the owner sold up in the spring. I remember the food and I remember losing forty thousand won at cards I do not remember agreeing to play." He said it without any weight in it at all. "And I remember that it was Y who suggested the cards, because it is not a thing he usually does, and I noticed it and then forgot to keep noticing it, which I understand now is the entire method."
 
-"Say the whole name."
+"The whole name."
 
 "Yeom," said Sang-hoon. "The man who used to own the auction house on the river. You have met him, which is why I thought of him at all."
 
@@ -8564,7 +8562,7 @@ He wanted to be sure of it for a day before he handed it to anybody, including h
 ---
 
 # Book Two · Chapter 39: The man kitchens talk to
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day Two Hundred and Fifty-Nine · Friday 19 June
 
@@ -8592,7 +8590,7 @@ The new owner was a woman of about forty with a headset and a tablet, and she wa
 
 Georgij went very still.
 
-"Say what he looked like."
+"What he looked like."
 
 "I did not really look. Well dressed. Quiet voice. He did not stay five minutes once I told him there was nothing to find." She shrugged. "He left a card. I threw it out with the coffee machine's paperwork, because I did not think anybody was going to want it twice."
 
@@ -8630,7 +8628,7 @@ Mr Sohn looked at him properly for the first time in the conversation.
 
 "That is a strange thing to ask about a man's dinner."
 
-"Say it anyway."
+"It is. I would still like it."
 
 "He ate," said Mr Sohn. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month. A cook remembers that. Believing it is a separate question." He tilted his head slightly. "Why does that matter to you."
 
@@ -8785,7 +8783,7 @@ Page two is longer than it was on Tuesday. Page one is not.
 ---
 
 # Book Two · Chapter 40: Somebody who did not arrive in a car
-*Lot Fourteen* · Version 2.8 · EN
+*Lot Fourteen* · Version 2.9 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
 
@@ -8825,7 +8823,7 @@ Georgij looked at the map.
 
 Jang put his finger on a second mark, further up the road. "There is a bus stop with a shelter three hundred metres past the gate, and an old man waits there most mornings for a bus that comes twice a day. I have spoken to him four times. He does not know I am asking about anything. He thinks I am waiting for the same bus."
 
-"Say what he told you," said Georgij.
+"What he told you," said Georgij.
 
 "That the place used to have a sign, years ago, and stopped having one. That the staff are decent and buy their cigarettes at the shop on the corner and are not talkative." Jang paused there, as though the next part needed its own room. "And that there is a woman who comes to the window on the second floor most afternoons, at the same hour, and stands there for a while. He has watched her do it for longer than he can put a number on, because he has been waiting for that bus for eleven years himself."
 
@@ -8970,7 +8968,7 @@ He wrote that down in the notebook exactly as he had thought it, without tidying
 ---
 
 # Book Two · Chapter 41: The name he books under
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day Two Hundred and Sixty-Two · Monday 22 June
 
@@ -8994,7 +8992,7 @@ The fourth was different, and he knew it in the first minute, because the man st
 
 Georgij put his hands in his coat pockets so that they would have something to do.
 
-"Say more."
+"More."
 
 "Older man, very pleasant. He came four or five times over the years, always a private room, always with somebody else, and he always came out to the pass on his way through and asked what was in something." The cook wiped down a board he had already wiped. "Not the way people ask. He listened to the answer. And he used my name afterward, which nobody does, because nobody learns it."
 
@@ -9172,7 +9170,7 @@ Annie was quiet on the line for a moment.
 
 "Noted," said Annie quietly, and there was something in the one word that was almost warmth. "Give the name to nobody but me. Not Sang-hoon, not Jang, not the notebook if you can help it."
 
-"Say why not the notebook," said Georgij.
+"Why not the notebook," said Georgij.
 
 "Because a name that only exists in your head and mine cannot be read over your shoulder," she said, "and I have started assuming, this month, that everything on paper is eventually read by somebody it was not written for." She said it without drama, as a fact rather than a fear.
 
@@ -9209,7 +9207,7 @@ He wrote one more line before he put the notebook away for the night.
 ---
 
 # Book Two · Chapter 42: The evenings he lost nothing at
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
@@ -9333,8 +9331,6 @@ Sang-hoon took that better than Georgij had expected, and worse than he let it s
 
 "I have had a week longer because a registry does not care how impatient either of us is." Sang-hoon set a folder down between them and did not open it yet. "I am going to tell you what it took to get this before I tell you what it says, because the first part explains why you are not going to like how long the second part took."
 
-"Say it."
-
 "Four owners is not four names," said Sang-hoon. "It is four holding companies, each one owning the company below it, and the bottom one owning the land. Three of the four are registered in this country and exist for no reason except to own the company beneath them. They have no offices. They have no other business. They file exactly the paperwork the law requires and not one page more."
 
 "And the fourth."
@@ -9349,7 +9345,7 @@ Georgij went very still.
 
 Georgij did not answer that directly, and Sang-hoon did not press him on it, which was itself a kind of answer.
 
-"Say the solicitor's full name."
+"The solicitor's full name."
 
 "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because I did not want to hand you a coincidence and have you build a theory on it." Sang-hoon's voice did not change. "He has no history with the trade you have been working in. He administers trusts for people who want their names kept off paper, which in this country is a legitimate profession and a crowded one. He has never once been investigated for anything, because being investigated is the one thing a man in his line of work cannot survive twice."
 
@@ -9361,11 +9357,11 @@ Georgij did not answer that directly, and Sang-hoon did not press him on it, whi
 
 "I know you were not. I am telling you anyway, because you have gone to other offices this year on less provocation than this, and I would like it on the record that I said so before you did anything, not after."
 
-"Say what the man looks like."
+"What the man looks like."
 
 "Sixty-three, according to the bar association's own photograph, which is eleven years old and probably flattering. Married, no children the record shows, a house in Seongbuk-dong he has owned since before the trust existed." Sang-hoon said it the way a man reads a shopping list. "Nothing about him suggests he has ever once needed the money. That is either the most honest fact in the whole file or the most carefully arranged one, and I have not decided which."
 
-"Say why that actually matters."
+"Why that actually matters."
 
 "Because a man who does this for money can be bought back out of it," said Sang-hoon. "A man who does it because he has decided it is simply his profession, the way another man decides to be a surgeon, cannot be bought at all. You can only wait for him to retire or die, and I do not know his age well enough to tell you which comes first."
 
@@ -9452,7 +9448,7 @@ Deciding that too early was the mistake he had already promised himself, twice t
 ---
 
 # Book Two · Chapter 43: A shape the size of a person
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -9506,13 +9502,13 @@ Jang telephoned at half past twelve, before Georgij had left for the restaurant,
 
 "The rota is nine people," said Jang. "Four cars, morning and evening, two of them carrying two. I have counted that on four separate mornings and it has been nine every time. Two of the nine are the same two who do the Wednesday night, so a Wednesday is nine plus nobody and not ten."
 
-"Go on."
+"And the delivery."
 
 "The Friday delivery is a standing order. The grocer's man told me the number himself, in a lay-by, while he was eating, and I did not ask him for it." Jang paused in the way he does when he is making sure of a sentence before he hands it over. "It feeds more than nine, and it has fed more than nine every Friday I have watched. Not double. One person's worth more, near enough, and the same amount every week."
 
 Georgij stood with the receiver against his ear and did not write anything down yet.
 
-"Say the part you have not said."
+"The part you have not said."
 
 "He has been on that round for six years, and he said it without me asking, because a man talks about the odd houses." Jang took a breath. "The standing order went up once in six years. It went up in the summer four years ago and it has never gone back down."
 
@@ -9570,7 +9566,7 @@ Sang-hoon's face did not move, and that itself was the answer, because his face 
 
 Something moved in him then that had not moved for the first date.
 
-"Say that again. The distance, not the month."
+"Again. The distance, not the month."
 
 "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrived. I do not know the day of your dinner, so I counted backward from the one date I was sure of."
 
