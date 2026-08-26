@@ -4320,59 +4320,71 @@ to spend the whole of it being sixty in a restaurant."* Montag, der 27. Juli. Er
 ist **seit dem 27. Juli sechzig**, und in Kapitel 48 am 20. Juli sagt er noch
 *"I am fifty-nine"* - beides stimmt und muss so bleiben.
 
-**Das Fenster ist aufgebraucht, und das ist keine Warnung mehr, sondern der
-Befund.** Band 2 steht auf **Tag 339, Montag dem 7. September**. Uebrig sind
-**26 Tage bis zum 3. Oktober**, und **Tag 366 ist der 4. Oktober** - der
-Jahrestag der Auktion. Das Buch laeuft sichtbar darauf zu. Wer bis dahin
-schreibt, verbraucht das Fenster vollstaendig.
+**Das Fenster gibt es nicht mehr, und der Band ist fertig.** Band 2 endet auf
+**Tag 415, Sonntag dem 22. November**. Zwischen Tag 1 und Tag 415 liegen
+**dreizehn Monate und achtzehn Tage** - **jedes Kalenderdatum kommt darin
+mindestens einmal vor.** Es gibt also keine Parkposition mehr, nirgends, fuer
+niemanden.
 
-**Zwei Geburtstage liegen bereits hinter der Front:** Mr Chae am 3. September
-(Tag 335) und Kim Do-yun am 6. September (Tag 338). **Kein Widerspruch** -
-beide kommen in den Kapiteln 66, 67 und 68 nicht vor. Aber ihre Parkposition
-ist verbraucht: die naechste Altersangabe zu ihnen ist die falsche.
+**Am 26.08. sind vier Alter nachgezogen worden, alle nach demselben Verfahren
+wie im August:** der Geburtstag ist erfunden und steht in keinem Satz
+(nachgeprueft, alle vier Daten kommen im Text nicht vor), also weicht der
+Geburtstag und nicht der Text.
 
-**Und was in den naechsten zehn erzaehlten Tagen faellt:**
+| Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
+|---|---|---|---|---|
+| Baek Jun-ho | dreiundsechzig | K82, 15. Oktober | 26. September | **10. November** |
+| Mrs Jeon Mi-ja | einundfuenfzig | K86, 1. November | 24. Juli | **15. November** |
+| Mrs Sunwoo | einundachtzig | K89, 11. November | 29. September | **17. November** |
+| Choi Dae-ho | neunundfuenfzig | K88, 6. November | 8. September | **18. November** |
 
-| Figur | Geburtstag | Tag | wird |
-|---|---|---|---|
-| ~~Choi Dae-ho~~ | ~~Di 8. September~~ | 340 | **passiert. Er ist seit Tag 340 sechzig** |
-| Mr Hwang | Fr 11. September | 343 | 51 |
-| **Georgij** | **Sa 12. September** | **344** | **27** |
+**Und einer laesst sich so nicht loesen. Er gehoert dem Autor.**
 
-**Georgij ist der ruhigste Fall von allen, und das ist gepruefte gute
-Nachricht.** Seine Sechsundzwanzig steht im ganzen Buch nur an zwei Stellen,
-und beide sind der Katalog vom 4. Oktober: *"Lot fourteen. Male,
-twenty-six."* und der Widerhall in Kapitel 2. Das sind **datierte Papiere**,
-keine laufenden Altersangaben - es gibt im Text kein *he is twenty-six* und
-kein *I am twenty-six*. **Er darf am 12. September siebenundzwanzig werden,
-ohne dass ein einziger Satz umgeschrieben werden muss.** Ab Tag 344 gilt
-siebenundzwanzig, und wer danach sechsundzwanzig schreibt, schreibt falsch.
+**Georgij ist an beiden Enden des Buches sechsundzwanzig:**
 
-**Die Konsequenz fuer die Tabelle: geparkt wird nicht mehr.** Die Spalte
-*Geburtstag* war eine Buchhaltungshilfe fuer eine unerzaehlte Strecke, die es
-nicht mehr gibt. Ab hier gilt sie als Datum: **ab diesem Tag ist die Figur ein
-Jahr aelter**, und die Tabelle sagt es. Neue Figuren bekommen ihren Geburtstag
-weiterhin hinter der Front, damit ihre Zahl bis dahin stillsteht.
+- **Tag 1**, der Katalog: *"Lot fourteen. Male, twenty-six."*
+- **Tag 367**, Woo: *"You are twenty-six."*
+- **Tag 415**, er selbst, im letzten Kapitel: *"I am twenty-six and it has taken
+  me eight months."*
+
+**Dazwischen liegen dreizehn Monate.** Ein Mensch kann nicht an beiden Enden
+sechsundzwanzig sein, und **kein Geburtstagsdatum rettet das**, weil jedes
+Datum in diese Spanne faellt. Der Geburtstag am 12. September ist damit nicht
+falsch, sondern **unbrauchbar**.
+
+**Zwei Wege, und beide sind Autorenentscheidungen:**
+
+1. **Er wird siebenundzwanzig.** Zwei Woerter aendern sich, in K79 und K90.
+   Der Schlusssatz des Buches hiesse dann *"I am twenty-seven and it has taken
+   me eight months."*
+2. **Der Katalog irrt sich um ein Jahr.** Er ist bei der Auktion
+   fuenfundzwanzig, wird waehrend des Buches sechsundzwanzig, und der Katalog
+   hat ihn falsch gefuehrt. **Das ist das Thema des Buches** - der aufgeraeumte
+   Katalog, die Loeschung, die nie ausgefuehrt wurde -, und es macht aus einem
+   Rechenfehler eine Pointe. Kostet aber eine Stelle, an der es jemand bemerkt.
+
+**Bis das entschieden ist, bleibt der 12. September in der Tabelle stehen und
+ist ausdruecklich als unbrauchbar markiert.**
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
-| **Georgij** | 26, **ab Tag 344 (12. September) 27** | 12. September | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
+| **Georgij** | **26 am ganzen Buch entlang, und das geht nicht auf** | ~~12. September~~ **unbrauchbar, siehe oben** | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
 | **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 61 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
-| **Choi Dae-ho** | 59, **ab Tag 340 (8. September) 60** | 8. September | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
+| **Choi Dae-ho** | 59 | **18. November** (war 8. September) | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
-| **Mrs Sunwoo** | 81 | **29. September** (war 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
+| **Mrs Sunwoo** | 81 | **17. November** (war 29. September, davor 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
 | **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
 | **Mr Ok** | 56 | 2. August | Kapitel 16 |
-| **Mrs Jeon Mi-ja** | 51 | 24. Juli | Kapitel 30; in Kapitel 6 aus Georgijs Blick *"somewhere near fifty"*. Dreiundzwanzig Jahre am Schalter |
+| **Mrs Jeon Mi-ja** | 51 | **15. November** (war 24. Juli) | Kapitel 30; in Kapitel 6 aus Georgijs Blick *"somewhere near fifty"*. Dreiundzwanzig Jahre am Schalter |
 | **Mr Hwang** | 50 | 11. September | Kapitel 21: *"He is about fifty."* Die Untergrenze steht fest, seit er sagt, Mrs Sunwoo kaufe dort, seit er ein Junge war |
 | **Mr Hong** | 61 | 6. August | Band 1, Kapitel 7. Neunzehn Jahre am selben Tisch |
 | **Cho** | 40 | 17. Juli | Kapitel 13 und 15 |
 | **Kwons Partner** | 63 | 29. Juli | Kapitel 14 |
 | **Dr Oh Seung-min** | 58 | 13. August | Kapitel 41; vor vier Jahren vierundfuenfzig |
-| **Baek Jun-ho** | 63 | 26. September | Kapitel 42 |
+| **Baek Jun-ho** | 63 | **10. November** (war 26. September) | Kapitel 42. Alter erneut in Kapitel 82: *"He is sixty-three and he has eleven trusts"* |
 | **Nam Byung-hees Neffe** | 23 | 9. August | Kapitel 19 |
 | **Hana Seo-yeon** | 51 | 22. Juli | Band 1, Kapitel 21, aus ihrem eigenen Mund: *"I have a house with nobody in it on Fridays, and I am fifty-one"* |
 | **Kim Sung-ho** | 61 | 30. Juli | Band 1, Kapitel 26. Aelterer Bruder von Ye-rin, haelt den Titel |
