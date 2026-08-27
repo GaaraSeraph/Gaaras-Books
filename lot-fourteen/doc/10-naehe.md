@@ -330,3 +330,16 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
 3. **Über dem Halsband oder daran?** Es gibt genau eine Stelle im ganzen Buch, an
    der jemand außer einem Schneider das Halsband selbst berührt, und das ist
    Kapitel 35.
+
+---
+
+# Aus dem Kapitelindex, gesiebt am 27.08.
+
+*Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
+
+*Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
+
+108. **Die Bewegung gehoert ihr, immer. Er fasst sie nicht an, er dreht sich hinein.** Zwei Fassungen sind daran gescheitert (v1.4 gar keine Beruehrung, v1.5 er nimmt ihre Hand).
+109. **b2 K6, Register A 3b:** er bittet **im Stehen** und geht erst hinunter auf *"Now come here"* - die Umkehrung von A 9 am 4. Juni.
+110. **b2 K6, Register C 3b:** ihre Hand an der Seite seines Gesichts ist woertlich der **29. Dezember**, und sie hat das **einmal vorher in ihrem Leben** getan.
+111. **b2 K31:** er wacht mit einem Mantel zugedeckt auf, der ihm nicht gehoert. **Es wird kein Wort darueber gesagt.**

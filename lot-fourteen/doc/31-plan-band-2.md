@@ -2488,3 +2488,59 @@ Regelaenderungen und der dritte Pruefdurchgang (Hwang, Yeom, Kwon), zusammen
 hatte sechs H1-Ueberschriften.
 
 Was hier steht, ist ab jetzt Plan: das Ziel, der Feldzug, die offenen Faeden.
+
+---
+
+# Aus dem Kapitelindex, gesiebt am 27.08.
+
+*Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
+
+*Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
+
+112. **Drei Fragen bleiben in b2 K36 mit Absicht offen:** wen die vier Entscheidungen betreffen, wer im Pflegeheim ist, wer Choi vor elf Jahren hat verlieren sehen.
+113. **"Eight years. Never once a woman. Find out why not."**
+114. **"K is the measurement."** Der kleinste der vier ist der einzige, bei dem es um Sang-hoon selbst ging.
+115. **Der Verdacht, den Annie ausdruecklich fuer unbewiesen haelt:** *"He let Sang-hoon find out on purpose."*
+116. **Es sind zwei Leute und sie bekommen sehr verschiedene Dinge - "der Unterschied ist ab jetzt Kanon":** der **Versender** verliert alles, was das Opfer verliert, und zwar danach, damit er es vierzehn Tage kommen sieht. Der **Bote** wird erschreckt, und das ist alles.
+117. **Choi bleibt aus dem Text draussen, bis Annie es entscheidet oder bis es Georgij etwas kostet.**
+118. **Das Konto der Gasfirma haelt eine Frau mit einem Namen, der in keiner der vierhundertdreissig aus Band 1 vorkommt, und die Rechnungsadresse liegt in Seoul, nicht in Gangwon-do.**
+
+152. **Der Besteller ist nicht der Zahler.** Baek sieht eine Summe im Monat; **der Besteller weiss, welche Farbe die Waende haben.** Sauerstoff, Blumen, Heizung, Personal sind ein Betrieb, und irgendwer fuehrt ihn.
+153. **Die Sieben-Jahre-Luecke:** Sim schickt seit **elf** Jahren Blumen, der Sauerstoff ist erst **vier** Jahre alt. Der medizinische Apparat ist exakt so alt wie der Mensch ohne Namen. *"You did not fail to work it out. You were answered before you had a question."*
+154. **Mrs Sunwoo war zu der Hochzeit eingeladen. Danach gab es keine Geschichte** - nicht die falsche, nicht die grausame, gar keine. Vier Gefragte wechselten das Thema. **In einundvierzig Jahren hat sie ein solches Schweigen einmal erlebt.** *"Das ist keine fehlende Information, sondern eine Arbeit."*
+155. **Die Hochzeit:** zweite Aprilwoche, elf Tische, Einladungen erste Februarwoche, **zurueckgezogen in der zweiten Maerzwoche per Karte**, elf Woerter: *"We are grateful for your kindness and ask for your understanding."* **Kein Familiensatz, die Formulierung eines Mannes.**
+156. **Moon Hae-sook kam selbst** in Mrs Has Buero und entschuldigte sich bei der Lieferantin - in dreissig Jahren nie eine Familie. **Die ruhigste Person im Raum, und ausdruecklich nicht tapfer:** *"She had decided something and she'd finished deciding it."* Und: *"There is not going to be a later."* Die bezahlten Blumen gingen ins Krankenhaus in Mapo, **elf Tische voll.**
+157. **Sims Signatur ist viermal belegt** (K31, 41, 49, 52). **Der Mann, der Georgij seit dem 1. August hilft, ist der Mann, der vor elf Jahren die vier besucht hat.** Georgij erkennt es und schreibt es nicht auf. **Sim wusste es nicht** und hat es vier Sekunden nach dem Wort *Mapo* begriffen.
+158. **Der Auftrag an Sim, woertlich:** eine Familie habe einen sehr schlechten Monat gehabt, waere dankbar, wenn es nicht besprochen wuerde. *"And that I should be kind to them and ask them for nothing, because asking makes people talk."*
+159. **Mrs Has Auslegung:** *"That isn't kindness. That's a job."* Alle vier haben elf Jahre geglaubt, sie seien die Einzigen, die anstaendig sind.
+160. **Ein Druckmittel ist etwas, das ein Mensch hat. Wer nichts mehr hat, ist nicht mehr gebunden.** Und niemand ist in vier Jahren nachsehen gegangen.
+161. **Die Entscheidung, sichtbar zu werden:** *"That is not a risk I am accepting. It is the outcome I am choosing."* Und: **"Ein vorsichtiger Mann verschwindet korrekt. Ein sicherer Mann hoert auf herauszufinden und faengt an zu entscheiden."**
+162. **Sims Zaehlung:** sechzehn Anrufe in vier Jahren, kuerzeste vier Minuten zehn, Schnitt sechs, **laengste elf am 27. August, und am 14. September einundvierzig Sekunden.** Dazu die Haelfte, nach der niemand gefragt hat: sonst eine Tuer, langes Nichts, wieder eine Tuer; am 14. **eine Tuer und ein Stuhl, der geschoben wird. Ein Zimmer neben dem Zimmer.**
+163. **NEUER KANON, das Datum:** *"There is no need to start the shed roof. It will not have to last past November."* **Das Haus wird vor dem Winter geschlossen, nicht zu Weihnachten.**
+164. **Die Entlastung, mechanisch:** Mr Tak seit Ende August, der Dachsatz am 27. August, die elf Minuten am selben Abend - **alles vor dem 4. September.** *"You did not cause November."*
+165. **Das Haus sollte immer vor dem Winter geschlossen werden**, entschieden spaetestens Mitte August. **Das ganze Jahr lief gegen eine Uhr, von der niemand in diesem Raum wusste.**
+166. **Die zweite Frau:** Ahn Jung-hee hat einen Bruder, einen Mann am Telefon und Georgij. **Moon Hae-sook hat seit elf Jahren niemanden.** *"She was never sold. She has been kept... a man does not sell you a thing he has spent eleven years not admitting he has."* **"That is what the month is."**
+167. **Moon Hae-sook: NICHTS im ganzen Haus.** Kein Los, keine Nummer, kein Eintrag, keine Provision. Hwang hat die Reihe dreimal gelesen. **Wer jemanden ohne Zeile haelt, hat vorher entschieden, dass nie jemand fragen kann.**
+168. **Es gibt genau eine Tuer, und sie heisst Mr Hwang** - der einzige Mann im Gewerbe, der aufgehoert hat, Menschen ueber diesen Schreibtisch zu schicken, **und genau deshalb der einzige, dem man es zutrauen kann.**
+169. **Der Einlieferer von Amts wegen ist Mr Ahn**, seit dem Formular vom Februar vor vier Jahren. **Vier Jahre lang war er vierzig Fuss von der einzigen Unterschrift entfernt, die sie bewegen kann.** Er bekommt nichts, und das ist ausdruecklich.
+170. **Die Grausamkeit ist eine Papierentscheidung von 2003:** die Anweisung steht auf der **Rueckseite** des Konsignationsformulars, weil das damals jemandem ordentlicher vorkam. Er dreht das Blatt um und findet seine eigene Unterschrift.
+171. **Mr Ahns Umdeutung, die ihn unterschreiben laesst, ist seine eigene:** *"It isn't me doing it. It's me telling them to stop being in the way."*
+172. **Die vier Fragen an Woo werden nicht gestellt**, und Woo widerspricht: **"That is not your decision."** Und danach: *"That is the first thing this morning that your father would not have done."* Und: *"You have made me expensive to consult, and that is a thing you do to an old man once."*
+173. **DER UMSCHLAG:** vier Antworten in Woos Handschrift, beim Anwalt, faellig **am Tag seines Todes und keine Stunde frueher.** *"I have given myself a date."* **Der einzige Faden im Buch mit einem Termin, den niemand nachschlagen kann.**
+174. **481 Millionen Won, liquide am 22. Oktober**, unteres Ende der Spanne von 460 bis 510. **Es hat einen Telefonanruf gekostet.**
+175. **Die Provenienzklausel (Klausel elf) hat Hwang 2011 selbst geschrieben** und war vierzehn Jahre stolz darauf. Sie arbeitet in beide Richtungen: *"It cannot be sealed and it cannot be withdrawn and there is no application for either, because I did not write one in."*
+176. **Der Preis ist nicht das Geld:** *"In about nine years somebody will read the sequence for a different reason and they will find an entry from November with a woman's name on one side and a woman's name on the other."*
+177. **Annies Verfahren, und sie nennt es das Einzige, was sie dieses Jahr gelernt hat:** Hwang erfaehrt alles **vor** seiner Antwort. *"And then he answers, and whatever he answers is his."* Dazu die dreimal gesagte Selbstbindung: *"If he refuses after that, we do not go back."*
+178. **DIE ZEILE, DIE ALLES ERKLAERT:** *"Somebody gets made by being handed a good reason at the wrong moment."* Ihr Vater 2002. Choi an Sim, elf Jahre. Und Georgij selbst an elf Menschen zwischen Maerz und August.
+179. **K88: Annie geht nicht hin, und sie entscheidet das selbst.** Es geht nur ohne Handel, und ohne Handel geht nur, wer nichts zu handeln hat. **Damit wird Regel 2 zum ersten Mal im Buch zu seiner Qualifikation statt zu seiner Grenze.**
+180. **Die Sache ist entschieden, bevor das Gespraech anfaengt.** Moon Hae-sook kam am Mittwoch um zwanzig nach vier heraus - **nicht weil Choi sie hergegeben hat, sondern weil Baek als Treuhaender entschieden hat, wo die Pflege stattfindet.** *"You built a thing eleven years ago so that you could not switch it off... It has been switched on for eleven years and it has never once been yours."*
+181. **Der Text nimmt Choi den Trost nicht weg:** der Platz bei Chuncheon war seit der zweiten Augustwoche vorbereitet und **waere besser gewesen.** Georgij bestaetigt es vollstaendig und legt nichts dahinter, **und das Nichts-dahinter-Legen ist der ganze Rest.**
+182. **"Something can be taken away from you, and it is not the same word."** Neun Menschen, der Reihe nach, nichts Unwahres, um nichts gebeten.
+183. **Choi benennt es selbst:** *"That is what your employer's father did to me."* Georgijs Antwort: *"Except that he did it to get you, and I am doing it to be finished with you... I do not know. I have decided to do it anyway."*
+184. **Achtundfuenfzig Namen stehen hinten im Buch, und das wird Jahre dauern.** (Band 3.)
+
+Alle drei stehen im Index und sind dort nie beantwortet worden.
+
+1. **b1 K30: *"I have known that since I was forty-one."*** Das macht Annie mindestens einundvierzig. Sie war vierzehn, als Choi kam, Choi ist neunundfuenfzig und war damals sechsunddreissig - **das ergibt siebenunddreissig.** Dasselbe Kapitel ist voll von *"forty-one per cent"*. **Verdacht auf Zahlenkontamination aus dem Anteilssatz.**
+2. **Wann ist Annies Vater gestorben?** b1 K15 sagt *"She has done it since the father died"* und *"not one of those six has voted against her since 2009"*. Mit vierzehn fuehrt niemand Familienfinanzen. **Im Text steht kein Sterbedatum.**
+3. **b2 K13: *"I still have the three hours. I am seventy-eight and I would rather be owed than paid."*** Woo ist an dieser Stelle der **Schuldner**, aber *to be owed* ist die Position des Glaeubigers. Entweder ein Dreher, oder dem Satz fehlt ein Wort.

@@ -1238,3 +1238,98 @@ entscheidet. Alle drei stehen jetzt auf elf.
 steht der Widerspruch am selben Abend wieder da.
 
 ---
+
+---
+
+# Aus dem Kapitelindex, gesiebt am 27.08.
+
+*Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
+
+*Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
+
+**Annie**
+
+1. Ihr Name ist **Hye-jin**, zwei Silben. **Er wird im Buch nie ausgesprochen.** Annie sagt ihn zweimal in b1 K24, und der Text druckt dabei nicht den Namen, sondern *"something in Korean, two syllables"*; auf seine Bitte hin - **"Again."**, nicht *"Say that again"* - sagt sie ihn noch einmal. Das Wort **Hye-jin** steht **genau einmal im ganzen Buch**, kursiv, in der Erzaehlstimme, in seinem Kopf. Der Text sagt es ausdruecklich dazu: ***"He did not say it out loud, then or later."*** **Korrigiert am 27.08. auf Hinweis des Autors**; `doc/05` sagte *"Sie, zweimal, in dieser Szene"*, was zu der Lesart einlaedt, der Name falle in einer Replik.
+2. **Sie hat keinen Familiennamen**, an keiner Stelle - *"It is on nothing."* Damit ist sie die einzige Figur ohne vollstaendigen koreanischen Namen. Auch b2 K32 druckt ihn nicht.
+3. **Silbensperrliste**, weil im Buch belegt: `Ji-` (Ji-won, Ji-hoon), `Eun-` (Eun-ju), `Min-` (Min-ho), `Seo` (Mrs Seo), `Tae-` (Tae-min), alles auf `-won` (neben den Won-Betraegen, und Jae-won existiert). Der Name klingt bewusst **nicht** nach *Annie*, weil Annie eine Erfindung ist und keine Uebersetzung.
+4. **Der Name `Yun` gehoert genau einem Menschen im Buch**, dem Kuechenjungen; Do-yun steht immer mit beiden Silben. Die zwei Firmen, die kollidierten, heissen seit dem 23.08. **Kyeongil** und **Nam** (b1 K15 v2.7, b1 K18 v1.1).
+5. **Sie kennt Choi Dae-ho, seit sie vierzehn ist.** *"I have known him since I was twenty-four"* ist ihre Gewohnheitsluege, die sie in b2 K26 selbst abraeumt. Mit vierzehn bemerkt, dass er nicht isst; mit dreissig verstanden.
+6. **Annie stellt zweite Fragen** - und wo sie es nicht tut, ist das die Aussage.
+7. **Sie weigert sich, sein Gewissen zu sein** (b2 K20), und der Grund ist Eignung, nicht Unlust: *"Because I would be extremely good at it and you would never have to do it again."*
+8. Ihr Vater hat zweimal im Monat auf einem Golfplatz Geschaefte gemacht und es Sport genannt.
+
+**Georgij**
+
+9. **Er besitzt nichts** (Regel 2), und der Satz dafuer ist *"I do not have an account for one to go into."* In b2 K4 wird daraus die Anklage statt der Freiheit.
+10. **Vor b1 K25 hat er nie in seinem Leben etwas unterschrieben.** Seine Unterschrift entsteht in zwei Sekunden und bleibt: der gedruckte Name, keine Schnoerkel.
+11. **Sein Nachname steht nicht im Text, weil Georgij ihn nicht ablegt.** Die Papiere wurden in der zweiten Oktoberwoche regularisiert.
+12. **Er haelt mit Frist zurueck, Annie ohne** (b2 K3). Das ist der Unterschied zwischen den beiden.
+13. **Vier Dinge haben ihn je dazu gebracht, Hand an jemanden zu legen, und das groesste ist, was Erwachsene mit Kindern vorhaben** (b2 K26).
+14. Er schreibt Mrs Jeons Heft **mit der Hand** ab, nicht am Geraet.
+15. **Er ist zweimal in vier Tagen ueber dieselbe Frau falsch gelegen**, auf Tatsachen, die er in der Hand hielt (b1 K20 und K23).
+
+**Choi Dae-ho**
+
+16. **Neunundfuenfzig. Frueher Staatsanwalt, vorzeitig heraus, niemand sagt warum. Direktor einer Private-Equity-Firma in Hongkong ueber eine Anwaltskette in Singapur. Hat nie in seinem Leben investiert. Er gibt Abendessen.**
+17. **Er isst viel und gern - nur nicht vor Leuten, an denen er arbeitet**, und hat nie bemerkt, dass man es sieht. Deckt sich mit `doc/16` A7. **Das ist eine Landkarte, keine Marotte:** wer ihn hat essen sehen, ist jemand, an dem er nicht gearbeitet hat.
+18. **Er handelt nie:** keine wiederholbare Anweisung, keine Bitte, die man ablehnen koennte, seit fuenfundzwanzig Jahren. *"That is not a man with a method. That is a man who has found a way to live."*
+19. **Er besitzt an der Adresse in Jung-gu nichts**, an keiner der zehn Gesellschaften, nie, und **kein Dokument im Land sagt etwas anderes, und wird es nie.**
+20. **Er liest Handschrift** - daraus folgt, warum Papier fuer Georgij ein Jahr lang sicherer war als das Geraet.
+21. **Er hat Sang-hoon acht Jahre lang bearbeitet.** Sang-hoon hat vier Entscheidungen an dessen Tisch getroffen, die er sich hinterher nie erklaeren konnte.
+
+**Die Nebenfiguren, mit den Zahlen, die im Text stehen**
+
+22. **Mrs Jeon Mi-ja**, einundfuenfzig, **dreiundzwanzig Jahre** hinter dem Glas; letzter Tag **12. Mai**. Ihr Heft: kariert, gruener Deckel, **etwa vierzig Zeilen in dreiundzwanzig Jahren**, jede mit Datum, Uhrzeit und rund sechs Woertern. **Verliehen, nicht verschenkt.**
+23. **Mr Byun**, achtundsechzig, **sechsundzwanzig Jahre** am Register, im November gegangen. **Einziger Auftritt in b2 K22.** Er ist der Erste im Band, der genau das ist, wonach er aussieht.
+24. **Mr Yeom**, dreiundsechzig, besass das Haus von 2011 bis zum Winter, verkaufte an den Fonds und nahm eine Stellung - dritte Etage in Jung-gu. **Er hat die vierte Gebuehr selbst bezahlt** und **nicht gefragt, fuer wen**: *"If I do not ask, then I am owed by whoever it is, and whoever it is knows that I did not ask."*
+25. **Mr Hwang**, der Sanierer. Sein Name steht in b1 K1 in sechs Punkt am Fuss der Seite. **"You have not been running a clean house for five months. You have been running the same house tidily."** Er kann nicht gewarnt werden: *"All of the doors are the same door."*
+26. **Mrs Sunwoo**, einundachtzig, **Stammkundin**, ihr eigener Eintrag ist drei Jahre alt und hat mit dem 4. Oktober nichts zu tun. Ihr *"We haven't met"* in b1 K7 war **eine Pruefung** und keine Hoeflichkeit.
+27. **Nam Byung-hee**, achtundfuenfzig, schreibt **am Ersten jedes Monats** an sechs Firmen, auch wenn es nichts zu schreiben gibt. **Zwanzig Jahre, vier Antworten, alle vier von demselben Mann, und der ist tot.** Sie luegt nicht, und genau das ist die Waffe gegen sie.
+28. **Mrs Seo**, neun Jahre im Haus, fuehrt Personal, Konten und Fremdfirmen. *"I am not clever, I am organised."*
+29. **Jang** ist **Interimschef der Sicherheit**, dreissig Jahre, nie bei einer Firma, die etwas herstellt. **Die Fahrer sind Ku und Pyo, nicht er** (Fassung 1.1 hatte ihn falsch an den Garagen).
+30. **Yun**, Kuechenjunge seit der ersten Januarwoche.
+31. **Mrs Gwak**, etwa siebzig, Blumen in Hyoja-dong, Doppelbuecher mit Durchschlag. **Mr Han**, Fahrer, achtzehn Jahre, schreibt auf alles. **Min-a**, Aushilfe.
+32. **Baek Jun-ho**, Solicitor in Yeouido, verwaltet den Trust **seit elf Jahren**.
+33. **Dr. Oh Seung-min**, vierundfuenfzig beim Hausbesuch vor vier Jahren, jetzt achtundfuenfzig. **Erloschene, nicht geschlossene Zulassung** - *"A practice that was allowed to disappear rather than told to."*
+34. **Sim** ist der Besteller der Blumen, telefonisch, mit Nummer, beide Male.
+35. **Kim Ye-rin** haelt **1,4 Prozent** und **kann man einmal fragen**. Der Grund, warum sie nirgends hingeht, ist der Motor der Figur: *"A woman in a room can be asked ... She has no title, so nothing protects her from a direct question."*
+36. **Hanas Regel: "Not quickly and not twice. Once."** Sie besitzt die Ostseite seit 2014 und hat sie keinen Tag vermietet.
+37. **Chairman Woo**, achtundsiebzig. **Achtung: der Index zitiert bis heute *"I am seventy-five"* aus b2 K13 - der Text sagt seit dem 24.08. zweimal *seventy-eight*.** Siehe Abschnitt F.
+38. **Mr Hong** hat Georgij am 25. Oktober drei Namen genannt: **Woo. Sunwoo. Choi Dae-ho, dritter.** *"Hong is a decent man and he has never in his life understood why he gives people three names instead of one."*
+
+---
+
+119. **Sim**, dreiundsechzig, Buero in Jongno seit neunzehn Jahren, **vier Menschen sind je dort gewesen.** Er hat in elf Jahren **keine einzige Rechnung gesehen** und kann keine sehen: *"a receipt is a piece of paper with two names on it."* Sein Kanon aus Mrs Baes Mund: *"He pays first, in an envelope, and he has never once queried a bill or asked for a receipt."*
+120. **Sims Messgeraet, und es ist sein Instrument von innen:** *"A man who is kept waiting fidgets, and a man who fidgets is asking for something, and I have never in my working life asked anybody for anything. So I count. It keeps the face still."*
+121. **Sim ist nach dem 14. September fertig - festgelegt.** Er macht den Anruf und so viele weitere, wie sie braucht, **und danach laesst er sich von niemandem mehr benutzen, auch nicht von Georgij und auch nicht fuer den besten Grund.**
+122. **In dreissig Jahren ist Sim nie irgendwohin geschickt worden, um unangenehm zu sein.** Vierhundertmal geschickt worden, um gemocht zu werden. **Und er ist nie belogen worden:** *"He has never once needed to lie to me."*
+123. **Mr Ahn** ist **neununddreissig**, nicht fuenfundvierzig. Georgij hat ihn auf fuenfundvierzig gelesen und **irrt sich nie um mehr als ein Jahr** - das ist ein Takt und kein Fehler.
+124. **Ahn Jung-hee**, fuenfunddreissig, Schwester von Mr Ahn (vier Jahre juenger). Sie hiess **Jung-hee-ya bis etwa elf**; nach ihrem Weggang benutzte die Mutter es wieder am Telefon und nie in einem Raum. **Sie fuehrt den Haushalt in Gangwon-do seit etwa dreieinhalb Jahren.**
+125. **Do Kyung-ae ist Ahn Jung-hee.** Der fehlende Papierbestand beweist keinen falschen Namen, sondern dass die Person nie aufgeschrieben wurde - **dieselbe Lage, in der Georgij siebzehn Jahre war.**
+126. **Moon Hae-sook.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft. **Die Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, **und Sim weiss es bis heute nicht.**
+127. **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft, **vierhundertelf Hochzeiten in dreissig Jahren**, seit vier Jahren zu. *"Thirty years, and the useful thing about me is that I've got nothing left."*
+128. **Mr Kwon**, vierundfuenfzig, macht es seit seinem zweiundzwanzigsten Jahr, also **zweiunddreissig Jahre.**
+129. **Mr Pyeon**, einer der fuenf, Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen. **Er spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in `12-stimmen`.
+130. **Mr Tak**, seit Ende August im Haus in Gangwon-do; er gibt seinen Nachnamen ungefragt und nennt sie zweimal *"the lady"*.
+131. **Woos Finanzier aus b1 K13** (*"what would happen to the terminal if I died on the Tuesday"*) **ist nicht Choi** und darf nie mit ihm verwechselt werden. Der Text benennt sie ausdruecklich als zwei Maenner.
+132. **Baek Jun-ho** hat **einunddreissig Jahre** im Fach und **elf Treuhandschaften gebaut**, und in keiner davon sah eine Treuhaenderloesung hinterher besser aus.
+
+133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist 59, war also 36.
+134. **Woo war nicht das Gekaufte. Er war die Tuer.** *"You give him one thing to do that he cannot undo, and then he leaves on his own, and he never once says why."* **Choi hat einen Fall geschlossen, den er bereits gewonnen hatte.**
+135. **Der Staatsanwalt kam allein in den Hof, ass das Mittagessen nicht an und stellte eine Frage:** *"who I would telephone if it went badly."* Woo nannte drei Namen. Sechs Wochen spaeter war die Akte zu. **Niemand hat bezahlt.**
+136. **DER NAME: Annies Vater hat ihn ins Haus geholt.** Ein Mann aus Incheon, von unten hochgekommen, **konnte keinen Vertrag lesen** (die Mutter las sie ihm nach dem Essen vor, b1 K30) und urteilte in vier Sekunden richtig ueber Menschen. **Wer keinen Vertrag lesen kann, braucht jemanden, der ihm sagt, wem er ja sagen soll.**
+137. **Die Beleglage ist ausdruecklich dreigeteilt und muss es bleiben:** vier Woerter eines Schreibers auf einem Korridor, ein Satz bei einem Mittagessen 2002, und dazwischen das Urteil eines Achtundsiebzigjaehrigen. **Georgij sagt selbst, wie duenn das ist.**
+138. **Offen gelassen und ausdruecklich benannt:** *"There is also nothing in it which requires him not to have known."*
+139. **Der unfreundlichste Satz des Buches, und Annie verlangt ihn:** ihr Vater wurde nicht getaeuscht. *"He looked at a prosecutor of thirty-six who had just ended himself, and he knew exactly what he was looking at. **He was pleased with it.**"*
+140. **Warum die Form elf Jahre erklaert:** *"A man who bought his position guards it. A man who was given it does not, because he has never once been asked to account for it."*
+141. **DIE WAND, DIE DEN BAND TRAEGT:** *"a thing that was given has no price, and a man who has no price cannot be bought out, and I have been building the wrong instrument since March."*
+142. **Was Annie mit dreissig verstanden hat, ist nicht, dass Choi gefaehrlich war, sondern dass er angekommen ist** - dass er nicht immer da war, und dass nie jemand gefragt hat, wie.
+143. **Und der Grund fuer den ganzen Band:** sie hat es Georgij gegeben, weil er der Einzige ist, der es herausfinden kann **und niemanden hat, dem er es sagen koennte.** *"You were not investigating him. You were paying something."*
+144. **Der Trust wurde in der zweiten Maerzwoche vor elf Jahren gestiftet.** Choi kam persoenlich, blieb etwa zwanzig Minuten, **brachte keinen Anwalt und brauchte keinen.**
+145. **Die zwei Klauseln, und sie sind das Zentrum:** der Treuhaender darf **nicht verpflichtet werden, die Beguenstigte zu informieren**, und **die Zahlungen koennen von ihm nicht gestoppt werden** - nicht vom Nachlass, nicht von einem Nachfolger, nicht per Vollmacht. *"Him, personally, in his lifetime."*
+146. **Baeks Urteil, und er faellt es ausdruecklich nicht:** *"It is either the only decent thing that man has ever done, or the most complete thing I have ever seen one person do to another. It is possible that there is no difference."*
+147. **Vierundvierzig Unterschriften in elf Jahren**, vierteljaehrlich an einen Gaselieferanten, monatlich an eine Privatpraxis, gegen **eine** Adresse. **Kein Name, nie einer.** *"Sie hat keine Zeile im Auktionshaus und elf Jahre Zeilen in einer Anwaltsakte."*
+148. **Die Adressaenderung: genau einmal, zweite Februarwoche vor vier Jahren - derselbe Monat, in dem Ahn Jung-hee in das Haus kam.** Baek: *"Somebody put them under one roof to save on a heating bill."* Die Sauerstoffmeldung folgte im Juli desselben Jahres.
+149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
+150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
+151. **Choi hat im ganzen Buch keine Replik ausser in K88** und ist am Ende von K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**

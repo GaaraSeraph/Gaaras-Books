@@ -211,3 +211,22 @@ gegenüber Annie, und **zwei davon hat er nicht gehalten.**
 beim Sagen. Das ist dieselbe Maschine wie in `doc/12-stimmen.md`: ihr Beweismittel
 ist ein Datum. **Sie ist die einzige Figur im Buch, deren Zusagen sich mit einer
 Uhr prüfen lassen**, und das gehört zu ihr wie das Halsband zu ihm.
+
+---
+
+# Aus dem Kapitelindex, gesiebt am 27.08.
+
+*Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
+
+*Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
+
+102. **b2 K12, Annies zwei Bedingungen:** kein unwahres Wort, und *"When it is finished you will come to this room and tell me whether you enjoyed it."*
+103. **b2 K30, vollstaendig:** *"I will not give anything of yours to anybody without asking you first, and if the room is such that I cannot ask, I will not give it, and I will lose whatever is lost."*
+104. **b2 K32:** Mrs Jeons Blatt ueber Hwang geht **an Georgij**, mit Auflage *"You will keep it and you will not use it."*
+105. **b2 K20:** Nam wird in etwa vier Monaten eingestellt, **nicht von ihm**, und sie erfaehrt nie, woher es kommt.
+106. **b2 K29:** *"Whatever it is, and whenever I have it, you will hear it from me and not from anybody else."*
+107. **b1 K31 / b2 K6:** *"I will ask you again in March"* - **sie hat nie wieder gefragt**, und die Zusage ist am 16. Maerz eingeloest worden, auf den Tag drei Monate.
+
+210. **Die Bedingung fuer den Abholtag:** *"whoever is in the car has about four minutes to be the first person in four years who says a true sentence to her, and it had better not be a man."*
+211. **Baek will es am Tag nach ihrem Herauskommen hoeren, auch wenn es schiefgeht** - und gibt den Namen des Errichters deshalb erst dann her.
+212. **Der Ventilator**, faellig Tag 347, und **Regel 2 bleibt gewahrt:** er gehoert Mr Ahn, steht in Mr Ahns Ecke, laeuft mit Mr Ahns Strom.

@@ -1281,3 +1281,20 @@ wiederhergestellt (b2 K21, b2 K05).
 6. **Ein Widerspruch, den ich nicht angefasst habe:** b2 K33 benutzt dieselbe
    Wendung *"Two people, four years and one telephone number apart"* zweimal mit
    verschiedenem Bezug - einmal die **Empfänger**, einmal die **Sprecher**.
+
+---
+
+# Aus dem Kapitelindex, gesiebt am 27.08.
+
+*Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
+
+*Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
+
+97. **"Ein Bild, das man erklaeren muss, ist ein kaputtes Bild."** (Aus der Aufloesung des *"nahen und fernen Endes"* am 23.08.)
+98. **Die Machtlage entscheidet die Satzzeichen, nicht der Rang.** Zweimal belegt: b2 K28 gibt Hwang Fragezeichen, weil er in diesem Raum die Macht hat; b2 K29 laesst Mrs Jeons Frage hochgehen, und der Text sagt es ausdruecklich dazu.
+99. **Ein Kapitel, in dem nur die Kostenseite ausbuchstabiert ist, sieht aus wie ein Verlust.** (Aus der Rueckfahrt in b2 K8.)
+100. **Eine Zahl allein wird nicht geprueft, eine Zahl neben ihrem Datum schon.** (Aus Schritt 3a, gilt fuer jedes erzeugte Verzeichnis.)
+101. **Ein geplanter Satz in einem Kanondokument ist der Stand, gegen den eine Schreibsitzung schreibt.** Korrigiert am 26.08.: *"If the world points anything at you at all, I will burn the world down"* stand als bestehender Satz da und **ist bis heute nicht geschrieben.**
+
+208. **Die Messung vom 25.08., und sie ist die schaerfste Selbstdiagnose im Dokument:** die Kapitel 68 bis 75 lagen bei **60 bis 77 Prozent Dialog** und bis zu **42 Szenentrennern**, waehrend B2 1 bis 50 bei 54 Prozent und 2,0 Szenen liegen. ***"Das Buch war zu einer Folge von Verhoeren in Raeumen geworden."*** Kapitel 76 antwortet darauf mit **28 Prozent Dialog**, keiner Szene mit zwei Leuten und einer Frage, und einem abgedruckten Dokument. K86 liegt bei 32 Prozent, K83 bei 57.
+209. **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** vor einem Ergebnis drei Erwartungen aufschreiben, datiert und unterschrieben. *"Inside four seconds you will have a version of yourself that expected it. It is the cheapest thing you do and it is the only one you do not know about."*

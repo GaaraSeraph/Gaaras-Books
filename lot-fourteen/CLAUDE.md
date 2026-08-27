@@ -9,6 +9,39 @@ recht und das Dokument wird geaendert.
 
 ---
 
+## Die Ablage, und diese drei Saetze gelten vor allem anderen
+
+Am 27.08. ist `doc/` umgebaut worden, weil achtzehn Dokumente auf **251.071
+Woerter** angewachsen waren - fast so viel wie der Roman - und rund
+**dreiunddreissig Prozent davon Sitzungsprotokoll und Nacherzaehlung** waren.
+Die Ursache war nicht Unordnung, sondern **eine fehlende Ablageregel**: wer
+etwas Neues hatte, haengte es unten an oder legte ein neues Dokument an.
+
+**1. Wohin ein neuer Satz gehoert, entscheidet seine Zeitform.**
+
+| Zeitform | Sorte | Ort |
+|---|---|---|
+| Praesens ueber die Fiktion | **Kanon** | `1x` |
+| Imperativ, bindend beim Schreiben | **Regel** | `2x` |
+| Futur, was noch geschehen soll | **Plan** | `3x`, je Band |
+| Vergangenheit **mit Datum** | **Protokoll** | `doc/protokoll/` |
+
+**2. Bei einem Widerspruch gilt: Kanon vor Regel vor Plan. Das Protokoll
+gewinnt nie.** Ein Bericht sagt, was jemand an einem Tag gemessen oder
+beschlossen hat, und ist nie eine Anweisung. Bis zum 27.08. gab es diese Regel
+nicht, und als `doc/16` und `CLAUDE.md` sich bei den Fragezeichen
+widersprachen, musste das ueber **zweihundert Zeilen** ausgefochten werden.
+
+**3. Kein neues Dokument ohne Sorte.** Wer etwas anzulegen hat, das in keinen
+der vier Bloecke passt, hat es falsch verstanden. Die Zehnerstelle ist die
+Sorte, und in jedem Block sind Nummern frei.
+
+**`check.py` meldet Verstoesse gegen Satz 1**: eine datierte Ueberschrift in
+einer Datei aus `1x` bis `4x` heisst, dass ein Bericht in ein Sachdokument
+geschrieben wurde. Es meldet und blockiert nicht.
+
+---
+
 ## Zuerst
 
 **`doc/20-handwerk.md` lesen, mindestens den ersten Abschnitt.** Das ist die Liste, die in jedem
@@ -152,7 +185,7 @@ die Kapitelpruefung warnt nur.
 |---|---|
 | `chapters/` | Die Kapitel von **Band 1**. Kanon |
 | `chapters-2/` | Die Kapitel von **Band 2**, wieder ab `ch01`. Kanon |
-| `doc/` | Die zehn Quelldokumente. Gelten fuer beide Baende |
+| `doc/` | Die Quelldokumente, nach Sorte nummeriert. Gelten fuer beide Baende. **Wie viele es sind, steht in `doc/00-readme.md` und wird erzeugt** |
 | `paste/band-N/` | Einfuegefassungen je Band. **Erzeugt**, nie bearbeiten |
 | `read/band-N/` | Lesefassungen als HTML, dazu `read/book.html` fuer alles. **Erzeugt**, nicht versioniert |
 
@@ -303,20 +336,27 @@ scheint.
 
 | Datei | Inhalt |
 |---|---|
-| `doc/20-handwerk.md` | Alle Regeln. Beginnt mit der Liste, die **immer** laeuft |
-| `doc/11-figuren.md` | Praemisse, Georgij, Annie |
-| `doc/11-figuren.md` | Haushalt, Verbuendete, Gegenseite, der Saal |
-| `doc/14-welt.md` | Das Anwesen und das Geschaeft |
-| `doc/16-motive.md` | Kalender, Kapitelstand, Motive, feste Zeilen |
-| `doc/30-plan-band-1.md` | Stoffbloecke. Kein Kanon, keine Kapitel |
-| `doc/31-plan-band-2.md` | Naechste Schritte und offene Faeden |
-| `doc/40-verworfen.md` | Was entschieden wurde und warum |
-| `doc/22-pruefen.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
+| **Kanon** | *Was im Buch wahr ist. Praesens, nie datiert* |
 | `doc/10-naehe.md` | Jede koerperliche Szene zwischen den beiden, mit der Zeile, die im Buch steht |
+| `doc/11-figuren.md` | Praemisse, Georgij, Annie, und der ganze uebrige Cast |
 | `doc/12-stimmen.md` | Wer wie spricht. Maschine, Anliegen und Verbote je Figur |
-| `doc/21-figurenbau.md` | **Wie man eine Figur baut.** Uebertragbar, gilt fuer jedes Buch |
 | `doc/13-zusagen.md` | Das Schuldbuch. Jede Zusage aus dem Text, mit Faelligkeit und Stand |
+| `doc/14-welt.md` | Das Anwesen, der Haushalt, das Geschaeft, das Register |
+| `doc/15-kalender.md` | Das Jahr, die Erzaehltage, Geburtstage und Alter |
+| `doc/16-motive.md` | Wiederkehrende Bilder und die festgelegten Zeilen |
+| **Regeln** | *Was beim Schreiben bindet. Imperativ, nie datiert* |
+| `doc/20-handwerk.md` | Alle Regeln. Beginnt mit der Liste, die **immer** laeuft |
+| `doc/21-figurenbau.md` | **Wie man eine Figur baut.** Uebertragbar, gilt fuer jedes Buch |
+| `doc/22-pruefen.md` | Wie geprueft wird und wer welchen Teil prueft |
 | `doc/23-kuerzen.md` | Was jedes Kapitel traegt und was davon kuerzbar ist. **Beim Schreiben zu fuehren, nicht danach** |
+| **Plan** | *Was noch geschehen soll. Futur, je Band* |
+| `doc/30-plan-band-1.md` | Die Stoffbloecke von Band 1. **Geschrieben, also erledigt** |
+| `doc/31-plan-band-2.md` | Ziel, Feldzug, offene Faeden. **Hier duerfen Zeilen stehen, die im Buch nicht stehen** |
+| `doc/32-plan-band-3.md` | Was Band 2 uebergibt |
+| **Verworfenes** | |
+| `doc/40-verworfen.md` | Entscheidungen mit Begruendung, und was schon abgelehnt wurde |
+| **Archiv** | |
+| `doc/protokoll/` | Alles Datierte. Append-only, **gewinnt nie**, nicht im Handbuch |
 | `erzeugt/HANDBUCH.md` | **Erzeugt.** Alle Dokumente am Stueck, mit Inhaltsverzeichnis |
 
 ## Dateinamen

@@ -543,6 +543,40 @@ def build_chapter_index(root, chapters):
     return len(zeilen), unklar
 
 
+ZAHLEN = "<!-- ZAHLEN -->"
+
+
+def fill_readme(root, ndocs, nchap, nwords):
+    """Die Zahlen in doc/00-readme.md, hinter der Marke, erzeugt.
+
+    **Die Readme ist eine Quelldatei und wird trotzdem hier beschrieben**, und
+    zwar nur unterhalb der Marke. Der Grund steht in der Zahl selbst: am
+    27.08. standen vier verschiedene Angaben an vier Stellen, wie viele
+    Dokumente es gibt - acht, zehn, vierzehn, achtzehn, neunzehn -, und alle
+    bis auf eine waren falsch. Wer eine abgeleitete Zahl tippt, tippt sie
+    einmal richtig und danach nie wieder.
+    """
+    p = os.path.join(root, "doc", "00-readme.md")
+    if not os.path.exists(p):
+        return
+    t = read_text(p)
+    if ZAHLEN not in t:
+        return
+    tausend = lambda n: format(n, ",").replace(",", ".")
+    block = [
+        ZAHLEN,
+        "",
+        "---",
+        "",
+        "*Erzeugt von `build.py`. Nicht von Hand aendern.*",
+        "",
+        "**%d Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`."
+        % ndocs,
+        "**%d Kapitel, %s Woerter.**" % (nchap, tausend(nwords)),
+    ]
+    write_text(p, t[:t.index(ZAHLEN)] + "\n".join(block) + "\n")
+
+
 def build_handbook(root, register=None):
     """Alle doc/-Dokumente am Stueck, plus das Begegnungsregister als letzter
     Teil. Das Register ist erzeugt und die Dokumente sind Quelle, aber
@@ -756,6 +790,9 @@ def main():
     nfig, register = build_register(root, chapters)
     nkap, unklar = build_chapter_index(root, chapters)
     ndocs = build_handbook(root, register)
+    # Die Readme zaehlt nur die Quelldokumente, nicht das erzeugte Register.
+    fill_readme(root, len(glob.glob(os.path.join(root, "doc", "[0-9][0-9]-*.md"))),
+                len(chapters), total)
 
     manifest = ["# Erzeugt von build.py. Ergebnis, nicht Eingabe.", ""]
     for band, blabel, n, v, f, t in chapters:

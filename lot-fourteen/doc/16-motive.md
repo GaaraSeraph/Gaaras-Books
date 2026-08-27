@@ -534,3 +534,65 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   ihn wurde gebraucht, weil dort zwei Redebloecke derselben Figur ohne etwas
   Koerperliches aufeinander folgten. Dass Annies Zeile schon so dastand, ist
   aufgefallen, nachdem er geschrieben war.
+
+---
+
+# Aus dem Kapitelindex, gesiebt am 27.08.
+
+*Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
+
+*Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
+
+70. **"I'm afraid of Tuesdays."** Festgelegt am 23.08.: die Angst gilt **ausschliesslich** davor, von ihr verstossen zu werden, in einem Flur, zwischen zwei anderen Dingen. **Keine allgemeine Furcht vor Dienstagen**, und sie darf nirgendwo sonst mitschwingen. b1 K16 spielt an einem Dienstag und traegt keine Ladung.
+71. **Der Satz, der durch das Buch laeuft: "It has been good to see you again."** Kanonwortlaut aus b1 K31, **ohne** *very*, und das Kapitel verlangt ihn woertlich (*"Say the sentence exactly."*). Bestaetigt in b1 K53, Zielpunkt in b2 K88. **Die Genauigkeitsauflage ist neu und steht bisher nirgends.**
+72. **Die Varianten desselben Tics, drei unabhaengige Zeugen:** Mr Ok (b2 K17) *"glad we had finally met"*, Chairman Woo (b2 K13), Mr Yeom (b2 K25) *"glad we had met"*, Mrs Gwak (b2 K31) *"It has been good to see you again"* - **jedes Mal zu Menschen, die er nie getroffen hat.** Die Probe dazu: *"A habit shared by two different men is a coincidence. A habit that specific, said in that exact shape, twice, four years apart, is not a coincidence twice."*
+73. **Die Umkehrung:** Mrs Sunwoo sagt *"We haven't met"*, **um zu pruefen, ob der andere weiss, was sie ist.** Choi sagt seinen Satz, **damit der andere glaubt, er haette es wissen muessen.**
+74. **"He collects."** Der Satz, um den das Buch gebaut ist.
+75. **"An absence in a ledger is a question. A payment in a ledger is a Tuesday."**
+76. **Der Mensch ohne Zeile, ohne Eigentuemer und ohne Datum.** **Der Satz gehoert Annie**, nicht Georgij: sie hat ihn ihm am 2. Januar (b1 K34) und am 11. Maerz (b2 K5) gegeben, beide Male als das, was ihn am Leben haelt. *"I did not want you to find out that it is also a description of somebody who is not."*
+77. **Das Halsband: ein Zeichen ohne Deckung.** *"It goes on working for exactly as long as nobody looks in that book."* Und die Gefahr steht auf dem Kopf: **nicht, dass jemand herausfindet, dass er ihr gehoert - sondern dass er es nicht tut.**
+78. **Der Entzug der Anrede.** Nach b1 K23 faellt *"Mistress"* nicht mehr - nicht bei der Vollmacht, nicht bei der Bitte, nicht beim Lachen -, **bis nach dem Wurf in b1 K24**, beim Halsband. **Wer dazwischen eines einfuegt, macht den Entzug wertlos.**
+79. **"Tonight she was two of them."** Ruecksichtslos und schoen ja, klug nein. **Eine Fassung mit *none of them* ist falsch.**
+80. **"I will not stop calling you Mistress"** faellt, **bevor sie sich bewegt.**
+81. **"You are not to build anything on it"** (b2 K5) gegen **"Build on this one"** (b2 K6). Das Paar traegt das halbe Band.
+82. **"Say that I am yours."** Die erste Fassung *"Take Tuesday off me"* wird zurueckgewiesen: *"That is a feeling and I do not buy those. Put it in a form I can act on."*
+83. **"I am the weapon in every sentence. I have never minded that. I mind it when the hand is not yours."**
+84. **"Invisibility is a thing you spend. It is not a thing you keep."**
+85. **"A rule is cheaper than deciding."**
+86. **"So I am the bill." - "You are the bill."**
+87. **"Nobody hides flowers."**
+88. **"A removed line is the loudest thing in a log."**
+89. **"The trouble with a man who has never said anything untrue is that he has also never had to be believed."**
+90. **"You were the most dangerous thing in that building and you had nothing, and I have never once pretended to myself that those were two separate facts."**
+91. **"No car. No dinner. No settlement. The house carried it."** Die vierte Zeile, und Annies *"That is the one I want."*
+92. **Zwei Urteile ueber denselben Mann, und das Buch faellt keines davon:** Byun, *"Then you are a very cruel young man"* (b2 K22) gegen Mrs Jeon, *"You are a very strange young man"* (b2 K32).
+93. **Das Notizbuch:** *"A thing that goes in the notebook stops having to be carried."* Und die Stelle, an der er es bewusst nicht benutzt (Cho, b2 K15).
+94. **Er traegt sich in jedes Buch an jeder Tuer selbst ein**, auch wenn niemand zusieht - und **jedes dieser drei Male ist mit Zinsen zurueckgekommen.** *"I have nothing to put in it."*
+95. **Der Registerauszug in b2 K24:** *"He put his own name on it, because there is nobody else's he could have used."*
+96. **Annies "Yes" um halb zwoelf, zu niemandem.** **Woraufhin bleibt offen und soll offen bleiben.**
+
+---
+
+185. **"He collects"** hat einen Zwilling: *"An absence in a ledger is a question. A payment in a ledger is a Tuesday."*
+186. **Der Satz fuer Ahn Jung-hee:** *"The one by the door is doing better this year."* Es ist ein Topf vor der Werkstatttuer, der nicht Mr Ahn gehoert und jeden Winter eingeht. Jung-hee hat vor elf Jahren gesagt, **es sei nicht dieselbe Pflanze, es sei derselbe Topf.**
+187. **Ihre Antwort, und es ist das erste Mal, dass sie im Buch spricht:** *"The shed roof should be done properly or not at all."* **Viermal, auf vier verschiedene Arten, ueber neunzehn Minuten**, und es ist das Einzige, was sie sagt. Familienbegruendung: *"She always said one thing four ways when she couldn't say it once."*
+188. **Und der Bruder liest es richtig:** *"A person who's finished doesn't tell you when... That's not a goodbye. She's told you when the van comes."* **"Sie hat nicht gesagt, dass sie fertig ist. Sie hat gesagt, dass das Haus fertig ist."**
+189. **"You did not add a doctor to a household. You added a doctor to her."**
+190. **"Nothing was arranged for the five of you. You were arranged for."**
+191. **"You do the same thing to people."** Annies Liste: Byun, Mrs Jeon, Hwang, die Frau mit der Giesskanne, fuenf Spediteure, ein Mann mit vier Anrufen. **Und Georgijs Korrektur daran:** *"A line through a person leaves them alone. What I did to those four is the opposite. I left something running in them."*
+192. **"A promise you keep until it is expensive is not one."** Dazu die Anweisung, die er ausdruecklich verlangt: *"None of the five. Not asked, not telephoned, not driven past."*
+193. **"Nichts, was ein Mensch ist, verschiebt sich."**
+194. **Mrs Jeons neun Zeilen lagen neunundachtzig Tage in einer Schublade:** *"A page like that is handed across a table. There has to be somebody on the other side of the table, and for eighty-nine days there was not."* Die neunte Zeile: *I am not writing this so that anybody is forgiven. I am writing it because it happened and because I was in the room.*
+195. **Mrs Jeons Bedingung, und sie ist die Umkehrung des ganzen Buches:** *"You will tell me her name before I am in the room with her. Not the reference. The name, and how it is written, and which part of it her mother used."*
+196. **"She is not a consignment out here. She is out here."**
+197. **DIE WUNDE DES TAGES:** sie nehmen eine aus einem Haus, das ausgeraeumt wird, und lassen eine darin. *"The kettle is on the second shelf and a man has written it on a folder."*
+198. **Ahn Jung-hees erster freier Satz nach vier Jahren ist eine erledigte Sache ueber jemand anderen:** *"The kettle is on the second shelf. I moved it on Thursday because they took the counter."* **Drei ihrer vier Aeusserungen an dem Tag handeln von Moon Hae-sook**, und die vierte ist ihre erste Frage im ganzen Buch.
+199. **Moon Hae-sooks erster Satz in dem Haus ist eine Zugluft:** *"There is a draught under this door. It is cold on the left ankle and not the right one."* Und der Grund fuer ihr Nichtfragen: *"Eleven years have taught her that a question produces a lie."*
+200. **Sims einzige Frage seines Lebens:** *"Was I good at it."* - *"You were the best I have ever seen."* - **"No. It is the bill."**
+201. **Mrs Sunwoo:** *"You have not told me the part where you did something clever."* - *"There is not one."* - *"No. There is not, and I have been waiting for it for fifty minutes, and I want you to notice that I had to wait."*
+202. **"Every person in this arrangement who is not being paid has now given up something they had. The two who are being paid have given up nothing at all."**
+203. **DIE ZWEI KALTEN LAECHELN, und es gibt kein drittes.** Das erste faellt **mit** der Bitte in K88, nicht mit der Begruendung davor; das zweite zwei Stunden spaeter am Schreibtisch, **waehrend er sich entschuldigt**: *"I enjoyed telling you this very much."* Auf die Frage, welcher Satz wahr ist: **"Both of them, Mistress. That is why I brought them together."** **Wer ein drittes einbaut, verbraucht eines von zweien.**
+204. **DER TODESSTOSS IST EINE BITTE:** *"Please guide me. Who should I be careful of?"* Bei Woo und Sang-hoon war die Frage **Entnahme**; hier holt sie nichts und kann nichts holen. **Dieselben Worte, umgekehrte Funktion.** Chois Urteil darauf ist das haerteste Lob des Bandes: *"That was very well done."*
+205. **DIE SCHLUSSZEILE DES BANDES:** *"You are such a beautiful, strong woman. Thank you for buying me."* Sie ist der Zwilling des ersten kalten Laechelns - **zweimal verliert er die Fassung, einmal kalt, einmal warm.**
+206. **"If the world points anything at you at all, I will burn the world down"** steht **seit dem 26.08. im Text**, in K90, unter Erschoepfung. **Damit ist Eintrag 101 dieser Liste erledigt.**
+207. **Der letzte Absatz des Bandes ist ein Ventilator**, der seit dem 15. September laeuft und den niemand abgestellt hat.

@@ -868,3 +868,28 @@ jetzt.* Die Ueberschrift traegt ein Datum, der Abschnitt aber die verbindlichen
 Zahlen des Buches - Woo achtundsiebzig, Byun sechsundzwanzig Jahre, Jang
 dreissig, Mrs Seo neun. **Das ist Kanon in einem datierten Gewand** und gehoert
 nicht ins Archiv.
+
+---
+
+# Aus dem Kapitelindex, gesiebt am 27.08.
+
+*Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
+
+*Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
+
+56. **Zwei Fristen laufen einen Tag auseinander:** Annies Sperre endet mit dem Anfang des Maerz, also **Sonntag, 1. Maerz**; die Vollmacht stirbt am Ende desselben Sonntags **um Mitternacht**. Erst der **Montag** ist sein erster freier Arbeitstag. (Bis 23.08. stand hier faelschlich *"um dieselbe Mitternacht"*.)
+57. **Die erste Vollmacht wird genau einmal benutzt:** Fristverlaengerung in Jung-gu am **23. Januar**, vier Minuten, weil er an dem Nachmittag der Einzige im Haus mit Zeichnungsbefugnis ist. Kein Erwerb, Verwaltung.
+58. **Die zweite Vollmacht** (b2 K5): Gegenparteien **nur** Sang-hoon und der Schreibtisch im Settlement, Frist **31. Maerz**. Mr Chae hat sie **seit Montagnachmittag** - aufgesetzt am Tag der Absage.
+59. **Am 16. Dezember ist nichts unterschrieben**, Woo feilscht noch.
+60. **Die Fernbedienung, vier festgelegte Stellen:** Tag 1 neben die Schluesselschale, Tag 2 noch dort, **Tag 9 weg**, Tag 19 spricht sie ihn darauf an, **Tag 22 legt sie sie vor ihm in die Clutch.** Seither traegt sie sie am Koerper, **und er weiss es jede Minute.** *(Bindend: eine Fassung, in der er in b1 K22 ueberrascht ist, ist falsch.)*
+61. **Nam schreibt am achtzehnten statt am Ersten**, und das Datum ist das Signal: *"I am writing to you on the eighteenth because I no longer have a first to wait for."* Ihr Aufschub geht bis zum **1. April**, nicht bis zum 26. Maerz.
+62. **Die Zeile in Ulsan liegt seit dem 14. Maerz dort** - zwoelf Tage nach dem Paket vom 2. Maerz. *"Das ist nicht die Zeit zum Bemerken, das ist die Zeit zum Benutzen."*
+63. **Der Sauerstoff:** die Adresse steht **genau einmal** in der Brandschutz-Meldeliste, **im Juli vor vier Jahren**, nie storniert.
+64. **Die Lieferabstaende ueber vier Jahre: dreissig, vierundzwanzig, sechzehn, neun** - mit **einer Luecke von einundfuenfzig Tagen im zweiten Herbst**, mitten in einer Strecke von Vierundzwanzigern.
+65. **Die Blumen:** **6. April** zwoelf weisse Stiele, Pyeongchang-dong mit Wohnungsnummer und Stock, Kaertchen ***"From an old friend."*** **27. April** dieselbe Bestellung, **andere Adresse ausserhalb der Stadt, kein Kaertchen** - und der Laden fragt immer. Dazwischen, auf derselben Zeile, **der Wagen vom 26.**
+66. **Los sechs:** Fruehjahrsauktion vor vier Jahren, im Buch vom Januar davor bis zum September danach, vier abgerechnete Posten gegen dieselbe Fundstelle: **Blumen zweimal, ein Fahrer, ein Arzt im Juli.**
+67. **K ist datiert: 24., 25. oder 26. Februar, vier Jahre zurueck.** S steht auf dem 20. Maerz. **Zweiundzwanzig bis vierundzwanzig Tage**, nicht drei Jahre. **H: Oktober, drei Jahre nach S, sechs Wochen bevor Hwang ins Haus kam.**
+68. **Georgij hat vor elf Jahren einen Verlierer gehabt:** ein Zimmer, eine Hochzeit, die nicht stattfand, vier Jahre Ausland danach, zwei unabhaengige Zeugen mit dem Wort *"unrecognisable"*. **Kein Name.**
+69. **Neun Mahlzeiten seit Oktober, ueber vierhundert Begegnungen.** Annie sagte **met**, er hoerte **eaten with**.
+
+---

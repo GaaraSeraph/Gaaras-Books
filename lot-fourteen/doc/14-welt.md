@@ -501,3 +501,31 @@ nicht als Gerechtigkeit, sondern als Mechanik.
 **Und die Gegenprobe:** wer noch Schutz hat, bleibt unbehelligt, auch wenn er
 es verdient haette. Das ist kein Zynismus, das ist die Bedingung, unter der die
 Regel ueberhaupt etwas bedeutet.
+
+---
+
+# Aus dem Kapitelindex, gesiebt am 27.08.
+
+*Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
+
+*Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
+
+39. **Katalogreferenzen sind permanent und werden nicht neu vergeben**, gestrichene und abgeschlossene Eintraege behalten ihre Referenz. **Das korrigiert b1 K6** (*"They renumber every month"*) und die Korrektur ist im Text (b2 K1).
+40. **Die Rueckseite:** eine Liste ueber vier Jahre, Referenz, Saison, ein Wort. **Bei vieren stehen drei Woerter: "Retained, not disclosed."** Elf und vierzehn liegen **vier Zeilen auseinander**. Zwei der vier sind Annies.
+41. **Loeschung und Aufbewahrung sind nicht dasselbe:** *"A deletion is the other thing. A deleted entry is nowhere."* - *"You were sold a piece of stationery."*
+42. **"A house that does it once has a dishonest man in it. A house that does it four times in four years has a price list."**
+43. **Die vierte Zeile ist die Anomalie:** die **Gebuehr** wurde bezahlt, wie von allen anderen, bar, ueber denselben Mann - **die Abrechnung des Loses fehlt vollstaendig.** Hwangs Erklaerung: *"That he did not want anybody in this building to know that he could have had it for nothing."*
+44. **Eine Freigabe** laesst ein Los ohne Rechnung aus dem Haus, nennt den Empfaenger nicht, **dreimal in dreiundzwanzig Jahren, dreimal dieselbe Unterschrift.**
+45. **Der aelteste der vier Eintraege ist nie ueber Mrs Jeons Schreibtisch gelaufen.** Sie hat es zweimal geprueft.
+46. **Beim vierten wurde Byun vom Eigentuemer persoenlich instruiert**, im Stehen, unter einer Minute, und das Geld kam aus dessen eigener Tasche in einem fertigen Umschlag. *"That is the only time in twenty-six years that anybody has ever given me money so that the money would be in the right place."*
+47. **Das Register: es gibt keine Spalte fuer den Namen.** *"a name is the one thing in the transaction that nobody on either side of it needs."*
+48. **Der Eintrag ist am 19. Februar gestrichen.** Wer nachschlaegt, findet nichts - und deshalb ist das Halsband **ein Zeichen ohne Deckung.**
+49. **Das Vetorecht deckt Kisten, nicht Menschen** - und genau diese Grenze wird abgelehnt, weil wer entscheidet, welche Kiste auf welches Schiff geht, entscheidet, wer sie laedt.
+50. **Annies Mietvorvertrag lautet woertlich *"Twenty years, rent fixed, the buildings named"*** - **Gebaeude, nicht Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, rund **fuenftausend von sechzehntausend** Quadratmetern; Woo braucht offene Hartflaeche mit Tor auf der Ostseite. **Sie kollidieren an keiner Stelle.** Woo mietet in Yeonan zwoelftausend; die offene Flaeche ist rund tausend Meter kleiner, und er nimmt sie trotzdem, weil das Tor mehr wert ist als der Hektar.
+51. **Woo faehrt ab Januar sieben Jahre Ankerladung durch Incheon.**
+52. **Georgij liest die Meldungen der Kunden, nicht die Vertraege** (Kanon aus `doc/04`, hier zweimal in Betrieb).
+53. **Das Haus am Fluss schliesst am 29. April.** Die Settlement-Buecher gehen **am 20. Mai** gegen ein von Hwang unterschriebenes Verzeichnis in ein Lager eines Fonds, der sie nie aufmachen wird.
+54. **Warum die Seite trotzdem nichts beweist:** *"a page that nobody living will stand behind is a photocopy of an allegation."*
+55. **Der Trust wurde vor elf Jahren gegruendet** und steht **sowohl** hinter dem Pflegeheim bei Wonju **als auch** hinter der erloschenen Arztzulassung. Einmal gebaut, zweimal benutzt.
+
+---
