@@ -11,5 +11,6 @@ Start mit CLAUDE.md. Dort stehen die Formatregeln, die Stimme und die
 Kontinuitaets-Fallen.
 
 Lesefassung je Band: book-band-1.md und book-band-2.md. Alle Regeln und der Kanon am Stueck:
-HANDBUCH.md. Wie viele Kapitel es gibt und wie lang sie sind: MANIFEST.txt, vom
-Build geschrieben. Was als Naechstes kommt: doc/07-next.md.
+HANDBUCH.md. **Welches Kapitel an welchem Tag spielt: erzeugt/KAPITEL.md**, eine Zeile je
+Kapitel, aus den Kapitelkoepfen erzeugt. Welche Datei gilt und wie lang sie ist:
+MANIFEST.txt. Was als Naechstes kommt: doc/07-next.md.

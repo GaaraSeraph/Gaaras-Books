@@ -10,6 +10,7 @@ Erzeugt aus den Quellen:
   book-band-N.md                 alle Kapitel eines Bandes am Stueck
   HANDBUCH.md                    alle doc/-Dokumente am Stueck, mit Inhalt
   MANIFEST.txt                   Baubericht
+  KAPITEL.md                     eine Zeile je Kapitel: Titel, Tag, Datum, Laenge
 
 Quellen sind chapters/ und doc/. Alles Erzeugte wird bei jedem Lauf
 ueberschrieben und **nie** von Hand bearbeitet.
@@ -290,16 +291,46 @@ NUMS = re.compile(
 WORDNUM = {w: i for i, w in enumerate(
     "zero one two three four five six seven eight nine ten eleven twelve "
     "thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty".split())}
-WORDNUM.update({"thirty": 30, "forty": 40, "fifty": 50})
+WORDNUM.update({"thirty": 30, "forty": 40, "fifty": 50, "sixty": 60,
+                "seventy": 70, "eighty": 80, "ninety": 90})
 
 
 def day_of(raw):
-    """'Twenty-Three' oder '27 to 28' -> 23 bzw. 27."""
+    """'Twenty-Three' -> 23, 'Two Hundred and Seventy-Nine' -> 279.
+
+    **Bis zum 27.08. rechnete das still falsch.** Die Tabelle kannte null bis
+    zwanzig, dreissig, vierzig und fuenfzig, und die Funktion summierte
+    einfach, was sie kannte: *Ninety-One* wurde 1, *Two Hundred and
+    Seventy-Nine* wurde 11. `build_register` schreibt diese Zahl als
+    Tagesspalte nach BEGEGNUNGEN.md - fuer Band 2, der den Tag ausschreibt,
+    stand dort seither durchweg eine falsche Zahl.
+
+    **Aufgefallen ist es erst, als das Kapitelverzeichnis die Zahl neben ihr
+    Datum stellte**, und im selben Kapitel *Tag 1, Fr 2. Januar* neben *Tag
+    46, Mi 25. Februar* stand. Eine Zahl allein wird nicht geprueft; eine
+    Zahl neben ihrem Datum schon. Das ist der Grund, warum das Verzeichnis
+    beides traegt und nicht nur die Nummer.
+
+    Unbekanntes Wort heisst None und nicht "die Haelfte davon". Ein Aufrufer
+    kann mit None umgehen, mit einer erfundenen Zahl nicht.
+    """
     s = raw.strip().lower().replace("-", " ").split(" to ")[0].strip()
     if s.isdigit():
         return int(s)
-    total = sum(WORDNUM[p] for p in s.split() if p in WORDNUM)
-    return total or None
+    total = teil = 0
+    for w in s.split():
+        if w == "and":
+            continue
+        if w in WORDNUM:
+            teil += WORDNUM[w]
+        elif w == "hundred":
+            teil = (teil or 1) * 100
+        elif w == "thousand":
+            total += (teil or 1) * 1000
+            teil = 0
+        else:
+            return None
+    return (total + teil) or None
 
 
 def ref(band, num):
@@ -391,6 +422,120 @@ def build_register(root, chapters):
     text = "\n".join(out) + "\n"
     write_text(os.path.join(erzeugt_dir(root), "BEGEGNUNGEN.md"), text)
     return sum(1 for n in found if found[n]), text
+
+
+TITELZEILE = re.compile(r"^#\s+Chapter\s+\d+:\s*(.+?)\s*$", re.M)
+# Drei Formen, und alle drei stehen im Text:
+#   `## Day Three Hundred and Twenty-Four · Sunday 23 August`   Band 2
+#   `*Day 46 · Tuesday 18 November*`                            Band 1
+#   `*Days 27 to 28 · Thursday 30 to Friday 31 October*`        b1 K13
+# Beim ersten Lauf fielen dreiundzwanzig Kapitel aus Band 1 durch, beim
+# zweiten noch eines. **Eine von Hand gefuehrte Liste haette keine davon
+# gemeldet** - dort tippt jemand alle drei Formen gleich ab, und die
+# Uneinheitlichkeit im Text bleibt unbemerkt. Ob sie bleiben soll, ist
+# Autorensache und keine Bausache.
+TAGZEILE = re.compile(r"^(?:##\s+|\*)Days?\s+([A-Za-z0-9\- ]+?)\s+\u00b7\s+"
+                      r"(.+?)\*?\s*$", re.M)
+
+WOCHENTAG = {"Monday": "Mo", "Tuesday": "Di", "Wednesday": "Mi",
+             "Thursday": "Do", "Friday": "Fr", "Saturday": "Sa",
+             "Sunday": "So"}
+MONAT = {"January": "Januar", "February": "Februar", "March": "Maerz",
+         "April": "April", "May": "Mai", "June": "Juni", "July": "Juli",
+         "August": "August", "September": "September", "October": "Oktober",
+         "November": "November", "December": "Dezember"}
+
+
+def tag_text(raw):
+    """'Two Hundred and Seventy-Nine' -> '279', '27 to 28' -> '27 bis 28'."""
+    teile = [day_of(s) for s in raw.split(" to ")]
+    if any(n is None for n in teile):
+        return None
+    return " bis ".join(str(n) for n in teile)
+
+
+def datum_text(raw):
+    """'Thursday 30 to Friday 31 October' -> 'Do 30. bis Fr 31. Oktober'.
+
+    Wortweise, weil die Datumsseite eine Spanne sein kann und jede Zerlegung
+    in feste Felder an der naechsten Form zerbricht. Was nicht uebersetzt
+    werden kann, bleibt stehen und wird gemeldet.
+    """
+    fehlt, out = [], []
+    for w in raw.split():
+        if w in WOCHENTAG:
+            out.append(WOCHENTAG[w])
+        elif w in MONAT:
+            out.append(MONAT[w])
+        elif w == "to":
+            out.append("bis")
+        elif w.isdigit():
+            out.append(w + ".")
+        else:
+            fehlt.append(w)
+            out.append(w)
+    return " ".join(out), fehlt
+
+
+def build_chapter_index(root, chapters):
+    """KAPITEL.md: eine Zeile je Kapitel, aus dem Kapitelkopf.
+
+    **Loest die von Hand gefuehrte Liste in doc/05 ab.** Die hatte 42.576
+    Woerter, endete bei Band 2 Kapitel 45 von 90, und jede ihrer siebzehn am
+    22. August geprueften Zeilen stand auf einer alten Fassung. Titel, Tag,
+    Datum, Fassung und Laenge stehen alle im Kapitel selbst; sie von Hand
+    danebenzuschreiben heisst nur, sich eine zweite Wahrheit zu halten, die
+    altert.
+
+    **Warum das neben MANIFEST.txt stehen darf**, obwohl sich Fassung und
+    Laenge doppeln: beide werden im selben Lauf aus derselben Quelle
+    geschrieben, koennen also nicht auseinanderlaufen. Was krank macht, ist
+    von Hand gepflegte Doppelung, nicht erzeugte. MANIFEST beantwortet
+    *welche Datei gilt*, KAPITEL *wann was passiert*.
+    """
+    zeilen, unklar = [], []
+    for band, blabel, num, ver, fname, text in chapters:
+        m = TITELZEILE.search(text)
+        titel = m.group(1) if m else "OHNE TITEL"
+        tage = []
+        for d in TAGZEILE.finditer(text):
+            nummer = tag_text(d.group(1))
+            datum, fehlt = datum_text(d.group(2))
+            if nummer is None or fehlt:
+                unklar.append("b%dch%02d: %s" % (band, num, d.group(0).strip()))
+            tage.append("Tag %s, %s" % (nummer or d.group(1), datum))
+        if not tage:
+            unklar.append("b%dch%02d: keine Tageszeile" % (band, num))
+        laenge = format(len(text.split()), ",").replace(",", ".")
+        zeilen.append("- **B%d %d** *%s* (v%d.%d) \u00b7 %s \u00b7 %s W"
+                      % (band, num, titel, ver[0], ver[1],
+                         " \u00b7 ".join(tage) or "kein Tag", laenge))
+
+    for (band, num), grund in sorted(GESTRICHEN.items()):
+        zeilen.append("- **B%d %d** gestrichen: %s" % (band, num, grund))
+
+    kopf = [
+        "# Lot Fourteen, Kapitelverzeichnis",
+        "",
+        "*Erzeugt von `build.py` aus den Kapitelkoepfen. Wird nicht "
+        "bearbeitet.*",
+        "",
+        "%d Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im "
+        "Kapitel selbst" % len(chapters),
+        "und werden hier nur eingesammelt. **Wer etwas aendern will, aendert "
+        "das Kapitel.**",
+        "",
+        "Was ein Kapitel *bedeutet*, steht nicht hier, sondern unter seinem "
+        "Thema im Kanon.",
+        "Diese Liste ist Geruest und kein Urteil.",
+        "",
+        "Gestrichene Nummern stehen am Ende und bleiben frei - siehe "
+        "`GESTRICHEN` in `build.py`.",
+        "",
+    ]
+    write_text(os.path.join(erzeugt_dir(root), "KAPITEL.md"),
+               "\n".join(kopf + zeilen) + "\n")
+    return len(zeilen), unklar
 
 
 def build_handbook(root, register=None):
@@ -604,6 +749,7 @@ def main():
         os.remove(stale)
 
     nfig, register = build_register(root, chapters)
+    nkap, unklar = build_chapter_index(root, chapters)
     ndocs = build_handbook(root, register)
 
     manifest = ["# Erzeugt von build.py. Ergebnis, nicht Eingabe.", ""]
@@ -623,10 +769,16 @@ def main():
         print(f"{blabel:<9} {n:>2} Kapitel, {w:>6} Woerter   {sub}/")
     for bname, bn, bw in books:
         print(f"{bname:<15}{bn:>2} Kapitel, {bw:>6} Woerter")
+    print(f"KAPITEL.md     {nkap} Zeilen")
     print(f"HANDBUCH.md    {ndocs} Dokumente")
     print(f"BEGEGNUNGEN.md {nfig} Figuren im Text")
     print(f"paste/         {len(chapters)} Einfuegefassungen")
     print(f"read/          {nread} Lesefassungen und book.html")
+
+    if unklar:
+        print("\nWARNUNG  %d Kapitelkoepfe nicht sauber gelesen:" % len(unklar))
+        for u in unklar:
+            print("  " + u)
 
     warn_dead_refs(root)
 

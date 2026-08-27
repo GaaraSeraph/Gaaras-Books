@@ -145,6 +145,7 @@ die Kapitelpruefung warnt nur.
 | `book-band-2.md` | Lesefassung von Band 2 am Stueck. **Erzeugt** |
 | `erzeugt/HANDBUCH.md` | Lesefassung aller Regeln und des Kanons. **Erzeugt** |
 | `erzeugt/BEGEGNUNGEN.md` | Wer wann vorkommt, mit Tag und Fundstelle. **Erzeugt** |
+| `erzeugt/KAPITEL.md` | Eine Zeile je Kapitel: Titel, Fassung, Tag, Datum, Laenge. **Erzeugt** |
 | `erzeugt/MANIFEST.txt` | Baubericht. **Erzeugt** |
 
 | Ordner | Was |
