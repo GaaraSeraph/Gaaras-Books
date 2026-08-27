@@ -1877,7 +1877,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Bewusster Widerhall:** *"You are a very strange young man"* steht gegen Mr Byuns *"Then you are a very cruel young man"* aus Kapitel 22. Zwei Urteile ueber denselben Mann aus zwei Zimmern, und das Buch faellt keines davon selbst.
 
-- **Band 2, Kapitel 33** *The best company in the room* (v1.7) - **Tag 243 und 244, Mi 3. und Do 4. Juni. Am 26.08. aus 33 und 34 zusammengelegt: die Tuer ohne Namen, und in derselben Nacht das Heft von Januar an.**
+- **Band 2, Kapitel 33** *The best company in the room* (v1.8) - **Tag 243 und 244, Mi 3. und Do 4. Juni. Am 26.08. aus 33 und 34 zusammengelegt: die Tuer ohne Namen, und in derselben Nacht das Heft von Januar an.**
 
   **Georgij bricht sein eigenes Muster:** zum ersten Mal seit Januar (in Wahrheit seit dem 20. Maerz, als er die vierte Zeile zum ersten Mal ausspricht) legt er eine laufende Ermittlung offen, bevor sie ihn etwas kostet, statt danach. *"Since the flower shop, the only money that has gone into this is what you already handed me yourself, and I have not used your name once. I only noticed this morning that both of those were decisions, and I had not told you I was making them."* **Korrigiert am 24.08.:** die erste Fassung liess ihn behaupten, er habe "not spent a won" - falsch, Annie hatte ihm das Bargeld fuer den Blumenladen selbst gegeben (Kapitel 31).
 
@@ -2720,7 +2720,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und ob die Hausprovision irgendwo auftauchen muss.
 
 
-- **Band 2, Kapitel 57** *Nobody paid* (v1.9) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+- **Band 2, Kapitel 57** *Nobody paid* (v1.10) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
@@ -2861,7 +2861,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt am Sonntag. *"He did not leave that service under a cloud. Somebody put
     him where he is."*
 
-- **Band 2, Kapitel 61** *The doorway* (v1.8) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 61** *The doorway* (v1.9) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Woos Zollakte wurde am **11. April 2002** geschlossen, ohne Begruendung.
@@ -2892,7 +2892,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
-- **Band 2, Kapitel 62** *At thirty* (v1.13) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+- **Band 2, Kapitel 62** *At thirty* (v1.14) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
@@ -3454,7 +3454,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     eine Notiz im Wagen. **Zwei Maenner lesen das als Abschied, und keiner von
     beiden war am siebten in dem Zimmer.**
 
-- **Band 2, Kapitel 75** *The man at the table* (v1.2) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
+- **Band 2, Kapitel 75** *The man at the table* (v1.3) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Er gibt es in Woos Reihenfolge und verbessert nichts daran.** Woo als Tuer;
@@ -3619,7 +3619,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
 
-- **Band 2, Kapitel 78** *The only line out* (v1.5) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
+- **Band 2, Kapitel 78** *The only line out* (v1.6) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
 
   **Am 26.08. aus 78 und 79 zusammengelegt.** Beide Haelften tun dasselbe: am
   Donnerstag faellt die letzte Leitung zu Ahn Jung-hee, am Montag verschliesst
@@ -4087,7 +4087,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt nicht von einem Mann) und Georgijs Zusage aus Kapitel 63 (*"Somebody is
     going to stand underneath her before anybody takes the floor away"*).
 
-- **Band 2, Kapitel 87** *The first hour* (v1.3) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
+- **Band 2, Kapitel 87** *The first hour* (v1.4) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die erste Stunde hat zwei Menschen darin und keiner davon wohnt in dem Haus.**
@@ -4143,50 +4143,107 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     him legible."* Zum ersten Mal in acht Monaten liegt ein Dokument auf einem
     Tisch, in dem Chois **Absicht** steht.
 
-- **Band 2, Kapitel 88** *The invitation* (v1.3) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
+- **Band 2, Kapitel 88** *Please guide me* (v2.0) - **Tag 399, Fr 6. November. Das Endgespraech. Georgij geht allein, und die Guidance kommt zurueck.**
 
-  **Nachgetragen und inhaltlich geprueft am 26.08.**
-  - **Die Einladung kommt per Hand**, vier Zeilen, ohne Absender, fuer den naechsten
-    Abend, und sie erwaehnt nichts. **Choi weiss seit etwa dem 28. Oktober**, weil
-    das Namensfeld auf dem Formular nicht optional ist, und hat acht Tage lang
-    nichts damit getan, ausser herauszufinden, wie man ihr schreibt.
-  - **Annie entscheidet in vier Minuten und nennt drei Gruende, von denen nur der
-    dritte der Grund ist:** *"He has never in his life had to ask anybody for
-    anything, and I am going to walk into a room and ask him for something in front
-    of two witnesses."*
-  - **Choi Dae-ho steht auf, neunundfuenfzig, und ist der Einzige im Raum ohne Glas
-    in der Hand.** Sein erster Satz ist die Formel im Original: **"It has been very
-    good to see you again."** Sie ist in neun Monaten aus vier fremden Muendern
-    gekommen, und keiner der vier wusste, woher er sie hatte.
-  - **Er stellt ihr in zwei Stunden keine einzige Frage ueber sie selbst.** Er
-    erzaehlt ihr stattdessen von den Fotografien ihres Vaters, die er nie gesehen
-    hat, und von einem Mittagessen im Fruehjahr 2002. **Jedes Wort davon ist wahr.**
-  - **Annie sagt das Ganze in neun Minuten**, in der Reihenfolge, vor jeder Bitte.
-    Baek Jun-hos Namen nennt sie nicht und muss ihn nicht nennen.
-  - **CHOIS ANTWORT IST DAS EINZIGE, WAS ER JE TUT, und sie kommt vor der Bitte:**
-    Moon Hae-sook wird am 12. verlegt, ein Platz bei Chuncheon mit Nachmittagsgarten,
-    **und das Personal dort hat ihre Akte seit der zweiten Augustwoche.**
-  - **AUGUST IST VOR ALLEM.** Vor dem Brief, vor dem Formular, vor dem Preis, vor
-    den acht Tagen, **vor dem Tag, an dem irgendwer in dem Haus wusste, dass Moon
-    Hae-sook einen Namen hat.** *"It was arranged before it could be asked for. It
-    is always arranged before it can be asked for."*
-  - **Sie fragt trotzdem, in einem vollstaendigen Satz** - *"I want her"* - und
-    bekommt *"You may have her"*, ohne Bedingungen, ohne Gegenleistung, ohne
-    Papier. **Der Trust zahlt weiter, weil Choi ihn nicht stoppen kann:** *"It was
-    not built for this."*
-  - **Und die Zeile an Georgij, die keine Drohung ist und nicht dazu gemacht werden
-    kann:** *"You went to Mapo on the fourth of September. That was correct. If you
-    had gone in March I would have moved them both in April."* Dann noch einmal die
-    Formel, diesmal an ihn.
-  - **IM WAGEN FAELLT DIE ENTSCHEIDUNG DES BANDES.** Georgij nennt sie mit Datum,
-    damit er sie im Januar nicht umdeuten kann: am 23. April hat er in Yeouido
-    gesagt, er werde Choi vor Jahresende haben. **Er wird ihn nicht haben.** *"He
-    does not own anything... I have spent eight months looking for the document and
-    the document is a kindness."*
-  - **Annies Schlusssatz ist der haerteste des Bandes:** *"You will spend the rest
-    of your life knowing that he could have been asked in August and would have said
-    yes, and that nobody asked. That is the entire mechanism, and there is no
-    version of it in which he is at fault for it."*
+  **Neu geschrieben am 27.08., weil das Endgespraech aus `doc/07-next.md` verworfen
+  worden war und die Fassung v1.x etwas anderes tat. Es ist die Zusammenfuehrung
+  zweier paralleler Ueberarbeitungen desselben Kapitels:** die Szene und ihre
+  Achse kommen aus dem Plan, **das Ende aus der v1.3**, und die Formel steht in
+  der dort korrigierten Form ohne *very*. Der Plan dort ist
+  ausdruecklich verbindlich und wird jetzt eingeloest. Was sich gegenueber v1.x
+  aendert, ist nicht der Ausgang, sondern **wer im Raum ist und womit bezahlt
+  wird.**
+
+  **ANNIE GEHT NICHT HIN, und sie entscheidet das selbst.** Georgijs Begruendung
+  ist die Serie aus Kapitel 81: geht sie, ist es ein Treffen zweier Leute, die
+  etwas besitzen, und in neun Jahren steht ein Name auf der einen und einer auf
+  der anderen Seite und ein Abendessen dazwischen. **Es geht nur ohne Handel, und
+  ohne Handel geht nur, wer nichts zu handeln hat.** *"I am the only person you
+  could send who cannot make it into a transaction, because there is nothing on my
+  side of the table to put on it."* Damit wird Regel 2 - er besitzt nichts - zum
+  ersten Mal im Buch zu seiner **Qualifikation** statt zu seiner Grenze.
+
+  **Annies Warnung vorher, und sie trifft zu:** *"He is going to be very good to
+  you, and he is going to mean it, and that is the part nobody has prepared you
+  for."*
+
+  **Choi steht auf, neunundfuenfzig, haelt als Einziger kein Glas und isst
+  nichts.** Sein erster Satz ist die Formel im Original - **"It has been very good
+  to see you again"** - und **Georgij gibt sie ihm sofort zurueck.** Sie ist in
+  neun Monaten aus vier fremden Muendern gekommen (Sim an vier Tueren, Mrs Gwak,
+  Yeom), und keiner der vier wusste, woher er sie hatte. Zurueckgegeben heisst
+  sie: ich weiss, dass sie von Dir kommt.
+
+  **DIE SACHE IST SCHON ENTSCHIEDEN, BEVOR DAS GESPRAECH ANFAENGT.** Moon Hae-sook
+  ist am Mittwoch um zwanzig nach vier aus dem Haus gekommen. **Nicht weil Choi
+  sie hergegeben hat, sondern weil Baek Jun-ho als Treuhaender entschieden hat, wo
+  die Pflege stattfindet** - kraft der Ermessensklausel, die Choi ihm vor elf
+  Jahren selbst gegeben hat. *"You built a thing eleven years ago so that you could
+  not switch it off, and you were careful about it, and you were right to be. It
+  has been switched on for eleven years and it has never once been yours."*
+  **Sein eigenes Instrument, gegen ihn, ohne dass jemand ihn angegriffen hat.**
+
+  **Und der Text nimmt ihm den Trost nicht weg:** Choi haette ja gesagt, der Platz
+  bei Chuncheon war seit der zweiten Augustwoche vorbereitet, und **er waere besser
+  gewesen als ein Zimmer mit einer Tagespflegerin.** Georgij bestaetigt das
+  vollstaendig - *"It is entirely true and you know it is."* - **"Yes."** Und legt
+  nichts dahinter, und das Nichts-dahinter-Legen ist der ganze Rest.
+
+  **Die Zeile, die der Plan vorgibt, steht:** *"You were at a table twenty-three
+  years ago with a girl of fourteen at it, and she was the only person in that
+  house who ever noticed that you did not eat. [...] You have been careful for
+  thirty-one years about every person in this trade who could cost you something.
+  You have never once been careful about the one who was watching."*
+
+  **DER TODESSTOSS IST EINE BITTE.** *"Please guide me. Who should I be careful
+  of?"* - beides in Band 1, Kapitel 33 oeffentlich beerdigt (`doc/01-craft.md`).
+  Bei Woo und Sang-hoon war die Frage **Entnahme**; hier holt sie nichts und kann
+  nichts holen. **Dieselben Worte, umgekehrte Funktion.** Choi antwortet nicht,
+  weil es keine Antwort gibt: jeder Name waere ein Geschenk, es ist niemand mehr
+  da, dem man ihn geben koennte, und beide wissen, dass es nie um einen Namen ging.
+  **Sein Urteil darueber ist zugleich das haerteste Lob des Bandes:** *"That was
+  very well done."*
+
+  **DAS ERSTE DER ZWEI KALTEN LAECHELN, und es faellt genau hier.** Die breite
+  Fassung, in Daejeon mit einundzwanzig gebaut, eine Viertelsekunde zu spaet
+  (Band 1, Kapitel 7). **Er hat sie neun Monate lang an Tueren aufgesetzt und dort
+  gelassen. Kalt benutzt er sie zum ersten Mal.** Nicht frueher in der Szene - sie
+  kommt **mit** der Bitte und nicht mit der Begruendung davor.
+
+  **DAS ZWEITE KALTE LAECHELN, zwei Stunden spaeter am Schreibtisch**, und es
+  loest Annies zweite Bedingung vom 3. April ein (Kapitel 12), die seit dem
+  30. April offenstand: *"I am sorry, Mistress. I could not keep what I told you
+  before."* - **das Laecheln kommt, waehrend er sich entschuldigt** - *"I enjoyed
+  telling you this very much."* Auf ihre Frage, welcher der beiden Saetze der wahre
+  ist: **"Both of them, Mistress. That is why I brought them together."**
+
+  **Kein drittes kaltes Laecheln im Buch. Wer eines einbaut, verbraucht eines von
+  zweien.** Es ist der Zwilling der Schlusszeile des Bandes: zweimal verliert er
+  die Fassung, einmal kalt (*ich habe es genossen*), einmal warm (*danke, dass Du
+  mich gekauft hast*). Derselbe Mann, dieselbe Mechanik, entgegengesetzte Richtung.
+
+  **Was aus v1.x erhalten bleibt:** der Raum in Seongbuk ohne Schild, die sechs
+  Leute, dass niemand ein Wort ueber die Sache sagt, Chois Erzaehlungen (der
+  Schiffsmann in Incheon, das Mittagessen 2002), dass jedes Wort davon wahr ist,
+  und **die Entscheidung aus der parallel entstandenen v1.3, hier uebernommen: er
+  wird ihn haben.** Nichts ist Choi **abzunehmen** - das bleibt richtig und Georgij
+  sagt es ihm - aber etwas ist ihm **wegzunehmen:** neun Menschen, die zwischen ihm
+  und dem Rest seines Lebens stehen und nicht wissen, was er ihnen angetan hat.
+  *"Something can be taken away from you, and it is not the same word."* Er
+  kuendigt es ins Gesicht an, ohne Drohung: er geht zu den neun, der Reihe nach,
+  sagt nichts Unwahres und bittet um nichts. **Damit ist die Zusage vom 23. April
+  gehalten** (`doc/13`) und das Buch hat keine gebrochene Zusage.
+
+  **Und Choi benennt selbst, was das ist:** *"That is what your employer's father
+  did to me."* Georgijs Antwort ist die einzige, die er hat: *"Except that he did
+  it to get you, and I am doing it to be finished with you, and I have thought
+  about whether that is a difference for four days."* Auf die Nachfrage, ob es eine
+  ist: **"I do not know. I have decided to do it anyway."**
+
+  **Was entfaellt:** Annie am Tisch, Chois muendliche Freigabe (*"You may have
+  her"*), die Verhandlung ueber Bedingungen, und der Satz *"It was arranged before
+  it could be asked for"* als Erzaehlerkommentar - **die Sache selbst steht
+  weiterhin im Text, jetzt aber aus Chois eigenem Mund und ohne Erzaehlerurteil.**
 
 - **Band 2, Kapitel 89** *What became of them* (v1.0) - **Tag 404 bis 411, Mi 11. bis Mi 18. November. Vier Menschen bekommen das Ganze, und keiner will den Teil, den er acht Monate gebaut hat.**
 

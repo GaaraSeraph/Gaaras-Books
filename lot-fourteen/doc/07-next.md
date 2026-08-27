@@ -568,8 +568,25 @@ oben in diesem Dokument und gilt für diese Szene besonders.
 
 ### Das Endgespraech
 
-**Der Entwurf des Autors liegt in der Datei "Choi Gespraech" im Projektordner und
-ist verbindlich.**
+**GESCHRIEBEN am 27.08. als Band 2, Kapitel 88 *Please guide me* (v2.0).** Alles
+in diesem Abschnitt ist eingeloest und steht hier nur noch als Beleg, wie es
+gemeint war. **Der Text gilt; dieser Abschnitt wird nicht mehr gepflegt.**
+
+**Vorgeschichte, weil sie fuer den naechsten Durchgang wichtig ist:** Der Plan war
+verworfen und durch *The invitation* ersetzt worden - Annie am Tisch, Choi gibt
+Moon Hae-sook muendlich her, **kein Laecheln und keine Guidance.** Auf Anweisung
+des Autors wiederhergestellt. **Das Ende stammt aus der v1.3, die parallel
+entstand: *I am going to have him*, ueber die neun Menschen, die nichts wissen.**
+Beides zusammen ist die v2.0.
+
+**Eingeloest:** Annie nicht im Raum; die Formel im Original und zurueckgegeben;
+die Zeile ueber das Maedchen von vierzehn; *"Please guide me. Who should I be
+careful of?"* als Todesstoss; das erste kalte Laecheln genau dort; das zweite beim
+Bericht an Annie, samt ihrer zweiten Bedingung vom 3. April.
+
+**Der Entwurf des Autors lag in der Datei "Choi Gespraech" im Projektordner und
+war verbindlich.** *(Die Datei liegt nicht im Repo - beim Schreiben stand nur
+dieser Abschnitt zur Verfuegung.)*
 
 **Stand 25.08.: Band 2 hat 45 Kapitel.** Das alte Kapitel 46 (die Maschine) ist
 in Kapitel 44 aufgegangen, weil 44 und 46 zweimal dieselbe Form hatten -

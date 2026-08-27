@@ -1,11 +1,15 @@
-Book Two · Chapter 33: The best company in the room
-Lot Fourteen · Version 1.7 · EN
+# Chapter 33: The best company in the room
+*Lot Fourteen* · Version 1.8 · EN
 
-Day Two Hundred and Forty-Three · Wednesday 3 June
+## Day Two Hundred and Forty-Three · Wednesday 3 June
 
 He put everything on the desk before breakfast, in the order it had come to him and not the order that made him look best.
 
+---
+
 Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied page from the exercise book. The two flower slips. The notebook, open at the right page.
+
+---
 
 Annie stood over it for a while and did not touch any of it.
 
@@ -17,7 +21,11 @@ Annie stood over it for a while and did not touch any of it.
 
 "Because on Friday I promised you something and I have been keeping it by accident since Saturday," said Georgij. "Since the flower shop, the only money that has gone into this is what you already handed me yourself, and I have not used your name once. I only noticed this morning that both of those were decisions, and I had not told you I was making them."
 
+---
+
 Annie sat down and picked up the flower slips first.
+
+---
 
 She read them twice.
 
@@ -33,6 +41,8 @@ She read them twice.
 
 "Because the man who wanted it hidden had a fee paid for him rather than let anybody know he could have had it for nothing," said Georgij. "That is not a man who telephones a flower shop himself. That is a man who has somebody else do it, and is careful never to be in the room when it happens."
 
+---
+
 Annie put the slips down.
 
 "And the two addresses."
@@ -45,6 +55,8 @@ Annie put the slips down.
 
 "The third is the one that matters, because it means the desk is not protecting the person inside it. It is protecting whoever is paying for the silence, and the person inside it may not know that is what is happening to them at all."
 
+---
+
 The house was quiet.
 
 "You have not gone to either of them."
@@ -52,6 +64,8 @@ The house was quiet.
 "No."
 
 "Say why, and I want the true one, not the one that sounds like restraint."
+
+---
 
 Georgij stood with his back straight.
 
@@ -61,19 +75,27 @@ Georgij stood with his back straight.
 
 "This one has been paying to keep a secret for at least four years and has never once had to explain himself to anybody. I do not know what that kind of man does when a stranger stands in his corridor and says a true sentence at him."
 
+---
+
 Annie looked at the notebook, open on the desk, and did not read it upside down, because she does not need to.
 
 "So you brought it to me instead of finding out."
 
 "I brought it to you because if it goes wrong, it does not go wrong to me alone," said Georgij. "It goes wrong to whoever I work for, in whatever room I am standing in when it happens. I have spent eight months learning that the hard way about other people's names. I did not check whether it was also true of mine."
 
+---
+
 Something in her face did not move and something behind it did.
 
 "That is the first time you have said that sentence in this house," said Annie.
 
+---
+
 He had said that he has a name, and he had said it as a hazard and not as a possession.
 
 "I know."
+
+---
 
 She stood up and went to the window, the way she had on Friday, and stood with her back to the room.
 
@@ -82,6 +104,8 @@ She stood up and went to the window, the way she had on Friday, and stood with h
 "The rule, then."
 
 "You do not go near either address without telling me first," said Annie. "Not asking. Telling. I am not going to be the one who says no to this, because it is not mine to say no to. But I am not going to be the one who finds out from Ku that you did not come home either."
+
+---
 
 Georgij stood very still.
 
@@ -93,17 +117,25 @@ Georgij stood very still.
 
 "It is a great deal slower, and you are going to do it anyway. You have just spent five minutes telling me that the reason you have not gone is that you do not know what you are walking into, and the answer to not knowing is not to walk in faster."
 
+---
+
 He had no argument for that and did not look for one.
 
 "Yes, Mistress."
 
+---
+
 Annie's mouth moved, very slightly, at the second word, and she did not comment on it and neither did he.
+
+---
 
 She gathered the papers into one stack, squared them, and put them in the drawer that locks.
 
 "Copies," she said. "You keep the notebook."
 
 "Yes."
+
+---
 
 She picked the folded sheet back up before it went in the drawer and read it a third time.
 
@@ -114,6 +146,8 @@ She picked the folded sheet back up before it went in the drawer and read it a t
 "That is not nothing to be able to do."
 
 "It is not nothing to have had to learn to do it on people who trusted the wrong things for twenty years first."
+
+---
 
 Annie put the sheet in the drawer with the rest.
 
@@ -127,6 +161,8 @@ Annie put the sheet in the drawer with the rest.
 
 "That is either very disciplined or very frightened, and I am not certain which," said Annie, "and I do not think you are certain either."
 
+---
+
 He did not answer that, because she was right and he had not decided.
 
 "There is also Sang-hoon's four," she said. "He gave you a task in a shed last week and I have heard nothing about it since, and I notice that you have brought me everything except that."
@@ -137,6 +173,8 @@ He did not answer that, because she was right and he had not decided.
 
 "I intend to."
 
+---
+
 At the door, on his way to whatever the morning had been going to be before he emptied his pockets on her desk, she said one more thing.
 
 "Georgij."
@@ -144,6 +182,8 @@ At the door, on his way to whatever the morning had been going to be before he e
 "Yes."
 
 "You have been doing this since March and I have only just been told the shape of it," said Annie. "I would like to know how many other things are sitting in that notebook that I have not seen."
+
+---
 
 He turned round.
 
@@ -153,9 +193,15 @@ He turned round.
 
 "Mistress." He said it plainly, not as an endearment. "You have not, and you will not ever, hear a different kind of answer from me."
 
+---
+
 She did not say anything to that, and he went out into a house where nobody had raised their voice.
 
+---
+
 He stopped in the corridor and went back.
+
+---
 
 Annie had the drawer open again and was putting the copies in it in the order he had given them to her, which she did not have to do and was doing anyway.
 
@@ -163,9 +209,13 @@ Annie had the drawer open again and was putting the copies in it in the order he
 
 "There is always one more thing with you. Say it standing where I can see you, not from the doorway."
 
+---
+
 He came back into the room.
 
 "Thank you," he said. "For not asking me why it took until this morning."
+
+---
 
 Annie closed the drawer and turned the key.
 
@@ -175,7 +225,11 @@ Annie closed the drawer and turned the key.
 
 "Go and have your coffee before it is cold," said Annie, "and send Jang up to me on your way past the kitchen. Do not tell him what for."
 
+---
+
 He did not ask what for either. That is a thing he has learned to do only since Friday, and it cost him something to do it standing in that room. It would have cost him nothing at all on a bus.
+
+---
 
 Jang was in the kitchen doorway with a cup he had not started on, which is a thing Jang does when he has already decided to go somewhere and is waiting to be told to.
 
@@ -185,51 +239,77 @@ Jang was in the kitchen doorway with a cup he had not started on, which is a thi
 
 "Now."
 
+---
+
 Jang put the cup down without drinking from it.
 
 "You are not coming."
 
 "No," said Georgij. "This part is not mine yet."
 
+---
+
 Jang looked at him for a moment the way a man looks at a colleague he has decided not to ask a question of.
 
 "Coffee's on the stove," he said, and went.
 
+---
+
 Georgij stood in the kitchen on his own and poured a cup he had been told to have, and it was, in fact, nearly cold.
 
-———
+* * *
 
-Day Two Hundred and Forty-Four · Thursday 4 June
+## Day Two Hundred and Forty-Four · Thursday 4 June
 
 He could not sleep and did not try very hard.
 
+---
+
 At about one he took the notebook downstairs and read it from January forward, which he has never done in one sitting, because a page read on its own day never looks like the page next to it.
 
-Yeom, four years ago, on the telephone: glad we had met. Two people who have never spoken to each other, one sentence.
+---
+
+*Yeom, four years ago, on the telephone: glad we had met. Two people who have never spoken to each other, one sentence.*
 
 He had written that on Saturday and underlined nothing, because on Saturday it was one fact among many.
 
+---
+
 Eleven pages earlier, in different ink, from a shed with a hull in it:
 
-He tells people he is glad they have finally met. The first time. When they have never met.
+*He tells people he is glad they have finally met. The first time. When they have never met.*
 
-Have you ever watched him eat.
+*Have you ever watched him eat.*
+
+---
 
 Georgij sat at the small table with both entries open in front of him.
 
+---
+
 He read them across from each other for a long time before he let himself think the sentence, because the sentence, once thought, does not go back into the notebook.
 
-Now it does not need her to have been right alone.
+---
+
+*Now it does not need her to have been right alone.*
+
+---
 
 He has known since the twenty-seventh of May whose habit this is. Annie has known since she was thirty, and before that since she was fourteen, and neither of those is a thing that can be shown to anybody. A daughter's memory is not evidence. It is the truest thing in the house and it would not survive a single hard question from a stranger.
 
 What sat on the table in front of him at one in the morning was not a name. It was two people who had never met Choi Dae-ho in their lives, four years and one telephone call apart, describing the same six words in the same shape. Two witnesses who owe him nothing and have never heard of each other.
 
+---
+
 He made himself take it apart before he trusted it, the way he would have taken apart anybody else's claim.
 
 Two people, four years and one telephone number apart, who each told a stranger they had never met that it was good to see them again. That is a habit, and habits are not evidence. A habit shared by two different men is a coincidence. A habit that specific, said in that exact shape, twice, four years apart, to a florist and to a businessman who had never laid eyes on the caller either time, is not a coincidence twice.
 
+---
+
 He wrote nothing new in the notebook. He sat with the two old pages open and let the rest of it arrive on its own, because it does that faster when it is not chased.
+
+---
 
 Byun: paid from a pocket, in an envelope already made up, so that the money would be in the right place and nobody would ever have to explain where it had come from.
 
@@ -237,19 +317,31 @@ Yeom: given a position that paid more than the house was worth, in a winter when
 
 Sang-hoon: eight years of dinners with a man who has never eaten in front of him and four decisions he has never been able to account for.
 
+---
+
 A man who arranges other people into rooms and does not sit at the table himself.
 
 A man who pays to have his own name kept out of a ledger four years after the fact, because being owed nothing was worth more to him than the money he spent proving it.
 
 A man whose only mistake in this whole business is a sentence he cannot stop himself from saying to strangers. It is the sentence he uses on everybody, and he has said it so many times that it has worn a groove.
 
+---
+
 That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other than in Annie's own memory of a room she was not old enough to be allowed into.
+
+---
 
 There is a third thing, and it took him longer to find because it was not in either page. It was in what both men had been holding when the sentence landed.
 
+---
+
 Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs Gwak, behind a counter she has stood behind for thirty years, had never had an order from him before that morning and went and checked. In both rooms the sentence was aimed at somebody who had absolutely nothing to compare it against, and in both rooms it worked anyway, because a compliment that cannot be checked is the only kind that is never wrong.
 
+---
+
 Georgij sat in the small room until the window went from black to grey.
+
+---
 
 He went up at half past six and Annie was already awake, which she should not have been either.
 
@@ -257,7 +349,11 @@ He went up at half past six and Annie was already awake, which she should not ha
 
 "No."
 
+---
+
 He put the notebook on the desk, open at the two pages, and did not say anything else until she had read both of them.
+
+---
 
 Annie read them the way she reads everything that matters, twice, and the second time slower.
 
@@ -267,23 +363,31 @@ Annie read them the way she reads everything that matters, twice, and the second
 
 "That is not nothing."
 
+---
+
 Annie kept her eyes on the page.
 
 "It is not proof of anything I could take to a room full of strangers, but it is a great deal more than I have ever had. I have carried this since I was fourteen years old and I have never once been able to hand it to another person and have them check it for themselves. This morning I can."
+
+---
 
 Annie sat with both hands flat on the desk.
 
 "Say what it actually gets us," she said, "because I do not want to sit here being moved by it before I know what it does."
 
-"It gets us two witnesses outside this house who can independently describe the same man, without either of them knowing the other exists." Georgij kept his hands where she could see them. "It gets us two addresses and a doctor who was paid through a lot number, and none of that was written down by you or by me. It does not get us a court. It gets us the first thing in twenty-four years that is not only your word."
+"It gets us two witnesses outside this house who can independently describe the same man, without either of them knowing the other exists." Georgij kept his hands where she could see them. "It gets us two addresses and a doctor who was paid through a lot number, and none of that was written down by you or by me. It does not get us a court. It gets us the first thing in twenty-three years that is not only your word."
 
 "Yes."
 
 "Then the florist is not safe either," she said.
 
+---
+
 Georgij had not got that far and it went into him properly.
 
 "No," he said. "She is not."
+
+---
 
 Annie stood up.
 
@@ -297,9 +401,13 @@ Annie stood up.
 
 "Keep it that way."
 
+---
+
 She stopped with her hand on the frame.
 
 "You are not to tell Sang-hoon that any of this has gone further than it had in the shed," said Annie. "Not the florist and not the addresses. He already has the man. He does not get the rest of it yet."
+
+---
 
 Georgij looked at her for a moment before he answered. The last time he had held a piece of information back from a man who had asked him for it, it had cost him a great deal to say so out loud, four days ago, in this same room.
 
@@ -307,9 +415,15 @@ Georgij looked at her for a moment before he answered. The last time he had held
 
 "It may touch all four of them," she said, "and that is exactly why. If you hand him a florist and an address he cannot yet protect, in a week where he has already told you he will not be useful to you again this year, he will act on it. He will act before either of us has decided what acting on it should look like." She looked at him. "That is not something either of you can take back. You said it yourself on Wednesday. If this goes wrong, it does not go wrong to you alone."
 
+---
+
 Georgij stood very still.
 
+---
+
 He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs Jeon's kitchen table, the counter in Hyoja-dong. Every one of those rooms he walked into on his own clock. Every one of them he could afford to be wrong in, because the man on the other side of the table had nothing left to do to him.
+
+---
 
 This was the first time in eleven weeks that being told to wait was not an insult and he still had to make himself hear it as anything else.
 
@@ -321,7 +435,11 @@ This was the first time in eleven weeks that being told to wait was not an insul
 
 "Then you will have cost nobody four days that mattered," she said. "And if it comes to something, you will have cost him four days he did not know he was being given, which is the only kind of head start anybody has ever had on a man like that."
 
+---
+
 She went out.
+
+---
 
 Mrs Seo came in with coffee he had not asked for and put it down without comment. It is a thing she has done exactly twice this year, and both times it was because somebody in the house had not been to bed.
 
@@ -331,26 +449,40 @@ Mrs Seo came in with coffee he had not asked for and put it down without comment
 
 "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things than for people who tell me half of them." She looked at him for a moment on her way to the door. "Drink it before it goes cold. You did that yesterday as well."
 
+---
+
 She went out and left him with the cup and the notebook.
 
+---
+
 Georgij sat down at the desk with the notebook still open at the two old pages.
+
+---
 
 He read the entry from the shed again, in his own handwriting, from a week ago.
 
 On the day he wrote it he had already had the name for two days. He had still needed Sang-hoon to say it, in a room with a hull in it, before it felt like a fact and not a thing Annie had believed since she was a child.
 
+---
+
 He drank the coffee, which had already started to go cold.
+
+---
 
 He thought about a woman in a flower shop who had gone back three years in her own order book because she did not like being wrong about a customer. She had answered every question he put to her without once asking what it was for.
 
 She had trusted him because he had not told her a story. He had not thought, until this morning, to ask himself what he had actually asked her to carry.
 
+---
+
 The girl who had gone up the ladder for the blue books. The husband who used to copy cards into a register that nobody but a stranger would ever read again. A driver who had spent eighteen years writing down where every delivery went, and had no way of knowing that one slip of it would be worth what it was worth to anybody.
 
 None of them had asked for any part of this. All of them had, without knowing it, corroborated a fourteen-year-old's memory that nobody had ever been able to check.
 
+---
+
 He wrote one line and closed the notebook.
 
-Four days. Not hers to lose either.
+*Four days. Not hers to lose either.*
 
 He did not mean Annie when he wrote it, and he sat with that for a while before he let himself notice which woman he had meant instead.

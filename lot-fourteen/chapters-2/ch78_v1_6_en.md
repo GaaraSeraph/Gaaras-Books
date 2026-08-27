@@ -1,7 +1,7 @@
-Book Two · Chapter 78: The only line out
-Lot Fourteen · Version 1.5 · EN
+# Chapter 78: The only line out
+*Lot Fourteen* · Version 1.6 · EN
 
-Day Three Hundred and Sixty-Three · Thursday 1 October
+## Day Three Hundred and Sixty-Three · Thursday 1 October
 
 Mrs Jeon started at Gwangyang on the Thursday.
 
@@ -13,7 +13,7 @@ He worked out in under a minute what the call would be. It would be a call to fi
 
 He wrote the date in the book and put the twenty-third of October under it and did not telephone.
 
-———
+* * *
 
 Sim telephoned the house in Gangwon-do at ten past five, three days after he had last done it and on no schedule that anybody had ever agreed to.
 
@@ -27,7 +27,7 @@ He telephoned again at twenty past. It rang again and nobody answered.
 
 At six o'clock he tried a third time and got the tone that means the line has been disconnected, and that was the whole of it, and it had taken fifty minutes.
 
-———
+* * *
 
 He came to the house.
 
@@ -43,7 +43,7 @@ He stood in the hall and would not take it off.
 
 "I would rather stand, and I know what that looks like."
 
-———
+* * *
 
 She did not make him do it and she did not say anything about it afterwards.
 
@@ -67,7 +67,7 @@ Sim did not move for a moment.
 
 "You did not know. She did." Annie did not blink. "She spent her last one on you because you were the only line out. That is not something to carry badly."
 
-———
+* * *
 
 He was in the hall for about eleven minutes altogether.
 
@@ -89,11 +89,11 @@ Sim stood on the step for a moment.
 
 "Then it was answered."
 
-———
+* * *
 
-———
+* * *
 
-Day Three Hundred and Sixty-Four · Friday 2 October
+## Day Three Hundred and Sixty-Four · Friday 2 October
 
 She said it at nine in the morning in the small room and she said it standing up, which is how she does the ones she has decided about overnight.
 
@@ -105,13 +105,13 @@ Georgij put the folder down.
 
 "I was going to ask him. I have had it written down since Tuesday and I have read it about nine times." She had both hands flat on the desk. "He sat at my father's table for nineteen years, and there are four questions I could put to him that nobody else alive can answer, and I am not going to put any of them. I am going out there on Monday to tell him so to his face, because he is owed that and a letter is not it."
 
-———
+* * *
 
 "There is a version where you do not go," said Georgij. "You send the letter and it is correct and nobody could fault it. I am not recommending it. I am putting it on the table because if I do not, you will decide in an hour that you thought of it and dismissed it, and you will not have."
 
 "That is the second time this month you have done that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. I sent four letters a fortnight ago and one of them came back with six words on it, and I am not going to learn that lesson twice at somebody else's expense."
 
-———
+* * *
 
 "There is a thing you have not said," said Georgij, "and I am going to say it badly, and you can correct the wording."
 
@@ -127,7 +127,7 @@ She went to the window.
 
 "Monday, at ten. He is seventy-eight and he does not do afternoons well, and I am going to him and he is not coming here. And you are going to be in the room."
 
-———
+* * *
 
 Georgij stood very still.
 
@@ -143,7 +143,7 @@ Georgij stood very still.
 
 "Then go and find out which of those four questions can be answered by somebody who is not him, and do not be kind about it, and have it on my desk by six."
 
-———
+* * *
 
 It took him until half past four, and the four questions do not sort into four answers.
 
@@ -161,9 +161,9 @@ Annie stood in the passage with the sheet in her hand.
 
 "You have got better at that than I would like," she said, and went upstairs, and that was the end of the week.
 
-———
+* * *
 
-Day Three Hundred and Sixty-Seven · Monday 5 October
+## Day Three Hundred and Sixty-Seven · Monday 5 October
 
 She did not take anything with her.
 
@@ -171,7 +171,7 @@ No folder, no plan, and not the sheet with the three kinds on it, which she had 
 
 Mr Ku had them there at four minutes to ten.
 
-———
+* * *
 
 The house is older than the road it stands on and has been added to twice, both times badly, and Chairman Woo has lived in it since 1979.
 
@@ -187,7 +187,7 @@ He looked at Georgij for slightly longer than a host looks at anybody.
 
 "I am here to tell you why I am not going to," said Annie. "And there is a thing before that which is worse, and you have worked that out in the hall, and I want to do the rest of it sitting down."
 
-———
+* * *
 
 The room he uses has four chairs in it and one of them is his, and there is a table with nothing on it.
 
@@ -201,7 +201,7 @@ Woo did not move at all.
 
 "On the eighteenth of September I asked him what you had said, and he told me, and he told me the whole of it in your order and improved nothing." She had both hands flat on the arms of the chair. "So I have had it for seventeen days, and you have not known that I have had it, and I am not going to sit in your house and ask you for a favour while that is true."
 
-———
+* * *
 
 The room did what an old room does at ten in the morning.
 
@@ -213,7 +213,7 @@ The room did what an old room does at ten in the morning.
 
 "He gave me all of it."
 
-———
+* * *
 
 Woo looked at the table for a while.
 
@@ -227,7 +227,7 @@ Nobody said anything.
 
 "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of you have done it to me, and you have done it more thoroughly, because I only had four days of it and I did it on my own."
 
-———
+* * *
 
 Annie did not defend it.
 
@@ -243,7 +243,7 @@ Georgij was standing by the window because nobody had told him to sit.
 
 "I decided," he said.
 
-———
+* * *
 
 "You have as long as it takes, and do not be modest about the arithmetic."
 
@@ -255,7 +255,7 @@ Georgij was standing by the window because nobody had told him to sit.
 
 "Yes," said Woo. "It was."
 
-———
+* * *
 
 He sat with his hands on his knees and did not soften anything.
 
@@ -265,7 +265,7 @@ He sat with his hands on his knees and did not soften anything.
 
 "Then I will say the useful part and we will get on to what you came for." Woo did not raise his voice anywhere. "You did not do a wrong thing. You did a thing that is only distinguishable from the wrong one by what you did on the day she asked, and you did that part correctly. That is the whole of what stands between you and the man in that woman's father's photographs."
 
-———
+* * *
 
 Annie let a moment go past.
 
@@ -281,7 +281,7 @@ The room was very quiet.
 
 "Because you would answer them."
 
-———
+* * *
 
 Woo looked at her properly for the first time since the hall.
 
@@ -295,7 +295,7 @@ Woo looked at her properly for the first time since the hall.
 
 "And you knew that in the drive and you came anyway, and you brought him so that there would be a witness to it." Woo said it without any cruelty in it at all. "That is the first thing this morning that your father would not have done."
 
-———
+* * *
 
 Annie did not answer that.
 
@@ -311,7 +311,7 @@ Georgij, at the window, watched an old man decide something and did not move.
 
 "It is meant to be."
 
-———
+* * *
 
 He got up, which took him a moment, and went to the window and stood next to Georgij and looked out at the same nothing.
 
@@ -321,7 +321,7 @@ He turned round.
 
 "That is what it was for and now you know, and I would have told you afterwards in one sentence and been pleased with myself about it."
 
-———
+* * *
 
 At the door, with the car already turned round, he did the thing he has done every time since October.
 
@@ -335,9 +335,9 @@ Annie stood in the hall.
 
 "Why would you do that," she said.
 
-"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-four years. They are not going into a box at a crematorium because a woman half my age decided in October that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
+"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-three years. They are not going into a box at a crematorium because a woman half my age decided in October that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
 
-———
+* * *
 
 They were in the car by twenty to eleven.
 
