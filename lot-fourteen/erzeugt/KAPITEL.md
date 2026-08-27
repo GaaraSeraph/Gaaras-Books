@@ -77,7 +77,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 31** *The one who asked a question* (v2.6) · Tag 251, Do 11. Juni · Tag 255, Mo 15. Juni · 3.856 W
 - **B2 32** *The man kitchens talk to* (v4.0) · Tag 257, Mi 17. Juni · Tag 259, Fr 19. Juni · 4.077 W
 - **B2 33** *Somebody who did not arrive in a car* (v2.9) · Tag 261, So 21. Juni · 2.775 W
-- **B2 34** *The name he books under* (v2.5) · Tag 262, Mo 22. Juni · Tag 263, Di 23. Juni · 3.854 W
+- **B2 34** *The name he books under* (v3.0) · Tag 262, Mo 22. Juni · Tag 263, Di 23. Juni · 3.468 W
 - **B2 35** *Somebody in Seoul pays for it* (v3.1) · Tag 270, Di 30. Juni · Tag 273, Fr 3. Juli · Tag 276, Mo 6. Juli · 8.024 W
 - **B2 36** *The line above it* (v1.5) · Tag 279, Do 9. Juli · 2.162 W
 - **B2 37** *The post still comes* (v1.4) · Tag 283, Mo 13. Juli · 2.551 W

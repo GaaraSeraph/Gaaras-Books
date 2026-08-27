@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 853 | 87 (b1ch01-b2ch83) | 1 | 590 |
+| Annie | 852 | 87 (b1ch01-b2ch83) | 1 | 590 |
 | Park Sang-hoon | 301 | 42 (b1ch10-b2ch83) | 22 | 590 |
 | Chairman Woo | 231 | 41 (b1ch07-b2ch83) | 22 | 590 |
 | Hana | 168 | 21 (b1ch09-b2ch83) | 22 | 590 |
@@ -42,9 +42,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 31 | 87 |
 | Mr Kwon | 30 | 6 (b2ch14-b2ch67) | 193 | 445 |
-| Mrs Bae | 29 | 7 (b2ch34-b2ch44) | 262 | 305 |
 | Baek Jun-ho | 28 | 9 (b2ch35-b2ch83) | 270 | 590 |
 | Mr Im | 28 | 5 (b1ch05-b2ch81) | 6 | 531 |
+| Mrs Bae | 28 | 7 (b2ch34-b2ch44) | 262 | 305 |
 | Mr Koh | 24 | 6 (b2ch31-b2ch81) | 251 | 531 |
 | Mr Byun | 21 | 3 (b2ch21-b2ch83) | 215 | 590 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
@@ -71,7 +71,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-853 Nennungen in 87 Kapiteln.
+852 Nennungen in 87 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -697,16 +697,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 261 | b2ch33:158 | Annie waited, because she has learned that when he agrees that quickly there is a second.. |
 | 261 | b2ch33:168 | Annie looked at him for a moment. |
 | 261 | b2ch33:204 | Annie had not said anything through any of that. |
-| 263 | b2ch34:190 | The laptop had been on the desk in the small room since his first week in the house. Ann.. |
-| 263 | b2ch34:194 | He was not going to use it, and the reason had nothing to do with any rule Annie had eve.. |
-| 263 | b2ch34:206 | A house call four years ago, in July, with the travelling costing about three times the .. |
-| 263 | b2ch34:276 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
-| 263 | b2ch34:284 | "Say the rest of what you have on him," said Annie. |
-| 263 | b2ch34:294 | Annie was quiet on the line for a moment. |
-| 263 | b2ch34:304 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 263 | b2ch34:318 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
-| 263 | b2ch34:322 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
-| 263 | b2ch34:326 | "Then we will have found, in two evenings, without one door opened, the thing that has s.. |
+| 263 | b2ch34:188 | The laptop for it had been on the desk in the small room since his first week in the hou.. |
+| 263 | b2ch34:192 | He was not going to use it, and the reason had nothing to do with any rule Annie had eve.. |
+| 263 | b2ch34:204 | A house call four years ago, in July, with the travelling costing about three times the .. |
+| 263 | b2ch34:262 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
+| 263 | b2ch34:276 | Annie was quiet on the line for a moment. |
+| 263 | b2ch34:286 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 263 | b2ch34:300 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 263 | b2ch34:304 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
+| 263 | b2ch34:308 | "Then we will have found, in two evenings, without one door opened, the thing that has s.. |
 | 270 | b2ch35:128 | Georgij had the folded sheet in his inside pocket, where it has been since Tuesday of th.. |
 | 270 | b2ch35:202 | "There is a second address. A lapsed medical licence, a clinic that has been a dental of.. |
 | 273 | b2ch35:302 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
@@ -1092,12 +1091,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch32:360` (Tag 259) - seven, six, ten
 - `b2ch33:80` (Tag 261) - one
 - `b2ch33:148` (Tag 261) - four
-- `b2ch34:190` (Tag 263) - eight
-- `b2ch34:206` (Tag 263) - four, one, three
-- `b2ch34:304` (Tag 263) - one
-- `b2ch34:318` (Tag 263) - four, two
-- `b2ch34:322` (Tag 263) - one, two
-- `b2ch34:326` (Tag 263) - five, four, one, two
+- `b2ch34:188` (Tag 263) - eight
+- `b2ch34:204` (Tag 263) - four, one, three
+- `b2ch34:286` (Tag 263) - one
+- `b2ch34:300` (Tag 263) - four, two
+- `b2ch34:304` (Tag 263) - one, two
+- `b2ch34:308` (Tag 263) - five, four, one, two
 - `b2ch35:128` (Tag 270) - thirty-one
 - `b2ch35:202` (Tag 270) - eighteen
 - `b2ch35:302` (Tag 273) - three, two
@@ -1360,8 +1359,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 261 | b2ch33:126 | "I know you were not. I am saying it so that Georgij hears me say it to you and not only.. |
 | 261 | b2ch33:148 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
 | 261 | b2ch33:154 | "I agree with you about the road," he said. "I want that said in front of him and not to.. |
-| 263 | b2ch34:304 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 263 | b2ch34:318 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 263 | b2ch34:286 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 263 | b2ch34:300 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 | 270 | b2ch35:6 | Sang-hoon had chosen a table this time instead of a room, which meant he had decided the.. |
 | 270 | b2ch35:16 | Sang-hoon left his hand flat on the folder. |
 | 270 | b2ch35:36 | Sang-hoon turned his glass a quarter turn and left it there. |
@@ -1559,8 +1558,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch32:250` (Tag 259) - one
 - `b2ch32:308` (Tag 259) - eight
 - `b2ch33:148` (Tag 261) - four
-- `b2ch34:304` (Tag 263) - one
-- `b2ch34:318` (Tag 263) - four, two
+- `b2ch34:286` (Tag 263) - one
+- `b2ch34:300` (Tag 263) - four, two
 - `b2ch35:6` (Tag 270) - four
 - `b2ch35:62` (Tag 270) - eleven thousand
 - `b2ch35:86` (Tag 270) - four
@@ -2364,7 +2363,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 261 | b2ch33:212 | Nobody answered him for a moment, and it was Jang who took it, because he was the only o.. |
 | 261 | b2ch33:218 | "It is still mine." Jang stood up then. "A man who watches a house for sixteen days and .. |
 | 261 | b2ch33:230 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
-| 263 | b2ch34:304 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 263 | b2ch34:286 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 270 | b2ch35:256 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
 | 273 | b2ch35:346 | Jang telephoned at half past twelve, before Georgij had left for the restaurant, and sai.. |
 | 273 | b2ch35:352 | "The rota is nine people," said Jang. "Four cars, morning and evening, two of them carry.. |
@@ -2465,7 +2464,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:212` (Tag 261) - one
 - `b2ch33:218` (Tag 261) - one, sixteen
 - `b2ch33:230` (Tag 261) - one, six
-- `b2ch34:304` (Tag 263) - one
+- `b2ch34:286` (Tag 263) - one
 - `b2ch35:256` (Tag 270) - eleven, one, two
 - `b2ch35:346` (Tag 273) - twelve
 - `b2ch35:352` (Tag 273) - four, nine, ten, two
@@ -3175,7 +3174,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 249 | b2ch30:42 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
 | 249 | b2ch30:50 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 255 | b2ch31:228 | *Jeon Mi-ja* |
-| 263 | b2ch34:224 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
+| 263 | b2ch34:218 | He wrote all eleven down before he began, and the reason beside each one as it went, bec.. |
 | 270 | b2ch35:240 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 273 | b2ch35:318 | He got the second at about four in the afternoon, and then he sat back and read them tog.. |
 | 276 | b2ch35:552 | He sat with that for a while before he wrote anything down, because a single filing, how.. |
@@ -3237,7 +3236,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch29:154` (Tag 243) - one
 - `b2ch29:424` (Tag 244) - one
 - `b2ch30:50` (Tag 249) - eight, eleven, one
-- `b2ch34:224` (Tag 263) - forty, one, six
+- `b2ch34:218` (Tag 263) - eleven, forty, one
 - `b2ch35:240` (Tag 270) - one, twenty-three
 - `b2ch35:318` (Tag 273) - four, one, two
 - `b2ch35:552` (Tag 276) - one
@@ -3687,7 +3686,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 249 | b2ch30:96 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 | 259 | b2ch32:250 | The man he is looking for does not eat in front of anybody he is working on. Whoever sat.. |
 | 259 | b2ch32:330 | "The one who was not Choi wanted the cook to like him." He stayed where he was. "A man w.. |
-| 263 | b2ch34:202 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
+| 263 | b2ch34:200 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
 | 273 | b2ch35:450 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
 | 273 | b2ch35:482 | "Where that would be, for a man like Choi." |
 | 288 | b2ch38:148 | "He has not told Choi Dae-ho," he said slowly. |
@@ -4440,60 +4439,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mrs Bae
-
-29 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 262 | b2ch34:52 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
-| 263 | b2ch34:66 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
-| 263 | b2ch34:82 | Mrs Bae looked at him for a while. |
-| 263 | b2ch34:98 | Mrs Bae put one finger on the edge of the book and left it there. |
-| 263 | b2ch34:114 | "Sim," said Mrs Bae. |
-| 263 | b2ch34:128 | "You have gone very quiet," said Mrs Bae. |
-| 263 | b2ch34:138 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
-| 263 | b2ch34:158 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
-| 263 | b2ch34:170 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
-| 283 | b2ch37:188 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
-| 288 | b2ch38:82 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
-| 288 | b2ch38:120 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
-| 288 | b2ch38:192 | *Mrs Bae, and she is not on page two, she is on page one, because she is not somebody wh.. |
-| 288 | b2ch38:202 | *Mrs Bae, 23 June. Telephoned a man.* |
-| 292 | b2ch40:6 | He went back to Mrs Bae on the Wednesday, in the afternoon, at the hour when the front o.. |
-| 292 | b2ch40:16 | Mrs Bae saw him through the glass before he reached the door, and did not look surprised.. |
-| 292 | b2ch40:28 | Mrs Bae put both hands on the desk with the book on it and left them there. |
-| 292 | b2ch40:40 | Mrs Bae looked at him for a moment and then, for the first time, sat down. |
-| 292 | b2ch40:82 | Mrs Bae took a moment, and when it came it came in order, the way it does from somebody .. |
-| 292 | b2ch40:96 | "He said: what did he look like. And I told him, and he said thank you." Mrs Bae lifted .. |
-| 292 | b2ch40:102 | "That is the part," said Mrs Bae. |
-| 292 | b2ch40:120 | Mrs Bae took that without flinching. |
-| 292 | b2ch40:150 | Mrs Bae looked at him for a long moment. |
-| 292 | b2ch40:170 | Mrs Bae did not follow it, and said so with her face and not her mouth. |
-| 292 | b2ch40:226 | *Mrs Bae, and I have taken her off page two and put her on the third list, and she is th.. |
-| 300 | b2ch42:88 | "He asked Mrs Bae one question, and it was what I looked like. If a man in that position.. |
-| 302 | b2ch43:24 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
-| 302 | b2ch43:322 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
-| 305 | b2ch44:110 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
-
-### Zahlen in der Naehe von Mrs Bae
-
-- `b2ch34:52` (Tag 262) - one
-- `b2ch34:66` (Tag 263) - eleven, twenty-two, two
-- `b2ch34:98` (Tag 263) - one
-- `b2ch34:158` (Tag 263) - five, one, six
-- `b2ch34:170` (Tag 263) - five, three, two
-- `b2ch38:82` (Tag 288) - twenty-two
-- `b2ch38:120` (Tag 288) - nine, three, twenty
-- `b2ch38:192` (Tag 288) - one, two
-- `b2ch40:226` (Tag 292) - two
-- `b2ch42:88` (Tag 300) - one, twelve
-- `b2ch43:24` (Tag 302) - ten
-- `b2ch43:322` (Tag 302) - thirty
-- `b2ch44:110` (Tag 305) - forty, four, one, two
-
----
-
 ## Baek Jun-ho
 
 28 Nennungen in 9 Kapiteln.
@@ -4596,6 +4541,58 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:168` (Tag 531) - six, two
 - `b2ch79:180` (Tag 531) - four
 - `b2ch81:170` (Tag 531) - eleven, six, two
+
+---
+
+## Mrs Bae
+
+28 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 262 | b2ch34:52 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
+| 263 | b2ch34:66 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
+| 263 | b2ch34:82 | Mrs Bae looked at him for a while. |
+| 263 | b2ch34:98 | Mrs Bae put one finger on the edge of the book and left it there. |
+| 263 | b2ch34:114 | "Sim," said Mrs Bae. |
+| 263 | b2ch34:128 | "You have gone very quiet," said Mrs Bae. |
+| 263 | b2ch34:138 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
+| 263 | b2ch34:158 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
+| 283 | b2ch37:188 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
+| 288 | b2ch38:82 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
+| 288 | b2ch38:120 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
+| 288 | b2ch38:192 | *Mrs Bae, and she is not on page two, she is on page one, because she is not somebody wh.. |
+| 288 | b2ch38:202 | *Mrs Bae, 23 June. Telephoned a man.* |
+| 292 | b2ch40:6 | He went back to Mrs Bae on the Wednesday, in the afternoon, at the hour when the front o.. |
+| 292 | b2ch40:16 | Mrs Bae saw him through the glass before he reached the door, and did not look surprised.. |
+| 292 | b2ch40:28 | Mrs Bae put both hands on the desk with the book on it and left them there. |
+| 292 | b2ch40:40 | Mrs Bae looked at him for a moment and then, for the first time, sat down. |
+| 292 | b2ch40:82 | Mrs Bae took a moment, and when it came it came in order, the way it does from somebody .. |
+| 292 | b2ch40:96 | "He said: what did he look like. And I told him, and he said thank you." Mrs Bae lifted .. |
+| 292 | b2ch40:102 | "That is the part," said Mrs Bae. |
+| 292 | b2ch40:120 | Mrs Bae took that without flinching. |
+| 292 | b2ch40:150 | Mrs Bae looked at him for a long moment. |
+| 292 | b2ch40:170 | Mrs Bae did not follow it, and said so with her face and not her mouth. |
+| 292 | b2ch40:226 | *Mrs Bae, and I have taken her off page two and put her on the third list, and she is th.. |
+| 300 | b2ch42:88 | "He asked Mrs Bae one question, and it was what I looked like. If a man in that position.. |
+| 302 | b2ch43:24 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
+| 302 | b2ch43:322 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
+| 305 | b2ch44:110 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
+
+### Zahlen in der Naehe von Mrs Bae
+
+- `b2ch34:52` (Tag 262) - one
+- `b2ch34:66` (Tag 263) - eleven, twenty-two, two
+- `b2ch34:98` (Tag 263) - one
+- `b2ch34:158` (Tag 263) - five, one, six
+- `b2ch38:82` (Tag 288) - twenty-two
+- `b2ch38:120` (Tag 288) - nine, three, twenty
+- `b2ch38:192` (Tag 288) - one, two
+- `b2ch40:226` (Tag 292) - two
+- `b2ch42:88` (Tag 300) - one, twelve
+- `b2ch43:24` (Tag 302) - ten
+- `b2ch43:322` (Tag 302) - thirty
+- `b2ch44:110` (Tag 305) - forty, four, one, two
 
 ---
 

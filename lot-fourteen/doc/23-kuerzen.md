@@ -799,3 +799,66 @@ Sie standen alle im zweiten Durchgang und in keinem im ersten:
 **Die Lehre ist nicht neu, aber sie hat hier zum vierten Mal gegriffen:** eine
 Kuerzung ist kein Loeschvorgang. Jeder Schnitt nimmt einem spaeteren Satz seinen
 Bezug, und der zweite Durchgang findet das und der erste nicht.
+
+---
+
+## Klasse C in Kapitel 34 und 36, ausgefuehrt am 27.08.
+
+### Kapitel 34, *The name he books under*: 3.792 auf 3.408
+
+Die Lizenzsuche stand als **fuenf Bewegungen hintereinander** da: elf, dann
+sechs weg, dann eine weg, dann zwei weg, dann zwei uebrig. Jede mit eigenem
+Absatz und eigener Begruendung. Sie steht jetzt als **ein Zug** - elf
+aufgeschrieben, neun gefallen, zwei uebrig - und der Rest der Bewegung liegt
+da, wo er hingehoert, naemlich in Georgijs Notizbuch und nicht im Erzaehltext.
+
+**Der Grundsatz ist stehengeblieben**, und das war die eigentliche Entscheidung:
+*"eine Liste, die nur zeigt, was uebrigbleibt, ist schlechter als eine, die
+zeigt, was ausgeschlossen wurde und warum."* Mrs Jeon hat ihm das beigebracht.
+Der Leser braucht den Grundsatz, nicht die elf Eintraege.
+
+Dazu gefallen, weil doppelt:
+
+- Die Jung-gu-Adresse stand erst im Erzaehltext und dreissig Zeilen spaeter im
+  Telefonat noch einmal. `doppelt-im-kapitel.py` hatte genau dieses Paar
+  gemeldet, bevor ich es angefasst habe.
+- Georgijs Antwort *"Registered for house calls nine years ago..."* zaehlte
+  Annie auf, was der Leser drei Absaetze vorher gelesen hatte. Der einzige neue
+  Teil - die Zulassung lag **neun Jahre vor** der ersten Verwendung - ist in
+  seinen ersten Satz gewandert.
+- Vier Notizbuchzeilen am Stueck, von denen die erste den Tag nur aufzaehlte.
+- Der Tagesrueckblick am Kapitelende, der den Arzt ein drittes Mal beschrieb.
+- Georgij gab Annie ihren eigenen Satz zurueck (*"I did all of that at a
+  desk"*), nachdem sie ihn gerade gesagt hatte.
+
+**Ziel aus TEIL XII ist 2.900, erreicht sind 3.408.** Die Differenz ist der
+Block *"Nothing happens to Dr Oh today"* mit dem Zwei-Eigentuemer-Gedanken. Der
+steht in **Klasse A** und nicht in C, und er bleibt bis dahin stehen.
+
+### Kapitel 36, *The line above it*: nichts gestrichen
+
+**Und diesmal mit einer Zahl dahinter.** Die Klasse-C-Tabelle fuehrt das
+frueher 45 gewesene Kapitel mit *"Zwei Tage an K, drei Arten von Orten,
+nichts"* und **~600 Woertern**. Nachgezaehlt sind es **216** - Badehaus,
+Golfplatz, Boot, je ein Satz. Die Tabelle zaehlt die Bewegung des Ausschlusses
+und nicht die Woerter, die sie kostet.
+
+Dazu kommen zwei Stellen in denselben Listen, die das Kapitel ausdruecklich
+schuetzen:
+
+- **TEIL II B**: *"Nichts streichen. Bestes Kapitel der Etappe nach 37."*
+- **TEIL XII Nr. 12**: Zielgroesse **2.150**. Das Kapitel hat **2.135**.
+
+**Der entscheidende Grund ist aber kein Listengrund.** Der Ausschluss ist hier
+der Motor und nicht der Leerlauf: **weil** die zwei Tage nichts hergeben, liest
+Georgij seine eigenen vier Zeilen noch einmal, und dabei faellt ihm auf, dass er
+sie ohne ihre Nachbarn abgeschrieben hat. Daraus kommt *"K has no date because I
+did not copy one"*, daraus die Seiten aus Sang-hoons Buch, daraus die
+zweiundzwanzig Tage und *"K ist die Messung."* Streicht man die zwei
+erfolglosen Tage, streicht man den Anlass.
+
+**Der Unterschied zu Kapitel 32 ist genau dieser:** dort wurde derselbe Mann
+zweimal ausgeschlossen, und der zweite Ausschluss machte den ersten
+ueberfluessig. Hier gibt es einen Ausschluss, er dauert 216 Woerter, und er
+bringt den Fund hervor. Ein Ausschluss, der etwas hervorbringt, ist keine
+Klasse C.
