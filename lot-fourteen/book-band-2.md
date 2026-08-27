@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 83 Kapitel, 226.333 Woerter.
+Book Two, 83 Kapitel, 225.967 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 32 | v3.0 | 5.805 |
 | 33 | v2.9 | 2.775 |
 | 34 | v2.5 | 3.854 |
-| 35 | v3.0 | 8.095 |
+| 35 | v3.1 | 8.024 |
 | 36 | v1.5 | 2.162 |
 | 37 | v1.4 | 2.551 |
 | 38 | v1.5 | 1.889 |
@@ -59,7 +59,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 46 | v1.3 | 2.042 |
 | 47 | v1.8 | 2.653 |
 | 48 | v1.11 | 4.472 |
-| 49 | v1.4 | 2.442 |
+| 49 | v1.5 | 2.147 |
 | 50 | v1.9 | 2.145 |
 | 51 | v1.9 | 2.279 |
 | 52 | v1.3 | 2.075 |
@@ -9000,7 +9000,7 @@ He wrote one more line before he put the notebook away for the night.
 ---
 
 # Book Two · Chapter 35: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
@@ -9248,13 +9248,9 @@ The reservation book gave him tables, not names. A table booked under one initia
 
 Y was finished a fortnight ago. Three letters remained, and he had spent the whole of Thursday on the first two.
 
-*S. 8pm. March, four years ago. The same spring, Georgij now saw, as the auction where lot six was kept open until midnight with no clearing behind it.*
+He had had the first of the two since May and had left it alone, because one date without a second one to check it against is a guess dressed as a fact.
 
-He had written that line in May and left it alone since, because one date without a second one to check it against is a guess dressed as a fact.
-
-*H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a house that was already dying and did not know it yet.*
-
-He sat back and read the two lines together, the way Mrs Jeon had taught him to read a column instead of a single figure. One line proves nothing. Two lines, laid side by side, either agree with each other or they do not, and either answer is worth having.
+He got the second at about four in the afternoon, and then he sat back and read them together, the way Mrs Jeon had taught him to read a column instead of a single figure. One line proves nothing. Two lines, laid side by side, either agree with each other or they do not, and either answer is worth having.
 
 Byun's sheet was the reason he trusted the second line at all. A single word on it, half the name of a delivery firm, matched a line in the reservation book he had not been looking for. It named a driver sent to the same address, that same October. Two documents that had never been meant to sit next to each other agreed anyway. That was the closest thing to proof he was going to get without asking somebody who could still be hurt by the answer.
 
@@ -9263,8 +9259,6 @@ Two tables and two hours, and between them the exact stretch of time it took the
 K gave him nothing at all.
 
 He went through the reservation book twice more, once by initial and once by table number, and found no third letter in the same hand at the same restaurant in the four years the book covered. Either K had eaten somewhere else entirely, or K had not eaten anywhere.
-
-*K. Nothing in the book, in four years of it. Try somewhere that keeps no book at all.*
 
 He closed the notebook a little after nine and telephoned Sang-hoon before he could decide that a Friday morning was the wrong time for it.
 
@@ -9504,7 +9498,7 @@ Georgij read the manual first, in full, which took twenty minutes and was the on
 
 Then he wrote in the notebook, before he touched anything, because a list made afterward is a list made by a man who already knows how it went.
 
-*Bundang, scheduling software. Support account from the installation manual. If it has been changed, I stop and tell her it did not work.*
+*If it has been changed, I stop, and I tell her it did not work.*
 
 It had not been changed. Nobody with six vans changes it. The instruction sits on page seven of a manual that exists so that a man who does not read manuals can get his vans running on a Tuesday.
 
@@ -12364,7 +12358,7 @@ He has stopped counting them. He noticed at some point in July that he had stopp
 ---
 
 # Book Two · Chapter 49: Somebody's daughter
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Twenty-Two · Friday 21 August
 
@@ -12533,34 +12527,6 @@ Georgij did not answer straight away.
 Annie looked at him.
 
 "That is the answer to the fourth question," she said. "Not the family and not the hall. That."
-
-* * *
-
-The telephone went at twenty past nine, which is not a time anybody telephones that house.
-
-Mrs Seo brought it through rather than calling him, which she has done twice in nine months.
-
-"Chairman Woo," she said. "He asked after you by name and he said the words please and thank you, and I have run this house for nine years and that is a man who wants something."
-
-Georgij took it standing in the hall.
-
-"I have it," said Woo.
-
-"Chairman."
-
-"No." There was road noise behind him. "I have been in this trade fifty-one years and I have never once said a thing like this into a telephone, and I am not going to start at seventy-eight for your convenience. I will come to you."
-
-"Chairman, you do not come to people."
-
-"I came to your car three times." A pause exactly long enough to be deliberate. "I am coming on Sunday. Tell your employer that I am coming to see you and not her, and tell her that I said so, because I am not going to have a woman in her own house wondering."
-
-"Yes."
-
-"And Georgij." Woo did not hurry it. "He did not leave that service under a cloud. Somebody put him where he is. I have the name and I have the year. I sat with it for an entire afternoon before I telephoned you, and I have not decided how much of it I am going to say out loud."
-
-The line clicked once.
-
-Georgij stood in the hall of a house on the river with the receiver still warm in his hand, for the second time this year, and this time he did not write anything down at all.
 
 ---
 

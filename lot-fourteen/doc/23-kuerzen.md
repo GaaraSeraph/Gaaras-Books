@@ -82,19 +82,17 @@ Nach jedem geschriebenen Kapitel eine Zeile hier, mit drei Angaben:
 `ERSETZEN` heißt: das Kapitel fällt weg und sein Inhalt steht als Absatz oder
 Satz woanders.
 
-**Und die Regel über allen anderen, vom Autor am 26.08. festgelegt: es wird
-nicht umnummeriert.** Fällt ein Kapitel weg, bleibt seine Nummer frei. Eine
-Lücke in der Zählung ist ein erlaubter Zwischenzustand und kein Fehler. Der
-Grund ist Aufwand: jede Umnummerierung zieht Dateinamen, Kopfzeilen und
-sämtliche Kapitelverweise in sechs Dokumenten hinter sich her. **Diese Arbeit
-wird einmal gemacht, ganz am Ende des Kürzungslaufs**, und nicht bei jedem
-einzelnen Wegfall. Der Autor dazu: *"Diese Arbeit will ich nicht mehrfach
-haben."*
+**Erledigt am 27.08.: der Band ist durchnummeriert.** Hier stand bis dahin
+die Regel vom 26.08., dass nicht umnummeriert wird, und dass diese Arbeit
+einmal gemacht wird, ganz am Ende des Kuerzungslaufs. Sie ist vor dem
+Kuerzungslauf gemacht worden, auf Anweisung des Autors, weil die neue
+Kapitelfolge aus Teil XII sonst nicht baubar war. Band 2 hat jetzt die Nummern
+1 bis 83 ohne Luecke, die Zuordnung alt nach neu steht in
+`archiv/UMNUMMERIERUNG.md`.
 
-Wer eine Lücke findet, prüft sie gegen die Tabelle `GESTRICHEN` in
-`werkzeug/build.py` und lässt sie stehen. Steht sie dort nicht, ist sie ein
-Versehen und der Build bricht ab - meistens, weil jemand eine Datei umbenannt
-und die alte Fassung nicht gelöscht hat.
+**Was daraus fuer das Kuerzen folgt:** faellt jetzt noch ein Kapitel weg,
+kostet es entweder eine Luecke oder eine zweite Umnummerierung. Ein `ERSETZEN`
+oder `ZUSAMMENZIEHEN` ist damit teurer als vorher, ein `STRAFFEN` nicht.
 
 ---
 
@@ -183,6 +181,55 @@ sagt, bekommt HALTEN. Als Streichliste ist diese Tabelle wertlos. Als
 Buchhaltung ist sie das, wofuer sie gedacht war: sie sagt je Kapitel, welcher
 Faden mitginge. **Gekuerzt wird nach den Vorschlaegen unten, nicht nach der
 Urteilsspalte.**
+
+---
+
+## Die vier Zusammenlegungen, Szene fuer Szene gelesen (27.08.)
+
+Die vier Kapitel, die am 27.08. aus je zwei gemacht worden sind, liegen ueber
+der Spanne: **26** mit 6.732 (bis 5.200), **29** mit 7.925 (bis 7.000), **32**
+mit 5.723 (bis 5.200), **35** mit 7.953 (bis 6.100).
+
+**Alle vierundzwanzig Szenen sind gelesen worden. Keine ist zu streichen.**
+
+Zwei Messungen davor hatten etwas anderes nahegelegt, und beide waren stumpf:
+
+- `doppelt-im-kapitel.py` findet Absatzpaare, die dieselben seltenen Woerter
+  benutzen. In 35 hat es vier echte Doppelungen gefunden, alle vom selben Typ
+  (ein Datum steht als Notiz **und** wird danach laut gesagt), und die sind
+  behoben. Es waren 67 Woerter. In 26, 29 und 32 war jedes gemeldete Paar
+  berechtigt: die zweite Nennung traegt jedes Mal ein Urteil oder eine Zaehlung,
+  die die erste nicht hat - ohne die Aufzaehlung gibt es kein *"all four of
+  those"*.
+- Ein Geruest aus Anfang und Ende jeder Szene hat fuenf Kuerzungskandidaten
+  ergeben. **Alle fuenf waren falsch**, und zwar auf dieselbe Weise.
+
+### Die Lehre, und sie gilt fuer den ganzen Kuerzungslauf
+
+**In diesem Band endet fast jede Szene mit einer kursiven Notizbuchzeile.** Wer
+Anfang und Ende liest, sieht deshalb ueberall Buchfuehrung, waehrend im Rumpf
+das Argument steht. Die fuenf Fehlurteile, damit sie nicht noch einmal
+entstehen:
+
+| Szene | Erstes Urteil | Was wirklich darin steht |
+|---|---|---|
+| 29/2 | auf 600, *"liest seine eigenen Notizen"* | **Die zwei Zeugen aus dem Kapiteltitel.** Zwei Menschen, vier Jahre auseinander, die einander nicht kennen, denen dieselben sechs Woerter gesagt worden sind. *"the first thing in twenty-three years that is not only your word"* |
+| 29/8 | auf 300, *"die Jagd bewegt sich nicht"* | Jangs Frage, ob vier Tage verschwendet oder ausgegeben werden - und Annie deckt auf, dass es Georgijs Frage war. Dort faengt die Liste der Tischgaeste an |
+| 32/3 | ganz streichen, *"wiederholt das Gartenurteil"* | *"If I leave out the ones I like, I am not running anything."* Und **die Regel, nach der der Rest des Buches laeuft**: *"Tell him, or ask him. Not both."* |
+| 32/4 | auf 150, *"reine Beinarbeit"* | *"You are the second person to ask me about a private dinner from before my time. The first one asked in April."* Das ist der Fund |
+| 35/5 | auf 200, *"der Schreibtisch gibt nichts her"* | Die Brandschutzmeldung: Juli vor vier Jahren, medizinischer Sauerstoff, einmal eingetragen und nie geloescht, mit dem Namen der Firma. Die Kette, die zu Baek fuehrt |
+
+### Die Entscheidung
+
+**Die vier bleiben, wie sie sind, und die Spannen-Hinweise werden hingenommen.**
+Sie sind Hinweise und keine Fehler, und vierzehn Kapitel liegen ohnehin knapp
+unter der Untergrenze. Die zwei Alternativen sind teurer: die Zusammenlegung
+zurueckzunehmen kostet eine zweite Umnummerierung des halben Bandes, und Szenen
+zu opfern kostet bei 35 die zwei Sang-hoon-Tische, in denen das Beste des
+Kapitels steht.
+
+**Sie sind ueber der Spanne, weil sie zwei Kapitel sind, und nicht, weil zu viel
+darin steht.** Wer das wieder aufmacht, liest bitte vorher die Tabelle oben.
 
 ---
 

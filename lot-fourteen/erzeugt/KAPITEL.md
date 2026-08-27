@@ -78,7 +78,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 32** *The man kitchens talk to* (v3.0) · Tag 257, Mi 17. Juni · Tag 259, Fr 19. Juni · 5.805 W
 - **B2 33** *Somebody who did not arrive in a car* (v2.9) · Tag 261, So 21. Juni · 2.775 W
 - **B2 34** *The name he books under* (v2.5) · Tag 262, Mo 22. Juni · Tag 263, Di 23. Juni · 3.854 W
-- **B2 35** *Somebody in Seoul pays for it* (v3.0) · Tag 270, Di 30. Juni · Tag 273, Fr 3. Juli · Tag 276, Mo 6. Juli · 8.095 W
+- **B2 35** *Somebody in Seoul pays for it* (v3.1) · Tag 270, Di 30. Juni · Tag 273, Fr 3. Juli · Tag 276, Mo 6. Juli · 8.024 W
 - **B2 36** *The line above it* (v1.5) · Tag 279, Do 9. Juli · 2.162 W
 - **B2 37** *The post still comes* (v1.4) · Tag 283, Mo 13. Juli · 2.551 W
 - **B2 38** *Twelve white stems* (v1.5) · Tag 288, Sa 18. Juli · 1.889 W
@@ -92,7 +92,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 46** *Consigned by* (v1.3) · Tag 313, Mi 12. August · 2.042 W
 - **B2 47** *Four streets* (v1.8) · Tag 315, Fr 14. August · 2.653 W
 - **B2 48** *Buy her* (v1.11) · Tag 319, Di 18. August · 4.472 W
-- **B2 49** *Somebody's daughter* (v1.4) · Tag 322, Fr 21. August · 2.442 W
+- **B2 49** *Somebody's daughter* (v1.5) · Tag 322, Fr 21. August · 2.147 W
 - **B2 50** *One sentence* (v1.9) · Tag 326, Di 25. August · 2.145 W
 - **B2 51** *The one who orders* (v1.9) · Tag 328, Do 27. August · 2.279 W
 - **B2 52** *The only door* (v1.3) · Tag 369, Mi 7. Oktober · Tag 371, Fr 9. Oktober · 2.075 W

@@ -1,5 +1,5 @@
 # Chapter 35: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
@@ -311,19 +311,11 @@ Y was finished a fortnight ago. Three letters remained, and he had spent the who
 
 ---
 
-*S. 8pm. March, four years ago. The same spring, Georgij now saw, as the auction where lot six was kept open until midnight with no clearing behind it.*
+He had had the first of the two since May and had left it alone, because one date without a second one to check it against is a guess dressed as a fact.
 
 ---
 
-He had written that line in May and left it alone since, because one date without a second one to check it against is a guess dressed as a fact.
-
----
-
-*H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a house that was already dying and did not know it yet.*
-
----
-
-He sat back and read the two lines together, the way Mrs Jeon had taught him to read a column instead of a single figure. One line proves nothing. Two lines, laid side by side, either agree with each other or they do not, and either answer is worth having.
+He got the second at about four in the afternoon, and then he sat back and read them together, the way Mrs Jeon had taught him to read a column instead of a single figure. One line proves nothing. Two lines, laid side by side, either agree with each other or they do not, and either answer is worth having.
 
 ---
 
@@ -340,10 +332,6 @@ K gave him nothing at all.
 ---
 
 He went through the reservation book twice more, once by initial and once by table number, and found no third letter in the same hand at the same restaurant in the four years the book covered. Either K had eaten somewhere else entirely, or K had not eaten anywhere.
-
----
-
-*K. Nothing in the book, in four years of it. Try somewhere that keeps no book at all.*
 
 ---
 
@@ -680,7 +668,7 @@ Then he wrote in the notebook, before he touched anything, because a list made a
 
 ---
 
-*Bundang, scheduling software. Support account from the installation manual. If it has been changed, I stop and tell her it did not work.*
+*If it has been changed, I stop, and I tell her it did not work.*
 
 ---
 

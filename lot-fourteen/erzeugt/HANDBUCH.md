@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 231.311 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 231.675 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -189,6 +189,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Und der zweite Uebergabepunkt: das Stilprotokoll](#und-der-zweite-uebergabepunkt-das-stilprotokoll)
   - [Und der Uebergabepunkt](#und-der-uebergabepunkt)
 - [Kuerzen](#kuerzen)  ·  `doc/23-kuerzen.md`
+  - [Die Lehre, und sie gilt fuer den ganzen Kuerzungslauf](#die-lehre-und-sie-gilt-fuer-den-ganzen-kuerzungslauf)
+  - [Die Entscheidung](#die-entscheidung)
   - [Stufe 1: die Naht liegt mitten in einer Bewegung](#stufe-1-die-naht-liegt-mitten-in-einer-bewegung)
   - [Stufe 2: der Schnitt erzeugt eine Doppelung, und die ist billiger zu loeschen als zu verschmelzen](#stufe-2-der-schnitt-erzeugt-eine-doppelung-und-die-ist-billiger-zu-loeschen-als-zu-verschmelzen)
   - [Stufe 3: das zweite Kapitel ist der angekuendigte Bericht](#stufe-3-das-zweite-kapitel-ist-der-angekuendigte-bericht)
@@ -361,7 +363,7 @@ Naechstes kommt: `doc/31-plan-band-2.md`.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **16 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**117 Kapitel, 327.529 Woerter.**
+**117 Kapitel, 327.163 Woerter.**
 
 ---
 
@@ -10480,19 +10482,17 @@ Nach jedem geschriebenen Kapitel eine Zeile hier, mit drei Angaben:
 `ERSETZEN` heißt: das Kapitel fällt weg und sein Inhalt steht als Absatz oder
 Satz woanders.
 
-**Und die Regel über allen anderen, vom Autor am 26.08. festgelegt: es wird
-nicht umnummeriert.** Fällt ein Kapitel weg, bleibt seine Nummer frei. Eine
-Lücke in der Zählung ist ein erlaubter Zwischenzustand und kein Fehler. Der
-Grund ist Aufwand: jede Umnummerierung zieht Dateinamen, Kopfzeilen und
-sämtliche Kapitelverweise in sechs Dokumenten hinter sich her. **Diese Arbeit
-wird einmal gemacht, ganz am Ende des Kürzungslaufs**, und nicht bei jedem
-einzelnen Wegfall. Der Autor dazu: *"Diese Arbeit will ich nicht mehrfach
-haben."*
+**Erledigt am 27.08.: der Band ist durchnummeriert.** Hier stand bis dahin
+die Regel vom 26.08., dass nicht umnummeriert wird, und dass diese Arbeit
+einmal gemacht wird, ganz am Ende des Kuerzungslaufs. Sie ist vor dem
+Kuerzungslauf gemacht worden, auf Anweisung des Autors, weil die neue
+Kapitelfolge aus Teil XII sonst nicht baubar war. Band 2 hat jetzt die Nummern
+1 bis 83 ohne Luecke, die Zuordnung alt nach neu steht in
+`archiv/UMNUMMERIERUNG.md`.
 
-Wer eine Lücke findet, prüft sie gegen die Tabelle `GESTRICHEN` in
-`werkzeug/build.py` und lässt sie stehen. Steht sie dort nicht, ist sie ein
-Versehen und der Build bricht ab - meistens, weil jemand eine Datei umbenannt
-und die alte Fassung nicht gelöscht hat.
+**Was daraus fuer das Kuerzen folgt:** faellt jetzt noch ein Kapitel weg,
+kostet es entweder eine Luecke oder eine zweite Umnummerierung. Ein `ERSETZEN`
+oder `ZUSAMMENZIEHEN` ist damit teurer als vorher, ein `STRAFFEN` nicht.
 
 ---
 
@@ -10581,6 +10581,55 @@ sagt, bekommt HALTEN. Als Streichliste ist diese Tabelle wertlos. Als
 Buchhaltung ist sie das, wofuer sie gedacht war: sie sagt je Kapitel, welcher
 Faden mitginge. **Gekuerzt wird nach den Vorschlaegen unten, nicht nach der
 Urteilsspalte.**
+
+---
+
+## Die vier Zusammenlegungen, Szene fuer Szene gelesen (27.08.)
+
+Die vier Kapitel, die am 27.08. aus je zwei gemacht worden sind, liegen ueber
+der Spanne: **26** mit 6.732 (bis 5.200), **29** mit 7.925 (bis 7.000), **32**
+mit 5.723 (bis 5.200), **35** mit 7.953 (bis 6.100).
+
+**Alle vierundzwanzig Szenen sind gelesen worden. Keine ist zu streichen.**
+
+Zwei Messungen davor hatten etwas anderes nahegelegt, und beide waren stumpf:
+
+- `doppelt-im-kapitel.py` findet Absatzpaare, die dieselben seltenen Woerter
+  benutzen. In 35 hat es vier echte Doppelungen gefunden, alle vom selben Typ
+  (ein Datum steht als Notiz **und** wird danach laut gesagt), und die sind
+  behoben. Es waren 67 Woerter. In 26, 29 und 32 war jedes gemeldete Paar
+  berechtigt: die zweite Nennung traegt jedes Mal ein Urteil oder eine Zaehlung,
+  die die erste nicht hat - ohne die Aufzaehlung gibt es kein *"all four of
+  those"*.
+- Ein Geruest aus Anfang und Ende jeder Szene hat fuenf Kuerzungskandidaten
+  ergeben. **Alle fuenf waren falsch**, und zwar auf dieselbe Weise.
+
+### Die Lehre, und sie gilt fuer den ganzen Kuerzungslauf
+
+**In diesem Band endet fast jede Szene mit einer kursiven Notizbuchzeile.** Wer
+Anfang und Ende liest, sieht deshalb ueberall Buchfuehrung, waehrend im Rumpf
+das Argument steht. Die fuenf Fehlurteile, damit sie nicht noch einmal
+entstehen:
+
+| Szene | Erstes Urteil | Was wirklich darin steht |
+|---|---|---|
+| 29/2 | auf 600, *"liest seine eigenen Notizen"* | **Die zwei Zeugen aus dem Kapiteltitel.** Zwei Menschen, vier Jahre auseinander, die einander nicht kennen, denen dieselben sechs Woerter gesagt worden sind. *"the first thing in twenty-three years that is not only your word"* |
+| 29/8 | auf 300, *"die Jagd bewegt sich nicht"* | Jangs Frage, ob vier Tage verschwendet oder ausgegeben werden - und Annie deckt auf, dass es Georgijs Frage war. Dort faengt die Liste der Tischgaeste an |
+| 32/3 | ganz streichen, *"wiederholt das Gartenurteil"* | *"If I leave out the ones I like, I am not running anything."* Und **die Regel, nach der der Rest des Buches laeuft**: *"Tell him, or ask him. Not both."* |
+| 32/4 | auf 150, *"reine Beinarbeit"* | *"You are the second person to ask me about a private dinner from before my time. The first one asked in April."* Das ist der Fund |
+| 35/5 | auf 200, *"der Schreibtisch gibt nichts her"* | Die Brandschutzmeldung: Juli vor vier Jahren, medizinischer Sauerstoff, einmal eingetragen und nie geloescht, mit dem Namen der Firma. Die Kette, die zu Baek fuehrt |
+
+### Die Entscheidung
+
+**Die vier bleiben, wie sie sind, und die Spannen-Hinweise werden hingenommen.**
+Sie sind Hinweise und keine Fehler, und vierzehn Kapitel liegen ohnehin knapp
+unter der Untergrenze. Die zwei Alternativen sind teurer: die Zusammenlegung
+zurueckzunehmen kostet eine zweite Umnummerierung des halben Bandes, und Szenen
+zu opfern kostet bei 35 die zwei Sang-hoon-Tische, in denen das Beste des
+Kapitels steht.
+
+**Sie sind ueber der Spanne, weil sie zwei Kapitel sind, und nicht, weil zu viel
+darin steht.** Wer das wieder aufmacht, liest bitte vorher die Tabelle oben.
 
 ---
 
@@ -15396,11 +15445,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 859 | 87 (b1ch01-b2ch83) | 1 | 590 |
 | Park Sang-hoon | 307 | 42 (b1ch10-b2ch83) | 22 | 590 |
-| Chairman Woo | 235 | 42 (b1ch07-b2ch83) | 22 | 590 |
+| Chairman Woo | 232 | 41 (b1ch07-b2ch83) | 22 | 590 |
 | Hana | 168 | 21 (b1ch09-b2ch83) | 22 | 590 |
 | Jang | 158 | 33 (b1ch05-b2ch66) | 4 | 444 |
-| Mrs Seo | 139 | 48 (b1ch03-b2ch81) | 1 | 531 |
-| Mr Hwang | 129 | 21 (b2ch07-b2ch83) | 166 | 590 |
+| Mrs Seo | 138 | 48 (b1ch03-b2ch81) | 1 | 531 |
+| Mr Hwang | 128 | 21 (b2ch07-b2ch83) | 166 | 590 |
 | Sim | 126 | 19 (b2ch27-b2ch82) | 239 | 578 |
 | Mrs Jeon | 93 | 17 (b2ch06-b2ch83) | 164 | 590 |
 | Mr Ahn | 62 | 9 (b2ch47-b2ch83) | 315 | 590 |
@@ -16092,14 +16141,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 270 | b2ch35:128 | Georgij had the folded sheet in his inside pocket, where it has been since Tuesday of th.. |
 | 270 | b2ch35:202 | "There is a second address. A lapsed medical licence, a clinic that has been a dental of.. |
 | 273 | b2ch35:302 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
-| 273 | b2ch35:486 | Annie was in the small room when he came back, going through a delivery ledger of her ow.. |
-| 273 | b2ch35:492 | "Then stop looking at tables." Annie set her pen down. "A man who wants no record does n.. |
-| 273 | b2ch35:500 | "I grew up watching my own father do business on a golf course twice a month and call it.. |
-| 276 | b2ch35:605 | Annie was at the desk with the ledger open and did not close it. |
-| 276 | b2ch35:617 | Annie put the pen down across the ledger. |
-| 276 | b2ch35:633 | Annie was quiet for a moment, and when she spoke it was not about the machine. |
-| 276 | b2ch35:651 | Annie looked at him for what felt like a long time and was probably three seconds. |
-| 276 | b2ch35:739 | He wrote both options down with the reason under each, and the second one at the bottom,.. |
+| 273 | b2ch35:474 | Annie was in the small room when he came back, going through a delivery ledger of her ow.. |
+| 273 | b2ch35:480 | "Then stop looking at tables." Annie set her pen down. "A man who wants no record does n.. |
+| 273 | b2ch35:488 | "I grew up watching my own father do business on a golf course twice a month and call it.. |
+| 276 | b2ch35:593 | Annie was at the desk with the ledger open and did not close it. |
+| 276 | b2ch35:605 | Annie put the pen down across the ledger. |
+| 276 | b2ch35:621 | Annie was quiet for a moment, and when she spoke it was not about the machine. |
+| 276 | b2ch35:639 | Annie looked at him for what felt like a long time and was probably three seconds. |
+| 276 | b2ch35:727 | He wrote both options down with the reason under each, and the second one at the bottom,.. |
 | 279 | b2ch36:10 | Annie had pointed him at the places that keep no book, and he had taken the direction se.. |
 | 279 | b2ch36:166 | "Say it in the order you got it," said Annie. |
 | 279 | b2ch36:182 | Annie sat down on the edge of the desk with her back half to him and looked at the open .. |
@@ -16484,9 +16533,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch35:128` (Tag 270) - thirty-one
 - `b2ch35:202` (Tag 270) - eighteen
 - `b2ch35:302` (Tag 273) - three, two
-- `b2ch35:500` (Tag 273) - eighteen, four, one
-- `b2ch35:651` (Tag 276) - three
-- `b2ch35:739` (Tag 276) - one
+- `b2ch35:488` (Tag 273) - eighteen, four, one
+- `b2ch35:639` (Tag 276) - three
+- `b2ch35:727` (Tag 276) - one
 - `b2ch36:10` (Tag 279) - four, one
 - `b2ch36:212` (Tag 279) - two
 - `b2ch37:230` (Tag 283) - one
@@ -16785,17 +16834,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 270 | b2ch35:268 | "That is an honest answer, and it is also the first time you have given me one that frig.. |
 | 270 | b2ch35:284 | He wrote them down exactly as Sang-hoon had given them, without deciding which one matte.. |
 | 273 | b2ch35:298 | He had promised Sang-hoon an answer at the end of May, and it was July before he had one.. |
-| 273 | b2ch35:334 | Two tables and two hours, and between them the exact stretch of time it took the house's.. |
-| 273 | b2ch35:350 | He closed the notebook a little after nine and telephoned Sang-hoon before he could deci.. |
-| 273 | b2ch35:432 | They met at the same table as Tuesday, because Sang-hoon had said on the telephone that .. |
-| 273 | b2ch35:442 | Sang-hoon's face did not move, and that itself was the answer, because his face had move.. |
-| 273 | b2ch35:460 | Sang-hoon set the cup down without having drunk from it once. |
-| 273 | b2ch35:462 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
-| 273 | b2ch35:474 | "Then it happened somewhere I have not yet thought to be ashamed of." Sang-hoon almost l.. |
-| 273 | b2ch35:478 | "Find where a man decides something when there is no table and no bill to prove he was e.. |
-| 273 | b2ch35:516 | He did not take that as a reason to stop. He took it as a description of the work still .. |
-| 276 | b2ch35:528 | Sang-hoon had given him a question with two halves, and Georgij had spent the weekend de.. |
-| 276 | b2ch35:595 | *I have an address that keeps a tank, a month four years ago, and the name of the firm t.. |
+| 273 | b2ch35:326 | Two tables and two hours, and between them the exact stretch of time it took the house's.. |
+| 273 | b2ch35:338 | He closed the notebook a little after nine and telephoned Sang-hoon before he could deci.. |
+| 273 | b2ch35:420 | They met at the same table as Tuesday, because Sang-hoon had said on the telephone that .. |
+| 273 | b2ch35:430 | Sang-hoon's face did not move, and that itself was the answer, because his face had move.. |
+| 273 | b2ch35:448 | Sang-hoon set the cup down without having drunk from it once. |
+| 273 | b2ch35:450 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 273 | b2ch35:462 | "Then it happened somewhere I have not yet thought to be ashamed of." Sang-hoon almost l.. |
+| 273 | b2ch35:466 | "Find where a man decides something when there is no table and no bill to prove he was e.. |
+| 273 | b2ch35:504 | He did not take that as a reason to stop. He took it as a description of the work still .. |
+| 276 | b2ch35:516 | Sang-hoon had given him a question with two halves, and Georgij had spent the weekend de.. |
+| 276 | b2ch35:583 | *I have an address that keeps a tank, a month four years ago, and the name of the firm t.. |
 | 279 | b2ch36:30 | Four entries, one under another, in one hand, one pen, one sitting. He had taken them of.. |
 | 279 | b2ch36:46 | He telephoned Sang-hoon before he had finished thinking it through, because another hour.. |
 | 279 | b2ch36:62 | "Five weeks," said Sang-hoon. "That is not a complaint. That book has been on my own des.. |
@@ -16970,15 +17019,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch35:268` (Tag 270) - one
 - `b2ch35:284` (Tag 270) - one
 - `b2ch35:298` (Tag 273) - one
-- `b2ch35:334` (Tag 273) - two
-- `b2ch35:350` (Tag 273) - nine
-- `b2ch35:432` (Tag 273) - one
-- `b2ch35:462` (Tag 273) - one, six
-- `b2ch35:474` (Tag 273) - one, two
-- `b2ch35:478` (Tag 273) - six
-- `b2ch35:516` (Tag 273) - one, three, two
-- `b2ch35:528` (Tag 276) - two
-- `b2ch35:595` (Tag 276) - four, one
+- `b2ch35:326` (Tag 273) - two
+- `b2ch35:338` (Tag 273) - nine
+- `b2ch35:420` (Tag 273) - one
+- `b2ch35:450` (Tag 273) - one, six
+- `b2ch35:462` (Tag 273) - one, two
+- `b2ch35:466` (Tag 273) - six
+- `b2ch35:504` (Tag 273) - one, three, two
+- `b2ch35:516` (Tag 276) - two
+- `b2ch35:583` (Tag 276) - four, one
 - `b2ch36:30` (Tag 279) - four, one
 - `b2ch36:62` (Tag 279) - eight, five, four, one, two
 - `b2ch36:68` (Tag 279) - four
@@ -17014,7 +17063,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-235 Nennungen in 42 Kapiteln.
+232 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -17168,9 +17217,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 236 | b2ch25:160 | Woo. Sunwoo. Choi Dae-ho. |
 | 257 | b2ch32:156 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 257 | b2ch32:284 | It is the same shape as the three dates he gave Chairman Woo in November, after the pape.. |
-| 322 | b2ch49:260 | "Chairman Woo," she said. "He asked after you by name and he said the words please and t.. |
-| 322 | b2ch49:266 | "I have it," said Woo. |
-| 322 | b2ch49:278 | "And Georgij." Woo did not hurry it. "He did not leave that service under a cloud. Someb.. |
 | 326 | b2ch50:102 | He took the time it needed, because Woo had done that for him on a Sunday and he had und.. |
 | 369 | b2ch52:6 | Nothing came from Chairman Woo on the Tuesday and nothing came on the Wednesday, and nei.. |
 | 369 | b2ch52:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
@@ -17343,7 +17389,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch19:64` (Tag 209) - five, four, one
 - `b2ch32:156` (Tag 257) - one, three
 - `b2ch32:284` (Tag 257) - three, two
-- `b2ch49:260` (Tag 322) - nine
 - `b2ch50:102` (Tag 326) - four
 - `b2ch63:74` (Tag 434) - one
 - `b2ch63:86` (Tag 434) - one
@@ -17763,17 +17808,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 261 | b2ch33:230 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
 | 263 | b2ch34:304 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 270 | b2ch35:256 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
-| 273 | b2ch35:358 | Jang telephoned at half past twelve, before Georgij had left for the restaurant, and sai.. |
-| 273 | b2ch35:364 | "The rota is nine people," said Jang. "Four cars, morning and evening, two of them carry.. |
-| 273 | b2ch35:368 | "The Friday delivery is a standing order. The grocer's man told me the number himself, i.. |
-| 273 | b2ch35:376 | "He has been on that round for six years, and he said it without me asking, because a ma.. |
-| 273 | b2ch35:380 | Neither of them said anything for a moment. Georgij could hear a road behind Jang, and a.. |
-| 273 | b2ch35:382 | "That is the whole of it," said Jang. "I want to be exact about what it is not. It is no.. |
-| 273 | b2ch35:394 | "Yes," said Jang. "That is the size of it." |
-| 273 | b2ch35:400 | Jang did not say anything to that, which is how he takes it when somebody has noticed. |
-| 273 | b2ch35:424 | *And it is not his road. She said that in front of Jang on the twenty-first and she was .. |
-| 276 | b2ch35:532 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
-| 276 | b2ch35:548 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
+| 273 | b2ch35:346 | Jang telephoned at half past twelve, before Georgij had left for the restaurant, and sai.. |
+| 273 | b2ch35:352 | "The rota is nine people," said Jang. "Four cars, morning and evening, two of them carry.. |
+| 273 | b2ch35:356 | "The Friday delivery is a standing order. The grocer's man told me the number himself, i.. |
+| 273 | b2ch35:364 | "He has been on that round for six years, and he said it without me asking, because a ma.. |
+| 273 | b2ch35:368 | Neither of them said anything for a moment. Georgij could hear a road behind Jang, and a.. |
+| 273 | b2ch35:370 | "That is the whole of it," said Jang. "I want to be exact about what it is not. It is no.. |
+| 273 | b2ch35:382 | "Yes," said Jang. "That is the size of it." |
+| 273 | b2ch35:388 | Jang did not say anything to that, which is how he takes it when somebody has noticed. |
+| 273 | b2ch35:412 | *And it is not his road. She said that in front of Jang on the twenty-first and she was .. |
+| 276 | b2ch35:520 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
+| 276 | b2ch35:536 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
 | 279 | b2ch36:34 | Two weeks ago he had written down Jang's rota and Jang's grocery numbers in the order Ja.. |
 | 290 | b2ch39:6 | Jang had given him the other word on the Friday, and then Saturday had happened, and the.. |
 | 290 | b2ch39:10 | He had it written down twice, once in Jang's phrasing and once in his own, because he ha.. |
@@ -17864,12 +17909,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:230` (Tag 261) - one, six
 - `b2ch34:304` (Tag 263) - one
 - `b2ch35:256` (Tag 270) - eleven, one, two
-- `b2ch35:358` (Tag 273) - twelve
-- `b2ch35:364` (Tag 273) - four, nine, ten, two
-- `b2ch35:368` (Tag 273) - nine, one
-- `b2ch35:376` (Tag 273) - four, six
-- `b2ch35:424` (Tag 273) - eleven, twenty
-- `b2ch35:532` (Tag 276) - eleven, sixteen
+- `b2ch35:346` (Tag 273) - twelve
+- `b2ch35:352` (Tag 273) - four, nine, ten, two
+- `b2ch35:356` (Tag 273) - nine, one
+- `b2ch35:364` (Tag 273) - four, six
+- `b2ch35:412` (Tag 273) - eleven, twenty
+- `b2ch35:520` (Tag 276) - eleven, sixteen
 - `b2ch36:34` (Tag 279) - one, two
 - `b2ch39:18` (Tag 290) - one
 - `b2ch39:28` (Tag 290) - eight, eleven, one, three
@@ -17890,7 +17935,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-139 Nennungen in 48 Kapiteln.
+138 Nennungen in 48 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -17976,7 +18021,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 319 | b2ch48:56 | "I would not." Mrs Seo looked at him properly for about a second. "There's a plate for y.. |
 | 319 | b2ch48:542 | "Mrs Seo has a plate for you at half past six on Thursday whether you are in it or not, .. |
 | 322 | b2ch49:10 | Mrs Seo did not mention it and did not need to. |
-| 322 | b2ch49:258 | Mrs Seo brought it through rather than calling him, which she has done twice in nine mon.. |
 | 395 | b2ch58:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
 | 396 | b2ch59:8 | Mrs Seo put food outside the door at eight and at one. She took the first tray away unto.. |
 | 398 | b2ch60:6 | She asked on the Thursday morning and she asked Mrs Seo, in the passage behind the kitch.. |
@@ -18085,7 +18129,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch48:46` (Tag 319) - seven, ten
 - `b2ch48:56` (Tag 319) - nine, six
 - `b2ch48:542` (Tag 319) - nine, one, six
-- `b2ch49:258` (Tag 322) - nine
 - `b2ch59:8` (Tag 396) - eight, one
 - `b2ch60:10` (Tag 398) - ten
 - `b2ch60:20` (Tag 398) - eleven, one, three
@@ -18122,7 +18165,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-129 Nennungen in 21 Kapiteln.
+128 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -18191,11 +18234,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 255 | b2ch31:264 | "You are not going to give this to Hwang," she said. It was not a question. |
 | 255 | b2ch31:364 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
 | 257 | b2ch32:156 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
-| 273 | b2ch35:322 | *H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a ho.. |
-| 273 | b2ch35:448 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
-| 273 | b2ch35:456 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
-| 273 | b2ch35:464 | "You did not know Hwang was coming." |
-| 273 | b2ch35:466 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
+| 273 | b2ch35:436 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
+| 273 | b2ch35:444 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
+| 273 | b2ch35:452 | "You did not know Hwang was coming." |
+| 273 | b2ch35:454 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
 | 307 | b2ch45:38 | Nobody has told Hwang either, because a fund decides that and a fund is in no hurry. It .. |
 | 307 | b2ch45:162 | It names the lot by its reference in the permanent series, which he has, because Byun so.. |
 | 371 | b2ch52:44 | "There is one door," he said, "and it is Mr Hwang." |
@@ -18288,9 +18330,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch29:424` (Tag 244) - one
 - `b2ch31:364` (Tag 255) - six, three
 - `b2ch32:156` (Tag 257) - one, three
-- `b2ch35:322` (Tag 273) - six, three
-- `b2ch35:448` (Tag 273) - seven, six, three
-- `b2ch35:456` (Tag 273) - one, six
+- `b2ch35:436` (Tag 273) - seven, six, three
+- `b2ch35:444` (Tag 273) - one, six
 - `b2ch45:162` (Tag 307) - four, one, thirty
 - `b2ch52:44` (Tag 371) - one
 - `b2ch52:60` (Tag 371) - four, one
@@ -18340,7 +18381,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 263 | b2ch34:114 | "Sim," said Mrs Bae. |
 | 270 | b2ch35:32 | "The name on the booking is Sim." |
 | 270 | b2ch35:52 | "You do not use it. Not to look it up. Not to mention it to a man in a bar to see what h.. |
-| 273 | b2ch35:422 | *Not tonight. He has had Sim for three days and he has held it, and a man who is holding.. |
+| 273 | b2ch35:410 | *Not tonight. He has had Sim for three days and he has held it, and a man who is holding.. |
 | 288 | b2ch38:40 | Twelve white stems, no wrap. It is written twice in a carbon book in a shop in Hyoja-don.. |
 | 288 | b2ch38:98 | He did not write the other version. That he had done it correctly, that honesty was the .. |
 | 288 | b2ch38:180 | Georgij wrote the day up before lunch, and it took him three attempts, because the first.. |
@@ -18461,7 +18502,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Sim
 
-- `b2ch35:422` (Tag 273) - one, three
+- `b2ch35:410` (Tag 273) - one, three
 - `b2ch38:40` (Tag 288) - four, twelve, twenty
 - `b2ch38:180` (Tag 288) - one, three, two
 - `b2ch43:48` (Tag 302) - five
@@ -18581,8 +18622,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 257 | b2ch32:156 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 263 | b2ch34:224 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 | 270 | b2ch35:240 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
-| 273 | b2ch35:326 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
-| 276 | b2ch35:564 | He sat with that for a while before he wrote anything down, because a single filing, how.. |
+| 273 | b2ch35:318 | He got the second at about four in the afternoon, and then he sat back and read them tog.. |
+| 276 | b2ch35:552 | He sat with that for a while before he wrote anything down, because a single filing, how.. |
 | 385 | b2ch55:30 | "Three hours and eleven minutes," said Mrs Jeon. |
 | 385 | b2ch55:48 | "Hello, Mrs Jeon." |
 | 385 | b2ch55:66 | "I told him on Tuesday morning and he sat down." Mrs Jeon turned her cup a quarter turn... |
@@ -18644,8 +18685,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch32:156` (Tag 257) - one, three
 - `b2ch34:224` (Tag 263) - forty, one, six
 - `b2ch35:240` (Tag 270) - one, twenty-three
-- `b2ch35:326` (Tag 273) - one, two
-- `b2ch35:564` (Tag 276) - one
+- `b2ch35:318` (Tag 273) - four, one, two
+- `b2ch35:552` (Tag 276) - one
 - `b2ch55:30` (Tag 385) - eleven, three
 - `b2ch55:142` (Tag 385) - eight, four, four hundred, three, twenty-three
 - `b2ch55:178` (Tag 385) - twenty-three
@@ -19093,8 +19134,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 259 | b2ch32:400 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
 | 259 | b2ch32:504 | "The one who was not Choi ate his dinner, complimented the wine, asked what went into th.. |
 | 263 | b2ch34:202 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
-| 273 | b2ch35:462 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
-| 273 | b2ch35:494 | "Where that would be, for a man like Choi." |
+| 273 | b2ch35:450 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 273 | b2ch35:482 | "Where that would be, for a man like Choi." |
 | 288 | b2ch38:148 | "He has not told Choi Dae-ho," he said slowly. |
 | 290 | b2ch39:138 | "And if he goes to Choi Dae-ho the same afternoon." |
 | 322 | b2ch49:56 | Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the flo.. |
@@ -19143,7 +19184,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch30:96` (Tag 249) - three
 - `b2ch32:400` (Tag 259) - one
 - `b2ch32:504` (Tag 259) - eleven, four, one
-- `b2ch35:462` (Tag 273) - one, six
+- `b2ch35:450` (Tag 273) - one, six
 - `b2ch49:56` (Tag 322) - eleven, hundred and forty
 - `b2ch49:64` (Tag 322) - five
 - `b2ch52:88` (Tag 371) - eleven, four, one
