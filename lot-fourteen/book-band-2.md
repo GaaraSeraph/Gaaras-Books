@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 83 Kapitel, 223.853 Woerter.
+Book Two, 83 Kapitel, 223.237 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -38,10 +38,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 25 | v1.8 | 3.886 |
 | 26 | v3.0 | 6.850 |
 | 27 | v1.3 | 2.317 |
-| 28 | v1.5 | 2.352 |
-| 29 | v3.0 | 8.069 |
+| 28 | v2.0 | 2.269 |
+| 29 | v4.0 | 7.789 |
 | 30 | v2.5 | 3.288 |
-| 31 | v2.6 | 3.856 |
+| 31 | v3.0 | 3.603 |
 | 32 | v4.0 | 4.077 |
 | 33 | v2.9 | 2.775 |
 | 34 | v3.0 | 3.468 |
@@ -6607,7 +6607,7 @@ Mr Ku looked at his empty hands in the mirror and pulled out.
 ---
 
 # Book Two · Chapter 28: Where the name goes
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Forty-Two · Tuesday 2 June
 
@@ -6663,7 +6663,7 @@ It has never once sounded the way it sounded in that kitchen.
 
 Mrs Jeon sat back.
 
-"And underneath it there is a paragraph that tells me why my name came up," she said. "In writing. It says that a man who works for her sat at this table on the twenty-ninth of May, and that nobody at that firm has met me. It says I may ring the number at the bottom and ask them anything I like."
+"And underneath it there is a paragraph that tells me why my name came up," she said. "In writing. It says a man who works for her sat at this table on the twenty-ninth of May, and that I may ring the number at the bottom and ask them anything I like."
 
 "Yes."
 
@@ -6679,13 +6679,7 @@ Mrs Jeon looked at him across her own table.
 
 "Why not?"
 
-"Because it is not mine," he said. "She decided it, and it is her firm and her name on the page, and it is her money. If I had come out here on Saturday to tell you first, I would have taken a thing that belongs to her and used it to be liked by you."
-
-The flat was quiet.
-
-"That is an honest answer and it is not the whole one."
-
-"No," said Georgij. "The other part is that you would have had two days of me sitting in your head being the man who arranged it, and you would have read that letter on Saturday morning as a thing I did. You would have been right to."
+"Because it is not mine," he said. "She decided it, and it is her firm and her name on the page and her money. If I had come out here on Saturday to tell you first, I would have taken a thing that belongs to her and used it to be liked by you." The flat was quiet. "And you would have read that letter on Saturday morning as a thing I did, and you would have been right to."
 
 She did not thank him for that.
 
@@ -6695,7 +6689,7 @@ Georgij did not go round it.
 
 "Yes."
 
-"Do you know how many times in twenty-three years I have been handled by that building." She put both hands on the table. "Every increase, every rota, every time a man decided something about my week and then came and told me in a way that was designed to make me feel that I had been consulted. I know the shape of it in the dark. I have been reading it since Saturday morning and it is the shape."
+"Do you know how many times in twenty-three years I have been handled by that building." She put both hands on the table. "I know the shape of it in the dark, and I have been reading this since Saturday morning, and it is the shape."
 
 "It is."
 
@@ -6862,7 +6856,7 @@ He thought about a woman going to lunch, four years ago, after she had put a bil
 ---
 
 # Book Two · Chapter 29: Two witnesses
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Forty-Three · Wednesday 3 June
 
@@ -6890,11 +6884,7 @@ She read them twice.
 
 "Say what you know about him and not what you have guessed."
 
-"A man who orders flowers by telephone for people he has never met, and tells florists it is good to see them again," said Georgij. "I do not know yet whether he is also the one who arranged the doctor, but a car, two deliveries and a house call inside the same few months is not four coincidences. He is not Choi Dae-ho. He is the one Choi Dae-ho tells to make the calls."
-
-"How do you know that?"
-
-"Because the man who wanted it hidden had a fee paid for him rather than let anybody know he could have had it for nothing," said Georgij. "That is not a man who telephones a flower shop himself. That is a man who has somebody else do it, and is careful never to be in the room when it happens."
+"That he is not Choi Dae-ho. He is the one Choi Dae-ho tells to make the calls," said Georgij. "The man who wanted it hidden had a fee paid for him rather than let anybody know he could have had it for nothing. That is a man who has somebody else telephone a flower shop, and is careful never to be in the room when it happens."
 
 Annie put the slips down.
 
@@ -7000,33 +6990,7 @@ He did not answer that, because she was right and he had not decided.
 
 "I intend to."
 
-At the door, on his way to whatever the morning had been going to be before he emptied his pockets on her desk, she said one more thing.
-
-"Georgij."
-
-"Yes."
-
-"You have been doing this since March and I have only just been told the shape of it," said Annie. "I would like to know how many other things are sitting in that notebook that I have not seen."
-
-He turned round.
-
-"Fewer than there were a week ago," he said, "and I would like that to be true every week from here, and I am telling you that because I do not know yet whether it will hold."
-
-"That is an honest answer."
-
-"Mistress." He said it plainly, not as an endearment. "You have not, and you will not ever, hear a different kind of answer from me."
-
-She did not say anything to that, and he went out into a house where nobody had raised their voice.
-
-He stopped in the corridor and went back.
-
-Annie had the drawer open again and was putting the copies in it in the order he had given them to her, which she did not have to do and was doing anyway.
-
-"There is one more thing," said Georgij.
-
-"There is always one more thing with you. Say it standing where I can see you, not from the doorway."
-
-He came back into the room.
+He got as far as the door, on his way to whatever the morning had been going to be before he emptied his pockets on her desk, and turned round.
 
 "Thank you," he said. "For not asking me why it took until this morning."
 
@@ -7842,7 +7806,7 @@ He put the book away without any pleasure in it. For ten months he has been writ
 ---
 
 # Book Two · Chapter 31: The one who asked a question
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 3.0 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
@@ -8032,37 +7996,17 @@ Annie read it without picking it up.
 
 "You are not going to give this to Hwang," she said. It was not a question.
 
-"No. She told me I would keep it and not use it." He kept his hands at his sides. "I have thought about what using it would mean, and handing it to the man it is about is exactly that, whatever the reason I told myself for doing it."
-
-"Even the kind reason," said Annie.
-
-"Especially the kind reason. He asked for this because he wanted to be forgiven for something, and if I hand it to him, I am the one deciding that he has earned it, and that is not mine to decide. It was never going to be mine."
+"No. She told me I would keep it and not use it." He kept his hands at his sides. "Handing it to the man it is about is using it, whatever reason I tell myself for doing it. He asked for this because he wanted to be forgiven for something, and if I hand it to him, I am the one deciding that he has earned it."
 
 Annie looked at the letter for a moment longer.
 
 "Then what was it for."
 
-"It exists," said Georgij. "That was the whole of what he asked for, and I did not understand it until this morning. He did not want it read by anybody in particular. He wanted it to be true and written down, in case the only version of the ninth of January that survives is the one in his own head, which he has already told me he does not trust."
-
-Annie sat back.
-
-"You could have told him that yourself and saved her the morning."
-
-"I could have," said Georgij, "and it would have been worth nothing, because it would have been my word about her instead of hers. A man who kept everything for twenty years believes paper. I gave him a piece of paper. I did not give him mine to give, and that is the difference between doing the thing correctly and doing it quickly."
-
-Annie looked at him for a moment the way she looks at a figure she has already checked twice and is checking a third time out of habit rather than doubt.
-
-"You have spent a great deal of this year learning the difference between those two," she said.
-
-"I have spent a great deal of this year learning that I did not use to know there was one."
+"It exists," said Georgij. "That was the whole of what he asked for, and I did not understand it until this morning. He wanted it to be true and written down, in case the only version of the ninth of January that survives is the one in his own head, which he has already told me he does not trust."
 
 Something in Annie's face settled, the way it does when an answer has met whatever she was testing it against and held.
 
-"Read me the last line again," she said.
-
-"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."
-
-"That is the entire dispute of this business in two sentences," said Annie, "and she wrote it before her coffee had gone cold, on her first morning at a job she has every reason to have spent thinking about something else."
+"He was correct about the desk. He was wrong about the book," said Annie. "That is the entire dispute of this business in two sentences, and she wrote it before her coffee had gone cold, on a first morning she has every reason to have spent thinking about something else."
 
 "Yes."
 
@@ -8112,7 +8056,7 @@ He read the four letters again, this time with the flower slips and the Byun led
 
 Four letters. Four decisions Sang-hoon has never been able to account for.
 
-He tried the obvious approach first and abandoned it inside ten minutes. Half of Seoul's shipping trade has a surname that starts with one of the four letters, and a list built that way would run to hundreds of names before lunch and be worth nothing at the end of it. Byun had taught him that much in May without meaning to: a letter is not a lead. It is the shadow of one, and shadows point in the direction of a light he still had to find.
+He tried the obvious approach first and abandoned it inside ten minutes. Half of Seoul's shipping trade has a surname that starts with one of the four letters, and a list built that way would run to hundreds of names before lunch and be worth nothing at the end of it.
 
 What he had instead was four evenings, and four moods attached to them in Sang-hoon's own hand. A man who writes *Late* instead of a time is telling you something about how the night went, even if he does not know he is doing it.
 

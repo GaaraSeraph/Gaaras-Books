@@ -862,3 +862,98 @@ zweimal ausgeschlossen, und der zweite Ausschluss machte den ersten
 ueberfluessig. Hier gibt es einen Ausschluss, er dauert 216 Woerter, und er
 bringt den Fund hervor. Ein Ausschluss, der etwas hervorbringt, ist keine
 Klasse C.
+
+---
+
+## Klasse D, die Inventur, ausgefuehrt am 27.08.
+
+**Veranschlagt waren ~5.300 in fuenf Kapiteln. Gefallen sind 619.** Der Rest
+ist entweder nie in dieser Form dagewesen oder unter einer anderen Klasse schon
+weg. Die Aufstellung ist wichtiger als die Zahl:
+
+| neu | Posten der Liste | veranschlagt | Befund |
+|---|---|---|---|
+| **29** | Alle Papiere auf dem Schreibtisch, *streichen* | ~2.200 | **284 gefallen.** Die Szene laesst sich nicht streichen, Begruendung unten |
+| **28** | Nachgespraech ueber das frueher 29 gewesene | ~1.200 | **83 gefallen.** Das Gespraech misst 985 und traegt jedes Stueck davon |
+| **31** | Mrs Jeons Brief, Nachbereitung | ~800 | **252 gefallen**, plus eine Doppelung mit Kapitel 32 |
+| **35** | Bericht ueber Jangs Zahl | ~500 | **existiert nicht.** Nachgeprueft, siehe unten |
+| **32** | Bericht ueber die zwei Restaurants | ~600 | **am selben Tag unter Klasse C gefallen** |
+
+### Was gefallen ist
+
+**Kapitel 29.** Der Sim-Durchgang zaehlte auf, was in 27 dastand, und die Szene
+hatte **zwei Schluesse hintereinander** - einmal an der Tuer (*"wie viele andere
+Dinge stehen in dem Notizbuch"*), einmal beim Zurueckkommen (*"Danke, dass Du
+nicht gefragt hast, warum es bis heute morgen gedauert hat"*). Der zweite ist
+der bessere, weil Annie darin schon Bescheid weiss: *"You wanted one clean week
+where nobody in this house had to forgive you for anything."*
+
+**Kapitel 28.** Der Absatz im Brief stand wortgleich als Annies Anweisung in
+Kapitel 26. Georgijs Begruendung, warum er am Samstag nicht gekommen ist, stand
+zweimal da. Mrs Jeons dreiundzwanzig Jahre standen als Geschichte und drei
+Repliken spaeter noch einmal als Aufstellung - die Aufstellung ist genauer und
+bleibt.
+
+**Kapitel 31.** Der Brief wurde **viermal** ausgelegt: von Georgij, von Annie,
+noch einmal als *"Du haettest es ihm selbst sagen koennen"*, und dann liess sich
+Annie die Schlusszeile vorlesen, die der Leser dreissig Zeilen vorher gelesen
+hatte. Es bleiben zwei Auslegungen.
+
+### Und eine Doppelung ueber die Kapitelgrenze
+
+In 31 stand *"a letter is not a lead. It is the shadow of one"* als
+Randbemerkung des Erzaehlers. Zwoelf Tage spaeter, in 32, sagt Georgij am
+Telefon **denselben Satz** als Selbstkorrektur, und dort traegt er die Szene.
+Der erste hat den zweiten entwertet. Die Randbemerkung ist weg.
+
+`doppelt-im-kapitel.py` findet so etwas nicht, weil es innerhalb eines Kapitels
+sucht. `doppelt.py` findet es, wenn die Formulierung nah genug ist - hier war
+sie es nicht. **Gefunden hat es das Lesen der zwei Kapitel nacheinander**, und
+das ist genau die Ebene, die `CLAUDE.md` dafuer vorsieht.
+
+### Warum Kapitel 29 Szene 1 nicht gestrichen werden kann
+
+Sie ist der **einzige** Ort im Band, an dem drei Dinge geschehen:
+
+1. **Annie setzt die Regel** - *"You do not go near either address without
+   telling me first. Not asking. Telling."* Nachgeprueft: der Satz kommt in
+   keinem anderen Kapitel vor.
+2. **Jang wird eingesetzt** - *"send Jang up to me on your way past the
+   kitchen."* In den Kapiteln 25 bis 32 faellt sein Name in keiner anderen
+   Datei.
+3. **Georgij nennt seinen eigenen Namen zum ersten Mal als Gefahr** - *"it does
+   not go wrong to me alone"*, und Annie sagt es ihm ins Gesicht: *"That is the
+   first time you have said that sentence in this house."*
+
+**Und die Regel aus Punkt 1 ist die Voraussetzung der Klasse A.** *Warten auf
+Erlaubnis* gibt es nur, weil sie hier ausgesprochen wird. Man kann die Szene
+nicht streichen und die Klasse behalten, die auf ihr steht. Das ist keine
+Bewertung, das ist ein Widerspruch in der Liste.
+
+Die alte Fassung liegt als `archiv/band-2-vor-umbau/ch33_v1_8_en.md` daneben und
+misst 1.981 Woerter - die Szene ist beim Zusammenlegen **nicht** umgebaut worden.
+Der Eintrag der Liste meint also genau diesen Text.
+
+### Warum der Posten in Kapitel 35 nicht existiert
+
+*Bericht ueber Jangs Zahl.* Jangs Zahl - neun im Dienstplan, Essen fuer zehn,
+seit dem Sommer vor vier Jahren - faellt im Telefonat und wird von Georgij im
+selben Gespraech ausgelegt. **Sie wird Annie nirgends nachgetragen.** Geprueft
+gegen `neun`, `zehnter` und `Dauerauftrag` ueber das ganze Kapitel: fuenf
+Fundstellen, alle vier im Telefonat und eine in Georgijs eigenem Schluss.
+
+Wahrscheinlich ist der Bericht beim Zusammenlegen von 42 und 43 weggefallen,
+wie die zehntausend Woerter der Klasse B mit den neun gestrichenen Kapiteln.
+
+### Was das ueber die Klassen sagt
+
+**Die fuenf Streichklassen zaehlen Muster, nicht Woerter.** Das war bei Klasse C
+in Kapitel 36 schon so - dort standen ~600 in der Tabelle und 216 im Text - und
+bei Klasse D ist es der Regelfall. Ein Muster kann in einem Kapitel dreimal
+vorkommen und trotzdem nur zweihundert Woerter kosten.
+
+**Nachgemessen mit `doppelt.py`**, das genau diese Frage stellt - welche Aussage
+steht in zwei Kapiteln: in den Kapiteln 26 bis 35 gibt es **vier** Paare ueber
+0.80, und alle vier sind gewollte Wiederaufnahmen (die Blumenformel, die sechs
+Wochen vor Hwang, die Losnummer, Singapur). Die grossflaechige Doppelung, die
+Klasse D beschreibt, ist im heutigen Text nicht messbar.

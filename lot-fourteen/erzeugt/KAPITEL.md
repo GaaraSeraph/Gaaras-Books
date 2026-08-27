@@ -71,10 +71,10 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 25** *What he collects* (v1.8) · Tag 236, Mi 27. Mai · 3.886 W
 - **B2 26** *She has a list* (v3.0) · Tag 237, Do 28. Mai · Tag 238, Fr 29. Mai · 6.850 W
 - **B2 27** *Nobody hides flowers* (v1.3) · Tag 239, Sa 30. Mai · 2.317 W
-- **B2 28** *Where the name goes* (v1.5) · Tag 242, Di 2. Juni · 2.352 W
-- **B2 29** *Two witnesses* (v3.0) · Tag 243, Mi 3. Juni · Tag 244, Do 4. Juni · Tag 244, Do 4. Juni · Tag 245, Fr 5. Juni · 8.069 W
+- **B2 28** *Where the name goes* (v2.0) · Tag 242, Di 2. Juni · 2.269 W
+- **B2 29** *Two witnesses* (v4.0) · Tag 243, Mi 3. Juni · Tag 244, Do 4. Juni · Tag 244, Do 4. Juni · Tag 245, Fr 5. Juni · 7.789 W
 - **B2 30** *An empty table* (v2.5) · Tag 249, Di 9. Juni · 3.288 W
-- **B2 31** *The one who asked a question* (v2.6) · Tag 251, Do 11. Juni · Tag 255, Mo 15. Juni · 3.856 W
+- **B2 31** *The one who asked a question* (v3.0) · Tag 251, Do 11. Juni · Tag 255, Mo 15. Juni · 3.603 W
 - **B2 32** *The man kitchens talk to* (v4.0) · Tag 257, Mi 17. Juni · Tag 259, Fr 19. Juni · 4.077 W
 - **B2 33** *Somebody who did not arrive in a car* (v2.9) · Tag 261, So 21. Juni · 2.775 W
 - **B2 34** *The name he books under* (v3.0) · Tag 262, Mo 22. Juni · Tag 263, Di 23. Juni · 3.468 W
