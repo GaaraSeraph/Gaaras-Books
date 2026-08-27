@@ -957,3 +957,118 @@ steht in zwei Kapiteln: in den Kapiteln 26 bis 35 gibt es **vier** Paare ueber
 0.80, und alle vier sind gewollte Wiederaufnahmen (die Blumenformel, die sechs
 Wochen vor Hwang, die Losnummer, Singapur). Die grossflaechige Doppelung, die
 Klasse D beschreibt, ist im heutigen Text nicht messbar.
+
+---
+
+## Klasse A, und danach die Messung, die alles umdreht (27.08.)
+
+### Klasse A: 94 Woerter
+
+Veranschlagt waren ~4.500 offen. Die Klasse sagt es selbst: *"Faellt durch die
+Umstellung zum groessten Teil von selbst weg."* Genau das ist geschehen, und
+zwar vollstaendiger, als die Zahl vermuten laesst.
+
+| neu | Posten | veranschlagt | Befund |
+|---|---|---|---|
+| **29** | dreimal die Frage nach den vier Tagen | ~2.100 | **es sind nicht drei Wiederholungen** |
+| **35** | die Genehmigungsszene fuer die Maschine | ~900 | **es ist die Aufloesung der Klasse** |
+| **33** | *"You are not going in. Not yet."* | ~500 | 11 gefallen, der Rest traegt |
+| **34** | *"Nothing happens to Dr Oh today"* | ~400 | 16 gefallen |
+
+**Die drei Fragen in 29 sind eine Kette und keine Schleife.** Sang-hoon fragt am
+Telefon *"Whose four days?"*, Georgij traegt die Frage zu Annie, und eine Stunde
+spaeter stellt Jang im Garagengang eine **andere** Frage - ob die Person die vier
+Tage verschwendet oder ausgibt. Am Ende dreht Annie es um: *"It was never really
+his question. It was yours, and you gave it to him because it was easier to ask
+on somebody else's behalf."* Das ist der Ertrag, und er braucht die zwei
+Aussenstehenden vorher.
+
+**Und der Text macht daraus sein eigenes Motiv.** Das Kapitel heisst *Two
+witnesses*, und der Satz, der die Wiederholung anzeigt, feiert sie:
+*"had just asked him the same question Sang-hoon had asked on the telephone that
+morning, and neither of them knew the other had asked it."* Zwei Leute, die
+einander nicht kennen, sagen dasselbe - genau das Verfahren, mit dem im selben
+Kapitel der Tic belegt wird.
+
+**Die Szene in 35 ist das Gegenteil einer Erlaubnisszene.** Annie beendet das
+Muster darin ausdruecklich: *"That is the first thing you have brought me in a
+month without a may I in front of it. I am not stopping you and I am not giving
+you permission either, because you have spent this whole quarter standing in my
+library waiting to be sent."* Die auf ein Viertel zu kuerzen hiesse, der Klasse
+ihren Schluss zu nehmen.
+
+Gefallen ist dort nur eine **Handwerksverletzung**: zwei Redebloecke Georgijs
+ohne etwas Koerperliches dazwischen, und der zweite sagte den ersten noch einmal.
+
+### Klasse E: nicht mehr vorhanden
+
+Von sieben Gestaendnisrunden sind drei mit den Kapiteln 69 bis 77 weggefallen.
+Bleiben sollten zwei, fallen sollten zwei. Nachgesehen:
+
+- **Kapitel 38** (*Twelve white stems*, frueher 47) misst **1.844** gegen eine
+  Zielgroesse von 1.900. Das Gestaendnis ist dort **ein Satz**.
+- **Kapitel 40** ist kein Gestaendniskapitel mehr. Es heisst heute *What he
+  asked her* und ist Mrs Baes Anruf bei Sim: die drei Sekunden, der Dank, die
+  Frage nach ihrem Knie. Es ist die Einloesung von *the man kitchens talk to*.
+
+---
+
+## Wo die Woerter wirklich sitzen: `werkzeug/plan.py`
+
+Nach vier Klassen mit zusammen **2.743** gefundenen Woertern gegen **~22.000**
+veranschlagte war klar, dass die Klassen die falsche Frage stellen. Das neue
+Werkzeug stellt die richtige: **jedes Kapitel gegen seine eigene Zielgroesse aus
+TEIL XII.**
+
+```
+Kap   Titel                                  ist    Ziel darueber
+29    Two witnesses                         7730    2800    +4930
+26    She has a list                        6836    3500    +3336
+35    Somebody in Seoul pays for it         7988    5500    +2488
+32    The man kitchens talk to              4062    2000    +2062
+31    The one who asked a question          3587    2200    +1387
+...
+59 Kapitel bewertet. ueber Ziel 26.467, unter Ziel 3.745, netto +22.722
+```
+
+**Die ersten fuenf sind 14.203 von 22.722, also dreiundsechzig Prozent.**
+
+**Und vier davon sind die vier Zusammenlegungen.** 26 (aus 28+29), 29 (aus
+33+35), 32 (aus 38+39), 35 (aus 42+43). Zusammen **+12.816**.
+
+### Was das heisst
+
+**Die vier Kapitel sind zusammengelegt und nicht gekuerzt worden.** TEIL XII
+hatte jedem eine Zielgroesse gegeben, die deutlich unter der Summe der zwei
+Teile lag - 33+35 zu 2.800, 28+29 zu 3.500 - und beim Zusammenlegen ist nur der
+erste Teil ausgefuehrt worden. Aneinandergehaengt, nicht reduziert.
+
+**Deshalb waren die Klassen leer.** Sie beschreiben Muster, und die Muster sind
+mit den neun gestrichenen Kapiteln und den Umbauten groesstenteils
+verschwunden. Die Woerter sind nicht in Mustern. Sie sind in vier Kapiteln.
+
+**Und `check.py` sagt unabhaengig davon dasselbe.** Alle drei grossen liegen
+ueber ihrer eigenen Spanne, die nach Erzaehltagen mitwaechst:
+
+| | Woerter | Spanne |
+|---|---|---|
+| 26 | 6.850 | 2.000 bis 5.200 bei 2 Tagen |
+| 29 | 7.742 | 2.000 bis 7.000 bei 4 Tagen |
+| 35 | 8.004 | 2.000 bis 6.100 bei 3 Tagen |
+
+Zwei Messungen, die nichts voneinander wissen, zeigen auf dieselben Kapitel.
+
+### Die Entscheidung, die dem Autor gehoert
+
+Fuer Kapitel 29 gibt es zwei Wege und sie schliessen einander aus:
+
+1. **Zurueck in zwei Kapitel teilen.** Zwei mal rund 3.900, beide in der Spanne,
+   nichts geht verloren. **Preis: die Nummerierung 1 bis 83 verschiebt sich
+   wieder**, und die Verweisarbeit vom 27.08. muss noch einmal laufen.
+2. **Rund 4.900 herausschneiden.** Das geht nur, indem entweder die Szene mit
+   den Papieren faellt - dann verschwinden Annies Regel, Jangs Einsatz und
+   Georgijs Name als Gefahr - oder die Kette der vier Tage, die das Motiv des
+   Kapitels traegt.
+
+**Das ist keine Kuerzungsfrage mehr, das ist eine Bauentscheidung.** Sie steht
+hier und wird nicht von mir getroffen.

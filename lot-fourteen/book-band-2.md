@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 83 Kapitel, 223.237 Woerter.
+Book Two, 83 Kapitel, 223.143 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -39,13 +39,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 26 | v3.0 | 6.850 |
 | 27 | v1.3 | 2.317 |
 | 28 | v2.0 | 2.269 |
-| 29 | v4.0 | 7.789 |
+| 29 | v4.1 | 7.742 |
 | 30 | v2.5 | 3.288 |
 | 31 | v3.0 | 3.603 |
 | 32 | v4.0 | 4.077 |
-| 33 | v2.9 | 2.775 |
-| 34 | v3.0 | 3.468 |
-| 35 | v3.1 | 8.024 |
+| 33 | v3.0 | 2.764 |
+| 34 | v3.1 | 3.452 |
+| 35 | v3.2 | 8.004 |
 | 36 | v1.5 | 2.162 |
 | 37 | v1.4 | 2.551 |
 | 38 | v1.5 | 1.889 |
@@ -6856,7 +6856,7 @@ He thought about a woman going to lunch, four years ago, after she had put a bil
 ---
 
 # Book Two · Chapter 29: Two witnesses
-*Lot Fourteen* · Version 4.0 · EN
+*Lot Fourteen* · Version 4.1 · EN
 
 ## Day Two Hundred and Forty-Three · Wednesday 3 June
 
@@ -7406,15 +7406,9 @@ Georgij stood with the receiver against his ear and did not answer straight away
 
 "Not entirely mine," said Georgij. "I am not going to say more than that on a telephone, and I would rather you thought worse of me for saying too little than better of me for anything else."
 
-Sang-hoon did not answer straight away.
+Sang-hoon did not answer straight away, and the car noise on the line changed, which meant he had turned a corner or a page.
 
-"That is a very expensive way to talk to a man who has just given you a name for nothing," he said.
-
-"I know exactly how expensive it is. That is why I am doing it this way and not the other one."
-
-The car noise on the line changed, which meant Sang-hoon had turned a corner or a page.
-
-"Four days," he said. "Tuesday, then. Not before."
+"That is a very expensive way to talk to a man who has just given you a name for nothing," he said. "Four days, then. Tuesday. Not before."
 
 "Not before."
 
@@ -7448,11 +7442,7 @@ She listened without writing anything down.
 
 Annie looked at him for a moment the way she had looked at the notebook on Wednesday, which is to say properly.
 
-"Most people would have said mine, and let it stand, because it is shorter and nobody could have proved otherwise."
-
-"Most people are not measured against a rule where the whole point is that it does not bend for convenience."
-
-"And what did it cost you to answer it honestly instead."
+"And what did it cost you to answer that honestly, instead of saying mine and letting it stand, which is shorter and which nobody could have disproved."
 
 "A question I do not have an answer to yet, about whose four days they actually are," said Georgij, "and I would like to know that myself before Tuesday."
 
@@ -8372,7 +8362,7 @@ Page two is longer than it was on Tuesday. Page one is not.
 ---
 
 # Book Two · Chapter 33: Somebody who did not arrive in a car
-*Lot Fourteen* · Version 2.9 · EN
+*Lot Fourteen* · Version 3.0 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
 
@@ -8480,9 +8470,7 @@ Georgij did not argue with that, though it cost him something not to.
 
 "I did not ask because I already know," said Annie. "You would take the tradesman's route tomorrow morning. You would be right about the risk to yourself and wrong about everybody else's." She glanced at Jang. "And I am not going to let you find that out the expensive way, when he has already told us both, without being asked, exactly how it usually goes wrong."
 
-Jang did not say anything to that, which is its own kind of agreement, and Georgij noticed it and did not hold it against him.
-
-A man does not survive thirty years in this line of work by disagreeing with the person who signs for him, in a room he did not have to be in.
+Jang did not say anything to that, which is its own kind of agreement. A man does not survive thirty years in this line of work by disagreeing with the person who signs for him, in a room he did not have to be in.
 
 "When," said Georgij.
 
@@ -8557,7 +8545,7 @@ He wrote that down in the notebook exactly as he had thought it, without tidying
 ---
 
 # Book Two · Chapter 34: The name he books under
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Two Hundred and Sixty-Two · Monday 22 June
 
@@ -8761,11 +8749,11 @@ Tearing the page out would have said more about the name than keeping it did. He
 
 "And if they are two different owners."
 
-"Then we have found a second man doing the same thing for a different reason, and I would rather know that now than assume it away because one answer was tidier than two." Annie let a moment pass. "But I do not think it will be two. A method this specific does not get invented twice by accident in the same country in the same decade."
+"Then there is a second man doing the same thing for a different reason, and I would rather know that now." Annie let a moment pass. "But I do not think it will be two. A method this specific does not get invented twice by accident in the same country in the same decade."
 
 "And if they are the same."
 
-"Then we will have found, in two evenings, without one door opened, the thing that has stood between a locked building and a name for four years," said Annie. "And you will have found the other half in five kitchens, which is the loud way, and I am not going to pretend I know yet which of the two we are going to end up paying for."
+"Then we will have found, in two evenings, without one door opened, the thing that has stood between a locked building and a name for four years," said Annie. "And you will have found the other half in five kitchens, which is the loud way, and I do not know yet which of the two we are going to end up paying for."
 
 Georgij sat alone in the small room with the window going dark. He thought about a man who had driven somewhere four years ago in July, at three times what the visit was worth, to see a person whose name went into a book as six characters and a lot number.
 
@@ -8780,7 +8768,7 @@ He wrote one more line before he put the notebook away for the night.
 ---
 
 # Book Two · Chapter 35: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
@@ -9252,9 +9240,7 @@ He had not thought of it, and he did not pretend otherwise.
 
 "I know I am right. Say it back so that we are both certain what you are asking me for."
 
-"Every other thing I have done this year, I have paid for myself, and I have said so each time, and it has been true each time." He put one hand flat on the corner of the desk. "This is the first one I cannot pay for. If it goes wrong it goes wrong to you, and there is no version of it where it does not, because I do not exist in a form that anybody could send a bill to."
-
-"I am telling you because the bill for it arrives at your door and not mine," said Georgij. "I am not asking you whether I may. I am telling you at seven instead of at midnight, so that you have the whole evening to stop me, and if you do not stop me I am going to do it tonight."
+"Every other thing I have done this year, I have paid for myself, and I have said so each time, and it has been true each time." He put one hand flat on the corner of the desk. "This is the first one I cannot pay for, because I do not exist in a form that anybody could send a bill to, and the bill for it arrives at your door and not mine." He did not move his hand. "I am not asking you whether I may. I am telling you at seven instead of at midnight, so that you have the whole evening to stop me, and if you do not stop me I am going to do it tonight."
 
 Annie looked at him for what felt like a long time and was probably three seconds.
 
