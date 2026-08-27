@@ -742,3 +742,60 @@ Kuerzungsprotokoll vom 27.08., zusammen 4.926 Woerter.
 
 **Was hier stehengeblieben ist, ist Arbeit und kein Bericht:** das Verfahren,
 die Bewertung je Kapitel und die Liste dessen, was noch zu kuerzen ist.
+
+---
+
+## Klasse C in Kapitel 32, ausgefuehrt am 27.08.
+
+**5.723 auf 4.008 Woerter, also 1.715 weg.** Das Kapitel ist damit zum ersten
+Mal in der Spanne, die `check.py` fuer zwei Erzaehltage zulaesst.
+
+**Die Vorgabe war 2.000**, aus TEIL XII Nr. 8 der CHOI-LISTEN, und sie ist
+nicht erreichbar. Der Grund steht nicht im Kapitel, sondern in vier anderen:
+
+| Was im Kapitel steht | Wo es eingeloest wird |
+|---|---|
+| *Tell him, or ask him. Not both.* | **Kapitel 44, Zeile 6**, woertlich: *"On the seventeenth of June he had written down that Mr Yeom would be told."* |
+| *Six kitchens, from Monday* | **Kapitel 33, Zeile 160** und **34, Zeile 10** |
+| *Wenn ich einen siebten will, sage ich es vorher* | **Kapitel 34, Zeile 162** |
+| Der April-Aufraeumer | **Kapitel 38, Zeile 152**: *"He has done it once already this year, in April, in a kitchen."* |
+
+Die Streichliste hat dem Kapitel **einen** Auftrag zugeschrieben, den
+Ausschluss. Es hat vier, und drei davon sind bezahlt. Auf 2.000 kaeme man nur,
+indem man in einem der vier spaeteren Kapitel den Rueckbezug ins Leere zeigen
+laesst. **Der gemessene Boden ist rund 3.400**, und die Differenz zu 4.008 ist
+das, was ich mir zutraue, ohne den Bogen zu beschaedigen.
+
+### Was tatsaechlich gefallen ist
+
+Der Ausschluss ist **zweimal** erzaehlt worden, und das Kapitel sagte es selbst:
+*"Fully, this time, not the way I ruled him out on Wednesday."* Gefallen ist
+die erste der beiden Fassungen, ueberall dort, wo sie ausgebreitet war:
+
+- Die Methodenerklaerung am Telefon (*"und wenn keine Zeile dasteht"*, *"Du bist
+  vorsichtig geworden seit Mai"*), rund 600.
+- **Georgij erzaehlt Annie im Garten, was er zehn Minuten vorher Sang-hoon
+  gesagt hat**, rund 400. Das ist Klasse D in einem Klasse-C-Kapitel.
+- Annies Aufsatz ueber die zwei Sorten Vorsicht im Abendbericht, rund 200. Er
+  wird nirgends wieder aufgenommen, und er zieht die Aufmerksamkeit von dem
+  Schluss ab, der wirklich zaehlt: *"which means it was not you he suspected."*
+- Die dritte Nennung derselben Auskunft (*"And Yeom got it anyway"*), der
+  Woo-Vergleich, die Inventur der vier Merkmale des Begleiters, rund 500.
+
+### Vier Nahtstellen, die das Kuerzen erst erzeugt hat
+
+Sie standen alle im zweiten Durchgang und in keinem im ersten:
+
+1. *"He is on the wrong end of that sentence"* — **Annie war nicht am Telefon.**
+   Der Satz war ohne Bezug, sobald der Anruf gekuerzt war.
+2. Warum sie es an dem Abend nicht erfaehrt, stand im gestrichenen Teil und war
+   die Naht zum Freitag. Wieder eingesetzt, in zwei Saetzen.
+3. Zweimal ein Satz ueber vierzig Woertern, beide von meinen eigenen
+   Zusammenziehungen erzeugt.
+4. **Ein Kontinuitaetsfehler, den ich selbst hineingeschrieben habe:** ich habe
+   Sang-hoons Stapellauf *"a shed at Yeongjong"* genannt. Yeongjong ist
+   Chairman Woos Schuppen (b2 K01, b2 K13). Der Stapellauf ist ein anderer.
+
+**Die Lehre ist nicht neu, aber sie hat hier zum vierten Mal gegriffen:** eine
+Kuerzung ist kein Loeschvorgang. Jeder Schnitt nimmt einem spaeteren Satz seinen
+Bezug, und der zweite Durchgang findet das und der erste nicht.

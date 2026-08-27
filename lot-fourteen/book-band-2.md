@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 83 Kapitel, 225.967 Woerter.
+Book Two, 83 Kapitel, 224.239 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -42,7 +42,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 29 | v3.0 | 8.069 |
 | 30 | v2.5 | 3.288 |
 | 31 | v2.6 | 3.856 |
-| 32 | v3.0 | 5.805 |
+| 32 | v4.0 | 4.077 |
 | 33 | v2.9 | 2.775 |
 | 34 | v2.5 | 3.854 |
 | 35 | v3.1 | 8.024 |
@@ -8141,7 +8141,7 @@ She was, he thought later, almost certainly right, and he wrote her reasoning in
 ---
 
 # Book Two · Chapter 32: The man kitchens talk to
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -8155,13 +8155,7 @@ He telephoned Sang-hoon on the Wednesday and did not dress the question up.
 
 "The dinner with the cards afterward," said Georgij. "Eleven months ago. I would like the restaurant and whether you remember who proposed the cards."
 
-There was a pause that was not the line.
-
-"You went straight at it."
-
-"You told me last Tuesday that you did not want it wrapped in anything. I am not going to start wrapping things now because the question got closer to home."
-
-Sang-hoon made the sound again that was almost a laugh.
+Sang-hoon made a sound that was almost a laugh.
 
 "A private room at a place near Sinsa that does not exist any more, because the owner sold up in the spring. I remember the food and I remember losing forty thousand won at cards I do not remember agreeing to play." He said it without any weight in it at all. "And I remember that it was Y who suggested the cards, because it is not a thing he usually does, and I noticed it and then forgot to keep noticing it, which I understand now is the entire method."
 
@@ -8169,31 +8163,15 @@ Sang-hoon made the sound again that was almost a laugh.
 
 "Yeom," said Sang-hoon. "The man who used to own the auction house on the river. You have met him, which is why I thought of him at all."
 
-Georgij stood very still in the corridor, and it took him a moment to notice what was wrong with the answer before it was right.
+Georgij stood very still in the corridor.
 
-"He cannot be your Y," he said.
-
-"Say why not, because I had already half decided he was."
-
-"Because Yeom told me himself that a man rang him four years ago and said it was good to see him again, and that he had never met the caller in his life." Georgij kept it slow, the way he does when he is correcting himself out loud and wants to hear whether the correction holds. "That puts him on the end of the sentence, not the one saying it. If he suggested the cards, then the same voice was used on him and then borrowed by him. I do not have anything that says he knows it was used on him, let alone that he would go and do it to somebody else."
-
-"Unless he does know," said Sang-hoon. "Unless four years bought more than a bad evening."
-
-"Then I have no way of telling the difference yet between a man who was used once and let it go, and a man who was used once and decided there was money in it." Georgij stood with his free hand flat against the wall. "A shared initial is not a lead. It is the shadow of one. I nearly wrote a name down on the strength of a letter, and that is the exact mistake I told myself on Monday I was not going to make."
+"He cannot be your Y," he said. "Yeom told me himself that a man rang him four years ago and said it was good to see him again, and that he had never met the caller in his life. That puts him on the end of the sentence and not the one saying it. A shared initial is the shadow of a lead and not a lead."
 
 The line was quiet for a moment.
 
-"That is a more careful answer than the one you started with," said Sang-hoon.
-
-"It is the same answer, corrected. You are owed both halves and not only the tidy one."
-
 "Then Y is still nobody," said Sang-hoon. "I have lost an evening's worth of cards to a stranger I still cannot name, and an hour ago I thought I had one."
 
-"Yes."
-
-"Say what you are going to do about that."
-
-"Find out whether Yeom was in that room, or near it, on any date close to yours," said Georgij. "If he was, that is worth something even if he is not the one who suggested the cards. If he was not, I have ruled him out properly instead of guessing him in."
+"I will find out whether Yeom was in that room, or near it, on any date close to yours. Restaurants of that kind keep a book, not for the guests, for the room." Georgij stood with his free hand flat against the wall. "If he was in that building on your evening, on any floor, there will be a line for him that has nothing to do with your table at all."
 
 Sang-hoon considered that.
 
@@ -8201,51 +8179,11 @@ Sang-hoon considered that.
 
 "That was already the plan."
 
-"How?"
-
-Georgij had thought about that on the walk to the telephone, before Sang-hoon had even answered.
-
-"Restaurants of that kind keep a book," he said, "not for the guests, for the room. Who reserved it, how many, whether the client wanted a particular vintage brought up in advance. If Yeom was in that building on your evening, on any floor, there will be a line for him that has nothing to do with your table at all."
-
-"And if there is no line."
-
-"Then he was not there, and I have spent an afternoon proving a negative, which is a poor use of an afternoon and still better than an afternoon spent believing a coincidence."
-
-Sang-hoon made a sound that might have been approval, and might equally have been the sound a man makes when he has just watched somebody else do the thing he wishes he had thought of first.
-
-"You have got careful since May," he said, "and I did not expect that of you."
-
-"I have got careful since Wednesday. May was still guessing with confidence, which looks the same from outside and is not the same thing at all, and it took a letter on a page to show me the difference."
-
-He rang off soon after, and Georgij stood with the receiver in his hand for a moment before he put it down.
-
-He thought about a florist who had gone back three years in her own order book, and a settlement clerk who had gone through hers twice in twenty-three. And a man who loses forty thousand won at cards he does not remember agreeing to play, and calls it an ordinary evening.
-
 * * *
 
 He found Annie in the garden, which is not a place she is often in before evening, standing near the wall with her arms folded against a wind that had not been in the forecast.
 
-"Not Yeom," he said, before she could ask.
-
-Annie turned round.
-
-"Say why not."
-
-"Because he is already on the wrong end of that sentence." Georgij stood at the edge of the path. "The man who rang the florist and the man who rang Yeom himself four years ago is the same voice doing the same thing to strangers. I nearly turned him into the man doing it to Sang-hoon as well, on the strength of one shared letter, and I caught it before I said it to Sang-hoon as though it were settled."
-
-Annie was quiet for a moment, and the wind moved through the hedge behind her without either of them commenting on it.
-
-"You caught it yourself."
-
-"I caught it about four seconds before I would have handed it to him as an answer instead of a guess."
-
-"That is worth more than the four seconds cost you," said Annie. "What have you got instead."
-
-"A method for ruling somebody in or out properly, which is the same as it was on Monday and now has one fewer wrong name attached to it." He kept his eyes on the path. "I still do not know who Y is. I know who Y is not, and I know that is the slower kind of knowing, and slower has been right more often than fast has, this year."
-
-"That is not nothing to learn."
-
-"No," he said. "It is just not the kind of learning that feels like progress while it is happening."
+"Not Yeom," he said, before she could ask. "The voice that rang the florist rang Yeom himself, four years ago. He is on the end of that sentence and not the one saying it, and I caught it about four seconds before I would have handed it to Sang-hoon as an answer instead of a guess."
 
 Annie unfolded her arms and put one hand flat on the wall beside her.
 
@@ -8263,13 +8201,9 @@ Annie looked at him properly then, the way she does when a sentence has told her
 
 "That is the second time," she said. "The first was Hana, at that desk, in December. You used the word fond, and you told me in the same sentence that it was not the reason."
 
-Georgij thought about that for a moment and found she was right, and had not noticed himself doing it twice until she put the two of them next to each other.
+Georgij found she was right, and had not noticed himself doing it twice until she put the two of them next to each other.
 
-"I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though I did not want to. Liking is a different register and I have not had much use for it. It has happened three times since October. Hana. Chairman Woo, in a shed at Yeongjong, and I never put that one in the report. And now a man I may have to take apart." He kept his eyes on the path. "All three of them had given me something they did not have to."
-
-"And Yeom got it anyway."
-
-"Yeom got it anyway, over a meal he did not have to give me, for a set of reasons I have not fully worked out and am not certain I want to."
+"Liking is a different register and I have not had much use for it. It has happened three times since October. Hana. Chairman Woo, in a shed at Yeongjong, and I never put that one in the report. And now a man I may have to take apart." He kept his eyes on the path. "All three of them had given me something they did not have to."
 
 Annie considered him for a moment.
 
@@ -8277,81 +8211,37 @@ Annie considered him for a moment.
 
 "No," said Georgij. "I have not."
 
-"Then apply it before you go and confirm the restaurant book, not after. A man who wants Yeom to be innocent finds different things in a register than a man who does not care either way."
-
-He stood with that for a moment, because it was accurate and he had not liked hearing it.
-
-"That is fair," he said, and meant it as agreement rather than concession.
-
-"It was not meant to be fair. It was meant to be correct, and I have found this year that the two are not always the same animal."
-
-She said it without any edge in it, and he found that harder to argue with than if she had said it sharply.
-
-A thing said gently is a thing the speaker has already decided does not need to be repeated.
-
-Annie looked at him for a while, the wind doing what it does to hair and to nothing else in that garden.
-
-"Come inside," she said. "It is going to feel like progress a great deal less before it feels like it more, and there is no sense standing out here waiting for the second part to arrive early."
-
-He went in with her, and did not argue, because for once the thing she was telling him to do was exactly the thing he had already decided, in the last few seconds, that he wanted.
+"Then apply it before you go and confirm the restaurant book, and not after. A man who wants Yeom to be innocent finds different things in a register than a man who does not care either way."
 
 * * *
 
-He did not go and confirm anything that afternoon. He went to the small room and took the folded sheet out of the drawer that does not lock, and opened it for the first time since Tuesday.
+He did not go and confirm anything that afternoon. He went to the small room and took the folded sheet out of the drawer that does not lock.
 
 Thirty-one names, in her hand, with the years against them.
 
-Yeom is on it.
+Yeom is on it, four lines from the bottom, with last year against it.
 
-He had known that in the abstract since Tuesday morning, in the way a man knows a fact he has read and not yet had happen to him. Seeing it in a column, four lines from the bottom, with last year against it, is a different piece of information entirely.
-
-Georgij sat down properly then, because the thing that had just arrived needed a chair.
-
-Y is not Yeom, which was settled at eleven o'clock and holds.
-
-But a man rang Yeom four years ago and told him it was good to see him again, and Yeom had never met him in his life. Somebody used that voice on him, and used it on him first. Yeom has never thought about it as anything but a strange telephone call.
+He had known that in the abstract since Tuesday morning, in the way a man knows a fact he has read and not yet had happen to him. Seeing it in a column is a different piece of information entirely, and Georgij sat down properly, because the thing that had just arrived needed a chair.
 
 *He is not a letter. He is one of the thirty-one, and he has been one since Tuesday, and I have spent two days treating him as a thing to rule out.*
 
-He wrote that down before he let himself have the next part.
-
-On Tuesday, in a room upstairs in this house, he had said out loud that he would go to them one at a time and tell them what had been done to them. Each one would decide, and he would not decide for them.
-
-He had said it about a column of names, which is an easy thing to say about a column.
-
-Mr Koh he had never met.
-
-Yeom gave him lunch in May and told him the truth about a thing that could have ended a comfortable old age, and did it without being pushed. Georgij had come away liking him, and had said so to Annie in a garden this afternoon, and had been careful with the word.
+On Tuesday, in a room upstairs in this house, he had said out loud that he would go to them one at a time and tell them what had been done to them. Each one would decide, and he would not decide for them. He had said it about a column of names, which is an easy thing to say about a column.
 
 *If I leave out the ones I like, I am not running anything. I have a preference and a list, and the list is decoration.*
 
-He looked at that sentence for a while and did not soften it.
-
 Then the second half arrived, and it was worse, and it arrived because he had been sitting still long enough to let it.
 
-Yeom knows the name of the man who telephoned him for the fund.
-
-He said so in his own dining room, comfortably, with his hands flat on either side of a plate. *A man on the telephone whose name I know and which I am not going to give you.* Seven people in a lifetime and never once handed one of them to anybody.
+Yeom knows the name of the man who telephoned him for the fund. He said so in his own dining room, comfortably, with his hands flat on either side of a plate. *A man on the telephone whose name I know and which I am not going to give you.* Seven people in a lifetime and never once handed one of them to anybody.
 
 Which means there are two things Georgij could do in that house, and both of them are correct, and he cannot do both in the same room.
 
-He can go and tell Yeom what was done to him at that table. That is a gift, it costs Yeom something to hear, and it asks for nothing.
-
-He can go and ask Yeom for the name on the telephone. That is a request, and it asks a man to break the one rule he has kept for a working lifetime.
+He can go and tell Yeom what was done to him at that table. That is a gift, it costs Yeom something to hear, and it asks for nothing. He can go and ask Yeom for the name on the telephone. That is a request, and it asks a man to break the one rule he has kept for a working lifetime.
 
 Put them in the same afternoon and the first one stops being a gift. It becomes the thing that was paid before the asking, and every man alive can feel the difference, and Yeom in particular would feel it inside four seconds and would be right to.
 
 *Tell him, or ask him. Not both, and not one after the other, and not in the same month if I can help it.*
 
-Georgij sat with that until the light in the small room had moved off the desk.
-
-It is the same shape as the three dates he gave Chairman Woo in November, after the paper was signed and not before, so that they paid for nothing. He had understood it then as a courtesy he could afford. He understands it now as the only part of the method that actually holds anything up, and he has just found out what it costs when the two halves land on the same man.
-
-He did not go up and tell her.
-
-Not because he was hiding it, and not because she would have disagreed with him. Because she had told him four hours earlier to apply a thing before he went and not after. He had applied it, and it had produced a harder answer than the one she had been warning him about.
-
-He wanted to be sure of it for a day before he handed it to anybody, including her.
+He did not go up and tell her. He wanted to be sure of it for a day before he handed it to anybody, including her.
 
 *Yeom gets told. Not this week, and not by a man who wants something in his coat while he does it.*
 
@@ -8405,15 +8295,15 @@ Mr Sohn remembered the room, the date, and the party of two, because he had done
 
 Mr Sohn thought about that properly, the way a man thinks who is used to being asked what somebody ordered and not what somebody did.
 
-"No," he said. "Two men the whole evening, and I would have noticed a third, because a private room with two covers and a visitor is the kind of thing a kitchen talks about the next morning."
+"No. Two men the whole evening, and I would have noticed a third, because a private room with two covers and a visitor is the kind of thing a kitchen talks about the next morning." He wiped the board down. "I do not know a Yeom. I know a party of two, a very good bottle, and a bill paid in cash."
 
-"I do not know a Yeom," said Mr Sohn, before Georgij could ask. "I know a party of two, a very good bottle, and a bill paid in cash." Mr Sohn wiped the board down. "And a man who left before the coffee. People do not do that."
+Yeom was never in that room, and Georgij had it in a kitchen with no sign, from a man who did not know what he was handing over.
 
 "Describe the one who booked it."
 
 Mr Sohn considered that the way a man considers a dish he cooked once, a long time ago, and has not been asked to remember since.
 
-"Older. Pleasant. He complimented the wine and asked what went into the sauce, and I told him, and he thanked me by name, which is unusual, because most men in a private room never learn a cook's name at all." He wiped his hands on the apron he was not wearing, out of habit. "He left before the coffee too. I remember thinking it was strange that neither of them wanted it, on a night that cold."
+"Older. Pleasant. He complimented the wine and asked what went into the sauce, and I told him, and he thanked me by name, which is unusual, because most men in a private room never learn a cook's name at all."
 
 "Did he eat?"
 
@@ -8423,63 +8313,43 @@ Mr Sohn looked at him properly for the first time in the conversation.
 
 "It is. I would still like it."
 
-"He ate," said Mr Sohn. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month. A cook remembers that. Believing it is a separate question." He tilted his head slightly. "Why does that matter to you."
+"He ate," said Mr Sohn. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month. A cook remembers that. Believing it is a separate question." He tilted his head slightly. "He left before the coffee, though, and so did the other one, and I remember thinking that was strange on a night that cold. Why does that matter to you."
 
 "It matters, and I am not going to explain why in your kitchen," said Georgij. "You have told me the one thing I came for and you did not know you had it, and I would rather you went on not knowing."
 
-The man he is looking for does not eat in front of anybody he is working on. Whoever sat across from Sang-hoon that night finished the plate and told the cook so, which meant it was not him.
-
-That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho trusted to sit at a table and be pleasant on his behalf, which meant there was at least one more person in this than Georgij had been counting.
-
-"Which one left first?"
-
-"The older one. About ten minutes before the other, on his own, no goodbye that carried through the wall." Mr Sohn shrugged. "I did not think anything of it. People leave dinners in whatever order they leave them."
-
-Georgij stood in a restaurant with no sign, being handed the one answer he had actually needed.
-
-"Then Yeom was never in that room," he said, half to himself.
-
-A man who eats a full plate and still leaves before the coffee is not avoiding the table. He is avoiding whatever comes after it, in a room that has emptied enough to talk in.
+The man he is looking for does not eat in front of anybody he is working on. Whoever sat across from Sang-hoon that night finished the plate and told the cook so. That makes him somebody Choi Dae-ho trusted to sit at a table and be pleasant on his behalf. There is one more person in this than Georgij had been counting.
 
 * * *
 
 He telephoned Sang-hoon that evening, from the house, on a line Annie had already told him was clean.
 
-"Yeom was never in the room," said Georgij. "Two men only, the whole evening. And somebody came asking about that dinner in April, weeks before you ever told me what happened at it, and left the moment the trail ran cold."
+"Yeom was never in the room. Two men only, the whole evening," said Georgij. "And somebody came asking about that dinner in April, weeks before you ever told me what happened at it, and left the moment the trail ran cold."
 
 Sang-hoon did not say anything for a moment.
 
-"Somebody was checking the room was empty," he said, "before I had even decided to be curious about it."
+"Somebody was checking the room was empty," he said, "before I had even decided to be curious about it. That is not caution. That is a man who does this often enough to have a schedule for it."
 
-"Yes."
+"Yeom is clear. Fully, this time, and not the way I ruled him out on Wednesday."
 
-"That is not caution," said Sang-hoon. "That is a man who does this often enough to have a schedule for it."
+Sang-hoon took a moment over that.
 
-"Yeom is clear," said Georgij. "Fully, this time, not the way I ruled him out on Wednesday. He was never in a position to be either of the two things I was afraid he might be."
-
-"Good," said Sang-hoon. "I did not want it to be him either, and I notice that neither did you, and neither of us is going to pretend that is nothing."
+"Good," he said. "I did not want it to be him either, and I notice that neither did you, and neither of us is going to pretend that is nothing."
 
 He rang off, and Georgij sat with the notebook a while before he wrote in it.
 
-What he had was not a name. It was only the shape of a habit repeating itself, in a way that had nothing to do with flowers or a nursing home outside Wonju.
-
 *Same method, different room. He checks his own work.*
 
-*Somebody is careful enough to come back and confirm a thing was cleaned up properly. That is not a man who is afraid of being found. That is a man who has been found before and survived it.*
+*Somebody is careful enough to come back and confirm a thing was cleaned up properly. That is a man who has been found before and survived it.*
 
 Annie was still in the library when he brought her the notebook, and she read the two lines the way she reads everything that matters, twice.
 
 "Found before," she said. "Say what you think that means."
 
-"It means he has done this in front of somebody once already, and it did not end him," said Georgij. "Whatever happened eleven years ago, in the room you told me about on Monday, he came out of it knowing how to check a kitchen for a paper trail. That is not a thing a frightened man learns. It is a thing a man learns after he has already survived being caught."
+"That he has done this in front of somebody once already, and it did not end him," said Georgij. "Whatever happened eleven years ago, in the room you told me about on Monday, he came out of it knowing how to check a kitchen for a paper trail. That is a thing a man learns after he has already survived being caught."
 
 Annie sat with that for a moment.
 
-"Or he has always been this careful," she said, "and eleven years ago is the one time it did not save him from something, and the something was not being caught. It was losing."
-
-"The difference."
-
-"A man who is careful because he is afraid of being found builds his whole life around never being seen. A man who is careful because he has already lost once builds his life around never losing the same way twice." She looked at the two lines again. "Those are not the same man, and I do not know yet which one we are dealing with."
+"Or he has always been this careful," she said, "and eleven years ago is the one time it did not save him." She looked at the two lines again. "Those are not the same man, and I do not know yet which one we have."
 
 Georgij stood with his hands at his sides.
 
@@ -8493,9 +8363,7 @@ The room went quiet in the way it does when both people have arrived at the same
 
 "Sang-hoon gave you the name for nothing, in a shed, of his own accord," said Annie. "A man that careful about a kitchen in April does not leave a thing that large to somebody else's accord. Either he did not see Sang-hoon coming, which does not fit anything else you have found. Or he saw it and let it happen anyway, because a slow leak through a man he still has eight years of leverage over costs him less than being caught cold by a stranger."
 
-Georgij thought about eight years of dinners and a man who has never once been watched to eat, and about a person who sends a stranger back to a kitchen in April to be certain nothing was left behind.
-
-He thought about the shed, and the way Sang-hoon had said the name flatly, without being asked twice, in front of a hundred and forty people who could have overheard it. None of them would have understood what they were hearing.
+Georgij thought about the shed at the launch, and a man saying the name flatly, without being asked twice, in front of a hundred and forty people who did not understand what they were hearing.
 
 "He let Sang-hoon find out," he said slowly, "on purpose."
 
@@ -8509,11 +8377,7 @@ Georgij did not put it away.
 
 "Then say it badly and we will tidy it afterward."
 
-"The one who was not Choi ate his dinner, complimented the wine, asked what went into the sauce, and thanked the cook by name." He stayed where he was. "A cook who served him once, eleven months ago, on a night he has had no reason to think about since, gave me all four of those without being pressed."
-
-Annie did not say anything, which is how she asks him to keep going.
-
-"A man doing that work is supposed to be nobody," said Georgij. "The whole of his value is that afterward nobody can describe him. Every professional I have met this year has been forgettable on purpose, and the one at that table made a stranger remember him for eleven months and did it while paying attention to a sauce."
+"The one who was not Choi wanted the cook to like him." He stayed where he was. "A man who served him once, eleven months ago, on a night he has had no reason to think about since, gave me four separate things about him without being pressed. Every one of them is a man being pleasant to somebody who could do nothing for him. A man doing that work is supposed to be nobody. The whole of his value is that afterward nobody can describe him."
 
 "Say why he does it."
 
@@ -8523,29 +8387,17 @@ Annie came round the desk and stood where she could see his face.
 
 "Then you have a road."
 
-"I have a road. Cooks move, and they move inside the same trade, and a cook who has been thanked by name remembers it for years because it almost never happens to him." He said it evenly, because the next half was the part he had spent two hours not liking. "Four years of private rooms is a great many kitchens, and I would need to ask perhaps six of them before one of them says yes, that man, he asked me about the stock."
-
-"And."
-
-"And the road to him is the road he walks." Georgij put the notebook down on the desk between them, closed. "Every kitchen I ask is a kitchen that talks to other kitchens. The man I am asking about is the man kitchens talk to. There is no version of this where I go looking for him along the one path he is standing on and he does not eventually hear his own description coming back at him."
+"I have a road. Cooks move, and they move inside the same trade, and a cook who has been thanked by name remembers it for years because it almost never happens to him." He said it evenly, because the next half was the part he had spent two hours not liking. "But every kitchen I ask is a kitchen that talks to other kitchens, and the man I am asking about is the man kitchens talk to. There is no version of this where I walk the one path he is standing on and he does not eventually hear his own description coming back at him."
 
 The room did what it does.
 
-"Then you have found the fastest road and it is also the loudest," said Annie.
-
-"Yes."
-
-"Are you going to walk it?"
+"Then you have found the fastest road and it is also the loudest," said Annie. "Are you going to walk it?"
 
 "Yes," said Georgij. "Somebody walked into that woman's restaurant in April and left again as soon as he was satisfied it was empty. That is what happens to the rooms I am slow about, and I am not going to be careful at the expense of the next kitchen he gets to first and call it discipline."
 
 Annie let that sit exactly as long as it deserved and no longer.
 
 "Then put a number on it before you start."
-
-"Six kitchens."
-
-"Say it as a sentence."
 
 "Six kitchens, and if six do not produce him, I stop and I find another road." He did not hedge it. "Not seven. Not six and then one more because the sixth was promising."
 
