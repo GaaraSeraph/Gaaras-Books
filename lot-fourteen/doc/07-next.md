@@ -3448,3 +3448,66 @@ beilaeufig widerrufen oder das zweite Los im Vorbeigehen erklaeren. **Er steht
 da, damit er in Band 3 aufgemacht werden kann**, und die einzige Stelle, an der
 er im Buch auftaucht, ist eine Nebenbemerkung ueber eine Zahlung an einen
 Registerfuehrer.
+
+## Offen: die fuenf Haelften sind nie gekauft worden
+
+**Befund vom 27.08., vom Autor ausgeloest.** Er hat beim Lesen bemerkt, dass
+Annie am Ulsan-Strang nichts bekommt, und den Verdacht geaeussert, das sei
+nachtraeglich erfunden. **Nachgeprueft ist es schlimmer als das: der Faden ist
+nicht verschenkt, er ist nie eingesammelt worden.**
+
+**B2 12, 3. April.** Georgij an Annie:
+
+> *"When it is over the other five will be yours, completely, not as customers
+> and not as an arrangement."*
+
+**B2 20, 30. April.** Der Aufbau, mit Datum und Kaeuferin:
+
+> *The five halves come onto the market between the middle of May and the
+> middle of June, five separate afternoons, and there is one buyer on that
+> coast with money in her hand and it is not a metaphor.*
+
+**Der Kauf findet nie statt.** *"The five halves"* kommt im ganzen Buch **genau
+einmal** vor, naemlich in dieser Zeile. Zwischen Mai und Juni wird keiner der
+fuenf Nachmittage erzaehlt. Was stattdessen dasteht, ist B2 69, aus Georgijs
+Heft:
+
+> *The five firms have been Woo's customers since the end of April. I have been
+> out on that island twice since, taking his help, and it has never once
+> occurred to me what I was standing on.*
+
+Sieben Jahre Ankerladung, arrangiert mit Annies Gewicht, **und die Vertraege
+gehoeren Woo.**
+
+### Wie es dazu kam, und die Lehre ist wichtiger als der Fall
+
+Die Zusage wurde am **25.08. als ueberfaellig gefunden** - sie stand im
+Verzeichnis, und der Verband kam vierundvierzig Kapitel lang nicht mehr vor.
+Um sie auf BEZAHLT zu bringen, sind Szenen geschrieben worden, in denen die
+Schuld **erlassen** wird.
+
+**Das ist das Verzeichnis, das die Erzaehlung steuert, statt umgekehrt.** Eine
+Schuld wird beglichen, indem das Vermoegen abgeschrieben wird. Genau davor soll
+`zusagen.py` schuetzen, und hier hat es das Gegenteil bewirkt.
+
+**Regel daraus, und sie gehoert neben die Werkzeugbeschreibung:** eine
+ueberfaellige Zusage ist ein Befund und keine Anweisung. Wer sie bezahlt, indem
+er den Anspruch streicht, hat das Buch aermer gemacht und die Zeile gruen.
+
+### Der Vorschlag, falls der Autor ihn will
+
+**Die fuenf Haelften werden gekauft, wie B2 20 es ansagt.** Fuenf Nachmittage
+zwischen Mitte Mai und Mitte Juni, Annie als Kaeuferin. Das ist keine
+Erfindung, es steht mit Datum da.
+
+Kostet **einen Absatz** in einem Mai- oder Junikapitel und tut drei Dinge:
+
+1. Die Zusage ist bezahlt statt erlassen.
+2. **Georgijs Erkenntnis in B2 69 wird schaerfer statt schwaecher:** die Firmen
+   gehoeren ihr, und die Ladung gehoert trotzdem Woo. Er hat ihr die Huellen
+   besorgt und einem anderen den Inhalt.
+3. Der Satz aus B2 20 ist kein Erzaehlerversprechen mehr, das niemand einloest.
+
+**Nicht ausgefuehrt.** Der Autor klaert den Fall zuerst mit dem Chat, der die
+Kapitel geschrieben hat.
+

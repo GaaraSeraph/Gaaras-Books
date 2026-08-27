@@ -26,6 +26,14 @@ Ewigkeit meldet und man nach der zweiten Woche aufhoert hinzusehen. Was einmal
 geprueft und als Nichtzusage befunden wurde, steht mit Begruendung im Buch und
 kommt nicht wieder.
 
+**Und die Warnung, die am 27.08. dazugekommen ist, weil der Fall eingetreten
+ist:** eine ueberfaellige Zusage ist ein **Befund und keine Anweisung**. Am
+25.08. wurde die Zusage ueber die fuenf Firmen aus B2 12 als ueberfaellig
+gemeldet, und bezahlt wurde sie, indem Szenen geschrieben wurden, in denen der
+Anspruch erlassen wird. Der Kauf, den B2 20 mit Datum ankuendigt, ist nie
+erzaehlt worden. **Wer eine Zeile gruen macht, indem er das Vermoegen
+abschreibt, hat das Werkzeug gegen das Buch benutzt.** Siehe `doc/07-next.md`.
+
 Das Buch ist `doc/13-zusagen.md` und wird von Hand gefuehrt. Das Skript
 entscheidet **nicht**, ob etwas eine Zusage ist - das ist Urteil. Es rechnet
 Faelligkeiten gegen den Erzaehlkalender und meldet, was im Text steht und im
