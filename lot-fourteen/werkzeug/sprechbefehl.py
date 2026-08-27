@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """sprechbefehl.py - wer im Buch befiehlt zu reden, und wie oft.
 
-**Der Befund vom 26.08.** (`doc/15-kuerzen.md`): von 10.555 Repliken fangen 577
+**Der Befund vom 26.08.** (`doc/23-kuerzen.md`): von 10.555 Repliken fangen 577
 mit einem Befehl zum Sprechen an - *"Say it"*, *"Say the whole of it"*, *"Say
 why"*, *"Go on"*, *"Then say"* - und sie stehen in 113 von 123 Kapiteln. Das ist
 kein Sprachzug mehr, sondern der Standardweg dieses Buches, eine Auskunft zu

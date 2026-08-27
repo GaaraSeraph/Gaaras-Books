@@ -1,4 +1,15 @@
-# Naechste Schritte und offene Faeden
+# Plan, Band 2
+
+*Plan. Was noch geschehen soll, und die offenen Faeden. Futur.*
+
+**Hier duerfen Saetze stehen, die im Buch nicht stehen** - Entwuerfe fuer
+Szenen, die noch zu schreiben sind. `werkzeug/belege.py` meldet sie als
+*ohne Beleg*, und in einer Plandatei ist das richtig und kein Fehler. **In
+einer Kanondatei waere es einer.** Genau diese Unterscheidung war der Grund,
+die Ablage nach Sorten zu trennen.
+
+**Bei einem Widerspruch gilt: Kanon vor Regel vor Plan.** Was hier steht und
+dem Kanon widerspricht, ist ueberholt.
 
 Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen.
 
@@ -9,7 +20,7 @@ Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen
 *Geschrieben am 25.08. am Ende einer langen Sitzung, in der Band 2 von 46 auf 56
 Kapitel gegangen ist und Kapitel 35 bis 55 zum Teil neu geschrieben wurden. Wer
 hier neu anfaengt, liest `CLAUDE.md`, dann diesen Abschnitt, dann
-`doc/09-arbeitsteilung.md`, dann `doc/05-continuity.md`.*
+`doc/22-pruefen.md`, dann `doc/15-kalender.md`.*
 
 ---
 
@@ -25,18 +36,18 @@ Nachgezaehlt, und er hatte recht.** Die Befunde, alle mechanisch belegt:
   34 Kapiteln). Seine erste handfeste Faehigkeit, die **Maschine**, kam in 46
   Kapiteln nicht vor (Band 1: in 14 Kapiteldateien).
 - Band 2 hatte **kein einziges Kapitel ueber 3300 Woertern**, Band 1 hatte acht.
-- **Die Ursache stand in `doc/07-next.md`:** das Ziel von Band 2 war defensiv
-  formuliert, und `doc/01-craft.md` 2i sagt seit Kapitel 11 woertlich, dass
+- **Die Ursache stand in `doc/31-plan-band-2.md`:** das Ziel von Band 2 war defensiv
+  formuliert, und `doc/20-handwerk.md` 2i sagt seit Kapitel 11 woertlich, dass
   defensive Ziele genau diesen Bogen erzeugen, jedes Mal.
 
-**Das Ziel ist ersetzt und steht jetzt vorne in `doc/07-next.md`:** Choi Dae-ho
+**Das Ziel ist ersetzt und steht jetzt vorne in `doc/31-plan-band-2.md`:** Choi Dae-ho
 hat am Ende nichts, niemand geht an sein Telefon. Dazu die sechs Wege und die
 erzwungene Reihenfolge. **Wer ein Kapitel plant, stellt die Probe: bringt es Choi
 einen Anruf naeher an niemanden?**
 
 ---
 
-### Die drei stehenden Proben, alle in `doc/02-leads.md`
+### Die drei stehenden Proben, alle in `doc/11-figuren.md`
 
 1. **Ein Fund wird ausgegeben, nicht gemeldet.** Drei Stufen: ohne Rueckfrage,
    angekuendigt-nicht-erbeten, wirklich erbeten. Zweimal nacheinander nichts
@@ -144,7 +155,7 @@ zusammengelegt.
 
 ### Zwei Arbeitsregeln, die diese Sitzung teuer gelernt hat
 
-**Kapitel duerfen umgeschrieben werden, und zwar rueckwaerts.** `doc/01-craft.md`
+**Kapitel duerfen umgeschrieben werden, und zwar rueckwaerts.** `doc/20-handwerk.md`
 sagt es jetzt ausbuchstabiert: *Fehler bleiben Fehler* ist eine **Figurenregel**
 und keine Redaktionsregel. Ein geschriebenes Kapitel ist kein Ereignis, das gegen
 den Autor gilt. In dieser Sitzung sind so 35, 36, 37, 38, 39, 40, 41, 42, 43, 44
@@ -187,7 +198,7 @@ Probe: **bringt es Choi einen Anruf naeher an niemanden?**
 **Niemand geht an sein Telefon. Niemand isst mit ihm.**
 
 Das ist kein Rachesatz, sondern die praezise Umkehrung dessen, was diesen Gegner
-ausmacht. `doc/03-cast.md`: *"Er sitzt in nichts, steht auf keinem Aufsichtsrat,
+ausmacht. `doc/11-figuren.md`: *"Er sitzt in nichts, steht auf keinem Aufsichtsrat,
 ist in keinem Geschaeftsbericht zu finden - er gibt Abendessen."* **Er hat keine
 Aktiva, die man beschlagnahmen koennte. Er ist ein Netz.**
 
@@ -197,7 +208,7 @@ ueberlebt es. Choi besitzt nichts und ist genau deshalb vollstaendig zerstoerbar
 ### Warum das Ziel einmal falsch war, und was das gekostet hat
 
 Bis zum 25.08. stand als Ziel: *"Dass die Zeile nicht gegen sie verwendbar ist."*
-Das ist eine **Gefahr** und kein Ziel, und `doc/01-craft.md` 2i sagt seit
+Das ist eine **Gefahr** und kein Ziel, und `doc/20-handwerk.md` 2i sagt seit
 Kapitel 11 woertlich, was daraus folgt:
 
 > "Er hat auf eine **Gefahr** hingearbeitet und nicht auf ein **Ziel**. Ein Ziel
@@ -567,7 +578,7 @@ Choi weiss alles, was Georgij ihm sagen koennte.
 
 ### Die Guidance, und wo sie steht
 
-**Sie ist in Band 1, Kapitel 33 oeffentlich beerdigt worden** (`doc/01-craft.md`:
+**Sie ist in Band 1, Kapitel 33 oeffentlich beerdigt worden** (`doc/20-handwerk.md`:
 *"Tot, und von ihm selbst"*). Bei Woo und Sang-hoon war die Frage **Entnahme**.
 Hier holt sie nichts und kann nichts holen. **Dieselben Worte, umgekehrte
 Funktion.**
@@ -606,7 +617,7 @@ der Zwischenzeit miteinander geredet haben. **Er weiss auf dem Weg zur Tuer, das
 er das nicht ueberlebt.**
 
 **Der Schluss steht in derselben Formel wie Byun, und das ist der ganze Trick.**
-`doc/03-cast.md` fuehrt Byun als *"Seit Mai nicht mehr gesehen"*, und der Text
+`doc/11-figuren.md` fuehrt Byun als *"Seit Mai nicht mehr gesehen"*, und der Text
 sagt nicht mehr als das. Wenn Choi in derselben Formel verschwindet, weiss der
 Leser genau, was sie bedeutet, weil er sie einmal gelesen hat, als sie noch
 harmlos aussah.
@@ -629,7 +640,7 @@ Niemand macht maechtige Menschen wuetend, verliert seinen Schutz und lebt weiter
 > steht seine Wohnung am Fluss leer und niemand weiss, wem sie gehoert. **Er ist
 > kein loses Ende mehr.**
 
-**Das passt exakt auf das, was schon steht:** `doc/04-world.md` fuehrt vier
+**Das passt exakt auf das, was schon steht:** `doc/14-welt.md` fuehrt vier
 Zahlungen von drei Kaeufern - *"Annie, ein Mann und eine Frau"* - und Annie ist
 die, die zweimal gezahlt hat. Seine Wohnung ist der achte Stock in Seongdong mit
 Blick auf den Fluss (Kapitel 22). **Und Annie nimmt seit Mai saemtliche
@@ -842,18 +853,18 @@ Georgij arbeitet, und er ist der Einzige, der es hat.
 ### ~~Fuer den Inhalts-Chat, faellig sofort~~ - alle vier erledigt (25.08.)
 
 1. ~~**Die acht Jahre sind Sang-hoons.**~~ **Nichts zu reparieren.** In
-   `doc/03-cast.md` steht bei Choi nur *Neunundfuenfzig*; die acht Jahre dort
+   `doc/11-figuren.md` steht bei Choi nur *Neunundfuenfzig*; die acht Jahre dort
    gehoeren Mr Hong (Band 1, Kapitel 7, andere acht Jahre). `doc/05` fuehrt sie
    an drei Stellen richtig als Sang-hoons Zeit an Chois Tisch.
 2. ~~**Annies Vater steht im Buch und in keinem Dokument.**~~ **Nachgetragen**
-   in `doc/03-cast.md` unter *Annies Seite*, mit den Belegen aus den Kapiteln
+   in `doc/11-figuren.md` unter *Annies Seite*, mit den Belegen aus den Kapiteln
    27, 61 und 62. Er hat Choi ins Haus gebracht und ist im selben Jahr
    gestorben; Annie war vierzehn. In `doc/05` stand er bereits.
 3. ~~**Sim: Yeom kennt seinen Namen und gibt ihn nicht her.**~~ Steht in
-   `doc/03-cast.md`, Zeile zu Mr Yeom. **Und die Spur ist nicht mehr kalt:**
+   `doc/11-figuren.md`, Zeile zu Mr Yeom. **Und die Spur ist nicht mehr kalt:**
    Sim ist seit Kapitel 64 eine tragende Figur, in Kapitel 68 dreiundsechzig
    und aus eigenem Mund.
-4. ~~**Kurier-Stellen listen.**~~ Steht in `doc/02-leads.md`: die Form von
+4. ~~**Kurier-Stellen listen.**~~ Steht in `doc/11-figuren.md`: die Form von
    Kapitel 33 bis 46, die Probe pro Kapitel, und die Nachpruefung von 50, 52
    und 53 (50 hielt nicht und ist repariert).
 
@@ -921,7 +932,7 @@ juengste der vier bezeichnet. Kapitel 45 haengt nicht daran - K liegt vor beiden
 Was als Naechstes drankommt und in welcher Ordnung. Erledigtes wird gestrichen,
 nicht abgehakt.
 
-**Erledigt:** Kangs Anruf. Das Abendessen mit Sang-hoon und der Hanseong-Bericht. Do-yun als Mann von innen, benannt und begründet. **Die Heimfahrt nach Sang-hoon**, geschrieben als Kapitel 17 (v12.1, Tag 46, derselbe Abend wie Kapitel 16). Sie endet nicht auf "I enjoy this": darauf folgt *He had meant to stop there.* und das Geständnis über das Wort *Mistress*, und danach gibt Annie im Korridor die elf Häuser zurück. Der Wortlaut in `doc/05-continuity.md` unter "Festgelegte Zeile" reicht nur bis "I enjoy this." und beschreibt den ersten Teil.
+**Erledigt:** Kangs Anruf. Das Abendessen mit Sang-hoon und der Hanseong-Bericht. Do-yun als Mann von innen, benannt und begründet. **Die Heimfahrt nach Sang-hoon**, geschrieben als Kapitel 17 (v12.1, Tag 46, derselbe Abend wie Kapitel 16). Sie endet nicht auf "I enjoy this": darauf folgt *He had meant to stop there.* und das Geständnis über das Wort *Mistress*, und danach gibt Annie im Korridor die elf Häuser zurück. Der Wortlaut in `doc/16-motive.md` unter "Festgelegte Zeile" reicht nur bis "I enjoy this." und beschreibt den ersten Teil.
 
 **NEU ab Kapitel 23, und es betrifft alles Weitere: Georgij kann unterschreiben.**
 Ab Montag, dem 1. Dezember, hat er eine Vollmacht mit benannten Gegenparteien,
@@ -952,7 +963,7 @@ ihn noch nicht gezeigt.
 1. ~~**Wie er lautet.**~~ **Entschieden und im Text: Hye-jin.** Zwei Silben, also
    ein Vorname, Kapitel 24, genau einmal, kursiv, in seinem Kopf. **Hier stand bis
    zum 23.08., der Name sei offen** - falsch, und gefaehrlich, weil man daraufhin
-   einen zweiten erfindet. Sperrliste und Begruendung in `doc/05-continuity.md`.
+   einen zweiten erfindet. Sperrliste und Begruendung in `doc/15-kalender.md`.
    **Der Familienname ist weiterhin nicht vergeben, und das ist Absicht.**
 2. **Wann er faellt.** Er benutzt ihn nicht, und das ist richtig: Ein Wort, das
    nur einmal ausgesprochen werden kann, wird nicht in der Woche verbraucht, in
@@ -970,7 +981,7 @@ wissen es.** Das traegt Kapitel lang und darf nicht aus Versehen eingeloest
 werden.
 
 **Die Einloesung, wenn sie kommt, ist das Register.** Kanon in
-`doc/04-world.md`. Sie kann das Halsband jederzeit abnehmen lassen, das kostet
+`doc/14-welt.md`. Sie kann das Halsband jederzeit abnehmen lassen, das kostet
 einen Nachmittag; den Eintrag loeschen zu lassen heisst, das Haus dazu zu
 bringen, und das kostet Geld, Zugang und Erklaerbarkeit gegenueber einem
 Gewerbe, mit dem sie nichts zu tun haben will. Eine Zusage mit Datum ist
@@ -1004,7 +1015,7 @@ Bezahlung. Die Bitte steht weiter offen.
 
     Hana sagt es in Kapitel 15 im Wortlaut: *"Not quickly and not twice. Once."* Dazu, zwei Repliken vorher: *"In twenty years nobody has been able to make that woman sign anything, because she has never once needed to. She tells other people what to sign."*
 
-    **Ihre Zahlen, gegen `doc/04-world.md` geprüft:** Sie hält selbst **1,4 Prozent**. Die sechs sind sechs Menschen, nicht sechs Prozent - Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, zusammen **41** Prozent, und alle rufen vor jeder Unterschrift bei ihr an. Kapitel 17 sagt richtig *"Ye-rin has held those six for twenty years"* und meint die Leute. (Hier stand am 22.08. eine Stunde lang "sechs Prozent". Falsch, korrigiert.)
+    **Ihre Zahlen, gegen `doc/14-welt.md` geprüft:** Sie hält selbst **1,4 Prozent**. Die sechs sind sechs Menschen, nicht sechs Prozent - Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, zusammen **41** Prozent, und alle rufen vor jeder Unterschrift bei ihr an. Kapitel 17 sagt richtig *"Ye-rin has held those six for twenty years"* und meint die Leute. (Hier stand am 22.08. eine Stunde lang "sechs Prozent". Falsch, korrigiert.)
 
     **Woraus die Reihenfolge folgt.** Ein einziger Versuch heisst: Er wird ausgegeben, wenn er nicht mehr scheitern kann, und keinen Tag früher. Vorher müssen stehen:
 
@@ -1017,9 +1028,9 @@ Bezahlung. Die Bitte steht weiter offen.
 
     **Es ist ein Gespräch zu zweit, und das ist erzwungen, nicht gewählt.**
 
-    Erstens hat sie nichts zu unterschreiben. Sie hält 1,4 Prozent; die Unterschriften kommen von den sechs. Zweitens, und entscheidend: Der Satz, den Georgij ihr sagen muss, steht in `doc/04-world.md` und lautet, dass die Familie die Firma behält, Annie die Kontrolle bekommt, und **Ye-rin dafür ihre informelle Macht gegen eine formelle tauscht, die einer anderen Frau gehört.**
+    Erstens hat sie nichts zu unterschreiben. Sie hält 1,4 Prozent; die Unterschriften kommen von den sechs. Zweitens, und entscheidend: Der Satz, den Georgij ihr sagen muss, steht in `doc/14-welt.md` und lautet, dass die Familie die Firma behält, Annie die Kontrolle bekommt, und **Ye-rin dafür ihre informelle Macht gegen eine formelle tauscht, die einer anderen Frau gehört.**
 
-    Das vor den sechs auszusprechen, wäre ihre Vernichtung. Ihre Macht funktioniert, weil sie unbeschrieben ist - *"She tells other people what to sign."* Wer sie in einem Raum benennt, beendet sie in demselben Satz. Deshalb steht in `doc/04-world.md`, dass dieser Satz ihn den Zugang kosten kann, und deshalb geht er nur unter vier Augen.
+    Das vor den sechs auszusprechen, wäre ihre Vernichtung. Ihre Macht funktioniert, weil sie unbeschrieben ist - *"She tells other people what to sign."* Wer sie in einem Raum benennt, beendet sie in demselben Satz. Deshalb steht in `doc/14-welt.md`, dass dieser Satz ihn den Zugang kosten kann, und deshalb geht er nur unter vier Augen.
 
     **Es sind also drei Termine und nicht einer:**
 
@@ -1120,19 +1131,19 @@ Bezahlung. Die Bitte steht weiter offen.
     **Und es ist keine Ankuendigung.** Es handelt von Hanseong, nicht von den Kims. Das Versprechen aus 26 bleibt unangetastet. Auf die Frage nach den Kims lautet die Antwort **"There is nothing to announce"**, und sie ist wahr, vollstaendig und nicht anfechtbar.
 7. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
 8. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
-9. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in `doc/04-world.md` unter "Die Pipeline".
+9. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in `doc/14-welt.md` unter "Die Pipeline".
 
     Was der Text davon zeigt: ein Katalog ohne den Jungen und das Wort "No" (Kapitel 6). Neunzehn Tage in ihrem Besitz und trotzdem kein Name (Kapitel 12). Ihre Begründung, dass es ändert, worum sie ihn bitten muss (Kapitel 11). Und Kapitel 15 sagt in einem Nebensatz, dass sie den Namen seit seiner ersten Woche im Haus hat.
 
     **Der Leser weiß also seit Kapitel 12, dass sie etwas hält**, und weiß seit Kapitel 6, dass ein Junge aus einem Katalog verschwunden ist. Was er nicht hat, ist die Verbindung: dass beides an einem Abend beschafft wurde und dass der Kauf keine Gnade war. Wenn das aufgeht, gehen beide Hälften zusammen auf, und die Erleichterung darüber, dass der Junge nicht verkauft wurde, muss im selben Satz kassiert werden.
-10. **Die Pipeline.** Kanon in `doc/04-world.md`, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
+10. **Die Pipeline.** Kanon in `doc/14-welt.md`, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
 
 **Hier stand bis zum 23.08.:** *"Erst danach die Blöcke F bis J, und zwar mit
 Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt."*
 **Das war zu diesem Zeitpunkt drei Monate Erzählzeit überholt.** Der Bruch ist am
 27. November gefallen, Tag 55, Kapitel 22 bis 24 - Salon, Mauer, Brücke, alles in
 derselben Nacht. Block F ist aufgelöst, Block G, I und J sind geschrieben, Block H
-ist gestrichen. Aus den Blöcken ist nichts mehr zu holen; `doc/06-plot.md` ist ab
+ist gestrichen. Aus den Blöcken ist nichts mehr zu holen; `doc/30-plan-band-1.md` ist ab
 hier vollständig Herkunftsnotiz.
 
 **Und das ist die eigentliche Auskunft dieser Liste:** Der Geschäftsstrang ist
@@ -1144,7 +1155,7 @@ schiefgehen, und Los elf gehört ohnehin in einen zweiten Band.
 Georgij will. **Eingelöst in Kapitel 34, am 1. März.** Der Eintrag ist gestrichen,
 das Halsband bleibt auf seine Weigerung hin, und die Anrede bleibt auch. Damit ist
 **Band 1 zu Ende erzählt.** Begründung und verworfene Alternativen in
-`doc/08-decisions.md` unter „Der Schluss von Band 1".
+`doc/40-verworfen.md` unter „Der Schluss von Band 1".
 
 ---
 
@@ -1339,7 +1350,7 @@ getroffen hat, und keine Abstraktion.
 
 **Ob Nam ueberlebt.** Das haengt daran, wie kompetent sie sich in ihrem ersten
 Raum gibt, und wird dort entschieden und nicht hier. Begruendung in
-`doc/02-leads.md`: Inkompetenz ist neben Kindern Georgijs einziger echter
+`doc/11-figuren.md`: Inkompetenz ist neben Kindern Georgijs einziger echter
 Ausloeser, und Kompetente behandelt er mit echtem Respekt, unabhaengig vom Rang.
 **Annie haelt es genauso.** Wer Nam schreibt, baut ihr die Gelegenheit, gut zu
 sein, und nimmt sie ihr nicht ab.
@@ -2093,7 +2104,7 @@ Datum 22.08.*
   gegeben. Gesetzt sind jetzt Kapitel 3 (Ji-won auf der Treppe, klein gehalten)
   und Kapitel 5 (der Schneider, hauptsaechlich im Kinn). **Kapitel 2, 4 und 6
   haben weiterhin keins**, und das ist vertretbar: gestreut wuerde es billiger,
-  nicht besser. Der volle Katalog steht in `doc/05-continuity.md`.
+  nicht besser. Der volle Katalog steht in `doc/15-kalender.md`.
 
   **Das dritte eigene, gesetzt am 23.08. in Kapitel 33.** Kapitel 17 zaehlt
   mit: *"Two of them in seventeen years had been his own."* Eines an Mr Hong
@@ -2198,7 +2209,7 @@ Datum 22.08.*
 
   **Dieselben drei Woerter fallen ein zweites Mal**, in Kapitel 16 aus
   Sang-hoons Mund: *"That one was not work."* Beide Stellen sind jetzt als
-  festgelegte Zeile in `doc/05-continuity.md` verbucht.
+  festgelegte Zeile in `doc/16-motive.md` verbucht.
 
 - **Der Zahltag von quid pro quo.** Ab Kapitel 17 faellt der Satz nicht mehr
   beilaeufig. Die naechste Verwendung ist die im Bruch. Eine Ausnahme ist bereits
@@ -2280,7 +2291,7 @@ Verdachtsfall. Entscheidung gehoert dem Text, nicht dem Skript.
 ## Aus dem gruendlichen Durchgang vom 24.08.
 
 - **Das Lächeln fehlt in Band 2 vollstaendig.** Einzelheiten in
-  `doc/05-continuity.md` unter "Die Lächeln". Entweder es wird dort als Bogen
+  `doc/16-motive.md` unter "Die Lächeln". Entweder es wird dort als Bogen
   festgeschrieben und die offenen Sorten werden geschlossen, oder eine davon
   gehoert in eines der naechsten Kapitel.
 - **Der Haushalt ist in Band 2 fast weg.** Ji-won, Eun-ju, Mrs Ahn und Mr Im
@@ -2292,14 +2303,14 @@ Verdachtsfall. Entscheidung gehoert dem Text, nicht dem Skript.
   beobachtet, und findet sie **im selben Juli wie den Arztbesuch**. Das waere die
   Bestaetigung - sie liegt auf der Seite und wird von niemandem aufgehoben. Ein
   Satz von Annie oder im Erzaehltext schliesst die Luecke.
-- **doc/06-plot.md endet mit Band 1.**
+- **doc/30-plan-band-1.md endet mit Band 1.**
 
 ---
 
 ## Offen nach dem Band-1-Durchgang vom 25.08.
 
 **Band 1 ist inhaltlich durch.** Alle vierunddreissig Kapitel, sieben Bloecke,
-fuenfunddreissig Funde. Die Einzelheiten stehen in `doc/05-continuity.md`. Was
+fuenfunddreissig Funde. Die Einzelheiten stehen in `doc/15-kalender.md`. Was
 hier steht, ist das, was **nicht** korrigiert wurde, weil es dem Autor gehoert.
 
 **Zwei Rechnungen, die ich stehen gelassen habe.**
@@ -2369,20 +2380,20 @@ Lesen auf:
 
 ## Wer gerade woran ist
 
-Nach `doc/09-arbeitsteilung.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
+Nach `doc/22-pruefen.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
 ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
 
 - ~~**25.08., Inhaltspruefung: Band 2, Blickwinkel Zuschreibung.**~~
   **Erledigt bis Kapitel 53.** Neunzehn Korrekturen in vierzehn Kapiteln, das
-  Protokoll steht in `doc/05-continuity.md`. Wie geprueft wurde, steht seit dem
-  25.08. in `doc/11-pruefen.md`.
+  Protokoll steht in `doc/15-kalender.md`. Wie geprueft wurde, steht seit dem
+  25.08. in `doc/22-pruefen.md`.
   **Offen: Kapitel 54 aufwaerts**, und die Klasse ist bekannt, also faengt der
   naechste Durchgang nicht bei Null an.
 
 - ~~**24.08., Stil-Sitzung: Band 2, Kapitel 1 bis 34.**~~ **Erledigt.**
   Erzaehlerformeln, Selbstkommentar, Komma-Mittel, Beats. Was dabei
-  entschieden wurde, steht in `doc/09-arbeitsteilung.md`, Punkte 5, 8, 9 und 10,
-  und die neue vierte Sorte in `doc/01-craft.md`, Abschnitt 5.
+  entschieden wurde, steht in `doc/22-pruefen.md`, Punkte 5, 8, 9 und 10,
+  und die neue vierte Sorte in `doc/20-handwerk.md`, Abschnitt 5.
 
   **Nachtrag zu den zwei Stellen, die ich hier fuer den v2.0-Durchgang
   hingelegt hatte:** Der typografische Apostroph in Kapitel 41 ist erledigt
@@ -2396,48 +2407,14 @@ ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
   Tonetikette, aber die Laenge der Pause ist hier der Inhalt, und die naechste
   Replik loest sie ein. Ein Hinweis, der seine Arbeit tut, ist kein Fund.
 
-- ~~**26.08., allgemeine Prüfung: `doc/16-regelaenderungen.md`, Abschnitt E.**~~
+- ~~**26.08., allgemeine Prüfung: `doc/20-handwerk.md`, Abschnitt E.**~~
   **Erledigt**, Bericht weiter unten.
   Die sechs Punkte, die die Stilsitzung ausdrücklich zur Gegenprüfung hingelegt
   hat, gegen den Text. Kein Kapitel wird dabei umgeschrieben, ausser wo ein
   Beleg fällt. Danach die sieben Zitate ohne Beleg aus `belege.py`.
   Arbeitsbaum: eigener Klon, nicht der von Schreiben oder Stil.
 
-## Annies zweites Los ist Los elf, und es gehoert in Band 3
-
-In B2 90 steht, dass Annie **zwei Lose** in dem Haus am Fluss gekauft und Byun
-zweimal fuer das Streichen zweier Zeilen bezahlt hat. Das erste ist Georgij,
-Los vierzehn, am 4. Oktober.
-
-**Das zweite ist Los elf, und der Autor hat am 27.08. bestaetigt, dass es in
-Band 3 eingeloest wird.**
-
-**Der Text von Band 1, Kapitel 1 legt es vollstaendig aus**, und zwar bevor
-irgendjemand wusste, wozu:
-
-> *Lot eleven was a boy. The file said sixteen. He was fourteen at the outside,
-> and files rounded upward when it suited the seller. He went for eighty
-> million won to a man in the second row.*
-
-Und nachdem Georgij den Mann in der zweiten Reihe mit einem wahren Satz
-erledigt hat:
-
-> *He would not be collecting anything tonight. By Friday he would be
-> explaining himself to people who did not accept explanations, and lot eleven
-> would go back into next month's catalogue, which was not a good outcome.*
-> **It was a better one.**
-
-**Damit ist der Faden schon geknuepft und braucht in Band 2 nichts mehr.** Der
-Junge geht zurueck in den Katalog des Folgemonats, und Annie kauft im November
-ein zweites Mal. Georgijs einzige Gnade an diesem Abend hat ihn in eine zweite
-Versteigerung gebracht, und die Frau, die ihn dort gekauft hat, ist dieselbe,
-die vier Stunden vorher Georgij gekauft hat.
-
-**Was Band 2 dazu tun muss: nichts.** Was es nicht tun darf: den Satz aus K90
-beilaeufig widerrufen oder das zweite Los im Vorbeigehen erklaeren. **Er steht
-da, damit er in Band 3 aufgemacht werden kann**, und die einzige Stelle, an der
-er im Buch auftaucht, ist eine Nebenbemerkung ueber eine Zahlung an einen
-Registerfuehrer.
+---
 
 ## Offen: die fuenf Haelften sind nie gekauft worden
 

@@ -85,7 +85,7 @@ Es endet mit Rückgabewert 1, solange etwas überfällig ist.
 have him before the end of the year"* wird gefunden. *„I will not tell him"* nicht.
 Fristlose Zusagen kommen von Hand hier hinein, mit `faellig offen`.
 
-Das ist Absicht und folgt Regel 8 aus `doc/11-pruefen.md`: ein Detektor, der jeden
+Das ist Absicht und folgt Regel 8 aus `doc/22-pruefen.md`: ein Detektor, der jeden
 Satz mit *I will* meldet, ist so wertlos wie einer, der nichts meldet. **Diese
 Fassung meldet lieber zu wenig und verlässt sich darauf, dass die Liste gepflegt
 wird.**
@@ -190,7 +190,7 @@ warum sie zaehlen.
 going to offer next month, and I am going to take it."* Vier Monate Geld ab Juni,
 das Angebot des Sohnes im Juli. **Faellig etwa Tag 273 und seit siebzig Tagen
 offen.** Sie ist die Figur, die Georgij ausdruecklich als sein Spiegelbild im
-Kleinen gefuehrt wird (`doc/03-cast.md`), und der Text hat sie nach dem 2. Juni
+Kleinen gefuehrt wird (`doc/11-figuren.md`), und der Text hat sie nach dem 2. Juni
 fallen lassen.
 
 **Annie, Kapitel 59 (18. August):** *"in about a week you will have found a way to

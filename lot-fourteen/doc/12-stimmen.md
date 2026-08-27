@@ -101,7 +101,7 @@ Nicht anderes Vokabular. Eine andere **rhetorische Maschine**.
 |---|---|---|
 | **Georgij** | Aussage, dann die Rechnung dahinter, dann was es kostet. Endet auf einem Preis | Ja, vollständig |
 | **Annie** | Sie erklärt nie die Sache, sie erklärt **ihn**. Beweismittel ist immer ein **Datum** | Nein, sie stellt eine bessere |
-| | **Ausnahme, vom Autor gesetzt am 25.08.:** in **Kapitel 62** erklärt sie sich selbst. Sie ist aufgebracht, und der Regelbruch ist dort die Figur. **Nicht reparieren** - siehe `doc/08-decisions.md` | |
+| | **Ausnahme, vom Autor gesetzt am 25.08.:** in **Kapitel 62** erklärt sie sich selbst. Sie ist aufgebracht, und der Regelbruch ist dort die Figur. **Nicht reparieren** - siehe `doc/40-verworfen.md` | |
 | **Woo** | **Korrektur der Prämisse.** *"Then it is a business." - "No. Hear the whole of it."* | Nein, er berichtigt |
 | **Sim** | **Der andere.** Keine Aussagen über die Welt, sondern Angebote. Information kommt als Höflichkeit verpackt | Er beantwortet die Frage, die er dem anderen gern gestellt hätte |
 | **Jang** | **Sicherheitsstufen.** Sortiert vor der Übergabe in beobachtet / gehört / geraten und mischt nie | Ja, aber ausdrücklich sortiert |
@@ -245,7 +245,7 @@ ist Georgijs Maschine mit Blumentöpfen darin.
 
 ## Woher eine Redeart kommt
 
-**Das steht seit dem 26.08. in `doc/17-figurenleben.md`** und nicht mehr hier.
+**Das steht seit dem 26.08. in `doc/21-figurenbau.md`** und nicht mehr hier.
 Sieben Quellen - der Zug, der ihr nicht schmeichelt, zuerst -, vier Sperren,
 fuenf Fallen beim Pruefen und der Weg fuer ein neues Buch.
 
@@ -253,7 +253,7 @@ fuenf Fallen beim Pruefen und der Weg fuer ein neues Buch.
 
 | | |
 |---|---|
-| `doc/17-figurenleben.md` | **wie man eine Figur baut.** Gilt fuer jedes Buch, wandert mit |
+| `doc/21-figurenbau.md` | **wie man eine Figur baut.** Gilt fuer jedes Buch, wandert mit |
 | `doc/12-stimmen.md` (hier) | **wer in diesem Buch wie spricht.** Waechst mit jeder neuen Figur und bleibt fuer die alten stehen |
 
 Der Musterfall und die sechs Regeln weiter oben bleiben hier, weil sie an
@@ -515,7 +515,7 @@ zitiert, misst vorher nach** - sie wandern, wenn Kapitel dazukommen, und
 `--tics` zeigt eine Figur ohne Kontraktion gar nicht erst an, die Null muss man
 also aus der Figurenliste holen und nicht aus der Ausgabe.
 
-**Vorsicht bei jeder mechanischen Prüfung.** `doc/01-craft.md`, Abschnitt 2c
+**Vorsicht bei jeder mechanischen Prüfung.** `doc/20-handwerk.md`, Abschnitt 2c
 zählt Kontraktionen, aber die Regel dort gilt **ausschließlich für Georgij**.
 Eine Zählung über alle Sprecher meldet Mr Ahn als schlimmsten Fall des Buchs -
 und er ist der einzige, der es richtig macht.
@@ -821,7 +821,7 @@ verschwunden und am 25.08. noch einmal dreißig.
 **Nachgezählt am 25.08. steht die Familie aber weiter im Buch:** *did not
 soften* 15 Mal, *did not look away* 18 Mal, *without any … in it at all* 10 Mal.
 **Der Posten ist nicht erledigt**, er steht als Punkt 5 und 11 in
-`doc/09-arbeitsteilung.md`.
+`doc/22-pruefen.md`.
 
 **Die Regel:** In jeder Szene mit einem Rangunterschied trägt **mindestens ein
 Beat** die Rangfrage. Wer steht, wer sitzt, wer zuerst spricht, wer wem etwas
@@ -2380,7 +2380,7 @@ flattering thing you can say to an old man."*
 **Ihr Anliegen ist nicht der Fall, sondern ob sie recht hat.** Sie schätzt
 Menschen laut ein und will hören, ob es stimmt.
 
-**Drei Prozent Unvorsichtigkeit, und die sind gewählt** (`doc/03-cast.md`).
+**Drei Prozent Unvorsichtigkeit, und die sind gewählt** (`doc/11-figuren.md`).
 *"I am not being careless for you. In twenty-five years I have not put one sentence into one room without knowing what it would do when it got there."* Wer sie geschwätzig
 schreibt, schreibt gegen Kapitel 11.
 
@@ -3102,7 +3102,7 @@ grep -n '"[^"]*Dae-ho' chapters/*_en.md chapters-2/*_en.md
 steht das Blatt.** Der Tag, an dem einer davon er selbst ist, ist ein Ereignis
 des Buchs und keine Zahlenpflege.
 
-**Das ist kein Versehen, es ist die Figur.** `doc/03-cast.md`: *"Er sitzt in
+**Das ist kein Versehen, es ist die Figur.** `doc/11-figuren.md`: *"Er sitzt in
 nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden -
 er gibt Abendessen."* Ein Mann, der nie einen Auftrag erteilt, sagt auch nichts,
 was zitiert werden kann.

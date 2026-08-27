@@ -1,4 +1,6 @@
-# Haus und Geschaeft
+# Haus, Haushalt, Geschaeft
+
+*Kanon. Wie die Welt funktioniert, in der das Buch spielt.*
 
 Das Anwesen und die Maschine unter der Handlung. Vor jeder Verhandlungsszene ganz lesen.
 
@@ -181,7 +183,7 @@ stehen, und es weiss jetzt, dass Annie fuer eine Streichung zahlt.
 Papiere hat er seit der zweiten Oktoberwoche, von ihrer Compliance geordnet, damit
 er unterschreiben kann (Kapitel 25). Ein Konto hat er nicht und hatte er nie -
 *"Because I do not have an account for one to go into"* (Kapitel 27). Die
-Streichung erzeugt weder das eine noch das andere. **Regel 2 aus `doc/02-leads.md`
+Streichung erzeugt weder das eine noch das andere. **Regel 2 aus `doc/11-figuren.md`
 gilt am 1. Maerz unveraendert: er besitzt nichts.** Wer ihm zu Band 2 Geld, ein
 Konto oder eine Staatsangehoerigkeit gibt, muss es aus einer Szene holen und nicht
 aus der Streichung.
@@ -212,7 +214,7 @@ Handlung. Wer eine Verhandlungsszene schreibt, liest sie ganz.
 > - **Annies Kapital ist im Januar geflossen**, in drei Tranchen (Kapitel 34).
 > 
 > **Wer hier eine Szene ansetzt, setzt sie in Band 2 an.** Was von der Mechanik noch
-> arbeitet, steht in `doc/07-next.md` unter "Was Band 2 mitbekommt".
+> arbeitet, steht in `doc/31-plan-band-2.md` unter "Was Band 2 mitbekommt".
 
 ### Was Annies Gruppe macht, und was sie wirklich kauft
 
@@ -240,7 +242,7 @@ Georgij kennt die elf öffentlichen Verträge und, nützlicher, die Meldungen ih
 
 **Umbenannt am 23.08., in Kapitel 15 und 18 und hier.** Vorher hiessen sie *Hyeonjin* und *Yun*. Beides waren Kollisionen: *Hyeonjin* gegen **Hye-jin**, und *Yun* gleich dreifach gegen **Kim Do-yun** und gegen den Kuechenjungen **Yun** aus Kapitel 34, der seit Januar im Haus ist. Die Gruppennamen waren von den dreien die entbehrlichen. **Kyeongil** und **Nam** teilen keine Silbe mit irgendeiner Figur des Buches.
 
-**Und ab Band 2 sind das keine Randnotizen mehr.** Die Nam-Gruppe hat *sonst nichts*, und genau das macht sie zum Mittelstueck: Wer nur eine Lane hat, macht keine Triage, sondern Verzweiflung. Naeheres in `doc/07-next.md`.
+**Und ab Band 2 sind das keine Randnotizen mehr.** Die Nam-Gruppe hat *sonst nichts*, und genau das macht sie zum Mittelstueck: Wer nur eine Lane hat, macht keine Triage, sondern Verzweiflung. Naeheres in `doc/31-plan-band-2.md`.
 
 **Was ein Vetorecht über Routen praktisch bedeutet:** Es ist kein Papier über Eigentum. Es entscheidet, welcher Container auf welche Abfahrt geht, wenn eine Abfahrt voll ist, und auf diesen Lanes ist neun Monate im Jahr alles voll.
 
@@ -387,7 +389,7 @@ der Punkt:**
 
 **220 Millionen Won sind ungefaehr eine mittlere Wohnung in Seoul.** Das ist die
 entwuerdigendste Zahl, die sich hinschreiben laesst, und sie ist Absicht:
-`doc/08-decisions.md` verwirft ausdruecklich die 10 und 60 Millionen des
+`doc/40-verworfen.md` verwirft ausdruecklich die 10 und 60 Millionen des
 Rohverlaufs zugunsten der 220.
 
 **Daraus folgen drei Regeln, und die dritte ist die, an der schon einmal vier
@@ -499,4 +501,3 @@ nicht als Gerechtigkeit, sondern als Mechanik.
 **Und die Gegenprobe:** wer noch Schutz hat, bleibt unbehelligt, auch wenn er
 es verdient haette. Das ist kein Zynismus, das ist die Bedingung, unter der die
 Regel ueberhaupt etwas bedeutet.
-

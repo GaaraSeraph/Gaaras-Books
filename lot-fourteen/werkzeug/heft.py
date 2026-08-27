@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """heft.py - wird ins Heft geschrieben, oder wird etwas herausgeholt.
 
-**Der Befund, der das noetig gemacht hat** (`doc/15-kuerzen.md`): Georgij fuehrt
+**Der Befund, der das noetig gemacht hat** (`doc/23-kuerzen.md`): Georgij fuehrt
 das ganze Buch hindurch ein Notizbuch, und er schreibt hinein. Der Autor am
 26.08.:
 

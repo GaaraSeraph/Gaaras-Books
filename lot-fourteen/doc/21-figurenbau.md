@@ -1,4 +1,8 @@
-# Figurenleben
+# Figurenbau
+
+*Regel. Wie man eine Figur baut. Uebertragbar, gilt fuer jedes Buch.*
+
+**Wer die Figuren dieses Buches sucht, ist in `11-figuren.md` richtig.**
 
 **Ein Regelwerk dafür, dass Nebenfiguren wie Menschen klingen und nicht wie
 Auskunftsstellen.** Es ist am 25./26.08. aus *Lot Fourteen* abgeleitet, aber es

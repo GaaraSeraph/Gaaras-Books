@@ -11,20 +11,20 @@ recht und das Dokument wird geaendert.
 
 ## Zuerst
 
-**`doc/01-craft.md` lesen, mindestens den ersten Abschnitt.** Das ist die Liste, die in jedem
+**`doc/20-handwerk.md` lesen, mindestens den ersten Abschnitt.** Das ist die Liste, die in jedem
 Durchgang laeuft: Bandwurmsaetze, ob die Saetze ueberhaupt Sinn ergeben, ob jede
 Aussage einen Rueckbezug hat, die Laecheln, die Satzzeichen, die Quoten.
 
 Danach:
 
 1. Das betroffene Kapitel und die zwei davor lesen. Nicht die Zusammenfassung.
-2. Bei einer Figurenszene: `doc/02-leads.md`.
-3. Bei einer Verhandlungsszene: `doc/04-world.md` ganz.
-4. Beim Pruefen von Daten und Motiven: `doc/05-continuity.md`.
+2. Bei einer Figurenszene: `doc/11-figuren.md`.
+3. Bei einer Verhandlungsszene: `doc/14-welt.md` ganz.
+4. Beim Pruefen von Daten und Motiven: `doc/16-motive.md`.
 5. **Bei jeder Szene mit einer Nebenfigur: `doc/12-stimmen.md`.** Dort steht,
    was diese Figur will, das mit dem Fall nichts zu tun hat, und wie sie von A
    nach B kommt. Ohne das schreibt man Georgij mit einem anderen Namen davor.
-   **Bei einer neuen Nebenfigur zuerst `doc/17-figurenleben.md`** - dort steht,
+   **Bei einer neuen Nebenfigur zuerst `doc/21-figurenbau.md`** - dort steht,
    woraus eine Figur gebaut wird, und der erste Punkt ist der, der am meisten
    fehlt: ein Zug, der ihr nicht schmeichelt.
 6. Bei jeder Szene, in der die beiden einander anfassen: `doc/10-naehe.md`.
@@ -50,7 +50,7 @@ von Hand, Monate zu spaet - die fuenf Firmen aus Kapitel 12 (vier Monate) und
 Annies *"You will in about a month"* aus Kapitel 5 (sechs). **Beim ersten Lauf
 fand das Skript sofort zwei weitere, die niemand hatte.**
 
-**Wie geprueft wird, steht in `doc/11-pruefen.md`.** Vier Schritte, um aus einem
+**Wie geprueft wird, steht in `doc/22-pruefen.md`.** Vier Schritte, um aus einem
 einzelnen Fund einen Streifzug zu machen, sieben Regeln mit je einem Fehler
 dahinter, und der Katalog der Fehlerklassen, die es bisher gibt. Wer einen neuen
 Durchgang plant, faengt dort an und nicht bei Null.
@@ -72,10 +72,10 @@ Kopfkommentar erklaert, wie man aus einem einzelnen Fund einen Streifzug macht.
 
 `kuerzen.py` beantwortet die eine Frage, die beim Kuerzen mechanisch
 beantwortbar ist: **traegt dieses Kapitel etwas, das nirgends sonst steht?**
-Vier Kriterien aus `doc/15-kuerzen.md` - es bezahlt eine Zusage, es steht im
+Vier Kriterien aus `doc/23-kuerzen.md` - es bezahlt eine Zusage, es steht im
 Naehe-Register, es traegt einen Stimmbefund, es enthaelt einen Erstauftritt.
 **Ein Kapitel ohne alle vier ist ein Kandidat und keine Streichung**; die
-Entscheidung ist Urteil und steht in `doc/15-kuerzen.md`. `--kandidaten` zeigt
+Entscheidung ist Urteil und steht in `doc/23-kuerzen.md`. `--kandidaten` zeigt
 nur die Liste, `--form` die Formzahlen je Kapitel.
 
 `doppelt.py` beantwortet die zwei Fragen, die `check.py` nicht stellt, weil sie
@@ -84,7 +84,7 @@ Gespraechszug laeuft immer gleich?** `--nester` zeigt Behauptungen, die in drei
 oder mehr Kapiteln stehen, `--oeffner` womit Repliken anfangen, `--ketten`
 Gespraechsfolgen, die sich wiederholen. **Es entscheidet nicht, ob eine
 Wiederholung schaedlich ist** - das Steinbord in Band 1 steht in fuenf Kapiteln
-und soll es. Der Befund vom 26.08. steht in `doc/15-kuerzen.md`.
+und soll es. Der Befund vom 26.08. steht in `doc/23-kuerzen.md`.
 
 `heft.py` misst das Verhaeltnis, das den Choi-Strang zaeh gemacht hat: **wie oft
 wird ins Notizbuch gelegt, und wie oft wird etwas herausgeholt?** Am 26.08.
@@ -120,7 +120,7 @@ ein Wort mehr steht.
 
 **Was daran je Band getrennt laeuft:** die Kapitelnummern, die Basislinie in
 `.check-baseline` (Schluessel `b1/15`, `b2/1`) und die Kapitelliste in
-`doc/05-continuity.md`. Dort bekommen Band-2-Zeilen einen Praefix:
+`doc/15-kalender.md`. Dort bekommen Band-2-Zeilen einen Praefix:
 
 ```
 - **Kapitel 15** *Four thousand two hundred* (v2.7) - ...      <- Band 1
@@ -303,20 +303,20 @@ scheint.
 
 | Datei | Inhalt |
 |---|---|
-| `doc/01-craft.md` | Alle Regeln. Beginnt mit der Liste, die **immer** laeuft |
-| `doc/02-leads.md` | Praemisse, Georgij, Annie |
-| `doc/03-cast.md` | Haushalt, Verbuendete, Gegenseite, der Saal |
-| `doc/04-world.md` | Das Anwesen und das Geschaeft |
-| `doc/05-continuity.md` | Kalender, Kapitelstand, Motive, feste Zeilen |
-| `doc/06-plot.md` | Stoffbloecke. Kein Kanon, keine Kapitel |
-| `doc/07-next.md` | Naechste Schritte und offene Faeden |
-| `doc/08-decisions.md` | Was entschieden wurde und warum |
-| `doc/09-arbeitsteilung.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
+| `doc/20-handwerk.md` | Alle Regeln. Beginnt mit der Liste, die **immer** laeuft |
+| `doc/11-figuren.md` | Praemisse, Georgij, Annie |
+| `doc/11-figuren.md` | Haushalt, Verbuendete, Gegenseite, der Saal |
+| `doc/14-welt.md` | Das Anwesen und das Geschaeft |
+| `doc/16-motive.md` | Kalender, Kapitelstand, Motive, feste Zeilen |
+| `doc/30-plan-band-1.md` | Stoffbloecke. Kein Kanon, keine Kapitel |
+| `doc/31-plan-band-2.md` | Naechste Schritte und offene Faeden |
+| `doc/40-verworfen.md` | Was entschieden wurde und warum |
+| `doc/22-pruefen.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
 | `doc/10-naehe.md` | Jede koerperliche Szene zwischen den beiden, mit der Zeile, die im Buch steht |
 | `doc/12-stimmen.md` | Wer wie spricht. Maschine, Anliegen und Verbote je Figur |
-| `doc/17-figurenleben.md` | **Wie man eine Figur baut.** Uebertragbar, gilt fuer jedes Buch |
+| `doc/21-figurenbau.md` | **Wie man eine Figur baut.** Uebertragbar, gilt fuer jedes Buch |
 | `doc/13-zusagen.md` | Das Schuldbuch. Jede Zusage aus dem Text, mit Faelligkeit und Stand |
-| `doc/15-kuerzen.md` | Was jedes Kapitel traegt und was davon kuerzbar ist. **Beim Schreiben zu fuehren, nicht danach** |
+| `doc/23-kuerzen.md` | Was jedes Kapitel traegt und was davon kuerzbar ist. **Beim Schreiben zu fuehren, nicht danach** |
 | `erzeugt/HANDBUCH.md` | **Erzeugt.** Alle Dokumente am Stueck, mit Inhaltsverzeichnis |
 
 ## Dateinamen

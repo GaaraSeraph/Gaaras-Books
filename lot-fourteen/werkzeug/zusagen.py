@@ -32,7 +32,7 @@ ist:** eine ueberfaellige Zusage ist ein **Befund und keine Anweisung**. Am
 gemeldet, und bezahlt wurde sie, indem Szenen geschrieben wurden, in denen der
 Anspruch erlassen wird. Der Kauf, den B2 20 mit Datum ankuendigt, ist nie
 erzaehlt worden. **Wer eine Zeile gruen macht, indem er das Vermoegen
-abschreibt, hat das Werkzeug gegen das Buch benutzt.** Siehe `doc/07-next.md`.
+abschreibt, hat das Werkzeug gegen das Buch benutzt.** Siehe `doc/31-plan-band-2.md`.
 
 Das Buch ist `doc/13-zusagen.md` und wird von Hand gefuehrt. Das Skript
 entscheidet **nicht**, ob etwas eine Zusage ist - das ist Urteil. Es rechnet
@@ -43,7 +43,7 @@ Buch fehlt.
 Zusagen mit einer Zeitangabe im selben Satz. Eine Zusage ohne Frist
 ("I will have him") faellt durch und muss von Hand eingetragen werden. Ein
 Detektor, der jeden Satz mit "I will" meldet, ist nach Regel 8 aus
-doc/11-pruefen.md wertlos, und diese Fassung meldet lieber zu wenig.
+doc/22-pruefen.md wertlos, und diese Fassung meldet lieber zu wenig.
 """
 import os
 import re

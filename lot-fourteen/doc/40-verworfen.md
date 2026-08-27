@@ -1,5 +1,12 @@
 # Entscheidungen und Verworfenes
 
+*Was entschieden wurde und warum, und vor allem: **was schon einmal versucht
+und abgelehnt worden ist.** Der zweite Teil ist der wichtigere - er verhindert,
+dass eine verworfene Idee in vier Wochen als neuer Einfall wiederkommt.*
+
+**Eine getroffene Entscheidung ist danach entweder Kanon oder Regel und steht
+dort.** Was hier stehenbleibt, ist die Begruendung und das Verworfene.
+
 ## Das Projektverzeichnis haelt nur noch die zwei Lesefassungen, 25.08.
 
 **Vom Autor gewuenscht.** In `lot-fourteen/` lagen neben `book-band-1.md` und
@@ -43,7 +50,7 @@ Damit nichts zweimal verhandelt wird und Gestrichenes nicht durch Zufall zurueck
 ## Das Ziel von Band 2 ist ausgewechselt, 25.08.
 
 **Vom Autor entschieden, und es ist die groesste Entscheidung des Tages.** Sie
-stand bis zum Dokumentendurchgang nur in `doc/07-next.md` - **und genau deshalb
+stand bis zum Dokumentendurchgang nur in `doc/31-plan-band-2.md` - **und genau deshalb
 hat das alte Ziel dort achthundert Zeilen weiter unten unveraendert als Kanon
 weitergestanden.** Ein Ziel, das nirgends als Entscheidung gefuehrt wird, hat
 nichts, was auf es zeigt, wenn es sich aendert. Deshalb steht es jetzt hier.
@@ -53,7 +60,7 @@ nichts, was auf es zeigt, wenn es sich aendert. Deshalb steht es jetzt hier.
 | **Alt, bis 25.08.** | *Dass die Zeile nicht gegen sie verwendbar ist* |
 | **Neu, ab 25.08.** | **Choi Dae-ho hat am Ende nichts. Niemand geht an sein Telefon. Niemand isst mit ihm.** |
 
-**Die Begruendung ist eine Handwerksregel und keine Geschmacksfrage.** `doc/01-craft.md`
+**Die Begruendung ist eine Handwerksregel und keine Geschmacksfrage.** `doc/20-handwerk.md`
 Abschnitt 2i sagt seit Kapitel 11: ein Ziel ist ein Zustand, den man
 **herstellt**; wer auf eine **Gefahr** hinarbeitet, bekommt einen bestimmten
 Bogen, *jedes Mal, unvermeidlich*. Die Regel stand da, das Ziel wurde nie
@@ -84,7 +91,7 @@ zulaeuft. Vier Alter standen an einem Tag gegen ihren eigenen Geburtstag: Yeom,
 Woo, Mrs Sunwoo und Annie.
 
 **Ab jetzt gilt die Spalte *Geburtstag* als Datum und nicht als Parkposition:**
-ab diesem Tag ist die Figur ein Jahr aelter, und `doc/05-continuity.md` sagt es
+ab diesem Tag ist die Figur ein Jahr aelter, und `doc/15-kalender.md` sagt es
 in der Tabelle. Neue Figuren bekommen ihren Geburtstag weiterhin hinter der
 Erzaehlfront, damit ihre Zahl bis dahin stillsteht.
 
@@ -207,7 +214,7 @@ das Einzige, was er zu geben hat: an Ji-won für eine Lampe, an den Schneider, a
 Jang, an Hong für den dritten Namen, an Kang. Wer nichts besitzt, dankt oft.
 
 **Und der Ausfall trägt.** In Kapitel 14 bis 17 steht kein einziges. Das letzte
-im Buch ist Kapitel 13 an Chairman Woo. `doc/05-continuity.md` begründet die
+im Buch ist Kapitel 13 an Chairman Woo. `doc/15-kalender.md` begründet die
 Wortlosigkeit für die festgelegte Zeile in Kapitel 17 ausdrücklich, aber sie
 reicht über vier Kapitel und nicht über eine Szene. Zweimal wird das Danken im
 Text zusätzlich abgewiesen: "Don't thank me yet" (Hana) und "Don't thank me. I
@@ -243,7 +250,7 @@ Alles gegen die damals sechzehn Kapitel und den damaligen Dokumentbestand geprue
 15. Block E: schwarze Karte, Shilla, Donnerstag neun Uhr sind unbelegt und als Vorschlag markiert.
 16. Block F: der Namensbruch ist der zweite. Der erste war in Kapitel 9 zu Hana und wurde in Kapitel 11 selbst gemeldet.
 17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Beiläufig fällt der Satz ab jetzt nicht mehr. Kapitel 17 benutzt ihn einmal gewichtet, als Auftakt zu Georgijs eigenem Geständnis im Wagen; das ist die verbrauchte Ausnahme, danach kommt er erst im Bruch wieder.
-18. Block I: der Sake vom eigenen Geld widerspricht `doc/02-leads.md` ("Er besitzt nichts"). Drei Auswege benannt, einer empfohlen.
+18. Block I: der Sake vom eigenen Geld widerspricht `doc/11-figuren.md` ("Er besitzt nichts"). Drei Auswege benannt, einer empfohlen.
 19. ~~Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.~~ **Gegenstandslos, Block H ist am 22.08. gestrichen.** Damit faellt die Zigarette samt ihrer Herkunftsschuld weg.
 
 **Ergänzt:**
@@ -254,7 +261,7 @@ Alles gegen die damals sechzehn Kapitel und den damaligen Dokumentbestand geprue
 23. Sang-hoons Rückgabetermin für die neunzehn Seiten, Tag 48, Donnerstag 20. November.
 24. Der offene Faden aus Kapitel 10, dass Georgij angeboten hat, ein Abendessen selbst zu bezahlen. Hängt an derselben Frage wie der Sake.
 25. Reihenfolge ab hier neu sortiert, Erledigtes herausgenommen.
-26. Figurenabschnitt entdoppelt, `doc/02-leads.md` und `doc/03-cast.md` sind massgeblich.
+26. Figurenabschnitt entdoppelt, `doc/11-figuren.md` und `doc/11-figuren.md` sind massgeblich.
 
 **Außerhalb dieser Datei aufgefallen, nicht geändert:**
 
@@ -282,7 +289,7 @@ zurueckkommt.
 
 ### Offene Ausstattungsfrage: der Laptop
 
-Georgij kann Systeme knacken (`doc/02-leads.md`), an Annies Desktop aber nicht: Die Maschine hing nie an einem Netz, er hat ihr die sieben Buchstaben abgesehen. Dafür braucht er Hardware, und woher er sie bekommt, ist selbst eine Szene.
+Georgij kann Systeme knacken (`doc/11-figuren.md`), an Annies Desktop aber nicht: Die Maschine hing nie an einem Netz, er hat ihr die sieben Buchstaben abgesehen. Dafür braucht er Hardware, und woher er sie bekommt, ist selbst eine Szene.
 
 **Vorschlag:** Annie gibt ihm in der ersten Woche unaufgefordert ein Gerät. Neu, sauber, offensichtlich verwaltet, mit allem, was ein Firmengerät eben mitbringt. Sie sagt nichts dazu und er fragt nichts. Er bedankt sich und benutzt es ausschließlich für die Arbeit, die sie ihm gegeben hat.
 
@@ -377,8 +384,8 @@ Dezember und Januar, die als Anker daneben stehen.
 
 ### Der Container hat einen Urheber, und der Text nennt ihn jetzt
 
-**Entschieden am 22.08.** Kanon war es immer - `doc/03-cast.md` und
-`doc/04-world.md`: **Sang-hoon** hat den ausgebauten Container in eine
+**Entschieden am 22.08.** Kanon war es immer - `doc/11-figuren.md` und
+`doc/14-welt.md`: **Sang-hoon** hat den ausgebauten Container in eine
 Kim-Sendung geschoben und den Zoll darauf stossen lassen. Der Ausbau ist der
 Beweis, nicht die Ladung, und der Container war leer.
 
@@ -399,7 +406,7 @@ den Kims, und Sang-hoons eigener Satz an diesem Abend, dass Angst nie von dem
 gekauft werden muss, der sie liefert.
 
 **Unveraendert bleibt:** die Zollakte kommt nie als Szene vor, nur als Zeile.
-Das steht so in `doc/07-next.md` und gilt weiter.
+Das steht so in `doc/31-plan-band-2.md` und gilt weiter.
 
 ---
 
@@ -409,7 +416,7 @@ Das steht so in `doc/07-next.md` und gilt weiter.
 getragen hat.
 
 **Warum *Who holds the paper* weg ist.** Er war Grundbuchsprache und sollte laut
-`doc/01-craft.md` "auch fuer ihn" gelten - wer das Papier ueber Georgij haelt.
+`doc/20-handwerk.md` "auch fuer ihn" gelten - wer das Papier ueber Georgij haelt.
 Diese zweite Bedeutung wird im Kapitel **nie aktiviert.** Im Text meint der Satz
 ausschliesslich die drei Belastungen auf Hanas Land, also den Nebenstrang, und
 er kommt aus Georgijs eigenem Mund ueber eine dritte Person. Das Ereignis des
@@ -430,11 +437,11 @@ sondern ueberbietet es:
 **Er deckt beide Haelften.** Im Wagen legt Georgij die Waffe hin, ohne es zu
 beschliessen. Im Korridor sagt sie, dass sie ihre nie hingelegt hat, in ihrem
 eigenen Haus. Und seit derselben Fassung steht die Geste auf beiden Seiten
-(siehe die festgelegte Zeile ueber die zwei Haende in `doc/05-continuity.md`).
+(siehe die festgelegte Zeile ueber die zwei Haende in `doc/16-motive.md`).
 
 **Er erfuellt die Titelregel.** Vor dem Kapitel klingt er nach Sturheit oder
 nach einer Trotzhaltung. Danach ist er der einsamste Satz im Buch. Genau das
-verlangt `doc/01-craft.md`: erst im Rueckblick aufgehen und vorher nicht
+verlangt `doc/20-handwerk.md`: erst im Rueckblick aufgehen und vorher nicht
 verraten, worum es geht.
 
 **Verworfen:** *They were yours* (staerkster Satz, aber allein stehend
@@ -770,7 +777,7 @@ sein.** Das ist er in der ersten Dezemberwoche.
 - **Woo findet Ye-rin selbst.** Er hat gesagt *"not the ones who talk"*, und auf
   einer Feier ist die, die nicht redet, genau die, die er sucht. Hinterher sagt er
   Georgij, dass er sie gefunden hat.
-- Hanas Einfuehrung, die `doc/04-world.md` als *"eine Einfuehrung, keine
+- Hanas Einfuehrung, die `doc/14-welt.md` als *"eine Einfuehrung, keine
   Erlaubnis"* fuehrt.
 - Und das eine Gespraech, an diesem Abend, allein, in einem Zimmer.
 
@@ -1036,7 +1043,7 @@ gemacht: 2450 Stueck in der Lesefassung von Band 2.
   Strich, in `paste/` ein langer Gedankenstrich.
 
 **Gesetzt sind sie nach den Szenenbeschreibungen in diesem Dokument**, nicht
-nach Gefuehl: `doc/05-continuity.md` sagt je Kapitel, aus wie vielen Szenen es
+nach Gefuehl: `doc/15-kalender.md` sagt je Kapitel, aus wie vielen Szenen es
 besteht und welche das sind. Band 2 hat danach **zweiunddreissig** Grenzen in
 vierundvierzig Kapiteln. Ein Automatismus wurde versucht und verworfen - er
 traf vier von vierundvierzig Kapiteln richtig.
@@ -1160,4 +1167,3 @@ seither nie benutzt worden: *"I go to them one at a time and I tell them what
 was done to them. I do not accuse him of anything, because he has never once
 claimed anything."* **Damit ist es zugleich die groesste Heft-Entnahme des
 Buches** - ein Plan, der im Mai abgelegt und im November geholt wird.
-

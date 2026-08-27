@@ -159,7 +159,7 @@ Beleg dafuer, dass die Zeile hier hingehoert.
   Das ist **nicht** sie und darf nie mit ihr verwechselt werden.
 - **Es geht nicht ab. Nie. Das ist keine offene Frage und kein Bandende.**
   Band 1 Kapitel 34 heisst *"Then take it off"* und endet auf *"Then it stays
-  on." - "Then it stays on," said Georgij.* Siehe `doc/02-leads.md`, Abschnitt
+  on." - "Then it stays on," said Georgij.* Siehe `doc/11-figuren.md`, Abschnitt
   Halsband. In Kapitel 35 stand von v2.0 bis v2.4 eine Verabredung ueber das
   Abnehmen. Sie ist entfernt. **Wer sie wieder hinschreibt, hat B1 34 nicht
   gelesen.**
@@ -305,7 +305,7 @@ in diesem Dokument. Er ist ungeschrieben und verfuegbar.
 ## Die Schlussgeste, vorgemerkt und noch nicht geschrieben
 
 **Am Ende des Bandes küsst er ihr die Fingerspitzen.** Festgelegt vom Autor am
-25.08. Die Ausführung und die Abgrenzung stehen in `doc/07-next.md`.
+25.08. Die Ausführung und die Abgrenzung stehen in `doc/31-plan-band-2.md`.
 
 **Die eine Sache, die hier stehen muss:** das ist **nicht** die Geste aus Band 1,
 Kapitel 11. Dort hat er **Hana** die Hand geküsst, *"over the fingers, in the

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """kuerzen.py - welche Kapitel sind Kuerzungskandidaten, und welche nicht.
 
-**Der Anlass steht in `doc/15-kuerzen.md`:** der Band wird zu Ende geschrieben
+**Der Anlass steht in `doc/23-kuerzen.md`:** der Band wird zu Ende geschrieben
 und danach gekuerzt, und die Gefahr dabei ist, dass nach Gefuehl gekuerzt wird.
 Gemessen ist der Befund eindeutig - ueber achtzig Kapitel schwankt die
 Erzaehlgeschwindigkeit um keine dreissig Prozent, achtzig von achtzig Kapiteln
@@ -9,12 +9,12 @@ spielen an genau einem Tag, und dreissig von achtzig enden im selben Zimmer mit
 derselben Person. **Das Buch hat einen Gang.**
 
 Dieses Werkzeug entscheidet **nicht**, was gekuerzt wird. Das ist Urteil und
-steht in `doc/15-kuerzen.md`. Es beantwortet die eine Frage, die mechanisch
+steht in `doc/23-kuerzen.md`. Es beantwortet die eine Frage, die mechanisch
 beantwortbar ist:
 
     **Traegt dieses Kapitel etwas, das nirgends sonst steht?**
 
-Drei Kriterien, und sie kommen aus `doc/15-kuerzen.md`:
+Drei Kriterien, und sie kommen aus `doc/23-kuerzen.md`:
 
 1. **Es bezahlt eine Zusage.** Aus `doc/13-zusagen.md`, Feld *eingeloest*.
 2. **Es steht im Naehe-Register.** Aus `doc/10-naehe.md`.
@@ -45,7 +45,7 @@ Verweis ohne Bandpraefix ist unsichtbar. `doc/12-stimmen.md` schreibt an
 mehreren Stellen *"in Kapitel 62"* statt *"b2 K62"*, und ohne Band laesst sich
 nicht entscheiden, welcher Band gemeint ist. **Raten waere schlimmer als
 uebersehen**, also uebersieht dieses Skript sie. Wer die Kandidatenliste
-abarbeitet, prueft jeden Treffer gegen `doc/05-continuity.md`, wo jedes Kapitel
+abarbeitet, prueft jeden Treffer gegen `doc/15-kalender.md`, wo jedes Kapitel
 beschrieben steht.
 """
 import os
@@ -186,7 +186,7 @@ def lauf(nur_kandidaten=False, nur_form=False):
         woerter = sum(k[2]["woerter"] for k in kandidaten)
         print("Zusammen %d Woerter. **Das ist eine Leseliste und keine "
               "Streichliste.**" % woerter)
-        print("Jeden Treffer gegen doc/05-continuity.md pruefen: ein Verweis "
+        print("Jeden Treffer gegen doc/15-kalender.md pruefen: ein Verweis "
               "ohne Bandpraefix ist hier unsichtbar.")
     return 0
 

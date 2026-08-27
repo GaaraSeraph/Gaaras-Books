@@ -183,8 +183,13 @@ def to_paste(md):
 # canon//craft//log//plot/ und einer "story-bible" auf doc/01 bis doc/08
 # umgebaut, und die Verweise sind nicht alle mitgezogen. So etwas verrottet
 # still: es faellt erst auf, wenn jemand nachschlaegt und nichts findet.
+# Der letzte Zweig verlangt, dass vor den zwei Ziffern weder eine Ziffer noch
+# ein Bindestrich steht. Sonst greift er mitten in einen Datumsnamen hinein:
+# `protokoll/2026-08-inhalt.md` enthaelt `08-inhalt.md`, und der Pruefer meldete
+# am 27.08. zwei tote Verweise, die beide auf vorhandene Dateien zeigten. Eine
+# Warnung, die zweimal falsch ist, wird beim dritten Mal nicht mehr gelesen.
 REF = re.compile(r"(?:canon|craft|log|plot)/[\w./-]+|docs?/[\w./-]+\.md"
-                 r"|\b\d\d-[\w-]+\.md")
+                 r"|(?<![-\d])\d\d-[\w-]+\.md")
 # Dokumente, die es als Datei nicht mehr gibt, aber im Fliesstext weiterleben.
 GHOST = re.compile(r"\bder Bibel\b|\bdie Bibel\b|\bBibel\b|story-bible", re.I)
 
@@ -343,7 +348,7 @@ def build_register(root, chapters):
 
     Das Geruest ist erzeugt und kann deshalb nicht driften. Was bei einer
     Begegnung gegeben oder genommen wurde, ist Urteil und gehoert nach
-    doc/03-cast.md. Die Zahlenspalte ist der eigentliche Zweck: Figurenzahlen
+    doc/11-figuren.md. Die Zahlenspalte ist der eigentliche Zweck: Figurenzahlen
     stehen hier nebeneinander, statt ueber siebzehn Kapitel verstreut."""
     found = {name: [] for name in FIGURES}
     pats = {n: [re.compile(p) for p in ps] for n, ps in FIGURES.items()}
@@ -373,7 +378,7 @@ def build_register(root, chapters):
         "",
         "Wer wann vorkommt, mit Tag und Fundstelle. **Das Geruest ist erzeugt und",
         "kann deshalb nicht driften.** Was bei einer Begegnung gegeben, genommen",
-        "oder verschwiegen wurde, ist Urteil und steht in `doc/03-cast.md`.",
+        "oder verschwiegen wurde, ist Urteil und steht in `doc/11-figuren.md`.",
         "",
         "Georgij fehlt: er ist in jeder Begegnung, seine Liste waere die Liste",
         "aller Zeilen.",
@@ -634,7 +639,7 @@ def build_reader(root, chapters):
 # Kopfzeilen und alle Kapitelverweise in sechs Dokumenten hinter sich her, und
 # diese Arbeit wird einmal gemacht, am Ende des Kuerzungslaufs. Bis dahin sind
 # Luecken erlaubt - aber angemeldet, sonst faellt eine vergessene Datei nicht
-# mehr auf. Begruendung in doc/15-kuerzen.md unter "Das Verfahren".
+# mehr auf. Begruendung in doc/23-kuerzen.md unter "Das Verfahren".
 GESTRICHEN = {
     (2, 68): "am 26.08. mit 67 zusammengelegt",
     (2, 44): "am 26.08. mit 43 zusammengelegt",

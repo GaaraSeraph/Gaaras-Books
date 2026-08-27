@@ -13,4 +13,4 @@ Kontinuitaets-Fallen.
 Lesefassung je Band: book-band-1.md und book-band-2.md. Alle Regeln und der Kanon am Stueck:
 HANDBUCH.md. **Welches Kapitel an welchem Tag spielt: erzeugt/KAPITEL.md**, eine Zeile je
 Kapitel, aus den Kapitelkoepfen erzeugt. Welche Datei gilt und wie lang sie ist:
-MANIFEST.txt. Was als Naechstes kommt: doc/07-next.md.
+MANIFEST.txt. Was als Naechstes kommt: doc/31-plan-band-2.md.

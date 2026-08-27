@@ -4,7 +4,7 @@
 
 Wer wann vorkommt, mit Tag und Fundstelle. **Das Geruest ist erzeugt und
 kann deshalb nicht driften.** Was bei einer Begegnung gegeben, genommen
-oder verschwiegen wurde, ist Urteil und steht in `doc/03-cast.md`.
+oder verschwiegen wurde, ist Urteil und steht in `doc/11-figuren.md`.
 
 Georgij fehlt: er ist in jeder Begegnung, seine Liste waere die Liste
 aller Zeilen.

@@ -17,13 +17,13 @@ Drei Sorten, und sie auseinanderzuhalten ist der ganze Wert des Programms:
 Die dritte Sorte kam am 25.08. aus der Stilsitzung: `doc/12-stimmen.md` erfindet
 absichtlich Repliken, und die als Falschzitate zu zaehlen treibt die Zahl so
 hoch, dass sich alle daran gewoehnen, sie zu ignorieren. Dann faengt sie auch
-das echte Falschzitat nicht mehr. Das ist Regel 8 in `doc/11-pruefen.md`.
+das echte Falschzitat nicht mehr. Das ist Regel 8 in `doc/22-pruefen.md`.
 
 Zweiter Modus: `--kapitel` prueft, ob ein Zitat unter der richtigen Kapitelnummer
 steht. Ein Register kann eine Zeile richtig zitieren und falsch einordnen.
 
 Die Eichung laeuft bei jedem Start und meldet nichts, wenn sie durchfaellt -
-`doc/11-pruefen.md`, Schritt 3.
+`doc/22-pruefen.md`, Schritt 3.
 """
 import io
 import os
@@ -167,7 +167,7 @@ def zitate_aus(txt):
     einem Zitatblock erst *"Take the coat off," said Annie.* und in der naechsten
     Zeile *"He took the coat off..."*, dann faellt das schliessende Zeichen der
     ersten Zeile mit dem oeffnenden der zweiten zusammen, und dazwischen steht
-    deutscher Fliesstext. Am 26.08. hat das in `doc/15-kuerzen.md` einen Fund
+    deutscher Fliesstext. Am 26.08. hat das in `doc/23-kuerzen.md` einen Fund
     gemeldet, obwohl beide Zitate echt sind und im richtigen Kapitel stehen.
     Eine Leerzeile, eine Ueberschrift oder ein leerer Zitatstrich trennt jetzt.
     """

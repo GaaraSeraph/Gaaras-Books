@@ -1,4 +1,7 @@
-# Kürzen: was jedes Kapitel trägt
+# Kuerzen
+
+*Regel und laufendes Register. Was jedes Kapitel traegt und was davon kuerzbar
+ist. **Beim Schreiben zu fuehren, nicht danach.***
 
 **Angelegt am 25.08. auf Entscheidung des Autors.** Der Band wird zu Ende
 geschrieben und danach gekürzt. Damit das Kürzen dann Buchhaltung wird und nicht
@@ -144,11 +147,11 @@ auf HALTEN korrigiert worden.**
 | **30** *(jetzt zweite Haelfte von 29)* | *A person with nothing* | **Tragend.** Drei Naehe-Register-Zeilen auf einmal (A 8, B 4, C 7) samt der ersten Stelle in zwei Baenden, an der er in ihrer Gegenwart etwas nicht kontrolliert und einschlaeft | HALTEN |
 | **31** | *Nobody hides flowers* | **Tragend.** Mrs Gwaks einziger Auftritt im ganzen Buch (ihr Blatt in doc/12 besteht vollstaendig aus diesem Kapitel), Sims erster Beleg im Eckfeld der beiden Durchschlaege | HALTEN |
 | **32** | *Where the name goes* | **Tragend.** Bezahlt die Zusage aus B2 09 (Mrs Jeon, *"who I am going to be able to do something about"*), setzt die beiden Zusagen, die B2 71 einloest, und enthaelt den Fund | HALTEN |
-| **33** | *A door with no name on it* | **Tragend.** Die Zusage, die doc/02-leads.md als "die Zusage aus Kapitel 33" fuehrt und die ab hier den Band regiert | HALTEN |
+| **33** | *A door with no name on it* | **Tragend.** Die Zusage, die doc/11-figuren.md als "die Zusage aus Kapitel 33" fuehrt und die ab hier den Band regiert | HALTEN |
 | **34** *(jetzt zweite Haelfte von 33)* | *The best company in the room* | **Tragend.** Die Zwei-Zeugen-Probe (*"is not a coincidence twice"\*), der einzige Beleg fuer Choi Dae-ho ausserhalb von Annies Gedaechtnis, die Vier-Tage-Frist, an der 35 und 36 haengen | HALTEN |
 | **35** | *Everything I am allowed to say* | **Tragend.** Vier Naehe-Eintraege auf einmal: Register A 9 (sie kommt zum ersten Mal auf den Boden, und zwar bevor sie antwortet), Register B 5, Register C 8 (die einzige Stelle im ganzen Buch | HALTEN |
 | **36** | *An empty table* | **Tragend.** Annies drei Ergebnisse (das Pflegeheim bei Wonju ueber vier Eigentuemer, die elf mit unerklaerten Wendepunkten, die Hochzeit vor elf Jahren) | HALTEN |
-| **37** | *The one who asked a question* | **Tragend.** Mr Kohs einziger Auftritt im ganzen Buch (doc/03-cast.md: Auftritt B2 37, in 57 und 58 nur berichtet) und die einzige ausgefuehrte Ansprache aus Annies einunddreissig Namen | HALTEN |
+| **37** | *The one who asked a question* | **Tragend.** Mr Kohs einziger Auftritt im ganzen Buch (doc/11-figuren.md: Auftritt B2 37, in 57 und 58 nur berichtet) und die einzige ausgefuehrte Ansprache aus Annies einunddreissig Namen | HALTEN |
 | **38** | *Tell him or ask him* | **Tragend.** Die Zeile, die Yeoms Rolle im ganzen Faden festschreibt und die doc/12 auf seinem Blatt fuehrt (*"That puts him on the end of the sentence, not the one saying it"*) | HALTEN |
 | **39** | *The man kitchens talk to* | **Tragend.** Mr Sohns Erstauftritt mit der Essensprobe (*"Did he eat."*), der Befund, dass der Aufraeumer im April sein eigenes Werk nachprueft | HALTEN |
 | **40** | *Somebody who did not arrive in a car* | **Tragend.** Der erste Blick auf die Frau am Fenster, aus der spaeter Moon Hae-sook wird, Jangs einziger grosser Bericht mit seiner eigenen Skala (*"Above the middle of it | HALTEN |

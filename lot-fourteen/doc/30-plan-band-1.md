@@ -1,4 +1,8 @@
-# Stoffbloecke
+# Plan, Band 1
+
+*Plan. **Band 1 ist geschrieben** - was hier steht, ist die Bauplanung und
+damit erledigt. Sie bleibt stehen, weil sie zeigt, was gegen den Plan
+entschieden wurde.*
 
 Kein Kanon. A bis C sind geschrieben und stehen als Herkunftsnotiz da, D bis J kommen noch.
 
@@ -24,7 +28,7 @@ Plan geaendert.
 | E | Kang Ji-hoon | Anruf in Kapitel 12, Abendessen offen |
 | F | Arbeitszimmer | **aufgeloest**, der Stoff ist ueber 20, 24 und 33 verteilt |
 | G | Der Bruch | **geschrieben, Kapitel 22 bis 24**, Tag 55 |
-| H | ~~Der Garten~~ | **gestrichen am 22.08.**, siehe `doc/08-decisions.md` |
+| H | ~~Der Garten~~ | **gestrichen am 22.08.**, siehe `doc/40-verworfen.md` |
 | I | Die Mauer | **geschrieben, Kapitel 22** |
 | J | Mapo-Bruecke | **geschrieben, Kapitel 23** |
 
@@ -75,7 +79,7 @@ Die Zeit zwischen Kauf und Gala.
 - **Der Desktop.** Annie verweigert ihm die Gästeliste, aus Methode. Er beschafft sie selbst und legt die Datei dort ab: wer kommt, was jeder verbirgt, wer mit wem verbunden ist. Verschlüsselt, Passwort ist sein Name, sie tippt sieben Buchstaben mit einem Finger. Sie fragt weder, wie er an die Namen kam, noch, was er sonst gesehen hat, und sie zieht das Protokoll nicht, das sie eine Minute kosten würde.
   - **[KORRIGIERT] Er knackt nichts.** Die Maschine hing nie an einem Netz, es gab daran nichts zu brechen, und er begreift das in den ersten drei Tagen. Er hört auf, an die Maschine zu denken, und sieht die Frau an. Zweimal in drei Wochen tippt sie die Passphrase vor ihm. Wer später "geknackt" schreibt, nimmt der Szene ihren ganzen Sinn.
   - **[KORRIGIERT]** Die Formulierung "der erste Moment, in dem sie ihn wirklich ansieht" ist gestrichen. Sie sieht ihn seit dem Keller an, im Wagen wendet sie den Blick kein einziges Mal ab, und in der Auffahrt sieht sie sich das Auge an, ohne sich zu bewegen. Was in Kapitel 5 neu ist, ist nicht der Blick, sondern das Nichtfragen.
-- **[KORRIGIERT] Los elf, die Zählung.** Er fragt nicht einmal nach, sondern zweimal, und jedes Mal anders: im Wagen in Kapitel 1 ("And the boy?") und über den Schreibtisch in Kapitel 4 ("Has the house listed lot eleven yet?"). Auf die erste bekommt er eine Auskunft über den nächsten Monat, auf die zweite Schweigen. In Kapitel 6 fragt er ein drittes Mal ausdrücklich **nicht**, sondern stellt fest ("He isn't in it"), und darauf sagt sie das eine Wort "No". Der Text zählt selbst mit: *He did not ask a third time.* Was tatsächlich geschehen ist, steht in `doc/04-world.md` unter "Die Pipeline" und ist im Text noch lange nicht auszusprechen.
+- **[KORRIGIERT] Los elf, die Zählung.** Er fragt nicht einmal nach, sondern zweimal, und jedes Mal anders: im Wagen in Kapitel 1 ("And the boy?") und über den Schreibtisch in Kapitel 4 ("Has the house listed lot eleven yet?"). Auf die erste bekommt er eine Auskunft über den nächsten Monat, auf die zweite Schweigen. In Kapitel 6 fragt er ein drittes Mal ausdrücklich **nicht**, sondern stellt fest ("He isn't in it"), und darauf sagt sie das eine Wort "No". Der Text zählt selbst mit: *He did not ask a third time.* Was tatsächlich geschehen ist, steht in `doc/14-welt.md` unter "Die Pipeline" und ist im Text noch lange nicht auszusprechen.
 
 ### Der Gala-Abend **[GESCHRIEBEN, Kapitel 6 bis 11]**
 
@@ -117,7 +121,7 @@ Der Kragen sitzt. Die Fernbedienung ist in ihrer Clutch, und beide wissen es den
 
 ### Was der Plan nicht hatte
 
-Kapitel 12 bis 16 sind Stoff, den dieses Dokument nie enthalten hat und den die Blöcke E bis J jetzt voraussetzen. Kurzfassung, damit niemand daran vorbeiplant. Einzelheiten stehen in `doc/04-world.md`, der Kapitelstand in `doc/05-continuity.md`.
+Kapitel 12 bis 16 sind Stoff, den dieses Dokument nie enthalten hat und den die Blöcke E bis J jetzt voraussetzen. Kurzfassung, damit niemand daran vorbeiplant. Einzelheiten stehen in `doc/14-welt.md`, der Kapitelstand in `doc/15-kalender.md`.
 
 - **Annies Bitte, Tag 26.** Ein Mann, der in keine Räume geht und dessen Gesicht zwei Leute in dieser Stadt kennen. Sie weiß, was er will, und hat genau eines davon im Haus. Georgij soll gefunden werden, nicht gezeigt: das Halsband, nicht angekündigt, und der andere muss glauben, er habe es gegen sie herausgefunden. Sie sagt ihm vorher, dass er ablehnen darf, in einem Raum ohne Zeugen, was noch nie jemand getan hat.
 - **Sein Ja, Tag 27**, in der Küche, ohne Bedingung und ohne Gegenforderung, und sie mag es nicht.
@@ -399,7 +403,7 @@ Antwort auf ihre Frage aus Block J.
   Packung und Feuer - Jang oder wen sonst. Damit ist die Herkunftsschuld erledigt,
   an der die Geste in Block H haengengeblieben ist, und zwar in einer halben
   Zeile am Ort selbst statt in einem frueheren Kapitel. Ausserdem ist es der
-  letzte Auftritt des Haushalts vor dem Schluss, und `doc/07-next.md` verzeichnet
+  letzte Auftritt des Haushalts vor dem Schluss, und `doc/31-plan-band-2.md` verzeichnet
   dessen Verschwinden seit Kapitel 13 als offene Baustelle.
 
   **Es ist ausserdem das Einzige, worum er im ganzen Buch fuer sich selbst
@@ -452,11 +456,11 @@ Damit steht "Sie findet ihn, weil er nicht schwer zu finden ist" nicht mehr als 
 
 **Zweite Frage, die zu klären ist:** Jang kennt die Kamera. Entweder sieht Jang es und meldet es, dann ist die Verfolgung aus dem Rohmaterial begründet, oder Georgij geht zu einer Zeit, zu der der Monitorraum die Traufe nicht auf der Wand hat, was zutrifft, weil sie auf keiner Wand ist. Beides ist zu haben. Der Cast-Vorschlag, dass Jang die Flucht meldet und die Verfolgung vom Beifahrersitz koordiniert, passt zur zweiten Fassung nur, wenn ihm jemand Bescheid gibt.
 
-**[KORRIGIERT] Der Sake kann nicht von seinem eigenen Geld kommen.** `doc/02-leads.md` ist an dieser Stelle eindeutig: kein Geld, kein Konto, im wörtlichen wie im übertragenen Sinn, und sein ganzes Argument in Kapitel 2 hängt daran, dass er selbst die Sicherheit ist, weil es nichts anderes gibt. "Geld, das er nicht haben dürfte" wäre die interessanteste Zeile des Blocks und zugleich der Widerspruch, an dem später alles hängt. Drei Auswege:
+**[KORRIGIERT] Der Sake kann nicht von seinem eigenen Geld kommen.** `doc/11-figuren.md` ist an dieser Stelle eindeutig: kein Geld, kein Konto, im wörtlichen wie im übertragenen Sinn, und sein ganzes Argument in Kapitel 2 hängt daran, dass er selbst die Sicherheit ist, weil es nichts anderes gibt. "Geld, das er nicht haben dürfte" wäre die interessanteste Zeile des Blocks und zugleich der Widerspruch, an dem später alles hängt. Drei Auswege:
 
 1. **Der Cast-Vorschlag.** Jang holt den Sake am Flussufer auf Georgijs Bitte, und als Georgij ihm einschenkt, weiß Jang nicht, wohin mit sich. Das ist die beste Fassung, weil sie Block I und Block J verbindet und weil sie kostenlos ist.
 2. **Er hat kein Geld und tut es trotzdem**, und der Text sagt, womit. Dann muss vorher stehen, woher.
-3. **Wir setzen es als Kanon**, dass er über eigene Mittel verfügt. Dann fällt sein Satz "I'm what it costs. There's nothing else of mine anywhere in the world" rückwirkend in sich zusammen, und `doc/02-leads.md` sowie Regel 2 in `CLAUDE.md` muessen geaendert werden. Ich rate ab.
+3. **Wir setzen es als Kanon**, dass er über eigene Mittel verfügt. Dann fällt sein Satz "I'm what it costs. There's nothing else of mine anywhere in the world" rückwirkend in sich zusammen, und `doc/11-figuren.md` sowie Regel 2 in `CLAUDE.md` muessen geaendert werden. Ich rate ab.
 
 **Anschließender offener Faden:** In Kapitel 10 sagt Georgij zu Sang-hoon, er werde das Abendessen selbst bezahlen, damit es auf niemandes Spesen auftaucht. Fällig geworden ist der Satz nie, weil in Kapitel 16 in Sang-hoons eigenem Büro gegessen wird und das Essen bereits bestellt war, als Georgij ankommt. Der Satz steht aber im Protokoll und dieselbe Frage hängt daran wie am Sake. Wenn wir Auflösung 1 nehmen, muss irgendwann jemand die Frage stellen, womit er hätte zahlen wollen.
 
@@ -492,5 +496,5 @@ Dieses Dokument endet mit Block J und Kapitel 24 von Band 1. **Nachgezogen am
 (Mapo-Bruecke), und Band 2 hat inzwischen **achtundsechzig** Kapitel und keinen
 einzigen Eintrag hier. Das ist kein Fehler -
 `CLAUDE.md` sagt, dieses Dokument sei kein Kanon -, aber wer nach dem Stoff von
-Band 2 sucht, findet ihn nur in `doc/07-next.md` und in der Kapitelliste von
-`doc/05-continuity.md`, und beide sind dafuer nicht gebaut.
+Band 2 sucht, findet ihn nur in `doc/31-plan-band-2.md` und in der Kapitelliste von
+`doc/15-kalender.md`, und beide sind dafuer nicht gebaut.

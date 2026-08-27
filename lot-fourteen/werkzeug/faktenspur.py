@@ -14,7 +14,7 @@ Durchgang muss nicht vorbereitet werden - er liegt schon da.
 
 Was es NICHT kann: einen Satz beurteilen, dessen Zahlen gleich geblieben sind
 und dessen Sinn sich gedreht hat. Dafuer gibt es `zuschreibung.py` und Lesen.
-Siehe `doc/11-pruefen.md`.
+Siehe `doc/22-pruefen.md`.
 
 Aufruf:
     python3 werkzeug/faktenspur.py                 lebende gegen vorige Fassung

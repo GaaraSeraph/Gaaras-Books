@@ -6,7 +6,6 @@ Aufruf:  python3 check.py                   prueft alle aktuellen Kapitel
          python3 check.py chapters/chNN_...  prueft eines
          python3 check.py --baseline         schreibt die Basislinie neu
          python3 check.py --ratchet          Rueckgabewert 1 nur bei Verschlechterung
-         python3 check.py --sync-state       zieht die Kapitelliste in doc/ nach
          python3 check.py --echoes           woertliche Wiederholungen ueber Kapitel
 
 Die Sperrklinke: Der Stilrueckstand aus alten Kapiteln soll nicht jeden Lauf
@@ -14,7 +13,7 @@ rot faerben, denn eine Warnung, die immer feuert, liest niemand mehr. Mit
 --ratchet meldet check.py nur, wenn ein Kapitel **mehr** Fehler hat als in
 .check-baseline vermerkt. Damit ist Altlast geduldet und Neuverschuldung nicht.
 
-Prueft nur, was ohne Urteil pruefbar ist. Alles andere steht in doc/01-craft.md
+Prueft nur, was ohne Urteil pruefbar ist. Alles andere steht in doc/20-handwerk.md
 und muss gelesen werden.
 
 Rueckgabewert 1, wenn ein Fehler gefunden wurde. Warnungen aendern ihn nicht.
@@ -114,13 +113,13 @@ WRONG_PHRASES = [
     ("forty-one point four per cent",
      "Die sechs halten 41 Prozent. Kapitel 15 zaehlt sie einzeln auf: elf, "
      "neun, sieben, sechs, vier, vier. Ye-rins eigene 1,4 kommen obendrauf "
-     "und nicht hinein. Die 41,4 entstanden in doc/04-world.md, wo ihre 1,4 "
+     "und nicht hinein. Die 41,4 entstanden in doc/14-welt.md, wo ihre 1,4 "
      "in die Summe der sechs geraten sind, ohne dass jemand addiert hat."),
     ("three weeks into this",
      "Georgij nennt ueber sich keine Zahlen. Bei Hong hat er dieselbe Zahl "
      "geschluckt und 'less than a year' gesagt (Kapitel 9), bei Kang und bei "
      "Sang-hoon sagt er 'a very short time'. Die Zeile stand bis zum 23.08. "
-     "in Kapitel 10 und doc/02-leads.md fuehrte sie als absichtliche "
+     "in Kapitel 10 und doc/11-figuren.md fuehrte sie als absichtliche "
      "Bruchstelle - beides war ein Einschub, den niemand gewollt hat."),
 ]
 
@@ -236,7 +235,7 @@ def check(path):
     #
     #   (1) Fortgesetzte Rede. Ein Absatz mit UNGERADER Zahl Anfuehrungszeichen
     #       laesst das Zitat offen; der naechste Absatz gehoert derselben Figur.
-    #       Formal erlaubt (doc/01-craft.md, Punkt 5), aber ohne etwas
+    #       Formal erlaubt (doc/20-handwerk.md, Punkt 5), aber ohne etwas
     #       Koerperliches dazwischen liest es sich wie ein Sprecherwechsel.
     #       Genau das ist am 22. August in Kapitel 22 und 26 passiert.
     #
@@ -428,7 +427,7 @@ WATCH = {
     "staff", "security", "supervisors", "maids", "drivers",
 }
 
-# Zahlen, die im Buch bereits zu viel arbeiten (doc/01-craft.md, Abschnitt 6).
+# Zahlen, die im Buch bereits zu viel arbeiten (doc/20-handwerk.md, Abschnitt 6).
 LOADED = ("eleven", "nine")
 
 
@@ -507,7 +506,7 @@ def numbers_report(files):
 
     print("\n" + "=" * 72)
     print("AUSLASTUNG DER BELASTETEN ZAHLEN")
-    print("doc/01-craft.md: elf und neun arbeiten im Buch bereits zu viel.")
+    print("doc/20-handwerk.md: elf und neun arbeiten im Buch bereits zu viel.")
     print("=" * 72)
     for key in sorted(load):
         zeile = "  ".join(f"{w} {load[key][w]:>2}" for w in LOADED)
@@ -518,64 +517,46 @@ def numbers_report(files):
     print(f"\n{len(index)} Groessen verfolgt, {len(multi)} davon mit mehr als einer Zahl.")
 
 
-CONTINUITY = ("doc", "05-continuity.md")
-STATE = re.compile(
-    r"^(- \*\*(?:Band (\d+), )?Kapitel (\d+)\*\*[^()\n]*\()v(\d+)\.(\d+)(\))")
+# ---------------------------------------------------------------- Ablage
+#
+# Die Ablage hat seit dem 27.08. vier Sorten, und die Sorte steht in der
+# Zehnerstelle: 1x Kanon, 2x Regeln, 3x Plan je Band, 4x Verworfenes,
+# protokoll/ das Datierte. **Eine datierte Ueberschrift in 1x bis 4x heisst,
+# dass ein Sitzungsbericht in ein Sachdokument geschrieben wurde.**
+#
+# Genau diese Bewegung hat aus achtzehn Dokumenten 251.071 Woerter gemacht,
+# von denen rund 93.000 Protokoll und Nacherzaehlung waren - mehr als der
+# Roman selbst. Ein Satz in CLAUDE.md haelt das nicht auf; eine Meldung bei
+# jedem Lauf vielleicht.
+#
+# **Hier stand bis zum 27.08. chapter_state**, die eine von Hand gefuehrte
+# Kapitelliste gegen die Dateien hielt. Die Liste gibt es nicht mehr: das
+# Geruest schreibt build.py nach erzeugt/KAPITEL.md, aus den Kapitelkoepfen,
+# und es kann nicht veralten. Am 22. August stand jede einzelne der siebzehn
+# geprueften Zeilen auf einer alten Nummer.
+
+SORTE = re.compile(r"^#{1,4} .*\b\d\d\.\d\d\.")
 
 
-def chapter_state(root, best, fix=False):
-    """Die Kapitelliste in doc/05-continuity.md gegen die Dateien halten.
+def sorte_report(root):
+    """Datierte Ueberschriften in Kanon-, Regel-, Plan- und Verwurfdateien.
 
-    Die Liste wird von Hand gepflegt, und genau deshalb stand am 22. August
-    jede einzelne der siebzehn Zeilen auf einer alten Nummer. Das ist die
-    Regel aus CLAUDE.md an einem Beispiel: was geprueft wird, stimmt, was
-    nicht geprueft wird, driftet.
-
-    Laeuft nur im vollen Lauf. Bekommt check.py einzelne Dateien uebergeben,
-    ist die Menge unvollstaendig und jede Aussage ueber die Liste waere
-    falsch - deshalb ruft main() das hier gar nicht erst auf.
-
-    Gibt Paare (Meldung, behoben) zurueck. Das ist noetig, weil --sync-state
-    nur eines von drei Dingen kann: eine Versionsnummer in einer Zeile, die
-    schon dasteht. Eine fehlende Kapitelzeile kann es nicht schreiben, denn
-    die traegt Titel und Inhaltssatz, und beides ist Autorenarbeit. Am
-    22. August meldete der Lauf trotzdem "nachgezogen", schrieb nichts, und
-    beim naechsten Lauf fehlte dasselbe Kapitel wieder. Eine Erfolgsmeldung
-    ohne Wirkung ist schlimmer als eine Fehlermeldung.
+    Meldet und blockiert nicht.
     """
-    p = os.path.join(root, *CONTINUITY)
-    if not os.path.exists(p) or not best:
-        return []
-    lines = open(p, encoding="utf-8").read().replace("\r\n", "\n").split("\n")
-    out, seen, changed = [], set(), False
-    for i, line in enumerate(lines):
-        m = STATE.match(line)
-        if not m:
-            continue
-        key = (int(m.group(2)) if m.group(2) else 1, int(m.group(3)))
-        seen.add(key)
-        if key not in best:
-            out.append((f"{kap(key)} steht in der Liste, hat aber keine Datei.",
-                        False))
-            continue
-        have, want = (int(m.group(4)), int(m.group(5))), best[key][0]
-        if have == want:
-            continue
-        soll = "v%d.%d" % want
-        out.append(("%s: Liste sagt v%d.%d, Datei ist %s."
-                    % (kap(key), have[0], have[1], soll), fix))
-        if fix:
-            lines[i] = m.group(1) + soll + m.group(6) + line[m.end():]
-            changed = True
-    for key in sorted(set(best) - seen):
-        out.append((f"{kap(key)} fehlt in der Liste und muss von Hand "
-                    f"eingetragen werden (Titel und Inhaltssatz). "
-                    f"Zeilenanfang: - **{'' if key[0] == 1 else f'Band {key[0]}, '}"
-                    f"Kapitel {key[1]}**", False))
-    if fix and changed:
-        with open(p, "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(lines))
-    return out
+    treffer = []
+    for p in sorted(glob.glob(os.path.join(root, "doc", "[1-4][0-9]-*.md"))):
+        for i, z in enumerate(io.open(p, encoding="utf-8").read()
+                              .split(chr(10)), 1):
+            if SORTE.match(z):
+                treffer.append((os.path.basename(p), i, z.strip()[:70]))
+    if treffer:
+        print("\nDatierte Ueberschriften ausserhalb von protokoll/ "
+              "(%d):" % len(treffer))
+        for name, i, z in treffer[:10]:
+            print("  %-20s Zeile %-5d %s" % (name, i, z))
+        if len(treffer) > 10:
+            print("  ... und %d weitere" % (len(treffer) - 10))
+        print("  Ein Bericht gehoert nach doc/protokoll/. Siehe CLAUDE.md.")
 
 
 BASELINE = ".check-baseline"
@@ -804,7 +785,7 @@ def formel_report(best, knapp=False):
 
 
 def striche_report(root):
-    """Gedankenstriche in den Dokumenten. doc/01-craft.md, Abschnitt 5:
+    """Gedankenstriche in den Dokumenten. doc/20-handwerk.md, Abschnitt 5:
     "Keine Gedankenstriche, nur Bindestriche."
 
     Das Buch selbst war am 25.08. sauber - null Treffer in chapters/ und
@@ -829,7 +810,7 @@ def striche_report(root):
                 treffer.append((os.path.basename(p), i, n))
     if treffer:
         gesamt = sum(n for _, _, n in treffer)
-        print("Gedankenstriche in doc/ (doc/01-craft.md, Abschnitt 5): "
+        print("Gedankenstriche in doc/ (doc/20-handwerk.md, Abschnitt 5): "
               "%d in %d Zeilen" % (gesamt, len(treffer)))
         for name, i, n in treffer[:12]:
             print("  %-24s Zeile %-5d %d" % (name, i, n))
@@ -913,21 +894,11 @@ def main():
         elif n < b:
             better.append(f"{kap(k)} ({name}): {b} auf {n}")
 
-    fix = "--sync-state" in flags
-    drift = [] if args else chapter_state(root, best, fix=fix)
-
     print(f"\n{len(files)} Kapitel geprueft, {bad} mit Fehlern.")
-    if drift:
-        print("Kapitelliste in doc/05-continuity.md:")
-        offen = False
-        for text, behoben in drift:
-            print(("  nachgezogen  " if behoben else "  FEHLER   ") + text)
-            offen = offen or not behoben
-        if offen and not fix:
-            print("  Versionsnummern nachziehen mit: python3 check.py --sync-state")
     if not args:
         formel_report(best, knapp=True)
         striche_report(root)
+        sorte_report(root)
 
     if base:
         if better:
@@ -943,17 +914,13 @@ def main():
         if better:
             print("Basislinie nachziehen mit: python3 check.py --baseline")
 
-    # Die Drift zaehlt in beide Rueckgabewerte. Der Hook ruft --ratchet auf,
-    # und das ist der einzige Aufruf, der wirklich blockiert.
-    #
-    # Es zaehlt, was offen geblieben ist, nicht ob --sync-state mitlief.
-    # Vorher stand hier "bool(drift) and not fix", und damit machte
-    # --sync-state den Lauf gruen, auch wenn es gar nichts hatte reparieren
-    # koennen. Ein fehlendes Kapitel wurde so aus dem Exit-Code geschrieben.
-    stale = any(not behoben for _, behoben in drift)
+    # Der Hook ruft --ratchet auf, und das ist der einzige Aufruf, der
+    # wirklich blockiert. Bis zum 27.08. zaehlte hier zusaetzlich die Drift
+    # der von Hand gefuehrten Kapitelliste mit; die Liste ist weg, weil sie
+    # erzeugt wird, und damit kann sie nicht mehr driften.
     if "--ratchet" in flags:
-        sys.exit(1 if (worse or stale) else 0)
-    sys.exit(1 if (bad or stale) else 0)
+        sys.exit(1 if worse else 0)
+    sys.exit(1 if bad else 0)
 
 
 if __name__ == "__main__":
