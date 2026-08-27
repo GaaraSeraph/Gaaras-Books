@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 83 Kapitel, 223.143 Woerter.
+Book Two, 83 Kapitel, 222.959 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -39,7 +39,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 26 | v3.0 | 6.850 |
 | 27 | v1.3 | 2.317 |
 | 28 | v2.0 | 2.269 |
-| 29 | v4.1 | 7.742 |
+| 29 | v5.0 | 7.558 |
 | 30 | v2.5 | 3.288 |
 | 31 | v3.0 | 3.603 |
 | 32 | v4.0 | 4.077 |
@@ -6856,7 +6856,7 @@ He thought about a woman going to lunch, four years ago, after she had put a bil
 ---
 
 # Book Two · Chapter 29: Two witnesses
-*Lot Fourteen* · Version 4.1 · EN
+*Lot Fourteen* · Version 5.0 · EN
 
 ## Day Two Hundred and Forty-Three · Wednesday 3 June
 
@@ -6958,27 +6958,13 @@ She gathered the papers into one stack, squared them, and put them in the drawer
 
 "Yes."
 
-She picked the folded sheet back up before it went in the drawer and read it a third time.
-
-"Byun gave you this for nothing," she said. "You told me that in May and I did not ask you why a man gives away in twenty seconds what he refused to give for five months. I am asking now."
-
-"Because I told him the truth about what his caution had cost somebody, and it landed," said Georgij. "I have not paid for a single piece of paper in this whole thing. Not one. Everybody who has given me something has given it because a true sentence did something to them that money could not have done."
-
-"That is not nothing to be able to do."
-
-"It is not nothing to have had to learn to do it on people who trusted the wrong things for twenty years first."
-
-Annie put the sheet in the drawer with the rest.
+Annie held one page back before the drawer went shut.
 
 "And the page from Mrs Jeon. The one for Hwang."
 
 "I have not looked at it since she gave it to me," said Georgij. "It is not addressed to me and I am not going to read it as though it were."
 
-"You are keeping something you have not read."
-
-"Yes."
-
-"That is either very disciplined or very frightened, and I am not certain which," said Annie, "and I do not think you are certain either."
+"You are keeping something you have not read, and that is either very disciplined or very frightened," said Annie. "I am not certain which, and I do not think you are certain either."
 
 He did not answer that, because she was right and he had not decided.
 
@@ -7018,9 +7004,7 @@ Jang put the cup down without drinking from it.
 
 "No," said Georgij. "This part is not mine yet."
 
-Jang looked at him for a moment the way a man looks at a colleague he has decided not to ask a question of.
-
-"Coffee's on the stove," he said, and went.
+"Coffee's on the stove," said Jang, in the way a man does when he has decided not to ask a question, and went.
 
 Georgij stood in the kitchen on his own and poured a cup he had been told to have, and it was, in fact, nearly cold.
 
@@ -7180,11 +7164,11 @@ He wrote one line and closed the notebook.
 
 *Four days. Not hers to lose either.*
 
-He did not mean Annie when he wrote it, and he sat with that for a while before he let himself notice which woman he had meant instead.
+He did not mean Annie when he wrote it.
 
-## Day Two Hundred and Forty-Four · Thursday 4 June
+* * *
 
-He had written the line at about eleven and sat with it for a quarter of an hour before he let himself notice which woman he had meant. Then he put the notebook in the drawer and went up.
+He had written the line at about eleven and sat with it for a quarter of an hour before he let himself notice which woman he had meant instead. Then he put the notebook in the drawer and went up.
 
 There was a light under her door.
 

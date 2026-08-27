@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 233.788 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 233.781 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -376,7 +376,7 @@ Naechstes kommt: `doc/31-plan-band-2.md`.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **16 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**117 Kapitel, 324.433 Woerter.**
+**117 Kapitel, 324.339 Woerter.**
 
 ---
 
@@ -16372,37 +16372,37 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 243 | b2ch29:86 | "That is the first time you have said that sentence in this house," said Annie. |
 | 243 | b2ch29:102 | "You do not go near either address without telling me first," said Annie. "Not asking. T.. |
 | 243 | b2ch29:124 | Annie's mouth moved, very slightly, at the second word, and she did not comment on it an.. |
-| 243 | b2ch29:148 | Annie put the sheet in the drawer with the rest. |
-| 243 | b2ch29:158 | "That is either very disciplined or very frightened, and I am not certain which," said A.. |
-| 243 | b2ch29:180 | Annie closed the drawer and turned the key. |
-| 243 | b2ch29:186 | "Go and have your coffee before it is cold," said Annie, "and send Jang up to me on your.. |
-| 244 | b2ch29:258 | He has known since the twenty-seventh of May whose habit this is. Annie has known since .. |
-| 244 | b2ch29:290 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
-| 244 | b2ch29:306 | He went up at half past six and Annie was already awake, which she should not have been .. |
-| 244 | b2ch29:318 | Annie read them the way she reads everything that matters, twice, and the second time sl.. |
-| 244 | b2ch29:328 | Annie kept her eyes on the page. |
-| 244 | b2ch29:334 | Annie sat with both hands flat on the desk. |
-| 244 | b2ch29:352 | Annie stood up. |
-| 244 | b2ch29:368 | "You are not to tell Sang-hoon that any of this has gone further than it had in the shed.. |
-| 244 | b2ch29:392 | "I am telling you to sit on it for four days," said Annie, "while I find out three thing.. |
-| 244 | b2ch29:424 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
-| 244 | b2ch29:448 | He did not mean Annie when he wrote it, and he sat with that for a while before he let h.. |
-| 244 | b2ch29:482 | "Do not tell me about it. Not tonight." Annie closed the book without marking it. "You h.. |
-| 244 | b2ch29:506 | "You did the arithmetic on the stairs," said Annie. |
-| 244 | b2ch29:524 | Annie did not say anything to that. |
-| 244 | b2ch29:562 | Annie's hand stopped. |
-| 244 | b2ch29:596 | "Say it," said Annie. |
-| 244 | b2ch29:616 | "No," said Annie. "You did not, and you would not have, and both of us knew that four mi.. |
-| 244 | b2ch29:658 | "On the first of March you told me that this is not what holds you," said Annie. |
-| 244 | b2ch29:674 | "There was one," said Annie. "You picked the one morning on which I could not answer it .. |
-| 245 | b2ch29:734 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
-| 245 | b2ch29:802 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
-| 245 | b2ch29:818 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
-| 245 | b2ch29:826 | Annie set the papers down. |
-| 245 | b2ch29:900 | Annie found him there twenty minutes later, on her way to the car, with a folder under o.. |
-| 245 | b2ch29:912 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
-| 245 | b2ch29:918 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
-| 245 | b2ch29:932 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
+| 243 | b2ch29:136 | Annie held one page back before the drawer went shut. |
+| 243 | b2ch29:142 | "You are keeping something you have not read, and that is either very disciplined or ver.. |
+| 243 | b2ch29:164 | Annie closed the drawer and turned the key. |
+| 243 | b2ch29:170 | "Go and have your coffee before it is cold," said Annie, "and send Jang up to me on your.. |
+| 244 | b2ch29:240 | He has known since the twenty-seventh of May whose habit this is. Annie has known since .. |
+| 244 | b2ch29:272 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
+| 244 | b2ch29:288 | He went up at half past six and Annie was already awake, which she should not have been .. |
+| 244 | b2ch29:300 | Annie read them the way she reads everything that matters, twice, and the second time sl.. |
+| 244 | b2ch29:310 | Annie kept her eyes on the page. |
+| 244 | b2ch29:316 | Annie sat with both hands flat on the desk. |
+| 244 | b2ch29:334 | Annie stood up. |
+| 244 | b2ch29:350 | "You are not to tell Sang-hoon that any of this has gone further than it had in the shed.. |
+| 244 | b2ch29:374 | "I am telling you to sit on it for four days," said Annie, "while I find out three thing.. |
+| 244 | b2ch29:406 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
+| 244 | b2ch29:430 | He did not mean Annie when he wrote it. |
+| 244 | b2ch29:464 | "Do not tell me about it. Not tonight." Annie closed the book without marking it. "You h.. |
+| 244 | b2ch29:488 | "You did the arithmetic on the stairs," said Annie. |
+| 244 | b2ch29:506 | Annie did not say anything to that. |
+| 244 | b2ch29:544 | Annie's hand stopped. |
+| 244 | b2ch29:578 | "Say it," said Annie. |
+| 244 | b2ch29:598 | "No," said Annie. "You did not, and you would not have, and both of us knew that four mi.. |
+| 244 | b2ch29:640 | "On the first of March you told me that this is not what holds you," said Annie. |
+| 244 | b2ch29:656 | "There was one," said Annie. "You picked the one morning on which I could not answer it .. |
+| 245 | b2ch29:716 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
+| 245 | b2ch29:784 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
+| 245 | b2ch29:800 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
+| 245 | b2ch29:808 | Annie set the papers down. |
+| 245 | b2ch29:882 | Annie found him there twenty minutes later, on her way to the car, with a folder under o.. |
+| 245 | b2ch29:894 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
+| 245 | b2ch29:900 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
+| 245 | b2ch29:914 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
 | 249 | b2ch30:6 | Annie gave him the three things on Monday evening, in the room off the library, with the.. |
 | 249 | b2ch30:18 | "I have not confirmed that yet," said Annie. "I have confirmed that it is the sort of pl.. |
 | 249 | b2ch30:24 | Annie had looked at him for a while before she answered that one. |
@@ -16828,16 +16828,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch27:46` (Tag 239) - seven, ten
 - `b2ch29:48` (Tag 243) - one, three
 - `b2ch29:102` (Tag 243) - one
-- `b2ch29:258` (Tag 244) - fourteen, thirty, twenty
-- `b2ch29:306` (Tag 244) - six
-- `b2ch29:392` (Tag 244) - four, three
-- `b2ch29:424` (Tag 244) - two
-- `b2ch29:482` (Tag 244) - eleven
-- `b2ch29:616` (Tag 244) - eight, four
-- `b2ch29:674` (Tag 244) - one
-- `b2ch29:900` (Tag 245) - one, twenty
-- `b2ch29:918` (Tag 245) - eleven, one, thirty, three
-- `b2ch29:932` (Tag 245) - one
+- `b2ch29:136` (Tag 243) - one
+- `b2ch29:240` (Tag 244) - fourteen, thirty, twenty
+- `b2ch29:288` (Tag 244) - six
+- `b2ch29:374` (Tag 244) - four, three
+- `b2ch29:406` (Tag 244) - two
+- `b2ch29:464` (Tag 244) - eleven
+- `b2ch29:598` (Tag 244) - eight, four
+- `b2ch29:656` (Tag 244) - one
+- `b2ch29:882` (Tag 245) - one, twenty
+- `b2ch29:900` (Tag 245) - eleven, one, thirty, three
+- `b2ch29:914` (Tag 245) - one
 - `b2ch30:6` (Tag 249) - three
 - `b2ch30:24` (Tag 249) - one
 - `b2ch30:30` (Tag 249) - four, two
@@ -17069,18 +17070,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 236 | b2ch25:210 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
 | 236 | b2ch25:256 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
 | 236 | b2ch25:382 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
-| 243 | b2ch29:164 | "There is also Sang-hoon's four," she said. "He gave you a task in a shed last week and .. |
-| 244 | b2ch29:278 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
-| 244 | b2ch29:368 | "You are not to tell Sang-hoon that any of this has gone further than it had in the shed.. |
-| 244 | b2ch29:424 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
-| 245 | b2ch29:716 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
-| 245 | b2ch29:724 | "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-h.. |
-| 245 | b2ch29:734 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
-| 245 | b2ch29:756 | Sang-hoon made a sound that was almost a laugh and was not one. |
-| 245 | b2ch29:766 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
-| 245 | b2ch29:772 | Sang-hoon did not answer straight away, and the car noise on the line changed, which mea.. |
-| 245 | b2ch29:790 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
-| 245 | b2ch29:892 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
+| 243 | b2ch29:148 | "There is also Sang-hoon's four," she said. "He gave you a task in a shed last week and .. |
+| 244 | b2ch29:260 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
+| 244 | b2ch29:350 | "You are not to tell Sang-hoon that any of this has gone further than it had in the shed.. |
+| 244 | b2ch29:406 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
+| 245 | b2ch29:698 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
+| 245 | b2ch29:706 | "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-h.. |
+| 245 | b2ch29:716 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
+| 245 | b2ch29:738 | Sang-hoon made a sound that was almost a laugh and was not one. |
+| 245 | b2ch29:748 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
+| 245 | b2ch29:754 | Sang-hoon did not answer straight away, and the car noise on the line changed, which mea.. |
+| 245 | b2ch29:772 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
+| 245 | b2ch29:874 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
 | 249 | b2ch30:60 | Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his o.. |
 | 249 | b2ch30:62 | "You are on time," said Sang-hoon. He had a bowl in front of him that he had not touched.. |
 | 249 | b2ch30:80 | Sang-hoon did not move. |
@@ -17297,13 +17298,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch25:148` (Tag 236) - four
 - `b2ch25:210` (Tag 236) - four
 - `b2ch25:382` (Tag 236) - sixty-eight
-- `b2ch29:164` (Tag 243) - four
-- `b2ch29:278` (Tag 244) - eight, four
-- `b2ch29:424` (Tag 244) - two
-- `b2ch29:716` (Tag 245) - eight, nine, ten
-- `b2ch29:724` (Tag 245) - nine
-- `b2ch29:756` (Tag 245) - one
-- `b2ch29:892` (Tag 245) - eight
+- `b2ch29:148` (Tag 243) - four
+- `b2ch29:260` (Tag 244) - eight, four
+- `b2ch29:406` (Tag 244) - two
+- `b2ch29:698` (Tag 245) - eight, nine, ten
+- `b2ch29:706` (Tag 245) - nine
+- `b2ch29:738` (Tag 245) - one
+- `b2ch29:874` (Tag 245) - eight
 - `b2ch30:120` (Tag 249) - eleven
 - `b2ch30:126` (Tag 249) - four, two
 - `b2ch30:134` (Tag 249) - one
@@ -18087,18 +18088,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 193 | b2ch14:140 | And Jang found the way into every one of them, in four pages, without being asked for it. |
 | 209 | b2ch19:330 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
 | 224 | b2ch23:66 | Jang saw him do it and did not say anything about it. |
-| 243 | b2ch29:186 | "Go and have your coffee before it is cold," said Annie, "and send Jang up to me on your.. |
-| 243 | b2ch29:194 | Jang was in the kitchen doorway with a cup he had not started on, which is a thing Jang .. |
-| 243 | b2ch29:204 | Jang put the cup down without drinking from it. |
-| 243 | b2ch29:212 | Jang looked at him for a moment the way a man looks at a colleague he has decided not to.. |
-| 244 | b2ch29:354 | "Nobody goes near either address today," she said. "Not you, not Jang, not anybody. Ever.. |
-| 245 | b2ch29:844 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
-| 245 | b2ch29:852 | Jang stood with his hands in his coat pockets and did not take them out. |
-| 245 | b2ch29:868 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
-| 245 | b2ch29:874 | "I am asking whether the person you got it from is the sort who wastes four days, or the.. |
-| 245 | b2ch29:884 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
-| 245 | b2ch29:904 | "Jang asked me a question I have been sitting with." |
-| 245 | b2ch29:924 | "That answers Jang's question," he said. |
+| 243 | b2ch29:170 | "Go and have your coffee before it is cold," said Annie, "and send Jang up to me on your.. |
+| 243 | b2ch29:178 | Jang was in the kitchen doorway with a cup he had not started on, which is a thing Jang .. |
+| 243 | b2ch29:188 | Jang put the cup down without drinking from it. |
+| 243 | b2ch29:196 | "Coffee's on the stove," said Jang, in the way a man does when he has decided not to ask.. |
+| 244 | b2ch29:336 | "Nobody goes near either address today," she said. "Not you, not Jang, not anybody. Ever.. |
+| 245 | b2ch29:826 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
+| 245 | b2ch29:834 | Jang stood with his hands in his coat pockets and did not take them out. |
+| 245 | b2ch29:850 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
+| 245 | b2ch29:856 | "I am asking whether the person you got it from is the sort who wastes four days, or the.. |
+| 245 | b2ch29:866 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
+| 245 | b2ch29:886 | "Jang asked me a question I have been sitting with." |
+| 245 | b2ch29:906 | "That answers Jang's question," he said. |
 | 261 | b2ch33:6 | Jang asked for the whole morning, and Annie gave it to him, which is not a thing she doe.. |
 | 261 | b2ch33:10 | They sat in the room off the library, the three of them, and Jang put a folded map on th.. |
 | 261 | b2ch33:16 | "Sixteen days of a road." Jang unfolded the map and put one finger on a bend a kilometre.. |
@@ -18207,7 +18208,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch13:42` (Tag 188) - six
 - `b2ch14:140` (Tag 193) - four, one
 - `b2ch19:330` (Tag 209) - four, one
-- `b2ch29:874` (Tag 245) - four, one
+- `b2ch29:856` (Tag 245) - four, one
 - `b2ch33:10` (Tag 261) - three
 - `b2ch33:16` (Tag 261) - one, sixteen
 - `b2ch33:28` (Tag 261) - sixteen
@@ -18323,9 +18324,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 224 | b2ch23:94 | At twenty to three on the Tuesday afternoon the telephone in the small room rang, which .. |
 | 224 | b2ch23:106 | "He gave a name and a company and both of them are real, because I asked him to spell th.. |
 | 224 | b2ch23:246 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
-| 244 | b2ch29:404 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
-| 244 | b2ch29:410 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
-| 245 | b2ch29:798 | Mrs Seo passed with a tray and did not stop. |
+| 244 | b2ch29:386 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
+| 244 | b2ch29:392 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
+| 245 | b2ch29:780 | Mrs Seo passed with a tray and did not stop. |
 | 255 | b2ch31:198 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
 | 255 | b2ch31:208 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
 | 279 | b2ch36:164 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
@@ -18548,8 +18549,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 242 | b2ch28:262 | "Mr Hwang asked me for something and I did not answer him," said Georgij. "I want to giv.. |
 | 243 | b2ch29:10 | Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied p.. |
 | 243 | b2ch29:68 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
-| 243 | b2ch29:150 | "And the page from Mrs Jeon. The one for Hwang." |
-| 244 | b2ch29:384 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 243 | b2ch29:138 | "And the page from Mrs Jeon. The one for Hwang." |
+| 244 | b2ch29:366 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
 | 255 | b2ch31:216 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
 | 255 | b2ch31:264 | "You are not going to give this to Hwang," she said. It was not a question. |
 | 255 | b2ch31:340 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
@@ -18645,8 +18646,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:510` (Tag 238) - six hundred and forty
 - `b2ch28:262` (Tag 242) - five
 - `b2ch29:10` (Tag 243) - two
-- `b2ch29:150` (Tag 243) - one
-- `b2ch29:384` (Tag 244) - one
+- `b2ch29:138` (Tag 243) - one
+- `b2ch29:366` (Tag 244) - one
 - `b2ch31:340` (Tag 255) - six, three
 - `b2ch35:436` (Tag 273) - seven, six, three
 - `b2ch35:444` (Tag 273) - one, six
@@ -18931,9 +18932,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 242 | b2ch28:272 | Mrs Jeon did not answer for a while. |
 | 242 | b2ch28:300 | "Tell her that I read all four pages of the terms and that the third one is generous in .. |
 | 243 | b2ch29:68 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
-| 243 | b2ch29:150 | "And the page from Mrs Jeon. The one for Hwang." |
-| 244 | b2ch29:356 | "Mrs Jeon." |
-| 244 | b2ch29:384 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 243 | b2ch29:138 | "And the page from Mrs Jeon. The one for Hwang." |
+| 244 | b2ch29:338 | "Mrs Jeon." |
+| 244 | b2ch29:366 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
 | 249 | b2ch30:42 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
 | 249 | b2ch30:50 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 255 | b2ch31:228 | *Jeon Mi-ja* |
@@ -18996,8 +18997,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch28:188` (Tag 242) - three
 - `b2ch28:208` (Tag 242) - six
 - `b2ch28:300` (Tag 242) - four, one
-- `b2ch29:150` (Tag 243) - one
-- `b2ch29:384` (Tag 244) - one
+- `b2ch29:138` (Tag 243) - one
+- `b2ch29:366` (Tag 244) - one
 - `b2ch30:50` (Tag 249) - eight, eleven, one
 - `b2ch34:218` (Tag 263) - eleven, forty, one
 - `b2ch35:240` (Tag 270) - one, twenty-three
@@ -19370,7 +19371,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 230 | b2ch24:184 | "He said he was glad we had met," said Mr Yeom. |
 | 230 | b2ch24:198 | At the door Mr Yeom shook his hand and did not make anything of it. |
 | 230 | b2ch24:246 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
-| 244 | b2ch29:298 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
+| 244 | b2ch29:280 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
 | 263 | b2ch34:126 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
 | 305 | b2ch44:6 | On the seventeenth of June he had written down that Mr Yeom would be told. Not that week.. |
 | 305 | b2ch44:14 | And the thing that had made the whole of it impossible in June has gone, because there i.. |
@@ -19415,7 +19416,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:158` (Tag 230) - four
 - `b2ch24:182` (Tag 230) - twenty
 - `b2ch24:246` (Tag 230) - ten, three
-- `b2ch29:298` (Tag 244) - thirty
+- `b2ch29:280` (Tag 244) - thirty
 - `b2ch34:126` (Tag 263) - four
 - `b2ch44:14` (Tag 305) - four
 - `b2ch44:132` (Tag 305) - three
@@ -19442,8 +19443,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 236 | b2ch25:160 | Woo. Sunwoo. Choi Dae-ho. |
 | 236 | b2ch25:242 | "Choi Dae-ho," he said. |
 | 243 | b2ch29:38 | "That he is not Choi Dae-ho. He is the one Choi Dae-ho tells to make the calls," said Ge.. |
-| 244 | b2ch29:260 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
-| 244 | b2ch29:290 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
+| 244 | b2ch29:242 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
+| 244 | b2ch29:272 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
 | 249 | b2ch30:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
 | 249 | b2ch30:46 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
 | 249 | b2ch30:96 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
@@ -19494,7 +19495,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch03:40` (Tag 155) - eight hundred, four hundred and thirty
 - `b2ch25:152` (Tag 236) - fifty-nine
 - `b2ch29:38` (Tag 243) - one
-- `b2ch29:260` (Tag 244) - four, one, six, two
+- `b2ch29:242` (Tag 244) - four, one, six, two
 - `b2ch30:12` (Tag 249) - four, one
 - `b2ch30:46` (Tag 249) - eleven, four, one, thirty
 - `b2ch30:96` (Tag 249) - three
@@ -19548,7 +19549,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 230 | b2ch24:184 | "He said he was glad we had met," said Mr Yeom. |
 | 230 | b2ch24:198 | At the door Mr Yeom shook his hand and did not make anything of it. |
 | 230 | b2ch24:246 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
-| 244 | b2ch29:298 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
+| 244 | b2ch29:280 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
 | 263 | b2ch34:126 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
 | 305 | b2ch44:6 | On the seventeenth of June he had written down that Mr Yeom would be told. Not that week.. |
 | 305 | b2ch44:14 | And the thing that had made the whole of it impossible in June has gone, because there i.. |
@@ -19589,7 +19590,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:158` (Tag 230) - four
 - `b2ch24:182` (Tag 230) - twenty
 - `b2ch24:246` (Tag 230) - ten, three
-- `b2ch29:298` (Tag 244) - thirty
+- `b2ch29:280` (Tag 244) - thirty
 - `b2ch34:126` (Tag 263) - four
 - `b2ch44:14` (Tag 305) - four
 - `b2ch44:132` (Tag 305) - three
@@ -20507,8 +20508,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 239 | b2ch27:264 | "We had never had an order from him," said Mrs Gwak. "Not once, and I looked, because I .. |
 | 239 | b2ch27:278 | Mrs Gwak took the book to the machine at the end of the counter and did it herself, and .. |
 | 239 | b2ch27:296 | Mrs Gwak stood behind her counter with the till roll in her hand. |
-| 244 | b2ch29:298 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
-| 244 | b2ch29:358 | "Starts at a firm with my name attached to the deed in eleven days, and I am going to mo.. |
+| 244 | b2ch29:280 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
+| 244 | b2ch29:340 | "Starts at a firm with my name attached to the deed in eleven days, and I am going to mo.. |
 | 249 | b2ch30:50 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 249 | b2ch30:312 | *Mrs Gwak, since the thirtieth of May, and the girl who was filling buckets at the back .. |
 | 461 | b2ch70:86 | Mrs Gwak was doing the till roll and looked up and knew him, which he had not been sure .. |
@@ -20522,8 +20523,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch27:220` (Tag 239) - one
 - `b2ch27:232` (Tag 239) - eighteen
 - `b2ch27:264` (Tag 239) - three
-- `b2ch29:298` (Tag 244) - thirty
-- `b2ch29:358` (Tag 244) - eleven
+- `b2ch29:280` (Tag 244) - thirty
+- `b2ch29:340` (Tag 244) - eleven
 - `b2ch30:50` (Tag 249) - eight, eleven, one
 - `b2ch70:104` (Tag 461) - two
 - `b2ch70:146` (Tag 461) - four, three, twelve
