@@ -161,46 +161,603 @@ Yeom; eine Notizbuchseite, die Leute auffuehrte, die Georgij noch nicht kannte.
 
 ---
 
-## Der Zielpunkt von Band 2
+# DIE CHOI-SAGA
 
-*Festgelegt vom Autor am 25.08. Alles, was ab hier geschrieben wird, laeuft
-hierauf zu. Wer ein Kapitel plant, stellt eine einzige Probe: **bringt es Choi
-einen Anruf naeher an niemanden?***
+**Zusammengefuehrt am 27.08. aus sechs verstreuten Abschnitten und ergaenzt um
+die Entscheidungen des Autors vom selben Tag.** Vorher stand das hier in Teilen,
+die einander nicht kannten, und deshalb ist nichts davon geschrieben worden.
+
+**Lies das als eine Sache.** Wer einen Teil daraus umsetzt, ohne die anderen zu
+kennen, baut wieder das, was am 27.08. verworfen wurde: ein Ende, in dem Choi
+nachgibt, weil man ihn gefunden hat.
+
+**Kapitelnummern in diesem Abschnitt sind Adressen und keine Struktur.** Ab der
+Choi-Saga wird umgeschrieben, gestrichen, zusammengelegt und getrennt, wie es
+das Ende braucht. Wenn hier *Kapitel 78* steht, heisst das *das bisherige
+Kapitel 78*.
 
 ---
 
-### Zuerst: das Ziel war defensiv, und das war die Krankheit
+## 1. Das Ziel
 
-Hier stand bis zum 25.08. als Ziel von Band 2: **"Dass die Zeile nicht gegen sie
-verwendbar ist."** Das ist eine **Gefahr** und kein Ziel, und `doc/01-craft.md`
-Abschnitt 2i sagt seit Kapitel 11 woertlich, was daraus folgt:
+*Festgelegt vom Autor am 25.08.* Wer ein Kapitel plant, stellt eine einzige
+Probe: **bringt es Choi einen Anruf naeher an niemanden?**
+
+**Choi Dae-ho hat am Ende nichts.** Keine Verbindungen, keine Macht, kein Geld.
+**Niemand geht an sein Telefon. Niemand isst mit ihm.**
+
+Das ist kein Rachesatz, sondern die praezise Umkehrung dessen, was diesen Gegner
+ausmacht. `doc/03-cast.md`: *"Er sitzt in nichts, steht auf keinem Aufsichtsrat,
+ist in keinem Geschaeftsbericht zu finden - er gibt Abendessen."* **Er hat keine
+Aktiva, die man beschlagnahmen koennte. Er ist ein Netz.**
+
+**Und die Symmetrie traegt den ganzen Band:** Georgij besitzt nichts und
+ueberlebt es. Choi besitzt nichts und ist genau deshalb vollstaendig zerstoerbar.
+
+### Warum das Ziel einmal falsch war, und was das gekostet hat
+
+Bis zum 25.08. stand als Ziel: *"Dass die Zeile nicht gegen sie verwendbar ist."*
+Das ist eine **Gefahr** und kein Ziel, und `doc/01-craft.md` 2i sagt seit
+Kapitel 11 woertlich, was daraus folgt:
 
 > "Er hat auf eine **Gefahr** hingearbeitet und nicht auf ein **Ziel**. Ein Ziel
 > ist ein Zustand, den man **herstellt**. **Defensive Ziele erzeugen exakt diesen
 > Bogen, jedes Mal, unvermeidlich.**"
 
-Die Regel stand da, das Ziel wurde nie geaendert, und zwanzig Kapitel Duerre
-sind die vorhergesagte Folge. **Nachgezaehlt am 25.08.:** Kapitel 26 bis 45 sind
-eine einzige Ermittlung, 43.000 Woerter; ab Kapitel 35 stehen elf Kapitel lang
-nur drei Menschen im Buch; Georgij laechelt in 46 Kapiteln **kein einziges Mal**
-(Band 1: 49 Treffer in 21 von 34 Kapiteln) und benutzt seine erste handfeste
-Faehigkeit, die Maschine, **kein einziges Mal** (Band 1: in 14 Kapiteldateien).
+**Die Folge, nachgezaehlt:** Kapitel 26 bis 45 sind eine einzige Ermittlung,
+43.000 Woerter. Ab Kapitel 35 stehen elf Kapitel lang nur drei Menschen im Buch.
+Georgij laechelt in 46 Kapiteln **kein einziges Mal** (Band 1: 49 Treffer in 21
+von 34) und benutzt die Maschine, seine erste handfeste Faehigkeit, **kein
+einziges Mal** (Band 1: in 14 Kapiteldateien).
 
-### Das Ziel, neu
-
-**Choi Dae-ho hat am Ende nichts.** Keine Verbindungen, keine Macht, kein Geld.
-**Niemand geht an sein Telefon. Niemand isst mit ihm.**
-
-Das ist kein Rachesatz, sondern die praezise Umkehrung dessen, was diesen
-Gegner ausmacht. `doc/03-cast.md`: *"Er sitzt in nichts, steht auf keinem
-Aufsichtsrat, ist in keinem Geschaeftsbericht zu finden - er gibt Abendessen."*
-**Er hat keine Aktiva, die man beschlagnahmen koennte. Er ist ein Netz.**
-
-**Und die Symmetrie traegt den ganzen Band:** Georgij besitzt nichts und
-ueberlebt es. Choi besitzt nichts und ist genau deshalb vollstaendig
-zerstoerbar.
+**Das Urteil des Autors am 27.08. ueber den Endteil, wie er dasteht:** Choi ist
+nicht nur am Ende schwach, sondern durchgehend passiv. Es gibt keine Tricks,
+keine Manipulationen, kein Duell. *"Wir haben Choi gefunden, also ist er
+erledigt."* Man haette nach der Informationsbeschaffung das Angebot machen
+koennen und waere bei Kapitel 70 fertig gewesen.
 
 ---
+
+## 2. Was tatsaechlich passiert ist: das Zimmer, und was danach kam
+
+**Entschieden am 25.08., verschaerft am 27.08. Das ist Kanon.**
+
+Der Text hat die Teile seit Monaten und hat sie nie nebeneinandergelegt:
+
+- **Kapitel 27:** Annie war **vierzehn**. *"He was at my father's table before I
+  was allowed at it, and he was doing then what he does now, and I was the only
+  person in that house who ever noticed that he did not eat."*
+- **Kapitel 36:** *"A room, a wedding that did not happen, and a man who left the
+  country for four years afterward ... he came back changed enough that two
+  people used the word unrecognisable."* Vor **elf** Jahren. Zwei Zeugen brechen
+  beim zweiten Nachfragen ab.
+- **Kapitel 42:** Der Trust wurde vor **elf** Jahren gegruendet.
+- **Kapitel 32:** *"Somebody in a practice was given a lot number and told that
+  it was the patient, and wrote it in the box where the name goes, and sent the
+  bill to the auction house."* Juli vor vier Jahren.
+- **Kapitel 44:** Sauerstoff an derselben Adresse, angemeldet in genau diesem
+  Juli, nie storniert.
+- **Kapitel 87:** Die Adresse der stehenden Anweisung wurde **genau einmal**
+  geaendert, im Februar vor vier Jahren - **derselbe Monat, in dem Ahn Jung-hee
+  in das Haus kam.** *"Somebody put them under one roof to save on a heating
+  bill."*
+
+**Woraus folgt, und es biegt keine einzige Zahl:**
+
+1. **Moon Hae-sook ist nicht die Frau, die er verloren hat. Sie ist die Einzige,
+   die je nein gesagt hat.** In dem Zimmer hat sie ihm gesagt, was er ist. Er hat
+   es nicht bestritten. Die Hochzeit fiel aus, er ging vier Jahre weg.
+2. **Das Zimmer ist die Stelle, an der Choi aufgehoert hat zu existieren.**
+   Davor war er sichtbar. Danach ist er die Fassung, die wir kennen.
+3. **Er haelt sie nicht aus Liebe. Er haelt sie, weil er nicht verliert.** Eine
+   tote Frau ist ein abgeschlossenes Konto. **Das Wort Liebe faellt im ganzen
+   Buch nicht.**
+4. **Die Krankheit ist nicht die Ursache, sondern das Mittel.** Eine Frau, die
+   gehen kann, ist ein Problem. Eine Frau am Sauerstoff nicht.
+
+### Und die vierte Zeile: wofuer Ahn Jung-hee gekauft wurde
+
+**Festgelegt vom Autor am 27.08. Das Buch war bis dahin nicht dunkel genug.**
+
+**Ahn Jung-hee war das Ersatzteillager.** Mindestens Blut, und mehr muss es nicht
+sein - Blut ist wiederholbar, und wiederholbar heisst, dass man den Menschen
+lebend braucht. **Das erklaert alles, was sonst unerklaerlich ist:**
+
+- Warum vor vier Jahren ein **Mensch gekauft** wurde, wo eine Pflegerin billiger
+  gewesen waere. *Man kauft einen Menschen, wenn der Koerper der Punkt ist und
+  kein Papier entstehen darf.*
+- Warum sie im **selben Monat** in dasselbe Haus kam, in dem der Sauerstoff
+  angemeldet wurde.
+- Warum sie vier Jahre lang **am Leben gehalten** wurde, obwohl sie nichts tat,
+  was ein Haus braucht.
+- Warum der Arzt im Juli laut Kapitel 32 **das Los behandelte und nicht die
+  Frau**.
+
+**Und der Satz, der das Schlimmste ist, was im Dokument steht:** sie ist
+trotzdem die, die taeglich nach dem Tank sieht. **Sie haelt die Frau am Leben,
+fuer die sie ausgenommen wird.** Ein Dienstplan schaut nicht auf einen Tank; ein
+Mensch, der dort wohnt und Angst hat, schon.
+
+**Die These des Buches, und sie faellt genau einmal:** Ein Katalog von Menschen
+ist ein Katalog von Teilen. Jemand hat ihn nach einer Blutgruppe durchsucht.
+**Georgij steht darin. Lot fourteen.** Der einzige Grund, warum er unversehrt
+ist, ist, dass niemand seinen Typ gebraucht hat.
+
+### Wie das in den Text kommt, und nur so
+
+**Es gibt davon keine Szene. Nie.** Kein Operationsraum, kein Gestaendnis, keine
+Erklaerung durch einen Boesewicht. Es kommt so, wie in diesem Buch alles kommt -
+eine Losnummer in einem Namensfeld, eine Brandschutzmeldung, ein Gaskonto, **eine
+Kreuzprobe in einem Laborbuch.** Der Leser setzt es selbst zusammen, und deshalb
+wird ihm schlecht.
+
+**Das einzige Dokument, das noch fehlt, ist die Kreuzprobe:** zwei Blutgruppen
+nebeneinander, eine mit Namen, eine mit einer Losnummer. Kein Satz, der es
+ausspricht. **Es muss nach der Abholung liegen und vor dem Abend.**
+
+**Ob Moon Hae-sook es erfaehrt, wird nicht aufgeloest.** Georgij weiss es, der
+Leser weiss es, und niemand sagt es. **Beide Frauen finden sich am Ende im Haus
+ein.**
+
+---
+
+## 3. Die beiden Frauen sind kein Requisit, und so bleibt es
+
+**Der Fehler, der hier droht:** eine Frau, deren einzige Funktion Chois wunder
+Punkt ist, ist ein Gegenstand, um den zwei Maenner streiten. Bindend dagegen:
+
+- Moon Hae-sook ist **die einzige lebende Zeugin** fuer dreiundzwanzig Jahre
+  Choi, und sie ist es, weil sie ihn als Einzige benannt hat.
+- Sie ist **wach vor sechs** und steht zu einer festen Stunde am Fenster
+  (Kapitel 40). Sie ist nicht bewusstlos. **Sie wartet.**
+- **Sie entscheidet am Ende selbst.** Georgij rettet sie nicht.
+- **Ahn Jung-hee ist keine Nebenfigur des Falls.** Ihr erster freier Satz nach
+  vier Jahren ist eine Erledigung ueber jemand anderen (*"The kettle is on the
+  second shelf"*), sie bittet selbst darum, bei der Abholung dabei zu sein, und
+  sie sagt im Hof, dass Moon Hae-sook keine Hilfe wollen wuerde. **Wer weiss,
+  wofuer sie vier Jahre da war, liest beide Stellen ein zweites Mal.**
+
+**Und genau dann verliert Choi zum ersten Mal in seinem Leben** - nicht weil sie
+stirbt, sondern weil sie lebt und es nichts mehr mit ihm zu tun hat. Das Konto
+schliesst sich, und er hat es nicht geschlossen.
+
+**Annies Motiv ist nicht Mitleid** (sie tut nichts aus Mitleid, Kapitel 30). Sie
+holt niemanden heraus, **sie schliesst ein Konto**, das ein Mann elf Jahre offen
+gehalten hat, und sie ist die Einzige im Land, die weiss, was das kostet, weil
+sie es einmal getan hat und das Ergebnis neben ihr steht.
+
+---
+
+## 4. Der Feldzug: sechs Wege und eine Reihenfolge
+
+**Die Frau ist der Todesstoss und nicht der Feldzug.** Was ihn tatsaechlich
+zerlegt, sind sechs Zugriffe, und alle sechs liegen bereits im Text.
+
+**Der Hebel, der alle verbindet:** Choi ist nur so lange maechtig, wie er nie
+irgendwo sein muss. Nimm ihm die Muender, und er muss selbst anrufen. **Wer
+selbst anruft, hinterlaesst eine Spur, und wer eine Spur hinterlaesst, ist
+gewoehnlich.**
+
+**1. Das Geld: der Trust und Baek Jun-ho.** Das einzige Ding auf der Welt, das in
+seinem Namen zahlt. Baek ist der weichste Punkt, weil er als Einziger etwas zu
+verlieren hat, das ihm gehoert: eine Zulassung. Choi hat keine. **Der Zug ist
+nicht Erpressung, sondern die Form von Mrs Jeon:** man zeigt einem Mann, der elf
+Jahre Rechnungen abgezeichnet hat, die eine Rechnung mit einer Losnummer im
+Namensfeld - und dann entscheidet er selbst.
+
+**2. Die Haende: Sim und die Mittelsmaenner.** Sim bestellt die Blumen. Der
+Begleiter, der gegessen hat, sitzt am Tisch. Der April-Aufraeumer prueft die
+Kuechen. Choi selbst erscheint nirgends. Jeder kann aufhoeren, fuer ihn zu
+arbeiten. **Wenn die Muender weg sind, muss er selbst reden. Das ist der
+eigentliche Angriff und er kostet kein Geld.**
+
+**3. Der Tisch: die dreiundzwanzig Jahre.** *Der Hauptangriff.* Sang-hoon sagt in
+Kapitel 26, was jeder an diesem Tisch erlebt hat: *"I have made four decisions at
+those dinners that I have never been able to account for afterwards, and I put
+every one of them down to being tired."* Annie hat einunddreissig Namen und es
+waren mehr. **Kein Vorwurf - Choi hat nie einen Auftrag erteilt und ist deshalb
+nie widerlegbar.** Man braucht keine Anklage, man braucht, dass ein Mensch
+begreift, dass er benutzt wurde. **Ein Mann, der das begriffen hat, geht beim
+naechsten Mal nicht ran.**
+
+**4. Das Vehikel: Hongkong und Singapur.** Direktor einer Private-Equity-Firma
+ueber eine Anwaltskette, und **er hat nie in seinem Leben investiert**
+(Kapitel 26). Eine Direktorenstellung ist eine oeffentliche Eintragung, ein Fonds
+hat Anleger, und Anleger interessieren sich sehr dafuer, wer ihr Direktor ist.
+
+**5. Das Haus: die Losnummer kommt zu Akte.** Ein Mann, der stolz auf seine
+Aktenfuehrung ist, kann dazu gebracht werden, etwas zu Akte zu nehmen. Ihm wird
+die Arztrechnung gezeigt, in der **sein eigenes Haus einen Menschen als Patient
+gefuehrt hat, unter einer Losnummer.**
+
+**6. Die Staatsanwaltschaft: warum er frueh ging.** *"Former prosecutor, out
+early and nobody says why."* **Das ist Woos Feld** (einundfuenfzig Jahre, kennt
+jeden) **und Mrs Sunwoos** (einundvierzig Jahre, weiss, wer in dem Haus kauft).
+Beide liegen seit Monaten brach.
+
+### Die Reihenfolge, und sie ist erzwungen
+
+**Das Geld kommt spaet, nicht zuerst.** Wer den Trust trockenlegt, bevor die Frau
+in Sicherheit ist, sorgt dafuer, dass Choi sie verlegt - oder dass in einem Haus
+in Gangwon-do der Sauerstoff ausbleibt.
+
+| | Zug | Warum an dieser Stelle |
+|---|---|---|
+| 1 | **Die Haende** | Kostet nichts, macht ihn sichtbar, und er kann nicht reagieren, ohne sich zu zeigen |
+| 2 | **Der Tisch**, einer nach dem anderen | Der laute Teil. Ab hier laeuft die Uhr gegen ihn |
+| 3 | **Das Vehikel** und **das Haus** | Nimmt Einkommen und Stand, und legt zu Akte, was er getan hat |
+| 4 | **Das Geld** (Baek, der Trust) | **Erst wenn Annie bereitsteht.** Vorher waere es ein Mord auf Umwegen |
+| 5 | **Das Zimmer** | Sie entscheidet selbst |
+| 6 | **Der Abend** | Siehe 6. |
+
+**Und die Vice, die alles zusammenhaelt:** Jeder Zug ist ein Mensch, dem etwas
+gesagt wurde, und jeder Mensch kann es weitererzaehlen. **Choi schlaegt nicht
+zurueck - er verschwindet korrekt**, und dann ist die Spur fuer immer zu. Der
+April-Aufraeumer aus Kapitel 39 ist der Beweis, dass er es kann. **Tempo gegen
+Laerm, und die Uhr der Frau laeuft mit.**
+
+---
+
+## 5. Chois zwei Zuege, und beide scheitern
+
+**Festgelegt am 27.08. Das ist die Antwort auf den Vorwurf, er sei passiv.** Er
+handelt - zweimal, korrekt, und beide Male ins Leere. **Er schlaegt nicht
+zurueck, er raeumt auf**, und genau das misslingt ihm zum ersten Mal in
+dreiundzwanzig Jahren.
+
+**Erstens: er versucht, die Frau zu verlegen.** Er greift zum Telefon, und der
+Mann, der das seit vier Jahren erledigt, geht nicht ran. Nicht aus Widerstand -
+er hat einen besseren Auftrag, oder er ist inzwischen woanders angestellt, oder
+er hat schlicht begriffen. **Choi merkt hier zum ersten Mal, dass etwas nicht
+mehr funktioniert**, und weil er nie selbst erscheint, kann er nicht einmal
+nachsehen, warum.
+
+**Zweitens: er versucht ein Zweites, und die Muender folgen nicht.** Er ruft Sim
+an, und der Mann, der elf Jahre lang seine Stimme war, sagt ihm etwas sehr
+Hoefliches und tut nichts. *Ich habe gerade anderes zu tun, ruf mich doch gerne
+spaeter an.* **Sim ist kein Ausweg fuer Choi. Er hat ihn laengst verraten.**
+
+**Die Haende werden nicht einzeln benannt.** Es gibt keine Szene, in der jemand
+umgedreht wird. Man sieht nur, dass niemand mehr rangeht.
+
+**Beides passiert vor der Einladung.** Er weiss also, dass etwas laeuft - er
+weiss nur nicht, was, und er hat niemanden mehr, den er fragen kann.
+
+---
+
+## 6. Der Abend
+
+**Festgelegt vom Autor am 27.08. Das ist der Endschlag und nicht die Vorbereitung
+darauf.**
+
+**Annie gibt ein Abendessen.** Choi gibt Abendessen, seit dreiundzwanzig Jahren,
+und das ist seine ganze Form. Sie dreht sie um.
+
+**Die Gaesteliste sind die einunddreissig Namen und die, die dazugekommen sind.**
+Sang-hoon. Yeom. Woo. Mrs Sunwoo. Hwang. Kwon. Mrs Jeon, wenn sie will.
+
+**Niemand sagt an diesem Abend ein Wort ueber Choi Dae-ho. Das ist der Punkt.**
+Seine Methode ist, dass keiner der Dreissig weiss, dass es die anderen gibt.
+Jeder haelt seine unerklaerlichen Entscheidungen fuer eigenes Versagen -
+Sang-hoon: *"I put every one of them down to being tired."* **Sobald diese Leute
+einander im selben Raum sehen, rechnet jeder es in vier Minuten selbst
+zusammen.** Es braucht keine Anklage und damit keine unwahre Silbe.
+
+**Das ist Georgijs Verfahren zum ersten Mal offensiv:** er legt nebeneinander,
+was nebeneinander gehoert, und die Leute erledigen den Rest. Dasselbe wie in
+Band 1 mit neunzehn wahren Seiten, nur mit Menschen statt Papier.
+
+### Warum Choi hingeht
+
+**Weil Nichtgehen dieselbe Antwort ist.** Die Einladung ist hoeflich und nennt
+keinen Anlass. Sagt er ab, wissen dreissig Leute, dass er abgesagt hat, und sie
+sitzen ohne ihn zusammen. **Er kann den Abend nicht verhindern. Er kann nur
+waehlen, ob er ihn sieht.**
+
+**Und weil er es nicht glauben kann.** Seit dreiundzwanzig Jahren hat ihn niemand
+angegriffen. Er kann Raeume lesen - das ist seine einzige Faehigkeit, und sie hat
+ihn nie im Stich gelassen. **Das ist seine einzige Eitelkeit, und sie ist die,
+die ihn holt.**
+
+### Wie der Abend laeuft
+
+**Niemand schneidet ihn. Das waere plump und wuerde ihm einen Feind geben.** Sie
+sind hoeflich. Sie gruessen, sie nicken, und dann drehen sie sich zu jemand
+anderem. **Kein Einziger ist unfreundlich, und genau deshalb kann er nichts
+dagegen tun.**
+
+**Auch Sang-hoon spricht nicht mit ihm.** Ein Gespraech waere der Beweis, dass
+man mit ihm spricht. Acht Jahre an diesem Tisch, und zwei hoefliche Saetze ueber
+das Wetter waeren mehr, als er bekommt.
+
+**Er erkennt die Gaesteliste in etwa vier Minuten** - er ist der Einzige im Raum,
+der sie vollstaendig lesen kann. Und dann sieht er, dass sie einander auch sehen.
+
+**Annie spricht ihn nicht an.** Sie ist ueberall hoeflich und kommt nicht zu ihm.
+Das ist ihre ganze Beteiligung, und sie ist vernichtend.
+
+**Und dann bringt Mrs Seo ihn an seinen Platz, und der Platz ist eine Tuer.** Er
+wird nicht geschnitten und nicht gestellt, er wird **gefuehrt** - von der Frau,
+die dieses Haus seit neun Jahren fuehrt und noch nie eine Frage beantwortet hat,
+die sie nicht beantworten wollte. Sie sagt nichts Unhoefliches. Sie bringt ihn
+dorthin, wo er hingehoert, und das ist nicht der Tisch.
+
+---
+
+## 7. Das Endgespraech
+
+**Im Nebenraum ist nur Georgij. Annie ist nicht dabei** (Kapitel 62: sie erfaehrt
+es hinterher).
+
+**Was dort nicht passiert:** keine Anklage, keine Rechnung, keine Erklaerung.
+Choi weiss alles, was Georgij ihm sagen koennte.
+
+**Das Geruest, vom Autor am 27.08. geliefert. Es ist ein Geruest und kein Text:**
+
+> "You have read Curtain," said Georgij. "I take it you admired Mr X. I did as
+> well."
+>
+> Choi did not answer that, and the not-answering was itself an answer.
+>
+> "I have thought about ending this the way it ends in that book," said Georgij.
+> "A man decides he cannot be stopped by anything that has a name, so he stops
+> being stopped by law and does it himself. I understand the appeal. I do not
+> share the difficulty he had with it afterward. **Killing you would cost me
+> nothing I would notice.**"
+>
+> "Then why have you not."
+>
+> "Because it would be one-sided," said Georgij. "You have spent
+> **twenty-three years** arranging things so that other people carry the weight
+> and you carry none of it. A killing is quick, and it is private, and it would
+> let you finish exactly the way you have lived, which is without ever once
+> finding out what it costs to be found out. **I am not going to hand you that.**"
+>
+> "Say what you are going to do instead."
+>
+> "**Nothing, tonight.**" Georgij kept his hands at his sides. "You have known I
+> was coming. You have been waiting to find out whether a lot with a number on it
+> and no name of his own would do to you what you did to a woman with four trucks
+> and a lane on the Ulsan coast. **You built the page. I was the hand that sent
+> it.** I am not going to pretend that makes either of us clean."
+>
+> "And now."
+>
+> "Now you know it was found," said Georgij. "That is the whole of tonight. I am
+> not going to tell you who else knows, or how many of the people you have had
+> dinner with have already been told, or which of them think a conversation is
+> enough and which of them do not. I am not going to tell you because I have not
+> decided it myself, and even if I had, you would not get it from me standing in
+> a room where I hold every part of the advantage."
+>
+> Choi Dae-ho said nothing for a long moment.
+>
+> "You want me to live with that," he said.
+>
+> "**I want you to live with not knowing which one of them decides you have not
+> been punished enough**," said Georgij. "You are very good at reading a room. I
+> am told you have never once been wrong about what a person wants before they
+> know it themselves. **I would like your guidance**, since you are the expert in
+> the room and I am only the one who arranged it."
+>
+> He let that sit for exactly as long as it needed to.
+>
+> "**How does a man with nothing left escape a thing he cannot see coming?**"
+>
+> Choi did not have an answer, and for the first time since Georgij had walked
+> into that room, it showed on his face **for slightly longer than a quarter of a
+> second.**
+>
+> "No," said Georgij. "I did not think you would."
+>
+> He left before the silence could turn into anything Choi could use.
+
+### Was am Geruest bindend ist
+
+- **Der Verzicht ist der Angriff.** Ein Tod waere schnell und privat und liesse
+  ihn davonkommen. **Das ist die einzige Version, in der Choi wirklich verliert.**
+- **"Nothing, tonight"** ist keine Drohung und kann deshalb nicht zurueckgenommen
+  werden.
+- **Die letzte Zeile ist die Umkehrung des Laechelns.** Georgijs breite Fassung
+  kommt eine Viertelsekunde **zu spaet**. Chois Gesicht zeigt es eine
+  Viertelsekunde **zu lang**.
+- **Die acht Jahre gehoeren Sang-hoon** (Kapitel 67: *"I have been at that man's
+  table for eight years"*), nicht Choi. Fuer Choi ist die Zahl
+  **dreiundzwanzig**.
+
+### Die Guidance, und wo sie steht
+
+**Sie ist in Band 1, Kapitel 33 oeffentlich beerdigt worden** (`doc/01-craft.md`:
+*"Tot, und von ihm selbst"*). Bei Woo und Sang-hoon war die Frage **Entnahme**.
+Hier holt sie nichts und kann nichts holen. **Dieselben Worte, umgekehrte
+Funktion.**
+
+**Zwei Stellen, weit auseinander, und nicht mehr:**
+
+1. **Frueh**, sobald klar ist, dass Choi allein ist: *"Who should I be careful
+   of?"* - nicht als Bitte, sondern als Nachweis. Georgij fragt einen Mann nach
+   Namen, von dem er weiss, dass er keine mehr hat.
+2. **Am Schluss:** *"How does a man with nothing left escape a thing he cannot
+   see coming?"*
+
+**Zwei Fragen nebeneinander nehmen sich die Spitze. Wenn nur eine bleibt, ist es
+die zweite.**
+
+### Byun im Gespraech
+
+**Georgij weiss, was mit Byun passiert ist, und er bewundert es an ihr.** Es ist
+kein Schatten auf ihr, es ist der Grund, warum er bleibt. Wer das als moralische
+Last schreibt, hat die Figur nicht verstanden.
+
+**Im Nebenraum braucht Georgij deshalb keine Drohung.** Choi kennt Byun -
+sechsundzwanzig Jahre im Register desselben Hauses, in dem Choi seit
+dreiundzwanzig Jahren kauft. **Er weiss, dass die Wohnung im achten Stock in
+Seongdong leer steht.** Ein Name genuegt, und Georgij geht weiter. Der
+Unterschied zwischen den beiden ist nur, dass Byun drei Leute wuetend gemacht hat
+und Choi dreissig.
+
+---
+
+## 8. Der Ausgang, und der Schluss
+
+**Er geht durch den Raum zurueck zur Tuer, und jetzt sehen ihn alle an.** Vorher
+haben sie weggeschaut, weil sie hoeflich waren. Jetzt schauen sie, weil sie in
+der Zwischenzeit miteinander geredet haben. **Er weiss auf dem Weg zur Tuer, dass
+er das nicht ueberlebt.**
+
+**Der Schluss steht in derselben Formel wie Byun, und das ist der ganze Trick.**
+`doc/03-cast.md` fuehrt Byun als *"Seit Mai nicht mehr gesehen"*, und der Text
+sagt nicht mehr als das. Wenn Choi in derselben Formel verschwindet, weiss der
+Leser genau, was sie bedeutet, weil er sie einmal gelesen hat, als sie noch
+harmlos aussah.
+
+**Ungefaehr in dieser Form, im letzten Kapitel, in einem Nebensatz:**
+
+> Choi Dae-ho wurde nach dem [Datum] nicht mehr gesehen. Nicht, weil er sich gut
+> versteckt haette. Er hat sich ueberhaupt nicht versteckt.
+
+**Kein Wort mehr.** Der Leser setzt zusammen, dass ein Mann ohne einen einzigen
+Menschen keinen Schutz hat.
+
+### Byun, ausformuliert
+
+**Vom Autor am 27.08.:** Er hat zu viele maechtige Menschen wuetend gemacht.
+Niemand macht maechtige Menschen wuetend, verliert seinen Schutz und lebt weiter.
+
+> Er hat drei Leute im Auktionshaus sehr wuetend gemacht, einen Mann und zwei
+> Frauen. Die Frau, die zwei Kaeufe getaetigt hat, tat nun einen Anruf. Seitdem
+> steht seine Wohnung am Fluss leer und niemand weiss, wem sie gehoert. **Er ist
+> kein loses Ende mehr.**
+
+**Das passt exakt auf das, was schon steht:** `doc/04-world.md` fuehrt vier
+Zahlungen von drei Kaeufern - *"Annie, ein Mann und eine Frau"* - und Annie ist
+die, die zweimal gezahlt hat. Seine Wohnung ist der achte Stock in Seongdong mit
+Blick auf den Fluss (Kapitel 22). **Und Annie nimmt seit Mai saemtliche
+ehemaligen Angestellten des Hauses auf, innerhalb von vierzehn Tagen, ohne je zu
+sagen warum - ausser einem.**
+
+---
+
+## 9. Was er ihr danach sagt
+
+**Vom Autor am 25.08. vorgegeben.** Nach dem Endgespraech, nicht vorher.
+
+**Der Kern:** *Jemand hat eine Waffe auf Dich gerichtet. Dass ich diese Waffe
+war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt ueberhaupt
+irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
+
+> *"Somebody pointed a weapon at you," he said. "That the weapon was me is one
+> half of why it was personal."*
+>
+> *He stopped, because he had heard it go and it was not accurate.*
+>
+> *"That is not half. It is a great deal less than half, and I could give you the
+> number, and I am not going to, because giving you the number would be the
+> fourth cleverest thing I have done this year."*
+>
+> *"Then give me the rest of it."*
+>
+> *"If the world points anything at you at all, I will burn the world down."*
+
+**Warum das die Landung des Bandes ist:** Georgijs Maschine endet in jedem Satz
+auf einem Preis (`doc/12-stimmen.md`). **Das ist der erste und einzige Satz in
+zwei Baenden, in dem kein Preis steht.** Der Text kommentiert es nicht.
+
+**Die Reihenfolge ist erzwungen:** die Selbstkorrektur muss vor dem grossen Satz
+stehen. Ein Mann, der zuerst pathetisch wird und dann rechnet, ist ein anderer
+Mann.
+
+---
+
+## 10. Die Schlussgeste: ihre Fingerspitzen
+
+**Vom Autor am 25.08. festgelegt, am 27.08. als unzureichend geschrieben
+verworfen.** Was im Text steht, ist zu schwach: der Dialog traegt nicht und das
+Kuessen ist eine Andeutung. **Neu zu schreiben: zaertlich, liebevoll, und
+eindeutig.**
+
+Am Ende des Bandes kuesst er ihr die **Fingerspitzen**. Wie ein Mann es bei einer
+Frau tut, die er sehr mag.
+
+**Das ist NICHT die Geste aus Band 1, Kapitel 11, und darf nie so klingen.** Dort
+hat er **Hana** die Hand gekuesst, *"over the fingers, in the European way, in
+front of four or five people"* - ein Werkzeug, oeffentlich, defensiv, berechnet.
+
+| | Band 1, Kapitel 11 | Bandende |
+|---|---|---|
+| Wem | Hana | Annie |
+| Wo | Ballsaal, vor vier oder fuenf Leuten | Niemand sonst im Haus |
+| Was | Handruecken, ueber die Finger, europaeisch | **Die Fingerspitzen** |
+| Wozu | Damit achthundert Leute eine falsche Antwort behalten | **Zu nichts** |
+
+**Die Regel:** kein hoefisches Vokabular. Nicht *bowed*, nicht *took her hand*,
+nichts, was nach Etikette klingt. **Wenn ein Leser die Gala erinnert, ist die
+Szene misslungen.**
+
+**Und sie gehoert mit der festgeschriebenen Schlusszeile zusammen:**
+
+> *"You are such a beautiful, strong woman. Thank you for buying me."*
+
+**Er sagt sie nicht ueber sich.** Er sagt sie zu einer Frau, die einen Mann mit
+einem Telefonat hat verschwinden lassen, und er weiss das. **Nicht obwohl.
+Deswegen.**
+
+**Der Anlauf laeuft ueber Erschoepfung, nie ueber Ruhe.**
+
+---
+
+## 11. Was geschuetzt ist
+
+**Kommt auf keine Streichliste, in keiner Kuerzungsrunde, unter keiner
+Begruendung:**
+
+- **Das "fundamental"-Gespraech** (bisher Kapitel 62, Tag 324). **Nur das
+  Gespraech, nicht das Kapitel.** Annie klagt sich an, ihn benutzt zu haben, und
+  er antwortet, als haette sie um Erlaubnis gebeten: *"I am yours. You said so
+  yourself, on the sixteenth of March. I am free for you to use as you wish."* -
+  **"You have answered a question about permission, and I did not ask one."** Und
+  der Satz, der die Szene davor bewahrt, gemuetlich zu werden: **"Nobody decides
+  a thing nobody has told him."**
+
+  **Es ist das warme Gegenstueck, ohne das das kalte Laecheln nicht funktioniert.**
+  Band 2 hat bisher **null** warme Laecheln in sechsundvierzig Kapiteln. Ohne sie
+  ist die kalte Fassung keine Umkehr, sondern nur ein Laecheln.
+- **Moon Hae-sook und Ahn Jung-hee, wie sie sich einfinden.** Die Ankunft, die
+  Zugluft unter der Tuer, die vierundsechzig Namen, Mrs Ha, Sims Frage.
+- **Die Fingerspitzen und die Schlusszeile** - geschuetzt als *Vorhaben*, nicht
+  in der jetzigen Ausfuehrung.
+
+---
+
+## 12. Wie mit den bisherigen Kapiteln umgegangen wird
+
+**Ab der Choi-Saga wird umgeschrieben, gestrichen, zusammengelegt und getrennt.**
+Kapitelnummern sind Adressen fuer das Gespraech und keine Struktur.
+
+**Die Reihenfolge der Arbeit, vom Autor am 27.08. vorgegeben:**
+
+1. **Choi-Endgame als Konzept** - dieser Abschnitt. Steht.
+2. **Der Weg dahin, rueckwaerts konzipiert.**
+3. **Das Buch absuchen:** welche Informationsbeschaffung, welche Dialoge und
+   welche Berichte an Annie zahlen nicht auf das Ziel ein. **Besonders das
+   Muster: Georgij geht einmal pro Kapitel zu ihr und bringt nichts mit.**
+4. **Radikal kuerzen.** Nicht sentimental, nicht defensiv. Eine gut geschriebene
+   Szene, die nichts traegt, fliegt.
+5. **Die Vorbereitung der Entmachtung komplett neu schreiben.**
+
+**Die Kuerzung beginnt nicht vor Schritt 2.** Ohne das Ziel laesst sich nicht
+beurteilen, was einzahlt.
+
+**Was der Endteil, wie er dasteht, nicht ist:** ein Feldzug. Er ist eine
+Transaktion - Auskunft, Unterschrift, Abholung, Hoeflichkeit. **Keiner der sechs
+Wege kommt darin vor.**
+
+---
+
+## Anhang: zwei Zusagen, die auf dem Weg dorthin bezahlt wurden
+
+*Historisch. Stand hier bis zum 27.08. mitten in der Choi-Saga und ist
+beides erledigt.*
 
 ## ~~Zwei Zusagen, die auf dem Weg dorthin bezahlt werden muessen~~ - beide bezahlt in Kapitel 69
 
@@ -279,382 +836,6 @@ Georgij arbeitet, und er ist der Einzige, der es hat.
 *Faelliges mit Datum*; hier steht nur, was zum Weiterschreiben gebraucht wird.
 
 ---
-
-## Wie er auseinandergenommen wird: sechs Wege und eine Reihenfolge
-
-**Die Frau ist der Todesstoss und nicht der Feldzug.** Was ihn tatsaechlich
-zerlegt, sind sechs Zugriffe, und alle sechs liegen bereits im Text.
-
-**Der Hebel, der alle verbindet:** Choi ist nur so lange maechtig, wie er nie
-irgendwo sein muss. Nimm ihm die Muender, und er muss selbst anrufen. **Wer
-selbst anruft, hinterlaesst eine Spur, und wer eine Spur hinterlaesst, ist
-gewoehnlich.**
-
-### 1. Das Geld: der Trust und Baek Jun-ho
-
-Der Trust ist das **einzige** Ding auf der Welt, das in seinem Namen zahlt.
-Elf Jahre, Solicitor **Baek Jun-ho**, Yeouido (Kapitel 42). Er zahlt das Haus,
-den Arzt, den Sauerstoff, sechs bis zehn Leute, die Blumen.
-
-**Baek ist der weichste Punkt der ganzen Struktur**, weil er als Einziger etwas
-zu verlieren hat, das ihm gehoert: eine Zulassung. Choi hat keine.
-
-**Der Zug ist nicht Erpressung, sondern die Form von Mrs Jeon:** Man zeigt einem
-Mann, der elf Jahre lang Rechnungen abgezeichnet hat, die eine Rechnung mit
-**einer Losnummer im Namensfeld** - und dann entscheidet er selbst. *"Und ich
-habe es durchgelassen und bin essen gegangen."*
-
-### 2. Die Haende: Sim und die Mittelsmaenner
-
-Sim bestellt die Blumen. Der Begleiter, der gegessen hat, sitzt am Tisch.
-Der April-Aufraeumer prueft die Kuechen. **Choi selbst erscheint nirgends.**
-
-Jeder von ihnen kann aufhoeren, fuer ihn zu arbeiten - und keiner von ihnen
-schuldet ihm etwas, das eine Anklage waere. **Und Yeom kennt Sims Namen und gibt
-ihn nicht her** (Kapitel 25). Ein Mann mit einem Prinzip, und Prinzipien haben
-Preise.
-
-**Wenn die Muender weg sind, muss er selbst reden.** Das ist der eigentliche
-Angriff und er kostet kein Geld.
-
-### 3. Der Tisch: die dreiundzwanzig Jahre
-
-**Der Hauptangriff.** Sang-hoon sagt in Kapitel 26, was jeder an diesem Tisch
-erlebt hat: *"I have made four decisions at those dinners that I have never been
-able to account for afterwards, and I put every one of them down to being
-tired."*
-
-**Annie hat einunddreissig Namen** (Kapitel 35/36) und es waren mehr. Jeder
-Einzelne bekommt zu hoeren, was mit ihm gemacht wurde. **Kein Vorwurf - Choi hat
-nie einen Auftrag erteilt und ist deshalb nie widerlegbar.** Man braucht keine
-Anklage, man braucht, dass ein Mensch begreift, dass er benutzt wurde.
-
-**Ein Mann, der begriffen hat, dass er benutzt wurde, geht beim naechsten Mal
-nicht ran.** Das ist die ganze Vernichtung, einzeln ausgefuehrt, dreissig Mal.
-
-### 4. Das Vehikel: Hongkong und Singapur
-
-Direktor einer Private-Equity-Firma in Hongkong ueber eine Anwaltskette in
-Singapur, und **er hat nie in seinem Leben investiert** (Kapitel 26). Ein Mann,
-der Direktor ist und nichts tut, wird dafuer bezahlt, ein Name auf einem Papier
-zu sein.
-
-**Eine Direktorenstellung ist eine oeffentliche Eintragung.** Ein Fonds hat
-Anleger, und Anleger interessieren sich sehr dafuer, wer ihr Direktor ist.
-Wieder kein Vorwurf: man legt nebeneinander, was nebeneinander gehoert.
-
-### 5. Das Haus: die Losnummer kommt zu Akte
-
-Der Sanierer hat aus dem Auktionshaus ein ordentlich gefuehrtes Geschaeft
-gemacht, und `doc/07-next.md` haelt seit Langem fest: **ein Mann, der stolz auf
-seine Aktenfuehrung ist, kann dazu gebracht werden, etwas zu Akte zu nehmen.**
-
-Ihm wird die Arztrechnung gezeigt, in der **sein eigenes Haus einen Menschen als
-Patient gefuehrt hat, unter einer Losnummer.** Damit endet das Haus, und
-dieselbe Seite, die Annies Zeile traegt, wird zum Beleg dafuer, was Choi getan
-hat.
-
-### 6. Die Staatsanwaltschaft: warum er frueh ging
-
-*"Former prosecutor, out early and nobody says why."* Er war damals
-sechsunddreissig. **Vor dreiundzwanzig Jahren sass er bereits an Annies
-Vaterstisch und tat, was er heute tut.** Dazwischen liegt nichts, also ist er
-direkt aus dem Amt in dieses Gewerbe gegangen, und das tut niemand ohne Grund.
-
-**Das ist Woos Feld** (einundfuenfzig Jahre, kennt jeden) **und Mrs Sunwoos**
-(einundvierzig Jahre, weiss, wer in dem Haus kauft). Beide liegen seit Monaten
-brach.
-
----
-
-### Die Reihenfolge, und sie ist erzwungen
-
-**Das Geld kommt spaet, nicht zuerst.** Wer den Trust trockenlegt, bevor die Frau
-in Sicherheit ist, sorgt nur dafuer, dass Choi sie verlegt - oder dass in einem
-Haus in Gangwon-do der Sauerstoff ausbleibt.
-
-**Georgij kann das Geld also erst abschneiden, wenn er sie auffangen kann. Und
-auffangen kann er sie nicht, weil er nichts besitzt.**
-
-Damit ist die letzte Bitte an Annie keine Ruehrung, sondern eine Bedingung des
-Feldzugs.
-
-| | Zug | Warum an dieser Stelle |
-|---|---|---|
-| 1 | **Die Haende** (Sim, der Begleiter, der Aufraeumer) | Kostet nichts, macht ihn sichtbar, und er kann nicht reagieren, ohne sich zu zeigen |
-| 2 | **Der Tisch**, einer nach dem anderen | Der laute Teil. Ab hier faengt die Uhr an, gegen ihn zu laufen |
-| 3 | **Das Vehikel** und **das Haus** | Nimmt Einkommen und Stand, und legt zu Akte, was er getan hat |
-| 4 | **Das Geld** (Baek, der Trust) | **Erst wenn Annie bereitsteht.** Vorher waere es ein Mord auf Umwegen |
-| 5 | **Das Zimmer** | Sie entscheidet selbst |
-| 6 | **Das Endgespraech** | Der Anruf, den niemand annimmt |
-
-**Und die Vice, die alles zusammenhaelt:** Jeder Zug ist ein Mensch, dem etwas
-gesagt wurde, und jeder Mensch kann es weitererzaehlen. **Choi schlaegt nicht
-zurueck - er verschwindet korrekt**, und dann ist die Spur fuer immer zu. Der
-April-Aufraeumer aus Kapitel 39 ist der Beweis, dass er es kann, und er steht bis
-heute in einem Nebensatz. **Tempo gegen Laerm, und die Uhr der Frau laeuft
-mit.**
-
----
-
-### Die Aufloesung: das Zimmer, vor elf Jahren
-
-**Entschieden am 25.08. Das ist ab hier Kanon.**
-
-Der Text hat die Teile seit Monaten und hat sie nie nebeneinandergelegt:
-
-- **Kapitel 27:** Annie war **vierzehn**. *"He was at my father's table before I
-  was allowed at it, and he was doing then what he does now, and I was the only
-  person in that house who ever noticed that he did not eat."* Sie ist
-  siebenunddreissig, also **dreiundzwanzig Jahre**.
-- **Kapitel 36:** *"A room, a wedding that did not happen, and a man who left the
-  country for four years afterward ... he came back changed enough that two
-  people used the word unrecognisable."* Vor **elf** Jahren. Zwei Zeugen brechen
-  beim zweiten Nachfragen ab.
-- **Kapitel 42:** Der Trust wurde vor **elf** Jahren gegruendet.
-- **Kapitel 32:** *"Somebody in a practice was given a lot number and told that
-  it was the patient, and wrote it in the box where the name goes, and sent the
-  bill to the auction house."* Juli vor vier Jahren.
-- **Kapitel 44/46:** Sauerstoff an derselben Adresse, angemeldet in genau diesem
-  Juli, nie storniert. Bestellabstaende **30 - 24 - 16 - 9 Tage**.
-
-**Woraus folgt, und es biegt keine einzige Zahl:**
-
-1. **Sie ist nicht die Frau, die er verloren hat. Sie ist die Einzige, die je
-   nein gesagt hat.** In dem Zimmer hat sie ihm gesagt, was er ist. Er hat es
-   nicht bestritten. Die Hochzeit fiel aus, er ging vier Jahre weg.
-2. **Das Zimmer ist die Stelle, an der Choi aufgehoert hat zu existieren.**
-   Davor war er sichtbar - Annie hat ihn mit vierzehn an einem Tisch gesehen.
-   Danach ist er die Fassung, die wir kennen. **Damit hat Georgijs eigentliches
-   Problem, "er steht auf keiner meiner Listen", zum ersten Mal einen Grund und
-   ein Datum.**
-3. **Er haelt sie nicht aus Liebe. Er haelt sie, weil er nicht verliert.** Eine
-   tote Frau ist ein abgeschlossenes Konto. Solange sie in einem Haus lebt, das
-   er bezahlt, ist die Sache offen. **Das Wort Liebe faellt im ganzen Buch
-   nicht.**
-4. **Die Krankheit ist nicht die Ursache, sondern das Mittel.** Eine Frau, die
-   gehen kann, ist ein Problem. Eine Frau am Sauerstoff nicht.
-5. **Die vierte Zeile wurde gekauft, damit das Konto offen bleibt.** Vor vier
-   Jahren, als es so schlecht wurde, dass sie gestorben waere. **Eine Pflegerin
-   stellt man ein.** Man kauft einen Menschen, wenn der **Koerper** der Punkt ist
-   und kein Papier entstehen darf. Der Arzt im Juli behandelte laut Kapitel 32
-   **das Los und nicht die Frau.**
-6. **Und sie ist trotzdem die, die taeglich nach dem Tank sieht.** Sie haelt die
-   Frau am Leben, fuer die sie ausgenommen wird. Ein Dienstplan schaut nicht auf
-   einen Tank; ein Mensch, der dort wohnt und Angst hat, schon.
-
-**Die These des Buches, und sie faellt genau einmal:** Ein Katalog von Menschen
-ist ein Katalog von Teilen. Jemand hat ihn nach einer Blutgruppe durchsucht.
-**Georgij steht darin. Lot fourteen.** Der einzige Grund, warum er unversehrt
-ist, ist, dass niemand seinen Typ gebraucht hat.
-
-**Und die Regel, die das literarisch haelt: es gibt davon keine Szene. Nie.**
-Kein Operationsraum, kein Gestaendnis, keine Erklaerung durch einen Boesewicht.
-Es kommt so, wie in diesem Buch alles kommt - eine Losnummer in einem
-Namensfeld, eine Brandschutzmeldung, ein Gaskonto, eine Kreuzprobe in einem
-Laborbuch. **Der Leser setzt es selbst zusammen, und deshalb wird ihm schlecht.**
-
----
-
-### Sie ist kein Requisit, und so bleibt es
-
-**Der Fehler, der hier drohte und am 25.08. abgewendet wurde:** eine Frau, deren
-einzige Funktion Chois wunder Punkt ist, ist ein Gegenstand, um den zwei Maenner
-streiten. Drei Dinge verhindern das, und sie sind bindend:
-
-- Sie ist **die einzige lebende Zeugin** fuer dreiundzwanzig Jahre Choi, und sie
-  ist es, weil sie ihn als Einzige benannt hat.
-- Sie ist **wach vor sechs** und steht zu einer festen Stunde am Fenster
-  (Kapitel 40). Sie ist nicht bewusstlos. **Sie wartet.**
-- **Sie entscheidet am Ende selbst.** Georgij rettet sie nicht. Er kommt in ein
-  Zimmer und stellt eine Frage, und sie antwortet oder nicht.
-
-**Und genau dann verliert Choi zum ersten Mal in seinem Leben** - nicht weil sie
-stirbt, sondern weil sie lebt und es nichts mehr mit ihm zu tun hat. Das Konto
-schliesst sich, und er hat es nicht geschlossen.
-
-**Annies Motiv ist deshalb nicht Mitleid** (sie tut nichts aus Mitleid, siehe
-Kapitel 30). Sie holt niemanden heraus, **sie schliesst ein Konto**, das ein Mann
-elf Jahre offen gehalten hat, und sie ist die Einzige im Land, die weiss, was das
-kostet, weil sie es einmal getan hat und das Ergebnis neben ihr steht.
-
-**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus** - sie ist gesetzt und steht **noch nicht im Text**:
-
-> *"You are such a beautiful, strong woman. Thank you for buying me."*
-
-**Er sagt sie nicht ueber sich.** Er sagt sie, waehrend er zusieht, wie sie es
-fuer jemand anderen noch einmal tut, und er ist der Einzige auf der Welt, der
-weiss, was es wert ist.
-
----
-
----
-
-## Was er ihr danach sagt, und es ist Kanon
-
-**Vom Autor am 25.08. vorgegeben.** Nach dem Endgespräch, nicht vorher. Sie ist
-bei dem Gespräch nicht im Raum (Kapitel 62), also erfährt sie es hinterher, und
-das hier ist der Grund, den er ihr gibt.
-
-**Der Kern, in seinen Worten:** *Jemand hat eine Waffe auf Dich gerichtet. Dass
-ich diese Waffe war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt
-überhaupt irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
-
-**Die Ausführung im Register des Buches**, ein Vorschlag und noch nicht im Text - er beginnt mit einem Bruchteil,
-korrigiert sich selbst nach unten, weil er sich bei Zahlen nicht ungenau erträgt,
-und sagt dann den einzigen Satz seines Lebens ohne Preis darin:
-
-> *"Somebody pointed a weapon at you," he said. "That the weapon was me is one
-> half of why it was personal."*
->
-> *He stopped, because he had heard it go and it was not accurate.*
->
-> *"That is not half. It is a great deal less than half, and I could give you the
-> number, and I am not going to, because giving you the number would be the
-> fourth cleverest thing I have done this year."*
->
-> *"Then give me the rest of it."*
->
-> *"If the world points anything at you at all, I will burn the world down."*
-
-**Warum das die Landung des ganzen Bandes ist:** Georgijs Maschine endet in jedem
-Satz auf einem Preis (`doc/12-stimmen.md`). Das ist der erste und einzige Satz
-in zwei Bänden, in dem kein Preis steht. **Der Text kommentiert es nicht.** Wer
-danach einen Beat schreibt, der erklärt, was gerade passiert ist, nimmt es weg.
-
-**Und die Reihenfolge ist erzwungen:** die Selbstkorrektur muss vor dem großen
-Satz stehen. Ein Mann, der zuerst pathetisch wird und dann rechnet, ist ein
-anderer Mann.
-
----
-
-## Die Schlussgeste: ihre Fingerspitzen
-
-**Vom Autor am 25.08. festgelegt, mit ausdrücklicher Abgrenzung.**
-
-Am Ende des Bandes küsst er ihr die **Fingerspitzen**. Wie ein Mann es bei einer
-Frau tut, die er sehr mag.
-
-**Das ist NICHT die Geste aus Band 1, Kapitel 11, und darf nie so klingen.** Dort
-hat er **Hana** die Hand geküsst, *"over the fingers, in the European way, in
-front of four or five people who will describe it inside the week and use that
-word"* - und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbst:
-*"the first defensive thing she had seen me do."*
-
-| | Band 1, Kapitel 11 | Bandende |
-|---|---|---|
-| Wem | Hana | Annie |
-| Wo | Ballsaal, vor vier oder fünf Leuten | Niemand sonst im Haus |
-| Was | Handrücken, über die Finger, europäisch | **Die Fingerspitzen** |
-| Wozu | Damit achthundert Leute eine falsche Antwort behalten | **Zu nichts** |
-| Sein Wort dafür | *defensive* | - |
-
-**Die Regel für die Szene:** kein höfisches Vokabular. Nicht *bowed*, nicht *took
-her hand*, nichts, was nach Etikette klingt. Er hat in siebzehn Jahren gelernt,
-wie man eine Hand als Instrument küsst, und das ist genau das, was hier nicht
-passieren darf. **Wenn ein Leser die Gala erinnert, ist die Szene misslungen.**
-
-**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen** - auch das folgende steht **noch nicht im Text**:
-
-> *"You are such a beautiful, strong woman. Thank you for buying me."*
-
-Reihenfolge offen und beim Schreiben zu entscheiden. Eintragen in
-`doc/10-naehe.md`, Register A bis C, sobald sie geschrieben ist.
-
-**Der Anlauf läuft über Erschöpfung, nie über Ruhe** - das steht seit dem 25.08.
-oben in diesem Dokument und gilt für diese Szene besonders.
-
----
-
-### Das Endgespraech
-
-**GESCHRIEBEN am 27.08. als Band 2, Kapitel 88 *Please guide me* (v2.0).** Alles
-in diesem Abschnitt ist eingeloest und steht hier nur noch als Beleg, wie es
-gemeint war. **Der Text gilt; dieser Abschnitt wird nicht mehr gepflegt.**
-
-**Vorgeschichte, weil sie fuer den naechsten Durchgang wichtig ist:** Der Plan war
-verworfen und durch *The invitation* ersetzt worden - Annie am Tisch, Choi gibt
-Moon Hae-sook muendlich her, **kein Laecheln und keine Guidance.** Auf Anweisung
-des Autors wiederhergestellt. **Das Ende stammt aus der v1.3, die parallel
-entstand: *I am going to have him*, ueber die neun Menschen, die nichts wissen.**
-Beides zusammen ist die v2.0.
-
-**Eingeloest:** Annie nicht im Raum; die Formel im Original und zurueckgegeben;
-die Zeile ueber das Maedchen von vierzehn; *"Please guide me. Who should I be
-careful of?"* als Todesstoss; das erste kalte Laecheln genau dort; das zweite beim
-Bericht an Annie, samt ihrer zweiten Bedingung vom 3. April.
-
-**Der Entwurf des Autors lag in der Datei "Choi Gespraech" im Projektordner und
-war verbindlich.** *(Die Datei liegt nicht im Repo - beim Schreiben stand nur
-dieser Abschnitt zur Verfuegung.)*
-
-**Stand 25.08.: Band 2 hat 45 Kapitel.** Das alte Kapitel 46 (die Maschine) ist
-in Kapitel 44 aufgegangen, weil 44 und 46 zweimal dieselbe Form hatten -
-Schreibtisch, Jang am Telefon, Bericht an Annie. Die Nacht mit der Gasfirma
-liegt jetzt am 6. Juli und nicht am 10. Juli, und Jangs Lieferwagen ist
-entfallen: die Brandschutzmeldung nennt die Firma selbst, und die
-unregelmaessigen Abstaende faellt Georgij in den Daten auf, statt sie vorher von
-Jang zu hoeren. Was daran im Buch anders lauten muss:
-
-- **Die acht Jahre fallen weg.** Sie sind **Sang-hoons** Dienstzeit an dem Tisch
-  (Kapitel 26: *"since I was fifty-one"*, er ist neunundfuenfzig), nicht Chois
-  Laufbahn. Die richtige Zahl steht im Buch und kommt von Annie: **mindestens
-  dreiundzwanzig Jahre**, davor die Staatsanwaltschaft.
-
-  **Ersatzzeile, in Georgijs Register und ueber andere praezise:**
-
-  > "You were at a table twenty-three years ago with a girl of fourteen at it,
-  > and she was the only person in that house who ever noticed that you did not
-  > eat. She is the reason I am standing here. You have never once been careful
-  > about the right person."
-
-- **"It has been good to see you again" ist Chois Haus-Stil**, gesprochen von
-  Sim. Kanon bleibt, dass der Anrufer nicht der Auftraggeber ist (Kapitel 25:
-  Sim ruft *"on behalf of somebody who would be grateful"*, und **Yeom kennt
-  seinen Namen und gibt ihn nicht her**). Wenn Georgij den Satz zurueckgibt,
-  sagt er damit: ich weiss, dass er von Dir kommt und nicht von ihm.
-- **Das Laecheln ist die Achse, und es faellt genau zweimal kalt. Festgelegt
-  vom Autor am 25.08.** Die breite Fassung, in Daejeon mit einundzwanzig gebaut,
-  eine Viertelsekunde zu spaet (Band 1, Kapitel 7).
-
-  1. **Bei der Guidance-Frage an Choi.** Nicht frueher in der Szene - es kommt
-     mit dem Todesstoss und nicht mit der Begruendung davor.
-  2. **Beim Bericht an Annie danach** - Vorschlag, noch nicht im Text -, und es bezieht sich ausdruecklich auf
-     Kapitel 27, wo Georgij ihr gesagt hat: *"I am not going to enjoy telling
-     you about it afterwards."*
-
-     > "I am sorry, Mistress. I could not keep what I told you before." - das
-     > Laecheln kommt, **waehrend** er sich entschuldigt - "I enjoyed telling you
-     > this very much."
-
-     **Er luegt in keiner Silbe.** Beides ist wahr, und dass das Laecheln
-     waehrend der Entschuldigung ankommt, sagt dem Leser, welcher der beiden
-     Saetze der tragende ist. Es loest zugleich Annies zweite Bedingung vom
-     3. April ein (Kapitel 12), die seit dem 30. April offensteht, weil er im Zug
-     keine Antwort gefunden hat, die er aufschreiben wollte.
-
-  **Sonst nirgends. Kein drittes kaltes Laecheln im Buch.** Wer eines
-  einbaut, verbraucht eines von zweien.
-
-  **Und es ist der Zwilling der Schlusszeile des Bandes.** Zweimal verliert er
-  die Fassung, zweimal kommt die Wahrheit ungeplant heraus: einmal kalt, *ich
-  habe es genossen*, und einmal warm, *danke, dass Du mich gekauft hast*.
-  Derselbe Mann, derselbe Mechanismus, entgegengesetzte Richtung. **Das eine
-  macht das andere erst glaubhaft.**
-
-  **Warme Laecheln muessen dafuer vorher wieder vorkommen.** In Band 2 gibt es
-  bisher **null** in sechsundvierzig Kapiteln (Band 1: 49 Treffer in 21 von 34).
-  Ohne die warmen ist die kalte Fassung keine Umkehr, sondern nur ein Laecheln.
-- **"Please give me your guidance" kommt zurueck, und das ist kein Verstoss
-  gegen `doc/01-craft.md` 2h.** Bei Woo und Sang-hoon war die Frage **Entnahme**.
-  Bei Choi holt sie nichts und kann nichts holen. **Dieselben Worte, umgekehrte
-  Funktion: Spott, und der Todesstoss.** Es war sein erstes Werkzeug, um etwas zu
-  bekommen, und ist zum Finisher umgebaut. **So endet ab jetzt jeder grosse
-  Antagonist.**
-- **Annie ist nicht im Raum, und Choi weiss, dass sie nicht kommt.**
-
-**"You have known I was coming"** heisst: Choi erfaehrt es **erst, wenn das Netz
-schon weg ist.** Bis dahin darf er nichts merken.
 
 ---
 
