@@ -1,0 +1,270 @@
+# Chapter 1: Nothing to sign with
+*Lot Fourteen* · Version 1.8 · EN
+
+## Day One Hundred and Fifty · Monday 2 March
+
+Two things ran out, a day apart, and they pulled in opposite directions.
+
+The sentence from the second of January ran out when March did, and March came in on the Sunday. He spent the end of that Sunday on the floor at a window, against her legs, and it did not once occur to him that he was free to go and look at somebody.
+
+The instrument died at midnight at the end of that same Sunday, on the date he had asked for himself.
+
+So on the Monday he was permitted to work and had nothing to work with.
+
+---
+
+Mrs Seo's tray went up at seven, the way it has gone up at seven since October.
+
+The staff table was laid for four and sat six. The boy from the kitchens ate standing at the end of it, because Mr Baek had never told him to sit down and had never once told him not to.
+
+Yun had been in the house eight weeks. In January he carried plates on his forearms. In March he carried them in his hands, and nobody in that kitchen had said a word to him about it.
+
+The boy said good morning to him, and had said it every day since the second week, which nobody had told him to do either. Two of the four maids still do not.
+
+Georgij had graded him in the first week and had had nothing to add since the middle of February.
+
+This was the third Monday running on which he had come down early enough to watch another man work.
+
+---
+
+She was in the small room at eight with her coat over the back of the chair.
+
+The same chair and the same hour as the second of January. On the second of January she had been sitting in it an hour before the car with nothing in front of her, waiting for him to come past. This morning she was working, and he was the one who came.
+
+"Mistress."
+
+"It is March," said Annie.
+
+"Yes."
+
+"On the twenty-seventh of November I asked you for the smallest instrument that works, with a date on it, and I said that after the date it would be dead and I would ask you again." He stopped inside the door and stayed there. "It died at midnight."
+
+Annie put down the page she was holding and did not turn it face down.
+
+"Ask, then."
+
+"I am asking."
+
+"What for?"
+
+---
+
+Georgij had his hands at his sides.
+
+"On the twenty-third of January a renewal in Jung-gu came up against a date and you were in Yeouido until nine. Two pages came up the drive on a scooter. I put a name on them and it took four minutes."
+
+"That is what it turned out to be for."
+
+"Yes."
+
+"Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs the staff and the accounts and the outside firms, and when a man on a scooter comes up that drive at six in the evening she is already in the building. It costs me one afternoon in Jung-gu and it does not expire."
+
+There was nothing wrong with any part of that.
+
+"Yes, Mistress."
+
+"Say the rest of it."
+
+"There is no rest of it that I can put a figure against."
+
+---
+
+Annie turned her chair a few degrees, so that she was facing him and not the desk.
+
+"Mr Chae told you in December that the instrument was smaller than you thought it was. Yesterday he told you he had never been that exactly right about one before."
+
+"He did."
+
+"He was right about the size of it, and he does not know what you wanted it for." Her hands were still on the arms of the chair. "I do. So do you. Neither of us has said it out loud, and one of us is about to."
+
+---
+
+Georgij did not have anywhere to put his hands and put them behind his back.
+
+"In November, in the office at the end of a shed at Yeongjong, you told an old man that you had nothing to sign with. You said it was not modesty. You said it was the arrangement."
+
+"I did."
+
+"There is no arrangement."
+
+---
+
+Her coat was still over the back of the chair.
+
+"There is a set of papers your compliance people tidied up in the second week of October," said Georgij. "My name is on them. Yours is not."
+
+Annie waited.
+
+"There was a line in a book with an owner on it and a date, and my name was not on that either, because there is no column for it." His hands stayed where they were. "The instrument that died at midnight had both. It is the only thing that ever has."
+
+---
+
+Annie got up and took the coat off the back of the chair.
+
+"Mr Chae draws instruments with counterparties in them. He asks what it is for, he writes the answer down, and it goes into a leather case and into a room in Jung-gu, and in twenty years a stranger reads it." She had the coat over her arm and did not put it on. "What you have just said to me is not a thing that goes in a case."
+
+"No, Mistress."
+
+"Then ask me again when there is a room in it."
+
+---
+
+She went out past him with the coat over her arm, the way she had gone out past him on the second of January.
+
+At the door she stopped, which she had not done then.
+
+"You are working again," said Annie. "Nobody has told you what to want."
+
+---
+
+Georgij stayed where he was for a moment after she had gone.
+
+On the second of January he had come off the stairs with a reason inside ten minutes, and he had been satisfied with it for about a week, and it had been wrong for eight of them.
+
+This morning he had nothing at all. That is not the same thing as having nothing to do, and he had spent the winter learning the difference.
+
+* * *
+
+The catalogue came at eleven in a flat parcel with a printed label, addressed to the house and not to anybody in it.
+
+Mrs Seo put it on the desk in the small room with three other things. It lay there until two. Annie was in Yeouido, and there was no reason on earth for Georgij to be in that room.
+
+He went in at two.
+
+---
+
+He picked it up, which he had not done in October.
+
+In October it had lain forty centimetres from his hand at the corner of that desk. He had read it upside down at twenty-two seconds a page and Annie had counted. Neither of them had said out loud what he was looking for.
+
+It was the same size and the same weight. The paper was better.
+
+---
+
+The house used to renumber every month, so a number meant nothing at all. He had worked that out in October in the time it takes to go down one page, and knowing that a number means nothing is the kind of thing a man keeps.
+
+The numbers had stopped meaning nothing.
+
+---
+
+At the foot of the first page, in six point, under a rule that had not been there before:
+
+*References are permanent and are not reissued. Withdrawn and completed entries retain their reference.*
+
+---
+
+He went down the descriptions the way he had gone down them in October, which takes a particular kind of reading, because the whole thing is written in the flat abbreviated language of a livestock list.
+
+Female, twenty-eight. Male, thirty, with a trade. Male, twenty-four, with a mark against him for a second return.
+
+The mark goes in the book now and it stays there, and the man it is against will carry it into every room he is ever stood up in.
+
+Nineteen lots.
+
+He read the whole of it once. He did not read it a second time backwards, the way you check figures, because in October he had been looking for somebody and this morning he was not.
+
+---
+
+At the back there was a page that had never been at the back of anything in that house.
+
+It was a list and it went back four years. A reference, a season, and one word.
+
+The references were not catalogue numbers. Catalogue numbers are made up fresh every month and thrown away when the month is over. These were the numbers out of the book. They stand in a column with an owner and a date beside them, and he had looked at one of them yesterday morning on a photocopy with a grey smear at either end.
+
+*Completed* against most of them. *Withdrawn* against some.
+
+And against four of them, in the same six point, three words in place of the one.
+
+*Retained, not disclosed.*
+
+---
+
+He found eleven, and then he found fourteen, four lines further down in the same column, with the same three words against both.
+
+Four in four years. Two of them were hers.
+
+---
+
+Under the list there was a short paragraph about the keeping of records, and at the bottom of the page a name and a title.
+
+He read the paragraph twice, which he had not needed to do with anything else in that book.
+
+It was four sentences long and every one of them was about method. References are permanent. Entries are retained. The practice is reviewed once a year and the review is minuted. Prior seasons have been brought into the same series.
+
+Nowhere in the four sentences was there a word about what the references were references to.
+
+His chin did what it does in front of work that is better than it has to be. There was nobody in the room to see it, and the work was a paragraph about filing.
+
+---
+
+Georgij put the book down and squared it to the edge of the desk.
+
+Then he stood in that room and did the arithmetic he had been putting off since the foot of the first page.
+
+A reference that is never reissued cannot be taken back. A gap in that list is a gap for as long as the list exists. Every gap carries a season beside it. The list goes out in a flat parcel to everybody who buys.
+
+The line was struck on the nineteenth of February. The striking of it is now the most durable thing about it.
+
+Yesterday he had told her that what was round his neck went on working for exactly as long as nobody looked in that book.
+
+Somebody had made the book portable. It had come up the drive that morning in a flat parcel with a printed label on it.
+
+* * *
+
+Annie came back from Yeouido at ten past eight.
+
+The catalogue was where he had left it, closed and square to the edge, with the other three things beside it.
+
+"You have read it," said Annie.
+
+"Yes."
+
+She took her coat off, put it over the back of the chair, and sat down in the chair she sits in.
+
+"They kept the numbers," said Georgij. "In October a number meant nothing, because they renumbered every month. Now a number is a number for good, and the ones that are gone are printed with the ones that are not, so that a buyer can see that nothing has been quietly lost."
+
+"I know what is on that page."
+
+"Eleven and fourteen. Four lines apart, the same three words against each."
+
+"I know which two they are."
+
+---
+
+Georgij stayed on the far side of the desk.
+
+"You paid to have a line struck out of a book, and the book has begun printing a list of the lines that have been struck out of it."
+
+"Yes."
+
+"Then it is worth more tonight than it was in October." His hands were at his sides again. "Whoever owns that book has the name of every person in this country who has ever paid to make a line go away. There are four lines. I am one of them."
+
+---
+
+Annie looked at the window and not at the desk, and for a while she did not say anything at all.
+
+"There is a name at the bottom of that page," said Georgij.
+
+"There is."
+
+"Did you meet him?"
+
+---
+
+Annie put her hand flat on the arm of the chair.
+
+"Ask me something else."
+
+---
+
+He asked her about the haulier in Gimpo. It was four lines on a sheet she had turned face down in January without a word, and it was two months stale now, and worth about half of what it had been.
+
+She answered him for twenty minutes, in detail, and sent him to find out two things he could only find out by going and looking at somebody.
+
+Neither of them said anything more that evening about the page at the back of the book.
+
+---
+
+In November he had stood in an office at the end of a shed with the sea on three sides of it. He had told an old man that he had nothing to sign with, and that it was not modesty, it was the arrangement.
+
+It was the first evening on which only the first half of that was true.

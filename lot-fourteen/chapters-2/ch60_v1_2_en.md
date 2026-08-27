@@ -1,376 +1,312 @@
-# Chapter 60: Somebody's daughter
+# Chapter 60: She went back
 *Lot Fourteen* · Version 1.2 · EN
 
-## Day Three Hundred and Twenty-Two · Friday 21 August
+## Day Three Hundred and Ninety-Eight · Thursday 5 November
 
-The laundry firm came at nine and were out by twenty past, and one of them was carrying his own folder when he left, which he had not been carrying when he arrived.
-
----
-
-Mrs Seo did not mention it and did not need to.
+She asked on the Thursday morning and she asked Mrs Seo, in the passage behind the kitchen, standing.
 
 ---
 
-"Eleven per cent," she said, on her way past the small room. "It is going to be four."
-
----
-
-Georgij had three days.
-
----
-
-He had asked for none of them. Annie had said Friday on Tuesday morning and had not raised it once since. She went to Yeouido on the Wednesday and the Thursday, came back late both days, and asked him nothing at all.
-
----
-
-He worked out on the Thursday evening what she was doing, and it took him longer than it should have.
-
----
-
-*She has given me three days on my own with a question I said I could not answer. She did the same thing with the four days in June, deliberately, and she has never once explained it and is not going to.*
-
----
-
-He started where he always starts, which is with what he has not got.
-
----
-
-He has eleven years of a trust paying for a house. He has a doctor twice a week and an oxygen order that has gone from thirty days to eleven. He has a room, eleven years ago, and a wedding that did not happen, and two people who used the word unrecognisable about a man who came back from four years away.
-
----
-
-He has no name.
-
----
-
-He wrote that down on the Wednesday morning and looked at it for a while, and then he wrote the second line underneath it, and the second line was the whole of the chapter.
-
----
-
-*Nobody has looked.*
-
----
-
-He went back through everything he has done since March.
-
----
-
-Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the florist, the booking book, the settlement office, the trust, the solicitor, the flat in Seodaemun, the standing order at the grocer's. Eleven weeks of a campaign and a hundred and forty pages of notebook.
-
----
-
-Every single line of it approaches that house from his end.
-
----
-
-He has treated the woman on the oxygen the way the whole of that trade treats her, which is as a thing Choi Dae-ho has. He has spent five months finding out what a man owns and he has never once spent an hour on the question of whose she is.
-
----
-
-*Mr Ahn sat in a shop on a corner for four years with his sister's name in his mouth, on the bus route, in the telephone book. Nobody asked him. Everybody who looked at it was looking for who took her.*
-
-*I wrote that in July. Then I went and did it again to a different woman.*
-
----
-
-She is not a cost.
-
----
-
-She is a woman of about sixty who was going to be married eleven years ago and was not, and a wedding that does not happen is the loudest thing that can happen to a family.
-
----
-
-There were invitations. There was a hall booked and paid for and cancelled. There were people who had bought something to wear. There is a mother somewhere, or there was, and there are cousins, and there is at least one woman of the same age who has told the story at a table.
-
----
-
-A wedding leaves more paper than a death.
-
----
-
-He got that far by Wednesday lunchtime and then he sat with his hands flat on the desk for about a minute, because the next part was going to be worse and he had already seen it.
-
----
-
-If she has people, then for eleven years those people have believed something.
-
----
-
-They have believed that she went abroad, or that she was ill and went into care, or that she stopped speaking to them, or that she died and the funeral was private. One of those is what they were told, and somebody told them, and whoever told them was doing what they were paid to do.
-
----
-
-*Sim has been sending flowers to that house twice a year for eleven years, in April and in October, and October is her mother's month.*
-
----
-
-He put the pen down at that.
-
----
-
-October is her mother's month. He has had that sentence since the first of August and he has been reading it as a date. He has been reading it as a date for three weeks. It is a piece of information about a living arrangement.
-
----
-
-*Somebody told Sim that October was her mother's month. That means somebody knew her mother. That means her mother was alive at the point the arrangement was made, and that the arrangement was made by a person who had been in that family's house.*
+Mrs Seo came up to the study at ten and reported it in the woman's own words, because that is how she reports anything she has been given rather than overheard.
 
 * * *
 
-He found her on the Thursday, and it took eleven hours, and none of it was clever.
+"She wants to go back to that house," said Mrs Seo.
+
+Annie put the pen down.
+
+"Say the rest of it."
+
+"There is a woman in a room at the back of it. She has been on oxygen for eleven years and she has nobody, and this one has taken her a cup twice a day for three and a half years." Mrs Seo had her hands in front of her. "She says that nobody in this house has asked her about that woman, and that she is not complaining about it, and that she is going on the first day somebody will drive her."
 
 ---
 
-A hall in Jung-gu keeps a book. A hall in the same family since 1988 keeps eleven years of them in a cupboard. A woman who has run the diary for nineteen of those years remembers a cancellation the way she does not remember four hundred weddings.
+Annie did not answer that straight away.
 
----
+"And if nobody will drive her," she said.
 
-She remembered it because the deposit was never claimed.
-
----
-
-"Nobody came for it," she said. "We wrote twice. My father wanted to send it to the address and he would not do that either, because you do not put money through a door when you do not know what happened."
-
----
-
-The booking was in the name of the bride's family, because it always is.
-
----
-
-Georgij wrote it down and then wrote it again on a separate page, and put the second page in a different pocket, which he has done four times this year.
+"Then she will find out what a train costs and go on Monday."
 
 * * *
 
-He put all of it in front of Annie at seven on the Friday evening, and he did not sit down on the floor.
+Georgij was at the far end of the passage when Mrs Seo came out, and he had been there long enough to hear the whole of it, and neither of them said anything about that.
 
 ---
 
-"Say the answer to Tuesday's fourth question," she said.
+Annie put her head round the door about a minute later.
+
+"Come in and sit down and tell me how to do it," she said, "and be quick, because I have already decided one part of it and I want to hear whether you get there on your own."
+
+* * *
+
+He sat down and gave it to her in under a minute, because he had had it since the passage.
 
 ---
 
-"I do not have one."
+"Mrs Jeon," he said. "She has done it once, four days ago, in that room downstairs, and she did it correctly. She has a form of words and she has no interest in the answer and she is not from this house." He did not hurry it. "She goes up on Monday with the instrument in a case and reads it out loud and reads the third paragraph twice, and the woman has the same hour that Ahn Jung-hee had."
+
+"That is clean."
+
+"It is clean and it is the version I would put in front of anybody."
 
 ---
 
-"You have had three days and a hall in Jung-gu and eleven hours on a Thursday." Annie put the pen down. "Say what you have instead."
+Annie did not pick the pen back up.
+
+"Now say what is wrong with it," she said. "You have had it for four minutes and you have not liked it for about three."
+
+* * *
+
+Georgij sat with that.
+
+"A woman who has spent eleven years being decided about will say yes to a stranger with a case," he said. "She will say yes in the first four minutes and she will be polite about it, and neither Mrs Jeon nor I would be able to tell the difference between that and wanting it."
+
+"Yes."
+
+"And if she says yes like that, then this house has done the same thing to her that was done to her in February four years ago, with better paper."
 
 ---
 
-"I have the reason I could not answer it." He kept his hands where she could see them. "I could not answer what happens to her because I had spent five months treating her as an item on his balance sheet, and there is no answer to that question, because balance sheets do not have answers. They have costs."
+Annie did not soften anything.
+
+"That is the part I had," she said. "There is a second part and you have not got to it."
+
+* * *
+
+"Then say it."
+
+"She is not going up there to make an offer." Annie had both hands flat on the desk. "She is going up there to ask. Those are two different journeys and only one of them can be refused, and the woman in that room has never in eleven years been on the second one."
 
 ---
 
-"And now."
+Georgij sat very still.
+
+"That is not something a person can be sent to do," he said.
+
+"No. It is not." Annie picked the pen back up and did not use it. "And she asked before either of us thought of it, and she asked a housekeeper in a passage at eight in the morning, and she said she would take a train."
+
+* * *
+
+She wrote three lines and turned the sheet over.
+
+"Jang drives her tomorrow and he sits in the car and does not get out of it," she said. "The nurse is arranged for Wednesday if there is anything to arrange, and she is arranged either way, and if there is nothing then I pay her for the day and she goes home."
+
+"Yes, Mistress."
+
+"And you are not going."
 
 ---
 
-"She has a family name and a hall that is still holding a deposit from eleven years ago. There is at least one person alive who has been told a story about her. I have not gone near any of them and I am not going to until we have decided something, because a family is not a lead and I have been treating people as leads since March."
+"No, Mistress."
+
+"Say why not, because I am not going to be the only person in this room who has thought about it."
+
+* * *
+
+Georgij looked at the edge of the desk.
+
+"Because she has seen me once, in a car in a yard, at a distance, on the day she was bought," he said. "There is no version in which I stand in that doorway and it is about the two of them."
+
+"That is it."
+
+"That is most of it. The rest is that I would arrange it." He did not look away. "I would not mean to and I would do it inside about a minute, and I have watched myself do it eleven times since March."
 
 ---
 
-Annie did not say anything for a moment.
+Annie did not tell him that was wrong.
+
+* * *
+
+## Day Three Hundred and Ninety-Nine · Friday 6 November
+
+They left at seven and Jang had the car back on the drive at twenty to five.
 
 ---
 
-"That is the first time you have used the word we in this room about anything that was not money," she said.
+He came and found Georgij in the small room without being asked to, and stood in the door with his cap still in his hand, which he does not do.
 
----
+"I will give you what I saw and I will not put anything on it," he said.
 
-"There is a second half," said Georgij, "and it is worse, and I would like to get it out in one go."
+"That is what I want."
 
----
+* * *
+
+"The gate was open and there was nobody on it. There has been nobody on it since about September by the look of the grass." Jang was entirely level. "She got out at the front and went up the steps on her own and did not knock, because the door was not locked, and I have been thinking about that on the way back."
 
 "Go on."
 
----
-
-"I do not know that she wants to be taken out."
+"She was in there for one hour and fifty minutes. I could see the front of the building and one window on the ground floor at the back, and the window had a light on in it the whole time, and I did not see anybody move across it."
 
 ---
 
-Annie went very still, in the way she has gone still perhaps four times in eleven months.
+Georgij did not say anything.
 
----
-
-"Say the whole of it."
-
----
-
-"Eleven years is long enough to have decided something." He said it flatly, because it was the only way he was going to get through it. "She is not a woman who was taken last Tuesday. She has been in that house for a third of her adult life and she is on oxygen every eleven days. There is a version of this in which she knows exactly where she is, and who pays for it, and has made her arrangement with it."
-
----
-
-"You do not believe that."
-
----
-
-"I do not have to believe it. I have to not decide it for her." He held her eye. "On the first of March I sat in a room in this house and told you that the collar is not what holds me. Anybody standing in the doorway that morning would have had four good reasons to take it off me for my own sake, and every one of them would have been wrong."
-
----
-
-Annie came round the desk.
-
----
-
-"You are telling me that you will not go in there."
-
----
-
-"I am telling you that somebody has to ask her, and that it cannot be me and it cannot be you." He did not move. "Neither of us has ever been in a room with her. We would arrive with a plan, a set of consequences and a reason for her to say yes. She would say yes. Neither of us could ever prove to ourselves that she had meant it."
-
----
-
-"Then who."
-
----
-
-"The person who has been in that building with her for four years and has no reason on earth to want anything from her. Ahn Jung-hee has taken her breakfast in every morning since the summer of that year. She is the only person in the world who has both of them in the same room."
-
----
-
-Annie stood in the middle of her own study for a while.
-
----
-
-"You have just given the whole of it to two women with no money," she said.
-
----
-
-"Yes."
-
----
-
-"And you know exactly what that is, because it was done to you and you have never once forgiven anybody for it."
-
----
-
-"It was not done to me. That is the difference and it is the only one I have got. Nobody asked me anything. I am proposing that somebody asks."
-
----
-
-Annie went and sat on the edge of the desk, which is not sitting.
-
----
-
-"Then say the order," she said, "because you have changed it and you have not noticed that you have changed it."
-
----
-
-Georgij worked it through out loud, and it took about four minutes, and she let him do all of it.
-
----
-
-Baek and the trust cannot be touched first, because the money is the oxygen. The house cannot be finished first, because finishing it puts a consignment into a room with lawyers in it. And now neither can be touched at all until somebody asks a woman in Gangwon-do a question. The only person who can ask her does not yet know that anybody outside that building has heard her name.
-
----
-
-"Which means," said Georgij, and then stopped.
-
----
-
-"Say it."
-
----
-
-"Which means the first move in the whole of the rest of this is telling Ahn Jung-hee that her brother is alive and has been sitting in a repair shop four streets from her flat for four years." He got it out. "And there is no version of that which is a move. It is a thing you do to a person."
-
----
-
-"And the risk."
-
----
-
-"Is the entire campaign. She has been in that house four years and I do not know one single thing about what she has become in it. If she is frightened enough, she tells the house within an hour, and then he moves both of them, and there is no second attempt at any part of this."
-
----
-
-Annie was quiet for a long time.
-
----
-
-"Do you want my answer or do you want my question," she said.
-
----
-
-"The question."
-
----
-
-"You said in this room on Tuesday that you did not know what happens to the woman on the oxygen, and you said it was the cost of the order of operations." She had not raised her voice at any point in the evening. "It is Friday and you have got up an entire family for her. What did you do on Wednesday night."
-
----
-
-Georgij did not answer straight away.
-
----
-
-"I did not sleep," he said.
-
----
-
-"You know that was not the question."
-
----
-
-"I sat on the floor of the small room from about two until it got light, and I read the July folder again, and I did not learn one thing from it. And at about four I understood that I had been calling a person an operating cost for six weeks, in my own handwriting, in a notebook I keep every day. Nobody made me write it. I did it because it was tidier."
-
----
-
-Annie looked at him.
-
----
-
-"That is the answer to the fourth question," she said. "Not the family and not the hall. That."
+"She came out at ten past two and she did not hurry and she did not look back at the building." He turned the cap over once. "She got into the front and not the back, which she has not done, and she asked me whether I minded, and I said I did not."
 
 * * *
 
-The telephone went at twenty past nine, which is not a time anybody telephones that house.
+"And on the way back," said Georgij.
+
+"She talked for about forty minutes and she talked about the roads." Jang did not move from the door. "She knows that coast. She has been up and down it in other people's cars for four years and she has an opinion about the tunnel at Hongcheon. It is a good opinion. I have been driving that road for eleven years and I had not thought of it."
+
+"She did not say anything about the house."
+
+"She said one thing about the house and she said it at Namyangju and then she stopped, and I did not ask her to go on."
 
 ---
 
-Mrs Seo brought it through rather than calling him, which she has done twice in nine months.
+Jang looked at the floor for a second.
+
+"She said that the kettle was where she left it."
+
+* * *
+
+Mrs Seo had it out of her at six and brought it up to the study at a quarter past, and Georgij was at the far end of the passage and was called in for it.
 
 ---
 
-"Chairman Woo," she said. "He asked after you by name and he said the words please and thank you, and I have run this house for nine years and that is a man who wants something."
+She reported it in three sentences and did not add a fourth.
+
+"The woman is coming on Wednesday. She has asked for the eleventh and not the tenth, and she gave a reason. Wednesday is the day the man comes about the tank, and she does not want him to arrive at an empty room." She had the door still open behind her. "That is the whole of what I was given and I did not ask for more."
+
+* * *
+
+Annie sat with that.
+
+"She thought about the delivery man," she said.
+
+"She thought about the delivery man."
 
 ---
 
-Georgij took it standing in the hall.
+"Say what she was told, in the words she was told them in."
+
+"I was not given those," said Mrs Seo. "I asked once and she said that it was between the two of them, and I said that was correct and I have not asked again."
+
+* * *
+
+Nobody in that room said anything for a moment.
+
+"Then it stays between the two of them," said Annie. "Mrs Seo, the room at the back on the ground floor, because of the stairs. Do it however you think and do not come and ask me about any of it."
+
+"I had the room measured on Wednesday."
 
 ---
 
-"I have it," said Woo.
+Annie almost smiled at that and did not quite.
+
+"Of course you did," she said.
+
+* * *
+
+Georgij wrote it that evening and it took three attempts and he kept the third.
 
 ---
 
-"Say it."
+*A woman who has been free for six days got into a car at seven in the morning and went back through a gate she was carried out of. She asked another woman a question that could be answered with no.*
+
+*Nobody arranged it. Nobody drafted it. There was no paper in the car.*
 
 ---
 
-"No." There was road noise behind him. "I have been in this trade fifty-one years and I have never once said a thing like this into a telephone, and I am not going to start at seventy-eight for your convenience. I will come to you."
+*I had a version ready inside four minutes. It was the correct one and it would have worked, and the woman would have said yes to it, and neither Mrs Jeon nor I would ever have known what we had done.*
+
+*I have spent eight months learning to build rooms that people cannot say no in. I am very good at it now.*
+
+## Day Four Hundred · Saturday 7 November
+
+He did nothing on the Saturday and it took him until about four to notice that there was nothing to do.
 
 ---
 
-"Chairman, you do not come to people."
+The Yeouido file was read. The registry work does not move until Monday. Sim is not to be telephoned before Thursday and Mr Ok is not to be telephoned at all.
+
+He sat in the small room with the book shut in front of him for about an hour, and then he went up.
+
+* * *
+
+Annie was at the desk with the lamp on and a page in front of her.
+
+"Sit down," she said, and did not look up.
 
 ---
 
-"I came to your car three times." A pause exactly long enough to be deliberate. "I am coming on Sunday. Tell your employer that I am coming to see you and not her, and tell her that I said so, because I am not going to have a woman in her own house wondering."
+He went round the desk and sat down on the floor beside it.
+
+She worked and he did not say anything, and the house did the things it does at nine on a Saturday.
+
+* * *
+
+The light outside had gone and neither of them had put on a second lamp.
 
 ---
 
-"Yes."
+He did not say anything at all. He had not come up in order to say anything and she had not sent for him, and both of those were true and neither of them was mentioned.
+
+* * *
+
+Annie put the pen down at about half past nine.
+
+"You were not useful on Thursday and you were not useful on Friday," she said. "It was decided in a passage by a housekeeper and a woman who has been out of that house for six days, and neither of them needed you. I have watched you find that out over two days and I have not helped you with it."
 
 ---
 
-"And Georgij." Woo did not hurry it. "He did not leave that service under a cloud. Somebody put him where he is. I have the name and I have the year. I sat with it for an entire afternoon before I telephoned you, and I have not decided how much of it I am going to say out loud."
+"No, Mistress."
+
+"I am not going to call that a small thing. You have been useful every week since the second of March and you have built the whole of yourself around it." She still did not look up. "So I am going to give you something you have not asked me for, and you are not going to ask me for it either, and then we are not going to do this again."
 
 ---
 
-The line clicked once.
+Georgij did not move at all.
+
+* * *
+
+"On the second of November there was a woman in a car in a yard in Incheon," she said, "and a man in another car who did not get out of it."
+
+"Mistress."
+
+"Mrs Jeon told me about the eleven minutes on the fourth, and I had not asked her for it, and it is the only thing about that Monday she has ever volunteered."
 
 ---
 
-Georgij stood in the hall of a house on the river with the receiver still warm in his hand, for the second time this year, and this time he did not write anything down at all.
+"She told me as well," said Georgij.
+
+"I know she did. She told me on the Wednesday that she was going to, and she told me why, and I said that it was hers to give." Annie's voice did not go anywhere at all. "And the woman spent that evening working out which of the three of us had decided that nobody was going to get out of a car and be kind at her. She got it wrong, and Mrs Jeon told you that too."
+
+* * *
+
+Georgij looked at the leg of the desk.
+
+"She thought it was you."
+
+"She thought it was me." Annie did not move in the chair. "It was not me. I would have sent somebody up those steps with a coat over their arm and a form of words, because that is correct. I have never once in my life been in a room where the kind thing was not also the last part of the transaction."
+
+---
+
+She let that stand where it was.
+
+"You worked out that it was, and you sat still in a car in a yard for eleven minutes, and it cost this house nothing and it bought this house nothing." She picked the pen back up. "There is no figure I can put on that. I have tried twice."
+
+* * *
+
+Georgij did not say anything for a while.
+
+"That is not a use," he said.
+
+"No," said Annie. "It is not."
+
+---
+
+She went back to the page.
+
+* * *
+
+He stayed on the carpet at the side of the desk with his back against the drawers, and she worked, and neither of them said anything for a long time.
+
+---
+
+At about ten she put her hand down onto the back of his head, briefly, and took it away again, and did not stop reading.
+
+---
+
+He sat with that until she sent him down to eat.

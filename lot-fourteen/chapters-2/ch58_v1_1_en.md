@@ -1,336 +1,218 @@
-# Chapter 58: The tenth plate
+# Chapter 58: The second of November
 *Lot Fourteen* · Version 1.1 · EN
 
-## Day Three Hundred and Nineteen · Tuesday 18 August
+## Day Three Hundred and Ninety-Four · Sunday 1 November
 
-The paper has been in the same pocket since the first of August and he has taken it out four times.
+Jang drove the road on the Sunday in daylight, twice, once each way, with nobody in the car.
 
----
+He came back at four and said three things and none of them was about the house. There is a lay-by four kilometres down from the turning with a view of nothing and no forecourt attached to it. The road is single track for about nine hundred metres before that and there is no passing place, so a vehicle coming the other way costs four minutes. And the last petrol before the main road is at the second junction and it has a lavatory that is round the back and does not need a key.
 
-Sim wrote it in a small room at the back of a restaurant at about a quarter to eleven, with a pen out of his own inside pocket. He did it before he could think better of it, and he said so while he was doing it.
-
----
-
-*Do Kyung-ae.*
-
----
-
-Four characters and nothing else on the paper.
+"That is what I have," he said. "I have not been up the drive and I have not looked at the house, and if anybody in that building has seen this car it will have been from the road at fifty."
 
 * * *
 
-Georgij ran it the way he runs anything.
+Mrs Jeon came up from Gwangyang on the Sunday afternoon and did not stay in the house.
 
----
+She stayed at a place on the road two kilometres off, which she arranged herself. She said in one sentence why, and the sentence was that she did not want to arrive at that door in the morning having slept in the building of the woman who paid.
 
-There is no lease anywhere in this country in that name. There is no mobile registration, no vehicle, no bank product that leaves a public trace, no employment record with any agency that supplies domestic staff to the provinces. There is no entry in the resident register that fits a woman of the right age in the right district.
+Georgij took the four pages over at seven and left them with her.
 
----
+She had two hours with them in a room with a light in it and nobody in the doorway, and at ten past nine she telephoned the desk downstairs and asked for him and gave him one sentence.
 
-He got all of that inside three days and he did not enjoy any of it.
+"It is a good instrument and there are two words in the third paragraph that a person reading it at speed could take the wrong way," she said, "and I am going to read that paragraph twice tomorrow and not once."
 
----
+## Day Three Hundred and Ninety-Five · Monday 2 November
 
-On the fourth of August he wrote the conclusion down, and it was wrong, and it took him a fortnight to find out how wrong.
+They left at ten past seven.
 
----
+Jang drove. Mrs Jeon sat in the front, because she said so and because nobody argued. Georgij sat in the back on the left, behind Jang, which is the seat that cannot be seen from a doorway.
 
-*A working name. He has been given one the way Sim has been given one. That is the whole of it and it is a dead end, and I am not going to spend a week proving that a name is empty.*
-
----
-
-He put the paper back in the pocket and went to Ulsan and to a settlement office and to a repair shop on a corner, and it stayed there.
+Mr Ahn was not in the car.
 
 * * *
 
-Mrs Seo caught him at ten past seven with the coffee already poured, which is not a courtesy and never has been.
+He had decided that on the Thursday evening in the shop, standing up, and he had taken about four seconds over it.
 
----
+"No," he had said. "She comes out of a door and the first thing she sees is her brother, who signed the form that put her in there, standing in a yard with three strangers and a car. I have thought about it for one day and there is no version of that which is for her."
 
-"Eun-ju's changed to the early bus," she said. "So breakfast is out at half six from Thursday and the second sitting has gone. If you're going to be in and out at your hours you can tell me the night before and I'll leave you something covered."
+"What you want instead."
 
----
-
-"Yes."
-
----
-
-"You've said yes to that twice." She took the cloth off the pot. "The laundry firm has put their price up eleven per cent and they've put it up because they think nobody in this house reads the second page. I'm having them in on Friday."
-
----
-
-"Would you like anybody in the room."
-
----
-
-"I would not." Mrs Seo looked at him properly for about a second. "There's a plate for you at half six on Thursday whether you're in it or not. That's nine years of this house and it's not going to stop because of whatever you're doing."
+"I want to be in this shop with the door open." He had put both hands on the bench. "And I want somebody to telephone me from the second petrol station and say four words, and the four words are whether she walked out on her own."
 
 * * *
 
-Annie was at the desk in the small room and the page from the hall was in front of her, unfolded now, with two lines added underneath in the same hand.
+The house is a long way up and the last part of it is what Jang said it was.
 
----
+It is not a large house. It is two storeys and it was built in about 1988 for somebody who wanted a view, and the view is real and the house has been added to at the back in a way that does not match.
 
-"You read it last night."
+There are three vehicles on the gravel and two of them are vans with the doors open.
 
----
-
-"I read it in the hall and I read it again upstairs."
-
----
-
-"And then you went to bed at one, which is the third time in eight days." She did not look up. "Mr Koh telephoned Mr Sohn on the eleventh and Mr Baek Hyun-woo on the thirteenth. He has not told me what he said to either of them and I am not going to ask him."
-
----
-
-"Why not."
-
----
-
-"Because he did not ask my permission to do it and I would like to keep it that way." She turned the page round so that it faced him. "Mr Sohn has since cancelled a dinner he goes to every August. He has gone to it for nine years. He telephoned to cancel it himself rather than having somebody do it, which is the part I would look at if I were you."
-
----
-
-Georgij looked at the eleven lines and did not pick them up.
-
----
-
-"That is a man being careful," he said.
-
----
-
-"That is a man being frightened, and he is frightened of a room and not of a person, and he cannot tell anybody why." Annie sat back. "You have spent eleven weeks moving one name at a time and being extremely correct about it. Somebody you spoke to once in June has just moved two of them in a fortnight without being asked. I want you to sit with that rather than be pleased about it."
-
----
-
-"I am not pleased about it."
-
----
-
-"No, you are calculating what it costs you, which is worse." She said it without any edge on it at all. "It costs you nothing. It is the whole point. A man who has worked out that he was used does not need me and does not need you, and the second one of them telephones the next one, this stops being a campaign and starts being weather."
-
----
-
-Georgij stood at the side of her desk and did not sit down on the floor.
-
----
-
-"Say the part you have not said."
-
----
-
-"Weather does not stop when you want it to." Annie looked at him then. "Every man Koh telephones is a man who might telephone the wrong person on a Thursday. I have no way of holding any of it and neither have you." She held his eye. "I have known that since the ninth of June and I have said nothing, because you were not ready to hear it."
+The clearing has already started. It started, from the look of it, on about the Thursday.
 
 * * *
 
-He went down to the small room and put the four characters on the desk in front of him and looked at them for a long time.
+The man who came out is not Mr Tak and is not anybody from any file.
 
----
+He is about fifty and he has a folder, and he was on the step before the car had stopped, and he did the thing that people do when they have been told to be quick and pleasant.
 
-Then he got the July folder out, and the June one, and Jang's second report, and put them in the order they had been given to him rather than the order that would have been tidy.
+Georgij did not get out.
 
----
-
-Nine people work that building on a rota. Four cars, two of them carrying two, counted on eleven separate mornings across six weeks by a man who never went through the gate.
-
----
-
-The grocer delivers a standing order every Friday. It feeds ten.
-
----
-
-He had written both of those down on the twentieth of July, on the same page, four lines apart, and he had said them out loud to Sang-hoon in the same afternoon.
-
----
-
-Nine on the rota.
-
-Food for ten.
+Mrs Jeon got out, and Jang stayed at the wheel with the engine running, which they had agreed on the Sunday.
 
 * * *
 
-He did the thing he does, which is to argue against himself first and properly.
+It took eleven minutes and all of it was paper.
 
----
+The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. There is a place on the third page where the house countersigns, and Mr Hwang had countersigned it on the Friday at his own desk with nobody in the building.
 
-A grocer's order is not a headcount. Kitchens over-order. Nine people who work an eleven-hour rota eat more than nine people who sit at a desk. A house of that size feeds a driver, and a doctor twice a week, and whoever came to look at the boiler.
+The agent read the whole of it, twice, standing on gravel, and then said that everything was in order and asked where the buyer wanted the consignment delivered.
 
----
-
-He gave that side four minutes and it held for about three.
-
----
-
-Because a standing order is not a Tuesday. A standing order is the same number, every week, for four years. It went up once and it went up by one. It has never come down for a holiday or a Sunday or a week when somebody was off sick.
-
----
-
-Nine people go home. The tenth one does not.
-
----
-
-He wrote that down and sat looking at it, and the house did the ordinary things a house does at nine in the morning.
+"She is not a consignment out here," said Mrs Jeon. "She is out here. Go and tell her that somebody has come, and do not tell her anything else, because you do not know anything else."
 
 * * *
 
-Then he went back to the first of August, and to a small room with a folded screen and a bowl of soup that neither of them had touched.
+The agent went in and was gone about four minutes.
 
----
+Georgij sat in the back of a car and watched a doorway and did the only thing he could do with four minutes, which is to count them.
 
-*I have spoken to the same person for four years. About the heating. About whether the second bathroom was worth doing.*
-
----
-
-He had heard that as staff and had written it down as staff, and for sixteen days he had gone on treating it as staff, and he could not now find the moment at which he had decided it.
-
----
-
-A woman on a nine-person rota does not decide whether a second bathroom is worth doing.
-
----
-
-A woman on a rota goes home on Thursday and comes back on Monday and has an opinion about the shift pattern and no opinion whatsoever about the capital works. She does not take a telephone call from Seoul about the heating in November. In November she is in her own flat with her own heating, forty minutes down the valley. The house is a place she is paid to be in.
-
----
-
-*The person who decides about a bathroom is the person who is in the building on the day the men come, and on the day after that, and on every day of the winter it makes a difference to.*
+At the third minute one of the men carried a rolled carpet out of the house and put it in the second van and went back in.
 
 * * *
 
-The name is not a working name.
+She came out on her own.
 
----
+She came out through the door and down the two steps and stopped on the gravel about a metre from the bottom one. She was carrying a bag with a strap, the kind a person takes to a swimming pool, and it was not full.
 
-That was the sentence, and it arrived without any warning at all, and he found that he had put one hand flat on the desk.
+She is thirty-five and she looks like her brother across the eyes and nowhere else.
 
----
-
-He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle, no bank product, no employment record and no line in the resident register. He had read all of it as evidence that the name was false.
-
----
-
-It is not evidence that the name is false.
-
----
-
-It is evidence that the person has no paper.
+She stopped and she looked at the car and at the vans and at the woman standing in front of her, and she did not say anything, and she did not move for about six seconds.
 
 * * *
 
-Georgij sat at a desk in a house on the river and looked at four characters on a piece of paper.
+Mrs Jeon did not step towards her.
 
----
+"My name is Jeon Mi-ja," she said. "I have come from a firm four hundred kilometres from here and I am fifty-one. I was told your name on the twenty-third of October by a man who had gone and asked your brother how your mother said it."
 
-There is a category of person in this country, and in every country, who has a name that people use to their face and nothing at all behind it. No lease, because somebody else holds the lease. No telephone in their own name, because the telephone belongs to the house. No employment record, because they are not employed. No entry anywhere, because an entry would have to be made by somebody, and the somebody who would have to make it is the reason there is nothing to make it about.
+Ahn Jung-hee did not say anything.
 
----
-
-He knows exactly what that is.
-
----
-
-He has been it for seventeen years.
-
----
-
-*In seventeen years across eleven houses the entire administrative record of my existence was other people's paperwork about me.*
-
----
-
-He wrote that in January, in a different room, about himself.
+"I am not from this house and I have never been in it," said Mrs Jeon. "Nobody in this yard is going to tell you anything today that is not true, and if somebody does you are to say so out loud and I will deal with it."
 
 * * *
 
-She is the tenth plate.
+The silence went on for a while.
 
-She is the person Sim telephones about the heating.
+Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which took about a second, and said the first thing she has said to anybody outside that house in four years.
 
-She is the person who has been ordering the oxygen for a woman she has never been introduced to, every eleven days now and every thirty days when she arrived.
-
----
-
-She is the one who goes out and looks at the tank. A rota does not look at a tank. A person who lives there does.
-
----
-
-Ahn Jung-hee runs that household.
-
----
-
-She was in an office four years ago and she solved the thing in front of her in four days without asking anybody. They put her in a house in Gangwon-do, and she has done there what she would have done anywhere.
-
----
-
-She has taken over the ordering.
+"The kettle is on the second shelf," she said. "I moved it on Thursday because they took the counter."
 
 * * *
 
-He did not write any of it down for about ten minutes. When he did, he wrote it in the flattest sentences he could find, because the alternative was to write it in the ones that were actually in his head.
+Nobody in that yard understood it except Mrs Jeon, who has been handing over other people's arrangements since 1998.
 
----
+"Who is it for," she said.
 
-Then he stopped, because the second half of it had arrived.
+"The woman upstairs. She has a cup at eleven and at four and nobody else in this building knows where it is now." Ahn Jung-hee's voice did not do anything at all. "I have told the man twice and he has written it on his hand both times."
 
----
+"Then I will tell him again in front of you before we go, and I will make him write it on the folder and not on his hand."
 
-He has a line into that house. It is the only one anybody has had in eleven years, and it goes directly to her, and it has been in his coat pocket since the first of August.
-
----
-
-And he cannot pull it.
-
----
-
-*If I reach into that house and touch the person who orders the oxygen, and I am seen, she is not moved to another house. She is the reason the house exists. She is moved out of the arithmetic altogether, and it takes one afternoon and one telephone call and there is no paper anywhere that either of us could ever hold up.*
-
----
-
-*She has no line. That is the whole of why she is useful and the whole of why she can be got rid of.*
-
-*I have spent seventeen years being the same thing. I am the only person in this business who was ever going to see it.*
+"Thank you."
 
 * * *
 
-He sat with it until the light on the desk changed.
+They went back in and Mrs Jeon made him write it on the folder, in front of her, and read it back.
 
----
+That took two minutes and it is the only thing anybody from that car did inside that house.
 
-Every road he has taken this year has ended at the same door and he has walked away from it four times and been right every time.
+Georgij stayed in the vehicle for the whole of it and did not once put his hand on the door, and it is the single hardest thing he has done since March.
 
----
+* * *
 
-Baek pays and cannot be touched until she is safe. The house can be finished and finishing it puts the trust into a room with lawyers in it. Sim has turned and is holding and will go on holding. Sim is not the one who reaches into that building, because Sim reaching into that building would be noticed inside a day.
+She got into the back on the right, which is the far side from him, and put the bag on the floor between her feet.
 
----
+Jang turned the car on the gravel and went down the drive at the speed a man drives when there is nothing behind him.
 
-There is exactly one arrangement in the world in which a woman with no paper stops being disposable.
+At the road she looked back once, and it was not at the house.
 
----
+* * *
 
-Somebody with a great deal of money has to be standing underneath her before anybody takes the floor away.
+Nobody said anything for about nine hundred metres, which is the single track.
 
----
+At the lay-by Jang slowed without being asked and said it to the windscreen. There was a place four kilometres down where a person could stand outside for a minute. Nothing to look at, and nobody would come past.
 
-*I do not have money. I do not have a name that opens a door and I do not have a bank product and I have not had one since I was nine years old.*
+"Yes," she said.
 
-*I have one thing, and I have had it since October, and I have asked her for four things in eight months.*
+He stopped there.
 
----
+She got out and stood at the edge of it with her arms at her sides and looked at nothing for about two minutes. Mrs Jeon stood four metres away and did not talk to her. Jang stayed with the car.
 
-He put the paper back in the pocket.
+Georgij did not get out.
 
----
+* * *
 
-Then he stood in the small room for a while longer. A man who goes up those stairs at half past ten to say what he is about to say ought to have spent four minutes on them first.
+At the second petrol station Jang went in and telephoned a repair shop and said four words.
 
----
+The four words were *she walked out alone.*
 
-He had done the arithmetic before he had finished thinking about doing it. He noticed that on the second step and did not stop.
+He came back and said that the man on the other end had not said anything for a while and had then said thank you and rung off, and that he had heard a fan.
 
----
+* * *
 
-There was no light under her door, because it was daylight, and he stood outside it for the length of time it takes to put a cup down.
+She spoke twice more between there and the river, and both times it was to Mrs Jeon, and both times it was a completed thing.
 
----
+Once, about the middle of the journey, she said that the medical gas was delivered on the second Tuesday and that the man who brings it knocks twice and comes in, and that somebody should know that.
 
-Then he knocked.
+Once, near the end, she said that she had signed nothing since February four years ago and asked whether she was going to have to.
+
+That is the first question she has asked anybody in this book.
+
+"Yes," said Mrs Jeon. "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." She did not turn round. "And if you do not want to sign it then you do not sign it, and nothing about today comes undone."
+
+* * *
+
+They came up the drive at eleven minutes past three.
+
+Annie was not on the step and was not in the hall and had given an instruction about it in the morning that nobody in that house had needed explained.
+
+Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way.
+
+Georgij stood in the drive for a moment after the car had gone round to the back.
+
+* * *
+
+He went up at about six because he was sent for.
+
+Annie was at the desk and had not done anything all day, which he could see from the top of the stairs.
+
+"Say it," she said.
+
+"She walked out on her own. She has a bag with a strap and it is not full. She spoke four times between the door and this drive and three of them were about somebody else in that building." He did not soften any of it. "And the fourth was a question, and it was whether she would have to sign anything."
+
+Annie looked at the window and not at him.
+
+"And the other woman."
+
+"Still in the building. The kettle is on the second shelf and a man has written it on a folder."
+
+* * *
+
+Neither of them said anything for a while.
+
+"Then we have taken one out of a house that is being emptied," said Annie, "and left one in it, and today is the day that was always going to be, and I would like it noted that neither of us is going to feel it properly until about Thursday."
+
+"Yes, Mistress."
+
+"Go and eat something. And Georgij."
+
+"Mistress."
+
+"You did not get out of the car."
+
+"No."
+
+"Say who told you not to."
+
+"Nobody told me," said Georgij. "A man in a workshop said on the twenty-sixth that the first true sentence had better not come from a man." He did not look away. "I decided on the Sunday that the next best thing was to be a person she did not have to account for."
+
+Annie did not say anything for a moment.
+
+"That is the correct answer," she said, "and I am not going to tell you what it cost you, because you already know and it would be a way of taking it off you."

@@ -1,312 +1,218 @@
-# Chapter 55: Consigned by
+# Chapter 55: Twenty-three days
 *Lot Fourteen* · Version 1.2 · EN
 
-## Day Three Hundred and Thirteen · Wednesday 12 August
+## Day Three Hundred and Eighty-Five · Friday 23 October
 
-It took three days, exactly as Mr Yeom had said it would, and then it took two more because the post is the post.
+He went down on the first train and it takes a little over three hours if the connection at Iksan is kept, and it was.
 
----
+He had nothing with him except the notebook, and it stayed in the inside pocket the whole way. He also had one thing he had been given on the Tuesday evening in a repair shop, and he had written that on the back of his own hand and not in a book.
 
-He brought it himself rather than telephoning, at half past ten in the morning, in a car he had driven, and he did not come in.
+Mr Ahn had taken about forty seconds over it, which is longer than he takes over anything.
 
----
-
-"I have not opened it," he said, at the gate. "It has my name on it and I have not opened it, and I have been sitting outside your gate for six minutes deciding whether that was principle or cowardice."
-
----
-
-"It is your letter."
-
----
-
-"It is not my letter." He handed it across. "I have been a director of that fund for eight months and I have opened one folder in that time, and I am not going to make the first thing I read properly be this."
-
----
-
-He turned the car round in the road and went.
+"Nobody has said it in front of me since the February she went," he had said. "I have to hear it first."
 
 * * *
 
-It is one sheet, on the house's paper, and it is headed *Statement of Record* and then, underneath, *furnished under clause 11*.
+Gwangyang from the station is an arrangement of roads around a working port. The firm is on the fourth of them, in a two storey building with a tyre place underneath it and a stair up the outside.
 
----
+The stair is new. The rail on it is not.
 
-The first paragraph acknowledges the request and quotes the clause back at itself. The statement has been prepared from the permanent series, it says, and entered in the permanent series under the reference of the lot to which it relates.
+The plate by the door says the firm and underneath it, on a strip of white card cut with scissors and taped on straight, it says *Settlement*.
 
----
-
-The entry number of the statement is given. It is the next number in the sequence.
-
----
-
-Georgij read that line twice before he read anything else, because it is the whole thing and everything after it is content.
-
----
-
-*It exists. As of the tenth of August there is an entry in a permanent series, under her number, in a house that cannot take an entry out.*
-
-*Whatever else happens this year, that is now true and stays true, and I did it with a drawer key and eleven pages and a man who changed one word.*
-
----
-
-Then he read the rest, and it was not what he had built the letter for.
-
----
-
-He had built it for *nil*.
-
----
-
-The record is not nil.
-
----
-
-The renumbering.
-
----
-
-Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps forty times since, and he has never once thought about what it actually required a man to do.
-
----
-
-Thirty years, four systems, one sequence. A man came into that building in the autumn and went through three decades of paper and gave every lot in the history of the house a permanent number.
-
----
-
-Including the ones that were not there any more.
-
----
-
-A man who is tidying finds a gap. A man who is proud of his tidiness does not skip it. He writes down that there is a gap, and where the gap is, and what he could recover about what used to be in it, because a sequence with a silent hole in it is not a sequence.
-
----
-
-The strike-through in the old book removed the line.
-
-The renumbering, three years later, recorded that a line had been removed, under a permanent number, in a series that nothing comes out of.
-
----
-
-*He did not know what he was doing. He was doing his job better than anybody has ever done it in that building. It is the most dangerous thing anybody in this business has done to that man in twenty years, and he did it with a pencil in the autumn.*
-
----
-
-The statement runs to eleven lines.
-
----
-
-It gives the lot reference and the date of entry into the old series, which is the twelfth of February, four years ago. Georgij sat down when he read it, because he has been carrying the spring in his head since May.
-
----
-
-She was in that book from February. Not from the spring. She was catalogued, and held, and open, for seven weeks before the sale at which she was not sold.
-
----
-
-It gives the date of removal from the old series.
-
-It gives the fact of removal and does not give a reason, because the old book did not record one and the man who made the new series would not invent one.
-
----
-
-And it gives, because the old book gave it, and because a house that renumbered everything did not renumber selectively, the field that every lot in that building has had since the place opened.
-
----
-
-*Consigned by.*
-
----
-
-There is a name in it.
-
----
-
-There is a name and there is an address, and the address is four streets from a building in Seodaemun with eight flats and a lift bolted on the outside.
-
----
-
-Georgij sat in the small room with a sheet of paper on the desk and two vases of white stems going over at different rates, and did not move for about four minutes.
-
----
-
-He has spent three months asking who took her out.
-
----
-
-It has not occurred to him once, in three months, to ask who brought her in.
-
----
-
-*Somebody walked her into that building.*
-
-*Somebody filled in a form and gave an address four streets from her own. The house took her and catalogued her and held her open for seven weeks. Then a man telephoned Mr Yeom and asked him for a favour on behalf of somebody who would be grateful.*
-
-*The favour was not the beginning. The favour was the tidying up afterward.*
-
----
-
-He wrote that and then made himself write the next part, because it was the part he did not want.
-
----
-
-*Everything I have built since May has been about a man who arranges things and a man who is pleasant to kitchens and a woman who has been kept in a house for eleven years.*
-
-*None of them put her in that book. A person with an address did that, and the address is four streets from hers, and there is exactly one kind of person who lives four streets from you and can walk you into a building like that.*
-
----
-
-He did not take it up to her straight away.
-
----
-
-He sat with it for two hours and did the whole of it himself, on the page, in the order it came, and he made himself write the second reading before he was pleased with the first one.
-
----
-
-*Seven weeks catalogued and open and not sold. A lot goes in and goes out. Seven weeks is what happens when a house is holding a thing for somebody who has not decided yet.*
-
-*Or for somebody who has decided and is waiting for a reason, and I would like it on this page that the second one took me forty minutes longer than the first and that I did not want it.*
-
----
-
-And the other half, which he wrote standing up.
-
----
-
-*A person who walks a member of their own family into a building like that has told themselves a story about it. They have had four years to make it a good one, and I am going to walk into a room where somebody believes it.*
-
-*I could take it off them. It is what I have been doing since June and it works and it would work on this one, and it would get me a name and a date and it would end a person.*
-
-*And I am going to that address inside a fortnight, and both of those sentences are true at once, and I am writing them one under the other so that neither of them gets to be the only one.*
-
----
-
-He read the two pages back and noticed something that had not been true since about the middle of June.
-
----
-
-He had not brought any of it upstairs to have it turned over.
+It has been there since the ninth of October, which is her second week.
 
 * * *
 
-She came down at half past eleven, which she does not do.
+She came down the outside stair to fetch him herself, because the office has no bell and the nephew who runs it has been meaning to see about that since 2022.
 
----
+She is wearing what she wore in Incheon.
 
-"You have been down here since ten," she said.
+"Three hours and eleven minutes," said Mrs Jeon.
 
----
+"Three hours and nineteen. There was a wait at Iksan."
 
-"I have."
+"There is always a wait at Iksan and it is always eight minutes." She turned round on the stair. "Come up. The kettle is on and there is nowhere to sit that is not somebody's chair, and you are having the nephew's, because he is at the port until two."
 
----
+* * *
 
-"Say what it is, and say it finished, because you have had thirteen hours and I am not going to do the interesting part for you at this hour."
+The office is one room with four desks in it and three of them face the window.
 
----
+Hers does not. Hers faces the wall, and on the wall there is a run of shelving the whole length of it. On the shelving there are ninety or a hundred box files with years on the spines, and the years are not in order.
 
-He gave it to her finished, in four minutes, both readings, and the fortnight, and the thing about the story that a family tells itself.
+"They were in order when I came," she said. "That is the first thing I did and it took eleven days and it is not finished."
 
----
+"What you found."
 
-Annie listened to the whole of it standing in the doorway with one hand on the frame.
+"Hello first. You have come four hundred kilometres and you have started with a question, and I am going to be difficult about that for about a minute because it is my office."
 
----
+"Hello, Mrs Jeon."
 
-"Good," she said, when he had stopped.
+"Hello." She put the cup down in front of him. "Now ask me again."
 
----
+* * *
 
-"That is all."
+What she found is that the firm has been settling in good faith for nineteen years and has been wrong about one thing since 2011.
 
----
+She explained it to him for six minutes and he understood about two thirds of it.
 
-"That is all, because there is nothing left in it for me to do." She came in properly then. "In June you brought me halves. That was correct in June. It has not been correct since about the end of July and I have been waiting to see how long it would take you to stop."
+The two thirds came to this. There is a category of short haul in which the firm has been paying a levy that stopped applying in 2011. Nobody has ever looked, because the man who set the schedule up died in 2013 and the nephew inherited a thing that appeared to work.
 
----
+"How much," said Georgij.
 
-Georgij sat with that.
+"I am not going to tell you the number, because it is theirs and not mine and you are not from here." She said it without any heat in it at all. "It is a number that changes what that man can do with the next five years. I found it in my third week, and I found it because I put the boxes in order."
 
----
+"Have you told him?"
 
-"I have been using you as the second half of my own head," he said.
+"I told him on Tuesday morning and he sat down." Mrs Jeon turned her cup a quarter turn. "And then he asked me what I thought he should do about it, and I have been in offices since 1998 and no man has ever asked me that."
 
----
-
-"You have. And I have let you, because it is my house and my money and the line on that page is mine, and it has been very easy for both of us to call it ours." Annie did not soften it. "It is not ours. The part you are doing now is yours. You have been calling it my business since May and it stopped being my business on the day you started counting kitchens."
-
----
+* * *
 
 Neither of them said anything for a moment.
 
----
+Out of the window on the far side of the room there is a crane and a piece of the water.
 
-"Then I will stop saying it," said Georgij.
+"That is the whole of the last three weeks," she said, "and I have said it out loud once and it was to you, and now we are going to do the reason you came, because you did not come four hundred kilometres for a levy."
 
----
+Georgij put both hands on the desk.
 
-"Do not stop saying it to me. Stop saying it to yourself." She looked at the sheet on the desk. "That is a piece of paper that exists because you read a clause in a contract nobody has ever read. There is no version of this month in which that is mine."
-
----
-
-He did not answer, because there was nothing to put next to it.
-
----
-
-Annie came round the desk and stood behind the chair.
-
----
-
-She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to.
-
----
-
-She put one hand into his hair, at the back, the way she used to in the spring when a day had been long and neither of them said anything about it. She left it there while she read the eleven lines over his shoulder.
-
----
-
-Georgij closed his eyes and did not move at all.
-
----
-
-"You have not slept properly since the eighteenth of July," she said.
-
----
-
-"No."
-
----
-
-"I know. I have not said anything about it for three weeks because you were doing something and I was not going to be the reason it stopped." Her hand did not move. "It is finished for tonight. The address is four streets from a flat and it has been there for four years and it will be there on Friday."
-
----
-
-"Yes, Mistress."
-
----
-
-"And this house is not a place where you sit up alone at half past eleven with a page about a person who was sold." She took her hand away, slowly, which is how she does it when she means it to be noticed. "Come up."
-
----
-
-He came up.
+"No," he said.
 
 * * *
 
-He wrote it up at eleven and the entry is four lines and the last one is the only one he had to think about.
+"Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do Kyung-ae for four years and that is not a name she chose."
+
+Mrs Jeon did not write anything down and did not reach for anything.
+
+"How it is written."
+
+He said how it is written. It took a moment. The second character of the given name is one that two families in this country write differently, and hers is the older way, which is her father's side.
+
+"And which part of it her mother used."
+
+"Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work in Seoul her mother went back to Jung-hee-ya on the telephone and never once in a room." Georgij did not look away. "That is from her brother, on Tuesday evening, and it took him forty seconds. He told me that nobody has said it in front of him since the February she went, and that he had to hear it first."
+
+* * *
+
+Mrs Jeon sat with that for a while.
+
+"Thank you," she said.
+
+"You do not have to."
+
+"I know that I do not have to, and I am going to, and you are going to sit there." She put both hands flat. "I asked you for that on the eleventh of September and I asked for it because it was the only thing in the whole arrangement that I could insist on. I did not expect to get the third part. I expected the name and an apology about the rest."
+
+"You would have got the third part in September if I had thought to ask for it in September."
+
+"That is also true, and I am not going to take it off you." She picked her cup up. "Now say the part you have been carrying up that stair, because you have been carrying it since the bottom step."
+
+* * *
+
+"March is gone," said Georgij.
+
+He gave it to her in the order it had happened, and it took four minutes, and he did not soften any of it.
+
+November. The room at the back being cleared. A man in a roof space with a torch on the twenty-second of September. The line cut on the thirtieth. The money liquid on the twenty-second of October. An administrator who consented on the fifteenth, a form of four pages, and an entry in a permanent series that cannot be withdrawn.
+
+"So the first hour is in November," he said, "and I do not have a day. I will have a day when the placing party has the form, and I am told that they move on the house before the end of the month."
+
+Mrs Jeon did not say anything.
+
+"You have been here twenty-three days," said Georgij.
+
+"I have been here twenty-three days."
+
+* * *
+
+She got up and went to the shelving and put one hand on a box file and did not take it down.
+
+"There is a rest of it," she said, "and you have not got and you have not got to it."
+
+"There is no version in which you are in that room in November and also here in November."
+
+"No."
+
+"And a firm that has had a settlement desk for three weeks does not hold a settlement desk open for a woman who leaves in her fourth week to do a thing she cannot describe." He kept his hands where she could see them. "I am not going to tell you it will be all right, and I am not going to offer to arrange it. Arranging it would mean a person on this coast being told something about you by somebody from a house on a river."
+
+"That is correct and I would have refused it."
+
+* * *
+
+She stood at the shelving with her back to him.
+
+"I have had four things happen to me this year," said Mrs Jeon. "In January I was told I had twenty-three years and eight weeks. In May I went out of that door. In June a firm four hundred kilometres away offered me a desk and I did not go for three months because I could not take a thing that arrived on its own. In October I came, and in three weeks I have found a levy from 2011 and been asked what I think."
+
+"Yes."
+
+"And now a man has come down on the first train to tell me that the fifth thing is in November and that it will cost me the fourth." She turned round. "I want you to know that I have understood that completely, and that you have not tricked me, and that I am about to say yes."
+
+* * *
+
+Georgij did not say anything at all.
+
+"Back to me first," she said. "The condition."
+
+"You are told nothing about the rest of the arrangement. You get her name, which you now have, and you get the day when I have it, and you get the instrument to read." He said it exactly. "You are in that room in the first hour. You are not the woman who paid and you are not me. And what she does with what you tell her is hers."
+
+"And if I go in there and she does not want it."
+
+"Then that is what happened, and you come out and you tell the truth about it to me, and nobody in this arrangement gets a comfortable version." Georgij held her eye. "You made that condition on the eleventh of September as well, and I have not forgotten it, and I would rather say it than have you ask."
+
+* * *
+
+"Then yes," said Mrs Jeon.
+
+She came back to the desk and sat down.
+
+"I will tell the nephew on Monday that I may have to go for about a week at short notice in November, and I will not say what for." She turned the cup a quarter turn. "He will say yes, because it is three weeks and he still thinks he owes me for the levy." She turned the cup back the other way. "And in January, when he has stopped thinking that, we will find out what I am actually worth here. That is the correct order and I would not want it the other way round."
+
+"That is a very cold way to describe it."
+
+"It is not cold. It is a schedule." She looked at the shelving. "I have had twenty-three years of being liked by a house that put me out in eight weeks. I would sooner be needed here for a levy than liked here for a fortnight."
+
+* * *
+
+He was there until twenty past one and did not do anything useful for the last fifty minutes of it.
+
+She talked about the nephew, who is thirty-four and frightened of the port and hides it by being early to everything. She talked about the woman on the second desk, who has been there eleven years and spent the first fortnight waiting to be told that the new person had come to replace her. Nobody told her. Nobody in that office is unkind and nobody had thought to say it, and she found out by accident on the ninth.
+
+"I said it to her on the ninth," said Mrs Jeon. "In the corridor, badly, on a Friday, with something else as the reason. Twenty-three years and that is still the only way it comes out of me."
+
+Georgij put his cup down.
+
+"That is the way somebody else does things," he said, "and she said it to me in October last year, in a room with a fire in it, about herself."
+
+"Then she is right and so am I, and neither of us invented it."
+
+* * *
+
+At the top of the outside stair she said one more thing.
+
+"You brought nothing again."
+
+"You told me to."
+
+"I told you that on the eleventh of September, about a flat in Incheon, and it was a different instruction and you know it was." Mrs Jeon had one hand on the rail that is not new. "You have come four hundred kilometres to say a name properly, and to tell me a date that costs me a job, and to say a condition back to me that I could have recited myself. That is not nothing. I am fifty-one and I can tell the difference."
+
+Georgij stood on the stair.
+
+"I will telephone you with the day," he said, "and it will be the day I have it and not the day after."
+
+"I know. Go on. You have a train at ten past two and there is a wait at Iksan."
+
+* * *
+
+There is a wait at Iksan and it is eight minutes.
+
+He stood on the platform in the eight minutes and did not open the notebook, and then got on the train and opened it at about Cheonan and wrote three lines.
+
+*She has been there twenty-three days and she has found a thing that changes five years for a man of thirty-four, and she said the number was not hers to give me.*
+
+*Nobody has ever asked her what she thinks. She is fifty-one.*
+
+*And I have come down here and taken the fourth thing off her in order to give her the fifth, and she saw the whole of it before I finished the sentence and said yes anyway.*
 
 ---
 
-*The statement exists and is entered and cannot be removed. It cost eleven pages, a drawer key, and one word from a man of sixty-three.*
+He looked at the three lines for a while and then wrote one more underneath.
 
-*She went into the book on the twelfth of February, four years ago, and stayed in it for seven weeks.*
-
-*There is a consignor with an address four streets from her own.*
-
----
-
-And underneath, on its own, because he sat and looked at the page for a while before he put it down.
-
----
-
-*I have been calling her the person nobody can prove exists. Somebody proved it. They filled in a form in February and signed it, and the house has kept their handwriting for four years and did not know it was keeping anything at all.*
+*Every person in this arrangement who is not being paid has now given up something they had. The two who are being paid have given up nothing at all.*

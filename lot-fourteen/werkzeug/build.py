@@ -675,14 +675,13 @@ def build_reader(root, chapters):
 # Luecken erlaubt - aber angemeldet, sonst faellt eine vergessene Datei nicht
 # mehr auf. Begruendung in doc/23-kuerzen.md unter "Das Verfahren".
 GESTRICHEN = {
-    (2, 68): "am 26.08. mit 67 zusammengelegt",
-    (2, 44): "am 26.08. mit 43 zusammengelegt",
-    (2, 16): "am 26.08. aufgeloest, zwei Absaetze in 17",
-    (2, 30): "am 26.08. mit 29 zusammengelegt",
-    (2, 59): "am 26.08. mit 58 zusammengelegt",
-    (2, 34): "am 26.08. mit 33 zusammengelegt",
-    (2, 27): "am 26.08. mit 26 zusammengelegt",
-    (2, 79): "am 26.08. mit 78 zusammengelegt",
+    # Leer, und das ist der Zustand, den man haben will. Am 27.08. ist Band 2
+    # auf die Folge aus Teil XII durchnummeriert worden, 1 bis 83, und die acht
+    # Luecken der alten Zaehlung sind dabei verschwunden - die Nummern gibt es
+    # nicht mehr, statt frei zu stehen. Die zwei Plaetze, die danach noch
+    # reserviert waren (60 und 76), sind am selben Tag gefuellt worden.
+    # Ein Eintrag hier heisst ab jetzt immer: da fehlt etwas, und jemand hat
+    # gesagt, dass es fehlen darf. Zuordnung alt nach neu: archiv/UMNUMMERIERUNG.md
 }
 
 

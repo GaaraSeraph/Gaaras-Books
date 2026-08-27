@@ -2,7 +2,7 @@
 
 *Erzeugt von `build.py` aus den Kapitelkoepfen. Wird nicht bearbeitet.*
 
-116 Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im Kapitel selbst
+117 Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im Kapitel selbst
 und werden hier nur eingesammelt. **Wer etwas aendern will, aendert das Kapitel.**
 
 Was ein Kapitel *bedeutet*, steht nicht hier, sondern unter seinem Thema im Kanon.
@@ -59,78 +59,71 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 13** *What it costs him* (v1.8) · Tag 188, Do 9. April · 2.173 W
 - **B2 14** *Ask her* (v1.7) · Tag 193, Di 14. April · 2.408 W
 - **B2 15** *One word, and it was true* (v1.5) · Tag 202, Do 23. April · 2.001 W
-- **B2 17** *Four minutes of somebody's time* (v1.6) · Tag 206, Mo 27. April · 2.034 W
-- **B2 18** *The face on it* (v1.5) · Tag 206, Mo 27. April · 2.033 W
-- **B2 19** *The third time* (v1.5) · Tag 209, Do 30. April · 2.120 W
-- **B2 20** *Cheaper than deciding* (v1.11) · Tag 209, Do 30. April · 2.640 W
-- **B2 21** *Tidily* (v1.9) · Tag 213, Mo 4. Mai · 2.583 W
-- **B2 22** *I did not offer you anything* (v1.8) · Tag 215, Mi 6. Mai · 1.985 W
-- **B2 23** *Three of the four* (v1.7) · Tag 222, Mi 13. Mai · 2.011 W
-- **B2 24** *Ten minutes on a Friday* (v1.6) · Tag 224, Fr 15. Mai · 2.033 W
-- **B2 25** *Four people who could see us* (v1.5) · Tag 230, Do 21. Mai · 2.099 W
-- **B2 26** *What he collects* (v1.8) · Tag 236, Mi 27. Mai · 3.886 W
-- **B2 28** *He keeps everything* (v1.8) · Tag 237, Do 28. Mai · 2.444 W
-- **B2 29** *A person with nothing* (v1.10) · Tag 238, Fr 29. Mai · 4.419 W
-- **B2 31** *Nobody hides flowers* (v1.3) · Tag 239, Sa 30. Mai · 2.317 W
-- **B2 32** *Where the name goes* (v1.5) · Tag 242, Di 2. Juni · 2.352 W
-- **B2 33** *The best company in the room* (v1.8) · Tag 243, Mi 3. Juni · Tag 244, Do 4. Juni · 4.211 W
-- **B2 35** *Everything I am allowed to say* (v2.10) · Tag 244, Do 4. Juni · Tag 245, Fr 5. Juni · 3.878 W
-- **B2 36** *An empty table* (v2.5) · Tag 249, Di 9. Juni · 3.288 W
-- **B2 37** *The one who asked a question* (v2.6) · Tag 251, Do 11. Juni · Tag 255, Mo 15. Juni · 3.856 W
-- **B2 38** *Tell him or ask him* (v2.7) · Tag 257, Mi 17. Juni · 2.933 W
-- **B2 39** *The man kitchens talk to* (v2.6) · Tag 259, Fr 19. Juni · 2.888 W
-- **B2 40** *Somebody who did not arrive in a car* (v2.9) · Tag 261, So 21. Juni · 2.775 W
-- **B2 41** *The name he books under* (v2.5) · Tag 262, Mo 22. Juni · Tag 263, Di 23. Juni · 3.854 W
-- **B2 42** *The evenings he lost nothing at* (v2.7) · Tag 270, Di 30. Juni · 3.327 W
-- **B2 43** *Somebody in Seoul pays for it* (v2.8) · Tag 273, Fr 3. Juli · Tag 276, Mo 6. Juli · 4.788 W
-- **B2 45** *The line above it* (v1.5) · Tag 279, Do 9. Juli · 2.162 W
-- **B2 46** *The post still comes* (v1.4) · Tag 283, Mo 13. Juli · 2.551 W
-- **B2 47** *Twelve white stems* (v1.5) · Tag 288, Sa 18. Juli · 1.889 W
-- **B2 48** *The one who does not leave* (v1.2) · Tag 290, Mo 20. Juli · 2.296 W
-- **B2 49** *What he asked her* (v1.4) · Tag 292, Mi 22. Juli · 2.033 W
-- **B2 50** *The one he kept* (v2.7) · Tag 298, Di 28. Juli · 2.914 W
-- **B2 51** *The sixth one* (v1.5) · Tag 300, Do 30. Juli · 2.112 W
-- **B2 52** *Against her return* (v1.8) · Tag 302, Sa 1. August · 3.099 W
-- **B2 53** *The one I did not say in May* (v1.5) · Tag 305, Di 4. August · 2.498 W
-- **B2 54** *Clause eleven* (v1.4) · Tag 307, Do 6. August · 2.824 W
-- **B2 55** *Consigned by* (v1.3) · Tag 313, Mi 12. August · 2.042 W
-- **B2 56** *Four streets* (v1.8) · Tag 315, Fr 14. August · 2.653 W
-- **B2 57** *Nobody paid* (v1.10) · Tag 318, Mo 17. August · 2.942 W
-- **B2 58** *Buy her* (v1.11) · Tag 319, Di 18. August · 4.472 W
-- **B2 60** *Somebody's daughter* (v1.4) · Tag 322, Fr 21. August · 2.442 W
-- **B2 61** *The doorway* (v1.9) · Tag 324, So 23. August · 2.338 W
-- **B2 62** *At thirty* (v1.14) · Tag 324, So 23. August · 2.429 W
-- **B2 63** *One sentence* (v1.9) · Tag 326, Di 25. August · 2.145 W
-- **B2 64** *The one who orders* (v1.9) · Tag 328, Do 27. August · 2.279 W
-- **B2 65** *No story at all* (v1.7) · Tag 333, Di 1. September · 2.128 W
-- **B2 66** *What silence costs* (v1.4) · Tag 334, Mi 2. September · 2.096 W
-- **B2 67** *What he was for* (v1.13) · Tag 336, Fr 4. September · Tag 339, Mo 7. September · 4.993 W
-- **B2 69** *The call he did not take* (v1.6) · Tag 341, Mi 9. September · 2.942 W
-- **B2 70** *Nothing to bring* (v1.3) · Tag 342, Do 10. September · 2.276 W
-- **B2 71** *The page in the drawer* (v1.4) · Tag 342, Do 10. September · Tag 343, Fr 11. September · 3.649 W
-- **B2 72** *The fourteenth* (v1.5) · Tag 346, Mo 14. September · 2.302 W
-- **B2 73** *What the month is for* (v1.3) · Tag 347, Di 15. September · 2.139 W
-- **B2 74** *Forty-one seconds* (v1.8) · Tag 348, Mi 16. September · Tag 350, Fr 18. September · 3.557 W
-- **B2 75** *The man at the table* (v1.3) · Tag 350, Fr 18. September · 2.539 W
-- **B2 76** *What came back* (v1.1) · Tag 353, Mo 21. September · Tag 356, Do 24. September · 2.006 W
-- **B2 77** *The room at the back* (v1.3) · Tag 360, Mo 28. September · 2.317 W
-- **B2 78** *The only line out* (v1.6) · Tag 363, Do 1. Oktober · Tag 364, Fr 2. Oktober · Tag 367, Mo 5. Oktober · 4.048 W
-- **B2 80** *The only door* (v1.2) · Tag 369, Mi 7. Oktober · Tag 371, Fr 9. Oktober · 2.060 W
-- **B2 81** *The permanent series* (v1.7) · Tag 377, Do 15. Oktober · 2.640 W
-- **B2 82** *Eleven years of paying for it* (v1.3) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.448 W
-- **B2 83** *Twenty-three days* (v1.2) · Tag 385, Fr 23. Oktober · 2.428 W
-- **B2 84** *The consignor of record* (v1.2) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.132 W
-- **B2 85** *They did not argue about it* (v1.2) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 2.037 W
-- **B2 86** *The second of November* (v1.1) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.147 W
-- **B2 87** *The first hour* (v1.4) · Tag 396, Di 3. November · Tag 397, Mi 4. November · 2.013 W
-- **B2 88** *Please guide me* (v2.0) · Tag 399, Fr 6. November · 3.281 W
-- **B2 89** *What became of them* (v1.0) · Tag 404, Mi 11. November · Tag 409, Mo 16. November · Tag 411, Mi 18. November · 2.085 W
-- **B2 90** *The weapon* (v1.9) · Tag 415, So 22. November · 2.729 W
-- **B2 16** gestrichen: am 26.08. aufgeloest, zwei Absaetze in 17
-- **B2 27** gestrichen: am 26.08. mit 26 zusammengelegt
-- **B2 30** gestrichen: am 26.08. mit 29 zusammengelegt
-- **B2 34** gestrichen: am 26.08. mit 33 zusammengelegt
-- **B2 44** gestrichen: am 26.08. mit 43 zusammengelegt
-- **B2 59** gestrichen: am 26.08. mit 58 zusammengelegt
-- **B2 68** gestrichen: am 26.08. mit 67 zusammengelegt
-- **B2 79** gestrichen: am 26.08. mit 78 zusammengelegt
+- **B2 16** *Four minutes of somebody's time* (v1.6) · Tag 206, Mo 27. April · 2.034 W
+- **B2 17** *The face on it* (v1.5) · Tag 206, Mo 27. April · 2.033 W
+- **B2 18** *The third time* (v1.5) · Tag 209, Do 30. April · 2.120 W
+- **B2 19** *Cheaper than deciding* (v1.11) · Tag 209, Do 30. April · 2.640 W
+- **B2 20** *Tidily* (v1.9) · Tag 213, Mo 4. Mai · 2.583 W
+- **B2 21** *I did not offer you anything* (v1.8) · Tag 215, Mi 6. Mai · 1.985 W
+- **B2 22** *Three of the four* (v1.7) · Tag 222, Mi 13. Mai · 2.011 W
+- **B2 23** *Ten minutes on a Friday* (v1.6) · Tag 224, Fr 15. Mai · 2.033 W
+- **B2 24** *Four people who could see us* (v1.5) · Tag 230, Do 21. Mai · 2.099 W
+- **B2 25** *What he collects* (v1.8) · Tag 236, Mi 27. Mai · 3.886 W
+- **B2 26** *She has a list* (v3.0) · Tag 237, Do 28. Mai · Tag 238, Fr 29. Mai · 6.850 W
+- **B2 27** *Nobody hides flowers* (v1.3) · Tag 239, Sa 30. Mai · 2.317 W
+- **B2 28** *Where the name goes* (v1.5) · Tag 242, Di 2. Juni · 2.352 W
+- **B2 29** *Two witnesses* (v3.0) · Tag 243, Mi 3. Juni · Tag 244, Do 4. Juni · Tag 244, Do 4. Juni · Tag 245, Fr 5. Juni · 8.069 W
+- **B2 30** *An empty table* (v2.5) · Tag 249, Di 9. Juni · 3.288 W
+- **B2 31** *The one who asked a question* (v2.6) · Tag 251, Do 11. Juni · Tag 255, Mo 15. Juni · 3.856 W
+- **B2 32** *The man kitchens talk to* (v3.0) · Tag 257, Mi 17. Juni · Tag 259, Fr 19. Juni · 5.805 W
+- **B2 33** *Somebody who did not arrive in a car* (v2.9) · Tag 261, So 21. Juni · 2.775 W
+- **B2 34** *The name he books under* (v2.5) · Tag 262, Mo 22. Juni · Tag 263, Di 23. Juni · 3.854 W
+- **B2 35** *Somebody in Seoul pays for it* (v3.0) · Tag 270, Di 30. Juni · Tag 273, Fr 3. Juli · Tag 276, Mo 6. Juli · 8.095 W
+- **B2 36** *The line above it* (v1.5) · Tag 279, Do 9. Juli · 2.162 W
+- **B2 37** *The post still comes* (v1.4) · Tag 283, Mo 13. Juli · 2.551 W
+- **B2 38** *Twelve white stems* (v1.5) · Tag 288, Sa 18. Juli · 1.889 W
+- **B2 39** *The one who does not leave* (v1.2) · Tag 290, Mo 20. Juli · 2.296 W
+- **B2 40** *What he asked her* (v1.4) · Tag 292, Mi 22. Juli · 2.033 W
+- **B2 41** *The one he kept* (v2.7) · Tag 298, Di 28. Juli · 2.914 W
+- **B2 42** *The sixth one* (v1.5) · Tag 300, Do 30. Juli · 2.112 W
+- **B2 43** *Against her return* (v1.8) · Tag 302, Sa 1. August · 3.099 W
+- **B2 44** *The one I did not say in May* (v1.5) · Tag 305, Di 4. August · 2.498 W
+- **B2 45** *Clause eleven* (v1.4) · Tag 307, Do 6. August · 2.824 W
+- **B2 46** *Consigned by* (v1.3) · Tag 313, Mi 12. August · 2.042 W
+- **B2 47** *Four streets* (v1.8) · Tag 315, Fr 14. August · 2.653 W
+- **B2 48** *Buy her* (v1.11) · Tag 319, Di 18. August · 4.472 W
+- **B2 49** *Somebody's daughter* (v1.4) · Tag 322, Fr 21. August · 2.442 W
+- **B2 50** *One sentence* (v1.9) · Tag 326, Di 25. August · 2.145 W
+- **B2 51** *The one who orders* (v1.9) · Tag 328, Do 27. August · 2.279 W
+- **B2 52** *The only door* (v1.3) · Tag 369, Mi 7. Oktober · Tag 371, Fr 9. Oktober · 2.075 W
+- **B2 53** *The permanent series* (v1.7) · Tag 377, Do 15. Oktober · 2.640 W
+- **B2 54** *Eleven years of paying for it* (v1.3) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.448 W
+- **B2 55** *Twenty-three days* (v1.2) · Tag 385, Fr 23. Oktober · 2.428 W
+- **B2 56** *The consignor of record* (v1.2) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.132 W
+- **B2 57** *They did not argue about it* (v1.2) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 2.037 W
+- **B2 58** *The second of November* (v1.1) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.147 W
+- **B2 59** *The first hour* (v1.6) · Tag 396, Di 3. November · Tag 397, Mi 4. November · 2.002 W
+- **B2 60** *She went back* (v1.2) · Tag 398, Do 5. November · Tag 399, Fr 6. November · Tag 400, Sa 7. November · 2.446 W
+- **B2 61** *The draught under the door* (v2.6) · Tag 404, Mi 11. November · Tag 409, Mo 16. November · 2.074 W
+- **B2 62** *The second Tuesday* (v3.1) · Tag 431, Di 8. Dezember · 2.077 W
+- **B2 63** *Nobody paid* (v3.0) · Tag 434, Fr 11. Dezember · 2.496 W
+- **B2 64** *A man who answers* (v3.0) · Tag 437, Mo 14. Dezember · Tag 439, Mi 16. Dezember · 2.269 W
+- **B2 65** *No story at all* (v3.0) · Tag 440, Do 17. Dezember · 2.224 W
+- **B2 66** *What silence costs* (v3.0) · Tag 441, Fr 18. Dezember · Tag 442, Sa 19. Dezember · Tag 444, Mo 21. Dezember · 3.691 W
+- **B2 67** *The fourth time* (v3.1) · Tag 445, Di 22. Dezember · 2.306 W
+- **B2 68** *What he was for* (v3.0) · Tag 451, Mo 28. Dezember · 2.422 W
+- **B2 69** *Over the dessert* (v3.1) · Tag 453, Mi 30. Dezember · 2.598 W
+- **B2 70** *Three pieces of good news* (v3.1) · Tag 460, Mi 6. Januar · Tag 461, Do 7. Januar · Tag 462, Fr 8. Januar · Tag 463, Sa 9. Januar · 2.834 W
+- **B2 71** *The doorway* (v3.0) · Tag 464, So 10. Januar · 2.331 W
+- **B2 72** *At thirty* (v3.0) · Tag 464, So 10. Januar · 2.566 W
+- **B2 73** *Not four* (v3.0) · Tag 465, Mo 11. Januar · Tag 466, Di 12. Januar · 2.724 W
+- **B2 74** *Nine boxes* (v3.2) · Tag 472, Mo 18. Januar · Tag 473, Di 19. Januar · Tag 489, Do 4. Februar · 2.878 W
+- **B2 75** *I require your instructions* (v3.0) · Tag 493, Mo 8. Februar · 2.400 W
+- **B2 76** *The only line out* (v1.0) · Tag 497, Fr 12. Februar · Tag 500, Mo 15. Februar · 2.844 W
+- **B2 77** *Nobody asked* (v3.0) · Tag 510, Do 25. Februar · Tag 514, Mo 1. Maerz · 2.702 W
+- **B2 78** *No occasion* (v3.1) · Tag 517, Do 4. Maerz · Tag 522, Di 9. Maerz · 2.146 W
+- **B2 79** *Twenty-seven* (v3.1) · Tag 531, Do 18. Maerz · 2.501 W
+- **B2 80** *Please guide me* (v3.0) · Tag 531, Do 18. Maerz · 2.115 W
+- **B2 81** *The length of the room* (v3.2) · Tag 531, Do 18. Maerz · 2.515 W
+- **B2 82** *Not the comfortable part* (v3.0) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 2.511 W
+- **B2 83** *The weapon* (v3.0) · Tag 590, So 16. Mai · 2.094 W
