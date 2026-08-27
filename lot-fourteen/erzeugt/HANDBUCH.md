@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 230.456 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 230.432 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -700,7 +700,7 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 
@@ -1956,7 +1956,7 @@ steht der Widerspruch am selben Abend wieder da.
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 
@@ -5821,7 +5821,7 @@ Uhr prüfen lassen**, und das gehört zu ihr wie das Halsband zu ihm.
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 
@@ -6346,7 +6346,7 @@ Regel ueberhaupt etwas bedeutet.
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 
@@ -7247,7 +7247,7 @@ nicht ins Archiv.
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 
@@ -7811,7 +7811,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 
@@ -9159,7 +9159,7 @@ wiederhergestellt (b2 K21, b2 K05).
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 
@@ -14092,7 +14092,7 @@ Was hier steht, ist ab jetzt Plan: das Ziel, der Feldzug, die offenen Faeden.
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 

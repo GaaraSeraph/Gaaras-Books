@@ -537,7 +537,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
 ---
 
-# Aus dem Kapitelindex, gesiebt am 27.08.
+# Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*
 
