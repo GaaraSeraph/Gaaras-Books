@@ -221,10 +221,10 @@ Uhr prüfen lassen**, und das gehört zu ihr wie das Halsband zu ihm.
 *Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
 
 102. **b2 K12, Annies zwei Bedingungen:** kein unwahres Wort, und *"When it is finished you will come to this room and tell me whether you enjoyed it."*
-103. **b2 K30, vollstaendig:** *"I will not give anything of yours to anybody without asking you first, and if the room is such that I cannot ask, I will not give it, and I will lose whatever is lost."*
-104. **b2 K32:** Mrs Jeons Blatt ueber Hwang geht **an Georgij**, mit Auflage *"You will keep it and you will not use it."*
-105. **b2 K20:** Nam wird in etwa vier Monaten eingestellt, **nicht von ihm**, und sie erfaehrt nie, woher es kommt.
-106. **b2 K29:** *"Whatever it is, and whenever I have it, you will hear it from me and not from anybody else."*
+103. **alt K30, vollstaendig:** *"I will not give anything of yours to anybody without asking you first, and if the room is such that I cannot ask, I will not give it, and I will lose whatever is lost."*
+104. **b2 K28:** Mrs Jeons Blatt ueber Hwang geht **an Georgij**, mit Auflage *"You will keep it and you will not use it."*
+105. **b2 K19:** Nam wird in etwa vier Monaten eingestellt, **nicht von ihm**, und sie erfaehrt nie, woher es kommt.
+106. **b2 K26:** *"Whatever it is, and whenever I have it, you will hear it from me and not from anybody else."*
 107. **b1 K31 / b2 K6:** *"I will ask you again in March"* - **sie hat nie wieder gefragt**, und die Zusage ist am 16. Maerz eingeloest worden, auf den Tag drei Monate.
 
 210. **Die Bedingung fuer den Abholtag:** *"whoever is in the car has about four minutes to be the first person in four years who says a true sentence to her, and it had better not be a man."*

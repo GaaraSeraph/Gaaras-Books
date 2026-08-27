@@ -376,7 +376,7 @@ Antwort auf ihre Frage aus Block J.
 >   das:** *"Der Schneider legt in B1 5 zwei Finger unter die Vorderkante, um zu
 >   messen. Das ist nicht sie und darf nie mit ihr verwechselt werden."*
 > - **Der Text hat sich fuer die Regel entschieden.** Die Geste faellt, aber erst
->   in **Band 2, Kapitel 35** (Do 4. Juni), zweihundert Tage spaeter und **an der
+>   in **Band 2, Kapitel 29** (Do 4. Juni), zweihundert Tage spaeter und **an der
 >   Seite** statt an der Vorderkante: *"she reached over and put two fingers under
 >   the collar, at the side, where the skin is"*, und danach *"She has never done
 >   that."* Sie steht als Zeile 8 in Register C.

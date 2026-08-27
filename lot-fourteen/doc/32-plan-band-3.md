@@ -8,9 +8,9 @@ hierher, sobald jemand sie durchgeht.
 
 **Bekannt und noch nicht eingetragen:** der Umschlag mit Chairman Woos vier
 Antworten, der beim Anwalt liegt und **am Tag seines Todes** faellig wird
-(b2 K78) - der einzige Faden im Buch mit einem Termin, den niemand
+(b2 K76) - der einzige Faden im Buch mit einem Termin, den niemand
 nachschlagen kann. Und die **achtundfuenfzig Namen** hinten in Georgijs
-Notizbuch (b2 K89), von denen es heisst, das werde Jahre dauern.
+Notizbuch (b2 K61), von denen es heisst, das werde Jahre dauern.
 
 ---
 
@@ -44,7 +44,7 @@ ein zweites Mal. Georgijs einzige Gnade an diesem Abend hat ihn in eine zweite
 Versteigerung gebracht, und die Frau, die ihn dort gekauft hat, ist dieselbe,
 die vier Stunden vorher Georgij gekauft hat.
 
-**Was Band 2 dazu tun muss: nichts.** Was es nicht tun darf: den Satz aus K90
+**Was Band 2 dazu tun muss: nichts.** Was es nicht tun darf: den Satz aus alt K90
 beilaeufig widerrufen oder das zweite Los im Vorbeigehen erklaeren. **Er steht
 da, damit er in Band 3 aufgemacht werden kann**, und die einzige Stelle, an der
 er im Buch auftaucht, ist eine Nebenbemerkung ueber eine Zahlung an einen

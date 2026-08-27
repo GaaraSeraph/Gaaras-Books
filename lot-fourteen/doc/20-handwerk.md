@@ -467,7 +467,7 @@ three weeks answering. Tonight I stop."*
   2. **Band 1, Kapitel 13** (Do 30. Oktober), ueber Woos Schiffsagenten:
      *"Georgij laughed properly at it, which was not work."* **Echt.** Der
      Zusatz ergibt nur Sinn, weil es den Vergleichsfall fuenf Tage vorher gibt.
-  3. **Band 2, Kapitel 54** (Do 6. August): *"He laughed at something that is
+  3. **Band 2, Kapitel 45** (Do 6. August): *"He laughed at something that is
      not funny to anybody else and would not survive being explained."*
      **Echt**, und der Satz davor setzt eine Frequenz: *"did the thing he does
      about once a year."*
@@ -961,7 +961,7 @@ rechte Spalte liest, wendet vier gefallene Regeln an.**
 |---|---|---|
 | **B1** | Fragezeichen, 150 gesetzt | **HAELT NICHT.** Der angefuehrte Beleg ist eine Ueberschrift, deren eigener Text sie einschraenkt; `CLAUDE.md` verbietet das Verfahren woertlich |
 | **A4** | Sim, Anwesenheitspflicht | **HAELT NICHT** - der Beleg ist falsch |
-| **A6** | Ahn Jung-hee, *"noch kein direktes Zitat"* | **HAELT NICHT MEHR.** Sie spricht seit b2 K64 |
+| **A6** | Ahn Jung-hee, *"noch kein direktes Zitat"* | **HAELT NICHT MEHR.** Sie spricht seit b2 K51 |
 | **C7** | Verbotstest gestrichen, Sperre bleibt | **HAELT NICHT** |
 | **A3** | Sim, vier verbotene Rahmen | **HAELT ZUR HAELFTE** |
 | **A5** | Mrs Ha, Urheberschaft | **UNSICHER**, und das Werkzeug sagt es selbst |
@@ -990,7 +990,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 | **stand** | *"Verboten: die Und-Kette. Er baut kurz und schlägt zu."* |
 | **jetzt** | *"Er darf: die Und-Kette - er sortiert damit Beweise wie ein Prüfer."* |
 | **Grund** | **Das Blatt widersprach sich selbst**; beide Sätze standen drei Absätze auseinander |
-| **Beleg** | Er hat im ganzen Buch **zwei** Und-Ketten, und beide tun dasselbe: drei Sachen aufzählen, dann den Augenblick datieren. b2 K42 *"He ate, and he complimented something, and he left before the coffee, and I have never once put those three facts in a row until this minute."* · b2 K45 dieselbe Form |
+| **Beleg** | Er hat im ganzen Buch **zwei** Und-Ketten, und beide tun dasselbe: drei Sachen aufzählen, dann den Augenblick datieren. b2 K35 *"He ate, and he complimented something, and he left before the coffee, and I have never once put those three facts in a row until this minute."* · b2 K36 dieselbe Form |
 | **Risiko, wenn falsch** | Ein Durchgang nach der alten Regel streicht die zwei Stellen, an denen der Mann merkt, was er acht Jahre nicht gesehen hat |
 
 ### A2. Woo: die Negativdefinition gehört ihm nicht - mit einer Ausnahme
@@ -998,7 +998,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 | | |
 |---|---|
 | **stand** | *"Was ihm nicht gehört, war die Negativdefinition"*, zwei Stellen ersetzt |
-| **jetzt** | dieselbe Regel **plus eine geschützte Ausnahme** in b2 K57 |
+| **jetzt** | dieselbe Regel **plus eine geschützte Ausnahme** in b2 K63 |
 | **Beleg** | *"He asked me who I would telephone if it went badly." Woo said it exactly, in the way of a man repeating something he has repeated to himself. "Not who I had told. Not who knew. Who I would telephone."* |
 | **Grund** | Das ist **Choi Dae-hos Frage in Woos Mund**, und der Begleitsatz sagt es. Sie ist seit dreiundzwanzig Jahren wörtlich in ihm |
 | **Risiko** | Die mechanische Regel löscht die einzige belegte Frage Chois, die nicht nach einem Geschäft fragt, sondern nach einer Verbindung |
@@ -1009,7 +1009,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 |---|---|
 | **stand** | Sims Blatt hatte **kein** Verbot |
 | **jetzt** | *"There is a second half"* · *"There is one more thing and it is"* · *"neither of them was"* · *"it is not the one"* sind verboten |
-| **Beleg** | Vier-Wort-Wendungen, die im ganzen Buch **nur Georgij und Sim** benutzen: b2 K18 gegen K74, K21 gegen K72, K19 gegen K72, K19 gegen K64 |
+| **Beleg** | Vier-Wort-Wendungen, die im ganzen Buch **nur Georgij und Sim** benutzen: b2 K17 gegen alt K74, K21 gegen alt K72, K19 gegen alt K72, K19 gegen b2 K51 |
 | **Grund** | Georgij **hält zurück und gibt dann frei**; Sim hält nichts zurück, er gibt her und erklärt die Gabe |
 | **erlaubt bleibt** | *"you have not asked"* - bei Georgij markiert es, dass er etwas **hat**, bei Sim, dass er **wartet zu geben** |
 
@@ -1034,7 +1034,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 |---|---|
 | **stand** | *"NOCH KEINE STIMME"* / *"Sie hat im ganzen Buch noch nie gesprochen"* |
 | **jetzt** | *"NOCH KEIN DIREKTES ZITAT"* |
-| **Grund** | Sie hat in b2 K64 und b2 K72 geredet, und **derselbe Abschnitt sagte das dreißig Zeilen tiefer selbst** |
+| **Grund** | Sie hat in b2 K51 und alt K72 geredet, und **derselbe Abschnitt sagte das dreißig Zeilen tiefer selbst** |
 | **Beleg** | Beide Male gibt **Sim** sie am Telefon wieder. Ein direktes Zitat von ihr existiert nicht |
 
 ### A7. Choi Dae-ho: "er isst nichts" war das Gegenteil
@@ -1043,8 +1043,8 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 |---|---|
 | **stand** | *"er isst nichts"* und *"er stellt genau eine Frage"* |
 | **jetzt** | **er isst viel - nur nicht vor Leuten, an denen er arbeitet**; und er stellt viele Fragen |
-| **Beleg** | Annie, b2 K18: *"He eats a great deal, and he enjoys it … He does not eat in front of people he is working on."* Fragen: allein in Mr Oks Bericht b2 K17 vier |
-| **Risiko** | Ein Mann, der nichts isst, ist eine Marotte. Einer, der viel isst und ausgerechnet beim Arbeiten nicht, ist eine **Landkarte** - Georgij benutzt sie in K42 und K62 |
+| **Beleg** | Annie, b2 K17: *"He eats a great deal, and he enjoys it … He does not eat in front of people he is working on."* Fragen: allein in Mr Oks Bericht b2 K16 vier |
+| **Risiko** | Ein Mann, der nichts isst, ist eine Marotte. Einer, der viel isst und ausgerechnet beim Arbeiten nicht, ist eine **Landkarte** - Georgij benutzt sie in b2 K35 und b2 K72 |
 
 ---
 
@@ -1057,7 +1057,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 | **Regel** | unverändert, `doc/20-handwerk.md`: *"Steht er in Fragesyntax … kommt ein Fragezeichen hin, egal wie kalt er ist."* |
 | **geändert** | Das Buch befolgte sie 156-mal nicht. **150 gesetzt in 70 Kapiteln** |
 | **Verfahren** | auf `check.py`s eigener Liste, nicht auf einem Muster von mir |
-| **stehen gelassen** | b1 K01 *"When he bought the boy."* · b1 K09 *"Whatever I was given."* · b1 K24 *"What you paid me in on the gravel…"* · b1 K26 *"What she wants is shares…"* · b2 K18 *"What it changes is you."* - **fünf Aussagesätze mit Fragewort am Anfang** |
+| **stehen gelassen** | b1 K01 *"When he bought the boy."* · b1 K09 *"Whatever I was given."* · b1 K24 *"What you paid me in on the gravel…"* · b1 K26 *"What she wants is shares…"* · b2 K17 *"What it changes is you."* - **fünf Aussagesätze mit Fragewort am Anfang** |
 | **und** | **b1 K34 *"Is that all of it."*** - vom Handwerksdokument ausdrücklich als Gegenprobe gesetzt: *"umgestellt ist Forderung"* |
 | **Prüfung** | `faktenspur.py`: null bewegte Zahlen. `check.py` meldet danach genau diese sechs |
 
@@ -1106,7 +1106,7 @@ die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
 | # | Test | Fund |
 |---|---|---|
 | 6 | **Anwesenheitsprobe** (`anwesenheit.py`) - kommen ihre eigenen Züge in **ihrer** Rede vor, Kapitel für Kapitel? | Sims fehlende Höflichkeit, Mrs Has Rückkanal auf null |
-| 7 | **Veralterung** - zitiert das Blatt die Kapitel, in denen sie spricht? | Sims Blatt endete bei K41, 64 von 65 Repliken stehen danach |
+| 7 | **Veralterung** - zitiert das Blatt die Kapitel, in denen sie spricht? | Sims Blatt endete bei b2 K34, 64 von 65 Repliken stehen danach |
 | 8 | **Index-Verzerrung** - getaggte gegen tatsächliche Repliken | Mrs Ha 16 statt 39, Chae 7 statt 17, Woo 87 statt rund 172 |
 
 **Fünf nur durch Lesen** (die fünfte kam am 26.08. dazu, siehe C9):
@@ -1117,7 +1117,7 @@ die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
 | 10 | **Rückkanal** - fragt sie je nach dem Gegenüber? Nimmt sie ein Angebot an, das die Szene ihr hinlegt? | Mrs Ha nimmt Georgijs *"I will answer any question you ask me"* nie an |
 | 11 | **Zustand** - ändert die Antwort des anderen, **was sie danach hergibt**? | Mrs Has Szene hatte eine Reihenfolge, keinen Zustand |
 | 12 | **Erklärt sie die Regel?** - spricht sie die Mechanik des Gesprächs aus? | **meine eigene Zeile**, nicht die des Buchs |
-| 13 | **Warum tut sie nicht das Naheliegende?** - unterlässt eine Figur mit Mitteln die offensichtliche Handlung, ohne dass der Text den Grund nennt? | am 26.08. an der Hafenfläche in b2 K78/K79 gefunden (seit demselben Tag **ein** Kapitel, K78), **von keiner der zwölf Prüfungen** |
+| 13 | **Warum tut sie nicht das Naheliegende?** - unterlässt eine Figur mit Mitteln die offensichtliche Handlung, ohne dass der Text den Grund nennt? | am 26.08. an der Hafenfläche in b2 K76/alt K79 gefunden (seit demselben Tag **ein** Kapitel, b2 K76), **von keiner der zwölf Prüfungen** |
 
 **Zwei Sperren, keine Tests:** der Vorab-Test jeder Ersatzzeile gegen den Korpus
 (13) und `faktenspur.py` plus `check.py` vor jedem Push (14).
@@ -1259,7 +1259,7 @@ seiner Szene liegen. Das ist der Charme dieses Buchs. Er darf nichts behaupten,
 was nicht stimmt, und claims müssen verifiziert sein gegenüber Sachen im Buch."*
 
 Zwei richtige Sätze waren auf die falsche Regel hin gestrichen worden; sie sind
-wiederhergestellt (b2 K21, b2 K05).
+wiederhergestellt (b2 K20, b2 K05).
 
 ---
 
@@ -1271,14 +1271,14 @@ wiederhergestellt (b2 K21, b2 K05).
    sind, besonders **b1 K34**.
 3. **A5** - ob *"stellt die Urheberschaft richtig"* wirklich Mrs Has Maschine
    ist oder nur ein auffälliger Marker.
-4. **Ein offener Sachpunkt, nicht meiner:** in b2 K67 sagt Georgij jetzt
+4. **Ein offener Sachpunkt, nicht meiner:** in alt K67 sagt Georgij jetzt
    *"A woman in Seoul"* über seine Auftraggeberin. Den Namen hält er zurück,
    aber die **Existenz** einer Auftraggeberin räumt er hier zum ersten Mal so
    ein. Er ist mit Annie sonst streng.
 5. **Die Testbatterie selbst (C0)** - ob die zwölf Prüfungen die richtigen
    Fragen stellen, und ob das Streichen von Test 5 voreilig war. Ein Verfahren,
    das die falschen Fragen stellt, liefert lauter richtige Antworten auf nichts.
-6. **Ein Widerspruch, den ich nicht angefasst habe:** b2 K33 benutzt dieselbe
+6. **Ein Widerspruch, den ich nicht angefasst habe:** b2 K29 benutzt dieselbe
    Wendung *"Two people, four years and one telephone number apart"* zweimal mit
    verschiedenem Bezug - einmal die **Empfänger**, einmal die **Sprecher**.
 
@@ -1291,10 +1291,10 @@ wiederhergestellt (b2 K21, b2 K05).
 *Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
 
 97. **"Ein Bild, das man erklaeren muss, ist ein kaputtes Bild."** (Aus der Aufloesung des *"nahen und fernen Endes"* am 23.08.)
-98. **Die Machtlage entscheidet die Satzzeichen, nicht der Rang.** Zweimal belegt: b2 K28 gibt Hwang Fragezeichen, weil er in diesem Raum die Macht hat; b2 K29 laesst Mrs Jeons Frage hochgehen, und der Text sagt es ausdruecklich dazu.
+98. **Die Machtlage entscheidet die Satzzeichen, nicht der Rang.** Zweimal belegt: b2 K26 gibt Hwang Fragezeichen, weil er in diesem Raum die Macht hat; b2 K26 laesst Mrs Jeons Frage hochgehen, und der Text sagt es ausdruecklich dazu.
 99. **Ein Kapitel, in dem nur die Kostenseite ausbuchstabiert ist, sieht aus wie ein Verlust.** (Aus der Rueckfahrt in b2 K8.)
 100. **Eine Zahl allein wird nicht geprueft, eine Zahl neben ihrem Datum schon.** (Aus Schritt 3a, gilt fuer jedes erzeugte Verzeichnis.)
 101. **Ein geplanter Satz in einem Kanondokument ist der Stand, gegen den eine Schreibsitzung schreibt.** Korrigiert am 26.08.: *"If the world points anything at you at all, I will burn the world down"* stand als bestehender Satz da und **ist bis heute nicht geschrieben.**
 
-208. **Die Messung vom 25.08., und sie ist die schaerfste Selbstdiagnose im Dokument:** die Kapitel 68 bis 75 lagen bei **60 bis 77 Prozent Dialog** und bis zu **42 Szenentrennern**, waehrend B2 1 bis 50 bei 54 Prozent und 2,0 Szenen liegen. ***"Das Buch war zu einer Folge von Verhoeren in Raeumen geworden."*** Kapitel 76 antwortet darauf mit **28 Prozent Dialog**, keiner Szene mit zwei Leuten und einer Frage, und einem abgedruckten Dokument. K86 liegt bei 32 Prozent, K83 bei 57.
+208. **Die Messung vom 25.08., und sie ist die schaerfste Selbstdiagnose im Dokument:** die Kapitel 68 bis 75 lagen bei **60 bis 77 Prozent Dialog** und bis zu **42 Szenentrennern**, waehrend B2 1 bis 50 bei 54 Prozent und 2,0 Szenen liegen. ***"Das Buch war zu einer Folge von Verhoeren in Raeumen geworden."*** Kapitel 76 antwortet darauf mit **28 Prozent Dialog**, keiner Szene mit zwei Leuten und einer Frage, und einem abgedruckten Dokument. b2 K58 liegt bei 32 Prozent, b2 K55 bei 57.
 209. **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** vor einem Ergebnis drei Erwartungen aufschreiben, datiert und unterschrieben. *"Inside four seconds you will have a version of yourself that expected it. It is the cheapest thing you do and it is the only one you do not know about."*

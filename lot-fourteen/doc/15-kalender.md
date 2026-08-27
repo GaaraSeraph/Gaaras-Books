@@ -31,14 +31,14 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 1, Kapitel 1** - die Auktion | 1 | Sa **4. Oktober 2025** |
 | Band 1, Ende | 149 | So 1. Maerz 2026 |
 | **Band 2, Kapitel 1** | 150 | Mo 2. Maerz 2026 |
-| **Band 2, Kapitel 90** - Bandende | 415 | So **22. November 2026** |
+| **frueheres Kapitel 90** - Bandende | 415 | So **22. November 2026** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26, Band 2 fast vollstaendig im
 Jahr 2026.** Die Wochentage sind ueber alle 124 Kapitel geprueft und stimmen:
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 *"Sunday 22 November"*, der Kalender sagt Sonntag.
 
-**Annie ist damit achtunddreissig.** Woo sagt in Band 2, Kapitel 61, dass sie
+**Annie ist damit achtunddreissig.** Woo sagt in Band 2, Kapitel 71, dass sie
 2002 vierzehn war; das ergibt Geburtsjahr 1987 oder 1988. Passt zu `doc/11-figuren.md`
 ("Ende dreissig") und zu Kapitel 62, in dem sie seit ihrem dreissigsten
 Lebensjahr Geschaefte macht.
@@ -207,88 +207,88 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
   **drei der fuenf Namen vom Januar-Essen stehen auf der Versandliste**
   (Band 2, Kapitel 15)
 - Tag 199, Mo 20. April: **das Haus am Fluss nimmt keine Einlieferungen mehr an**
-  (Band 2, Kapitel 16, rueckblickend)
+  (frueheres Kapitel 16, rueckblickend)
 - Tag 204, Sa 25. April: **Mr Ok.** Zwei der drei Namen fallen ohne Aufwand weg.
   Der dritte hat am 12. Maerz um sechzehn Uhr vierzig eine Seite kopieren lassen,
   **zweimal**, und in seinem Buero steht keine einzige Anweisung. **Nach Georgijs
   eigener Probe ist er eine Hand.** Und die zweite Kopie ist irgendwo
-  (Band 2, Kapitel 16)
+  (frueheres Kapitel 16)
 - Tag 206, Mo 27. April: **Mr Ok an seiner eigenen Mauer.** Erschreckt und
   sonst nichts. Er liefert den Januar-Mann: sechzig, nicht gross, hat nichts
   gegessen, wurde ohne Namen vorgestellt, rief in der ersten Maerzwoche an -
   **und sagte zum Abschied "I am glad we finally met", obwohl sie sich nie
-  begegnet waren** (Band 2, Kapitel 17)
+  begegnet waren** (Band 2, Kapitel 16)
 - Tag 206, Mo 27. April, abends: **Annie kennt ihn und sagt es zum ersten Mal.**
   Den Namen gibt sie trotzdem nicht, und diesmal mit dem echten Grund: **der Name
   ist das Einzige, was Georgij lesbar machen wuerde.** Statt dessen ein
-  Verhaltensmerkmal, das mehr wert ist (Band 2, Kapitel 18)
+  Verhaltensmerkmal, das mehr wert ist (Band 2, Kapitel 17)
 - Tag 208, Mi 29. April: die Liste der neun Mahlzeiten wird geschrieben und
   **durchgestrichen** - Annie hatte *met* gesagt und er hatte *eaten with*
   gehoert. **Das Haus am Fluss schliesst fuer das Publikum**
-  (Band 2, Kapitel 19, rueckblickend)
+  (Band 2, Kapitel 18, rueckblickend)
 - Tag 209, Do 30. April: **der dritte Zug nach Ulsan.** Die drei Unglueck, die
   Entschuldigung fuer den 20. Maerz, der Neffe, und die Zusage ueber den
   Versender. Ihre Frage: **"Was it you, or was it her."**
-  (Band 2, Kapitel 19)
+  (Band 2, Kapitel 18)
 - Tag 209, Do 30. April, nachts: **die Abrechnung.** Er hat den Termin gehalten.
   Er sagt die Wahrheit auf Annies zweite Bedingung: **einmal, anderthalb
   Sekunden, an einem Tor.** Und er bittet um den Deckel zurueck. **Sie sagt
-  nein** (Band 2, Kapitel 20)
+  nein** (Band 2, Kapitel 19)
 - Tag 213, Mo 4. Mai: **das leere Haus am Fluss.** Georgij nimmt Hwangs Regel
   auseinander und bekommt den Namen des Vorgaengers, der die vier Gebuehren
-  genommen hat (Band 2, Kapitel 21)
+  genommen hat (Band 2, Kapitel 20)
 - Tag 215, Mi 6. Mai: **Mr Byun in Seongdong.** Er kann sich nicht erinnern,
   welche vier. Georgij bietet ihm nichts an und nimmt trotzdem, was er hergibt:
   **die vierte Gebuehr kam vom Eigentuemer persoenlich, aus der eigenen Tasche**
-  (Band 2, Kapitel 22)
+  (Band 2, Kapitel 21)
 - Tag 222, Mi 13. Mai: **Mrs Sunwoo bekommt den Namen Byun.** Drei Wochen, kein
   lautes Wort, kein unwahres. Am Tag darauf Annie, foermlich, weil sie zwei der
   vier ist. **Und der Eigentuemer sitzt seit Januar auf der dritten Etage der
   Adresse in Jung-gu, vor der Georgij im Maerz umgekehrt ist**
-  (Band 2, Kapitel 23)
+  (Band 2, Kapitel 22)
 - Tag 224, Fr 15. Mai, zwanzig nach neun: **die Entscheidung faellt, und sie ist
   ein Formular.** Registerauszug ueber zehn Gesellschaften in Jung-gu, mit Datum
-  und seinem Namen darauf (Band 2, Kapitel 24)
+  und seinem Namen darauf (Band 2, Kapitel 23)
 - Tag 227, Mo 18. Mai: **die erste der fuenf Haelften wird unterschrieben**,
-  Kwons Teilhaber (Band 2, Kapitel 24)
+  Kwons Teilhaber (Band 2, Kapitel 23)
 - Tag 228, Di 19. Mai, zwanzig vor drei: **Mr Yeom ruft im Haus an und verlangt
   Georgij mit Namen.** Einladung zum Mittagessen am Donnerstag
-  (Band 2, Kapitel 24)
+  (Band 2, Kapitel 23)
 - Tag 230, Do 21. Mai: **das Mittagessen.** Yeom isst. Am dritten Tisch vom
   Fenster sitzt eine Stunde und zehn Minuten lang ein Mann vor einer Schale,
   die er nicht anruehrt. **Und die vierte Gebuehr hat Yeom selbst bezahlt**
-  (Band 2, Kapitel 25)
+  (Band 2, Kapitel 24)
 - Tag 236, Mi 27. Mai: **der Stapellauf.** Sang-hoon hat Choi in acht Jahren
   nie essen sehen. **Und er gibt Georgij den Namen, ungefragt** - Choi Dae-ho,
   neunundfuenfzig, dritter von Hongs drei Namen am 25. Oktober
-  (Band 2, Kapitel 26)
+  (Band 2, Kapitel 25)
 - Tag 236, Mi 27. Mai, abends: **er sagt den Namen im kleinen Zimmer**, und sie
   gibt den echten Grund fuer das Zurueckhalten her. **Choi kauft Menschen, und
   die vierte Zeile ist einer davon. Sie weiss es seit dem 20. Maerz**
-  (Band 2, Kapitel 27)
+  (frueheres Kapitel 27)
 - Tag 237, Do 28. Mai: **das Haus am Fluss, fast leer.** Mr Hwang gibt die
   Adresse her - und ungefragt den 9. Januar: **Mrs Jeon hat ihm ein
   Schulheft hingehalten, und er hat es nicht angefasst.** Ihr letzter Tag war
-  der 12. Mai (Band 2, Kapitel 28)
+  der 12. Mai (Band 2, Kapitel 26)
 - Tag 238, Fr 29. Mai: **die Wohnung vier Haltestellen draussen.** Er bezahlt
   ihren Preis vom 16. Maerz mit dem Einzigen, was er hat: **er sagt ihr, dass er
   auf der Seite steht.** Und bekommt Los sechs, die Fruehjahrsauktion vor vier
   Jahren, den Schalter offen bis Mitternacht ohne Verrechnung, und vier
   abgerechnete Posten gegen dieselbe Fundstelle: **Blumen, zweimal. Ein Fahrer.
-  Und ein Arzt, im Juli** (Band 2, Kapitel 29)
+  Und ein Arzt, im Juli** (Band 2, Kapitel 26)
 - Tag 238, Fr 29. Mai, zwanzig nach sieben: **er sagt es ihr, bevor er den Ertrag
   auf den Tisch legt.** Annie straft nicht, sondern korrigiert: **Mrs Jeon
   bekommt die Settlement-Stelle der Gwangyang-Firma, deren Haelfte seit dem
   18. Mai Annie gehoert** - mit dem Eigentuemernamen auf der ersten Seite.
   **Und er schlaeft zum ersten Mal in einem Raum ein, in dem sie ist**
-  (Band 2, Kapitel 30)
+  (frueheres Kapitel 30)
 - Tag 239, Sa 30. Mai: **das Blumengeschaeft in Hyoja-dong.** Er fragt vorher um
   den Tag und bekommt ihn. Die Doppelbuecher geben zwei Lieferungen drei Wochen
   auseinander, **zwei verschiedene Adressen**, kein Kaertchen beim zweiten Mal
   und die Bleistiftzeile des Fahrers: *"Left at the desk. They would not give a
   room."* **Und den Namen des Bestellers: Sim** - der sich am Telefon bei einer
   Fremden dafuer bedankt, sie wiedergesehen zu haben, genau wie bei Yeom vor vier
-  Jahren (Band 2, Kapitel 31)
+  Jahren (Band 2, Kapitel 27)
 - Tag 242, Di 2. Juni: **das Heft geht zurueck, und der Brief aus Gwangyang liegt
   schon da**, seit Samstag, Erstzustellung, abgeschickt in der Freitagnacht.
   Mrs Jeon benennt es als das, was es ist (*"I have been handled"*), nimmt es
@@ -296,14 +296,14 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
   die er am Freitag nicht gestellt hat:** die Arztrechnung war ein Hausbesuch
   ausserhalb der Stadt, die Anfahrt dreimal so teuer wie der Termin, **und im
   Feld fuer den Namen standen sechs Zeichen, naemlich die Losnummer.** Er nimmt
-  die Adresse nicht (Band 2, Kapitel 32)
+  die Adresse nicht (Band 2, Kapitel 28)
 - Tag 243, Mi 3. Juni: **er legt alles auf den Schreibtisch, bevor gefrühstückt
   wird.** Byuns Zettel, Hwangs Zettel, das kopierte Heft, die zwei
   Blumenbelege, das Notizbuch. **Erstes Mal, dass Annie die ganze Fadenlaenge
   sieht.** Sie verbietet ihm nichts, verlangt aber Meldung vor jedem Schritt an
   beide Adressen und setzt Jang auf die zweite - **von aussen, bevor sein Name
   irgendwo faellt.** *"You do not go near either address without telling me
-  first. Not asking. Telling."* (Band 2, Kapitel 33)
+  first. Not asking. Telling."* (Band 2, Kapitel 29)
 - Tag 244, Do 4. Juni: **er liest das Notizbuch von vorn und findet den Satz
   zweimal.** Mrs Gwaks *"good to see us again"* und Sang-hoons Profil aus
   Kapitel 26 - *"He tells people he is glad they have finally met. The first
@@ -314,7 +314,7 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
   hier ist das erste Stueck, das nicht an ihr allein haengt. Sie stoppt trotzdem
   jede Bewegung fuer vier Tage - **niemand geht an eine der beiden Adressen,
   Sang-hoon erfaehrt nicht, dass eine Blumenverkaeuferin und eine Adresse jetzt
-  in der Sache stehen** (Band 2, Kapitel 34)
+  in der Sache stehen** (frueheres Kapitel 34)
 - Tag 244, Do 4. Juni: **Sang-hoon ruft an, zum ersten Mal in acht Monaten.**
   Georgij haelt die vier Tage, ohne zu luegen: *"Not entirely mine."* Jang
   bestaetigt separat, dass die zweite Adresse unberuehrt bleibt, und stellt
@@ -331,21 +331,21 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
   ausserhalb dieses Hauses steht** - und liefert damit trotzdem nur die Haelfte
   der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
   liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
-  dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 36)
+  dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 30)
 - Tag 251, Do 11. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang, und ein
   Brief kommt mit Gwangyang-Poststempel an: das Blatt, das sie Hwang schuldig
   war, datiert auf denselben Morgen.** *"He was correct about the desk. He was
   wrong about the book."* Georgij haendigt es Hwang **nicht** aus - es sollte
   existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
   seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
-  aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 37)
+  aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 31)
 - Tag 257, Mi 17. Juni: **Annie waehlt "Y", die juengste der vier Initialen,
   zuerst.** Sang-hoon nennt Yeom - und Georgij faengt den eigenen Fehler ab,
   bevor er ihn ausspricht: Yeom war laut Kapitel 25 selbst Empfaenger des
   Anrufer-Tics, kann also nicht gleichzeitig der Anrufer bei Sang-hoons
   Kartenabend gewesen sein. **Ein geteilter Anfangsbuchstabe ist kein Hinweis,
   nur der Schatten von einem.** Yeom bleibt vorlaeufig entlastet, die
-  Restaurant-Buchpruefung steht noch aus (Band 2, Kapitel 38)
+  Restaurant-Buchpruefung steht noch aus (Band 2, Kapitel 32)
 - Tag 259, Fr 19. Juni: **die Restaurant-Buchpruefung.** Vier Lokale bei Sinsa
   haben seit letztem Juli den Besitzer gewechselt; das gesuchte gehoert jetzt
   einer Frau, die nichts vom Vorbesitzer Mr Baek hat ausser einer kaputten
@@ -355,7 +355,7 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
   entlastet.** Der Begleiter, der die Karten vorschlug, hat gegessen - **also
   nicht Choi Dae-ho selbst**, sondern jemand in dessen Auftrag. Annie und
   Georgij ziehen am Abend eine unbewiesene, schwere Vermutung: **Choi hat
-  Sang-hoon womoeglich absichtlich erfahren lassen** (Band 2, Kapitel 39)
+  Sang-hoon womoeglich absichtlich erfahren lassen** (Band 2, Kapitel 32)
 - Tag 261, So 21. Juni: **Jangs Bericht nach sechzehn Beobachtungstagen.**
   Vier Autos morgens und abends (Rota, nicht Familie), Waeschelieferung
   dienstags, Lebensmittel freitags fuer sechs bis zehn Personen, ein Auto
@@ -365,7 +365,7 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
   immer aus bis zehn. Jangs Einordnung: *"Above the middle of it. Not
   anywhere near the top."* **Georgij wird das Grundstueck weiterhin nicht
   betreten - der naechste Schritt liegt bei Sang-hoons Grundbuchrecherche**
-  (Band 2, Kapitel 40)
+  (Band 2, Kapitel 33)
 - Tag 262, Mo 22. Juni: **der Arzt-Faden, ganz vom Schreibtisch aus.**
   Elf registrierte Hausbesuch-Praxen landesweit vor vier Jahren, sechs
   sofort ausgeschlossen (Paediatrie, geschlossen, zu weit weg), eine
@@ -376,7 +376,7 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
   ihre Klinik direkt anruft. **Dr. Oh Seung-min, vierundfuenfzig beim
   Hausbesuch vor vier Jahren, jetzt achtundfuenfzig.** Der Name geht an
   niemanden ausser Annie - nicht Sang-hoon, nicht Jang, nicht einmal ins
-  Notizbuch ein zweites Mal (Band 2, Kapitel 41)
+  Notizbuch ein zweites Mal (Band 2, Kapitel 34)
 - Tag 270, Di 30. Juni: **Sang-hoons Grundbuchrecherche liegt vor.** Vier
   Eigentuemer sind vier Firmen tief plus ein Trust, verwaltet seit elf
   Jahren von Solicitor Baek Jun-ho (Yeouido, nicht der Koch). **Derselbe
@@ -390,7 +390,7 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
 - Tag 273, Fr 3. Juli: **Sang-hoons vier Entscheidungen, zwei mehr datiert.**
   S (Maerz, vor vier Jahren) und H (Oktober, drei Jahre danach, sechs Wochen
   vor Hwangs Ankunft) haben jetzt Daten ohne Namen. K bleibt offen - Annie
-  weist auf Orte ohne Rechnung: Golfplatz, Badehaus (Band 2, Kapitel 43)
+  weist auf Orte ohne Rechnung: Golfplatz, Badehaus (Band 2, Kapitel 35)
 - Tag 276, Mo 6. Juli: **Brandschutz-Meldung und Jangs Gasflaschen-Lieferwagen
   bestaetigen sich gegenseitig.** Medizinischer Sauerstoff wurde am
   Pflegeheim bei Wonju genau einmal gemeldet, im Juli vor vier Jahren, nie
@@ -399,8 +399,8 @@ weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
   **Stuetzt Georgijs dritte Lesart** (eine Person, elf Jahre gehalten, vor
   vier Jahren verschlechtert), **beweist aber keinen Namen.** Annie bremst
   ausdruecklich. K weiterhin offen, jetzt mit ausgeschlossenem Ansatz
-  (Golfclub-Mitgliederlisten nicht zugaenglich) (Band 2, Kapitel 44)
-  (Band 2, Kapitel 42)
+  (Golfclub-Mitgliederlisten nicht zugaenglich) (frueheres Kapitel 44)
+  (Band 2, Kapitel 35)
 
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -561,10 +561,10 @@ Geburtstag und nicht der Text.
 
 | Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
 |---|---|---|---|---|
-| Baek Jun-ho | dreiundsechzig | K82, 15. Oktober | 26. September | **10. November** |
-| Mrs Jeon Mi-ja | einundfuenfzig | K86, 1. November | 24. Juli | **15. November** |
-| Mrs Sunwoo | einundachtzig | K89, 11. November | 29. September | **17. November** |
-| Choi Dae-ho | neunundfuenfzig | K88, 6. November | 8. September | **18. November** |
+| Baek Jun-ho | dreiundsechzig | b2 K54, 15. Oktober | 26. September | **10. November** |
+| Mrs Jeon Mi-ja | einundfuenfzig | b2 K58, 1. November | 24. Juli | **15. November** |
+| Mrs Sunwoo | einundachtzig | b2 K61, 11. November | 29. September | **17. November** |
+| Choi Dae-ho | neunundfuenfzig | b2 K80, 6. November | 8. September | **18. November** |
 
 **Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
 Georgijs Geburtstag ist der 28. Juni.** Der Widerspruch selbst ist damit
@@ -589,7 +589,7 @@ allerdings noch nicht weg, siehe die zwei Wege unten - ein Geburtstag sagt,
     I do not accuse him of anything, because he has never once claimed
     anything."* **Damit ist es zugleich die groesste Heft-Entnahme des Buches**
     - ein Plan, im Mai abgelegt und im November geholt.
-  - **DAS VERSPRECHEN VOM 23. APRIL IST GEHALTEN.** In K88 dreht er die
+  - **DAS VERSPRECHEN VOM 23. APRIL IST GEHALTEN.** In b2 K80 dreht er die
     Bedeutung von *nehmen*: Choi besitzt nichts, also ist ihm nichts
     **abzunehmen**, und Annies Einwand bleibt richtig. **Wegzunehmen** sind ihm
     die neun Leute, die nicht wissen, was er ihnen angetan hat. Auf ihre Frage
@@ -632,7 +632,7 @@ falsch, sondern **unbrauchbar**.
 **Zwei Wege, und beide sind Autorenentscheidungen:**
 
 1. **Er wird siebenundzwanzig.** Seit dem 26.08. aendert sich **ein** Wort und
-   nicht zwei, naemlich nur in K90. Der Schlusssatz des Buches hiesse dann
+   nicht zwei, naemlich nur in alt K90. Der Schlusssatz des Buches hiesse dann
    *"I am twenty-seven and it has taken me eight months."*
 2. **Der Katalog irrt sich um ein Jahr.** Er ist bei der Auktion
    fuenfundzwanzig, wird waehrend des Buches sechsundzwanzig, und der Katalog
@@ -653,9 +653,9 @@ ein Jahr aelter, am 28. Juni des zweiten Jahres, zwischen Tag 268 und Tag 269.
 Was offen bleibt, ist die Anfangszahl:
 
 - **Weg 1:** der Katalog stimmt, er ist 26 bei der Auktion und wird am
-  28. Juni siebenundzwanzig. **Dann ist K90 falsch und ein Wort aendert sich.**
+  28. Juni siebenundzwanzig. **Dann ist alt K90 falsch und ein Wort aendert sich.**
 - **Weg 2:** der Katalog hat ihn falsch gefuehrt, er ist 25 bei der Auktion und
-  wird am 28. Juni sechsundzwanzig. **Dann ist K90 richtig und Band 1 Kapitel 1
+  wird am 28. Juni sechsundzwanzig. **Dann ist alt K90 richtig und Band 1 Kapitel 1
   ist die Luege**, was das Thema des Buches ist.
 
 **In beiden Faellen ist der 28. Juni derselbe Tag, und in beiden Faellen liegt
@@ -686,8 +686,8 @@ Folgen, beide Wege betreffend:
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
 | **Georgij** | 26 bei der Auktion, **27 ab dem 28. Juni des zweiten Jahres** | **28. Juni**, vom Autor am 26.08. gesetzt, und der Katalog gilt | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
-| **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 61 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
-| **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
+| **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 71 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
+| **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 41: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 59 | **18. November** (war 8. September) | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
 | **Mrs Sunwoo** | 81 | **17. November** (war 29. September, davor 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
@@ -709,9 +709,9 @@ Folgen, beide Wege betreffend:
 | **Kim Ye-rin** | 54 | 5. August | Band 1, Kapitel 26, 28 und 30 |
 | **Kang** | 43 | 25. August | Band 1, Kapitel 11 |
 | **Mr Chae** | 58 | 3. September | Band 1, Kapitel 25, aus seinem eigenen Mund |
-| **Mr Kwon** | 54 | **30. September** | **Band 2, Kapitel 69, aus seinem eigenen Mund:** *"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive."* Neun Lastwagen auf einer Spur aus Ulsan, eine der fuenf Firmen |
-| **Sim** | 63 | **1. Oktober** | **Band 2, Kapitel 68, aus seinem eigenen Mund:** *"I am sixty-three. I have got one instrument and I have just found out what it was for."* Dazu im selben Kapitel *"a man of sixty-odd"*. Dreissig Jahre im Dienst |
-| **Mrs Ha** | 58 | **2. Oktober** | **Band 2, Kapitel 67, aus ihrem eigenen Mund:** *"I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."* Dreissig Jahre |
+| **Mr Kwon** | 54 | **30. September** | **frueheres Kapitel 69, aus seinem eigenen Mund:** *"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive."* Neun Lastwagen auf einer Spur aus Ulsan, eine der fuenf Firmen |
+| **Sim** | 63 | **1. Oktober** | **frueheres Kapitel 68, aus seinem eigenen Mund:** *"I am sixty-three. I have got one instrument and I have just found out what it was for."* Dazu im selben Kapitel *"a man of sixty-odd"*. Dreissig Jahre im Dienst |
+| **Mrs Ha** | 58 | **2. Oktober** | **frueheres Kapitel 67, aus ihrem eigenen Mund:** *"I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."* Dreissig Jahre |
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
 | **Jang** | **offen** | **offen** | Dreissig Jahre im Gewerbe (12, 13, 40), kein Alter im Text |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |

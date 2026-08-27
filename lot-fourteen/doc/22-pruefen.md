@@ -233,7 +233,7 @@ Negativdefinition abspricht.
 
 **12. Eine Zahl, die eine Figur mit einer Szene gegen Figuren mit achtzig stellt,
 ist keine Messung.** Mrs Has Zug maß *drei Treffer bei ihr, null Prozent bei neun
-anderen* - und sie hat genau ein Kapitel. Jede beliebige Wendung aus b2 K67 hätte
+anderen* - und sie hat genau ein Kapitel. Jede beliebige Wendung aus alt K67 hätte
 dieselbe Zahl bekommen. **Und wo der Zug mit dem Gegenstand der Szene
 zusammenfällt** - sie wird gefragt, wer was getan hat, und stellt richtig, wer die
 Arbeit getan hat -, ist er nicht von der Szene zu trennen. Der ehrliche Stand ist
@@ -246,7 +246,7 @@ verteilten sich auf vier Gründe, die keinen Topf haben:
 
 - **Auslassung:** das Zitat steht da, mit `...` zusammengezogen (b2 K6, drei
   Meldungen für ein Zitat).
-- **Redebegleitsatz:** das Zitat steht da, unterbrochen von *he said* (b2 K56).
+- **Redebegleitsatz:** das Zitat steht da, unterbrochen von *he said* (b2 K47).
 - **Gestrichene Fassung:** das Dokument zitiert ausdrücklich, was **entfernt
   wurde** - nicht überholt, sondern weg. Fünf Meldungen, alle legitim.
 - **Unmarkierter Vorschlag:** *"Eine Zeile wie ..."* fehlt in der Wortliste, und
@@ -259,7 +259,7 @@ verteilten sich auf vier Gründe, die keinen Topf haben:
 | Klasse | Woran man sie erkennt | Exemplar |
 |---|---|---|
 | **Ein Plan, der im Kanondokument als Bestand steht** | `doc/05` zitiert einen Satz mit einer Behauptung darüber (*"der einzige Satz in zwei Bänden"*), und der Satz steht in `doc/07` unter *was kommt* | `doc/05` Z938, das Bandende, korrigiert am 26.08. |
-| **Dieselbe Wendung, zwei Bezüge, wenige Zeilen auseinander** | eine auffällige Formel läuft zweimal gleich an und meint zweimal etwas anderes - der Leser liest die zweite als Wiederaufnahme | b2 K33 Z42 gegen Z48: dieselben *"Two people"* sind einmal die Empfänger und einmal die Anrufer |
+| **Dieselbe Wendung, zwei Bezüge, wenige Zeilen auseinander** | eine auffällige Formel läuft zweimal gleich an und meint zweimal etwas anderes - der Leser liest die zweite als Wiederaufnahme | b2 K29 Z42 gegen Z48: dieselben *"Two people"* sind einmal die Empfänger und einmal die Anrufer |
 
 **Und eine Lücke im Werkzeugkasten, die keine Klasse ist:** alle zwölf Prüfungen
 der Batterie messen **eine Figur gegen den Text**, keine misst **eine Figur gegen
@@ -436,7 +436,7 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
    | *did not look away* | 6 | **10** |
    | *without any … in it at all* | **1** | **9** |
 
-   **Und in Band 2 stehen sie geballt in den neuesten Kapiteln:** K67 bis K70
+   **Und in Band 2 stehen sie geballt in den neuesten Kapiteln:** alt K67 bis alt K70
    tragen allein **dreizehn** der zweiundzwanzig. **Die Formel wird gerade neu
    angelegt, waehrend hier steht, dass sie abgebaut wird.** Das gehoert der
    Schreibsitzung und nicht mir.
@@ -507,7 +507,7 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
     |---|---|---|---|
     | Band 1 | 143 | 16 | **8,5 Absaetze** |
     | Band 2, Kapitel 1 bis 34 | 101 | 53 | **1,9 Absaetze** |
-    | Band 2, Kapitel 35 bis 56 | 100 | 90 | **1,1 Absaetze** |
+    | Band 2, Kapitel 29 bis 56 | 100 | 90 | **1,1 Absaetze** |
 
     In Kapitel 50, 52 und 53 stehen 92 Trenner auf 94 Absaetze. **Ein Zeichen,
     das zwischen fast allem steht, unterscheidet nichts mehr.**
@@ -870,7 +870,7 @@ Ohne den SHA ist `--seit` Raterei.
 
 | Durchgang | Datum | Ausgangsstand | Kapitel | Stand |
 |---|---|---|---|---|
-| Erzaehlerkommentare, Band 2 | 25.08.2026 | `14a893e` | b2 K01-K68 | laeuft |
+| Erzaehlerkommentare, Band 2 | 25.08.2026 | `14a893e` | b2 K01-alt K68 | laeuft |
 
 **Was dieser Durchgang tut, und warum er die vier Meldungen anders trifft als
 erwartet.** Er schreibt **keine woertliche Rede um**. Er setzt Absaetze

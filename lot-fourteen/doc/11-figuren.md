@@ -175,7 +175,7 @@ oben, in besseren Kleidern.
 
 1. **Etwa alle zwanzig Kapitel eine wirklich romantische Szene.** Nicht eine
    Beruehrung im Vorbeigehen, sondern eine Szene, die dafuer da ist. Zuletzt
-   gezaehlt: Band 2, Kapitel 18 (die Hand am Hals ueber dem Halsband). Seither
+   gezaehlt: Band 2, Kapitel 17 (die Hand am Hals ueber dem Halsband). Seither
    sechsunddreissig Kapitel. **Ueberfaellig.**
 2. **Dazwischen kleine Dinge von ihr**, und sie muessen tatsaechlich vorkommen
    und nicht nur moeglich sein. Die Hand im Haar steht in Band 2, Kapitel 9 und
@@ -788,7 +788,7 @@ zurueckgehaltenen Eintraege auf einer Seite zusammengefasst, **weil etwas, das
 man nicht finden kann, spaeter schiefgeht.** *"He is not a man who would use
 it. He would not know how. He made it findable because findable is correct."*
 
-**Und ab Band 2, Kapitel 21 steht dagegen das Urteil des Textes, und es ist
+**Und ab Band 2, Kapitel 20 steht dagegen das Urteil des Textes, und es ist
 haerter als Mrs Jeons.** Am 23.08. vom Autor korrigiert, gegen meine erste
 Fassung, in der Hwangs Haltung als unangreifbar galt.
 
@@ -1136,7 +1136,7 @@ ohne jede Abwehr**. *"I did what was done."* Erledigt seit Mai.
 *Kanon, Band 2 Kapitel 22.*
 
 **Mrs Jeon Mi-ja** - **Steht oben unter *Im Haus am Fluss* als "Mrs Jeon".** Der
-volle Name faellt in Band 2, Kapitel 32. Nicht zweimal beschreiben. Ergaenzung:
+volle Name faellt in Band 2, Kapitel 28. Nicht zweimal beschreiben. Ergaenzung:
 **sie hat die Rechnung mit der Losnummer im Patientenfeld durchgelassen und ist
 essen gegangen**, und ihre eigene Formulierung dafuer ist der Massstab fuer alle
 Mitwisser im Buch.
@@ -1204,9 +1204,9 @@ soll, die Seite kopiert. **Sie wird von niemandem behelligt werden, jemals.**
 **Am 25.08. beim Nachtragen aufgefallen. Entscheidung steht aus.**
 
 - **Bae.** In Band 1, Kapitel 3 ist Bae der Wachmann am Tor, der Georgij an der
-  Küchentür stellt. In Band 2, Kapitel 41 ist **Mrs Bae** die Frau am Empfang mit
+  Küchentür stellt. In Band 2, Kapitel 34 ist **Mrs Bae** die Frau am Empfang mit
   dem Bleistiftbuch. Verschiedene Menschen.
-- **Ryu. ERLEDIGT am 25.08.** Der Ladungsbesichtiger aus Band 2, Kapitel 37 heisst
+- **Ryu. ERLEDIGT am 25.08.** Der Ladungsbesichtiger aus Band 2, Kapitel 31 heisst
   jetzt **Mr Koh**. Mrs Ryu aus Band 1, Kapitel 7 bleibt, wie sie ist. Geaendert in
   den Kapiteln 37, 38, 57 und 58.
 
@@ -1250,12 +1250,12 @@ steht der Widerspruch am selben Abend wieder da.
 **Annie**
 
 1. Ihr Name ist **Hye-jin**, zwei Silben. **Er wird im Buch nie ausgesprochen.** Annie sagt ihn zweimal in b1 K24, und der Text druckt dabei nicht den Namen, sondern *"something in Korean, two syllables"*; auf seine Bitte hin - **"Again."**, nicht *"Say that again"* - sagt sie ihn noch einmal. Das Wort **Hye-jin** steht **genau einmal im ganzen Buch**, kursiv, in der Erzaehlstimme, in seinem Kopf. Der Text sagt es ausdruecklich dazu: ***"He did not say it out loud, then or later."*** **Korrigiert am 27.08. auf Hinweis des Autors**; `doc/05` sagte *"Sie, zweimal, in dieser Szene"*, was zu der Lesart einlaedt, der Name falle in einer Replik.
-2. **Sie hat keinen Familiennamen**, an keiner Stelle - *"It is on nothing."* Damit ist sie die einzige Figur ohne vollstaendigen koreanischen Namen. Auch b2 K32 druckt ihn nicht.
+2. **Sie hat keinen Familiennamen**, an keiner Stelle - *"It is on nothing."* Damit ist sie die einzige Figur ohne vollstaendigen koreanischen Namen. Auch b2 K28 druckt ihn nicht.
 3. **Silbensperrliste**, weil im Buch belegt: `Ji-` (Ji-won, Ji-hoon), `Eun-` (Eun-ju), `Min-` (Min-ho), `Seo` (Mrs Seo), `Tae-` (Tae-min), alles auf `-won` (neben den Won-Betraegen, und Jae-won existiert). Der Name klingt bewusst **nicht** nach *Annie*, weil Annie eine Erfindung ist und keine Uebersetzung.
 4. **Der Name `Yun` gehoert genau einem Menschen im Buch**, dem Kuechenjungen; Do-yun steht immer mit beiden Silben. Die zwei Firmen, die kollidierten, heissen seit dem 23.08. **Kyeongil** und **Nam** (b1 K15 v2.7, b1 K18 v1.1).
-5. **Sie kennt Choi Dae-ho, seit sie vierzehn ist.** *"I have known him since I was twenty-four"* ist ihre Gewohnheitsluege, die sie in b2 K26 selbst abraeumt. Mit vierzehn bemerkt, dass er nicht isst; mit dreissig verstanden.
+5. **Sie kennt Choi Dae-ho, seit sie vierzehn ist.** *"I have known him since I was twenty-four"* ist ihre Gewohnheitsluege, die sie in b2 K25 selbst abraeumt. Mit vierzehn bemerkt, dass er nicht isst; mit dreissig verstanden.
 6. **Annie stellt zweite Fragen** - und wo sie es nicht tut, ist das die Aussage.
-7. **Sie weigert sich, sein Gewissen zu sein** (b2 K20), und der Grund ist Eignung, nicht Unlust: *"Because I would be extremely good at it and you would never have to do it again."*
+7. **Sie weigert sich, sein Gewissen zu sein** (b2 K19), und der Grund ist Eignung, nicht Unlust: *"Because I would be extremely good at it and you would never have to do it again."*
 8. Ihr Vater hat zweimal im Monat auf einem Golfplatz Geschaefte gemacht und es Sport genannt.
 
 **Georgij**
@@ -1264,7 +1264,7 @@ steht der Widerspruch am selben Abend wieder da.
 10. **Vor b1 K25 hat er nie in seinem Leben etwas unterschrieben.** Seine Unterschrift entsteht in zwei Sekunden und bleibt: der gedruckte Name, keine Schnoerkel.
 11. **Sein Nachname steht nicht im Text, weil Georgij ihn nicht ablegt.** Die Papiere wurden in der zweiten Oktoberwoche regularisiert.
 12. **Er haelt mit Frist zurueck, Annie ohne** (b2 K3). Das ist der Unterschied zwischen den beiden.
-13. **Vier Dinge haben ihn je dazu gebracht, Hand an jemanden zu legen, und das groesste ist, was Erwachsene mit Kindern vorhaben** (b2 K26).
+13. **Vier Dinge haben ihn je dazu gebracht, Hand an jemanden zu legen, und das groesste ist, was Erwachsene mit Kindern vorhaben** (b2 K25).
 14. Er schreibt Mrs Jeons Heft **mit der Hand** ab, nicht am Geraet.
 15. **Er ist zweimal in vier Tagen ueber dieselbe Frau falsch gelegen**, auf Tatsachen, die er in der Hand hielt (b1 K20 und K23).
 
@@ -1280,7 +1280,7 @@ steht der Widerspruch am selben Abend wieder da.
 **Die Nebenfiguren, mit den Zahlen, die im Text stehen**
 
 22. **Mrs Jeon Mi-ja**, einundfuenfzig, **dreiundzwanzig Jahre** hinter dem Glas; letzter Tag **12. Mai**. Ihr Heft: kariert, gruener Deckel, **etwa vierzig Zeilen in dreiundzwanzig Jahren**, jede mit Datum, Uhrzeit und rund sechs Woertern. **Verliehen, nicht verschenkt.**
-23. **Mr Byun**, achtundsechzig, **sechsundzwanzig Jahre** am Register, im November gegangen. **Einziger Auftritt in b2 K22.** Er ist der Erste im Band, der genau das ist, wonach er aussieht.
+23. **Mr Byun**, achtundsechzig, **sechsundzwanzig Jahre** am Register, im November gegangen. **Einziger Auftritt in b2 K21.** Er ist der Erste im Band, der genau das ist, wonach er aussieht.
 24. **Mr Yeom**, dreiundsechzig, besass das Haus von 2011 bis zum Winter, verkaufte an den Fonds und nahm eine Stellung - dritte Etage in Jung-gu. **Er hat die vierte Gebuehr selbst bezahlt** und **nicht gefragt, fuer wen**: *"If I do not ask, then I am owed by whoever it is, and whoever it is knows that I did not ask."*
 25. **Mr Hwang**, der Sanierer. Sein Name steht in b1 K1 in sechs Punkt am Fuss der Seite. **"You have not been running a clean house for five months. You have been running the same house tidily."** Er kann nicht gewarnt werden: *"All of the doors are the same door."*
 26. **Mrs Sunwoo**, einundachtzig, **Stammkundin**, ihr eigener Eintrag ist drei Jahre alt und hat mit dem 4. Oktober nichts zu tun. Ihr *"We haven't met"* in b1 K7 war **eine Pruefung** und keine Hoeflichkeit.
@@ -1332,4 +1332,4 @@ steht der Widerspruch am selben Abend wieder da.
 148. **Die Adressaenderung: genau einmal, zweite Februarwoche vor vier Jahren - derselbe Monat, in dem Ahn Jung-hee in das Haus kam.** Baek: *"Somebody put them under one roof to save on a heating bill."* Die Sauerstoffmeldung folgte im Juli desselben Jahres.
 149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
 150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
-151. **Choi hat im ganzen Buch keine Replik ausser in K88** und ist am Ende von K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**
+151. **Choi hat im ganzen Buch keine Replik ausser in b2 K80** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**

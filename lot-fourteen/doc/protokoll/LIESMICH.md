@@ -22,6 +22,20 @@ Aus demselben Grund prueft `build.py` die Dateiverweise hier nicht. Die
 Berichte duerfen auf Dokumente zeigen, die es unter dem Namen nicht mehr gibt.
 **Sie sind Geschichte und sollen sie behalten.**
 
+## Kapitelnummern hier sind die von ihrem Tag
+
+Am 27.08. ist Band 2 von zweiundachtzig Kapiteln mit Nummern bis 90 auf
+dreiundachtzig mit Nummern 1 bis 83 umgestellt worden. Die Verweise in `doc/`
+sind am selben Tag nachgezogen worden, **die in diesem Verzeichnis nicht**, und
+das aus demselben Grund wie bei den Dateinamen: ein Bericht sagt, was an einem
+Tag gemessen worden ist, und was an dem Tag `K72` hiess, hiess an dem Tag `K72`.
+Wer die Zahl nachzoege, machte aus dem Bericht eine Behauptung ueber heute.
+
+**Was das beim Lesen heisst:** eine Kapitelnummer in einem Protokoll vor dem
+27.08. gehoert in die alte Zaehlung. Die Zuordnung steht in
+`archiv/UMNUMMERIERUNG.md`, und die neun Kapitel, die es gar nicht mehr gibt,
+stehen dort auch.
+
 ## `2026-08-27-ablage-vorher/`
 
 Die achtzehn Dokumente, wie sie unmittelbar vor dem Umbau der Ablage aussahen,

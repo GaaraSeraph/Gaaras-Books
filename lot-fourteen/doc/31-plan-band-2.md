@@ -772,7 +772,7 @@ beides erledigt.*
 
 ## ~~Zwei Zusagen, die auf dem Weg dorthin bezahlt werden muessen~~ - beide bezahlt in Kapitel 69
 
-> **Bezahlt am 25.08. in Band 2, Kapitel 69** (Mi 9. September), und nicht so,
+> **Bezahlt am 25.08. in frueheres Kapitel 69** (Mi 9. September), und nicht so,
 > wie dieser Abschnitt es erwartet hat: **nicht durch Liefern, sondern durch
 > Benennen.**
 >
@@ -875,7 +875,7 @@ Georgij arbeitet, und er ist der Einzige, der es hat.
 *Vom Schreib-Chat gefuehrt, Stand 25.08. Alles darunter ab "Reihenfolge ab hier"
 ist aelter.*
 
-**Geschrieben: Band 2, Kapitel 45** *The line above it* (v1.0, Tag 279, Do 9. Juli).
+**Geschrieben: Band 2, Kapitel 36** *The line above it* (v1.0, Tag 279, Do 9. Juli).
 K bekommt ein Datum, und zwar aus dem einzigen Dokument, das Georgij die ganze
 Zeit selbst in der Hand hatte.
 
@@ -1618,20 +1618,20 @@ Fassung.**
   selbst ausgesucht hat. **Wer begreift, dass er benutzt wurde, geht selbst
   nachsehen**, und es gibt genau eine Person, zu der sie dafuer gehen koennte.
 
-- **DIE ZWEITE KOPIE: ERLEDIGT in Band 2, Kapitel 17.** Mr Ok hat sie fuer die
+- **DIE ZWEITE KOPIE: ERLEDIGT in Band 2, Kapitel 16.** Mr Ok hat sie fuer die
   Akte kopieren lassen, weil der Anrufer ausdruecklich zwei verlangt hat. Sie
   liegt seit sechs Wochen ungeoeffnet in einem Ordner auf der zweiten Etage.
   *"Then that is not the one I am afraid of."* **Der Eintrag bleibt hier als
   Beleg dafuer, wie schnell eine offene Drohung sich in Luft aufloesen kann,
   wenn man den Richtigen fragt.**
 
-- **DIE NEUN MAHLZEITEN: ERLEDIGT und verworfen in Band 2, Kapitel 19.** Er hat
+- **DIE NEUN MAHLZEITEN: ERLEDIGT und verworfen in Band 2, Kapitel 18.** Er hat
   die Liste geschrieben und durchgestrichen, weil Annie *met* gesagt hatte und er
   *eaten with* gehoert hat. **Der richtige Kreis ist ueber vierhundert Leute.**
   Der eine Mann, der es beantworten koennte, ist Park Sang-hoon, **und ihn zu
   fragen heisst, ihm etwas zu sagen.** Das bleibt offen.
 
-- **Annies zweite Bedingung vom 3. April: EINGELOEST in Band 2, Kapitel 20.**
+- **Annies zweite Bedingung vom 3. April: EINGELOEST in Band 2, Kapitel 19.**
   Antwort: *"Yes. Once. For about a second and a half, at a gate."* Und der Rest
   des Monats keine Minute. **Damit ist der Strang geschlossen und ein neuer ist
   offen:** er hat um den Deckel zurueckgebeten und **sie hat nein gesagt**, weil
@@ -1676,7 +1676,7 @@ Fassung.**
   **Es ist Georgijs zweite Bitte an Woo, und anders als die erste kostet sie ihn
   etwas.**
 
-- **DIE PERSON AUF DER VIERTEN ZEILE. Das ist ab Band 2, Kapitel 27 das Ziel des
+- **DIE PERSON AUF DER VIERTEN ZEILE. Das ist ab frueheres Kapitel 27 das Ziel des
   Buches, und es geht dem Gegner vor.** *"Find the person."* Vor vier Jahren an
   jenem Haus gekauft, ohne Rechnung hinausgegangen, im Fruehjahr aus dem Buch
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
@@ -1915,7 +1915,7 @@ Fassung.**
   viele, weiss sie nicht und hat es nie wissen wollen.** Damit ist auch geklaert,
   warum er eine Gebuehr zahlte, die er nicht schuldete.
 
-- **DER ABEND NACH DEM STAPELLAUF: ERLEDIGT in Band 2, Kapitel 27.** Der Eintrag
+- **DER ABEND NACH DEM STAPELLAUF: ERLEDIGT in frueheres Kapitel 27.** Der Eintrag
   hier lautete: Georgij hat den Namen von Park Sang-hoon, umsonst, ungefragt.
   **Annie haelt ihn seit Dezember zurueck und hat am 27. April den echten Grund
   genannt: der Name macht ihn lesbar.** Jetzt hat er ihn von jemandem, den sie
@@ -1932,7 +1932,7 @@ Fassung.**
   Leuten drei Namen statt einen gibt. **Wenn das stimmt, ist Georgij am ersten
   Abend arrangiert worden**, vierzehn Minuten nach dem Betreten des Saales.
 
-- **DAS GESICHT ZU DEM SATZ: ERLEDIGT in Band 2, Kapitel 26.** Choi Dae-ho. Der
+- **DAS GESICHT ZU DEM SATZ: ERLEDIGT in Band 2, Kapitel 25.** Choi Dae-ho. Der
   Eintrag hier lautete: Georgij hat neun Zeilen Beschreibung und eine Signatur:
   *"I am glad we finally met"*, gesagt zu einem Mann, dem er nie begegnet war.
   **Vierhundert Maenner in Seoul sind sechzig und leise und nicht gross. Ein
@@ -1980,7 +1980,7 @@ Fassung.**
   tut es **fuer jemanden.**
 
 - **DER MANN AM DRITTEN TISCH. Offen, ungeloest, und er darf nicht aufgeloest
-  werden, indem der Erzaehler es sagt.** Band 2, Kapitel 25: etwa sechzig, nicht
+  werden, indem der Erzaehler es sagt.** Band 2, Kapitel 24: etwa sechzig, nicht
   gross, allein, eine Stunde und zehn Minuten vor einer Schale, die er nicht
   anruehrt. **Die Beschreibung deckt sich mit Mr Oks neun Zeilen.**
 
@@ -1989,7 +1989,7 @@ Fassung.**
   kannte. **Georgij weiss nicht, welche, und der Text darf es nicht besser
   wissen als er.**
 
-- **DAS MITTAGESSEN: ERLEDIGT in Band 2, Kapitel 25. Yeom isst.** Der Eintrag
+- **DAS MITTAGESSEN: ERLEDIGT in Band 2, Kapitel 24. Yeom isst.** Der Eintrag
   hier lautete: Halb eins, fester Tisch, nicht privat, vier
   Leute in Sichtweite, niemand sonst am Tisch.
 
@@ -2024,7 +2024,7 @@ Fassung.**
   kein unwahres Wort, danach wird er zu nichts mehr eingeladen. **Faellig Anfang
   Juni**, und Georgij hat ausdruecklich gesagt, dass er nicht wissen will, wie.
 
-- **DER EIGENTUEMER: gefunden in Band 2, Kapitel 23.** Mr Yeom, dreiundsechzig,
+- **DER EIGENTUEMER: gefunden in Band 2, Kapitel 22.** Mr Yeom, dreiundsechzig,
   Eigentuemer von 2011 bis zum Winter, seit Januar auf der dritten Etage in
   Jung-gu. **Er ist der Mann, der Byun instruiert hat, und der Einzige mit einem
   Namen, der weiss, wer auf der vierten Zeile steht.** Der alte Eintrag lautete: Er hat Mr Byun persoenlich instruiert, den
@@ -2045,13 +2045,13 @@ Fassung.**
   eigene kleine Frage aufwirft. Und Mrs Sunwoo ist die dritte, und was sie damit
   tut, ist ihre Sache - **das ist der ganze Grund, warum es Byun trifft.**
 
-- **DER VORGAENGER: ERLEDIGT in Band 2, Kapitel 22.** Der Eintrag hier lautete: Name,
+- **DER VORGAENGER: ERLEDIGT in Band 2, Kapitel 21.** Der Eintrag hier lautete: Name,
   Position, die Daten der vier Gebuehren und die heutige Anschrift, in Hwangs
   Handschrift auf einem abgerissenen Streifen. **Er hat die vier Loeschungen
   verkauft und nicht ausgefuehrt und ist im November gegangen, bevor Hwang kam.**
   Das ist der Mann, der Annie viermal betrogen hat, und er ist erreichbar.
 
-- **Mr Hwang: ERLEDIGT in Band 2, Kapitel 21, und das Urteil ist ein anderes
+- **Mr Hwang: ERLEDIGT in Band 2, Kapitel 20, und das Urteil ist ein anderes
   geworden.** Der Eintrag hier stand bis zum 23.08. so:
   **er kann nicht gewarnt werden**, weil er nichts zurueckhaelt. Georgij hat das
   am 20. Maerz auf Annies Verlangen als Satz ausgesprochen. Nach der Neufassung
@@ -2497,7 +2497,7 @@ Was hier steht, ist ab jetzt Plan: das Ziel, der Feldzug, die offenen Faeden.
 
 *Die vollstaendige Siebung mit allen 209 Eintraegen und der Regel, nach der gesiebt wurde, liegt in `protokoll/2026-08-27-kanonliste.md`. Der ganze alte Block liegt wortgleich in `protokoll/2026-08-27-ablage-vorher/`.*
 
-112. **Drei Fragen bleiben in b2 K36 mit Absicht offen:** wen die vier Entscheidungen betreffen, wer im Pflegeheim ist, wer Choi vor elf Jahren hat verlieren sehen.
+112. **Drei Fragen bleiben in b2 K30 mit Absicht offen:** wen die vier Entscheidungen betreffen, wer im Pflegeheim ist, wer Choi vor elf Jahren hat verlieren sehen.
 113. **"Eight years. Never once a woman. Find out why not."**
 114. **"K is the measurement."** Der kleinste der vier ist der einzige, bei dem es um Sang-hoon selbst ging.
 115. **Der Verdacht, den Annie ausdruecklich fuer unbewiesen haelt:** *"He let Sang-hoon find out on purpose."*
@@ -2532,7 +2532,7 @@ Was hier steht, ist ab jetzt Plan: das Ziel, der Feldzug, die offenen Faeden.
 176. **Der Preis ist nicht das Geld:** *"In about nine years somebody will read the sequence for a different reason and they will find an entry from November with a woman's name on one side and a woman's name on the other."*
 177. **Annies Verfahren, und sie nennt es das Einzige, was sie dieses Jahr gelernt hat:** Hwang erfaehrt alles **vor** seiner Antwort. *"And then he answers, and whatever he answers is his."* Dazu die dreimal gesagte Selbstbindung: *"If he refuses after that, we do not go back."*
 178. **DIE ZEILE, DIE ALLES ERKLAERT:** *"Somebody gets made by being handed a good reason at the wrong moment."* Ihr Vater 2002. Choi an Sim, elf Jahre. Und Georgij selbst an elf Menschen zwischen Maerz und August.
-179. **K88: Annie geht nicht hin, und sie entscheidet das selbst.** Es geht nur ohne Handel, und ohne Handel geht nur, wer nichts zu handeln hat. **Damit wird Regel 2 zum ersten Mal im Buch zu seiner Qualifikation statt zu seiner Grenze.**
+179. **b2 K80: Annie geht nicht hin, und sie entscheidet das selbst.** Es geht nur ohne Handel, und ohne Handel geht nur, wer nichts zu handeln hat. **Damit wird Regel 2 zum ersten Mal im Buch zu seiner Qualifikation statt zu seiner Grenze.**
 180. **Die Sache ist entschieden, bevor das Gespraech anfaengt.** Moon Hae-sook kam am Mittwoch um zwanzig nach vier heraus - **nicht weil Choi sie hergegeben hat, sondern weil Baek als Treuhaender entschieden hat, wo die Pflege stattfindet.** *"You built a thing eleven years ago so that you could not switch it off... It has been switched on for eleven years and it has never once been yours."*
 181. **Der Text nimmt Choi den Trost nicht weg:** der Platz bei Chuncheon war seit der zweiten Augustwoche vorbereitet und **waere besser gewesen.** Georgij bestaetigt es vollstaendig und legt nichts dahinter, **und das Nichts-dahinter-Legen ist der ganze Rest.**
 182. **"Something can be taken away from you, and it is not the same word."** Neun Menschen, der Reihe nach, nichts Unwahres, um nichts gebeten.

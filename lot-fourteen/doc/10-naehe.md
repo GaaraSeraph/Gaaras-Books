@@ -342,4 +342,4 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
 108. **Die Bewegung gehoert ihr, immer. Er fasst sie nicht an, er dreht sich hinein.** Zwei Fassungen sind daran gescheitert (v1.4 gar keine Beruehrung, v1.5 er nimmt ihre Hand).
 109. **b2 K6, Register A 3b:** er bittet **im Stehen** und geht erst hinunter auf *"Now come here"* - die Umkehrung von A 9 am 4. Juni.
 110. **b2 K6, Register C 3b:** ihre Hand an der Seite seines Gesichts ist woertlich der **29. Dezember**, und sie hat das **einmal vorher in ihrem Leben** getan.
-111. **b2 K31:** er wacht mit einem Mantel zugedeckt auf, der ihm nicht gehoert. **Es wird kein Wort darueber gesagt.**
+111. **b2 K27:** er wacht mit einem Mantel zugedeckt auf, der ihm nicht gehoert. **Es wird kein Wort darueber gesagt.**

@@ -57,7 +57,7 @@ noch freundlicher, und das ist das Grauen.
 #### Nachgeprüft am 25.08.: an dieser Stelle ist es behoben
 
 **Die zitierte Zeile steht in keiner lebenden Fassung mehr.** Sie stammt aus
-b2 K52 v1.0; der Kanon ist v1.4, und dort steht an derselben Stelle Sims
+b2 K43 v1.0; der Kanon ist v1.4, und dort steht an derselben Stelle Sims
 eigenes Register - der Gastgeber, der unter Druck nicht nüchtern wird, sondern
 um Zeugenschaft bittet:
 
@@ -386,10 +386,10 @@ Zurückhalten wird sichtbar gemacht**, nicht verschwiegen:
   > give it to you."*
   > b1 K34: *"I am not going to tell you what it cost and I will not give you
   > the figure if you ask me for it."*
-  > b2 K18: *"Do not thank me for that. I have been sitting on the whole of it
+  > b2 K17: *"Do not thank me for that. I have been sitting on the whole of it
   > since December and I have just given you the smallest piece I could get
   > away with, and both of us are aware of it."*
-  > b2 K26: *"I have spent sixty-eight days arranging for it to be later."*
+  > b2 K25: *"I have spent sixty-eight days arranging for it to be later."*
 
   **Ihr Kennzeichen ist nicht, dass sie nichts zurückhält. Es ist, dass sie das
   Zurückhalten ansagt** - mit Frist, mit Grund und ohne Entschuldigung. Wer
@@ -410,7 +410,7 @@ Dienstleistung, und immer als Verstoß gegen die eigene Vorschrift:
   selbst: *"without being asked."*
 - **Woo** gibt am Ende jedes Treffens ungefragt etwas her, **und der Erzähler
   sagt es selbst**: *"At the door, in the hall, with the car already turned
-  round, Woo did the thing he has done **every time since October**."* (b2 K61).
+  round, Woo did the thing he has done **every time since October**."* (b2 K71).
   *(Hier stand "Dreimal belegt" - das war zu wenig und machte aus einer
   Gewohnheit einen Zufall.)*
 - **Mrs Seo** sagt nicht, dass sie sich sorgt. Sie sagt: *"Drink it before it
@@ -421,7 +421,7 @@ Dienstleistung, und immer als Verstoß gegen die eigene Vorschrift:
 - **Annie** wird nie sprachlich weich. Ihr Weichwerden ist ausschließlich
   körperlich (`doc/10-naehe.md`).
 
-**Die eine Ausnahme, und sie gehört Sim.** In b2 K52, an der Tür, nach dem
+**Die eine Ausnahme, und sie gehört Sim.** In b2 K43, an der Tür, nach dem
 schlimmsten Abend seines Lebens:
 
 > *"May I ask you one thing that is nothing to do with any of it," he said.*
@@ -487,7 +487,7 @@ Sang-hoon** - in der alten Tabelle stand er ganz unten.
 
 **Ein Durchgang nach der alten Regel hätte drei Figuren ein Register erfunden,
 das sie nicht haben.** Genau das ist bei Jang bereits passiert und ist am 25.08.
-zurückgenommen worden (b2 K40).
+zurückgenommen worden (b2 K33).
 
 #### Was statt dessen wahr ist, und es ist brauchbarer
 
@@ -608,10 +608,10 @@ Erzählung mit und war deshalb doppelt so hoch.
 | *Chairman* | an Woo, von allen | **44** | 19 | 87 / 16 |
 | *ma'am* | **der Haushalt**: der Wachmann, Mrs Seo, Ji-won | **6** | **3** | 7 / 0 |
 
-**Die drei in Band 2 stehen alle in K40 und sind alle aus diesem Durchgang.**
+**Die drei in Band 2 stehen alle in b2 K33 und sind alle aus diesem Durchgang.**
 Der Fund unten - *das eigene Wort des Haushalts kommt in Band 2 gar nicht mehr
 vor* - war richtig, **und er ist durch die Reparatur erledigt**, nicht widerlegt.
-Wer die Null wieder messen will, muss b2 K40 wegdenken.
+Wer die Null wieder messen will, muss b2 K33 wegdenken.
 
 **Die dritte Zeile ist ein Fund.** Das eigene Wort des Haushalts kommt in Band 2
 kein einziges Mal mehr vor. Mrs Seo und Ji-won reden weiter, aber sie reden nicht
@@ -860,7 +860,7 @@ findet dort fast nichts. Die Zahl misst dann Begleitsätze und nicht Text:
 > **Kim Ye-rin steht mit 17 in dieser Liste.** Allein die Terrassenszene in
 > b1 K30 hat 117 Redeabsätze im Wechsel, also rund **siebenundfünfzig** für sie.
 > **Mrs Sunwoo steht mit 8** - `stimmen.py` kennt sie gar nicht als Sprecherin.
-> **Mrs Bae steht mit 8**, sicher zugeordnet sind drei, und b2 K49 ist ihres.
+> **Mrs Bae steht mit 8**, sicher zugeordnet sind drei, und b2 K40 ist ihres.
 
 **Wer nach dieser Spalte entscheidet, wer eine Nebenfigur ist, irrt sich bei
 genau den Figuren, die ein eigenes Kapitel tragen.** Die Falle steht wörtlich in
@@ -948,7 +948,7 @@ zweites Mal so schreibt, nimmt der ersten alles.
 **Korrigiert die Prämisse, statt zu antworten.** Redet in Jahreszahlen und
 Bauwerken. Nennt sein Alter selbst und benutzt es als Argument. Gibt am Ende
 jedes Treffens ungefragt etwas her - **und der Erzähler sagt es selbst**:
-*"Woo did the thing he has done **every time since October**"* (b2 K61). Hier
+*"Woo did the thing he has done **every time since October**"* (b2 K71). Hier
 stand *"dreimal belegt"*. Schüttelt keine Hände. Verweigert Dank.
 
 **Diese Zeile steht zweimal im Buch, als Echo über die Bandgrenze, und sie ist
@@ -957,7 +957,7 @@ nicht identisch:**
 | | |
 |---|---|
 | b1 K13 | *"Thank you, Chairman." / "**Don't** thank me. I have not given you a name."* |
-| b2 K57 | *"Thank you, Chairman." / "**Do not** thank me. I have not given you a name."* |
+| b2 K63 | *"Thank you, Chairman." / "**Do not** thank me. I have not given you a name."* |
 
 Gleicher Stichsatz, gleiche Antwort, **eine Kontraktion Unterschied**. Ob das
 Absicht ist, entscheidet der Autor - es ist ein wiederholter Satz und keine
@@ -967,7 +967,7 @@ Marotte. **Bis dahin wird an keiner der beiden Stellen etwas geändert.**
 **drei**, und alle drei stehen in b1 K13: "Don't thank me", "Somebody deciding
 **you're** worth the trouble", "After that **it's** paperwork." `stimmen.py`
 sieht die erste nicht, weil sie ohne Begleitsatz dasteht. **b1 K13 ist sein
-einziges Kapitel mit Kontraktionen** - in b2 K57 zieht er kein einziges Mal
+einziges Kapitel mit Kontraktionen** - in b2 K63 zieht er kein einziges Mal
 zusammen.)*
 
 **Dazu gemessen, 80 Repliken und 1193 Wörter, und ein Befund, der aussieht wie ein Fehler und
@@ -1000,7 +1000,7 @@ Stellen, beide ersetzt durch seine eigene Bewegung, die Korrektur der Prämisse:
 Der zweite ersetzt zugleich den selbstkommentierenden which-Satz durch das,
 was Woo statt einer Erklärung hat: **eine Regel des Gewerbes, flach hingelegt.**
 
-**Eine Negativdefinition steht noch da, und sie muss stehen bleiben.** b2 K57
+**Eine Negativdefinition steht noch da, und sie muss stehen bleiben.** b2 K63
 misst 0,9 - das sieht aus wie ein Rückfall und ist das Gegenteil:
 
 > *"He asked me who I would telephone if it went badly." **Woo said it exactly,
@@ -1021,7 +1021,7 @@ und auch sie ist keine Marotte, sondern der Grund, warum es das Kapitel gibt:
 > somebody for me. **I have never been able to work out which, and I have never
 > been able to ask.**"*
 
-**Beides zusammen macht b2 K57 zu seiner Ausnahme im Buch:** das eine Kapitel,
+**Beides zusammen macht b2 K63 zu seiner Ausnahme im Buch:** das eine Kapitel,
 in dem er nicht die Prämisse korrigiert, sondern zugibt, dass er eine Frage
 dreiundzwanzig Jahre lang nicht gestellt hat.
 
@@ -1035,29 +1035,29 @@ Kein Eingriff ist besser als ein erfundener.
 ### Sim (dreißig Jahre Fixer, 63)
 **Sein Instrument ist die Freundlichkeit**, und dreißig Jahre lang legt er es
 nie ab. *"Tips the room and not the person, which means everybody gets some,
-which means everybody likes him."* (b2 K41, Mrs Jeon) *"Says it is good to see
-people he has never met."* (b2 K31, Georgijs Notizkarte) Bezahlt vorher, im
+which means everybody likes him."* (b2 K34, Mrs Jeon) *"Says it is good to see
+people he has never met."* (b2 K27, Georgijs Notizkarte) Bezahlt vorher, im
 Umschlag, nimmt nie eine Quittung - erst von Mrs Jeon bezeugt, dann aus seinem
-eigenen Mund: *"I pay in an envelope and I do not take receipts."* (b2 K52)
+eigenen Mund: *"I pay in an envelope and I do not take receipts."* (b2 K43)
 Fragt Fremde nach ihrem Weg. **Sagt die falsche Tram-Nummer absichtlich, damit
 der andere ihn verbessern darf** - zweimal belegt, und das zweite Mal erklärt er
 es selbst, mit dem Satz, der die Technik erst fertig macht:
 
-> b2 K72: *"I told him the tram I had taken to the office this morning and I got
+> alt K72: *"I told him the tram I had taken to the office this morning and I got
 > it wrong on purpose. He corrected me. **Then I heard about the road up there
 > and how long he has been on it.**" … "Everything he had, and **I did not ask
 > him one question**."*
 
 **65 Repliken** (`python3 werkzeug/stimmen.py Sim`). Und hier liegt der Fehler
-dieses Blattes: **64 davon stehen in b2 K52, K64, K68, K72 und K74** - also
-hinter allem, was oben zitiert ist. Das Blatt stand auf K31 und K41 und hat
+dieses Blattes: **64 davon stehen in b2 K43, b2 K51, alt K68, alt K72 und alt K74** - also
+hinter allem, was oben zitiert ist. Das Blatt stand auf K31 und b2 K34 und hat
 danach nicht mehr gelesen.
 
 #### Der Satz, den das Buch umgedreht hat
 
 **Hier stand: *"Im schlimmsten Moment macht er den Gastgeber weiter. Sein Bruch
 ist nicht Kälte, sondern dass die Wärme weiterläuft, wenn sie nichts mehr zu tun
-hat."*** Bis K41 stimmt das. **In K52 tut das Buch das Gegenteil**, und es
+hat."*** Bis b2 K34 stimmt das. **In b2 K43 tut das Buch das Gegenteil**, und es
 markiert den Moment ausdrücklich als den ersten:
 
 > *"Do not do that." **It came out of him at last, and it was not loud, and it
@@ -1075,40 +1075,40 @@ und wählt sie**, im selben Kapitel, später:
 > being the man who arranges things in every room he sits in, and **I would like
 > to do it once more this evening**."*
 
-**Die Reihenfolge ist die Figur:** automatisch (K41) → gebrochen (K52 Z204) →
-benannt und gewählt (K52 Z290) → aufgegeben (K68). Wer das alte Blatt benutzt,
+**Die Reihenfolge ist die Figur:** automatisch (b2 K34) → gebrochen (b2 K43 Z204) →
+benannt und gewählt (b2 K43 Z290) → aufgegeben (alt K68). Wer das alte Blatt benutzt,
 schreibt ihm die Wärme als Panzer, den er nie ablegt - und das Buch hat ihn
 längst ablegen lassen.
 
 Und das Buch unterscheidet die beiden Lächeln selbst, damit niemand sie
 verwechselt: *"it was not the smile from Mrs Bae's front desk, and it was not a
-performance either."* (K52)
+performance either."* (b2 K43)
 
 #### Die Maschine, und sie stand bis zum 26.08. nicht auf diesem Blatt
 
 **Er richtet dem anderen die Bequemlichkeit im Voraus ein, ungefragt, und
 benennt die Einrichtung dann laut - damit sie keine Schuld wird.** Die
 Reihenfolge ist immer dieselbe: erst die Höflichkeit, dann die Mechanik der
-Höflichkeit, und seit b2 K52 auch, was sie ihn kostet.
+Höflichkeit, und seit b2 K43 auch, was sie ihn kostet.
 
-> b2 K72: *"It is a box in Jongno and it is raining on me, **and I have put in
+> alt K72: *"It is a box in Jongno and it is raining on me, **and I have put in
 > more than I need, so do not talk quickly on my account.**"*
 
-> b2 K67: *"You will not want these." … "**I have brought them anyway.** A man
+> alt K67: *"You will not want these." … "**I have brought them anyway.** A man
 > who puts nothing on a table is telling the other man how long the conversation
 > will be, and I did not want to tell you that before you sat down."*
 
 **Er zählt nicht Jahre und nicht Daten. Er zählt die Ausgänge, die er anderen
 Leuten gebaut hat** - und dass sie keinen genommen haben:
 
-> b2 K72: *"I gave her three places to. I told her the weather might turn. I
+> alt K72: *"I gave her three places to. I told her the weather might turn. I
 > told her the gutters. I said that I would be in that part of the country in
 > the spring in any case. **She did not take one of them.**"*
 
 Dazu die kleinen Siege, die er verschenkt: die falsche Tram-Nummer, damit der
-andere ihn verbessern darf (b2 K52, b2 K72). Und die Bilanz darüber, was er nie
+andere ihn verbessern darf (b2 K43, alt K72). Und die Bilanz darüber, was er nie
 genommen hat: *"I have never in my working life asked anybody for anything. So
-I count."* (b2 K74)
+I count."* (alt K74)
 
 #### Er darf nicht: Georgijs Enthüllungsrahmen - und er hat ihn viermal benutzt
 
@@ -1123,10 +1123,10 @@ benutzen und sonst niemand.**
 
 | Georgij | Sim, geliehen |
 |---|---|
-| b2 K18 *"And there is a second half,"* | b2 K74 *"There is a second half and you have not asked for it"* |
-| b2 K21 *"There is one more thing and it is not an argument"* | b2 K72 *"There is one more thing and it is mine and not hers"* |
-| b2 K19 *"neither of them is a comfort"* | b2 K72 *"two voices … and neither of them was his"* |
-| b2 K19 *"he is not the one who wrote the letter"* | b2 K64 *"a question and it is not the one you are braced for"* |
+| b2 K17 *"And there is a second half,"* | alt K74 *"There is a second half and you have not asked for it"* |
+| b2 K20 *"There is one more thing and it is not an argument"* | alt K72 *"There is one more thing and it is mine and not hers"* |
+| b2 K18 *"neither of them is a comfort"* | alt K72 *"two voices … and neither of them was his"* |
+| b2 K18 *"he is not the one who wrote the letter"* | b2 K51 *"a question and it is not the one you are braced for"* |
 
 **Drei der vier eröffnen einen Takt und werden mit *"Go on."* beantwortet.** Das
 ist der Rhythmus eines Mannes, der Auskunft dosiert.
@@ -1134,7 +1134,7 @@ ist der Rhythmus eines Mannes, der Auskunft dosiert.
 **Was ihm dagegen gehört und bleibt:** *"you have not asked"*. Bei Georgij
 markiert es, dass er etwas hat. **Bei Sim markiert es, dass er wartet, geben zu
 dürfen** - *"Ask me what you came to ask, because you have not asked anything,
-and I have been waiting for it since the door."* (b2 K52) Der Wortlaut ist
+and I have been waiting for it since the door."* (b2 K43) Der Wortlaut ist
 gleich, der Zug ist der umgekehrte.
 
 **Er darf ausserdem keinen Haustic.** Gemessen hat er **null** - kein
@@ -1161,20 +1161,20 @@ gesprochen.** Vier Belege, und drei davon sind nicht seine Rede:
 
 | Stelle | Form |
 |---|---|
-| b2 K52 *"He had asked her about the walk from the station and had said the wrong tram number on purpose"* | **Erzählung** |
-| b2 K52 *"About the heating. About whether the second bathroom was worth doing."* | **sein Bericht** über vier Jahre Telefonate |
-| b2 K72 *"I told her the weather might turn. I told her the gutters."* | **sein Bericht** |
-| b2 K77 *"Sim said that he would use it at about six and that he hoped somebody in that building owned a chair."* | **indirekte Rede** |
+| b2 K43 *"He had asked her about the walk from the station and had said the wrong tram number on purpose"* | **Erzählung** |
+| b2 K43 *"About the heating. About whether the second bathroom was worth doing."* | **sein Bericht** über vier Jahre Telefonate |
+| alt K72 *"I told her the weather might turn. I told her the gutters."* | **sein Bericht** |
+| alt K77 *"Sim said that he would use it at about six and that he hoped somebody in that building owned a chair."* | **indirekte Rede** |
 
 **Lebendig, an den Anwesenden gerichtet und konkret ist es genau zweimal im
 ganzen Buch:**
 
-> b2 K52: *"The soup is the reason to come. **I have ordered it for both of us
+> b2 K43: *"The soup is the reason to come. **I have ordered it for both of us
 > and you are under no obligation to touch it.**"*
-> b2 K72: *"It is a box in Jongno and it is raining on me, **and I have put in
+> alt K72: *"It is a box in Jongno and it is raining on me, **and I have put in
 > more than I need, so do not talk quickly on my account.**"*
 
-Dazu die eine Stelle, an der das Kapitel es richtig macht, b2 K64: *"Do not
+Dazu die eine Stelle, an der das Kapitel es richtig macht, b2 K51: *"Do not
 thank me for the room. **Thank me for the tea, which is better than it needs to
 be, and which I have made myself**"* - und der Erzähler daneben: *"He had made
 the tea before Georgij arrived, and it was at the right temperature, **which
@@ -1213,7 +1213,7 @@ Muster sind aus dem Text geholt, nicht erfunden.
 **Die erste Zeile ist die scharfe.** Sie stand am 26.08. in **jedem** seiner
 Kapitel auf null - das ist der Befund, der diese Probe ausgeloest hat.
 
-**Wo es im Text fehlt, gemessen an dieser Probe:** b2 K74 macht mit *"You have
+**Wo es im Text fehlt, gemessen an dieser Probe:** alt K74 macht mit *"You have
 come with something and you are not going to make me guess"* auf - keine Frage,
 kein Angebot, kein Blick auf den Mann, der eben den Hügel heruntergekommen ist.
 **Das ist die Stelle, an der der Autor die Höflichkeit vermisst hat.**
@@ -1224,10 +1224,10 @@ kein Angebot, kein Blick auf den Mann, der eben den Hügel heruntergekommen ist.
 **Nicht Absolution. Zeugenschaft.** Er will, dass jemand gehört hat, dass er
 gegeben hat, ohne zu fordern - und er sagt es dreimal in zwei Kapiteln:
 
-> *"I was glad to. **I would like you to have heard me say that part.**"* (K52)
-> *"**I want that said properly.**"* (K68)
+> *"I was glad to. **I would like you to have heard me say that part.**"* (b2 K43)
+> *"**I want that said properly.**"* (alt K68)
 > *"…said by the only man in eleven years **who did not need anything from me
-> when he said it**."* (K68)
+> when he said it**."* (alt K68)
 
 #### Wie er mit wem redet
 
@@ -1242,10 +1242,10 @@ gegeben hat, ohne zu fordern - und er sagt es dreimal in zwei Kapiteln:
 
 #### Was passiert, wenn er warm wird
 
-**Bis b2 K41 gar nichts - die Wärme läuft ohnehin die ganze Zeit, und das ist
-sein Panzer.** Ab b2 K52 ist es umgekehrt, und der Bruch ist, dass sie
+**Bis b2 K34 gar nichts - die Wärme läuft ohnehin die ganze Zeit, und das ist
+sein Panzer.** Ab b2 K43 ist es umgekehrt, und der Bruch ist, dass sie
 **aufhört**. Danach nimmt er sie wieder auf, aber benannt und gewählt, und in
-K68 legt er sie ganz ab.
+alt K68 legt er sie ganz ab.
 
 **Wer ihn warm schreiben will, gibt ihm nichts Freundliches zu sagen** - er gibt
 ihm etwas einzurichten, das niemand bestellt hat, und lässt ihn danach
@@ -1266,8 +1266,8 @@ Kapitel gelesen und daraus geschlossen, es seien seine Gesten.
 **Was ihm wirklich gehört, sind zwei Sachen, und beide sind stark:**
 
 **Der Teller, den er nicht anfasst.** *"Sim looked at the plate with the four
-small things on it and did not touch it."* (K68) Und das Buch stellt die
-Verbindung selbst her, b2 K52: *"There is one other man in this story who does
+small things on it and did not touch it."* (alt K68) Und das Buch stellt die
+Verbindung selbst her, b2 K43: *"There is one other man in this story who does
 not eat in front of the person he is working on."* - **siehe Choi Dae-ho.** Das
 ist keine Marotte, sondern die Landkarte.
 
@@ -1341,7 +1341,7 @@ meldet das vierte als Fehler. **Es ist der Beweis.**
 | gebaute Ausgänge | *"I gave her three places to. … She did not take one of them"* |
 
 **Eine Zeile ohne einen dieser Marker ist nicht falsch - sie ist nur nicht
-seine.** Am 26.08. hat diese Probe zwei meiner eigenen Berichtigungen in b2 K72
+seine.** Am 26.08. hat diese Probe zwei meiner eigenen Berichtigungen in alt K72
 durchfallen lassen: sie hatten Georgijs Rahmen verloren und nichts von Sim
 bekommen. **Georgij herausnehmen ist die halbe Arbeit.**
 
@@ -1350,10 +1350,10 @@ bekommen. **Georgij herausnehmen ist die halbe Arbeit.**
 
 | | |
 |---|---|
-| **Wofür das Instrument da war** | *"I have been sent to be liked, **four hundred times**, by a man who has understood since before I met him that being liked is the only thing that goes into a house and stays there."* (K68) |
-| **Wie es endet** | *"I am sixty-three. **I have got one instrument and I have just found out what it was for.** I would rather have nothing than go on being it, and it turns out that a man can arrive at that in one afternoon after thirty years."* (K68) |
-| **Woher er kommt** | **Hier stand *"mit sechsunddreißig aus einem Dienst herausgeholt (K75)"*. Falsch: Sim kommt in b2 K75 null Mal vor.** Der Mann von sechsunddreißig ist der Staatsanwalt - **Choi**, von Annies Vater gemacht. b2 K80: *"Your father did it to a prosecutor of thirty-six in the spring of two thousand and two. **Choi did it to a man who telephones about drainpipes for eleven years.**"* Der Mann mit den Regenrohren ist Sim, und **das** ist seine Herkunft: von Choi gemacht, auf dieselbe Weise |
-| **Was er nicht ist** | *"I have never been sent anywhere to be unpleasant to anybody." … "Not a raised voice, not a threat, not a bill produced on a table."* (K68) |
+| **Wofür das Instrument da war** | *"I have been sent to be liked, **four hundred times**, by a man who has understood since before I met him that being liked is the only thing that goes into a house and stays there."* (alt K68) |
+| **Wie es endet** | *"I am sixty-three. **I have got one instrument and I have just found out what it was for.** I would rather have nothing than go on being it, and it turns out that a man can arrive at that in one afternoon after thirty years."* (alt K68) |
+| **Woher er kommt** | **Hier stand *"mit sechsunddreißig aus einem Dienst herausgeholt (alt K75)"*. Falsch: Sim kommt in alt K75 null Mal vor.** Der Mann von sechsunddreißig ist der Staatsanwalt - **Choi**, von Annies Vater gemacht. b2 K52: *"Your father did it to a prosecutor of thirty-six in the spring of two thousand and two. **Choi did it to a man who telephones about drainpipes for eleven years.**"* Der Mann mit den Regenrohren ist Sim, und **das** ist seine Herkunft: von Choi gemacht, auf dieselbe Weise |
+| **Was er nicht ist** | *"I have never been sent anywhere to be unpleasant to anybody." … "Not a raised voice, not a threat, not a bill produced on a table."* (alt K68) |
 
 ### Jang (58, acht Familien, dreißig Jahre)
 
@@ -1411,7 +1411,7 @@ Sonst nirgends. Überall, wo eine natürlich wäre, steht die volle Form: *"I am
 not going to ask you why"* · *"it was not because you did not know about the
 corner"* · *"I read the file before I took the job."*
 
-**Auf die falsche Behauptung hin sind in b2 K40 zwei Kontraktionen in seine
+**Auf die falsche Behauptung hin sind in b2 K33 zwei Kontraktionen in seine
 Repliken geschrieben worden. Sie sind am 25.08. zurückgenommen worden** (ch40
 v2.6). Danach stand das Buch wieder auf drei, und alle drei da, wo sie hingehören.
 
@@ -1641,13 +1641,13 @@ Gefühl.
 **Beide Beispiele standen bis zum 25.08. mit sieben Kontraktionen da** - *I'll*,
 *it's*, *There's*, *you'll*, *That's*, *isn't*, *isn't*. **Mrs Seo hat im
 ganzen Buch keine.** Die zwei, die im Text standen, waren aus diesem Durchgang
-und sind zurückgenommen (b2 K33 v1.4, b2 K37 v2.4). Ohne sie klingt sie wie ihre
+und sind zurückgenommen (b2 K29 v1.4, b2 K31 v2.4). Ohne sie klingt sie wie ihre
 eigene Zeile: *"It is easier to run a house for people who do not tell me
 things."*
 
 ### Mr Ahn (39, repariert Kleinmotoren) - 35 Repliken
 **Misst alles in Fristen und Durchlaufzeiten**, auch Dinge, die keine haben.
-Steht schon in seiner ersten Zeile (b2 K56 Z28): *"It will be Tuesday," he
+Steht schon in seiner ersten Zeile (b2 K47 Z28): *"It will be Tuesday," he
 said. "Whatever it is."* - **zwei Teile mit dem Begleitsatz dazwischen, und die
 Fuge gehört dazu**; wer sie zusammenzieht, nimmt ihm die Pause vor dem
 *whatever*. Und derselbe Satz, der ihre Entführung an einer Lieferzeit misst:
@@ -1674,20 +1674,20 @@ durchgehende Geste über drei**, und sie hat ein Maß:
 
 | | |
 |---|---|
-| b2 K56 | *"He turned the fan housing **a quarter turn** and stopped."* - zweimal, beide Male auf eine Frage nach ihr |
-| b2 K63 | *"He picked the impeller up off the cloth and put it down again about **four centimetres** away."* |
-| b2 K73 | *"He moved a screwdriver **four centimetres** along the bench."* |
+| b2 K47 | *"He turned the fan housing **a quarter turn** and stopped."* - zweimal, beide Male auf eine Frage nach ihr |
+| b2 K50 | *"He picked the impeller up off the cloth and put it down again about **four centimetres** away."* |
+| alt K73 | *"He moved a screwdriver **four centimetres** along the bench."* |
 
 Dazu der Lappen über Hände, die sauber sind: *"He wiped his hands on the cloth
-on the bench, **which did not need doing**."* (K56)
+on the bench, **which did not need doing**."* (b2 K47)
 
 **Er ist neununddreißig und Georgij liest ihn als fünfundvierzig.** Beides steht
 im Text, und beides ist inzwischen **ausdrücklich** belegt statt hergeleitet:
 
-> b2 K56 Z26: *"There was **a man of about forty-five** at a bench…"*
-> b2 K56 Z78: *"Georgij had put him at forty-five inside two seconds of coming
+> b2 K47 Z26: *"There was **a man of about forty-five** at a bench…"*
+> b2 K47 Z78: *"Georgij had put him at forty-five inside two seconds of coming
 > through the door, and **he is never wrong about that by more than a year**."*
-> b2 K74 Z564, Annie: *"He has a month and a van in his head and **he is
+> alt K74 Z564, Annie: *"He has a month and a van in his head and **he is
 > thirty-nine**…"*
 
 **Der absolute Satz gehört dem Buch, nicht diesem Blatt** - *he is never wrong
@@ -1695,30 +1695,30 @@ by more than a year* steht wörtlich im Text, und genau deshalb sind die sechs
 Jahre ein gesetzter Befund und kein Versehen. Vier Jahre Warten haben ihn
 altern lassen, und der Erzähler zeigt es, indem er sich zum einzigen Mal irrt.
 
-#### Was das Blatt nicht hatte: K63, K70, K73
+#### Was das Blatt nicht hatte: b2 K50, alt K70, alt K73
 
-Das Blatt stand allein auf K56. **Zwei Drittel seiner Repliken stehen in K63,
-K70 und K73**, und dort steht seine Methode:
+Das Blatt stand allein auf b2 K47. **Zwei Drittel seiner Repliken stehen in b2 K50,
+alt K70 und alt K73**, und dort steht seine Methode:
 
 **Er denkt über Menschen wie über eine Maschine, die falsch läuft** - nicht als
 Bild, sondern als Verfahren. Er sucht den Fehler an der Betriebsart, nicht am
 Motiv:
 
-> b2 K73: *"**Whoever's in that room is bored.**" Mr Ahn said it without any
+> alt K73: *"**Whoever's in that room is bored.**" Mr Ahn said it without any
 > weight at all. "You don't get bored watching somebody. **You get bored waiting
 > for a lorry.**"*
 
-> b2 K73: *"A house that's being kept doesn't change its people at the end of
+> alt K73: *"A house that's being kept doesn't change its people at the end of
 > August. It changes them **in March, when the year turns and the money's set**.
 > You change them in August when you know you won't be paying anybody in
 > December."*
 
 **Und der Ton, wenn er von ihr redet, ist immer noch die Fristenrechnung** -
-b2 K63: *"That's the cruellest thing anybody's said to me **in four years**."*
+b2 K50: *"That's the cruellest thing anybody's said to me **in four years**."*
 Das Einzige, was er über sie weiß und nie nachprüfen konnte, ist eine Dauer:
-*"Somebody has to go and get her and **that takes as long as it takes**."* (K73)
+*"Somebody has to go and get her and **that takes as long as it takes**."* (alt K73)
 
-**Sein einziger Satz, der nichts misst**, steht am Ende von K63 und ist deshalb
+**Sein einziger Satz, der nichts misst**, steht am Ende von b2 K50 und ist deshalb
 der schwerste, den er hat:
 
 > *"**It's not for you.** … **Don't make it that.**"*
@@ -1736,7 +1736,7 @@ filings."*
 *(Hier stand: "Er lacht, was in diesem Buch fast niemand tut." Beide Hälften
 sind falsch. Nachgezählt wird im Buch **fünfunddreißig Mal** gelacht - Hana
 fünfmal, Georgij fünfmal, Sang-hoon dreimal, Woo und Kang je zweimal, dazu der
-Saal siebenmal. **Und Mr Yeom lacht genau einmal**, in b2 K24. Gestrichen; das
+Saal siebenmal. **Und Mr Yeom lacht genau einmal**, in b2 K23. Gestrichen; das
 Anrufen bleibt, das ist belegt.)*
 
 **Die Maschine ist tiefer als die Abkürzung: Er läuft die nächsten zwei Züge des
@@ -1752,7 +1752,7 @@ trotzdem gestellt, um zu sehen, ob der andere sie ehrlich beantwortet. **Das ist
 kein Verhör, das ist ein Verkäufer, der Leute an Tischen sitzen sieht.**
 
 *(Hier stand "seit vierzig Jahren". **Die Zahl steht nirgends im Buch** - Yeoms
-Berufsdauer wird nie genannt, gesucht über K24, K25, K34, K41, K53, K54, K55.
+Berufsdauer wird nie genannt, gesucht über K24, K25, K34, b2 K34, b2 K44, b2 K45, b2 K46.
 Sie klang richtig und war erfunden, in einem Blatt, das sonst jede Zahl belegt.
 Belegt sind Byuns sechsundzwanzig Jahre und Yeoms vier Jahre Ruhe - nicht seine
 Laufbahn.)*
@@ -1777,13 +1777,13 @@ Yeom benotet und sagt dann, warum er gefragt hat.** Höchstens einmal je Szene,
 und nie beide im selben Kapitel.
 
 **Nachgeprüft am 25.08. und die Regel hält bisher von selbst:** Yeom steht in
-b2 K24, b2 K25, b2 K33, b2 K41, b2 K53, b2 K54, b2 K55; Sang-hoon in b1 K10,
-b1 K16, b1 K22, b1 K33 und b2 K04, b2 K26, b2 K35, b2 K36, b2 K38, b2 K39,
-b2 K42, b2 K43, b2 K45, b2 K48, b2 K50. **Keine Überschneidung.**
+b2 K23, b2 K24, b2 K29, b2 K34, b2 K44, b2 K45, b2 K46; Sang-hoon in b1 K10,
+b1 K16, b1 K22, b1 K33 und b2 K04, b2 K25, b2 K29, b2 K30, b2 K32, b2 K32,
+b2 K35, b2 K35, b2 K36, b2 K39, b2 K41. **Keine Überschneidung.**
 
 #### Seine wichtigste Zeile steht in einem anderen Blatt
 
-**In b2 K25 gibt Yeom den Satz wieder, an dem der halbe zweite Band hängt**, und
+**In b2 K24 gibt Yeom den Satz wieder, an dem der halbe zweite Band hängt**, und
 er gibt ihn als Empfänger wieder, nicht als Sprecher:
 
 > *"He said he was glad we had met," said Mr Yeom.*
@@ -1799,12 +1799,12 @@ until May"* - **er speichert nicht Gefühle, sondern den Moment, an dem eine
 Rechnung nicht aufging.**
 
 Siehe *Choi Dae-ho*: dass Yeom hier Empfänger ist und nicht Überbringer, ist der
-Punkt, den b2 K38 ausdrücklich festhält - *"That puts him on the end of the
+Punkt, den b2 K32 ausdrücklich festhält - *"That puts him on the end of the
 sentence, not the one saying it."*
 
 ### Mrs Bae (zweiundzwanzig Jahre am Empfang)
 
-**Nur drei getaggte Repliken, aber ein ganzes Kapitel** - Band 2, Kapitel 49 ist
+**Nur drei getaggte Repliken, aber ein ganzes Kapitel** - Band 2, Kapitel 40 ist
 ein Zweipersonenstück im bloßen Wechsel. Aus dem Kapitel gelesen, nicht gezählt.
 
 **Der Gegenstand ist das Buch**, und der Bleistift ist die Regel dahinter.
@@ -1851,7 +1851,7 @@ nennt die Schwelle mit.
 
 **Hier stand die volle Verfolgerliste mit Namen und Ziffern, und sie war nach
 drei Wochen falsch** (Mr Ahn stand bei Uhrzeiten auf 11,2 und steht auf 7,9,
-weil er in K73 viel geredet und dabei keine Uhrzeit genannt hat; bei den Daten
+weil er in alt K73 viel geredet und dabei keine Uhrzeit genannt hat; bei den Daten
 ist er inzwischen an Mrs Jeon vorbei). **Hwangs eigene zwei Zahlen sind seine
 Identität und bleiben stehen. Die Rangliste dahinter gehört nicht ins Blatt,
 sondern in den Befehl:**
@@ -1862,9 +1862,9 @@ python3 werkzeug/stimmen.py            # Spalte "zaehlt am dichtesten"
 
 **Er sagt das Belastende zuerst und ungefragt**, damit der andere es ihm nicht
 abnehmen muss: *"You are correct. I want to say that first so that we are not
-doing the part where you prove it to me."* (b2 K21) Und er zieht die Frage vor, die
+doing the part where you prove it to me."* (b2 K20) Und er zieht die Frage vor, die
 kommen wird: *"You want something. **You have not asked for it yet and you have
-been in this room for twenty minutes.**"* (b2 K21)
+been in this room for twenty minutes.**"* (b2 K20)
 
 **Aber das Material, mit dem er vorwegnimmt, ist immer die Akte - und das ist
 der Unterschied zu Yeom.** Yeom kennt Menschen, weil er ihnen gegenübergesessen
@@ -1872,7 +1872,7 @@ hat. Hwang kennt sie, **weil sie ein Formular ausgefüllt haben**:
 
 > *"There is a bus every twenty minutes from the station and it is the fourth
 > stop. **I know that because she wrote it on her application when she came and
-> nobody has ever asked her for a new one.**"* (b2 K28)
+> nobody has ever asked her for a new one.**"* (b2 K26)
 
 Ein Mann, der die Busverbindung einer Sachbearbeiterin kennt, weil sie
 dreiundzwanzig Jahre alt in einem Ordner steht. **Jede Nähe, die er zu einem
@@ -1881,22 +1881,22 @@ Menschen hat, ist dokumentarisch**, und er nennt die Fundstelle mit.
 **Warm: die Wärme ist ein Schriftstück, und er misst sie in Seiten.**
 
 > *"I wrote her one. **It is two pages and every sentence in it is true and I
-> have never written a better one about anybody.**"* (b2 K28)
+> have never written a better one about anybody.**"* (b2 K26)
 
 Er sagt nicht, dass er sie schätzt. Er sagt, wie lang das Zeugnis ist und dass
 jeder Satz darin wahr ist - was bei ihm dasselbe bedeutet und mehr kostet.
 
 **Unter Druck** wird er **verfahrensförmig**: Er sagt, in welchem Zustand das
 Verfahren ist und was daraus folgt - *"the house was in wind-up, and that
-reopening a matter in wind-up requires the administrator's consent."* (b2 K28) Keine
+reopening a matter in wind-up requires the administrator's consent."* (b2 K26) Keine
 Rechtfertigung, eine Rechtslage.
 
 **Er darf:** Daten und Uhrzeiten in jeder Menge, Aktenverweise, die Vorwegnahme.
 **Er darf nicht:** den which-Satz, die Und-Kette, Adjektive über Menschen.
 
 **Körper.** Er hat das Papier in der Hand, bevor er darüber spricht - *"with a
-sheet of paper in his hand, which is how that man is always found"* (b2 K81).
-Und er **richtet es gerade**. Wenn er es nicht tut, ist etwas los: b2 K84 legt er
+sheet of paper in his hand, which is how that man is always found"* (b2 K53).
+Und er **richtet es gerade**. Wenn er es nicht tut, ist etwas los: b2 K56 legt er
 es zum ersten Mal um, mit der Schrift nach unten.
 
 #### Der Zug, der ihm nicht schmeichelt
@@ -1906,7 +1906,7 @@ korrekt, genau, selbstanklagend - *"So I have been a man who knows and files"* -
 und **jede Zeile davon war würdig**. Ein Mann, dessen Fehler elegant sind, ist
 eine Funktion.
 
-**Neu in b2 K81 v1.2**, beiläufig, vor dem Geschäft, und es hält nichts auf:
+**Neu in b2 K53 v1.2**, beiläufig, vor dem Geschäft, und es hält nichts auf:
 
 > *"Before me this house kept its lots in four systems. One of them is a book
 > that somebody ruled by hand, and the lines are not straight, **and I have
@@ -1928,7 +1928,7 @@ nicht auf, weil er sich gerade über etwas Krummes ärgert.**
 **41 Repliken.** Zählt Daten und Monate dichter als fast jede andere Figur -
 Rang und Zahl mit `python3 werkzeug/stimmen.py` holen, nicht von hier zitieren.
 
-*(Hier stand "25 Repliken, 328 Wörter". **Das Blatt hat b2 K71 nicht gesehen,
+*(Hier stand "25 Repliken, 328 Wörter". **Das Blatt hat alt K71 nicht gesehen,
 und das sind sechzehn Repliken - ihr grösstes Kapitel.** Alles Zitierte
 unten stimmt; es endete nur bei K32.)*
 
@@ -1944,7 +1944,7 @@ Verfahrensbericht - das ist eine Frau mit dreiundzwanzig Jahren Abrechnung, die
 den Vorgang erkennt, weil sie den ganzen Tag Vorgänge liest.
 
 *(Hier stand "die einzige Nebenfigur im Buch, die das laut sagt". Falsch:
-Park Sang-hoon sagt in b2 K42 **"You are managing me."** und bekommt darauf ein
+Park Sang-hoon sagt in b2 K35 **"You are managing me."** und bekommt darauf ein
 "Yes". Sie ist nicht die einzige - sie ist die einzige, die es über
 dreiundzwanzig Jahre hochrechnet: "Do you know how many times in twenty-three
 years I have been handled by that building.")*
@@ -1972,9 +1972,9 @@ Kenntnis nimmt.
 will say where it came from is the one thing I know how to be afraid of."*
 
 **Keine Rechtfertigung, keine Bitte.** Und sie setzt Leute hin: *"Sit down."*
-(b2 K32)
+(b2 K28)
 
-#### Was in b2 K71 dazukommt
+#### Was in alt K71 dazukommt
 
 **Der Imperativ kehrt wieder und wird schärfer.** Aus *"Sit down."* wird:
 
@@ -1993,8 +1993,8 @@ die Prüfung eines Belegs:
 Erzählweise des anderen berichtigen.** Das ist bei ihr keine Schroffheit,
 sondern ihr Beruf.
 
-**Und K71 beantwortet, was das Blatt bis dahin als offen führte.** In K32 sagt
-sie, sie werde das Angebot ihres Sohnes annehmen. In K71 steht, was daraus
+**Und alt K71 beantwortet, was das Blatt bis dahin als offen führte.** In K32 sagt
+sie, sie werde das Angebot ihres Sohnes annehmen. In alt K71 steht, was daraus
 wurde, und sie rechnet es gegen sich selbst auf:
 
 > *"I said in this room that I was going to take it. **I took the half of it
@@ -2064,7 +2064,7 @@ den Punkt.
 
 **Hier stand *"Sie hat im ganzen Buch noch nie gesprochen"* und *"Sie wird in
 Kapitel 63 oder danach zum ersten Mal reden".* Beides ist überholt, und dieser
-Abschnitt sagte es weiter unten selbst** - sie hat in K64 und in K72 geredet.
+Abschnitt sagte es weiter unten selbst** - sie hat in b2 K51 und in alt K72 geredet.
 Der Kopf war nicht nachgezogen worden.
 
 **Der Kern stimmt trotzdem, und er stimmt genauer als vorher: es gibt im ganzen
@@ -2250,10 +2250,10 @@ ein Prüfer."* **Der Text gibt der zweiten Fassung recht.** Er hat im ganzen Buc
 genau zwei Und-Ketten, und beide tun **dasselbe**: drei Sachen aufzählen und
 dann den Augenblick datieren, in dem sie zusammenkamen.
 
-> b2 K42: *"He ate, and he complimented something, and he left before the
+> b2 K35: *"He ate, and he complimented something, and he left before the
 > coffee, **and I have never once put those three facts in a row until this
 > minute**."*
-> b2 K45: *"I had not been in years and I had no reason to go, and I told him so,
+> b2 K36: *"I had not been in years and I had no reason to go, and I told him so,
 > and he thanked me and put his hat on and left, **and I have never once**…"*
 
 **Die Und-Kette ist bei ihm kein Redefluss, sondern das Sortieren von Beweisen,
@@ -2292,10 +2292,10 @@ nachgeprüft am 25.08.)*
 three facts in a row until this minute."* · *"I notice that neither did you, and
 neither of us is going to pretend that is nothing."*
 
-**Und er protokolliert.** Zweimal, in b2 K26 und b2 K42. Das ist seine Form von
+**Und er protokolliert.** Zweimal, in b2 K25 und b2 K35. Das ist seine Form von
 Fairness: Er macht die Gelegenheit aktenkundig, statt großzügig zu sein.
 
-> b2 K26: *"You did not ask and you were not going to ask, and I have watched you
+> b2 K25: *"You did not ask and you were not going to ask, and I have watched you
 > not ask for four minutes. **I would like it on the record that I gave it to you
 > and that you did not.**"*
 
@@ -2306,8 +2306,8 @@ mitprotokolliert.)*
 
 **Achtung, zweite Kollision - und es ist dieselbe wie bei der Benotung.** Die
 Formel gehört ihm nicht allein: **Georgij benutzt sie ebenfalls zweimal**, beide
-Male gegenüber Annie - b2 K40 *"I would like it on the record that I noticed you
-did not ask"* und b2 K41 *"…that the slow half of this week was the half that
+Male gegenüber Annie - b2 K33 *"I would like it on the record that I noticed you
+did not ask"* und b2 K34 *"…that the slow half of this week was the half that
 worked."* **Die Trennung liegt im Gegenstand:** Sang-hoon protokolliert eine
 **Gelegenheit, die er gegeben hat**; Georgij protokolliert **sein eigenes
 Bemerken**. Nie beide in derselben Szene.
@@ -2626,7 +2626,7 @@ und nicht mit dem Vorgang.** Ihr erstes Wort ist dann, das wievielte Mal es ist
 oder was der andere nicht getan hat:
 
 > *"**You could have written**,"* (b2 K11, das erste, was sie zu ihm sagt)
-> *"**Third time**,"* (b2 K19, dito)
+> *"**Third time**,"* (b2 K18, dito)
 
 *(Hier stand "ihr erstes Wort ist **immer**". Falsch: in b2 K08, beim ersten
 Mal, sagt sie **"You are not from here."** und dann **"Say your name."** - sie
@@ -2671,7 +2671,7 @@ ist, und nie, wie es sich anfühlt.
 
 ---
 
-### Baek Jun-ho (63, Anwalt, elf Treuhandschaften, b2 K50)
+### Baek Jun-ho (63, Anwalt, elf Treuhandschaften, b2 K41)
 
 **Bis zum 25.08. ohne Blatt**, aus demselben Grund wie Nam Byung-hee.
 
@@ -2749,13 +2749,13 @@ die begründet.
 
 ---
 
-### Mr Ok (b2 K17)
+### Mr Ok (b2 K16)
 
 **Vier Repliken, und er ist der Mann, an dem Sims Methode vorgeführt wird.**
 
 **Die Maschine: er schiebt zuerst weg und liefert dann alles.** *"That has
 nothing to do with me,"* - und drei Repliken später die Personenbeschreibung,
-aus der Georgij in b2 K18 seine **neun Zeilen** zieht, ohne dass jemand
+aus der Georgij in b2 K17 seine **neun Zeilen** zieht, ohne dass jemand
 nachbohrt.
 
 **Sein Detail ist das, was er für nebensächlich hält:** *"He did not eat
@@ -2775,7 +2775,7 @@ einer Entschuldigung dafür, dass er sie gemacht hat.**
 
 **Und diese Erzählung ist der eigentliche Auftritt:** *"Then Mr Ku said something
 on the expressway, about forty minutes out, **which he has not done since
-October**."* **Was er gesagt hat, steht nicht da.** Wir erfahren in b2 K20 nur,
+October**."* **Was er gesagt hat, steht nicht da.** Wir erfahren in b2 K19 nur,
 dass es *"the most useful thing anybody said to me all month"* war - aus Georgijs
 Mund und nicht aus seinem.
 
@@ -2784,7 +2784,7 @@ dritte Replik gibt, muss dafür einen Grund im Kapitel haben.
 
 ---
 
-### Mr Kwon (63 Repliken über den Wechsel, b2 K14, K15, K69)
+### Mr Kwon (63 Repliken über den Wechsel, b2 K14, K15, alt K69)
 
 **Hier standen drei Sätze. Das Blatt hat ihn nicht beschrieben, sondern nur
 nicht gestört.**
@@ -2833,7 +2833,7 @@ taken me four months to be able to put it in one sentence."*
 
 **Er hat einen, und er ist der beste Beleg dafür, dass unter ihm jemand ist:**
 
-> b2 K69: *"He is forty minutes from the girl. **He has a boat that does not go
+> alt K69: *"He is forty minutes from the girl. **He has a boat that does not go
 > anywhere and he telephones me on Sundays about the yard, and I let him,
 > because it costs me eleven minutes.**"*
 
@@ -2845,7 +2845,7 @@ sagt alles: ein Mann, der die elf Minuten zählt und sie trotzdem gibt.
 **Hier stand *"Er spricht aus Türrahmen".* Das ist der Vorgabe-Beat des Hauses**
 - 25 Fundstellen bei sechs Figuren, Annie allein dreimal.
 
-**Seiner ist der abgelehnte Stuhl**, zweimal in b2 K69: *"I am going to do it
+**Seiner ist der abgelehnte Stuhl**, zweimal in alt K69: *"I am going to do it
 standing here because I did not come to be given a chair."* und *"I said I did
 not come to be given a chair."* **Und die Ausnahme ist die Szene:** als Georgij
 es nicht mehr anbietet, sondern anordnet - *"Sit down, and do not tell me you
@@ -2887,7 +2887,7 @@ sollte** - Woo, Sunwoo und Choi.
 ### Mrs Sunwoo (81 Jahre)
 
 **Achtung bei der Zahl in der Überschrift.** `stimmen.py` kennt sie **gar nicht
-als Sprecherin** - ihre drei Szenen (b1 K07, b2 K10, b2 K23, b2 K65) sind
+als Sprecherin** - ihre drei Szenen (b1 K07, b2 K10, b2 K22, b2 K65) sind
 Zweipersonenstücke im blossen Wechsel ohne Begleitsätze. Dieselbe Falle wie bei
 Ye-rin: eine niedrige Zahl heisst dort wenig Begleitsatz und nicht wenig Text.
 
@@ -2922,7 +2922,7 @@ zwanzig Jahre, und er sagt sie als Zeitangabe und nicht als Anspruch.
 
 *(Dieser Platz ist zweimal gekippt. Zuerst stand hier "der höchste Wert im
 ganzen Buch", dann - berichtigt - "der zweithöchste, knapp hinter Mr Ahn mit
-22,5". **Am 25.08. ist Mr Ahn auf 15,8 gefallen**, weil er in K73 viel geredet
+22,5". **Am 25.08. ist Mr Ahn auf 15,8 gefallen**, weil er in alt K73 viel geredet
 und dabei kaum von Menschen gesprochen hat, und damit ist die erste, verworfene
 Fassung wieder richtig. **Byuns eigene 22,0 haben sich nie bewegt. Der Rang um
 ihn herum bewegt sich dauernd** - deshalb steht er hier nicht mehr, sondern
@@ -3086,7 +3086,7 @@ Grundlage.
 
 **Nachgezählt am 25.08. über alle 109 Kapitel: null Repliken.** Jeder Treffer
 auf seinen Namen in einer Dialogzeile ist ein anderer Mensch, der über ihn
-redet - zuletzt Georgij und Annie in b2 K75, *"And that is Choi Dae-ho."*
+redet - zuletzt Georgij und Annie in alt K75, *"And that is Choi Dae-ho."*
 **Das hält.**
 
 **Hier stand eine nackte Kapitelzahl, und sie war schon veraltet, als ich sie
@@ -3123,7 +3123,7 @@ widersprechen, ohne unhöflich zu sein.
 
 **Hier stand *"ausgerichtet von Sim und von Yeom, viermal belegt"*. Yeom steht
 auf der falschen Seite des Satzes, und das Buch berichtigt es selbst** - Georgij
-in b2 K38: *"That puts him **on the end of the sentence, not the one saying
+in b2 K32: *"That puts him **on the end of the sentence, not the one saying
 it**."* Yeom ist Empfänger, nicht Überbringer.
 
 **Und die Stimme ist doppelt belegt, in zwei Mündern.** Das ist der eigentliche
@@ -3131,12 +3131,12 @@ Befund:
 
 | gesagt von | zu | wo |
 |---|---|---|
-| **Choi selbst** | Mr Ok, beim Mittagessen im Januar | b2 K17, K18 |
-| **Sim** | Mrs Gwak am Telefon | b2 K31, K47 |
-| **Sim** | Mr Yeom, vor vier Jahren | b2 K38, K41, K53 |
-| **Sim** | Mrs Ha, vor elf Jahren | b2 K67 |
+| **Choi selbst** | Mr Ok, beim Mittagessen im Januar | b2 K16, K18 |
+| **Sim** | Mrs Gwak am Telefon | b2 K27, b2 K38 |
+| **Sim** | Mr Yeom, vor vier Jahren | b2 K32, b2 K34, b2 K44 |
+| **Sim** | Mrs Ha, vor elf Jahren | alt K67 |
 
-Georgij zählt in b2 K53 **vier Empfänger einer Methode** auf: *"a florist in
+Georgij zählt in b2 K44 **vier Empfänger einer Methode** auf: *"a florist in
 Hyoja-dong … a woman who has kept a restaurant book in pencil for twenty-two
 years … a solicitor in Yeouido eleven years ago, and on you."*
 
@@ -3146,7 +3146,7 @@ Chois Erfindung und Sims Werkzeug, und beide benutzen sie.
 #### Zwei Korrekturen, die einen Durchgang in die Irre geführt hätten
 
 **Hier stand: *"Er stellt genau eine Frage."* Falsch.** In Mr Oks Bericht
-(b2 K17) stellt er allein vier: ob Ok je an der Küste von Ulsan Geschäfte
+(b2 K16) stellt er allein vier: ob Ok je an der Küste von Ulsan Geschäfte
 gemacht habe, wie die kleinen Betreiber dort seien, dann nach einem davon
 namentlich, und später, ob Ok die Kataloge des Hauses bekomme.
 
@@ -3160,13 +3160,13 @@ Verbindung** - und Woo sagt genau das:
 **Und hier stand: *"er isst nichts".* Das ist das Gegenteil dessen, was im Buch
 steht**, und es ist sein wichtigster Tell:
 
-> Annie, b2 K18: *"**He eats a great deal, and he enjoys it**, and he does it at
+> Annie, b2 K17: *"**He eats a great deal, and he enjoys it**, and he does it at
 > his own table and nowhere else. **He does not eat in front of people he is
 > working on.** … he has never in his life noticed that it shows."*
 
 **Ein Mann, der nichts isst, ist eine Marotte. Ein Mann, der viel isst und
 ausgerechnet dann nicht, wenn er arbeitet, ist eine Landkarte** - und genau so
-benutzt Georgij sie in b2 K42 und K62. Wer dem alten Eintrag folgt, nimmt dem
+benutzt Georgij sie in b2 K35 und b2 K72. Wer dem alten Eintrag folgt, nimmt dem
 Buch seinen Hebel.
 
 **Er erklärt nie etwas** - das hält.
@@ -3221,9 +3221,9 @@ und die sechs Minuten sind das Einzige, was sie ist.
 
 Nachgezählt am 25.08. über alle 108 Kapitel, damit niemand ihnen versehentlich
 eine Stimme gibt: **Mr Noh** (b1 K05), **Chef Bang Seung-min** (b1 K08),
-**Jae-sung** (Woo Jae-sung, der volle Name des Chairmans), **Mrs Uhm** (b2 K17),
-**Miss Heo** (b2 K29), **Mr Han** (b2 K31), **Min-a** (b2 K31), **Hyun-woo**
-(b2 K58), **Hye-jin** (b1 K24), **Mr Tak** (b2 K72, K74).
+**Jae-sung** (Woo Jae-sung, der volle Name des Chairmans), **Mrs Uhm** (b2 K16),
+**Miss Heo** (b2 K26), **Mr Han** (b2 K27), **Min-a** (b2 K27), **Hyun-woo**
+(b2 K48), **Hye-jin** (b1 K24), **Mr Tak** (alt K72, alt K74).
 
 **Und die zwei Namen, die keine zweite Person sind:** *Do Kyung-ae* ist Ahn
 Jung-hees Deckname, *Moon Hae-sook* die Frau am Fenster. Wer sie als eigene
@@ -3253,9 +3253,9 @@ sprechen zwei Figuren eines Paares. Gezählt wurde das **Sprechen**, nicht die
 Erwähnung.
 
 **Aber drei Kapitel stehen dicht an der Grenze**, weil dort beide *vorkommen*
-und nur einer redet: **b2 K33** und **b2 K41** (Sang-hoon und Yeom) sowie
-**b2 K41** (Jang und Mrs Bae). **Wer einer dieser Figuren dort eine Replik
-gibt, erzeugt die Kollision.** In K41 stehen beide Paare gleichzeitig an der
+und nur einer redet: **b2 K29** und **b2 K34** (Sang-hoon und Yeom) sowie
+**b2 K34** (Jang und Mrs Bae). **Wer einer dieser Figuren dort eine Replik
+gibt, erzeugt die Kollision.** In b2 K34 stehen beide Paare gleichzeitig an der
 Grenze.
 
 ---
