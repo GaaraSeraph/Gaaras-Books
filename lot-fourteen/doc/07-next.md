@@ -4,6 +4,148 @@ Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen
 
 ---
 
+## PRUEFBEFUNDE 26.08. - Plan gegen Text, sechs Funde. NICHTS DAVON IST ENTSCHIEDEN
+
+**Alles hier ist Befund und keine Aenderung.** Kein Kapitel ist angefasst worden.
+Die Entscheidungen gehoeren dem Autor, und er hat sie am 26.08. ausdruecklich
+vertagt.
+
+**Und der Grund, warum es passieren konnte, steht am Anfang:** Der Abschnitt
+"Das Endgespraech" weiter unten beruft sich auf *"die Datei 'Choi Gespraech' im
+Projektordner"* und nennt sie **verbindlich**. Diese Datei war **nie in diesem
+Repo** - nicht im Arbeitsverzeichnis und nicht in der Historie
+(`git log --all --diff-filter=D` findet keinen Loeschvorgang). **Was in
+`chapters/` liegt, wird gegen Skripte, Kalender und Register gerechnet. Was
+ausserhalb liegt, wird gegen nichts gerechnet.** Genau dort ist der Verlust
+entstanden.
+
+### 1. Das Endgespraech mit Choi ist nicht geschrieben worden
+
+Der Plan unten beschreibt es ueber Seiten. Im Text steht nichts davon.
+
+| Geplant | Im Text |
+|---|---|
+| *"Please give me your guidance"* als Spott und Todesstoss | **Null in Band 2.** Alle Treffer in Band 1: ch11, ch12, ch16, ch33 |
+| Zwei kalte Laecheln (Guidance-Frage, Bericht an Annie danach) | **Null.** In ch60-90 nur zwei Stellen mit *smil* ueberhaupt (ch62, ch67), keine davon ist es. Die Voraussetzung (warme Laecheln vorher) fehlt ebenfalls |
+| *"You were at a table twenty-three years ago with a girl of fourteen at it… You have never once been careful about the right person."* | Nicht geschrieben |
+| *"You have known I was coming"* | Nicht geschrieben |
+| Georgij gibt *"It has been good to see you again"* zurueck | Umgekehrt: **Choi** sagt es zweimal (b2 K88), zu Annie und am Schluss zu Georgij. Georgij antwortet nicht |
+| **"Annie ist nicht im Raum, und Choi weiss, dass sie nicht kommt"** | **Genau umgekehrt.** Sie ist im Raum, sie fuehrt das Gespraech, sie stellt die Bitte |
+
+**Ersetzt wurde es durch b2 K88** (sechs Leute in Seongbuk, Choi gibt alles her)
+**und b2 K90** (neun Telefonate, *"I have had him"*). Der Todesstoss ist damit
+kein Gespraech mehr, sondern ein Apparat.
+
+**Der Finisher ist unverbraucht.** Der Plan sagt *"So endet ab jetzt jeder grosse
+Antagonist"* - in Band 2 ist er nie ausgegeben worden. Er steht fuer Band 3 zur
+Verfuegung.
+
+### 2. Das Ersatzteillager fehlt im Text vollstaendig
+
+Der Abschnitt "Die Aufloesung: das Zimmer, vor elf Jahren" ist mit **"Entschieden
+am 25.08. Das ist ab hier Kanon"** ueberschrieben und traegt die These des
+Buches: *"Ein Katalog von Menschen ist ein Katalog von Teilen. Jemand hat ihn
+nach einer Blutgruppe durchsucht. Georgij steht darin. Lot fourteen."*
+
+Die vorgeschriebene Belegform ist vierteilig. **Drei Teile stehen im Text, der
+vierte nicht:**
+
+| Beleg | Im Text |
+|---|---|
+| Losnummer im Namensfeld | Ja - b2 K32, *"told that it was the patient"* |
+| Brandschutzmeldung | Ja - b2 K43, Juli vor vier Jahren, *"one event"* |
+| Gaskonto | Ja - b2 K43/44, K82, vierundvierzig Zahlungen |
+| **Kreuzprobe in einem Laborbuch** | **Nein** |
+
+**Gesucht ueber alle 116 Kapiteldateien** nach *blood group, blood type,
+crossmatch, tissue, donor, transplant, kidney, marrow*: **null Treffer in beiden
+Baenden.**
+
+**Folge:** Der Text bietet dem Leser derzeit nur die harmlose Erklaerung an -
+Baek in b2 K87, *"Somebody put them under one roof to save on a heating bill."*
+Und die Titelzeile des Buches faellt nirgends.
+
+**Achtung, und das ist die Stelle, an der die Standardregel schaedlich ist:**
+`CLAUDE.md` sagt, bei Widerspruch habe der Text recht und das Dokument werde
+geaendert. **Hier wuerde das die These des Buches loeschen.** Die Regel ist fuer
+Drift geschrieben, nicht fuer die Achse. Das ist eine Autorenentscheidung.
+
+### 3. Elf Jahre gegen vier Jahre - vier Stellen sind falsch
+
+**Vier Stellen behaupten, Moon Hae-sook sei seit elf Jahren in diesem Gebaeude:**
+b2 K81 Z138 (Georgij), K81 Z152 (Hwang), K82 Z90 (Georgij), K84 Z196 (Georgij).
+
+**Drei Stellen sagen das Gegenteil, und sie sind die belegten:**
+- **K85 Z188**, Georgijs eigener Gedanke: *"She has been in that building for
+  **four years**."*
+- **K87 Z148-158**, Baek: Adresse **einmal** geaendert, zweite Februarwoche vor
+  vier Jahren. *"The woman on the oxygen was somewhere else until then."*
+- **K43 Z300**, Georgijs eigene Herleitung: Sauerstoff Juli vor vier Jahren,
+  *"One event, not an ongoing arrangement that simply started somewhere further
+  back."*
+
+**K81 Z138 widerlegt sich im selben Satz** (elf Jahre dort, aber der Arzt kam
+erst vor vier Jahren).
+
+**Die Reparatur:** Die elf Jahre gehoeren dem **Gehaltenwerden**, nicht dem
+Gebaeude - *"kept for eleven years"*, *"nobody has seen her for eleven years"*.
+Hwangs Argument wird dadurch staerker.
+
+**Und was der Fehler kostet:** Er zerstoert das Cluster vom Februar/Juli vor vier
+Jahren und damit die Kausalitaet, an der Befund 2 haengt. Ausserdem entwertet er
+Baeks Enthuellung in K87, die er selbst *"the single worst thing in this file"*
+nennt: Sie detoniert nur, wenn der Leser vorher nicht wusste, wo die Frau war.
+
+### 4. b2 K82 gegen b2 K87 - eine Adresse oder eine Aenderung
+
+- **K82 Z110/122**, Baek: *"two sums against **one address** in Gangwon-do"* und
+  *"Forty-four payments, eleven years, two suppliers, **one address**, one
+  signature."*
+- **K87 Z148**, derselbe Mann fuenf Tage spaeter: *"The address on the standing
+  instruction was **changed once.**"*
+
+Als Zurueckhalten geht das nicht durch: In K82 haelt Baek den **Namen**
+ausdruecklich zurueck und sagt das auch. *"Eine Adresse"* ist eine positive
+Aussage. **Vorschlag:** in K82 *"an address"* statt *"one address"*, oder ein
+Pflanzsatz, der auf K87 zeigt.
+
+**Offen und zu entscheiden:** Wo war die Frau in den sieben Jahren davor? Der
+Trust zahlte ab der zweiten Maerzwoche vor elf Jahren gegen eine erste Adresse.
+Das Buch erwaehnt sie mit keinem Wort. Baek hat sie in der Akte.
+
+### 5. `doc/05-continuity.md` ist bei b2 K88 veraltet
+
+Das Kontinuitaetsdokument fuehrt als Schlusssatz des Kapitels *"You will spend
+the rest of your life knowing that he could have been asked in August and would
+have said yes, and that nobody asked"* und nennt ihn den haertesten Satz des
+Bandes. **In der aktuellen Fassung v1.3 steht er nicht mehr** - das Kapitel endet
+auf *"I am going to have him"* und die zwei Frauen.
+
+### 6. Die Rechnung des Kaufs wird nie aufgemacht
+
+Drei Dinge, im Buch als eines behandelt:
+
+- **Das Formular war noetig.** Ein Los bewegt sich nur ueber eine Abtretung, und
+  nach Weihnachten gibt es das Haus nicht mehr.
+- **Annies Name in der Reihe war unvermeidlich**, sobald das Formular benutzt
+  wird (Namensfeld nicht optional, kein Vertreter).
+- **Die 481 Millionen waren vermeidbar.** Hwang: *"the figure could have been a
+  third."* Choi auf *"Say what you want for it"*: *"Nothing at all."*
+
+**Und die Ironie, die der Text aufbaut und nie einloest:** Der Kauf war der Weg,
+es Choi **nicht** zu sagen - und das Formular hat es ihm gesagt. b2 K88: *"He has
+known your name since the day the form was served, because the name box is not
+optional."* Zugestellt am 27. Oktober; am 6. November sitzen sie ohnehin bei ihm.
+
+**Dazu ein Figurenproblem:** Georgij legt Annie sonst ausdruecklich jede Option
+hin (K78 der Brief, K74 die schwaechere Kwon-Fassung, K80 die zweite Tuer). Bei
+der teuersten Entscheidung des Jahres wird *"zu dem Mann gehen, der sie hat, und
+fragen"* **nie ausgesprochen** - nicht erwogen, nicht verworfen, nicht erwaehnt.
+Chois eigene Zeile liefert die Gegenrede fuer das Fruehjahr (*"If you had gone in
+March I would have moved them both in April"*), aber nicht fuer den Oktober.
+
+---
+
 ## Offen und klein: Mrs Jeon, der Maerz-Posten in B2 83
 
 **Vom Autor am 26.08. ausgeloest, Fassung waehlen und einbauen.** Der Befund steht
