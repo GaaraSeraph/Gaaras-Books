@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 243.489 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 243.822 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -268,6 +268,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [1. Hanseong, und der, der nicht verkauft hat](#1-hanseong-und-der-der-nicht-verkauft-hat)
   - [2. Einer, der unter dem Veto liegt](#2-einer-der-unter-dem-veto-liegt)
   - [3. Offen, und drei Vorschlaege, die nichts erfinden](#3-offen-und-drei-vorschlaege-die-nichts-erfinden)
+  - [GANZ neue Gesichter, und der Saal ist schon gebaut](#ganz-neue-gesichter-und-der-saal-ist-schon-gebaut)
   - [Der Text](#der-text)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
@@ -15403,7 +15404,47 @@ Band 2 hat gezeigt, dass die staerksten Stimmen von dort kommen: Mr Ahn,
 Mrs Ha, die Frau mit der Giesskanne, Shin am Tor.
 
 **Nachnamen, die im Buch noch nicht vergeben sind** (geprueft gegen alle
-fuenfundvierzig): Yun, Song, Cho, Ma, Tak, Seol, Wi, Chu, Do, Yang.
+fuenfundvierzig): Yun, Song, Tak, Seol, Wi, Chu, Yang ist ab jetzt vergeben.
+**Cho faellt weg** - zu nah an Choi. **Do und Ma faellen weg** - beide kommen
+als gewoehnliche Woerter im Text vor, Do einhundertsechzehnmal.
+
+### GANZ neue Gesichter, und der Saal ist schon gebaut
+
+**Vom Autor am 28.08. praezisiert: nicht ungenutzte Figuren, sondern neue.**
+Und die Zahl, die das Problem benennt, steht seit Band 1 im Buch.
+
+`b1 ch07:338`, Georgij zaehlt den Ballsaal aus:
+
+> *A hundred and three tables of eight and a head table of twelve. Eight
+> hundred and thirty-six covers.*
+
+**In den Kapiteln 7 bis 11 haben davon zehn Menschen einen Namen.** Woo, Hong,
+Chef Bang, Ku, Park, Mrs Ryu, Mrs Sunwoo, Minister Min-ho, Kang, Mrs Seo.
+Achthundertsechsundzwanzig Gedecke sind nie besetzt worden.
+
+**Und die Tuer ist schon eingebaut.** `b1 ch07:178`:
+
+> *There were seven people under thirty in that ballroom and he had located
+> all seven inside the first quarter of an hour, because they were the easiest
+> people in the building to find. They were the ones standing at the outer
+> edge of a group of six, holding a glass they had not drunk from, being
+> spoken past.*
+
+**Sieben Namenlose unter dreissig, gezaehlt und nie benutzt.** Band 3 spielt
+Jahre spaeter. Sie sind dann ueber dreissig, und an ihnen spricht niemand mehr
+vorbei - **es sind die Erben derselben Haeuser, deren Vaeter Georgij in Band 1
+und 2 auseinandergenommen hat.** Wer sie einfuehrt, erfindet nichts: das Buch
+hat sie gezaehlt, beschrieben und stehen lassen.
+
+**Drei Regeln fuer die Neuen, aus `doc/21-figurenbau.md`:**
+
+* Jede bekommt **einen Zug, der ihr nicht schmeichelt**, und er hat nichts mit
+  ihrer Rolle zu tun. Ohne den ist sie eine Funktion mit einem Namen davor.
+* Jede bekommt **einen unverwertbaren Satz**, bevor sie ihre erste Replik hat.
+* **Die staerksten Stimmen des Buches kommen von unten** - Mr Ahn, Mrs Ha, die
+  Frau mit der Giesskanne, Shin am Tor. Ein Saal voller Vorstaende bekommt
+  keine davon. Wer die Bevoelkerung verdoppeln will, verdoppelt zuerst die
+  Ebene unter den Vorstaenden.
 
 ---
 
