@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 240.604 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 240.980 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -849,12 +849,56 @@ aehnlicher haetten sein koennen.* Und `b2 ch02:22` sagt, wem die Frage
 gehoert: **einem Neuling.** Wer sie benutzt, gibt jedes Mal etwas ueber sich
 preis, und er weiss das.
 
-**Der letzte Gegner bekommt sie zweimal, und das ist der Bogen.** In
-`b2 ch82` steht sie am Anfang - und ein Mann, der fuenfundzwanzig Jahre lang
-diese Frage ueber jeden in diesem Land beantworten konnte, hat drei Sekunden
-lang **keinen Namen**. Am Ende desselben Kapitels stellt Georgij sie noch
-einmal, umgebaut zu *"How does a man with nothing left escape a thing he
-cannot see coming?"*, und diesmal antwortet niemand mehr.
+#### Die Frage wechselt am Ende von Band 1 den Zweck
+
+**Vom Autor am 28.08. benannt, und der Text sagt es als Dialog.** Bis
+`b1 ch33` ist sie ein Werkzeug, mit dem er etwas **erreicht**. Danach ist sie
+das Werkzeug, mit dem er zeigt, **dass er gewonnen hat, und wie.**
+
+**Was sie vorher getragen hat, ist eine einzige Bedingung: er fragt
+wirklich.** Sang-hoon sagt es ihm in `b1 ch33:110` wortwoertlich zurueck -
+*"you told me that you had not stopped because you were actually asking,
+and that this was the whole of it, and that it was why the thing worked."*
+Und Sang-hoon zaehlt mit, zweimal: `b1 ch16:238` *"That is four. Two of
+them are mine."*, `b1 ch33:102` *"That is five."*
+
+**Die Wende ist eine Frage und eine Silbe.** `b1 ch33:116`:
+
+> *"Are you actually asking?"*
+> *"No," said Georgij.*
+
+**Und er sagt es, bevor er es benutzt.** Sang-hoon nennt genau das:
+*"That is the first untrue thing you have ever built out of me, and you have
+just told me it is untrue before you use it. That is not how a lie works."*
+Georgij hat siebenunddreissig Tage daran gedacht. Er weiss, was es kostet,
+und sagt es aus: *"It will not work again on anybody, and it will not work
+on you ever. It was the only thing I own that costs nothing."*
+
+**Damit ist es der einzige Besitz, den er je ausgegeben hat**, und er tut es
+freiwillig, in einem Raum, aus dem es vier Leuten weitererzaehlt werden
+wird. Sang-hoon antwortet mit zwei Woertern - *"Then spend it"* - und danach
+kommt der Apfel.
+
+**Regel 1 haelt, und zwar aus einem technischen Grund.** Eine Bitte kann
+nicht unwahr sein. *"Please guide me"* behauptet nichts; wer sie stellt,
+ohne die Antwort zu wollen, hat nichts Falsches gesagt. Deshalb ueberlebt
+die Marotte ihren eigenen Zweckwechsel, ohne dass die Grundregel bricht.
+
+**Der letzte Gegner bekommt die neue Fassung, zweimal in einem Raum.** In
+`b2 ch82:82` steht sie am Anfang, und ein Mann, der fuenfundzwanzig Jahre
+lang diese Frage ueber jeden in diesem Land beantworten konnte, hat drei
+Sekunden lang **keinen Namen**. Am Ende desselben Kapitels, `ch82:506`,
+steht sie in ihrer offenen Form: *"I would like your guidance, since you
+are the expert in the room and I am only the one who arranged it."* Dort
+fragt niemand mehr etwas. Dort wird abgerechnet.
+
+**Die Probe fuer jede neue Szene mit dieser Frage:**
+
+* **Vor `b1 ch33`** muss er wirklich fragen. Sonst funktioniert sie nicht,
+  und die Szene weiss nicht, warum.
+* **Nach `b1 ch33`** darf er es nicht mehr. Und die Szene muss zeigen, **was
+  vorgefuehrt wird** - sonst steht dort eine Hoeflichkeit, wo eine Waffe
+  gemeint war.
 
 **Zweitens: er isst nicht, waehrend er arbeitet.** Ausgesprochen wird es an
 genau einer Stelle, und dort im Nebensatz:
