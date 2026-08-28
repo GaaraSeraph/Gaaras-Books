@@ -115,10 +115,10 @@ b2  ch78  v1.2       2814 Woerter  ch78_v1_2_en.md
 b2  ch79  v3.4       2926 Woerter  ch79_v3_4_en.md
 b2  ch80  v3.4       2147 Woerter  ch80_v3_4_en.md
 b2  ch81  v3.3       2593 Woerter  ch81_v3_3_en.md
-b2  ch82  v3.11      3256 Woerter  ch82_v3_11_en.md
+b2  ch82  v3.13      3233 Woerter  ch82_v3_13_en.md
 b2  ch83  v3.16      3807 Woerter  ch83_v3_16_en.md
 b2  ch84  v3.4       2956 Woerter  ch84_v3_4_en.md
 b2  ch85  v3.2       2637 Woerter  ch85_v3_2_en.md
 
-Gesamt: 2 Baende, 119 Kapitel, 327742 Woerter
+Gesamt: 2 Baende, 119 Kapitel, 327719 Woerter
 Handbuch: 17 Dokumente

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 85 Kapitel, 227.015 Woerter.
+Book Two, 85 Kapitel, 226.992 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -92,7 +92,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 79 | v3.4 | 2.926 |
 | 80 | v3.4 | 2.147 |
 | 81 | v3.3 | 2.593 |
-| 82 | v3.11 | 3.256 |
+| 82 | v3.13 | 3.233 |
 | 83 | v3.16 | 3.807 |
 | 84 | v3.4 | 2.956 |
 | 85 | v3.2 | 2.637 |
@@ -18981,7 +18981,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 82: Please guide me
-*Lot Fourteen* · Version 3.11 · EN
+*Lot Fourteen* · Version 3.13 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19219,7 +19219,7 @@ Choi Dae-ho looked at the plate for the first time.
 
 * * *
 
-"You do not eat in front of the ones you are working on. It is not a discipline and it is not a superstition." Choi Dae-ho's hand stayed where it was. "You cannot do both at once, and in twenty-five years you have never once noticed that it shows."
+"It is not a discipline and it is not a superstition." Choi Dae-ho's hand stayed where it was. "You cannot do both at once, and in twenty-five years you have never once noticed that it shows."
 
 "There are five men in this city who have watched you eat," said Georgij. "I have met two of them and I did not have to ask either of them anything. The last of the five did it before two thousand and two."
 
@@ -19229,7 +19229,7 @@ Choi Dae-ho looked at the plate for the first time.
 
 Down the passage a door opened and shut, and somebody at the far end of it laughed at something.
 
-"There is a man who makes the calls and he has been making them for years." Georgij let the noise finish before he went on. "I am not going to tell you whether I have his name."
+"There is a man who makes the calls and he has been making them for years." Georgij let the noise finish before he went on. "You will not get his name out of me tonight."
 
 * * *
 
@@ -19285,7 +19285,7 @@ Nothing happened in the man's face.
 
 * * *
 
-"She has a room on a ground floor with a window and a door that opens, and the account behind the machine has not been yours since December, and nobody has told her that anything changed." Choi Dae-ho's hand had come off the sill and he had not noticed. "I am not going to tell you where she is. I am not going to tell you what she has been asked, or what she has said, or whether your name has been in her mouth once since November."
+"She has a room on a ground floor with a window and a door that opens, and the account behind the machine has not been yours since December, and nobody has told her that anything changed." Choi Dae-ho's hand had come off the sill and he had not noticed. "I am not going to tell you where she is, or what she has been asked, or what she has said, or whether your name has been in her mouth once since November."
 
 * * *
 
@@ -19335,7 +19335,7 @@ Choi Dae-ho did not do anything with that at all.
 
 * * *
 
-He did not have anything to put after it, and he did not go looking for one.
+He did not have anything to put after it, and he did not go looking.
 
 * * *
 

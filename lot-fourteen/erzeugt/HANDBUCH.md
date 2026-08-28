@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 243.822 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 243.818 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -20082,7 +20082,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch82:274 | "You had that put there," said Choi Dae-ho. |
 | 531 | b2ch82:282 | "You do not eat. Not with people you work on." Choi Dae-ho's hand was still on the sill... |
 | 531 | b2ch82:286 | Choi Dae-ho looked at the plate for the first time. |
-| 531 | b2ch82:302 | "You do not eat in front of the ones you are working on. It is not a discipline and it i.. |
+| 531 | b2ch82:302 | "It is not a discipline and it is not a superstition." Choi Dae-ho's hand stayed where i.. |
 | 531 | b2ch82:332 | Choi Dae-ho put his other hand on the sill. |
 | 531 | b2ch82:350 | Choi Dae-ho was looking at the carpet. |
 | 531 | b2ch82:388 | "She has a room on a ground floor with a window and a door that opens, and the account b.. |
