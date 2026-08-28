@@ -1702,18 +1702,30 @@ tatsaechlich gegeben hat.** So redet er.
 **Vom Autor am 28.08. vorgegeben.** Hier im Ton des Buches, mit einer
 Berichtigung, die noetig war und die den Satz haerter macht.
 
-**Was nicht stehenbleiben konnte: *I have burnt them all to the ground*.**
-Das ist nicht wahr, und Georgij sagt nie etwas Unwahres. Nam hat er selbst
-erledigt. **Das Auktionshaus hat der Fonds geschlossen** (`b2 ch60:174`: *The
-fund has decided*), und **Choi hat er ausdruecklich nicht getoetet**
-(`b2 ch89:212`). Wer das zusammenzieht, gibt dem Mann gegenueber die eine
-Zeile, mit der er ihn widerlegen kann.
+**Das Auktionshaus gehoert ihm, und das war mein Fehler.** Ich hatte es dem
+Fonds zugeschrieben. Der Autor hat es am 28.08. richtiggestellt, und der Text
+gibt ihm recht: `b2 ch89:60` sagt **"He made three people at that auction
+house very angry, a man and two women, and the woman who bought twice made a
+telephone call."** Georgij hat der Kaeuferin gesagt, was in ihrem Exemplar des
+Katalogs nicht gestrichen war (`b2 ch16:44`). **Der Fonds war der zweite
+Stein, nicht der erste.**
 
-**Die wahre Fassung ist schlimmer als die Prahlerei.**
+**Was trotzdem nicht stehenbleiben kann, ist *I have burnt them all to the
+ground*** - wegen Choi. Georgij hat ihn ausdruecklich nicht getoetet, und
+`b2 ch89:62` sagt, was er stattdessen getan hat: *Georgij worked out what that
+meant on the afternoon he heard about it, and it took him about four seconds,
+and it is the one thing this year that he has not written down.*
+
+**Die wahre Fassung ist schlimmer als die Prahlerei**, und sie ist jetzt
+schmaler begruendet und dadurch schaerfer.
 
 ### Der Text
 
-"There was a woman in Ulsan with four trucks, and I took the firm off her myself," said Georgij. "There was an auction house that had been on that river for thirty years and there is nothing left of it. And there was a man who used to be a prosecutor, and nobody has seen him since April."
+"There was a woman in Ulsan with four trucks, and I took the firm off her myself," said Georgij. "There was an auction house that had been on that river for thirty years. I told one of its buyers what was still in her copy of the catalogue. That is the whole of what I did to it, and there is nothing left of it now."
+
+[Beat. Der Raum steht noch nicht, also steht hier auch der Beat noch nicht.]
+
+"And there was a man who used to be a prosecutor. He decided for twenty-five years which men in this country sat down to dinner together, and eleven of them lost something afterwards, and none of them has ever been told why. Nobody has seen him since April."
 
 "Every one of them had pointed something at her."
 
@@ -1721,20 +1733,39 @@ Georgij did not raise his voice anywhere in it.
 
 "I did not do all of that myself. I did enough of it."
 
+[Beat.]
+
 "It was never said out loud and it did not have to be. There is no version of the last two years in which you did not understand it." He did not move from where he was standing. "You understood it and you decided it was not about you, because nobody touches a chaebol."
 
-"You were not an exception. You were a bigger fire, and a bigger fire takes longer."
+[Beat.]
+
+"You were not an exception. You were a bigger pile of the same wood, and a bigger pile takes longer."
 
 ### Was daran haengt
 
-**Die Berichtigung ist der ganze Zug.** *"I did not do all of that myself. I
-did enough of it."* Ein Mann, der prahlt, laesst sich widerlegen. Ein Mann,
-der genau sagt, welchen Teil er getan hat, laesst sich **nicht** widerlegen -
-und der Rest wird dadurch groesser und nicht kleiner. Der Zuhoerer rechnet
-selbst aus, was *genug* heisst.
+**Der Schluss reduziert ihn auf Brennmaterial und nicht auf Feuer.** Das war
+die Berichtigung des Autors am 28.08., und sie ist richtig: ein Feuer ist
+etwas, das handelt. **Ein Scheiterhaufen ist etwas, das aufgeschichtet wird.**
+Der Satz sagt ihm nicht, dass er gefaehrlich ist, sondern dass er Material
+ist, und dass der einzige Unterschied zu den drei anderen die Menge ist.
 
-**Und es ist die Wiederholung des Zuges aus `b2 ch86`**, wo Choi gesagt
-bekommt, wie viele es wissen, und nicht, wer.
+**Der zweite Satz macht die Prahlerei kaputt, bevor sie entsteht.** *"That is
+the whole of what I did to it."* Ein Haus, das dreissig Jahre an dem Fluss
+stand, faellt, weil er einer Frau eine wahre Sache gesagt hat. **Je kleiner
+der Anstoss, desto schlimmer die Zahl am Ende** - und der Zuhoerer rechnet
+selbst aus, was mit ihm geschieht, wenn Georgij sich Muehe gibt.
+
+**Und der Staatsanwalt steht jetzt so hoch, wie er im Buch tatsaechlich
+steht.** *Which men in this country sat down to dinner together* ist gedeckt:
+`b2 ch86:172` - *you have spent twenty-five years arranging things so that
+other people carry the weight and you carry none of it*; `b2 ch31:38` - er ist
+der, der andere telefonieren laesst und nie im Raum ist. **Die elf sind
+woertlich belegt**, `b2 ch34:46` und `b2 ch34:50`: elf Namen, gegen jeden eine
+Zeile, *and none of them know why it happened to them.*
+
+**Und *"I did enough of it"* haelt weiterhin alle drei**, ohne eine einzige
+Ueberdehnung: die Firma hat er selbst genommen, das Haus hat er angestossen,
+und beim dritten war es ein Telefonat, das er nicht gefuehrt hat.
 
 ## Die Bitte um Fuehrung geht in diesem Band an den Hanseong-Inhaber
 
@@ -1788,4 +1819,82 @@ kauft Woo zurueck, fuer sehr wenig, **und er besteht darauf zu zahlen.**
 
 Georgijs Satz am Grab bleibt bei der genauen Fassung: *"There is nobody who
 can ask you for it, and there will not be."*
+
+---
+
+## Woo schenkt, und damit bricht Regel 2 richtig
+
+**Vom Autor am 28.08. vorgeschlagen:** Woo schenkt Georgij **und** Annie
+Anteile, statt nur die zwanzig Prozent zurueckzukaufen. **Ja - mit einer
+Korrektur am Verfahren, ohne die es nicht funktioniert.**
+
+### Als Geschenk lehnt er ab, und alle im Buch wissen das
+
+Zwei Baende lang hat er nichts angenommen. Ein Umschlag, der ihm hingeschoben
+wird, geht zurueck. **Wenn Woo ihm etwas schenkt, ist die Szene nach vier
+Zeilen vorbei**, und zwar so, wie sie in Band 1 schon dreimal vorbei war.
+
+**Also schenkt Woo nicht. Woo bittet.**
+
+Er ist achtundsiebzig. Seine Frau ist tot. Er hat keine Kinder, in zwei
+Baenden nicht einmal erwaehnt. Er besitzt *one thing he cares about*
+(`b1 ch18:222`), und es gibt niemanden, an den es gehen kann.
+
+**Georgij hat noch nie abgelehnt, nuetzlich zu sein.** Das ist die einzige
+Tuer in dem Mann, die immer offensteht, und Woo ist der einzige im Buch, der
+sie benutzen darf, ohne dass es eine Erpressung ist.
+
+**Er nimmt kein Geschenk an. Er nimmt eine Aufgabe an.** Und das ist die
+einzige Form, in der Regel 2 brechen kann, ohne dass die Figur bricht.
+
+### Warum an beide, und nicht an ihn allein
+
+* **An ihn allein:** er gibt es innerhalb eines Monats weg. Jeder im Buch
+  weiss das, Woo am besten.
+* **An sie allein:** es aendert nichts. Sie besitzt bereits alles, und
+  fuenfzig Jahre Woo enden als eine Zeile in ihrem Register.
+* **An beide, so geteilt, dass keiner allein handeln kann:** dann ist es
+  **das erste, was die zwei gemeinsam halten** - und die erste Vereinbarung im
+  Buch, fuer die *sie* seine Unterschrift braucht.
+
+### Und das ist der Grund, es zu tun: er wird angreifbar
+
+`b2 ch87:390`, seine eigene Regel: *A handle is a house that can be asked and
+a book that can be opened.*
+
+**In dem Augenblick, in dem er eingetragener Anteilseigner eines Terminals
+ist, hat er beides.** Ein Haus, das man fragen kann. Ein Buch, das man
+aufmachen kann. **Zwei Baende lang war seine Sicherheit, dass es nichts zu
+nehmen gab.** Das ist ab hier vorbei.
+
+**Das ist kein Nebeneffekt, das ist der Zweck.** Und daraus folgt die
+Terminierung: **es muss vor dem dritten Gegner liegen**, damit es gegen ihn
+benutzt werden kann. Besitz, den er behaelt, ist eine Belohnung. Besitz, den
+er verlieren kann, ist Handlung.
+
+### Die Reihenfolge, und sie baut aufeinander auf
+
+1. **Georgij macht die zwanzig Prozent unerreichbar.** Niemand kann Woo mehr
+   danach fragen.
+2. **Woo kauft sie zurueck und besteht darauf zu zahlen** - `b2 ch82:260`:
+   *"I am not doing it for you."* **Das Zahlen ist noetig**, weil es das
+   Bezahlte vom Verschenkten trennt. Sonst liest sich die Schenkung als
+   Honorar fuer Schritt 1, und dann ist sie wertlos.
+3. **Zum ersten Mal in fuenfzig Jahren gehoert ihm sein Terminal ganz** - und
+   in genau dem Augenblick gibt er einen Teil davon weg.
+
+### Was es woanders kostet
+
+* **Regel 3 wird schwerer.** Ein Anteilseigner hat einen Prozentsatz, und der
+  ist eine Zahl ueber ihn selbst. Er darf sie nie sagen. **Andere werden sie
+  sagen**, und jedes Mal muss er sie nicht bestaetigen.
+* **Das Halsband wird schaerfer, nicht stumpfer.** Ein Mann, der nichts
+  besitzt und ein Halsband traegt, ist eine Lage. Ein Mann, dem ein Stueck
+  eines Terminals gehoert und der ein Halsband unter einem hohen Kragen
+  traegt, ist ein Widerspruch, den jemand aufmachen wird.
+* **Sang-hoon bekommt ein drittes Blatt** - aber gegen **Georgij** und nicht
+  gegen Annie. **Georgij war noch nie der, den man druecken kann.** Das ist
+  neu und es ist gut.
+* **`b2 ch87:254` bleibt heil.** Nams Bedingung war *nobody in this house* -
+  und das Terminal ist nicht dieses Haus.
 
