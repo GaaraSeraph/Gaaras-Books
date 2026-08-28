@@ -1250,7 +1250,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | b1ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
 | 55 | b1ch22:138 | "Well," said Sang-hoon. |
 | 55 | b1ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
-| 59 | b1ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
+| 59 | b1ch25:304 | Park Sang-hoon had bought the forty per cent of Hanseong Shipping that wanted out. He ha.. |
 | 74 | b1ch30:414 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 | 74 | b1ch31:224 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
 | 87 | b1ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |

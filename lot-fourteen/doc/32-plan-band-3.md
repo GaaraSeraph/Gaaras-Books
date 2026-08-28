@@ -837,3 +837,82 @@ selbst hinlegt und nichts verlangt, ist die Fortsetzung. Ein Beamter, dem er
 sagt, was er tun soll, ist ein neuer Mann. Beides ist moeglich. Nur das eine
 braucht keine Begruendung und das andere schon.
 
+---
+
+## Die Hanseong-Gruppe, aufgemacht
+
+**Vom Autor am 28.08.** Hanseong ist keine Reederei, sondern eine Gruppe, und
+Band 3 nimmt sie auseinander.
+
+**Das Buch hat sie bereits als Gruppe angelegt** und nur ihre Reederei
+erzaehlt, weil Annie nur die brauchte:
+
+* `b1 ch14:82` - *Four shipping routes, real berths, real slots... A board
+  that split in March... **Two separate rumours about money missing at a
+  subsidiary**.*
+* `b1 ch14:96` - *four routes with berths he cannot let go idle, **in a group
+  with no working board**.*
+* `b1 ch16:222` - ***A group called Hanseong.***
+
+**Die Toechter sind also nicht erfunden, sondern aufgeschlagen.**
+
+| Tochter | Was daran wahr ist und niemand nachgesehen hat | Wer es findet |
+|---|---|---|
+| **Hanseong Shipping** | vier Routen, echte Liegeplaetze, inzwischen **profitabel**. **Vierzig Prozent Sang-hoon.** | steht seit Band 1 |
+| **Hanseong Motors** | manipulierte Werte und verschwiegene echte Defekte | **Werkstaetten**, eine nach der anderen, gefragt wie Mr Ahn gefragt wurde |
+| **Hanseong Electronics** | gefaehrliche Batteriefehler, geplantes Versagen nach Ablauf der Garantie, mitgelieferte Spaehsoftware | **Georgij selbst** |
+| **Hanseong Credit** | meldet Zahlen, die es nicht hat | Register und Abschluesse |
+
+**Und der Kurssturz braucht keine Erfindung.** Jede Zeile in der mittleren
+Spalte ist wahr und nachweisbar, und keine davon hat jemand nachgesehen. Das
+ist Regel 1 in Reinform und es ist sein Verfahren seit Band 1: die
+Werkstaetten sind Mr Ahn, sechzigmal.
+
+**Wenn der Kurs unten ist, wird gekauft. Danach wird saniert.** Das ist der
+Unterschied zu allem, was Choi getan hat: die Firmen bleiben, die
+Beschaeftigten bleiben, und vierzweihundert stehen seit `b1 ch15:332` im Buch.
+
+### Der Name: Shipping und nicht Logistics
+
+**Am 28.08. geprueft und entschieden.** *Logistics* gehoert im Buch den Kims,
+und zwar sechsmal: *the Kims' logistics arm* (`b1 ch14:56`), *the Kim
+logistics entity* (`b1 ch25:58`), *their logistics building* (`b1 ch11:116`),
+*the Kim logistics* (`b2 ch04:170`). Eine zweite Logistik im selben Buch waere
+dieselbe Falle wie zwei Nam aus Ulsan.
+
+**Shipping** passt ausserdem woertlich zu `b1 ch14:82`. Motors, Electronics
+und Credit kommen im ganzen Kanon **null mal** vor.
+
+**Eine Zeile im Kanon ist dafuer geaendert worden.** `b1 ch25:304` sagte, er
+habe *the forty per cent of the Hanseong Group* gekauft. Das haette ihm
+vierzig Prozent an allem gegeben, was zerlegt werden soll. Es heisst jetzt
+**Hanseong Shipping**; alles andere im Text beschreibt ohnehin nur die Routen
+(*Routes, cheap, bleeding, and half a board that wants out*, `b2 ch04:176`).
+Kapitel 25 steht auf v1.11.
+
+### Was Sang-hoon damit ist
+
+**Er haelt vierzig Prozent an genau der einen Tochter, die laeuft**, und ist
+von der Zerlegung der anderen nicht betroffen. Damit ist er kein Opfer,
+sondern ein **Anspruchsberechtigter** - und er hat zwei Wege:
+
+1. **Blocken.** Vierzig Prozent sind in einer Aktiengesellschaft eine
+   Sperrminoritaet. Er kann eine Uebernahme oder einen Umbau der Reederei
+   verhindern, ohne einen Finger zu ruehren.
+2. **Den Zerfall der anderen als Marktmanipulation benennen - und er hat
+   Beweise, dass wir es waren.**
+
+**Der zweite Weg ist der, auf den das Buch seit Band 2 zeigt.** `b2 ch04:110`,
+im Korridor, nachdem er ueber die zwei Milliarden zweihundert gesprochen hat:
+
+> *Then he stopped, and he looked at Georgij for slightly too long, and he did
+> not say the next thing... It went across Sang-hoon's face for about a
+> quarter of a second. Then it was gone, **and it was still his**.*
+
+**Was er zurueckgehalten hat, hat er behalten. Band 3 ist, wo er es ausgibt.**
+
+**Und damit steht die Szene in der Mitte anders da als bisher notiert:** er
+verlangt Georgij nicht als Preis fuer vierzig Prozent, die sie braucht. Er
+verlangt ihn dafuer, **nicht auszusagen.** Das ist derselbe Satz und ein
+anderes Buch.
+

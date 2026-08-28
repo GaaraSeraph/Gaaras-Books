@@ -1,7 +1,7 @@
-Book One · Chapter 25: The name on the paper
-Lot Fourteen · Version 1.7 · EN
+# Chapter 25: The name on the paper
+*Lot Fourteen* · Version 1.8 · EN
 
-Day 59 · Monday 1 December
+*Day 59 · Monday 1 December*
 
 Nothing happened on the Friday, or on the Saturday, or on the Sunday.
 
@@ -12,6 +12,8 @@ Twice he came round a corner and she was in it, and both times they got past eac
 On the stone shelf in the hall there was a flat place beside the bowl. Something small and dark had lain there for eight days in October and had been somewhere else ever since, and since Thursday night it had been in the river.
 
 The collar was where it had always been.
+
+---
 
 He knew the house by now.
 
@@ -25,7 +27,7 @@ For thirteen days in October a small dark object had not been on the shelf, and 
 
 In fifty-nine days in eleven houses' worth of practice, that was the only object that had ever stayed hidden from him, and it had belonged to the only person who had ever bought him.
 
-———
+* * *
 
 Mr Chae came at ten on the Monday with a leather case and a younger man who carried nothing and said nothing and was not introduced.
 
@@ -39,6 +41,8 @@ They looked at each other for about a second and a half, which is a long time.
 
 The lawyer was somewhere at the end of his fifties, with the flat, unhurried courtesy of a man who has told very rich people no for thirty years and has never once enjoyed it. He put the case on the table and did not open it.
 
+---
+
 "You are the beneficiary," he said.
 
 "I am."
@@ -47,6 +51,8 @@ The lawyer was somewhere at the end of his fifties, with the flat, unhurried cou
 
 "Then the wall."
 
+---
+
 He opened the case.
 
 "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the Kim logistics entity, and the corporate services firm in Jung-gu which I am told you will not be surprised about." He laid the pages out in a row, squared, without hurry. "Nobody else. Not a subsidiary, not a nominee, not a man who says he is acting for one of the three. If a fourth party appears at a table and the paper in front of you has his name on it, you telephone this house."
@@ -54,6 +60,8 @@ He opened the case.
 "Yes."
 
 "The ceiling is per instrument and not cumulative, which is unusual and which she asked for specifically." A short pause. "It expires on the first of March at midnight. Not the second. There is no grace period and there is no renewal clause, and I did not put one in, and I will tell you why in a moment if you ask me."
+
+---
 
 Georgij read all three pages before he said anything, and read them the way Woo had read the contract in the shed, which is quickly and only in the places that matter.
 
@@ -69,6 +77,8 @@ He found the thing at the top of page two.
 
 "So it is not a March instrument. It is a document that lasts until she does not want it to."
 
+---
+
 Mr Chae looked at him for a moment.
 
 "Most beneficiaries find that on the third reading," he said. "Some of them never find it, and I tell them."
@@ -83,17 +93,23 @@ Mr Chae looked at him for a moment.
 
 "Because a revocation line that she can pull without telling anybody is worth more to me than a fixed term." Georgij put the page back on the square. "If she can end it in four seconds, she does not have to be careful about giving it to me. Take the line out and she will spend the next three months deciding whether I am about to embarrass her. I would be doing my work through that."
 
+---
+
 Mr Chae wrote two words on a pad and did not show him which.
 
 "That is the reason I did not put in a renewal clause," he said. "It is nearly the same reason. I am obliged to say that I am not accustomed to explaining it to the person who benefits."
 
 "Then we have both had an unusual morning."
 
+---
+
 They went through the rest of it in nineteen minutes, and it was good work, and Georgij said so once and did not repeat it.
 
 At the end the lawyer took a fourth sheet out of the case and laid it in front of him with a pen on top of it.
 
 "Full name and signature, twice. Here, and on the counterpart."
+
+---
 
 Georgij looked at the sheet.
 
@@ -105,11 +121,15 @@ Not a contract, not a lease, not a receipt, not a delivery docket, not a hotel r
 
 He did not know whether he had a signature.
 
+---
+
 Then he read the printed name under the line.
 
 It was his own first name, spelled the way it is spelled, and after it there was a surname.
 
 He had never seen it before.
+
+---
 
 Nothing happened in his face. Nothing was permitted to happen in his face in front of a lawyer, and he had built that particular stillness in a house in Daejeon when he was twenty-one.
 
@@ -121,11 +141,13 @@ Nothing happened in his face. Nothing was permitted to happen in his face in fro
 
 "With the group's compliance department, as they are for every person who signs anything for her." Mr Chae said it exactly as flatly as he had said everything else. "They were regularised in the second week of October. Before that there was a gap, which I did not enquire into, and I am not going to enquire into it now."
 
+---
+
 Georgij sat with the sheet in front of him.
 
 In the second week of October, somebody had sat at a desk and given a man a surname, so that a document could be made to hold. It would have taken about four minutes. Whoever did it had chosen those syllables out of the air, or off a list, or off a wall, and had then gone to lunch.
 
-Where do your people come from.
+*Where do your people come from.*
 
 He had told the truth on a floor at the Grand Hotel and it had cost him something. The truth had a spelling now.
 
@@ -137,6 +159,8 @@ Four nights ago, on a bridge, two syllables had gone straight into the place whe
 
 He let it go, and it was his own.
 
+---
+
 "Is it correct?" said Mr Chae.
 
 "It is what is on the papers."
@@ -144,6 +168,8 @@ He let it go, and it was his own.
 "That is not the question I asked."
 
 "No," said Georgij. "It is the answer I have."
+
+---
 
 Mr Chae did not move for a moment.
 
@@ -154,6 +180,8 @@ Then he did something he had not done all morning, which was to take his glasses
 He folded the glasses.
 
 "The other one is on this table."
+
+---
 
 Georgij said nothing at all, which was the whole of what he had.
 
@@ -177,6 +205,8 @@ Mr Chae looked at him.
 
 "Yes," he said. "That is what I thought I was doing."
 
+---
+
 He signed it twice.
 
 He made it up in about two seconds.
@@ -197,11 +227,13 @@ At the door the younger man took the case, and the lawyer stopped for a second o
 
 Then he went down the stairs.
 
+---
+
 Georgij stood at the window until the car had gone.
 
 Then he sat down at the desk and did the next thing on the paper, which was a telephone call he had been putting off for ten days.
 
-———
+* * *
 
 "Chairman."
 
@@ -210,6 +242,8 @@ Then he sat down at the desk and did the next thing on the paper, which was a te
 "I am going to ask you for something and it is not covered by anything."
 
 "That is the only kind worth a telephone call. Go on."
+
+---
 
 "On the sixteenth you are coming to a house north of the river at seven. The photographer is there until nine, and you will be standing next to that family a little after eight, and it will be in two papers on the Thursday." Georgij looked at the wall. "I would like you to stay until half past nine."
 
@@ -222,6 +256,8 @@ There was a pause on the line of exactly the length of a man doing arithmetic.
 "And you are not going to tell me why."
 
 "No, Chairman."
+
+---
 
 The line was quiet for a moment.
 
@@ -241,6 +277,8 @@ The line was quiet for a moment.
 
 "I would rather not have said it at all," said Georgij, "and you have worked it out, and I have not told you anything."
 
+---
+
 Woo was quiet for long enough that Georgij could hear a crane somewhere behind him.
 
 "Half past nine," he said. "I will want a chair by then and I do not want to be asked twice whether I want a chair."
@@ -253,15 +291,17 @@ Woo was quiet for long enough that Georgij could hear a crane somewhere behind h
 
 "Good," said Woo. "Do not do it again this year."
 
+---
+
 He put the telephone down and sat for a moment with his hand still on it.
 
-Then he wrote the date and the words half past nine in the notebook, under a line about a heater on a terrace, and closed it.
+Then he wrote the date and the words *half past nine* in the notebook, under a line about a heater on a terrace, and closed it.
 
-———
+* * *
 
 On the Thursday of that week a filing appeared in the ordinary place at the ordinary hour, and by lunchtime three people had telephoned the house about it, and none of them was anybody.
 
-Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He had taken it from seven shareholders who had not sat in a room together since March, at a price somewhere between generous and sensible, and he had done it in twelve days.
+Park Sang-hoon had bought the forty per cent of Hanseong Shipping that wanted out. He had taken it from seven shareholders who had not sat in a room together since March, at a price somewhere between generous and sensible, and he had done it in twelve days.
 
 Georgij read it twice.
 

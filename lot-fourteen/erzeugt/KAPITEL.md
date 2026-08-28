@@ -34,7 +34,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B1 22** *Not shown* (v1.5) · Tag 55, Do 27. November · 2.588 W
 - **B1 23** *Nobody weighs a door handle* (v3.9) · Tag 55, Do 27. November · 2.653 W
 - **B1 24** *Have you eaten* (v1.10) · Tag 55, Do 27. November · 2.667 W
-- **B1 25** *The name on the paper* (v1.7) · Tag 59, Mo 1. Dezember · 2.555 W
+- **B1 25** *The name on the paper* (v1.8) · Tag 59, Mo 1. Dezember · 2.554 W
 - **B1 26** *The name and the control* (v1.10) · Tag 63, Fr 5. Dezember · Tag 66, Mo 8. Dezember · 2.407 W
 - **B1 27** *Not out of your account* (v3.12) · Tag 67, Di 9. Dezember · Tag 69, Do 11. Dezember · Tag 70, Fr 12. Dezember · 3.127 W
 - **B1 28** *A woman in a room can be asked* (v1.11) · Tag 70, Fr 12. Dezember · Tag 71, Sa 13. Dezember · Tag 72 bis 74, So 14. bis Di 16. Dezember · 2.706 W

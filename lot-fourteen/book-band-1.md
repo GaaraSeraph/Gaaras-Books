@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 100.727 Woerter.
+Book One, 34 Kapitel, 100.726 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -35,7 +35,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 22 | v1.5 | 2.588 |
 | 23 | v3.9 | 2.653 |
 | 24 | v1.10 | 2.667 |
-| 25 | v1.7 | 2.555 |
+| 25 | v1.8 | 2.554 |
 | 26 | v1.10 | 2.407 |
 | 27 | v3.12 | 3.127 |
 | 28 | v1.11 | 2.706 |
@@ -7023,7 +7023,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Book One · Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -7285,7 +7285,7 @@ Then he wrote the date and the words *half past nine* in the notebook, under a l
 
 On the Thursday of that week a filing appeared in the ordinary place at the ordinary hour, and by lunchtime three people had telephoned the house about it, and none of them was anybody.
 
-Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He had taken it from seven shareholders who had not sat in a room together since March, at a price somewhere between generous and sensible, and he had done it in twelve days.
+Park Sang-hoon had bought the forty per cent of Hanseong Shipping that wanted out. He had taken it from seven shareholders who had not sat in a room together since March, at a price somewhere between generous and sensible, and he had done it in twelve days.
 
 Georgij read it twice.
 
