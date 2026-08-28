@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 266.099 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 267.185 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -18480,6 +18480,151 @@ hat einen Kaeufer ruiniert und ist weitergefahren, und eine andere hat
 bezahlt und es ihm verschwiegen.
 
 **Wer daraus Reue macht, macht es kleiner.** Es genuegt, dass es dasteht.
+
+---
+
+# Band 5: die Unterwelt, und er geht dorthin zurueck, wo er herkommt
+
+**Vom Autor am 29.08. vorgegeben.** Er unterwirft die grossen Gruppen unter
+die **Dokkaebi**, die ihm folgen, und gibt Verbote aus: keine
+Zwangsprostitution, kein Menschenhandel, keine Kinder, kein Verkauf an
+Minderjaehrige, **Mord nur nach Genehmigung.** Die anderen halten sich nicht
+daran. **Er zerstoert die Strukturen dafuer.**
+
+**Das ist kein neues Feld.** Es ist das, aus dem er kommt. Der Handel, der ihn
+verkauft hat, **ist** organisierte Kriminalitaet: das Haus, die
+Mittelsmaenner, die Abrechnungsstelle, der Garant, neunzehn Kaeufer in einem
+Kellergeschoss. **Band 5 ist die Rueckkehr in diesen Handel von oben.**
+
+**Und es passt genau zu dem, was Band 5 sonst tut.** Die Ehe traegt alles
+Private in oeffentliche Reihen ein. **Die Unterwelt ist das Gegenstueck: der
+Teil der Welt, der keine Reihen hat** - und er baut ihm welche.
+
+## Der Name traegt, und die Begruendung wird nie ausgesprochen
+
+**Dokkaebi kommt im ganzen Buch nicht vor** (nachgezaehlt, null Stellen), ist
+also frei.
+
+**Und die Volksueberlieferung sagt genau das Richtige:** Dokkaebi entstehen
+aus **weggeworfenen Dingen** - einem alten Besen, einem Werkzeug, an dem Blut
+war. Sachen, die man abgelegt hat und die zurueckkommen. Sie handeln, sie
+schliessen Abmachungen, **und sie strafen die Schlechten und belohnen die
+Anstaendigen.**
+
+**Weggeworfene Ware, die zurueckkommt und Regeln macht.** Das ist Los
+vierzehn, und es ist der Grund, warum der Name der richtige ist.
+
+**Es darf nirgends im Text stehen.** Kein Absatz erklaert die Herkunft des
+Namens. Wer es weiss, weiss es.
+
+## Das Verfahren bleibt seins, und der Text hat es schon formuliert
+
+**Die Gefahr ist gross und sie hat einen Namen: Warlord.** Zwei Baende ein
+Mann ohne Besitz, der nicht luegt und mit Papier arbeitet. **Wenn er in Band 5
+ein Gesetzbuch erlaesst und es mit Gewalt durchsetzt, wechselt das Buch die
+Gattung.**
+
+**Es muss nicht.** `b2 ch12:124`, seine eigene Formel, im Buch bereits gesagt:
+
+> "I want her. Not the letter, not the lane, not an apology, and not a
+> settlement." He kept his hands where she could see them. **"I want
+> everything she has, and I want it done by people who are entitled to take it
+> from her."**
+
+**Er zerstoert die Strukturen so, wie er Choi zerstoert hat: indem er sie
+lesbar macht.** Jede kriminelle Gruppe laeuft auf demselben Zeug wie jede
+andere Struktur - Konten, Speditionen, Lager, Mietvertraege, Buergschaften,
+Abrechnungsstellen, Anwaelte, Termine. **Nichts davon haelt einer Pruefung
+stand, weil nie eine stattgefunden hat.**
+
+**Und das ist besser als Gewalt, weil es unbeantwortbar ist.** Eine Bande kann
+einen Mann toeten. **Sie kann kein Dokument aus einer Reihe nehmen**
+(`b2 ch59:102`, `b2 ch87:350`: *it cannot be sealed and it cannot be
+withdrawn*).
+
+## Die Genehmigungspflicht ist keine Lizenz, sondern eine Buchfuehrung
+
+**Das ist der Punkt, an dem die Sache steht oder faellt**, weil *Mord nur nach
+Genehmigung* zuerst wie eine Anmassung aussieht.
+
+**Sie ist keine.** Wer um Erlaubnis fragt, **hat vorher gesagt, was er vorhat,
+gegen wen, und warum** - schriftlich, an einen Mann, der alles aufschreibt.
+
+**Die Regel lizenziert nichts. Sie macht es unmoeglich, es zu tun, ohne ihm
+eine Akte zu hinterlassen.** Ob er je eine Genehmigung erteilt, ist eine
+andere Frage. **Die abgelehnten haben ihm die Datei trotzdem gegeben.**
+
+**Und genau deshalb halten sich die anderen nicht daran.** Sie halten es fuer
+eine Machtfrage. **Es ist eine Beweisfrage**, und wer das nicht versteht,
+liefert entweder oder faellt aus der Ordnung. Beides ist ihm recht.
+
+**Die Kehrseite, und sie ist die schwerste Stelle des Bandes.** Ein Mann, der
+alles aufschreibt, muss die eine Sache aufschreiben, die es nicht geben darf.
+**Schreibt er sie, hat er das Dokument geschaffen, das ihn erledigt. Schreibt
+er sie nicht, bricht er sein eigenes Verfahren.** Es gibt keinen dritten Weg,
+und der Band soll ihn nicht suchen.
+
+## Die Verbotsliste ist seine Biographie, und niemand im Raum weiss das
+
+| Verbot | Woher es kommt |
+|---|---|
+| Menschenhandel | Los vierzehn |
+| Kinder | Los elf, und er selbst mit neun |
+| Zwangsprostitution | `b1 ch01:30`, *No medical history* |
+| Mord nur nach Genehmigung | `b2 ch89:60` - drei Leute wuetend gemacht, und jemand hat telefoniert |
+
+**Vier von fuenf sind Sachen, die ihm angetan wurden oder die er getan hat.**
+
+**Er schreibt ein Gesetz, das seine eigene Kindheit verbietet, und begruendet
+es mit keinem Wort.** Kein Absatz zieht die Verbindung. **Der Leser hat sie
+seit Band 1.**
+
+## Regel 1 im Umgang mit den Gruppen
+
+**Er verspricht nichts.** Ein Kodex, der als Zusage ausgegeben wird - *haltet
+euch daran und euch geschieht nichts* -, ist ein Versprechen, das er
+vielleicht nicht halten kann, und dann hat er gelogen.
+
+**Also gibt er keine Drohung und keine Zusage, sondern eine Beschreibung.**
+Der Ton steht seit `b1 ch01:70`: er hat dem Saal nicht gedroht, **er hat ihm
+eine Lieferschein-Auskunft gegeben** und den Rest den neunzehn Leuten
+ueberlassen.
+
+## Was es kostet, und ohne das ist es eine Machtphantasie
+
+**Die Verbote machen ihn sympathisch, und genau darin liegt die Gefahr.** Ein
+Verbrecherfuerst mit guten Regeln ist eine Wunscherfuellung, und das Buch hat
+zwei Baende lang keine einzige geliefert.
+
+**Zwei Preise, und beide muessen im Text stehen:**
+
+**1. Die Regel kostet Menschen, die nichts getan haben.** Wer eine Struktur
+zerlegt, zerlegt auch die Loehne darin. **Er weiss das vorher und tut es
+trotzdem** - und der Band sagt es einmal und entschuldigt es nicht. **Ein
+Kodex, der nichts kostet, ist Dekoration.**
+
+**2. Und er ist jetzt das, was entscheidet.** Ein Mann, der mit neun
+aufgehoert hat, etwas zu wollen (`b1 ch24:168`), und siebzehn Jahre nichts
+besessen hat, **erteilt erwachsenen Maennern Vorschriften.** In dem Augenblick,
+in dem der Erste aus Angst gehorcht statt aus Einsicht, **ist er ein Haus.**
+
+**Der Band muss ihn das einmal sehen lassen. Er muss es nicht loesen.**
+
+## Und daraus faellt Band 6 anders aus, als ich es notiert hatte
+
+**Berichtigung meiner eigenen Notiz.** Ich hatte geschrieben, Georgij bekomme
+in Band 6 **ihre** Verbindungen, Leute und Kanaele.
+
+**Das stimmt so nicht mehr.** Wer Band 5 auf diese Weise beendet, **bringt
+seine eigenen mit.**
+
+**Er erbt ihr Netz nicht. Er heiratet mit einem zweiten hinein**, und die
+beiden Haelften seiner Welt liegen ab da nebeneinander: **oben ihr Konzern,
+unten seine Ordnung**, und er ist der Einzige, der in beiden Raeumen sitzt.
+
+**Das ist die Endstellung der Reihe** - und es ist woertlich das, was in
+Kapitel 1 gekauft wurde: *"You will be my shadow. Present when I need you.
+Absent when I don't."* **Ein Schatten liegt neben dem Ding, das ihn wirft.**
 
 ---
 
