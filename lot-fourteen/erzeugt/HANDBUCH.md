@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 246.284 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 246.989 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -277,6 +277,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Woher der Freund es weiss](#woher-der-freund-es-weiss)
   - [Zwei Dinge, die der Text dazu erzwingt](#zwei-dinge-die-der-text-dazu-erzwingt)
   - [Wer die ungeschriebene Regel bricht](#wer-die-ungeschriebene-regel-bricht)
+  - [Der Text](#der-text)
+  - [Was daran haengt](#was-daran-haengt)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -15860,6 +15862,119 @@ Ereignis, und dann ist die ganze Reihe davor umsonst gewesen.
 
 **Was ausserhalb bleibt, bleibt ausserhalb** (`CLAUDE.md`): was zwischen den
 beiden geschieht, endet an der Tuer. Eine Wange ist diesseits davon.
+
+---
+
+## Karte oder Telefon: das Buch hat es entschieden
+
+**Vom Autor gefragt am 28.08.** `b2 ch23:176`, Mr Yeom, nachdem er in diesem
+Haus nach Georgij und nicht nach Annie gefragt hat:
+
+> *"Half past twelve. I will telephone you here on Wednesday to confirm it
+> and I will ask for you by name again. **I would like you to notice that I
+> am doing that rather than having somebody bring you a card.**"*
+
+**Damit ist das Telefon im Buch die hoefliche Form und die Karte die
+andere**, und der Leser hat den Unterschied von Chois eigenem Mann gelernt,
+der sich fuer die hoefliche entschieden hat.
+
+**Also eine Karte.** Sie sagt dasselbe wie Yeoms Anruf und meint das
+Gegenteil, und sie kostet keine Zeile Erklaerung.
+
+## Wer der Freund ist, und der Einwand dagegen ist der Grund dafuer
+
+**Der Einwand des Autors:** Chois Mann oder ein Staatsanwalt haetten bei
+Annie nichts zu holen; sie verschleiert ihre Spuren gut.
+
+**Genau darum ist der amtierende Oberstaatsanwalt der richtige.** Choi war
+selbst Staatsanwalt und ist **vorzeitig heraus, und niemand sagt warum**
+(`b2 ch25:152`). Ein Freund aus derselben Zeit, von derselben Universitaet,
+der **geblieben** ist, ist heute oben.
+
+**Er will nichts.** Das ist kein Mangel, das ist die Waffe:
+
+* Er ist der einzige Gegner im Buch, **der nicht gekauft, ausgesessen oder
+  getauscht werden kann**, weil er nichts nehmen will.
+* Er will kein Geld, sondern **einen Fall**. Und dass Annie ihre Spuren gut
+  verschleiert, ist fuer einen Staatsanwalt kein Hindernis, sondern der
+  **Befund**. Zwei Baende lang war Georgijs Staerke, dass nichts seine
+  Handschrift traegt. Ein Mann, dessen Beruf das Lesen von Abwesenheit ist,
+  liest genau das.
+* **Und er ist Georgijs Spiegel.** Georgij ist unerreichbar, weil er nichts
+  besitzt. Dieser Mann ist unerreichbar, weil er nichts will.
+
+**Was er tatsaechlich hat, ist duenn, und das ist der Punkt.** Eine Karte,
+einen toten Freund, und einen Verdacht, den er nicht beweisen kann. Er faengt
+mit weniger an als Nam Byung-hee im Maerz vor zwei Jahren - und die hat mit
+einem Blatt Briefpapier begonnen, das ihr nicht gehoerte.
+
+## Die Erlaubnis, mitten im Kampf
+
+**Vom Autor vorgegeben am 28.08., hier in den Ton des Buches gesetzt.**
+
+**Sie ist die Einloesung eines Satzes, den er sich selbst auferlegt hat.**
+`b2 ch19:216`, am dreissigsten April des ersten Jahres:
+
+> *"I am asking you to put it back on. **The price before it is paid, in this
+> room, every time**, and if there is no time to ask then I tell you the same
+> night."*
+
+**Das hier ist die groesste Anwendung, die diese Regel je bekommt.** Er bringt
+ihr den Preis, bevor er bezahlt wird, und der Preis ist sie.
+
+### Der Text
+
+"Mistress."
+
+"Say it."
+
+"The price before it is paid, in this room. That was the arrangement."
+
+"It was."
+
+"Then I am asking for permission."
+
+"To do what."
+
+"To burn the world down."
+
+Annie put the pen down, which she had not done in the hour before it.
+
+"Explain that."
+
+"There is a rule between chaebol and it is written nowhere," said Georgij. "They do not destroy one another. They take pieces and routes and men, and they leave the house standing, because every one of them lives in a house."
+
+"And you are going to break it."
+
+"I am."
+
+"And you know that I would pay for it."
+
+"Yes."
+
+"And you asked anyway."
+
+"Yes."
+
+It did not take her as long as it had taken him to say it.
+
+"Do it."
+
+### Was daran haengt
+
+**Die Zeichensetzung.** Annie fragt und bekommt jedes Mal den Punkt: sie kann
+verlangen. Georgij stellt in der ganzen Szene **keine einzige Frage** - er
+fragt nicht, *ob*, er bittet *um*. Das ist der Unterschied, und er ist im
+Buch die ganze Zeit derselbe.
+
+**Die Regel bricht er, und sie zahlt.** Das steht in der Szene und wird
+nirgends erklaert: *"And you know that I would pay for it." - "Yes."* Ein
+Mann, der nichts besitzt, kann fuer eine Regel unter Besitzenden nicht
+belangt werden. Sie schon.
+
+**Und sie nimmt sich keine Zeit.** Das ist dieselbe Frau, die in `b2 ch87`
+auf *"Was I useful?"* mit *"Yes"* antwortet, ohne zu ueberlegen. Wer sie
+hier zoegern laesst, macht aus ihr jemand anderen.
 
 ---
 
