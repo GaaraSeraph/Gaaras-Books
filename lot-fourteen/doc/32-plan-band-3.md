@@ -310,3 +310,132 @@ Annie went back to the page.
 
 "You are not going to be able to say that again."
 
+---
+
+# Vom Autor am 28.08., zweiter Durchgang
+
+## Gegner 1: ein echter Freund von Choi
+
+**Schule oder Universitaet, und es ist keine Zweckfreundschaft.** Er wirft
+Georgij Chois Tod vor.
+
+**Und hier steht der Text der Idee im Weg, und zwar zu ihren Gunsten: Choi
+ist nicht tot.** `b2 ch89:6` sagt genau so viel und nicht mehr:
+
+> *Choi Dae-ho has not been seen since the eighth of April.*
+
+Und `b2 ch89:212`, Georgij selbst: *"I have said out loud since that I am not
+going to kill him, and I meant it. A man went out of a gate on the eighteenth
+of March and has not been seen since the eighth of April."*
+
+**Damit ist die Anklage besser als eine richtige.** Der Freund beschuldigt ihn
+eines Todes, den niemand festgestellt hat. Georgij kann wahrheitsgemaess
+sagen, dass er ihn nicht getoetet hat - und er kann **nicht sagen, was
+geschehen ist, weil er es nicht weiss.** Es gibt dafuer sogar ein Muster im
+Buch: bei Byun sagt er *"it was not us who did that and I arranged not to
+know how"*.
+
+**Ein Mann, der nie luegt, hat auf den schwersten Vorwurf seines Lebens genau
+eine Antwort, und sie klingt wie eine Ausrede.**
+
+### Woher der Freund es weiss
+
+**Vom Autor:** bei dem Abendessen wollten nicht alle zugeben, dass sie
+ausgenommen worden waren. Aber einige haben hinterher stolz erzaehlt, dass
+sie ihre Rache bekommen haetten - und so hat es sich herumgesprochen.
+
+**Das Buch hat den Weg schon gelegt.** `b2 ch85`, Sang-hoon am Ende des
+Abends: *"Eleven people are going to telephone somebody tomorrow."* Und
+`b2 ch87:118` ueber die elf Meter: *there is nothing in it that anybody could
+have described the next morning, **and eleven of them have tried.***
+
+**Der Witz daran, und er ist bitter:** die sechsundzwanzig am Tisch haben
+nichts getan. Sie haben zugesehen. Was ankommt, ist die Fassung von Leuten,
+die dabeigewesen sein wollen - **mit Annies Namen daran, und mit seinem.**
+
+## Der Angriff auf den Chaebol laeuft ueber Anteile und die Boerse
+
+**Vom Autor, in seiner Reihenfolge:**
+
+1. Georgij ueberzeugt jemanden bei der Wettbewerbsbehoerde, dass Hanseong in
+   einem Bereich ein Quasimonopol ist. Es kommt in die Nachrichten. **Es ist
+   deren profitabelstes Geschaeft.**
+2. Zeitgleich geschieht etwas, das den Kurs drueckt.
+3. Annie kauft alles Freie am Markt. Vorher ueberzeugte Grossaktionaere -
+   Erben und Unbeteiligte - verkaufen ihr **zum Kurs vor dem Fall**.
+4. Die Pruefung geht gut aus. Annie ist Mehrheitseignerin.
+5. Danach zersaebelt Georgij die anderen gut laufenden Firmen auf anderem
+   Weg, etwa mit Bekanntmachungen ueber defekte, nicht zurueckgerufene
+   Produkte, und laesst ihn mit den Verlustbetrieben ausbluten.
+
+### Zwei Dinge, die der Text dazu erzwingt
+
+**Erstens, und es ist die Regel, an der der ganze Band haengt: Georgij sagt
+nie etwas Unwahres.** Also darf **nichts** davon gebaut sein. Das
+Quasimonopol muss eines **sein**. Die defekten Produkte muessen defekt
+**sein** und nicht zurueckgerufen worden **sein**. Der Kurssturz darf nicht
+erzeugt werden, sondern nur ausgeloest - indem etwas, das ohnehin wahr ist,
+zum richtigen Zeitpunkt sichtbar wird.
+
+**Das ist keine Einschraenkung, sondern sein Verfahren.** Er hat in zwei
+Baenden nie etwas erfunden. Er hat gefunden, was dastand, und es dorthin
+gelegt, wo jemand es lesen musste. Ein Band, in dem er zum ersten Mal etwas
+faelscht, ist ein anderes Buch.
+
+**Zweitens: Sang-hoon haelt vierzig Prozent von Hanseong.** `b1 ch25:304` -
+er hat sie von **sieben Aktionaeren** genommen, die seit Maerz nicht mehr
+zusammen in einem Raum gesessen hatten. Hanseong ist *four shipping routes,
+real berths, real slots* (`b1 ch14:82`).
+
+**Damit macht dieser Plan Annie zu Sang-hoons Partnerin, ob sie will oder
+nicht** - und zwar an dem Unternehmen, dessen Kauf Georgij ihm in Band 1
+selbst eingefaedelt hat. Wer die sechzig Prozent angreift, braucht die
+vierzig oder muss an ihnen vorbei.
+
+**Und das stoesst frontal auf die Szene in der Mitte**, in der Sang-hoon sie
+vor die Wahl stellt. Entweder passiert das davor, und dann ist seine Drohung
+etwas, das er sich leisten kann, weil sie ihn braucht. Oder danach, und dann
+kauft sie sich mit einem Mann in ein Unternehmen ein, dem sie gerade gesagt
+hat, dass sie lieber brennt.
+
+### Die ungeschriebene Regel bricht sie, nicht er
+
+Georgij ist kein Chaebol und kann keine Chaebol-Regel brechen. **Annie kann
+es**, und sie ist es, die dafuer beurteilt wird. Das ist die Verbindung
+zwischen den drei Gegnern: nicht ihre Sache eint sie, sondern **dass eine von
+ihnen einen von ihnen zerlegt hat.**
+
+Und der Satz dahinter gehoert Georgij und nicht ihr: **fuer Annie darf die
+Welt brennen.** Er wird ihn nicht sagen. Er wird es tun, und jemand anders
+wird es aussprechen.
+
+## Gegner 3, der Vetobetroffene: offen
+
+Kyeongil oder die Yang-Operation in Ulsan (`b1 ch15:310`), oder einer der
+zwei kleineren, die das Buch versprochen und nie geliefert hat.
+
+## Das Koerperliche zwischen den beiden, und wo ein Wangenkuss saesse
+
+**Vom Autor gefragt, hier am Text nachgezaehlt.** Die Steigerung laeuft ueber
+beide Baende, sie geht **immer von ihr aus**, und **niemand bemerkt sie je
+mit einem Wort.**
+
+| Tag | Was | Wo |
+|---|---|---|
+| 87 | *He turned his head into her hand and shut his eyes.* | `b1 ch33:406` |
+| 149 | *Annie's hand came down on the back of his head and stayed there.* | `b1 ch34:516` |
+| 164 | *she put her hand along the side of his face, cool from the room, the heel of it just under the bone* | `b2 ch06:350` |
+| 206 | die Hand flach an der Halsseite, ueber dem Halsband | `b2 ch17:214` |
+| ab 168 | die Hand ins Haar, und es wird das feste Zeichen | `b2 ch09`, `19`, `25`, `28`, `32`, `52`, `54`, `66`, `89` |
+| 590 | *She took her hand off the arm of the chair and held it out to him.* | `b2 ch89:290` |
+
+**Das Buch endet damit, dass sie ihm die Hand hinhaelt.** Ein Kuss auf die
+Wange waere der erste Schritt daran vorbei, und er waere folgerichtig - aber
+nur, wenn er die drei Regeln der Reihe einhaelt: **von ihr**, **ohne
+Ankuendigung**, und **ohne dass irgendjemand danach ein Wort darueber
+verliert.** Wer ihn kommentieren laesst, macht aus einer Steigerung ein
+Ereignis, und dann ist die ganze Reihe davor umsonst gewesen.
+
+**Was ausserhalb bleibt, bleibt ausserhalb** (`CLAUDE.md`): was zwischen den
+beiden geschieht, endet an der Tuer. Eine Wange ist diesseits davon.
+
