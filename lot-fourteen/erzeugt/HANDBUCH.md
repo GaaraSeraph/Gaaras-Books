@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 267.185 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 268.008 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -359,6 +359,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Rechnung, die dabei aufgeht, ist gegen Annie](#die-rechnung-die-dabei-aufgeht-ist-gegen-annie)
   - [Und dann steht er vor der Frage, die das ganze Buch stellt](#und-dann-steht-er-vor-der-frage-die-das-ganze-buch-stellt)
   - [Und es setzt Band 6 auf](#und-es-setzt-band-6-auf)
+  - [Jang ist der Mentor, und zwar fuer das Einzige, was Georgij nie gekonnt hat](#jang-ist-der-mentor-und-zwar-fuer-das-einzige-was-georgij-nie-gekonnt-hat)
+  - [Hwang ist der tragende Balken, und er ist es schon einmal gewesen](#hwang-ist-der-tragende-balken-und-er-ist-es-schon-einmal-gewesen)
+  - [Yeom, ein wenig: er kennt alle und will nichts](#yeom-ein-wenig-er-kennt-alle-und-will-nichts)
+  - [Und die drei zusammen sind genau das, was ihm fehlt](#und-die-drei-zusammen-sind-genau-das-was-ihm-fehlt)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -18625,6 +18629,111 @@ unten seine Ordnung**, und er ist der Einzige, der in beiden Raeumen sitzt.
 **Das ist die Endstellung der Reihe** - und es ist woertlich das, was in
 Kapitel 1 gekauft wurde: *"You will be my shadow. Present when I need you.
 Absent when I don't."* **Ein Schatten liegt neben dem Ding, das ihn wirft.**
+
+---
+
+## Wer ihn in Band 5 traegt: Jang, Hwang, und ein wenig Yeom
+
+**Vom Autor am 29.08. benannt.** Ein Name muss geklaert werden: **"Yeon" gibt
+es im Buch nicht**, null Stellen. Es gibt **Mr Yeo**, den Chefgaertner mit
+vier Zeilen in Band 1, und **Mr Yeom**, den frueheren Besitzer des
+Auktionshauses mit sechsundsiebzig Zeilen in dreizehn Kapiteln. **Hier steht
+Yeom**, weil er der Einzige von beiden ist, der in diesem Stoff etwas zu
+suchen hat.
+
+### Jang ist der Mentor, und zwar fuer das Einzige, was Georgij nie gekonnt hat
+
+**Hundertsechzig Zeilen in achtunddreissig Kapiteln.** Er ist keine
+Nebenfigur, er war nur nie in dieser Rolle.
+
+**Georgij hat noch nie jemanden gefuehrt.** Zwei Baende lang ist er der, der
+liest und hingeht. Allein. **Band 5 verlangt Befehl, und das ist die eine
+Sache, die er in elf Haeusern nicht gelernt hat**, weil man sie dort an ihm
+geuebt hat und nicht mit ihm.
+
+**Jang kann es, und der Text zeigt es an seinem ersten Vormittag.**
+`b1 ch05:26`:
+
+> By ten o'clock Jang had asked for the camera schedule and had been told
+> there wasn't a written one. **By eleven there was.**
+
+**Und er ist die genaue Gegenfigur zu Georgijs Verfahren.** `b1 ch05:62`: er
+liest die neun Blatt *properly, from the top, **in front of a man standing in
+his doorway, which took eleven minutes.*** **Ein Mann, der nicht vorfuehrt.**
+Georgij ist Substanz plus Vorfuehrung. Jang ist Substanz ohne. **Deshalb ist
+er das Korrektiv und nicht nur die Unterstuetzung.**
+
+**Und er wusste, worauf er sich einlaesst.** `b1 ch05:32`: *"Everybody I spoke
+to before I took this told me your name inside four minutes."*
+
+**Die Gefahr, und sie ist echt: ein Mentor verkleinert diese Figur.** Georgij
+ist seit zwei Baenden der Kompetenteste in jedem Raum. Wenn Jang ihm Dinge
+beibringt, die er ohnehin kann, schrumpft er.
+
+**Also bringt Jang ihm nichts bei. Jang verweigert.** Beim ersten Befehl im
+neuen Ton sagt er nein und sagt warum. **Ein Mann, dem noch nie jemand aus
+Loyalitaet widersprochen hat**, bekommt es zum ersten Mal - und das ist der
+Unterricht, nicht ein Gespraech ueber Fuehrung.
+
+### Hwang ist der tragende Balken, und er ist es schon einmal gewesen
+
+**Hundertfuenfunddreissig Zeilen in vierundzwanzig Kapiteln, alle in Band 2.**
+
+**Er ist der Mann, der einen Eintrag nicht geloescht hat.** `b2 ch20:86`:
+
+> "They paid for a service. The service was not performed. ... **If I delete
+> an entry because somebody paid** [...]"
+
+**Und er ist der, der die Unloeschbarkeit gebaut hat.** `b2 ch59:102`:
+
+> "It cannot be sealed and it cannot be withdrawn and there is no application
+> for either, **because I did not write one in.**"
+
+**Damit ist er in Band 5 nicht Unterstuetzung, sondern die Voraussetzung.**
+Eine Ordnung, die auf Verboten beruht, braucht keine Schlaeger. **Sie braucht
+einen Registerfuehrer, den niemand ueberreden kann, eine Zeile zu aendern.**
+
+**Und das ist zugleich die Antwort auf die Warlord-Gefahr.** Georgij setzt
+nichts mit Gewalt durch. **Er setzt es damit durch, dass alles, was jemand
+tut, an einer Stelle steht, an die er nicht herankommt** - und Hwang ist diese
+Stelle.
+
+**Seine Redlichkeit ist verfahrensmaessig und nicht persoenlich**, und das ist
+im ganzen Buch einmalig. Er ist nicht gut. **Er loescht nicht.**
+
+### Yeom, ein wenig: er kennt alle und will nichts
+
+`b2 ch22:140`:
+
+> "A man called Yeom. He is sixty-three. **He did not build it and he did not
+> particularly want it. He ran it the way a man runs a thing he inherited**,
+> which is to say he did not look at it very much."
+
+**Und er ist trotzdem nicht dumm.** `b2 ch23:142`: *"You have been in the
+register at that house. You were in the building at the beginning of May
+talking to Hwang. You have been to see Byun in Seongdong."* **Er weiss, wo
+Georgij war, und er ruft an, um ihm vierhunderttausend Won zu sparen.**
+
+**Damit ist er das Eingangstor in Band 5 und muss dafuer nichts Neues
+bekommen.** Er kann sagen, wer die Gruppen sind und wer sie fuehrt. **Ein Mann
+aus dem Handel, ohne Ehrgeiz, amuesiert.**
+
+**Und er ist das Gegenstueck zum Hanseong-Erben, in derselben Kategorie.**
+Beide haben geerbt, beide haben nichts gebaut, beide haben nicht hingesehen.
+**Der eine hat es ruiniert und haelt sich fuer Adel. Der andere hat es laufen
+lassen und haelt sich fuer gar nichts.** Sie muessen sich nie begegnen, damit
+das wirkt.
+
+### Und die drei zusammen sind genau das, was ihm fehlt
+
+| | was er beitraegt | was Georgij daran nicht hat |
+|---|---|---|
+| **Jang** | fuehrt Menschen, und widerspricht | er hat nie jemanden gefuehrt |
+| **Hwang** | macht Eintraege unloeschbar | er kann Akten lesen, aber keine fuehren |
+| **Yeom** | kennt den Handel von innen und will nichts | er kennt ihn von unten |
+
+**Keiner der drei ist neu, keiner braucht eine Einfuehrung, und alle drei sind
+schon einmal freiwillig auf seine Seite getreten.**
 
 ---
 
