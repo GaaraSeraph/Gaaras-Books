@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 261.191 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 262.986 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -36,6 +36,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Auf der Spur aus Ulsan](#auf-der-spur-aus-ulsan)
   - [Im Haus am Fluss](#im-haus-am-fluss)
   - [Auf der Gala](#auf-der-gala)
+  - [Die Beleidigungen: *mutt*, *dog*, *upstart*](#die-beleidigungen-mutt-dog-upstart)
 - [Stimmen: wer wie spricht](#stimmen-wer-wie-spricht)  ·  `doc/12-stimmen.md`
   - [1. Jede Figur will etwas, das mit Georgijs Sache nichts zu tun hat](#1-jede-figur-will-etwas-das-mit-georgijs-sache-nichts-zu-tun-hat)
   - [2. Jede Figur kommt anders von A nach B](#2-jede-figur-kommt-anders-von-a-nach-b)
@@ -130,6 +131,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Festgelegte Zeile: das best-made thing](#festgelegte-zeile-das-best-made-thing)
   - [Festgelegte Zeile: was nicht Arbeit war](#festgelegte-zeile-was-nicht-arbeit-war)
   - [Festgelegte Zeile: die zwei Haende, die sich nicht bewegen](#festgelegte-zeile-die-zwei-haende-die-sich-nicht-bewegen)
+  - [Festgelegte Zeile: der Scheiterhaufen, an den Hanseong-Inhaber](#festgelegte-zeile-der-scheiterhaufen-an-den-hanseong-inhaber)
 - [Handwerk](#handwerk)  ·  `doc/20-handwerk.md`
   - [0. Die Wortzahl ist keine Schere](#0-die-wortzahl-ist-keine-schere)
   - [1. Bandwurmsaetze](#1-bandwurmsaetze)
@@ -321,6 +323,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Es muss also nichts gepflanzt werden](#es-muss-also-nichts-gepflanzt-werden)
   - [Und die Zeile, die Band 4 daraus bekommt](#und-die-zeile-die-band-4-daraus-bekommt)
   - [Was sofort funktioniert](#was-sofort-funktioniert)
+  - [Und dahinter steckt ueberhaupt nichts, und das ist der Punkt](#und-dahinter-steckt-ueberhaupt-nichts-und-das-ist-der-punkt)
   - [Die Gefahr: ein inkompetenter Gegner macht den Sieg wertlos](#die-gefahr-ein-inkompetenter-gegner-macht-den-sieg-wertlos)
   - [Und daraus faellt die Bitte um Fuehrung von selbst](#und-daraus-faellt-die-bitte-um-fuehrung-von-selbst)
   - [Und die Rede trifft ihn genau da](#und-die-rede-trifft-ihn-genau-da)
@@ -357,6 +360,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Falle ist eine Auseinandersetzung und ein Kalender, kein Stillstand](#die-falle-ist-eine-auseinandersetzung-und-ein-kalender-kein-stillstand)
   - [Ye-rin wird im Dezember angesprochen, nicht im Januar](#ye-rin-wird-im-dezember-angesprochen-nicht-im-januar)
   - [Annie geht auf Woos Satz mit keinem Wort ein](#annie-geht-auf-woos-satz-mit-keinem-wort-ein)
+  - [Zurueckgenommen am selben Tag](#zurueckgenommen-am-selben-tag)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -787,6 +791,43 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
 3. **Über dem Halsband oder daran?** Es gibt genau eine Stelle im ganzen Buch, an
    der jemand außer einem Schneider das Halsband selbst berührt, und das ist
    Kapitel 35.
+
+---
+
+## Der Wangenkuss, festgelegt am 28.08.
+
+**Er steht in Band 3, in der Szene, in der Sang-hoon sie vor die Wahl
+stellt** - nicht am Bandende. Die Reihenfolge:
+
+1. **ihre Aufzaehlung** - was sie tut und was sie nicht tut;
+2. **"Yes, Mistress."**
+3. **der Kuss auf die Wange**, von ihr, ohne Ankuendigung;
+4. **"You cannot say that any more."**
+
+**Der Kuss ist das, was den Titel aufhebt.** Sie diskutiert ihn nicht weg und
+sie schenkt ihm nichts. **Sie tut etwas, nach dem das Wort nicht mehr
+stimmt**, und sagt danach nur, was ohnehin schon gilt.
+
+**Die Regel der Reihe bleibt eingehalten**, obwohl sie spricht: sie sagt
+nichts **ueber den Kuss**, sondern ueber die **Anrede.** Der Kuss selbst
+bleibt unkommentiert.
+
+**Zwei Sachen, die dabei leicht kaputtgehen:**
+
+**1. Annie zieht nicht mehr zusammen.** Zehn Kontraktionen in
+zweihundertachtundvierzig Repliken mit Begleitsatz, **alle zehn in `b1 ch02`
+bis `b1 ch15`**, danach ueber hundert Kapitel keine. Also nicht *"you can't
+say that anymore"*, sondern **"You cannot say that any more."** Punkt, kein
+Fragezeichen: sie verfuegt.
+
+**2. Das Halsband bleibt.** Die Anrede faellt, das Ding bleibt liegen, und er
+behaelt es, weil er es behalten will. **Sie nimmt das Wort zurueck, er nicht
+das Zeichen.**
+
+**Und Band 3 endet eine Stufe weiter als Band 2.** Band 2 schliesst damit,
+dass sie ihm die Hand hinhaelt (`b2 ch89:290`). **Band 3 endet auf Chairman
+Woos Beisetzung mit einem Kuss** - von ihr, unkommentiert, an dem einzigen
+Ort im Buch, an dem so etwas nicht privat ist und trotzdem niemanden angeht.
 
 ---
 
@@ -2157,6 +2198,83 @@ entscheidet. Alle drei stehen jetzt auf elf.
 steht der Widerspruch am selben Abend wieder da.
 
 ---
+
+---
+
+## Der Hanseong-Inhaber, festgelegt am 28.08.
+
+**Der Gegner von Band 3.** Ausfuehrlich in `doc/32-plan-band-3.md`.
+
+**Er hat nie etwas gebaut.** Sein Vater konnte es, sein Grossvater konnte es,
+und er hat bekommen, **weil er zuerst geboren wurde.** Aeltester Sohn, sonst
+nichts.
+
+**Unfaehig im Geschaeft. Unangreifbar in der Stellung.** Seine Unfaehigkeit
+ist der Grund, warum die Gruppe angreifbar ist. Seine Unangreifbarkeit ist
+gesellschaftlich und nicht kaufmaennisch: **niemand ruehrt ihn an, nicht weil
+er stark ist, sondern weil man so etwas nicht tut.** Der Gegner ist deshalb
+nicht der Mann, sondern die Ehrerbietung um ihn herum.
+
+**Hanseong ist sehr alt und er haelt sich fuer Adel.** Annies Konglomerat ist
+juenger, also sieht er auch auf sie herab. **Und damit steht seine Verachtung
+auf dem Kopf: juenger heisst gebaut, aelter heisst geerbt.**
+
+### Die Beleidigungen: *mutt*, *dog*, *upstart*
+
+**Und hier liegt die Falle, in die ich am 28.08. zweimal getappt bin.**
+
+**Es steckt nichts dahinter.** Kein Kalkuel, kein Abtasten, keine zweite
+Ebene. **Er sagt es, weil es ihm noch nie jemand verboten hat.** Er ist ein
+Chaebol, er haelt sich fuer erhaben, und niemand in seinem Leben hat ihn je in
+irgendetwas korrigiert, seine Manieren eingeschlossen.
+
+**Daraus folgt die Schreibregel, und sie ist die wichtigste an der Figur:**
+
+> **Er darf es nie geniessen.** Kein Triumph, kein Nachsetzen, kein Blick, ob
+> es getroffen hat. **Er sagt *mutt*, wie er *Stuhl* sagen wuerde.**
+
+**Wer einen Menschen absichtlich beleidigt, hat ueber ihn nachgedacht. Dieser
+hat das nicht.** Die Beilaeufigkeit ist die ganze Beleidigung, und sie ist
+schlimmer als jede Boshaftigkeit, weil sie keinen Aufwand macht.
+
+**Und sie ist der Grund, warum er in sein eigenes Ende laeuft.** Er merkt
+nicht, dass er etwas getan hat. Also hoert er nicht auf. **Also kommt er
+irgendwann bei Annie an, ohne je gezielt zu haben.**
+
+## Georgijs Faust, festgelegt am 28.08.
+
+**Das erste Mal in zwei Baenden, dass er sichtbar ausschlaegt.** Wenn der
+Hanseong-Inhaber **Annie** beleidigt, ballt sich die Hand und die Schlagader
+am Hals schwillt an.
+
+**Die Zahlen dahinter, nachgezaehlt ueber alle hundertdreiundzwanzig Kapitel:**
+
+| | Treffer |
+|---|---|
+| Haende flach, auf den Knien, sichtbar liegend | **155** |
+| *fist*, *clenched*, *knuckles* | **0** |
+
+**Der Grund ist kein Mechanismus, sondern eine Erstmaligkeit.** Ueber ihn wird
+seit `b1 ch01:64` hergezogen - *"Merchandise doesn't talk."* Er laesst es
+stehen, zwei Baende lang. **Ueber Annie ist in seiner Gegenwart nie ein
+herabsetzendes Wort gefallen**, keine einzige Stelle im ganzen Buch. Die
+beiden gefaehrlichsten Maenner reden ausdruecklich mit Respekt ueber sie
+(`b2 ch78:254`, `b2 ch86:352`).
+
+**Der Ort ist bereits belegt.** `b2 ch17:214`: *She put her hand flat on the
+side of his neck above the collar.* **Dieselbe Handbreit Haut: ihre Hand,
+wenn es gut ist, sein Puls, wenn jemand sie beleidigt.** Das Halsband liegt
+unmittelbar darunter, und `b1 ch07:64` steht seit Band 1 daneben: *A man with
+something at his throat lifts the chin.* **Er hebt ihn nicht. Er haelt ihn
+eben.**
+
+**Regeln:** nie benennen (kein *he was angry*), selten (drei- bis viermal im
+Band), **und das letzte Mal ist anders** - entweder er tut es nicht mehr, oder
+jemand sagt es ihm. Am besten weiss er nicht, dass er es tut.
+
+**Der Preis ist eine Szene und kein Fehler:** es ist lesbar. Wer aufpasst,
+lernt an einem Abend, dass man diesen Mann nicht ueber ihn selbst erreicht,
+sondern ueber sie.
 
 ---
 
@@ -8493,6 +8611,61 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   ihn wurde gebraucht, weil dort zwei Redebloecke derselben Figur ohne etwas
   Koerperliches aufeinander folgten. Dass Annies Zeile schon so dastand, ist
   aufgefallen, nachdem er geschrieben war.
+
+---
+
+## Der Ring an der falschen Hand, festgeschrieben am 28.08.
+
+**Drei Stellen im Buch, und keine erklaert ihn.** Nachgezaehlt am 28.08.,
+nachdem eine erste Suche faelschlich Null gemeldet hatte.
+
+| Stelle | Tag | |
+|---|---|---|
+| `b1 ch01:98` | 1 | *No jewellery except **a wedding ring on the wrong hand*** |
+| `b1 ch06:186` | 26 | *No jewellery except **the ring on the wrong hand**, and her hair up* |
+| `b2 ch78:72` | 464 | *she did not do **the thing with the ring on the wrong hand that she does when a number is bad*** |
+
+**Die erste steht im Wagen, unmittelbar nach dem Kauf**, im selben Absatz, in
+dem er sie zum ersten Mal aus der Naehe sieht. **Beim zweiten Mal wird der
+Artikel bestimmt** - *a wedding ring*, dann *the ring*. Das Buch behandelt ihn
+nach einer Nennung als bekannt.
+
+**Die dritte ist die wichtigste, weil sie kein Schmuckstueck ist, sondern eine
+Gewohnheit.** Sie erwaehnt ihn nur, um zu sagen, dass sie es **diesmal nicht**
+getan hat. Damit steht fest: sie fasst ihn an, wenn eine Zahl schlecht ist,
+oft genug, dass es ein Zeichen ist, **und Georgij kennt es gut genug, um sein
+Fehlen zu bemerken.**
+
+**Der Ehemann ist zweimal Vergangenheit und nie mit einem Grund** -
+`b1 ch21:336` *"the first one **was** married to me"*, `b1 ch24:188`
+*"including the man I **married**."* **Wie er aufgehoert hat, steht nirgends.**
+
+**Aufgeloest wird das in Band 4**, wo sie ihn ablegt und einen anderen
+bekommt. **Bis dahin wird er nicht erklaert und von niemandem angesprochen.**
+
+**Und die Zeile, die daran haengt:** Georgij hat in hundertdreiundzwanzig
+Kapiteln nie danach gefragt. Ein Mann, der wildfremde Maechtige um Fuehrung
+bittet, weil Fragen billiger ist als Zudecken. Der Vergleich steht schon da,
+`b1 ch01:216`: *it was **the first question all night he had actually wanted
+the answer to***. Das war der Junge. **Der Ring ist der zweite, und der
+wartet noch.**
+
+### Festgelegte Zeile: der Scheiterhaufen, an den Hanseong-Inhaber
+
+**Vom Autor am 28.08. vorgegeben, hier im Ton des Buches.** Vollstaendig mit
+Begruendung in `doc/32-plan-band-3.md`.
+
+> "You were not an exception. **You were a bigger pile of the same wood, and a
+> bigger pile takes longer.**"
+
+**Der Mann haelt sich fuer Adel und bekommt gesagt, dass er Brennmaterial
+ist.** Nicht Feuer - ein Feuer handelt, ein Scheiterhaufen wird
+aufgeschichtet. **Es ist eine Standesfrage, beantwortet mit einer
+Mengenangabe.**
+
+**Und was davor steht, darf nicht prahlen**, weil Regel 1 sonst bricht:
+
+> "I did not do all of that myself. **I did enough of it.**"
 
 ---
 
@@ -17569,6 +17742,27 @@ hineinliest, verschiebt den Grund fuer die Faust auf etwas Ausgedachtes.
 ihm und ihr** - und das ist eine ganz andere Achse, weil das eine seit der
 ersten Seite laeuft und das andere noch nie vorgekommen ist.
 
+### Und dahinter steckt ueberhaupt nichts, und das ist der Punkt
+
+**Am 28.08. praezisiert.** Kein Kalkuel, kein Abtasten, keine zweite Ebene.
+**Die Beleidigung kommt aus Inkompetenz.** Er ist ein Chaebol und haelt sich
+fuer erhaben. **Wer sollte ihm das verbieten?** Niemand in seinem Leben hat
+ihn je in irgendetwas korrigiert, seine Manieren eingeschlossen.
+
+**Daraus faellt die Schreibregel, und sie ist die wichtigste an der Figur:**
+
+> **Er darf es nie geniessen.** Kein Triumph, kein Nachsetzen, kein Blick, ob
+> es getroffen hat. **Er sagt *mutt*, wie er *Stuhl* sagen wuerde.**
+
+**Wer einen Menschen absichtlich beleidigt, hat ueber ihn nachgedacht. Dieser
+hat das nicht.** Die Beilaeufigkeit ist die ganze Beleidigung, und sie ist
+schlimmer als Boshaftigkeit, weil sie keinen Aufwand macht.
+
+**Und sie ist der Grund, warum er in sein eigenes Ende laeuft.** Er merkt
+nicht, dass er etwas getan hat, also hoert er nicht auf, **also kommt er
+irgendwann bei Annie an, ohne je gezielt zu haben.** Der Mann richtet sich
+zugrunde, ohne einen einzigen Zug zu machen.
+
 **Der falsche von den dreien ist *upstart*, und der ist der wichtigste.** Ein
 Emporkoemmling ist einer, der steigen will. **Georgij will nichts und besitzt
 nichts.** Das Wort geht daneben, und es geht so daneben, dass es etwas ueber
@@ -19016,6 +19210,54 @@ seither nie benutzt worden: *"I go to them one at a time and I tell them what
 was done to them. I do not accuse him of anything, because he has never once
 claimed anything."* **Damit ist es zugleich die groesste Heft-Entnahme des
 Buches** - ein Plan, der im Mai abgelegt und im November geholt wird.
+
+## Band 3 und Band 4: die Entscheidungen vom 28.08.
+
+**Ausfuehrlich in `doc/32-plan-band-3.md`.** Hier nur, was gilt.
+
+**Woo.** Kein Geschenk, **ein Erbe** - ein Geschenk lehnt Georgij ab, ein Erbe
+kann er nicht ablehnen, und Woo hat das Verfahren in `b2 ch82:252` selbst
+vorgefuehrt. **Drei Briefe**: an Annie die vier Antworten, die sie zu
+Lebzeiten ausgeschlagen hat; an beide das Terminal, so geteilt, dass keiner
+allein handeln kann; **an Georgij die Fuehrung, um die er in seinen ersten
+vierzehn Tagen gebeten hat** (`b1 ch12:146`). **Angekuendigt in Band 3, Tod
+und Urkunde am Bandende oder in Band 4** - nicht frueher, weil Band 3 darauf
+laeuft, dass Georgij nichts hat.
+
+**Nam Byung-hee geht zu Chairman Woo**, nicht zu Sang-hoon. Wenn Woo Anteile
+hinterlaesst, arbeitet sie ohnehin fuer Georgij, ohne es je zu erfahren.
+
+**Die zwanzig Prozent:** erst unerreichbar, dann verwertet, dann kauft Woo
+zurueck **und besteht darauf zu zahlen** - das Zahlen trennt das Bezahlte vom
+Vererbten.
+
+**Der Wangenkuss** geht in die Sang-hoon-Szene, siehe `doc/10-naehe.md`.
+**Band 3 endet auf der Beisetzung mit einem Kuss. Band 4 endet mit einem
+Verlobungsring**, und dort wird auch erklaert, warum sie den alten traegt.
+
+**Der Hanseong-Inhaber** und **Georgijs Faust**: siehe `doc/11-figuren.md`.
+
+**Die Geschwister werden gekauft.** Bei einem Chaebol bekommen sie immer
+etwas, weniger als der Haupterbe. **Der Anker steht woertlich in Band 1** -
+`b1 ch07:174` *So he spent it fast, and he spent it on the young*, `b1
+ch07:180` *Nobody guards a mouth in front of a person nobody counts*, und
+`b1 ch09:48`, sie steht seither gerader. **Das Verfahren ist vorgefuehrt** in
+`b1 ch25:304`: vierzig Prozent von sieben Aktionaeren, die seit Maerz nicht
+mehr zusammen in einem Raum sassen. **Nicht alle verkaufen** - wer ablehnt,
+tut es wegen des Namens.
+
+### Zurueckgenommen am selben Tag
+
+* **"Das Auktionshaus hat der Fonds geschlossen."** Falsch. `b2 ch89:60`:
+  Georgij hat dort drei Leute wuetend gemacht, und die Kaeuferin hat
+  telefoniert. **Der Fonds war der zweite Stein.**
+* **"Kein Ring in hundertdreiundzwanzig Kapiteln."** Falsch, es sind drei
+  Stellen. **Die Suche hatte die Wortgrenze im Muster verloren und still Null
+  gemeldet.** Ein stiller Lauf ist kein Befund.
+* **"Der Besitz muss vor den dritten Gegner, damit er benutzt werden kann."**
+  Falsch herum gedacht: das entwirft Woos Tod danach, was er ermoeglicht.
+* **"Wer den Hund beschimpft, redet ueber das Haus."** Zu schlau. **Der Mann
+  redet ueber Georgij, und es steckt nichts dahinter.**
 
 ---
 

@@ -1355,6 +1355,83 @@ steht der Widerspruch am selben Abend wieder da.
 
 ---
 
+## Der Hanseong-Inhaber, festgelegt am 28.08.
+
+**Der Gegner von Band 3.** Ausfuehrlich in `doc/32-plan-band-3.md`.
+
+**Er hat nie etwas gebaut.** Sein Vater konnte es, sein Grossvater konnte es,
+und er hat bekommen, **weil er zuerst geboren wurde.** Aeltester Sohn, sonst
+nichts.
+
+**Unfaehig im Geschaeft. Unangreifbar in der Stellung.** Seine Unfaehigkeit
+ist der Grund, warum die Gruppe angreifbar ist. Seine Unangreifbarkeit ist
+gesellschaftlich und nicht kaufmaennisch: **niemand ruehrt ihn an, nicht weil
+er stark ist, sondern weil man so etwas nicht tut.** Der Gegner ist deshalb
+nicht der Mann, sondern die Ehrerbietung um ihn herum.
+
+**Hanseong ist sehr alt und er haelt sich fuer Adel.** Annies Konglomerat ist
+juenger, also sieht er auch auf sie herab. **Und damit steht seine Verachtung
+auf dem Kopf: juenger heisst gebaut, aelter heisst geerbt.**
+
+### Die Beleidigungen: *mutt*, *dog*, *upstart*
+
+**Und hier liegt die Falle, in die ich am 28.08. zweimal getappt bin.**
+
+**Es steckt nichts dahinter.** Kein Kalkuel, kein Abtasten, keine zweite
+Ebene. **Er sagt es, weil es ihm noch nie jemand verboten hat.** Er ist ein
+Chaebol, er haelt sich fuer erhaben, und niemand in seinem Leben hat ihn je in
+irgendetwas korrigiert, seine Manieren eingeschlossen.
+
+**Daraus folgt die Schreibregel, und sie ist die wichtigste an der Figur:**
+
+> **Er darf es nie geniessen.** Kein Triumph, kein Nachsetzen, kein Blick, ob
+> es getroffen hat. **Er sagt *mutt*, wie er *Stuhl* sagen wuerde.**
+
+**Wer einen Menschen absichtlich beleidigt, hat ueber ihn nachgedacht. Dieser
+hat das nicht.** Die Beilaeufigkeit ist die ganze Beleidigung, und sie ist
+schlimmer als jede Boshaftigkeit, weil sie keinen Aufwand macht.
+
+**Und sie ist der Grund, warum er in sein eigenes Ende laeuft.** Er merkt
+nicht, dass er etwas getan hat. Also hoert er nicht auf. **Also kommt er
+irgendwann bei Annie an, ohne je gezielt zu haben.**
+
+## Georgijs Faust, festgelegt am 28.08.
+
+**Das erste Mal in zwei Baenden, dass er sichtbar ausschlaegt.** Wenn der
+Hanseong-Inhaber **Annie** beleidigt, ballt sich die Hand und die Schlagader
+am Hals schwillt an.
+
+**Die Zahlen dahinter, nachgezaehlt ueber alle hundertdreiundzwanzig Kapitel:**
+
+| | Treffer |
+|---|---|
+| Haende flach, auf den Knien, sichtbar liegend | **155** |
+| *fist*, *clenched*, *knuckles* | **0** |
+
+**Der Grund ist kein Mechanismus, sondern eine Erstmaligkeit.** Ueber ihn wird
+seit `b1 ch01:64` hergezogen - *"Merchandise doesn't talk."* Er laesst es
+stehen, zwei Baende lang. **Ueber Annie ist in seiner Gegenwart nie ein
+herabsetzendes Wort gefallen**, keine einzige Stelle im ganzen Buch. Die
+beiden gefaehrlichsten Maenner reden ausdruecklich mit Respekt ueber sie
+(`b2 ch78:254`, `b2 ch86:352`).
+
+**Der Ort ist bereits belegt.** `b2 ch17:214`: *She put her hand flat on the
+side of his neck above the collar.* **Dieselbe Handbreit Haut: ihre Hand,
+wenn es gut ist, sein Puls, wenn jemand sie beleidigt.** Das Halsband liegt
+unmittelbar darunter, und `b1 ch07:64` steht seit Band 1 daneben: *A man with
+something at his throat lifts the chin.* **Er hebt ihn nicht. Er haelt ihn
+eben.**
+
+**Regeln:** nie benennen (kein *he was angry*), selten (drei- bis viermal im
+Band), **und das letzte Mal ist anders** - entweder er tut es nicht mehr, oder
+jemand sagt es ihm. Am besten weiss er nicht, dass er es tut.
+
+**Der Preis ist eine Szene und kein Fehler:** es ist lesbar. Wer aufpasst,
+lernt an einem Abend, dass man diesen Mann nicht ueber ihn selbst erreicht,
+sondern ueber sie.
+
+---
+
 # Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*

@@ -537,6 +537,61 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
 ---
 
+## Der Ring an der falschen Hand, festgeschrieben am 28.08.
+
+**Drei Stellen im Buch, und keine erklaert ihn.** Nachgezaehlt am 28.08.,
+nachdem eine erste Suche faelschlich Null gemeldet hatte.
+
+| Stelle | Tag | |
+|---|---|---|
+| `b1 ch01:98` | 1 | *No jewellery except **a wedding ring on the wrong hand*** |
+| `b1 ch06:186` | 26 | *No jewellery except **the ring on the wrong hand**, and her hair up* |
+| `b2 ch78:72` | 464 | *she did not do **the thing with the ring on the wrong hand that she does when a number is bad*** |
+
+**Die erste steht im Wagen, unmittelbar nach dem Kauf**, im selben Absatz, in
+dem er sie zum ersten Mal aus der Naehe sieht. **Beim zweiten Mal wird der
+Artikel bestimmt** - *a wedding ring*, dann *the ring*. Das Buch behandelt ihn
+nach einer Nennung als bekannt.
+
+**Die dritte ist die wichtigste, weil sie kein Schmuckstueck ist, sondern eine
+Gewohnheit.** Sie erwaehnt ihn nur, um zu sagen, dass sie es **diesmal nicht**
+getan hat. Damit steht fest: sie fasst ihn an, wenn eine Zahl schlecht ist,
+oft genug, dass es ein Zeichen ist, **und Georgij kennt es gut genug, um sein
+Fehlen zu bemerken.**
+
+**Der Ehemann ist zweimal Vergangenheit und nie mit einem Grund** -
+`b1 ch21:336` *"the first one **was** married to me"*, `b1 ch24:188`
+*"including the man I **married**."* **Wie er aufgehoert hat, steht nirgends.**
+
+**Aufgeloest wird das in Band 4**, wo sie ihn ablegt und einen anderen
+bekommt. **Bis dahin wird er nicht erklaert und von niemandem angesprochen.**
+
+**Und die Zeile, die daran haengt:** Georgij hat in hundertdreiundzwanzig
+Kapiteln nie danach gefragt. Ein Mann, der wildfremde Maechtige um Fuehrung
+bittet, weil Fragen billiger ist als Zudecken. Der Vergleich steht schon da,
+`b1 ch01:216`: *it was **the first question all night he had actually wanted
+the answer to***. Das war der Junge. **Der Ring ist der zweite, und der
+wartet noch.**
+
+### Festgelegte Zeile: der Scheiterhaufen, an den Hanseong-Inhaber
+
+**Vom Autor am 28.08. vorgegeben, hier im Ton des Buches.** Vollstaendig mit
+Begruendung in `doc/32-plan-band-3.md`.
+
+> "You were not an exception. **You were a bigger pile of the same wood, and a
+> bigger pile takes longer.**"
+
+**Der Mann haelt sich fuer Adel und bekommt gesagt, dass er Brennmaterial
+ist.** Nicht Feuer - ein Feuer handelt, ein Scheiterhaufen wird
+aufgeschichtet. **Es ist eine Standesfrage, beantwortet mit einer
+Mengenangabe.**
+
+**Und was davor steht, darf nicht prahlen**, weil Regel 1 sonst bricht:
+
+> "I did not do all of that myself. **I did enough of it.**"
+
+---
+
 # Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*

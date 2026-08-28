@@ -1167,3 +1167,52 @@ seither nie benutzt worden: *"I go to them one at a time and I tell them what
 was done to them. I do not accuse him of anything, because he has never once
 claimed anything."* **Damit ist es zugleich die groesste Heft-Entnahme des
 Buches** - ein Plan, der im Mai abgelegt und im November geholt wird.
+
+## Band 3 und Band 4: die Entscheidungen vom 28.08.
+
+**Ausfuehrlich in `doc/32-plan-band-3.md`.** Hier nur, was gilt.
+
+**Woo.** Kein Geschenk, **ein Erbe** - ein Geschenk lehnt Georgij ab, ein Erbe
+kann er nicht ablehnen, und Woo hat das Verfahren in `b2 ch82:252` selbst
+vorgefuehrt. **Drei Briefe**: an Annie die vier Antworten, die sie zu
+Lebzeiten ausgeschlagen hat; an beide das Terminal, so geteilt, dass keiner
+allein handeln kann; **an Georgij die Fuehrung, um die er in seinen ersten
+vierzehn Tagen gebeten hat** (`b1 ch12:146`). **Angekuendigt in Band 3, Tod
+und Urkunde am Bandende oder in Band 4** - nicht frueher, weil Band 3 darauf
+laeuft, dass Georgij nichts hat.
+
+**Nam Byung-hee geht zu Chairman Woo**, nicht zu Sang-hoon. Wenn Woo Anteile
+hinterlaesst, arbeitet sie ohnehin fuer Georgij, ohne es je zu erfahren.
+
+**Die zwanzig Prozent:** erst unerreichbar, dann verwertet, dann kauft Woo
+zurueck **und besteht darauf zu zahlen** - das Zahlen trennt das Bezahlte vom
+Vererbten.
+
+**Der Wangenkuss** geht in die Sang-hoon-Szene, siehe `doc/10-naehe.md`.
+**Band 3 endet auf der Beisetzung mit einem Kuss. Band 4 endet mit einem
+Verlobungsring**, und dort wird auch erklaert, warum sie den alten traegt.
+
+**Der Hanseong-Inhaber** und **Georgijs Faust**: siehe `doc/11-figuren.md`.
+
+**Die Geschwister werden gekauft.** Bei einem Chaebol bekommen sie immer
+etwas, weniger als der Haupterbe. **Der Anker steht woertlich in Band 1** -
+`b1 ch07:174` *So he spent it fast, and he spent it on the young*, `b1
+ch07:180` *Nobody guards a mouth in front of a person nobody counts*, und
+`b1 ch09:48`, sie steht seither gerader. **Das Verfahren ist vorgefuehrt** in
+`b1 ch25:304`: vierzig Prozent von sieben Aktionaeren, die seit Maerz nicht
+mehr zusammen in einem Raum sassen. **Nicht alle verkaufen** - wer ablehnt,
+tut es wegen des Namens.
+
+### Zurueckgenommen am selben Tag
+
+* **"Das Auktionshaus hat der Fonds geschlossen."** Falsch. `b2 ch89:60`:
+  Georgij hat dort drei Leute wuetend gemacht, und die Kaeuferin hat
+  telefoniert. **Der Fonds war der zweite Stein.**
+* **"Kein Ring in hundertdreiundzwanzig Kapiteln."** Falsch, es sind drei
+  Stellen. **Die Suche hatte die Wortgrenze im Muster verloren und still Null
+  gemeldet.** Ein stiller Lauf ist kein Befund.
+* **"Der Besitz muss vor den dritten Gegner, damit er benutzt werden kann."**
+  Falsch herum gedacht: das entwirft Woos Tod danach, was er ermoeglicht.
+* **"Wer den Hund beschimpft, redet ueber das Haus."** Zu schlau. **Der Mann
+  redet ueber Georgij, und es steckt nichts dahinter.**
+

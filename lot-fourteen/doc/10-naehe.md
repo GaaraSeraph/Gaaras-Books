@@ -333,6 +333,43 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
 
 ---
 
+## Der Wangenkuss, festgelegt am 28.08.
+
+**Er steht in Band 3, in der Szene, in der Sang-hoon sie vor die Wahl
+stellt** - nicht am Bandende. Die Reihenfolge:
+
+1. **ihre Aufzaehlung** - was sie tut und was sie nicht tut;
+2. **"Yes, Mistress."**
+3. **der Kuss auf die Wange**, von ihr, ohne Ankuendigung;
+4. **"You cannot say that any more."**
+
+**Der Kuss ist das, was den Titel aufhebt.** Sie diskutiert ihn nicht weg und
+sie schenkt ihm nichts. **Sie tut etwas, nach dem das Wort nicht mehr
+stimmt**, und sagt danach nur, was ohnehin schon gilt.
+
+**Die Regel der Reihe bleibt eingehalten**, obwohl sie spricht: sie sagt
+nichts **ueber den Kuss**, sondern ueber die **Anrede.** Der Kuss selbst
+bleibt unkommentiert.
+
+**Zwei Sachen, die dabei leicht kaputtgehen:**
+
+**1. Annie zieht nicht mehr zusammen.** Zehn Kontraktionen in
+zweihundertachtundvierzig Repliken mit Begleitsatz, **alle zehn in `b1 ch02`
+bis `b1 ch15`**, danach ueber hundert Kapitel keine. Also nicht *"you can't
+say that anymore"*, sondern **"You cannot say that any more."** Punkt, kein
+Fragezeichen: sie verfuegt.
+
+**2. Das Halsband bleibt.** Die Anrede faellt, das Ding bleibt liegen, und er
+behaelt es, weil er es behalten will. **Sie nimmt das Wort zurueck, er nicht
+das Zeichen.**
+
+**Und Band 3 endet eine Stufe weiter als Band 2.** Band 2 schliesst damit,
+dass sie ihm die Hand hinhaelt (`b2 ch89:290`). **Band 3 endet auf Chairman
+Woos Beisetzung mit einem Kuss** - von ihr, unkommentiert, an dem einzigen
+Ort im Buch, an dem so etwas nicht privat ist und trotzdem niemanden angeht.
+
+---
+
 # Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*

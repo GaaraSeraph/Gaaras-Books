@@ -2181,6 +2181,27 @@ hineinliest, verschiebt den Grund fuer die Faust auf etwas Ausgedachtes.
 ihm und ihr** - und das ist eine ganz andere Achse, weil das eine seit der
 ersten Seite laeuft und das andere noch nie vorgekommen ist.
 
+### Und dahinter steckt ueberhaupt nichts, und das ist der Punkt
+
+**Am 28.08. praezisiert.** Kein Kalkuel, kein Abtasten, keine zweite Ebene.
+**Die Beleidigung kommt aus Inkompetenz.** Er ist ein Chaebol und haelt sich
+fuer erhaben. **Wer sollte ihm das verbieten?** Niemand in seinem Leben hat
+ihn je in irgendetwas korrigiert, seine Manieren eingeschlossen.
+
+**Daraus faellt die Schreibregel, und sie ist die wichtigste an der Figur:**
+
+> **Er darf es nie geniessen.** Kein Triumph, kein Nachsetzen, kein Blick, ob
+> es getroffen hat. **Er sagt *mutt*, wie er *Stuhl* sagen wuerde.**
+
+**Wer einen Menschen absichtlich beleidigt, hat ueber ihn nachgedacht. Dieser
+hat das nicht.** Die Beilaeufigkeit ist die ganze Beleidigung, und sie ist
+schlimmer als Boshaftigkeit, weil sie keinen Aufwand macht.
+
+**Und sie ist der Grund, warum er in sein eigenes Ende laeuft.** Er merkt
+nicht, dass er etwas getan hat, also hoert er nicht auf, **also kommt er
+irgendwann bei Annie an, ohne je gezielt zu haben.** Der Mann richtet sich
+zugrunde, ohne einen einzigen Zug zu machen.
+
 **Der falsche von den dreien ist *upstart*, und der ist der wichtigste.** Ein
 Emporkoemmling ist einer, der steigen will. **Georgij will nichts und besitzt
 nichts.** Das Wort geht daneben, und es geht so daneben, dass es etwas ueber
