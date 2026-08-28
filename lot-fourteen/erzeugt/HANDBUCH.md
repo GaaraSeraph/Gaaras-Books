@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 251.856 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 252.690 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -16611,6 +16611,109 @@ Er hat es zweimal im Kleinen getan: **die elf aus dem Auktionshaus**, die in
 einem anderen Haus untergebracht wurden, und **Mrs Jeon**, dreiundzwanzig Jahre
 im Abwicklungsbuero, die eine Haelfte bekommt und die Entscheidung behaelt.
 **Band 4 ist dasselbe mal viertausend.**
+
+---
+
+## Sechs Einheiten sind zu wenig fuer einen Chaebol, und das Buch weiss, wie man das loest
+
+**Vom Autor gefragt am 28.08.** Eine echte Gruppe dieser Groessenordnung hat
+**dreissig bis sechzig** Beteiligungen, keine sechs. Sechs ist ein
+Mittelstandsverbund.
+
+**Das Buch hat das Verfahren dafuer schon dreimal benutzt: die Gesamtzahl
+sagen und nur das benennen, was arbeitet.**
+
+* `b1 ch07:338` - *A hundred and three tables of eight and a head table of
+  twelve. **Eight hundred and thirty-six covers**.* Zehn Namen.
+* `b2 ch87:326` - ***Six hundred and forty people** have a tidied catalogue in
+  a drawer.* Eine Handvoll benannt.
+* `b1 ch15:332` - ***Four thousand two hundred** employees.* Kein einziger
+  Name.
+
+**Also: die Gruppe hat eine Zahl - einundvierzig Beteiligungen, oder was
+passt - und sechs davon bekommen einen Namen.** Der Rest ist eine Zahl in
+einem Satz, und das ist genau richtig, weil eine Beteiligung, die nichts tut,
+im Buch nichts zu suchen hat.
+
+**Und die Zahl leistet zusaetzlich etwas.** Ein Chaebol wird ueber
+Ueberkreuzbeteiligungen gehalten: der Inhaber kontrolliert einundvierzig
+Firmen mit einem kleinen direkten Anteil, weil jede die naechste haelt. **Das
+erklaert, warum der Kauf der profitablen Einheiten ihm die Kontrolle nicht
+abnimmt** - und es sagt, wo die schwarzen Kassen und die Kette in Singapur
+sitzen: **in den Zwischengesellschaften, die niemand liest.**
+
+## Was wir uebersehen haben: sechs Faeden, die das Buch offen gelassen hat
+
+**Am 28.08. nachgezaehlt.**
+
+**1. Nam Byung-hees Firma.** `b2 ch87:254`: *"I want my firm. I am not going
+to get it, and there is nobody in this house who can give it to me, **and I
+would not take it from her if she offered**."* **Band 4 ist der einzige Ort,
+an dem das beantwortet werden kann**, weil dort nichts aus diesem Haus
+verschenkt wird, sondern Betriebe wieder aufgebaut werden. Ihre Bedingung ist
+woertlich, dass sie es nicht **von ihr** nimmt.
+
+**2. Die achtundfuenfzig Hochzeitsgaeste.** Moon Hae-sooks einziger Wunsch
+(`b2 ch67:238`) ist als **OFFEN** im Schuldbuch verzeichnet, faellig bei jedem
+Einzelnen. **Und die Zeile, mit der das Schuldbuch das belegt, steht im Kanon
+nicht** - *the other fifty-eight are in the back of the book* kommt nirgends
+vor. Entweder fehlt sie, oder der Beleg gehoert korrigiert.
+
+**3. Chairman Woos versiegelter Umschlag.** Vier Antworten in seiner
+Handschrift, beim Anwalt, *and not one hour before* - **faellig bei seinem
+Tod.** Er ist achtundsiebzig. **Das Buch hat seinen Tod terminiert und nicht
+geschrieben.**
+
+**4. Das Halsband.** Vierundzwanzig Nennungen, und am letzten Tag des zweiten
+Bandes liegt es noch an: *It is warm, because it has been on him since the
+second house.* Am 1. Maerz wird ihm angeboten, es abzunehmen, und er lehnt ab.
+**Es ist die einzige Sache im Buch, die sich in zwei Baenden nicht bewegt hat.**
+
+**5. Mr Chae.** Zweiunddreissig Nennungen, dreimal ausdruecklich nicht
+eingeweiht, und `doc/11-figuren.md` fuehrt ihn als **die einzige Figur auf
+Annies Seite, die trotzdem eine Gefahr ist** - nicht aus Illoyalitaet, sondern
+aus Kompetenz. **Nie ausgeloest.** In einem Band ueber Marktmanipulation ist
+der Jurist, der alle Strukturen gebaut hat und nie erfahren durfte, wozu, der
+gefaehrlichste Zeuge im Land.
+
+**6. Annies Bruder.** Eine einzige Nennung, `b1 ch30:186`: *"There is no one.
+My brother will chair a meeting."* Ein Erbe, der nichts tut, in einem Band
+ueber Beteiligungen.
+
+## Wie Sang-hoon den Leerverkauf benutzt: nicht als Gewinn, sondern als Datum
+
+**Vom Autor gefragt am 28.08.** Der Gewinn ist der uninteressante Teil.
+
+**Ein Leerverkauf ist ein Auftrag mit einer Uhrzeit.** Er liegt beim Makler,
+er liegt bei der Boerse, und er ist nicht zu loeschen. **Damit ist er kein
+Geschaeft, sondern ein Zeitstempel: hier steht, wann dieser Mann es wusste.**
+
+**Und darauf kommt es an.** Wenn seine Position **vor** dem Tag liegt, an dem
+irgendetwas oeffentlich war - vor der Anzeige, vor der Nachricht, vor dem
+ersten Kursrutsch -, dann gibt es genau zwei Erklaerungen: er ist der
+gluecklichste Mann Koreas, oder **jemand hat es ihm gesagt.** Und es gibt nur
+ein Haus, aus dem das kommen kann.
+
+**Die Erpressung lautet also nicht "ich habe verdient", sondern:**
+
+> *Ich habe ein datiertes Papier, das beweist, dass ich es vorher wusste, und
+> es gibt genau einen Weg, wie ich es wissen konnte.*
+
+**Er braucht dafuer nicht viel verdient zu haben.** Eine kleine Position
+genuegt. **Je kleiner sie ist, desto weniger sieht sie nach Gier aus und desto
+mehr nach Beweisfuehrung** - und ein Mann, der wenig gesetzt hat, wirkt vor
+einem Staatsanwalt nicht wie ein Mittaeter, sondern wie ein Zeuge.
+
+**Und genau da liegt sein Preis.** Er kann seinen eigenen kleinen Verstoss
+zugeben, um ihren grossen zu liefern. Staatsanwaelte handeln damit taeglich.
+Er verbrennt sich ein wenig, um sie ganz zu verbrennen - **und das ist der
+Mann, der sagt, er zahle, was es kostet, nicht mehr darueber nachdenken zu
+muessen.**
+
+**Was Georgij dagegen hat, und warum die Szene ausgeht, wie sie ausgeht.**
+Derselbe Auftrag ist Sang-hoons eigener Verstoss. Beide halten dasselbe Blatt
+an verschiedenen Enden. **Deshalb gewinnt in dem Zimmer niemand, und deshalb
+geht der Mann, der nichts besitzt, als einziger unbeschaedigt hinaus.**
 
 ---
 
