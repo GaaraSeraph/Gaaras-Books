@@ -937,10 +937,30 @@ zumacht. **Viertausendzweihundert stehen seit `b1 ch15:332` im Buch**, und
 sie sind bei Shipping, das er gar nicht anfasst.
 
 **Vorschlaege fuer weitere Einheiten, falls mehr gebraucht wird:** Handel,
-Versicherung, Werkstoffe. **Chemie besser nicht** - das ist Annies eigenes
-Feld (`doc/11-figuren.md`: Spezialchemie und Werkstoffe), und ein Wettbewerber
-darin wuerde die Uebernahme zu einer Sache machen, an der sie verdient. Genau
-das darf sie nicht.
+Versicherung, Werkstoffe.
+
+**Zur Chemie, und die erste Begruendung hier war schlecht.** Sie lautete, eine
+Uebernahme im eigenen Feld sei etwas, woran Annie verdiene - das ist bei einer
+Uebernahme kein Einwand, sondern der Zweck. Der Autor hat das am 28.08.
+zurueckgewiesen und hatte recht.
+
+**Der echte Einwand kommt vom dritten Gegner her.** Der ganze Boersenzug
+haengt daran, dass Georgijs Hinweis an die Wettbewerbsbehoerde **wahr und
+uninteressiert** aussieht. Kauft seine Arbeitgeberin danach ausgerechnet die
+Einheit, die mit ihrem eigenen Geschaeft konkurriert, dann hat der
+Staatsanwalt sein Motiv auf einem Blatt: **der Anzeigende arbeitet fuer die
+Kaeuferin, und die Kaeuferin ist die Wettbewerberin.** Das ist die sauberste
+Akte, die man ihm schenken kann.
+
+**Aber es gibt auch ein Argument dafuer, und es ist gut.** Annies Veto liegt
+auf den Spuren, auf denen drei oder vier Wettbewerber ihres eigenen Fachs
+haengen (`b1 ch15:310`). Eine Hanseong-Chemie waere **bereits unter dem Veto**
+und verbaende den Angriff mit dem Faden, der seit Band 1 offen ist.
+
+**Der Vorschlag, der beides nimmt: Hanseong Chemicals existiert und wird nicht
+gekauft.** Sie ist eine der Verlusteinheiten, die bei ihm bleiben - und sie
+ist der Grund, warum das Veto ueberhaupt greift. Damit ist Annie an keiner
+Stelle Kaeuferin im eigenen Feld, und die Verbindung zum Veto steht trotzdem.
 
 ### Die Tochter, an der Geld fehlte, und wer sich darum gekuemmert hat
 
@@ -1048,4 +1068,88 @@ Gegenparteien *the corporate services firm in Jung-gu*, und `b1 ch34:90` sagt:
 **Wer die Maschinerie des verdeckten Eigentums oeffentlich macht, oeffnet sie
 fuer alle, die sie benutzen.** Das trifft den Gegner zuerst und sie danach -
 und auf einem Blatt in dieser Sache steht sein eigener Name.
+
+---
+
+## Der dritte Gegner ist, wer am Ende der Kette in Singapur sitzt
+
+**Vom Autor am 28.08. vorgeschlagen, und es ist besser als der Vetobetroffene.**
+
+**Warum:**
+
+* **Es ist der einzige Faden, den zwei Baende nie geoeffnet haben**, und der
+  Text sagt selbst, dass er nicht geoeffnet ist (`b2 ch39:254`: *I have not
+  found the Singapore end yet*).
+* **Die Kette bedient mehr als einen Mann.** Sie haelt zwanzig Prozent von
+  Woos Terminal seit dem Baujahr (`b1 ch19:162`), und Chois
+  Private-Equity-Firma in Hongkong laeuft durch sie (`b2 ch25:152`). Wer die
+  schwarzen Kassen des Hanseong-Inhabers aufmacht, kommt an derselben Stelle
+  heraus.
+* **Er kommt im ganzen Buch nicht vor.** Kein Gesicht, kein Name, keine
+  Nennung - das ist genau das ganz neue Gesicht, das gesucht wurde, und es
+  wird seit Band 1 vorbereitet, ohne dass es jemand gemerkt hat.
+* **Und er ist der einzige, der Georgij und Choi zugleich erklaert.** Choi war
+  ein Mann, der fuer andere handelte. Die Frage, fuer wen, ist nie gestellt
+  worden.
+
+**Der Vetobetroffene bleibt trotzdem brauchbar** - als Vierter, oder als der,
+den der Dritte vorschickt. Kyeongil, die Yang-Operation, die zwei ungenannten.
+
+## Die tote Bank ist nicht Hanseong Credit
+
+**Vom Autor gefragt am 28.08.** Nein, und der Unterschied traegt die ganze
+Konstruktion:
+
+* **Hanseong Credit** meldet Zahlen, die es nicht hat. Es ist die **Einheit,
+  die genommen wird**.
+* **Die untergegangene Bank** ist die Gegenseite dieser Zahlen - der Ort, an
+  dem die Einlagen, Forderungen oder Sicherheiten liegen sollten und nie
+  gelegen haben. Wirecard und die Treuhandkonten, Greensill und die
+  Forderungen.
+
+**Wenn Credit selbst die Leiche waere, gaebe es nichts zu uebernehmen und
+keinen Beweis** - eine untergegangene Bank kann man nicht kaufen und aus ihren
+Buechern ergibt sich nur ihre eigene Schuld.
+
+**Der Beweis funktioniert nur ueber Dritte:** Credit sagt, das Geld liege dort.
+Der Insolvenzverwalter der Bank sagt, es habe nie dort gelegen. **Zwei
+Papiere, die einander ausschliessen, und beide sind aktenkundig.**
+
+Die Bank braucht also einen eigenen Namen. Frei: Yun, Song, Tak, Seol, Wi, Chu.
+
+## Shorten: der gefaehrlichste Einfall im ganzen Plan, und deshalb der beste
+
+**Vom Autor am 28.08.:** vor den wahren Anschuldigungen leerverkaufen.
+
+**Was es kostet, und es ist genau das, was der dritte Gegner braucht.** Ohne
+Leerverkauf ist die Kette dies: eine Behoerde erfaehrt etwas Wahres, der Kurs
+faellt, eine Kaeuferin kauft. Unangenehm, aber verteidigbar - **niemand hat
+etwas genommen**. Mit Leerverkauf ist es: **jemand hat am Fall verdient, den
+er selbst ausgeloest hat.** Das ist kein Verdacht mehr, das ist ein Konto mit
+Datum.
+
+**Und es bricht den einen Satz, auf dem Band 2 steht.** `b2 ch20:194`:
+
+> *"Nobody in the whole of this took a single won. Not you. Not me. Not her.
+> Everybody involved did what they thought was correct and a woman of
+> fifty-eight is going to be selling two trucks on Thursday."*
+
+**Das ist die moralische Wirbelsaeule des ganzen Buches.** Wer sie bricht,
+bricht sie fuer Geld, und Georgij hat in zwei Baenden nie Geld genommen und
+besitzt keins.
+
+**Die Fassung, die beides behaelt, und sie ist besser als beide:
+Sang-hoon shortet.**
+
+Er hat vierzig Prozent von Shipping, er weiss, was kommt, und er hat nach
+`b2 ch04:110` etwas zurueckgehalten und behalten. **Ein Leerverkauf von ihm
+ist Geld und Beweis in einem** - er verdient daran, und seine Position
+beweist, dass er es vorher wusste.
+
+**Damit hat jeder von beiden etwas gegen den anderen**, und die Szene in der
+Mitte hat ihren Grund: er verlangt Georgij dafuer, nicht auszusagen - und
+Georgij kann ihm entgegenhalten, womit der Mann selbst gehandelt hat.
+
+**Und Annie hat nichts genommen.** Der Satz aus `ch20:194` bleibt stehen, und
+er wird in Band 3 der einzige sein, den sie noch hat.
 
