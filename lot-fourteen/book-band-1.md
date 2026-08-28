@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 100.726 Woerter.
+Book One, 34 Kapitel, 100.734 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -24,18 +24,18 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 11 | v2.14 | 2.643 |
 | 12 | v1.14 | 2.456 |
 | 13 | v2.11 | 2.822 |
-| 14 | v7.10 | 2.601 |
-| 15 | v2.17 | 4.152 |
-| 16 | v1.22 | 3.231 |
+| 14 | v7.11 | 2.602 |
+| 15 | v2.18 | 4.154 |
+| 16 | v1.23 | 3.232 |
 | 17 | v12.20 | 2.680 |
-| 18 | v2.13 | 2.927 |
+| 18 | v2.14 | 2.928 |
 | 19 | v1.17 | 3.191 |
-| 20 | v1.12 | 1.909 |
+| 20 | v1.13 | 1.910 |
 | 21 | v1.13 | 4.099 |
-| 22 | v1.5 | 2.588 |
+| 22 | v1.6 | 2.589 |
 | 23 | v3.9 | 2.653 |
 | 24 | v1.10 | 2.667 |
-| 25 | v1.8 | 2.554 |
+| 25 | v1.9 | 2.555 |
 | 26 | v1.10 | 2.407 |
 | 27 | v3.12 | 3.127 |
 | 28 | v1.11 | 2.706 |
@@ -3706,7 +3706,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Book One · Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.10 · EN
+*Lot Fourteen* · Version 7.11 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -3780,7 +3780,7 @@ He had thought about finishing it first and had decided against it inside about 
 
 He put eight pages on her desk. No cover, no title, corrections in the margins in his own hand.
 
-"Hanseong," he said. "Four shipping routes, real berths, real slots. Six months of capital going out of the door. A board that split in March and has stopped pretending it hasn't. Two separate rumours about money missing at a subsidiary, from two mouths that have no reason to know each other."
+"Hanseong Shipping," he said. "Four shipping routes, real berths, real slots. Six months of capital going out of the door. A board that split in March and has stopped pretending it hasn't. Two separate rumours about money missing at a subsidiary, from two mouths that have no reason to know each other."
 
 "And it's all true."
 
@@ -3931,7 +3931,7 @@ Annie looked at him for a moment.
 ---
 
 # Book One · Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.17 · EN
+*Lot Fourteen* · Version 2.18 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4199,7 +4199,7 @@ He gave them the whole of it in eight minutes.
 
 "He corrects you by doing it better."
 
-"He corrects you by doing it. He will not tell me I am wrong about Hanseong. He will show me." He put one hand flat on the document. "And then his money is in four shipping routes and a board that hates itself, at the precise moment when he needs to be liquid enough to take a logistics company away from a family under customs investigation."
+"He corrects you by doing it. He will not tell me I am wrong about Hanseong Shipping. He will show me." He put one hand flat on the document. "And then his money is in four shipping routes and a board that hates itself, at the precise moment when he needs to be liquid enough to take a logistics company away from a family under customs investigation."
 
 Hana was very still.
 
@@ -4249,7 +4249,7 @@ Nobody supplied a word for it, and nobody looked as though they were looking for
 
 "Then put it on the table."
 
-"Hanseong has four thousand two hundred employees," said Georgij.
+"Hanseong Shipping has four thousand two hundred employees," said Georgij.
 
 Nobody spoke for a moment.
 
@@ -4360,7 +4360,7 @@ She went out to her car.
 ---
 
 # Book One · Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.22 · EN
+*Lot Fourteen* · Version 1.23 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4560,7 +4560,7 @@ He put the document on the table at ten past ten.
 
 "What is it?"
 
-"A group called Hanseong." Georgij turned it round so that it faced the right way. "Nineteen pages. Six months of capital going out. A board that split in March. Two rumours about money missing at a subsidiary from two mouths that have no reason to know each other. And four shipping routes with real berths and real slots."
+"A company called Hanseong Shipping." Georgij turned it round so that it faced the right way. "Nineteen pages. Six months of capital going out. A board that split in March. Two rumours about money missing at a subsidiary from two mouths that have no reason to know each other. And four shipping routes with real berths and real slots."
 
 "And you want."
 
@@ -4952,7 +4952,7 @@ He did not turn round and look at the chair.
 ---
 
 # Book One · Chapter 18: On account
-*Lot Fourteen* · Version 2.13 · EN
+*Lot Fourteen* · Version 2.14 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5062,7 +5062,7 @@ She did not say anything to that for a moment.
 
 "Say it anyway."
 
-"I want you to try to buy Hanseong."
+"I want you to try to buy Hanseong Shipping."
 
 Annie put down the pen she had not been using.
 
@@ -5536,7 +5536,7 @@ At the gate he stopped.
 ---
 
 # Book One · Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5722,7 +5722,7 @@ Annie nodded once, the way you do when a figure comes out where you expected it 
 
 Then she went back to the second page.
 
-"The Hanseong offer goes out on Monday," she said. "Mr Chae has the structure and he does not have the reason, and he is not going to get it. Build the ceiling with him this afternoon and do not let him admire it."
+"The Hanseong Shipping offer goes out on Monday," she said. "Mr Chae has the structure and he does not have the reason, and he is not going to get it. Build the ceiling with him this afternoon and do not let him admire it."
 
 "Yes, Mistress."
 
@@ -6154,7 +6154,7 @@ He was still holding his gloves.
 ---
 
 # Book One · Chapter 22: Not shown
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6174,7 +6174,7 @@ Georgij stood at the corner of the desk and worked at that for a moment, and cou
 
 It came out badly at about four o'clock, on the stairs, when it was too late to say anything about it.
 
-He had thought it through as a negotiation and had made a list, and every item on the list had been about Hanseong.
+He had thought it through as a negotiation and had made a list, and every item on the list had been about Hanseong Shipping.
 
 Park Sang-hoon had asked him a question at a table on the eighteenth of November and had not been given an answer.
 
@@ -7023,7 +7023,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Book One · Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -7291,7 +7291,7 @@ Georgij read it twice.
 
 Then he went and stood at the window for a while, and did not send for anybody, and did not go down.
 
-He did not say the sentence he had built the week he found Hanseong and had been carrying since.
+He did not say the sentence he had built the week he found Hanseong Shipping and had been carrying since.
 
 It would keep until she asked.
 

@@ -916,3 +916,60 @@ verlangt Georgij nicht als Preis fuer vierzig Prozent, die sie braucht. Er
 verlangt ihn dafuer, **nicht auszusagen.** Das ist derselbe Satz und ein
 anderes Buch.
 
+### Die Einheiten der Gruppe, und was mit jeder geschieht
+
+**Vom Autor am 28.08.** Die Trennung ist das Verfahren: **was laeuft, wird
+genommen und weitergefuehrt. Was blutet, bleibt bei ihm.**
+
+| Einheit | Zustand | Was geschieht | Wie es gefunden wird |
+|---|---|---|---|
+| **Hanseong Shipping** | laeuft, **seit Sang-hoon** | **nichts.** Gesperrt | steht seit Band 1 |
+| **Hanseong Motors** | die profitabelste der Gruppe, **Quasimonopol in einem Segment** | der Hebel: Wettbewerbsbehoerde, dann die verschwiegenen Defekte | **Werkstaetten**, eine nach der anderen |
+| **Hanseong Electronics** | laeuft | **genommen und saniert** | Georgij selbst: Batterien, geplantes Versagen, Spaehsoftware |
+| **Hanseong Credit** | laeuft **nur auf dem Papier** | **genommen.** Die Zahlen sind der Beweis | Register und Abschluesse |
+| **Hanseong Heavy** | verliert seit Jahren | **bleibt bei ihm** | steht in jedem Abschluss |
+| **Hanseong Construction** | verliert | **bleibt bei ihm** | dito |
+
+**Die Regel dahinter, und sie ist der ganze Unterschied zu Choi:** die Firmen
+bleiben stehen, die Leute bleiben drin, und was genommen wird, wird
+weitergefuehrt. Er nimmt einem Mann alles, ohne dass ein einziger Betrieb
+zumacht. **Viertausendzweihundert stehen seit `b1 ch15:332` im Buch**, und
+sie sind bei Shipping, das er gar nicht anfasst.
+
+**Vorschlaege fuer weitere Einheiten, falls mehr gebraucht wird:** Handel,
+Versicherung, Werkstoffe. **Chemie besser nicht** - das ist Annies eigenes
+Feld (`doc/11-figuren.md`: Spezialchemie und Werkstoffe), und ein Wettbewerber
+darin wuerde die Uebernahme zu einer Sache machen, an der sie verdient. Genau
+das darf sie nicht.
+
+### Die Tochter, an der Geld fehlte, und wer sich darum gekuemmert hat
+
+**Das Geruecht steht seit Band 1 zweimal im Buch:** *Two separate rumours
+about money missing at a subsidiary, from two mouths that have no reason to
+know each other* (`b1 ch14:82`, `b1 ch16:222`).
+
+**Es wurde nie aufgeloest.** Vorschlag: **Hanseong Bunkering**, die
+Bebunkerung der eigenen Schiffe. Das ist die unglamouroeseste Stelle einer
+Reederei und die, an der Treibstoff und Geld sich am leichtesten trennen.
+
+**Und Sang-hoon hat es erledigt.** Nachdem er die vierzig Prozent hatte, hat
+er die Tochter aufgemacht und den Betrieb saniert. **Das ist der Grund,
+warum Shipping heute laeuft.**
+
+### Shipping war nicht profitabel, bevor Sang-hoon uebernommen hat
+
+**Festgehalten am 28.08., und das Buch sagt es schon zweimal:**
+
+* `b1 ch14:82` - *Six months of capital going out of the door.*
+* `b2 ch04:176` - *Routes, cheap, bleeding, and half a board that wants out.*
+
+**Georgij hat ihn in ein blutendes Unternehmen hineingerechnet** (`b1 ch14:96`:
+*it will not be the purchase that costs him. It will be what comes after*),
+**und Sang-hoon hat es umgedreht.**
+
+**Das ist der Grund, warum er kaempfen wird, und es ist ein guter.** Das eine
+gesunde Stueck der Gruppe ist gesund, weil er es gesund gemacht hat - nachdem
+Georgij ihn dort hineingestellt hatte. Wer ihm das nimmt, nimmt ihm nicht ein
+Vermoegen, sondern die einzige Sache in diesem Buch, die er selbst gebaut
+hat.
+

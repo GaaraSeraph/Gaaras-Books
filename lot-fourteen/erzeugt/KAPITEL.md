@@ -23,18 +23,18 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B1 11** *Thank you for telling me* (v2.14) · Tag 22, Sa 25. Oktober · 2.643 W
 - **B1 12** *You are better when you don't know* (v1.14) · Tag 23, So 26. Oktober · Tag 26, Mi 29. Oktober · 2.456 W
 - **B1 13** *The man with the open hand* (v2.11) · Tag 27 bis 28, Do 30. bis Fr 31. Oktober · 2.822 W
-- **B1 14** *In the same size type* (v7.10) · Tag 31, Mo 3. November · Tag 33, Mi 5. November · Tag 34, Do 6. November · 2.601 W
-- **B1 15** *Four thousand two hundred* (v2.17) · Tag 41, Do 13. November · 4.152 W
-- **B1 16** *Where the walls are* (v1.22) · Tag 46, Di 18. November · 3.231 W
+- **B1 14** *In the same size type* (v7.11) · Tag 31, Mo 3. November · Tag 33, Mi 5. November · Tag 34, Do 6. November · 2.602 W
+- **B1 15** *Four thousand two hundred* (v2.18) · Tag 41, Do 13. November · 4.154 W
+- **B1 16** *Where the walls are* (v1.23) · Tag 46, Di 18. November · 3.232 W
 - **B1 17** *I have never put it down* (v12.20) · Tag 46, Di 18. November · 2.680 W
-- **B1 18** *On account* (v2.13) · Tag 48, Do 20. November · 2.927 W
+- **B1 18** *On account* (v2.14) · Tag 48, Do 20. November · 2.928 W
 - **B1 19** *What happens on the Tuesday* (v1.17) · Tag 48, Do 20. November · 3.191 W
-- **B1 20** *I came back with a favour* (v1.12) · Tag 49, Fr 21. November · 1.909 W
+- **B1 20** *I came back with a favour* (v1.13) · Tag 49, Fr 21. November · 1.910 W
 - **B1 21** *The ones who come at nine* (v1.13) · Tag 49, Fr 21. November · 4.099 W
-- **B1 22** *Not shown* (v1.5) · Tag 55, Do 27. November · 2.588 W
+- **B1 22** *Not shown* (v1.6) · Tag 55, Do 27. November · 2.589 W
 - **B1 23** *Nobody weighs a door handle* (v3.9) · Tag 55, Do 27. November · 2.653 W
 - **B1 24** *Have you eaten* (v1.10) · Tag 55, Do 27. November · 2.667 W
-- **B1 25** *The name on the paper* (v1.8) · Tag 59, Mo 1. Dezember · 2.554 W
+- **B1 25** *The name on the paper* (v1.9) · Tag 59, Mo 1. Dezember · 2.555 W
 - **B1 26** *The name and the control* (v1.10) · Tag 63, Fr 5. Dezember · Tag 66, Mo 8. Dezember · 2.407 W
 - **B1 27** *Not out of your account* (v3.12) · Tag 67, Di 9. Dezember · Tag 69, Do 11. Dezember · Tag 70, Fr 12. Dezember · 3.127 W
 - **B1 28** *A woman in a room can be asked* (v1.11) · Tag 70, Fr 12. Dezember · Tag 71, Sa 13. Dezember · Tag 72 bis 74, So 14. bis Di 16. Dezember · 2.706 W
@@ -47,8 +47,8 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 1** *Nothing to sign with* (v1.8) · Tag 150, Mo 2. Maerz · 2.281 W
 - **B2 2** *The order of loading* (v1.6) · Tag 152, Mi 4. Maerz · 2.085 W
 - **B2 3** *We haven't met* (v1.5) · Tag 155, Sa 7. Maerz · 2.016 W
-- **B2 4** *I have nothing to put in it* (v1.9) · Tag 159, Mi 11. Maerz · 2.734 W
-- **B2 5** *The east side* (v1.10) · Tag 159, Mi 11. Maerz · 2.833 W
+- **B2 4** *I have nothing to put in it* (v1.10) · Tag 159, Mi 11. Maerz · 2.735 W
+- **B2 5** *The east side* (v1.11) · Tag 159, Mi 11. Maerz · 2.834 W
 - **B2 6** *I have to ask* (v1.12) · Tag 164, Mo 16. Maerz · 3.415 W
 - **B2 7** *Not the first* (v1.6) · Tag 166, Mi 18. Maerz · 2.305 W
 - **B2 8** *Nobody sent me* (v1.10) · Tag 168, Fr 20. Maerz · 3.158 W

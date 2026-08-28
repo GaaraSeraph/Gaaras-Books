@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.070 Woerter.
+Book Two, 89 Kapitel, 227.072 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,8 +14,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.8 | 2.281 |
 | 02 | v1.6 | 2.085 |
 | 03 | v1.5 | 2.016 |
-| 04 | v1.9 | 2.734 |
-| 05 | v1.10 | 2.833 |
+| 04 | v1.10 | 2.735 |
+| 05 | v1.11 | 2.834 |
 | 06 | v1.12 | 3.415 |
 | 07 | v1.6 | 2.305 |
 | 08 | v1.10 | 3.158 |
@@ -659,7 +659,7 @@ He did not correct it.
 ---
 
 # Book Two · Chapter 4: I have nothing to put in it
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -799,7 +799,7 @@ The window was open two inches at the top and the corridor was cold at that end 
 
 "No."
 
-"Then take the rest in order." The two men down the corridor gave up and went away. "You would have bought Hanseong from anybody. Routes, cheap, bleeding, and half a board that wants out will sign inside a fortnight. That is your trade, and it is the only reason the thing could be used at all."
+"Then take the rest in order." The two men down the corridor gave up and went away. "You would have bought Hanseong Shipping from anybody. Routes, cheap, bleeding, and half a board that wants out will sign inside a fortnight. That is your trade, and it is the only reason the thing could be used at all."
 
 "And I would have looked at the other half of that board."
 
@@ -890,7 +890,7 @@ The trouble with a man who has never said anything untrue is that he has also ne
 ---
 
 # Book Two · Chapter 5: The east side
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -930,7 +930,7 @@ Annie let that stand for a moment, and then she asked her first real question, w
 
 "What did you pay Park Sang-hoon with?"
 
-"Hanseong. All of it. Why he signed after he had seen the wall, and how the report was put in front of him, and what it was in him that could be aimed."
+"Hanseong Shipping. All of it. Why he signed after he had seen the wall, and how the report was put in front of him, and what it was in him that could be aimed."
 
 "Every part of it."
 
