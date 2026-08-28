@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 85 Kapitel, 226.997 Woerter.
+Book Two, 85 Kapitel, 227.015 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 36 | v4.0 | 2.415 |
 | 37 | v4.0 | 2.291 |
 | 38 | v1.6 | 2.164 |
-| 39 | v1.5 | 2.643 |
+| 39 | v1.6 | 2.661 |
 | 40 | v1.5 | 1.889 |
 | 41 | v1.2 | 2.296 |
 | 42 | v1.4 | 2.033 |
@@ -9458,7 +9458,7 @@ She put two fingers on his wrist and then sent him to be decent to a stranger, a
 ---
 
 # Book Two · Chapter 39: The post still comes
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Eighty-Three · Monday 13 July
 
@@ -9496,11 +9496,11 @@ Georgij was on the pavement again inside ninety seconds.
 
 The woman who was watering the pots on the ground floor had already decided to talk to him before he had decided how to ask.
 
-"Fourth floor, is it?" She had the can in both hands and did not put it down. "Nobody in it. Hasn't been for years, and they've never once sent anybody down for the cleaning rota. Not once! Everybody else does their week."
+"Fourth floor, is it? It's always the fourth floor." She had the can in both hands and did not put it down. "Nobody in it. Hasn't been for years, and they've never once sent anybody down for the cleaning rota. Not once! Everybody else does their week."
 
 Georgij put his hands where she could see them, which costs nothing and buys about four seconds, and which she did not notice at all.
 
-"You hear that? No respect for the neighbours." She moved along to the next one without looking at which. "There was a girl in there at one point. That's the one with the bicycle in the hall that everybody went over. Mrs Kwon on the second would know it all, only she's at her son's till Thursday. Oh, she never stops about that son! Hanyang University, and we hear it every time she's here. If mine was half that diligent. I'd take Ajou."
+"Mind your shoes there, that one drips and I'm not sorry about it. You hear that? No respect for the neighbours." She moved along to the next one without looking at which. "There was a girl in there at one point. That's the one with the bicycle in the hall that everybody went over. Mrs Kwon on the second would know it all, only she's at her son's till Thursday. Oh, she never stops about that son! Hanyang University, and we hear it every time she's here. If mine was half that diligent. I'd take Ajou."
 
 Georgij stood in a doorway in Seodaemun and let a woman water four pots.
 
