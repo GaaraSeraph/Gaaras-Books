@@ -1359,9 +1359,10 @@ steht der Widerspruch am selben Abend wieder da.
 
 **Der Gegner von Band 3.** Ausfuehrlich in `doc/32-plan-band-3.md`.
 
-**Er hat nie etwas gebaut.** Sein Vater konnte es, sein Grossvater konnte es,
-und er hat bekommen, **weil er zuerst geboren wurde.** Aeltester Sohn, sonst
-nichts.
+**Er hat nie etwas gebaut, und das Haus ist alt.** Nicht zwei Generationen -
+**vier**, und die ersten drei konnten es alle. Gegruendet in den dreissiger
+Jahren, vier Vorsitzende vor ihm, **und er ist der erste, unter dem etwas
+kleiner geworden ist.** Er hat bekommen, **weil er zuerst geboren wurde.**
 
 **Unfaehig im Geschaeft. Unangreifbar in der Stellung.** Seine Unfaehigkeit
 ist der Grund, warum die Gruppe angreifbar ist. Seine Unangreifbarkeit ist

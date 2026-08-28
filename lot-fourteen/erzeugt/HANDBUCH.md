@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 262.986 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 264.067 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -339,6 +339,16 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Warum es bei genau diesen Leuten funktioniert](#warum-es-bei-genau-diesen-leuten-funktioniert)
   - [Das Verfahren hat das Buch schon einmal vorgefuehrt, und es hat funktioniert](#das-verfahren-hat-das-buch-schon-einmal-vorgefuehrt-und-es-hat-funktioniert)
   - [Und die, die nicht mitmachen, sind die bessere Szene](#und-die-die-nicht-mitmachen-sind-die-bessere-szene)
+  - [1. Band 5 waere sonst aus lauter Uebergaengen gebaut](#1-band-5-waere-sonst-aus-lauter-uebergaengen-gebaut)
+  - [2. Regel 2 bricht in Stufen, und das ist der Sinn der Sache](#2-regel-2-bricht-in-stufen-und-das-ist-der-sinn-der-sache)
+  - [3. Und der Schluss steht schon geschrieben, in Kapitel 1](#3-und-der-schluss-steht-schon-geschrieben-in-kapitel-1)
+  - [Die eine Warnung, und sie ist ernst](#die-eine-warnung-und-sie-ist-ernst)
+  - [1. Die Ehe macht ihn zum Eigentuemer, und zwar unwiderruflich](#1-die-ehe-macht-ihn-zum-eigentuemer-und-zwar-unwiderruflich)
+  - [2. Die Ehe macht ihn greifbar](#2-die-ehe-macht-ihn-greifbar)
+  - [3. Und sie zwingt das eine Dokument ans Licht, das nie behandelt wurde](#3-und-sie-zwingt-das-eine-dokument-ans-licht-das-nie-behandelt-wurde)
+  - [Wer das benutzt: Mr Chae, und er ist ueberfaellig](#wer-das-benutzt-mr-chae-und-er-ist-ueberfaellig)
+  - [Und der zweite Faden: ihr Bruder](#und-der-zweite-faden-ihr-bruder)
+  - [Was Band 5 damit ist](#was-band-5-damit-ist)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -2205,9 +2215,10 @@ steht der Widerspruch am selben Abend wieder da.
 
 **Der Gegner von Band 3.** Ausfuehrlich in `doc/32-plan-band-3.md`.
 
-**Er hat nie etwas gebaut.** Sein Vater konnte es, sein Grossvater konnte es,
-und er hat bekommen, **weil er zuerst geboren wurde.** Aeltester Sohn, sonst
-nichts.
+**Er hat nie etwas gebaut, und das Haus ist alt.** Nicht zwei Generationen -
+**vier**, und die ersten drei konnten es alle. Gegruendet in den dreissiger
+Jahren, vier Vorsitzende vor ihm, **und er ist der erste, unter dem etwas
+kleiner geworden ist.** Er hat bekommen, **weil er zuerst geboren wurde.**
 
 **Unfaehig im Geschaeft. Unangreifbar in der Stellung.** Seine Unfaehigkeit
 ist der Grund, warum die Gruppe angreifbar ist. Seine Unangreifbarkeit ist
@@ -17820,8 +17831,22 @@ Mengenangabe.**
 
 ## Der Erbe: Vater konnte es, Grossvater konnte es, er ist der aelteste Sohn
 
-**Vom Autor am 28.08. festgelegt.** Er hat nie etwas gebaut. Er hat bekommen,
-und er hat es bekommen, weil er zuerst geboren wurde.
+**Vom Autor am 28.08. festgelegt, am selben Tag praezisiert: das Haus ist
+alt.** Nicht Vater und Grossvater, sondern **vier Generationen** - gegruendet
+in den dreissiger Jahren, vier Vorsitzende vor ihm, und alle drei vor seinem
+Vater konnten es auch. **Er ist der erste, unter dem etwas kleiner geworden
+ist**, und er hat es bekommen, weil er zuerst geboren wurde.
+
+**Das macht die Tabelle unten nicht kleiner, sondern tiefer.** Der Verfall
+laesst sich nicht gegen ein Berufsleben legen, sondern **gegen ein
+Jahrhundert.**
+
+**Und ein Haus dieses Alters hat eine Erzaehlung ueber sich selbst, die aelter
+ist als die Firma.** Wer sich fuer Adel haelt, beruft sich auf etwas vor den
+dreissiger Jahren. **Das steht entweder in einem Register oder es steht
+nirgends** - und Georgij ist der Mann, der Register zieht. **Nur als
+Moeglichkeit notiert, nicht als Plan.** Es waere die genaue Umkehrung von
+*upstart*, und es waere wahr oder es unterbleibt.
 
 **Das loest die Gefahr von oben vollstaendig**, und zwar besser als meine
 Fassung. Ich hatte "unfaehig im Geschaeft, unangreifbar in der Stellung"
@@ -18038,6 +18063,133 @@ billig waren.** Und jetzt kassiert er das ein.
 
 **Das ist die Sorte Rechnung, die in Band 3 aufgemacht gehoert**, und es
 braucht dafuer keine Reue, sondern nur jemanden, der es ausspricht.
+
+---
+
+# Band 5 und Band 6: die Reihenfolge
+
+**Am 28.08. gefragt:** Kinder, und Georgij fuehrt das Imperium, weil Annie es
+als Mutter nicht kann und beide keine Kindermaedchen wollen. Er bekommt ihre
+Verbindungen, ihre Leute, ihre Kanaele. Er lernt, scheitert, fragt sie um Rat.
+**Zu frueh fuer Band 5?**
+
+**Ja. Das ist Band 6, und es ist der Schluss der ganzen Reihe.** Drei Gruende,
+und der dritte ist der eigentliche.
+
+### 1. Band 5 waere sonst aus lauter Uebergaengen gebaut
+
+Hochzeit, Schwangerschaft, Geburt, Uebergabe. **Das sind vier Zustandswechsel
+und kein einziger Gegner.** Ein Band aus Uebergaengen hat nichts, wogegen es
+laeuft.
+
+### 2. Regel 2 bricht in Stufen, und das ist der Sinn der Sache
+
+* **Band 3** - der erste Riss: er verfuegt ueber etwas, das ihm nicht gehoert.
+* **Band 4** - Personalnummer und erster Lohn.
+* **Band 5** - die Ehe, und das ist die Stufe, gegen die er sich nicht wehren
+  kann, ohne sich gegen sie zu wehren.
+* **Band 6** - er fuehrt es.
+
+**Wer ihm in Band 5 ein Imperium in die Hand gibt, ueberspringt zwei Stufen
+auf einmal**, und dann hat der langsame Bruch nichts gekostet.
+
+### 3. Und der Schluss steht schon geschrieben, in Kapitel 1
+
+`b1 ch01:212`, im Wagen, an dem Abend, an dem sie ihn gekauft hat:
+
+> **"You will be my shadow," she said, to the window rather than to him.
+> "Present when I need you. Absent when I don't."**
+
+**Band 6 ist derselbe Satz, und er bedeutet etwas voellig anderes.** Sie kann
+nicht in den Raeumen sein. Er geht statt ihrer hinein. **Er ersetzt sie
+nicht - er ist genau das, wofuer er gekauft wurde, zum ersten Mal ohne
+Anfuehrungszeichen.**
+
+**Und die Bitte um Fuehrung kommt in demselben Band nach Hause.** Echt in
+Band 1, Verfahren ab `b1 ch33`, Waffe in `b2 ch86` und in Band 3. **In Band 6
+fragt er den einzigen Menschen, von dem er die Antwort wirklich braucht, und
+meint es.** Das ist der Bogen, und er will das letzte Buch.
+
+### Die eine Warnung, und sie ist ernst
+
+**"Annie kann sich als Mutter nicht kuemmern" darf nicht so dastehen.** Die
+formidabelste Figur des Buches wird sonst von der Mutterschaft aus dem Raum
+geschoben, und das waere eine schwaechere Frau als die, die zwei Baende lang
+dagestanden hat.
+
+**Die tragfaehige Fassung ist eine Entscheidung und keine Einschraenkung.** Sie
+gibt es nicht ab, weil sie es nicht kann. **Sie gibt es ab, weil es genau
+einen Menschen gibt, dem sie es geben wuerde, und den hat sie selbst
+gemacht.** Und sie sagt dazu, was sie immer sagt, `b2 ch82:210`:
+
+> "No. It is not." She did not move. **"I have made it anyway and I am not
+> going to pretend that is different from what it is."**
+
+**Und der Preis wird benannt und nicht weggeschrieben.** Sie hoert nicht auf
+zu arbeiten. **Sie hoert auf, im Raum zu sein** - und fuer eine Frau, deren
+ganze Macht darin besteht, im Raum zu sein, ist das der eigentliche Verlust.
+
+---
+
+## Also worum geht es in Band 5, ausser der Hochzeit
+
+**Vorschlag: die Hochzeit ist nicht die Feier, sondern der Vorgang.** Eine Ehe
+ist ein Rechtsakt, und er tut drei Dinge, die keine Schenkung und kein
+Testament tun.
+
+### 1. Die Ehe macht ihn zum Eigentuemer, und zwar unwiderruflich
+
+Nicht durch Gabe, nicht durch Erbschaft: **durch Gesetz.** Und **er kann sie
+nicht ablehnen, ohne sie abzulehnen.** Das ist die einzige Konstruktion, gegen
+die dieser Mann keine Antwort hat.
+
+### 2. Die Ehe macht ihn greifbar
+
+**Ein Schatten kann nicht geladen, nicht vernommen, nicht verklagt werden. Ein
+Ehemann schon.** Alles, was zwei Baende lang an ihm abgeglitten ist, weil es
+an ihm nichts festzumachen gab, findet ab hier einen Namen auf einem Papier.
+
+### 3. Und sie zwingt das eine Dokument ans Licht, das nie behandelt wurde
+
+`b2 ch11:178`:
+
+> **He was bought at auction on the fourth of October. He is the fourteenth
+> lot of that evening. The record of it is in the same book as the page in her
+> pocket.**
+
+**Wer diese Frau heiratet, wird gefragt, woher er kommt.** Und es gibt eine
+Antwort, in einem Buch, mit einer Losnummer. **Der Antrag auf eine Ehe ist der
+Vorgang, der seine eigene Herkunft zu einer oeffentlichen Frage macht.**
+
+### Wer das benutzt: Mr Chae, und er ist ueberfaellig
+
+**Zweiunddreissig Nennungen, dreimal ausdruecklich nicht eingeweiht, nie
+ausgeloest.** `b1 ch18:274`, ihre Anweisung: *"Build the bid with Mr Chae and
+do not let him see the reason for it."*
+
+**Eine Ehe braucht Papiere, und die macht der Jurist des Hauses.** Also ist er
+der, der es erfaehrt - **und die Anweisung war ihre, aber die Hand war
+Georgijs.** Wenn Chae zusammenrechnet, was ihm nie gesagt wurde, hat er seine
+Rechnung nicht mit ihr allein.
+
+### Und der zweite Faden: ihr Bruder
+
+**Eine einzige Nennung in zwei Baenden**, `b1 ch30:186`: *"There is no one. My
+brother will chair a meeting."*
+
+**Ein Erbe, der nichts tut, in einer Familie, in die ein Mann mit einer
+Losnummer einheiratet.** Alle Gegner bisher standen draussen. **Dieser steht
+drin**, und das ist neu.
+
+### Was Band 5 damit ist
+
+**Der Band, in dem das Privateste des Buches aktenkundig wird.** Zwei Baende
+lang war ihre Verabredung eine Sache zwischen zwei Menschen in einem Haus.
+**Eine Heirat traegt sie in eine Reihe ein, die man nicht versiegeln und nicht
+zurueckziehen kann** - und das ist woertlich die Formel, mit der Georgij in
+Band 2 gewonnen hat (`b2 ch59:102`, `b2 ch87:350`).
+
+**Zum ersten Mal steht sie auf der anderen Seite dieser Formel.**
 
 ---
 
