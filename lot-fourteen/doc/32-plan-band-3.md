@@ -1822,30 +1822,60 @@ can ask you for it, and there will not be."*
 
 ---
 
-## Woo schenkt, und damit bricht Regel 2 richtig
+## Woo vererbt, und damit bricht Regel 2 richtig
 
-**Vom Autor am 28.08. vorgeschlagen:** Woo schenkt Georgij **und** Annie
-Anteile, statt nur die zwanzig Prozent zurueckzukaufen. **Ja - mit einer
-Korrektur am Verfahren, ohne die es nicht funktioniert.**
+**Vom Autor am 28.08. entschieden: kein Geschenk, sondern ein Erbe.** Das ist
+die richtige Fassung, und sie bestaetigt, was weiter oben schon stand:
+**der Bruch, gegen den er sich nicht wehren kann, ist ein Testament.**
 
-### Als Geschenk lehnt er ab, und alle im Buch wissen das
+### Ein Geschenk lehnt er ab, ein Erbe kann er nicht ablehnen
 
 Zwei Baende lang hat er nichts angenommen. Ein Umschlag, der ihm hingeschoben
 wird, geht zurueck. **Wenn Woo ihm etwas schenkt, ist die Szene nach vier
 Zeilen vorbei**, und zwar so, wie sie in Band 1 schon dreimal vorbei war.
 
-**Also schenkt Woo nicht. Woo bittet.**
+**Ein Toter verhandelt nicht nach.** Das ist der ganze Unterschied, und es ist
+die einzige Form, in der Regel 2 brechen kann, ohne dass die Figur bricht.
 
-Er ist achtundsiebzig. Seine Frau ist tot. Er hat keine Kinder, in zwei
-Baenden nicht einmal erwaehnt. Er besitzt *one thing he cares about*
-(`b1 ch18:222`), und es gibt niemanden, an den es gehen kann.
+### Und Woo hat das Verfahren dafuer schon einmal vorgefuehrt
 
-**Georgij hat noch nie abgelehnt, nuetzlich zu sein.** Das ist die einzige
-Tuer in dem Mann, die immer offensteht, und Woo ist der einzige im Buch, der
-sie benutzen darf, ohne dass es eine Erpressung ist.
+**Es steht geschrieben, im selben Zimmer, mit demselben Anwalt.**
+`b2 ch82:252`:
 
-**Er nimmt kein Geschenk an. Er nimmt eine Aufgabe an.** Und das ist die
-einzige Form, in der Regel 2 brechen kann, ohne dass die Figur bricht.
+> "So I am going to write them down. All four, in my hand, and **my solicitor
+> will hold the envelope, and it goes to you on the day I am dead and not one
+> hour before**."
+
+**Und acht Zeilen spaeter die Formel, die alles moeglich macht** -
+`b2 ch82:260`:
+
+> "I am not doing it for you." Woo did not put his hand out. "... **And you
+> are not going to thank me, because I have not given you anything. I have
+> given myself a date.**"
+
+**Ein Mann, der keine Geschenke annimmt, kann etwas annehmen, das der Geber
+sich weigert, ein Geschenk zu nennen.** Woo bestreitet die Gabe im Akt des
+Gebens. Er tut es nicht fuer sie, es ist nichts, und Dank ist nicht
+vorgesehen. **Das ist keine Bescheidenheit, das ist eine Konstruktion**, und
+sie war schon fertig, bevor wir sie gebraucht haben.
+
+**Der zweite Umschlag liegt bei demselben Anwalt und geht am selben Tag auf.**
+Vier Antworten in seiner Handschrift und eine Urkunde ueber ein Terminal,
+aus einer Schublade, an einem Vormittag.
+
+### Und er hat es an beide gerichtet, bevor wir es geplant haben
+
+`b2 ch82:248`: *"There is one more and **neither of you** has asked for it."*
+Georgij stand am Fenster (`b2 ch82:220`), Annie im Zimmer. **Woo hat die
+beiden von Anfang an als ein Paar adressiert**, und er tut es seit Oktober
+jedes Mal (`b2 ch82:246`).
+
+**Damit ist die Aufteilung kein Verfahrenstrick, sondern sein Segen** - und
+das ist die Lesart des Autors. So geteilt, dass keiner allein handeln kann,
+ist es die einzige Sache im Buch, **die davon ausgeht, dass die beiden eine
+Zukunft haben.** Es wird nie eine Hochzeit geben. Das hier ist, was es
+stattdessen gibt, und es kommt von dem einzigen Mann, der keinem von beiden
+etwas schuldet.
 
 ### Warum an beide, und nicht an ihn allein
 
@@ -1867,10 +1897,49 @@ ist, hat er beides.** Ein Haus, das man fragen kann. Ein Buch, das man
 aufmachen kann. **Zwei Baende lang war seine Sicherheit, dass es nichts zu
 nehmen gab.** Das ist ab hier vorbei.
 
-**Das ist kein Nebeneffekt, das ist der Zweck.** Und daraus folgt die
-Terminierung: **es muss vor dem dritten Gegner liegen**, damit es gegen ihn
-benutzt werden kann. Besitz, den er behaelt, ist eine Belohnung. Besitz, den
-er verlieren kann, ist Handlung.
+**Das ist kein Nebeneffekt, das ist der Zweck.**
+
+### Meine Terminierung war falsch herum
+
+**Ich hatte geschrieben, es muesse vor den dritten Gegner, damit es gegen ihn
+benutzt werden kann.** Der Autor hat am 28.08. widersprochen, und er hat
+recht. **Ich habe Woos Tod danach entworfen, was er ermoeglicht.** Das ist
+genau die Sorte Rechnung, die dieses Buch sonst nirgends aufmacht.
+
+**Drei Gruende, und jeder allein genuegt:**
+
+**1. Der Umschlag hat schon eine Fracht, und es ist nicht diese.**
+`b2 ch82:238`: *"I have been waiting to be asked since the tenth of January."*
+Die vier Antworten liegen dort, **weil Annie sich geweigert hat zu fragen.**
+Wenn er stirbt, bekommen sie, was sie ausgeschlagen hat. **Das ist eine
+moralische Fracht und keine mechanische**, und wer den Tod vorzieht, um eine
+Angreifbarkeit freizuschalten, gibt sie billig aus.
+
+**2. Band 3 laeuft darauf, dass er nichts hat.** Ein Mann greift einen Chaebol
+an, weil es nichts gibt, was zurueckgeschlagen werden koennte. **Gib ihm in
+der Mitte ein Terminal, und das letzte Drittel ist ein schwaecheres Buch.**
+
+**3. Der dritte Gegner braucht keinen Griff.** Er ist der, den Georgij nicht
+gemeint hat. **Sein Antrieb ist Schaden und nicht Hebel**, und das ist
+staerker, weil man dagegen nichts anbieten kann.
+
+### Die berichtigte Reihenfolge
+
+**Woo kuendigt es in Band 3 an, auf seine Art**, das heisst: er fragt nicht um
+Erlaubnis, er teilt mit, und er bestreitet, dass es eine Gabe ist. Genau so
+wie am Tuerrahmen im Februar.
+
+**Der Tod und die Urkunde kommen an das Ende von Band 3 oder in Band 4.**
+
+**Damit endet Band 3 in dem Zustand, der fuer diese Figur der genaueste ist:
+er hat zugesagt, etwas zu besitzen, und besitzt es noch nicht.** Der Leser
+sieht ihn den ganzen Band mit nichts kaempfen und weiss dabei, dass der Boden
+unter ihm bereits ueberschrieben ist.
+
+**Und es setzt Band 4 auf**, statt es zu verbrauchen: ein Mann geht als
+kleiner Angestellter in die IT eines Werks, **und ihm gehoert ein Stueck
+eines Terminals.** Das ist ein besserer Widerspruch als ein Mann, der nichts
+besitzt und einen Job annimmt.
 
 ### Die Reihenfolge, und sie baut aufeinander auf
 
@@ -1878,10 +1947,12 @@ er verlieren kann, ist Handlung.
    danach fragen.
 2. **Woo kauft sie zurueck und besteht darauf zu zahlen** - `b2 ch82:260`:
    *"I am not doing it for you."* **Das Zahlen ist noetig**, weil es das
-   Bezahlte vom Verschenkten trennt. Sonst liest sich die Schenkung als
-   Honorar fuer Schritt 1, und dann ist sie wertlos.
+   Bezahlte vom Vererbten trennt. Sonst liest sich das Testament als Honorar
+   fuer Schritt 1, und dann ist es wertlos.
 3. **Zum ersten Mal in fuenfzig Jahren gehoert ihm sein Terminal ganz** - und
-   in genau dem Augenblick gibt er einen Teil davon weg.
+   in genau dem Augenblick bestimmt er, an wen es geht.
+4. **Er sagt es ihnen**, ohne zu fragen und ohne sich danken zu lassen.
+5. **Und dann, spaeter, geht die Schublade in Yeouido auf.**
 
 ### Was es woanders kostet
 
