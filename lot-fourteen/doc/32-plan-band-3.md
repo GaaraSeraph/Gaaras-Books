@@ -2163,11 +2163,21 @@ beiden zum ersten Mal auf dieselbe Seite. Zwei Baende lang war der Abstand
 zwischen ihnen das Thema. **Ein Mann, der beide von oben herab behandelt,
 loescht diesen Abstand, ohne dass ihn jemand aufheben muesste.**
 
-**Und *mutt* und *dog* sind ausgerechnet die, die nicht treffen.** Der Mann
-sagt Hund zu jemandem, der ein Halsband unter dem Kragen traegt. **Eine
-Beleidigung, die zufaellig wahr ist, verliert ihre Spitze**, und Georgij hat
-seit Band 1 nichts anderes getan, als wahre Sachen ueber sich stehen zu
-lassen.
+**Und *mutt* und *dog* meinen nicht das Halsband.** Vom Autor am 28.08.
+richtiggestellt, und die Berichtigung ist wichtig: **es geht um Kriecherei,
+nicht um Eigentum.** Annies Koeter, der ihr nachlaeuft und tut, was Herrchen
+sagt.
+
+**Damit ist die Beleidigung wahr, und deshalb kann sie ihn nicht treffen.** Er
+tut, was sie sagt. Er hat das nie bestritten und nie bemaentelt.
+
+**Aber sie ist ueber ihn gesagt und ueber sie gemeint.** Ein Koeter setzt einen
+Halter voraus. **Wer den Hund beschimpft, redet ueber das Haus** - und genau
+deshalb geht diese Beleidigung dorthin, wo Georgij nicht zusieht.
+
+**Die drei Woerter tun also alle dasselbe**, und der Mann merkt es nicht:
+*mutt* und *dog* reden ueber Annie, indem sie ueber Georgij reden.
+**Und *upstart* laesst die Verkleidung weg.**
 
 **Der falsche von den dreien ist *upstart*, und der ist der wichtigste.** Ein
 Emporkoemmling ist einer, der steigen will. **Georgij will nichts und besitzt
@@ -2221,4 +2231,144 @@ only the one who arranged it."*
 
 **Der ganze Satz ist eine Standesfrage, und er beantwortet sie mit einer
 Mengenangabe.**
+
+---
+
+## Der Erbe: Vater konnte es, Grossvater konnte es, er ist der aelteste Sohn
+
+**Vom Autor am 28.08. festgelegt.** Er hat nie etwas gebaut. Er hat bekommen,
+und er hat es bekommen, weil er zuerst geboren wurde.
+
+**Das loest die Gefahr von oben vollstaendig**, und zwar besser als meine
+Fassung. Ich hatte "unfaehig im Geschaeft, unangreifbar in der Stellung"
+vorgeschlagen. **Der Autor sagt, woher beides kommt**, und damit ist es keine
+Eigenschaft mehr, sondern eine Herkunft.
+
+### Und daraus faellt die Waffe von selbst, und sie ist eine Tabelle
+
+**Wenn zwei kompetente Maenner die Gruppe gebaut haben und der dritte nur
+geerbt hat, dann ist der Bestand in zwei Haelften teilbar - und die Trennlinie
+ist ein Datum.**
+
+* **Was verdient, hat sein Vater oder sein Grossvater gebaut.**
+* **Was nicht verdient, ist unter ihm entstanden oder unter ihm eingegangen.**
+* **Und beides laesst sich mit Jahreszahlen hinschreiben.**
+
+**Das ist keine Erpressung, kein Verbrechen und kein Hebel.** Es ist eine
+Liste, in der links steht, was gebaut wurde, und rechts, was seither
+geschehen ist. **Kein Gericht der Welt kann etwas dagegen tun, und kein Mann
+kann sie bestreiten, weil sie aus seinen eigenen Abschluessen kommt.**
+
+**Und es ist genau Georgijs Verfahren**: nichts erfinden, alles nebeneinander
+legen, und den anderen selbst rechnen lassen.
+
+### Damit steht seine Verachtung fuer Annie auf dem Kopf
+
+**Er sieht auf sie herab, weil ihr Haus juenger ist.**
+
+**Juenger heisst gebaut. Aelter heisst geerbt.**
+
+**Es ist derselbe Kategorienfehler wie bei *upstart*, nur groesser** - und das
+ist die Einheit der ganzen Figur: **er haelt fuer Rang, was in Wahrheit
+Abstand zur Arbeit ist.**
+
+**Und dahinter steht die Leiter, auf der das ganze Buch sitzt:**
+
+| | geerbt | gebaut | besitzt |
+|---|---|---|---|
+| **der Hanseong-Erbe** | alles | nichts | alles |
+| **Annie** | ein juengeres Haus | darauf | alles |
+| **Georgij** | nichts | alles, was er getan hat | **nichts** |
+
+**Der Mann ganz oben und der Mann ganz unten sind exakte Gegenbilder**, und
+sie stehen sich in Band 3 gegenueber. **Das ist der Band.**
+
+### Die Bitte um Fuehrung wird dadurch toedlich, ohne dass sie sich aendert
+
+**Man fragt ihn nach etwas, das sein Vater entschieden hat.**
+
+Er antwortet, weil er zu hochmuetig ist zu schweigen, **und er antwortet, als
+haette er es entschieden** - vor Leuten, die das Datum kennen. **Und keiner
+sagt etwas, weil man so etwas nicht sagt.**
+
+### Und ein aeltester Sohn hat juengere Geschwister
+
+**Nur als Notiz, nicht als Plan.** Wer aus Reihenfolge erbt, hat jemanden
+hinter sich, der aus derselben Reihenfolge nichts bekommen hat. **Wenn diese
+Person kompetent ist, ist sie das billigste Werkzeug im Band.** Wird nicht
+gebaut, bis es gebraucht wird.
+
+## Die Faust: ja, und die Zahlen sagen, wie gross das ist
+
+**Vom Autor am 28.08. vorgeschlagen:** wenn der Mann **Annie** *upstart*
+nennt, ballt Georgij die Faust und die Schlagader am Hals schwillt an.
+
+**Nachgezaehlt ueber alle hundertdreiundzwanzig Kapitel, und das Ergebnis ist
+deutlicher, als ich erwartet habe.**
+
+| | Treffer |
+|---|---|
+| Haende flach, auf den Knien, sichtbar liegend | **155** |
+| *fist*, *clenched*, *knuckles* | **0** |
+
+**Hundertfuenfundfuenfzig zu null.** Die flache Hand ist die Hauptgebaerde
+dieser Figur, seit `b1 ch02:172`: *Georgij sat with his hands flat on his
+knees and his face perfectly still.* **Eine geballte Faust waere die erste im
+ganzen Buch.**
+
+### Und der Hals ist bereits die aufgeladene Stelle
+
+**Das ist der Fund, und er ist besser als das Halsband-Argument, das ich
+vorher gemacht habe.**
+
+`b2 ch17:214`: *She put her hand flat on **the side of his neck above the
+collar**.*
+
+**Genau dort sitzt die Schlagader.** Dieselbe Handbreit Haut: **ihre Hand,
+wenn es gut ist. Sein Puls, wenn jemand sie beleidigt.** Und das Halsband
+liegt unmittelbar darunter.
+
+Dazu `b1 ch07:64`, das seit Band 1 dasteht: *A man with something at his
+throat lifts the chin.* **Er hebt es nicht. Er haelt ihn eben.** Jetzt gibt es
+etwas an diesem Hals, das er nicht ebenhalten kann.
+
+### Warum es funktioniert, und es sind drei Gruende
+
+**1. Es ist unwillkuerlich, und er entscheidet sonst alles.** Der Mann waehlt
+jedes Wort, jede Pause und jede Hand. **Das hier passiert ihm.** Es ist das
+einzige im Buch, das er nicht ausgesucht hat.
+
+**2. Es wird nicht von einer Beleidigung ueber ihn ausgeloest.** Ueber sich
+selbst laesst er alles stehen, seit Band 1. **Ueber sie nicht.** Das ist der
+ganze Charakter in zwei Koerperteilen.
+
+**3. Sein Gesicht ist als reglos gesetzt und die Ausnahmen sind markiert.**
+`b2 ch25:342`: *his face did the thing it does, **which is nothing at all**.*
+Zweimal geht etwas darueber und **bleibt nicht** (`b1 ch33:100`,
+`b2 ch49:52`). **Die Faust waere die dritte Stufe und die erste, die er nicht
+zurueckziehen kann.**
+
+### Die drei Regeln, ohne die es eine Marotte wird
+
+**1. Nie benennen.** Kein *he was angry*, kein *he felt*. **Zweimal dieselben
+zwei koerperlichen Tatsachen, ohne einen Kommentar dahinter.** Wer es erklaert,
+toetet es.
+
+**2. Selten.** Drei- oder viermal im Band, nicht mehr. `check.py` findet
+Wiederholungen, und die flache Hand steht hundertfuenfundfuenfzigmal da,
+gerade weil sie nichts bedeutet. **Diese hier bedeutet etwas und vertraegt
+deshalb keine Menge.**
+
+**3. Das letzte Mal ist anders.** Entweder er tut es nicht mehr, oder jemand
+sagt es ihm.
+
+### Und der Preis, der eine Szene wert ist
+
+**Es ist lesbar.** Wer in dem Raum aufpasst, lernt an einem Abend, dass man
+diesen Mann nicht ueber ihn selbst erreicht, sondern ueber sie. **Sang-hoon
+braucht dafuer eine Beleidigung und eine Sekunde.**
+
+**Zwei Baende lang war Georgij der, der liest. Hier wird er zum ersten Mal
+gelesen** - und die beste Fassung ist die, in der **er nicht weiss, dass er es
+tut**, bis jemand es ihm sagt, der keinen Grund hat, freundlich dabei zu sein.
 
