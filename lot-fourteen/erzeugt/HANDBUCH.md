@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 254.619 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 255.317 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -301,6 +301,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Und damit hat das Terminal keinen Erben](#und-damit-hat-das-terminal-keinen-erben)
   - [Der Text](#der-text)
   - [Was daran haengt](#was-daran-haengt)
+  - [Und ein Anteil wird nicht frei, weil sein Halter auffliegt](#und-ein-anteil-wird-nicht-frei-weil-sein-halter-auffliegt)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -16927,14 +16928,52 @@ Er ist **Direktor** der Firma in Hongkong; die Kanzleien in Singapur sind der
 Weg dorthin. **Dass sie ihm gehoert, steht nirgends** - und das ist Absicht,
 denn genau daran haengt die Frage, fuer wen er gehandelt hat.
 
-**2. Nam Byung-hee sitzt nirgends.** Sie hat nichts. Vier Lastwagen, ein
-Neffe, die Firma seit dem Tod ihres Bruders, achtundfuenfzig Jahre, zwanzig
-Jahre Vorsitz - und seit Mai 2026 nichts davon. **Der Neffe ist der einzige,
-der untergekommen ist**, namentlich, bei der Firma mit den neun Lastwagen
-(`b2 ch13:144`). **Ihre Bedeutung ist nicht Handlung, sondern Preis**, und
-`b2 ch20:194` sagt es: *a woman of fifty-eight is going to be selling two
-trucks on Thursday.* Einbauen muss man sie nicht. **Sie steht ohnehin in jeder
-Rechnung.**
+**2. Nam Byung-hee wird untergebracht, und der Plan dafuer steht schon
+geschrieben - nur bei einem anderen Mann.** `doc/31-plan-band-2.md:1660`:
+
+> **Nam Byung-hee bei Chairman Woo unterbringen - SPAETER, und sie darf nie
+> erfahren, dass es von Georgij kommt.** Sonst ist die Rede in Ulsan keine
+> Entschuldigung, sondern eine Anzahlung. **Sie muss nichts haben, wenn er
+> spricht.**
+>
+> Die drei Gruende, warm und eiskalt zugleich: sie ist kompetent, sie ist
+> ehrlich, **und wer einmal bewaffnet wurde, kann wieder bewaffnet werden.**
+> Und die Form ist die Vollendung und nicht die Ruecknahme: eine Frau, die
+> zwanzig Jahre ihre eigene Firma hatte, endet als **Angestellte, auf Lohn,
+> unter dem Schutz eines Mannes.**
+
+**Der Autor hat am 28.08. Sang-hoon genannt.** Beide gehen, und die Wahl ist
+keine Kleinigkeit.
+
+| | **Chairman Woo** | **Park Sang-hoon** |
+|---|---|---|
+| Geschaeft | das Terminal auf Yeongjong | Hanseong Shipping, vier Routen |
+| kennt die Spur | ja, er hat sieben Jahre darauf gelegt | nein |
+| steht in Band 3 | **ausserhalb des Kampfes** | **mitten drin** |
+| haelt sie fest | ja | ja |
+| Haltbarkeit | **er ist achtundsiebzig** | Jahrzehnte |
+
+**Der Einwand gegen Sang-hoon ist ernst und er heisst Los elf.** Nam hatte die
+Seite mit den vier Verweisen zwoelf Tage in ihrem Mantel (`b2 ch03:24`) -
+*Eleven and fourteen, four lines apart*. **Sie hat die Zeile von Los elf
+gesehen.** Wer sie unter Sang-hoon stellt, stellt eine Zeugin fuer Los elf
+unter den Mann, der ohnehin einen datierten Leerverkauf und etwas
+Zurueckgehaltenes hat. **Das ist ein drittes Blatt in derselben Hand.**
+
+**Der Einwand gegen Woo ist eine Uhr.** Er ist achtundsiebzig, seine Frau ist
+tot, er hat keine Erben, und sein Tod ist im Buch terminiert.
+
+**Der Vorschlag, der beides nimmt und aus dem Einwand einen Zug macht: erst
+Woo, dann Sang-hoon.** Sie geht zu Woo, wie geplant, ohne je zu erfahren,
+woher es kommt. **Und wenn Woo stirbt, muss sie irgendwohin** - und dann ist
+die Frage, wer sie nimmt, keine Freundlichkeit mehr, sondern ein Zug im
+Spiel. Georgij muss sie ein zweites Mal unterbringen, unter Leuten, die
+inzwischen wissen, wer er ist.
+
+**Was in jedem Fall gilt:** sie erfaehrt es nie, sie hat nichts, wenn er in
+Ulsan spricht, und `b2 ch87:254` bleibt woertlich wahr - *there is nobody in
+this house who can give it to me, and I would not take it from her if she
+offered.* **Es kommt nicht aus diesem Haus.**
 
 **3. Regel 2 faengt in Band 3 an zu brechen.** Vom Autor entschieden. Damit
 ist die Reihenfolge fuer drei Baende gesetzt:
@@ -16958,6 +16997,57 @@ was er dem Menschen sagt, der es gesehen hat.**
 
 **5. Mr Chae bleibt liegen.** Vom Autor als duenn befunden. Steht weiter im
 Figurenblatt als Moeglichkeit und wird nicht geplant.
+
+---
+
+## Die zwanzig Prozent: die tote Bank hat damit nichts zu tun
+
+**Am 28.08. gefragt, und die Verwechslung ist meine Schuld, weil ich beides
+nebeneinandergestellt habe.**
+
+**Es sind zwei verschiedene Dinge:**
+
+| | ist | gehoert zu |
+|---|---|---|
+| **die untergegangene Bank** | eine Bank, deren Insolvenzverwalter Listen macht | **Hanseong Credit** - sie widerlegt dessen Zahlen |
+| **die Kette in Singapur** | Anwaltskanzleien, die Eigentum fuer Mandanten halten | **Woos zwanzig Prozent** und Chois Firma in Hongkong |
+
+**Die Bank stirbt nicht in Singapur, und sie hat mit Woo nichts zu tun.**
+
+### Und ein Anteil wird nicht frei, weil sein Halter auffliegt
+
+**Das ist der Punkt, an dem die Frage haengt.** Im Register steht weiter, wem
+die zwanzig Prozent gehoeren. Was sich aendert, ist nicht das Eigentum,
+sondern **ob jemand es geltend machen kann.**
+
+**Fassung A - unerreichbar.** Der Anteil besteht weiter. Aber wer dahinter
+steht, kann Woo nichts mehr abverlangen, ohne selbst ins Licht zu treten. Das
+ist woertlich die Logik von `b2 ch87:390`:
+
+> *"But knowing is not a handle, and that is a different thing altogether. A
+> handle is a house that can be asked and a book that can be opened."*
+
+**Dann besitzt Woo es nicht wieder. Er wird nur nie wieder gefragt.**
+
+**Fassung B - zurueckgeholt.** Dafuer braucht es ein Ereignis: der Fonds wird
+abgewickelt, seine Werte werden verwertet, und die zwanzig Prozent kommen zum
+Verkauf. **Und niemand bietet auf Papier aus dieser Kette.** Woo kauft es
+zurueck, fuer sehr wenig.
+
+**Empfehlung: beides, in dieser Reihenfolge.** Georgij macht es unerreichbar,
+danach wird es verwertet, und Woo kauft. **Er wuerde darauf bestehen zu
+zahlen** - ein Mann, der fuenfzig Jahre lang nichts geschenkt bekommen hat,
+nimmt kein Geschenk an, und `b2 ch82:260` steht dafuer: *"I am not doing it
+for you."*
+
+**Und Georgijs Satz am Grab muss dazu genau sein.** Nicht *is not owed to
+anybody now* - das waere eine Behauptung ueber Eigentum, die er nicht belegen
+kann. Sondern:
+
+> *"There is nobody who can ask you for it, and there will not be."*
+
+**Das ist wahr, es ist praezise, und es ist kleiner als das, was er ihm
+tatsaechlich gegeben hat.** So redet er.
 
 ---
 
