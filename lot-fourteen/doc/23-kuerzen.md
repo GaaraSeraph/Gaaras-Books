@@ -33,7 +33,14 @@ Nicht die Inkompetenz, nicht das Ermitteln. Der Befund ist die Gleichverteilung.
 | B2 K01-20 | 59 | 819 |
 | B2 K21-40 | 48 | 1046 |
 | B2 b2 K34-60 | 59 | 870 |
-| B2 b2 K71-80 | 47 | 1030 |
+| B2 b2 K73-82 | 47 | 1030 |
+
+**Die Nummern in dieser Tabelle sind die vom 27.08.** Drei der vier
+Bereiche laufen ueber die Grenze 35/36 und lassen sich nicht um zwei
+schieben: aus 21 bis 40 wird heute 21 bis 35 **und** 38 bis 42, und das
+ist kein Bereich mehr. Die Messwerte bleiben gueltig, die Bereichsnamen
+sind historisch. Das doppelte `B2 b2` ist ein Rest der Umnummerierung vom
+27.08.
 
 **Über achtzig Kapitel schwankt die Erzählgeschwindigkeit um keine dreißig
 Prozent.** Dazu:
@@ -163,9 +170,9 @@ auf HALTEN korrigiert worden.**
 | **48** | *The one who does not leave* | **Tragend.** Die zweite Person im Haus (*"there are two of them in that house"*), das abgelehnte Angebot Sang-hoons, und der Satz an der Tuer, den er sonst nirgends sagt - er wollte nicht, dass es fertig wird | HALTEN |
 | **49** | *What he asked her* | **Tragend.** Mrs Baes eigenes Kapitel nach `doc/12-stimmen.md` (*"I have kept a book in pencil for twenty-two years"*) und der Schluss | HALTEN |
 | **50** | *The one he kept* | **Tragend.** Baek Jun-hos einziger Auftritt mit seinem Blatt in `doc/12-stimmen.md`, die Rechnung mit den sechs Zeichen endlich auf einem Tisch, und *"against her return"* - der Satz | HALTEN |
-| **51** | *The sixth one* | **Tragend.** Park Sang-hoons letzter Auftritt im ganzen Buch (danach nur noch eine Erzaehlererwaehnung in b2 K48, in alt K59 bis b2 K54 gar nichts) | HALTEN |
+| **51** | *The sixth one* | **Tragend.** Park Sang-hoons letzter Auftritt im ganzen Buch (danach nur noch eine Erzaehlererwaehnung in b2 K50, in alt K59 bis b2 K56 gar nichts) | HALTEN |
 | **52** | *Against her return* | **Tragend.** Sims Wende in neun Minuten am Tisch, sein Register unter Druck (*"I was glad to | HALTEN |
-| **53** | *The one I did not say in May* | **Tragend.** Hier faellt das Absolutum des Buches: er gibt zum einzigen Mal ein identifizierendes Datum ueber sich selbst her (*"I am the February one."*) gegenueber einem Mann, der nichts fuer ihn tun kann | HALTEN |
+| **46** | *The one I did not say in May* | **Tragend.** Hier faellt das Absolutum des Buches: er gibt zum einzigen Mal ein identifizierendes Datum ueber sich selbst her (*"I am the February one."*) gegenueber einem Mann, der nichts fuer ihn tun kann | HALTEN |
 | **54** | *Clause eleven* | **Tragend.** Klausel elf im Wortlaut (*"No statement shall be withheld on the ground that the record is nil."*) und das Datum 6 | HALTEN |
 | **55** | *Consigned by* | **Tragend.** Naehe-Register B 6, die Hand im Haar nach zehn Wochen (*"She has not done that since the fourth of June"*) und Register D (*"You have not slept properly since the eighteenth of July."*) | HALTEN |
 | **56** | *Four streets* | **Tragend.** Einziger und erster Auftritt von Mr Ahn, der Name der vierten Zeile (Ahn Jung-hee, einunddreissig damals, fuenfunddreissig jetzt) | HALTEN |
@@ -295,7 +302,7 @@ selben Zimmer; **die erste ist die entbehrliche.**
 *Ersparnis: etwa 900 Woerter.*
 
 **9. Die Abendberichte, nachgezaehlt.** In K01-60 enthalten 26 Kapitel eine
-Berichtsszene bei Annie. Sie sind besser verteilt als in b2 K71-80 (dort sieben von
+Berichtsszene bei Annie. Sie sind besser verteilt als in b2 K73-82 (dort sieben von
 elf), und in den meisten dreht ihre Deutung den Befund. **Halbsatz-Kandidaten
 sind die vier, in denen der Bericht nichts hinzufuegt: 15, 16, 41 und 46.**
 *Ersparnis: etwa 1200 Woerter.*
@@ -305,7 +312,7 @@ ist genau der Grund, warum der naechste Abschnitt wichtiger ist als dieser.
 
 ---
 
-## Band 2, Kapitel 71 bis 80
+## Band 2, Kapitel 73 bis 80
 
 *Nachgetragen am 25.08. aus dem Gedächtnis der Schreibsitzung. Kapitel 61 bis 69
 stammen nicht aus dieser Sitzung; ihre Einschätzung ist gröber und gehört
@@ -396,10 +403,10 @@ einen Befehl und seine Ausfuehrung:
 >
 > K05 beginnt: *He took the coat off and put it over the arm of the chair by the door.*
 
-**b2 K48 + alt K59, derselbe Tag, 4384 Woerter.** Der Schnitt faellt mitten in ein
+**b2 K50 + alt K59, derselbe Tag, 4384 Woerter.** Der Schnitt faellt mitten in ein
 Klopfen, und an diesem Tag stehen zwei Annie-Szenen im selben Zimmer:
 
-> b2 K48 endet: *Then he knocked.*
+> b2 K50 endet: *Then he knocked.*
 >
 > alt K59 beginnt: *She said come in before he had finished knocking.*
 
@@ -461,7 +468,7 @@ past nine."*
 
 | Stufe | Paare | Ersparnis |
 |---|---|---|
-| 1, Naht in der Bewegung | K04+05, b2 K48+59, alt K70+71 | etwa 2500 |
+| 1, Naht in der Bewegung | K04+05, b2 K50+59, alt K70+71 | etwa 2500 |
 | 2, Doppelung streichen | K34/b2 K29 | etwa 40 |
 | 3, angekuendigter Bericht | K26+27, K29+30 | etwa 2500 |
 | 4, eine Bewegung, zwei Tage | K33+34, K16+17, b2 K35+44 | etwa 4700 |
@@ -501,7 +508,7 @@ kursiven Selbstnotiz enden:
 |---|---|---|
 | K01-b2 K29 | 4 von 35 | 11 % |
 | **b2 K30-b2 K47** | **17 von 21** | **81 %** |
-| b2 K71-b2 K52 | 7 von 22 | 32 % |
+| b2 K54-b2 K73 | 7 von 22 | 32 % |
 
 **Einundzwanzig Kapitel am Stueck, von denen siebzehn damit aufhoeren, dass der
 Fortschritt notiert wird.** Ein Schritt auf Choi zu wird nicht genommen, er wird
@@ -558,8 +565,8 @@ Sie ist **einseitig**. Nachgezaehlt ueber Band 2:
 | Das Heft wird **herausgeholt und benutzt** | **2** |
 
 *(Die Rohzaehlung ergab sieben; fuenf davon sind Falschmeldungen - b2 K29 und b2 K31
-sind Annie an ihren Papieren, b2 K50 schreibt wieder, K07 und K28 haben bei der
-Nachpruefung gar keinen Treffer. Es bleiben K34 und b2 K36.)*
+sind Annie an ihren Papieren, b2 K52 schreibt wieder, K07 und K28 haben bei der
+Nachpruefung gar keinen Treffer. Es bleiben K34 und b2 K38.)*
 
 **Dreiunddreissig Kapitel legen etwas ab, das nie wieder geholt wird.** Genau
 das ist der Grund, aus dem die Arbeit sich nutzlos anfuehlt, obwohl sie es nicht
@@ -586,7 +593,7 @@ geschrieben: das Heft ist nicht Gedaechtnis, sondern **Beweismittel**, und der
 eigene Ordnungssinn wird zum Fehler. Der Fund kommt nicht von draussen, sondern
 aus seiner eigenen Abschrift.
 
-**Was daraus fuer die Strecke b2 K30 bis b2 K47 folgt, und es ist keine Kuerzung:**
+**Was daraus fuer die Strecke b2 K30 bis b2 K49 folgt, und es ist keine Kuerzung:**
 Von den siebzehn Kapiteln, die dort mit einer Notiz enden, muss ein Teil spaeter
 **eingeloest** werden - nicht als Erinnerung, sondern so, dass eine alte Zeile
 eine neue Tatsache hergibt. **Jede Notiz, die nie wieder aufgeschlagen wird, ist
@@ -612,7 +619,7 @@ ungleich verteilt:
 |---|---|
 | K01-20 | 9 von 20 |
 | **K21-60** | **3 von 40** |
-| b2 K71-80 | 15 von 20 |
+| b2 K73-82 | 15 von 20 |
 
 Das Schuldbuch ist ein Protokoll dessen, was zuletzt geschrieben wurde. **Dazu
 kommt, dass es bezahlte Zusagen zaehlt und nicht gegebene** - ein Kapitel, das
@@ -702,7 +709,7 @@ anderen streicht, ohne sie zu lesen, streicht vermutlich noch drei davon.
 ### 3. Zwei Muster, die messbar übrig sind
 
 **Die kursive Selbstnotiz am Kapitelende: 23 von 116, also zwanzig Prozent.**
-Alle dreiundzwanzig stehen in Band 2, und sie ballen sich: zwischen b2 K32 und b2 K47
+Alle dreiundzwanzig stehen in Band 2, und sie ballen sich: zwischen b2 K32 und b2 K49
 enden elf von neunzehn Kapiteln so. Das ist der Rest des Befunds, den der
 Inhaltsprüfer *"das Nähern wird als Buchführung erzählt"* genannt hat. **Die
 Zahl ist seit der Heft-Arbeit besser als sie war und immer noch die häufigste
@@ -1072,3 +1079,113 @@ Fuer Kapitel 29 gibt es zwei Wege und sie schliessen einander aus:
 
 **Das ist keine Kuerzungsfrage mehr, das ist eine Bauentscheidung.** Sie steht
 hier und wird nicht von mir getroffen.
+
+---
+
+# Die Szenenpruefung ueber beide Baende
+
+**Erledigt.** Alle 117 Kapitel gelesen, rund 270.000 Woerter, neun Lesegruppen
+plus ein Block von Hand. Der Bericht mit Pruefumfang, Fehlerliste und
+Werkzeugbefunden steht in `doc/protokoll/2026-08-27-szenenpruefung.md`. Hier
+steht nur, was Arbeit ist: **was gestrichen oder gekuerzt werden kann.**
+
+**Der Auftrag lautete: Wortzahlen sind irrelevant, alles streichen, was an
+Szenen ueberfluessig ist oder sich wiederholt.** Damit ist die Bauentscheidung
+oben (Kapitel 26, 29, 32, 35 teilen) hinfaellig; die vier bleiben.
+
+## Das Ergebnis in einem Satz
+
+**Von rund 300 echten Szenen ist eine einzige ersatzlos streichbar.** Alles
+andere ist Beat-Doppelung *innerhalb* von Szenen, die bleiben, und zweimal
+eine Dreifachnennung innerhalb eines einzigen Kapitels.
+
+## 1. Streichen
+
+| Stelle | W | Warum |
+|---|---|---|
+| **b2 52/1+2** | ~300 | Blickt am 7. Oktober auf Woos versiegelte vier Antworten zurueck. Die stehen in b2 76, am 15. Februar. Rest der Umdatierung von alt ch78. Kapitel 76 leistet die Reflexion selbst und besser, als Gespraech im Auto statt als Alleinnotiz |
+
+Damit entfaellt der Erzaehltag Mittwoch 7. Oktober aus b2 52; das Kapitel
+beginnt dann Freitag 9. Oktober. Mitzuziehen: Datumszeile, `doc/15-kalender.md`,
+`.check-baseline`.
+
+## 2. Dieselbe Bewegung zweimal, innerhalb einer Szene, die bleibt
+
+Sortiert nach Sicherheit. Die Wortzahl steht dabei, weil sie den Aufwand sagt,
+nicht weil sie das Kriterium waere.
+
+| Stelle | W | Was doppelt ist |
+|---|---|---|
+| ~~**b1 11/2-6**~~ | 105 | **AUSGEFUEHRT 27.08.** (v2.14). Gestrichen: die zweite Beschreibung beider Kims samt *"Paper gives you names"*, der Wiederholungssatz zur stillen Frau, das Doppelzitat von Sang-hoons Reaktion, die Erzaehlerdeutung zu Hanas Glas. Geblieben ist alles, worauf Annie antwortet |
+| ~~**b1 31/4**~~ | 73 von 2016 | **AUSGEFUEHRT 27.08.** (v1.12). Gestrichen: Ye-rins Argument im zweiten Vortrag, der Dreischritt *koennen/warum/weil* aus ch30:362-368, die Begruendung des Versprechens. **Der vorliegende Ersatztext war nicht uebernehmbar** und ist nicht uebernommen worden; gekuerzt wurde aus dem, was dastand |
+| ~~**b1 05/5+6**~~ | 42 | **AUSGEFUEHRT 27.08.** (v5.16). Stuhl und Dreiklang (Archiv, Plan, zwei Kameras) standen alle in der Jang-Szene. Dabei zwei Fehler gefunden: *"in six days"* am Tag 4, wo er drei Naechte hat, und die Glasreiniger *"at the top of what he was keeping for Jang"* am Tag 6, zwei Tage nachdem Jang sie auf Blatt eins gelesen und angenommen hat |
+| ~~**b1 16:334-340**~~ | .. | **ZURUECKGEZOGEN 27.08.** Die Heft-Zeile *"Pyeongtaek. February. Eleven months of asking for nothing."* wird in **b2 73:212 woertlich zurueckgerufen**. Die Vier-Waende-Rechnung darunter steht nirgends sonst; *"load-bearing"* ist im ganzen Buch ein Treffer |
+| ~~**b1 15:274**~~ | 36 | **AUSGEFUEHRT 27.08.** (v2.16). Die Aufzaehlung faellt, *"He gave them the whole of it in eight minutes"* bleibt allein stehen |
+| ~~**b1 15:272**~~ | 13 | **AUSGEFUEHRT 27.08.** (v2.16). Zweiter Superlativ ueber dasselbe Dokument, vier Zeilen nach *"the best thing he had produced"*. Geblieben ist *"He had written all of it for one reader."* |
+| ~~**b1 20/3**~~ | 145 | **AUSGEFUEHRT 27.08.** (v1.12), aber **nicht wie empfohlen.** Jeder der acht Beats traegt eine eigene Annie-Reaktion; *"eine Zeile je Beat"* haette *"Do not do that with me"*, *"And you let him get there"* und *"Not the fourth"* mitgenommen. Gestrichen ist die Nacherzaehlung um jede Reaktion herum. Das Kapitel liegt jetzt bei 1909 Woertern, also unter der Spanne |
+| ~~**b1 18:288**~~ | .. | **ZURUECKGEZOGEN 27.08.** Drei verschiedene Dinge: ch12:68 ist der Fund, ch13:94 die Verengung auf drei Genehmigungen, ch18:288 ein Rueckruf von elf Woertern nach zwei Kapiteln. Eine laufende ungeloeste Frage dreimal zu benennen ist ein Motiv |
+| ~~**b1 07:182-188**~~ | .. | **ZURUECKGEZOGEN 27.08.** ch08:20 ist keine zweite Vorbereitung, sondern die Einloesung: *"still there at twenty past eight, and she was still holding the same glass."* Der geteilte Wortlaut ist die Wiedererkennung |
+| **b1 03:10** | ~20 | Erzaehlt ch02:330 noch einmal ueber die Kapitelnaht |
+| **b1 05:172-176** | ~50 | Mr Yeo, zweite von drei Fassungen desselben Beats |
+| ~~**b1 17:22 + 17:26**~~ | 45 | **AUSGEFUEHRT 27.08.** (v12.20). Das Seitenlesen und die Slot-Frage sind weg. Neu und geblieben: die Verfuegungsfrage steht **nicht** im Dokument, er hat sie mitgebracht |
+| ~~**b1 17:54**~~ | 16 | **AUSGEFUEHRT 27.08.** (v12.20). Trug zwei Wiederholungen auf einmal: *"one director at a time"* aus ch16:208 und *"better at that than anybody in this country"* aus ch18:172 |
+| ~~**b1 06/1**~~ | .. | **ZURUECKGEZOGEN 27.08.** Kein reiner Uebergang. Der Umschlag liegt an der Stelle, an der acht Tage lang die Fernbedienung lag, und der Schluss daraus (*"a house that has decided you are a buyer of record"*) steht nirgends sonst |
+| ~~**b1 10:66-68, 10:126, 10:276**~~ | 111 | **AUSGEFUEHRT 27.08.** (v2.7). Alle drei Vorwegnahmen weg. :276 war der schwerste Fall: der Erzaehler beweist, was Sang-hoon acht Zeilen vorher selbst gesagt hat und was Annie in ch11:170 liefert, ehe Georgij ausgeredet hat |
+| **b2 15/1** | 486 von 569 | Kreuzung zweier Listen, deren Ergebnis das Buch nie wieder anfasst. Nur die Zahl 640 lebt weiter (b2 20, 26, 73) |
+| ~~**b2 82/3** erste Haelfte~~ | .. | **ZURUECKGEZOGEN 27.08.** `ch82:100` fasst eine Stunde und zehn Minuten in einen Satz und benennt danach in drei Saetzen, was gesagt wurde, ohne eine Zeile zu wiederholen. Und `ch82:156` ist die **Umkehrung** von `ch68:132`, nicht deren Wiederholung: im Dezember sagt Georgij es Sim, im Mai muss Sim danach fragen. *"It is the bill"* steht im ganzen Buch einmal |
+| ~~**b2 48/1**~~ | 13 | **AUSGEFUEHRT 27.08.** (v1.13), aber nur die dritte Nennung. Szene 1 bleibt ganz: sie ist der falsche Schluss, um den das Kapitel gebaut ist. :172 ist die Stelle, an der die Liste kippt, und muss vollstaendig sein |
+| ~~**b2 45**~~ | 13 | **AUSGEFUEHRT 27.08.** (v1.6). Heft-Zeile und Annie-Replik geben *"ohne zu fragen"* ab. Uebrig: der Vorgang und die Abrechnung am Schluss |
+| **b2 40/2** | 493 | Sagt ihre eigene Entbehrlichkeit: *"Then you were right on Saturday and now you have got it from a second room"* |
+| ~~**b2 22/2**~~ | .. | **ZURUECKGEZOGEN 27.08.** Die Szene sagt kein einziges Mal auf. Sie fasst in einem Satz zusammen (*"in the same form he had used with Mrs Sunwoo"*) und **benennt die Wiederholung selbst**: *"you are standing at the corner of my own desk reciting my own dates back to me."* Danach zwei neue Gruende und der ganze Yeom-Faden |
+| **b2 06/1** | 258 | Methode ausfuehrlich erzaehlt, vierzig Zeilen spaeter als Rede zusammengefasst |
+| **b2 31:378-384** | ~90 | Das Ende von 31 fasst zusammen, was 32:6-12 danach spielt |
+| ~~**b2 14/1:144-152**~~ | 53 | **AUSGEFUEHRT 27.08.** (v1.8). An jedem der fuenf Portraets hing ein Satz Deutung, den ch13 nicht hat. Die Deutung bleibt, die Tatsachen fallen |
+
+**Unsicher, Rhythmus- und nicht Substanzurteil:** b2 53/2+3 zusammenziehen ·
+b2 37/3 · b2 42/2 (wiederholt die Choreografie aus b2 39/2) · b2 11/1 Haelfte a ·
+b2 18/1:28-32 · b2 82/5 · b1 17/2 · b1 17/4 · b1 07/6 · b1 25:170.
+
+## 3. Kein Kuerzungsfall, sondern derselbe Bau zweimal
+
+**b2 31 und b2 69 sind dieselbe Szene.** Koh im Juni, Im im Dezember. Sechs
+geteilte Beats, vier fast woertlich:
+
+| Beat | b2 31 | b2 69 |
+|---|---|---|
+| *"the first defensive thing he had done/did"* | :66 | :32 |
+| *"You have an explanation for it."* | :72 | :60 |
+| *"That is a good explanation … arrived at it myself, and it is wrong."* | :80 | :84 |
+| *"Whatever you like. That is not a courtesy."* | :152 | :138 |
+| *"…hear the soft version and go looking for the hard one…"* | :132 | :160 |
+| *"which of those two I would rather have been/had"* | :158 | :154 |
+| *"the first/second one who knows what the asking is for"* | :192 | :320 |
+
+Beide Szenen tragen. **Die Maschinerie in b2 69 kuerzen, damit sie dort
+anfaengt, wo b2 31 aufgehoert hat.**
+
+## 4. Was geprueft und gehalten wurde, damit es nicht neu aufgemacht wird
+
+- **Die sechs Aufdeckungsszenen b2 64 bis 69**: sechsmal dieselbe Grundbewegung
+  in vierzehn Erzaehltagen, und **keine ist entbehrlich**: auf jede zeigt eine
+  spaetere Stelle woertlich (b2 82:246 · 82:92 · 74:230 · 78:30 · 82:126 ·
+  79:168). Das war die Ausgangsvermutung des Durchgangs, und sie ist gefallen.
+- **b1 24 + b1 34** haben 51 gemeinsame Achtergramme, und jedes einzelne ist im
+  Text attribuiert (*"On the bridge I told you…"*). Kapitel 34 ist die
+  Abrechnung der Bruecke.
+- **b2 79:138 / b2 81:68**: wortgleich, aber das ist die Pointe des Abends.
+- **b2 40/1 / b2 44/2**: zwei Zweitbesuche mit demselben Bau, vom Text selbst
+  markiert (b2 44:236-238).
+- **b2 29:214 / b2 27:322**: wortgleich, als Rueckruf markiert (b2 29:216).
+- **b2 34/2, b2 34/3, b2 32/1, b2 42/3, b2 39/1, b2 46/1, b2 76/2+3** und alle
+  Notizbuch-Kodas ausser b2 82/5: einzeln auf Rumpf geprueft, jede traegt.
+
+## 5. Die Regel, die aus dem Durchgang folgt
+
+**Nicht nach Laenge urteilen und nicht nach dem Geruest.** Die kuerzesten
+Szenen des Bandes sind mehrfach die unantastbaren: b1 19/3 mit 109 Woertern
+verbucht eine Zusage, b2 57/4 mit 71 Woertern traegt den Termin, auf dem ein
+ganzes Kapitel steht.
+
+**Die Probe ist und bleibt: welche spaetere Stelle zeigt auf diese Szene.**
+Sie hat in diesem Durchgang neunmal eine Szene gerettet und einmal eine
+gestrichen.

@@ -177,6 +177,7 @@ Zusage ist.
 - [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
 - [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
+- [KEINE] **B2 76** Chairman Woo an Annie · gesagt Tag 500 · faellig offen · "You will decide in about three weeks that you were wrong this morning, and you will not come back, because you will have made it into a principle by then" · **Vorhersage ueber eine dritte Person, keine Zusage.** Woo sagt nicht zu, etwas zu tun, sondern sagt voraus, was Annie tun wird. Sie kommt tatsaechlich nicht zurueck; der Text bestaetigt es durch Abwesenheit und einmal ausdruecklich in B2 83: *"Chairman Woo telephoned once, in April, and asked one question and rang off."* Steht hier, damit `--neu` sie nicht jedes Mal wieder meldet
 - [KEINE] **B2 69** Annie an Mr Kwon · gesagt Tag 341 · faellig offen · "You do not owe anybody in this house one hour of anything" · Entlastung. Sie nimmt eine Schuld weg, statt eine einzugehen
 
 ---

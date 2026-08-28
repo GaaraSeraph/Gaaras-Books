@@ -328,3 +328,53 @@ Beim Umhaengen der Kapitelverweise auf die Nummerierung vom 27.08. sind 166 Stel
 ## blank K28, Band unklar - 1 Stellen
 
 - `23-kuerzen.md:514` sind Annie an ihren Papieren, K63 schreibt wieder, K07 und K28 haben bei der
+
+---
+
+# Stand nach dem Durchgang vom 28.08.
+
+## Ausgefuehrt
+
+| | |
+|---|---|
+| **94** | `b2 K<NN>` mit NN ab 36, um zwei geschoben |
+| **6** | `Band 2, Kapitel <NN>` mit NN ab 36, um zwei geschoben |
+| **3** | Bereichsenden nachgezogen (`b2 K73-80` war halb geschoben, jetzt `K73-82`) |
+| **1** | rueckwaerts laufender Bereich richtig herum (`K73-K54` zu `K54-K73`) |
+
+**Belegt, nicht angenommen.** `12-stimmen.md:1079` sagt *"benannt und gewaehlt
+(b2 K43 Z290)"*, und Sims Instrument steht heute in **ch45** Zeile 290. Der
+Versatz von zwei ist am Inhalt geprueft und nicht aus einer Tabelle gerechnet.
+
+## Nicht geschoben, mit Grund
+
+**Drei Bereiche ueber die Grenze 35/36** in `23-kuerzen.md`: aus `B2 K21-40`
+wird heute 21 bis 35 **und** 38 bis 42, und das ist kein Bereich mehr. Sie
+stehen als historische Namen da, mit einer Fussnote unter der Tabelle.
+
+**Die `alt K`-Verweise.** Sie tragen die Nummerierung von vor dem 27.08. Die
+Karte nach heute steht jetzt in `archiv/UMNUMMERIERUNG.md`, am Text bewiesen.
+
+**Die blanken `KNN`.** Fast alle Band 1 und damit unveraendert richtig. Raten
+waere hier teurer als Warten.
+
+## Zwei Missbildungen, die schon vorher dastanden
+
+Beide stammen aus der Umnummerierung vom 27.08. und sind an der Sicherung
+geprueft:
+
+- `B2 b2 K34-60` und `B2 b2 K73-82`: doppeltes Bandzeichen.
+- `b2 K71-b2 K52` lief rueckwaerts. Beim Schieben ist es konsistent
+  mitgezogen und danach richtig herum gestellt worden.
+
+## Was ein Nummernproblem NICHT ist
+
+**Vierzehn Belegzitate in `12-stimmen.md` stehen in keinem Kapitel mehr.**
+*"Whoever's in that room is bored"* (alt K73), *"I told her the weather might
+turn"* (alt K72), *"You will not want these"* (alt K67) und elf weitere. Die
+alten Kapitel `69` bis `77` und `88` sind beim Umbau herausgefallen; ihr Text
+liegt in `archiv/band-2-vor-umbau/`.
+
+**Wer damit etwas ueber eine Stimme belegt, belegt es mit Text, den es nicht
+gibt.** Das ist kein Umnummerierungsfall, sondern eine inhaltliche Frage an das
+Dokument, und sie steht jetzt oben in `12-stimmen.md`.

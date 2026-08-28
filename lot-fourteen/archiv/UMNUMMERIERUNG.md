@@ -70,3 +70,79 @@ laeuft. **Die Eintraege gehoeren geloescht, sobald die Kapitel da sind.**
   neuen, weil zwei Kapitel nicht zwei Titel behalten koennen.
 - `doc/05-continuity.md` fuehrt die Kapitelliste nach alten Nummern.
 - `.check-baseline` hat b2-Schluessel nach alten Nummern.
+
+---
+
+# Nachtrag 28.08.: die Karte bis heute, und warum der Katalog nicht taugt
+
+**Band 2 hat seit dem 28.08. fuenfundachtzig Kapitel.** `ch35` ist in drei
+geteilt worden, und alle Nummern der Folge vom 27.08. ab 36 sind seither **um
+zwei hoeher**.
+
+## Alt nach HEUTE, am Text bewiesen
+
+Nicht gerechnet, sondern gemessen: fuer jedes Kapitel in
+`archiv/band-2-vor-umbau/` sind bis zu sechs lange Passagen aus der Mitte
+genommen und im heutigen Kanon gesucht worden. Wo alle im selben Kapitel
+landen, ist die Zeile belegt.
+
+| alt | heute | | alt | heute | | alt | heute | | alt | heute |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1-15 | 1-15 | | 17 | 16 | | 18 | 17 | | 19 | 18 |
+| 20 | 19 | | 21 | 20 | | 22 | 21 | | 23 | 22 |
+| 24 | 23 | | 25 | 24 | | 26 | 25 | | 28 | 26 |
+| 29 | 26 | | 31 | 27 | | 32 | 28 | | 33 | 29 |
+| 35 | 29 | | 36 | 30 | | 37 | 31 | | 38 | 32 |
+| 39 | 32 | | 40 | 33 | | 41 | 34 | | 42 | **35** |
+| 43 | **36 und 37** | | 45 | 38 | | 46 | 39 | | 47 | 40 |
+| 48 | 41 | | 49 | 42 | | 50 | 43 | | 51 | 44 |
+| 52 | 45 | | 53 | 46 | | 54 | 47 | | 55 | 48 |
+| 56 | 49 | | 57 | 65 | | 58 | 50 | | 60 | 51 |
+| 61 | 73 | | 62 | 74 | | 63 | 52 | | 64 | 53 |
+| 65 | 67 | | 66 | 68 | | 67 | 68 und 70 | | 78 | 78 |
+| 80 | 54 | | 81 | 55 | | 82 | 56 | | 83 | 57 |
+| 84 | 58 | | 85 | 59 | | 86 | 60 | | 87 | 61 |
+| 89 | 63 | | 90 | **85** | | | | | | |
+
+**Die Teilung vom 28.08. lief fast genau auf der alten Naht:** alt `ch42` ist
+heute `ch35`, alt `ch43` verteilt sich auf `ch36` und `ch37`. Die
+Zusammenlegung vom 27.08. hat zwei Kapitel verbunden, die drei Tage trugen.
+
+**Nicht mehr im Buch:** alt `ch69` bis `ch77` und `ch88`. Ihr Text findet sich
+nirgends im heutigen Kanon. Sie liegen in `archiv/band-2-vor-umbau/`.
+
+## Warum `VERWEISE-OFFEN.md` nicht mechanisch abzuarbeiten ist
+
+**Der Katalog etikettiert alle Kurzformen als *alt*, und das stimmt nicht.**
+Nachgewiesen an zwei Faellen:
+
+- **`K68`** ist eine Nummer vom **27.08.** Das Zitat *"I have been sent to be
+  liked, four hundred times"* steht heute in `ch70`, und 68 plus zwei ist 70.
+  In der **alten** Folge gab es bei 68 ueberhaupt kein Kapitel.
+- **`K90`** ist eine **alte** Nummer. Das Zitat *"If the world points anything
+  at you at all, I will burn the world down"* steht heute in `ch85`, und die
+  alte 90 ist ueber die 83 vom 27.08. genau dort gelandet. In der Folge vom
+  27.08. gab es keine 90.
+
+**Zwei Nummerierungen unter einem Etikett, im selben Dokument.** Damit ist
+jede Stelle einzeln zu entscheiden, und ein pauschaler Versatz waere falsch.
+
+## Was der Durchgang vom 28.08. ergeben hat
+
+Alle 166 Stellen maschinell angefasst, jede ueber ihr laengstes Zitat im
+heutigen Kanon gesucht:
+
+| | |
+|---|---|
+| **9** | Zitat gefunden, Kapitel steht fest |
+| **14** | Zitat **nicht mehr im Buch**: der Verweis zeigt auf Archivtext |
+| **143** | kein Zitat in der Zeile, nur Prosa |
+
+**Die 143 brauchen den Absatz drumherum**, nicht die Zeile. Das ist Lesearbeit
+und kein Skript.
+
+**Und die 14 sind kein Umnummerierungsfall, sondern ein Inhaltsfall.** Saetze
+wie *"Whoever's in that room is bored"* (alt K73) oder *"I told her the weather
+might turn"* (alt K72) stehen in keinem Kapitel mehr. Wer sie in `12-stimmen.md`
+als Beleg liest, belegt etwas mit Text, den es nicht gibt. Diese Stellen
+gehoeren gekennzeichnet, nicht umnummeriert.

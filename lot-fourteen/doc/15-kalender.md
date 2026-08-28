@@ -14,6 +14,35 @@ Kalender, Kapitelstand, wiederkehrende Bilder, woertlich festgelegte Zeilen. Die
 
 ---
 
+## ⚠ Kapitelnummern in Band 2: zwei Verschiebungen, keine nachgezogen
+
+**Band 2 hat seit dem 28.08. fuenfundachtzig Kapitel.** `ch35` ist in drei
+geteilt worden, und **alle Nummern ab 36 sind seither um zwei hoeher**: aus
+alt 36 wurde 38, aus alt 83 wurde 85.
+
+**Die Verweise in `doc/` sind NICHT nachgezogen worden, und zwar mit Absicht.**
+Sie tragen naemlich schon einen aelteren Versatz: die Umnummerierung vom 27.08.
+ist ebenfalls nie in die Dokumente gelaufen. Belegbar daran, dass hier und in
+`40-verworfen.md` **Kapitel 87, 88 und 90** stehen, und die hat Band 2 auch vor
+dem 28.08. nicht gehabt.
+
+**Ein pauschales Plus-Zwei wuerde die falschen Stellen mitverschieben.** Jeder
+Verweis muss einzeln entschieden werden, und dafuer ist
+`archiv/VERWEISE-OFFEN.md` da.
+
+Bis dahin gilt beim Lesen dieser Dokumente:
+
+| Nummer im Text | Was gemeint sein kann |
+|---|---|
+| bis 35 | unveraendert gueltig |
+| 36 bis 85 | entweder heutige Nummer, oder heutige minus zwei, oder alte Nummerierung von vor dem 27.08. |
+| ueber 85 | sicher alte Nummerierung |
+
+**Was immer stimmt, ist `erzeugt/KAPITEL.md` und `erzeugt/REGISTER.md`.** Beide
+werden aus den Kapitelkoepfen erzeugt und koennen nicht driften.
+
+---
+
 ## Kalender und Kapitelstand
 
 Tag 1 ist Samstag, der 4. Oktober. Jede Datumszeile laesst sich daraus
@@ -31,26 +60,52 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 1, Kapitel 1** - die Auktion | 1 | Sa **4. Oktober 2025** |
 | Band 1, Ende | 149 | So 1. Maerz 2026 |
 | **Band 2, Kapitel 1** | 150 | Mo 2. Maerz 2026 |
-| **frueheres Kapitel 90** - Bandende | 415 | So **22. November 2026** |
+| **frueheres Kapitel 90** | 415 | So 22. November 2026 |
+| **Kapitel 83** - Bandende, seit dem Umbau vom 27.08. | 590 | So **16. Mai 2027** |
 
-**Band 1 spielt also im Herbst und Winter 2025/26, Band 2 fast vollstaendig im
-Jahr 2026.** Die Wochentage sind ueber alle 124 Kapitel geprueft und stimmen:
+**Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
+2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 71 bis
+83 spielen im Jahr 2027. Bis zum Umbau endete der Band im November 2026, und
+alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber alle 124 Kapitel geprueft und stimmen:
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 *"Sunday 22 November"*, der Kalender sagt Sonntag.
 
-**Annie ist damit achtunddreissig.** Woo sagt in Band 2, Kapitel 71, dass sie
+**Annie ist damit achtunddreissig.** Woo sagt in Band 2, Kapitel 73, dass sie
 2002 vierzehn war; das ergibt Geburtsjahr 1987 oder 1988. Passt zu `doc/11-figuren.md`
 ("Ende dreissig") und zu Kapitel 62, in dem sie seit ihrem dreissigsten
 Lebensjahr Geschaefte macht.
 
-**ZWEI JAHRESANGABEN WIDERSPRACHEN DEM KALENDER UM GENAU EIN JAHR, und beide sind
-am 26.08. nachgezogen worden:**
+**ZWEI JAHRESANGABEN WIDERSPRACHEN DEM KALENDER, und die erste ist am 26.08. als
+erledigt verbucht worden, ohne dass sie je im Text ankam:**
 
-1. **"Twenty-three years ago" fuer 2002** war von 2026 aus vierundzwanzig.
-   **Vierzehn Stellen in acht Kapiteln** (34, 57 sechsmal, 61 zweimal, 62 zweimal,
-   75, 79, 87), nicht die sechs, die beim ersten Durchgang gefunden wurden -
-   die erste Suche hatte nur *"twenty-three years ago"* erfasst und Woos
-   Zeitspannen uebersehen (*"I have believed for twenty-three years"*).
+1. **"Twenty-three years ago" fuer 2002.** Am 26.08. wurden vierzehn Stellen in
+   acht Kapiteln benannt und der Fall geschlossen. **Am 28.08. nachgemessen: kein
+   einziges Kapitel trug die Aenderung.** Weder die Altfassungen im Archiv noch
+   der Kanon; `archiv/band-2-vor-umbau/ch61_v1_4_en.md:222` und das heutige
+   `chapters-2/ch71` sagten beide unveraendert *"twenty-three years ago"*.
+
+   **Das ist die teuerste Sorte Eintrag: ein Bericht, der eine Korrektur
+   beschreibt, die es nicht gibt.** Wer ihn liest, sucht nicht mehr. Die Regel
+   dagegen steht in `doc/22-pruefen.md`: **die Wirkung pruefen, nicht den
+   Schreibvorgang.**
+
+   **Ausgefuehrt am 28.08., und diesmal nachgemessen: 23 Ersetzungen in zwoelf
+   Kapiteln.** Weil der Band seit dem Umbau ueber die Jahresgrenze laeuft, ist
+   die Zahl nicht mehr einheitlich:
+
+   | Handlungsjahr | 2002 liegt zurueck | Kapitel |
+   |---|---|---|
+   | 2026 | **vierundzwanzig** | 17, 29, 63 (fuenfmal), 64, 67 (zweimal) |
+   | 2027 | **fuenfundzwanzig** | 71 (zweimal), 72 (dreimal), 75, 76, 77 (zweimal), 79, 80 (dreimal) |
+
+   **Nicht angefasst, weil richtig:** Mrs Jeons dreiundzwanzig Jahre hinter dem
+   Glas (sechzehn Stellen), Mr Chaes dreiundzwanzig Jahre Urkunden, der Neffe von
+   dreiundzwanzig, die dreiundzwanzig Tage in Gwangyang, die dreiundzwanzig
+   uebrigen Namen in 30 und 78 - und **Chois dreiundzwanzig Jahre Kaeufe in dem
+   Haus** (`ch80:274`), weil das eine eigene Spanne ab 2004 ist und nicht an 2002
+   haengt. Dass in derselben Replik *"twenty-five"* und *"twenty-three"*
+   nebeneinander stehen, ist kein Fehler, sondern die Aussage: er war der Mann,
+   bevor er anfing zu kaufen.
 2. **"I arranged that in 2014"** fuer den Trust, den Kapitel 87 auf *"eleven years
    ago"* datiert, steht jetzt auf **2015**. Eine Stelle: Kapitel 88. Geaendert
    wurde das Jahr und nicht die elf, weil die elf Jahre an fuenf Stellen haengen
@@ -543,16 +598,38 @@ Daten erfunden waren und nie in einem Satz standen - sie liegen jetzt hinter dem
 1. September. Der Text bleibt unangetastet und behaelt recht.
 
 **Und einer ist kein Buchhaltungsposten mehr:** Park Sang-hoons Geburtstag steht
-seit Kapitel 50 **im Buch**. *"It was Monday. It was my birthday. I did not want
-to spend the whole of it being sixty in a restaurant."* Montag, der 27. Juli. Er
-ist **seit dem 27. Juli sechzig**, und in Kapitel 48 am 20. Juli sagt er noch
-*"I am fifty-nine"* - beides stimmt und muss so bleiben.
+**im Buch** und nicht in dieser Tabelle. In `b2 ch43`, am Tag 298: *"It was
+Monday. It was my birthday. I did not want to spend the whole of it being sixty
+in a restaurant."* Der Montag davor ist Tag 297, **Montag der 27. Juli 2026**,
+und seither ist er sechzig.
+
+**Genau deshalb ist er am 28.08. um fuenf Monate gealtert.** In `b2 ch71`, am
+Tag 453, dem **30. Dezember**, stand noch *"I am going to go and be fifty-nine
+at somebody"*. Das war fuenf Monate nach seinem sechzigsten. Die Zeile heisst
+jetzt **sixty**, und ch71 steht auf v3.5.
+
+**Wie das entstanden ist, und warum es niemand gesehen hat.** Ein Alter ist
+richtig, wenn es geschrieben wird, und bleibt stehen, waehrend die Szene sich
+im Kalender bewegt. Diese hier ist beim Zusammenlegen und Umnummerieren von
+Band 2 an das Jahresende gerutscht, und die Zahl ist mitgereist. Der einzige
+Ort, an dem das auffaellt, ist eine Liste, die jede Altersangabe neben den Tag
+stellt, an dem sie faellt - und die gab es bis zum 28.08. nicht.
+
+**Chois Alter ist bei derselben Probe geprueft worden und stimmt.** `b2 ch25`
+nennt ihn am 27. Mai 2026 neunundfuenfzig, und fuenf Stellen am 18. Maerz 2027
+nennen ihn *a man of sixty*. Sein Geburtstag, der 18. November, liegt dazwischen.
 
 **Das Fenster gibt es nicht mehr, und der Band ist fertig.** Band 2 endet auf
-**Tag 415, Sonntag dem 22. November**. Zwischen Tag 1 und Tag 415 liegen
-**dreizehn Monate und achtzehn Tage** - **jedes Kalenderdatum kommt darin
+**Tag 590, Sonntag dem 16. Mai 2027**. Zwischen Tag 1 und Tag 590 liegen
+**neunzehn Monate und zwoelf Tage** - **jedes Kalenderdatum kommt darin
 mindestens einmal vor.** Es gibt also keine Parkposition mehr, nirgends, fuer
 niemanden.
+
+*Die Zahlen in diesem Absatz standen bis zum 28.08. auf Tag 415 und dem
+22. November, aus der Zeit, als Band 2 dort endete. Der Schluss stimmte
+trotzdem, weil eine laengere Strecke die kuerzere enthaelt - aber ein Satz,
+der sich selbst nicht mehr nachrechnen laesst, wird beim naechsten Mal
+geglaubt statt geprueft.*
 
 **Am 26.08. sind vier Alter nachgezogen worden, alle nach demselben Verfahren
 wie im August:** der Geburtstag ist erfunden und steht in keinem Satz
@@ -561,10 +638,10 @@ Geburtstag und nicht der Text.
 
 | Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
 |---|---|---|---|---|
-| Baek Jun-ho | dreiundsechzig | b2 K54, 15. Oktober | 26. September | **10. November** |
-| Mrs Jeon Mi-ja | einundfuenfzig | b2 K58, 1. November | 24. Juli | **15. November** |
-| Mrs Sunwoo | einundachtzig | b2 K61, 11. November | 29. September | **17. November** |
-| Choi Dae-ho | neunundfuenfzig | b2 K80, 6. November | 8. September | **18. November** |
+| Baek Jun-ho | dreiundsechzig | b2 K56, 15. Oktober | 26. September | **10. November** |
+| Mrs Jeon Mi-ja | einundfuenfzig | b2 K60, 1. November | 24. Juli | **15. November** |
+| Mrs Sunwoo | einundachtzig | b2 K63, 11. November | 29. September | **17. November** |
+| Choi Dae-ho | neunundfuenfzig | b2 K82, 6. November | 8. September | **18. November** |
 
 **Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
 Georgijs Geburtstag ist der 28. Juni.** Der Widerspruch selbst ist damit
@@ -589,7 +666,7 @@ allerdings noch nicht weg, siehe die zwei Wege unten - ein Geburtstag sagt,
     I do not accuse him of anything, because he has never once claimed
     anything."* **Damit ist es zugleich die groesste Heft-Entnahme des Buches**
     - ein Plan, im Mai abgelegt und im November geholt.
-  - **DAS VERSPRECHEN VOM 23. APRIL IST GEHALTEN.** In b2 K80 dreht er die
+  - **DAS VERSPRECHEN VOM 23. APRIL IST GEHALTEN.** In b2 K82 dreht er die
     Bedeutung von *nehmen*: Choi besitzt nichts, also ist ihm nichts
     **abzunehmen**, und Annies Einwand bleibt richtig. **Wegzunehmen** sind ihm
     die neun Leute, die nicht wissen, was er ihnen angetan hat. Auf ihre Frage
@@ -686,8 +763,8 @@ Folgen, beide Wege betreffend:
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
 | **Georgij** | 26 bei der Auktion, **27 ab dem 28. Juni des zweiten Jahres** | **28. Juni**, vom Autor am 26.08. gesetzt, und der Katalog gilt | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
-| **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 71 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
-| **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 41: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
+| **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 73 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
+| **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 59 | **18. November** (war 8. September) | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
 | **Mrs Sunwoo** | 81 | **17. November** (war 29. September, davor 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
@@ -893,3 +970,239 @@ nicht ins Archiv.
 69. **Neun Mahlzeiten seit Oktober, ueber vierhundert Begegnungen.** Annie sagte **met**, er hoerte **eaten with**.
 
 ---
+
+---
+
+## Die Vernichtungskette, und warum kein Glied allein verschoben werden darf
+
+**Sieben Termine, die einander tragen.** Jedes Glied steht inzwischen im Text.
+Wer eines davon bewegt, ohne die anderen zu kennen, bricht drei Szenen. Genau
+das ist am 27.08. schon einmal passiert, siehe `protokoll/`.
+
+| Tag | Datum | Was daran haengt |
+|---|---|---|
+| 377 | Do 15. Okt 2026 | `ch55`. Hwang erklaert die Nummernfolge. **Er kennt kein Datum**, ein Fonds entscheidet. Georgij bittet um den ersten Anruf statt den sechshundertvierzigsten Umschlag |
+| 384 | Do 22. Okt 2026 | `ch56`. Der Fonds hat entschieden, Hwang ruft um **zwanzig nach sieben** an. Annie haelt ihre Rede ueber neun Jahre zu Ende, **weil er sie nicht unterbricht**, und wird danach richtiggestellt. Sie unterschreibt |
+| 395 | Mo 2. Nov 2026 | Der Kauf. Ihr Name geht mit dem Eintrag in die Folge |
+| 510 | Do 25. Feb 2027 | `ch79`. Klasse eins, neunzehn Kisten, ueber eine Brueckenwaage in Siheung. Zweitguenstigste von vier Offerten, weil die guenstigste kein Zertifikat anbot |
+| 514 | Mo 1. Mrz 2027 | Das Zertifikat liegt in Georgijs Innentasche. Es bleibt dort |
+| 517 | Do 4. Mrz 2027 | Klasse vier zuletzt, *"because there are people in them who are alive"* |
+| 522 | Mo 8. Mrz 2027 | `ch80`. Die siebenundzwanzig Einladungen gehen hinaus. **Nach dem Vernichtungstermin, und das ist kein Zufall** |
+| 531 | Do 18. Mrz 2027 | Das Essen, `ch82` mit Choi, `ch83` die Bilanz. **Auf den Tag ein Jahr nach dem Brief** (`ch12`: *"The eighteenth of March." / "Sixteen days."*) |
+
+**Ihr Name steht damit drei Monate und dreiundzwanzig Tage.** Vom zweiten
+November bis zum fuenfundzwanzigsten Februar, einhundertfuenfzehn Tage.
+
+### Der Mechanismus, in drei Saetzen
+
+**Klasse ist Termin.** Hwang sortiert die Papiere des Hauses in vier Klassen,
+und jede Klasse hat einen Tag. Klasse vier geht zuletzt, am vierten Maerz, weil
+Menschen darin vorkommen, die leben.
+
+**Index ist Klasse.** Indexieren heisst, festzuhalten, in welche Klasse etwas
+gehoert. Und weil die Klasse den Termin traegt, entscheidet der Index, **wann**
+etwas vernichtet wird. Was in keiner Klasse steht, bekommt keinen Termin und
+liegt fuer immer.
+
+**Deshalb ist Nachlaessigkeit in einem Archiv kein Verlust, sondern
+Ueberleben.** Eine Aufbewahrungsfrist laeuft vom Datum auf dem Einlieferungs-
+schein, und niemand oeffnet eine Kiste, um nachzusehen, ob das Papier darin aus
+dem Jahr ist. Oeffnen ist eine Woche Arbeitszeit, das Formular ist umsonst.
+
+### Wer was weiss, und wann
+
+**Die Anzeige nennt ein Datum und keine Methode.** Sie sagt, dass das Haus nach
+dem fuenfundzwanzigsten Februar nichts mehr haelt. Sechshundertvierzig Kaeufer
+haben das im Oktober gelesen, und Hwang sagt im Februar voraus, dass jeder von
+ihnen denselben Schluss zieht: **Archiv.** Er hat niemandem etwas anderes
+gesagt, auch dem Fonds nicht.
+
+**Choi ist einer der sechshundertvierzig.** Er hat den Umschlag im Oktober
+bekommen wie alle anderen und musste niemanden fragen. Was er trotzdem nicht
+wissen konnte, ist, ob es vollzogen wurde, und das herauszufinden haette
+bedeutet, **ein Interesse geltend zu machen, schriftlich, mit seinem Namen
+oben** (Klausel elf), in genau die Folge hinein, um die es geht. Der Mann, dem
+alles zugestellt wurde, konnte die eine Frage nicht stellen.
+
+**Darum bietet er am achtzehnten Maerz an, den Eintrag ordentlich indexieren zu
+lassen.** Er plant an einem Gegenstand herum, den es seit drei Wochen nicht
+mehr gibt, und Georgij hat das Zertifikat waehrenddessen in der Tasche und
+nimmt es nicht heraus. **Das ist der Abstand zwischen den beiden Maennern:**
+der eine denkt in Verbergen, der andere in Nichtexistenz.
+
+### Und der Satz, der die Bilanz traegt
+
+**Wissen ist kein Griff.** Ein Griff ist ein Haus, das gefragt, und ein Buch,
+das aufgeschlagen werden kann. Fuenf Menschen wissen, was Annie getan hat, und
+keiner von ihnen kann es beweisen; siebzehn weitere sassen am vierten Oktober
+in demselben Saal; sechshundertvierzig haben einen Katalog in einer Schublade.
+**Keiner von ihnen kann ein Blatt danebenlegen.**
+
+Das Zertifikat ist der Gegenstand, der das belegt, und `ch79` sagt warum: *"It
+does not give a lot, a buyer, a price or a name, because a certificate of
+destruction is a document about paper and not about what was on it."*
+
+## Der Zoll im Gebaeude der Kims, und die Zahl, die stehengeblieben war
+
+**Der Zoll geht am Tag 16 hinein, dem 19. Oktober 2025.** Das Datum steht in
+keinem Satz. Es ergibt sich aus vier Stellen, die es unabhaengig voneinander
+einkreisen, und sie stimmen alle:
+
+| Fundstelle | Tag | verstrichen | Text |
+|---|---|---|---|
+| `ch09:134` Hana auf der Terrasse | 22 | 6 | *for six days* |
+| `ch11:116` Georgij berichtet | 22 | 6 | *six days* |
+| `ch14:120` die dritte Sache | 34 | 18 | *eighteen days* |
+| `ch17:68` gegen Sang-hoon | 46 | 30 | *a month* |
+| `ch26:132` im Sitzungssaal, ab Tag 48 | 66 | 32 | *thirty-two days after* |
+
+**Die sechste Stelle war falsch, und sie ist am 28.08. korrigiert worden.**
+In `ch13:226` fragt Georgij Chairman Woo am Tag 27 nach einer Familie, die
+*customs in a building for six days* hat. Sechs war Hanas Zahl vom Tag 22.
+Fuenf Tage spaeter sind es elf, und der Satz steht jetzt so da. Kapitel 13
+ist damit auf v2.11.
+
+**Warum das kein Schoenheitsfehler ist.** Georgij sagt nie etwas Unwahres.
+Der Satz ist als Hypothese gebaut - *if a family in your line of business
+had* - aber die Zahl darin ist eine Tatsachenbehauptung ueber die Kims, und
+Woo erkennt sie sofort als solche und sagt es ihm ins Gesicht. Eine falsche
+Zahl an dieser Stelle bricht die erste Regel des Buches, nicht die
+Genauigkeit.
+
+**Und so entstehen diese Fehler.** Die Zahl war richtig, als sie geschrieben
+wurde, und ist es geblieben, waehrend die Szene sich verschob. Wer eine
+Replik von einem Tag auf einen anderen zieht, nimmt jede Zahl mit, die auf
+den alten Tag gerechnet war.
+
+**Die runden Angaben bleiben, wie sie sind.** `ch26:60` sagt *six weeks* fuer
+siebenundvierzig Tage, `ch17:68` sagt *a month* fuer genau dreissig. Das ist
+gesprochene Sprache, die auf die volle abgelaufene Einheit abrundet, und sie
+ist in beiden Faellen richtig herum. Nur die gezaehlten Tage muessen stimmen.
+
+## ~~OFFEN:~~ ERLEDIGT am 28.08.: Die fuenf Wochen in Kapitel 66
+
+`ch66:282` steht als Georgijs eigene Nachschrift da:
+
+> *The fourth of November is five weeks before the tenth of December.*
+
+Zwischen den beiden liegen **sechsunddreissig Tage**, also fuenf Wochen und
+ein Tag. Beide Daten sind gebunden und koennen nicht weichen: der vierte
+November ist ein Mittwoch und wird zwei Zeilen vorher als *the Wednesday*
+ausgewiesen, der zehnte Dezember ist der Donnerstag, an dem er Sim das erste
+Mal anruft.
+
+**Warum es ueberhaupt auffaellt.** Der Absatz handelt davon, dass die
+Reihenfolge falsch notiert war und *the order is the whole of it*, und er
+zaehlt daneben genau: *two days after*, *let it go eleven and nine*. In einem
+Absatz, der so rechnet, ist eine gerundete Woche der einzige ungenaue Wert.
+
+**Zur Entscheidung**, weil es eine Frage des Registers und nicht der Richtig-
+keit ist:
+
+* *five weeks and a day before* - genau, und das Nachzaehlen passt zu ihm.
+* *thirty-six days before* - genau, und es nimmt Mr Oks eigene Zaehlweise
+  aus demselben Kapitel auf, der auf dem Bus zweihundertdreiunddreissig Tage
+  ausgerechnet hat.
+* stehenlassen - vertretbar, weil *fuenf Wochen vorher* im Englischen die
+  abgelaufene Einheit meint und der Rest wegfaellt.
+
+**Gewaehlt wurde die Tageszaehlung.** Die Zeile heisst jetzt *"The fourth of
+November is thirty-six days before the tenth of December."* Zeile 286
+behaelt *five weeks*: das ist die zusammenfassende Erzaehlung danach und
+keine Gleichsetzung. Kapitel 66 steht auf v3.3.
+
+**Und eine Spanne bleibt gemeldet, ohne ein Fehler zu sein.** `spanne.py`
+zeigt `b2 ch75:98`: Los sechs geht am 12. Februar ins Buch, die Auktion ist
+am 28. Maerz, und der Satz sagt *open for seven weeks* - das sind
+vierundvierzig Tage gegen neunundvierzig. Es geht auf, weil die sieben
+Wochen nicht bis zur Auktion laufen, sondern bis zum Ausscheiden aus dem
+Buch: das Los **hat nicht zugeschlagen** und stand danach weiter drin.
+`b2 ch48:266` sagt dasselbe unabhaengig - *stayed in it for seven weeks*.
+Wer diese Meldung wegmachen will, muesste einen der beiden Saetze
+faelschen.
+
+## Elf Jahre: gemessen am 28.08., und bewusst stehengelassen
+
+Die Hochzeit ist *in der zweiten Aprilwoche vor elf Jahren*, der Trust wird
+*in der zweiten Maerzwoche vor elf Jahren* errichtet. **Die Formel steht
+rund zwanzigmal im Buch**, und ein Kapitel traegt sie im Titel: `b2 ch56`,
+*Eleven years of paying for it*.
+
+**Das Problem, und es ist echt.** Der Satz faellt aus Kapiteln, die im Juni
+2026 spielen, und aus Kapiteln, die im Maerz 2027 spielen. Neun Monate
+Abstand, dieselbe Formel:
+
+| gesprochen in | Abstand zu Maerz 2016 | was man sagen wuerde |
+|---|---|---|
+| `ch30`, `ch32`, Juni 2026 | 10 Jahre 3 Monate | zehn |
+| `ch51`, `ch53`, August 2026 | 10 Jahre 5 Monate | zehn |
+| `ch61`, November 2026 | 10 Jahre 8 Monate | elf |
+| `ch82`, `ch84`, Maerz 2027 | 11 Jahre | elf |
+
+**Die harte Jahreszahl widerspricht nicht.** 2016 steht viermal, in `ch77`
+und `ch85`, und betrifft **Baeks ersten Blick auf die Wohnung** - nicht die
+Errichtung. Ein Treuhaender, der ein Jahr braucht, bis er die Immobilie
+ansieht, ist keine Ungereimtheit, sondern der Punkt der Figur.
+
+**Entschieden: bleibt.** *Eleven years* ist im Buch keine Rechnung, sondern
+der **Name** der ganzen Sache - so wie *lot fourteen* keine Losnummer mehr
+ist. Sechs Kapitel aus dem Sommer 2026 auf *ten* umzustellen wuerde eine
+Formel zerlegen, die als Formel arbeitet, und den Titel von `ch56` mitnehmen.
+
+**Was dadurch NICHT verdeckt sein soll:** die Zahlen oben stehen jetzt da.
+Wer den Anker spaeter verschiebt, sieht sofort, welche sechs Kapitel
+mitmuessen.
+
+## Was die vier Skripte entscheiden koennen, und was nicht
+
+`werkzeug/register.py` sagt, welches Kapitel einen Tag erzaehlt. Alles
+andere haengt daran.
+
+`werkzeug/datumsprobe.py` zaehlt die Datumsangaben und sortiert sie nach
+Pruefbarkeit. **Seine Hauptmeldung ist nicht ausloesbar**, solange die
+Kapitel in Tagesreihenfolge stehen, und das steht seit dem 28.08. auch in
+seiner Gegenprobe: geprueft wird jetzt die Reihenfolgepruefung selbst, die
+Aufloesung nach Naehe und die Erkennung ausdruecklicher Jahresabstaende.
+
+`werkzeug/wochentag.py` bindet Wochentage an Daten. **Drei Stellen im ganzen
+Buch tun das**, alle drei stimmen. Eine kleine Zahl ist hier kein Mangel: es
+ist die einzige Zeitangabe, die ohne Urteil entscheidbar ist.
+
+`werkzeug/spanne.py` rechnet Spannen nach, **aber nur, wenn beide Enden im
+selben Satz stehen**. Das sind zwei. Die weite Fassung meldete
+dreiunddreissig, davon siebenundzwanzig Unsinn, und eine Liste mit dieser
+Trefferquote wird nach zwei Durchgaengen nicht mehr gelesen. Die
+eintausendvierhundert Spannen mit nur einem Ende bleiben Lesearbeit, und das
+Skript sagt das auch.
+
+`werkzeug/alter.py` stellt jede Altersangabe neben den Tag, an dem sie
+faellt, und meldet die eine Sorte Widerspruch, die ohne Urteil auskommt:
+**ein Alter geht nie zurueck.** Es ordnet acht Angaben zu und laesst
+hundertvier liegen, weil *"a man of sixty"* niemandem gehoert. Das
+Verhaeltnis ist Absicht - die erste Fassung ordnete alles zu, was einen
+Namen in derselben Zeile hatte, und meldete neun Faelle, von denen neun
+falsch waren.
+
+**Es ist an der echten Zeile geprueft und nicht an einem Ersatzfall.** Wird
+`ch71:302` sein alter Wortlaut untergeschoben, meldet es *Park Sang-hoon
+geht zurueck, Tag 298: 60, Tag 453: 59*. Mit dem heutigen Wortlaut meldet es
+nichts.
+
+**Drei Dinge, die an einem Tag stillschweigend nichts geprueft haben**, und
+die deshalb hier stehen:
+
+1. Die Aufloesung sprang ueber den Vortag hinweg, weil sie nur *erzaehlte*
+   Tage kannte. `ch18` spielt am 30. April und nennt den 29.; das landete ein
+   Jahr spaeter.
+2. Ein Satz, der zurueck- und vorausblickt, folgte dem Vorwaertsteil.
+   `ch32` sagt *On the eighth of December I said this ... I am going to say
+   it again now*, und der achte Dezember rutschte ins Jahr darauf.
+3. Der Probelauf von `datumsprobe.py` stand auf Modulebene. Beim Import
+   durch die beiden anderen Skripte beendete er deren Gegenprobe - lautlos,
+   mit Rueckgabewert null. **Beide meldeten daraufhin nichts und sahen aus,
+   als waeren sie durchgelaufen.**
+
+Der dritte ist der teuerste, weil er die beiden anderen Pruefungen
+unbemerkt abgeschaltet haette. Nach jeder Aenderung an einem dieser Skripte
+gilt derselbe Satz wie fuer den Text: einmal absichtlich kaputtmachen und
+nachsehen, ob es feuert.

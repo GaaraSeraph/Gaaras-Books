@@ -246,7 +246,7 @@ verteilten sich auf vier Gründe, die keinen Topf haben:
 
 - **Auslassung:** das Zitat steht da, mit `...` zusammengezogen (b2 K6, drei
   Meldungen für ein Zitat).
-- **Redebegleitsatz:** das Zitat steht da, unterbrochen von *he said* (b2 K47).
+- **Redebegleitsatz:** das Zitat steht da, unterbrochen von *he said* (b2 K49).
 - **Gestrichene Fassung:** das Dokument zitiert ausdrücklich, was **entfernt
   wurde** - nicht überholt, sondern weg. Fünf Meldungen, alle legitim.
 - **Unmarkierter Vorschlag:** *"Eine Zeile wie ..."* fehlt in der Wortliste, und

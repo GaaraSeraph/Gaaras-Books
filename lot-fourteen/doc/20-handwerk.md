@@ -377,6 +377,65 @@ im Gesicht, dann der Blick vom Stuhl weg, dann zwei Finger auf der Lehne, dann
 **Wo Beats fehlen, siehe Punkt 2e** - es passiert fast immer beim Teilen von
 Bandwurmsaetzen in direkter Rede.
 
+#### Der Szenentrenner hat drei Faelle, nicht zwei
+
+`* * *` schneidet. `---` haelt an. Die Frage, wann geschnitten wird, hat **drei**
+Antworten, und die dritte ist am 28.08. teuer bezahlt worden:
+
+1. **Der Ort wechselt.**
+2. **Die Zeit springt um Stunden.** Minutenschritte nicht: in `b2 ch79` laeuft
+   der Abend von zwanzig vor acht bis halb zehn in Schritten von zehn bis
+   fuenfundzwanzig Minuten, und das ist der Takt des Kapitels und nicht sein Bau.
+3. **Das Thema wechselt.** In einer Bilanz oder einer Uebersicht steht am
+   Trenner ein anderer Mensch, ein anderer Faden, eine andere Sache, ohne dass
+   sich Ort oder Uhrzeit ruehren. `b2 ch83` ist der Fall: an einem einzigen Tag
+   stehen dort Baeks Papierspur, Sang-hoon und Woo, der Zeitraum, der Raum in
+   Cheongdam, jeweils durch `* * *` getrennt, und `---` sind die Beats
+   **innerhalb** jedes Fadens.
+
+**Am 28.08. wurde eine Zaehlung fuer einen Befund gehalten** und `ch83` nach
+Fall 1 und 2 umgeschrieben. Dabei fielen 27 von 29 richtig gesetzten Trennern.
+Rueckgaengig gemacht.
+
+**Die Probe vor jedem Eingriff:** erst nachsehen, ob ein Kapitel die zwei
+Zeichen **richtig** benutzt, bevor man zaehlt, wie viele es hat. Eine hohe Zahl
+ist ein Anlass zum Hinsehen und kein Ergebnis.
+
+**Und der Rahmen darueber:** ein Kapitel wird gebaut, wie es zu ihm passt.
+`b2 ch80` bricht das Tempo absichtlich, und ein Schlusskapitel ist ohnehin
+anders. Die Regeln hier beschreiben den Normalfall, sie erzwingen ihn nicht.
+
+#### Wo kein Beat hingehoert
+
+Die Regel oben beantwortet **eine einzige Frage: wer spricht jetzt?** Wo diese
+Frage nicht offen ist, beantwortet ein Beat nichts und steht als Fuellung da.
+Das ist der haeufigere Fehler von beiden, weil ein Beat harmlos aussieht.
+
+- **Gebraucht:** immer dann, wenn **dieselbe Figur zwei Redebloecke
+  hintereinander** hat. Ohne Beat zaehlt der Leser die Sprecher falsch ab und
+  muss zurueckspringen.
+- **Nicht gebraucht:** im Wechsel. A, B, A, B traegt sich selbst. Dafuer sind
+  die Anfuehrungszeichen da.
+- **Schaedlich:** zwischen zwei Haelften einer Rede, die nur der Laenge wegen
+  geteilt wurde, wenn der andere gerade eine kurze Zeile gesagt hat. Dort ist
+  der Sprecher ohnehin eindeutig. Zwei solche Beats sind am 26.08. wieder
+  herausgenommen und die Redehaelften zusammengezogen worden.
+
+**Die Probe ist der Daumen.** Beat zudecken, Stelle noch einmal lesen. Weiss man
+immer noch, wer spricht, gehoert er nicht dorthin.
+
+**Die Ausnahme, und sie ist die halbe Erzaehlung:** ein Beat, der etwas **tut**,
+darf auch dort stehen, wo der Sprecher klar ist. Er bezahlt seinen Platz dann
+mit Arbeit und nicht mit Rhythmus. Eine Hand, die auf einem Papier liegen bleibt
+und zwei Kapitel spaeter wieder vorkommt, ist Arbeit. Ein Kopf, der sich wendet,
+weil zwei Repliken ohne Zeile dazwischen eng aussehen, ist keine.
+
+**Der zweite Fehler in derselben Familie ist der Beat, der sich selbst kopiert.**
+Am 27.08. stand in `b1 ch11` zehn Zeilen nach *Annie turned her head* ein *He
+turned his head*, beide reine Sprecherkennzeichnung. Ersetzt durch *The car went
+on*, weil das Kapitel fuenf Strassen-Beats hat und der Kopfschwenk keiner davon
+war. Wenn ein Beat gebraucht wird, nimmt man den, den die Szene schon besitzt.
+
 ### 2i. Der Bogen darf keine Ratsche sein
 
 **Am 23.08. vom Autor gemeldet, nachdem elf Kapitel von Band 2 standen:**
@@ -467,7 +526,7 @@ three weeks answering. Tonight I stop."*
   2. **Band 1, Kapitel 13** (Do 30. Oktober), ueber Woos Schiffsagenten:
      *"Georgij laughed properly at it, which was not work."* **Echt.** Der
      Zusatz ergibt nur Sinn, weil es den Vergleichsfall fuenf Tage vorher gibt.
-  3. **Band 2, Kapitel 45** (Do 6. August): *"He laughed at something that is
+  3. **Band 2, Kapitel 47** (Do 6. August): *"He laughed at something that is
      not funny to anybody else and would not survive being explained."*
      **Echt**, und der Satz davor setzt eine Frequenz: *"did the thing he does
      about once a year."*
@@ -961,7 +1020,7 @@ rechte Spalte liest, wendet vier gefallene Regeln an.**
 |---|---|---|
 | **B1** | Fragezeichen, 150 gesetzt | **HAELT NICHT.** Der angefuehrte Beleg ist eine Ueberschrift, deren eigener Text sie einschraenkt; `CLAUDE.md` verbietet das Verfahren woertlich |
 | **A4** | Sim, Anwesenheitspflicht | **HAELT NICHT** - der Beleg ist falsch |
-| **A6** | Ahn Jung-hee, *"noch kein direktes Zitat"* | **HAELT NICHT MEHR.** Sie spricht seit b2 K51 |
+| **A6** | Ahn Jung-hee, *"noch kein direktes Zitat"* | **HAELT NICHT MEHR.** Sie spricht seit b2 K53 |
 | **C7** | Verbotstest gestrichen, Sperre bleibt | **HAELT NICHT** |
 | **A3** | Sim, vier verbotene Rahmen | **HAELT ZUR HAELFTE** |
 | **A5** | Mrs Ha, Urheberschaft | **UNSICHER**, und das Werkzeug sagt es selbst |
@@ -990,7 +1049,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 | **stand** | *"Verboten: die Und-Kette. Er baut kurz und schlägt zu."* |
 | **jetzt** | *"Er darf: die Und-Kette - er sortiert damit Beweise wie ein Prüfer."* |
 | **Grund** | **Das Blatt widersprach sich selbst**; beide Sätze standen drei Absätze auseinander |
-| **Beleg** | Er hat im ganzen Buch **zwei** Und-Ketten, und beide tun dasselbe: drei Sachen aufzählen, dann den Augenblick datieren. b2 K35 *"He ate, and he complimented something, and he left before the coffee, and I have never once put those three facts in a row until this minute."* · b2 K36 dieselbe Form |
+| **Beleg** | Er hat im ganzen Buch **zwei** Und-Ketten, und beide tun dasselbe: drei Sachen aufzählen, dann den Augenblick datieren. b2 K35 *"He ate, and he complimented something, and he left before the coffee, and I have never once put those three facts in a row until this minute."* · b2 K38 dieselbe Form |
 | **Risiko, wenn falsch** | Ein Durchgang nach der alten Regel streicht die zwei Stellen, an denen der Mann merkt, was er acht Jahre nicht gesehen hat |
 
 ### A2. Woo: die Negativdefinition gehört ihm nicht - mit einer Ausnahme
@@ -998,7 +1057,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 | | |
 |---|---|
 | **stand** | *"Was ihm nicht gehört, war die Negativdefinition"*, zwei Stellen ersetzt |
-| **jetzt** | dieselbe Regel **plus eine geschützte Ausnahme** in b2 K63 |
+| **jetzt** | dieselbe Regel **plus eine geschützte Ausnahme** in b2 K65 |
 | **Beleg** | *"He asked me who I would telephone if it went badly." Woo said it exactly, in the way of a man repeating something he has repeated to himself. "Not who I had told. Not who knew. Who I would telephone."* |
 | **Grund** | Das ist **Choi Dae-hos Frage in Woos Mund**, und der Begleitsatz sagt es. Sie ist seit dreiundzwanzig Jahren wörtlich in ihm |
 | **Risiko** | Die mechanische Regel löscht die einzige belegte Frage Chois, die nicht nach einem Geschäft fragt, sondern nach einer Verbindung |
@@ -1009,7 +1068,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 |---|---|
 | **stand** | Sims Blatt hatte **kein** Verbot |
 | **jetzt** | *"There is a second half"* · *"There is one more thing and it is"* · *"neither of them was"* · *"it is not the one"* sind verboten |
-| **Beleg** | Vier-Wort-Wendungen, die im ganzen Buch **nur Georgij und Sim** benutzen: b2 K17 gegen alt K74, K21 gegen alt K72, K19 gegen alt K72, K19 gegen b2 K51 |
+| **Beleg** | Vier-Wort-Wendungen, die im ganzen Buch **nur Georgij und Sim** benutzen: b2 K17 gegen alt K74, K21 gegen alt K72, K19 gegen alt K72, K19 gegen b2 K53 |
 | **Grund** | Georgij **hält zurück und gibt dann frei**; Sim hält nichts zurück, er gibt her und erklärt die Gabe |
 | **erlaubt bleibt** | *"you have not asked"* - bei Georgij markiert es, dass er etwas **hat**, bei Sim, dass er **wartet zu geben** |
 
@@ -1034,7 +1093,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 |---|---|
 | **stand** | *"NOCH KEINE STIMME"* / *"Sie hat im ganzen Buch noch nie gesprochen"* |
 | **jetzt** | *"NOCH KEIN DIREKTES ZITAT"* |
-| **Grund** | Sie hat in b2 K51 und alt K72 geredet, und **derselbe Abschnitt sagte das dreißig Zeilen tiefer selbst** |
+| **Grund** | Sie hat in b2 K53 und alt K72 geredet, und **derselbe Abschnitt sagte das dreißig Zeilen tiefer selbst** |
 | **Beleg** | Beide Male gibt **Sim** sie am Telefon wieder. Ein direktes Zitat von ihr existiert nicht |
 
 ### A7. Choi Dae-ho: "er isst nichts" war das Gegenteil
@@ -1044,7 +1103,7 @@ Der laufende Bericht steht in `doc/protokoll/2026-08-stil.md`, die Blätter in
 | **stand** | *"er isst nichts"* und *"er stellt genau eine Frage"* |
 | **jetzt** | **er isst viel - nur nicht vor Leuten, an denen er arbeitet**; und er stellt viele Fragen |
 | **Beleg** | Annie, b2 K17: *"He eats a great deal, and he enjoys it … He does not eat in front of people he is working on."* Fragen: allein in Mr Oks Bericht b2 K16 vier |
-| **Risiko** | Ein Mann, der nichts isst, ist eine Marotte. Einer, der viel isst und ausgerechnet beim Arbeiten nicht, ist eine **Landkarte** - Georgij benutzt sie in b2 K35 und b2 K72 |
+| **Risiko** | Ein Mann, der nichts isst, ist eine Marotte. Einer, der viel isst und ausgerechnet beim Arbeiten nicht, ist eine **Landkarte** - Georgij benutzt sie in b2 K35 und b2 K74 |
 
 ---
 
@@ -1117,7 +1176,7 @@ die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
 | 10 | **Rückkanal** - fragt sie je nach dem Gegenüber? Nimmt sie ein Angebot an, das die Szene ihr hinlegt? | Mrs Ha nimmt Georgijs *"I will answer any question you ask me"* nie an |
 | 11 | **Zustand** - ändert die Antwort des anderen, **was sie danach hergibt**? | Mrs Has Szene hatte eine Reihenfolge, keinen Zustand |
 | 12 | **Erklärt sie die Regel?** - spricht sie die Mechanik des Gesprächs aus? | **meine eigene Zeile**, nicht die des Buchs |
-| 13 | **Warum tut sie nicht das Naheliegende?** - unterlässt eine Figur mit Mitteln die offensichtliche Handlung, ohne dass der Text den Grund nennt? | am 26.08. an der Hafenfläche in b2 K76/alt K79 gefunden (seit demselben Tag **ein** Kapitel, b2 K76), **von keiner der zwölf Prüfungen** |
+| 13 | **Warum tut sie nicht das Naheliegende?** - unterlässt eine Figur mit Mitteln die offensichtliche Handlung, ohne dass der Text den Grund nennt? | am 26.08. an der Hafenfläche in b2 K78/alt K79 gefunden (seit demselben Tag **ein** Kapitel, b2 K78), **von keiner der zwölf Prüfungen** |
 
 **Zwei Sperren, keine Tests:** der Vorab-Test jeder Ersatzzeile gegen den Korpus
 (13) und `faktenspur.py` plus `check.py` vor jedem Push (14).
@@ -1296,5 +1355,5 @@ wiederhergestellt (b2 K20, b2 K05).
 100. **Eine Zahl allein wird nicht geprueft, eine Zahl neben ihrem Datum schon.** (Aus Schritt 3a, gilt fuer jedes erzeugte Verzeichnis.)
 101. **Ein geplanter Satz in einem Kanondokument ist der Stand, gegen den eine Schreibsitzung schreibt.** Korrigiert am 26.08.: *"If the world points anything at you at all, I will burn the world down"* stand als bestehender Satz da und **ist bis heute nicht geschrieben.**
 
-208. **Die Messung vom 25.08., und sie ist die schaerfste Selbstdiagnose im Dokument:** die Kapitel 68 bis 75 lagen bei **60 bis 77 Prozent Dialog** und bis zu **42 Szenentrennern**, waehrend B2 1 bis 50 bei 54 Prozent und 2,0 Szenen liegen. ***"Das Buch war zu einer Folge von Verhoeren in Raeumen geworden."*** Kapitel 76 antwortet darauf mit **28 Prozent Dialog**, keiner Szene mit zwei Leuten und einer Frage, und einem abgedruckten Dokument. b2 K58 liegt bei 32 Prozent, b2 K55 bei 57.
+208. **Die Messung vom 25.08., und sie ist die schaerfste Selbstdiagnose im Dokument:** die Kapitel 68 bis 75 lagen bei **60 bis 77 Prozent Dialog** und bis zu **42 Szenentrennern**, waehrend B2 1 bis 50 bei 54 Prozent und 2,0 Szenen liegen. ***"Das Buch war zu einer Folge von Verhoeren in Raeumen geworden."*** Kapitel 76 antwortet darauf mit **28 Prozent Dialog**, keiner Szene mit zwei Leuten und einer Frage, und einem abgedruckten Dokument. b2 K60 liegt bei 32 Prozent, b2 K57 bei 57.
 209. **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** vor einem Ergebnis drei Erwartungen aufschreiben, datiert und unterschrieben. *"Inside four seconds you will have a version of yourself that expected it. It is the cheapest thing you do and it is the only one you do not know about."*

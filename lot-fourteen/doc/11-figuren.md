@@ -85,6 +85,76 @@ Dieselbe Lücke hat ihm Hong bei Choi gezeigt: Seine Listen erfassen, wer beim H
 
 **Was er kann:** Räume lesen. Menschen zählen, Hände beobachten, Kreditwürdigkeit an einem Anzug ablesen. Er inventarisiert jeden Raum und jede offene Tasche automatisch auf Ausgänge und improvisierte Waffen, ohne Absicht.
 
+### Zwei Marotten, und beide sind Werkzeuge
+
+Vom Autor am 28.08. benannt, hier am Text nachgezaehlt. Keine von beiden ist
+Schmuck: die eine oeffnet Maenner, die andere schliesst ihn selbst.
+
+**Erstens: die Bitte um Fuehrung, und sie steht am Ende jeder
+Auseinandersetzung mit einem Gegner.** Der Wortlaut wechselt kaum -
+*"Please guide me"*, *"Who should I be careful of?"*, *"I would like to ask
+you for guidance."*
+
+| Wem | Wo |
+|---|---|
+| Mr Hong, im Ballsaal | `b1 ch07:268` |
+| Chairman Woo, ueber Zonen und Hafenstatus | `b1 ch11:66` |
+| Kang | `b1 ch12:146` |
+| Park Sang-hoon, zweimal in einem Gespraech | `b1 ch33:94` und `ch33:138` |
+| Choi Dae-ho, zweimal in einem Raum | `b2 ch82:82` und `ch82:506` |
+
+**Warum es wirkt, sagt Hana**, und sie sagt es ihm ins Gesicht: *"Nobody asks
+that. It is the most flattering thing you can say to an old man."*
+(`b1 ch09:240`)
+
+**Und es ist zugleich seine sichtbarste Spur.** Kang haelt ihm in
+`b1 ch12:146` vor, dass Chairman Woo mehreren Leuten erzaehlt hat, er sei
+Minuten vorher mit fast denselben Worten gefragt worden. `b1 ch10:126`
+zaehlt mit: *zweimal in drei Stunden, an zwei Maennern, die sich nicht
+aehnlicher haetten sein koennen.* Und `b2 ch02:22` sagt, wem die Frage
+gehoert: **einem Neuling.** Wer sie benutzt, gibt jedes Mal etwas ueber sich
+preis, und er weiss das.
+
+**Der letzte Gegner bekommt sie zweimal, und das ist der Bogen.** In
+`b2 ch82` steht sie am Anfang - und ein Mann, der fuenfundzwanzig Jahre lang
+diese Frage ueber jeden in diesem Land beantworten konnte, hat drei Sekunden
+lang **keinen Namen**. Am Ende desselben Kapitels stellt Georgij sie noch
+einmal, umgebaut zu *"How does a man with nothing left escape a thing he
+cannot see coming?"*, und diesmal antwortet niemand mehr.
+
+**Zweitens: er isst nicht, waehrend er arbeitet.** Ausgesprochen wird es an
+genau einer Stelle, und dort im Nebensatz:
+
+> `b2 ch45:216` - *There is one other man in this story who does not eat in
+> front of the person he is working on.*
+
+Das ist der Spiegel zu Choi Dae-ho, dessen ganze Lesbarkeit an derselben
+Sache haengt (`b2 ch23:222`). Der Unterschied ist, dass Choi es **nie
+bemerkt hat** und Georgij es weiss.
+
+Belegt ueber Band 2 hinweg: `ch45:208` bei Sim, der ihm die Suppe hinstellt
+und ihn ausdruecklich von jeder Verpflichtung entbindet · `ch47:198` bei
+Mr Yeom · `ch50:310` und `ch50:538`, wo Annie es zweimal bemerkt · `ch61:8`,
+wo Mrs Seo das erste Tablett unberuehrt zurueckholt und es niemandem meldet ·
+`ch83:286`, *"You have not eaten since one and I counted."*
+
+**Ein Gegenfall, und er bleibt stehen.** In `b1 ch16:28` isst er ordentlich
+und ohne Eile und sagt es auch, waehrend Sang-hoon ihm dreieinhalb Stunden
+lang zeigt, wie ein Chaebol arbeitet. Das ist Tag 46. Die Marotte gehoert
+Band 2 und ist damals noch nicht da - wer sie in Band 1 zurueckschreibt,
+nimmt ihr die Herkunft.
+
+**Wo beide aufeinandertreffen: `b2 ch82`.** Der Tisch im kleinen Raum ist
+fuer zwei gedeckt, mit dem Gang, der um acht ueber den langen Tisch
+gegangen ist, und Georgij hat Mrs Seo im Vorbeigehen darum gebeten. Es ist
+eine Messung: wer arbeitet, isst nicht. Choi ruehrt es nicht an, und damit
+ist die Frage beantwortet.
+
+**Und dann misst es zurueck.** Nachdem Georgij ihn vollstaendig beschrieben
+hat, hat Choi genau ein Mittel und benutzt es: *"There are two places at
+that table."* - *"There are."* - *"You have not touched yours either."* -
+*"No," said Georgij.* Er kann nicht luegen, und es steht nichts dahinter.
+
 Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niemand je gefragt hat:
 - **Digitale Sicherheit.** Er knackt Systeme, findet Erpressungspunkte in öffentlichen Spuren und weiß, wie schlecht die meisten Leute ihre verwischen. **An Annies Arbeitsmaschine gibt es dagegen nichts zu knacken.** Sie hat nie an einem Netz gehangen, und er begreift das in den ersten drei Tagen. Er kommt hinein, weil sie die Passphrase in drei Wochen zweimal vor ihm tippt.
 - **Physische Sicherheit.** Kamerawinkel, tote Zonen, Fluchtwege, Schließtechnik, Brandschutz.
@@ -1332,4 +1402,4 @@ steht der Widerspruch am selben Abend wieder da.
 148. **Die Adressaenderung: genau einmal, zweite Februarwoche vor vier Jahren - derselbe Monat, in dem Ahn Jung-hee in das Haus kam.** Baek: *"Somebody put them under one roof to save on a heating bill."* Die Sauerstoffmeldung folgte im Juli desselben Jahres.
 149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
 150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
-151. **Choi hat im ganzen Buch keine Replik ausser in b2 K80** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**
+151. **Choi hat im ganzen Buch keine Replik ausser in b2 K82** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**
