@@ -1367,3 +1367,122 @@ Derselbe Auftrag ist Sang-hoons eigener Verstoss. Beide halten dasselbe Blatt
 an verschiedenen Enden. **Deshalb gewinnt in dem Zimmer niemand, und deshalb
 geht der Mann, der nichts besitzt, als einziger unbeschaedigt hinaus.**
 
+---
+
+## Es gibt keinen Streit mit Singapur, und der Autor hat recht damit
+
+**Am 28.08. eingewandt:** bewusster Kollateralschaden ist ein Loch.
+
+**Die Kette ist keine Gegenpartei, sie ist Installation.** Anwaltskanzleien in
+Singapur, die wirtschaftliches Eigentum fuer **Mandanten** halten. Das Buch
+nennt zwei davon, und sie haben nichts miteinander zu tun:
+
+* **der Fonds, ohne den Woo sein Terminal nicht haette bauen koennen** -
+  zwanzig Prozent, seit dem Baujahr geschuldet (`b1 ch19:162`);
+* **Chois Private-Equity-Firma in Hongkong** (`b2 ch25:152`).
+
+**Ein Land oder eine Kanzleikette als Gegner waere schwach und moralisch
+schlampig.** Der dritte Gegner muss ein **Mandant** sein.
+
+### Und der Kollateralschaden ist kein Loch, sondern der Preis
+
+**Wer die schwarzen Kassen des Hanseong-Inhabers aufmacht, macht die Kette
+auf. Wer die Kette aufmacht, legt Woos zwanzig Prozent frei.**
+
+Das trifft den einzigen Mann im Buch, der Georgij ohne Gegenleistung etwas
+gegeben hat, der ihm vier Antworten versiegelt hinterlegt und der in
+`b2 ch87:176` sagt, er habe es in fuenfzig Jahren nie gesehen und wolle es
+einmal laut gesagt haben.
+
+**Das ist keine Nachlaessigkeit im Plan. Das ist die Entscheidung, die Band 3
+zu treffen hat**, und sie gehoert in eine Szene und nicht in eine Fussnote.
+
+### Der bessere dritte Gegner
+
+**Nicht wer am Ende der Kette sitzt, sondern wer daneben liegt.**
+
+Ein Mann, dessen Geld in denselben Zwischengesellschaften steht, **der nie
+Ziel war und nie etwas getan hat** - und den Georgij aufreisst, weil er
+danebengegriffen hat. **Er wird zum Feind, weil er beschaedigt wurde, und aus
+keinem anderen Grund.**
+
+**Damit ist das Unbehagen des Autors nicht wegargumentiert, sondern zum Thema
+gemacht.** Drei Baende lang trifft Georgij genau, wen er treffen will. Der
+dritte Gegner ist der erste, den er **nicht gemeint hat** - und der einzige,
+dem er nichts vorzuwerfen hat.
+
+## Woos Frau stirbt im Buch, und das Buch zeigt es nicht
+
+**Am 28.08. beim Nachsehen gefunden.**
+
+| Stelle | Tag | |
+|---|---|---|
+| `b1 ch19:58` | 48 | *the other one was my wife* |
+| `b1 ch25:240` | 59 | *My wife has asked me twice who you were* |
+| `b1 ch26:180` | 66 | *in a way I can repeat to my wife* |
+| `b2 ch24:16` | **230** | *I told my wife you would and she said you would not* |
+| `b2 ch69:152` | **434** | *I have not had a real conversation with him **since my wife died*** |
+| `b2 ch77:198` | 464 | *the worst four days I have had **since my wife*** |
+
+**Zwischen dem 21. Mai und dem 11. Dezember 2026 stirbt sie.** Das Buch zeigt
+es nicht, erwaehnt es nicht, und Georgij reagiert nie darauf - **bei dem
+einzigen Mann, der ihm etwas geschenkt hat.**
+
+**Zwei Wege, und beide sind gute:**
+
+* **Es war ein Versehen** und wird geheilt, indem eine Zeile in den Herbst
+  2026 gesetzt wird, und Georgij tut, was er tut: er faehrt hin und bringt
+  nichts mit.
+* **Es war kein Versehen**, und dann ist es das Haerteste im Buch: Woo
+  begraebt seine Frau, waehrend Georgij mit seinem Feldzug beschaeftigt ist,
+  und **niemand hat es ihm gesagt, weil niemand dachte, dass es ihn angeht.**
+
+### Und damit hat das Terminal keinen Erben
+
+**Keine Kinder, in zwei Baenden nicht einmal erwaehnt. Die Frau ist tot.**
+
+Woo ist achtundsiebzig, besitzt *one thing he cares about* (`b1 ch18:222`),
+und zwanzig Prozent davon gehoeren seit dem Baujahr einem Fonds, den niemand
+lesen kann.
+
+**Die Frage, wer die anderen achtzig bekommt, ist damit offen und faellig.**
+Drei Antworten, und jede ist ein anderes Buch:
+
+1. **Der Fonds bekommt es.** Dann hat die Kette in Singapur am Ende genau das,
+   was Woo fuenfzig Jahre lang niemandem gegeben hat.
+2. **Annie bekommt es.** Dann hat sie, worum Band 1 ging, ohne einen Won
+   gezahlt zu haben - und ist danach das Ziel von allem.
+3. **Georgij bekommt etwas davon.** **Das waere das erste, was er je besessen
+   hat**, und es bricht Regel 2 nicht durch eine Zahlung, sondern durch ein
+   Testament - das einzige Verfahren, gegen das er sich nicht wehren kann.
+
+## Das Halsband: zwei Gruende, es zu benutzen, und keiner davon ist Romantik
+
+**Am 28.08. gefragt.**
+
+**1. Band 4 kann ohne es nicht stattfinden.** Ein Mann geht als kleiner
+Angestellter in ein Werk und redet mit allen. **Er kann das nicht mit einem
+Halsband tun.** Also entweder es kommt vorher ab - und das ist das Ereignis,
+das zwei Baende lang vermieden wurde -, oder Band 4 muss erklaeren, warum
+niemand in dieser Firma etwas dazu sagt. **Das ist keine Randfrage, das ist
+die Eintrittskarte.**
+
+**2. Es hat seit dem 19. Februar keine Grundlage.** Die Zeile im Register ist
+gestrichen. Er traegt etwas, das sagt, er sei Eigentum, **und es gibt kein
+Papier im Land, das das stuetzt.** Vor einem Staatsanwalt, der eine Frau
+sucht, die zu weit geht, ist ein Mann mit einem Halsband und ohne Eintrag die
+beste halbe Stunde des Jahres.
+
+## Mr Chae hat mit Georgij gearbeitet, und das ist der Punkt
+
+**Am 28.08. gefragt: ja.** `b1 ch18:274`, Annies Anweisung: *"**Build the bid
+with Mr Chae** and do not let him see the reason for it."* Und `b1 ch20:210`:
+*"Mr Chae has the structure and he does not have the reason, and he is not
+going to get it."*
+
+**Sie haben Seite an Seite gearbeitet, und Georgij war der, der das
+Verschweigen ausgefuehrt hat.** Die Anweisung war ihre. Die Hand war seine.
+
+**Wenn Mr Chae eines Tages zusammenrechnet, was ihm nie gesagt wurde, hat er
+seine Rechnung nicht mit ihr allein.**
+
