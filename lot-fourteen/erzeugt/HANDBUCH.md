@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 265.445 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 266.099 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -40,7 +40,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Tuer heisst *No medical history*](#die-tuer-heisst-no-medical-history)
   - [Die Regel fuer das Schreiben, und sie steht schon im Buch](#die-regel-fuer-das-schreiben-und-sie-steht-schon-im-buch)
   - [Denn die Haerte ist nicht zu begruenden, sie ist der Anfang](#denn-die-haerte-ist-nicht-zu-begruenden-sie-ist-der-anfang)
-  - [Und der Junge ist offen, und Georgij weiss, wo er ist](#und-der-junge-ist-offen-und-georgij-weiss-wo-er-ist)
+  - [Und der Junge ist offen, aber anders, als ich es am 28.08. behauptet habe](#und-der-junge-ist-offen-aber-anders-als-ich-es-am-28-08-behauptet-habe)
   - [Der Satz, der dann rueckwaerts explodiert](#der-satz-der-dann-rueckwaerts-explodiert)
 - [Stimmen: wer wie spricht](#stimmen-wer-wie-spricht)  ·  `doc/12-stimmen.md`
   - [1. Jede Figur will etwas, das mit Georgijs Sache nichts zu tun hat](#1-jede-figur-will-etwas-das-mit-georgijs-sache-nichts-zu-tun-hat)
@@ -355,6 +355,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wer das benutzt: Mr Chae, und er ist ueberfaellig](#wer-das-benutzt-mr-chae-und-er-ist-ueberfaellig)
   - [Und der zweite Faden: ihr Bruder](#und-der-zweite-faden-ihr-bruder)
   - [Was Band 5 damit ist](#was-band-5-damit-ist)
+  - [Das Alter, und der Katalog bekommt zwei Jahre zu spaet recht](#das-alter-und-der-katalog-bekommt-zwei-jahre-zu-spaet-recht)
+  - [Die Rechnung, die dabei aufgeht, ist gegen Annie](#die-rechnung-die-dabei-aufgeht-ist-gegen-annie)
+  - [Und dann steht er vor der Frage, die das ganze Buch stellt](#und-dann-steht-er-vor-der-frage-die-das-ganze-buch-stellt)
+  - [Und es setzt Band 6 auf](#und-es-setzt-band-6-auf)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -2371,7 +2375,16 @@ eines Vierzehnjaehrigen, und das Buch hat nie gesagt, warum das ausgerechnet
 ihn so trifft.** Es muss also nichts eingefuehrt werden. **Es muss etwas
 eingeloest werden.**
 
-### Und der Junge ist offen, und Georgij weiss, wo er ist
+### Und der Junge ist offen, aber anders, als ich es am 28.08. behauptet habe
+
+**Berichtigung.** Ich hatte `b2 ch56:104` angefuehrt - *"I know where the
+house is. I have known since the sixth of July."* - als Beleg dafuer, dass
+Georgij weiss, wo der Junge ist. **Das ist falsch.** Die Zeile steht in einem
+Gespraech mit Mr Ahn und meint **dessen Schwester**. Sie war mir in eine Suche
+geraten, weil das Wort *next month* darin vorkommt, und ich habe die Bedeutung
+hineingelesen statt sie nachzuschlagen.
+
+**Was wirklich dasteht:**
 
 `b2 ch27:180`: *"Lot eleven and lot fourteen, four lines apart. I was in the
 room for both of them, and I was one of them."*
@@ -2379,11 +2392,10 @@ room for both of them, and I was one of them."*
 `b2 ch50:190`: *"Byun came to you in February about that one because it
 frightened him, **and it frightened him because of what the buyer wanted.**"*
 
-`b2 ch56:104`: *"**I know where the house is. I have known since the sixth of
-July.** I am not going to tell you, and I am not going to tell you today or
-next month."*
-
-**Das ist der Ort, an dem dieses Material im Buch bereits wartet.**
+**Und die Auskunft, die es wirklich gibt, steht in einem Dokument und nicht im
+Text** (`doc/31-plan-band-2.md:1196`): **Annie hat den Jungen gekauft**, sie
+hat ihn aus dem Katalog nehmen lassen, **er wird seither irgendwo geschult**,
+und **Georgij hat es nie erfahren.**
 
 ### Der Satz, der dann rueckwaerts explodiert
 
@@ -16206,12 +16218,24 @@ mit einem Wort.**
 | ab 168 | die Hand ins Haar, und es wird das feste Zeichen | `b2 ch09`, `19`, `25`, `28`, `32`, `52`, `54`, `66`, `89` |
 | 590 | *She took her hand off the arm of the chair and held it out to him.* | `b2 ch89:290` |
 
-**Das Buch endet damit, dass sie ihm die Hand hinhaelt.** Ein Kuss auf die
-Wange waere der erste Schritt daran vorbei, und er waere folgerichtig - aber
-nur, wenn er die drei Regeln der Reihe einhaelt: **von ihr**, **ohne
-Ankuendigung**, und **ohne dass irgendjemand danach ein Wort darueber
-verliert.** Wer ihn kommentieren laesst, macht aus einer Steigerung ein
-Ereignis, und dann ist die ganze Reihe davor umsonst gewesen.
+**Das Buch endet damit, dass sie ihm die Hand hinhaelt.** Ein Kuss waere der
+erste Schritt daran vorbei, und er waere folgerichtig - aber nur, wenn er die
+drei Regeln der Reihe einhaelt: **von ihr**, **ohne Ankuendigung**, und **ohne
+dass irgendjemand danach ein Wort darueber verliert.** Wer ihn kommentieren
+laesst, macht aus einer Steigerung ein Ereignis, und dann ist die ganze Reihe
+davor umsonst gewesen.
+
+**ENTSCHIEDEN AM 28.08., und dieser Abschnitt ist damit ueberholt.** Es sind
+**zwei** Kuesse und nicht einer, an zwei verschiedenen Stellen:
+
+| | Wo | Was |
+|---|---|---|
+| **auf die Wange** | in der Sang-hoon-Szene, **Mitte des Bandes** | hebt die Anrede *Mistress* auf |
+| **der Kuss** | **auf Chairman Woos Beisetzung, Bandende** | die letzte Zeile des Bandes |
+
+**Ausgefuehrt weiter unten** unter *Das Ende von Band 3* und *Der Wangenkuss
+steht jetzt in der Sang-hoon-Szene*, und festgeschrieben in
+`doc/10-naehe.md`.
 
 **Was ausserhalb bleibt, bleibt ausserhalb** (`CLAUDE.md`): was zwischen den
 beiden geschieht, endet an der Tuer. Eine Wange ist diesseits davon.
@@ -18382,6 +18406,80 @@ dem einzigen Menschen, der ihn gekauft hat.
 
 **Und ein dritter Platz bleibt frei**, weil Band 5 zum Zeitpunkt dieser Notiz
 noch keinen Antrieb hat, der von aussen kommt.
+
+---
+
+## Los elf kommt in Band 3 zurueck, sechzehn und ausgebildet
+
+**Vom Autor am 28.08. festgelegt**, und er hat recht damit, dass es schon
+festgeschrieben war - nur nicht mit einem Band daran.
+
+**Was in den Dokumenten schon steht:**
+
+* `doc/31-plan-band-2.md:1152` - *Los elf gehoert ohnehin in einen zweiten
+  Band.*
+* `doc/31-plan-band-2.md:1196` - *Los elf und der Name des Garanten,
+  **dieselbe Vorenthaltung.** Der Junge wird laut Absprache vom 23.08.
+  irgendwo geschult; wo, steht nirgends und muss auch nirgends stehen.*
+* `doc/11-figuren.md` - *Annie haelt den Namen zurueck, wie den des Garanten
+  und **wie Los elf**.*
+* `doc/14-welt.md` - Los elf wurde aus dem Katalog **zurueckgezogen**, und das
+  ist der Praezedenzfall.
+
+**Neu ist damit nur: der Band, das Alter, und dass die Ausbildung fertig ist.**
+
+### Das Alter, und der Katalog bekommt zwei Jahre zu spaet recht
+
+`b1 ch01:16`: *Lot eleven was a boy. **The file said sixteen. He was fourteen
+at the outside**, and files rounded upward when it suited the seller.*
+
+**Am vierten Oktober 2025 war er hoechstens vierzehn und stand als sechzehn im
+Buch.** In Band 3 **ist** er sechzehn.
+
+**Die Akte hat gelogen und ist von selbst wahr geworden.** Niemand hat sie
+berichtigt, niemand musste, und es hat zwei Jahre gedauert. **Das ist ein
+Satz und keine Szene, und er gehoert genau einmal hingeschrieben.**
+
+### Die Rechnung, die dabei aufgeht, ist gegen Annie
+
+**Georgij hat zweimal gefragt und zweimal keine Antwort bekommen.**
+`b1 ch01:214`: *"And the boy?"* `b1 ch04:226`: *"Has the house listed lot
+eleven yet?"* **Danach hat er aufgehoert zu fragen, zwei Baende lang.**
+
+**Und die Antwort gab es die ganze Zeit.** Sie hat ihn gekauft, am selben
+Abend, an dem sie den Namen des Garanten geholt hat.
+
+**Wenn der Junge in Band 3 durch eine Tuer kommt, erfaehrt Georgij nicht, dass
+es dem Jungen gutgeht. Er erfaehrt, dass ihm zwei Jahre lang etwas
+vorenthalten wurde, und von wem.** Das ist eine Rechnung mit der einzigen
+Person, mit der er noch keine hatte.
+
+### Und dann steht er vor der Frage, die das ganze Buch stellt
+
+**Der Junge ist ausgebildet. Er ist brauchbar. Und er will arbeiten.**
+
+**Alles, was Georgij kann, hat er in elf Haeusern gelernt.** Wenn er den
+Jungen anlernt, gibt er den Handel weiter. Wenn er es nicht tut, laesst er
+einen Sechzehnjaehrigen unbrauchbar in einer Welt, in der unbrauchbar
+gefaehrlich ist.
+
+**Es gibt keine saubere Antwort, und das ist der Grund, es einzubauen.**
+
+**Zwei Sachen, die dabei von selbst passieren und nicht erklaert werden
+duerfen:**
+
+1. **Der Junge sieht das Halsband.** Ein Mann, der eines freiwillig traegt,
+   vor einem, dem gerade eines abgenommen wurde.
+2. **Georgij war mit sechzehn im sechsten oder siebten Haus.** Er wird das
+   nicht sagen. **Er wird es einmal rechnen und dann weitermachen.**
+
+### Und es setzt Band 6 auf
+
+**Das erste Kind in Georgijs Leben ist eines, das er nicht gerettet hat.** Er
+hat einen Kaeufer ruiniert und ist weitergefahren, und eine andere hat
+bezahlt und es ihm verschwiegen.
+
+**Wer daraus Reue macht, macht es kleiner.** Es genuegt, dass es dasteht.
 
 ---
 

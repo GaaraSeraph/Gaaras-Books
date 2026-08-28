@@ -1509,7 +1509,16 @@ eines Vierzehnjaehrigen, und das Buch hat nie gesagt, warum das ausgerechnet
 ihn so trifft.** Es muss also nichts eingefuehrt werden. **Es muss etwas
 eingeloest werden.**
 
-### Und der Junge ist offen, und Georgij weiss, wo er ist
+### Und der Junge ist offen, aber anders, als ich es am 28.08. behauptet habe
+
+**Berichtigung.** Ich hatte `b2 ch56:104` angefuehrt - *"I know where the
+house is. I have known since the sixth of July."* - als Beleg dafuer, dass
+Georgij weiss, wo der Junge ist. **Das ist falsch.** Die Zeile steht in einem
+Gespraech mit Mr Ahn und meint **dessen Schwester**. Sie war mir in eine Suche
+geraten, weil das Wort *next month* darin vorkommt, und ich habe die Bedeutung
+hineingelesen statt sie nachzuschlagen.
+
+**Was wirklich dasteht:**
 
 `b2 ch27:180`: *"Lot eleven and lot fourteen, four lines apart. I was in the
 room for both of them, and I was one of them."*
@@ -1517,11 +1526,10 @@ room for both of them, and I was one of them."*
 `b2 ch50:190`: *"Byun came to you in February about that one because it
 frightened him, **and it frightened him because of what the buyer wanted.**"*
 
-`b2 ch56:104`: *"**I know where the house is. I have known since the sixth of
-July.** I am not going to tell you, and I am not going to tell you today or
-next month."*
-
-**Das ist der Ort, an dem dieses Material im Buch bereits wartet.**
+**Und die Auskunft, die es wirklich gibt, steht in einem Dokument und nicht im
+Text** (`doc/31-plan-band-2.md:1196`): **Annie hat den Jungen gekauft**, sie
+hat ihn aus dem Katalog nehmen lassen, **er wird seither irgendwo geschult**,
+und **Georgij hat es nie erfahren.**
 
 ### Der Satz, der dann rueckwaerts explodiert
 
