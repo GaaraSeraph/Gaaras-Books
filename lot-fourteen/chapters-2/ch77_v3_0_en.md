@@ -1,320 +1,286 @@
-# Chapter 77: Nobody asked
+# Chapter 77: I require your instructions
 *Lot Fourteen* · Version 3.0 · EN
 
-## Day Five Hundred and Ten · Thursday 25 February
+## Day Four Hundred and Ninety-Three · Monday 8 February
 
-The house on the river has three rooms left with anything in them and one of the three is a corridor.
+Baek Jun-ho asked for the Monday morning and said on the telephone that it would take fifty minutes and that Georgij was not to bring anything.
 
----
-
-The plate by the entrance came down in October and the four screw holes are still there, and somebody has painted round them rather than over them, which will annoy Mr Hwang for the rest of his life.
+He said the last part twice, which he has not done before.
 
 * * *
 
-He was behind the desk at two minutes to nine with a sheet of paper in his hand.
-
-"The fifteenth of October," he said. "Nineteen weeks. You have been in this building four times and every one of them has been at nine, and I have been in it since eight every day for six years and I have never once been telephoned before ten."
-
-"That is why I come at nine."
-
-"I know why you come at nine. I have known since the second time." He put the sheet down and squared it. "Sit down. This is the last morning there is anything to sit down for."
-
-* * *
-
-The van comes at eleven.
+There is one page on the desk when Georgij comes in, face up, and it is a draft, and there are two words crossed out on it in ink.
 
 ---
 
-Two men and a lorry, and nobody has pretended it is an archive. It is a firm in Siheung that does this for a living, against a schedule, with a weighbridge and a certificate, and Mr Hwang chose them in October out of four quotations and took the second cheapest.
+"I am going to do this in three parts," said Baek, "and the first two are mine and you are not going to like the third one either."
 
-"The cheapest did not offer a certificate," he said. "I telephoned them to ask and the man said that nobody ever wants one."
-
-* * *
-
-"Say the schedule back to me," said Georgij.
-
-"You have read it."
-
-"I have read it and I would like it from you, because you wrote it and you are the only man alive who knows what it does not cover."
-
----
-
-Mr Hwang put both hands on the desk.
-
-"Class one, the permanent series, thirty years and the renumbering, in nineteen boxes." He did not look at anything while he said it. "Class two, the settlement books. They went in a van on the twentieth of May last year and they are in a unit belonging to a fund, and I have added them to the same instruction. I could have had them copied in the first week of May and did not think of it."
-
-"You have told me that before."
-
-"I have told you that once, in this building, in May, and I am going to go on telling it to people until it stops being useful." He turned the sheet over. "Class three, correspondence. Class four, the personnel files, which go last and which go on the fourth of March, because there are people in them who are alive."
+"Then the first one."
 
 * * *
 
-Georgij sat in a chair in a room with two crates in it.
+"On the first of December I signed a change of delivery address on a standing instruction," he said. "I told you about it on the eighth of December on the telephone, and I told you that there was no ground on which I could have refused, and I believed that when I said it."
 
-"And nobody has asked for anything," he said.
+"You have stopped believing it."
+
+"I stopped believing it on the fourteenth of January at about four in the afternoon, in this chair, with the deed open in front of me for the first time since 2016." Baek had both hands flat. "I would like to say the size of that out loud. Eleven years, forty-five payments, and I had not read the instrument since before that woman was in that house."
 
 ---
 
-Mr Hwang did not answer straight away.
-
-"That is the question you came for," he said.
-
-"It is."
-
-"Then you may have it in the order it happened, and it is going to take about forty seconds, and I have been holding it since the fourth of February because you would have found it out today anyway."
+Georgij sat down and did not say anything.
 
 * * *
 
-"Two," said Mr Hwang.
+"The deed says what the money is for and it says it in one line," said Baek. "*The operating costs of a residence.* Then a schedule: staff, provisioning, maintenance, utilities, insurance, and medical costs against invoice."
+
+"A residence."
+
+"A residence. Not a person. The instrument does not have a person in it anywhere, and that is why I never had to be told who she was, and that is the whole of what I have been hiding behind since 2016."
 
 ---
 
-The room did what a half emptied room does at ten past nine.
+He turned the deed round on the desk and did not push it across.
 
-"In nineteen weeks, with the schedule published, and every buyer this house ever had sent a copy of the wind-up notice in October with the disposal date printed on the second page." He said it flatly. "Two requests under clause eleven. One in December and one in January. One of them was yours in August, which makes it three, and I am counting the two because you already know about yours."
-
-"The two."
-
-"A woman who has bought in this house for forty-one years, on the twenty-first of December, about her own lot." Mr Hwang did not soften it. "And a man in Busan on the eleventh of January, about a bronze his father bought in 1994, because he is selling it and the buyer wants provenance. That is the whole of it."
-
----
-
-Georgij sat very still.
-
-"Six hundred and forty buyers," he said.
-
-"Six hundred and forty buyers, a clause I wrote in 2011 and was proud of for fourteen years, and a printed date." Mr Hwang put one hand flat on the sheet. "Two people in nineteen weeks. One of them was told about it by a man who came to her house and did not want anything, and the other one wanted to sell a bronze."
+"There is no residence," said Baek.
 
 * * *
 
-Neither of them said anything for a while.
+The office in Yeouido did what an office does at ten in the morning.
 
-"You are waiting for me to say something," said Mr Hwang.
+"Say it in order," said Georgij.
 
-"No. I am doing the arithmetic on somebody who did not ask."
+"The staff were paid off in November. The house was surveyed on the twenty-second of September and the room at the back was cleared before the second. The telephone was cut on the thirtieth." Baek listed it the way he lists things. "It has been let, or it is being sold, and either way there is nobody in it. On the first of December I moved the medical delivery to a private house on the river."
 
----
+"And the flat in Seodaemun."
 
-"Then do it out loud, because I did it on the fourth of February and I have not been able to make it come out any other way."
-
-* * *
-
-The sheet was still square on the desk where he had put it.
-
-"He has had the date since December," he said. "He got it by asking a man to telephone this office, and the girl read it off the schedule in about ninety seconds because it is not a secret."
-
-"I know which girl and I know which morning. It is in the day book and I looked it up on the fourth."
-
-"Then he has had ten weeks with a printed date on a piece of paper, and there is one entry in that series that is worth more to him than anything else in this country." Georgij did not hurry it. "And he has not asked for it."
-
----
-
-Mr Hwang did not move.
-
-"Say why not."
+"Is let to a young woman with a bicycle since the middle of November, and I am still paying the rates on it. I have been paying the rates on a flat with a tenant in it for eleven weeks."
 
 * * *
 
-"Because of the first eleven words of your own clause."
+"Then say the second part," said Georgij.
 
 ---
 
-He said it and then he did not go on, and Mr Hwang, who has been reading his own drafting since 2011, got there in about four seconds and went white around the mouth.
+"I have been administering nothing since about the first week of November," said Baek. "There is no residence, there are no operating costs, and the two payments that are still running go to an address that is not in the schedule and never was."
+
+"You are telling me you are in breach."
+
+"I am telling you that I have been in breach since the first of December and that I signed it myself in under four minutes." Baek did not look up from the deed. "Not because I was deceived. I was told the truth and it was not the whole of it, and I have said that to you once already and I have had two months to notice that saying it did not make it better."
 
 * * *
 
-"*Where a bona fide interest is asserted in respect of any lot.*"
+Georgij sat forward in the chair.
 
-"Yes."
+"There is a woman in that house who is on oxygen," he said.
 
-"He would have to assert an interest." Mr Hwang said it the way a man says a figure he has just checked. "In writing. On his own paper, or on somebody's paper with a name at the top of it. And it goes into the series with the request attached, and the request cannot be sealed or withdrawn, because I did not write one in for those either."
+"There is, and that is the first thing I looked at on the fourth of November, and I want you to know that it was the first thing." Baek did not look away. "Say what you have got standing behind her."
+
+"A supply from a different firm, in the name of the woman who owns the house, running since the second week of December." Georgij said it flatly. "The one you are paying for has been arriving alongside it since then and has not been used. There are four cylinders in a passage against a wall."
+
+---
+
+Baek Jun-ho sat back for the first time that morning.
+
+"Then nothing happens to her when I stop."
+
+"Nothing happens to her when you stop. It happened in December and she has not been told about any of it and she is not going to be."
+
+* * *
+
+"Good," said Baek. "That is the only thing in this that I would have refused over, and I would like it on the record that I asked before I told you what I am going to do and not after."
+
+---
+
+He turned the draft round then.
+
+* * *
+
+It is eleven lines.
+
+It says that the residence described in the schedule has been vacant since November and is no longer maintained by the trust. It says that two standing payments have since been directed to an address outside the schedule. It says that the trustee has suspended both with effect from the first of March.
+
+---
+
+And the last line is four words.
+
+---
+
+*I require your instructions.*
+
+* * *
+
+Georgij read it twice and did not touch the page.
+
+"You have crossed two words out," he said.
+
+"I have crossed out *regretfully* and I have crossed out *unfortunately*, and I did it at about eleven o'clock on Friday night and it took me nine minutes." Baek put one finger beside the page and not on it. "A man who has been in breach for two months does not get to be sorry in a letter. He gets to say what happened and what he has done about it."
+
+---
+
+"Who does it go to."
+
+"The settlor. In person, at the correspondence address, which is a solicitor's office in Jung-gu that forwards, and it has forwarded four things in eleven years and all four were mine."
+
+* * *
+
+"That is the first letter anybody has ever sent him," said Georgij.
+
+---
+
+Baek looked up.
+
+"Say that again."
+
+"I have been reading paper about that man since March," said Georgij. "Registers, filings, a fire safety schedule, a reservation book, sixteen call-offs off a screen in Bundang. Every single piece of it is paper that somebody else made and he stayed out of. There is nothing in the world with his name on it except what he signed himself. That letter is going to be the first thing that arrives *at* him."
+
+"That had not occurred to me and I have been at this since the fourteenth."
+
+"It occurred to me about four seconds ago and I would rather have thought of it before I came."
+
+* * *
+
+Baek Jun-ho got up and went to the cabinet behind his desk and did not open it.
+
+"Then say what you think he does," he said.
+
+"I do not know."
+
+"You have a view. You have had a view about that man since June and you have been right about most of it, and I am about to post this and I would like to hear it."
+
+---
+
+Georgij took the time it needed.
+
+* * *
+
+"He answers it," he said. "That is what I think and I am not certain."
+
+"Say why."
+
+"Because he cannot afford not to. A trust that has no instructions sits, and a trustee who has had no instructions for a year has to do something about it, and everything he does about it is a paper with a date on it." Georgij looked at the draft and not at him. "In four years there would be a file in this office about a trust that went silent, and the file would be readable, and he has spent twenty-three years making certain that there is nothing anywhere that is readable."
+
+"And if he answers."
+
+"Then there is an instruction in his own words in a solicitor's office in Yeouido, and it will be the second document in the world with his reasoning in it." He looked at the draft. "The first one is in that cabinet and it is eleven years old and it is two corrections to a deed."
+
+* * *
+
+Baek stood with his hand on the cabinet door.
+
+"You have not asked me for anything," he said.
 
 "No."
 
+"You have not asked me to hold it, and you have not asked me to send it, and you have not asked me to change one word of a document that is going to make a man do something."
+
 ---
-
-"So to get a copy of a line that has a woman's name on one side and a woman's name on the other," said Mr Hwang, "he would have to put his own name in a sentence about her."
-
-"That is the price of the copy."
-
-* * *
-
-The corridor outside had men in it moving something, and one of them said a number to the other.
-
-"I did not build that," said Mr Hwang.
 
 "No."
 
-"I built it so that a house could not hide behind silence. I wrote the last sentence about a nil return and I was pleased with myself for a fortnight." He had not taken his hand off the sheet. "It has done exactly one thing in fourteen years that I intended, and that was your letter in August, and it has done this, and I did not intend this and I could not have."
-
----
-
-Georgij did not offer him anything.
-
-"You are going to tell me that is what a good clause does."
-
-"No," said Georgij. "I am going to tell you that a man who has spent twenty-three years never writing anything down has spent ten weeks looking at a printed date. And that he decided he would rather lose it than be in a sentence."
+"Then I am going to tell you the third part," said Baek, "and this is the one where you are going to want to argue with me."
 
 * * *
 
-The van came at eleven and it was on time.
+He came back and sat down.
+
+"I am reporting myself," he said.
 
 ---
 
-Nineteen boxes went out of the front of a house on the river between eleven and twenty past, past the four screw holes and the plywood where the settlement slot was. The two men were perfectly ordinary and neither of them asked what any of it was.
+Georgij did not move at all.
 
-Mr Hwang went out to the lorry and watched them load it and did not help, because a man of his sort does not help, and he counted them onto the tailgate.
+"The December signature. In writing, to the Law Society, with the deed and the schedule and the instruction attached. I have an appointment on the second of March with a man I have known for thirty-one years, and he is going to have to look at it." Baek said it in exactly the voice he had used for the other two parts. "I have been in this profession since 1994 and I have been investigated once, in 2007, and I was cleared, and I have told you that in this room before."
 
-Nineteen.
+"You told me in October that being investigated is the one thing a man in your line cannot survive twice."
+
+"I did. I meant it and it is still true."
 
 * * *
 
-"There is a thing I am going to do and I would like you to be in the building for it and not in this room," he said.
+The office did what an office does.
 
-"Then I will be in the corridor."
+Georgij sat in a chair in Yeouido and did not say one of the four things that came to him.
 
 ---
 
-He signed the manifest at the desk with the door open, and it took him about four seconds, and Georgij stood eleven feet away in a corridor and did not watch him do it.
+"You are not going to argue," said Baek.
+
+"No."
+
+"I have had four days of building the answers and there are three of them and they are all quite good."
+
+"I know. I have got two of them myself and I am not going to use either."
 
 * * *
 
-The certificate came on the Friday by post, addressed to the administrator, and it is one page.
+Baek Jun-ho looked at him for a long moment.
 
-It gives the date, the class, the weight in kilogrammes, the method, and a reference number. It does not give a lot, a buyer, a price or a name, because a certificate of destruction is a document about paper and not about what was on it.
+"Say why not, because I have not been able to work it out and I have been at it since Thursday."
 
 ---
 
-Mr Hwang had it couriered to the house on the river on the Monday morning with a compliments slip and nothing written on the slip.
+Georgij put both hands flat on his knees.
+
+"Because you are not doing it for me and you are not doing it for her," he said. "You are doing it because a man who has spent eleven years not reading a deed has one thing left that he can still be, and it is a man who reports himself when he finds out."
+
+"That is close and it is not it."
+
+"Then say it."
 
 * * *
 
-Georgij put it in his inside pocket on the Monday afternoon and it has been there since.
-
-## Day Five Hundred and Fourteen · Monday 1 March
-
-He went back on the Monday and it is the fifth time and the building has two rooms.
+"I did not do it in 2016," said Baek.
 
 ---
 
-"You have come to offer me something," said Mr Hwang. "You have had it in your coat for four months and you have not offered it, and I have known since about November that you were not going to until this week."
+He said it flatly and it cost him more than the rest of the morning.
 
-"That is accurate."
+"In 2016 I looked at that flat for the first time and I wrote one letter and I got a courteous answer and I stopped. That was the day. Not the fourteenth of January and not the first of December." He had both hands on the desk. "I have had nine years of being a man who queried it once, and I have used that sentence on myself about a thousand times."
 
-"Then say it standing up, because I have been sitting behind desks in this building for six years and I am finished with it on the fourth."
+"And the second of March."
+
+"The second of March is nine years late and it is the only appointment available." Baek straightened the draft with one finger. "You do not argue a man out of that. You let him keep it or you take it off him, and I have watched you refuse to take a thing off somebody four times now and I have only understood it this morning."
 
 * * *
 
-Georgij stood.
+At the door Georgij stopped, because there was one thing left.
 
-"There is a woman in a house on the river who was going to be married in April eleven years ago," he said. "Sixty-two people were invited. She has asked what became of them. She has four and there are fifty-eight."
+"What happens to the money," he said.
 
----
+"It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on sitting and it earns what it earns. In fifty years a court decides what to do with it, because there will be nobody alive who knows what it was for."
 
-Mr Hwang did not say anything.
+"And in the meantime."
 
-"It is a records job and it is going to take years, and most of it is halls, registers, business filings and death notices, and about a third of it will come to nothing. There is a desk and a telephone and whatever it costs to be on trains. There is nobody to manage and nothing to run and no building. It is a long way beneath you and you would be doing it on your own."
-
-* * *
-
-"Who is paying," said Mr Hwang.
-
-"The woman who owns the house."
-
-"Say her name out loud in this room, because it is on a form I countersigned in October and I would like it said rather than understood."
-
----
-
-Georgij said it.
+"In the meantime a man in this city has to write me a letter about a woman he has never claimed to know, or watch a file grow in an office he has been in exactly once." Baek Jun-ho put the draft in a folder. "I have been arranging other people's silences for thirty-one years. I have never once been on the end that asks the question."
 
 * * *
 
-Mr Hwang stood up behind his own desk.
-
-"On the twenty-eighth of May last year you stood in a room upstairs and told me I would be in work by October and that it would be beneath me," he said. "I asked you whether that was supposed to be a kindness."
-
-"I remember what you asked and I remember what I did not answer."
-
-"You said in the same conversation that the man who took me on would be getting somebody who had learned the only thing I did not know in the autumn." He had both hands on the desk. "I have had nine months of finding out what that sentence meant and I have got about half of it."
+The letter went on the Wednesday, by hand, to a solicitor's office in Jung-gu that forwards.
 
 ---
 
-"Say the half you have."
-
-"That a schedule is not a decision."
-
-* * *
-
-"In April I put twelve posts through in an afternoon out of a spreadsheet and I did not go down to the floor," said Mr Hwang. "That is the half. I have had it since June and I have not been able to get any further with it, and I have known since about October that there was more."
-
-"There is more and it is not mine to give you."
-
-"Then whose."
+He wrote it that evening. There was no second version of it.
 
 ---
 
-"A woman in Gwangyang who is running a settlement function three hundred kilometres from here," said Georgij, "and she is not going to give it to you either, and she has told me so in her own words. She said that it would exist and that you do not get to have it."
+*Eleven lines and four words at the end.*
 
-* * *
-
-Mr Hwang stood very still.
-
-"She wrote it."
-
-"She wrote it on the fourteenth of June. It is nine lines and it is signed and dated, and it is in a drawer in a house on the river. I have read it and I am the only person other than her who has." Georgij did not look away. "I told you that in October in this room and I would not read you a line out of it, and I am not going to today either."
-
-"No," said Mr Hwang. "I did not think you would."
+*I require your instructions.*
 
 ---
 
-He came round the desk.
+*A trustee who cannot be told to stop, because a man arranged eleven years ago that he could not be told to stop, has found the one thing the man did not arrange.*
 
-* * *
-
-"Then I will take the work," he said.
-
-"You have not asked what it pays."
-
-"I have not, and I am not going to in this room, and you may tell her that I did not." He put his coat straight, which he does not need to do indoors. "I am fifty-five and I have been the man who keeps everything since I was thirty, and it has been worth nothing to anybody twice in that time."
-
-"Say the two."
-
-"A clause in 2011 that a stranger used correctly in August." He picked the sheet up off the desk and put it in the crate. "And a woman who came up three floors on the ninth of January four years ago with a school exercise book, because she had heard that I was proud of it."
-
-* * *
-
-At the door Georgij stopped.
-
-"Fifty-eight names," he said.
-
-"Fifty-eight names, eleven years old, out of a hall book with no addresses in it." Mr Hwang did not look up from the crate. "Four hundred and sixty weddings went through that hall between then and the day it changed hands. I will need the diary for that year and I will need it in a fortnight."
+*He did not build it so that the payments could not be suspended. He built it so that he could not suspend them. It has never been possible for him to stop it and it has always been possible for Baek.*
 
 ---
 
-Georgij stood in the doorway of a room with two crates in it.
-
-"It went out of a room in Mapo on the fourth of February," he said, "in a box with eight others, and the firm that paid for the van is not an archive, and I cannot get at it."
-
-"Then I will start with the hall."
-
-* * *
-
-He wrote it that evening and it took two lines.
+He sat with that for a while.
 
 ---
 
-*Nineteen boxes, three hundred and ninety kilogrammes, one page with a reference number on it, and no name anywhere on any part of it.*
+*And nobody in eleven years has read the deed.*
 
-*Two requests in nineteen weeks, and neither of them was his, and he had the date printed on a piece of paper in December.*
+*Not the solicitor who signed it forty-five times. Not the man who wrote the two corrections into it in twenty minutes in March, because he was not building a document, he was building a room he never had to enter.*
 
----
-
-Then the rest, and he took longer over it.
-
----
-
-*He read eleven words of a clause a man wrote in 2011 and worked out that the price of one copy was one sentence with his name in it.*
-
-*And then he did the thing he has done for twenty-three years, which is nothing, and it cost him the only paper in this country that would have been worth having.*
-
-*I have been calling that a habit since June. It is not a habit. It is the whole of him, and it has never once failed him until this winter, and it is going to go on not failing him right up until the evening.*
+*I have been looking for a mistake since March. There is not one. There is a deed that says residence, and a residence that is not there any more, and a man of sixty-three who opened a drawer on the fourteenth of January.*

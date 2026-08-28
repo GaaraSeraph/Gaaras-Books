@@ -1,0 +1,302 @@
+# Chapter 80: No occasion
+*Lot Fourteen* · Version 3.1 · EN
+
+## Day Five Hundred and Seventeen · Thursday 4 March
+
+Annie put the list on the desk at eight in the morning, face up, and did not turn it round.
+
+---
+
+It is the folded sheet from June with the thirty-one names on it, and it has been unfolded, and there are five more at the bottom in the same hand and a different pen.
+
+* * *
+
+"Twenty-six," she said. "Say why it is not thirty-one and do not look at the page."
+
+"One died in 2019. One is in Vancouver. Three are too ill or too old to be moved and one of those is in Daegu." Georgij did not look at the page. "That leaves twenty-six of the original, and you have added five."
+
+"Say the five."
+
+"Mr Koh. Mr Im. Mr Ok. Chairman Woo. And Park Sang-hoon."
+
+---
+
+Annie put one finger on the bottom of the sheet.
+
+"And the sixth, which I have not written down and which is not mine to write."
+
+* * *
+
+"Nam Byung-hee answered on the fifth of January," said Georgij. "She telephoned this house at nine in the morning and asked for me by name and said one word and rang off before I could say anything back."
+
+"You have not told me what the word was."
+
+"She said yes. And then she said that she was not going to explain it and that I was not to ask, and that was the second sentence, and then the line went down."
+
+---
+
+Annie wrote the name at the bottom of the page herself.
+
+* * *
+
+"Now the two you are going to raise," she said, "and I am going to say no to one of them and I would like to hear you make the case anyway."
+
+"Sim."
+
+"Sim."
+
+---
+
+Georgij stood at the side of the desk.
+
+"He is the only man alive who can put four of those twenty-six in the same room in his own memory," he said. "He was in three of them. He would know which of them had been worked on before any of them worked it out for themselves, and he would be able to say so."
+
+"That is the case."
+
+"That is the whole of the case and I have had it since January and I do not think it is good enough."
+
+* * *
+
+Annie did not soften anything.
+
+"He would be the only man in that room who did it to them," she said. "Twenty-six people are going to spend an evening finding out that they were arranged. If he is standing by a window while they do it, then in about a fortnight every one of them knows his face and his name."
+
+"Yes."
+
+"And he is sixty-three and he has finished, and he has been finished since September, and what he has left is that nobody in this country has an unkind sentence to put against him." She turned her hand over on the desk. "You told him that yourself in December and you said it was the bill. I am not going to take it off him in my own dining room."
+
+---
+
+"No, Mistress."
+
+"Say it as your own and not as mine, because you got there before I did and you have been carrying it since January."
+
+* * *
+
+He was still standing where he had been since eight.
+
+"He is the one person I would want in that room and he is the one person who cannot be in it," he said, "and I have known that since the fourth of January and I have gone on wanting it for two months anyway."
+
+---
+
+Annie did not move in the chair.
+
+"That is the answer," she said. "Now the other one."
+
+* * *
+
+"There is no other one," said Georgij.
+
+"There is, and you have not raised it, and I have been waiting since Tuesday to find out whether you would."
+
+---
+
+He did not pretend.
+
+"Neither of them comes near it," he said. "Not the room, not the house on that evening, not the corridor. There is a woman in the room at the back who has been in one building for eleven years. There is another who has been free since the second of November. There is not one version of that evening in which either of them is in this house while twenty-six people find out what was done to them."
+
+* * *
+
+"Where do they go."
+
+"Nowhere. They stay." He said it flatly. "It is their house now and I am not going to move two women out of a house for a dinner. Mrs Seo has the far side of the ground floor and the back stairs, and the dining room and the hall are the other end of the building, and neither of them will hear a door."
+
+---
+
+Annie sat back.
+
+"Then say it as the decision and not the arrangement."
+
+"They are not exhibits," said Georgij. "There is going to be an evening in which twenty-six people work out that they were used. Every one of them is going to want to see the two people it was actually done to. Not one of them is going to get to."
+
+* * *
+
+"That is the first thing this year you have decided about that house without asking me," said Annie.
+
+"I know."
+
+"Good," she said, and did not add anything to it.
+
+* * *
+
+The invitation is four lines and Annie wrote it herself on the Thursday afternoon and had it set by a printer in Jung-gu on the Friday.
+
+---
+
+It gives the house, the date, and the hour.
+
+It says that she would be glad if they would come.
+
+It does not say what for.
+
+---
+
+There is no occasion on it and there is no other name on it and there is nothing on the back.
+
+* * *
+
+"Say what the fourth line does," said Annie.
+
+"There is no fourth line."
+
+"There is a fourth line and it is the reason it works, and you have read the card six times since Friday."
+
+---
+
+Georgij looked at it again.
+
+* * *
+
+*I hope you will not think it strange that I have not said what the evening is for.*
+
+---
+
+"That," he said.
+
+"Say what it does."
+
+"It tells twenty-seven people that there is a reason and that they are not going to be told it in advance, and every single one of them is going to come because of that one sentence." He put the card down. "And it is true. There is no version of it that is not true, and you wrote it in about four minutes."
+
+---
+
+"It took eleven," said Annie. "The first three were about him."
+
+* * *
+
+They went out on the eighth of March by hand and by post, twenty-seven of them, and the twenty-seventh went to a solicitor's office in Jung-gu that forwards.
+
+---
+
+Georgij did not write that one and did not address it and did not touch it. Annie did all three herself at the desk, and Mrs Seo took it to the box with the others and was not told which it was.
+
+* * *
+
+## Day Five Hundred and Twenty-Two · Tuesday 9 March
+
+Mrs Seo came up to the study at half past seven in the morning, which she does about four times a year.
+
+---
+
+"You are going to tell me about the eighteenth," she said, "and I would rather have it now than on the sixteenth."
+
+"Sit down," said Annie.
+
+"I will stand, and you will tell me anyway."
+
+* * *
+
+Annie told her.
+
+---
+
+It took eleven minutes and she did not leave any of it out, and Georgij stood at the window and did not say one word for the whole of it.
+
+The thirty-one names and how they were collected in nine days in June. The four who were made to be quiet about a wedding eleven years ago and the one who lost her business. A prosecutor of thirty-six who was got out of a service in 2002 by a man who could not read a contract, and whose photographs are in the dining room, and who is her father.
+
+And that twenty-seven people are coming to a dinner and none of them knows that the others exist.
+
+* * *
+
+Mrs Seo did not say anything for about four seconds.
+
+"And the twenty-seventh," she said.
+
+"The twenty-seventh is the man."
+
+---
+
+"Then I have one question and it is about the house and not about him."
+
+"Ask it."
+
+* * *
+
+"Does he come in at the front?"
+
+---
+
+Annie put the pen down.
+
+"Say why that is the question," she said.
+
+"Because if he comes in at the front then somebody has to take his coat, and it is going to be Eun-ju, who is nineteen." Mrs Seo had her hands in front of her. "And I am not having a girl of nineteen take that man's coat without knowing what she has got in her hands."
+
+---
+
+Nobody said anything.
+
+"Then he comes in at the front and I take his coat," said Mrs Seo.
+
+* * *
+
+"There is a second thing and it is yours," said Annie, "and I am going to put it to you as a request, and you may say no in this room and nothing whatever happens."
+
+"Then put it."
+
+"At about half past nine somebody is going to take him out of that room and along the passage to the small room at the end, and leave him there, and there will be one person in it." Annie did not raise her voice at any point. "It cannot be me, and it cannot be him, and it cannot be a man from the kitchen."
+
+---
+
+Mrs Seo stood in the middle of the study.
+
+"You want me to walk him to a door."
+
+"I want to ask you whether you will."
+
+* * *
+
+She took about six seconds over it, which is longer than she takes over anything.
+
+"How do I do it," she said.
+
+"However you would do it for anybody."
+
+"That is not an answer and you know it is not." Mrs Seo did not blink. "I have walked six hundred people to rooms in this house in nine years. There is a way of doing it that says the room is better than where you were, and there is a way that says you are wanted somewhere, and there is one that says nothing at all. I have never once had to choose."
+
+---
+
+Annie looked at her.
+
+"Then choose the one that says nothing at all," she said.
+
+* * *
+
+"I will do it," said Mrs Seo, "and I am going to say one thing about it and then I am going to go and see about the second sitting."
+
+"Say it."
+
+"I have run this house for nine years and I have never been told the reason for anything, and I have said out loud that I prefer it." She had one hand on the frame. "This is the first time anybody has told me the whole of something before asking me, and I want it said that I noticed, and that I would have done it either way."
+
+---
+
+She went.
+
+* * *
+
+Georgij stood at the window for a while after the door had shut.
+
+"She would have done it either way," he said.
+
+"She would have done it either way and she is going to think about the eighteenth for the rest of her life," said Annie, "and both of those are true and only one of them is my business."
+
+---
+
+She put the pen down and looked at the list.
+
+"Twenty-seven," she said. "Say what happens if he does not come."
+
+* * *
+
+Georgij did not take any time over it.
+
+"Then twenty-six people sit down together anyway," he said, "and by about ten o'clock every one of them has worked out what the other twenty-five have in common, and the only man who is not in that room is the one they have in common."
+
+"And he finds out on the nineteenth."
+
+"He finds out on the nineteenth from somebody who was there, and by then it is a thing that happened to him and not a thing he watched. Not coming is the same answer. It is a worse version of the same answer, and he will know that inside four seconds of reading the card."
+
+---
+
+Annie folded the list along its own crease and put it in the drawer that locks.
+
+"Then he comes," she said.

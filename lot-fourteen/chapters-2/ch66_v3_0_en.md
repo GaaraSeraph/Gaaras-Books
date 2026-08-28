@@ -1,456 +1,292 @@
-# Chapter 66: What silence costs
+# Chapter 66: A man who answers
 *Lot Fourteen* · Version 3.0 · EN
 
-## Day Four Hundred and Forty-One · Friday 18 December
+## Day Four Hundred and Thirty-Seven · Monday 14 December
 
-He read the three pages properly at half past six in the morning, at the desk in the small room, with the door open.
+Sim telephoned at twenty past four from a box, which is where he telephones from now, and he did not begin with the weather.
 
----
-
-They are not notes. They are a record, written straight through in one sitting, with the date at the top and no crossings out. A woman has been writing things down for forty years because a thing that bothers her has to go somewhere.
+"It rang on Thursday," he said. "It rang again on Friday at about the same hour. I did not pick it up either time."
 
 ---
 
-The date at the top is nine years ago.
+Georgij stood in the passage behind the kitchen and did not say anything.
 
----
+"You are not going to ask me how I know who it was, and you are right not to, and I am going to tell you anyway." Sim's voice did not change anywhere. "Nobody else has that number. I have had it since 2011 and I gave it to one man, and he has used it perhaps forty times in eleven years, always on a Thursday, always before five."
 
-*She wrote this in the second year and did it in one go. Then she put it in a drawer beside a chair, took it out four times in nine years, and never once gave it to anybody.*
+"Forty times."
 
----
-
-He knows exactly one other person who does that, and he was looking at his own notebook while he thought it.
-
----
-
-The name is on the first line and it is not introduced.
-
----
-
-Moon Hae-sook.
-
----
-
-Her father's firm made fittings for ships and sold up in the nineties. Her mother was at everything, for thirty years, and was liked in a way that Mrs Sunwoo has underlined once. Her mother died in October, and that is why October is her mother's month, and it is why a man who has never met her sends flowers in October and does not know what he is marking.
-
----
-
-Georgij sat with that for a while.
-
----
-
-*Sim has been putting flowers in a house twice a year for eleven years. April, because in April there was to have been a wedding. October, because in October her mother died. Somebody gave him both dates in a letter and no reason for either, and he has kept both for eleven years without asking.*
-
----
-
-*The man who wrote that letter knew her mother's month. Nobody outside that family knew her mother's month. He was in that house.*
-
----
-
-The wedding was to be in the second week of April.
-
----
-
-Eleven tables. Mrs Sunwoo has the number because she was asked whether she would sit at the fourth one and had said yes, and had then, in the way of a woman who is careful, made a note of it.
-
----
-
-The invitations went out in the first week of February.
-
----
-
-They were withdrawn in the second week of March, by a card. It gave no reason and did not apologise, and Mrs Sunwoo has copied out the whole of what it said because it is eleven words long.
-
----
-
-*We are grateful for your kindness and ask for your understanding.*
-
----
-
-Georgij read that four times and then sat back.
-
----
-
-*That is not a family's sentence. A family writes about circumstances and health and regret and it comes out badly and too long, and everybody forgives it.*
-
-*That is a man's drafting. It is the shortest thing that can be sent and it is impossible to answer.*
-
----
-
-Then the four.
-
----
-
-She names them, in her own hand, with what each one said and roughly when.
-
----
-
-The first was a man of her own age who has since died, and who changed the subject by looking at his watch and remembering an appointment that Mrs Sunwoo knew he did not have.
-
-The second went to Vancouver in the year after and has not been back.
-
-The third is a woman who still has everything she had then and two things she did not. On being asked, she said that she had never been close to that family and had only gone because her husband was going.
-
----
-
-*She was at the fitting. Mrs Sunwoo has written the word fitting and then written it again in the margin, which is a woman making sure of herself nine years later.*
-
----
-
-The fourth is a woman called Mrs Ha.
-
----
-
-Mrs Ha ran a business that put flowers and linen into halls, for weddings, for thirty years, and she did the Moon wedding that did not happen, and she did four hundred others.
-
----
-
-She lost it four years ago.
-
----
-
-Mrs Sunwoo did not know that when she wrote the pages, because the pages are nine years old. Georgij found it in twenty minutes, because a business that goes has to say so on paper.
-
----
-
-He put the pen down.
-
----
-
-*Four people were made to say nothing eleven years ago. Whatever was used on them was leverage, because that is the only thing that works on four people at once and holds. Leverage is a thing a person has.*
-
-*One of them is dead. One is on another continent. One still has everything she had and has added two.*
-
-*And one of them lost the whole of what she had four years ago, and nobody has been back to check whether the arrangement still holds.*
-
----
-
-He had the tactical position by about seven and it took him until half past nine to find out that it was not the question.
-
----
-
-*There is nothing to lose by going. He has known since the twenty-eighth of October, because the name box on a form is not optional. There is nobody in a building. Jang can have a street and nobody has to be careful about a Monday.*
-
-*That is the whole of it and it took four minutes and it is worth nothing.*
+"Forty-one now, and forty-two."
 
 * * *
 
-He wrote the other one at about ten and did not improve it.
+There was a coin going into the box.
+
+"I would like to be exact about what happened, because I have had four days with it and I have got it wrong twice," said Sim.
+
+"Then be exact."
+
+"I was in the office. I heard it. I looked at it and I did not move." He said it the way he says everything, which is courteously. "It went eleven rings. Nobody in this country lets a telephone go eleven rings, and I sat two metres from it and counted them, because counting is what I do while I am not doing anything."
+
+"And on the Friday."
+
+"On the Friday it went nine, and I was standing up by the fourth."
 
 ---
 
-*She has had eleven years of thinking she was being decent.*
+"You stood up."
 
-*Nobody has been near her since. Whatever it cost her she has paid it and stopped noticing, and a woman of her age with nine boxes and a kettle has arranged her life around the version she has.*
-
-*I am going to take it off her because I need the fourth one.*
-
-*There is no arrangement in which she is better off on Monday than she was on Friday, and I have spent three hours looking for one.*
-
-## Day Four Hundred and Forty-Two · Saturday 19 December
-
-He took it up at nine.
-
----
-
-Annie was at the desk with the folder from Yeouido open and did not close it, which she does when the thing in front of her is finished with rather than private.
-
-"I am going to Mapo on Monday," said Georgij, "and I am going to be honest about why, and the why is not what it would have been in the summer."
-
-"Say it."
-
----
-
-"I need the fourth of the four and she is the only one left who can be asked." He kept his hands where she could see them. "There is nothing in it for her. There is no danger to her and no gain to her, and I have been at it since seven and there is not one."
+"I stood up, and I got as far as the desk, and then I put my hand on the back of the chair instead and waited for it to stop." Sim let that sit for a second. "I have been thirty years in a trade where the whole of the work is that a man answers. I would like it on the record that it took me until the fourth ring on the second day."
 
 * * *
 
-Annie did not say anything for a moment.
+"Say why you did not," said Georgij.
 
-"Then you are asking me whether you may take a thing off a woman for nothing."
+"You will want the true one and not the one that flatters me."
+
+"I would like the one you have."
 
 ---
 
-"No. I am telling you that I am going to, and that I know what it is." He did not look away. "I would rather you heard me call it by its name than watch me call it something else in about a fortnight."
+Another coin went in.
+
+"It was not principle. I want that said first." A coin went into the box before he went on. "I sat there and I worked out what I would say if I picked it up, and there was nothing. Not one sentence. In thirty years I have never once lifted a receiver without knowing what the first four words were going to be. I did not have them. A man in my position does not answer a telephone he has no words for."
+
+"That is not a small thing."
+
+"It is the whole of the trade and I have just failed at it twice." He said it without any self-pity, which made it worse. "And the second time I failed at it faster."
 
 * * *
 
-"Jang takes you and sits in the car," said Annie.
+"He did not leave anything," said Georgij.
 
-"That is not necessary now."
-
----
-
-"It is not necessary and he is going anyway, and it is not about your safety." She picked the pen up and did not use it. "Somebody in that street is going to see a young man go up an outside stair to a woman who has nothing. I would like there to be a car with a driver in it, so that whatever anybody in that building decides they saw, they saw two people and not one."
+"He has never left anything anywhere in eleven years and he did not start on Friday." Sim was entirely level. "There is no message and there is no letter and there will not be one. If he wants me he will go on ringing on Thursdays before five, and one Thursday it will stop, and I will not be told which one that was until about a fortnight afterwards."
 
 ---
 
-"Yes, Mistress."
+"There is one more thing and it is mine and not information," said Sim.
 
-"And he has been in a lay-by since June. He can have a street."
+"Even so."
 
-## Day Four Hundred and Forty-Four · Monday 21 December
+"I am not going to answer it. Not this month and not in the spring." He straightened something at the other end of the line, and it came down the telephone as a pause. "I said in September that I would take nothing more from him, and I have not. I have had three months of nothing now and I would like you to know that it is exactly as bad as I expected and that I have not changed my mind."
 
-Jang put the car where he puts cars, which is forty metres past the place and facing the way out, and did not turn the engine off for the first two minutes.
+* * *
 
-"I am going to say the thing you do not want to hear," he said.
+Georgij stood in the passage after the line went down.
 
-"The thing I do not want to hear."
+---
 
-"You will come out of there at half past and she will have been perfectly all right about it." Jang had both hands on the wheel. "They always are. You will get into this car and you will not know one thing about what it did to her, and you will not know in a year either."
+He did not write it in the book straight away, which he has not done since March.
+
+---
+
+*A man rang a number twice in two days and got nothing, and that is the first thing anybody has taken off him this year that he could feel on the day it happened.*
+
+*The oxygen he cannot stop. The house he closed himself. Sim is the first.*
+
+---
+
+Then the other half, and he went and got the book for it.
+
+---
+
+*He rang on Thursday and on Friday and nobody answered.*
+
+*He did not ring anybody else on Thursday, because there was nobody else on Thursday. He has spent twenty-three years arranging it so that there is only ever one number.*
+
+*So the question is not who he rang. It is who he rang instead, afterwards, when the second one had gone nine rings as well.*
+
+---
+
+He sat with that until about six.
+
+---
+
+He has a page in the back of the book with fourteen names on it, and he started it in April and has not opened it since.
+
+---
+
+*Hands he has not touched.*
+
+---
+
+There is one name on it in this city.
+
+## Day Four Hundred and Thirty-Nine · Wednesday 16 December
+
+Mr Ok leaves his building at twenty past six and walks to the corner and waits for a car that is always eight minutes late.
+
+It was still eight minutes late in December.
+
+---
+
+He saw Georgij at the wall from about thirty metres and did not slow down and did not speed up. He put his case on the wall the way a man does when he expects to pick it up again shortly.
+
+"April," said Mr Ok.
+
+"April."
+
+"Two hundred and thirty-three days, and I know that because I worked it out on the bus this morning, which tells you something about how the last eight months have gone." He did not look at Georgij yet. "I have been expecting you since the fourth of November."
+
+---
+
+Georgij stood very still.
+
+"Say the date again."
+
+"The fourth of November. That was the Wednesday." Mr Ok turned round at last. "You are going to want to sit down and there is nowhere, so you had better take it standing."
+
+* * *
+
+"He telephoned," said Mr Ok. "It is the same voice and I would know it in a room with forty people in it, which I have been in, and I have thought about that every week since you stood here in April."
+
+"What did he ask you for?"
+
+"Four minutes of somebody's time."
+
+---
+
+The traffic did what traffic does.
+
+"He said we had met at the lunch, which we had, and he asked whether I still received the circulars from that house on the river." Mr Ok said it in order, the way he had said the other one. "I said I did. He said that a man he knows had asked him what becomes of a house's papers when it winds up, and that he had not known the answer, and that it was the sort of thing a buyer would."
+
+"And you said."
+
+"I said I would find out."
+
+* * *
+
+Georgij put both hands on the wall.
+
+"You did what I told you in April."
+
+"I did exactly what you told me in April and I want that said in those words, because I have not slept properly since the fifth." Mr Ok was not accusing him of anything. "I said yes. I did not ask him why. I did not warn anybody. I have not told one person and I have thought about telling four."
+
+---
+
+"And you found out," said Georgij.
+
+"I telephoned the administrator's office on the Friday and a girl read it to me off a schedule in about ninety seconds. It is not a secret and there is no reason on earth for it to be one." Mr Ok took an envelope out of his inside pocket and did not hold it out. "It is one page. It says what class of record goes where, and the date it goes, and the date it stops existing. It is the dullest piece of paper I have had in my hands in nine years."
+
+---
+
+Georgij looked at the envelope and did not reach for it.
+
+"You have had it since the sixth."
+
+"I have had it since the sixth and he has not rung again, and I have spent five weeks sitting in an office with it in a drawer working out which of two things is true." Mr Ok said it flatly. "Either he does not want it after all, or he is waiting to see whether I send it without being asked twice, and I have not been able to decide which of those is worse."
+
+* * *
+
+Then he asked it, and he asked it looking at the road and not at Georgij.
+
+"Should I send it?"
+
+---
+
+Georgij took the length of time it deserved.
+
+"Yes," he said.
+
+"You have stood at this wall twice, and both times you have said the thing I did not expect."
 
 "I know."
 
-"You do not, because nobody does until the third time." He put the handbrake on. "I will be here. I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."
+---
+
+Mr Ok turned the envelope over once.
+
+"Then give me the reason, because I am going to be putting it in a post box tomorrow morning and I would like to be carrying something."
 
 * * *
 
-She is in two rooms above a shop that sells bathroom fittings, and the stair is on the outside. There is a laminated card by the bell with her name on it, in a font that was expensive in about 2011.
+"It is true," said Georgij. "That is most of it. There is nothing on that page that anybody had to decide to give you, and a girl read it off a schedule in ninety seconds, and she would read it to the next man who telephoned."
+
+"That is most of it. Say the rest."
+
+"A man who asks you for something small and does not get it learns that somebody has been at you. He would not do anything about it. He would simply stop, and I would never find out where he stopped, and you would spend the next four years being a man who was once telephoned about a piece of paper."
 
 ---
 
-Mrs Ha is in her sixties and answered the door herself and looked at his coat before she looked at his face.
+Mr Ok looked at the envelope.
 
-"You are not from the insurance."
+"And if I send it."
+
+"Then he has one date in his hand that he did not have in November, and a date is a thing a man acts against." Mr Ok had not picked his case back up. "A man working against a date moves, and a man who moves leaves something behind."
+
+* * *
+
+"There is a part of that which is about him and a part which is about me," said Mr Ok, "and you have given me the first part twice and you have not given me the second."
 
 "No."
 
-"Then you can come in, and you can sit on the good chair, because the other one has been broken since March and I have not had it seen to." She went ahead of him. "Mind the boxes. That is a wedding from 2019 that never got collected and I am not throwing it out on principle."
+"Then I will ask for it, because a man of my age who has not slept since the fifth is entitled to one question."
+
+---
+
+Georgij waited.
+
+"Am I finished with this after tomorrow?"
+
+---
+
+He did not arrange it.
+
+"I do not know," said Georgij. "I would like to say yes and I have thought about saying it since the corner. If he rings you again, it will be about something small, and you are to do exactly the same thing, and you are to tell me afterwards and not before."
+
+"That is the same answer as April."
+
+"It is the same answer as April, and it is going to be the same one in the spring, and I am not going to improve it by putting a date on the front of it."
+
+---
+
+Mr Ok put the envelope back in his inside pocket.
+
+"Then that is the truth twice from the same man at the same wall," he said, "and I have been in this trade thirty-one years and I have not had it twice from anybody."
 
 * * *
 
-The room is stacked to the ceiling on two walls with boxes that have hall names written on them in marker.
+The car came, and it was eight minutes late.
 
 ---
 
-She sat down opposite him and did not offer him anything, which she would have done for a customer, and both of them understood that.
+Mr Ok got into it and did not close the door for a moment.
 
-"You'll want something," said Mrs Ha.
+"That woman in Ulsan," he said.
 
-"I am going to ask you one question about a wedding, and then I am going to answer any question you ask me, and then I am going to go." Georgij kept both hands where she could see them. "I am not from anybody's insurance and I am not from a hall and I am not selling you a system for your invoices."
+"She is working."
 
-"That last one comes on Tuesdays." She folded her arms. "One question."
+"You will not tell me where."
 
-"The Moon wedding. The second week of April, eleven years ago. It did not happen."
+"No."
+
+"Good," said Mr Ok, and closed the door.
 
 * * *
 
-She did not move for about four seconds.
+Georgij walked to the bridge rather than to the bus, and it took thirty-five minutes, and he did not write anything until he was across it.
 
 ---
 
-Then she got up and went to the window and looked at the street, which is a thing people do when they are deciding whether to be angry.
+*He rang Sim on Thursday and Sim did not answer.*
 
-"Eleven years," she said.
+*He rang Sim again on Friday and Sim did not answer.*
 
-"Yes."
-
-"Do you know how many I've done?"
-
-"Four hundred," said Georgij. "It is in a page somebody wrote nine years ago."
-
-"Four hundred and eleven, and the four hundred and eleventh was in the November before last and it was a nephew and I did it for nothing." She did not turn round. "And I can tell you the linen on every one of them, and the tables, and what the mother wanted and what she got instead. That is thirty years. That is what I've got, and it's in boxes, and nobody has asked me about any of it since the day I shut."
-
-* * *
-
-"I am not here about the business," said Georgij.
-
-"I know you're not. Nobody is." She sat down on the other side of the boxes. "Ask it properly, then. You said one question and you gave me a date."
-
-"What happened at the hall?"
+*And on the Wednesday before that he rang a man he has used once in his life, about a piece of paper anybody in the trade could have got for him in ninety seconds.*
 
 ---
 
-Mrs Ha put both hands flat on her knees.
-
-"They cancelled on the Thursday," she said. "The tenth of March. I had the order in and two of it delivered, because you deliver the linen first and the flowers the morning of, and the linen was in the building."
-
-"Who telephoned?"
-
-"The hall, not the family. That's normal and it means nothing. Halls do the telephoning." She looked at the boxes. "What isn't normal is that nobody argued about the money. In thirty years I have argued about money on three hundred of them, and this one paid the whole thing inside a week and never asked for the linen back."
-
-* * *
-
-"And then," said Georgij.
-
-"And then she came here."
+He stopped there and read it back and then wrote the rest, because the order had gone in wrong and the order is the whole of it.
 
 ---
 
-Georgij did not move at all.
+*The fourth of November is five weeks before the tenth of December. He went to Mr Ok first.*
 
-"Again."
+*He did not ring the man who has done everything for him for eleven years and then fall back on a hand he used once. He went round him, two days after the woman came out of that house.*
 
-"The bride came to this office." Mrs Ha said it flatly. "On the Monday. Not the mother, not a cousin, not the hall. Her. She came up those stairs on her own and she sat in the chair that's broken now, when it wasn't, and she apologised to me."
-
-"For what."
-
-"For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and eleven weddings, nobody's family has ever come to my office. Not once. They send a card at best and mostly they send nothing, and I have never thought worse of anybody for it, because it is a bad month and I am a supplier."
-
-* * *
-
-"What was she like," said Georgij.
-
-"That's your second question."
-
-"It is."
-
-"You said one and then you asked four, and I'm going to let you, because it's the first interesting afternoon I've had since February." She did not sit back. "You also said you'd answer anything I asked. I'll have mine now and not at the door. Who pays you?"
+*Then he waited five weeks and rang him twice, on two days, and let it go eleven and nine.*
 
 ---
 
-"A woman in Seoul," said Georgij. "I am not going to give you her name, and that is the only thing I am keeping from you today."
+*He was not asking Sim to do anything.*
 
----
-
-"Then she's getting her money's worth." Mrs Ha sat back. "Ask what you like now. I've stopped counting. She was the calmest person in this room, and I include myself, and I was not upset about anything."
-
-"What you mean by calm."
-
-"Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell you in four seconds." Mrs Ha did not look away. "She had decided something and she'd finished deciding it. There was nothing left in her about it at all. I have seen that twice in my life and the other one was my mother."
-
----
-
-Georgij sat in a room stacked with boxes and did not let anything happen on his face.
-
-* * *
-
-"I asked her whether it might be later in the year," said Mrs Ha.
-
-"Because that is what you ask."
-
-"Because that is what you ask, and people say yes, and it isn't true, and everybody gets to leave the room." She had her hands flat on her knees again. "She said no. Not the way people say no when they mean not yet."
-
-"The words."
-
-"There is not going to be a later." Mrs Ha said it exactly, and then she said the rest of it. "Then she thanked me for the linen. Then she asked what had happened to the flowers." She turned her hand over in her lap. "I said they were ordered and paid for and sitting in a cold room. She said send them to the hospital in Mapo. Somebody should have them."
-
----
-
-Neither of them said anything.
-
-"I did," said Mrs Ha. "Eleven tables' worth. I put them in the van myself on the Tuesday."
-
----
-
-She had finished deciding before she came up those stairs, and the only thing she had left to arrange was where the flowers went.
-
-* * *
-
-Georgij let a moment go past before he asked it, because there was no version in which it was not the next question.
-
-"And then somebody came to see you," he said.
-
----
-
-Mrs Ha went completely still.
-
----
-
-The room did what a room above a shop does on a Monday morning.
-
-"You'd better say how you know that," she said.
-
-"I do not know it. I worked it out on Friday and I have been ninety per cent certain since about seven o'clock that morning." He did not soften it. "Three other people were at that wedding or near it, and all three stopped being able to talk about it in the same month. One is dead. One is in Vancouver. The third told a woman she had never been close to that family."
-
-"Which is a lie," said Mrs Ha. "She was at the fitting. I did the fitting."
-
-"Yes."
-
-* * *
-
-Mrs Ha got up again and this time she did not go to the window.
-
----
-
-She went to the boxes on the left wall and put one hand on the third one down, which has a hall name on it in marker and a year, and left it there.
-
-"He came on the Thursday after," she said. "A week to the day."
-
-"Tell it in your own order."
-
-"He was pleasant." She was looking at the box. "He was the most pleasant man who has ever been in this office and I've had brides' fathers in here."
-
----
-
-Georgij did not move.
-
-"He knew what I did. Not vaguely, properly. He knew about the two halls in Jung-gu that used me and he knew I'd just taken on the girl, and he said something about my linen that only somebody who'd looked at it would say." Mrs Ha's hand had not come off the box. "And he said it was good to see me again."
-
----
-
-The floor of that room went a long way down.
-
-"You had never met him," said Georgij.
-
-"I had never seen him in my life."
-
-* * *
-
-"What did he ask you for," said Georgij.
-
-"Nothing." She turned round. "That's the part nobody would believe and it's why I've never said it. He didn't ask me for one single thing. He sat in that chair for twenty minutes and he was kind to me about the girl I'd taken on and he left."
-
-"Then what you understood."
-
-"I understood that a family had had a bad month and would be grateful if it were not discussed." Mrs Ha said it in a voice that had said it to herself. "That was all. That was the whole of it. He said it about as directly as I've just said it to you."
-
-"And you did not discuss it."
-
-"For eleven years." She came back and sat down. "And I want you to understand what I thought I was doing, because I've had eleven years to be wrong about it. I thought I was being decent. I thought a woman had had the worst month of her life and a man who cared about her had come round to ask people to be kind."
-
-* * *
-
-Georgij sat with that.
-
-"And now," he said.
-
-"And now a foreigner in a good coat comes up my stairs and asks me one question, and I find out that he went to four of us." Mrs Ha's voice did not go up at all. "Four. In the same month. And every one of us thought we were the only one being decent."
-
-"Yes."
-
-"That isn't kindness. That's a job." She put one hand on the arm of the chair. "I've been in a trade for thirty years where somebody has to go round and see four people quietly. I know what it looks like. I have just never once been one of the four."
-
----
-
-Neither of them said anything for a while.
-
-"I lost the business four years ago," said Mrs Ha.
-
-"I know. That is why I came to you and not to the other one."
-
-"The whole of it, then."
-
-"Whatever he had on the four of you, he had it because you all had something to lose." Georgij did not look away. "Yours went in a bad year with two halls closing and it had nothing to do with him. And nobody has been back in four years to check whether you were still worth visiting."
-
----
-
-Mrs Ha laughed, once, and it was not a laugh.
-
-"Thirty years," she said, "and the useful thing about me is that I've got nothing left."
-
----
-
-She had got to it in one sentence, and she had got to it against herself.
-
-* * *
-
-At the door she asked the question he had been waiting for since the boxes.
-
-"Is she alive?"
-
-"Yes," said Georgij. "And I am not going to tell you any more than that today, and I am going to tell you why, and the reason is not about you."
-
-"It can be said anyway."
-
-"She is in a house with two doctors and a garden and she has been since the eleventh of November, and I am not going to tell you where and I am going to tell you why." He held her eye. "It is not about you. There is a man who paid for her for eleven years and he has known since October that she is gone. Every person in this city who can say one sentence about April is a person he already has the name of. You have been reached for once and you did not know it was happening."
-
----
-
-Mrs Ha looked at him for a long moment.
-
-"You're going to tell me it should be me that telephones him."
-
-"No," said Georgij. "I am going to tell you that if you do, you will not be doing anything wrong, and I am not going to ask you not to. You have had eleven years of a man being pleasant at you and I am not going to spend this morning being pleasant at you too."
-
-"That," said Mrs Ha, "is the only thing anybody has said to me about this that I believe."
+*He was finding out whether Sim would pick up.*

@@ -1,278 +1,456 @@
-# Chapter 68: What he was for
+# Chapter 68: What silence costs
 *Lot Fourteen* · Version 3.0 · EN
 
-## Day Four Hundred and Fifty-One · Monday 28 December
+## Day Four Hundred and Forty-One · Friday 18 December
 
-He gave himself the week, which is four days longer than he gave himself for anything else this year, and he wrote down on the Tuesday morning why he was taking it.
-
----
-
-*Because there are two versions and the whole of what I do next depends on which one it is, and I cannot find out from here.*
-
-*He knows what he did in March eleven years ago and has carried it. Or he does not, because he was sent to be kind to four people and did not ask, and being sent to be kind to people is his entire life.*
+He read the three pages properly at half past six in the morning, at the desk in the small room, with the door open.
 
 ---
 
-*I have known him for five months. He has told me the truth four times when it cost him and once when it cost him everything. And I do not know which of the two it is, and I am not going to guess about a man who has not guessed about me.*
+They are not notes. They are a record, written straight through in one sitting, with the date at the top and no crossings out. A woman has been writing things down for forty years because a thing that bothers her has to go somewhere.
+
+---
+
+The date at the top is nine years ago.
+
+---
+
+*She wrote this in the second year and did it in one go. Then she put it in a drawer beside a chair, took it out four times in nine years, and never once gave it to anybody.*
+
+---
+
+He knows exactly one other person who does that, and he was looking at his own notebook while he thought it.
+
+---
+
+The name is on the first line and it is not introduced.
+
+---
+
+Moon Hae-sook.
+
+---
+
+Her father's firm made fittings for ships and sold up in the nineties. Her mother was at everything, for thirty years, and was liked in a way that Mrs Sunwoo has underlined once. Her mother died in October, and that is why October is her mother's month, and it is why a man who has never met her sends flowers in October and does not know what he is marking.
+
+---
+
+Georgij sat with that for a while.
+
+---
+
+*Sim has been putting flowers in a house twice a year for eleven years. April, because in April there was to have been a wedding. October, because in October her mother died. Somebody gave him both dates in a letter and no reason for either, and he has kept both for eleven years without asking.*
+
+---
+
+*The man who wrote that letter knew her mother's month. Nobody outside that family knew her mother's month. He was in that house.*
+
+---
+
+The wedding was to be in the second week of April.
+
+---
+
+Eleven tables. Mrs Sunwoo has the number because she was asked whether she would sit at the fourth one and had said yes, and had then, in the way of a woman who is careful, made a note of it.
+
+---
+
+The invitations went out in the first week of February.
+
+---
+
+They were withdrawn in the second week of March, by a card. It gave no reason and did not apologise, and Mrs Sunwoo has copied out the whole of what it said because it is eleven words long.
+
+---
+
+*We are grateful for your kindness and ask for your understanding.*
+
+---
+
+Georgij read that four times and then sat back.
+
+---
+
+*That is not a family's sentence. A family writes about circumstances and health and regret and it comes out badly and too long, and everybody forgives it.*
+
+*That is a man's drafting. It is the shortest thing that can be sent and it is impossible to answer.*
+
+---
+
+Then the four.
+
+---
+
+She names them, in her own hand, with what each one said and roughly when.
+
+---
+
+The first was a man of her own age who has since died, and who changed the subject by looking at his watch and remembering an appointment that Mrs Sunwoo knew he did not have.
+
+The second went to Vancouver in the year after and has not been back.
+
+The third is a woman who still has everything she had then and two things she did not. On being asked, she said that she had never been close to that family and had only gone because her husband was going.
+
+---
+
+*She was at the fitting. Mrs Sunwoo has written the word fitting and then written it again in the margin, which is a woman making sure of herself nine years later.*
+
+---
+
+The fourth is a woman called Mrs Ha.
+
+---
+
+Mrs Ha ran a business that put flowers and linen into halls, for weddings, for thirty years, and she did the Moon wedding that did not happen, and she did four hundred others.
+
+---
+
+She lost it four years ago.
+
+---
+
+Mrs Sunwoo did not know that when she wrote the pages, because the pages are nine years old. Georgij found it in twenty minutes, because a business that goes has to say so on paper.
+
+---
+
+He put the pen down.
+
+---
+
+*Four people were made to say nothing eleven years ago. Whatever was used on them was leverage, because that is the only thing that works on four people at once and holds. Leverage is a thing a person has.*
+
+*One of them is dead. One is on another continent. One still has everything she had and has added two.*
+
+*And one of them lost the whole of what she had four years ago, and nobody has been back to check whether the arrangement still holds.*
+
+---
+
+He had the tactical position by about seven and it took him until half past nine to find out that it was not the question.
+
+---
+
+*There is nothing to lose by going. He has known since the twenty-eighth of October, because the name box on a form is not optional. There is nobody in a building. Jang can have a street and nobody has to be careful about a Monday.*
+
+*That is the whole of it and it took four minutes and it is worth nothing.*
 
 * * *
 
-He telephoned on the Monday morning and Sim said the same room and the same hour without being asked.
+He wrote the other one at about ten and did not improve it.
 
 ---
 
-There was tea again and it was at the right temperature again, which meant he had timed it again, and there was a plate this time with four small things on it that Georgij did not recognise.
+*She has had eleven years of thinking she was being decent.*
 
-"You will not want these," said Sim. "I have brought them anyway. A man who puts nothing on a table is telling the other man how long the conversation will be, and I did not want to tell you that before you sat down."
+*Nobody has been near her since. Whatever it cost her she has paid it and stopped noticing, and a woman of her age with nine boxes and a kettle has arranged her life around the version she has.*
+
+*I am going to take it off her because I need the fourth one.*
+
+*There is no arrangement in which she is better off on Monday than she was on Friday, and I have spent three hours looking for one.*
+
+## Day Four Hundred and Forty-Two · Saturday 19 December
+
+He took it up at nine.
 
 ---
 
-Georgij sat down.
+Annie was at the desk with the folder from Yeouido open and did not close it, which she does when the thing in front of her is finished with rather than private.
 
-"There is a woman in Mapo," he said.
+"I am going to Mapo on Monday," said Georgij, "and I am going to be honest about why, and the why is not what it would have been in the summer."
+
+"Say it."
+
+---
+
+"I need the fourth of the four and she is the only one left who can be asked." He kept his hands where she could see them. "There is nothing in it for her. There is no danger to her and no gain to her, and I have been at it since seven and there is not one."
 
 * * *
 
-He gave it in the order it happened.
+Annie did not say anything for a moment.
+
+"Then you are asking me whether you may take a thing off a woman for nothing."
 
 ---
 
-Mrs Ha, four hundred and eleven weddings, thirty years, and the boxes to the ceiling with hall names on them in marker. The tenth of March. The linen already in the building and nobody arguing about the money.
+"No. I am telling you that I am going to, and that I know what it is." He did not look away. "I would rather you heard me call it by its name than watch me call it something else in about a fortnight."
+
+* * *
+
+"Jang takes you and sits in the car," said Annie.
+
+"That is not necessary now."
 
 ---
 
-Moon Hae-sook coming up an outside staircase on her own on the Monday to apologise to a supplier.
+"It is not necessary and he is going anyway, and it is not about your safety." She picked the pen up and did not use it. "Somebody in that street is going to see a young man go up an outside stair to a woman who has nothing. I would like there to be a car with a driver in it, so that whatever anybody in that building decides they saw, they saw two people and not one."
 
 ---
 
-The flowers to the hospital in Mapo because they existed and somebody should have them.
+"Yes, Mistress."
+
+"And he has been in a lay-by since June. He can have a street."
+
+## Day Four Hundred and Forty-Four · Monday 21 December
+
+Jang put the car where he puts cars, which is forty metres past the place and facing the way out, and did not turn the engine off for the first two minutes.
+
+"I am going to say the thing you do not want to hear," he said.
+
+"The thing I do not want to hear."
+
+"You will come out of there at half past and she will have been perfectly all right about it." Jang had both hands on the wheel. "They always are. You will get into this car and you will not know one thing about what it did to her, and you will not know in a year either."
+
+"I know."
+
+"You do not, because nobody does until the third time." He put the handbrake on. "I will be here. I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."
+
+* * *
+
+She is in two rooms above a shop that sells bathroom fittings, and the stair is on the outside. There is a laminated card by the bell with her name on it, in a font that was expensive in about 2011.
 
 ---
 
-Sim did not move at all through any of it, and his face did what it has done for thirty years.
+Mrs Ha is in her sixties and answered the door herself and looked at his coat before she looked at his face.
+
+"You are not from the insurance."
+
+"No."
+
+"Then you can come in, and you can sit on the good chair, because the other one has been broken since March and I have not had it seen to." She went ahead of him. "Mind the boxes. That is a wedding from 2019 that never got collected and I am not throwing it out on principle."
+
+* * *
+
+The room is stacked to the ceiling on two walls with boxes that have hall names written on them in marker.
+
+---
+
+She sat down opposite him and did not offer him anything, which she would have done for a customer, and both of them understood that.
+
+"You'll want something," said Mrs Ha.
+
+"I am going to ask you one question about a wedding, and then I am going to answer any question you ask me, and then I am going to go." Georgij kept both hands where she could see them. "I am not from anybody's insurance and I am not from a hall and I am not selling you a system for your invoices."
+
+"That last one comes on Tuesdays." She folded her arms. "One question."
+
+"The Moon wedding. The second week of April, eleven years ago. It did not happen."
+
+* * *
+
+She did not move for about four seconds.
+
+---
+
+Then she got up and went to the window and looked at the street, which is a thing people do when they are deciding whether to be angry.
+
+"Eleven years," she said.
+
+"Yes."
+
+"Do you know how many I've done?"
+
+"Four hundred," said Georgij. "It is in a page somebody wrote nine years ago."
+
+"Four hundred and eleven, and the four hundred and eleventh was in the November before last and it was a nephew and I did it for nothing." She did not turn round. "And I can tell you the linen on every one of them, and the tables, and what the mother wanted and what she got instead. That is thirty years. That is what I've got, and it's in boxes, and nobody has asked me about any of it since the day I shut."
+
+* * *
+
+"I am not here about the business," said Georgij.
+
+"I know you're not. Nobody is." She sat down on the other side of the boxes. "Ask it properly, then. You said one question and you gave me a date."
+
+"What happened at the hall?"
+
+---
+
+Mrs Ha put both hands flat on her knees.
+
+"They cancelled on the Thursday," she said. "The tenth of March. I had the order in and two of it delivered, because you deliver the linen first and the flowers the morning of, and the linen was in the building."
+
+"Who telephoned?"
+
+"The hall, not the family. That's normal and it means nothing. Halls do the telephoning." She looked at the boxes. "What isn't normal is that nobody argued about the money. In thirty years I have argued about money on three hundred of them, and this one paid the whole thing inside a week and never asked for the linen back."
+
+* * *
 
 "And then," said Georgij.
 
-"And then a man came to see her on the Thursday of the following week." Sim said it before he could. "He asked her for nothing at all. He was pleasant to her about a girl she had just taken on."
+"And then she came here."
+
+---
+
+Georgij did not move at all.
+
+"Again."
+
+"The bride came to this office." Mrs Ha said it flatly. "On the Monday. Not the mother, not a cousin, not the hall. Her. She came up those stairs on her own and she sat in the chair that's broken now, when it wasn't, and she apologised to me."
+
+"For what."
+
+"For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and eleven weddings, nobody's family has ever come to my office. Not once. They send a card at best and mostly they send nothing, and I have never thought worse of anybody for it, because it is a bad month and I am a supplier."
+
+* * *
+
+"What was she like," said Georgij.
+
+"That's your second question."
+
+"It is."
+
+"You said one and then you asked four, and I'm going to let you, because it's the first interesting afternoon I've had since February." She did not sit back. "You also said you'd answer anything I asked. I'll have mine now and not at the door. Who pays you?"
+
+---
+
+"A woman in Seoul," said Georgij. "I am not going to give you her name, and that is the only thing I am keeping from you today."
+
+---
+
+"Then she's getting her money's worth." Mrs Ha sat back. "Ask what you like now. I've stopped counting. She was the calmest person in this room, and I include myself, and I was not upset about anything."
+
+"What you mean by calm."
+
+"Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell you in four seconds." Mrs Ha did not look away. "She had decided something and she'd finished deciding it. There was nothing left in her about it at all. I have seen that twice in my life and the other one was my mother."
+
+---
+
+Georgij sat in a room stacked with boxes and did not let anything happen on his face.
+
+* * *
+
+"I asked her whether it might be later in the year," said Mrs Ha.
+
+"Because that is what you ask."
+
+"Because that is what you ask, and people say yes, and it isn't true, and everybody gets to leave the room." She had her hands flat on her knees again. "She said no. Not the way people say no when they mean not yet."
+
+"The words."
+
+"There is not going to be a later." Mrs Ha said it exactly, and then she said the rest of it. "Then she thanked me for the linen. Then she asked what had happened to the flowers." She turned her hand over in her lap. "I said they were ordered and paid for and sitting in a cold room. She said send them to the hospital in Mapo. Somebody should have them."
 
 ---
 
 Neither of them said anything.
 
-"And he told her it was good to see her again," said Sim, "and he had never seen her in his life."
-
-* * *
-
-Georgij sat very still.
-
-"How long you have had that," he said.
-
-"Since about four seconds after you said Mapo." Sim had both hands flat on the desk. "Not before. I want that said properly. You have come here to find out whether I have been carrying it for eleven years. The answer is that I have not, and I would like you to be able to check it against something."
-
-"Then check it for me."
-
-"I did four of those in that month." He did not look away. "A woman in Mapo who did flowers. A man of about sixty who I remember because he had a bad chest. A woman who was going abroad. And a woman in Seongbuk-dong with a great deal of furniture."
-
-"And you have remembered all four for eleven years."
-
-"I have remembered all four hundred, near enough. Nobody should call that a virtue. It is what the work is." Sim's voice did not change. "I have never once until this minute put those four beside each other."
-
-* * *
-
-"What you were told," said Georgij.
-
-"That a family had had a very bad month, and that they would be grateful if it were not discussed, and that these four had been closest to it." Sim said it exactly, in the way of a man repeating a sentence he has repeated to himself since the twenty-first. "And that I should be kind to them and ask them for nothing, because asking makes people talk."
-
-"And you believed it."
-
-"I did not believe it," said Sim. "I never got as far as believing anything. It was a decent instruction. It cost the four of them nothing. It cost the family nothing." He turned his cup a quarter turn. "I did it in nine days and I was pleased with how I did it."
+"I did," said Mrs Ha. "Eleven tables' worth. I put them in the van myself on the Tuesday."
 
 ---
 
-Georgij did not say anything.
+She had finished deciding before she came up those stairs, and the only thing she had left to arrange was where the flowers went.
 
-"You have it and you are not saying it," said Sim.
+* * *
 
-"You were not sent to be kind to them. You were sent because you are the only instrument that works on four people at once and leaves them thinking well of you."
+Georgij let a moment go past before he asked it, because there was no version in which it was not the next question.
+
+"And then somebody came to see you," he said.
+
+---
+
+Mrs Ha went completely still.
+
+---
+
+The room did what a room above a shop does on a Monday morning.
+
+"You'd better say how you know that," she said.
+
+"I do not know it. I worked it out on Friday and I have been ninety per cent certain since about seven o'clock that morning." He did not soften it. "Three other people were at that wedding or near it, and all three stopped being able to talk about it in the same month. One is dead. One is in Vancouver. The third told a woman she had never been close to that family."
+
+"Which is a lie," said Mrs Ha. "She was at the fitting. I did the fitting."
 
 "Yes."
 
 * * *
 
-Sim looked at the plate with the four small things on it and did not touch it.
-
-"I have been sitting up with eleven years of letters since the first of August," he said. "You know that, because I told you I would, and I have. And I have been reading them for the wrong thing."
-
-"The wrong thing."
-
-"I have been reading them for whether I was lied to." He put one hand on the edge of the desk. "That is what a man reads for. He looks for the place where somebody told him something that was not so. If he finds one, the whole of the rest of it belongs to the other man and not to him."
-
-"And you have not found one."
-
-"Not one. Eleven years and I have not found a single sentence that is untrue." Sim did not raise his voice at any point. "Every letter I have ever had from that man is accurate. He has never once needed to lie to me."
+Mrs Ha got up again and this time she did not go to the window.
 
 ---
 
-The office on the second floor did what a room does at eleven in the morning.
+She went to the boxes on the left wall and put one hand on the third one down, which has a hall name on it in marker and a year, and left it there.
+
+"He came on the Thursday after," she said. "A week to the day."
+
+"Tell it in your own order."
+
+"He was pleasant." She was looking at the box. "He was the most pleasant man who has ever been in this office and I've had brides' fathers in here."
+
+---
+
+Georgij did not move.
+
+"He knew what I did. Not vaguely, properly. He knew about the two halls in Jung-gu that used me and he knew I'd just taken on the girl, and he said something about my linen that only somebody who'd looked at it would say." Mrs Ha's hand had not come off the box. "And he said it was good to see me again."
+
+---
+
+The floor of that room went a long way down.
+
+"You had never met him," said Georgij.
+
+"I had never seen him in my life."
 
 * * *
 
-"There is a thing I have understood since the twenty-first and I am going to say it out loud once," said Sim, "and then I would like us to talk about the fourteenth."
+"What did he ask you for," said Georgij.
 
-"Once, then."
+"Nothing." She turned round. "That's the part nobody would believe and it's why I've never said it. He didn't ask me for one single thing. He sat in that chair for twenty minutes and he was kind to me about the girl I'd taken on and he left."
 
-"In thirty years I have never been sent anywhere to be unpleasant to anybody."
+"Then what you understood."
 
----
+"I understood that a family had had a bad month and would be grateful if it were not discussed." Mrs Ha said it in a voice that had said it to herself. "That was all. That was the whole of it. He said it about as directly as I've just said it to you."
 
-Georgij sat in a chair in Jongno and did not move.
+"And you did not discuss it."
 
-"Not once. Not a raised voice, not a threat, not a bill produced on a table." Sim's hands had not moved. "I have been sent to be liked, four hundred times, by a man who has understood since before I met him that being liked is the only thing that goes into a house and stays there."
-
-"And you were good at it."
-
-"I was the best there was, and I still am, and I am sitting here in a room with four things on a plate that I put out for you before you arrived." He said it without any self-pity whatsoever, which made it worse. "You will notice that I am doing it now. I did it on the first of August and I did it four seconds ago, and I am not going to be able to stop." He looked at the plate. "It has never once been a technique. That is what makes it work."
-
----
-
-A man had found out at sixty-three what he was for, and he said it in the same voice he uses about the tea.
-
-* * *
-
-Neither of them said anything for a while.
-
-"You came here with something you have not said," said Sim.
-
-"I know."
-
-"Then it is going to sit in this room until one of us says it, and I have watched you not say things since August and I am too old to enjoy it twice."
-
-* * *
-
-"There is nothing left for him to ask you for," said Georgij.
-
----
-
-Sim did not move.
-
-"Say it in full."
-
-"The line into that house was cut on the thirtieth of September. There is no number. There is nobody in that building to telephone about a shed roof and there has not been since the second of November." He kept both hands where they could be seen. "You have made your last one and you made it on the twenty-eighth of September, and neither of us knew it at the time."
-
----
-
-Sim sat with that for a moment.
-
-"I have been getting ready for a fourteenth of September that is not going to happen."
-
-"You have been getting ready since the twenty-ninth of September, and I have known since the first of October, and I have come here to say it before the year turns and not after."
-
-* * *
-
-Neither of them said anything at all.
-
-"Then the last part," said Sim, "and it is mine and not yours."
-
-"The last part."
-
----
-
-"I am finished."
+"For eleven years." She came back and sat down. "And I want you to understand what I thought I was doing, because I've had eleven years to be wrong about it. I thought I was being decent. I thought a woman had had the worst month of her life and a man who cared about her had come round to ask people to be kind."
 
 * * *
 
 Georgij sat with that.
 
-"There is nothing left to finish."
+"And now," he said.
 
----
-
-"There is nothing left to finish, and that is the whole of why I am able to say it today." Sim put both hands flat on the desk. "If that woman were still in that house I would have to go on being what I am until she was not. I would have done it."
+"And now a foreigner in a good coat comes up my stairs and asks me one question, and I find out that he went to four of us." Mrs Ha's voice did not go up at all. "Four. In the same month. And every one of us thought we were the only one being decent."
 
 "Yes."
 
----
-
-"And I would not have been able to stop afterwards either, because there would have been a reason." He did not look away. "There has been a reason for eleven years. That is the entire trick and nobody had to invent it for me."
+"That isn't kindness. That's a job." She put one hand on the arm of the chair. "I've been in a trade for thirty years where somebody has to go round and see four people quietly. I know what it looks like. I have just never once been one of the four."
 
 ---
 
-Georgij sat with that for a moment.
+Neither of them said anything for a while.
 
-"Then the part that is not finished," he said.
+"I lost the business four years ago," said Mrs Ha.
+
+"I know. That is why I came to you and not to the other one."
+
+"The whole of it, then."
+
+"Whatever he had on the four of you, he had it because you all had something to lose." Georgij did not look away. "Yours went in a bad year with two halls closing and it had nothing to do with him. And nobody has been back in four years to check whether you were still worth visiting."
 
 ---
 
-"If she is ever told that I exist, and she wants it, I will make the telephone call. If she needs a second one I will make that as well, and a third, and I am not putting a number on it." Sim looked at him and not at the plate. "And when that woman does not need me any more, I am not going to be used by him and I am not going to be used by you. Not for a good reason and not for the best reason there has ever been."
+Mrs Ha laughed, once, and it was not a laugh.
 
-"That is the correct decision."
+"Thirty years," she said, "and the useful thing about me is that I've got nothing left."
 
-"It is not a decision. It is a thing that has happened to me and I am describing it." Sim looked at the plate. "I am sixty-three. I have got one instrument and I have just found out what it was for. I would rather have nothing than go on being it, and it turns out that a man can arrive at that in one afternoon after thirty years."
+---
+
+She had got to it in one sentence, and she had got to it against herself.
 
 * * *
 
-At the door, Georgij stopped, and he did it because there was one thing left and it was not tactical.
+At the door she asked the question he had been waiting for since the boxes.
 
-"There is something I am going to say and you are not going to like it," he said.
+"Is she alive?"
 
-"Everything you have said in five months has been that. Go on."
+"Yes," said Georgij. "And I am not going to tell you any more than that today, and I am going to tell you why, and the reason is not about you."
 
-"You did not do it to her." He did not soften it. "You went to four people and you were kind to them and you asked them for nothing, and every one of the four came out of it thinking better of the world. What was done to Moon Hae-sook was done in a room eleven years ago by a man you will not name, and it was finished before you were sent anywhere."
+"It can be said anyway."
 
----
-
-Sim did not answer straight away.
-
-"You have been very careful with that sentence," he said.
-
-"I have. I built it on Saturday and I took two things out of it."
-
-"Which two."
-
-"The word only, and the word just." Georgij held his eye. "Both of them would have made it smaller and both of them would have been for me."
+"She is in a house with two doctors and a garden and she has been since the eleventh of November, and I am not going to tell you where and I am going to tell you why." He held her eye. "It is not about you. There is a man who paid for her for eleven years and he has known since October that she is gone. Every person in this city who can say one sentence about April is a person he already has the name of. You have been reached for once and you did not know it was happening."
 
 ---
 
-He had spent a weekend on one sentence, and the work was the two words he did not use.
+Mrs Ha looked at him for a long moment.
 
-* * *
+"You're going to tell me it should be me that telephones him."
 
-Sim stood up, which he had not done, and put one hand on the back of his own chair.
+"No," said Georgij. "I am going to tell you that if you do, you will not be doing anything wrong, and I am not going to ask you not to. You have had eleven years of a man being pleasant at you and I am not going to spend this morning being pleasant at you too."
 
-"I am going to tell you what I am going to do with that," he said, "and then you are going to go, because I have had enough of being read for one morning."
-
-"Yes."
-
-"I am going to carry it exactly as it is." He was entirely level. "Not as an excuse and not as a comfort. As a description of what I did, said by the only man in eleven years who did not need anything from me when he said it."
-
-"Then it was worth building."
-
-"It was worth building." Sim almost smiled at him, and it was the second time and not the front desk one. "You will come here in the spring, and not for anything, and I will have the tea ready. I would like it understood that I am asking and not arranging."
-
-* * *
-
-Georgij went down the stairs of a building in Jongno with three doors off a corridor and a plate on none of them.
-
----
-
-He wrote it in the car, and it took two attempts, and the first one was about the four visits.
-
----
-
-*He has never been lied to in eleven years. That is the thing I am going to be thinking about at four in the morning.*
-
-*A man who lies has to remember what he said. A man who tells the exact truth to a person he has chosen for what they are does not have to remember anything, and it holds for thirty years, and the person carries it themselves.*
-
----
-
-*I have done a version of that to eleven people since March. I have told all of them the truth. I have chosen every single one of them for what they are.*
-
----
-
-He sat with the pen in his hand for a while.
-
----
-
-*The difference is that I say what it is for, and I say it before they answer.*
-
-*I would like that to be a difference in kind. I have four hours in a car every week to think about whether it is one, and I have not got there yet, and I am writing this down so that I cannot pretend later that I never asked.*
+"That," said Mrs Ha, "is the only thing anybody has said to me about this that I believe."

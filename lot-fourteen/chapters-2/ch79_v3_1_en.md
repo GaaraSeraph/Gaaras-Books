@@ -1,334 +1,320 @@
-# Chapter 79: Twenty-seven
+# Chapter 79: Nobody asked
 *Lot Fourteen* · Version 3.1 · EN
 
-## Day Five Hundred and Thirty-One · Thursday 18 March
+## Day Five Hundred and Ten · Thursday 25 February
 
-The dining room in that house takes thirty at one table. It has been laid for thirty once in nine years, in the December before Georgij came, and Mrs Seo has said so twice this week without being asked.
+The house on the river has three rooms left with anything in them and one of the three is a corridor.
 
 ---
 
-It is laid for twenty-eight.
+The plate by the entrance came down in October and the four screw holes are still there, and somebody has painted round them rather than over them, which will annoy Mr Hwang for the rest of his life.
 
 * * *
 
-Annie did the placing herself on the Monday and she did it alone, at the desk, with the folded sheet and no help.
+He was behind the desk at two minutes to nine with a sheet of paper in his hand.
 
----
+"The fifteenth of October," he said. "Nineteen weeks. You have been in this building four times and every one of them has been at nine, and I have been in it since eight every day for six years and I have never once been telephoned before ten."
 
-Georgij found the card on the Tuesday morning under the blotter and read it and put it back exactly where it had been, and did not say anything about it until the Wednesday evening.
+"That is why I come at nine."
 
-"You have put Im next to a man from a shipping firm in Incheon," he said.
-
-"I have."
-
-"They were at the same table in 2018 and neither of them knows it."
-
----
-
-Annie did not look up.
-
-"There are seven of those," she said. "Six pairs and one three. It took me four hours and I did it out of the years against the names, and I have not put a single person next to anybody they know."
+"I know why you come at nine. I have known since the second time." He put the sheet down and squared it. "Sit down. This is the last morning there is anything to sit down for."
 
 * * *
 
-"Say what it does," said Georgij, "because I have had it since Tuesday and I would like to hear it from you."
-
-"Nothing at all." She put the pen down. "It does nothing. It is a table plan. Twenty-eight people sit down at eight o'clock and talk to whoever is beside them, and that is what happens at every dinner in this country."
+The van comes at eleven.
 
 ---
 
-He did not say anything.
+Two men and a lorry, and nobody has pretended it is an archive. It is a firm in Siheung that does this for a living, against a schedule, with a weighbridge and a certificate, and Mr Hwang chose them in October out of four quotations and took the second cheapest.
 
-"There is not one thing on that card that anybody could describe afterwards," said Annie. "Nobody is going to be asked to say anything. Nobody is going to be told anything. Twenty-six people are going to sit down next to a stranger and be polite to him for two hours."
+"The cheapest did not offer a certificate," he said. "I telephoned them to ask and the man said that nobody ever wants one."
 
 * * *
 
-They began arriving at twenty to eight.
+"Say the schedule back to me," said Georgij.
+
+"You have read it."
+
+"I have read it and I would like it from you, because you wrote it and you are the only man alive who knows what it does not cover."
 
 ---
 
-Mr Ok came first and came alone and did not know why he was there, and said so in the hall in about eleven words. Then he took a glass and stood near the door, and looked at the room the way a man looks at one he has not been asked to.
+Mr Hwang put both hands on the desk.
 
-Mr Koh came at eight minutes to and was the only one who came with something, which was a bottle, and Mrs Seo took it from him and thanked him and did not put it out.
+"Class one, the permanent series, thirty years and the renumbering, in nineteen boxes." He did not look at anything while he said it. "Class two, the settlement books. They went in a van on the twentieth of May last year and they are in a unit belonging to a fund, and I have added them to the same instruction. I could have had them copied in the first week of May and did not think of it."
 
----
+"You have told me that before."
 
-Nam Byung-hee came at four minutes to eight and she came on the train and she had been in the city since two.
-
-She stood inside the door of that hall with her coat still on and looked at the stairs for about six seconds. Then she gave the coat to Mrs Seo, who did not say her name and did not need to.
+"I have told you that once, in this building, in May, and I am going to go on telling it to people until it stops being useful." He turned the sheet over. "Class three, correspondence. Class four, the personnel files, which go last and which go on the fourth of March, because there are people in them who are alive."
 
 * * *
 
-Georgij was at the far end of the hall.
+Georgij sat in a chair in a room with two crates in it.
 
-She saw him and did not come over, and he did not go to her, and that had not been agreed anywhere.
+"And nobody has asked for anything," he said.
+
+---
+
+Mr Hwang did not answer straight away.
+
+"That is the question you came for," he said.
+
+"It is."
+
+"Then you may have it in the order it happened, and it is going to take about forty seconds, and I have been holding it since the fourth of February because you would have found it out today anyway."
 
 * * *
 
-Choi Dae-ho arrived at three minutes past eight in a car he did not drive.
+"Two," said Mr Hwang.
 
 ---
 
-He is not tall. He is about sixty and he came up the steps at the speed of a man who is expected. He had his coat off his shoulders before he was through the door, because that is how a man of that generation gives a coat to a housekeeper.
+The room did what a half emptied room does at ten past nine.
 
-Mrs Seo took it over her arm and said good evening and told him where the room was.
+"In nineteen weeks, with the schedule published, and every buyer this house ever had sent a copy of the wind-up notice in October with the disposal date printed on the second page." He said it flatly. "Two requests under clause eleven. One in December and one in January. One of them was yours in August, which makes it three, and I am counting the two because you already know about yours."
 
-She did not smile at him and she did not fail to smile at him.
+"The two."
+
+"A woman who has bought in this house for forty-one years, on the twenty-first of December, about her own lot." Mr Hwang did not soften it. "And a man in Busan on the eleventh of January, about a bronze his father bought in 1994, because he is selling it and the buyer wants provenance. That is the whole of it."
 
 ---
 
-He said that it was good to see her again.
+Georgij sat very still.
+
+"Six hundred and forty buyers," he said.
+
+"Six hundred and forty buyers, a clause I wrote in 2011 and was proud of for fourteen years, and a printed date." Mr Hwang put one hand flat on the sheet. "Two people in nineteen weeks. One of them was told about it by a man who came to her house and did not want anything, and the other one wanted to sell a bronze."
 
 * * *
 
-Georgij was eleven feet away and had been for four minutes on purpose.
+Neither of them said anything for a while.
+
+"You are waiting for me to say something," said Mr Hwang.
+
+"No. I am doing the arithmetic on somebody who did not ask."
 
 ---
 
-Mrs Seo did not say anything back. She said the number of the room again and stepped aside for him, and it took about two seconds, and there is no version of it that anybody in the world could describe as a discourtesy.
-
-Then she went and hung his coat with the others and came back into the hall and did not look at Georgij once.
+"Then do it out loud, because I did it on the fourth of February and I have not been able to make it come out any other way."
 
 * * *
 
-The four minutes started when he went through the door of the dining room.
+The sheet was still square on the desk where he had put it.
+
+"He has had the date since December," he said. "He got it by asking a man to telephone this office, and the girl read it off the schedule in about ninety seconds because it is not a secret."
+
+"I know which girl and I know which morning. It is in the day book and I looked it up on the fourth."
+
+"Then he has had ten weeks with a printed date on a piece of paper, and there is one entry in that series that is worth more to him than anything else in this country." Georgij did not hurry it. "And he has not asked for it."
 
 ---
 
-Georgij came in about ninety seconds behind him and stood where he could see the whole of it and did not speak to anybody.
+Mr Hwang did not move.
+
+"Say why not."
 
 * * *
 
-He watched a man of sixty read a room.
+"Because of the first eleven words of your own clause."
 
 ---
 
-It is the only thing about Choi Dae-ho that anybody has ever been able to describe. Georgij had it in nine lines in October and had never seen it, and it is not what he had built in his head.
-
-There is nothing to see. He does not turn round. He takes a glass he does not drink out of and he goes three steps into a room and stops, and he is pleasant to a man who is nearest to him, and he asks him something.
-
-And in the four minutes his eyes go across that room twice.
+He said it and then he did not go on, and Mr Hwang, who has been reading his own drafting since 2011, got there in about four seconds and went white around the mouth.
 
 * * *
 
-At about the third minute he stopped being pleasant to the man nearest to him.
-
-Not rudely. He finished the sentence and the other man went on talking and he went on listening.
-
----
-
-That is the whole of it and Georgij nearly missed it.
-
-* * *
-
-Sang-hoon was by the window with two other men and did not turn round.
-
-He had said in a room above a restaurant in January that he was not going to say one word to that man and that a conversation would be the proof that people still had them with him. He stood with his back to the room for the better part of an hour and talked to a man about a berth at Gwangyang.
-
----
-
-Chairman Woo sat down at half past seven and did not get up again, and four people came to him, which is what happens.
-
-* * *
-
-Nobody cut him.
-
----
-
-Eleven people said good evening to Choi Dae-ho between five past eight and the gong. Four of them shook his hand. Two of them were pleased to see him. One of them, a man of about fifty from a firm in Ulsan that moves grain, talked to him for six minutes about a road.
-
-And then in every single case they turned to somebody else, because there were twenty-eight people at that table and everybody turns to somebody else.
-
-* * *
-
-They sat down at half past eight.
-
----
-
-Annie was at one end and she is very good at it and she has done it since she was twenty-six.
-
-She did not put herself near him and she did not put herself far from him. He is eleven places down on the same side, which is the one place at a table of that length from which the host cannot look at you without turning her whole head.
-
-* * *
-
-Georgij was not at the table.
-
----
-
-He stood at the side of the room where a man of his sort stands. Nobody in that room except six people knew who he was, and two of the six were the woman at the head of it and a woman from Ulsan.
-
-* * *
-
-It began at about a quarter to nine and it began with a date.
-
----
-
-Mr Im was talking to a man from a shipping firm in Incheon about nothing at all, and the man asked him, in the ordinary way, when he had got out of the trade.
-
-And Mr Im said that his firm had gone in the two years after a dinner in Cheongdam on the fourteenth of November six years ago, and that he had made a bad decision over the dessert.
-
----
-
-He said it in an ordinary voice and he did not lower it, and he had told Georgij in December that he had not been able to say a sentence like that at a table since 2019.
-
-* * *
-
-The man from Incheon put his glass down.
-
----
-
-He did not say anything for about four seconds. Then he asked Mr Im which restaurant it was.
-
-* * *
-
-That is the whole of it and it took nineteen minutes to go the length of that table, and it did not go the way anybody would draw it.
-
----
-
-It did not go round. It went across, and back, and then across again in a different place, because six pairs of people were sitting next to somebody they had never met and one of them had just said a date out loud.
-
-A woman of about sixty at the far end said the word Cheongdam to the man on her left and he put his fork down.
-
-* * *
-
-At about nine o'clock somebody laughed at the near end of the table and it was not a comfortable laugh.
-
----
-
-Nobody raised their voice at any point in that evening.
-
-* * *
-
-Georgij watched Choi Dae-ho watch it.
-
----
-
-He was eleven places down on the same side and he had a plate in front of him and a glass in his hand.
-
-He is very good. He turned to the woman on his right at the correct moment and said something and she answered him, and he listened to the answer, and he was pleasant to her for about two minutes.
-
-And in those two minutes he read the length of that table twice, and the second time he did it slowly, and Georgij could not have said what changed in his face because nothing did.
-
-* * *
-
-At eleven minutes past nine a man near the middle said it.
-
----
-
-He is one of the twenty-six and he is about fifty-five and he is in shipping insurance, and he had been talking to the woman across from him for twenty minutes about a dinner in 2021.
-
-He said it in the ordinary voice a man uses at a table.
-
----
-
-"He is not eating."
-
-* * *
-
-Nobody said anything about that either.
-
----
-
-It went eleven seats in under two minutes and it did not need one word said above a normal voice, and by twenty past nine there were four people at that table who were not looking at their plates.
-
-And at twenty past nine Choi Dae-ho picked up a fork, and put a piece of something on it, and put it in his mouth.
-
----
-
-Georgij, at the side of the room, with his hands where they could be seen, watched a man of sixty eat in front of people for the first time in twenty-three years.
-
-* * *
-
-It did not work.
-
----
-
-There is no version of that table at twenty past nine in which a man eating solves anything. Four people had stopped looking at their plates because he was not eating, and they went on not looking at their plates when he was.
-
-* * *
-
-Annie did not look down the table once in two hours.
-
----
-
-She talked to Chairman Woo and to a woman from a firm in Busan and to a man who has an interest in porcelain. She was extremely good company, and she was seen by everybody in that room to be extremely good company.
-
-She did not send anything down the table to him. She did not raise a glass to the room. She did not stand up and say one word all evening.
-
----
-
-That is what she did, and it took four hours to do, and it is the only thing she did.
-
-* * *
-
-At half past nine Mrs Seo came into the room by the door at the far end.
-
----
-
-She came the way she comes into a room with thirty people in it, which is without anybody noticing except the person she is going to, and she stopped at his shoulder and said something quietly.
-
-Georgij was eleven feet away and heard the whole of it.
-
-She said that there was a room at the end of the passage, and that it would be quieter, and asked whether he would come with her.
-
-* * *
-
-Choi Dae-ho put his napkin on the table beside his plate and got up.
-
----
-
-Two people at that end of the table looked up, because two people always look up when somebody gets up, and one of them said something to him and he answered it and smiled.
-
-Then he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
-
----
-
-Nobody watched him go.
-
-* * *
-
-Georgij stayed where he was for about forty seconds, because a man who leaves a room ninety seconds after another man is a thing four people notice.
-
----
-
-Then he went out through the other door and along the front of the house and came into the passage from the other end.
-
-* * *
-
-Mrs Seo was coming back up it.
-
-She stopped when she saw him and stood to one side of the passage, which she does not do, because she has been running that house for nine years and she is not somebody who stands aside in it.
-
-"He is in the small room," she said.
+"*Where a bona fide interest is asserted in respect of any lot.*"
 
 "Yes."
 
+"He would have to assert an interest." Mr Hwang said it the way a man says a figure he has just checked. "In writing. On his own paper, or on somebody's paper with a name at the top of it. And it goes into the series with the request attached, and the request cannot be sealed or withdrawn, because I did not write one in for those either."
+
+"No."
+
 ---
 
-She did not say anything else for a moment.
+"So to get a copy of a line that has a woman's name on one side and a woman's name on the other," said Mr Hwang, "he would have to put his own name in a sentence about her."
 
-"He asked me on the way whether I had been in this house long," said Mrs Seo, "and I said nine years, and he said that they were fortunate."
+"That is the price of the copy."
 
 * * *
 
-Georgij stood in the passage.
+The corridor outside had men in it moving something, and one of them said a number to the other.
 
-"What you said."
+"I did not build that," said Mr Hwang.
 
-"Nothing. I opened the door." She had her hands in front of her. "And then he said thank you and went in, and he said it the way people say it who mean it. I have shut a great many doors in nine years, and I have never once wanted to say something afterwards to nobody in a passage."
+"No."
+
+"I built it so that a house could not hide behind silence. I wrote the last sentence about a nil return and I was pleased with myself for a fortnight." He had not taken his hand off the sheet. "It has done exactly one thing in fourteen years that I intended, and that was your letter in August, and it has done this, and I did not intend this and I could not have."
 
 ---
 
-"Then say it now."
+Georgij did not offer him anything.
 
-"No," said Mrs Seo. "I am going to go and see about the second sitting, and in about a year I am going to tell you what it was, and you are going to have forgotten this conversation and I am not."
+"You are going to tell me that is what a good clause does."
+
+"No," said Georgij. "I am going to tell you that a man who has spent twenty-five years never writing anything down has spent ten weeks looking at a printed date. And that he decided he would rather lose it than be in a sentence."
 
 * * *
 
-She went up the passage and did not look back.
+The van came at eleven and it was on time.
 
 ---
 
-Georgij stood outside a door in his own house with a certificate of destruction in his inside pocket and a folded page in the other one, and did not go in for about eleven seconds.
+Nineteen boxes went out of the front of a house on the river between eleven and twenty past, past the four screw holes and the plywood where the settlement slot was. The two men were perfectly ordinary and neither of them asked what any of it was.
 
-Behind him, at the far end of the building, twenty-six people went on with their dinner.
+Mr Hwang went out to the lorry and watched them load it and did not help, because a man of his sort does not help, and he counted them onto the tailgate.
+
+Nineteen.
+
+* * *
+
+"There is a thing I am going to do and I would like you to be in the building for it and not in this room," he said.
+
+"Then I will be in the corridor."
+
+---
+
+He signed the manifest at the desk with the door open, and it took him about four seconds, and Georgij stood eleven feet away in a corridor and did not watch him do it.
+
+* * *
+
+The certificate came on the Friday by post, addressed to the administrator, and it is one page.
+
+It gives the date, the class, the weight in kilogrammes, the method, and a reference number. It does not give a lot, a buyer, a price or a name, because a certificate of destruction is a document about paper and not about what was on it.
+
+---
+
+Mr Hwang had it couriered to the house on the river on the Monday morning with a compliments slip and nothing written on the slip.
+
+* * *
+
+Georgij put it in his inside pocket on the Monday afternoon and it has been there since.
+
+## Day Five Hundred and Fourteen · Monday 1 March
+
+He went back on the Monday and it is the fifth time and the building has two rooms.
+
+---
+
+"You have come to offer me something," said Mr Hwang. "You have had it in your coat for four months and you have not offered it, and I have known since about November that you were not going to until this week."
+
+"That is accurate."
+
+"Then say it standing up, because I have been sitting behind desks in this building for six years and I am finished with it on the fourth."
+
+* * *
+
+Georgij stood.
+
+"There is a woman in a house on the river who was going to be married in April eleven years ago," he said. "Sixty-two people were invited. She has asked what became of them. She has four and there are fifty-eight."
+
+---
+
+Mr Hwang did not say anything.
+
+"It is a records job and it is going to take years, and most of it is halls, registers, business filings and death notices, and about a third of it will come to nothing. There is a desk and a telephone and whatever it costs to be on trains. There is nobody to manage and nothing to run and no building. It is a long way beneath you and you would be doing it on your own."
+
+* * *
+
+"Who is paying," said Mr Hwang.
+
+"The woman who owns the house."
+
+"Say her name out loud in this room, because it is on a form I countersigned in October and I would like it said rather than understood."
+
+---
+
+Georgij said it.
+
+* * *
+
+Mr Hwang stood up behind his own desk.
+
+"On the twenty-eighth of May last year you stood in a room upstairs and told me I would be in work by October and that it would be beneath me," he said. "I asked you whether that was supposed to be a kindness."
+
+"I remember what you asked and I remember what I did not answer."
+
+"You said in the same conversation that the man who took me on would be getting somebody who had learned the only thing I did not know in the autumn." He had both hands on the desk. "I have had nine months of finding out what that sentence meant and I have got about half of it."
+
+---
+
+"Say the half you have."
+
+"That a schedule is not a decision."
+
+* * *
+
+"In April I put twelve posts through in an afternoon out of a spreadsheet and I did not go down to the floor," said Mr Hwang. "That is the half. I have had it since June and I have not been able to get any further with it, and I have known since about October that there was more."
+
+"There is more and it is not mine to give you."
+
+"Then whose."
+
+---
+
+"A woman in Gwangyang who is running a settlement function three hundred kilometres from here," said Georgij, "and she is not going to give it to you either, and she has told me so in her own words. She said that it would exist and that you do not get to have it."
+
+* * *
+
+Mr Hwang stood very still.
+
+"She wrote it."
+
+"She wrote it on the fourteenth of June. It is nine lines and it is signed and dated, and it is in a drawer in a house on the river. I have read it and I am the only person other than her who has." Georgij did not look away. "I told you that in October in this room and I would not read you a line out of it, and I am not going to today either."
+
+"No," said Mr Hwang. "I did not think you would."
+
+---
+
+He came round the desk.
+
+* * *
+
+"Then I will take the work," he said.
+
+"You have not asked what it pays."
+
+"I have not, and I am not going to in this room, and you may tell her that I did not." He put his coat straight, which he does not need to do indoors. "I am fifty-five and I have been the man who keeps everything since I was thirty, and it has been worth nothing to anybody twice in that time."
+
+"Say the two."
+
+"A clause in 2011 that a stranger used correctly in August." He picked the sheet up off the desk and put it in the crate. "And a woman who came up three floors on the ninth of January four years ago with a school exercise book, because she had heard that I was proud of it."
+
+* * *
+
+At the door Georgij stopped.
+
+"Fifty-eight names," he said.
+
+"Fifty-eight names, eleven years old, out of a hall book with no addresses in it." Mr Hwang did not look up from the crate. "Four hundred and sixty weddings went through that hall between then and the day it changed hands. I will need the diary for that year and I will need it in a fortnight."
+
+---
+
+Georgij stood in the doorway of a room with two crates in it.
+
+"It went out of a room in Mapo on the fourth of February," he said, "in a box with eight others, and the firm that paid for the van is not an archive, and I cannot get at it."
+
+"Then I will start with the hall."
+
+* * *
+
+He wrote it that evening and it took two lines.
+
+---
+
+*Nineteen boxes, three hundred and ninety kilogrammes, one page with a reference number on it, and no name anywhere on any part of it.*
+
+*Two requests in nineteen weeks, and neither of them was his, and he had the date printed on a piece of paper in December.*
+
+---
+
+Then the rest, and he took longer over it.
+
+---
+
+*He read eleven words of a clause a man wrote in 2011 and worked out that the price of one copy was one sentence with his name in it.*
+
+*And then he did the thing he has done for twenty-five years, which is nothing, and it cost him the only paper in this country that would have been worth having.*
+
+*I have been calling that a habit since June. It is not a habit. It is the whole of him, and it has never once failed him until this winter, and it is going to go on not failing him right up until the evening.*

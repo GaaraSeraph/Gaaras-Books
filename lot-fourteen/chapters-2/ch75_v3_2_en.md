@@ -1,0 +1,350 @@
+# Chapter 75: Not four
+*Lot Fourteen* · Version 3.2 · EN
+
+## Day Four Hundred and Sixty-Five · Monday 11 January
+
+Sim answered it in about ninety seconds on the Monday and then spent forty minutes being sorry about it, and the forty minutes were worth more than the ninety seconds.
+
+---
+
+There was tea and it was at the right temperature.
+
+---
+
+"The cards were mine," said Sim. "I have known that since you said the word cards in this room in the summer, and I did not say so. You had not asked me, and I had decided by then that I was going to be exact and nothing more."
+
+"Say what you were asked for."
+
+"To keep the table until eleven." He put the cup down. "That is the whole of the instruction and it came in a letter and it was one line. *Mr Park should not be back in his own building before eleven o'clock.*"
+
+---
+
+Georgij sat very still.
+
+"And you did not ask."
+
+"I did not ask. A man is asked to be good company until eleven and there is nothing in that sentence to ask about." Sim's voice did not change anywhere. "So at about a quarter past nine I said that I had a pack in my coat, which I did, because I have had a pack in my coat since 1998 for exactly that reason."
+
+---
+
+"He lost forty thousand won."
+
+"He lost forty thousand won and he lost it to me, and I did not want it and I could not refuse it." Sim straightened his cuff, and it did not help. "I have thought about that money about nine times since the summer. It is in a drawer in this office and it has been there for a year and a half."
+
+---
+
+"What was happening at eleven o'clock," said Georgij.
+
+"I do not know. I have never known and I did not want to know and it was not in the letter." Sim looked at the window. "That is the answer and it is worth nothing, and I have spent since Thursday deciding whether to give you a guess as well."
+
+"Then do not guess."
+
+"No," said Sim. "I am not going to. I have had eleven years of being useful with a guess."
+
+---
+
+At the door there was one more thing.
+
+"You are going to tell him," said Sim.
+
+"On Tuesday."
+
+"Then tell him the money as well." He had one hand on the frame. "Not the amount. That it is in a drawer and that I have not spent it. He is entitled to know that a man kept it, and he is entitled to think whatever he likes about that, and I would rather he thought it in January than found it out in a year."
+
+## Day Four Hundred and Sixty-Six · Tuesday 12 January
+
+Park Sang-hoon took a room this time and not a table.
+
+He said on the telephone that it was because he did not intend to be pleasant to anybody for two hours afterwards. It is the first time in nine years he has booked a room for that reason.
+
+---
+
+There was food and neither of them touched it.
+
+---
+
+"I have got them," said Georgij. "I am going to give you all four in the order they happened and I am going to say what I do not have."
+
+"Then begin at the beginning and do not stop for my face."
+
+---
+
+He began at the beginning.
+
+* * *
+
+**K.** The twenty-fourth, the twenty-fifth or the twenty-sixth of February, four years ago. Twenty minutes, standing up, in Sang-hoon's own office, with a coat still on. A question about whether he was going to the spring sale on the river. He said no, and he had not been in years, and it cost him nothing to say it.
+
+"That one is not a decision," said Georgij. "It is a measurement. He came to find out whether he got an answer."
+
+"You told me that in July and I have had six months with it and it has not got better."
+
+* * *
+
+**S.** The twentieth of March, four years ago, eight in the evening. Three weeks after K, at his table.
+
+"That is the one you have never told me the content of," said Georgij.
+
+"No, and I am not going to, and it is the only thing I have kept back from you in a year." Sang-hoon did not move. "Nothing about it was illegal and nothing about it was unusual. It was a favour to a man I liked, and it cost me about eleven days of a ship, and it was on the twentieth of March."
+
+"The spring sale on the river was on the twenty-eighth."
+
+---
+
+Sang-hoon put his cup down.
+
+"Say that again."
+
+"The spring sale on that river was on the twenty-eighth of March that year, and lot six went into the book on the twelfth of February and was open for seven weeks and did not clear. K is three weeks before S. S is eight days before the sale."
+
+---
+
+Sang-hoon put one hand flat on the cloth and left it there.
+
+"Eleven days from the twentieth."
+
+"About eleven. You said about."
+
+"I said about because nobody has ever made me be exact about it." He did not take his hand off the cloth. "It was not back on the twenty-eighth."
+
+---
+
+Georgij did not say anything.
+
+---
+
+"I am not going to tell you what it was," said Sang-hoon. "That has not changed in the last minute, and I want it said, because you are sitting there letting me think it might."
+
+"I know."
+
+"Then have the other half as well." He took his hand off the cloth. "When I sat down I was keeping a small thing about a friend. I do not know what I am keeping now."
+
+* * *
+
+**H.** A late August, three years after that. Half past seven. Six weeks before Mr Hwang was brought into a house that was already dying.
+
+"You have told me that one and I have had it since September," said Sang-hoon. "A shipment through my own name with no invoice behind it, and I did it and did not ask why, because asking why was the one thing that table had taught me not to do."
+
+---
+
+"And the fourth."
+
+---
+
+Georgij put both hands flat on the cloth.
+
+"Y is not a decision either," he said.
+
+---
+
+Sang-hoon did not say anything at all.
+
+"You have spent a year looking for the thing you gave away at that dinner. There is not one. Nobody asked you for anything, nobody put a proposal in front of you, and you did not agree to a single thing all evening." Georgij did not soften it. "The instruction was one line in a letter and it was that you should not be back in your own building before eleven o'clock."
+
+---
+
+The room above the restaurant did the thing rooms do.
+
+"Say it again."
+
+"You were not asked to decide anything. You were asked to be somewhere else."
+
+---
+
+Sang-hoon sat with both hands on the arms of his chair and did not move them.
+
+"Two hours."
+
+"Two hours, and the cards were the mechanism, and the man who suggested them was told to keep the table until eleven and was not told why, and did not ask. He has had the money in a drawer since that night. It is still there. He asked me to tell you that, and to tell you that he has not spent it. And he asked me to say that you should think whatever you are going to think about it in January and not in a year."
+
+---
+
+Sang-hoon looked at the food that neither of them had touched.
+
+"What happened in my building at eleven o'clock," he said.
+
+"I do not know. He does not know either and he did not guess when I gave him the room to." Georgij kept his hands where they were. "That is where it stops, and I am not going to build you the rest of it out of two dates and a card game."
+
+"Then it is three," said Sang-hoon.
+
+"It is two."
+
+---
+
+He looked up at that.
+
+---
+
+"Say what you mean and be slow about it," said Sang-hoon.
+
+"You told me in a shed in May that you had made four decisions at those dinners that you had never been able to account for." Georgij said it evenly. "Two of them were decisions. S and H. You made them and they were yours, and until an hour ago you could have said you would make one of them again."
+
+"And K and Y."
+
+"K is a man finding out whether you answer. Y is a man needing your office to be empty." He did not stop anywhere. "Neither of them is a thing you did. You have spent a year going over four evenings looking for what was wrong with you, and half of that year was about two nights on which you did not do anything at all."
+
+---
+
+Sang-hoon did not answer for a long time.
+
+---
+
+"That is worse," he said.
+
+"Yes."
+
+"You know that it is worse and you said it anyway."
+
+"I said it because it is what I have got, and because you would have found it yourself in about four months, and by then you would have been certain that I had left it out to spare you." Georgij held his eye. "There is no version of this afternoon in which you go home pleased."
+
+---
+
+Sang-hoon almost got out the thing that is not quite a laugh.
+
+"You have not asked me for anything since May," he said. "Not once, in eight months, and you have brought me four things I did not want and one man I have known for thirty years."
+
+"No."
+
+---
+
+He had written one line in a car in Yeouido fourteen months ago, and he had never told the man who gave it to him.
+
+*Pyeongtaek. February. Eleven months of asking for nothing.*
+
+---
+
+"Then I am going to ask you for something instead, and you are going to find it strange, and I have been sitting on it since the ninth."
+
+---
+
+"Ask it."
+
+"There were six firms on that lane out of Ulsan," said Sang-hoon.
+
+---
+
+Georgij did not move at all.
+
+"Your employer has bought five of them. It is in the register and I read the register, and so does everybody else who reads registers, and by the end of the month it will be a thing people say at lunch." Sang-hoon looked at him and not at the food. "So I would like to know about the sixth."
+
+---
+
+The room did what a room does at three in the afternoon.
+
+---
+
+"Say why you are asking," said Georgij. "I am going to answer it either way. I would like to know what I am answering."
+
+"I am asking because a woman of about my own age had a firm on that lane and a chair of an association for twenty years, and she has neither, and there is no entry anywhere that says why." Sang-hoon did not blink. "In this trade there is always an entry. A man goes under and there are four people who will tell you which quarter it started in. This one has nothing, and nothing is a thing I have learned to be interested in since the twenty-seventh of May."
+
+---
+
+Georgij sat with that for about two seconds.
+
+---
+
+"Then I will give you the whole of it and it is going to be against my own house," he said. "I am not going to arrange it so that it is not."
+
+"That is the only version I would take."
+
+---
+
+He gave it to him.
+
+---
+
+A page went out to six hundred and forty buyers in March. One copy was made on a machine in a corridor in Jung-gu on the twelfth, at twenty to five, by a filing clerk who did not think about it for one second. It was in Ulsan on the fourteenth.
+
+The man who asked for it had sat down beside somebody at a port authority lunch in January. He asked what the small operators on that coast were like, and then he asked about one of them by name. He was very interested in the word honest.
+
+She wrote a letter. She used the page. She had forty-one people and a dead lane and nobody would tell her why.
+
+---
+
+"And on the third of April I asked for the lane and I was given it," said Georgij, "and by the middle of May she had sold four trucks and lost a firm her brother left her. That was me. I asked for it standing up, on my own account, and the woman I work for could have said no and did not."
+
+---
+
+Sang-hoon did not say anything for a while.
+
+"Why," he said.
+
+"Because the thing she picked up and pointed at my employer was me." Georgij did not decorate it. "Lot fourteen. On the page, in her coat, for twelve days, and she did not know there was a person on it until I told her on the thirtieth of April."
+
+---
+
+The room was very quiet.
+
+"You told her that yourself."
+
+"I have been to that office four times. The last one was the twenty-second of December and I brought nothing and asked for nothing. That is the whole of what I have got to put on the other side of it, and it does not weigh anything."
+
+---
+
+Sang-hoon turned his glass a quarter turn and left it.
+
+"Then say the last part, because there is one and you have not offered it."
+
+"She is on a list," said Georgij. "There are thirty-one people on a page in my coat and she would be the thirty-second. She is on it for the same reason as the other thirty-one, which is that he chose her and used her and went home."
+
+---
+
+"Does she know she is on it."
+
+"I told her on the twenty-second. She telephoned this house on the fifth of January and said one word and rang off."
+
+---
+
+"Good," said Sang-hoon.
+
+He said it flatly and it was not approval.
+
+"I have spent eight months finding out that I am one of thirty-one, and I have not liked one hour of it, and I have not once until this minute thought about what it is like to be told." He put both hands on the arms of the chair. "She has said yes to a dinner in a house she has reason to hate, and there was nobody in this country who could help her decide it. That is exactly the position I was in, in a shed in May, with nobody in it but you."
+
+---
+
+Georgij did not say anything.
+
+"I am not going to tell you what I am going to do about her," said Sang-hoon. "Not today and not in a fortnight. I asked you a question and you answered the whole of it and you put the worst of it first, and that is what I have."
+
+"That is the correct answer."
+
+"It is not an answer. It is a man saying that he has not decided." He stood up. "You have got very good at telling the difference and I have got very tired of watching you do it."
+
+---
+
+At the door he stopped, which he does not do.
+
+"The forty thousand won," he said.
+
+"It is in a drawer in Jongno."
+
+"Then it can stay there." Sang-hoon put his coat straight. "A man who keeps money he did not want for a year and a half in a drawer he opens every day is not doing it for me. Tell him nothing. He would only be pleasant about it."
+
+---
+
+He went.
+
+* * *
+
+Georgij wrote it in the car and it took two attempts, and the first one was about the two hours.
+
+---
+
+*Two decisions and not four.*
+
+*He has spent a year on four evenings and half of it was about two nights on which he did nothing at all. He was measured on one and he was moved out of a building on the other.*
+
+*And the man who moved him was in the room with him and did not know it either.*
+
+---
+
+Then the other half.
+
+---
+
+*He read a register in January and found five firms on a lane and asked about the sixth.*
+
+*Nobody told him. Nobody could have stopped him. He has eleven thousand people and a habit of counting, and it took him about four days.*
+
+*Everything I have done since March is going to be found by somebody doing exactly that, and the only thing I get to decide is whether they hear it from me first.*

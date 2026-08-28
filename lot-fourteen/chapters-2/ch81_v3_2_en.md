@@ -1,370 +1,334 @@
-# Chapter 81: The length of the room
+# Chapter 81: Twenty-seven
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
-The eleven minutes were not for him.
+The dining room in that house takes thirty at one table. It has been laid for thirty once in nine years, in the December before Georgij came, and Mrs Seo has said so twice this week without being asked.
 
 ---
 
-They were so that twenty-six people would have eleven minutes in a room with the twenty-seventh chair empty. Annie put the number on it on the Monday and did not explain it to anybody. Georgij worked it out on the Tuesday and did not say so.
+It is laid for twenty-eight.
 
 * * *
 
-Georgij came back into the dining room at twenty to ten by the door at the near end and stood where he had stood before.
+Annie did the placing herself on the Monday and she did it alone, at the desk, with the folded sheet and no help.
 
 ---
 
-Nobody was eating.
+Georgij found the card on the Tuesday morning under the blotter and read it and put it back exactly where it had been, and did not say anything about it until the Wednesday evening.
 
-Four people were. They are the ones who came late and sat on the far side and have been talking to each other about a berth all evening, and they went on eating and it did not matter.
+"You have put Im next to a man from a shipping firm in Incheon," he said.
+
+"I have."
+
+"They were at the same table in 2018 and neither of them knows it."
+
+---
+
+Annie did not look up.
+
+"There are seven of those," she said. "Six pairs and one three. It took me four hours and I did it out of the years against the names, and I have not put a single person next to anybody they know."
 
 * * *
 
-There is a way a table sounds at twenty to ten with a chair empty in it.
+"Say what it does," said Georgij, "because I have had it since Tuesday and I would like to hear it from you."
+
+"Nothing at all." She put the pen down. "It does nothing. It is a table plan. Twenty-eight people sit down at eight o'clock and talk to whoever is beside them, and that is what happens at every dinner in this country."
 
 ---
 
-It is not quiet. Nobody at that table stopped talking and nobody said one word about the empty chair. If a stranger had come into that room at twenty to ten he would have said it was a good evening, and he would have been right.
+He did not say anything.
 
-The difference is that eleven people were talking to somebody they had not come with, and one of them was crying and being extremely well handled about it by a woman from Busan.
-
----
-
-At about a quarter to ten Georgij heard a man on the near side say a date to another man. It was the second of June, four years ago, and the other man said that he had been at that one as well.
-
-Neither of them said anything for about four seconds.
-
-Then the first one said that he had lost a contract that summer and had never been able to account for it. And the second one said, in the ordinary way, that he had not lost anything at all and had gone home very pleased.
-
-And then the two of them sat and looked at each other, which is worse.
+"There is not one thing on that card that anybody could describe afterwards," said Annie. "Nobody is going to be asked to say anything. Nobody is going to be told anything. Twenty-six people are going to sit down next to a stranger and be polite to him for two hours."
 
 * * *
 
-At ten to ten Mrs Seo went down the passage.
-
-She was gone about forty seconds and she came back into the room ahead of him, and that is the only thing about the whole of it that had been arranged, and Georgij had not arranged it either.
+They began arriving at twenty to eight.
 
 ---
 
-He came in at the far end.
+Mr Ok came first and came alone and did not know why he was there, and said so in the hall in about eleven words. Then he took a glass and stood near the door, and looked at the room the way a man looks at one he has not been asked to.
+
+Mr Koh came at eight minutes to and was the only one who came with something, which was a bottle, and Mrs Seo took it from him and thanked him and did not put it out.
+
+---
+
+Nam Byung-hee came at four minutes to eight and she came on the train and she had been in the city since two.
+
+She stood inside the door of that hall with her coat still on and looked at the stairs for about six seconds. Then she gave the coat to Mrs Seo, who did not say her name and did not need to.
 
 * * *
 
-Choi Dae-ho walked the length of that dining room to get to the hall.
+Georgij was at the far end of the hall.
 
----
-
-It is eleven metres and there were twenty-six people in it, and he did it at the same speed he had come up the steps at three minutes past eight.
+She saw him and did not come over, and he did not go to her, and that had not been agreed anywhere.
 
 * * *
 
-They looked at him.
+Choi Dae-ho arrived at three minutes past eight in a car he did not drive.
 
 ---
 
-Not one of them said anything.
+He is not tall. He is about sixty and he came up the steps at the speed of a man who is expected. He had his coat off his shoulders before he was through the door, because that is how a man of that generation gives a coat to a housekeeper.
 
-Eleven of them had said good evening to him between five past eight and the gong. Four of them had shaken his hand. A man from a firm in Ulsan that moves grain had talked to him for six minutes about a road.
+Mrs Seo took it over her arm and said good evening and told him where the room was.
 
-They put their glasses down or they did not, and they looked at him, and they did it for the whole eleven metres.
+She did not smile at him and she did not fail to smile at him.
+
+---
+
+He said that it was good to see her again.
 
 * * *
 
-Nobody was unkind to him.
+Georgij was eleven feet away and had been for four minutes on purpose.
 
 ---
 
-That is the thing Georgij watched and it is the thing he has not been able to put down since. There was not one face at that table that was cruel. Two of them were frightened. Four of them were still working it out and had it about three quarters of the way. The woman from Busan had one hand on the arm of the woman who was crying and did not take it off, and looked at him over the top of her head with no expression at all.
+Mrs Seo did not say anything back. She said the number of the room again and stepped aside for him, and it took about two seconds, and there is no version of it that anybody in the world could describe as a discourtesy.
 
-It is what a room does when it has just found out and has not decided yet.
+Then she went and hung his coat with the others and came back into the hall and did not look at Georgij once.
 
 * * *
 
-He got about six metres.
+The four minutes started when he went through the door of the dining room.
 
 ---
 
-Nam Byung-hee was on the near side, on the aisle, and she had been placed there on the Monday by a woman with a table plan and four hours.
-
-She turned in her chair and looked at him.
-
----
-
-She did not stand up and she did not say anything, and she looked at him from about a metre and a half for the length of time it took him to pass her, which is under two seconds.
+Georgij came in about ninety seconds behind him and stood where he could see the whole of it and did not speak to anybody.
 
 * * *
 
-He did not know who she was.
+He watched a man of sixty read a room.
 
 ---
 
-Georgij was eleven feet away and watched a man of sixty walk past a woman he chose in January, in a room with forty people in it, because she was described to him as honest. He did not know her face. There is no reason on earth why he should have.
+It is the only thing about Choi Dae-ho that anybody has ever been able to describe. Georgij had it in nine lines in October and had never seen it, and it is not what he had built in his head.
+
+There is nothing to see. He does not turn round. He takes a glass he does not drink out of and he goes three steps into a room and stops, and he is pleasant to a man who is nearest to him, and he asks him something.
+
+And in the four minutes his eyes go across that room twice.
 
 * * *
 
-She turned back to the table.
+At about the third minute he stopped being pleasant to the man nearest to him.
 
-The man on her left said something to her and she answered him and picked her glass up.
+Not rudely. He finished the sentence and the other man went on talking and he went on listening.
+
+---
+
+That is the whole of it and Georgij nearly missed it.
 
 * * *
 
-He had five metres left.
+Sang-hoon was by the window with two other men and did not turn round.
+
+He had said in a room above a restaurant in January that he was not going to say one word to that man and that a conversation would be the proof that people still had them with him. He stood with his back to the room for the better part of an hour and talked to a man about a berth at Gwangyang.
 
 ---
 
-Georgij watched him take them, and he has written down what he thinks about it once and has not improved it since.
-
-He did not hurry and he did not slow. There is nothing in it that anybody at that table could have described the next morning, and eleven of them have tried.
-
----
-
-What changed is that he stopped reading the room.
-
-For six metres a man who has read every room he has been in since 2002 went on reading that one. Then he stopped, and he did the last five looking at the door.
+Chairman Woo sat down at half past seven and did not get up again, and four people came to him, which is what happens.
 
 * * *
 
-In the hall Mrs Seo had his coat over her arm before he was through the door.
+Nobody cut him.
 
 ---
 
-He put it on himself and he thanked her, and he said that it had been a very good evening.
+Eleven people said good evening to Choi Dae-ho between five past eight and the gong. Four of them shook his hand. Two of them were pleased to see him. One of them, a man of about fifty from a firm in Ulsan that moves grain, talked to him for six minutes about a road.
 
-"I am glad, sir," said Mrs Seo.
-
----
-
-That is what she said. It is what she has said in that hall for nine years and she said it in the voice she says it in, and there is not one thing about it that anybody could describe.
+And then in every single case they turned to somebody else, because there were twenty-eight people at that table and everybody turns to somebody else.
 
 * * *
 
-He said one more thing at the door and she has never told anybody what it was.
+They sat down at half past eight.
 
 ---
 
-Georgij was in the passage and did not hear it.
+Annie was at one end and she is very good at it and she has done it since she was twenty-six.
+
+She did not put herself near him and she did not put herself far from him. He is eleven places down on the same side, which is the one place at a table of that length from which the host cannot look at you without turning her whole head.
 
 * * *
 
-The car was on the drive and it was the third of the four.
+Georgij was not at the table.
 
-He got into it at four minutes to ten and it went down the drive and out through the gate, and it did not stop at the gate. Nobody in that house watched it go except the man at the passage window.
+---
+
+He stood at the side of the room where a man of his sort stands. Nobody in that room except six people knew who he was, and two of the six were the woman at the head of it and a woman from Ulsan.
 
 * * *
 
-The dinner went on until twenty past eleven.
+It began at about a quarter to nine and it began with a date.
 
 ---
 
-That is the part nobody would believe and it is the part that matters.
+Mr Im was talking to a man from a shipping firm in Incheon about nothing at all, and the man asked him, in the ordinary way, when he had got out of the trade.
 
-Twenty-six people stayed for an hour and a half after he had gone, and they were given coffee. Four of them asked for the telephone and were shown to it. Mrs Seo put a second pot out at half past ten because they were still there.
+And Mr Im said that his firm had gone in the two years after a dinner in Cheongdam on the fourteenth of November six years ago, and that he had made a bad decision over the dessert.
+
+---
+
+He said it in an ordinary voice and he did not lower it, and he had told Georgij in December that he had not been able to say a sentence like that at a table since 2019.
 
 * * *
 
-Mr Koh left first and left at ten past ten, and he went to Annie and thanked her for the evening and did not say anything else, and she thanked him for coming and did not either.
+The man from Incheon put his glass down.
 
 ---
 
-Mr Im stayed until eleven and left with the man from the shipping firm in Incheon, and the two of them stood in the drive for another six minutes in March with no coats on.
-
----
-
-Chairman Woo went at half past ten and Mr Ku took him, because his own driver had gone at nine on his instruction, and he did not say goodnight to anybody in the room. He stopped in the hall and said one sentence to Georgij and did not wait for an answer.
-
-"That was your employer's," he said, "and I have been at a great many of these and I have never seen it done, and I am seventy-eight and I would like to have said so out loud once."
+He did not say anything for about four seconds. Then he asked Mr Im which restaurant it was.
 
 * * *
 
-Park Sang-hoon left last of the men and left at eleven.
+That is the whole of it and it took nineteen minutes to go the length of that table, and it did not go the way anybody would draw it.
 
 ---
 
-He came to the side of the room where Georgij was standing, which he had not done all evening, and stood beside him and looked at the table rather than at him.
+It did not go round. It went across, and back, and then across again in a different place, because six pairs of people were sitting next to somebody they had never met and one of them had just said a date out loud.
 
-"Eleven people are going to telephone somebody tomorrow," he said.
+A woman of about sixty at the far end said the word Cheongdam to the man on her left and he put his fork down.
+
+* * *
+
+At about nine o'clock somebody laughed at the near end of the table and it was not a comfortable laugh.
+
+---
+
+Nobody raised their voice at any point in that evening.
+
+* * *
+
+Georgij watched Choi Dae-ho watch it.
+
+---
+
+He was eleven places down on the same side and he had a plate in front of him and a glass in his hand.
+
+He is very good. He turned to the woman on his right at the correct moment and said something and she answered him, and he listened to the answer, and he was pleasant to her for about two minutes.
+
+And in those two minutes he read the length of that table twice, and the second time he did it slowly, and Georgij could not have said what changed in his face because nothing did.
+
+* * *
+
+At eleven minutes past nine a man near the middle said it.
+
+---
+
+He is one of the twenty-six and he is about fifty-five and he is in shipping insurance, and he had been talking to the woman across from him for twenty minutes about a dinner in 2021.
+
+He said it in the ordinary voice a man uses at a table.
+
+---
+
+"He is not eating."
+
+* * *
+
+Nobody said anything about that either.
+
+---
+
+It went eleven seats in under two minutes and it did not need one word said above a normal voice, and by twenty past nine there were four people at that table who were not looking at their plates.
+
+And at twenty past nine Choi Dae-ho picked up a fork, and put a piece of something on it, and put it in his mouth.
+
+---
+
+Georgij, at the side of the room, with his hands where they could be seen, watched a man of sixty eat in front of people for the first time in twenty-five years.
+
+* * *
+
+It did not work.
+
+---
+
+There is no version of that table at twenty past nine in which a man eating solves anything. Four people had stopped looking at their plates because he was not eating, and they went on not looking at their plates when he was.
+
+* * *
+
+Annie did not look down the table once in two hours.
+
+---
+
+She talked to Chairman Woo and to a woman from a firm in Busan and to a man who has an interest in porcelain. She was extremely good company, and she was seen by everybody in that room to be extremely good company.
+
+She did not send anything down the table to him. She did not raise a glass to the room. She did not stand up and say one word all evening.
+
+---
+
+That is what she did, and it took four hours to do, and it is the only thing she did.
+
+* * *
+
+At half past nine Mrs Seo came into the room by the door at the far end.
+
+---
+
+She came the way she comes into a room with thirty people in it, which is without anybody noticing except the person she is going to, and she stopped at his shoulder and said something quietly.
+
+Georgij was eleven feet away and heard the whole of it.
+
+She said that there was a room at the end of the passage, and that it would be quieter, and asked whether he would come with her.
+
+* * *
+
+Choi Dae-ho put his napkin on the table beside his plate and got up.
+
+---
+
+Two people at that end of the table looked up, because two people always look up when somebody gets up, and one of them said something to him and he answered it and smiled.
+
+Then he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
+
+---
+
+Nobody watched him go.
+
+* * *
+
+Georgij stayed where he was for about forty seconds, because a man who leaves a room ninety seconds after another man is a thing four people notice.
+
+---
+
+Then he went out through the other door and along the front of the house and came into the passage from the other end.
+
+* * *
+
+Mrs Seo was coming back up it.
+
+She stopped when she saw him and stood to one side of the passage, which she does not do, because she has been running that house for nine years and she is not somebody who stands aside in it.
+
+"He is in the small room," she said.
 
 "Yes."
 
-"And in about a fortnight there will be two of them who find out that they were at the same dinner in 2018, and they will not need either of us for it." He put his glass down on a sideboard that was not for glasses. "I have watched a thing happen tonight that nobody can stop, and I have been in a great many rooms, and I have never once been in one of those before."
-
 ---
 
-Georgij did not say anything.
+She did not say anything else for a moment.
 
-"Do not say anything," said Sang-hoon. "I have had ten months of you not saying things and it is the only part of this I am going to miss."
+"He asked me on the way whether I had been in this house long," said Mrs Seo, "and I said nine years, and he said that they were fortunate."
 
 * * *
 
-The four who came late left at a quarter past eleven and thanked Annie for a very good evening, and two of them meant it.
+Georgij stood in the passage.
+
+"What you said."
+
+"Nothing. I opened the door." She had her hands in front of her. "And then he said thank you and went in, and he said it the way people say it who mean it. I have shut a great many doors in nine years, and I have never once wanted to say something afterwards to nobody in a passage."
 
 ---
 
-They had been on the far side and they had talked about a berth from eight o'clock until the end, and they went home not knowing one thing that had happened in that room.
+"Then say it now."
 
-That is also true of most rooms.
+"No," said Mrs Seo. "I am going to go and see about the second sitting, and in about a year I am going to tell you what it was, and you are going to have forgotten this conversation and I am not."
 
 * * *
 
-Nam Byung-hee left at twenty past eleven and she was the last.
+She went up the passage and did not look back.
 
 ---
 
-She came out into the hall on her own and Mrs Seo brought her coat, and she put it on and did not put the buttons through.
+Georgij stood outside a door in his own house with a certificate of destruction in his inside pocket and a folded page in the other one, and did not go in for about eleven seconds.
 
-Georgij was at the far end of the hall, which is where he had been at four minutes to eight.
-
-* * *
-
-She came the whole length of it.
-
----
-
-"I looked at him," she said.
-
-"I know."
-
-"He did not know who I was."
-
----
-
-"No."
-
-* * *
-
-Nam Byung-hee stood in the hall of a house on the river with her coat open.
-
-"I have had eleven months of wanting to be in a room with that man," she said, "and I have thought about what I would say to him every week since April, on a train and in a yard and at four in the morning, and I had eleven of them ready by January."
-
-"Yes."
-
-"And I sat there and looked at him for two seconds and I did not want any of them."
-
----
-
-She did not say it the way a person says a thing they have solved.
-
-* * *
-
-"Say what you want, then," said Georgij.
-
----
-
-"I want my firm," said Nam Byung-hee. "I am not going to get it, and there is nobody in this house who can give it to me, and I would not take it from her if she offered."
-
-"No."
-
-"So there is not anything." She put one hand on the door frame. "That is what I came four hundred kilometres to find out and it took two seconds and I would do it again tomorrow."
-
----
-
-She went down the steps.
-
-* * *
-
-At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had stood at three minutes past eight.
-
-"There is a woman in this house who was in that building for eleven years," she said.
-
-"There is."
-
-"You have not brought her out and you have not talked about her and nobody at that table saw her." She had her hands in her coat. "That is the only thing anybody has done this year that I would have done."
-
----
-
-Mr Ku took her to the station.
-
-* * *
-
-Georgij stood in the hall of that house at half past eleven with the doors of the dining room open behind him and nobody in it.
-
----
-
-Mrs Seo came through with a tray and did not stop.
-
-"There is soup," she said. "You have not eaten since one and I counted."
-
-* * *
-
-Annie was in the study at midnight with the lamp on and the door open, which it is not at that hour.
-
-"Sit down," she said.
-
----
-
-He went round the desk and sat down on the carpet with his back to the drawers.
-
-Somewhere below them a man from the kitchen was stacking chairs and stopping every four or five to do it quietly, and failing.
-
-* * *
-
-"Was I useful?"
-
----
-
-He had asked her that once before and he had not planned it that time either.
-
-* * *
-
-Annie did not take any time over it.
-
-"Yes," she said.
-
----
-
-Georgij sat very still.
-
-"Say the rest of it, because you have put that away already and started on tomorrow, and I watched you do it." She put the pen down. "You were useful on the third of April, standing up, on your own account, for a thing I could have refused. You were useful in a shed in May. You were useful in a garage in June, and in a yard in Incheon in November, and I have a date for every one of them and I have never once had to be told."
-
-"Yes, Mistress."
-
-"That is the answer and it is a yes, and you are not going to have to ask me for it twice."
-
-* * *
-
-She sat back.
-
-"Now the part the word does not cover."
-
----
-
-"Mistress."
-
-"There is one line in what you gave me about that room and you put nothing round it." Annie's voice did not go anywhere at all. "He told you that he never once spoke to her about anything at that table, and that it is the only thing in his life he has not been able to make into a reason. And you told him that you believed him."
-
-"I did."
-
-"Was that useful."
-
-* * *
-
-Georgij looked at the leg of the desk.
-
-"No," he said.
-
----
-
-"No. It was not." She did not move in the chair. "There was nobody in that room but the two of you, and there is no version of tonight in which it did you any good at all. He is going to have it for whatever he has left, and so are you."
-
----
-
-She let that stand where it was.
-
-"That is the second time you have done that this year," said Annie. "I have counted both."
-
-* * *
-
-He stayed on the carpet with his back against the drawers, and she went back to the page.
-
----
-
-Downstairs the chairs stopped.
-
-* * *
-
-"And Georgij."
-
-"Mistress."
-
-"It was a yes." She did not look up. "You are going to spend tonight looking for the place where I softened it. There is not one."
+Behind him, at the far end of the building, twenty-six people went on with their dinner.

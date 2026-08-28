@@ -1,340 +1,364 @@
-# Chapter 82: Not the comfortable part
+# Chapter 82: Please guide me
 *Lot Fourteen* · Version 3.0 · EN
 
-## Day Five Hundred and Seventy-One · Tuesday 27 April
+## Day Five Hundred and Thirty-One · Thursday 18 March
 
-There are two people who were promised an account and there is a third who was promised nothing and is owed one anyway.
+The small room at the end of the passage has two chairs and a table and a window that looks at the drive, and it is where a person waits in that house.
+
+Georgij has sat in it twice and both times he was waiting to be told something.
 
 ---
 
-Georgij wrote the three names on the Monday and did them in six days, and he did not telephone ahead to any of them.
+He came in at twenty-five to ten.
 
 * * *
 
-## Day Five Hundred and Seventy-Three · Thursday 29 April
+Choi Dae-ho was standing at the window with his back to the door and he turned round before the door was open, because he had heard the passage.
 
-Mrs Sunwoo was in the same chair, and there is a folder on the low table that was not there in December, and it is thin and it has been opened.
-
-"You have come about the window," she said.
-
-"I have come about all of it."
-
-* * *
-
-"Then sit down, and do not be quick about it, because I asked you for the whole of it and not the comfortable part and I have been waiting since the seventeenth of December."
+He is not tall.
 
 ---
 
-It took fifty minutes.
-
-* * *
-
-He told her what the fourth line was and how much it cost and who signed the form.
-
-He told her about the permanent series and what an assignment out of a wind-up does, and that there is a line in a sequence somewhere with a woman's name on one side of it.
-
-Then he told her what happened to the sequence on the twenty-fifth of February, and the weight of it in kilogrammes, and that a certificate exists and where it is.
-
----
-
-He told her about a dinner on the eighteenth of March with twenty-seven people at it and about twenty-seven cards that did not say what the evening was for, and about eleven metres of a dining room.
-
-* * *
-
-Mrs Sunwoo listened to the whole of it with her hands on the arms of the chair and did not interrupt once.
-
----
-
-"You have not told me the part where you did something clever," she said at the end.
-
-"There is not one."
-
-"No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, and I want you to notice that I had to wait."
-
-* * *
-
-She put one hand on the folder then.
-
-"The twenty-first of December," she said. "I wrote to that house under the clause you told me about and I did it in the week you told me about it, and the answer came on the twenty-ninth, and it is in here."
-
----
-
-"I know. I was told the date in February and not the content."
-
-"You were told by the man who wrote it and he did not tell you what was in it, and I have thought about that twice." She did not open the folder. "It is four lines and it says what that house held on my line, and one of the four is a fee and one of them is a date."
-
-* * *
-
-"You have not shown it to anybody."
-
-"I have not shown it to anybody and I am not going to show it to you." Mrs Sunwoo put both hands back on the arms of the chair. "It is in this house, in a folder, in the room I sit in. Everything else about that line is now a photocopy of an allegation, and I am the only person alive who can put a piece of paper next to it."
-
----
-
-Georgij did not say anything.
-
-"You gave me that in December and you did not want anything for it and you have not asked me about it since," she said. "I have been buying in that trade for forty-one years and I have never once been handed a thing that was only for me."
-
-* * *
-
-At the door she said the last of it.
-
-"There is a woman in your house who was going to be married eleven years ago."
-
-"There is."
-
-"I bought something to wear." She had not got up. "I have told you that once and I am not going to make anything of it. But you will tell her, at some point, when there is nothing else going on, that somebody bought something to wear and that it hung in a room for four years."
-
----
-
-"I will tell her in the summer."
-
-"Not before. She has had a winter." Mrs Sunwoo looked at the window. "And when you do it, do not say that it was me."
-
-## Day Five Hundred and Seventy-Five · Saturday 1 May
-
-There was tea and it was at the right temperature, and there were four small things on a plate.
-
----
-
-It took an hour and ten minutes and Georgij did not leave anything out.
-
-* * *
-
-He told Sim what the four visits in March eleven years ago had been for, and who had sent him, and what the two dates in the letter were.
-
-He told him that October is a woman's mother's month, and that the man who wrote it into a letter knew that. He wanted the flowers to arrive on the right day, and he wanted somebody else to be the one who brought them.
-
-He told him what the trust is and what the two corrections were, and he did not dress the second one.
-
----
-
-Sim did not say anything for a long time.
-
-"I have been paid for eleven years to be the pleasant part of a thing that a man arranged so that he could not undo it," he said eventually.
+"You are the one who works for her," he said.
 
 "Yes."
 
-* * *
-
-"Then there is one more thing and I am going to ask it and you are going to answer it exactly."
-
-"Ask."
-
----
-
-"Was I good at it," said Sim.
+"Then I am glad. I have been standing here for four minutes deciding whether it would be her, and I would not have wanted that."
 
 * * *
 
-Georgij did not take any time over it, because taking time would have been a way of deciding what to say.
+He did not sit down and he did not offer the other chair, because it is not his room and he has never in his life offered anybody anything in a room that was not his.
+
+Georgij did not sit down either.
 
 ---
 
-"You were the best I have ever seen," he said. "Four people out of sixty-two went silent for eleven years and not one of them has an unkind sentence to put against you, and I have asked one of them to her face. That is not a comfort and I am not offering it as one."
+"You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been at something for a year and it shows in the way you are standing, and I would say the same thing to anybody."
 
-"No," said Sim. "It is the bill."
-
----
-
-He picked the pot up and poured, because it was the right temperature and because he is who he is.
+"I know that you would."
 
 * * *
 
-"There is one more and it is not mine to answer," said Georgij.
+"Then I will ask you something before you start," he said, "and you may refuse it and I will not ask twice."
 
-"Then it should still be said."
+"Ask it."
 
-"He telephoned you on the tenth of December and on the eleventh, and you did not pick it up, and he has not been seen since the eighth of April." The four small things on the plate had not been touched. "You are going to spend some part of the rest of your life wanting to know whether those two things are the same thing."
+"Is she well?"
 
 ---
 
-Sim straightened his cuff.
+Georgij stood in the middle of a small room.
 
-"I have had that since the second week of April," he said. "I got it at about four in the morning and I have not been able to put it down since, and I would like it noted that you said it out loud before I had to."
+There are four answers to that and three of them are what the man is for, and the fourth one is the true one, and there is nothing in the true one that anybody could use.
+
+"She is well," he said.
+
+"Good. I have known her since she was fourteen and I have not spoken to her in nine years, and I would not expect to and I am not asking to."
 
 * * *
 
-"It is not the same thing," said Georgij.
-
-"You do not know that."
-
-"I do not know it and I am saying it anyway, and it is the only thing I have said to you in eight months that I cannot stand behind." He did not look away. "A man who was already going does not need a telephone to make him go. You were the first thing that was taken off him and you were not the reason."
+"May I ask you something now?" said Georgij.
 
 ---
 
-Sim did not accept it and did not reject it.
+"You do not have to ask me whether you may."
 
-"Then I will hold both of them," he said. "I have had a great deal of practice this year at holding two things, and it turns out that a man can, and that it is not as bad as it sounds and it does not get better either."
+"I do, and I am going to go on doing it, and it is not manners."
 
 * * *
 
-At the door he said the thing he said in October.
+Choi Dae-ho looked at him properly then for the first time.
 
-"Come in the spring," said Sim. "Not for anything."
-
-"It is the spring."
-
-"Then come again in the summer, and I will have something else on a plate that you will not eat."
-
-## Day Five Hundred and Seventy-Eight · Tuesday 4 May
-
-Mr Ok leaves his building at twenty past six and walks to the corner and waits for a car that is always eight minutes late.
-
-It was still eight minutes late in May.
+"Then ask."
 
 ---
 
-"Third time," he said.
-
-"Third time."
-
-"Then say it standing, because it is the only way we have ever done anything."
+"Please guide me," said Georgij. "Who should I be careful of?"
 
 * * *
 
-"You are finished," said Georgij.
+The small room at the end of a passage did the thing rooms do.
 
 ---
 
-Mr Ok put his case on the wall.
-
-"Say it properly, because I have had that sentence off four people in my life and it was not true any of the four times."
-
-"Nobody is going to telephone you again about a piece of paper. Nobody is going to come up your stairs. Nothing is going to happen to your firm, your family, your clients or your brother-in-law in Suwon." Georgij did not hurry any of it. "And this is the last time I am going to stand at this wall."
+He did not answer for about three seconds, and the three seconds are the whole of it. A man who has spent twenty-three years being able to answer that question about anybody in this country did not have one name.
 
 * * *
 
-"Then he is finished."
-
-"He has not been seen since the eighth of April and I do not know where he is and nobody has looked."
+And then Georgij smiled at him.
 
 ---
 
-Mr Ok stood at his own wall in May and did not say anything for about four seconds.
+It is the broad one. It goes all the way up and it arrives about a quarter of a second late, and the delay is the whole of why people believe it. It was built in a house in Daejeon when he was twenty-one, for men who were deciding what he was worth.
+
+He has spent a year putting it on at doors.
+
+He has never once used it cold.
 
 * * *
 
-"There is a thing I have wanted to ask since December and I have got about eleven versions of it," he said.
+Choi Dae-ho watched him do it and did not do anything with his face at all.
 
-"Ask the one you have got."
+"That was not necessary," he said.
 
-"Did the envelope matter?"
+"No."
+
+"You will find that it costs you something and you will not find out what for about four years." He said it without any weight on it, and it was not a threat and could not have been read as one. "I am not warning you. I am telling you a thing I know, because it is the only kind of thing I have."
 
 ---
 
-Mr Ok's case was on the wall between them.
+"I know that as well," said Georgij, "and I did it anyway, and I would like that on the record in this room."
 
 * * *
 
-"It is the only thing anybody did last year that finished it," he said.
+"You have read Curtain," said Georgij.
 
 ---
 
-Mr Ok did not move.
-
-"Say that again."
-
-"There is a clause in that house's terms of business. Anybody with a proper interest may ask what the house holds on a lot, and the house has to answer in writing. The answer goes into the permanent series for ever." Georgij kept both hands where they could be seen. "There was one line in that series that was worth more to him than anything else in this country."
-
-"And he did not ask for it."
-
-"He did not ask for it, because to ask he would have had to put his own name in a sentence, in writing, on paper, and it would have gone into the same series with the request attached."
-
-* * *
-
-"He knew that because of my envelope," said Mr Ok.
-
-"He knew it because a girl in an administrator's office read a schedule to you in about ninety seconds, and you posted it on the seventeenth of December from a box near your house." Georgij did not soften it. "He had ten weeks with a printed date and he did not ask, and on the twenty-fifth of February it went out of that building in nineteen boxes."
-
----
-
-The traffic did what traffic does.
-
-* * *
-
-"Four minutes of somebody's time," said Mr Ok.
-
-"Twice. He asked for it on a telephone in November and I asked for it at this wall in April, and it was the same four minutes and the same man."
-
----
-
-"That is not a comfort."
-
-"No. I am not offering it as one and you would know inside a syllable." He put one hand on the wall. "You did not decide anything either time. You were asked for something small in a way that made it small, and both of us did it to you, and the second one closed the door."
-
-* * *
-
-Mr Ok looked at the road for a while.
-
-"Then I am the hand," he said.
-
-"You are the hand, and I told you so at this wall in April last year, and you have thought about it every week since and you told me so in December."
-
----
+Something happened in the man's face and it was not much.
 
 "I have."
 
-"And in December you did it knowing, which is a different thing, and it is the only part of the whole of it that was yours. I would not have blamed you for refusing. You did not refuse, and you knew what you were doing when you did not, and there is no version of this in which somebody else could have done it."
+"I take it you admired Mr X. I did as well."
 
 * * *
 
-The car came, and it was eight minutes late.
+Choi Dae-ho did not answer that, and the not answering was itself an answer.
 
 ---
 
-Mr Ok picked his case up off the wall and did not get in.
+"I have thought about ending this the way it ends in that book," said Georgij. "A man decides he cannot be stopped by anything that has a name, so he stops being stopped by law and does it himself. I understand the appeal."
 
-"There is a woman in Ulsan," he said.
+"And you do not share his difficulty with it afterwards."
+
+"No."
+
+---
+
+"Say it, then. You have brought me down a passage to say it and I would rather have it than watch you decide not to."
+
+* * *
+
+"Killing you would cost me nothing I would notice," said Georgij.
+
+---
+
+The window in that room looks at the drive and there were four cars on it.
+
+"No," said Choi Dae-ho. "I do not think it would."
+
+* * *
+
+"Then why have you not?"
+
+---
+
+He asked it with the mark on the end of it, and it is the first question anybody has asked in that room that could have been refused.
+
+* * *
+
+"Because it would be one-sided," said Georgij.
+
+---
+
+He did not hurry any of it.
+
+"You have spent twenty-three years arranging things so that other people carry the weight and you carry none of it. A killing is quick, and it is private." Choi Dae-ho was still standing where he had turned round. "It would let you finish exactly the way you have lived, which is without ever once finding out what it costs to be found out. I am not going to hand you that."
+
+* * *
+
+Choi Dae-ho put one hand on the back of the chair he had not sat in.
+
+"Say what you are going to do instead."
+
+---
+
+"Nothing, tonight."
+
+* * *
+
+Neither of them said anything for a while.
+
+---
+
+"There is a thing I can do for you," said Choi Dae-ho.
+
+"Say it."
+
+"There will be an entry in a permanent series, from November, with her name on one side of it." He said it in exactly the voice he had used about the tiredness. "That house is closing and those things go to an archive and archives are careless. I could see that it was properly indexed."
+
+---
+
+Georgij stood in the middle of the room with a certificate of destruction in his inside pocket.
+
+* * *
+
+"It will not need indexing," he said.
+
+---
+
+That is the whole of what he said, and he did not take anything out of his pocket. He watched a man of sixty put it together with the four minutes he had spent looking at a schedule in December.
+
+* * *
+
+"Ah," said Choi Dae-ho.
+
+---
+
+He said it quite pleasantly and he did not say anything else for about six seconds.
+
+* * *
+
+"Then say the rest of what you came for," he said.
+
+"You have known I was coming since the twenty-eighth of October and you have known what I am since the fourth of October," said Georgij. "You have been waiting to find out whether a lot with a number on it and no name of his own would do to you what you did to a woman in Ulsan with nine trucks."
+
+---
+
+"I did not send you anywhere," said Choi Dae-ho.
+
+---
+
+"You put it on a page," said Georgij. "I was the hand that sent it. I am not going to pretend that makes either of us clean."
+
+* * *
+
+"And now?"
+
+---
+
+"Now you know it was found."
+
+* * *
+
+Georgij did not move at all.
+
+---
+
+"There is a thing you saw at twenty past nine," said Choi Dae-ho.
 
 "There is."
 
-"You told me in December that she was working and you would not say where, and I did not ask a second time." He had one hand on the door. "I am not asking now either. I would like to know whether she is all right."
+"Then say it, because you have been careful not to, and I have watched you be careful about it for four minutes."
 
 ---
 
-"She is not all right," said Georgij, "and she is working, and she went to a dinner in March that she did not have to go to, and she was the last person to leave it."
+"You ate," said Georgij.
 
 * * *
 
-Mr Ok stood with the door open.
+"I ate." He did not move from the window. "I have not done that in front of people in twenty-three years, and I did it because a man near the middle of a table said four words in an ordinary voice."
 
-"That is a better answer than the other one," he said.
+"Yes."
 
-"It is the true one."
-
-"I know it is. That is why it is better." He got into the car. "Do not come back to this wall. If you have something to tell me, write. I will read it in an office with a door on it, and I will not have to be a man standing at a wall while somebody tells me what I have been."
+"I had not decided to. That is the part." He put one hand on the sill. "It did not help."
 
 ---
 
-The car went, and it was the last time.
+"No," said Georgij.
+
+"It is the only thing that has happened to me this evening that I did not do on purpose, and there is nobody in this house I could say that to."
 
 * * *
 
-Georgij walked to the bridge and it took thirty-five minutes.
+"That is the whole of tonight. I am not going to tell you who else knows. Or how many of the people you have had dinner with have already been told, or which of them think a conversation is enough and which of them do not. I am not going to tell you because I have not decided it myself. And even if I had, you would not get it from me in a room where I hold every part of the advantage."
 
 ---
 
-*Three people were owed an account and every one of them asked me a question at the end of it that I had not built an answer for.*
+Choi Dae-ho stood at the window of a small room in somebody else's house.
 
-*Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he was good at it. Mr Ok asked me whether his envelope mattered.*
+"There is a man called Byun," said Georgij.
 
----
+* * *
 
-*None of the three was about him.*
+"I know who Byun is. He was in that register for twenty-six years and I have bought in that house for twenty-three."
 
-*They have all spent a year finding out what was done to them, and at the end of it every one of them wanted to know what they were.*
-
-*Not one of them wanted to know where he is.*
+"Then you know that the flat on the eighth floor in Seongdong went in July and that nobody knows who has it."
 
 ---
 
-He stopped on the bridge and wrote the last of it standing up.
+"I had heard."
+
+"That is all I am going to say about it."
+
+* * *
+
+Choi Dae-ho took his hand off the back of the chair.
+
+"You want me to live with that," he said.
 
 ---
 
-*Nobody has asked me where he is.*
+"I want you to live with not knowing which one of them decides you have not been punished enough."
 
-*Twenty-six people at a table, three people in three rooms this week, and a woman in Ulsan who came four hundred kilometres to look at him for two seconds.*
+* * *
 
-*Not one of them has asked.*
+The four cars on the drive did not do anything.
+
+---
+
+"There were twenty-six people at that table," said Georgij, "and by about a quarter past nine every one of them had worked out what the other twenty-five had in common. Nobody said your name. Nobody is going to." Choi Dae-ho put one hand on the back of the second chair. "You are very good at reading a room and I watched you read that one in four minutes, and you got it right, and there was nothing you could do with it."
+
+---
+
+"No," said Choi Dae-ho. "There was not."
+
+* * *
+
+"I am told you have never once been wrong about what a person wants before they know it themselves," said Georgij.
+
+---
+
+"That is a thing people say."
+
+"It is a thing four people have said to me in eleven months and none of them knew the others. I would like your guidance, since you are the expert in the room and I am only the one who arranged it."
+
+* * *
+
+He let that sit for exactly as long as it needed to.
+
+---
+
+"How does a man with nothing left escape a thing he cannot see coming?"
+
+* * *
+
+Choi Dae-ho did not have an answer.
+
+---
+
+And for the first time since Georgij had come through that door, it showed on his face, for slightly longer than a quarter of a second.
+
+* * *
+
+"No," said Georgij. "I did not think you would."
+
+---
+
+He went out before the silence could turn into anything the man could use.
+
+* * *
+
+At the door there was one thing and it was Choi Dae-ho's, and Georgij heard it with his hand on the frame and did not turn round.
+
+---
+
+"She was fourteen," he said. "I want you to know that I never once spoke to her about anything at that table. I have thought about that for a very long time. It is the only thing in my life I have not been able to make into a reason."
+
+* * *
+
+Georgij stood with his hand on the frame.
+
+There are two answers and one of them would have finished the evening better and it is not true.
+
+---
+
+"I believe you," he said.
+
+* * *
+
+He went up the passage.
+
+---
+
+Behind him, in a small room at the end of it, a man of sixty stood at a window and looked at four cars on a drive. Nobody came for him for eleven minutes. Mrs Seo had been asked to leave it exactly that long, and she counted it herself in a kitchen.

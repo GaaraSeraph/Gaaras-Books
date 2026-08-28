@@ -1,286 +1,320 @@
-# Chapter 75: I require your instructions
+# Chapter 75: Not four
 *Lot Fourteen* · Version 3.0 · EN
 
-## Day Four Hundred and Ninety-Three · Monday 8 February
+## Day Four Hundred and Sixty-Five · Monday 11 January
 
-Baek Jun-ho asked for the Monday morning and said on the telephone that it would take fifty minutes and that Georgij was not to bring anything.
-
-He said the last part twice, which he has not done before.
-
-* * *
-
-There is one page on the desk when Georgij comes in, face up, and it is a draft, and there are two words crossed out on it in ink.
+Sim answered it in about ninety seconds on the Monday and then spent forty minutes being sorry about it, and the forty minutes were worth more than the ninety seconds.
 
 ---
 
-"I am going to do this in three parts," said Baek, "and the first two are mine and you are not going to like the third one either."
-
-"Then the first one."
+There was tea and it was at the right temperature.
 
 * * *
 
-"On the first of December I signed a change of delivery address on a standing instruction," he said. "I told you about it on the eighth of December on the telephone, and I told you that there was no ground on which I could have refused, and I believed that when I said it."
+"The cards were mine," said Sim. "I have known that since you said the word cards in this room in the summer, and I did not say so. You had not asked me, and I had decided by then that I was going to be exact and nothing more."
 
-"You have stopped believing it."
+"Say what you were asked for."
 
-"I stopped believing it on the fourteenth of January at about four in the afternoon, in this chair, with the deed open in front of me for the first time since 2016." Baek had both hands flat. "I would like to say the size of that out loud. Eleven years, forty-five payments, and I had not read the instrument since before that woman was in that house."
+"To keep the table until eleven." He put the cup down. "That is the whole of the instruction and it came in a letter and it was one line. *Mr Park should not be back in his own building before eleven o'clock.*"
 
 ---
 
-Georgij sat down and did not say anything.
+Georgij sat very still.
+
+"And you did not ask."
+
+"I did not ask. A man is asked to be good company until eleven and there is nothing in that sentence to ask about." Sim's voice did not change anywhere. "So at about a quarter past nine I said that I had a pack in my coat, which I did, because I have had a pack in my coat since 1998 for exactly that reason."
 
 * * *
 
-"The deed says what the money is for and it says it in one line," said Baek. "*The operating costs of a residence.* Then a schedule: staff, provisioning, maintenance, utilities, insurance, and medical costs against invoice."
+"He lost forty thousand won."
 
-"A residence."
-
-"A residence. Not a person. The instrument does not have a person in it anywhere, and that is why I never had to be told who she was, and that is the whole of what I have been hiding behind since 2016."
+"He lost forty thousand won and he lost it to me, and I did not want it and I could not refuse it." Sim straightened his cuff, and it did not help. "I have thought about that money about nine times since the summer. It is in a drawer in this office and it has been there for a year and a half."
 
 ---
 
-He turned the deed round on the desk and did not push it across.
+"What was happening at eleven o'clock," said Georgij.
 
-"There is no residence," said Baek.
+"I do not know. I have never known and I did not want to know and it was not in the letter." Sim looked at the window. "That is the answer and it is worth nothing, and I have spent since Thursday deciding whether to give you a guess as well."
+
+"Then do not guess."
+
+"No," said Sim. "I am not going to. I have had eleven years of being useful with a guess."
 
 * * *
 
-The office in Yeouido did what an office does at ten in the morning.
+At the door there was one more thing.
 
-"Say it in order," said Georgij.
+"You are going to tell him," said Sim.
 
-"The staff were paid off in November. The house was surveyed on the twenty-second of September and the room at the back was cleared before the second. The telephone was cut on the thirtieth." Baek listed it the way he lists things. "It has been let, or it is being sold, and either way there is nobody in it. On the first of December I moved the medical delivery to a private house on the river."
+"On Tuesday."
 
-"And the flat in Seodaemun."
+"Then tell him the money as well." He had one hand on the frame. "Not the amount. That it is in a drawer and that I have not spent it. He is entitled to know that a man kept it, and he is entitled to think whatever he likes about that, and I would rather he thought it in January than found it out in a year."
 
-"Is let to a young woman with a bicycle since the middle of November, and I am still paying the rates on it. I have been paying the rates on a flat with a tenant in it for eleven weeks."
+## Day Four Hundred and Sixty-Six · Tuesday 12 January
+
+Park Sang-hoon took a room this time and not a table.
+
+He said on the telephone that it was because he did not intend to be pleasant to anybody for two hours afterwards. It is the first time in nine years he has booked a room for that reason.
+
+---
+
+There was food and neither of them touched it.
 
 * * *
 
-"Then say the second part," said Georgij.
+"I have got them," said Georgij. "I am going to give you all four in the order they happened and I am going to say what I do not have."
+
+"Then begin at the beginning and do not stop for my face."
 
 ---
 
-"I have been administering nothing since about the first week of November," said Baek. "There is no residence, there are no operating costs, and the two payments that are still running go to an address that is not in the schedule and never was."
-
-"You are telling me you are in breach."
-
-"I am telling you that I have been in breach since the first of December and that I signed it myself in under four minutes." Baek did not look up from the deed. "Not because I was deceived. I was told the truth and it was not the whole of it, and I have said that to you once already and I have had two months to notice that saying it did not make it better."
+He began at the beginning.
 
 * * *
 
-Georgij sat forward in the chair.
+**K.** The twenty-fourth, the twenty-fifth or the twenty-sixth of February, four years ago. Twenty minutes, standing up, in Sang-hoon's own office, with a coat still on. A question about whether he was going to the spring sale on the river. He said no, and he had not been in years, and it cost him nothing to say it.
 
-"There is a woman in that house who is on oxygen," he said.
+"That one is not a decision," said Georgij. "It is a measurement. He came to find out whether he got an answer."
 
-"There is, and that is the first thing I looked at on the fourth of November, and I want you to know that it was the first thing." Baek did not look away. "Say what you have got standing behind her."
-
-"A supply from a different firm, in the name of the woman who owns the house, running since the second week of December." Georgij said it flatly. "The one you are paying for has been arriving alongside it since then and has not been used. There are four cylinders in a passage against a wall."
-
----
-
-Baek Jun-ho sat back for the first time that morning.
-
-"Then nothing happens to her when I stop."
-
-"Nothing happens to her when you stop. It happened in December and she has not been told about any of it and she is not going to be."
+"You told me that in July and I have had six months with it and it has not got better."
 
 * * *
 
-"Good," said Baek. "That is the only thing in this that I would have refused over, and I would like it on the record that I asked before I told you what I am going to do and not after."
+**S.** The twentieth of March, four years ago, eight in the evening. Three weeks after K, at his table.
+
+"That is the one you have never told me the content of," said Georgij.
+
+"No, and I am not going to, and it is the only thing I have kept back from you in a year." Sang-hoon did not move. "Nothing about it was illegal and nothing about it was unusual. It was a favour to a man I liked, and it cost me about eleven days of a ship, and it was on the twentieth of March."
+
+"The spring sale on the river was on the twenty-eighth."
 
 ---
 
-He turned the draft round then.
-
-* * *
-
-It is eleven lines.
-
-It says that the residence described in the schedule has been vacant since November and is no longer maintained by the trust. It says that two standing payments have since been directed to an address outside the schedule. It says that the trustee has suspended both with effect from the first of March.
-
----
-
-And the last line is four words.
-
----
-
-*I require your instructions.*
-
-* * *
-
-Georgij read it twice and did not touch the page.
-
-"You have crossed two words out," he said.
-
-"I have crossed out *regretfully* and I have crossed out *unfortunately*, and I did it at about eleven o'clock on Friday night and it took me nine minutes." Baek put one finger beside the page and not on it. "A man who has been in breach for two months does not get to be sorry in a letter. He gets to say what happened and what he has done about it."
-
----
-
-"Who does it go to."
-
-"The settlor. In person, at the correspondence address, which is a solicitor's office in Jung-gu that forwards, and it has forwarded four things in eleven years and all four were mine."
-
-* * *
-
-"That is the first letter anybody has ever sent him," said Georgij.
-
----
-
-Baek looked up.
+Sang-hoon put his cup down.
 
 "Say that again."
 
-"I have been reading paper about that man since March," said Georgij. "Registers, filings, a fire safety schedule, a reservation book, sixteen call-offs off a screen in Bundang. Every single piece of it is paper that somebody else made and he stayed out of. There is nothing in the world with his name on it except what he signed himself. That letter is going to be the first thing that arrives *at* him."
-
-"That had not occurred to me and I have been at this since the fourteenth."
-
-"It occurred to me about four seconds ago and I would rather have thought of it before I came."
+"The spring sale on that river was on the twenty-eighth of March that year, and lot six went into the book on the twelfth of February and was open for seven weeks and did not clear. K is three weeks before S. S is eight days before the sale."
 
 * * *
 
-Baek Jun-ho got up and went to the cabinet behind his desk and did not open it.
+**H.** A late August, three years after that. Half past seven. Six weeks before Mr Hwang was brought into a house that was already dying.
 
-"Then say what you think he does," he said.
-
-"I do not know."
-
-"You have a view. You have had a view about that man since June and you have been right about most of it, and I am about to post this and I would like to hear it."
+"You have told me that one and I have had it since September," said Sang-hoon. "A shipment through my own name with no invoice behind it, and I did it and did not ask why, because asking why was the one thing that table had taught me not to do."
 
 ---
 
-Georgij took the time it needed.
+"And the fourth."
 
 * * *
 
-"He answers it," he said. "That is what I think and I am not certain."
+Georgij put both hands flat on the cloth.
 
-"Say why."
-
-"Because he cannot afford not to. A trust that has no instructions sits, and a trustee who has had no instructions for a year has to do something about it, and everything he does about it is a paper with a date on it." Georgij looked at the draft and not at him. "In four years there would be a file in this office about a trust that went silent, and the file would be readable, and he has spent twenty-three years making certain that there is nothing anywhere that is readable."
-
-"And if he answers."
-
-"Then there is an instruction in his own words in a solicitor's office in Yeouido, and it will be the second document in the world with his reasoning in it." He looked at the draft. "The first one is in that cabinet and it is eleven years old and it is two corrections to a deed."
-
-* * *
-
-Baek stood with his hand on the cabinet door.
-
-"You have not asked me for anything," he said.
-
-"No."
-
-"You have not asked me to hold it, and you have not asked me to send it, and you have not asked me to change one word of a document that is going to make a man do something."
+"Y is not a decision either," he said.
 
 ---
 
-"No."
+Sang-hoon did not say anything at all.
 
-"Then I am going to tell you the third part," said Baek, "and this is the one where you are going to want to argue with me."
+"You have spent a year looking for the thing you gave away at that dinner. There is not one. Nobody asked you for anything, nobody put a proposal in front of you, and you did not agree to a single thing all evening." Georgij did not soften it. "The instruction was one line in a letter and it was that you should not be back in your own building before eleven o'clock."
 
 * * *
 
-He came back and sat down.
+The room above the restaurant did the thing rooms do.
 
-"I am reporting myself," he said.
+"Say it again."
+
+"You were not asked to decide anything. You were asked to be somewhere else."
+
+---
+
+Sang-hoon sat with both hands on the arms of his chair and did not move them.
+
+"Two hours."
+
+"Two hours, and the cards were the mechanism, and the man who suggested them was told to keep the table until eleven and was not told why, and did not ask. He has had the money in a drawer since that night. It is still there. He asked me to tell you that, and to tell you that he has not spent it. And he asked me to say that you should think whatever you are going to think about it in January and not in a year."
+
+* * *
+
+Sang-hoon looked at the food that neither of them had touched.
+
+"What happened in my building at eleven o'clock," he said.
+
+"I do not know. He does not know either and he did not guess when I gave him the room to." Georgij kept his hands where they were. "That is where it stops, and I am not going to build you the rest of it out of two dates and a card game."
+
+"Then it is three," said Sang-hoon.
+
+"It is two."
+
+---
+
+He looked up at that.
+
+* * *
+
+"Say what you mean and be slow about it," said Sang-hoon.
+
+"You told me in a shed in May that you had made four decisions at those dinners that you had never been able to account for." Georgij said it evenly. "Two of them were decisions. S and H. You made them, they were yours, and you would make one of them again and you have said so."
+
+"And K and Y."
+
+"K is a man finding out whether you answer. Y is a man needing your office to be empty." He did not stop anywhere. "Neither of them is a thing you did. You have spent a year going over four evenings looking for what was wrong with you, and half of that year was about two nights on which you did not do anything at all."
+
+---
+
+Sang-hoon did not answer for a long time.
+
+* * *
+
+"That is worse," he said.
+
+"Yes."
+
+"You know that it is worse and you said it anyway."
+
+"I said it because it is what I have got, and because you would have found it yourself in about four months, and by then you would have been certain that I had left it out to spare you." Georgij held his eye. "There is no version of this afternoon in which you go home pleased."
+
+---
+
+Sang-hoon almost got out the thing that is not quite a laugh.
+
+"You have not asked me for anything since May," he said. "Not once, in eight months, and you have brought me four things I did not want and one man I have known for thirty years."
+
+"No."
+
+"Then I am going to ask you for something instead, and you are going to find it strange, and I have been sitting on it since the ninth."
+
+* * *
+
+"Ask it."
+
+"There were six firms on that lane out of Ulsan," said Sang-hoon.
 
 ---
 
 Georgij did not move at all.
 
-"The December signature. In writing, to the Law Society, with the deed and the schedule and the instruction attached. I have an appointment on the second of March with a man I have known for thirty-one years, and he is going to have to look at it." Baek said it in exactly the voice he had used for the other two parts. "I have been in this profession since 1994 and I have been investigated once, in 2007, and I was cleared, and I have told you that in this room before."
+"Your employer has bought five of them. It is in the register and I read the register, and so does everybody else who reads registers, and by the end of the month it will be a thing people say at lunch." Sang-hoon looked at him and not at the food. "So I would like to know about the sixth."
 
-"You told me in October that being investigated is the one thing a man in your line cannot survive twice."
+---
 
-"I did. I meant it and it is still true."
+The room did what a room does at three in the afternoon.
 
 * * *
 
-The office did what an office does.
+"Say why you are asking," said Georgij. "I am going to answer it either way. I would like to know what I am answering."
 
-Georgij sat in a chair in Yeouido and did not say one of the four things that came to him.
+"I am asking because a woman of about my own age had a firm on that lane and a chair of an association for twenty years, and she has neither, and there is no entry anywhere that says why." Sang-hoon did not blink. "In this trade there is always an entry. A man goes under and there are four people who will tell you which quarter it started in. This one has nothing, and nothing is a thing I have learned to be interested in since the twenty-seventh of May."
 
 ---
 
-"You are not going to argue," said Baek.
-
-"No."
-
-"I have had four days of building the answers and there are three of them and they are all quite good."
-
-"I know. I have got two of them myself and I am not going to use either."
+Georgij sat with that for about two seconds.
 
 * * *
 
-Baek Jun-ho looked at him for a long moment.
+"Then I will give you the whole of it and it is going to be against my own house," he said. "I am not going to arrange it so that it is not."
 
-"Say why not, because I have not been able to work it out and I have been at it since Thursday."
+"That is the only version I would take."
 
 ---
 
-Georgij put both hands flat on his knees.
-
-"Because you are not doing it for me and you are not doing it for her," he said. "You are doing it because a man who has spent eleven years not reading a deed has one thing left that he can still be, and it is a man who reports himself when he finds out."
-
-"That is close and it is not it."
-
-"Then say it."
+He gave it to him.
 
 * * *
 
-"I did not do it in 2016," said Baek.
+A page went out to six hundred and forty buyers in March. One copy was made on a machine in a corridor in Jung-gu on the twelfth, at twenty to five, by a filing clerk who did not think about it for one second. It was in Ulsan on the fourteenth.
+
+The man who asked for it had sat down beside somebody at a port authority lunch in January. He asked what the small operators on that coast were like, and then he asked about one of them by name. He was very interested in the word honest.
+
+She wrote a letter. She used the page. She had forty-one people and a dead lane and nobody would tell her why.
 
 ---
 
-He said it flatly and it cost him more than the rest of the morning.
-
-"In 2016 I looked at that flat for the first time and I wrote one letter and I got a courteous answer and I stopped. That was the day. Not the fourteenth of January and not the first of December." He had both hands on the desk. "I have had nine years of being a man who queried it once, and I have used that sentence on myself about a thousand times."
-
-"And the second of March."
-
-"The second of March is nine years late and it is the only appointment available." Baek straightened the draft with one finger. "You do not argue a man out of that. You let him keep it or you take it off him, and I have watched you refuse to take a thing off somebody four times now and I have only understood it this morning."
+"And on the third of April I asked for the lane and I was given it," said Georgij, "and by the middle of May she had sold four trucks and lost a firm her brother left her. That was me. I asked for it standing up, on my own account, and the woman I work for could have said no and did not."
 
 * * *
 
-At the door Georgij stopped, because there was one thing left.
+Sang-hoon did not say anything for a while.
 
-"What happens to the money," he said.
+"Why," he said.
 
-"It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on sitting and it earns what it earns. In fifty years a court decides what to do with it, because there will be nobody alive who knows what it was for."
+"Because the thing she picked up and pointed at my employer was me." Georgij did not decorate it. "Lot fourteen. On the page, in her coat, for twelve days, and she did not know there was a person on it until I told her on the thirtieth of April."
 
-"And in the meantime."
+---
 
-"In the meantime a man in this city has to write me a letter about a woman he has never claimed to know, or watch a file grow in an office he has been in exactly once." Baek Jun-ho put the draft in a folder. "I have been arranging other people's silences for thirty-one years. I have never once been on the end that asks the question."
+The room was very quiet.
+
+"You told her that yourself."
+
+"I have been to that office four times. The last one was the twenty-second of December and I brought nothing and asked for nothing. That is the whole of what I have got to put on the other side of it, and it does not weigh anything."
 
 * * *
 
-The letter went on the Wednesday, by hand, to a solicitor's office in Jung-gu that forwards.
+Sang-hoon turned his glass a quarter turn and left it.
+
+"Then say the last part, because there is one and you have not offered it."
+
+"She is on a list," said Georgij. "There are thirty-one people on a page in my coat and she would be the thirty-second. She is on it for the same reason as the other thirty-one, which is that he chose her and used her and went home."
 
 ---
 
-He wrote it that evening. There was no second version of it.
+"Does she know she is on it."
+
+"I told her on the twenty-second. She telephoned this house on the fifth of January and said one word and rang off."
+
+* * *
+
+"Good," said Sang-hoon.
+
+He said it flatly and it was not approval.
+
+"I have spent eight months finding out that I am one of thirty-one, and I have not liked one hour of it, and I have not once until this minute thought about what it is like to be told." He put both hands on the arms of the chair. "She has said yes to a dinner in a house she has reason to hate, and there was nobody in this country who could help her decide it. That is exactly the position I was in, in a shed in May, with nobody in it but you."
 
 ---
 
-*Eleven lines and four words at the end.*
+Georgij did not say anything.
 
-*I require your instructions.*
+"I am not going to tell you what I am going to do about her," said Sang-hoon. "Not today and not in a fortnight. I asked you a question and you answered the whole of it and you put the worst of it first, and that is what I have."
+
+"That is the correct answer."
+
+"It is not an answer. It is a man saying that he has not decided." He stood up. "You have got very good at telling the difference and I have got very tired of watching you do it."
+
+* * *
+
+At the door he stopped, which he does not do.
+
+"The forty thousand won," he said.
+
+"It is in a drawer in Jongno."
+
+"Then it can stay there." Sang-hoon put his coat straight. "A man who keeps money he did not want for a year and a half in a drawer he opens every day is not doing it for me. Tell him nothing. He would only be pleasant about it."
 
 ---
 
-*A trustee who cannot be told to stop, because a man arranged eleven years ago that he could not be told to stop, has found the one thing the man did not arrange.*
+He went.
 
-*He did not build it so that the payments could not be suspended. He built it so that he could not suspend them. It has never been possible for him to stop it and it has always been possible for Baek.*
+* * *
 
----
-
-He sat with that for a while.
+Georgij wrote it in the car and it took two attempts, and the first one was about the two hours.
 
 ---
 
-*And nobody in eleven years has read the deed.*
+*Two decisions and not four.*
 
-*Not the solicitor who signed it forty-five times. Not the man who wrote the two corrections into it in twenty minutes in March, because he was not building a document, he was building a room he never had to enter.*
+*He has spent a year on four evenings and half of it was about two nights on which he did nothing at all. He was measured on one and he was moved out of a building on the other.*
 
-*I have been looking for a mistake since March. There is not one. There is a deed that says residence, and a residence that is not there any more, and a man of sixty-three who opened a drawer on the fourteenth of January.*
+*And the man who moved him was in the room with him and did not know it either.*
+
+---
+
+Then the other half.
+
+---
+
+*He read a register in January and found five firms on a lane and asked about the sixth.*
+
+*Nobody told him. Nobody could have stopped him. He has eleven thousand people and a habit of counting, and it took him about four days.*
+
+*Everything I have done since March is going to be found by somebody doing exactly that, and the only thing I get to decide is whether they hear it from me first.*
