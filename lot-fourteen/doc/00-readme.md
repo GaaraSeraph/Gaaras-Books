@@ -39,4 +39,4 @@ Naechstes kommt: `doc/31-plan-band-2.md`.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **16 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**119 Kapitel, 327.632 Woerter.**
+**119 Kapitel, 327.724 Woerter.**

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 85 Kapitel, 226.905 Woerter.
+Book Two, 85 Kapitel, 226.997 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 36 | v4.0 | 2.415 |
 | 37 | v4.0 | 2.291 |
 | 38 | v1.6 | 2.164 |
-| 39 | v1.4 | 2.551 |
+| 39 | v1.5 | 2.643 |
 | 40 | v1.5 | 1.889 |
 | 41 | v1.2 | 2.296 |
 | 42 | v1.4 | 2.033 |
@@ -9458,7 +9458,7 @@ She put two fingers on his wrist and then sent him to be decent to a stranger, a
 ---
 
 # Book Two · Chapter 39: The post still comes
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Two Hundred and Eighty-Three · Monday 13 July
 
@@ -9518,11 +9518,11 @@ Georgij stood in a doorway in Seodaemun and let a woman water four pots.
 
 "Who empties it?"
 
-"He does."
+"You'll want to put that down, if you're waiting on the caretaker." She had not looked at anything he was carrying, and he was not carrying anything. "Tuesdays, he's meant to be. He has not been on a Tuesday since the spring, and I have told the office twice, and the second time the girl wrote it on a pad, which is what they do instead of it."
 
-"Who is he?"
+"The box," said Georgij.
 
-"A man! Three times a year. Four." The can went down at last. "Not young. He's got the key to the box and none for the door, which is how I ever met him at all. Stood out there in the rain the first time, waiting for somebody to come out, and I was the somebody. I said you'll catch your death standing about like that. He said he'd been colder."
+"Oh, the box." The can went down at last. "A man! Three times a year. Four. Not young. He's got the key to the box and none for the door, which is how I ever met him at all. Stood out there in the rain the first time, waiting for somebody to come out, and I was the somebody. I said you'll catch your death standing about like that. He said he'd been colder." She picked the can up again. "You're not from the office, are you. No. They send a letter and then nobody comes."
 
 "What was he like when you let him in?"
 
