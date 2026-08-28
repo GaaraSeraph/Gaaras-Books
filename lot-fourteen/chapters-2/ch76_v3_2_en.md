@@ -1,344 +1,362 @@
-# Chapter 76: Nine boxes
+# Chapter 76: Three pieces of good news
 *Lot Fourteen* · Version 3.2 · EN
 
-## Day Four Hundred and Seventy-Two · Monday 18 January
+## Day Four Hundred and Sixty · Wednesday 6 January
 
-Mrs Ha telephoned the house at ten past nine on the Monday morning, and it is the first time she has used the number he left with her in December.
-
----
-
-Mrs Seo brought it through rather than calling him, which she has done three times in a year.
-
-* * *
-
-"I am going to say the thing first and then I am going to be embarrassed about it," said Mrs Ha, "because if I do it the other way round I will not get to the thing."
-
-"Then say it first."
-
-"Thank you."
+The pot by the door has a new thing in it, because it is January and the woman from the noodle place puts one in every winter. This one has about four leaves on it and no business being outside.
 
 ---
 
-Georgij stood in the passage with the receiver against his ear and did not say anything at all.
-
-* * *
-
-"A firm wrote to me on Thursday," she said. "About the books. All nine boxes, thirty years, four hundred and eleven weddings and the one that was not."
-
-"Say what they want them for."
-
-"An archive. There is a trade association and it has a collection, and they are putting together thirty years of how it was actually done. They want the carbons. They said so in about four sentences and did not go on about it." She was not hurrying. "And they have offered me money for them. A proper amount. Not a great deal and not an insult, which is the hardest thing in the world to get right and they got it right."
+The fan is running in the corner.
 
 ---
 
-The passage behind the kitchen did what it does at ten past nine.
+"You will want to hear something and it is good," said Mr Ahn.
 
-"And you have thanked me."
+He said it before Georgij was properly through the door, which he has not done once in six months.
 
-"You are the only person who has been in that room in four years and looked at those boxes," said Mrs Ha. "You are the only person who has ever asked me about any of it. And I gave you one of them at the door in December and told you it was no use to anybody, and now a letter comes."
+"Then say it."
 
-* * *
-
-"It was not me," he said.
+"I have got the lease." He put the screwdriver down. "Five years, same rent, in writing, and I did not ask for it."
 
 ---
 
-She did not answer that straight away.
-
-"That is a strange thing to say quickly."
-
-"It is a true thing and I said it quickly because it needed to be first." He did not take his hand off the wall. "I have not spoken to a trade association about you. I have not mentioned your name to anybody who could write you a letter. I did not arrange it and I did not have it arranged."
-
-* * *
-
-"Then who," said Mrs Ha.
-
-"I do not know."
-
-"You said that quickly as well."
+Georgij stood inside the door and did not let anything happen on his face.
 
 ---
 
-"I do not know, and I am going to find out, and I would like four days." Georgij did not soften it. "And I am going to ask you for one thing, and it is the first thing I have asked you for, and you may say no to it in this sentence."
+"Say it in the order it came," he said.
 
-"Ask it."
+"It came in the post on Monday and I read it four times standing in that doorway." Mr Ahn had both hands on the bench. "I have been month to month in this shop since 2019. Every March he puts it up and every March I pay it, and I have never once had a piece of paper off that man that was not a bill."
 
-"Do not answer the letter until I have telephoned you."
+"And this one."
 
-* * *
-
-Mrs Ha did not say anything, and the line did not either.
-
-"I answered it on Thursday," said Mrs Ha.
+"This one is two pages and it says five years at what I am paying now, and there is a line in it about the length of my tenancy and one about reliability." He turned the cloth over. "I have been reliable for six years and it has never been worth anything before."
 
 ---
 
-Georgij closed his eyes for about a second, which he does not do.
+The compressor came on behind the wall and ran and stopped.
 
-"By return."
+"Did he say why?"
 
-"By return. I walked to the box at four o'clock in the afternoon with my coat over my nightdress, and I am the age I am, and I have not done a thing like that since my husband died." She said it flatly and there was nothing self-pitying in it at all. "It is the first letter about my work that has come into this building since the day I shut, and I answered it before the light went, and I would do it again."
-
-## Day Four Hundred and Seventy-Three · Tuesday 19 January
-
-The stair on the outside of the building in Mapo is worse in January.
+"I telephoned him on Tuesday to ask, because I am not a fool." Mr Ahn looked up. "He said his agent had put it to him, and that the agent had said it made sense on a street like this one. He sounded as though he had not thought about it for more than a minute. He has not thought about me for more than a minute since 2019 and I would not expect him to start."
 
 ---
 
-She had the kettle on before he was through the door and she did not ask him whether he wanted any.
-
-"You have come the day after," she said. "I did not expect that until Thursday."
-
-"No."
-
-"Sit on the good chair. The other one is still broken and I have still not had it seen to, and now I am going to have some money and I am still not going to have it seen to."
-
-* * *
-
-The boxes are on the two walls, to the ceiling, with hall names on them in marker.
-
-There is a date on the top one now, in a different pen, on a strip of masking tape.
+Georgij took his coat off, because there was a bracket on the floor that wanted two people, and because he needed forty seconds.
 
 ---
 
-*4 Feb.*
+*A man who has been month to month for six years is offered five years at the same rent, by an agent who suggested it himself.*
 
-* * *
-
-"They are collecting on the fourth," said Mrs Ha. "Two men and a van, and they are paying for the van, and they wrote that in the letter without being asked."
-
-"That is the correct way to do it."
-
-"It is the correct way to do it and it is what I would have done, and I did it four hundred and eleven times for other people." She poured. "So. You have come up my stairs the day after a telephone call and you have not sat back in that chair. Say it."
+*On a Monday in January, in a shop four streets from a flat in Seodaemun.*
 
 ---
 
-Georgij did not decorate any of it.
+He held the bracket at the angle it wanted and did not say anything at all for about a minute and a half.
 
-* * *
+"You have gone quiet," said Mr Ahn.
 
-"There is a man," he said. "You have met him and you do not know his name and neither do I."
+"I have."
 
-Mrs Ha put the pot down.
-
-"The Thursday after," she said.
-
-"The Thursday after. He sat in that chair when it was not broken and he was pleasant to you about the girl you had just taken on. He asked you for nothing at all. And he told you it was good to see you again."
+"Then it is not good news."
 
 ---
 
-She did not say anything.
+Georgij did not answer that straight away, and the not answering went across the bench exactly as it was.
 
-"I do not know that he wrote the letter. I have one day of looking behind me and I have not found a name and I do not expect to find one, because there will not be one to find." The boxes were on the two walls behind her. "What I have is that a firm nobody has heard of has written to the one person alive who has thirty years of that trade in cardboard. It came five weeks after somebody in this city started asking about a wedding in April."
+"I do not know yet," he said. "That is the true one. I have two things to find out and they are both in this city and I can do both of them tomorrow."
 
-* * *
+"And then you will tell me."
 
-Mrs Ha sat down in the broken chair, which she does not do, and it took her weight and did not do anything.
-
-"Say what is in them that he wants."
-
-"April, eleven years ago. The order, the linen that was already in the building, the eleven tables, the cancellation on the tenth of March. And the line where eleven tables of flowers went to a hospital in Mapo on a Tuesday, because a woman said somebody should have them."
+"And then I will tell you, whatever it is, and I will not wait until it is convenient."
 
 ---
 
-"That is four pages out of nine boxes."
+Mr Ahn wiped his hands on the cloth.
 
-"That is four pages out of nine boxes, and he is buying the nine boxes, and he is paying a proper amount for them and arranging the van." He said it evenly. "That is what he does. He has never in his life asked anybody for a single page."
+"Right," he said. "Then hold that where it is, because if I let go of it now we will both be here until seven."
 
-* * *
+## Day Four Hundred and Sixty-One · Thursday 7 January
 
-The traffic outside did what traffic does.
-
-"You have not told me what to do," said Mrs Ha.
-
-"No, and I am not going to."
-
-"Everybody tells me what to do. The insurance man tells me what to do."
+The shop in Hyoja-dong has the same green awning and it has been mended again, in a different colour, on the left side.
 
 ---
 
-"You have had one man in this room in eleven years who arranged something about you without asking you, and it worked, and it held for eleven years." He was in the good chair and she was in the broken one. "I am not going to be the second one. You have the whole of what I have got and you have had it in under four minutes."
+Mrs Gwak was doing the till roll and looked up and knew him, which he had not been sure of.
 
-* * *
-
-Mrs Ha looked at the wall of boxes.
-
-"If I write and say I have changed my mind."
-
-"Then a firm that nobody has heard of finds out that a woman in Mapo changed her mind between Thursday and Tuesday. There is exactly one thing that happens in between, and it is a young man on your stairs."
-
-"And they would be careful with me."
-
-"Nobody would do anything to you at all." He did not soften it. "You would simply be a woman who had been got at, and it would be true, and I would be the one who did it."
-
----
-
-She sat with that.
-
-"Then I take the money," said Mrs Ha.
-
-"That is what I would do."
-
-* * *
-
-She got up out of the broken chair and went to the second box on the left wall, which has a hall name on it and a year, and put one hand on it.
-
-"Thirty years," she said. "I have not opened four of these since the day they were packed. There is a wedding in this one where the mother of the bride made me change the linen twice on the morning and then cried in a corridor and told me it was the best day of her life."
+"The man who did not tell me a story," she said.
 
 "Yes."
 
-"And there is one in here where the flowers did not come and I stood in a hall in Jung-gu at half past nine and told three hundred people nothing at all and got through it." She took her hand off it. "I have thought since December about what happens to all of that when I go. Nothing happens to it. My son puts it in a skip on a Saturday and he is not wrong to."
+"Then you can have four minutes and I am not going up that ladder again for anybody."
 
 ---
 
-Georgij did not offer her anything.
+"I have not come about the blue books," said Georgij.
 
-"So a firm nobody has heard of is going to pay me a proper amount and send a van," said Mrs Ha, "and put thirty years of my work in an archive where somebody might read it in forty years, and the whole of that is a lie, and the money is real, and the van is real."
+"Then it is the first time anybody has come in here in a year and not wanted something out of a cupboard." She put the roll down. "What, then."
 
-"Yes."
-
-"That is not the worst arrangement I have been offered in my life and it is not in the first ten."
-
-* * *
-
-She poured the second cup then, which she had not offered.
-
-"There is a thing I am going to do and I am going to tell you about it after I have done it," she said, "and not before, because I want it to be mine."
-
-"Then it should be after."
-
-"Good." She sat down in the good chair, and left him the other one, and did not remark on it. "Now drink that and tell me about the girl."
+"I would like to know whether anything good has happened to this shop since the summer."
 
 ---
 
-He told her about Moon Hae-sook for about forty minutes.
+Mrs Gwak looked at him for about two seconds.
+
+"That is a very strange question."
+
+"It is. I am not going to explain it in your shop and I am going to accept whatever you tell me."
 
 ---
 
-Then he told her what had happened in that room in December when he said her name in it.
+She stood with one hand flat on the counter.
 
-"She said that you did the flowers for her mother," said Georgij. "Then she started a second thing and stopped in the middle of it and did not start it again, which is what she does. It was about a book you brought to that house twice, and about the ribbon, and about her mother having a view on ribbon."
-
-* * *
-
-Mrs Ha sat quite still.
-
-"Her mother had a view on ribbon," she said.
+"In October a man telephoned and put on a standing order," she said. "Weekly. A reception in an office building in Jung-gu, forty stems, and he did not ask the price."
 
 ---
 
-"She wanted you told that she asked what became of you, and that she asked in November." He did not soften it. "And she wanted it said that she did not ask anybody about the ribbon."
-
----
-
-Mrs Ha put the cup down and did not pick it up again for a while.
-
-* * *
-
-She has a room on the ground floor because of the stairs and a window that looks at the wall of the kitchen garden. She is fifty-two. She asked in November what became of sixty-two people who were invited to a wedding, and she has had four of them, and there are fifty-eight left and a man is going to be years at it.
-
-And she has a cup at eleven and at four, and the woman who brings it in has been free since the second of November and brings it anyway.
-
----
-
-Mrs Ha did not say anything at all for a while after that.
-
-"That is the second one," she said.
-
-"The second one."
-
-"You have been in this room twice and both times you have said a thing about that girl that I have not been able to put down." She got up and took the cups. "In December it was the flowers to the hospital. Today it is a cup at eleven."
-
-## Day Four Hundred and Eighty-Nine · Thursday 4 February
-
-They came at nine and they were gone by twenty past eleven, and there were two of them and a van, and they were perfectly pleasant.
-
-They carried nine boxes down an outside stair in January and did not complain about it once, and one of them said that his mother had been married out of a hall in Jung-gu in 1994.
-
----
-
-Mrs Ha telephoned at four o'clock.
-
-* * *
-
-"They have gone," she said. "The money came on the Tuesday, before the van, which I did not expect, and it is a proper amount, and I have paid the man about the chair."
-
-"That is the correct order."
-
-"It is the correct order and I have been in this trade thirty years and I noticed it, and I want it on the record that I noticed it and took the money anyway."
-
----
-
-Georgij stood in the passage.
-
-"You said there was a thing you were going to tell me afterwards."
-
-* * *
-
-"I have a school exercise book," said Mrs Ha.
-
----
-
-The passage behind the kitchen went very quiet.
+The till roll was still in her hand.
 
 "Say the rest of it."
 
-"I bought it at the stationer's on the corner on the Wednesday, and it cost me nothing at all, and I have spent eleven days copying." She was not hurrying any of it. "The April, eleven years ago. The order, the two deliveries, the linen that was in the building, the eleven tables and where each of them was. The cancellation on the tenth of March and the hour the hall telephoned. And the Tuesday, and the hospital, and how many stems went in the van."
+"He was pleasant. He knew what he wanted and he did not want it explained to him." Mrs Gwak said it exactly, and then she heard herself say it, and she stopped. "I have said that before."
 
-"In your own hand."
-
-"In my own hand, out of the carbons, before they went in the box." She said it flatly. "And the thing that was never in the order book at all, because there is no box on a slip for it. That she came up those stairs on the Monday, on her own. That she sat in that chair when it was not broken."
-
-* * *
-
-"That is not in any of the nine boxes now."
-
-"That is not in any of the nine boxes now and it was never in the order book, and there is no copy of it anywhere in the world except in a green exercise book on my kitchen table." Mrs Ha did not raise her voice at any point. "I did not do it for you and I am not going to give it to you, and I would like both of those said in the same breath."
-
-"They are said."
-
-"I did it because I did it for thirty years and I am not going to have four pages of it in a van because a firm nobody has heard of paid for the petrol."
+"You said it to me on the thirtieth of May, about somebody else."
 
 ---
 
-Neither of them said anything.
+"It is not the same man," she said. "That one had a voice like a schoolmaster. This one is younger and he is somebody's assistant and he said so."
 
-"He does not know," said Georgij.
+"Did he say it was good to see you again?"
+
+"No." She was quite steady. "He said that his firm had been given our name."
+
+---
+
+Georgij did not move at all.
+
+"Given by whom."
+
+"He did not say and I did not ask, because a woman who has lost thirty years of standing orders in a single spring does not interrogate the first one that comes back."
+
+---
+
+The cold room hummed.
+
+"It is twelve weeks," said Mrs Gwak. "It has paid on the day, every week, since the fourteenth of October. It has put my son back to four days from three, and the girl is on the till twice a week now instead of the buckets."
+
+"Yes."
+
+"You are going to tell me to stop it."
+
+"No," said Georgij.
+
+---
+
+She looked at him properly then.
+
+"You are not going to tell me anything at all, are you," she said.
+
+"I am going to tell you one thing and it is the only one I have got that is both true and any use." He had one hand on the edge of the counter and took it off. "Take the money. Do not be careful about it. If that account is ever cancelled it will be cancelled by them and not by you, and it will have nothing to do with anything you have done."
+
+---
+
+Mrs Gwak put the till roll back in the machine.
+
+"That is the second time you have stood in my shop and told me a thing nobody would have told me," she said. "The first one was about a man who does the windows."
+
+"I remember."
+
+"So do I. I have thought about it about nine times." She smoothed the roll flat with her thumb. "Go on, then. You have three of your four minutes left and I can see you do not want them."
+
+## Day Four Hundred and Sixty-Two · Friday 8 January
+
+The building in Seodaemun has eight flats and a lift bolted on the outside. The fourth floor on the left has a light on in it now. A firm has been in and cleared it and the management has let it again.
+
+That happened in November and Georgij knew about it and it is not what he came for.
+
+---
+
+The woman on the ground floor was not watering anything, because it is January, and she was standing in the doorway with her arms folded looking at the step.
+
+"You," she said. "The one who was not selling anything."
+
+"Yes."
+
+"Well, you are too late for the fourth floor. There is a girl in it now and she has a bicycle as well, which nobody has said one word about, and I have said plenty."
+
+---
+
+"I have come about the step," said Georgij.
+
+---
+
+She looked down at it.
+
+"Have you now."
+
+"The pot by the step. You told me in July that it had never taken, and that your husband said it was the drain under it, and that he was wrong about nearly everything and right about that."
+
+"I did say that." She unfolded her arms. "How on earth do you remember it."
+
+"Because it was the third true thing you told me in four minutes, and I have not had many days like that this year."
+
+---
+
+The woman on the ground floor stood in her own doorway.
+
+"They dug it up in November," she said.
+
+* * *
+
+Georgij stood on the pavement.
+
+"Say who did."
+
+"The management. A man came on a Tuesday and looked at it. Two of them came on the Thursday and had the whole slab up and were gone by four. There is a new drain under there and they put the slab back better than it was." She said it with her whole face. "Twenty-two years I have been putting things in that pot. My husband was right in about 2011 and I have had it in writing off nobody."
+
+"Did they say why now?"
+
+"They said it had come up on a schedule." She shrugged. "It has never come up on a schedule in twenty-two years and I have written three times."
+
+---
+
+"Then the pot will take this year," said Georgij.
+
+"It will take this year. I have got a thing in it that a woman at the market told me is impossible to kill and we shall see." She looked at him. "You have not asked me anything about the fourth floor."
 
 "No."
 
-"He is never going to know."
-
-"No," said Mrs Ha. "He bought nine boxes off an old woman in Mapo at a proper price and he had a van sent, and he got the whole of it, and he will think so on the day he dies."
+"Good," she said. "You are the only one who ever came here who did not, and I told the lovely man that, and he said he was glad."
 
 * * *
 
-Georgij wrote it that evening and it took one attempt.
+Georgij stood in a doorway in Seodaemun and did the arithmetic, and it came out in about two seconds, and there was nothing wrong with it.
+
+"When did you tell him that?"
+
+"In the summer, when he came for the box." She was not looking at him. "He has not been since. He always came in October and he did not come in October, and I have thought about that more than I ought to. He asked after this pot for six years, and now the drain is done and there is nobody to tell."
 
 ---
 
-*Nine boxes went down an outside stair on the fourth of February and one of the men said his mother was married out of a hall in Jung-gu in 1994.*
+*She told him in the summer.*
 
-*He has the lot. He paid a proper amount and arranged the van and did not ask her for one page, and there is not one thing about it that anybody could put in front of anybody.*
+*He came for the box in the summer and she told him, and he did not come in October because he had stopped in September, and he has not been back to that building since.*
 
----
-
-*And a woman past sixty bought a school exercise book at the stationer's on the corner for almost nothing and spent eleven days at a kitchen table with a biro.*
+*Nobody has ever had to be in that stairwell. A man asked after a pot for six years because he is the sort of man who asks, and he wrote his letters, and every one of them was accurate.*
 
 ---
 
-He looked at that for a while.
+He did not go to the car.
+
+He walked to the end of that road and stood at the corner for about eleven minutes. Then he came back and went up the two flights and did not knock on anybody's door. He looked at the letterboxes in the hall, which are the one part of a building of that kind that belongs to nobody.
 
 ---
 
-*That is the second one.*
-
-*The first one is a copy in my own hand, in a locked drawer in this house, and it has forty lines in it over twenty-three years.*
-
-*A woman carried the original up three floors in January four years ago and held it out to a man who would not take it.*
+The fourth on the left has a name in the slot on a strip of new tape.
 
 ---
 
-*Neither of them was asked. Neither of them was paid. Both of them cost the woman who wrote it the price of the book.*
+The rest of them are as they were in July.
 
-*I have spent a year finding out what a man can arrange, and both times the thing that was not arranged has been the one that held.*
+* * *
+
+Annie was at the desk when he got back and he gave her the three of them in the order they had come and did not arrange any part of it.
+
+A five-year lease for a man who has been month to month since 2019. A standing order of forty stems a week since the fourteenth of October, paid on the day, from a firm that was given her name. A drain that came up on a schedule in November after twenty-two years and three letters.
+
+---
+
+Annie listened to the whole of it without saying anything.
+
+"Say the date on the flowers again."
+
+"The fourteenth of October."
+
+"That is nine days before the house served the assignment on the holder." She put the pen down. "It is fourteen days before he could have known any of it."
+
+---
+
+Annie had not picked the pen back up.
+
+"He was doing it before he knew."
+
+"He was doing it in October, when the only thing he had was that somebody had been asking in kitchens in June." Annie did not raise her voice. "Say what that means and take your time, because I have had it for about four seconds longer than you and I do not like it."
+
+---
+
+He took the time.
+
+"It means he does not do it to people who have hurt him," said Georgij. "He does it to people who have been near a thing. He did not wait to find out what they were to me. He does not need to know what they are to me."
+
+"Go on."
+
+"There is a woman in Hyoja-dong who has twelve weeks of a standing order and a son back on four days. There is a man in a workshop with five years. There is a woman in Seodaemun who has had a drain in writing off nobody for twenty-two years and now it is done." He kept his hands at his sides. "None of them has been asked for anything. None of them ever will be."
+
+---
+
+"Then say the last part," said Annie.
+
+"Chairman Woo said it in a shed in December and I wrote it down in a car on the bridge and I have not put it down since." Georgij did not soften it. "That is what having somebody means. It does not have to be spent. It has to be known."
+
+---
+
+Annie sat with that.
+
+"He is not buying their silence," she said.
+
+"He is not buying anything. He is arranging it so that in four years, if he ever has to telephone one of those three people, they will pick up." He did not stop anywhere. "And they will pick up gladly, and they will not know why they are glad, and there is not one thing anybody could put in front of anybody about it."
+
+---
+
+"Then we take it," said Annie.
+
+"Yes."
+
+"Say it back, because I want to have heard myself decide it."
+
+---
+
+"We take all three," said Georgij. "Nobody is told. Not the man with the lease, not the woman with the standing order, and not the one with the drain. If any of it is stopped it will be stopped by them and not by us, and none of those three people is going to spend a winter finding out that their luck was somebody's arrangement."
+
+"And the price."
+
+"The price is that three people who did nothing except answer my questions are now people he has done something for." He held her eye. "And I made every one of them findable, and I did it between May and July, and I wrote all three of them down on a page at the time and called it a list of who knows."
+
+---
+
+Annie did not tell him that was wrong.
+
+## Day Four Hundred and Sixty-Three · Saturday 9 January
+
+He went back up the hill and told Mr Ahn the whole of it, standing, and it took under four minutes.
+
+---
+
+Mr Ahn heard it with the cloth over his shoulder and did not touch anything on the bench.
+
+"So I keep it," he said.
+
+"You keep it."
+
+"And in nine years a man I have never met might telephone this shop and I will be pleasant to him because of a lease."
+
+"Yes."
+
+---
+
+Mr Ahn looked at the fan in the corner for a while.
+
+"Then I will be pleasant to him," he said, "and I will put the telephone down, and I will get on with the pump. It is not going to be the worst thing that has been done to me out of a room I was not in."
+
+* * *
+
+They got the compressor onto the bench at about four and it took both of them.
+
+---
+
+Georgij held it at the angle it wanted and did not say anything. At some point in the middle of it Mr Ahn started talking about a customer of eleven years who brings in things that are not worth mending.
+
+---
+
+The fan ran in the corner the whole time.

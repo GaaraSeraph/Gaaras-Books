@@ -32,8 +32,8 @@ Nicht die Inkompetenz, nicht das Ermitteln. Der Befund ist die Gleichverteilung.
 |---|---|---|
 | B2 K01-20 | 59 | 819 |
 | B2 K21-40 | 48 | 1046 |
-| B2 b2 K34-60 | 59 | 870 |
-| B2 b2 K73-82 | 47 | 1030 |
+| B2 b2 K38-60 | 59 | 870 |
+| B2 b2 K77-82 | 47 | 1030 |
 
 **Die Nummern in dieser Tabelle sind die vom 27.08.** Drei der vier
 Bereiche laufen ueber die Grenze 35/36 und lassen sich nicht um zwei
@@ -170,7 +170,7 @@ auf HALTEN korrigiert worden.**
 | **48** | *The one who does not leave* | **Tragend.** Die zweite Person im Haus (*"there are two of them in that house"*), das abgelehnte Angebot Sang-hoons, und der Satz an der Tuer, den er sonst nirgends sagt - er wollte nicht, dass es fertig wird | HALTEN |
 | **49** | *What he asked her* | **Tragend.** Mrs Baes eigenes Kapitel nach `doc/12-stimmen.md` (*"I have kept a book in pencil for twenty-two years"*) und der Schluss | HALTEN |
 | **50** | *The one he kept* | **Tragend.** Baek Jun-hos einziger Auftritt mit seinem Blatt in `doc/12-stimmen.md`, die Rechnung mit den sechs Zeichen endlich auf einem Tisch, und *"against her return"* - der Satz | HALTEN |
-| **51** | *The sixth one* | **Tragend.** Park Sang-hoons letzter Auftritt im ganzen Buch (danach nur noch eine Erzaehlererwaehnung in b2 K50, in alt K59 bis b2 K56 gar nichts) | HALTEN |
+| **51** | *The sixth one* | **Tragend.** Park Sang-hoons letzter Auftritt im ganzen Buch (danach nur noch eine Erzaehlererwaehnung in b2 K54, in alt K59 bis b2 K60 gar nichts) | HALTEN |
 | **52** | *Against her return* | **Tragend.** Sims Wende in neun Minuten am Tisch, sein Register unter Druck (*"I was glad to | HALTEN |
 | **46** | *The one I did not say in May* | **Tragend.** Hier faellt das Absolutum des Buches: er gibt zum einzigen Mal ein identifizierendes Datum ueber sich selbst her (*"I am the February one."*) gegenueber einem Mann, der nichts fuer ihn tun kann | HALTEN |
 | **54** | *Clause eleven* | **Tragend.** Klausel elf im Wortlaut (*"No statement shall be withheld on the ground that the record is nil."*) und das Datum 6 | HALTEN |
@@ -302,7 +302,7 @@ selben Zimmer; **die erste ist die entbehrliche.**
 *Ersparnis: etwa 900 Woerter.*
 
 **9. Die Abendberichte, nachgezaehlt.** In K01-60 enthalten 26 Kapitel eine
-Berichtsszene bei Annie. Sie sind besser verteilt als in b2 K73-82 (dort sieben von
+Berichtsszene bei Annie. Sie sind besser verteilt als in b2 K77-82 (dort sieben von
 elf), und in den meisten dreht ihre Deutung den Befund. **Halbsatz-Kandidaten
 sind die vier, in denen der Bericht nichts hinzufuegt: 15, 16, 41 und 46.**
 *Ersparnis: etwa 1200 Woerter.*
@@ -403,10 +403,10 @@ einen Befehl und seine Ausfuehrung:
 >
 > K05 beginnt: *He took the coat off and put it over the arm of the chair by the door.*
 
-**b2 K50 + alt K59, derselbe Tag, 4384 Woerter.** Der Schnitt faellt mitten in ein
+**b2 K54 + alt K59, derselbe Tag, 4384 Woerter.** Der Schnitt faellt mitten in ein
 Klopfen, und an diesem Tag stehen zwei Annie-Szenen im selben Zimmer:
 
-> b2 K50 endet: *Then he knocked.*
+> b2 K54 endet: *Then he knocked.*
 >
 > alt K59 beginnt: *She said come in before he had finished knocking.*
 
@@ -415,15 +415,15 @@ chair.* Steht in der Tabelle oben schon als STRAFFEN bei 71.
 
 ### Stufe 2: der Schnitt erzeugt eine Doppelung, und die ist billiger zu loeschen als zu verschmelzen
 
-**K34 + b2 K29.** Hier ist die Naht keine Zusammenlegung wert, sondern eine
+**K34 + b2 K29 (geteilt).** Hier ist die Naht keine Zusammenlegung wert, sondern eine
 Streichung von etwa vierzig Woertern. **Derselbe Satz steht zweimal:**
 
 > K34 endet: *He did not mean Annie when he wrote it, and he sat with that for a
 > while before he let himself notice which woman he had meant instead.*
-> b2 K29 beginnt: *He had written the line at about eleven and sat with it for a
+> b2 K29 (geteilt) beginnt: *He had written the line at about eleven and sat with it for a
 > quarter of an hour before he let himself notice which woman he had meant.*
 
-**Und daraus folgt eine Warnung:** K33, K34 und b2 K29 sind zusammen eine Bewegung
+**Und daraus folgt eine Warnung:** K33, K34 und b2 K29 (geteilt) sind zusammen eine Bewegung
 ueber drei Tage, aber **7902 Woerter**. Wer 33+34 verschmilzt, kann nicht auch
 34+35 verschmelzen. Eines von beiden, nicht beides.
 
@@ -451,14 +451,14 @@ Zimmer noch einmal aufzaehlt.
 **K33 + K34, 4119 Woerter.** Nachbartage, dasselbe Zimmer, dieselbe Person,
 derselbe Bau - und **K33 ist das einzige Kapitel des Bandteils, das in allen
 vier Traglastspalten leer steht.** Mitwandern muessen Annies *"Not asking.
-Telling."* und der Auftrag an Jang, sonst steht b2 K33 ohne Ursache da.
+Telling."* und der Auftrag an Jang, sonst steht b2 K37 ohne Ursache da.
 
 **K16 + K17, 3924 Woerter.** Die Hand finden, zur Hand gehen, zwei Tage
 auseinander, derselbe Mann. **K17 ist unantastbar** (Mr Oks und Mrs Uhms
 einziger Auftritt); aus K16 muessen zwei Absaetze mit, *"Frightened only"* und
 *"There is no calendar in that office."*
 
-**b2 K35 + alt K44, 5153 Woerter.** Der zehnte Mensch im Haus wird in 43 als
+**b2 K39 + alt K44, 5153 Woerter.** Der zehnte Mensch im Haus wird in 43 als
 Essensmenge gefunden, in 44 als Sauerstoffmeldung, in 48 wird daraus *certain*.
 Drei Kapitel, ein Befund. alt K44 benennt sein eigenes Ergebnis selbst als nichts:
 *"That took forty minutes and it produced nothing he had not already had at ten
@@ -468,10 +468,10 @@ past nine."*
 
 | Stufe | Paare | Ersparnis |
 |---|---|---|
-| 1, Naht in der Bewegung | K04+05, b2 K50+59, alt K70+71 | etwa 2500 |
-| 2, Doppelung streichen | K34/b2 K29 | etwa 40 |
+| 1, Naht in der Bewegung | K04+05, b2 K54+59, alt K70+71 | etwa 2500 |
+| 2, Doppelung streichen | K34/b2 K29 (geteilt) | etwa 40 |
 | 3, angekuendigter Bericht | K26+27, K29+30 | etwa 2500 |
-| 4, eine Bewegung, zwei Tage | K33+34, K16+17, b2 K35+44 | etwa 4700 |
+| 4, eine Bewegung, zwei Tage | K33+34, K16+17, b2 K39+44 | etwa 4700 |
 
 **Zusammen etwa 9700 Woerter und sieben Kapitel weniger.** Das ist die
 Buchhaltung. **Was es nicht ist, steht im naechsten Abschnitt:** eine Antwort
@@ -496,19 +496,19 @@ Beim Lesen der Strecke faellt eines auf, und es ist nicht die Geschwindigkeit:
 notiert, wie weit er gekommen ist.**
 
 > K34: *He wrote one line and closed the notebook.*
-> b2 K30: *"Page one is what I have. Page two is what I have spent."*
-> b2 K32: *"The second page is filling faster than the first one."*
-> b2 K34: *He wrote one more line before he put the notebook away for the night.*
-> b2 K35: *"Two anchors now instead of one."*
+> b2 K34: *"Page one is what I have. Page two is what I have spent."*
+> b2 K36: *"The second page is filling faster than the first one."*
+> b2 K38: *He wrote one more line before he put the notebook away for the night.*
+> b2 K39: *"Two anchors now instead of one."*
 
 Nachgezaehlt ueber den ganzen Band, Kapitel, die mit dem Notizbuch oder einer
 kursiven Selbstnotiz enden:
 
 | | Kapitel | Anteil |
 |---|---|---|
-| K01-b2 K29 | 4 von 35 | 11 % |
-| **b2 K30-b2 K47** | **17 von 21** | **81 %** |
-| b2 K54-b2 K73 | 7 von 22 | 32 % |
+| K01-b2 K29 (geteilt) | 4 von 35 | 11 % |
+| **b2 K34-b2 K51** | **17 von 21** | **81 %** |
+| b2 K58-b2 K77 | 7 von 22 | 32 % |
 
 **Einundzwanzig Kapitel am Stueck, von denen siebzehn damit aufhoeren, dass der
 Fortschritt notiert wird.** Ein Schritt auf Choi zu wird nicht genommen, er wird
@@ -564,9 +564,9 @@ Sie ist **einseitig**. Nachgezaehlt ueber Band 2:
 | Das Heft kommt vor und es wird **hineingeschrieben** | **35** |
 | Das Heft wird **herausgeholt und benutzt** | **2** |
 
-*(Die Rohzaehlung ergab sieben; fuenf davon sind Falschmeldungen - b2 K29 und b2 K31
-sind Annie an ihren Papieren, b2 K52 schreibt wieder, K07 und K28 haben bei der
-Nachpruefung gar keinen Treffer. Es bleiben K34 und b2 K38.)*
+*(Die Rohzaehlung ergab sieben; fuenf davon sind Falschmeldungen - b2 K29 (geteilt) und b2 K35
+sind Annie an ihren Papieren, b2 K56 schreibt wieder, K07 und K28 haben bei der
+Nachpruefung gar keinen Treffer. Es bleiben K34 und b2 K42.)*
 
 **Dreiunddreissig Kapitel legen etwas ab, das nie wieder geholt wird.** Genau
 das ist der Grund, aus dem die Arbeit sich nutzlos anfuehlt, obwohl sie es nicht
@@ -593,7 +593,7 @@ geschrieben: das Heft ist nicht Gedaechtnis, sondern **Beweismittel**, und der
 eigene Ordnungssinn wird zum Fehler. Der Fund kommt nicht von draussen, sondern
 aus seiner eigenen Abschrift.
 
-**Was daraus fuer die Strecke b2 K30 bis b2 K49 folgt, und es ist keine Kuerzung:**
+**Was daraus fuer die Strecke b2 K34 bis b2 K53 folgt, und es ist keine Kuerzung:**
 Von den siebzehn Kapiteln, die dort mit einer Notiz enden, muss ein Teil spaeter
 **eingeloest** werden - nicht als Erinnerung, sondern so, dass eine alte Zeile
 eine neue Tatsache hergibt. **Jede Notiz, die nie wieder aufgeschlagen wird, ist
@@ -619,7 +619,7 @@ ungleich verteilt:
 |---|---|
 | K01-20 | 9 von 20 |
 | **K21-60** | **3 von 40** |
-| b2 K73-82 | 15 von 20 |
+| b2 K77-82 | 15 von 20 |
 
 Das Schuldbuch ist ein Protokoll dessen, was zuletzt geschrieben wurde. **Dazu
 kommt, dass es bezahlte Zusagen zaehlt und nicht gegebene** - ein Kapitel, das
@@ -709,7 +709,7 @@ anderen streicht, ohne sie zu lesen, streicht vermutlich noch drei davon.
 ### 3. Zwei Muster, die messbar übrig sind
 
 **Die kursive Selbstnotiz am Kapitelende: 23 von 116, also zwanzig Prozent.**
-Alle dreiundzwanzig stehen in Band 2, und sie ballen sich: zwischen b2 K32 und b2 K49
+Alle dreiundzwanzig stehen in Band 2, und sie ballen sich: zwischen b2 K36 und b2 K53
 enden elf von neunzehn Kapiteln so. Das ist der Rest des Befunds, den der
 Inhaltsprüfer *"das Nähern wird als Buchführung erzählt"* genannt hat. **Die
 Zahl ist seit der Heft-Arbeit besser als sie war und immer noch die häufigste

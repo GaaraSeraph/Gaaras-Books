@@ -1,270 +1,294 @@
-# Chapter 69: The fourth time
+# Chapter 69: Nobody paid
 *Lot Fourteen* · Version 3.2 · EN
 
-## Day Four Hundred and Forty-Five · Tuesday 22 December
+## Day Four Hundred and Thirty-Four · Friday 11 December
 
-The yard has one truck in it and room for nine.
-
----
-
-She came out before he was through the gate, the way she did in March and in April, and she stopped four metres short of him and put her hands in her coat.
-
-"I have not said one word to anybody," said Nam Byung-hee.
+He did not telephone first.
 
 ---
 
-Georgij stood in the gate.
+A man of seventy-eight who is told on Friday that somebody is coming on Monday spends the weekend deciding what he is going to say, and Georgij wanted the version that had not been decided.
 
-"I know."
+---
 
-"You do not know. You have come four hundred kilometres on the twenty-second of December, and you said in April what a fourth time was." Her voice did not go up anywhere. "So say what you have been told and who told you it, and I will tell you whether it is true."
+He wrote that down in the car on the way out, because it is the sort of reason that sounds like courtesy afterward if nobody has written it down at the time.
 
 * * *
 
-"Nobody has told me anything," said Georgij. "I have not asked anybody about you since the thirtieth of April and there is nothing to ask."
-
-"Then why are you standing in my gate."
-
-"Because I said the fourth time out loud in April and made it mean one thing, and I have known since about the train this morning that you would be at that window when the car turned in." He did not move out of the gate. "I could have written. I decided that a letter from me would be worse, and I have had four hours to find out whether that was true, and it was."
+The terminal at Yeongjong is nineteen months old and has been painted once, on the north face, where the weather comes off the water and takes it off again whether it has earned it or not.
 
 ---
 
-Nam Byung-hee looked at him for about three seconds.
+Chairman Woo came out to the car himself, which is the third time.
 
-"Come up," she said. "It is cold and I am not going to have this at a gate for the sake of a sentence you said in April."
+"Eight months," he said.
+
+"Yes."
+
+"I have counted them, and I am telling you that I counted them, because at my age that is the only way to make a thing land." He did not shake hands. He does not. "Come inside before the wind gets into you. There is nothing out here that has not been out here since April."
 
 * * *
 
-The office over the weighbridge has the same calendar on the wall and it is still on a month with nothing written in it, and the month is not this one.
+The office at the end of the shed has not changed and does not look as though it ever will. There is one photograph on the wall and it is of fourteen metres of concrete that is not there.
 
-She sat down first and told him to sit.
+---
 
-"You have not brought anything," she said.
+Georgij did not sit down.
+
+"I am not here for the three hours," he said.
+
+---
+
+Woo stopped with his hand on the back of his own chair.
+
+"That is a strange thing to say with your coat still on."
+
+"It is the only thing worth saying first. If I sit down and let you find out slowly what I am carrying, you will offer them to me before I have finished, and then I will have taken something I came here not intending to take."
+
+"And that would trouble you."
+
+"It would trouble me a great deal, and not on your account."
+
+---
+
+Woo sat down.
+
+"Then stay standing," he said. "I have not been spoken to like that since nineteen ninety-four and I am not going to interrupt it with furniture."
+
+---
+
+"Then say what you are here for."
+
+"How do you take a man apart who does not own anything?"
+
+---
+
+Woo sat with his forearms on the desk and looked at the middle of it for about as long as it takes to fill a kettle.
+
+"You have had him all year," he said. "You have taken a woman out of his house. You have taken his solicitor and the man who did his telephoning. And you have come out to an island in December to ask me a question you could have asked in March."
+
+"I could not have asked it in March."
+
+---
+
+"No. You had somebody in a building then and you could not afford the answer." Woo turned one hand over. "Say what you actually want, and do not be careful about the shape of it."
+
+---
+
+"What he was before 2002."
+
+---
+
+Woo did not perform anything.
+
+---
+
+Then Woo went quiet, and it was a different quiet from the first one.
+
+"There is a thing I have not told you," he said.
+
+"You do not owe me one."
+
+"I am aware of the arrangement. I made most of it." Woo looked out at the water for a moment. "Two men in fifty-one years have asked me a question that nobody else thought to ask. You know about one of them, because I told you about him in October over a bowl of soup, and he lent me four hundred billion won afterward."
+
+---
+
+Georgij stood absolutely still.
+
+"I have never told anybody about the other one," said Woo.
+
+---
+
+Twenty-three years ago there was a customs matter.
+
+---
+
+Two containers, a declaration that had been made by a man who no longer worked for him, and a set of dates that did not sit together. Woo described the paperwork for slightly longer than the story needed, in the way of a man who has decided to be accurate because the rest of it is going to be difficult.
+
+"It was not nothing," he said. "I want that said. It was not manufactured and it was not a misunderstanding and if it had gone the whole way I would have deserved about a third of what was coming."
+
+Georgij did not interrupt.
+
+"A young man came out to the yard. On his own, in his own car, on a Wednesday in February." Woo's hands had not moved. "Thirty-five or thirty-six. He had one folder and he had read it. We put lunch in front of him because that is what you do. He sat with it for an hour and forty minutes and did not eat any of it. I have thought about that more often in twenty-four years than I have thought about the containers."
+
+---
+
+Georgij's face did not do anything at all.
+
+"He asked me one question," said Woo. "Not about the declaration. He had the declaration and he did not need me for it."
+
+"The question."
+
+"He asked me who I would telephone if it went badly." Woo said it exactly, in the way of a man repeating something he has repeated to himself. "Not who I had told. Not who knew. Who I would telephone."
+
+---
+
+The shed made a noise somewhere behind them, a door or a chain.
+
+"And you told him."
+
+"I named three men. I did it in about four seconds, which is the part I have had to live with, because it turns out I had known the answer for years without ever having had the question." Woo sat back. "He wrote nothing down. He thanked me for lunch that he had not eaten. Six weeks later the file was closed and no reason was ever given to me or to anybody else."
+
+---
+
+Georgij did not say it.
+
+---
+
+He had it inside about two seconds and he stood in a shed on Yeongjong and did not say it. It was the second time in three days that he had done that, and it did not get easier with practice.
+
+---
+
+Woo got there on his own, and it took him perhaps twenty seconds, and Georgij watched a man of seventy-eight arrive at it in his own office.
+
+"He did not want it for the case," said Woo.
 
 "No."
 
-"Four times."
+"He wanted to know who I had." Woo said it flatly and then he said the rest of it more slowly. "I have believed for twenty-four years that one of those three men paid somebody for me. I have never been able to work out which, and I have never been able to ask, and two of them are dead now and I went to both funerals wondering."
+
+"And the third."
+
+"The third is alive. I have not had a real conversation with him since my wife died." Woo looked at the photograph of the fourteen metres. "Nobody paid. That is what you have just brought into my office. Nobody paid, and I have spent twenty-four years being quietly grateful to three men for a thing none of them did."
+
+"I am spending the three hours," said Woo.
+
+"I did not ask for them."
+
+"You have not asked for them twice now, and you are the only man alive who has ever had to be told what he is owed." Woo turned his hand over on the desk. "In November you sat in a shed at Yeongjong and talked to me for three hours and wanted nothing at the end of it. Nobody has done that to me since 1994. I have been in your debt since, and in April I refused to settle it on a lane."
+
+"You said it would have to be worth what it was worth."
+
+"It is. I am paying it this afternoon and I am choosing what it goes on, and I have been waiting fourteen months to be allowed to." He pulled a pad towards him. "And I could only choose it because you did not ask. If you had asked me in April I would have given them to you and thought about it every week since, and by August I would have found something wrong with you."
+
+---
+
+He pulled a pad towards him, which is what he does instead of agreeing to things.
+
+"A file does not close itself," he said. "Somebody above him signed it off, and that man is either dead or he is seventy and lives in Bundang and plays golf badly. I know four people who would know which, and one of them will tell me for nothing because he has wanted to tell me something for eleven years and has never had a reason to telephone."
+
+"That is a public thing to go asking."
+
+"It is an old man asking about an old case that had his own name on it. That is the least public question available in this country." Woo wrote two words on the pad and turned it face down. "And if anybody does hear about it, they will hear that Woo Jae-sung is going back over his customs matter from two thousand and two, which is the exact impression a man of seventy-eight ought to be giving."
+
+---
+
+Georgij looked at the back of the pad.
+
+"Thank you, Chairman."
+
+"Do not thank me. I have not given you a name."
 
 * * *
 
-"I am going to say three things," said Georgij, "and the first one is going to be worse than it sounds, and I would rather you had it in the first minute than in the fortieth."
-
-"Then it should be the first one."
-
-"In November a woman on the river bought the five haulage firms on this lane." He said it to the desk between them. "Openly, in the register, at a price. Anybody in this country may go and read it, and by the end of January everybody on this coast will have."
+At the car, at the end, Woo did the thing he did in October and again in April, which is to give away something nobody has asked for.
 
 ---
 
-Nam Byung-hee did not move at all.
+He did it standing with one hand on the roof of the car, and he did not lead into it.
 
-"Say the second thing."
-
-"Your nephew is on the nine-truck rota at Mr Kwon's, and he has been since the twentieth of April, and that has not changed. As of the ninth of November the firm he works for belongs to her."
-
-* * *
-
-The gulls did whatever gulls do over a yard with one truck in it.
-
-"You have come four hundred kilometres to tell me that my brother's son works for the woman I wrote to," she said.
-
-"Yes."
-
-"Because I would have found it out in January off a register."
-
-"You would have found it out in January off a register, on your own. By then it would have been four weeks old, and you would have spent four weeks not knowing." He kept his hands where they were. "There is no version of this in which it is good news. There is one in which you hear it from the man who is responsible for it."
+"I have been to one of those dinners," he said.
 
 ---
 
-She sat and looked at the desk for a while, which is what she does.
+Georgij stopped with his hand on the door.
 
-"Was it arranged for him."
+"Properly, Chairman."
 
-"No. It was arranged for the lane and he came with it, and I did not think about him once until the eleventh of November." Georgij said it flatly. "He is twenty-three. He is on the same rota, at the same wage, doing the same work, and the name on the paper above him changed in an afternoon in Seoul and nobody in that yard noticed."
+"I am going to, and you are going to let me get to the end of it, because I have only just found it and I would rather not have to say it twice." Woo did not take his hand off the roof. "Ten years ago, in a private room, six of us. There was no host at the head of the table. I have been to nine hundred dinners and I have never once, before or since, sat at one where nobody was at the head."
 
-"That is the whole of it."
+"Who invited you?"
 
-"That is the whole of it, and it is not a comfort, and I am not offering it as one."
-
----
-
-Nam Byung-hee put one hand flat on the desk.
-
-"Then I will say mine, and it is not going to be what you expect either," she said. "I am glad."
-
-* * *
-
-Georgij did not say anything.
-
-"You will want the reason and you are entitled to it, and you are not going to enjoy it." She was quite steady. "Nine trucks on a lane with seven years on it and nobody standing behind them goes under in about four years. I have watched three men go that way and one of them was better at this than I am."
-
-"You knew that in April."
-
-"I knew it in April and I have thought about it every week since, and it has been the only thing about my nephew that I could not put down." She turned her hand over. "Now there is somebody standing behind it. It is the woman I wrote a letter about. My brother's boy is going to have a wage for the whole of his working life because of her. And I am to sit here at fifty-eight and hold both of those."
-
-"Yes."
-
-"Then I will hold both of them," said Nam Byung-hee. "I have been holding worse arrangements than that since 1998."
-
-* * *
-
-"The third thing," she said.
+"A man who has been dead four years, and he invited me the way you invite somebody to a thing that is already happening." Woo was looking down the length of the terminal. "In the November after it I stopped wanting something I had wanted for four years. I withdrew from it in one afternoon and I have never once been able to say what changed. I have told people it was my age."
 
 ---
 
-Georgij took a moment over it, because it was the one he had built on the train and taken apart at Iksan.
+He let that stand for a moment.
 
-"In April I told you that the man who chose you would get exactly what you got, and that he would lose it slowly enough to watch it coming." He did not hurry it. "You asked me whether I was telling you that to make you feel better."
-
-"You said it was true and four months late."
-
-"It is happening now, and I am going to tell you what it actually looks like, because I said a large sentence in this room and you are owed the small version of it."
-
-* * *
-
-"Then say it."
-
-"On the tenth of this month he telephoned a man he has used for eleven years, and it rang eleven times and nobody picked it up." Georgij had one hand on the edge of the desk and did not take it off. "On the eleventh he telephoned again and it rang nine, and the man was standing two metres from it with his hand on the back of a chair."
+"I was sixty-eight," he said. "It was not my age."
 
 ---
 
-Nam Byung-hee did not say anything for a moment.
-
-"That is it," she said.
-
-"That is it."
-
-"A telephone."
-
-"A telephone that is not answered, twice, on two days." He did not decorate it. "He has spent twenty-three years arranging his life so that he never has to be anywhere. The whole of that only works while somebody else is willing to be. In December one man stopped, and there is no room he can walk into to find out why, because he has never once been in a room."
+Georgij did not offer him anything.
 
 ---
 
-She sat back.
+There were four things available and every one of them would have made the old man feel better inside a sentence. Every one of them would also have been Georgij handing him a conclusion he had reached on his own forty seconds earlier.
 
-"You are telling me it is small."
-
-"I am telling you it is the size it is, and that it is the first thing anybody has taken off him in twenty-three years that he could feel on the day it happened." Georgij looked at her properly. "I said something large in this room in April and I have been careful since about saying large things. That is the whole of what I have got, and it is real, and it is going to be followed by a great deal more of the same."
-
-* * *
-
-"Now the fourth thing," said Nam Byung-hee.
-
-"I said three."
-
-"You said three and you have been sitting there since the second one with a fourth in your mouth, and I have been reading men across this desk since before you were in this country." She did not blink. "Say it."
-
----
-
-Georgij put both hands on his knees.
-
-"There is going to be a dinner," he said. "It is in Seoul and it is at her house and she is giving it. There will be about thirty people there and every one of them has had a thing done to them by the man who chose you, and not one of them knows that the others exist."
-
----
-
-The calendar on the wall was still on a month with nothing written in it.
-
-"You are inviting me to a dinner," she said.
-
-"I am telling you that you are on a list. What happens after that is not mine."
-
-* * *
-
-"Say which list."
-
-"There are thirty-one names on a page in my coat and they were collected by a woman in Seoul over nine days in June." The page was still in the coat and he did not take it out. "You are not on that page. You would be the thirty-second and you would be on it because the same man did the same thing to you, in the same way, and you are the most recent."
-
----
-
-Nam Byung-hee looked out of the window at one truck.
-
-"Thirty-one people who were used," she said. "And you are going to put me on the end of it, and I am the only one of the thirty-two who used it back."
-
-"Yes."
-
-"And she knows that you are here."
-
-"She knows I am here and she knows what I came to say, and she said one sentence about it and I am going to give it to you exactly." Georgij kept his hands still. "She said that it is a request and not an arrangement, and that if the answer is no she is not to be told a reason."
-
-* * *
-
-Nam Byung-hee sat with that for a long time.
-
-"I am not going to answer you today," she said.
+"Did you know," said Woo. "When you got out of the car this morning. Did you know I had been to one."
 
 "No."
 
-"And you are not going to ask me again, and you are not going to send anybody, and there will not be a second letter about it in January."
+"We have the time for the long way."
 
-"There will not."
-
-"Then I will tell you in a fortnight, one way or the other, and I will tell you myself and not through a man with a car." She put both hands flat on the desk. "That is not me being difficult. I have had one thing taken off me this year that I gave away freely, and it was the deciding, and I am going to do this one slowly because I can."
+"I have a list of thirty-one names and you are not on it, and the list came from a woman who has been collecting it since June, and I read it four times." Georgij held his eye. "I did not come out here to find that. I came out here because you are the only man alive who was at the top of this trade twenty-four years ago and would tell me the truth about it. I was not going to ask you for that with a favour in my hand."
 
 ---
 
-Georgij stood up.
+Woo took his hand off the roof of the car.
 
-"That is the correct answer," he said, "and I would have waited a month for it."
+"Then we are both having a worse day than we expected," he said, "and I have not had one of those in some time, and I find I do not mind it as much as I thought I would."
 
 * * *
 
-At the gate she said the last of it, the way she did in April.
-
-"You said in April that if I ever repeated it you would come a fourth time with nothing in your hands."
-
-"I did."
-
-"You have come a fourth time with nothing in your hands and I have not repeated it." She stood in her own gate with her hands in her coat. "I would like it said out loud once that those are not the same visit, because I have had four hours of the twenty-second of December to sit here and think that they were."
+The road back off the island is twelve kilometres of bridge and there is nothing to look at except the water and the airport.
 
 ---
 
-Georgij stood on the other side of it.
+Georgij had the notebook open on his knee before the toll.
 
-"They are not the same visit," he said. "I made the fourth time mean one thing in April, and I have spent this morning taking it back. I could not have done it in a letter. That is the whole of why the car is out there."
+---
+
+*Chairman Woo has been telling himself for twenty-four years that one of three men paid for him.*
+
+*Nobody paid for him. He was shown to a man who wanted to know who he would telephone, and the man took the answer away and never used it, and never had to. That is what having somebody means. It does not have to be spent. It has to be known.*
+
+---
+
+He sat with that for four kilometres.
+
+---
+
+*I have four hundred and thirty names. They come out of a car service, a florist and a corkage bill, and every one of them is a person who left a mark on the way in.*
+
+*I have never once written down who any of them would telephone.*
+
+---
+
+He did not write the last part down until the car was on the ramp, and then he wrote it in four words and closed the book on it.
+
+---
+
+*He was thirty-six.*
 
 * * *
 
-She looked at him for a while.
+Mrs Seo met him in the hall with the look she uses when something has been left where he will fall over it.
 
-"Then there is one more and it is mine," said Nam Byung-hee.
-
-"Say it."
-
-"In April you told me that the thing I picked up and pointed at her was you." She did not soften it at all. "I have had eight months with that and I have got exactly nowhere, and I want to know one thing and then I am going in out of the cold."
-
-"Ask it."
-
-"Does she know what she has got."
-
----
-
-He did not make her wait for it.
-
-"Yes," he said.
-
-"Good," said Nam Byung-hee. "Then somebody does."
-
----
-
-She went up the outside stair and did not look back, and the light in the office over the weighbridge went on before he was through the gate.
+There was nothing on the table by the key bowl.
 
 * * *
 
-He wrote it on the train, somewhere before Iksan, and it took two attempts.
+He went up at about nine and Annie was at the desk and did not ask.
+
+"Nobody paid for him," said Georgij.
+
+"Say the rest of it."
 
 ---
 
-*She is glad about her nephew and she said so in about four seconds, and it cost her more than the letter did.*
-
-*I went down there with a thing I thought would be the worst of it, and she took it apart in front of me and handed me back the half I had not counted.*
+"He asked a man of fifty-five who he would telephone if it went badly, and he was given three names in about four seconds." He did not soften it. "He never used one of them. That is the whole of what having somebody means, and I have had it for about four hours and I am not going to be able to put it down."
 
 ---
 
-Then the rest of it, at Iksan, in the eight minutes.
+"And the part you have not said," said Annie.
 
 ---
 
-*I made the fourth time into a threat in April, in a gate, at the end of an afternoon in which I had been accurate about everything else.*
+"He was made."
 
-*I did it because it was the tidiest way to end the conversation, and it cost nothing at the time, and she has carried it for two hundred and thirty-six days.*
+---
 
-*There is no version of this year in which I could have written to her instead. That is the only part of today I got right, and I got it right on a train four hours after it was already true.*
+Georgij stood in the middle of the room.
+
+"In 2002, by a man who gave him one thing he could not undo, and chose the morning for it, and was very kind about it." He did not look away. "He has been doing it to other people ever since, and nobody has ever had to tell him how."

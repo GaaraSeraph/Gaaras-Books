@@ -465,7 +465,7 @@ ist nicht zurueckgezogen, und er ist der einzige, der schliessen kann, was von
 dem Haus uebrig ist.
 
 **Und eine Werkzeuglehre:** ich habe die Stelle nicht gefunden, weil sie das
-Wort *offer* nicht benutzt, und habe sie deshalb in b2 K55 noch einmal
+Wort *offer* nicht benutzt, und habe sie deshalb in b2 K59 noch einmal
 geschrieben. Der Autor hat sie in K21 gefunden. **Wer im Text nach einem
 Begriff sucht, findet die Stellen, die ihn benutzen, und uebersieht die, die
 ihn umschreiben** - und in diesem Buch umschreibt fast alles.

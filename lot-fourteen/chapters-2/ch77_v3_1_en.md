@@ -1,286 +1,250 @@
-# Chapter 77: I require your instructions
+# Chapter 77: The doorway
 *Lot Fourteen* · Version 3.1 · EN
 
-## Day Four Hundred and Ninety-Three · Monday 8 February
+## Day Four Hundred and Sixty-Four · Sunday 10 January
 
-Baek Jun-ho asked for the Monday morning and said on the telephone that it would take fifty minutes and that Georgij was not to bring anything.
+He came at eleven in the morning in his own car, driven by a man who has driven him since 1996, and he was early by nine minutes and sat in the car until eleven.
 
-He said the last part twice, which he has not done before.
+---
+
+Mrs Seo had the door open before he was out of it.
+
+"Chairman."
+
+"You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in it once, in December, and you gave me a chair in the hall with a view of the drive without my asking for one, and I have thought about that twice since."
+
+"There is a chair in the hall."
+
+"I am not going to need it."
+
+---
+
+It was thanks, and she had answered it, and neither of them had used a word that would have had to be explained afterwards.
 
 * * *
 
-There is one page on the desk when Georgij comes in, face up, and it is a draft, and there are two words crossed out on it in ink.
+Annie met him at the foot of the stairs and did not come further than that.
+
+"Chairman Woo."
+
+"I telephoned on Friday and I said a thing to your man that I want to say to your face, so that it is not a thing he had to carry up the stairs." Woo did not take his coat off. "I have come to see him and not you. I am aware of how that sounds in your own hall."
 
 ---
 
-"I am going to do this in three parts," said Baek, "and the first two are mine and you are not going to like the third one either."
+Annie looked at him for a moment.
 
-"Then the first one."
+"It sounds like a man being careful with somebody," she said. "The small room is on the left and nobody will come in. Mrs Seo will bring you something and you will drink it, because you are seventy-eight and you have come across the city on a Sunday."
+
+"I will drink it. I will not enjoy it. I have not enjoyed anything hot since 2011."
+
+---
+
+She went up the stairs and did not look back, and did not come down again for three hours.
 
 * * *
 
-"On the first of December I signed a change of delivery address on a standing instruction," he said. "I told you about it on the eighth of December on the telephone, and I told you that there was no ground on which I could have refused, and I believed that when I said it."
+Woo sat in the small room and looked at the ledger on the desk and at the folders behind it and did not comment on any of it.
 
-"You have stopped believing it."
+"Sit down," he said.
 
-"I stopped believing it on the fourteenth of January at about four in the afternoon, in this chair, with the deed open in front of me for the first time since 2016." Baek had both hands flat. "I would like to say the size of that out loud. Eleven years, forty-five payments, and I had not read the instrument since before that woman was in that house."
+"Chairman."
+
+"Sit down, because I am going to tell you this in the order it came to me and it took me four days, and you are not going to be able to stand for the whole of it." He put both hands on his knees. "And I am going to tell you the last part last, whatever your face does in the middle."
 
 ---
 
-Georgij sat down and did not say anything.
+Georgij sat down.
+
+"The man I telephoned is seventy-four and he was a clerk in that office in the nineties," said Woo. "He has wanted to tell me something for eleven years. It turned out to be about a shed at Gimpo and nothing whatsoever to do with me, and I let him have the whole of it, because that is what it costs."
+
+"How long?"
+
+"Fifty minutes. Then he answered my question in about forty seconds, and I have found that this is the usual ratio and I have never once found a way round it."
+
+"The forty seconds."
+
+"The file on my company was closed on the eleventh of April in two thousand and two. There is no reason recorded and there was never going to be one." Woo did not move his hands. "Choi Dae-ho resigned from that service eleven days later."
+
+---
+
+Georgij did not say anything.
+
+"That is the part you already had," said Woo, "and I could have said it on a telephone, and I did not telephone you for four days because I was waiting for the rest of it."
+
+"I have believed for twenty-five years that somebody paid for me," said Woo.
+
+"You told me that on Monday."
+
+"I told you that on Monday and I was wrong on Monday, and I have now been wrong about it twice in a week, which at my age is a considerable rate." He turned one hand over. "Nobody paid for me. I had that right. What I did not have is the rest of the sentence."
+
+"Then the right version."
+
+"I was not the thing that was being bought." Woo looked at him properly. "I was the door."
+
+---
+
+The small room did what a room does at half past eleven on a Sunday.
+
+"So that I can use it, Chairman."
+
+"A prosecutor of thirty-six who has read a file and gone out to a yard and asked a question nobody thought to ask is a man who is going to be a very senior person in about nine years. You do not get a man like that out of a service by offering him money." Woo did not hurry any of it. "He will not take it and he will remember that you asked. You get him out by giving him one thing to do that he cannot undo, and then he leaves on his own and he never once says why."
+
+"He closed a case he had already won."
+
+"He closed my case. He had it. He would have had a third of what was coming and he had earned it." Woo said the next part flatly. "And on the day he did it he stopped being a man with a career and became a man with a marker." Woo did not move. "Eleven days later he was standing in somebody's house in a good coat with nothing at all to sell."
+
+---
+
+Georgij sat in a small room with his hands on his knees and did the thing he does.
+
+---
+
+He did it out loud, because Woo had earned that.
+
+"Then whoever wanted him did not want a favour from a prosecutor," he said. "They wanted the prosecutor."
+
+"Yes."
+
+"And they had to have something ready for him to walk into, because a man of thirty-six with a marker and no plan goes to a law firm in Seoul and is a partner by forty." He was not asking. "Somebody had a table for him to sit at before he resigned."
+
+"Now you have it," said Woo. "That took me two days and it has taken you about a minute and a half, and I am too old to mind."
+
+"The name," said Georgij.
+
+---
+
+Woo did not answer for a moment.
+
+"I am going to do this properly," he said, "and you are going to let me, because I have been in one room in my life where a name was said badly and I have never got the sound of it out of my head."
+
+Georgij did not move in the chair.
+
+"He was not a lawyer. He was not in the ministry and he was not anybody's cousin." Woo had both hands flat on his knees. "He was in shipping. He was at Incheon. He had come up from nothing and he could not read a contract. Everybody in the trade knew it and nobody ever said it in front of him. He had got as far as he had by being right about people in four seconds."
+
+---
+
+Georgij felt the whole of it arrive before the last sentence.
+
+"Chairman."
+
+"A man who cannot read a contract needs somebody to tell him which people to say yes to." Woo said it without any cruelty in it at all. "He did not need a lawyer. Lawyers read the paper. He needed a man who could read the room, and he found one at thirty-six, and he had him taken out of a service and put at his own table."
+
+"The name."
+
+"Your employer's father," said Woo.
+
+---
+
+Georgij sat absolutely still for about four seconds.
+
+---
+
+Then he stood up and went to the window and stood there, which is a thing he has done in that room twice, and the other time was in June.
+
+---
+
+Behind him Woo did not fill the silence, because a man of seventy-eight who has come across a city on a Sunday knows exactly what he has just put on a table.
+
+"How certain," said Georgij, at the glass.
+
+"That is half a question."
+
+"How certain are you, and how much of it is the clerk and how much of it is you."
+
+"That is the right question and I am going to answer it in three parts." Woo held up nothing at all, and counted on nothing, and Georgij could hear him counting anyway. "The clerk gave me that the request came from outside the service and that it came from Incheon. That is all he had and he had it because he carried the file down a corridor and heard four words."
+
+"And the second part."
+
+"The second part is mine. I knew that man for thirty-one years. I sat across a table from him nine or ten times, and I liked him, and he beat me twice on ground I should have had." Woo's voice did not change at all. "In the spring of two thousand and two he told me at a lunch that he had found somebody. He did not say a name. He said that he had spent forty years being right about people in four seconds and had finally met a man who could do it in one."
+
+---
+
+Georgij stood at the window.
+
+"And the third part."
+
+"The third part is that I have sat in that woman's dining room and looked at her father's photographs and told her they were terrible." Woo let that stand. "And I have thought since Thursday about whether an old man is entitled to be wrong about this out loud in her own house. I decided that I am not. That is why I am saying it to you in a room she is not in."
+
+---
+
+He had spent four days deciding which of the two people in this house he was entitled to hurt, and he had chosen the one who could carry it.
+
+"He did not know," said Georgij, still at the glass.
+
+"I will wait for the rest of that sentence."
+
+"He was a man who could not read a contract and he found somebody who could read a room, and he took him, and he was pleased about it, and he told you so at a lunch." Georgij turned round. "There is nothing in any of that which requires him to have known what he was making."
+
+"No," said Woo. "There is not."
+
+"Then the part you have not said."
+
+---
+
+Woo looked at the ledger on the desk rather than at him.
+
+"There is also nothing in it which requires him not to have known," he said.
+
+---
+
+Georgij went back and sat down.
+
+"I need to know what you are going to do with it," he said.
+
+"You need to know whether I am going to say it to her."
+
+"Yes."
+
+"No." Woo said it immediately. "It is not mine. I have had it four days and they have been the worst four days I have had since my wife. I am seventy-eight and I have finished four men, and I am not going to walk into a woman's house and take her father off her on a Sunday."
+
+"Then it is mine."
+
+"It has been yours since Friday night and you knew it on the telephone." Woo stood up, which took him a moment. "And I am going to say the only other thing I came here to say, and then I am going to go home and be old."
+
+---
+
+Georgij stood up as well.
+
+"She is going to find out," said Woo. "Not from you and not from me. From the shape of it. That woman has been reading rooms since she was fourteen years old at that same table, and she has already worked out that I came here on a Sunday and asked her to leave her own study."
+
+"I know."
+
+"Then you have until she asks." He put his coat straight. "That is not long and it was never going to be, and you are going to spend it deciding what sort of man you are and not what to say, because the words will not be the difficulty."
 
 * * *
 
-"The deed says what the money is for and it says it in one line," said Baek. "*The operating costs of a residence.* Then a schedule: staff, provisioning, maintenance, utilities, insurance, and medical costs against invoice."
+At the door, in the hall, with the car already turned round, Woo did the thing he has done every time since October.
 
-"A residence."
+"There is one more and you have not asked for it."
 
-"A residence. Not a person. The instrument does not have a person in it anywhere, and that is why I never had to be told who she was, and that is the whole of what I have been hiding behind since 2016."
+"Chairman."
 
----
+"Two thousand and two is twenty-five years ago and she was fourteen." Woo had one hand on the frame. "You told me in April that she noticed at fourteen that a man at her father's table did not eat, and that she understood it at thirty. I have been turning that over since Thursday."
 
-He turned the deed round on the desk and did not push it across.
+Georgij stayed where he was.
 
-"There is no residence," said Baek.
-
-* * *
-
-The office in Yeouido did what an office does at ten in the morning.
-
-"Say it in order," said Georgij.
-
-"The staff were paid off in November. The house was surveyed on the twenty-second of September and the room at the back was cleared before the second. The telephone was cut on the thirtieth." Baek listed it the way he lists things. "It has been let, or it is being sold, and either way there is nobody in it. On the first of December I moved the medical delivery to a private house on the river."
-
-"And the flat in Seodaemun."
-
-"Is let to a young woman with a bicycle since the middle of November, and I am still paying the rates on it. I have been paying the rates on a flat with a tenant in it for eleven weeks."
-
-* * *
-
-"Then say the second part," said Georgij.
+"She has known for seven years that there was a man at her father's table who was wrong." He looked out at the drive. "She has never once asked how he got there. Not to me, and I would have been asked. A woman who asks four questions a minute has left one alone for seven years."
 
 ---
 
-"I have been administering nothing since about the first week of November," said Baek. "There is no residence, there are no operating costs, and the two payments that are still running go to an address that is not in the schedule and never was."
+Georgij stood in the hall.
 
-"You are telling me you are in breach."
+"She has not left it alone," he said.
 
-"I am telling you that I have been in breach since the first of December and that I signed it myself in under four minutes." Baek did not look up from the deed. "Not because I was deceived. I was told the truth and it was not the whole of it, and I have said that to you once already and I have had two months to notice that saying it did not make it better."
-
-* * *
-
-Georgij sat forward in the chair.
-
-"There is a woman in that house who is on oxygen," he said.
-
-"There is, and that is the first thing I looked at on the fourth of November, and I want you to know that it was the first thing." Baek did not look away. "Say what you have got standing behind her."
-
-"A supply from a different firm, in the name of the woman who owns the house, running since the second week of December." Georgij said it flatly. "The one you are paying for has been arriving alongside it since then and has not been used. There are four cylinders in a passage against a wall."
+"No," said Woo. "I do not think she has either. And I would like you to consider, before you go up those stairs, that you may not be the one who is about to tell her anything."
 
 ---
 
-Baek Jun-ho sat back for the first time that morning.
-
-"Then nothing happens to her when I stop."
-
-"Nothing happens to her when you stop. It happened in December and she has not been told about any of it and she is not going to be."
-
-* * *
-
-"Good," said Baek. "That is the only thing in this that I would have refused over, and I would like it on the record that I asked before I told you what I am going to do and not after."
+He got into the car and did not look back at the house, and the car went down the drive and out through the gate.
 
 ---
 
-He turned the draft round then.
-
-* * *
-
-It is eleven lines.
-
-It says that the residence described in the schedule has been vacant since November and is no longer maintained by the trust. It says that two standing payments have since been directed to an address outside the schedule. It says that the trustee has suspended both with effect from the first of March.
+He had come across a city on a Sunday so that the name would be said properly once. That was the whole of the visit.
 
 ---
 
-And the last line is four words.
+Georgij stood in the hall of a house on the river for a while.
 
 ---
 
-*I require your instructions.*
-
-* * *
-
-Georgij read it twice and did not touch the page.
-
-"You have crossed two words out," he said.
-
-"I have crossed out *regretfully* and I have crossed out *unfortunately*, and I did it at about eleven o'clock on Friday night and it took me nine minutes." Baek put one finger beside the page and not on it. "A man who has been in breach for two months does not get to be sorry in a letter. He gets to say what happened and what he has done about it."
-
----
-
-"Who does it go to."
-
-"The settlor. In person, at the correspondence address, which is a solicitor's office in Jung-gu that forwards, and it has forwarded four things in eleven years and all four were mine."
-
-* * *
-
-"That is the first letter anybody has ever sent him," said Georgij.
-
----
-
-Baek looked up.
-
-"Say that again."
-
-"I have been reading paper about that man since March," said Georgij. "Registers, filings, a fire safety schedule, a reservation book, sixteen call-offs off a screen in Bundang. Every single piece of it is paper that somebody else made and he stayed out of. There is nothing in the world with his name on it except what he signed himself. That letter is going to be the first thing that arrives *at* him."
-
-"That had not occurred to me and I have been at this since the fourteenth."
-
-"It occurred to me about four seconds ago and I would rather have thought of it before I came."
-
-* * *
-
-Baek Jun-ho got up and went to the cabinet behind his desk and did not open it.
-
-"Then say what you think he does," he said.
-
-"I do not know."
-
-"You have a view. You have had a view about that man since June and you have been right about most of it, and I am about to post this and I would like to hear it."
-
----
-
-Georgij took the time it needed.
-
-* * *
-
-"He answers it," he said. "That is what I think and I am not certain."
-
-"Say why."
-
-"Because he cannot afford not to. A trust that has no instructions sits, and a trustee who has had no instructions for a year has to do something about it, and everything he does about it is a paper with a date on it." Georgij looked at the draft and not at him. "In four years there would be a file in this office about a trust that went silent, and the file would be readable, and he has spent twenty-three years making certain that there is nothing anywhere that is readable."
-
-"And if he answers."
-
-"Then there is an instruction in his own words in a solicitor's office in Yeouido, and it will be the second document in the world with his reasoning in it." He looked at the draft. "The first one is in that cabinet and it is eleven years old and it is two corrections to a deed."
-
-* * *
-
-Baek stood with his hand on the cabinet door.
-
-"You have not asked me for anything," he said.
-
-"No."
-
-"You have not asked me to hold it, and you have not asked me to send it, and you have not asked me to change one word of a document that is going to make a man do something."
-
----
-
-"No."
-
-"Then I am going to tell you the third part," said Baek, "and this is the one where you are going to want to argue with me."
-
-* * *
-
-He came back and sat down.
-
-"I am reporting myself," he said.
-
----
-
-Georgij did not move at all.
-
-"The December signature. In writing, to the Law Society, with the deed and the schedule and the instruction attached. I have an appointment on the second of March with a man I have known for thirty-one years, and he is going to have to look at it." Baek said it in exactly the voice he had used for the other two parts. "I have been in this profession since 1994 and I have been investigated once, in 2007, and I was cleared, and I have told you that in this room before."
-
-"I was told in June that being investigated is the one thing a man in your line cannot survive twice."
-
-"By somebody who was right." Baek did not move. "It is still true."
-
-* * *
-
-The office did what an office does.
-
-Georgij sat in a chair in Yeouido and did not say one of the four things that came to him.
-
----
-
-"You are not going to argue," said Baek.
-
-"No."
-
-"I have had four days of building the answers and there are three of them and they are all quite good."
-
-"I know. I have got two of them myself and I am not going to use either."
-
-* * *
-
-Baek Jun-ho looked at him for a long moment.
-
-"Say why not, because I have not been able to work it out and I have been at it since Thursday."
-
----
-
-Georgij put both hands flat on his knees.
-
-"Because you are not doing it for me and you are not doing it for her," he said. "You are doing it because a man who has spent eleven years not reading a deed has one thing left that he can still be, and it is a man who reports himself when he finds out."
-
-"That is close and it is not it."
-
-"Then say it."
-
-* * *
-
-"I did not do it in 2016," said Baek.
-
----
-
-He said it flatly and it cost him more than the rest of the morning.
-
-"In 2016 I looked at that flat for the first time and I wrote one letter and I got a courteous answer and I stopped. That was the day. Not the fourteenth of January and not the first of December." He had both hands on the desk. "I have had nine years of being a man who queried it once, and I have used that sentence on myself about a thousand times."
-
-"And the second of March."
-
-"The second of March is nine years late and it is the only appointment available." Baek straightened the draft with one finger. "You do not argue a man out of that. You let him keep it or you take it off him, and I have watched you refuse to take a thing off somebody four times now and I have only understood it this morning."
-
-* * *
-
-At the door Georgij stopped, because there was one thing left.
-
-"What happens to the money," he said.
-
-"It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on sitting and it earns what it earns. In fifty years a court decides what to do with it, because there will be nobody alive who knows what it was for."
-
-"And in the meantime."
-
-"In the meantime a man in this city has to write me a letter about a woman he has never claimed to know, or watch a file grow in an office he has been in exactly once." Baek Jun-ho put the draft in a folder. "I have been arranging other people's silences for thirty-one years. I have never once been on the end that asks the question."
-
-* * *
-
-The letter went on the Wednesday, by hand, to a solicitor's office in Jung-gu that forwards.
-
----
-
-He wrote it that evening. There was no second version of it.
-
----
-
-*Eleven lines and four words at the end.*
-
-*I require your instructions.*
-
----
-
-*A trustee who cannot be told to stop, because a man arranged eleven years ago that he could not be told to stop, has found the one thing the man did not arrange.*
-
-*He did not build it so that the payments could not be suspended. He built it so that he could not suspend them. It has never been possible for him to stop it and it has always been possible for Baek.*
-
----
-
-He sat with that for a while.
-
----
-
-*And nobody in eleven years has read the deed.*
-
-*Not the solicitor who signed it forty-five times. Not the man who wrote the two corrections into it in twenty minutes in March, because he was not building a document, he was building a room he never had to enter.*
-
-*I have been looking for a mistake since March. There is not one. There is a deed that says residence, and a residence that is not there any more, and a man of sixty-three who opened a drawer on the fourteenth of January.*
+Upstairs, a door did not open.

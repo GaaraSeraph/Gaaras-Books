@@ -1,360 +1,348 @@
-# Chapter 49: Four streets
+# Chapter 49: Against her return
 *Lot Fourteen* · Version 1.8 · EN
 
-## Day Three Hundred and Fifteen · Friday 14 August
+## Day Three Hundred and Two · Saturday 1 August
 
-He wrote down what he was not going to do before he left the house, because a rule written in a car is a rule that has already started bending.
-
----
-
-*I am not going to take his story off him.*
-
-*I have done it to six people since June and it works and it is the fastest thing I have. I am not doing it to this one, because there is nobody standing behind him who would be worse.*
-
-*He gets to keep whatever he has built. I am going in to find out her name.*
-
-* * *
-
-Four streets is a ten-minute walk and it is uphill in one direction, which he had not expected and which told him something about how often she had done it.
+He was already there.
 
 ---
 
-It is a repair shop with two rooms behind it, on a corner, with a sign that has been repainted rather than replaced. Small motors. Fans, pumps, the sort of thing a person brings in rather than throws out.
+He had been there since half past seven, according to the girl who took Georgij through. He had asked her about the walk from the station and had said the wrong tram number on purpose, so that she could correct him.
 
 ---
 
-There was a man of about forty-five at a bench with a table fan in pieces in front of him, and he looked up when the bell went and did not stop what he was doing.
-
-"It will be Tuesday," he said. "Whatever it is."
-
-"I have not brought anything."
+The small room at the back has one table, six chairs of which four had been taken out, a window onto a wall, and a screen that folds across the doorway and had been left open.
 
 ---
 
-The man put the screwdriver down.
+He stood up.
+
+"Thank you for coming," he said. "I did not know whether you would."
 
 ---
 
-Georgij has been in eleven rooms this summer and has opened each of them a different way. He had decided in the car that this one would open with the truth in the first sentence, because no version of it survived being got at sideways.
+He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had suggested when she described him. He has a face that does what he tells it to and has been doing it for so long that Georgij could not have said, in the first ten seconds, whether anything on it was chosen.
 
-"My name is Georgij," he said. "I work for a woman on the river and I am not here for her. In February four years ago somebody signed a consignment form at a house on the river, and the name on it is yours, and the address on it is this one."
+"You have not eaten here before," he said. "The soup is the reason to come. I have ordered it for both of us and you are under no obligation to touch it."
+
+"Thank you."
+
+"You are welcome, and I would like to say the next part before the food comes, because it is easier standing up and I am about to sit down." He put one hand on the back of his own chair. "I have not told him. Not on the sixteenth, when I found out, and not since. I am telling you that first because it is the only thing I have that you would want, and because if I keep it until later it becomes a card I am playing."
 
 ---
 
-The shop did what a shop does.
+Georgij stood very still.
+
+"Then I will say mine," he said. "I have not told him either, and I am not going to, and not as a favour to you. There is nothing in this year that I want less than that man knowing where I have been."
+
+"Yes," said Sim. "I thought that was probably the shape of it."
 
 ---
 
-Mr Ahn sat down on the stool behind the bench, slowly, the way a man sits when his legs have made the decision.
+They sat down.
 
-"Four years," he said.
+---
+
+The soup came and it was as good as he had said, and neither of them touched it for eleven minutes.
+
+"You have been in five kitchens," said Sim.
+
+"Six now."
+
+"Six now." Something went across his face that was almost amusement and did not stay. "I counted the five. I would like to know how you chose them, because I have been trying to work it out for a fortnight and I have not managed it, and I do not enjoy that."
+
+"By how long the same cook had been in the building."
+
+---
+
+Sim sat back.
+
+"Because a room that has kept its cook has kept its memory," he said.
 
 "Yes."
 
-"Four years I've waited for somebody to come through that door and say that. I'd got as far as writing it off." He put both hands flat on the bench either side of the fan. "And it's a foreigner in a good coat on a Friday afternoon."
+"That is very good." He said it the way a man says it about a thing in his own trade, without any performance in it. "I would not have thought of it. I have spent thirty years being pleasant to kitchens and it never once occurred to me that it made me findable by them."
+
+"It is the only thing about you that is findable at all."
+
+"I know that now."
+
+"Ask me what you came to ask," said Sim, "because you have not asked anything, and I have been waiting for it since the door, and I am beginning to think you are not going to."
+
+"I am not going to ask you anything."
+
+"Then the reason. I have thirty years of men not giving me one."
+
+"Because everything I would ask you, you would have to decide whether to answer, and then we are two men negotiating over a table. I have done a great deal of that this year and it has never once got me the true version of anything." Georgij had both hands where the other man could see them. "I have brought one thing with me. I am going to put it down and I am going to say nothing at all, and you may read it or not read it."
+
+---
+
+Sim looked at him for a moment.
+
+"That is a considerable risk," he said.
+
+"It is the only one I have got that is not a trick."
+
+---
+
+He took the envelope out of his inside pocket, and it was the only thing in that pocket, and he put it on the table between the two bowls and took his hand off it.
+
+---
+
+Sim read it the way a man reads who has read paper for a living.
+
+---
+
+He read the letterhead first, then the date, then the two lines with the figures. Georgij watched him notice that the travelling cost three times the attendance, and watched him not react to it, because that part he had known.
+
+---
+
+Then he came to the box where the name goes.
+
+---
+
+He stopped.
+
+---
+
+Georgij said nothing, which was the entire plan, and it was very much harder than he had expected it to be.
+
+---
+
+Sim read the six characters. Then he read them again. Then he put the page flat on the table, squared it with the edge without appearing to know that he was doing it, and sat with both hands on either side of it.
+
+---
+
+The room did what a small room at the back of a restaurant does.
+
+"That is a lot number," he said.
 
 "Yes."
 
-"Are you police?"
+"From the house on the river."
 
-"No. There is nothing official anywhere in this and there is not going to be." Georgij stayed where he was, inside the door. "I am not going to threaten you and I am not going to offer you anything, and I am going to tell you now that I have no way of making you say a single word."
+"Yes."
 
----
+"I have never seen one."
 
-Mr Ahn looked at him for a long moment.
+"Again."
 
-"Then why would I?"
-
-"Because you have been waiting four years."
+"A bill. From that house, or to it, or about it. In eleven years." He had still not looked up from the page. "I pay in an envelope and I do not take receipts. I have not taken one in thirty years, because a receipt is a piece of paper with two names on it."
 
 ---
 
-He did not make him ask twice, and Georgij has thought since about how rare that is.
+One finger moved a fraction along the edge of the page and stopped.
 
-"Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when she went, so she's thirty-five now, if she's anything."
-
----
-
-Georgij had put him at forty-five inside two seconds of coming through the door, and he is never wrong about that by more than a year.
+"That is the first thing you learn and it is most of the trade," said Sim. "I have spent thirty years making certain that nothing of this kind exists anywhere I could reach it. It appears that I was very good at it."
 
 ---
 
-Thirty-nine.
+He did not look up.
 
----
-
-Georgij stood in a repair shop on a corner and did not write it down. Taking a notebook out at that moment would have made it a transaction, and he was never in his life going to forget it.
-
----
-
-Fifty-six days he has been calling her the fourth line.
-
-Three months he has been calling her the person nobody can prove exists.
-
----
-
-Ahn Jung-hee. Thirty-five.
-
-"Again," said Georgij, and it was the only thing he asked for in the whole visit.
-
-"Ahn Jung-hee."
-
----
-
-The story is not long and Mr Ahn did not decorate any of it, and Georgij understood about a minute in that it had been rehearsed for four years to an audience of one.
-
----
-
-The debt was his. Not hers, and he said that first, before anything else, and he said it in a voice that had said it to himself a great many times.
-
----
-
-A guarantee on a workshop lease, and the man he had guaranteed for went to the Philippines. It came to Mr Ahn in the second week of January, with a figure that had grown twice on the way.
-
-"Sixty-one million and four hundred thousand," said Mr Ahn.
-
----
-
-He said it the way he says a price for a bearing, and then he said the rest of it, and that was not the same.
-
-"I could've got to about half of it in two years. Three, if the summer went badly." He turned the fan housing a quarter turn and stopped. "I've had four years to wonder if they'd have taken half. I don't know. I never asked them, so I never will."
-
-"What did the consignment realise?"
-
-"Sixty-one million and four hundred thousand."
+"July, four years ago," he said. "I sent flowers on the sixth and the twenty-seventh of April that year. I have sent them twice a year since, in April and in October. In April she was told, and October was her mother's month. I was given both of those dates in a letter eleven years ago and never once a reason for either."
 
 ---
 
 Georgij did not move.
 
-"To the won," said Mr Ahn. "There's nothing on top of it. Not one won." He pulled the drawer under the bench half open and pushed it shut again. "The paper's in there. I've looked at it about nine hundred times."
+"What you understood the arrangement to be," he said, and it was the only sentence he permitted himself in nine minutes.
 
-* * *
-
-Georgij stood in a repair shop and did the thing he does, and did it silently, and did not like where it went.
+"You will have to forgive me. I am going to be slower than you want." Sim moved his bowl an inch to the left so that it was not between them. "A lady who is not well. A house in the country, and good people in it. I chose the people myself and I went out twice to look at them, and nobody had asked me to do that."
 
 ---
 
-*A consignment is not an auction. Nobody bid. There was no room and nobody raised a hand and there was no second person in it who wanted her.*
+He said all of it the way a man recommends a dish.
 
-*Somebody named a figure that was already written down, because the figure was the whole of what the family needed, and a woman who solves the thing in front of her does not haggle about her own number.*
+"And a gentleman who does not want it talked about. There is nothing shameful in that. I have done four of them and two were sad and none of them were wrong."
 
----
+Georgij did not touch his own bowl.
 
-*And the striking-out was never invoiced to anybody. On the other three lines there is a fee, because somebody came back later and paid to have an entry taken away.*
+"Twice in four years I was told she was worse. Both times by letter. Both times the letter asked that something be added to the household, and both times it was done inside the week." He looked up. "I was glad to. I would like you to have heard me say that part."
 
-*Nobody paid a fee for hers, because it was not a service. It was a term.*
+"What did you add?"
 
----
-
-*He did not buy a person. He bought a person who does not appear anywhere, and the second half of that came free with the first.*
-
-* * *
-
-He has been in a room three floors under an empty shopping complex in Gangnam where a woman at the back raised her hand and said a number.
+"The first time, a doctor." He put one finger beside the six characters and did not touch them. "The second time, a flat."
 
 ---
 
-He did not do the arithmetic in the shop, and he did not do it in the car, and he had it anyway before he got to the end of the street.
+Georgij sat in a small room at the back of a restaurant and understood that he was watching a man arrive somewhere.
+
+"The flat in Seodaemun," said Sim.
+
+"Yes."
+
+"I go there three or four times a year and I empty the letterbox, and I have done it since the summer four years ago. I was asked to do it in a letter which said that her affairs should be kept in order against her return." He said the phrase without any weight at all, the way a man says a sentence he has been carrying in his own handwriting. "There is a woman on the ground floor who grows things in pots. I have asked her about them every time I have gone, because she is on her own and nobody asks her anything."
+
+"I have met her," said Georgij.
+
+"I know you have. She told me." Sim did look up then. "She told me exactly what you looked like and exactly what you asked, and she did not leave anything out, and she was not frightened. I have thought about that a great deal in three weeks, because it is not how people are with me."
 
 ---
 
-A bit over a quarter.
+Georgij did not tell him why, and it was one of the two hardest things he did that evening.
 
-"They weren't the sort who break things," he said. "They were the sort who sit in the shop. Three afternoons. Bought a fan off me on the second one and paid for it, and I gave them the guarantee card with it, because that's what you do."
-
-Georgij did not look at the fan.
-
-"Sunday she came round. I told her." He looked at the fan and not at Georgij. "Took about a minute. I've told her everything since we were small. There's no work in it."
+"Whose flat did you think it was," he said instead.
 
 ---
 
-He turned the fan housing over on the bench and did not look inside it.
+Sim put both hands flat on the table on either side of the page.
 
-"Thursday she's back. Name, address, the whole thing arranged." Mr Ahn set a screw down and squared it up with one finger. "Four days. I've had a bearing take longer than four days to come in. And she never asked me."
+"Hers," he said. "The woman who is ill. I have never once asked myself why a woman who has been in a house in the country for eleven years would have a flat that was added to the arrangement seven years after she went there."
 
 ---
 
 Neither of them said anything.
 
-"Thirty-one. Worked in an office. Flat four streets up the hill." Mr Ahn had not moved the screw again. "I've had four years to go over it and I've gone over it. She wasn't desperate. Nobody made her."
+"It is not hers," said Sim.
 
-"Then why?"
+"No."
 
-"Because she's the sort who fixes the thing in front of her." He put one hand flat on the fan. "That's the whole of it. And the thing in front of her was me."
+"It belongs to the person on that invoice."
 
-"Did you know what the house was," said Georgij.
+"I believe so. I cannot prove it, and I have written down twice that I cannot, and I am not going to sit at this table and tell you it is proved."
+
+"Do not do that." It came out of him at last, and it was not loud, and it was the first thing he had said all evening that had not been arranged. "I have spent thirty years being handed the version that is comfortable to carry. You are the first person in eleven years who has put a piece of paper in front of me and let me read it. Do not start being kind to me at the end of it."
 
 ---
 
-Mr Ahn did not answer straight away.
+He did not eat anything.
 
-"You have been careful with me for six minutes," he said, "and you can stop."
+---
 
-"Did you know what the house was?"
+Georgij noticed it at about twenty past nine, and once he had noticed it he could not stop noticing it. The soup went cold in front of a man who has complimented a cook in every room he ever sat in. He had ordered it before Georgij arrived, and he had said it was the reason to come.
+
+---
+
+There is one other man in this story who does not eat in front of the person he is working on.
+
+---
+
+Georgij did not say that out loud. He wrote it on the back of the envelope afterward, in the car, and he has not decided yet whether it was a kindness or a failure of nerve.
+
+"There is one more thing," said Georgij, "and then you have everything I have."
+
+Sim did not tell him to stop.
+
+"That house had no oxygen in it until the July on that invoice." He said it without arranging it at all. "A tank in a private house has to be told to the fire authority. The filing is one event. There is nothing before it. It has never been renewed as new and it has never been cancelled."
+
+---
+
+Sim did not move for a long moment.
+
+"Eleven years of flowers," he said.
 
 "Yes."
 
----
+"And seven of them with nothing in that house at all." He was not asking. "No tank. No doctor. Nobody driving four hours to get there."
 
-The bell over the door did not ring and nobody came in, and the afternoon went on outside.
-
-"Not the details." Mr Ahn had his hand on the fan again. "I didn't know what a lot number was till you said consignment just now. Took me a second and a half. That's the only new thing that's happened to me in four years."
-
-"But you knew the sort of place."
-
-"She told me. Straight out, sitting where you are." He turned the housing a quarter turn and stopped. "She's never once made a thing sound better than it was. Not since we were small."
-
-"And you let her."
-
-"I signed the form."
+"Nothing that anybody is required to write down."
 
 ---
 
-He said that flatly and then he stopped, and the stopping was the worst part of the afternoon.
+Sim put one hand flat on the table beside the page and left it there.
 
-"She couldn't sign it," he said, after a while. "That's how it's done. Whoever goes in doesn't sign. It has to be family or it doesn't go through."
+"She was not worse."
 
----
+"I have not said that."
 
-He wiped his hands on the cloth on the bench, which did not need doing.
-
-"She'd known that since before the Thursday. Four days she had it. And she told me in the corridor."
+"You have not said a great many things this evening and I have understood every one of them." It came out level and it did not stay level all the way to the end. "Somebody arrived. Everything that was described to me as an illness arrived in the same month as the somebody. I put two of those things there myself, and I was glad to, and I have just said so out loud in front of you."
 
 ---
 
-Georgij did not say anything at all.
+He had arranged that household for eleven years and had never once been given a reason to ask, and it took one page and nine minutes.
 
-"So the name on your form's mine," said Mr Ahn. "Anybody who ever looks at it, for the rest of time, sees a man who walked his sister into a building."
+"You were not slow," said Georgij.
 
----
+"Do not."
 
-He said the next part without any weight on it at all.
+"I am going to, and then I will stop." He did not soften any of it. "A man who is told she is worse has an explanation for a doctor, a tank, four more staff and a flat. It covers every fact he can see. It is the only one he was ever offered."
 
-"That's correct. That's what it says and that's what I did. Four years I've had. I've never once found a sentence that turns it into something else."
+"You will not stop in the middle. Half of this is worse than none."
 
----
-
-*Do not take it off him.*
+"You did not fail to work it out. You were answered before you had a question."
 
 ---
 
-Georgij had written that at nine o'clock in the morning and he read it in his own head at four in the afternoon, and it held, and he found that it cost him more than he had expected.
+Sim was quiet for about four seconds.
 
----
-
-Because there is a sentence. He had it inside twenty seconds of hearing the word corridor.
-
----
-
-She did not tell him until they were already there, because she knew exactly what he would have done if she had told him on the Thursday. She had four days to decide that and she used all four.
-
----
-
-That is not a man who walked his sister into a building. That is a man who was walked into one beside her.
-
----
-
-He did not say it.
-
----
-
-He has taken six people's explanations off them since June and every one of them was better off afterward. This one would have been as well. He stood in a repair shop and did not do it, and the reason was not kindness.
-
----
-
-*If I say that to him, he will believe it, because it is true and because he is looking at me the way people look at somebody who has come a long way with a piece of paper. And he will believe it because I said it, and not because he found it.*
-
-*He has had four years and eleven months on his own with this. He gets to find it.*
-
-"There is one thing you have not asked me," said Georgij, at the door.
-
-"I know what it is."
-
-"Then I will wait."
-
----
-
-Mr Ahn stood up from the stool and did not come round the bench.
-
-"Is she alive?"
-
----
-
-Georgij took the length of time it deserved.
-
-"I do not know," he said. "That is the true answer and it is the whole of it. I have not seen her and I have not spoken to anybody who has, and I am not going to stand in your shop and give you a comfortable thing I cannot prove."
-
-"But."
-
-"But I have not come four streets from her flat to find out her name because I think she is dead."
-
----
-
-Mr Ahn put one hand on the bench.
-
-"That is not nothing," he said.
-
-"No. It is also not much, and I would like you to hold it in that size and not in a bigger one, because a bigger one will take up the whole of your autumn."
-
----
-
-At the door there was one more thing, and it was Mr Ahn who did it.
-
-"You are the same," he said.
-
----
-
-Georgij stopped with his hand on the frame.
-
-"What you mean."
-
-"You have stood in my shop for twenty minutes and you have not once told me a lie and you have not once told me the whole of anything." Mr Ahn was not accusing him. "And you came in here and said a woman on the river employs you and then said you were not here for her, and both of those were true, and neither of them was an answer."
-
-"That is accurate."
-
-"I fix things people bring in. I'm not clever." He picked the screwdriver back up and did not use it. "But I've sat in a room with somebody who was arranging a thing for somebody else and had already decided what she wasn't going to say. Didn't notice it at the time."
-
----
-
-He put the screwdriver down again, in the same place.
-
-"Four years is a long time to learn what that looks like from outside. I'd have had it in an afternoon if I'd been looking."
-
----
-
-Georgij stood in the doorway of a repair shop and took that in the size it was.
-
-"Then I will give you one whole thing," he said, "and it is the only one I have got."
-
-"Go on."
-
-"Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and they are the ones who are going to be surprised by that."
+"That is the kindest thing anybody has said to me in eleven years," he said, "and you have made certain that it is also true, and I cannot get the two of them apart. I have been getting those two apart professionally since before you were born."
 
 * * *
 
-He walked back the four streets rather than taking the car, and it is downhill in that direction, and it took eight minutes.
+"I am not going to give you him," said Sim.
+
+"I have not asked you for him."
+
+"You have not, and you are not going to, and we both know that is a technique as well as a courtesy." He straightened the page again, a fraction, with one finger. "I will tell you why not, because you have earned the reason and not the thing. He took me out of a place I would not have got out of on my own. He did it before he needed me and he has never once mentioned it in thirty years, and I do not know whether that is because he is decent or because he knew he would not have to."
+
+"Those look identical from where you are sitting."
+
+"They have looked identical for thirty years," said Sim. "Tonight is the first evening they have not."
 
 ---
 
-He stood outside a building with eight flats and a lift bolted onto the outside and looked up at the fourth floor on the left, at a window with the inside of the glass gone the colour glass goes.
+Then he straightened his cuff, which is a thing he does before he arranges something.
+
+"I am going to give you something else."
+
+"I have not asked for that either."
+
+"No, and you are going to let me finish, because I have spent thirty years being the man who arranges things in every room he sits in, and I would like to do it once more this evening." He was entirely courteous about it. "You cannot add a doctor to a household from a table in Seoul. You cannot add a flat either. Somebody in that house takes the telephone call and says yes. Somebody in that house lets the man in at the gate."
 
 ---
 
-*Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.*
+Georgij kept both hands where they were.
 
-*She worked in an office and lived on the fourth floor and walked up that hill to her brother's shop. On a Thursday in January she came back with a name, an address, and an arrangement she had made entirely by herself. She did not tell him the part about the signature until they were standing in the corridor.*
+"I have spoken to the same person for four years," said Sim. "About the heating. About whether the second bathroom was worth doing. About a woman I have never met, in a house I have never been to."
 
-*Somebody in this business has been calling her a quantity of groceries for five weeks. It was me.*
+"That person is not him."
 
----
-
-He put the notebook away without writing the last line, and wrote it that night instead, when he had stopped being able to put it off.
+"That person has never been him, and has never once pretended to be, and would not know how." Sim took a pen out of his inside pocket, which is where the envelope had been in Georgij's. "I am going to write it down now, before eleven o'clock, because at eleven o'clock I am going to be a man who has had time to think about it."
 
 ---
 
-*I have known since June that there was a person in that house.*
+He put one hand on the page and pushed it back across the table, and Georgij did not take it.
 
-*I found out this afternoon that there is a person who knows what she is like, and he has known the whole time. Nobody has asked him in four years, because everybody who has looked at this has been looking for who took her.*
+"Keep it," said Georgij. "It is a copy. There is one more and it is with the man who kept it for four years without knowing why."
 
-*Her brother has been sitting in a shop on a corner with her name in his mouth since the spring of that year, four streets away, on the bus route, in the telephone book.*
+---
+
+Sim looked at the page for a long moment and then folded it once, along a crease it did not have, and put it in his inside pocket.
+
+"What will you do," said Georgij.
+
+"Nothing further tonight. I have already done the one thing I was going to do, and I did it before I could think better of it." Sim stood up, and put both hands on the back of his chair, and did not push it in. "Then I am going to go home and sit up. I keep everything. Eleven years of letters, and two of them said she was worse, and I am going to find out what else was in those two."
+
+"And then."
+
+"And then I will know how much of my life was a courtesy and how much of it was a method." He was entirely level. "I would like you to understand that I may find out that it was a method and go on anyway. Men do."
+
+"I know they do."
+
+"Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and it was not a performance either. "You are the only person I have met in thirty years who would have said so instead of telling me I would not."
+
+---
+
+He picked up neither bowl and left both.
+
+---
+
+At the doorway he stopped, with the folded screen beside him, and he did the thing that Georgij had written down on Friday night and had not been able to prepare for.
+
+"May I ask you one thing that is nothing to do with any of it," he said.
+
+"You may ask."
+
+"Are you all right?"
+
+---
+
+Georgij stood in a small room at the back of a restaurant with a cold bowl in front of him and found that he had no arrangement at all for that.
+
+"No," he said.
+
+"No," said Sim. "I did not think so."
+
+---
+
+He had paid at half past seven, before the meal, as he always does. The girl at the front told Georgij so on his way past, because she thought he would want to know that it was already settled.

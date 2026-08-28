@@ -1,240 +1,220 @@
-# Chapter 44: The sixth one
+# Chapter 44: Twelve white stems
 *Lot Fourteen* · Version 1.5 · EN
 
-## Day Three Hundred · Thursday 30 July
+## Day Two Hundred and Eighty-Eight · Saturday 18 July
 
-The second delivery came on the Thursday, at the same hour as the first, to the same gate, and Mrs Seo did not carry it at arm's length this time. She carried it the way a woman carries a thing she has been half expecting for twelve days.
+Mrs Seo brought them into the small room at ten past nine in the morning, holding them slightly away from herself, the way a woman holds a thing she has already decided she does not like.
 
----
-
-Twelve white stems. No wrap.
-
-"There is a card," she said.
+"These came to the gate," she said. "There is no card."
 
 ---
 
-It is a plain card, the size the shops keep behind the counter, and it has four lines on it in a hand that has been taught rather than allowed to develop.
+Twelve white stems.
+
+No wrap.
 
 ---
 
-*Saturday. Eight o'clock.*
+Georgij stood up before he had decided to.
 
-Then the name of a restaurant, and a district, and the words *the small room at the back*.
+"Exactly what the man at the gate said."
 
-And underneath, on the fourth line:
+"That they were for the house." Mrs Seo did not put them down. "He was a delivery boy on a scooter and he was about nineteen and he had a docket, and the docket said the house and nothing else. He asked me to sign and I signed and he went."
 
-*I have taken the room for the whole evening, so there is no hurry.*
+"Do you have the docket?"
 
----
+"He kept it. They keep it." She looked at the flowers and then at him. "You have gone the colour you went in March."
 
-No name. No initial. No question.
-
----
-
-Georgij read it four times and did not touch anything else on the desk for a while.
+"Put them on the desk and leave the door open, and do not throw them away."
 
 ---
 
-He knew the restaurant before he had finished the second line, and knowing it was the whole of the message and everything else on the card was politeness.
+She put them on the desk and left the door open, and did not go far.
 
 ---
 
-There were six kitchens on the list he had made on a Sunday evening in June. He went to five of them. He stopped at five because he had put a number on it in front of Annie and written it down. Stopping under a number is not the same as going over one, and he had written that as well.
+He did not touch them for a while.
 
 ---
 
-*Five of six. The sixth is not cancelled, it is unspent.*
+Twelve white stems, no wrap. It is written twice in a carbon book in a shop in Hyoja-dong, on the sixth of April and the twenty-seventh of April, four years ago. The hand is that of a man who copied cards into a register, because a card is the only part of it anybody keeps. It was ordered by telephone both times by a man who called himself Sim and told a woman he had never spoken to in his life that it was good to see her again.
 
 ---
 
-The card names the sixth.
+There is no card on the desk in the small room, and the absence of it is the message, because a card is the part that anybody keeps.
 
 ---
 
-Georgij sat with that for a long time, and he did not enjoy any part of it, and he made himself go through it properly rather than admiring the shape of it.
+Georgij sat down and put both hands flat on either side of the flowers and worked it through in order, the way he would have if it had happened to somebody else.
 
 ---
 
-*He knows there were six. He knows which five. He has spoken to enough of them to be able to count. Then he has looked at what is left, worked out which one I was going to walk into next, and taken it for a whole evening.*
+It is not a threat. A threat has an instruction in it, and this has none, and a man who wanted something would have asked.
 
-*He is not showing me that he is clever. He is showing me that he can count as well as I can, in the same trade, faster, and that he has been doing it for longer.*
-
----
-
-Annie read the card without picking it up, twice, and put one finger on the fourth line.
-
-"That is the sentence," she said.
-
-"It is."
-
-"Say it, because I want to hear whether we have got the same one."
-
-"He has taken the room for the whole evening so that there is no hurry." Georgij had his hands on the back of the chair. "There is one reason a man books a room for a whole evening for two people. He does not know how long it is going to take, and he has decided that whatever it takes is what he is going to give it."
-
-"That is a man who intends to talk."
-
-"That is a man who has already decided to talk and is telling me so on a card, a fortnight after he found out I exist." He did not sit down. "And he is not asking me for anything in exchange, and he has not put his name on it, and he has not said what it is about."
+It is not a warning either, because a warning is a thing you send to somebody you would prefer to stop, and there is nothing in twelve stems that would stop anybody.
 
 ---
 
-Annie stood back from the desk.
-
-"Then say the other reading, because there is one and you have had it since ten past nine."
-
-"The other reading is that a man who has been useful to somebody dangerous for eleven years has more than one way of solving a problem. A room at the back with no hurry is also a room at the back with no hurry." Georgij said it without any weight on it. "I do not believe it, and I am going to say why, and then I am going to say the part where I could be wrong."
-
-Georgij waited with the receiver against his ear.
-
-"He asked Mrs Bae one question, and it was what I looked like. If a man in that position wanted the other thing, he would not need a room, a card, or a date. He would need an address, and he has had this one for twelve days."
+It is an acknowledgement.
 
 ---
 
-Annie let that stand.
+*I know that you found the slips. I know which shop, and I know which order, and I know you counted the stems. I know where you live and I have sent something to the gate of it and a girl signed for it.*
 
-"And the part where you could be wrong."
-
-"That I like the shape of it," said Georgij. "It is a beautiful piece of work and I have been admiring it since breakfast, and a man who is admiring a thing is not examining it. You have told me twice this month that I have started deciding what things are before I know."
-
-"Three times," said Annie.
-
-"Three times."
+*And I have not put my name on it, because you already have my name, and we both know it is not mine.*
 
 ---
 
-She did not tell him not to go, and he had known she would not, and he found that he had been braced for it anyway.
-
-"You are going," she said.
-
-"I am."
-
-"Then here is what I want, and it is not a condition, because I am not going to start pretending I have a way of making you keep one."
-
-"Yes, Mistress."
-
-"Mr Ku takes you and Mr Ku stays outside for the whole of it, and he is not there to protect you, because he is a driver and a driver is not that." She had both hands at her sides. "He is there so that at eleven o'clock somebody in the world knows the difference between a conversation that ran long and one that did not end."
-
-"Yes, Mistress."
-
-"And you take nothing in your pockets that anybody could take out of them." Annie looked at the card. "Not the notebook, not the list, and not that page."
+Working out how it had happened took him under a quarter of an hour and he did not enjoy any of it.
 
 ---
 
-Georgij did not answer straight away.
-
-"I need the page," he said.
-
-"You need what is on the page. There is a difference and you have known it since the day you told me the difference between a struck line and a person."
+He went at it the way he goes at anything, which is backward from the thing that happened. There were only ever going to be five candidates, because five kitchens in this country know that a man has been asking.
 
 ---
 
-He stood with that for a moment.
+Four of them know a description and a question.
 
-"A copy," he said. "One copy of the one page, in an envelope, and nothing else in the envelope, and it comes back with me or it stays on that table and I do not mind which."
-
-"That is what I meant."
-
-"And Baek Jun-ho does not find out that a copy left this house until after Saturday, because if it goes wrong he will hear it from me and not from a man in a restaurant."
+One of them knows a description, a question, and that the man who asked was telling her the truth about why he had come. He stood in front of her desk and told her, in a sentence he had chosen on the walk over.
 
 ---
 
-Annie nodded once, and that was the whole of the negotiation.
+Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgotten a booking.
+
+A booking has a telephone number on it, because a room held for a Tuesday is a room somebody has to be able to ring about.
+
+---
+
+Georgij sat with that for a moment and then wrote it down without softening a single part of it.
+
+---
+
+*She gave me nine years of a customer because I described him before I asked and because everything I said was true. She has thought about that every night since the twenty-second of June, and on one of those nights she picked up the telephone, and she was entitled to.*
+
+*I did not make her a promise, and she did not make me one. I walked out of there having taken something off a woman who keeps a book in pencil, and I did not once ask myself what she was going to do with the evening afterward.*
+
+---
+
+He did not write the other version. That he had done it correctly, that honesty was the reason she had answered at all, and that no route to Sim existed which did not run through somebody who would afterward have to live with it.
+
+He did not write it because it is true, and because writing down the true thing that lets you off is how a man starts keeping a different sort of book.
 
 * * *
 
-He telephoned Sang-hoon on the Friday morning, because a man who has been told something in a room on Tuesday is owed the sentence that makes it wrong.
+Annie came in at half past ten and did not comment on the flowers for a full minute, which is how he knew she had seen them from the corridor.
 
-"You told me not to do it in a restaurant," said Georgij.
+"Say what they are," she said.
 
-"I did."
-
-"It is a restaurant. I have not chosen it and I am not able to change it, and I would rather you heard that from me on a Friday than worked it out afterward."
+"Twelve white stems, no wrap. It is the order from Hyoja-dong, both slips, four years ago." Georgij had not moved from the desk. "There is no card, and the missing card is the entire message, because a card is the only part of it anybody keeps. He said that himself, four years ago, through a man who wrote it down."
 
 ---
 
-There was a pause on the line that was not the line.
+Annie went and stood over them and did not touch them either.
 
-"Say who chose it."
+"They came to the gate of my house," she said.
 
-"He did. He has taken the room for the whole evening." Georgij stood in the corridor with the receiver against his ear. "It is the sixth of the six kitchens I made a list of in June. I went to five and stopped, and I wrote down that the sixth was unspent, and on Thursday morning a card arrived with the sixth on it."
+"They did."
+
+"Then say the rest of it, because you have had an hour and a half and you have not been sitting there admiring them."
+
+"Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. She has his booking number because he books. She gave me nine years of a customer on the twenty-second of June because I told her the truth about why I was there, and she has had three and a half weeks to be sorry about it."
+
+"And you did not see it coming."
+
+"I saw that it might come. I did not put a number on it and I did not tell you, and those are two different failures and I would like both of them on the table."
 
 ---
 
-Sang-hoon did not say anything for long enough that Georgij could hear the yard behind him.
+Annie looked at him for a while.
 
-"Then he has been counting you," he said.
+"Say what he knows."
 
-"He has been counting me since about the fifteenth, and he has done it out of the same trade I was counting him from, and he was faster." Georgij did not decorate it. "I have had that in front of me since Thursday and I have not found a way to make it smaller."
+"He knows a man has been asking in kitchens. He knows the man went to Seodaemun on Monday and stood in an entrance hall, because I told a woman with a watering can to tell him everything." Georgij kept his hands where they were. "And he knows this house, and I am not going to pretend that took him any cleverness at all. A man who has spent nine years being liked in private rooms asks four people who a well-dressed man with a foreign face works for, and the fourth one tells him without knowing he has told him."
 
-"Do not make it smaller. You are going to need it exactly that size at eight o'clock tomorrow." Something moved on the other end, a chair. "I am going to offer you a thing and you are going to say no to it, and I would like to have offered it anyway."
+"Then he has known since about Wednesday."
 
-"Offer it."
+"Since about Wednesday."
 
-"I can have four men within a hundred metres of that door for the whole of the evening, and not one of them would come in unless the room went quiet."
+---
 
-"No," said Georgij.
+Annie sat down on the edge of the desk, on the side away from the flowers.
 
-"Say why, properly."
+"What has he not done," she said.
 
-"Because he would know inside a minute." He kept his hand where it was. "That man reads rooms for a living and he has read that street before he booked it. If there are four strangers on it who were not there on Wednesday, he sits down at that table already knowing that I brought a crowd to a conversation. Everything I want out of that hour is gone before either of us has spoken."
+---
 
-"That is the answer I expected and I still wish it were the other one." Sang-hoon let it sit. "Then I will tell you the useful part instead, and it is not about tomorrow."
+Georgij looked up at her then, because it was the right question and because it was not the one he had been braced for.
 
-"The rest of that sentence."
+"He has not told Choi Dae-ho," he said slowly.
 
-"I have sat opposite that man once, at a table, and I did not know what he was, and I went home pleased." He said it flatly. "You are going to sit opposite him knowing exactly what he is, and you are going to go home in some state I cannot predict, and the difference between those two evenings is that you chose yours."
+"Say why you think that."
+
+"Because if he had, this would not be flowers." He worked it out as he said it, which he does not usually allow himself in front of her. "If that man knew, the correct move is nothing at all. He goes quiet, everything he touches goes quiet, and I stand in a corridor for the rest of the year finding out that every road I have has gone cold on the same Tuesday. That is what he does. He has done it once already this year, in April, in a kitchen."
+
+"And instead you have flowers."
+
+"Instead I have flowers, which is a man doing something on his own account, in his own style, without asking anybody." Georgij put one finger on the desk beside the stems. "He is not telling his employer that he was seen. A man whose entire value is that nobody can describe him does not go upstairs and report that three people can describe him."
+
+---
+
+Annie let that sit.
+
+"That is the first thing anybody on that side has done for their own reasons and not his," she said.
 
 "Yes."
 
-"Then whatever happens in that room, it is not the same as what happened in mine, and I would like you to have that in your pocket, since you are not taking anything else."
+"Then it is also the first crack." She said it without any pleasure in it at all. "Not a weakness. A seam. Those are different and you will want to remember which one this is in about a fortnight."
 
 ---
 
-He spent Friday not preparing, which took more out of him than preparing would have.
+They did not throw the flowers away.
 
 ---
 
-He had learned that in December, in a car outside a house in Seongbuk, waiting to say four sentences to a man who ran a shipping line. A room where the other person has decided to talk is a room you can lose by arriving with a speech. There is no version of Saturday that goes well if he walks in having rehearsed the middle of it.
+Annie had them put in water in the small room, on the corner of the desk, where Georgij works, and she said why in one sentence and did not elaborate on it.
+
+"If I put them in the hall I am pretending they are flowers, and if I put them in the bin I am telling him they arrived."
 
 ---
 
-So he read the page again, twice, and did not write out a single sentence to say about it.
+Georgij wrote the day up before lunch, and it took him three attempts, because the first two were about Sim and the third one was not.
 
 ---
 
-On Friday evening he did the one piece of preparation he permitted himself. It was a decision rather than a sentence, and he wrote it down so that it would still be there on Sunday, when he found out whether he had kept it.
+*Page two, and it is the worst line on it: this house, since Wednesday, and there is nobody I can put next to it who made it happen except me.*
 
 ---
 
-*I am not going to accuse him of anything.*
-
-*I am not going to tell him what he has done. I am going to put one page on a table and let a man who has been reading paper for thirty years read it, and I am going to say nothing at all until he has finished.*
-
-*Everything I want out of that room depends on him getting there before I do.*
+Then, underneath:
 
 ---
 
-He looked at that for a while, because there was a second half and he had been not writing it since Thursday morning.
+*Mrs Bae, and she is not on page two, she is on page one, because she is not somebody who found out. She is somebody who acted. I have been keeping a list of people who know and I have not been keeping one of people who decide, and those are not the same list and I have needed the second one since June.*
 
 ---
 
-*And he is going to be pleasant to me. He is going to ask me something about myself, and he is going to mean it, and I am going to want to answer him.*
-
-*That is the trap, and it is not one he has set. It is simply what he is.*
-
-* * *
-
-Mrs Seo put the second twelve stems in water beside the first twelve, without being told, on the corner of the desk in the small room.
+He started it at the bottom of the page, with two names on it, and the second one was his own.
 
 ---
 
-The first lot are twelve days old now and are doing what flowers do at twelve days.
+*People who did something because of what I told them.*
+
+*Mrs Bae, 23 June. Telephoned a man.*
+
+*A woman with a watering can, 13 July. Will tell him everything, and I asked her to.*
 
 ---
 
-She did not throw them out either, and nobody in the house had told her not to, and Georgij noticed that on the Friday night and did not know what to do with it except write it down.
+He looked at the second entry for a long time.
 
 ---
 
-*Two dozen white stems on one desk, one lot dying and one lot not yet. A woman who has worked in this house for nine years has decided on her own that neither of them goes in the bin.*
+He had put her there on purpose. It had been the right thing and he would do it again, and it had also been the fastest way to tell a careful man that he had been found.
 
-*Everybody in this building has understood what those flowers are. Nobody has said a word about them to me except the two people who had to.*
+Both of those are true. There is no arrangement of them in which only one is.
+
+---
+
+*I did not have four days. I said so at the time and it was true.*
+
+*And I have just found out what I bought with them, and it was a Saturday morning with twelve stems on my desk and her name at the gate for the first time this year.*

@@ -598,12 +598,12 @@ Daten erfunden waren und nie in einem Satz standen - sie liegen jetzt hinter dem
 1. September. Der Text bleibt unangetastet und behaelt recht.
 
 **Und einer ist kein Buchhaltungsposten mehr:** Park Sang-hoons Geburtstag steht
-**im Buch** und nicht in dieser Tabelle. In `b2 ch43`, am Tag 298: *"It was
+**im Buch** und nicht in dieser Tabelle. In `b2 ch47`, am Tag 298: *"It was
 Monday. It was my birthday. I did not want to spend the whole of it being sixty
 in a restaurant."* Der Montag davor ist Tag 297, **Montag der 27. Juli 2026**,
 und seither ist er sechzig.
 
-**Genau deshalb ist er am 28.08. um fuenf Monate gealtert.** In `b2 ch71`, am
+**Genau deshalb ist er am 28.08. um fuenf Monate gealtert.** In `b2 ch75`, am
 Tag 453, dem **30. Dezember**, stand noch *"I am going to go and be fifty-nine
 at somebody"*. Das war fuenf Monate nach seinem sechzigsten. Die Zeile heisst
 jetzt **sixty**, und ch71 steht auf v3.5.
@@ -638,10 +638,10 @@ Geburtstag und nicht der Text.
 
 | Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
 |---|---|---|---|---|
-| Baek Jun-ho | dreiundsechzig | b2 K56, 15. Oktober | 26. September | **10. November** |
-| Mrs Jeon Mi-ja | einundfuenfzig | b2 K60, 1. November | 24. Juli | **15. November** |
-| Mrs Sunwoo | einundachtzig | b2 K63, 11. November | 29. September | **17. November** |
-| Choi Dae-ho | neunundfuenfzig | b2 K82, 6. November | 8. September | **18. November** |
+| Baek Jun-ho | dreiundsechzig | b2 K60, 15. Oktober | 26. September | **10. November** |
+| Mrs Jeon Mi-ja | einundfuenfzig | b2 K64, 1. November | 24. Juli | **15. November** |
+| Mrs Sunwoo | einundachtzig | b2 K67, 11. November | 29. September | **17. November** |
+| Choi Dae-ho | neunundfuenfzig | b2 K86, 6. November | 8. September | **18. November** |
 
 **Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
 Georgijs Geburtstag ist der 28. Juni.** Der Widerspruch selbst ist damit
@@ -666,7 +666,7 @@ allerdings noch nicht weg, siehe die zwei Wege unten - ein Geburtstag sagt,
     I do not accuse him of anything, because he has never once claimed
     anything."* **Damit ist es zugleich die groesste Heft-Entnahme des Buches**
     - ein Plan, im Mai abgelegt und im November geholt.
-  - **DAS VERSPRECHEN VOM 23. APRIL IST GEHALTEN.** In b2 K82 dreht er die
+  - **DAS VERSPRECHEN VOM 23. APRIL IST GEHALTEN.** In b2 K86 dreht er die
     Bedeutung von *nehmen*: Choi besitzt nichts, also ist ihm nichts
     **abzunehmen**, und Annies Einwand bleibt richtig. **Wegzunehmen** sind ihm
     die neun Leute, die nicht wissen, was er ihnen angetan hat. Auf ihre Frage
@@ -1112,12 +1112,12 @@ behaelt *five weeks*: das ist die zusammenfassende Erzaehlung danach und
 keine Gleichsetzung. Kapitel 66 steht auf v3.3.
 
 **Und eine Spanne bleibt gemeldet, ohne ein Fehler zu sein.** `spanne.py`
-zeigt `b2 ch75:98`: Los sechs geht am 12. Februar ins Buch, die Auktion ist
+zeigt `b2 ch79:98`: Los sechs geht am 12. Februar ins Buch, die Auktion ist
 am 28. Maerz, und der Satz sagt *open for seven weeks* - das sind
 vierundvierzig Tage gegen neunundvierzig. Es geht auf, weil die sieben
 Wochen nicht bis zur Auktion laufen, sondern bis zum Ausscheiden aus dem
 Buch: das Los **hat nicht zugeschlagen** und stand danach weiter drin.
-`b2 ch48:266` sagt dasselbe unabhaengig - *stayed in it for seven weeks*.
+`b2 ch52:266` sagt dasselbe unabhaengig - *stayed in it for seven weeks*.
 Wer diese Meldung wegmachen will, muesste einen der beiden Saetze
 faelschen.
 
@@ -1125,7 +1125,7 @@ faelschen.
 
 Die Hochzeit ist *in der zweiten Aprilwoche vor elf Jahren*, der Trust wird
 *in der zweiten Maerzwoche vor elf Jahren* errichtet. **Die Formel steht
-rund zwanzigmal im Buch**, und ein Kapitel traegt sie im Titel: `b2 ch56`,
+rund zwanzigmal im Buch**, und ein Kapitel traegt sie im Titel: `b2 ch60`,
 *Eleven years of paying for it*.
 
 **Das Problem, und es ist echt.** Der Satz faellt aus Kapiteln, die im Juni
@@ -1206,3 +1206,54 @@ Der dritte ist der teuerste, weil er die beiden anderen Pruefungen
 unbemerkt abgeschaltet haette. Nach jeder Aenderung an einem dieser Skripte
 gilt derselbe Satz wie fuer den Text: einmal absichtlich kaputtmachen und
 nachsehen, ob es feuert.
+
+## Band 2 wird 89 Kapitel: ch26 und ch29 sind je drei geworden
+
+**Am 28.08. ausgefuehrt.** Gegen einen Median von **2.512 Woertern** stand
+ch29 bei **7.395** und ch26 bei **6.716**. ch35 ist am selben Tag bei 7.940
+geteilt worden; diese zwei waren die letzten daneben.
+
+**ch26 war der auffaelligere Fall:** sechstausendsiebenhundert Woerter ueber
+zwei Tage mit **einem einzigen Szenentrenner**.
+
+| alt | neu | Tag | Woerter | Titel |
+|---|---|---|---|---|
+| 26 | **26** | 237 | 2.396 | *The same sort of man* |
+| 26 | **27** | 238 | 2.424 | *She has a list* |
+| 26 | **28** | 238 | 1.912 | *A practice keeps records* |
+| 29 | **31** | 243 | 1.506 | *The drawer that locks* |
+| 29 | **32** | 244 | 3.995 | *Two witnesses* |
+| 29 | **33** | 245 | 1.918 | *Whose four days* |
+
+**Geschnitten wurde an den Tagesgrenzen**, plus bei ch26 an dem einen
+vorhandenen Trenner, hinter dem ein Orts- und Stundenwechsel steht: *He got
+back to the house at twenty past seven and went straight in.* **Kein Wort ist
+geaendert worden** - die Probe hat beide Staende Wort fuer Wort verglichen,
+221.569 zu 221.569.
+
+**Die Titel sind aus dem jeweiligen Teil genommen**, wie im ganzen Buch.
+*The same sort of man* ist Hwangs Satz, *A practice keeps records* faellt
+zweimal hintereinander, *Whose four days* ist die Frage, mit der das Kapitel
+endet.
+
+**Fassungsnummern nach der Konvention der ch35-Teilung:** Hauptnummer plus
+eins, Nebennummer null, fuer alle Teile.
+
+### Was die Teilung an Verweisen gekostet hat, gemessen
+
+Alles ab dem alten ch27 rueckt um zwei, alles ab dem alten ch30 um vier.
+
+* **36 Schuldbuchadressen** neu gegen ihr woertliches Zitat gestellt.
+* **18 Verweise** der Form `b2 chNN` in `doc/`.
+* **163 Verweise** der Form `b2 KNN`, plus **19**, die auf die geteilten
+  Kapitel zeigen und jetzt `(geteilt)` tragen.
+
+**Und eine Annahme ist dabei an der Stichprobe zerbrochen**, was hier steht,
+weil sie beim naechsten Mal wiederkommt. Ich hatte angenommen, die
+`b2 KNN`-Verweise stuenden noch auf der Zaehlung vom 27.08. und brauchten
+**+6**. `doc/11-figuren.md` sagt aber *"Choi hat im ganzen Buch keine Replik
+ausser in b2 K82"*, und Chois einzige Szene ist heute ch86 und nicht ch88.
+Sie standen also laengst auf der 85er-Zaehlung. **Ein Lauf mit +6 haette
+hundertdreiundsechzig richtige Verweise zerlegt**, und keine Pruefung im Haus
+haette es gemeldet.
+

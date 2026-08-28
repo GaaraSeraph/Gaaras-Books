@@ -8,9 +8,9 @@ hierher, sobald jemand sie durchgeht.
 
 **Bekannt und noch nicht eingetragen:** der Umschlag mit Chairman Woos vier
 Antworten, der beim Anwalt liegt und **am Tag seines Todes** faellig wird
-(b2 K76) - der einzige Faden im Buch mit einem Termin, den niemand
+(b2 K80) - der einzige Faden im Buch mit einem Termin, den niemand
 nachschlagen kann. Und die **achtundfuenfzig Namen** hinten in Georgijs
-Notizbuch (b2 K61), von denen es heisst, das werde Jahre dauern.
+Notizbuch (b2 K65), von denen es heisst, das werde Jahre dauern.
 
 ---
 
@@ -62,15 +62,15 @@ beide Baende und wird nie geoeffnet.
 | `b1 ch13:210` | **Chairman Woo reagiert nicht auf Hongkong**, und das ist eine eigene Zeile |
 | `b1 ch19:162` | Woo: zwanzig Prozent des Terminals schuldet er seit dem Baujahr einem Fonds aus derselben Kette |
 | `b2 ch25:152` | Choi ist Direktor einer Private-Equity-Firma in Hongkong **ueber genau diese Kette** |
-| `b2 ch29:374` | Annie sagt zu, in vier Tagen herauszufinden, was er dahinter besitzt |
-| `b2 ch35:254` | Sang-hoon: *"I have not found the Singapore end yet."* |
+| `b2 ch32:374` | Annie sagt zu, in vier Tagen herauszufinden, was er dahinter besitzt |
+| `b2 ch39:254` | Sang-hoon: *"I have not found the Singapore end yet."* |
 
 **Danach kommt das Wort im Buch nicht mehr vor.**
 
 **Warum das als Material taugt und nicht als Loch.** Band 2 nimmt ihm die
 Leute, die Papiere und den Namen. Es nimmt ihm nicht das **Geld**, und der
 Text sagt selbst zweimal, dass niemand weiss, wo es liegt. Das ist der
-einzige Teil des Mannes, den `b2 ch82` nicht aufzaehlen kann - Georgij
+einzige Teil des Mannes, den `b2 ch86` nicht aufzaehlen kann - Georgij
 zaehlt dort sieben Dinge auf und Singapur ist bei keinem davon.
 
 **Und es haengt an Woo.** Dieselbe Kette haelt zwanzig Prozent seines

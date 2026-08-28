@@ -101,7 +101,7 @@ you for guidance."*
 | Chairman Woo, ueber Zonen und Hafenstatus | `b1 ch11:66` |
 | Kang | `b1 ch12:146` |
 | Park Sang-hoon, zweimal in einem Gespraech | `b1 ch33:94` und `ch33:138` |
-| Choi Dae-ho, zweimal in einem Raum | `b2 ch82:82` und `ch82:506` |
+| Choi Dae-ho, zweimal in einem Raum | `b2 ch86:82` und `ch82:506` |
 
 **Warum es wirkt, sagt Hana**, und sie sagt es ihm ins Gesicht: *"Nobody asks
 that. It is the most flattering thing you can say to an old man."*
@@ -151,7 +151,7 @@ ohne die Antwort zu wollen, hat nichts Falsches gesagt. Deshalb ueberlebt
 die Marotte ihren eigenen Zweckwechsel, ohne dass die Grundregel bricht.
 
 **Der letzte Gegner bekommt die neue Fassung, zweimal in einem Raum.** In
-`b2 ch82:82` steht sie am Anfang, und ein Mann, der fuenfundzwanzig Jahre
+`b2 ch86:82` steht sie am Anfang, und ein Mann, der fuenfundzwanzig Jahre
 lang diese Frage ueber jeden in diesem Land beantworten konnte, hat drei
 Sekunden lang **keinen Namen**. Am Ende desselben Kapitels, `ch82:506`,
 steht sie in ihrer offenen Form: *"I would like your guidance, since you
@@ -169,7 +169,7 @@ fragt niemand mehr etwas. Dort wird abgerechnet.
 **Zweitens: er isst nicht, waehrend er arbeitet.** Ausgesprochen wird es an
 genau einer Stelle, und dort im Nebensatz:
 
-> `b2 ch45:216` - *There is one other man in this story who does not eat in
+> `b2 ch49:216` - *There is one other man in this story who does not eat in
 > front of the person he is working on.*
 
 Das ist der Spiegel zu Choi Dae-ho, dessen ganze Lesbarkeit an derselben
@@ -188,7 +188,7 @@ lang zeigt, wie ein Chaebol arbeitet. Das ist Tag 46. Die Marotte gehoert
 Band 2 und ist damals noch nicht da - wer sie in Band 1 zurueckschreibt,
 nimmt ihr die Herkunft.
 
-**Wo beide aufeinandertreffen: `b2 ch82`.** Der Tisch im kleinen Raum ist
+**Wo beide aufeinandertreffen: `b2 ch86`.** Der Tisch im kleinen Raum ist
 fuer zwei gedeckt, mit dem Gang, der um acht ueber den langen Tisch
 gegangen ist, und Georgij hat Mrs Seo im Vorbeigehen darum gebeten. Es ist
 eine Messung: wer arbeitet, isst nicht. Choi ruehrt es nicht an, und damit
@@ -1364,7 +1364,7 @@ steht der Widerspruch am selben Abend wieder da.
 **Annie**
 
 1. Ihr Name ist **Hye-jin**, zwei Silben. **Er wird im Buch nie ausgesprochen.** Annie sagt ihn zweimal in b1 K24, und der Text druckt dabei nicht den Namen, sondern *"something in Korean, two syllables"*; auf seine Bitte hin - **"Again."**, nicht *"Say that again"* - sagt sie ihn noch einmal. Das Wort **Hye-jin** steht **genau einmal im ganzen Buch**, kursiv, in der Erzaehlstimme, in seinem Kopf. Der Text sagt es ausdruecklich dazu: ***"He did not say it out loud, then or later."*** **Korrigiert am 27.08. auf Hinweis des Autors**; `doc/05` sagte *"Sie, zweimal, in dieser Szene"*, was zu der Lesart einlaedt, der Name falle in einer Replik.
-2. **Sie hat keinen Familiennamen**, an keiner Stelle - *"It is on nothing."* Damit ist sie die einzige Figur ohne vollstaendigen koreanischen Namen. Auch b2 K28 druckt ihn nicht.
+2. **Sie hat keinen Familiennamen**, an keiner Stelle - *"It is on nothing."* Damit ist sie die einzige Figur ohne vollstaendigen koreanischen Namen. Auch b2 K30 druckt ihn nicht.
 3. **Silbensperrliste**, weil im Buch belegt: `Ji-` (Ji-won, Ji-hoon), `Eun-` (Eun-ju), `Min-` (Min-ho), `Seo` (Mrs Seo), `Tae-` (Tae-min), alles auf `-won` (neben den Won-Betraegen, und Jae-won existiert). Der Name klingt bewusst **nicht** nach *Annie*, weil Annie eine Erfindung ist und keine Uebersetzung.
 4. **Der Name `Yun` gehoert genau einem Menschen im Buch**, dem Kuechenjungen; Do-yun steht immer mit beiden Silben. Die zwei Firmen, die kollidierten, heissen seit dem 23.08. **Kyeongil** und **Nam** (b1 K15 v2.7, b1 K18 v1.1).
 5. **Sie kennt Choi Dae-ho, seit sie vierzehn ist.** *"I have known him since I was twenty-four"* ist ihre Gewohnheitsluege, die sie in b2 K25 selbst abraeumt. Mit vierzehn bemerkt, dass er nicht isst; mit dreissig verstanden.
@@ -1446,4 +1446,4 @@ steht der Widerspruch am selben Abend wieder da.
 148. **Die Adressaenderung: genau einmal, zweite Februarwoche vor vier Jahren - derselbe Monat, in dem Ahn Jung-hee in das Haus kam.** Baek: *"Somebody put them under one roof to save on a heating bill."* Die Sauerstoffmeldung folgte im Juli desselben Jahres.
 149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
 150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
-151. **Choi hat im ganzen Buch keine Replik ausser in b2 K82** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**
+151. **Choi hat im ganzen Buch keine Replik ausser in b2 K86** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**

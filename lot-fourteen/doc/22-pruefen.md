@@ -246,7 +246,7 @@ verteilten sich auf vier Gründe, die keinen Topf haben:
 
 - **Auslassung:** das Zitat steht da, mit `...` zusammengezogen (b2 K6, drei
   Meldungen für ein Zitat).
-- **Redebegleitsatz:** das Zitat steht da, unterbrochen von *he said* (b2 K49).
+- **Redebegleitsatz:** das Zitat steht da, unterbrochen von *he said* (b2 K53).
 - **Gestrichene Fassung:** das Dokument zitiert ausdrücklich, was **entfernt
   wurde** - nicht überholt, sondern weg. Fünf Meldungen, alle legitim.
 - **Unmarkierter Vorschlag:** *"Eine Zeile wie ..."* fehlt in der Wortliste, und
@@ -259,7 +259,7 @@ verteilten sich auf vier Gründe, die keinen Topf haben:
 | Klasse | Woran man sie erkennt | Exemplar |
 |---|---|---|
 | **Ein Plan, der im Kanondokument als Bestand steht** | `doc/05` zitiert einen Satz mit einer Behauptung darüber (*"der einzige Satz in zwei Bänden"*), und der Satz steht in `doc/07` unter *was kommt* | `doc/05` Z938, das Bandende, korrigiert am 26.08. |
-| **Dieselbe Wendung, zwei Bezüge, wenige Zeilen auseinander** | eine auffällige Formel läuft zweimal gleich an und meint zweimal etwas anderes - der Leser liest die zweite als Wiederaufnahme | b2 K29 Z42 gegen Z48: dieselben *"Two people"* sind einmal die Empfänger und einmal die Anrufer |
+| **Dieselbe Wendung, zwei Bezüge, wenige Zeilen auseinander** | eine auffällige Formel läuft zweimal gleich an und meint zweimal etwas anderes - der Leser liest die zweite als Wiederaufnahme | b2 K29 (geteilt) Z42 gegen Z48: dieselben *"Two people"* sind einmal die Empfänger und einmal die Anrufer |
 
 **Und eine Lücke im Werkzeugkasten, die keine Klasse ist:** alle zwölf Prüfungen
 der Batterie messen **eine Figur gegen den Text**, keine misst **eine Figur gegen

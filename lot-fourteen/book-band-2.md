@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 85 Kapitel, 226.992 Woerter.
+Book Two, 89 Kapitel, 227.055 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -36,66 +36,70 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 23 | v1.6 | 2.033 |
 | 24 | v1.5 | 2.099 |
 | 25 | v1.9 | 3.966 |
-| 26 | v3.0 | 6.850 |
-| 27 | v1.3 | 2.317 |
-| 28 | v2.0 | 2.269 |
-| 29 | v5.1 | 7.558 |
-| 30 | v2.6 | 3.283 |
-| 31 | v3.2 | 3.526 |
-| 32 | v4.0 | 4.077 |
-| 33 | v3.0 | 2.764 |
-| 34 | v3.1 | 3.452 |
-| 35 | v4.0 | 3.321 |
-| 36 | v4.0 | 2.415 |
-| 37 | v4.0 | 2.291 |
-| 38 | v1.6 | 2.164 |
-| 39 | v1.6 | 2.661 |
-| 40 | v1.5 | 1.889 |
-| 41 | v1.2 | 2.296 |
-| 42 | v1.4 | 2.033 |
-| 43 | v2.7 | 2.914 |
-| 44 | v1.5 | 2.112 |
-| 45 | v1.8 | 3.099 |
-| 46 | v1.5 | 2.498 |
-| 47 | v1.6 | 2.778 |
-| 48 | v1.3 | 2.042 |
-| 49 | v1.9 | 2.679 |
-| 50 | v1.13 | 4.410 |
-| 51 | v1.6 | 2.143 |
-| 52 | v1.11 | 2.125 |
-| 53 | v1.9 | 2.279 |
-| 54 | v1.6 | 2.481 |
-| 55 | v1.9 | 2.700 |
-| 56 | v1.6 | 2.612 |
-| 57 | v1.3 | 2.402 |
-| 58 | v1.3 | 2.103 |
-| 59 | v1.4 | 2.011 |
-| 60 | v1.2 | 2.121 |
-| 61 | v1.7 | 1.977 |
-| 62 | v1.3 | 2.411 |
-| 63 | v2.6 | 2.074 |
-| 64 | v3.2 | 2.071 |
-| 65 | v3.2 | 2.492 |
-| 66 | v3.3 | 2.249 |
-| 67 | v3.1 | 2.228 |
-| 68 | v3.2 | 3.672 |
-| 69 | v3.4 | 2.286 |
-| 70 | v3.1 | 2.398 |
-| 71 | v3.5 | 2.560 |
-| 72 | v3.2 | 2.806 |
-| 73 | v3.1 | 2.331 |
-| 74 | v3.1 | 2.566 |
-| 75 | v3.2 | 2.861 |
-| 76 | v3.3 | 2.846 |
-| 77 | v3.3 | 2.369 |
-| 78 | v1.2 | 2.814 |
-| 79 | v3.4 | 2.926 |
-| 80 | v3.4 | 2.147 |
-| 81 | v3.3 | 2.593 |
-| 82 | v3.13 | 3.233 |
-| 83 | v3.16 | 3.807 |
-| 84 | v3.4 | 2.956 |
-| 85 | v3.2 | 2.637 |
+| 26 | v4.0 | 2.446 |
+| 27 | v4.0 | 2.472 |
+| 28 | v4.0 | 1.968 |
+| 29 | v1.3 | 2.317 |
+| 30 | v2.0 | 2.269 |
+| 31 | v6.0 | 1.546 |
+| 32 | v6.0 | 4.084 |
+| 33 | v6.0 | 1.955 |
+| 34 | v2.6 | 3.283 |
+| 35 | v3.2 | 3.526 |
+| 36 | v4.0 | 4.077 |
+| 37 | v3.0 | 2.764 |
+| 38 | v3.1 | 3.452 |
+| 39 | v4.0 | 3.321 |
+| 40 | v4.0 | 2.415 |
+| 41 | v4.0 | 2.291 |
+| 42 | v1.6 | 2.164 |
+| 43 | v1.6 | 2.661 |
+| 44 | v1.5 | 1.889 |
+| 45 | v1.2 | 2.296 |
+| 46 | v1.4 | 2.033 |
+| 47 | v2.7 | 2.914 |
+| 48 | v1.5 | 2.112 |
+| 49 | v1.8 | 3.099 |
+| 50 | v1.5 | 2.498 |
+| 51 | v1.6 | 2.778 |
+| 52 | v1.3 | 2.042 |
+| 53 | v1.9 | 2.679 |
+| 54 | v1.13 | 4.410 |
+| 55 | v1.6 | 2.143 |
+| 56 | v1.11 | 2.125 |
+| 57 | v1.9 | 2.279 |
+| 58 | v1.6 | 2.481 |
+| 59 | v1.9 | 2.700 |
+| 60 | v1.6 | 2.612 |
+| 61 | v1.3 | 2.402 |
+| 62 | v1.3 | 2.103 |
+| 63 | v1.4 | 2.011 |
+| 64 | v1.2 | 2.121 |
+| 65 | v1.7 | 1.977 |
+| 66 | v1.3 | 2.411 |
+| 67 | v2.6 | 2.074 |
+| 68 | v3.2 | 2.071 |
+| 69 | v3.2 | 2.492 |
+| 70 | v3.3 | 2.249 |
+| 71 | v3.1 | 2.228 |
+| 72 | v3.2 | 3.672 |
+| 73 | v3.4 | 2.286 |
+| 74 | v3.1 | 2.398 |
+| 75 | v3.5 | 2.560 |
+| 76 | v3.2 | 2.806 |
+| 77 | v3.1 | 2.331 |
+| 78 | v3.1 | 2.566 |
+| 79 | v3.2 | 2.861 |
+| 80 | v3.3 | 2.846 |
+| 81 | v3.3 | 2.369 |
+| 82 | v1.2 | 2.814 |
+| 83 | v3.4 | 2.926 |
+| 84 | v3.4 | 2.147 |
+| 85 | v3.3 | 2.593 |
+| 86 | v3.13 | 3.233 |
+| 87 | v3.16 | 3.807 |
+| 88 | v3.4 | 2.956 |
+| 89 | v3.2 | 2.637 |
 
 ---
 
@@ -5682,8 +5686,8 @@ That is the whole of what happened in that room on the twenty-seventh of May.
 
 ---
 
-# Book Two · Chapter 26: She has a list
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 26: The same sort of man
+*Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Thirty-Seven · Thursday 28 May
 
@@ -5913,6 +5917,11 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 
 *She has a list.*
 
+---
+
+# Book Two · Chapter 27: She has a list
+*Lot Fourteen* · Version 4.0 · EN
+
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
 The fourth stop is a road with a chemist on the corner and eleven apartment blocks behind it, and the blocks are numbered in a way that made sense to somebody in about nineteen eighty.
@@ -6131,7 +6140,12 @@ Georgij went down two flights and out past the chemist and stood at the stop for
 
 The call was made. It was refused in the first minute it was possible to refuse it, and she was right to refuse it, and nobody would have had to explain any of that to him if he had asked once in April.
 
-* * *
+---
+
+# Book Two · Chapter 28: A practice keeps records
+*Lot Fourteen* · Version 4.0 · EN
+
+## Day Two Hundred and Thirty-Eight · Friday 29 May
 
 He got back to the house at twenty past seven and went straight in.
 
@@ -6351,7 +6365,7 @@ At about half past eleven she said one word out loud, to nobody at all.
 
 ---
 
-# Book Two · Chapter 27: Nobody hides flowers
+# Book Two · Chapter 29: Nobody hides flowers
 *Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Thirty-Nine · Saturday 30 May
@@ -6610,7 +6624,7 @@ Mr Ku looked at his empty hands in the mirror and pulled out.
 
 ---
 
-# Book Two · Chapter 28: Where the name goes
+# Book Two · Chapter 30: Where the name goes
 *Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Forty-Two · Tuesday 2 June
@@ -6859,8 +6873,8 @@ He thought about a woman going to lunch, four years ago, after she had put a bil
 
 ---
 
-# Book Two · Chapter 29: Two witnesses
-*Lot Fourteen* · Version 5.1 · EN
+# Book Two · Chapter 31: The drawer that locks
+*Lot Fourteen* · Version 6.0 · EN
 
 ## Day Two Hundred and Forty-Three · Wednesday 3 June
 
@@ -7013,6 +7027,11 @@ Jang put the cup down without drinking from it.
 Georgij stood in the kitchen on his own and poured a cup he had been told to have, and it was, in fact, nearly cold.
 
 * * *
+
+---
+
+# Book Two · Chapter 32: Two witnesses
+*Lot Fourteen* · Version 6.0 · EN
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -7348,6 +7367,12 @@ He wrote nothing at all in the notebook that night.
 
 The first page has an entry for every single day since the eleventh of March, and there is a gap on the fourth of June, and he has never explained it and is not going to.
 
+
+---
+
+# Book Two · Chapter 33: Whose four days
+*Lot Fourteen* · Version 6.0 · EN
+
 ## Day Two Hundred and Forty-Five · Friday 5 June
 
 Sang-hoon telephoned at ten past nine, which he has never done before in eight months, because Sang-hoon does not telephone.
@@ -7526,7 +7551,7 @@ Georgij stood in the cooling garage a moment longer before he went in to find so
 
 ---
 
-# Book Two · Chapter 30: An empty table
+# Book Two · Chapter 34: An empty table
 *Lot Fourteen* · Version 2.6 · EN
 
 ## Day Two Hundred and Forty-Nine · Tuesday 9 June
@@ -7783,7 +7808,7 @@ He put the book away without any pleasure in it. For ten months he has been writ
 
 ---
 
-# Book Two · Chapter 31: The one who asked a question
+# Book Two · Chapter 35: The one who asked a question
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
@@ -8058,7 +8083,7 @@ It was also, he thought, closing the folder, exactly the sort of morning she wou
 
 ---
 
-# Book Two · Chapter 32: The man kitchens talk to
+# Book Two · Chapter 36: The man kitchens talk to
 *Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
@@ -8345,7 +8370,7 @@ Page two is longer than it was on Tuesday. Page one is not.
 
 ---
 
-# Book Two · Chapter 33: Somebody who did not arrive in a car
+# Book Two · Chapter 37: Somebody who did not arrive in a car
 *Lot Fourteen* · Version 3.0 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
@@ -8528,7 +8553,7 @@ He wrote that down in the notebook exactly as he had thought it, without tidying
 
 ---
 
-# Book Two · Chapter 34: The name he books under
+# Book Two · Chapter 38: The name he books under
 *Lot Fourteen* · Version 3.1 · EN
 
 ## Day Two Hundred and Sixty-Two · Monday 22 June
@@ -8751,7 +8776,7 @@ He wrote one more line before he put the notebook away for the night.
 
 ---
 
-# Book Two · Chapter 35: Built once, used twice
+# Book Two · Chapter 39: Built once, used twice
 *Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
@@ -8992,7 +9017,7 @@ Deciding that too early was the mistake he had already promised himself, twice t
 
 ---
 
-# Book Two · Chapter 36: Two anchors
+# Book Two · Chapter 40: Two anchors
 *Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
@@ -9153,7 +9178,7 @@ He did not take that as a reason to stop. He took it as a description of the wor
 
 ---
 
-# Book Two · Chapter 37: Somebody in Seoul pays for it
+# Book Two · Chapter 41: Somebody in Seoul pays for it
 *Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Seventy-Six · Monday 6 July
@@ -9296,7 +9321,7 @@ Then he wrote the last of it, and it took him two attempts, because the first on
 
 ---
 
-# Book Two · Chapter 38: The line above it
+# Book Two · Chapter 42: The line above it
 *Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Seventy-Nine · Thursday 9 July
@@ -9457,7 +9482,7 @@ She put two fingers on his wrist and then sent him to be decent to a stranger, a
 
 ---
 
-# Book Two · Chapter 39: The post still comes
+# Book Two · Chapter 43: The post still comes
 *Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Eighty-Three · Monday 13 July
@@ -9656,7 +9681,7 @@ And underneath it, because a page that only holds the tidy version is a differen
 
 ---
 
-# Book Two · Chapter 40: Twelve white stems
+# Book Two · Chapter 44: Twelve white stems
 *Lot Fourteen* · Version 1.5 · EN
 
 ## Day Two Hundred and Eighty-Eight · Saturday 18 July
@@ -9813,7 +9838,7 @@ Both of those are true. There is no arrangement of them in which only one is.
 
 ---
 
-# Book Two · Chapter 41: The one who does not leave
+# Book Two · Chapter 45: The one who does not leave
 *Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Ninety · Monday 20 July
@@ -10004,7 +10029,7 @@ He did not write anything in either page that night, for the first time since th
 
 ---
 
-# Book Two · Chapter 42: What he asked her
+# Book Two · Chapter 46: What he asked her
 *Lot Fourteen* · Version 1.4 · EN
 
 ## Day Two Hundred and Ninety-Two · Wednesday 22 July
@@ -10185,7 +10210,7 @@ And underneath, because he had promised himself in June that the page would hold
 
 ---
 
-# Book Two · Chapter 43: The one he kept
+# Book Two · Chapter 47: The one he kept
 *Lot Fourteen* · Version 2.7 · EN
 
 ## Day Two Hundred and Ninety-Eight · Tuesday 28 July
@@ -10430,7 +10455,7 @@ Sang-hoon looked at him for a while.
 
 ---
 
-# Book Two · Chapter 44: The sixth one
+# Book Two · Chapter 48: The sixth one
 *Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred · Thursday 30 July
@@ -10613,7 +10638,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 
 ---
 
-# Book Two · Chapter 45: Against her return
+# Book Two · Chapter 49: Against her return
 *Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
@@ -10882,7 +10907,7 @@ He had paid at half past seven, before the meal, as he always does. The girl at 
 
 ---
 
-# Book Two · Chapter 46: The one I did not say in May
+# Book Two · Chapter 50: The one I did not say in May
 *Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Five · Tuesday 4 August
@@ -11083,7 +11108,7 @@ Georgij stood in the doorway of a house in the suburbs and found he had nothing 
 
 ---
 
-# Book Two · Chapter 47: Clause eleven
+# Book Two · Chapter 51: Clause eleven
 *Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Seven · Thursday 6 August
@@ -11310,7 +11335,7 @@ And then, on the second page, because the second page gets everything:
 
 ---
 
-# Book Two · Chapter 48: Consigned by
+# Book Two · Chapter 52: Consigned by
 *Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Thirteen · Wednesday 12 August
@@ -11489,7 +11514,7 @@ And underneath, on its own, because he sat and looked at the page for a while be
 
 ---
 
-# Book Two · Chapter 49: Four streets
+# Book Two · Chapter 53: Four streets
 *Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Fifteen · Friday 14 August
@@ -11750,7 +11775,7 @@ He put the notebook away without writing the last line, and wrote it that night 
 
 ---
 
-# Book Two · Chapter 50: Buy her
+# Book Two · Chapter 54: Buy her
 *Lot Fourteen* · Version 1.13 · EN
 
 ## Day Three Hundred and Nineteen · Tuesday 18 August
@@ -12117,7 +12142,7 @@ He has stopped counting them. He noticed at some point in July that he had stopp
 
 ---
 
-# Book Two · Chapter 51: Somebody's daughter
+# Book Two · Chapter 55: Somebody's daughter
 *Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Twenty-Two · Friday 21 August
@@ -12290,7 +12315,7 @@ Annie looked at him.
 
 ---
 
-# Book Two · Chapter 52: One sentence
+# Book Two · Chapter 56: One sentence
 *Lot Fourteen* · Version 1.11 · EN
 
 ## Day Three Hundred and Twenty-Six · Tuesday 25 August
@@ -12497,7 +12522,7 @@ He wrote the last line standing outside the car, because he could not do it sitt
 
 ---
 
-# Book Two · Chapter 53: The one who orders
+# Book Two · Chapter 57: The one who orders
 *Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Twenty-Eight · Thursday 27 August
@@ -12716,7 +12741,7 @@ It is the answer to the first question she has asked him in four years, and it i
 
 ---
 
-# Book Two · Chapter 54: The only door
+# Book Two · Chapter 58: The only door
 *Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Sixty-Two · Wednesday 30 September
@@ -12935,7 +12960,7 @@ He sat with the pen and then wrote one more line.
 
 ---
 
-# Book Two · Chapter 55: The permanent series
+# Book Two · Chapter 59: The permanent series
 *Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
@@ -13144,7 +13169,7 @@ He wrote four lines in the car and did not start the engine while he wrote them.
 
 ---
 
-# Book Two · Chapter 56: Eleven years of paying for it
+# Book Two · Chapter 60: Eleven years of paying for it
 *Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
@@ -13351,7 +13376,7 @@ He wrote it in the book at nine, before he went, and it took one attempt.
 
 ---
 
-# Book Two · Chapter 57: Twenty-three days
+# Book Two · Chapter 61: Twenty-three days
 *Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Eighty-Five · Friday 23 October
@@ -13544,7 +13569,7 @@ He looked at the three lines for a while and then wrote one more underneath.
 
 ---
 
-# Book Two · Chapter 58: The consignor of record
+# Book Two · Chapter 62: The consignor of record
 *Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Eighty-Six · Saturday 24 October
@@ -13737,7 +13762,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 
 ---
 
-# Book Two · Chapter 59: They did not argue about it
+# Book Two · Chapter 63: They did not argue about it
 *Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
@@ -13910,7 +13935,7 @@ Georgij wrote it in the book on the Thursday evening and sat with it for a while
 
 ---
 
-# Book Two · Chapter 60: The second of November
+# Book Two · Chapter 64: The second of November
 *Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Ninety-Four · Sunday 1 November
@@ -14105,7 +14130,7 @@ Annie did not say anything for a moment.
 
 ---
 
-# Book Two · Chapter 61: The first hour
+# Book Two · Chapter 65: The first hour
 *Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Ninety-Six · Tuesday 3 November
@@ -14284,7 +14309,7 @@ Annie stood at the window for a moment.
 
 ---
 
-# Book Two · Chapter 62: She went back
+# Book Two · Chapter 66: She went back
 *Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Ninety-Eight · Thursday 5 November
@@ -14511,7 +14536,7 @@ He sat with that until she sent him down to eat.
 
 ---
 
-# Book Two · Chapter 63: The draught under the door
+# Book Two · Chapter 67: The draught under the door
 *Lot Fourteen* · Version 2.6 · EN
 
 ## Day Four Hundred and Four · Wednesday 11 November
@@ -14730,7 +14755,7 @@ He wrote two lines in the book that evening.
 
 ---
 
-# Book Two · Chapter 64: The second Tuesday
+# Book Two · Chapter 68: The second Tuesday
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Thirty-One · Tuesday 8 December
@@ -14913,7 +14938,7 @@ Nobody in that room will be told, and that is the whole of what was decided in a
 
 ---
 
-# Book Two · Chapter 65: Nobody paid
+# Book Two · Chapter 69: Nobody paid
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Thirty-Four · Friday 11 December
@@ -15134,7 +15159,7 @@ Georgij stood in the middle of the room.
 
 ---
 
-# Book Two · Chapter 66: A man who answers
+# Book Two · Chapter 70: A man who answers
 *Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Thirty-Seven · Monday 14 December
@@ -15353,7 +15378,7 @@ He stopped there and read it back and then wrote the rest, because the order had
 
 ---
 
-# Book Two · Chapter 67: No story at all
+# Book Two · Chapter 71: No story at all
 *Lot Fourteen* · Version 3.1 · EN
 
 ## Day Four Hundred and Forty · Thursday 17 December
@@ -15540,7 +15565,7 @@ The first page has a family name at the top of it. It is the name from the booki
 
 ---
 
-# Book Two · Chapter 68: What silence costs
+# Book Two · Chapter 72: What silence costs
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Forty-One · Friday 18 December
@@ -15863,7 +15888,7 @@ Mrs Ha looked at him for a long moment.
 
 ---
 
-# Book Two · Chapter 69: The fourth time
+# Book Two · Chapter 73: The fourth time
 *Lot Fourteen* · Version 3.4 · EN
 
 ## Day Four Hundred and Forty-Five · Tuesday 22 December
@@ -16078,7 +16103,7 @@ Then the rest of it, at Iksan, in the eight minutes.
 
 ---
 
-# Book Two · Chapter 70: What he was for
+# Book Two · Chapter 74: What he was for
 *Lot Fourteen* · Version 3.1 · EN
 
 ## Day Four Hundred and Fifty-One · Monday 28 December
@@ -16281,7 +16306,7 @@ He sat with the pen in his hand for a while.
 
 ---
 
-# Book Two · Chapter 71: Over the dessert
+# Book Two · Chapter 75: Over the dessert
 *Lot Fourteen* · Version 3.5 · EN
 
 ## Day Four Hundred and Fifty-Three · Wednesday 30 December
@@ -16526,7 +16551,7 @@ Then the second page, because that is where this one goes.
 
 ---
 
-# Book Two · Chapter 72: Three pieces of good news
+# Book Two · Chapter 76: Three pieces of good news
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Sixty · Wednesday 6 January
@@ -16809,7 +16834,7 @@ The fan ran in the corner the whole time.
 
 ---
 
-# Book Two · Chapter 73: The doorway
+# Book Two · Chapter 77: The doorway
 *Lot Fourteen* · Version 3.1 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
@@ -17014,7 +17039,7 @@ Upstairs, a door did not open.
 
 ---
 
-# Book Two · Chapter 74: At thirty
+# Book Two · Chapter 78: At thirty
 *Lot Fourteen* · Version 3.1 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
@@ -17251,7 +17276,7 @@ He waited.
 
 ---
 
-# Book Two · Chapter 75: Not four
+# Book Two · Chapter 79: Not four
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Sixty-Five · Monday 11 January
@@ -17512,7 +17537,7 @@ Then the other half.
 
 ---
 
-# Book Two · Chapter 76: Nine boxes
+# Book Two · Chapter 80: Nine boxes
 *Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Seventy-Two · Monday 18 January
@@ -17771,7 +17796,7 @@ He looked at that for a while.
 
 ---
 
-# Book Two · Chapter 77: I require your instructions
+# Book Two · Chapter 81: I require your instructions
 *Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Ninety-Three · Monday 8 February
@@ -17984,7 +18009,7 @@ He sat with that for a while.
 
 ---
 
-# Book Two · Chapter 78: The only line out
+# Book Two · Chapter 82: The only line out
 *Lot Fourteen* · Version 1.2 · EN
 
 ## Day Four Hundred and Ninety-Seven · Friday 12 February
@@ -18225,7 +18250,7 @@ Annie looked out of the window for a while.
 
 ---
 
-# Book Two · Chapter 79: Nobody asked
+# Book Two · Chapter 83: Nobody asked
 *Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Ten · Thursday 25 February
@@ -18488,7 +18513,7 @@ Then the rest, and he took longer over it.
 
 ---
 
-# Book Two · Chapter 80: No occasion
+# Book Two · Chapter 84: No occasion
 *Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Seventeen · Thursday 4 March
@@ -18707,7 +18732,7 @@ Annie folded the list along its own crease and put it in the drawer that locks.
 
 ---
 
-# Book Two · Chapter 81: Twenty-seven
+# Book Two · Chapter 85: Twenty-seven
 *Lot Fourteen* · Version 3.3 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
@@ -18980,7 +19005,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 
 ---
 
-# Book Two · Chapter 82: Please guide me
+# Book Two · Chapter 86: Please guide me
 *Lot Fourteen* · Version 3.13 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
@@ -19421,7 +19446,7 @@ The two places at the table were exactly as she had left them.
 
 ---
 
-# Book Two · Chapter 83: The length of the room
+# Book Two · Chapter 87: The length of the room
 *Lot Fourteen* · Version 3.16 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
@@ -19822,7 +19847,7 @@ Downstairs the chairs stopped.
 
 ---
 
-# Book Two · Chapter 84: Not the comfortable part
+# Book Two · Chapter 88: Not the comfortable part
 *Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Seventy-One · Tuesday 27 April
@@ -20099,7 +20124,7 @@ He stopped on the bridge and wrote the last of it standing up.
 
 ---
 
-# Book Two · Chapter 85: The weapon
+# Book Two · Chapter 89: The weapon
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
