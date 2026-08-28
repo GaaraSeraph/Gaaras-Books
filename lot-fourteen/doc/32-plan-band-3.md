@@ -2171,13 +2171,15 @@ sagt.
 **Damit ist die Beleidigung wahr, und deshalb kann sie ihn nicht treffen.** Er
 tut, was sie sagt. Er hat das nie bestritten und nie bemaentelt.
 
-**Aber sie ist ueber ihn gesagt und ueber sie gemeint.** Ein Koeter setzt einen
-Halter voraus. **Wer den Hund beschimpft, redet ueber das Haus** - und genau
-deshalb geht diese Beleidigung dorthin, wo Georgij nicht zusieht.
+**Meine Begruendung dazu war zu schlau und traegt nicht.** Ich hatte
+geschrieben, ein Koeter setze einen Halter voraus und die Beleidigung rede
+deshalb ueber das Haus. **Der Autor hat am 28.08. widersprochen: der Mann
+redet ueber Georgij.** Punkt. Da ist keine zweite Ebene, und wer eine
+hineinliest, verschiebt den Grund fuer die Faust auf etwas Ausgedachtes.
 
-**Die drei Woerter tun also alle dasselbe**, und der Mann merkt es nicht:
-*mutt* und *dog* reden ueber Annie, indem sie ueber Georgij reden.
-**Und *upstart* laesst die Verkleidung weg.**
+**Die Steigerung liegt nicht zwischen verdeckt und offen. Sie liegt zwischen
+ihm und ihr** - und das ist eine ganz andere Achse, weil das eine seit der
+ersten Seite laeuft und das andere noch nie vorgekommen ist.
 
 **Der falsche von den dreien ist *upstart*, und der ist der wichtigste.** Ein
 Emporkoemmling ist einer, der steigen will. **Georgij will nichts und besitzt
@@ -2338,9 +2340,24 @@ etwas an diesem Hals, das er nicht ebenhalten kann.
 jedes Wort, jede Pause und jede Hand. **Das hier passiert ihm.** Es ist das
 einzige im Buch, das er nicht ausgesucht hat.
 
-**2. Es wird nicht von einer Beleidigung ueber ihn ausgeloest.** Ueber sich
-selbst laesst er alles stehen, seit Band 1. **Ueber sie nicht.** Das ist der
-ganze Charakter in zwei Koerperteilen.
+**2. Und das ist der eigentliche Grund, vom Autor am 28.08. genannt: es ist
+das erste Mal.**
+
+**Ueber ihn wird seit der ersten Seite hergezogen.** `b1 ch01:64`, das
+Kapitel heisst danach: *"Merchandise doesn't talk."* Er laesst es stehen,
+jedes Mal, zwei Baende lang.
+
+**Ueber Annie ist in seiner Gegenwart noch nie ein herabsetzendes Wort
+gefallen.** Nachgesehen ueber alle hundertdreiundzwanzig Kapitel: **keine
+einzige Stelle.** Die Maechtigen im Buch reden ueber sie mit Respekt oder
+neutral, und die beiden gefaehrlichsten tun es ausdruecklich - `b2 ch78:254`,
+Sang-hoon: *a woman who has never once needed a reason for anything.*
+`b2 ch86:352`, Choi: *"She did the opposite of you in one morning, in front of
+a woman who could do nothing for her at all."*
+
+**Es braucht also gar keine Mechanik.** Ein Mann, der zwei Baende lang alles
+ueber sich hat stehen lassen, hoert zum ersten Mal, wie jemand ueber sie
+redet. **Deshalb schlaegt er aus, und deshalb sehen es kompetente Leute.**
 
 **3. Sein Gesicht ist als reglos gesetzt und die Ausnahmen sind markiert.**
 `b2 ch25:342`: *his face did the thing it does, **which is nothing at all**.*
@@ -2371,4 +2388,72 @@ braucht dafuer eine Beleidigung und eine Sekunde.**
 **Zwei Baende lang war Georgij der, der liest. Hier wird er zum ersten Mal
 gelesen** - und die beste Fassung ist die, in der **er nicht weiss, dass er es
 tut**, bis jemand es ihm sagt, der keinen Grund hat, freundlich dabei zu sein.
+
+---
+
+## Die Geschwister kaufen: das Verfahren steht in Band 1, und der Anker auch
+
+**Vom Autor am 28.08. vorgegeben.** Bei einem Chaebol bekommen die Geschwister
+**immer** etwas, nur weniger als der Haupterbe. **Und ueber sie kauft man
+Anteile.** Nicht alle machen mit. Viele.
+
+### Der Anker liegt auf der Gala, und er ist woertlich
+
+`b1 ch07:174`:
+
+> **So he spent it fast, and he spent it on the young.**
+
+`b1 ch07:180`:
+
+> **Nobody guards a mouth in front of a person nobody counts. Nobody has ever
+> had to.**
+
+`b1 ch07:182`: *The nearest of them was **a girl of about twenty-four at the
+edge of a group near the bar, who had not been introduced to anybody** since
+he had walked in.*
+
+**Und dass es gewirkt hat, sagt jemand anders**, zwei Kapitel spaeter -
+`b1 ch09:48`:
+
+> "A girl from the foundation talked to you for nine minutes and **has been
+> standing up straighter ever since**."
+
+**Das ist nicht nachtraeglich hineingelesen. Das ist ein Absatz, in dem
+draufsteht, was er tut und warum es leicht ist.**
+
+### Warum es bei genau diesen Leuten funktioniert
+
+**Weil sie ihr Leben lang von dem aeltesten Bruder herablassend behandelt
+worden sind**, der alles bekommen hat, weil er zuerst geboren wurde. **Und
+weil Georgij der Einzige war, der sich mit ihnen unterhalten hat, als sie
+niemand gezaehlt hat.**
+
+`b1 ch07:180` sagt genau das, und es sagt es kalt: **niemand nimmt sich vor
+einem Menschen in acht, den niemand zaehlt.** Zwei Jahre spaeter zaehlen sie,
+und der Einzige, der freundlich zu ihnen war, klopft an.
+
+### Das Verfahren hat das Buch schon einmal vorgefuehrt, und es hat funktioniert
+
+`b1 ch25:304`: Park Sang-hoon hat **vierzig Prozent von sieben Aktionaeren**
+gekauft, **die seit Maerz nicht mehr zusammen in einem Raum gesessen hatten.**
+
+**Verstreute Minderheitsanteile, deren Halter nicht miteinander reden, sind
+der billigste Weg zu einer Sperrminoritaet, den es gibt.** Der Leser hat
+gesehen, dass es geht. **Georgij macht dasselbe eine Nummer groesser, an einem
+Konzern, der aus Ueberkreuzbeteiligungen zusammengehalten wird** - und dort
+zaehlen kleine Pakete mehr, weil jede Firma die naechste haelt.
+
+### Und die, die nicht mitmachen, sind die bessere Szene
+
+**Nicht alle verkaufen.** Wer ablehnt, tut es nicht aus Zuneigung zu dem
+Bruder, sondern **wegen des Namens** - und das ist derselbe Stolz, an dem der
+Erbe zugrunde geht, nur an einer Stelle, an der er etwas kostet.
+
+**Die Frage, die dabei aufgeht, gehoert dem Band:** Georgij kauft Leute, die
+gut zu ihm waren, weil sie einmal gut zu ihm waren. **Er hat sie auf der Gala
+nicht angesprochen, weil er sie mochte. Er hat sie angesprochen, weil sie
+billig waren.** Und jetzt kassiert er das ein.
+
+**Das ist die Sorte Rechnung, die in Band 3 aufgemacht gehoert**, und es
+braucht dafuer keine Reue, sondern nur jemanden, der es ausspricht.
 
