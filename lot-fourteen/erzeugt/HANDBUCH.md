@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 247.634 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 248.484 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -280,6 +280,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Der Text](#der-text)
   - [Was daran haengt](#was-daran-haengt)
   - [Der Weg, der dieselbe Wirkung hat und in der Figur bleibt](#der-weg-der-dieselbe-wirkung-hat-und-in-der-figur-bleibt)
+  - [Was er hat, und woher](#was-er-hat-und-woher)
+  - [Warum sie Band 3 blockieren](#warum-sie-band-3-blockieren)
+  - [Was die Szene in der Mitte damit ist](#was-die-szene-in-der-mitte-damit-ist)
+  - [Und warum Georgijs Frage danach wirkt](#und-warum-georgijs-frage-danach-wirkt)
+  - [Die Reihenfolge ist eine echte Entscheidung](#die-reihenfolge-ist-eine-echte-entscheidung)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -16059,6 +16064,115 @@ vorwirft, hat dann ueber etwas Groesseres recht als ueber den Tod.
 
 **Das ist eine Entscheidung des Autors und keine des Textes.** Sie steht hier,
 damit sie eine ist.
+
+---
+
+## Sang-hoons vierzig Prozent: warum die Szene in der Mitte keine Drohung ist
+
+**Vom Autor mehrfach angefordert. Hier steht sie vollstaendig.**
+
+### Was er hat, und woher
+
+`b1 ch25:304`: **Park Sang-hoon hat vierzig Prozent der Hanseong-Gruppe**, von
+**sieben Aktionaeren**, die seit Maerz nicht mehr zusammen in einem Raum
+gesessen hatten. Hanseong ist *four shipping routes, real berths, real slots*
+(`b1 ch14:82`), viertausendzweihundert Beschaeftigte (`b1 ch15:332`).
+
+**Und er hat sie, weil Georgij es so eingerichtet hat.** `b1 ch18:124`,
+Annie: *"I want you to try to buy Hanseong."* Das Gebot war so gebaut, dass es
+scheitert - und `b1 ch14:116`: *"He cannot move quickly and buy four routes in
+the same quarter, and **he will buy the routes, because he cannot help it**."*
+
+**Die vierzig Prozent sind Georgijs eigenes Werk aus Band 1.**
+
+### Warum sie Band 3 blockieren
+
+Annie soll Mehrheitseignerin werden. Die Rechnung:
+
+| | |
+|---|---|
+| Sang-hoon | **40 %** |
+| der Gegner, der nicht verkauft hat | ein grosser Block |
+| Streubesitz und Erben | der Rest |
+
+**Der Gegner verkauft ihr nicht - er ist der Gegner.** Also bleiben ihr
+Streubesitz und Erben, und die reichen allein nicht ueber fuenfzig.
+
+**Damit fuehrt jeder Weg zur Mehrheit ueber Sang-hoons vierzig Prozent.**
+
+### Was die Szene in der Mitte damit ist
+
+**Sie ist kein Erpressungsversuch aus Bosheit. Sie ist die Nennung eines
+Preises.** Er hat das eine Stueck, ohne das sie es nicht bekommt, und er
+verlangt dafuer das eine, was sie nicht hergibt. Zwei Leute, die sich moegen,
+stehen an genau der Stelle, an der beide im Recht sind.
+
+**Und darum wiegt Annies Antwort, was sie wiegt.** *"He is not for sale. Do
+the other thing."* ist nicht nur Treue - **sie gibt damit Hanseong auf**, oder
+nimmt in Kauf, es auf einem Weg holen zu muessen, der teurer ist als der
+Preis, den sie gerade abgelehnt hat.
+
+### Und warum Georgijs Frage danach wirkt
+
+**Auch sie ist keine Drohung, und das ist der Grund, warum sie funktioniert.**
+Sie enthaelt keine Anweisung (`b2 ch44:52`). Sie erinnert ihn nur daran, was
+vierzig Prozent neben einer Frau bedeuten, die bereit ist, alles anzuzuenden:
+**er muesste ab morgen darueber nachdenken.**
+
+Und `b2 ch04:106` ist sein eigener Satz: *"I do not pay what a thing is worth.
+**I pay what it costs to stop having to think about it**."* Georgij legt ihm
+seinen Preis von damals wieder hin und fragt, ob er ihn zurueckhaben will.
+
+**Der Dreifachschluss:** Georgij hat ihm die vierzig Prozent verschafft, sie
+werden zum Preis fuer Georgij, und Georgij loest die Forderung mit dem Satz
+auf, mit dem Sang-hoon einmal seinen Wert begruendet hat.
+
+### Die Reihenfolge ist eine echte Entscheidung
+
+* **Hanseong-Zug vor der Szene:** er hat Macht, weil sie ihn braucht, und die
+  Forderung ist faellig.
+* **Szene vor dem Hanseong-Zug:** sie kauft sich mit einem Mann in ein
+  Unternehmen ein, dem sie gerade gesagt hat, dass sie lieber brennt.
+
+## War das mit den fuenf Verladern Erpressung? Nachgelesen, und die Antwort ist geteilt
+
+**Vom Autor gefragt am 28.08.:** *Stirb oder nimm meine Hand* - ist das nicht
+Erpressung gewesen?
+
+**Was tatsaechlich geschehen ist, in der Reihenfolge:**
+
+1. Die sechste Firma auf der Spur verliert ihre Arbeit (`b2 ch13:128`, Woo:
+   *five firms do not need work in the middle of April unless somebody has
+   decided that the sixth one is not going to have any*).
+2. Woo legt sieben Jahre Arbeit auf die Spur - **fuer fuenf Firmen und nicht
+   fuer sechs** (`b2 ch14:30`).
+3. Erst **nach** der Unterschrift wird jedem Einzelnen gesagt, wer Woo darum
+   gebeten hat (`b2 ch19:64`, *individually, by me, on the day he signed*).
+4. Annie kauft je die Haelfte, **zu einem echten Preis**, offen, im Register
+   (`b2 ch14:158`, `b2 ch73:54`, `b2 ch87:322`).
+
+**Nach der Probe des Buches ist es keine Erpressung.** Eine Drohung hat eine
+Anweisung darin (`b2 ch44:52`), und hier gab es keine: es wurde nichts
+verlangt, nichts gefordert und nichts vorenthalten. **Es wurde nicht einmal
+gesprochen, bevor unterschrieben war.**
+
+**Und der Autor hat trotzdem recht, und zwar an der Stelle, die zaehlt.** Die
+Wirkung ist die einer Erpressung, und das Buch sagt es selbst, aus Georgijs
+Mund, `b2 ch20:194`: *"Nobody in the whole of this took a single won. Not you.
+Not me. Not her. Everybody involved did what they thought was correct **and a
+woman of fifty-eight is going to be selling two trucks on Thursday**."*
+
+**Die Linie, die uebrig bleibt, ist schmal und sie ist echt: er hat noch nie
+jemandem in einem Raum etwas ueber den Kopf gehalten.** Er richtet die Welt so
+ein, dass die Leute waehlen, was er braucht. Das ist nicht weniger hart. Es
+ist etwas anderes, und der Unterschied liegt darin, **wo der Druck herkommt**:
+aus einer Lage, die er gebaut hat, oder aus ihm selbst, im Zimmer, mit einer
+Forderung.
+
+**Fuer Band 3 heisst das:** ein Beamter, dem er eine wahre Sache ueber ihn
+selbst hinlegt und nichts verlangt, ist die Fortsetzung. Ein Beamter, dem er
+sagt, was er tun soll, ist ein neuer Mann. Beides ist moeglich. Nur das eine
+braucht keine Begruendung und das andere schon.
 
 ---
 
