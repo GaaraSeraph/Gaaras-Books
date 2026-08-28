@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 250.999 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 251.856 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -293,6 +293,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Hanseong Credit: der Beweis liegt bei einer Bank, die es nicht mehr gibt](#hanseong-credit-der-beweis-liegt-bei-einer-bank-die-es-nicht-mehr-gibt)
   - [Die schwarzen Kassen, und warum sie zwei Schlaege in einem sind](#die-schwarzen-kassen-und-warum-sie-zwei-schlaege-in-einem-sind)
   - [Die Warnung dazu, und sie ist ernst](#die-warnung-dazu-und-sie-ist-ernst)
+  - [Die tote Bank, ausfuehrlich](#die-tote-bank-ausfuehrlich)
+  - [Die vier Sachen, die das braucht](#die-vier-sachen-die-das-braucht)
+  - [Und die Vorlage steht schon im Buch](#und-die-vorlage-steht-schon-im-buch)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -16497,6 +16500,117 @@ Georgij kann ihm entgegenhalten, womit der Mann selbst gehandelt hat.
 
 **Und Annie hat nichts genommen.** Der Satz aus `ch20:194` bleibt stehen, und
 er wird in Band 3 der einzige sein, den sie noch hat.
+
+### Die tote Bank, ausfuehrlich
+
+**Vom Autor am 28.08. nachgefragt.** Hier der ganze Mechanismus, ohne
+Fachwoerter.
+
+**Was Hanseong Credit ist.** Ein Kreditgeber. Damit ihm jemand Geld leiht und
+damit er selbst welches verleihen darf, muss er zeigen, dass er hat, was er
+zu haben behauptet. In seinem Abschluss steht deshalb ein Satz wie: *wir
+halten vierhundert Milliarden bei der Bank Y.*
+
+**Das ist der ganze Trick, wenn es nicht stimmt.** Ist das Geld nicht da, ist
+Credit ein Loch mit einem Dach darauf - und niemand kann es sehen, weil die
+Bank Y niemandem sagt, was ihre Kunden bei ihr halten. Der Pruefer bekommt
+eine Bestaetigung. Bei Wirecard waren die Bestaetigungen gefaelscht, und
+niemand hat bei der Bank selbst nachgefragt.
+
+**Und jetzt stirbt die Bank Y.** Nicht Credit - **die andere.**
+
+**Damit kehrt sich alles um.** Eine Bank, die faellt, bekommt einen
+Insolvenzverwalter, und dessen Beruf ist es, **festzustellen, wem sie was
+schuldet.** Er muss es feststellen, weil er die Glaeubiger in einer
+Reihenfolge bedienen muss. Also erstellt er Listen. Die Listen gehen an ein
+Gericht. Wer nicht daraufsteht, widerspricht. **Am Ende gibt es ein
+Verzeichnis davon, wer bei dieser Bank tatsaechlich Geld hatte.**
+
+**Und dann liegen zwei Papiere nebeneinander, die nicht beide wahr sein
+koennen:**
+
+| | sagt |
+|---|---|
+| **Credits eigener Abschluss** | *wir halten vierhundert Milliarden bei Y* |
+| **das Verzeichnis des Verwalters von Y** | *Credit hielt bei uns vier* |
+
+**Keines der beiden muss gestohlen werden.** Beide sind Akten. Und genau das
+ist Georgijs Verfahren, seit `b2 ch79:346`: *He read a register in January and
+found five firms on a lane and asked about the sixth.*
+
+**Warum Credit selbst nicht die Leiche sein darf**, und das war die
+eigentliche Frage: waere Credit die untergegangene Bank, dann gaebe es **nichts
+zu uebernehmen** - man kauft keine abgewickelte Bank - und **keinen
+Widerspruch**, weil aus ihren Buechern nur ihre eigene Schuld hervorgeht. Der
+Beweis lebt davon, dass zwei **verschiedene** Haeuser dasselbe Geld
+unterschiedlich beschreiben.
+
+**Und die Bank Y muss lange genug tot sein**, dass ihr Verfahren weit genug
+ist. Ein Zusammenbruch vor zwei oder drei Jahren, ueber den keiner mehr redet,
+ist genau richtig: das Verzeichnis existiert, es interessiert niemanden mehr,
+und **es hat nie jemand danebengelegt, was Credit im selben Jahr geschrieben
+hat.**
+
+---
+
+# Band 4, erster Entwurf: er saniert, was er genommen hat
+
+**Vom Autor am 28.08.** Die gekauften Unternehmen werden saniert: Schwachstellen
+finden, Korruption abstellen, kompetente Leute halten, Prozesse straffen und
+automatisieren. **Und er geht als kleiner Angestellter hinein**, in die IT, fuer
+Infrastruktur - nicht fuer den direkten Anwenderdienst, der zu viel Zeit
+kostet. Das laesst ihn mit vielen Leuten reden und Dinge aufdecken, und er
+wird beliebt und man vertraut ihm.
+
+**Ja, das traegt, und zwar aus einem Grund, der groesser ist als der
+Einfall.**
+
+**Es dreht das ganze Buch um.** Drei Baende lang findet er heraus, was Leute
+getan haben, um sie zu zerlegen. Hier findet er dasselbe heraus, **um sie zu
+behalten.** Dieselbe Faehigkeit, entgegengesetztes Vorzeichen, und es braucht
+keine neue Figur.
+
+**Und die Stelle ist genau richtig gewaehlt.** Ein Mann in der Infrastruktur
+sieht alles und wird von niemandem beobachtet. Ausweislesegeraete, Fehlerlisten,
+Bestellsysteme, wer wann wo eingeloggt war - **das ist dasselbe Material wie
+Dockets und Register, nur mit Strom.** Das Buch muss dafuer seine Sprache nicht
+wechseln.
+
+**Und er bekommt, was er nie hatte, ohne dass jemand ein Wort darueber
+verliert: eine Personalnummer.** Ein Mann, dessen ganze Existenz *other
+people's paperwork about other things* war (`b1 ch25:120`), steht zum ersten
+Mal auf einer Liste als er selbst. **Das ist die Gegenszene zum vierten
+Oktober**, und es kostet keine Handlung.
+
+### Die vier Sachen, die das braucht
+
+**1. Wovon lebt er.** Ein Angestellter bekommt Lohn, und er hat in drei Baenden
+nie Geld gehabt (Regel 2). Entweder ist das der Bruch der Regel und dann ein
+Ereignis - **das erste Geld seines Lebens, von einer Firma, die ihr gehoert** -,
+oder es wird eigens geregelt und die Regelung ist eine Szene.
+
+**2. Er ist inzwischen bekannt.** Am Ende von Band 3 halten Chaebols ihn fuer
+einen Freund. Aber die, die ihn kennen, sitzen oben, und er geht nach unten.
+**In einem Werk hat nie jemand von ihm gehoert**, und das ist die Wahrheit ueber
+solche Haeuser. Die Spannung schreibt sich von selbst: irgendwann erkennt ihn
+einer von oben, im falschen Gang.
+
+**3. Der Motor.** Sanierung allein ist kein Stoff. Der Gegner steht schon da:
+**die Leute, die er gerettet hat, sind die, die es kaputtmachen.** Er hat die
+Betriebe genommen, damit sie nicht schliessen - und muss nun herausfinden,
+welche der Geschuetzten die Faeulnis sind. **Und jeder, den er findet, ist
+einer, den er selbst behalten hat.**
+
+**4. Die Uhr.** Drei Baende laufen auf Erzaehltagen. Sanierung laeuft auf
+Quartalen. Entweder bekommt Band 4 eine andere Uhr, oder er bekommt eine
+Frist, die dieselbe Uhr erzwingt.
+
+### Und die Vorlage steht schon im Buch
+
+Er hat es zweimal im Kleinen getan: **die elf aus dem Auktionshaus**, die in
+einem anderen Haus untergebracht wurden, und **Mrs Jeon**, dreiundzwanzig Jahre
+im Abwicklungsbuero, die eine Haelfte bekommt und die Entscheidung behaelt.
+**Band 4 ist dasselbe mal viertausend.**
 
 ---
 
