@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 257.592 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 259.535 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -313,6 +313,17 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die berichtigte Reihenfolge](#die-berichtigte-reihenfolge)
   - [Die Reihenfolge, und sie baut aufeinander auf](#die-reihenfolge-und-sie-baut-aufeinander-auf)
   - [Was es woanders kostet](#was-es-woanders-kostet)
+  - [Der Brief an Annie: die vier Antworten](#der-brief-an-annie-die-vier-antworten)
+  - [Der Brief an beide: das Terminal, und dass sie damit aneinanderhaengen](#der-brief-an-beide-das-terminal-und-dass-sie-damit-aneinanderhaengen)
+  - [Der Brief an Georgij, und der steht seit Band 1 bereit](#der-brief-an-georgij-und-der-steht-seit-band-1-bereit)
+  - [Zwei Sachen, die dabei leicht kaputtgehen](#zwei-sachen-die-dabei-leicht-kaputtgehen)
+  - [Die drei Stellen](#die-drei-stellen)
+  - [Es muss also nichts gepflanzt werden](#es-muss-also-nichts-gepflanzt-werden)
+  - [Und die Zeile, die Band 4 daraus bekommt](#und-die-zeile-die-band-4-daraus-bekommt)
+  - [Was sofort funktioniert](#was-sofort-funktioniert)
+  - [Die Gefahr: ein inkompetenter Gegner macht den Sieg wertlos](#die-gefahr-ein-inkompetenter-gegner-macht-den-sieg-wertlos)
+  - [Und daraus faellt die Bitte um Fuehrung von selbst](#und-daraus-faellt-die-bitte-um-fuehrung-von-selbst)
+  - [Und die Rede trifft ihn genau da](#und-die-rede-trifft-ihn-genau-da)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -17333,6 +17344,259 @@ besitzt und einen Job annimmt.
   neu und es ist gut.
 * **`b2 ch87:254` bleibt heil.** Nams Bedingung war *nobody in this house* -
   und das Terminal ist nicht dieses Haus.
+
+---
+
+## Woos Ende: drei Briefe, und einer davon schreibt sich fast von selbst
+
+**Vom Autor am 28.08. entschieden.** Drei Briefe statt einem, und das ist
+nicht nur mehr, sondern **es ist seine Marotte, ein letztes Mal ausgefuehrt.**
+
+`b2 ch82:246`: *At the door, with the car already turned round, **he did the
+thing he has done every time since October**.* Und dann: *"There is one more
+and neither of you has asked for it."* **Chairman Woo gibt nie alles auf
+einmal. Es kommt immer noch eins an der Tuer.** Drei Umschlaege sind genau
+das, aus dem Grab heraus.
+
+### Der Brief an Annie: die vier Antworten
+
+**Das ist der, der versprochen ist** (`b2 ch82:252`), und er geht an sie,
+weil sie die ist, die sich geweigert hat zu fragen.
+
+`b2 ch82:238`: *"I have been waiting to be asked since the tenth of January.
+... I have had the four of them lined up in the order I would want them in. I
+am not a man who is asked things any more, and that was going to be the last
+time."*
+
+**Sie bekommt nach seinem Tod, was sie ihm zu Lebzeiten ausgeschlagen hat**,
+und sie kann es nicht zurueckgeben. Das ist `b2 ch82:260` zu Ende gefuehrt:
+*I have given myself a date.*
+
+### Der Brief an beide: das Terminal, und dass sie damit aneinanderhaengen
+
+Die Urkunde, so geteilt, dass keiner allein handeln kann. **Das ist der
+Segen**, und Woo wuerde ihn nicht so nennen. Er schreibt ihn als Anordnung und
+bestreitet, dass es eine Gabe ist.
+
+### Der Brief an Georgij, und der steht seit Band 1 bereit
+
+**Das ist der Fund.** `b1 ch12:146`, Kang am Telefon:
+
+> "On Saturday you asked me for guidance. **Chairman Woo has told several
+> people that you asked him the same thing, in almost the same words, some
+> minutes earlier.**"
+
+**Georgij hat Woo als einen der Ersten um Fuehrung gebeten**, in seinen ersten
+vierzehn Tagen, als die Bitte noch echt war. **Und Woo hat es mehreren Leuten
+erzaehlt.** Zwei Jahre spaeter sagt derselbe Mann, dass ihn niemand mehr etwas
+fragt.
+
+**Also ist Woos Brief an Georgij die Fuehrung, um die er gebeten wurde** -
+gegeben von einem Mann, den danach nie wieder jemand gefragt hat, zwei Jahre
+zu spaet, an dem einzigen Tag, an dem sie nicht mehr beantwortet werden kann.
+
+**Und die Schaerfe daran ist, dass Regel 1 haelt und es dadurch schlimmer
+wird.** `b1 ch11:66`: *"I asked him for guidance on land and zoning and port
+status, **because it is a real gap and asking is cheaper than covering it.**
+It was the second time I had used that tonight."*
+
+**Die Luecke war echt. Das Verfahren war es auch.** Georgij hat nicht gelogen
+und er hat auch nicht die zweite Haelfte gesagt. **Woo hat nur die erste
+gehoert und zwei Jahre daran festgehalten.**
+
+**Das ist die einzige Rechnung im Buch, die Georgij nicht bestreiten kann**,
+weil ihm niemand etwas vorwirft und weil der Mann, der sie ausstellt, tot ist
+und freundlich bleibt.
+
+## Das Ende von Band 3: Beisetzung, dann der Kuss
+
+**Vom Autor am 28.08. festgelegt.** Das Buch endet auf Woos Beerdigung, und
+danach kuessen die beiden sich.
+
+**Das schliesst drei Sachen auf einmal**, und keine muss erklaert werden:
+
+* **Der Kondolenzumschlag.** `b2 ch54:384`: *"I have no name that opens a
+  door."* Er kann keinen schreiben. Diesmal muss er auch nicht.
+* **Die Reihe der Beruehrungen** endet an dem Tag, an dem der Mann begraben
+  wird, der die beiden als Erster zusammen adressiert hat.
+* **Und es ist der einzige Ort im Buch, an dem ein Kuss nicht privat ist und
+  trotzdem niemanden angeht.** Auf einem Friedhof sieht man weg.
+
+**Band 2 endet damit, dass sie ihm die Hand hinhaelt** (`b2 ch89:290`).
+**Band 3 endet eine Stufe weiter, und die Stufe ist von ihr.**
+
+## Der Wangenkuss steht jetzt in der Sang-hoon-Szene, und das ist besser
+
+**Vom Autor am 28.08. umgesetzt.** Nicht am Bandende, sondern **in der Mitte,
+in der Szene, in der Sang-hoon sie vor die Wahl stellt.** Die Reihenfolge:
+
+1. **ihre Aufzaehlung** - was sie tut und was sie nicht tut;
+2. **"Yes, Mistress."**
+3. **der Kuss auf die Wange**, von ihr, ohne Ankuendigung;
+4. **"You cannot say that any more."**
+
+**Der Kuss ist das, was den Titel aufhebt.** Sie diskutiert ihn nicht weg und
+sie schenkt ihm nichts. **Sie tut etwas, nach dem das Wort nicht mehr
+stimmt**, und sagt danach nur noch, was ohnehin schon der Fall ist.
+
+**Und es haelt die Regel von oben ein**, was zuerst nicht so aussieht. Die
+Regel war: von ihr, ohne Ankuendigung, **und niemand verliert danach ein Wort
+darueber.** Sie verliert auch keins **ueber den Kuss.** Sie sagt etwas ueber
+die **Anrede.** Der Kuss selbst bleibt unkommentiert, und genau deshalb
+funktioniert die Stelle.
+
+**Der Ort ist die eigentliche Pointe.** Es passiert mitten in einer
+Verhandlung darueber, ob sie ihn hergibt. **Sie beendet die Eigentumssprache
+in dem Augenblick, in dem ein anderer Mann ihn kaufen will.**
+
+### Zwei Sachen, die dabei leicht kaputtgehen
+
+**1. Annie zieht in Band 3 nicht mehr zusammen.** Nachgezaehlt ueber alle
+hundertdreiundzwanzig Kapitel: **zehn Kontraktionen in
+zweihundertachtundvierzig Repliken mit Begleitsatz, und alle zehn stehen in
+`b1 ch02` bis `b1 ch15`.** Danach keine einzige mehr, ueber hundert Kapitel
+lang. Also nicht *"you can't say that anymore"*, sondern:
+
+> **"You cannot say that any more."**
+
+**Punkt und kein Fragezeichen**, weil sie in dem Raum verfuegt und nicht
+bittet.
+
+**2. Das Halsband bleibt.** Die Anrede faellt, das Ding bleibt liegen, und er
+behaelt es, **weil er es behalten will**. Das ist die Trennung, die Band 4
+braucht: **sie nimmt das Wort zurueck, er nicht das Zeichen.**
+
+## Band 4 endet mit einem Verlobungsring, und der alte steht seit Kapitel 1 da
+
+**Vom Autor am 28.08.: der Ring ist in Band 1, nach dem Kauf.** Das stimmt auf
+die Szene genau, und ich hatte vorher das Gegenteil gemeldet.
+
+**Berichtigung.** Ich hatte gemeldet, in hundertdreiundzwanzig Kapiteln komme
+kein Ring vor. **Das war falsch. Es sind drei Stellen**, und die Suche hat sie
+nicht uebersehen, sondern **weggeworfen**: die Wortgrenze `\b` im Muster kam
+als Steuerzeichen bei der Suche an, und das Muster konnte danach nichts mehr
+treffen. **Ein stiller Lauf, der Null meldet, ist kein Befund.** Nachgezaehlt
+wurde ohne Sonderzeichen.
+
+### Die drei Stellen
+
+| Stelle | Tag | |
+|---|---|---|
+| `b1 ch01:98` | 1 | *No jewellery except **a wedding ring on the wrong hand*** |
+| `b1 ch06:186` | 26 | *No jewellery except **the ring on the wrong hand**, and her hair up* |
+| `b2 ch78:72` | 464 | *she did not do **the thing with the ring on the wrong hand that she does when a number is bad*** |
+
+**Die erste steht im Wagen, unmittelbar nach dem Kauf**, in demselben Absatz,
+in dem er sie zum ersten Mal aus der Naehe sieht. **Genau da, wo der Autor ihn
+haben wollte.**
+
+**Der unbestimmte Artikel wird beim zweiten Mal bestimmt** - *a wedding ring*,
+dann *the ring*. Das Buch hat ihn nach einer Nennung als bekannt behandelt.
+
+**Und die dritte ist die beste, weil sie kein Schmuckstueck ist, sondern eine
+Gewohnheit.** `b2 ch78:72` erwaehnt ihn nur, um zu sagen, dass sie **es
+diesmal nicht getan hat**. Damit steht fest: sie fasst ihn an, wenn eine Zahl
+schlecht ist, sie tut es oft genug, dass es ein Zeichen ist, **und Georgij
+kennt es gut genug, um sein Fehlen zu bemerken.**
+
+### Es muss also nichts gepflanzt werden
+
+**Band 4 muss nur beantworten, was seit Tag 1 dasteht**, und der Text hat die
+Frage schon dreimal gestellt, ohne sie je auszusprechen:
+
+* **Die falsche Hand.** Der Ring sitzt seit der ersten Seite dort und wird
+  jedes Mal so genannt.
+* **Der Mann ist Vergangenheit, zweimal, und nie mit einem Grund.**
+  `b1 ch21:336`: *"the first one **was** married to me."* `b1 ch24:188`:
+  *"including the man I **married**."* **Wie er aufgehoert hat, steht
+  nirgends.**
+
+### Und die Zeile, die Band 4 daraus bekommt
+
+**Georgij hat in hundertdreiundzwanzig Kapiteln nie danach gefragt.**
+
+Ein Mann, der wildfremde Maechtige um Fuehrung bittet, weil Fragen billiger
+ist als Zudecken, **hat die eine Sache, die er wirklich wissen will, vier
+Jahre lang nicht gefragt.** Und das Buch hat den Vergleich schon gebaut,
+`b1 ch01:216`: *it was **the first question all night he had actually wanted
+the answer to**.*
+
+**Das war der Junge. Der Ring ist der zweite, und der wartet noch.**
+
+## Der Hanseong-Inhaber: ja, mit einer Korrektur
+
+**Vom Autor am 28.08. entworfen:** inkompetent, elitaer, arrogant, erhaben.
+Nennt Georgij *mutt*, *dog*, *upstart*, auch vor anderen. Hanseong ist sehr
+alt, er haelt sich fuer Adel, und Annies Konglomerat ist juenger, also sieht
+er auch auf sie herab.
+
+**Das traegt, und drei Teile davon sind sehr gut. Einer ist gefaehrlich.**
+
+### Was sofort funktioniert
+
+**Dass er auf Annie herabsieht, ist der beste Einfall daran.** Es stellt die
+beiden zum ersten Mal auf dieselbe Seite. Zwei Baende lang war der Abstand
+zwischen ihnen das Thema. **Ein Mann, der beide von oben herab behandelt,
+loescht diesen Abstand, ohne dass ihn jemand aufheben muesste.**
+
+**Und *mutt* und *dog* sind ausgerechnet die, die nicht treffen.** Der Mann
+sagt Hund zu jemandem, der ein Halsband unter dem Kragen traegt. **Eine
+Beleidigung, die zufaellig wahr ist, verliert ihre Spitze**, und Georgij hat
+seit Band 1 nichts anderes getan, als wahre Sachen ueber sich stehen zu
+lassen.
+
+**Der falsche von den dreien ist *upstart*, und der ist der wichtigste.** Ein
+Emporkoemmling ist einer, der steigen will. **Georgij will nichts und besitzt
+nichts.** Das Wort geht daneben, und es geht so daneben, dass es etwas ueber
+den Sprecher sagt: **er kann nicht sehen, was vor ihm steht, weil er nur eine
+Sorte Gegner kennt.**
+
+**Daran verliert er.** Nicht an einer Zahl. **An einem Kategorienfehler.**
+
+### Die Gefahr: ein inkompetenter Gegner macht den Sieg wertlos
+
+**Choi und Sang-hoon waren beide gefaehrlich.** Wenn der dritte ein Dummkopf
+ist, beweist es nichts, ihn zu schlagen, und ein ganzer Band gegen einen
+Dummkopf ist langweilig.
+
+**Die Fassung, die das loest, aendert an Deinem Entwurf nichts. Sie sagt nur,
+worin er unfaehig ist.**
+
+> **Unfaehig im Geschaeft. Unangreifbar in der Stellung.**
+
+**Seine Unfaehigkeit ist der Grund, warum die Gruppe angreifbar ist** - die
+schwarzen Kassen, die tote Bank, die Einheiten, die nichts verdienen. **Seine
+Unangreifbarkeit ist gesellschaftlich und nicht kaufmaennisch.** Niemand ruehrt
+ihn an, nicht weil er stark ist, sondern **weil man so etwas nicht tut.**
+
+**Damit ist der Gegner nicht der Mann, sondern die Ehrerbietung um ihn
+herum**, und das ist ein besserer Gegner als jede Zahl. **Georgijs Verfahren
+scheitert zuerst daran**, weil man einen Mann nicht mit einer Tatsache
+beschaemen kann, der Tatsachen fuer etwas haelt, das Handwerker angeht.
+
+### Und daraus faellt die Bitte um Fuehrung von selbst
+
+**Choi ist an der Frage gescheitert, weil er nicht antworten konnte**
+(`b2 ch86:90`). **Dieser Mann scheitert an ihr, weil er antwortet.**
+
+**Er ist zu hochmuetig, um zu schweigen.** Also antwortet er, vor Leuten, und
+die Antwort ist falsch, **und alle im Raum wissen es und keiner sagt es** -
+weil man so etwas nicht sagt. **Und genau die Hoeflichkeit, die ihn zwei
+Jahrzehnte geschuetzt hat, ist die, an der er in dem Augenblick verblutet.**
+
+**Georgij hat den Raum eingerichtet.** `b2 ch86:506` steht dafuer schon Modell:
+*"I would like your guidance, since you are the expert in the room and I am
+only the one who arranged it."*
+
+### Und die Rede trifft ihn genau da
+
+**Ein Mann, der sich fuer Adel haelt, bekommt gesagt, dass er Brennholz ist.**
+
+> "You were not an exception. You were a bigger pile of the same wood, and a
+> bigger pile takes longer."
+
+**Der ganze Satz ist eine Standesfrage, und er beantwortet sie mit einer
+Mengenangabe.**
 
 ---
 
