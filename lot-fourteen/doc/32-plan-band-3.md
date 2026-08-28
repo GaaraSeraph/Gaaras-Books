@@ -107,15 +107,18 @@ ist, und auf diesen Spuren sind die Schiffe **neun Monate im Jahr voll**
 | | Anteil | Stand |
 |---|---|---|
 | **Kyeongil** | etwa ein Fuenftel einer Spur | genannt, kein Gesicht |
-| **Die Nam-Operation in Ulsan** | mehr als das, **und hat sonst nichts** | genannt, kein Gesicht |
+| **Die Yang-Operation in Ulsan** | mehr als das, **und hat sonst nichts** | genannt, kein Gesicht |
 | zwei kleinere | teilen sich den Rest | **nicht einmal genannt** |
 
 **Die zwei kleineren sind die Luecke, die das Buch selbst gelassen hat**, und
 der beste Platz fuer neue Gesichter: versprochen und nie geliefert.
 
-**Vorsicht bei Nam.** Der Name kollidiert mit Nam Byung-hee, und *aus Ulsan*
-sind beide. Entweder wird die Operation umbenannt, oder die Verwechslung ist
-Absicht und muss dann einmal im Text bedient werden.
+**Umbenannt am 28.08., und das war eine Entscheidung.** Die Spedition hiess
+bis dahin **Nam** und lag damit auf Nam Byung-hee - beide aus Ulsan, beide auf
+derselben Spur. Fuer Band 3 ist die Spedition ein Gegner, und eine Verwechslung
+haette jede Szene mit ihr belastet, in der sie nicht gemeint ist. Sie heisst
+jetzt **Yang**; der Name kam im ganzen Kanon null mal vor. Geaendert wurde
+genau eine Zeile, `b1 ch15:310`, Kapitel 15 steht auf v2.17.
 
 ### 3. Offen, und drei Vorschlaege, die nichts erfinden
 

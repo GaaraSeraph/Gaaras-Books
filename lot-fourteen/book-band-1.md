@@ -25,7 +25,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 12 | v1.14 | 2.456 |
 | 13 | v2.11 | 2.822 |
 | 14 | v7.10 | 2.601 |
-| 15 | v2.16 | 4.152 |
+| 15 | v2.17 | 4.152 |
 | 16 | v1.22 | 3.231 |
 | 17 | v12.20 | 2.680 |
 | 18 | v2.13 | 2.927 |
@@ -3931,7 +3931,7 @@ Annie looked at him for a moment.
 ---
 
 # Book One · Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.16 · EN
+*Lot Fourteen* · Version 2.17 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4227,7 +4227,7 @@ Hana put her glass down.
 
 He let that stand for a moment before he filled it in.
 
-"Four other groups in your business come in on those same two lanes, on those same permits, because there are no others. I have their filings. Kyeongil takes about a fifth of one lane. The Nam operation at Ulsan takes more than that and has nothing else. Two smaller ones split what is left." He did not look away from her. "A veto over routes decides which container goes on which sailing when a sailing is full, and sailings on those lanes are full nine months of the year."
+"Four other groups in your business come in on those same two lanes, on those same permits, because there are no others. I have their filings. Kyeongil takes about a fifth of one lane. The Yang operation at Ulsan takes more than that and has nothing else. Two smaller ones split what is left." He did not look away from her. "A veto over routes decides which container goes on which sailing when a sailing is full, and sailings on those lanes are full nine months of the year."
 
 Hana had stopped moving.
 

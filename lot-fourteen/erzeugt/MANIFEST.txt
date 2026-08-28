@@ -14,7 +14,7 @@ b1  ch11  v2.14      2643 Woerter  ch11_v2_14_en.md
 b1  ch12  v1.14      2456 Woerter  ch12_v1_14_en.md
 b1  ch13  v2.11      2822 Woerter  ch13_v2_11_en.md
 b1  ch14  v7.10      2601 Woerter  ch14_v7_10_en.md
-b1  ch15  v2.16      4152 Woerter  ch15_v2_16_en.md
+b1  ch15  v2.17      4152 Woerter  ch15_v2_17_en.md
 b1  ch16  v1.22      3231 Woerter  ch16_v1_22_en.md
 b1  ch17  v12.20      2680 Woerter  ch17_v12_20_en.md
 b1  ch18  v2.13      2927 Woerter  ch18_v2_13_en.md

@@ -24,7 +24,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B1 12** *You are better when you don't know* (v1.14) · Tag 23, So 26. Oktober · Tag 26, Mi 29. Oktober · 2.456 W
 - **B1 13** *The man with the open hand* (v2.11) · Tag 27 bis 28, Do 30. bis Fr 31. Oktober · 2.822 W
 - **B1 14** *In the same size type* (v7.10) · Tag 31, Mo 3. November · Tag 33, Mi 5. November · Tag 34, Do 6. November · 2.601 W
-- **B1 15** *Four thousand two hundred* (v2.16) · Tag 41, Do 13. November · 4.152 W
+- **B1 15** *Four thousand two hundred* (v2.17) · Tag 41, Do 13. November · 4.152 W
 - **B1 16** *Where the walls are* (v1.22) · Tag 46, Di 18. November · 3.231 W
 - **B1 17** *I have never put it down* (v12.20) · Tag 46, Di 18. November · 2.680 W
 - **B1 18** *On account* (v2.13) · Tag 48, Do 20. November · 2.927 W
