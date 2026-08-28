@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 246.989 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 247.634 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -279,6 +279,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wer die ungeschriebene Regel bricht](#wer-die-ungeschriebene-regel-bricht)
   - [Der Text](#der-text)
   - [Was daran haengt](#was-daran-haengt)
+  - [Der Weg, der dieselbe Wirkung hat und in der Figur bleibt](#der-weg-der-dieselbe-wirkung-hat-und-in-der-figur-bleibt)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -15975,6 +15976,89 @@ belangt werden. Sie schon.
 **Und sie nimmt sich keine Zeit.** Das ist dieselbe Frau, die in `b2 ch87`
 auf *"Was I useful?"* mit *"Yes"* antwortet, ohne zu ueberlegen. Wer sie
 hier zoegern laesst, macht aus ihr jemand anderen.
+
+---
+
+## Braucht er andere Behoerden? Ja, und die erste Akte ist Georgijs eigene
+
+**Vom Autor gefragt am 28.08.:** es wird so viel nicht geben, also muesste er
+andere Ministerien hineinziehen.
+
+**Richtig, und der Grund ist besser als die Duenne der Beweise.** Ein
+Staatsanwalt braucht keinen Beweis dafuer, dass eine Tatsache falsch war -
+und **keine von Georgijs Tatsachen ist falsch, das ist die Bedingung des
+ganzen Bandes.** Er braucht den Nachweis, dass die **Reihenfolge** gemacht
+worden ist. Und die ist gemacht worden.
+
+**Die Form des Vorgangs ist von einer Marktmanipulation nicht zu
+unterscheiden**, obwohl jede einzelne Tatsache darin stimmt:
+
+* eine Behoerde erfaehrt von einem Quasimonopol,
+* der Kurs faellt,
+* dieselbe Kaeuferin nimmt in derselben Woche alles Freie und die Pakete der
+  Erben zum Kurs von davor,
+* die Pruefung geht gut aus.
+
+**Wer diese vier Punkte in dieser Reihenfolge sieht, braucht keine Luege, um
+eine Akte anzulegen.**
+
+**Und hier liegt die Ironie, auf der der Band stehen kann: die erste Seite in
+seiner Akte ist Georgijs eigener Hinweis.** Das, was er getan hat, damit es
+wahr ist, ist genau das, was beweist, dass er da war. Zwei Baende lang war
+seine Staerke, dass nichts seine Handschrift traegt. **Beim ersten Mal, wo er
+eine Behoerde benutzt, hinterlaesst er einen Eingang mit Datum.**
+
+**Welche Stellen dazukommen:** die Wettbewerbsbehoerde, weil er sie selbst
+angerufen hat; die Finanzaufsicht wegen der Kaeufe waehrend des Falls; und die
+Steuer, weil sie in jedem solchen Verfahren dazukommt. Das Ministerium aus
+`b1 ch09` steht bereits im Buch und hat **drei Nennungen** - Minister Min-ho.
+
+## Was er in den Ministerien tun darf, und wo er dabei ein anderer wird
+
+**Vom Autor:** die wichtigen Leute hat er am Ende befreundet, oder ihnen
+Angst eingejagt durch Erpressung, oder er hat die weniger wichtigen, waehrend
+er dem Mann die Verbuendeten absaegt.
+
+**Das Buch hat dazu dreimal entschieden, und einmal die Probe mitgeliefert.**
+
+> `b2 ch10:8` - *He is not going to threaten her. He has nothing to threaten
+> her with and she has been threatened by better men than him since before he
+> was born.*
+
+> `b2 ch23:26` - *It is not a raid and it is not a threat and there is no
+> version of it that anybody could complain about.*
+
+> `b2 ch44:52` - ***It is not a threat. A threat has an instruction in it, and
+> this has none, and a man who wanted something would have asked.***
+
+**Die Probe steht damit fest: eine Drohung hat eine Anweisung darin.** Was
+Georgij tut, hat nie eine. Er legt jemandem eine wahre Sache ueber ihn selbst
+hin, verlangt nichts, und geht.
+
+**Erpressung waere damit die erste Handlung seines Lebens, die gegen eine
+ausgesprochene Regel des Buches verstoesst.** Das ist nicht verboten - aber
+es ist eine **Veraenderung der Figur**, und Band 3 muss wissen, dass es eine
+ist, sonst liest es sich wie ein Fehler.
+
+### Der Weg, der dieselbe Wirkung hat und in der Figur bleibt
+
+**Er sagt ihnen, was ihnen angetan wurde, oder was sie getan haben, und
+verlangt nichts.** Das hat er neunmal aus dem Gang hinter der Kueche getan,
+und es hat einen Mann erledigt.
+
+**Und genau das ist Chois Verfahren.** `b2 ch72:392`, Mrs Ha ueber den
+Besuch: *"That's the part nobody would believe and it's why I've never said
+it. **He didn't ask me for one single thing.** He sat in that chair for
+twenty minutes and he was kind to me."* Elf Jahre Schweigen, ohne eine
+einzige Forderung.
+
+**Damit ist die dunkelste Fassung von Band 3 verfuegbar, und sie kostet
+nichts an Handlung:** Georgij nimmt Choi auseinander, indem er ihn liest, und
+benutzt danach dessen Verfahren an Beamten. Der Freund, der ihm den Tod
+vorwirft, hat dann ueber etwas Groesseres recht als ueber den Tod.
+
+**Das ist eine Entscheidung des Autors und keine des Textes.** Sie steht hier,
+damit sie eine ist.
 
 ---
 
