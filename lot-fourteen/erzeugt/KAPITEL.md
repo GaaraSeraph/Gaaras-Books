@@ -81,7 +81,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 35** *Built once, used twice* (v4.0) · Tag 270, Di 30. Juni · 3.321 W
 - **B2 36** *Two anchors* (v4.0) · Tag 273, Fr 3. Juli · 2.415 W
 - **B2 37** *Somebody in Seoul pays for it* (v4.0) · Tag 276, Mo 6. Juli · 2.291 W
-- **B2 38** *The line above it* (v1.5) · Tag 279, Do 9. Juli · 2.162 W
+- **B2 38** *The line above it* (v1.6) · Tag 279, Do 9. Juli · 2.164 W
 - **B2 39** *The post still comes* (v1.4) · Tag 283, Mo 13. Juli · 2.551 W
 - **B2 40** *Twelve white stems* (v1.5) · Tag 288, Sa 18. Juli · 1.889 W
 - **B2 41** *The one who does not leave* (v1.2) · Tag 290, Mo 20. Juli · 2.296 W

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 85 Kapitel, 226.903 Woerter.
+Book Two, 85 Kapitel, 226.905 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -48,7 +48,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 35 | v4.0 | 3.321 |
 | 36 | v4.0 | 2.415 |
 | 37 | v4.0 | 2.291 |
-| 38 | v1.5 | 2.162 |
+| 38 | v1.6 | 2.164 |
 | 39 | v1.4 | 2.551 |
 | 40 | v1.5 | 1.889 |
 | 41 | v1.2 | 2.296 |
@@ -9297,7 +9297,7 @@ Then he wrote the last of it, and it took him two attempts, because the first on
 ---
 
 # Book Two · Chapter 38: The line above it
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Seventy-Nine · Thursday 9 July
 
@@ -9445,11 +9445,13 @@ He looked. She was right, and the second one stopped halfway through a word.
 
 "I know when you last slept properly," she said. "You do not, which is the part I mind. Finish the line and then stop."
 
-He finished the line. Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side. She stayed there while he closed the book and put the two folded pieces of paper in his pocket.
+He finished the line. Then he went round the desk and down onto the carpet at the end of it, with his back against the drawers.
+
+She stayed where she was on the edge of it while he closed the book and put the two folded pieces of paper in his pocket.
 
 "He should hear it from a person and not a telephone," said Georgij. "I will ask him for an hour this week, Mistress."
 
-"Then it keeps until he gives you one." She reached up without looking and put two fingers on his wrist and took them away again. "Give the man in the grey suit his book and send him home. He has been sitting in my hall for five hours with his hat on his knees, and somebody in this house ought to notice."
+"Then it keeps until he gives you one." She reached down without looking and put two fingers on his wrist and took them away again. "Give the man in the grey suit his book and send him home. He has been sitting in my hall for five hours with his hat on his knees, and somebody in this house ought to notice."
 
 She put two fingers on his wrist and then sent him to be decent to a stranger, and only one of those was an instruction.
 

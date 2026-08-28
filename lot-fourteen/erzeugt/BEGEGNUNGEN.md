@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 861 | 89 (b1ch01-b2ch85) | 1 | 590 |
+| Annie | 860 | 89 (b1ch01-b2ch85) | 1 | 590 |
 | Park Sang-hoon | 303 | 44 (b1ch10-b2ch85) | 22 | 590 |
 | Chairman Woo | 229 | 39 (b1ch07-b2ch85) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch85) | 22 | 590 |
@@ -71,7 +71,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-861 Nennungen in 89 Kapiteln.
+860 Nennungen in 89 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -717,7 +717,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 279 | b2ch38:166 | "Say it in the order you got it," said Annie. |
 | 279 | b2ch38:182 | Annie sat down on the edge of the desk with her back half to him and looked at the open .. |
 | 279 | b2ch38:202 | "You have written that sentence twice," said Annie. |
-| 279 | b2ch38:212 | He finished the line. Annie came off the edge of the desk and sat down on the floor at t.. |
 | 283 | b2ch39:164 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
 | 283 | b2ch39:172 | Annie did not sit down. |
 | 283 | b2ch39:182 | "That is the same man," said Annie. |
@@ -1115,7 +1114,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch37:127` (Tag 276) - three
 - `b2ch37:215` (Tag 276) - one
 - `b2ch38:10` (Tag 279) - four, one
-- `b2ch38:212` (Tag 279) - two
 - `b2ch39:230` (Tag 283) - one
 - `b2ch40:104` (Tag 288) - ten
 - `b2ch40:174` (Tag 288) - one
