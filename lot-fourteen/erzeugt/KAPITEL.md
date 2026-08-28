@@ -132,4 +132,4 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 86** *Please guide me* (v3.13) · Tag 531, Do 18. Maerz · 3.233 W
 - **B2 87** *The length of the room* (v3.16) · Tag 531, Do 18. Maerz · 3.807 W
 - **B2 88** *Not the comfortable part* (v3.4) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 2.956 W
-- **B2 89** *The weapon* (v3.2) · Tag 590, So 16. Mai · 2.637 W
+- **B2 89** *The weapon* (v3.3) · Tag 590, So 16. Mai · 2.652 W

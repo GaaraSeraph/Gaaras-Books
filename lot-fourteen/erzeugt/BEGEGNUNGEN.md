@@ -3363,7 +3363,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch86:534 | At the door there was one thing and it was Choi Dae-ho's, and Georgij heard it with his .. |
 | 531 | b2ch87:54 | Choi Dae-ho walked the length of that dining room to get to the hall. |
 | 531 | b2ch87:266 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
-| 590 | b2ch89:6 | Choi Dae-ho has not been seen since the eighth of April. |
+| 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 

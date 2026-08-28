@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.055 Woerter.
+Book Two, 89 Kapitel, 227.070 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 86 | v3.13 | 3.233 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.4 | 2.956 |
-| 89 | v3.2 | 2.637 |
+| 89 | v3.3 | 2.652 |
 
 ---
 
@@ -20125,11 +20125,11 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
-Choi Dae-ho has not been seen since the eighth of April.
+Choi Dae-ho has been dead since the eighth of April.
 
 Not because he hid. He did not hide at all.
 
@@ -20141,7 +20141,7 @@ He wrote in March about the suspension and had no answer, and he wrote again on 
 
 The second one came back on the twentieth marked *gone away*, in a hand belonging to a clerk in a solicitor's office in Jung-gu who has forwarded four things in eleven years.
 
-He telephoned the office. They said the arrangement had been ended by the client on the eighth and that there was no forwarding address. The girl who told him that was perfectly pleasant about it and had no idea what she was saying.
+He telephoned the office. They said the client had died on the eighth, and that the estate was not theirs, and that there was no address for anybody at all. The girl who told him that was perfectly pleasant about it and had no idea what she was saying.
 
 * * *
 
@@ -20149,7 +20149,7 @@ Park Sang-hoon has heard nothing in the trade, and he has asked in three places 
 
 Chairman Woo telephoned once, in April, and asked one question and rang off, and the question was whether it was finished.
 
-Nobody in this book knows where he is and nobody has looked.
+Nobody in this book knows whose hand it was, and nobody has looked.
 
 * * *
 
@@ -20285,7 +20285,7 @@ At some point in the middle of it her hand came down into his hair, at the back,
 
 He sat with that for a while.
 
-"On the thirtieth of April last year I told a woman in Ulsan that I was going to have him," he said. "I have said out loud since that I am not going to kill him, and I meant it. A man went out of a gate on the eighteenth of March and has not been seen since the eighth of April."
+"On the thirtieth of April last year I told a woman in Ulsan that I was going to have him," he said. "I have said out loud since that I am not going to kill him, and I meant it. A man went out of a gate on the eighteenth of March and was dead three weeks later, and it was not me, and I do not know whose it was."
 
 "That is the one that is easiest to say at nine o'clock."
 

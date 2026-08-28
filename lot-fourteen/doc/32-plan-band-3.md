@@ -319,21 +319,35 @@ Annie went back to the page.
 **Schule oder Universitaet, und es ist keine Zweckfreundschaft.** Er wirft
 Georgij Chois Tod vor.
 
-**Und hier steht der Text der Idee im Weg, und zwar zu ihren Gunsten: Choi
-ist nicht tot.** `b2 ch89:6` sagt genau so viel und nicht mehr:
+**Choi ist tot, und das ist am 28.08. eindeutig gemacht worden.** Das
+Kapitel liess es offen - *has not been seen*, *nobody knows where he is* -,
+und das war nicht die Absicht: sie steht seit dem 26.08. im Buch, *Choi
+ueberlebt das Ende nicht, und Georgij hat ihn trotzdem nicht gehabt.*
 
-> *Choi Dae-ho has not been seen since the eighth of April.*
+`b2 ch89` sagt jetzt:
 
-Und `b2 ch89:212`, Georgij selbst: *"I have said out loud since that I am not
-going to kill him, and I meant it. A man went out of a gate on the eighteenth
-of March and has not been seen since the eighth of April."*
+> *Choi Dae-ho has been dead since the eighth of April.*
+> *Nobody in this book knows whose hand it was, and nobody has looked.*
 
-**Damit ist die Anklage besser als eine richtige.** Der Freund beschuldigt ihn
-eines Todes, den niemand festgestellt hat. Georgij kann wahrheitsgemaess
-sagen, dass er ihn nicht getoetet hat - und er kann **nicht sagen, was
-geschehen ist, weil er es nicht weiss.** Es gibt dafuer sogar ein Muster im
-Buch: bei Byun sagt er *"it was not us who did that and I arranged not to
-know how"*.
+**Die Mechanik war schon gebaut.** `b2 ch65:134` sagt ueber den Trust: *By
+him. Not by his estate, not by a successor, not by a person acting under a
+power. **Him, personally, in his lifetime.*** Ein Treuhaender, dessen
+Errichter stirbt, erfaehrt es, und das Kapitel erfaehrt ohnehin alles so: ein
+Blatt kommt zurueck. Baek bekommt es aus einer Kanzlei in Jung-gu, von einer
+Sachbearbeiterin, die keine Ahnung hat, was sie gerade sagt.
+
+**Was sich nicht geaendert hat und nicht aendern darf:** niemand in diesem
+Haus hat es getan, niemand hat es bestellt, und niemand sieht nach.
+Georgijs Zeile lautet jetzt *"A man went out of a gate on the eighteenth of
+March and was dead three weeks later, and it was not me, and I do not know
+whose it was."* Achtzehnter Maerz bis achter April sind genau einundzwanzig
+Tage.
+
+**Damit ist die Anklage des Freundes schwerer als eine richtige.** Der Tod
+steht fest. Georgij kann wahrheitsgemaess sagen, dass er ihn nicht getoetet
+hat - und er kann **nicht sagen, wer es war, weil er es nicht weiss und weil
+er sich darum gebracht hat, es zu wissen.** Das Muster steht im Buch: bei
+Byun sagt er *"it was not us who did that and I arranged not to know how"*.
 
 **Ein Mann, der nie luegt, hat auf den schwersten Vorwurf seines Lebens genau
 eine Antwort, und sie klingt wie eine Ausrede.**
@@ -398,16 +412,26 @@ etwas, das er sich leisten kann, weil sie ihn braucht. Oder danach, und dann
 kauft sie sich mit einem Mann in ein Unternehmen ein, dem sie gerade gesagt
 hat, dass sie lieber brennt.
 
-### Die ungeschriebene Regel bricht sie, nicht er
+### Wer die ungeschriebene Regel bricht
 
-Georgij ist kein Chaebol und kann keine Chaebol-Regel brechen. **Annie kann
-es**, und sie ist es, die dafuer beurteilt wird. Das ist die Verbindung
-zwischen den drei Gegnern: nicht ihre Sache eint sie, sondern **dass eine von
-ihnen einen von ihnen zerlegt hat.**
+**Vom Autor berichtigt: er bricht sie, indem er den Mann zerstoert.** Meine
+erste Fassung schrieb es Annie zu, weil nur Chaebols an die Regel gebunden
+sind. Die Berichtigung ist die bessere Fassung, und aus einem Grund, der
+groesser ist als die Zurechnung:
 
-Und der Satz dahinter gehoert Georgij und nicht ihr: **fuer Annie darf die
-Welt brennen.** Er wird ihn nicht sagen. Er wird es tun, und jemand anders
-wird es aussprechen.
+**Ein Mann, der nichts besitzt, bricht eine Regel, die es nur zwischen
+Besitzenden gibt.** Sie gilt nicht fuer ihn, also kann sie ihn auch nicht
+strafen. Es gibt keinen Raum, in dem er dafuer belangt wird, und keine
+Waehrung, in der er zahlen koennte - er hat nichts.
+
+**Also geht die Strafe an sie.** Er bricht die Regel, und sie steht dafuer
+gerade. Das ist die Klammer um alle drei Gegner: nicht ihre Sache eint sie,
+sondern **dass eine von ihnen einen von ihnen verloren hat, und dass es der
+Mann einer Frau war.**
+
+Und der Satz dahinter gehoert ihm und nicht ihr: **fuer Annie darf die Welt
+brennen.** Er wird ihn nicht sagen. Er wird es tun, und jemand anders wird
+ihn aussprechen.
 
 ## Gegner 3, der Vetobetroffene: offen
 
