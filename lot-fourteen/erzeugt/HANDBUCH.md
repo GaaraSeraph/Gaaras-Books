@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 240.980 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 241.429 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -5869,6 +5869,10 @@ wird.**
 ---
 
 ## Offen
+
+- [BEZAHLT] **B2 29** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "Who else has been at that man's table." · B2 30, am fuenften Tag, und geliefert hat es **Sang-hoon** und nicht sie: *"I have been at that man's table for eight years."*
+- [BEZAHLT] **B2 29** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "Whether anybody has ever once seen him lose." · B2 32, vier Tage spaet: einmal, vor elf Jahren, **und es hat ihn nicht beendet.** Annie stellt die zweite Lesart daneben und laesst beide stehen. **Die eigentliche Antwort steht am Bandende** - sechsundzwanzig Leute sehen elf Meter zu
+- [OFFEN] **B2 29** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 35, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
 
 - [KEINE] **B2 58** Annie an Georgij · gesagt Tag 319 · faellig bei nichts · "I will have to buy a consignment from a house that is going to be finished by Christmas" · Dieselbe Zusage steht weiter unten als BEZAHLT. `--neu` meldet sie noch einmal, weil sie im Kapitel mit einem Komma endet und der Wortlaut im Buch ohne eines steht
 - [KEINE] **B2 83** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei nichts · "I will have a day when the placing party has the form" · Keine Zusage, sondern eine Auskunft ueber den Stand eines fremden Verfahrens. Der Termin selbst steht als eigener Posten im Buch
@@ -15235,6 +15239,36 @@ beilaeufig widerrufen oder das zweite Los im Vorbeigehen erklaeren. **Er steht
 da, damit er in Band 3 aufgemacht werden kann**, und die einzige Stelle, an der
 er im Buch auftaucht, ist eine Nebenbemerkung ueber eine Zahlung an einen
 Registerfuehrer.
+
+## Singapur ist nie angefasst worden, und das ist kein Versehen mehr
+
+**Vom Autor am 28.08. benannt.** Die Anwaltskette in Singapur laeuft durch
+beide Baende und wird nie geoeffnet.
+
+| Wo | Was dort steht |
+|---|---|
+| `b1 ch13:96` | Ein Fonds, dessen wirtschaftlich Berechtigte in eine Kette von Kanzleien in Singapur laufen **und dort aufhoeren** |
+| `b1 ch13:208` | *"The filings end in Singapore, and behind Singapore there is a company in Hong Kong."* |
+| `b1 ch13:210` | **Chairman Woo reagiert nicht auf Hongkong**, und das ist eine eigene Zeile |
+| `b1 ch19:162` | Woo: zwanzig Prozent des Terminals schuldet er seit dem Baujahr einem Fonds aus derselben Kette |
+| `b2 ch25:152` | Choi ist Direktor einer Private-Equity-Firma in Hongkong **ueber genau diese Kette** |
+| `b2 ch29:374` | Annie sagt zu, in vier Tagen herauszufinden, was er dahinter besitzt |
+| `b2 ch35:254` | Sang-hoon: *"I have not found the Singapore end yet."* |
+
+**Danach kommt das Wort im Buch nicht mehr vor.**
+
+**Warum das als Material taugt und nicht als Loch.** Band 2 nimmt ihm die
+Leute, die Papiere und den Namen. Es nimmt ihm nicht das **Geld**, und der
+Text sagt selbst zweimal, dass niemand weiss, wo es liegt. Das ist der
+einzige Teil des Mannes, den `b2 ch82` nicht aufzaehlen kann - Georgij
+zaehlt dort sieben Dinge auf und Singapur ist bei keinem davon.
+
+**Und es haengt an Woo.** Dieselbe Kette haelt zwanzig Prozent seines
+Terminals, seit dem Jahr, in dem er es gebaut hat. Wer Singapur oeffnet,
+oeffnet nicht nur Choi.
+
+**Die Zusage steht als OFFEN im Schuldbuch**, mit Datum und Frist, damit sie
+nicht als vergessener Faden wiederkommt.
 
 ---
 

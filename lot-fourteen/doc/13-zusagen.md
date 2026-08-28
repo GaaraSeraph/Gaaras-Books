@@ -94,6 +94,10 @@ wird.**
 
 ## Offen
 
+- [BEZAHLT] **B2 29** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "Who else has been at that man's table." · B2 30, am fuenften Tag, und geliefert hat es **Sang-hoon** und nicht sie: *"I have been at that man's table for eight years."*
+- [BEZAHLT] **B2 29** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "Whether anybody has ever once seen him lose." · B2 32, vier Tage spaet: einmal, vor elf Jahren, **und es hat ihn nicht beendet.** Annie stellt die zweite Lesart daneben und laesst beide stehen. **Die eigentliche Antwort steht am Bandende** - sechsundzwanzig Leute sehen elf Meter zu
+- [OFFEN] **B2 29** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 35, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
+
 - [KEINE] **B2 58** Annie an Georgij · gesagt Tag 319 · faellig bei nichts · "I will have to buy a consignment from a house that is going to be finished by Christmas" · Dieselbe Zusage steht weiter unten als BEZAHLT. `--neu` meldet sie noch einmal, weil sie im Kapitel mit einem Komma endet und der Wortlaut im Buch ohne eines steht
 - [KEINE] **B2 83** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei nichts · "I will have a day when the placing party has the form" · Keine Zusage, sondern eine Auskunft ueber den Stand eines fremden Verfahrens. Der Termin selbst steht als eigener Posten im Buch
 

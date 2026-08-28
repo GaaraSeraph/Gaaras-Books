@@ -49,3 +49,34 @@ beilaeufig widerrufen oder das zweite Los im Vorbeigehen erklaeren. **Er steht
 da, damit er in Band 3 aufgemacht werden kann**, und die einzige Stelle, an der
 er im Buch auftaucht, ist eine Nebenbemerkung ueber eine Zahlung an einen
 Registerfuehrer.
+
+## Singapur ist nie angefasst worden, und das ist kein Versehen mehr
+
+**Vom Autor am 28.08. benannt.** Die Anwaltskette in Singapur laeuft durch
+beide Baende und wird nie geoeffnet.
+
+| Wo | Was dort steht |
+|---|---|
+| `b1 ch13:96` | Ein Fonds, dessen wirtschaftlich Berechtigte in eine Kette von Kanzleien in Singapur laufen **und dort aufhoeren** |
+| `b1 ch13:208` | *"The filings end in Singapore, and behind Singapore there is a company in Hong Kong."* |
+| `b1 ch13:210` | **Chairman Woo reagiert nicht auf Hongkong**, und das ist eine eigene Zeile |
+| `b1 ch19:162` | Woo: zwanzig Prozent des Terminals schuldet er seit dem Baujahr einem Fonds aus derselben Kette |
+| `b2 ch25:152` | Choi ist Direktor einer Private-Equity-Firma in Hongkong **ueber genau diese Kette** |
+| `b2 ch29:374` | Annie sagt zu, in vier Tagen herauszufinden, was er dahinter besitzt |
+| `b2 ch35:254` | Sang-hoon: *"I have not found the Singapore end yet."* |
+
+**Danach kommt das Wort im Buch nicht mehr vor.**
+
+**Warum das als Material taugt und nicht als Loch.** Band 2 nimmt ihm die
+Leute, die Papiere und den Namen. Es nimmt ihm nicht das **Geld**, und der
+Text sagt selbst zweimal, dass niemand weiss, wo es liegt. Das ist der
+einzige Teil des Mannes, den `b2 ch82` nicht aufzaehlen kann - Georgij
+zaehlt dort sieben Dinge auf und Singapur ist bei keinem davon.
+
+**Und es haengt an Woo.** Dieselbe Kette haelt zwanzig Prozent seines
+Terminals, seit dem Jahr, in dem er es gebaut hat. Wer Singapur oeffnet,
+oeffnet nicht nur Choi.
+
+**Die Zusage steht als OFFEN im Schuldbuch**, mit Datum und Frist, damit sie
+nicht als vergessener Faden wiederkommt.
+
