@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 249.583 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 250.209 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -290,6 +290,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Einheiten der Gruppe, und was mit jeder geschieht](#die-einheiten-der-gruppe-und-was-mit-jeder-geschieht)
   - [Die Tochter, an der Geld fehlte, und wer sich darum gekuemmert hat](#die-tochter-an-der-geld-fehlte-und-wer-sich-darum-gekuemmert-hat)
   - [Shipping war nicht profitabel, bevor Sang-hoon uebernommen hat](#shipping-war-nicht-profitabel-bevor-sang-hoon-uebernommen-hat)
+  - [Hanseong Credit: der Beweis liegt bei einer Bank, die es nicht mehr gibt](#hanseong-credit-der-beweis-liegt-bei-einer-bank-die-es-nicht-mehr-gibt)
+  - [Die schwarzen Kassen, und warum sie zwei Schlaege in einem sind](#die-schwarzen-kassen-und-warum-sie-zwei-schlaege-in-einem-sind)
+  - [Die Warnung dazu, und sie ist ernst](#die-warnung-dazu-und-sie-ist-ernst)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -405,7 +408,7 @@ Naechstes kommt: `doc/31-plan-band-2.md`.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **16 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 327.796 Woerter.**
+**123 Kapitel, 327.806 Woerter.**
 
 ---
 
@@ -16314,6 +16317,82 @@ gesunde Stueck der Gruppe ist gesund, weil er es gesund gemacht hat - nachdem
 Georgij ihn dort hineingestellt hatte. Wer ihm das nimmt, nimmt ihm nicht ein
 Vermoegen, sondern die einzige Sache in diesem Buch, die er selbst gebaut
 hat.
+
+### Hanseong Credit: der Beweis liegt bei einer Bank, die es nicht mehr gibt
+
+**Vom Autor am 28.08.**, mit Wirecard, Greensill und Maple als Analogien: die
+Zahlen, die Credit meldet, stehen in den Abschluessen einer Bank, **die
+untergegangen ist**.
+
+**Das ist die genaue Umkehrung dessen, worauf Band 2 endet.** Dort ist eine
+tote Einrichtung das, was den Taeter schuetzt:
+
+* `b2 ch59:178`, Mr Hwang - *"I am the administrator of a house that is going
+  to be gone by Christmas. **After that there is no series left to ask**."*
+* `b2 ch87:326`, Georgij - *"Six hundred and forty people have a tidied
+  catalogue in a drawer and not one of them can prove what it is, **because a
+  house that is gone cannot be asked to say**."*
+
+**Hier ist es umgekehrt, und der Unterschied ist, wer abwickelt.** Ein
+Auktionshaus wird von seinem eigenen Verwalter abgewickelt, der schweigen
+darf. **Eine gescheiterte Bank wird von einem Insolvenzverwalter abgewickelt,
+dessen Beruf das Aussprechen ist.** Ihre Buecher werden geoeffnet, geprueft,
+bestritten und aktenkundig - und danach sind sie zu haben.
+
+**Damit braucht Georgij niemanden im Inneren.** Er braucht das, was er seit
+`b2 ch79:346` tut: *He read a register in January and found five firms on a
+lane and asked about the sixth.* **Regel 1 bleibt unangetastet: nichts wird
+erfunden, es hat nur nie jemand nachgesehen.**
+
+**Was noch fehlt: die Bank braucht einen Namen.** Freie Nachnamen im Buch:
+Yun, Song, Tak, Seol, Wi, Chu.
+
+### Die schwarzen Kassen, und warum sie zwei Schlaege in einem sind
+
+**Vom Autor:** die schwarzen Kassen werden offengelegt, damit der Inhaber die
+Mittel verliert, das Uebrige zu retten - und das ist zugleich der Angriff.
+
+**Das ist der Punkt und er ist gut: es ist kein Skandal, es ist eine
+Liquiditaetssperre.** Wer nicht an sein verstecktes Geld kommt, kann keine
+Aktien zurueckkaufen, keine Verteidigung bezahlen und die Verlustbetriebe
+nicht mehr stuetzen. **Die Enthuellung und der Boersenangriff sind derselbe
+Schlag.**
+
+**Und Georgij hat genau das schon einmal versucht und aufgegeben.**
+`b1 ch13:56` und `b1 ch19:216`:
+
+> *A corporate services provider in Jung-gu with six employees and no website
+> worth the name... It exists so that other companies do not have to appear on
+> dockets. Behind it there would be another one, and behind that a third.*
+>
+> *"...and **I am not going to get to the end of it that way. I have tried
+> since October**."*
+
+**Das ist die beste Vorlage, die Band 3 hat.** Die eine Sache, an der er in
+Band 1 gescheitert ist, macht er jetzt - und er hat inzwischen, was ihm
+damals fehlte: Annies Geld, Woo, achtzehn Monate Registerlesen und einen
+Namen, den Leute annehmen.
+
+**Und hier faellt Singapur an seinen Platz.** `b1 ch13:96` - *a fund whose
+beneficial ownership ran into a chain of law firms in Singapore **and stopped
+there***. Dieselbe Kette haelt zwanzig Prozent von Woos Terminal
+(`b1 ch19:162`). **Sie bedient mehr als einen Mann.** Wer die schwarzen Kassen
+des Hanseong-Inhabers aufmacht, kommt an derselben Stelle heraus - und loest
+damit Annies offene Zusage aus `b2 ch32:374` ein, die einzige der drei, die
+nie bezahlt wurde.
+
+### Die Warnung dazu, und sie ist ernst
+
+**Annie hat selbst eine.** `b1 ch25:58` fuehrt unter ihren drei
+Gegenparteien *the corporate services firm in Jung-gu*, und `b1 ch34:90` sagt:
+
+> *On the twenty-third of January a renewal at the corporate services firm in
+> Jung-gu came up against a date. Annie was in Yeouido until nine, and
+> **Georgij was the only person in that house entitled to put a name on it**.*
+
+**Wer die Maschinerie des verdeckten Eigentums oeffentlich macht, oeffnet sie
+fuer alle, die sie benutzen.** Das trifft den Gegner zuerst und sie danach -
+und auf einem Blatt in dieser Sache steht sein eigener Name.
 
 ---
 
