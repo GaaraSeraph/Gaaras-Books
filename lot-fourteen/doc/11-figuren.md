@@ -1359,10 +1359,22 @@ steht der Widerspruch am selben Abend wieder da.
 
 **Der Gegner von Band 3.** Ausfuehrlich in `doc/32-plan-band-3.md`.
 
-**Er hat nie etwas gebaut, und das Haus ist alt.** Nicht zwei Generationen -
-**vier**, und die ersten drei konnten es alle. Gegruendet in den dreissiger
-Jahren, vier Vorsitzende vor ihm, **und er ist der erste, unter dem etwas
-kleiner geworden ist.** Er hat bekommen, **weil er zuerst geboren wurde.**
+**Er hat nie etwas gebaut, und das Haus ist wirklich alt.** Am 28.08.
+praezisiert: **hundert Jahre reichen fuer diesen Hochmut nicht.**
+
+**Zwei Datumsangaben, und sie liegen absichtlich weit auseinander:**
+
+* **Die Familie** fuehrt sich auf das achtzehnte Jahrhundert zurueck. Daher
+  kommt der Standesduenkel.
+* **Die Firma** ist zwanzigstes Jahrhundert. Daher kommt das Geld.
+
+**Ein Chaebol kann nicht von 1730 sein, ein Haus schon** - und genau in dieser
+Luecke sitzt die Figur: **der Hochmut ist aelter als die Firma und wird auf
+sie uebertragen.**
+
+**Vier Vorsitzende vor ihm, und alle konnten es. Er ist der erste, unter dem
+etwas kleiner geworden ist**, und er hat bekommen, weil er zuerst geboren
+wurde.
 
 **Unfaehig im Geschaeft. Unangreifbar in der Stellung.** Seine Unfaehigkeit
 ist der Grund, warum die Gruppe angreifbar ist. Seine Unangreifbarkeit ist
@@ -1430,6 +1442,100 @@ jemand sagt es ihm. Am besten weiss er nicht, dass er es tut.
 **Der Preis ist eine Szene und kein Fehler:** es ist lesbar. Wer aufpasst,
 lernt an einem Abend, dass man diesen Mann nicht ueber ihn selbst erreicht,
 sondern ueber sie.
+
+---
+
+---
+
+## Georgijs Vorgeschichte, aufgemacht am 28.08.
+
+**Vom Autor entschieden:** die alte Versklavung wird zum Thema, **spaetestens
+in dem Band, in dem er neben Annie schlaeft.** Kindesmisshandlung,
+Erniedrigung, Folter, auch sexuell - **und ausgefuehrt so, dass man nichts
+sieht, damit die Ware weitergegeben werden kann.**
+
+**Es muss dafuer fast nichts erfunden werden.** Der Kanon hat es gebaut und
+nie aufgemacht.
+
+| Stelle | Was schon dasteht |
+|---|---|
+| `b1 ch01:10` | *Georgij had been **nine years old** when somebody worked out what his mother owed and decided the arithmetic included him.* |
+| `b1 ch01:34` | *Only the last four had ever bothered to record a reason. Before that he had been a child, **and children get moved without paperwork.*** |
+| `b1 ch01:30` | *Male, twenty-six. **No medical history.** Prior placements: eleven. **Prior returns: four. Reason recorded in each case: complex character. Violent.*** |
+| `b1 ch02:34` | *His jaw ached and there was blood somewhere at the back of his mouth **and his face had not moved.** Marble. **It had cost him eleven houses to learn and it was the only thing he owned.*** |
+
+### Die Tuer heisst *No medical history*
+
+**Das ist die Zeile, durch die es hineingeht, und sie wird in Kapitel 1 laut
+vorgelesen, von einem Rundfunksprecher mit guter Stimme.** In diesem Handel
+ist sie eine Anpreisung: **an dieser Ware ist nichts kaputt.**
+
+**Und sie ist genau die Luege, die der Autor meint.** Sie heisst nicht, dass
+nichts geschehen ist. **Sie heisst, dass nichts zu sehen ist.**
+
+### Die Regel fuer das Schreiben, und sie steht schon im Buch
+
+**1. Nie darstellen. Die Anforderung nennen, nicht den Vorgang.** Er
+beschreibt kein Ereignis. **Er beschreibt, was ein Haus tun muss, um diese
+drei Woerter noch schreiben zu koennen.** Das ist schlimmer als jede
+Schilderung und es bleibt vollstaendig innerhalb der Regeln des Buches.
+
+**2. Regel 3 verbietet ihm die Zahlen, und das ist hier ein Geschenk.** Er
+kann nicht sagen, wie oft, wie lange, wie alt. **Er kann nur sagen, was
+verlangt war.**
+
+**3. Die Gegenakte existiert schon:** *Prior returns: four. Reason recorded in
+each case: complex character. Violent.* **Viermal hat er aufgehoert, weitergebbar
+zu sein**, und die Papiere des Handels haben seinen Widerstand aus Versehen
+mitprotokolliert.
+
+**4. Niemand kommentiert.** Kein Trost, keine sichtbare Reaktion. Das ist die
+Methode des ganzen Buches.
+
+**5. Und es erklaert Kapitel 1, ohne es zu erwaehnen.** Keine Zeile darf die
+Verbindung ziehen.
+
+### Denn die Haerte ist nicht zu begruenden, sie ist der Anfang
+
+**`b1 ch01:20`:** *Georgij watched the man raise his hand for the bid, and
+watched what his face did while **the boy** was brought down off the platform.
+After that he stopped thinking about the auction at all.*
+
+**`b1 ch01:122`, sie fragt, ab wann er es entschieden hatte:** *"When he
+bought the boy."*
+
+**Er hat auf Seite eins ein Menschenleben in drei Sekunden zerstoert, wegen
+eines Vierzehnjaehrigen, und das Buch hat nie gesagt, warum das ausgerechnet
+ihn so trifft.** Es muss also nichts eingefuehrt werden. **Es muss etwas
+eingeloest werden.**
+
+### Und der Junge ist offen, und Georgij weiss, wo er ist
+
+`b2 ch27:180`: *"Lot eleven and lot fourteen, four lines apart. I was in the
+room for both of them, and I was one of them."*
+
+`b2 ch50:190`: *"Byun came to you in February about that one because it
+frightened him, **and it frightened him because of what the buyer wanted.**"*
+
+`b2 ch56:104`: *"**I know where the house is. I have known since the sixth of
+July.** I am not going to tell you, and I am not going to tell you today or
+next month."*
+
+**Das ist der Ort, an dem dieses Material im Buch bereits wartet.**
+
+### Der Satz, der dann rueckwaerts explodiert
+
+`b1 ch24:218`, von ihm, freiwillig, in seinem Zahlenton gesagt:
+
+> "Never in front of anybody." ... "Do it in a corridor. Do it in that study
+> with the door shut. **Do it while I am asleep, and you will not hear one
+> word about it from me**, because you own the thing round my neck and I have
+> never once pretended otherwise."
+
+**Ein Mann bietet einer Frau an, ihn im Schlaf zu schlagen.** Er sagt es wie
+eine Zahl, weil es siebzehn Jahre lang die Abmachung war. **In dem Band, in
+dem er neben ihr schlaeft, steht dieser Satz aus Band 1 hinter jeder Nacht** -
+und niemand muss ihn zitieren.
 
 ---
 

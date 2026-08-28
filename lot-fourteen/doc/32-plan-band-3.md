@@ -2259,22 +2259,45 @@ Mengenangabe.**
 
 ## Der Erbe: Vater konnte es, Grossvater konnte es, er ist der aelteste Sohn
 
-**Vom Autor am 28.08. festgelegt, am selben Tag praezisiert: das Haus ist
-alt.** Nicht Vater und Grossvater, sondern **vier Generationen** - gegruendet
-in den dreissiger Jahren, vier Vorsitzende vor ihm, und alle drei vor seinem
-Vater konnten es auch. **Er ist der erste, unter dem etwas kleiner geworden
-ist**, und er hat es bekommen, weil er zuerst geboren wurde.
+**Vom Autor am 28.08. festgelegt und am selben Tag zweimal praezisiert.**
+**Hundert Jahre reichen fuer diesen Hochmut nicht** - und die Loesung ist,
+dass die zwei Datumsangaben auseinanderliegen:
+
+* **Die Familie** fuehrt sich auf das achtzehnte Jahrhundert zurueck. **Daher
+  der Standesduenkel.**
+* **Die Firma** ist zwanzigstes Jahrhundert. **Daher das Geld.**
+
+**Ein Chaebol kann nicht von 1730 sein, ein Haus schon.** Genau in dieser
+Luecke sitzt die Figur, und sie ist die Figur: **der Hochmut ist aelter als
+die Firma und wird auf sie uebertragen.** Vier Vorsitzende vor ihm, alle
+konnten es, **und er ist der erste, unter dem etwas kleiner geworden ist.**
 
 **Das macht die Tabelle unten nicht kleiner, sondern tiefer.** Der Verfall
-laesst sich nicht gegen ein Berufsleben legen, sondern **gegen ein
-Jahrhundert.**
+laesst sich nicht gegen ein Berufsleben legen, sondern gegen ein
+Jahrhundert - **und der Duenkel gegen drei.**
 
-**Und ein Haus dieses Alters hat eine Erzaehlung ueber sich selbst, die aelter
-ist als die Firma.** Wer sich fuer Adel haelt, beruft sich auf etwas vor den
-dreissiger Jahren. **Das steht entweder in einem Register oder es steht
-nirgends** - und Georgij ist der Mann, der Register zieht. **Nur als
-Moeglichkeit notiert, nicht als Plan.** Es waere die genaue Umkehrung von
-*upstart*, und es waere wahr oder es unterbleibt.
+### Und der Registerzug ist vom Autor vorausgesetzt
+
+**Am 28.08. bestaetigt.** Ein Anspruch auf das achtzehnte Jahrhundert **steht
+entweder in einem Buch oder er steht nirgends**, und Georgij ist der Mann,
+der Buecher zieht. Das ganze Verfahren von Band 2 war das.
+
+**Drei Ebenen, und jede tiefer als die davor. Was benutzt wird, entscheidet
+der Band:**
+
+**1. Die Linie ist juenger, als sie sagt.** Im spaeten Joseon war Standes-
+zugehoerigkeit kaeuflich, und Genealogien wurden gekauft und ergaenzt. **Ein
+Haus, das sich auf 1730 beruft, kann den Eintrag 1870 erworben haben.**
+
+**2. Das Geld ist juenger als die Firma sagt.** Wo das Anfangsvermoegen
+herkam, ist in diesem Land bis heute keine akademische Frage.
+
+**3. Und das Verfahren dagegen ist immer dasselbe:** nichts behaupten,
+nichts erfinden, **die Seite hinlegen und den anderen rechnen lassen.**
+
+**Die Regel darueber bleibt Regel 1.** Was im Register steht, darf er sagen.
+Was nicht darin steht, sagt er nicht, auch wenn es stimmt. **Und wenn keine
+Seite gefunden wird, unterbleibt der ganze Zug.**
 
 **Das loest die Gefahr von oben vollstaendig**, und zwar besser als meine
 Fassung. Ich hatte "unfaehig im Geschaeft, unangreifbar in der Stellung"
@@ -2618,4 +2641,61 @@ zurueckziehen kann** - und das ist woertlich die Formel, mit der Georgij in
 Band 2 gewonnen hat (`b2 ch59:102`, `b2 ch87:350`).
 
 **Zum ersten Mal steht sie auf der anderen Seite dieser Formel.**
+
+---
+
+## Regel 2 ist mit der Hochzeit erledigt, und die Leiter wird dadurch kuerzer
+
+**Vom Autor am 28.08. festgelegt:** spaetestens mit der Hochzeit ist Regel 2
+**vollstaendig gebrochen und gegenstandslos.**
+
+| Band | Was mit Regel 2 geschieht |
+|---|---|
+| **3** | der erste Riss: er verfuegt ueber etwas, das ihm nicht gehoert |
+| **4** | Personalnummer und erster Lohn |
+| **5** | **die Ehe, und danach gibt es die Regel nicht mehr** |
+| **6** | die Regel ist weg. Es geht nicht mehr ums Haben, sondern ums Fuehren |
+
+**Damit sind die zwei Fragen sauber getrennt, und das ist besser als meine
+Fassung von vorhin:** **Band 5 schliesst die Besitzfrage. Band 6 schliesst
+die Frage, ob er es kann** - und nur die zweite braucht die Bitte um Fuehrung.
+
+## Die Vorgeschichte gehoert in denselben Band, und die Paarung ist der Grund
+
+**Vom Autor am 28.08. entschieden:** die alte Versklavung wird zum Thema,
+spaetestens in dem Band, in dem er neben Annie schlaeft. **Ausfuehrlich in
+`doc/11-figuren.md`.**
+
+**Und sie gehoert zu Band 5, weil sie das Gegenstueck zur Hochzeit ist.**
+
+**Band 5 traegt das Privateste des Buches in oeffentliche Reihen ein.** Eine
+Ehe ist ein Vorgang mit Papieren. Eine Losnummer ist ein Eintrag in einem
+Katalog. **Alles an den beiden wird in diesem Band aktenkundig.**
+
+**Bis auf eine Sache.** `b1 ch01:34`:
+
+> Only the last four had ever bothered to record a reason. Before that he had
+> been a child, **and children get moved without paperwork.**
+
+**Sieben Haeuser stehen in keiner Akte der Welt.** Der Mann, dessen ganzes
+Verfahren darin besteht, Register zu ziehen, **ist der einzige Gegenstand, auf
+den er keines ziehen kann.**
+
+**Also: der Band, in dem alles zwischen den beiden zu Papier wird, ist der
+Band, in dem er das eine sagt, wovon es kein Papier gibt.** Und er sagt es
+dem einzigen Menschen, der ihn gekauft hat.
+
+## Die Gegner von Band 5 sind offen
+
+**Am 28.08. festgehalten:** sie sollten vorkommen, sind aber nicht festgelegt.
+**Zwei liegen bereit und keiner von beiden ist beschlossen.**
+
+* **Mr Chae.** Zweiunddreissig Nennungen, dreimal ausdruecklich nicht
+  eingeweiht, nie ausgeloest (`b1 ch18:274`). **Eine Ehe braucht Papiere, und
+  die macht der Jurist des Hauses.**
+* **Annies Bruder.** Eine einzige Zeile in zwei Baenden (`b1 ch30:186`).
+  **Der erste Gegner, der drinnen steht.**
+
+**Und ein dritter Platz bleibt frei**, weil Band 5 zum Zeitpunkt dieser Notiz
+noch keinen Antrieb hat, der von aussen kommt.
 

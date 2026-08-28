@@ -1168,9 +1168,14 @@ was done to them. I do not accuse him of anything, because he has never once
 claimed anything."* **Damit ist es zugleich die groesste Heft-Entnahme des
 Buches** - ein Plan, der im Mai abgelegt und im November geholt wird.
 
-## Band 3 und Band 4: die Entscheidungen vom 28.08.
+## Band 3 bis Band 6: was ab dem 28.08. GILT
 
-**Ausfuehrlich in `doc/32-plan-band-3.md`.** Hier nur, was gilt.
+**Der Dateiname ist irrefuehrend und die Ueberschrift oben ist die richtige:
+dieses Dokument heisst *Entscheidungen und Verworfenes*.** Alles hier
+Folgende ist **beschlossen und in Kraft**, nicht verworfen. Verworfenes steht
+ausdruecklich unter `### Zurueckgenommen`.
+
+**Ausfuehrlich in `doc/32-plan-band-3.md`.**
 
 **Woo.** Kein Geschenk, **ein Erbe** - ein Geschenk lehnt Georgij ab, ein Erbe
 kann er nicht ablehnen, und Woo hat das Verfahren in `b2 ch82:252` selbst
