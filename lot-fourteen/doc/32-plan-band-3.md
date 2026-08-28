@@ -1695,3 +1695,97 @@ kann. Sondern:
 **Das ist wahr, es ist praezise, und es ist kleiner als das, was er ihm
 tatsaechlich gegeben hat.** So redet er.
 
+---
+
+## Die Rede an den Hanseong-Inhaber
+
+**Vom Autor am 28.08. vorgegeben.** Hier im Ton des Buches, mit einer
+Berichtigung, die noetig war und die den Satz haerter macht.
+
+**Was nicht stehenbleiben konnte: *I have burnt them all to the ground*.**
+Das ist nicht wahr, und Georgij sagt nie etwas Unwahres. Nam hat er selbst
+erledigt. **Das Auktionshaus hat der Fonds geschlossen** (`b2 ch60:174`: *The
+fund has decided*), und **Choi hat er ausdruecklich nicht getoetet**
+(`b2 ch89:212`). Wer das zusammenzieht, gibt dem Mann gegenueber die eine
+Zeile, mit der er ihn widerlegen kann.
+
+**Die wahre Fassung ist schlimmer als die Prahlerei.**
+
+### Der Text
+
+"There was a woman in Ulsan with four trucks, and I took the firm off her myself," said Georgij. "There was an auction house that had been on that river for thirty years and there is nothing left of it. And there was a man who used to be a prosecutor, and nobody has seen him since April."
+
+"Every one of them had pointed something at her."
+
+Georgij did not raise his voice anywhere in it.
+
+"I did not do all of that myself. I did enough of it."
+
+"It was never said out loud and it did not have to be. There is no version of the last two years in which you did not understand it." He did not move from where he was standing. "You understood it and you decided it was not about you, because nobody touches a chaebol."
+
+"You were not an exception. You were a bigger fire, and a bigger fire takes longer."
+
+### Was daran haengt
+
+**Die Berichtigung ist der ganze Zug.** *"I did not do all of that myself. I
+did enough of it."* Ein Mann, der prahlt, laesst sich widerlegen. Ein Mann,
+der genau sagt, welchen Teil er getan hat, laesst sich **nicht** widerlegen -
+und der Rest wird dadurch groesser und nicht kleiner. Der Zuhoerer rechnet
+selbst aus, was *genug* heisst.
+
+**Und es ist die Wiederholung des Zuges aus `b2 ch86`**, wo Choi gesagt
+bekommt, wie viele es wissen, und nicht, wer.
+
+## Die Bitte um Fuehrung geht in diesem Band an den Hanseong-Inhaber
+
+**Vom Autor entschieden am 28.08.**, Aufbau offen, weil die Figur noch nicht
+steht.
+
+**Und daraus folgt die Bauanweisung fuer die Figur, und zwar zwingend.**
+
+Bei Choi hat die Frage funktioniert, weil sie genau das traf, worauf sein
+ganzer Stand beruhte: **ein Mann, der fuenfundzwanzig Jahre lang ueber jeden
+in diesem Land sagen konnte, vor wem man sich in acht nehmen muss, hatte drei
+Sekunden lang keinen Namen** (`b2 ch86:90`).
+
+**Also wird der Hanseong-Inhaber um das herum gebaut, was die Frage ihn kosten
+soll.** Nicht umgekehrt. Die Probe beim Entwerfen der Figur lautet:
+
+> **Worauf ist dieser Mann stolz, das er koennen muss? Und wie stellt man ihm
+> genau das als Bitte hin, sodass er es vor Zeugen nicht kann?**
+
+**Beispiele fuer die Achse, aus der die Figur wachsen kann:** ein Mann, der
+sich darauf etwas einbildet, jeden seiner viertausend Beschaeftigten beim
+Namen zu kennen. Einer, der sagt, er habe nie jemanden entlassen muessen.
+Einer, der die Zahlen aller einundvierzig Beteiligungen im Kopf hat.
+
+**In jedem dieser Faelle ist die Bitte hoeflich, echt formuliert und
+toedlich** - und sie ist die zweite Sorte, die nach `b1 ch33` gilt: **kein
+Fragen mehr, sondern Vorfuehren.**
+
+## Nam geht zu Woo, und damit gehoert sie ihm ohnehin
+
+**Vom Autor entschieden am 28.08.** Es bleibt bei Chairman Woo, wie in
+`doc/31-plan-band-2.md` geplant.
+
+**Und die Begruendung des Autors schliesst den Kreis:** wenn Woo ihm Anteile
+hinterlaesst oder schenkt, **arbeitet sie ohnehin fuer ihn** - ohne dass sie
+es je erfaehrt und ohne dass irgendjemand es aussprechen muss.
+
+**Eine Frau, die zwanzig Jahre ihre eigene Firma hatte, endet als Angestellte
+des Mannes, der sie ihr genommen hat.** Sie weiss es nicht. Sie wird es nie
+wissen. **Und das ist genau die Bedingung, unter der es ueberhaupt eine
+Entschuldigung sein darf** - `doc/31-plan-band-2.md`: *sonst ist die Rede in
+Ulsan keine Entschuldigung, sondern eine Anzahlung.*
+
+**Der Einwand Los elf faellt damit weg**, weil sie nicht unter Sang-hoon
+steht.
+
+## Und die zwanzig Prozent: Fassung Woo ist entschieden
+
+**Vom Autor am 28.08. bestaetigt.** Erst unerreichbar, dann verwertet, dann
+kauft Woo zurueck, fuer sehr wenig, **und er besteht darauf zu zahlen.**
+
+Georgijs Satz am Grab bleibt bei der genauen Fassung: *"There is nobody who
+can ask you for it, and there will not be."*
+
