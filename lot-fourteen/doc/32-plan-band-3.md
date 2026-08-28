@@ -371,7 +371,7 @@ Blatt:
 **Und hier schliesst sich der Kreis, den das Buch selbst aufgemacht hat.**
 `b2 ch87:310`, die Bilanz nach dem Abendessen:
 
-> *"A woman wrote to you by name last spring, on a sheet of association
+> *"A year ago today a woman wrote to you by name, on a sheet of association
 > letterhead that was not hers, and signed it Chair, and sent it registered
 > so that there would be a record."*
 
@@ -388,6 +388,22 @@ nicht das Werkzeug, sondern das Ziel.
 
 **Genau das bekommt er jetzt zugestellt.** Ein Blatt, das sagt, dass jemand
 es weiss, und nicht sagt, wer sonst.
+
+**Und das Buch hat den Zug schon einmal gemacht, mit derselben Pointe.**
+`b2 ch23:98`, Mrs Seo an der Tuer, ueber einen Anruf von Yeom:
+
+> *"There is a gentleman on the telephone," she said. "He has asked for you by
+> name and he has your name correctly, **and he has not asked for her at
+> all**."*
+
+Und Georgij drei Repliken spaeter (`ch23:246`): *"He telephoned this house and
+asked for me by name and did not ask for you, and Mrs Seo came upstairs about
+it, **which she has not done in nine years**."*
+
+**Damals war es Chois Mann.** Dass jemand nach ihm und nicht nach ihr fragt,
+ist im Buch bereits einmal das Zeichen dafuer gewesen, dass die Gegenseite
+ihn erkannt hat. Die Einladung wiederholt es - dieselbe Tuer, dieselbe Frau,
+und diesmal ist der Absender der Freund des Toten.
 
 **Drei Dinge, die daran haengen und im Text stehen muessen:**
 
