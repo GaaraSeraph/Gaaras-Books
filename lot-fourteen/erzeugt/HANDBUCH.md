@@ -402,7 +402,7 @@ Naechstes kommt: `doc/31-plan-band-2.md`.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **16 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 327.797 Woerter.**
+**123 Kapitel, 327.796 Woerter.**
 
 ---
 
@@ -16227,7 +16227,7 @@ habe *the forty per cent of the Hanseong Group* gekauft. Das haette ihm
 vierzig Prozent an allem gegeben, was zerlegt werden soll. Es heisst jetzt
 **Hanseong Shipping**; alles andere im Text beschreibt ohnehin nur die Routen
 (*Routes, cheap, bleeding, and half a board that wants out*, `b2 ch04:176`).
-Kapitel 25 steht auf v1.11.
+Kapitel 25 steht auf v1.8.
 
 ### Was Sang-hoon damit ist
 
