@@ -1486,3 +1486,123 @@ Verschweigen ausgefuehrt hat.** Die Anweisung war ihre. Die Hand war seine.
 **Wenn Mr Chae eines Tages zusammenrechnet, was ihm nie gesagt wurde, hat er
 seine Rechnung nicht mit ihr allein.**
 
+---
+
+## Die Grabszene, und sie loest das Singapur-Problem
+
+**Vom Autor am 28.08. vorgegeben.** Georgij besucht das Grab und trifft Woo
+dort. Und er sagt ihm, dass seine zwanzig Prozent frei sind.
+
+**Damit kippt der ganze Faden.** Bisher stand da: wer die Kette aufmacht,
+legt Woos zwanzig Prozent frei, und das ist der Kollateralschaden, den der
+Autor nicht wollte. **Jetzt ist es kein Schaden, sondern das Geschenk** - und
+es ist das erste, das Georgij je gemacht hat, das etwas wert ist.
+
+**Und es ist ein Kondolenzumschlag.** Wer zu einer koreanischen Trauerfeier
+geht, bringt Geld in einem weissen Umschlag und **schreibt seinen Namen
+darauf**. Georgij hat keinen, den man auf so einen Umschlag schreiben kann -
+`b2 ch54:384`: *"I have no money. **I have no name that opens a door** and I
+have nothing in this country to telephone."*
+
+**Er kann den Umschlag nicht bringen. Also bringt er zwanzig Prozent eines
+Terminals.**
+
+### Der Text
+
+The grave is on a hill an hour outside the city if the bridge is kind, and it was not.
+
+He did not bring anything. He did not know what she had liked and there was nobody left to ask.
+
+Chairman Woo was already there and had been for some time.
+
+"I am sorry," said Georgij. "I did not know until January."
+
+"Nobody told you. I did not tell you." Woo did not turn round. "I have thought about that since and I do not know which of the two of us it says something about."
+
+"I would have come."
+
+"I know you would. That is why I did not tell you." He had his hands in his coat. "You had a thing to do and it was mine as well, and I was not going to be the reason you put it down."
+
+Neither of them said anything for a while.
+
+"What do you want." Woo said it without any edge on it at all. "You do not come somewhere and do nothing. I have watched you do it for eighteen months and you have never once done it."
+
+"I am here to visit a friend."
+
+Woo worked out that he did not mean the stone.
+
+"There is one thing and it is not why I came," said Georgij.
+
+"Say it anyway."
+
+"The twenty per cent you have owed since the year you built it is not owed to anybody now." He did not decorate any of it. "It came out of the same place as a great many other things and it went with them. There is nobody left to ask you for it, and there will not be."
+
+Woo did not say anything for a long moment.
+
+"How much did that cost you."
+
+"Nothing I am going to put in front of you today."
+
+Georgij looked at the stone rather than at him.
+
+"I did not bring an envelope," he said. "I would not have known what to write on it. I hope that does instead."
+
+Chairman Woo stood on a hill outside the city with his hands in his coat.
+
+"She asked me twice who you were," he said, "and I gave her two different answers, and neither of them was it."
+
+### Was daran haengt
+
+**Der Schlusssatz ist woertlich aus `b1 ch25:240`**: *"My wife has asked me
+twice who you were and I have given her two different answers."* Er hat es
+vor zwei Jahren als Scherz gesagt. Am Grab ist es das, was er nicht mehr
+richtigstellen kann.
+
+**Die Zeichensetzung.** Woo fragt und bekommt den Punkt: *"What do you want."*
+Er kann verlangen, und er tut es. Georgij stellt keine Frage.
+
+**Und die Luecke im Buch wird hier geheilt**, ohne dass sie erklaert werden
+muss: *"Nobody told you. I did not tell you."* Damit ist der stillschweigende
+Tod aus dem Herbst 2026 keine Nachlaessigkeit mehr, sondern **Woos
+Entscheidung.**
+
+## Vier Entscheidungen des Autors vom 28.08.
+
+**1. Choi und Singapur.** `b2 ch25:152` sagt genau so viel: *a director of a
+private equity firm in Hong Kong **through a chain of lawyers in Singapore**.*
+Er ist **Direktor** der Firma in Hongkong; die Kanzleien in Singapur sind der
+Weg dorthin. **Dass sie ihm gehoert, steht nirgends** - und das ist Absicht,
+denn genau daran haengt die Frage, fuer wen er gehandelt hat.
+
+**2. Nam Byung-hee sitzt nirgends.** Sie hat nichts. Vier Lastwagen, ein
+Neffe, die Firma seit dem Tod ihres Bruders, achtundfuenfzig Jahre, zwanzig
+Jahre Vorsitz - und seit Mai 2026 nichts davon. **Der Neffe ist der einzige,
+der untergekommen ist**, namentlich, bei der Firma mit den neun Lastwagen
+(`b2 ch13:144`). **Ihre Bedeutung ist nicht Handlung, sondern Preis**, und
+`b2 ch20:194` sagt es: *a woman of fifty-eight is going to be selling two
+trucks on Thursday.* Einbauen muss man sie nicht. **Sie steht ohnehin in jeder
+Rechnung.**
+
+**3. Regel 2 faengt in Band 3 an zu brechen.** Vom Autor entschieden. Damit
+ist die Reihenfolge fuer drei Baende gesetzt:
+
+* **Band 3** - der erste Riss. Woos zwanzig Prozent sind kein Besitz, sondern
+  eine Schuld, die er *aufloest*, ohne selbst etwas zu nehmen; aber ein Mann,
+  der ueber zwanzig Prozent eines Terminals verfuegen kann, besitzt bereits
+  etwas, auch wenn es auf keinem Papier steht.
+* **Band 4** - die Personalnummer und der erste Lohn.
+* **Und der Bruch, gegen den er sich nicht wehren kann**, ist ein Testament.
+
+**4. Das Halsband bleibt, unter einem hohen Kragen.** Vom Autor entschieden
+und es ist die bessere Loesung: **es ist ein Zeichen, dass er ihr gehoert, und
+er behaelt es, weil er es behalten will.** Es hat seit dem 19. Februar keine
+Grundlage - das ist der Punkt und nicht der Einwand.
+
+**Was es in Band 4 kostet, und es ist eine Szene und kein Problem:** irgendwann
+sieht es jemand. In einer Umkleide, bei einer Hitze, an einem Tag, an dem er
+sich vorbeugt. **Und dann steht ein Mann in einem Werk und muss entscheiden,
+was er dem Menschen sagt, der es gesehen hat.**
+
+**5. Mr Chae bleibt liegen.** Vom Autor als duenn befunden. Steht weiter im
+Figurenblatt als Moeglichkeit und wird nicht geplant.
+
