@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 83 Kapitel, 222.959 Woerter.
+Book Two, 85 Kapitel, 226.903 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,11 +12,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.8 | 2.281 |
-| 02 | v1.5 | 2.048 |
-| 03 | v1.4 | 2.016 |
+| 02 | v1.6 | 2.085 |
+| 03 | v1.5 | 2.016 |
 | 04 | v1.9 | 2.734 |
 | 05 | v1.10 | 2.833 |
-| 06 | v1.11 | 3.464 |
+| 06 | v1.12 | 3.415 |
 | 07 | v1.6 | 2.305 |
 | 08 | v1.10 | 3.158 |
 | 09 | v2.8 | 2.523 |
@@ -24,76 +24,78 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 11 | v2.7 | 2.511 |
 | 12 | v1.11 | 2.903 |
 | 13 | v1.8 | 2.173 |
-| 14 | v1.7 | 2.408 |
+| 14 | v1.8 | 2.355 |
 | 15 | v1.5 | 2.001 |
 | 16 | v1.6 | 2.034 |
-| 17 | v1.5 | 2.033 |
+| 17 | v1.6 | 2.033 |
 | 18 | v1.5 | 2.120 |
 | 19 | v1.11 | 2.640 |
 | 20 | v1.9 | 2.583 |
 | 21 | v1.8 | 1.985 |
-| 22 | v1.7 | 2.011 |
+| 22 | v1.8 | 2.015 |
 | 23 | v1.6 | 2.033 |
 | 24 | v1.5 | 2.099 |
-| 25 | v1.8 | 3.886 |
+| 25 | v1.9 | 3.966 |
 | 26 | v3.0 | 6.850 |
 | 27 | v1.3 | 2.317 |
 | 28 | v2.0 | 2.269 |
-| 29 | v5.0 | 7.558 |
-| 30 | v2.5 | 3.288 |
-| 31 | v3.0 | 3.603 |
+| 29 | v5.1 | 7.558 |
+| 30 | v2.6 | 3.283 |
+| 31 | v3.2 | 3.526 |
 | 32 | v4.0 | 4.077 |
 | 33 | v3.0 | 2.764 |
 | 34 | v3.1 | 3.452 |
-| 35 | v3.2 | 8.004 |
-| 36 | v1.5 | 2.162 |
-| 37 | v1.4 | 2.551 |
-| 38 | v1.5 | 1.889 |
-| 39 | v1.2 | 2.296 |
-| 40 | v1.4 | 2.033 |
-| 41 | v2.7 | 2.914 |
-| 42 | v1.5 | 2.112 |
-| 43 | v1.8 | 3.099 |
-| 44 | v1.5 | 2.498 |
-| 45 | v1.4 | 2.824 |
-| 46 | v1.3 | 2.042 |
-| 47 | v1.8 | 2.653 |
-| 48 | v1.11 | 4.472 |
-| 49 | v1.5 | 2.147 |
-| 50 | v1.9 | 2.145 |
-| 51 | v1.9 | 2.279 |
-| 52 | v1.3 | 2.075 |
-| 53 | v1.7 | 2.640 |
-| 54 | v1.3 | 2.448 |
-| 55 | v1.2 | 2.428 |
-| 56 | v1.2 | 2.132 |
-| 57 | v1.2 | 2.037 |
-| 58 | v1.1 | 2.147 |
-| 59 | v1.6 | 2.002 |
-| 60 | v1.2 | 2.446 |
-| 61 | v2.6 | 2.074 |
-| 62 | v3.1 | 2.077 |
-| 63 | v3.0 | 2.496 |
-| 64 | v3.0 | 2.269 |
-| 65 | v3.0 | 2.224 |
-| 66 | v3.0 | 3.691 |
-| 67 | v3.1 | 2.306 |
-| 68 | v3.0 | 2.422 |
-| 69 | v3.1 | 2.598 |
-| 70 | v3.1 | 2.834 |
-| 71 | v3.0 | 2.331 |
-| 72 | v3.0 | 2.566 |
-| 73 | v3.0 | 2.724 |
-| 74 | v3.2 | 2.878 |
-| 75 | v3.0 | 2.400 |
-| 76 | v1.0 | 2.844 |
-| 77 | v3.0 | 2.702 |
-| 78 | v3.1 | 2.146 |
-| 79 | v3.1 | 2.501 |
-| 80 | v3.0 | 2.115 |
-| 81 | v3.2 | 2.515 |
-| 82 | v3.0 | 2.511 |
-| 83 | v3.0 | 2.094 |
+| 35 | v4.0 | 3.321 |
+| 36 | v4.0 | 2.415 |
+| 37 | v4.0 | 2.291 |
+| 38 | v1.5 | 2.162 |
+| 39 | v1.4 | 2.551 |
+| 40 | v1.5 | 1.889 |
+| 41 | v1.2 | 2.296 |
+| 42 | v1.4 | 2.033 |
+| 43 | v2.7 | 2.914 |
+| 44 | v1.5 | 2.112 |
+| 45 | v1.8 | 3.099 |
+| 46 | v1.5 | 2.498 |
+| 47 | v1.6 | 2.778 |
+| 48 | v1.3 | 2.042 |
+| 49 | v1.9 | 2.679 |
+| 50 | v1.13 | 4.410 |
+| 51 | v1.6 | 2.143 |
+| 52 | v1.11 | 2.125 |
+| 53 | v1.9 | 2.279 |
+| 54 | v1.6 | 2.481 |
+| 55 | v1.9 | 2.700 |
+| 56 | v1.6 | 2.612 |
+| 57 | v1.3 | 2.402 |
+| 58 | v1.3 | 2.103 |
+| 59 | v1.4 | 2.011 |
+| 60 | v1.2 | 2.121 |
+| 61 | v1.7 | 1.977 |
+| 62 | v1.3 | 2.411 |
+| 63 | v2.6 | 2.074 |
+| 64 | v3.2 | 2.071 |
+| 65 | v3.2 | 2.492 |
+| 66 | v3.3 | 2.249 |
+| 67 | v3.1 | 2.228 |
+| 68 | v3.2 | 3.672 |
+| 69 | v3.4 | 2.286 |
+| 70 | v3.1 | 2.398 |
+| 71 | v3.5 | 2.560 |
+| 72 | v3.2 | 2.806 |
+| 73 | v3.1 | 2.331 |
+| 74 | v3.1 | 2.566 |
+| 75 | v3.2 | 2.861 |
+| 76 | v3.3 | 2.846 |
+| 77 | v3.3 | 2.369 |
+| 78 | v1.2 | 2.814 |
+| 79 | v3.4 | 2.926 |
+| 80 | v3.4 | 2.147 |
+| 81 | v3.3 | 2.593 |
+| 82 | v3.11 | 3.256 |
+| 83 | v3.16 | 3.807 |
+| 84 | v3.4 | 2.956 |
+| 85 | v3.2 | 2.637 |
 
 ---
 
@@ -327,7 +329,7 @@ It was the first evening on which only the first half of that was true.
 ---
 
 # Book Two · Chapter 2: The order of loading
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day One Hundred and Fifty-Two · Wednesday 4 March
 
@@ -393,7 +395,7 @@ Shin went on anyway, walking him back over the yard, and this was the part that 
 
 "The order of loading." Shin stopped walking. "Nine months of the year that place is full. It has always been full and everybody has always waited, and waiting is the job. What's different since January is that the waiting has a shape to it. Same name goes on first. Every sailing. And there's three or four of us who've worked that out from being one of the ones that doesn't."
 
-"There's a fellow out of Ulsan I've known eight years. Chemicals. One lane, nothing else, never had anything else." Shin was looking at his own trucks and not at Georgij. "His boxes have rolled twice since the middle of January. Two sailings. He doesn't sleep at home any more. He sleeps in the cab at the gate on a Tuesday night so he's first through in the morning."
+"There's a fellow out of Ulsan I've known eight years. Chemicals. One lane, nothing else, never had anything else." Shin was looking at his own trucks and not at Georgij. "His boxes have rolled twice since the middle of January. Two sailings. He doesn't sleep at home any more. He sleeps in the cab at the gate on a Tuesday night so he's first through in the morning. He's one of six on that lane and not one of the six is big enough to be told anything. There's an association of some sort that writes letters and I couldn't tell you who signs them."
 
 He turned his head.
 
@@ -467,7 +469,7 @@ Two of them he could not answer. One was how long the Ulsan one had been rolling
 
 Annie did not argue with any part of that, which he had not expected either.
 
-"Bring me the Ulsan one by name," she said. "Not from Shin. From the filings, and then from somebody who has stood at that gate."
+"Bring me the name on that lane," she said. "Not from Shin. From the filings, and then from somebody who has stood at that gate."
 
 "Yes, Mistress."
 
@@ -490,13 +492,13 @@ He went up the east stairs and did not count them.
 ---
 
 # Book Two · Chapter 3: We haven't met
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day One Hundred and Fifty-Five · Saturday 7 March
 
 Nobody had asked him for any of it.
 
-On the Wednesday night Annie had asked for the Ulsan one by name, from the filings and then from somebody who had stood at that gate. That is three days of work for a man who is quick, and he had it by Thursday afternoon.
+On the Wednesday night Annie had asked for the name on that lane, from the filings and then from somebody who had stood at that gate. That is three days of work for a man who is quick, and he had it by Thursday afternoon.
 
 He spent Thursday evening, Friday and Saturday on something else.
 
@@ -1135,7 +1137,7 @@ She had decided not to find out. On the eleventh of March, about a man who has n
 ---
 
 # Book Two · Chapter 6: I have to ask
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day One Hundred and Sixty-Four · Monday 16 March
 
@@ -1186,8 +1188,6 @@ Mrs Jeon had a receipt book open in front of her and did not close it.
 "Four minutes."
 
 He gave it to her in order and he did not hurry any of it.
-
-The new man. What he did at the three previous houses and in what sequence. That he does not start with the money and everybody thinks he does. That the letter comes first, and what the letter asks for, and what happens to the people who answer it well.
 
 Then the dates. Six weeks from the letter to the first desk, and about twelve days from the first desk to the second.
 
@@ -3053,7 +3053,7 @@ That is a very short list as well.
 ---
 
 # Book Two · Chapter 14: Ask her
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day One Hundred and Ninety-Three · Tuesday 14 April
 
@@ -3167,15 +3167,15 @@ Seven years of that paper does not only feed a firm. It makes a firm worth somet
 
 And Jang found the way into every one of them, in four pages, without being asked for it.
 
-The man with nine trucks has a partner of sixty-three who has wanted out since his wife died and cannot go, because there is nobody on that coast who buys anything.
+The partner of sixty-three cannot go, because there is nobody on that coast who buys anything.
 
-The man with three trucks has seven months left on a loan against his own yard and a son whose term begins in September.
+The two brothers would each of them sooner sell to a stranger than agree with the other about anything, and the invoice clerk has understood that for four years.
 
-The two brothers have not spoken since 2019 and would each of them sooner sell to a stranger than agree with the other about anything, and the invoice clerk has understood that for four years.
+The fourth has already decided to go and is waiting to be able to afford it.
 
-The fourth has been quietly moving work off that lane since February, which is a man who has already decided to go and is waiting to be able to afford it.
+Cho has spent six months finding out what his father actually was, and has not wanted the firm since about January.
 
-And Cho, who is forty, took a firm from his father in the autumn, and has spent six months finding out what his father actually was, and has not wanted it since about January.
+And the man with three trucks will not need to be persuaded at all, because a term begins in September.
 
 Five men and five separate afternoons, and on every one of those afternoons there is going to be exactly one buyer on that coast with money in her hand.
 
@@ -3660,7 +3660,7 @@ She has been declining to give him that face since December, and she has had a r
 ---
 
 # Book Two · Chapter 17: The face on it
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Six · Monday 27 April
 
@@ -3736,7 +3736,7 @@ She sat down at the desk.
 
 "Now I am going to answer you, and I am going to do it properly, because you have earned that and because I am not going to hide behind December for the rest of my life."
 
-"He does not act," she said. "Not once, not ever, not in twenty-five years. He has never given an instruction that anybody could repeat, and he has never asked anybody for anything they could refuse. What he does is put two people in the same room who each have half of something, and then he goes home."
+"He does not act," she said. "Not once, not ever, not in twenty-four years. He has never given an instruction that anybody could repeat, and he has never asked anybody for anything they could refuse. What he does is put two people in the same room who each have half of something, and then he goes home."
 
 "I know that. I worked that out on a bridge on the ninth of April."
 
@@ -4719,7 +4719,7 @@ He went down eight floors and out onto a street by the river, and read the four 
 ---
 
 # Book Two · Chapter 22: Three of the four
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Two Hundred and Twenty-Two · Wednesday 13 May
 
@@ -4791,9 +4791,9 @@ Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1
 
 "I am eighty-one. I have not the time to hold things against people who tell me the truth. There are so few of them that I would run out of afternoons."
 
-* * *
+## Day Two Hundred and Twenty-Three · Thursday 14 May
 
-He told Annie on the Thursday, in the small room, standing, in the same form he had used with Mrs Sunwoo.
+He told Annie in the small room, standing, in the same form he had used with Mrs Sunwoo.
 
 "You are aware that I already know all of this," said Annie.
 
@@ -5296,7 +5296,7 @@ Both of those are facts. Only one of them is a fact about Georgij, and he does n
 ---
 
 # Book Two · Chapter 25: What he collects
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Two Hundred and Thirty-Six · Wednesday 27 May
 
@@ -5471,6 +5471,10 @@ Park Sang-hoon picked his glass back up and did not drink out of it.
 He went.
 
 Georgij stood by the doors of the second room for another twenty minutes because leaving straight away would have been the signature, and then went out to the car.
+
+On the twenty-seventh of April Annie had told him that there were five men in this city who had watched that man eat, and that he had met two of them, and she had not said which two.
+
+He put it down in the car and it cost him nothing at all. Five men who can describe a face are worth a great deal to somebody who has no name to put with it, and he has the name.
 
 He wrote one line in the notebook before Mr Ku started it.
 
@@ -6856,7 +6860,7 @@ He thought about a woman going to lunch, four years ago, after she had put a bil
 ---
 
 # Book Two · Chapter 29: Two witnesses
-*Lot Fourteen* · Version 5.0 · EN
+*Lot Fourteen* · Version 5.1 · EN
 
 ## Day Two Hundred and Forty-Three · Wednesday 3 June
 
@@ -7086,7 +7090,7 @@ Annie sat with both hands flat on the desk.
 
 "Say what it actually gets us," she said, "because I do not want to sit here being moved by it before I know what it does."
 
-"It gets us two witnesses outside this house who can independently describe the same man, without either of them knowing the other exists." Georgij kept his hands where she could see them. "It gets us two addresses and a doctor who was paid through a lot number, and none of that was written down by you or by me. It does not get us a court. It gets us the first thing in twenty-three years that is not only your word."
+"It gets us two witnesses outside this house who can independently describe the same man, without either of them knowing the other exists." Georgij kept his hands where she could see them. "It gets us two addresses and a doctor who was paid through a lot number, and none of that was written down by you or by me. It does not get us a court. It gets us the first thing in twenty-four years that is not only your word."
 
 "Yes."
 
@@ -7523,7 +7527,7 @@ Georgij stood in the cooling garage a moment longer before he went in to find so
 ---
 
 # Book Two · Chapter 30: An empty table
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 ## Day Two Hundred and Forty-Nine · Tuesday 9 June
 
@@ -7547,7 +7551,7 @@ Annie had looked at him for a while before she answered that one.
 
 "What you have got, even if it is not a name."
 
-"A room, a wedding that did not happen, and a man who left the country for four years afterward." She paused. "He came back changed enough that two people used the word unrecognisable to me, independently, in different rooms, in the same week." Annie kept her hands flat on the folder. "Nobody I found would say who was in the room with him. Two of them stopped the conversation entirely when I asked a second time."
+"A room, a wedding that did not happen, and nobody who will say why." She paused. "It is eleven years old and it is the only thing I have found that people go quiet about instead of forgetting." Annie kept her hands flat on the folder. "Nobody I found would say who was in the room with him. Two of them stopped the conversation entirely when I asked a second time."
 
 She had not offered anything further and he had not asked for it, because a thing that makes grown men stop talking twice is not a thing you get on a Monday evening with time still on the clock.
 
@@ -7780,7 +7784,7 @@ He put the book away without any pleasure in it. For ten months he has been writ
 ---
 
 # Book Two · Chapter 31: The one who asked a question
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
@@ -7880,7 +7884,7 @@ Mr Koh did not move for a long moment.
 
 "That is a distinction."
 
-"It is the correct one, and I am not going to soften it past that, because if I do you will hear the soft version and go looking for the hard one later on your own."
+"It is the correct one, and I am not going to make it any kinder than that, because you would spend the rest of the year taking a kinder one apart."
 
 The traffic outside did the thing traffic does when a room has gone quiet.
 
@@ -8051,10 +8055,6 @@ He wrote one line before he closed the folder.
 It was not the morning Annie had meant when she sent him away from the desk.
 
 It was also, he thought, closing the folder, exactly the sort of morning she would have approved of if she had known which direction he had taken it in. He decided, on his way back up the corridor, that he would tell her so at dinner and let her disagree with him if she wanted to.
-
-She did not disagree with him at dinner. She asked to see the four letters, read them once, and told him which of the four she would have chased first, and why, and it was not the one he had already half decided on.
-
-She was, he thought later, almost certainly right, and he wrote her reasoning into the notebook before his own, which is not a thing he has always done.
 
 ---
 
@@ -8751,8 +8751,8 @@ He wrote one more line before he put the notebook away for the night.
 
 ---
 
-# Book Two · Chapter 35: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 3.2 · EN
+# Book Two · Chapter 35: Built once, used twice
+*Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
@@ -8886,7 +8886,7 @@ Georgij went very still.
 
 "Eleven years," said Georgij quietly.
 
-"The trust was formed in October, eleven years ago," said Sang-hoon. "I do not know what that date means to you. I can see on your face that it means something."
+"The trust was formed in March, eleven years ago," said Sang-hoon. "I do not know what that date means to you. I can see on your face that it means something."
 
 Georgij did not answer that directly, and Sang-hoon did not press him on it, which was itself a kind of answer.
 
@@ -8989,6 +8989,11 @@ Deciding that too early was the mistake he had already promised himself, twice t
 *Somebody needed a place to keep a person before they ever needed a doctor to visit her.*
 
 *A place is not a kindness. A doctor called in when the place stopped being enough is not a kindness either. Both are the minimum required to keep something from becoming visible, and neither one was ever about her.*
+
+---
+
+# Book Two · Chapter 36: Two anchors
+*Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -9146,7 +9151,10 @@ He did not take that as a reason to stop. He took it as a description of the wor
 
 *Two anchors now instead of one. The distance between them is not an accident, and I do not think the distance to K will be either, once I find where to start counting from.*
 
-* * *
+---
+
+# Book Two · Chapter 37: Somebody in Seoul pays for it
+*Lot Fourteen* · Version 4.0 · EN
 
 ## Day Two Hundred and Seventy-Six · Monday 6 July
 
@@ -9288,7 +9296,7 @@ Then he wrote the last of it, and it took him two attempts, because the first on
 
 ---
 
-# Book Two · Chapter 36: The line above it
+# Book Two · Chapter 38: The line above it
 *Lot Fourteen* · Version 1.5 · EN
 
 ## Day Two Hundred and Seventy-Nine · Thursday 9 July
@@ -9447,7 +9455,7 @@ She put two fingers on his wrist and then sent him to be decent to a stranger, a
 
 ---
 
-# Book Two · Chapter 37: The post still comes
+# Book Two · Chapter 39: The post still comes
 *Lot Fourteen* · Version 1.4 · EN
 
 ## Day Two Hundred and Eighty-Three · Monday 13 July
@@ -9646,7 +9654,7 @@ And underneath it, because a page that only holds the tidy version is a differen
 
 ---
 
-# Book Two · Chapter 38: Twelve white stems
+# Book Two · Chapter 40: Twelve white stems
 *Lot Fourteen* · Version 1.5 · EN
 
 ## Day Two Hundred and Eighty-Eight · Saturday 18 July
@@ -9803,7 +9811,7 @@ Both of those are true. There is no arrangement of them in which only one is.
 
 ---
 
-# Book Two · Chapter 39: The one who does not leave
+# Book Two · Chapter 41: The one who does not leave
 *Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Ninety · Monday 20 July
@@ -9994,7 +10002,7 @@ He did not write anything in either page that night, for the first time since th
 
 ---
 
-# Book Two · Chapter 40: What he asked her
+# Book Two · Chapter 42: What he asked her
 *Lot Fourteen* · Version 1.4 · EN
 
 ## Day Two Hundred and Ninety-Two · Wednesday 22 July
@@ -10175,7 +10183,7 @@ And underneath, because he had promised himself in June that the page would hold
 
 ---
 
-# Book Two · Chapter 41: The one he kept
+# Book Two · Chapter 43: The one he kept
 *Lot Fourteen* · Version 2.7 · EN
 
 ## Day Two Hundred and Ninety-Eight · Tuesday 28 July
@@ -10420,7 +10428,7 @@ Sang-hoon looked at him for a while.
 
 ---
 
-# Book Two · Chapter 42: The sixth one
+# Book Two · Chapter 44: The sixth one
 *Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred · Thursday 30 July
@@ -10603,7 +10611,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 
 ---
 
-# Book Two · Chapter 43: Against her return
+# Book Two · Chapter 45: Against her return
 *Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
@@ -10872,7 +10880,7 @@ He had paid at half past seven, before the meal, as he always does. The girl at 
 
 ---
 
-# Book Two · Chapter 44: The one I did not say in May
+# Book Two · Chapter 46: The one I did not say in May
 *Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Five · Tuesday 4 August
@@ -11073,8 +11081,8 @@ Georgij stood in the doorway of a house in the suburbs and found he had nothing 
 
 ---
 
-# Book Two · Chapter 45: Clause eleven
-*Lot Fourteen* · Version 1.4 · EN
+# Book Two · Chapter 47: Clause eleven
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Seven · Thursday 6 August
 
@@ -11108,7 +11116,7 @@ A man who has built a system that cannot be gone round has built a system that c
 
 The terms of business are eleven pages and Annie has a copy, because everybody who buys at that house signs a copy, and she has kept every piece of paper she has ever signed in a drawer that locks.
 
-He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why, which is a thing he thought about for the rest of the day.
+He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why.
 
 It took him under a minute to find the file and he stopped with his hand on it.
 
@@ -11168,7 +11176,7 @@ And it gives an address for the reply that is not this house and never has been.
 
 He read the four sentences back at about seven in the evening and then sat with the page for a while, because something in it was not right and it was not the drafting.
 
-*Her terms of business. Her copy. Her drawer, opened with a key her housekeeper handed me without asking why. Her lot number.*
+*Her terms of business. Her copy. Her drawer, opened with a key her housekeeper handed me. Her lot number.*
 
 *I wrote at half past eleven last night that this is the first thing this year with her name nowhere on it. There is not one part of it that is not hers. The only thing I have added is the four sentences and the address for the reply.*
 
@@ -11226,7 +11234,7 @@ Annie looked at the papers before she looked at him, which told him she had reco
 
 "You have never opened that drawer."
 
-"I have never opened that drawer, and I opened it at ten past nine this morning. Mrs Seo gave me the key without asking me anything, and I have been thinking about that all day and I still do not know what to do with it."
+"I have never opened that drawer, and I opened it at ten past nine this morning."
 
 Annie came and stood at the corner of the desk.
 
@@ -11300,7 +11308,7 @@ And then, on the second page, because the second page gets everything:
 
 ---
 
-# Book Two · Chapter 46: Consigned by
+# Book Two · Chapter 48: Consigned by
 *Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Thirteen · Wednesday 12 August
@@ -11479,8 +11487,8 @@ And underneath, on its own, because he sat and looked at the page for a while be
 
 ---
 
-# Book Two · Chapter 47: Four streets
-*Lot Fourteen* · Version 1.8 · EN
+# Book Two · Chapter 49: Four streets
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Fifteen · Friday 14 August
 
@@ -11580,9 +11588,9 @@ Georgij stood in a repair shop and did the thing he does, and did it silently, a
 
 *Somebody named a figure that was already written down, because the figure was the whole of what the family needed, and a woman who solves the thing in front of her does not haggle about her own number.*
 
-*And the striking-out was never invoiced to anybody. On the other three lines there is a fee, because somebody came back later and paid to have an entry taken away.*
+*And the fee on hers was paid out of a pocket that did not owe it, so that the book would show a payment where an absence would have been. On the other three somebody came back later and paid to have an entry taken away.*
 
-*Nobody paid a fee for hers, because it was not a service. It was a term.*
+*What nobody ever did was invoice the lot. The house let her go out of the building and did not send anybody a bill for it.*
 
 *He did not buy a person. He bought a person who does not appear anywhere, and the second half of that came free with the first.*
 
@@ -11740,8 +11748,8 @@ He put the notebook away without writing the last line, and wrote it that night 
 
 ---
 
-# Book Two · Chapter 48: Buy her
-*Lot Fourteen* · Version 1.11 · EN
+# Book Two · Chapter 50: Buy her
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Three Hundred and Nineteen · Tuesday 18 August
 
@@ -11755,9 +11763,9 @@ Four characters and nothing else on the paper.
 
 Georgij ran it the way he runs anything.
 
-There is no lease anywhere in this country in that name. There is no mobile registration, no vehicle, no bank product that leaves a public trace, no employment record with any agency that supplies domestic staff to the provinces. There is no entry in the resident register that fits a woman of the right age in the right district.
+Nothing came back. Not one line in any register in this country.
 
-He got all of that inside three days and he did not enjoy any of it.
+He got that inside three days and he did not enjoy any of it.
 
 On the fourth of August he wrote the conclusion down, and it was wrong, and it took him a fortnight to find out how wrong.
 
@@ -11943,7 +11951,7 @@ A name on a piece of paper that Sim wrote out at a quarter to eleven at night, w
 
 "Say what it is instead."
 
-"It is a real name belonging to a person who has no paper. No lease, no telephone, no vehicle, no employment record, nothing in the register." He kept his hands where she could see them, which he has not needed to do in this room since November. "Nobody hides that thoroughly. She has never once been written down by anybody except the people who own the building she is in."
+"It is a real name belonging to a person who has no paper." He kept his hands where she could see them, which he has not needed to do in this room since November. "Nobody hides that thoroughly. She has never once been written down by anybody except the people who own the building she is in."
 
 Annie did not say anything at all.
 
@@ -12107,8 +12115,8 @@ He has stopped counting them. He noticed at some point in July that he had stopp
 
 ---
 
-# Book Two · Chapter 49: Somebody's daughter
-*Lot Fourteen* · Version 1.5 · EN
+# Book Two · Chapter 51: Somebody's daughter
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Twenty-Two · Friday 21 August
 
@@ -12128,7 +12136,7 @@ He worked out on the Thursday evening what she was doing, and it took him longer
 
 He started where he always starts, which is with what he has not got.
 
-He has eleven years of a trust paying for a house. He has a doctor twice a week and an oxygen order that has gone from thirty days to eleven. He has a room, eleven years ago, and a wedding that did not happen, and two people who used the word unrecognisable about a man who came back from four years away.
+He has eleven years of a trust paying for a house. He has a doctor twice a week and an oxygen order that has gone from thirty days to eleven. He has a room, eleven years ago, and a wedding that did not happen, and two people who stopped talking about it in the middle of a sentence.
 
 He has no name.
 
@@ -12280,8 +12288,8 @@ Annie looked at him.
 
 ---
 
-# Book Two · Chapter 50: One sentence
-*Lot Fourteen* · Version 1.9 · EN
+# Book Two · Chapter 52: One sentence
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Three Hundred and Twenty-Six · Tuesday 25 August
 
@@ -12309,8 +12317,6 @@ Georgij stayed inside the door, where he stood in July.
 
 "Come in properly," said Mr Ahn. "You stood there last time. I let you." He put the cloth down. "I've thought about it since. Don't."
 
-* * *
-
 Georgij came in properly and sat on the stool at the end of the bench, which put him lower than the man who owned the shop, and did that on purpose.
 
 "I am going to say four things," he said. "The first two are what you have been waiting four years for. The third one is going to be difficult. The fourth one is a question and you can say no to it."
@@ -12329,8 +12335,6 @@ The shop did what a shop does. Somewhere behind the wall a compressor came on an
 
 Mr Ahn put both hands flat on the bench either side of the pump.
 
-* * *
-
 "There is a house with nine people working a rota and food delivered every week for ten," said Georgij. "The order went up by one in the summer four years ago and it has never come back down. There is a person in that house who does not go home."
 
 "That could be anybody."
@@ -12347,8 +12351,6 @@ Mr Ahn looked at the pump.
 
 "No," said Georgij. "It took me sixteen days, and I had it in my coat the whole time."
 
-* * *
-
 "The second thing," said Mr Ahn. "You said four."
 
 "The second thing is that somebody is going to stand underneath her before anybody takes the floor away. There is a woman on the river who agreed to it and did not need persuading. I am not going to explain the mechanism today, because you would not sleep and it is not a thing you can help with."
@@ -12359,11 +12361,9 @@ Mr Ahn looked at the pump.
 
 "No." Mr Ahn almost got something out that was not quite a laugh. "That's the first pleasant thing anybody's said to me about it. Everybody else has been careful."
 
-* * *
-
 "The third thing," said Georgij.
 
-He took the time it needed, because Woo had done that for him on a Sunday and he had understood in about four seconds afterwards what it had been for.
+He took the time it needed, because it had once been done for him and he had understood in about four seconds afterwards what it had been for.
 
 "I know where the house is," he said. "I have known since the sixth of July. I am not going to tell you, and I am not going to tell you today or next month, and I want to say the reason out loud rather than let you build a worse one."
 
@@ -12382,8 +12382,6 @@ The compressor came on again behind the wall.
 "Yes."
 
 "And it's right." He picked the impeller up off the cloth and put it down again about four centimetres away. "I'd have been on a bus by Friday. I'd have told myself I was only going to look at the road."
-
-* * *
 
 Neither of them said anything for a while.
 
@@ -12405,8 +12403,6 @@ Mr Ahn understood it before the end.
 
 "It has to sound like a man making conversation on a telephone, and it has to go through her like a train."
 
-* * *
-
 Mr Ahn wiped his hands on the cloth, which did not need doing, and then he did it again.
 
 "Give me a minute."
@@ -12420,8 +12416,6 @@ He did not pace and he did not look at the ceiling. He picked things up off the 
 Then he stopped, with one hand on the pump.
 
 "Have you got a pen?"
-
-* * *
 
 He did not write it. He said it, and made Georgij write it, and then made him read it back twice.
 
@@ -12439,8 +12433,6 @@ Georgij did not write that part down.
 
 He had spent seven minutes looking for the one thing he owns that nobody could have taken off him, and it is a sentence about a pot.
 
-* * *
-
 "And she will hear the rest of it," said Georgij.
 
 "She'll hear the whole of it in about a second and a half." Mr Ahn said it without any pride in it at all. "She'll hear that somebody is standing in front of that pot. And there's only one person who'd be standing in front of that pot."
@@ -12456,8 +12448,6 @@ Mr Ahn thought about that for a long moment, and it was not the seven minutes an
 "She'll be furious," he said. "That's fine. She's been furious with me since she was nine."
 
 He had just been told that four years of not stopping might not be welcome, and he answered it with a fact from when she was nine.
-
-* * *
 
 At the door, Georgij stopped, and it was not the same door and not the same stop.
 
@@ -12505,7 +12495,7 @@ He wrote the last line standing outside the car, because he could not do it sitt
 
 ---
 
-# Book Two · Chapter 51: The one who orders
+# Book Two · Chapter 53: The one who orders
 *Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Twenty-Eight · Thursday 27 August
@@ -12724,28 +12714,82 @@ It is the answer to the first question she has asked him in four years, and it i
 
 ---
 
-# Book Two · Chapter 52: The only door
-*Lot Fourteen* · Version 1.3 · EN
+# Book Two · Chapter 54: The only door
+*Lot Fourteen* · Version 1.6 · EN
 
-## Day Three Hundred and Sixty-Nine · Wednesday 7 October
+## Day Three Hundred and Sixty-Two · Wednesday 30 September
 
-Nothing came from Chairman Woo on the Tuesday and nothing came on the Wednesday, and neither of them said anything about it, which is its own kind of saying something.
+He left it until the last day of the month, and she let him.
 
-Georgij worked out on the Wednesday afternoon that nothing was going to come, and that this was correct. A man who has announced that he will write four answers down and seal them does not then telephone about it.
+He came up at nine and did not bring the file, because he has not needed to look at it since the sixth of August.
 
-He wrote it in the book. *He is not going to ring. He said the whole of it in the hall and there is nothing to add to it, and adding to it would make it a negotiation.*
+"Clause four," he said.
 
-Then, because it was true, he wrote *He took the decision back off her in about nine seconds and made it look like an old man being stubborn. Neither of us has earned that.*
+Annie put the pen down.
 
-* * *
+"Sit down."
 
-He thought about the envelope twice more that week and did not write either of those down.
+"Not yet."
 
-The first thought was that Woo would be dead before Annie ever read it. That is the whole arrangement and it is not a thing to be sad about. The man built it for exactly that, and he built it in a hallway in under a minute.
+She did not make him.
 
-The second thought was worse and he put it away from him. A man of seventy-eight who has just given himself something to finish is not going to be in a hurry about the rest of it. Annie had gone out there on Monday to take a weight off him and had handed him one instead. That is what happens every time somebody decides in advance what another person can carry.
+"Then say it standing, and take as long as it needs."
 
-* * *
+"It is four lines," said Georgij. "The house warrants the item as described in the catalogue and gives no other warranty of condition. One of the four is about who pays for carriage."
+
+"And the description is the entry."
+
+"The description is the entry."
+
+Annie said it without looking anything up, and she said it the way the auctioneer had said it, which is flatly and in order.
+
+"*Male, twenty-six. Nationality unverifiable. Four languages. No medical history. Prior placements: eleven. Prior returns: four. Reason recorded in each case: complex character. Violent.*"
+
+The clock in the hall did the thing it does.
+
+"That is the only description of me that exists anywhere," said Georgij, "and what was done is not in it, because there is no line in that catalogue where it would go."
+
+"No."
+
+He had his hands at his sides and he left them there.
+
+"*No medical history* is not a statement about a body. It is a statement that nobody ever wrote one." He did not raise his voice at all. "Clause four is the line that makes that sufficient. It is perfectly ordinary and every house in the trade has one, and it is the reason nobody has ever had to say it out loud."
+
+Annie did not help him to the end of it.
+
+"Say the rest."
+
+"I have spent this year putting a line where there was not one," he said. "Mrs Jeon. Mr Koh. The man in Mullae. A woman with six characters where the name goes." He stopped for a moment. "I did not know why I was doing it in that order until the sixth of August. Then I read four lines in your drawer and I knew, and I could not have it in the room that night."
+
+Neither of them said anything for a while.
+
+"Now mine," said Annie, "and you are not going to like it, and I am not going to arrange it for you."
+
+She turned the chair so that she was facing him properly.
+
+"I read the eleven pages before I ever went into that building. I read clause four twice, because it was the only one that was about a person." She did not look away from him once. "And then I went to that room and I put my hand up."
+
+"I know."
+
+"You do not know the next part." Her hands stayed where they were. "I have never once wished it had said more. If it had said more I would have had to decide something in that room. I did not want to decide anything in that room. I wanted the price."
+
+Georgij stood in the middle of a room and did not say any of the four things that came to him.
+
+"Thank you," he said.
+
+"That is not a thing to be thanked for."
+
+"It is the first true sentence anybody has said to me about that page, and it cost you something, and I am going to thank you for it and you are going to have to take it."
+
+Annie looked at him for slightly longer than she needed to.
+
+"Sit down," she said.
+
+He sat down at the side of the desk with his back against it, which is where he sits.
+
+She did not put her hand in his hair and she did not say anything else. After a while she picked the pen back up and went on with the page she had been on when he came in, and he stayed where he was until half past eleven.
+
+That is the whole of what happened on the thirtieth of September, and it is the thing he had come up for, and neither of them said so.
 
 ## Day Three Hundred and Seventy-One · Friday 9 October
 
@@ -12763,8 +12807,6 @@ One account with her name on it and one sheet from the bank confirming what woul
 
 "So I am inside it at the bottom, and it took one instruction on a Monday and nobody in this house has had to be told anything," she said. "That is the whole of the money and it cost me a telephone call. Now say the part you have been carrying since Monday, because you have carried it up those stairs four times this week and taken it down again."
 
-* * *
-
 Georgij stood where he stands.
 
 "There is one door," he said, "and it is Mr Hwang."
@@ -12777,8 +12819,6 @@ Annie did not say anything.
 
 "Because I have spent since Monday trying to find a second door and there is not one, and I did not want to bring you a room with one exit in it."
 
-* * *
-
 Annie put both hands flat on the desk.
 
 "Now the rest of it," she said.
@@ -12789,8 +12829,6 @@ Annie put both hands flat on the desk.
 
 "Then you know what I am going to have to do." Georgij did not look away. "I am going to walk into that man's office and ask him to put a person on a form and take money for her. He has spent this year finding out what it cost the last time he did that. He is the only man in this trade who has stopped being able to do it, and that is exactly why he is the only one who can be trusted to."
 
-* * *
-
 Neither of them said anything for a moment.
 
 "Say it the other way round," said Annie, "and do not make it easier."
@@ -12800,8 +12838,6 @@ Neither of them said anything for a moment.
 "Yes."
 
 "And he would be right to refuse. That is the part I have been carrying since Monday and it is not the money and it is not the paperwork." He had his hands at his sides. "A man decided in about May that he would never again put a person through that office, and the first thing the world does with a decision like that is send somebody along with a good reason."
-
-* * *
 
 Annie was quiet for what was probably eight seconds.
 
@@ -12816,8 +12852,6 @@ Annie was quiet for what was probably eight seconds.
 "And now you are going to do it to Mr Hwang."
 
 "I am going to try to. There is no version of Thursday in which I am not."
-
-* * *
 
 She let that stand and did not comfort him with it.
 
@@ -12837,8 +12871,6 @@ She let that stand and did not comfort him with it.
 
 "If he refuses after that, we do not go back," said Georgij, "and I will hate it, and I will not do it."
 
-* * *
-
 She stacked the papers into one pile and did not put them away.
 
 "There is a thing about the money and you have not asked me for it," she said. "I am going to say it once and then it is not going to be discussed again in this house."
@@ -12857,8 +12889,6 @@ Georgij did not say any of the four things that came to him.
 
 "It is not noted. It is heard, and that is a different thing, and it is the whole reason I said it while you were standing there."
 
-* * *
-
 "There is a second wall and you have not put it on the desk either," she said.
 
 Georgij did not pretend.
@@ -12872,8 +12902,6 @@ Georgij did not pretend.
 "So on the day Mr Hwang signs, one of them is a transaction and the other one is a woman in a house with nobody outside it."
 
 "Yes."
-
-* * *
 
 Annie stood at the window for a while.
 
@@ -12905,8 +12933,8 @@ He sat with the pen and then wrote one more line.
 
 ---
 
-# Book Two · Chapter 53: The permanent series
-*Lot Fourteen* · Version 1.7 · EN
+# Book Two · Chapter 55: The permanent series
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -12915,8 +12943,6 @@ The house has been winding up since April and it looks it.
 Two of the four rooms on the ground floor are empty and the doors are wedged open, because a building with men in it moving things does not lock anything. There are numbered crates against the wall of the corridor. The plate by the entrance has been taken down and the four screw holes are still there.
 
 Georgij was at the desk at two minutes to nine and Mr Hwang was already behind it, with a sheet of paper in his hand, which is how that man is always found.
-
-* * *
 
 "The eleventh of June," said Mr Hwang. "That was the last time you were in this building, at twenty past two, and you were here for nineteen minutes."
 
@@ -12932,8 +12958,6 @@ Georgij sat down.
 
 "The fourth line on that page you asked about in August is a woman. She is on our books under a reference of six characters. I have known that since the twelfth of August, because I wrote the reply myself." Mr Hwang did not take his hand off the sheet. "I have known she is a person since the twelfth of August. It is the fifteenth of October. That is nine weeks and I have done nothing."
 
-* * *
-
 The room did what a half emptied room does at nine in the morning.
 
 "Why," said Georgij.
@@ -12944,8 +12968,6 @@ The room did what a half emptied room does at nine in the morning.
 
 "It is the rule and it is also true. I have looked for the other answer for nine weeks and there is not one." Mr Hwang moved the sheet four centimetres. "So I have been a man who knows and files, and that is the second time, and I would like that said in this room before you tell me what you came for."
 
-* * *
-
 Georgij had built the sentence over six days and had taken it apart on the Sunday.
 
 He did not use any of it.
@@ -12953,8 +12975,6 @@ He did not use any of it.
 "Then I will do it in the order she told me to," he said, "and you will have the whole of it before you answer anything, and that is not a courtesy. It is so that whatever you say afterwards is yours."
 
 "In her order, then."
-
-* * *
 
 He gave it to him and it took eleven minutes, and he read most of it off the page.
 
@@ -12972,8 +12992,6 @@ Mr Hwang had not moved his hand.
 
 "Consent," said Georgij. "The house is in wind-up and a consignment cannot be assigned out of it without the administrator, and you are the administrator, and you refused a woman in January on exactly that authority."
 
-* * *
-
 "I did," said Mr Hwang.
 
 "There is money. It exists, it is in one place, it is liquid on the twenty-second, and it will be paid at whatever the placing party asks." Georgij did not soften any of it. "And the last thing, because you are owed it before you answer and not afterwards. If you say no, she is in a van in November and there is no second door and we do not come back here with a better argument. That is decided. You may hear it as a threat and I cannot help that."
@@ -12981,8 +12999,6 @@ Mr Hwang had not moved his hand.
 Mr Hwang looked at the sheet on his desk for a while.
 
 Then he turned it over, face down, which is the first time Georgij has seen him let go of a piece of paper.
-
-* * *
 
 "Yes," he said.
 
@@ -12998,8 +13014,6 @@ Georgij did not say anything.
 
 "She knows what a form is. She may not know the rest of it, and I am going to say the rest of it to you now so that you carry it back today and not in three weeks."
 
-* * *
-
 "Then it should be said."
 
 "On the sixth of August you used a clause in our terms of business. You asked in writing what this house held on a lot, and the house had to answer, and I wrote the answer on the twelfth and it went into the permanent series." Mr Hwang was entirely level. "You liked that clause. My father did not write it. I wrote it in 2011 and I was proud of it for fourteen years."
@@ -13008,19 +13022,27 @@ Georgij did not say anything.
 
 "Then you know it works in both directions." He put one finger on the desk and did not tap it. "An assignment out of a wind-up is a matter of the house. It goes into the same series, at its own entry, in the sequence, with the date and the two parties. It cannot be sealed and it cannot be withdrawn and there is no application for either, because I did not write one in."
 
-* * *
-
 Georgij sat very still.
 
 "For ever," he said.
 
-"For as long as the series exists, and the series goes to an archive when this house is gone, and archives do not lose things that are numbered." Mr Hwang did not hurry any of it. "In about nine years somebody will read the sequence for a different reason and they will find an entry from November with a woman's name on one side and a woman's name on the other."
+"For as long as the series exists, and it exists until somebody signs it over to an archive or to a successor." Mr Hwang did not hurry any of it. "A fund decides that, and a fund is in no hurry, and nobody has told me the morning."
+
+"And when they do."
+
+"Then there is a date, and it is not a secret. It goes on the second page of a notice to every buyer this house ever had."
+
+Georgij did not move.
+
+"I would like it before the envelope."
+
+"On the day I have it," said Mr Hwang, and he did not make anything of it. "You have asked me for two things in this room and neither of them was for you."
+
+"In about nine years somebody will read that sequence for a different reason and they will find an entry from November with a man's name on one side and a woman's name on the other."
 
 "And a price."
 
 "And a price."
-
-* * *
 
 Neither of them said anything for a moment.
 
@@ -13033,8 +13055,6 @@ Out in the corridor two men carried something past the open door and one of them
 "She has not decided. She does not know."
 
 "Then that is the correct answer and it took you about a second and a half."
-
-* * *
 
 Georgij stood up, and then did not go.
 
@@ -13050,15 +13070,11 @@ Mr Hwang did not reach for anything.
 
 "That is not nothing."
 
-* * *
-
 "There is no lot. There is no reference. There is no entry, no clearing slip, no commission, and no line in any book in this building with that name on it or with any number that has ever been attached to that name." He said it the way he says dates. "I have had the whole of the series since April and I have read it twice, and I have read it a third time since August with a particular question in my head, and there is nothing."
 
 "Then what that means, because you know what it means and I want it from you."
 
 "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade that is done properly leaves a line. A woman who has been in a building for eleven years and has no line was not acquired. She was kept, and the person who kept her has never once had to account for her to anybody, because there is no document to account against."
-
-* * *
 
 "And there is no clause for that," said Georgij.
 
@@ -13068,8 +13084,6 @@ Mr Hwang did not reach for anything.
 
 "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hwang straightened the sheet again. "I am the administrator of a house that is going to be gone by Christmas. After that there is no series left to ask." He straightened the sheet again. "There will be one woman in a house near Wonju who is a lot and one who is not, and only one of them can be got out with a form."
 
-* * *
-
 At the door there was one more thing and it was Georgij's.
 
 "On the twenty-eighth of May you asked me for something," he said. "You said you would like a piece of paper to exist somewhere in the world. One that says she sat in that room and held the book out and that you did not take it."
@@ -13077,8 +13091,6 @@ At the door there was one more thing and it was Georgij's.
 Mr Hwang did not move at all.
 
 "It exists," said Georgij. "One page. It is signed and it is dated the fourteenth of June and it is nine lines long. I have read it and I am the only person other than the woman who wrote it who has."
-
-* * *
 
 The room was very quiet.
 
@@ -13089,8 +13101,6 @@ The room was very quiet.
 "Why not?"
 
 "Because she wrote it on the condition that I would keep it and not use it, and I said yes." Georgij did not look away from him. "Reading you a line out of it this morning, in this room, eleven minutes after you agreed to sign a form for me, would be using it. There is no version of it that is not."
-
-* * *
 
 Mr Hwang put the sheet down on the desk and left his hand off it.
 
@@ -13132,8 +13142,8 @@ He wrote four lines in the car and did not start the engine while he wrote them.
 
 ---
 
-# Book Two · Chapter 54: Eleven years of paying for it
-*Lot Fourteen* · Version 1.3 · EN
+# Book Two · Chapter 56: Eleven years of paying for it
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -13153,8 +13163,6 @@ She heard the whole of it without saying anything, which she does perhaps twice 
 
 Georgij did not need to be told the name.
 
-* * *
-
 ## Day Three Hundred and Eighty-Two · Tuesday 20 October
 
 Baek Jun-ho gave him fifty minutes on the Tuesday and had read the question before he arrived, because Georgij had put it in writing on the Friday and had put the clause in with it.
@@ -13167,8 +13175,6 @@ He is sixty-three and he has eleven trusts and he has had four of them for longe
 
 "There is no application to seal an entry in that series and none to withdraw one. I have read the terms twice since Friday, and there is no general power in the deed that a court would read as one either." He had the terms in front of him and one finger on the page. "The man who drafted it in 2011 was thorough in a way that people were not being thorough in 2011, and I would like to be exact about the size of my professional admiration. It is considerable and it is entirely unhelpful to you."
 
-* * *
-
 "And the second part," said Georgij.
 
 "An agent is out and he has told you that himself. A company is worse than an agent." Baek turned the page over. "A corporate buyer goes into the series as a corporate buyer. One with a registered office and a single director is a thing any competent person unwinds in about four hours, and the unwinding then sits on a record of its own. You would be swapping one entry for two, and the second one would look like concealment, and concealment reads differently in nine years than a name does."
@@ -13177,8 +13183,6 @@ He is sixty-three and he has eleven trusts and he has had four of them for longe
 
 "A name in a sequence is a fact and a reader has to decide what to do with it. A structure in a sequence is a decision, and a reader does not have to decide anything about a decision, because it has already told him what somebody thought about it at the time." He put both hands on the desk. "In thirty-one years I have never once seen a nominee arrangement improve how a thing looks afterwards. Not once, and I have been asked to build eleven of them."
 
-* * *
-
 Neither of them said anything.
 
 Out in the outer office a telephone rang twice and stopped.
@@ -13186,8 +13190,6 @@ Out in the outer office a telephone rang twice and stopped.
 "Then the third part," said Georgij.
 
 "The third part is that the form requires the buyer to be a natural person who is named. It does not say whose." Baek said it in exactly the voice he had used for the other two. "There is a natural person sitting in this room who is not on any of it."
-
-* * *
 
 Georgij did not move at all.
 
@@ -13203,8 +13205,6 @@ Baek waited about four seconds and then did the thing that a man of sixty-three 
 
 "I am aware that it did. That is the part I mind."
 
-* * *
-
 Georgij put both hands on his knees.
 
 "It also fails," he said, "and it fails before it gets to any of that, and I would rather it failed on the mechanics than on the other thing."
@@ -13217,8 +13217,6 @@ Baek Jun-ho looked at him for a moment.
 
 "That is the correct order to have said those two things in," he said, "and I noticed the order, and I am going to leave it there."
 
-* * *
-
 Georgij took the second thing out then, because he had decided on the Friday that it would go in this hour and not in a fortnight.
 
 "There is a woman in that building who has been there eleven years and is on oxygen," he said. "Her name is Moon Hae-sook. I asked the administrator of the house on Thursday what the house holds on her, and the answer is nothing. No lot, no reference, no entry, no slip, no commission. He has read the whole series three times."
@@ -13226,8 +13224,6 @@ Georgij took the second thing out then, because he had decided on the Friday tha
 Baek Jun-ho did not say anything.
 
 "What you know," said Georgij.
-
-* * *
 
 "I am going to need a minute," said Baek.
 
@@ -13237,8 +13233,6 @@ Then he came back and sat down and put nothing on the desk at all.
 
 "The administrator looked in the wrong building," he said.
 
-* * *
-
 "The wrong building."
 
 "Since the second week of March eleven years ago, a standing instruction on one of my trusts has paid two sums against one address in Gangwon-do. A quarterly one to a supplier of medical gas and a monthly one to a private practice." Baek had both hands flat. "There is no name on either instruction. There has never been a name. There is an address, a reference of my own devising, and my signature four times a year for eleven years."
@@ -13246,8 +13240,6 @@ Then he came back and sat down and put nothing on the desk at all.
 "Forty-four."
 
 "Forty-four, and the first four I signed without asking anything, and the next forty I signed having decided not to." He did not look away. "I would like to be exact about the size of that. I have never once believed the arrangement was clean. I believed for about nine years that it was somebody's dependent relative and that the discretion was a family matter. I have known better since the second of June, and I have signed four more since the second of June."
-
-* * *
 
 Georgij sat very still.
 
@@ -13259,8 +13251,6 @@ Georgij sat very still.
 
 "It is the opposite of a lot number." He put one finger on the desk. "A lot number is a house saying that a person is a thing it holds. This is a solicitor saying that somebody at an address has needed oxygen every quarter for eleven years, and that somebody has paid for it without ever writing down who they are."
 
-* * *
-
 Neither of them said anything for some time.
 
 "Who instructed it," said Georgij.
@@ -13271,8 +13261,6 @@ Neither of them said anything for some time.
 
 "When you tell me what you are going to do with the other woman, and when it has happened." He straightened nothing, because there was nothing on the desk. "I have watched a man come into this office in March and tell me a thing about my own file that I should have found in 2016. I am not going to hand you the rest of it and find out in December that I gave a good reason to somebody at the wrong moment. That is a rule I made this month, and you are the first person it applies to."
 
-* * *
-
 "That is the correct rule," said Georgij.
 
 "You are not going to argue."
@@ -13280,8 +13268,6 @@ Neither of them said anything for some time.
 "No. I have spent the last three weeks watching that exact thing done to four people and I did two of them myself." He stood up. "Say the date you want."
 
 "The day after she is out of that building, whichever way it goes, and I want to hear it from you and not from the newspaper." Baek got up as well, which he had not done in March. "And if it goes the other way, I want to hear that too, and I would like it on the same day."
-
-* * *
 
 ## Day Three Hundred and Eighty-Four · Thursday 22 October
 
@@ -13297,11 +13283,31 @@ On the Thursday morning she came down to the small office at twenty past eight, 
 
 "Yes."
 
-"So it will say his name and it will say mine, on one line, with a number between them." She had not raised her voice. "And in about nine years a person I will never meet will read that line and know exactly what I did. I will be sixty-one, and there will be no version of it in which I can explain myself to them."
+"So it will say his name and it will say mine, on one line, with a number between them." She had not raised her voice. "And in about nine years a person I will never meet will read that line and know exactly what I did. I will be forty-seven, and there will be no version of it in which I can explain myself to them."
 
-"Yes, Mistress."
+"It will not be nine years, Mistress."
+
+Annie put the terms of business down on the edge of the desk.
+
+"Say that again."
+
+"It will not be nine years." Georgij did not move at all. "The fund has decided. This house holds nothing after the twenty-fifth of February, and Hwang telephoned me himself at twenty past seven, because I asked him in that room to be the first call and not the six hundred and fortieth envelope."
+
+"Why did you not say that before I said all of that."
+
+"Because I do not interrupt you, Mistress."
+
+Annie looked at him for a moment longer than the answer needed.
+
+"No," she said. "You do not."
 
 * * *
+
+"Four months."
+
+"About four months, and I cannot make it exact until the entry is made, and I will make it exact when it is." He kept his hands where she could see them. "And it does not take anything off what you have just said. You decided it as a permanent thing. That is what you decided, and a date I was given this morning does not reach back and change it."
+
+"Yes, Mistress."
 
 She stood in the doorway for a moment.
 
@@ -13314,8 +13320,6 @@ Georgij did not move yet.
 "Say it."
 
 "On the ninth of October you stood in that room and said out loud what the money was for, with the date in it, so that you could not decide in November that it had been something else." He held her eye. "You have spent seven days looking for the way round and there was not one, and you have taken thirteen days between the two and you have not moved once. I would like that noticed by somebody in this house other than you, and there is nobody else, so it is me."
-
-* * *
 
 Annie looked at him for slightly longer than she needed to.
 
@@ -13345,8 +13349,8 @@ He wrote it in the book at nine, before he went, and it took one attempt.
 
 ---
 
-# Book Two · Chapter 55: Twenty-three days
-*Lot Fourteen* · Version 1.2 · EN
+# Book Two · Chapter 57: Twenty-three days
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Eighty-Five · Friday 23 October
 
@@ -13368,8 +13372,6 @@ The plate by the door says the firm and underneath it, on a strip of white card 
 
 It has been there since the ninth of October, which is her second week.
 
-* * *
-
 She came down the outside stair to fetch him herself, because the office has no bell and the nephew who runs it has been meaning to see about that since 2022.
 
 She is wearing what she wore in Incheon.
@@ -13379,8 +13381,6 @@ She is wearing what she wore in Incheon.
 "Three hours and nineteen. There was a wait at Iksan."
 
 "There is always a wait at Iksan and it is always eight minutes." She turned round on the stair. "Come up. The kettle is on and there is nowhere to sit that is not somebody's chair, and you are having the nephew's, because he is at the port until two."
-
-* * *
 
 The office is one room with four desks in it and three of them face the window.
 
@@ -13396,8 +13396,6 @@ Hers does not. Hers faces the wall, and on the wall there is a run of shelving t
 
 "Hello." She put the cup down in front of him. "Now ask me again."
 
-* * *
-
 What she found is that the firm has been settling in good faith for nineteen years and has been wrong about one thing since 2011.
 
 She explained it to him for six minutes and he understood about two thirds of it.
@@ -13412,8 +13410,6 @@ The two thirds came to this. There is a category of short haul in which the firm
 
 "I told him on Tuesday morning and he sat down." Mrs Jeon turned her cup a quarter turn. "And then he asked me what I thought he should do about it, and I have been in offices since 1998 and no man has ever asked me that."
 
-* * *
-
 Neither of them said anything for a moment.
 
 Out of the window on the far side of the room there is a crane and a piece of the water.
@@ -13423,8 +13419,6 @@ Out of the window on the far side of the room there is a crane and a piece of th
 Georgij put both hands on the desk.
 
 "No," he said.
-
-* * *
 
 "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do Kyung-ae for four years and that is not a name she chose."
 
@@ -13438,8 +13432,6 @@ He said how it is written. It took a moment. The second character of the given n
 
 "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work in Seoul her mother went back to Jung-hee-ya on the telephone and never once in a room." Georgij did not look away. "That is from her brother, on Tuesday evening, and it took him forty seconds. He told me that nobody has said it in front of him since the February she went, and that he had to hear it first."
 
-* * *
-
 Mrs Jeon sat with that for a while.
 
 "Thank you," she said.
@@ -13451,8 +13443,6 @@ Mrs Jeon sat with that for a while.
 "You would have got the third part in September if I had thought to ask for it in September."
 
 "That is also true, and I am not going to take it off you." She picked her cup up. "Now say the part you have been carrying up that stair, because you have been carrying it since the bottom step."
-
-* * *
 
 "March is gone," said Georgij.
 
@@ -13468,8 +13458,6 @@ Mrs Jeon did not say anything.
 
 "I have been here twenty-three days."
 
-* * *
-
 She got up and went to the shelving and put one hand on a box file and did not take it down.
 
 "There is a rest of it," she said, "and you have not got and you have not got to it."
@@ -13482,8 +13470,6 @@ She got up and went to the shelving and put one hand on a box file and did not t
 
 "That is correct and I would have refused it."
 
-* * *
-
 She stood at the shelving with her back to him.
 
 "I have had four things happen to me this year," said Mrs Jeon. "In January I was told I had twenty-three years and eight weeks. In May I went out of that door. In June a firm four hundred kilometres away offered me a desk and I did not go for three months because I could not take a thing that arrived on its own. In October I came, and in three weeks I have found a levy from 2011 and been asked what I think."
@@ -13491,8 +13477,6 @@ She stood at the shelving with her back to him.
 "Yes."
 
 "And now a man has come down on the first train to tell me that the fifth thing is in November and that it will cost me the fourth." She turned round. "I want you to know that I have understood that completely, and that you have not tricked me, and that I am about to say yes."
-
-* * *
 
 Georgij did not say anything at all.
 
@@ -13504,8 +13488,6 @@ Georgij did not say anything at all.
 
 "Then that is what happened, and you come out and you tell the truth about it to me, and nobody in this arrangement gets a comfortable version." Georgij held her eye. "You made that condition on the eleventh of September as well, and I have not forgotten it, and I would rather say it than have you ask."
 
-* * *
-
 "Then yes," said Mrs Jeon.
 
 She came back to the desk and sat down.
@@ -13515,8 +13497,6 @@ She came back to the desk and sat down.
 "That is a very cold way to describe it."
 
 "It is not cold. It is a schedule." She looked at the shelving. "I have had twenty-three years of being liked by a house that put me out in eight weeks. I would sooner be needed here for a levy than liked here for a fortnight."
-
-* * *
 
 He was there until twenty past one and did not do anything useful for the last fifty minutes of it.
 
@@ -13529,8 +13509,6 @@ Georgij put his cup down.
 "That is the way somebody else does things," he said, "and she said it to me in October last year, in a room with a fire in it, about herself."
 
 "Then she is right and so am I, and neither of us invented it."
-
-* * *
 
 At the top of the outside stair she said one more thing.
 
@@ -13564,8 +13542,8 @@ He looked at the three lines for a while and then wrote one more underneath.
 
 ---
 
-# Book Two · Chapter 56: The consignor of record
-*Lot Fourteen* · Version 1.2 · EN
+# Book Two · Chapter 58: The consignor of record
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Eighty-Six · Saturday 24 October
 
@@ -13583,8 +13561,6 @@ Georgij stood in the passage with the receiver against his ear.
 
 "You know who it is. You sat in his workshop in July."
 
-* * *
-
 He got the rest of it in about four minutes and he wrote none of it down, because he did not need to.
 
 The consignor is the person who signed the consignment form at the house on the river in February four years ago. On that lot it is a man of thirty-nine who mends small motors, and the signature is his, and the address on the form is the workshop.
@@ -13597,8 +13573,6 @@ The consignor does not own the lot and has not owned it since the day of the pla
 
 "He signs a form that says the house may transfer a lot he placed to a person who is buying it." Mr Hwang was entirely level. "It is one page and it has four lines on it and one of them is the lot reference."
 
-* * *
-
 Neither of them said anything for a moment.
 
 "It is the same form," said Georgij.
@@ -13609,8 +13583,6 @@ Neither of them said anything for a moment.
 
 "It can be avoided by me typing out a fresh sheet, which is not the form, and which the holder's people will look at for four seconds and reject." He stopped. "I have thought about it since seven this morning and there is no version. I am sorry about that and being sorry is worth nothing."
 
-* * *
-
 ## Day Three Hundred and Eighty-Eight · Monday 26 October
 
 He went up the hill on the Monday with the form in his inside pocket, which is the first time he has gone up there carrying anything at all.
@@ -13618,8 +13590,6 @@ He went up the hill on the Monday with the form in his inside pocket, which is t
 He noticed that at the third street and did not do anything with it.
 
 The fan is running in the corner.
-
-* * *
 
 Mr Ahn looked at his coat, and then at his face, and put the screwdriver down.
 
@@ -13635,8 +13605,6 @@ Mr Ahn wiped his hands on the cloth.
 
 "Then talk," he said.
 
-* * *
-
 He talked for six minutes.
 
 The house consents. The money exists and is in one place. The holder will be paid in full and the figure is not Mr Ahn's business and never will be. The house cannot move a lot that somebody placed without an instruction from the person who placed it. That person is him. There is nobody else and there has never been anybody else since February four years ago.
@@ -13646,8 +13614,6 @@ The house consents. The money exists and is in one place. The holder will be pai
 "You get nothing. Not a won, not a fee, not a share of it, and you are not a party to the price and you will never be told what it is." Georgij said it exactly the way Hwang had said it to him. "I was asked to be precise about that because you would assume otherwise, and you did, and it took about a second."
 
 "It took less than that."
-
-* * *
 
 "There is a second thing about the form," said Georgij, "and I would rather you had it from me standing here than found it in about four seconds at that bench."
 
@@ -13659,8 +13625,6 @@ Mr Ahn did not say anything at all for about five seconds.
 
 Then he put the cloth down on the bench and held his hand out.
 
-* * *
-
 Georgij took the form out and put it on the bench, face up, and went and stood by the door, which is eleven feet away and is as far as that room goes.
 
 Mr Ahn did not turn it over.
@@ -13668,8 +13632,6 @@ Mr Ahn did not turn it over.
 He read the four lines on the front twice, with both hands flat on the bench on either side of the paper, and he took about ninety seconds over four lines.
 
 Then he turned it over.
-
-* * *
 
 He looked at the back of it for a long time.
 
@@ -13682,8 +13644,6 @@ The shop did what a shop does on a Monday morning, which is compressor, and then
 "I've thought about that afternoon about nine thousand times and I've never once been able to remember what the room looked like." He had not moved his hands. "I remember the pen. It was a house pen and it was chained to the desk, and I remember thinking that a place that chains its pens doesn't think much of the people who come in."
 
 Georgij stayed by the door.
-
-* * *
 
 "Come here," said Mr Ahn.
 
@@ -13699,8 +13659,6 @@ They are not dramatic. They say that the undersigned, being the consignor of rec
 
 He read them again.
 
-* * *
-
 "That's a better sentence than the one on the back," said Mr Ahn.
 
 "There is a why, because you have a reason and I would like it."
@@ -13710,8 +13668,6 @@ He read them again.
 "That is what it is."
 
 "Then somebody in 2003 was cleverer than they knew, and I'm going to be grateful to a dead stationery decision for the rest of my life."
-
-* * *
 
 He signed it.
 
@@ -13727,8 +13683,6 @@ Then he sat down on the stool, which he had not done, and put both hands on his 
 
 "Yes."
 
-* * *
-
 Mr Ahn looked at the form on the bench and did not pick it up.
 
 "I want the words she gets when they come," he said. "Not ours. Theirs."
@@ -13743,8 +13697,6 @@ Mr Ahn put one hand flat on the bench beside the paper.
 
 "Then whoever is in the car has about four minutes to be the first person in four years who says a true sentence to her," he said, "and it had better not be a man."
 
-* * *
-
 "I want to say the thing I am not going to be able to say afterwards," said Mr Ahn, "and I am going to say it now, at eleven o'clock on a Monday, because afterwards there will be too much of it and it will come out wrong."
 
 "Then now, and not afterwards."
@@ -13754,8 +13706,6 @@ Mr Ahn put one hand flat on the bench beside the paper.
 "You were right. There was nothing until the fifteenth of October."
 
 "I know that. It isn't going to help me at four in the morning and it's true." He looked up. "Say the other thing. The one you have been holding since you came in."
-
-* * *
 
 Georgij put both hands at his sides.
 
@@ -13785,8 +13735,8 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 
 ---
 
-# Book Two · Chapter 57: They did not argue about it
-*Lot Fourteen* · Version 1.2 · EN
+# Book Two · Chapter 59: They did not argue about it
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13806,8 +13756,6 @@ Then she put the cap on the pen and sat with both hands flat on the desk on eith
 
 He took it.
 
-* * *
-
 ## Day Three Hundred and Ninety · Wednesday 28 October
 
 The answer came back at ten past two on the Wednesday.
@@ -13818,8 +13766,6 @@ They accepted the price.
 
 They did not counter, they did not query the assignment, they did not ask who the buyer was or what she wanted it for, and they did not ask for anything to be added to the schedule.
 
-* * *
-
 Mr Hwang telephoned it through and did not dress it.
 
 "I have served about nine hundred of these in six years," he said, "and I have never had one come back inside a day. The average is eleven days and the record before this afternoon was four."
@@ -13827,8 +13773,6 @@ Mr Hwang telephoned it through and did not dress it.
 "Say what you take from that."
 
 "That they were never going to argue about it, and that the figure could have been a third of what it is." He did not hurry any of it. "You will both work that out by about six this evening and there is nothing I can do about it. I am telling you at ten past two so that you have it from me and not from the arithmetic."
-
-* * *
 
 She worked it out at about twenty past two, which is ten minutes and not four hours.
 
@@ -13846,15 +13790,11 @@ She was standing at the window with the note in her hand and she did not turn ro
 
 "I will say it again in a fortnight."
 
-* * *
-
 There is a second sheet with the acceptance and it is four lines long and it is not a contract.
 
 It says that the holder is content to arrange conveyance of the consignment from the present address to any address in the country the buyer chooses. At the holder's own cost, on any date from the second of November, with two days of notice.
 
 It is signed by an agent for the holder, in a hand nobody in that house has seen before, and it is dated the twenty-eighth.
-
-* * *
 
 Georgij read it three times and put it face down on the blotter.
 
@@ -13868,8 +13808,6 @@ Georgij read it three times and put it face down on the blotter.
 
 "Yes, Mistress."
 
-* * *
-
 Annie came away from the window.
 
 "Then say why, and take your time, because I have read it twice and I do not have it yet."
@@ -13880,8 +13818,6 @@ Annie came away from the window.
 
 "That is the practical half."
 
-* * *
-
 "Then the other one."
 
 "He is not doing us a kindness. He is not doing anything at all, and that is what he does." Georgij put one finger on the back of the sheet. "There is no instruction in this and there is no name. There is a man who has never once told anybody to do anything." He did not stop anywhere. "The helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."
@@ -13889,8 +13825,6 @@ Annie came away from the window.
 "What it costs to accept it."
 
 "Nothing that anybody could point at. That is the cost." He did not stop anywhere. "In four years, when somebody asks how she came out, the answer will be that the house that held her put her in a car and brought her. That will be true, and there will be no way to say the other thing without sounding as though you are complaining about being helped."
-
-* * *
 
 Annie stood with both hands on the back of the reading chair.
 
@@ -13901,8 +13835,6 @@ Annie stood with both hands on the back of the reading chair.
 "And to my father's man in 2002."
 
 "Yes."
-
-* * *
 
 She was quiet for what was probably eight seconds.
 
@@ -13924,8 +13856,6 @@ The house named the second of November.
 
 The holder replied at nine the next morning with two words and a time, and the two words were the address as it appears on their own file, and the time was eleven o'clock.
 
-* * *
-
 ## Day Three Hundred and Ninety-One · Thursday 29 October
 
 He telephoned Gwangyang at ten past nine, which is forty minutes after the time and the two words came in, and he had been standing next to the telephone for thirty of them.
@@ -13940,15 +13870,13 @@ He telephoned Gwangyang at ten past nine, which is forty minutes after the time 
 
 "You will have them on the Sunday evening."
 
-* * *
-
 There was a pause on the line and it was hers and not his.
 
 "You said you would telephone on the day you had it," she said. "It is the day you had it. I have been in this trade since 1998 and I have had about four hundred people say that sentence to me and I have had it kept twice, and the other one was in 2006."
 
 "It was not difficult."
 
-* * *
+"It was not difficult and it is still twice." She rang off the way she does, without a word for it.
 
 He put the receiver down and stood in the passage.
 
@@ -13961,8 +13889,6 @@ Jang was at the far end of it with his coat still on. He had come in at eight wi
 "Why the stopping."
 
 "Because a woman who has been in a building for four years is going to want to get out of a car at some point in the first hour. It will not be at a service station with eleven people in it." He said it in his own order, which is the fact, then the origin, then the limit. "That is from nineteen years of driving families out of places. It is not from anything anybody told me and I have been wrong about it twice."
-
-"It was not difficult and it is still twice." She rang off the way she does, without a word for it.
 
 * * *
 
@@ -13982,8 +13908,8 @@ Georgij wrote it in the book on the Thursday evening and sat with it for a while
 
 ---
 
-# Book Two · Chapter 58: The second of November
-*Lot Fourteen* · Version 1.1 · EN
+# Book Two · Chapter 60: The second of November
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Ninety-Four · Sunday 1 November
 
@@ -14033,8 +13959,6 @@ There are three vehicles on the gravel and two of them are vans with the doors o
 
 The clearing has already started. It started, from the look of it, on about the Thursday.
 
-* * *
-
 The man who came out is not Mr Tak and is not anybody from any file.
 
 He is about fifty and he has a folder, and he was on the step before the car had stopped, and he did the thing that people do when they have been told to be quick and pleasant.
@@ -14042,8 +13966,6 @@ He is about fifty and he has a folder, and he was on the step before the car had
 Georgij did not get out.
 
 Mrs Jeon got out, and Jang stayed at the wheel with the engine running, which they had agreed on the Sunday.
-
-* * *
 
 It took eleven minutes and all of it was paper.
 
@@ -14053,15 +13975,11 @@ The agent read the whole of it, twice, standing on gravel, and then said that ev
 
 "She is not a consignment out here," said Mrs Jeon. "She is out here. Go and tell her that somebody has come, and do not tell her anything else, because you do not know anything else."
 
-* * *
-
 The agent went in and was gone about four minutes.
 
 Georgij sat in the back of a car and watched a doorway and did the only thing he could do with four minutes, which is to count them.
 
 At the third minute one of the men carried a rolled carpet out of the house and put it in the second van and went back in.
-
-* * *
 
 She came out on her own.
 
@@ -14071,8 +13989,6 @@ She is thirty-five and she looks like her brother across the eyes and nowhere el
 
 She stopped and she looked at the car and at the vans and at the woman standing in front of her, and she did not say anything, and she did not move for about six seconds.
 
-* * *
-
 Mrs Jeon did not step towards her.
 
 "My name is Jeon Mi-ja," she said. "I have come from a firm four hundred kilometres from here and I am fifty-one. I was told your name on the twenty-third of October by a man who had gone and asked your brother how your mother said it."
@@ -14081,15 +13997,11 @@ Ahn Jung-hee did not say anything.
 
 "I am not from this house and I have never been in it," said Mrs Jeon. "Nobody in this yard is going to tell you anything today that is not true, and if somebody does you are to say so out loud and I will deal with it."
 
-* * *
-
 The silence went on for a while.
 
 Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which took about a second, and said the first thing she has said to anybody outside that house in four years.
 
 "The kettle is on the second shelf," she said. "I moved it on Thursday because they took the counter."
-
-* * *
 
 Nobody in that yard understood it except Mrs Jeon, who has been handing over other people's arrangements since 1998.
 
@@ -14101,23 +14013,17 @@ Nobody in that yard understood it except Mrs Jeon, who has been handing over oth
 
 "Thank you."
 
-* * *
-
 They went back in and Mrs Jeon made him write it on the folder, in front of her, and read it back.
 
 That took two minutes and it is the only thing anybody from that car did inside that house.
 
 Georgij stayed in the vehicle for the whole of it and did not once put his hand on the door, and it is the single hardest thing he has done since March.
 
-* * *
-
 She got into the back on the right, which is the far side from him, and put the bag on the floor between her feet.
 
 Jang turned the car on the gravel and went down the drive at the speed a man drives when there is nothing behind him.
 
 At the road she looked back once, and it was not at the house.
-
-* * *
 
 Nobody said anything for about nine hundred metres, which is the single track.
 
@@ -14131,15 +14037,11 @@ She got out and stood at the edge of it with her arms at her sides and looked at
 
 Georgij did not get out.
 
-* * *
-
 At the second petrol station Jang went in and telephoned a repair shop and said four words.
 
 The four words were *she walked out alone.*
 
 He came back and said that the man on the other end had not said anything for a while and had then said thank you and rung off, and that he had heard a fan.
-
-* * *
 
 She spoke twice more between there and the river, and both times it was to Mrs Jeon, and both times it was a completed thing.
 
@@ -14177,8 +14079,6 @@ Annie looked at the window and not at him.
 
 "Still in the building. The kettle is on the second shelf and a man has written it on a folder."
 
-* * *
-
 Neither of them said anything for a while.
 
 "Then we have taken one out of a house that is being emptied," said Annie, "and left one in it, and today is the day that was always going to be, and I would like it noted that neither of us is going to feel it properly until about Thursday."
@@ -14203,8 +14103,8 @@ Annie did not say anything for a moment.
 
 ---
 
-# Book Two · Chapter 59: The first hour
-*Lot Fourteen* · Version 1.6 · EN
+# Book Two · Chapter 61: The first hour
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Ninety-Six · Tuesday 3 November
 
@@ -14220,8 +14120,6 @@ Baek Jun-ho did not say anything for a moment.
 
 "I will come tomorrow at two," he said. "I am not going to do this on a telephone and I am not going to do it in this office."
 
-* * *
-
 ## Day Three Hundred and Ninety-Seven · Wednesday 4 November
 
 The first hour was at ten and it lasted fifty minutes.
@@ -14230,15 +14128,11 @@ It happened in the small room downstairs with the door shut, and there were two 
 
 Annie was in her own study on the first floor with the door open and a page in front of her that she did not turn over in fifty minutes. Georgij was in the passage at the far end, which is out of earshot, and he had been told to be there by nobody and had put himself there at twenty to ten.
 
-* * *
-
 Mrs Jeon read it to her.
 
 She read the whole instrument out loud, in order, and she read the third paragraph twice, and she did not summarise anything and did not say at any point what it meant.
 
 Then she gave her the pages and let her hold them for as long as she wanted, which was about nine minutes.
-
-* * *
 
 The instrument does four things.
 
@@ -14252,8 +14146,6 @@ And the third paragraph says that nothing in the document creates any obligation
 
 That is the paragraph Mrs Jeon read twice.
 
-* * *
-
 She signed it at seven minutes past eleven, in the older way, with her father's character.
 
 Then she asked one question, which is the second she has asked in four years, and Mrs Jeon reported it afterwards in the exact words because she had been asked to.
@@ -14263,8 +14155,6 @@ Then she asked one question, which is the second she has asked in four years, an
 "What you said."
 
 "That I did not know, and that I was not going to guess, and that if the answer turned out to be yes then it would be a request and not an arrangement." She had both hands flat on her knees. "And she said that she would like to know which it was in advance. I told her that she is now a person who can ask that question of anybody in this house and get a straight answer, and that this is the whole of what she had just signed."
-
-* * *
 
 Georgij did not say anything.
 
@@ -14300,8 +14190,6 @@ He came by taxi and he had a case with him and he did not open it in the hall.
 
 He asked, before anything else, whether the woman was in the building and whether she was well, and he asked it standing, and he did not sit down until Georgij had answered both.
 
-* * *
-
 Then he put the case on the table and did not open it.
 
 "You telephoned me yesterday at nine and said four words," he said, "and I have had twenty-nine hours since then and I have spent about six of them deciding whether to bring this."
@@ -14312,15 +14200,11 @@ Then he put the case on the table and did not open it.
 
 "Then both."
 
-* * *
-
 "The trust was settled in the second week of March eleven years ago," said Baek Jun-ho. "The settlor came to my office in person and was there for about twenty minutes." Baek did not look away. "He did not bring a lawyer and he did not need one. He had read the draft and he had two corrections, and both of them were about the discretion and not about the money."
 
 "The name."
 
 "Choi Dae-ho."
-
-* * *
 
 The room did what a room does at two in the afternoon.
 
@@ -14332,8 +14216,6 @@ Baek Jun-ho looked at the case.
 
 "He wanted it made clear that the trustee could not be required to disclose the beneficiary to the beneficiary." He did not soften it. "And he wanted it made clear that the payments could not be stopped by him."
 
-* * *
-
 Neither of them said anything for a while.
 
 "By him," said Georgij.
@@ -14343,8 +14225,6 @@ Neither of them said anything for a while.
 "What that is."
 
 "I have been asked that question about a document perhaps four hundred times in thirty-one years and I have always been able to answer it." Baek did not look away. "I have had eleven years on this one and I cannot. It is either the only decent thing that man has ever done, or the most complete thing I have ever seen one person do to another." He put one hand flat. "It is possible that there is no difference. That is the part I have not been able to sleep about since the second of June."
-
-* * *
 
 He opened the case then and put the file on the table and did not push it across.
 
@@ -14374,8 +14254,6 @@ Annie heard the settlor's name and did not react to it, and heard the two correc
 
 She got up and went to the window.
 
-* * *
-
 "He built it against himself," she said. "Not against a court and not against a successor and not against anybody holding a power. Against the man who was signing it, in his own lifetime, in twenty minutes, in an office."
 
 "Yes."
@@ -14385,8 +14263,6 @@ She got up and went to the window.
 "That is what it is."
 
 "Then say whether that makes him better."
-
-* * *
 
 Georgij took his time over it, which he has not done since March.
 
@@ -14406,16 +14282,14 @@ Annie stood at the window for a moment.
 
 ---
 
-# Book Two · Chapter 60: She went back
-*Lot Fourteen* · Version 1.2 · EN
+# Book Two · Chapter 62: She went back
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Ninety-Eight · Thursday 5 November
 
 She asked on the Thursday morning and she asked Mrs Seo, in the passage behind the kitchen, standing.
 
 Mrs Seo came up to the study at ten and reported it in the woman's own words, because that is how she reports anything she has been given rather than overheard.
-
-* * *
 
 "She wants to go back to that house," said Mrs Seo.
 
@@ -14430,8 +14304,6 @@ Annie did not answer that straight away.
 "And if nobody will drive her," she said.
 
 "Then she will find out what a train costs and go on Monday."
-
-* * *
 
 Georgij was at the far end of the passage when Mrs Seo came out, and he had been there long enough to hear the whole of it, and neither of them said anything about that.
 
@@ -14453,8 +14325,6 @@ Annie did not pick the pen back up.
 
 "Now say what is wrong with it," she said. "You have had it for four minutes and you have not liked it for about three."
 
-* * *
-
 Georgij sat with that.
 
 "A woman who has spent eleven years being decided about will say yes to a stranger with a case," he said. "She will say yes in the first four minutes and she will be polite about it, and neither Mrs Jeon nor I would be able to tell the difference between that and wanting it."
@@ -14467,8 +14337,6 @@ Annie did not soften anything.
 
 "That is the part I had," she said. "There is a second part and you have not got to it."
 
-* * *
-
 "Then say it."
 
 "She is not going up there to make an offer." Annie had both hands flat on the desk. "She is going up there to ask. Those are two different journeys and only one of them can be refused, and the woman in that room has never in eleven years been on the second one."
@@ -14478,8 +14346,6 @@ Georgij sat very still.
 "That is not something a person can be sent to do," he said.
 
 "No. It is not." Annie picked the pen back up and did not use it. "And she asked before either of us thought of it, and she asked a housekeeper in a passage at eight in the morning, and she said she would take a train."
-
-* * *
 
 She wrote three lines and turned the sheet over.
 
@@ -14493,8 +14359,6 @@ She wrote three lines and turned the sheet over.
 
 "Say why not, because I am not going to be the only person in this room who has thought about it."
 
-* * *
-
 Georgij looked at the edge of the desk.
 
 "Because she has seen me once, in a car in a yard, at a distance, on the day she was bought," he said. "There is no version in which I stand in that doorway and it is about the two of them."
@@ -14504,8 +14368,6 @@ Georgij looked at the edge of the desk.
 "That is most of it. The rest is that I would arrange it." He did not look away. "I would not mean to and I would do it inside about a minute, and I have watched myself do it eleven times since March."
 
 Annie did not tell him that was wrong.
-
-* * *
 
 ## Day Three Hundred and Ninety-Nine · Friday 6 November
 
@@ -14517,8 +14379,6 @@ He came and found Georgij in the small room without being asked to, and stood in
 
 "That is what I want."
 
-* * *
-
 "The gate was open and there was nobody on it. There has been nobody on it since about September by the look of the grass." Jang was entirely level. "She got out at the front and went up the steps on her own and did not knock, because the door was not locked, and I have been thinking about that on the way back."
 
 "Go on."
@@ -14528,8 +14388,6 @@ He came and found Georgij in the small room without being asked to, and stood in
 Georgij did not say anything.
 
 "She came out at ten past two and she did not hurry and she did not look back at the building." He turned the cap over once. "She got into the front and not the back, which she has not done, and she asked me whether I minded, and I said I did not."
-
-* * *
 
 "And on the way back," said Georgij.
 
@@ -14551,8 +14409,6 @@ She reported it in three sentences and did not add a fourth.
 
 "The woman is coming on Wednesday. She has asked for the eleventh and not the tenth, and she gave a reason. Wednesday is the day the man comes about the tank, and she does not want him to arrive at an empty room." She had the door still open behind her. "That is the whole of what I was given and I did not ask for more."
 
-* * *
-
 Annie sat with that.
 
 "She thought about the delivery man," she said.
@@ -14562,8 +14418,6 @@ Annie sat with that.
 "Say what she was told, in the words she was told them in."
 
 "I was not given those," said Mrs Seo. "I asked once and she said that it was between the two of them, and I said that was correct and I have not asked again."
-
-* * *
 
 Nobody in that room said anything for a moment.
 
@@ -14605,13 +14459,9 @@ He went round the desk and sat down on the floor beside it.
 
 She worked and he did not say anything, and the house did the things it does at nine on a Saturday.
 
-* * *
-
 The light outside had gone and neither of them had put on a second lamp.
 
 He did not say anything at all. He had not come up in order to say anything and she had not sent for him, and both of those were true and neither of them was mentioned.
-
-* * *
 
 Annie put the pen down at about half past nine.
 
@@ -14623,8 +14473,6 @@ Annie put the pen down at about half past nine.
 
 Georgij did not move at all.
 
-* * *
-
 "On the second of November there was a woman in a car in a yard in Incheon," she said, "and a man in another car who did not get out of it."
 
 "Mistress."
@@ -14634,8 +14482,6 @@ Georgij did not move at all.
 "She told me as well," said Georgij.
 
 "I know she did. She told me on the Wednesday that she was going to, and she told me why, and I said that it was hers to give." Annie's voice did not go anywhere at all. "And the woman spent that evening working out which of the three of us had decided that nobody was going to get out of a car and be kind at her. She got it wrong, and Mrs Jeon told you that too."
-
-* * *
 
 Georgij looked at the leg of the desk.
 
@@ -14647,8 +14493,6 @@ She let that stand where it was.
 
 "You worked out that it was, and you sat still in a car in a yard for eleven minutes, and it cost this house nothing and it bought this house nothing." She picked the pen back up. "There is no figure I can put on that. I have tried twice."
 
-* * *
-
 Georgij did not say anything for a while.
 
 "That is not a use," he said.
@@ -14656,8 +14500,6 @@ Georgij did not say anything for a while.
 "No," said Annie. "It is not."
 
 She went back to the page.
-
-* * *
 
 He stayed on the carpet at the side of the desk with his back against the drawers, and she worked, and neither of them said anything for a long time.
 
@@ -14667,7 +14509,7 @@ He sat with that until she sent him down to eat.
 
 ---
 
-# Book Two · Chapter 61: The draught under the door
+# Book Two · Chapter 63: The draught under the door
 *Lot Fourteen* · Version 2.6 · EN
 
 ## Day Four Hundred and Four · Wednesday 11 November
@@ -14886,8 +14728,8 @@ He wrote two lines in the book that evening.
 
 ---
 
-# Book Two · Chapter 62: The second Tuesday
-*Lot Fourteen* · Version 3.1 · EN
+# Book Two · Chapter 64: The second Tuesday
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Thirty-One · Tuesday 8 December
 
@@ -14999,8 +14841,6 @@ Annie did not say anything for about four seconds.
 
 "Yes, Mistress."
 
-* * *
-
 "Then say what happens if I stop it."
 
 Georgij had had that since about half past nine and had taken it apart twice on the gravel.
@@ -15019,8 +14859,6 @@ Annie stood in the passage for a moment.
 
 "And I will have my own supply from a different firm, arranged today, starting when it starts, and neither of them is going to be told that there was ever a changeover." She had one hand on the rail. "That is not delicacy. A woman who is told that her oxygen is being moved from one account to another spends a month working out what the month after that looks like."
 
-* * *
-
 "There is a price and you are going to say it out loud," said Annie, "because you will have counted it in the drive and I have counted it standing here."
 
 Georgij had counted it in the drive.
@@ -15038,8 +14876,6 @@ Annie looked at the cylinders.
 "No."
 
 "He cannot do anything. He built it eleven years ago so that he could not." She did not raise her voice at any point. "And it followed her out of his house and into mine, and it will go on arriving on the second Tuesday of every month until one of them is dead."
-
-* * *
 
 Georgij stood in the passage after she had gone up.
 
@@ -15075,8 +14911,8 @@ Nobody in that room will be told, and that is the whole of what was decided in a
 
 ---
 
-# Book Two · Chapter 63: Nobody paid
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 65: Nobody paid
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Thirty-Four · Friday 11 December
 
@@ -15134,8 +14970,6 @@ Woo sat with his forearms on the desk and looked at the middle of it for about a
 
 "What he was before 2002."
 
-* * *
-
 Woo did not perform anything.
 
 Then Woo went quiet, and it was a different quiet from the first one.
@@ -15158,7 +14992,7 @@ Two containers, a declaration that had been made by a man who no longer worked f
 
 Georgij did not interrupt.
 
-"A young man came out to the yard. On his own, in his own car, on a Wednesday in February." Woo's hands had not moved. "Thirty-five or thirty-six. He had one folder and he had read it. We put lunch in front of him because that is what you do. He sat with it for an hour and forty minutes and did not eat any of it. I have thought about that more often in twenty-three years than I have thought about the containers."
+"A young man came out to the yard. On his own, in his own car, on a Wednesday in February." Woo's hands had not moved. "Thirty-five or thirty-six. He had one folder and he had read it. We put lunch in front of him because that is what you do. He sat with it for an hour and forty minutes and did not eat any of it. I have thought about that more often in twenty-four years than I have thought about the containers."
 
 Georgij's face did not do anything at all.
 
@@ -15184,11 +15018,11 @@ Woo got there on his own, and it took him perhaps twenty seconds, and Georgij wa
 
 "No."
 
-"He wanted to know who I had." Woo said it flatly and then he said the rest of it more slowly. "I have believed for twenty-three years that one of those three men paid somebody for me. I have never been able to work out which, and I have never been able to ask, and two of them are dead now and I went to both funerals wondering."
+"He wanted to know who I had." Woo said it flatly and then he said the rest of it more slowly. "I have believed for twenty-four years that one of those three men paid somebody for me. I have never been able to work out which, and I have never been able to ask, and two of them are dead now and I went to both funerals wondering."
 
 "And the third."
 
-"The third is alive. I have not had a real conversation with him since my wife died." Woo looked at the photograph of the fourteen metres. "Nobody paid. That is what you have just brought into my office. Nobody paid, and I have spent twenty-three years being quietly grateful to three men for a thing none of them did."
+"The third is alive. I have not had a real conversation with him since my wife died." Woo looked at the photograph of the fourteen metres. "Nobody paid. That is what you have just brought into my office. Nobody paid, and I have spent twenty-four years being quietly grateful to three men for a thing none of them did."
 
 "I am spending the three hours," said Woo.
 
@@ -15246,7 +15080,7 @@ There were four things available and every one of them would have made the old m
 
 "We have the time for the long way."
 
-"I have a list of thirty-one names and you are not on it, and the list came from a woman who has been collecting it since June, and I read it four times." Georgij held his eye. "I did not come out here to find that. I came out here because you are the only man alive who was at the top of this trade twenty-three years ago and would tell me the truth about it. I was not going to ask you for that with a favour in my hand."
+"I have a list of thirty-one names and you are not on it, and the list came from a woman who has been collecting it since June, and I read it four times." Georgij held his eye. "I did not come out here to find that. I came out here because you are the only man alive who was at the top of this trade twenty-four years ago and would tell me the truth about it. I was not going to ask you for that with a favour in my hand."
 
 Woo took his hand off the roof of the car.
 
@@ -15258,7 +15092,7 @@ The road back off the island is twelve kilometres of bridge and there is nothing
 
 Georgij had the notebook open on his knee before the toll.
 
-*Chairman Woo has been telling himself for twenty-three years that one of three men paid for him.*
+*Chairman Woo has been telling himself for twenty-four years that one of three men paid for him.*
 
 *Nobody paid for him. He was shown to a man who wanted to know who he would telephone, and the man took the answer away and never used it, and never had to. That is what having somebody means. It does not have to be spent. It has to be known.*
 
@@ -15288,8 +15122,6 @@ He went up at about nine and Annie was at the desk and did not ask.
 
 "He asked a man of fifty-five who he would telephone if it went badly, and he was given three names in about four seconds." He did not soften it. "He never used one of them. That is the whole of what having somebody means, and I have had it for about four hours and I am not going to be able to put it down."
 
-* * *
-
 "And the part you have not said," said Annie.
 
 "He was made."
@@ -15300,8 +15132,8 @@ Georgij stood in the middle of the room.
 
 ---
 
-# Book Two · Chapter 64: A man who answers
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 66: A man who answers
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Thirty-Seven · Monday 14 December
 
@@ -15316,8 +15148,6 @@ Georgij stood in the passage behind the kitchen and did not say anything.
 "Forty times."
 
 "Forty-one now, and forty-two."
-
-* * *
 
 There was a coin going into the box.
 
@@ -15335,8 +15165,6 @@ There was a coin going into the box.
 
 "I stood up, and I got as far as the desk, and then I put my hand on the back of the chair instead and waited for it to stop." Sim let that sit for a second. "I have been thirty years in a trade where the whole of the work is that a man answers. I would like it on the record that it took me until the fourth ring on the second day."
 
-* * *
-
 "Say why you did not," said Georgij.
 
 "You will want the true one and not the one that flatters me."
@@ -15351,8 +15179,6 @@ Another coin went in.
 
 "It is the whole of the trade and I have just failed at it twice." He said it without any self-pity, which made it worse. "And the second time I failed at it faster."
 
-* * *
-
 "He did not leave anything," said Georgij.
 
 "He has never left anything anywhere in eleven years and he did not start on Friday." Sim was entirely level. "There is no message and there is no letter and there will not be one. If he wants me he will go on ringing on Thursdays before five, and one Thursday it will stop, and I will not be told which one that was until about a fortnight afterwards."
@@ -15362,8 +15188,6 @@ Another coin went in.
 "Even so."
 
 "I am not going to answer it. Not this month and not in the spring." He straightened something at the other end of the line, and it came down the telephone as a pause. "I said in September that I would take nothing more from him, and I have not. I have had three months of nothing now and I would like you to know that it is exactly as bad as I expected and that I have not changed my mind."
-
-* * *
 
 Georgij stood in the passage after the line went down.
 
@@ -15377,7 +15201,7 @@ Then the other half, and he went and got the book for it.
 
 *He rang on Thursday and on Friday and nobody answered.*
 
-*He did not ring anybody else on Thursday, because there was nobody else on Thursday. He has spent twenty-three years arranging it so that there is only ever one number.*
+*He did not ring anybody else on Thursday, because there was nobody else on Thursday. He has spent twenty-four years arranging it so that there is only ever one number.*
 
 *So the question is not who he rang. It is who he rang instead, afterwards, when the second one had gone nine rings as well.*
 
@@ -15409,8 +15233,6 @@ Georgij stood very still.
 
 "The fourth of November. That was the Wednesday." Mr Ok turned round at last. "You are going to want to sit down and there is nowhere, so you had better take it standing."
 
-* * *
-
 "He telephoned," said Mr Ok. "It is the same voice and I would know it in a room with forty people in it, which I have been in, and I have thought about that every week since you stood here in April."
 
 "What did he ask you for?"
@@ -15424,8 +15246,6 @@ The traffic did what traffic does.
 "And you said."
 
 "I said I would find out."
-
-* * *
 
 Georgij put both hands on the wall.
 
@@ -15443,8 +15263,6 @@ Georgij looked at the envelope and did not reach for it.
 
 "I have had it since the sixth and he has not rung again, and I have spent five weeks sitting in an office with it in a drawer working out which of two things is true." Mr Ok said it flatly. "Either he does not want it after all, or he is waiting to see whether I send it without being asked twice, and I have not been able to decide which of those is worse."
 
-* * *
-
 Then he asked it, and he asked it looking at the road and not at Georgij.
 
 "Should I send it?"
@@ -15461,8 +15279,6 @@ Mr Ok turned the envelope over once.
 
 "Then give me the reason, because I am going to be putting it in a post box tomorrow morning and I would like to be carrying something."
 
-* * *
-
 "It is true," said Georgij. "That is most of it. There is nothing on that page that anybody had to decide to give you, and a girl read it off a schedule in ninety seconds, and she would read it to the next man who telephoned."
 
 "That is most of it. Say the rest."
@@ -15474,8 +15290,6 @@ Mr Ok looked at the envelope.
 "And if I send it."
 
 "Then he has one date in his hand that he did not have in November, and a date is a thing a man acts against." Mr Ok had not picked his case back up. "A man working against a date moves, and a man who moves leaves something behind."
-
-* * *
 
 "There is a part of that which is about him and a part which is about me," said Mr Ok, "and you have given me the first part twice and you have not given me the second."
 
@@ -15498,8 +15312,6 @@ He did not arrange it.
 Mr Ok put the envelope back in his inside pocket.
 
 "Then that is the truth twice from the same man at the same wall," he said, "and I have been in this trade thirty-one years and I have not had it twice from anybody."
-
-* * *
 
 The car came, and it was eight minutes late.
 
@@ -15527,7 +15339,7 @@ Georgij walked to the bridge rather than to the bus, and it took thirty-five min
 
 He stopped there and read it back and then wrote the rest, because the order had gone in wrong and the order is the whole of it.
 
-*The fourth of November is five weeks before the tenth of December. He went to Mr Ok first.*
+*The fourth of November is thirty-six days before the tenth of December. He went to Mr Ok first.*
 
 *He did not ring the man who has done everything for him for eleven years and then fall back on a hand he used once. He went round him, two days after the woman came out of that house.*
 
@@ -15539,8 +15351,8 @@ He stopped there and read it back and then wrote the rest, because the order had
 
 ---
 
-# Book Two · Chapter 65: No story at all
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 67: No story at all
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Four Hundred and Forty · Thursday 17 December
 
@@ -15628,7 +15440,7 @@ Then he told her, because there was no version in which he could ask her for som
 
 Mrs Sunwoo did not move.
 
-"In the second week of April eleven years ago she was going to be married, and she was not. Sixty-two people were invited." He did not hurry any of it. "She has asked me what became of them, and I have four."
+"In the second week of April eleven years ago she was going to be married, and she was not. Sixty-two people were invited." He did not hurry any of it. "She has asked me what became of them, and I have the number and nothing else."
 
 Mrs Sunwoo went perfectly still, in the way of a person who has just heard the thing they were braced for and finds it worse for arriving.
 
@@ -15726,8 +15538,8 @@ The first page has a family name at the top of it. It is the name from the booki
 
 ---
 
-# Book Two · Chapter 66: What silence costs
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 68: What silence costs
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Forty-One · Friday 18 December
 
@@ -15803,8 +15615,6 @@ He had the tactical position by about seven and it took him until half past nine
 
 *That is the whole of it and it took four minutes and it is worth nothing.*
 
-* * *
-
 He wrote the other one at about ten and did not improve it.
 
 *She has had eleven years of thinking she was being decent.*
@@ -15827,15 +15637,11 @@ Annie was at the desk with the folder from Yeouido open and did not close it, wh
 
 "I need the fourth of the four and she is the only one left who can be asked." He kept his hands where she could see them. "There is nothing in it for her. There is no danger to her and no gain to her, and I have been at it since seven and there is not one."
 
-* * *
-
 Annie did not say anything for a moment.
 
 "Then you are asking me whether you may take a thing off a woman for nothing."
 
 "No. I am telling you that I am going to, and that I know what it is." He did not look away. "I would rather you heard me call it by its name than watch me call it something else in about a fortnight."
-
-* * *
 
 "Jang takes you and sits in the car," said Annie.
 
@@ -15873,8 +15679,6 @@ Mrs Ha is in her sixties and answered the door herself and looked at his coat be
 
 "Then you can come in, and you can sit on the good chair, because the other one has been broken since March and I have not had it seen to." She went ahead of him. "Mind the boxes. That is a wedding from 2019 that never got collected and I am not throwing it out on principle."
 
-* * *
-
 The room is stacked to the ceiling on two walls with boxes that have hall names written on them in marker.
 
 She sat down opposite him and did not offer him anything, which she would have done for a customer, and both of them understood that.
@@ -15886,8 +15690,6 @@ She sat down opposite him and did not offer him anything, which she would have d
 "That last one comes on Tuesdays." She folded her arms. "One question."
 
 "The Moon wedding. The second week of April, eleven years ago. It did not happen."
-
-* * *
 
 She did not move for about four seconds.
 
@@ -15903,8 +15705,6 @@ Then she got up and went to the window and looked at the street, which is a thin
 
 "Four hundred and eleven, and the four hundred and eleventh was in the November before last and it was a nephew and I did it for nothing." She did not turn round. "And I can tell you the linen on every one of them, and the tables, and what the mother wanted and what she got instead. That is thirty years. That is what I've got, and it's in boxes, and nobody has asked me about any of it since the day I shut."
 
-* * *
-
 "I am not here about the business," said Georgij.
 
 "I know you're not. Nobody is." She sat down on the other side of the boxes. "Ask it properly, then. You said one question and you gave me a date."
@@ -15919,8 +15719,6 @@ Mrs Ha put both hands flat on her knees.
 
 "The hall, not the family. That's normal and it means nothing. Halls do the telephoning." She looked at the boxes. "What isn't normal is that nobody argued about the money. In thirty years I have argued about money on three hundred of them, and this one paid the whole thing inside a week and never asked for the linen back."
 
-* * *
-
 "And then," said Georgij.
 
 "And then she came here."
@@ -15934,8 +15732,6 @@ Georgij did not move at all.
 "For what."
 
 "For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and eleven weddings, nobody's family has ever come to my office. Not once. They send a card at best and mostly they send nothing, and I have never thought worse of anybody for it, because it is a bad month and I am a supplier."
-
-* * *
 
 "What was she like," said Georgij.
 
@@ -15955,8 +15751,6 @@ Georgij did not move at all.
 
 Georgij sat in a room stacked with boxes and did not let anything happen on his face.
 
-* * *
-
 "I asked her whether it might be later in the year," said Mrs Ha.
 
 "Because that is what you ask."
@@ -15973,8 +15767,6 @@ Neither of them said anything.
 
 She had finished deciding before she came up those stairs, and the only thing she had left to arrange was where the flowers went.
 
-* * *
-
 Georgij let a moment go past before he asked it, because there was no version in which it was not the next question.
 
 "And then somebody came to see you," he said.
@@ -15990,8 +15782,6 @@ The room did what a room above a shop does on a Monday morning.
 "Which is a lie," said Mrs Ha. "She was at the fitting. I did the fitting."
 
 "Yes."
-
-* * *
 
 Mrs Ha got up again and this time she did not go to the window.
 
@@ -16013,8 +15803,6 @@ The floor of that room went a long way down.
 
 "I had never seen him in my life."
 
-* * *
-
 "What did he ask you for," said Georgij.
 
 "Nothing." She turned round. "That's the part nobody would believe and it's why I've never said it. He didn't ask me for one single thing. He sat in that chair for twenty minutes and he was kind to me about the girl I'd taken on and he left."
@@ -16026,8 +15814,6 @@ The floor of that room went a long way down.
 "And you did not discuss it."
 
 "For eleven years." She came back and sat down. "And I want you to understand what I thought I was doing, because I've had eleven years to be wrong about it. I thought I was being decent. I thought a woman had had the worst month of her life and a man who cared about her had come round to ask people to be kind."
-
-* * *
 
 Georgij sat with that.
 
@@ -16055,8 +15841,6 @@ Mrs Ha laughed, once, and it was not a laugh.
 
 She had got to it in one sentence, and she had got to it against herself.
 
-* * *
-
 At the door she asked the question he had been waiting for since the boxes.
 
 "Is she alive?"
@@ -16065,7 +15849,7 @@ At the door she asked the question he had been waiting for since the boxes.
 
 "It can be said anyway."
 
-"She is in a house with two doctors and a garden and she has been since the eleventh of November, and I am not going to tell you where and I am going to tell you why." He held her eye. "It is not about you. There is a man who paid for her for eleven years and he has known since October that she is gone. Every person in this city who can say one sentence about April is a person he already has the name of. You have been reached for once and you did not know it was happening."
+"She is in a house with two doctors and a garden and she has been since the eleventh of November, and I am not going to tell you where and I am going to tell you why." He held her eye. "It is not about you. There is a man who paid for her for eleven years. He has known since October that somebody was coming, and since November that she is not in that building. Every person in this city who can say one sentence about April is a person he already has the name of. You have been reached for once and you did not know it was happening."
 
 Mrs Ha looked at him for a long moment.
 
@@ -16077,8 +15861,8 @@ Mrs Ha looked at him for a long moment.
 
 ---
 
-# Book Two · Chapter 67: The fourth time
-*Lot Fourteen* · Version 3.1 · EN
+# Book Two · Chapter 69: The fourth time
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Four Hundred and Forty-Five · Tuesday 22 December
 
@@ -16093,8 +15877,6 @@ Georgij stood in the gate.
 "I know."
 
 "You do not know. You have come four hundred kilometres on the twenty-second of December, and you said in April what a fourth time was." Her voice did not go up anywhere. "So say what you have been told and who told you it, and I will tell you whether it is true."
-
-* * *
 
 "Nobody has told me anything," said Georgij. "I have not asked anybody about you since the thirtieth of April and there is nothing to ask."
 
@@ -16118,8 +15900,6 @@ She sat down first and told him to sit.
 
 "Four times."
 
-* * *
-
 "I am going to say three things," said Georgij, "and the first one is going to be worse than it sounds, and I would rather you had it in the first minute than in the fortieth."
 
 "Then it should be the first one."
@@ -16131,8 +15911,6 @@ Nam Byung-hee did not move at all.
 "Say the second thing."
 
 "Your nephew is on the nine-truck rota at Mr Kwon's, and he has been since the twentieth of April, and that has not changed. As of the ninth of November the firm he works for belongs to her."
-
-* * *
 
 The gulls did whatever gulls do over a yard with one truck in it.
 
@@ -16158,21 +15936,17 @@ Nam Byung-hee put one hand flat on the desk.
 
 "Then I will say mine, and it is not going to be what you expect either," she said. "I am glad."
 
-* * *
-
 Georgij did not say anything.
 
 "You will want the reason and you are entitled to it, and you are not going to enjoy it." She was quite steady. "Nine trucks on a lane with seven years on it and nobody standing behind them goes under in about four years. I have watched three men go that way and one of them was better at this than I am."
 
 "You knew that in April."
 
-"I knew it in April and I have thought about it every week since, and it has been the only thing about my nephew that I could not put down." She turned her hand over. "Now there is somebody standing behind it. It is the woman I wrote a letter about. My brother's boy is going to have a wage for the whole of his working life because of her. And I am to sit here at fifty-four and hold both of those."
+"I knew it in April and I have thought about it every week since, and it has been the only thing about my nephew that I could not put down." She turned her hand over. "Now there is somebody standing behind it. It is the woman I wrote a letter about. My brother's boy is going to have a wage for the whole of his working life because of her. And I am to sit here at fifty-eight and hold both of those."
 
 "Yes."
 
 "Then I will hold both of them," said Nam Byung-hee. "I have been holding worse arrangements than that since 1998."
-
-* * *
 
 "The third thing," she said.
 
@@ -16183,8 +15957,6 @@ Georgij took a moment over it, because it was the one he had built on the train 
 "You said it was true and four months late."
 
 "It is happening now, and I am going to tell you what it actually looks like, because I said a large sentence in this room and you are owed the small version of it."
-
-* * *
 
 "Then say it."
 
@@ -16198,15 +15970,13 @@ Nam Byung-hee did not say anything for a moment.
 
 "A telephone."
 
-"A telephone that is not answered, twice, on two days." He did not decorate it. "He has spent twenty-three years arranging his life so that he never has to be anywhere. The whole of that only works while somebody else is willing to be. In December one man stopped, and there is no room he can walk into to find out why, because he has never once been in a room."
+"A telephone that is not answered, twice, on two days." He did not decorate it. "He has spent twenty-four years arranging his life so that he never has to be anywhere. The whole of that only works while somebody else is willing to be. In December one man stopped, and there is no room he can walk into to find out why, because he has never once been in a room."
 
 She sat back.
 
 "You are telling me it is small."
 
-"I am telling you it is the size it is, and that it is the first thing anybody has taken off him in twenty-three years that he could feel on the day it happened." Georgij looked at her properly. "I said something large in this room in April and I have been careful since about saying large things. That is the whole of what I have got, and it is real, and it is going to be followed by a great deal more of the same."
-
-* * *
+"I am telling you it is the size it is, and that it is the first thing anybody has taken off him in twenty-four years that he could feel on the day it happened." Georgij looked at her properly. "I said something large in this room in April and I have been careful since about saying large things. That is the whole of what I have got, and it is real, and it is going to be followed by a great deal more of the same."
 
 "Now the fourth thing," said Nam Byung-hee.
 
@@ -16224,8 +15994,6 @@ The calendar on the wall was still on a month with nothing written in it.
 
 "I am telling you that you are on a list. What happens after that is not mine."
 
-* * *
-
 "Say which list."
 
 "There are thirty-one names on a page in my coat and they were collected by a woman in Seoul over nine days in June." The page was still in the coat and he did not take it out. "You are not on that page. You would be the thirty-second and you would be on it because the same man did the same thing to you, in the same way, and you are the most recent."
@@ -16239,8 +16007,6 @@ Nam Byung-hee looked out of the window at one truck.
 "And she knows that you are here."
 
 "She knows I am here and she knows what I came to say, and she said one sentence about it and I am going to give it to you exactly." Georgij kept his hands still. "She said that it is a request and not an arrangement, and that if the answer is no she is not to be told a reason."
-
-* * *
 
 Nam Byung-hee sat with that for a long time.
 
@@ -16271,8 +16037,6 @@ At the gate she said the last of it, the way she did in April.
 Georgij stood on the other side of it.
 
 "They are not the same visit," he said. "I made the fourth time mean one thing in April, and I have spent this morning taking it back. I could not have done it in a letter. That is the whole of why the car is out there."
-
-* * *
 
 She looked at him for a while.
 
@@ -16312,8 +16076,8 @@ Then the rest of it, at Iksan, in the eight minutes.
 
 ---
 
-# Book Two · Chapter 68: What he was for
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 70: What he was for
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Four Hundred and Fifty-One · Monday 28 December
 
@@ -16325,8 +16089,6 @@ He gave himself the week, which is four days longer than he gave himself for any
 
 *I have known him for five months. He has told me the truth four times when it cost him and once when it cost him everything. And I do not know which of the two it is, and I am not going to guess about a man who has not guessed about me.*
 
-* * *
-
 He telephoned on the Monday morning and Sim said the same room and the same hour without being asked.
 
 There was tea again and it was at the right temperature again, which meant he had timed it again, and there was a plate this time with four small things on it that Georgij did not recognise.
@@ -16336,8 +16098,6 @@ There was tea again and it was at the right temperature again, which meant he ha
 Georgij sat down.
 
 "There is a woman in Mapo," he said.
-
-* * *
 
 He gave it in the order it happened.
 
@@ -16357,8 +16117,6 @@ Neither of them said anything.
 
 "And he told her it was good to see her again," said Sim, "and he had never seen her in his life."
 
-* * *
-
 Georgij sat very still.
 
 "How long you have had that," he said.
@@ -16372,8 +16130,6 @@ Georgij sat very still.
 "And you have remembered all four for eleven years."
 
 "I have remembered all four hundred, near enough. Nobody should call that a virtue. It is what the work is." Sim's voice did not change. "I have never once until this minute put those four beside each other."
-
-* * *
 
 "What you were told," said Georgij.
 
@@ -16391,8 +16147,6 @@ Georgij did not say anything.
 
 "Yes."
 
-* * *
-
 Sim looked at the plate with the four small things on it and did not touch it.
 
 "I have been sitting up with eleven years of letters since the first of August," he said. "You know that, because I told you I would, and I have. And I have been reading them for the wrong thing."
@@ -16406,8 +16160,6 @@ Sim looked at the plate with the four small things on it and did not touch it.
 "Not one. Eleven years and I have not found a single sentence that is untrue." Sim did not raise his voice at any point. "Every letter I have ever had from that man is accurate. He has never once needed to lie to me."
 
 The office on the second floor did what a room does at eleven in the morning.
-
-* * *
 
 "There is a thing I have understood since the twenty-first and I am going to say it out loud once," said Sim, "and then I would like us to talk about the fourteenth."
 
@@ -16425,8 +16177,6 @@ Georgij sat in a chair in Jongno and did not move.
 
 A man had found out at sixty-three what he was for, and he said it in the same voice he uses about the tea.
 
-* * *
-
 Neither of them said anything for a while.
 
 "You came here with something you have not said," said Sim.
@@ -16434,8 +16184,6 @@ Neither of them said anything for a while.
 "I know."
 
 "Then it is going to sit in this room until one of us says it, and I have watched you not say things since August and I am too old to enjoy it twice."
-
-* * *
 
 "There is nothing left for him to ask you for," said Georgij.
 
@@ -16451,8 +16199,6 @@ Sim sat with that for a moment.
 
 "You have been getting ready since the twenty-ninth of September, and I have known since the first of October, and I have come here to say it before the year turns and not after."
 
-* * *
-
 Neither of them said anything at all.
 
 "Then the last part," said Sim, "and it is mine and not yours."
@@ -16460,8 +16206,6 @@ Neither of them said anything at all.
 "The last part."
 
 "I am finished."
-
-* * *
 
 Georgij sat with that.
 
@@ -16483,8 +16227,6 @@ Georgij sat with that for a moment.
 
 "It is not a decision. It is a thing that has happened to me and I am describing it." Sim looked at the plate. "I am sixty-three. I have got one instrument and I have just found out what it was for. I would rather have nothing than go on being it, and it turns out that a man can arrive at that in one afternoon after thirty years."
 
-* * *
-
 At the door, Georgij stopped, and he did it because there was one thing left and it was not tactical.
 
 "There is something I am going to say and you are not going to like it," he said.
@@ -16504,8 +16246,6 @@ Sim did not answer straight away.
 "The word only, and the word just." Georgij held his eye. "Both of them would have made it smaller and both of them would have been for me."
 
 He had spent a weekend on one sentence, and the work was the two words he did not use.
-
-* * *
 
 Sim stood up, which he had not done, and put one hand on the back of his own chair.
 
@@ -16539,8 +16279,8 @@ He sat with the pen in his hand for a while.
 
 ---
 
-# Book Two · Chapter 69: Over the dessert
-*Lot Fourteen* · Version 3.1 · EN
+# Book Two · Chapter 71: Over the dessert
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Four Hundred and Fifty-Three · Wednesday 30 December
 
@@ -16549,8 +16289,6 @@ Mr Im has a room above a printer's in Mullae and a brass plate on the street doo
 He goes in at nine and leaves at six and there is nothing for him to do in between.
 
 That is the part Georgij did not know until he had been sitting in a coffee shop across the road for two mornings, and it is the reason he came on the second one and not the first.
-
-* * *
 
 "You are not from the building," said Mr Im.
 
@@ -16561,8 +16299,6 @@ That is the part Georgij did not know until he had been sitting in a coffee shop
 He said it standing, with one hand still on the door. It is the voice of a man who has had this conversation before and has decided in advance which part of it he is going to be firm about.
 
 "I am not from anybody," said Georgij. "There is nothing official in this and nothing is going to happen to you today or afterwards. I have come to tell you one thing and then to go back down those stairs."
-
-* * *
 
 Mr Im did not move for a moment.
 
@@ -16578,8 +16314,6 @@ Georgij stayed standing, because he had not been asked to sit.
 
 "The fourteenth of November, six years ago. A private dinner in Cheongdam. You agreed to something at the end of it."
 
-* * *
-
 The room above the printer's did what a room does at ten in the morning.
 
 Mr Im put both hands on the desk.
@@ -16591,8 +16325,6 @@ Mr Im put both hands on the desk.
 "Then say the first one and I will decide."
 
 "You have an explanation for it."
-
-* * *
 
 Mr Im looked at him for about four seconds.
 
@@ -16608,17 +16340,13 @@ He got it out in one piece, the way a man does with a thing he has said to himse
 
 "That is the explanation, since you have come four flights up for it. I was fifty-one and I had a firm that was doing perfectly well, and a man put a thing in front of me at the end of a good dinner and I said yes because I wanted it." He had both hands flat. "Nobody made me. Nobody lied to me. I have had six years to find somebody else to put it on and there is not anybody, and I stopped looking in about the third year."
 
-* * *
-
-"That is a good explanation," said Georgij. "It fits everything you can see from that chair, and I would have arrived at it myself, and it is wrong."
+"That is an honest explanation," said Georgij. "It is also wrong, and it is wrong in the one place you stopped looking."
 
 Mr Im stayed in the chair, and something in the way he was sitting changed.
 
 "You have come here to tell a man of fifty-seven that he was not greedy."
 
 "No. I have come to tell you that there was a third man at that table."
-
-* * *
 
 The traffic did what traffic does.
 
@@ -16630,8 +16358,6 @@ Mr Im did not answer that.
 
 "You would not be able to tell me because they were not about the thing you agreed to. They were about something else entirely, and they were pleasant, and they were about eleven minutes before it."
 
-* * *
-
 "How do you know what he said."
 
 "I do not. I have never met him and I have never been in a room with him." Georgij said it flatly. "I know what he does, and he has done it about thirty times that I can put a date on, and four of the thirty were at that same table."
@@ -16641,8 +16367,6 @@ Mr Im sat back.
 "Four."
 
 "Four that I know of. There will be more and I am not going to guess at a number in your office."
-
-* * *
 
 "You are telling me I was worked on," said Mr Im.
 
@@ -16657,8 +16381,6 @@ Mr Im looked at the window, which faces a wall.
 "Then what do I do with it."
 
 "Whatever you like. That is not a courtesy." Georgij put his hand on the back of the chair he had not sat in. "I have not asked you for one thing and I am not going to, and I am going to walk down those stairs in about a minute whatever you say next."
-
-* * *
 
 Mr Im sat behind a desk in a room with nothing on it.
 
@@ -16678,8 +16400,6 @@ Georgij did not offer him anything.
 
 "No. If I soften it you will hear the soft version and go looking for the hard one on your own, and you will find it in about a fortnight, and you will find it at three in the morning."
 
-* * *
-
 Mr Im did the thing then that Georgij had not planned for.
 
 He opened the drawer of a desk in a company that has not traded since 2021 and took out a diary, and it was the diary for that year, and it was in the drawer.
@@ -16689,8 +16409,6 @@ He opened the drawer of a desk in a company that has not traded since 2021 and t
 "I did not give you a date."
 
 "You gave me the fourteenth of November six years ago about six minutes ago, and I have known which evening you meant since the word Cheongdam." He turned the pages without looking up. "There is one line in this for that night and it took me eleven years to start writing them down at all."
-
-* * *
 
 He found it and turned the book round and did not push it across.
 
@@ -16703,8 +16421,6 @@ Georgij read the two initials and did not touch the page.
 "The second one," he said.
 
 "He is why I went. I have known him since we were both nobody and I had not seen him in about a year, and I remember thinking on the way that it would be good to sit down with him." Mr Im closed the diary. "He said about nine words to me the whole evening and I have never once held it against him. He was at the other end of the table and he was tired."
-
-* * *
 
 Georgij stood very still.
 
@@ -16719,8 +16435,6 @@ Georgij stood very still.
 "I was not going to ask you," said Georgij.
 
 "I know you were not. That is the part I am going to be up with tonight."
-
-* * *
 
 At the door there was one more thing and it was Mr Im's.
 
@@ -16754,8 +16468,6 @@ Georgij stood in the passage and did not say anything.
 
 "He gave it to me in the first minute. He said that a young man had come up his stairs and had not asked him one question about the other people in the room, and that he had been sitting on it since ten o'clock."
 
-* * *
-
 "There is a thing I have to say and I am going to say it badly," said Sang-hoon.
 
 "Then it should be said."
@@ -16772,23 +16484,19 @@ Neither of them said anything.
 
 "He is going to have dinner with me on the ninth of January, in a room, with nobody else in it, and we are going to go through that evening from the beginning." Sang-hoon said it flatly. "And then he is going to telephone two men who were at a table in 2018, because he knows them and I do not, and he has already said so and I did not ask him to."
 
-* * *
-
 Georgij stood with the receiver against his ear and did not answer for a moment.
 
 "That is three," he said.
 
 "Say the whole of it, because you have counted something and I would like the number."
 
-"Mr Koh telephoned two men in September and one of them cancelled a dinner he had been going to for nine years." Georgij shifted the receiver to the other hand. "You have just told me that a man in Mullae is going to telephone two more in January."
+"Mr Koh telephoned two men in August and one of them cancelled a dinner he had been going to for nine years." Georgij shifted the receiver to the other hand. "You have just told me that a man in Mullae is going to telephone two more in January."
 
 Sang-hoon did not answer straight away.
 
 "You have not been near any of them since September."
 
 "I have been near one of them, this morning, for about eleven minutes."
-
-* * *
 
 "Then I am going to say the thing you are being careful about," said Sang-hoon, "because you will not say it in that house and somebody should."
 
@@ -16798,7 +16506,7 @@ Sang-hoon did not answer straight away.
 
 "I know."
 
-"Good," said Sang-hoon. "Then we understand what we are standing in, and I am going to go and be fifty-nine at somebody, and I will see you before the ninth."
+"Good," said Sang-hoon. "Then we understand what we are standing in, and I am going to go and be sixty at somebody, and I will see you before the ninth."
 
 * * *
 
@@ -16816,16 +16524,14 @@ Then the second page, because that is where this one goes.
 
 ---
 
-# Book Two · Chapter 70: Three pieces of good news
-*Lot Fourteen* · Version 3.1 · EN
+# Book Two · Chapter 72: Three pieces of good news
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Sixty · Wednesday 6 January
 
 The pot by the door has a new thing in it, because it is January and the woman from the noodle place puts one in every winter. This one has about four leaves on it and no business being outside.
 
 The fan is running in the corner.
-
-* * *
 
 "You will want to hear something and it is good," said Mr Ahn.
 
@@ -16836,8 +16542,6 @@ He said it before Georgij was properly through the door, which he has not done o
 "I have got the lease." He put the screwdriver down. "Five years, same rent, in writing, and I did not ask for it."
 
 Georgij stood inside the door and did not let anything happen on his face.
-
-* * *
 
 "Say it in the order it came," he said.
 
@@ -16853,8 +16557,6 @@ The compressor came on behind the wall and ran and stopped.
 
 "I telephoned him on Tuesday to ask, because I am not a fool." Mr Ahn looked up. "He said his agent had put it to him, and that the agent had said it made sense on a street like this one. He sounded as though he had not thought about it for more than a minute. He has not thought about me for more than a minute since 2019 and I would not expect him to start."
 
-* * *
-
 Georgij took his coat off, because there was a bracket on the floor that wanted two people, and because he needed forty seconds.
 
 *A man who has been month to month for six years is offered five years at the same rent, by an agent who suggested it himself.*
@@ -16868,8 +16570,6 @@ He held the bracket at the angle it wanted and did not say anything at all for a
 "I have."
 
 "Then it is not good news."
-
-* * *
 
 Georgij did not answer that straight away, and the not answering went across the bench exactly as it was.
 
@@ -16895,8 +16595,6 @@ Mrs Gwak was doing the till roll and looked up and knew him, which he had not be
 
 "Then you can have four minutes and I am not going up that ladder again for anybody."
 
-* * *
-
 "I have not come about the blue books," said Georgij.
 
 "Then it is the first time anybody has come in here in a year and not wanted something out of a cupboard." She put the roll down. "What, then."
@@ -16908,8 +16606,6 @@ Mrs Gwak looked at him for about two seconds.
 "That is a very strange question."
 
 "It is. I am not going to explain it in your shop and I am going to accept whatever you tell me."
-
-* * *
 
 She stood with one hand flat on the counter.
 
@@ -16923,8 +16619,6 @@ The till roll was still in her hand.
 
 "You said it to me on the thirtieth of May, about somebody else."
 
-* * *
-
 "It is not the same man," she said. "That one had a voice like a schoolmaster. This one is younger and he is somebody's assistant and he said so."
 
 "Did he say it was good to see you again?"
@@ -16936,8 +16630,6 @@ Georgij did not move at all.
 "Given by whom."
 
 "He did not say and I did not ask, because a woman who has lost thirty years of standing orders in a single spring does not interrogate the first one that comes back."
-
-* * *
 
 The cold room hummed.
 
@@ -16954,8 +16646,6 @@ She looked at him properly then.
 "You are not going to tell me anything at all, are you," she said.
 
 "I am going to tell you one thing and it is the only one I have got that is both true and any use." He had one hand on the edge of the counter and took it off. "Take the money. Do not be careful about it. If that account is ever cancelled it will be cancelled by them and not by you, and it will have nothing to do with anything you have done."
-
-* * *
 
 Mrs Gwak put the till roll back in the machine.
 
@@ -16978,8 +16668,6 @@ The woman on the ground floor was not watering anything, because it is January, 
 "Yes."
 
 "Well, you are too late for the fourth floor. There is a girl in it now and she has a bicycle as well, which nobody has said one word about, and I have said plenty."
-
-* * *
 
 "I have come about the step," said Georgij.
 
@@ -17031,8 +16719,6 @@ Georgij stood in a doorway in Seodaemun and did the arithmetic, and it came out 
 
 *Nobody has ever had to be in that stairwell. A man asked after a pot for six years because he is the sort of man who asks, and he wrote his letters, and every one of them was accurate.*
 
-* * *
-
 He did not go to the car.
 
 He walked to the end of that road and stood at the corner for about eleven minutes. Then he came back and went up the two flights and did not knock on anybody's door. He looked at the letterboxes in the hall, which are the one part of a building of that kind that belongs to nobody.
@@ -17055,8 +16741,6 @@ Annie listened to the whole of it without saying anything.
 
 "That is nine days before the house served the assignment on the holder." She put the pen down. "It is fourteen days before he could have known any of it."
 
-* * *
-
 Annie had not picked the pen back up.
 
 "He was doing it before he knew."
@@ -17071,8 +16755,6 @@ He took the time.
 
 "There is a woman in Hyoja-dong who has twelve weeks of a standing order and a son back on four days. There is a man in a workshop with five years. There is a woman in Seodaemun who has had a drain in writing off nobody for twenty-two years and now it is done." He kept his hands at his sides. "None of them has been asked for anything. None of them ever will be."
 
-* * *
-
 "Then say the last part," said Annie.
 
 "Chairman Woo said it in a shed in December and I wrote it down in a car on the bridge and I have not put it down since." Georgij did not soften it. "That is what having somebody means. It does not have to be spent. It has to be known."
@@ -17082,8 +16764,6 @@ Annie sat with that.
 "He is not buying their silence," she said.
 
 "He is not buying anything. He is arranging it so that in four years, if he ever has to telephone one of those three people, they will pick up." He did not stop anywhere. "And they will pick up gladly, and they will not know why they are glad, and there is not one thing anybody could put in front of anybody about it."
-
-* * *
 
 "Then we take it," said Annie.
 
@@ -17127,8 +16807,8 @@ The fan ran in the corner the whole time.
 
 ---
 
-# Book Two · Chapter 71: The doorway
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 73: The doorway
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
 
@@ -17188,7 +16868,7 @@ Georgij did not say anything.
 
 "That is the part you already had," said Woo, "and I could have said it on a telephone, and I did not telephone you for four days because I was waiting for the rest of it."
 
-"I have believed for twenty-three years that somebody paid for me," said Woo.
+"I have believed for twenty-five years that somebody paid for me," said Woo.
 
 "You told me that on Monday."
 
@@ -17310,7 +16990,7 @@ At the door, in the hall, with the car already turned round, Woo did the thing h
 
 "Chairman."
 
-"Two thousand and two is twenty-three years ago and she was fourteen." Woo had one hand on the frame. "You told me in April that she noticed at fourteen that a man at her father's table did not eat, and that she understood it at thirty. I have been turning that over since Thursday."
+"Two thousand and two is twenty-five years ago and she was fourteen." Woo had one hand on the frame. "You told me in April that she noticed at fourteen that a man at her father's table did not eat, and that she understood it at thirty. I have been turning that over since Thursday."
 
 Georgij stayed where he was.
 
@@ -17332,8 +17012,8 @@ Upstairs, a door did not open.
 
 ---
 
-# Book Two · Chapter 72: At thirty
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 74: At thirty
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
 
@@ -17507,7 +17187,7 @@ Georgij looked at the edge of the desk.
 
 She stopped there and did not go straight on.
 
-"I have sat at that table since I was fourteen," said Annie, "in the same room, with the same people, and I have spent seven of those years knowing that one of them was wrong and not knowing how he got there." Her voice was where it had been all evening. "You found it out in ten months. I had twenty-three years and a chair at it."
+"I have sat at that table since I was fourteen," said Annie, "in the same room, with the same people, and I have spent seven of those years knowing that one of them was wrong and not knowing how he got there." Her voice was where it had been all evening. "You found it out in ten months. I had twenty-five years and a chair at it."
 
 Somewhere below them a door was shut, and it was the second time that evening.
 
@@ -17519,7 +17199,7 @@ Somewhere below them a door was shut, and it was the second time that evening.
 
 Annie looked at him.
 
-"Your father brought a man to a table twenty-three years ago and was pleased with himself about it, and he has been dead for twenty-three years," said Georgij. "Everything that man has done since is his own. The room eleven years ago is his. The woman on the oxygen is his. The lot number in the box where the name goes is his, and Ahn Jung-hee is his, and none of it is a debt that came down to you."
+"Your father brought a man to a table twenty-five years ago and was pleased with himself about it, and he has been dead for twenty-five years," said Georgij. "Everything that man has done since is his own. The room eleven years ago is his. The woman on the oxygen is his. The lot number in the box where the name goes is his, and Ahn Jung-hee is his, and none of it is a debt that came down to you."
 
 "And the part I am not going to like."
 
@@ -17569,16 +17249,14 @@ He waited.
 
 ---
 
-# Book Two · Chapter 73: Not four
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 75: Not four
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Sixty-Five · Monday 11 January
 
 Sim answered it in about ninety seconds on the Monday and then spent forty minutes being sorry about it, and the forty minutes were worth more than the ninety seconds.
 
 There was tea and it was at the right temperature.
-
-* * *
 
 "The cards were mine," said Sim. "I have known that since you said the word cards in this room in the summer, and I did not say so. You had not asked me, and I had decided by then that I was going to be exact and nothing more."
 
@@ -17592,8 +17270,6 @@ Georgij sat very still.
 
 "I did not ask. A man is asked to be good company until eleven and there is nothing in that sentence to ask about." Sim's voice did not change anywhere. "So at about a quarter past nine I said that I had a pack in my coat, which I did, because I have had a pack in my coat since 1998 for exactly that reason."
 
-* * *
-
 "He lost forty thousand won."
 
 "He lost forty thousand won and he lost it to me, and I did not want it and I could not refuse it." Sim straightened his cuff, and it did not help. "I have thought about that money about nine times since the summer. It is in a drawer in this office and it has been there for a year and a half."
@@ -17605,8 +17281,6 @@ Georgij sat very still.
 "Then do not guess."
 
 "No," said Sim. "I am not going to. I have had eleven years of being useful with a guess."
-
-* * *
 
 At the door there was one more thing.
 
@@ -17623,8 +17297,6 @@ Park Sang-hoon took a room this time and not a table.
 He said on the telephone that it was because he did not intend to be pleasant to anybody for two hours afterwards. It is the first time in nine years he has booked a room for that reason.
 
 There was food and neither of them touched it.
-
-* * *
 
 "I have got them," said Georgij. "I am going to give you all four in the order they happened and I am going to say what I do not have."
 
@@ -17656,6 +17328,22 @@ Sang-hoon put his cup down.
 
 "The spring sale on that river was on the twenty-eighth of March that year, and lot six went into the book on the twelfth of February and was open for seven weeks and did not clear. K is three weeks before S. S is eight days before the sale."
 
+Sang-hoon put one hand flat on the cloth and left it there.
+
+"Eleven days from the twentieth."
+
+"About eleven. You said about."
+
+"I said about because nobody has ever made me be exact about it." He did not take his hand off the cloth. "It was not back on the twenty-eighth."
+
+Georgij did not say anything.
+
+"I am not going to tell you what it was," said Sang-hoon. "That has not changed in the last minute, and I want it said, because you are sitting there letting me think it might."
+
+"I know."
+
+"Then have the other half as well." He took his hand off the cloth. "When I sat down I was keeping a small thing about a friend. I do not know what I am keeping now."
+
 * * *
 
 **H.** A late August, three years after that. Half past seven. Six weeks before Mr Hwang was brought into a house that was already dying.
@@ -17664,8 +17352,6 @@ Sang-hoon put his cup down.
 
 "And the fourth."
 
-* * *
-
 Georgij put both hands flat on the cloth.
 
 "Y is not a decision either," he said.
@@ -17673,8 +17359,6 @@ Georgij put both hands flat on the cloth.
 Sang-hoon did not say anything at all.
 
 "You have spent a year looking for the thing you gave away at that dinner. There is not one. Nobody asked you for anything, nobody put a proposal in front of you, and you did not agree to a single thing all evening." Georgij did not soften it. "The instruction was one line in a letter and it was that you should not be back in your own building before eleven o'clock."
-
-* * *
 
 The room above the restaurant did the thing rooms do.
 
@@ -17688,8 +17372,6 @@ Sang-hoon sat with both hands on the arms of his chair and did not move them.
 
 "Two hours, and the cards were the mechanism, and the man who suggested them was told to keep the table until eleven and was not told why, and did not ask. He has had the money in a drawer since that night. It is still there. He asked me to tell you that, and to tell you that he has not spent it. And he asked me to say that you should think whatever you are going to think about it in January and not in a year."
 
-* * *
-
 Sang-hoon looked at the food that neither of them had touched.
 
 "What happened in my building at eleven o'clock," he said.
@@ -17702,19 +17384,15 @@ Sang-hoon looked at the food that neither of them had touched.
 
 He looked up at that.
 
-* * *
-
 "Say what you mean and be slow about it," said Sang-hoon.
 
-"You told me in a shed in May that you had made four decisions at those dinners that you had never been able to account for." Georgij said it evenly. "Two of them were decisions. S and H. You made them, they were yours, and you would make one of them again and you have said so."
+"You told me in a shed in May that you had made four decisions at those dinners that you had never been able to account for." Georgij said it evenly. "Two of them were decisions. S and H. You made them and they were yours, and until an hour ago you could have said you would make one of them again."
 
 "And K and Y."
 
 "K is a man finding out whether you answer. Y is a man needing your office to be empty." He did not stop anywhere. "Neither of them is a thing you did. You have spent a year going over four evenings looking for what was wrong with you, and half of that year was about two nights on which you did not do anything at all."
 
 Sang-hoon did not answer for a long time.
-
-* * *
 
 "That is worse," he said.
 
@@ -17730,9 +17408,11 @@ Sang-hoon almost got out the thing that is not quite a laugh.
 
 "No."
 
-"Then I am going to ask you for something instead, and you are going to find it strange, and I have been sitting on it since the ninth."
+He had written one line in a car in Yeouido fourteen months ago, and he had never told the man who gave it to him.
 
-* * *
+*Pyeongtaek. February. Eleven months of asking for nothing.*
+
+"Then I am going to ask you for something instead, and you are going to find it strange, and I have been sitting on it since the ninth."
 
 "Ask it."
 
@@ -17744,23 +17424,17 @@ Georgij did not move at all.
 
 The room did what a room does at three in the afternoon.
 
-* * *
-
 "Say why you are asking," said Georgij. "I am going to answer it either way. I would like to know what I am answering."
 
 "I am asking because a woman of about my own age had a firm on that lane and a chair of an association for twenty years, and she has neither, and there is no entry anywhere that says why." Sang-hoon did not blink. "In this trade there is always an entry. A man goes under and there are four people who will tell you which quarter it started in. This one has nothing, and nothing is a thing I have learned to be interested in since the twenty-seventh of May."
 
 Georgij sat with that for about two seconds.
 
-* * *
-
 "Then I will give you the whole of it and it is going to be against my own house," he said. "I am not going to arrange it so that it is not."
 
 "That is the only version I would take."
 
 He gave it to him.
-
-* * *
 
 A page went out to six hundred and forty buyers in March. One copy was made on a machine in a corridor in Jung-gu on the twelfth, at twenty to five, by a filing clerk who did not think about it for one second. It was in Ulsan on the fourteenth.
 
@@ -17769,8 +17443,6 @@ The man who asked for it had sat down beside somebody at a port authority lunch 
 She wrote a letter. She used the page. She had forty-one people and a dead lane and nobody would tell her why.
 
 "And on the third of April I asked for the lane and I was given it," said Georgij, "and by the middle of May she had sold four trucks and lost a firm her brother left her. That was me. I asked for it standing up, on my own account, and the woman I work for could have said no and did not."
-
-* * *
 
 Sang-hoon did not say anything for a while.
 
@@ -17784,8 +17456,6 @@ The room was very quiet.
 
 "I have been to that office four times. The last one was the twenty-second of December and I brought nothing and asked for nothing. That is the whole of what I have got to put on the other side of it, and it does not weigh anything."
 
-* * *
-
 Sang-hoon turned his glass a quarter turn and left it.
 
 "Then say the last part, because there is one and you have not offered it."
@@ -17795,8 +17465,6 @@ Sang-hoon turned his glass a quarter turn and left it.
 "Does she know she is on it."
 
 "I told her on the twenty-second. She telephoned this house on the fifth of January and said one word and rang off."
-
-* * *
 
 "Good," said Sang-hoon.
 
@@ -17811,8 +17479,6 @@ Georgij did not say anything.
 "That is the correct answer."
 
 "It is not an answer. It is a man saying that he has not decided." He stood up. "You have got very good at telling the difference and I have got very tired of watching you do it."
-
-* * *
 
 At the door he stopped, which he does not do.
 
@@ -17844,16 +17510,14 @@ Then the other half.
 
 ---
 
-# Book Two · Chapter 74: Nine boxes
-*Lot Fourteen* · Version 3.2 · EN
+# Book Two · Chapter 76: Nine boxes
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Seventy-Two · Monday 18 January
 
 Mrs Ha telephoned the house at ten past nine on the Monday morning, and it is the first time she has used the number he left with her in December.
 
 Mrs Seo brought it through rather than calling him, which she has done three times in a year.
-
-* * *
 
 "I am going to say the thing first and then I am going to be embarrassed about it," said Mrs Ha, "because if I do it the other way round I will not get to the thing."
 
@@ -17862,8 +17526,6 @@ Mrs Seo brought it through rather than calling him, which she has done three tim
 "Thank you."
 
 Georgij stood in the passage with the receiver against his ear and did not say anything at all.
-
-* * *
 
 "A firm wrote to me on Thursday," she said. "About the books. All nine boxes, thirty years, four hundred and eleven weddings and the one that was not."
 
@@ -17877,8 +17539,6 @@ The passage behind the kitchen did what it does at ten past nine.
 
 "You are the only person who has been in that room in four years and looked at those boxes," said Mrs Ha. "You are the only person who has ever asked me about any of it. And I gave you one of them at the door in December and told you it was no use to anybody, and now a letter comes."
 
-* * *
-
 "It was not me," he said.
 
 She did not answer that straight away.
@@ -17886,8 +17546,6 @@ She did not answer that straight away.
 "That is a strange thing to say quickly."
 
 "It is a true thing and I said it quickly because it needed to be first." He did not take his hand off the wall. "I have not spoken to a trade association about you. I have not mentioned your name to anybody who could write you a letter. I did not arrange it and I did not have it arranged."
-
-* * *
 
 "Then who," said Mrs Ha.
 
@@ -17900,8 +17558,6 @@ She did not answer that straight away.
 "Ask it."
 
 "Do not answer the letter until I have telephoned you."
-
-* * *
 
 Mrs Ha did not say anything, and the line did not either.
 
@@ -17933,8 +17589,6 @@ There is a date on the top one now, in a different pen, on a strip of masking ta
 
 *4 Feb.*
 
-* * *
-
 "They are collecting on the fourth," said Mrs Ha. "Two men and a van, and they are paying for the van, and they wrote that in the letter without being asked."
 
 "That is the correct way to do it."
@@ -17942,8 +17596,6 @@ There is a date on the top one now, in a different pen, on a strip of masking ta
 "It is the correct way to do it and it is what I would have done, and I did it four hundred and eleven times for other people." She poured. "So. You have come up my stairs the day after a telephone call and you have not sat back in that chair. Say it."
 
 Georgij did not decorate any of it.
-
-* * *
 
 "There is a man," he said. "You have met him and you do not know his name and neither do I."
 
@@ -17957,8 +17609,6 @@ She did not say anything.
 
 "I do not know that he wrote the letter. I have one day of looking behind me and I have not found a name and I do not expect to find one, because there will not be one to find." The boxes were on the two walls behind her. "What I have is that a firm nobody has heard of has written to the one person alive who has thirty years of that trade in cardboard. It came five weeks after somebody in this city started asking about a wedding in April."
 
-* * *
-
 Mrs Ha sat down in the broken chair, which she does not do, and it took her weight and did not do anything.
 
 "Say what is in them that he wants."
@@ -17969,8 +17619,6 @@ Mrs Ha sat down in the broken chair, which she does not do, and it took her weig
 
 "That is four pages out of nine boxes, and he is buying the nine boxes, and he is paying a proper amount for them and arranging the van." He said it evenly. "That is what he does. He has never in his life asked anybody for a single page."
 
-* * *
-
 The traffic outside did what traffic does.
 
 "You have not told me what to do," said Mrs Ha.
@@ -17980,8 +17628,6 @@ The traffic outside did what traffic does.
 "Everybody tells me what to do. The insurance man tells me what to do."
 
 "You have had one man in this room in eleven years who arranged something about you without asking you, and it worked, and it held for eleven years." He was in the good chair and she was in the broken one. "I am not going to be the second one. You have the whole of what I have got and you have had it in under four minutes."
-
-* * *
 
 Mrs Ha looked at the wall of boxes.
 
@@ -17999,8 +17645,6 @@ She sat with that.
 
 "That is what I would do."
 
-* * *
-
 She got up out of the broken chair and went to the second box on the left wall, which has a hall name on it and a year, and put one hand on it.
 
 "Thirty years," she said. "I have not opened four of these since the day they were packed. There is a wedding in this one where the mother of the bride made me change the linen twice on the morning and then cried in a corridor and told me it was the best day of her life."
@@ -18017,8 +17661,6 @@ Georgij did not offer her anything.
 
 "That is not the worst arrangement I have been offered in my life and it is not in the first ten."
 
-* * *
-
 She poured the second cup then, which she had not offered.
 
 "There is a thing I am going to do and I am going to tell you about it after I have done it," she said, "and not before, because I want it to be mine."
@@ -18032,8 +17674,6 @@ He told her about Moon Hae-sook for about forty minutes.
 Then he told her what had happened in that room in December when he said her name in it.
 
 "She said that you did the flowers for her mother," said Georgij. "Then she started a second thing and stopped in the middle of it and did not start it again, which is what she does. It was about a book you brought to that house twice, and about the ribbon, and about her mother having a view on ribbon."
-
-* * *
 
 Mrs Ha sat quite still.
 
@@ -18065,8 +17705,6 @@ They carried nine boxes down an outside stair in January and did not complain ab
 
 Mrs Ha telephoned at four o'clock.
 
-* * *
-
 "They have gone," she said. "The money came on the Tuesday, before the van, which I did not expect, and it is a proper amount, and I have paid the man about the chair."
 
 "That is the correct order."
@@ -18076,8 +17714,6 @@ Mrs Ha telephoned at four o'clock.
 Georgij stood in the passage.
 
 "You said there was a thing you were going to tell me afterwards."
-
-* * *
 
 "I have a school exercise book," said Mrs Ha.
 
@@ -18090,8 +17726,6 @@ The passage behind the kitchen went very quiet.
 "In your own hand."
 
 "In my own hand, out of the carbons, before they went in the box." She said it flatly. "And the thing that was never in the order book at all, because there is no box on a slip for it. That she came up those stairs on the Monday, on her own. That she sat in that chair when it was not broken."
-
-* * *
 
 "That is not in any of the nine boxes now."
 
@@ -18135,8 +17769,8 @@ He looked at that for a while.
 
 ---
 
-# Book Two · Chapter 75: I require your instructions
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 77: I require your instructions
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Ninety-Three · Monday 8 February
 
@@ -18152,8 +17786,6 @@ There is one page on the desk when Georgij comes in, face up, and it is a draft,
 
 "Then the first one."
 
-* * *
-
 "On the first of December I signed a change of delivery address on a standing instruction," he said. "I told you about it on the eighth of December on the telephone, and I told you that there was no ground on which I could have refused, and I believed that when I said it."
 
 "You have stopped believing it."
@@ -18161,8 +17793,6 @@ There is one page on the desk when Georgij comes in, face up, and it is a draft,
 "I stopped believing it on the fourteenth of January at about four in the afternoon, in this chair, with the deed open in front of me for the first time since 2016." Baek had both hands flat. "I would like to say the size of that out loud. Eleven years, forty-five payments, and I had not read the instrument since before that woman was in that house."
 
 Georgij sat down and did not say anything.
-
-* * *
 
 "The deed says what the money is for and it says it in one line," said Baek. "*The operating costs of a residence.* Then a schedule: staff, provisioning, maintenance, utilities, insurance, and medical costs against invoice."
 
@@ -18174,8 +17804,6 @@ He turned the deed round on the desk and did not push it across.
 
 "There is no residence," said Baek.
 
-* * *
-
 The office in Yeouido did what an office does at ten in the morning.
 
 "Say it in order," said Georgij.
@@ -18186,8 +17814,6 @@ The office in Yeouido did what an office does at ten in the morning.
 
 "Is let to a young woman with a bicycle since the middle of November, and I am still paying the rates on it. I have been paying the rates on a flat with a tenant in it for eleven weeks."
 
-* * *
-
 "Then say the second part," said Georgij.
 
 "I have been administering nothing since about the first week of November," said Baek. "There is no residence, there are no operating costs, and the two payments that are still running go to an address that is not in the schedule and never was."
@@ -18195,8 +17821,6 @@ The office in Yeouido did what an office does at ten in the morning.
 "You are telling me you are in breach."
 
 "I am telling you that I have been in breach since the first of December and that I signed it myself in under four minutes." Baek did not look up from the deed. "Not because I was deceived. I was told the truth and it was not the whole of it, and I have said that to you once already and I have had two months to notice that saying it did not make it better."
-
-* * *
 
 Georgij sat forward in the chair.
 
@@ -18212,13 +17836,9 @@ Baek Jun-ho sat back for the first time that morning.
 
 "Nothing happens to her when you stop. It happened in December and she has not been told about any of it and she is not going to be."
 
-* * *
-
 "Good," said Baek. "That is the only thing in this that I would have refused over, and I would like it on the record that I asked before I told you what I am going to do and not after."
 
 He turned the draft round then.
-
-* * *
 
 It is eleven lines.
 
@@ -18227,8 +17847,6 @@ It says that the residence described in the schedule has been vacant since Novem
 And the last line is four words.
 
 *I require your instructions.*
-
-* * *
 
 Georgij read it twice and did not touch the page.
 
@@ -18239,8 +17857,6 @@ Georgij read it twice and did not touch the page.
 "Who does it go to."
 
 "The settlor. In person, at the correspondence address, which is a solicitor's office in Jung-gu that forwards, and it has forwarded four things in eleven years and all four were mine."
-
-* * *
 
 "That is the first letter anybody has ever sent him," said Georgij.
 
@@ -18254,8 +17870,6 @@ Baek looked up.
 
 "It occurred to me about four seconds ago and I would rather have thought of it before I came."
 
-* * *
-
 Baek Jun-ho got up and went to the cabinet behind his desk and did not open it.
 
 "Then say what you think he does," he said.
@@ -18266,19 +17880,15 @@ Baek Jun-ho got up and went to the cabinet behind his desk and did not open it.
 
 Georgij took the time it needed.
 
-* * *
-
 "He answers it," he said. "That is what I think and I am not certain."
 
 "Say why."
 
-"Because he cannot afford not to. A trust that has no instructions sits, and a trustee who has had no instructions for a year has to do something about it, and everything he does about it is a paper with a date on it." Georgij looked at the draft and not at him. "In four years there would be a file in this office about a trust that went silent, and the file would be readable, and he has spent twenty-three years making certain that there is nothing anywhere that is readable."
+"Because he cannot afford not to. A trust that has no instructions sits, and a trustee who has had no instructions for a year has to do something about it, and everything he does about it is a paper with a date on it." Georgij looked at the draft and not at him. "In four years there would be a file in this office about a trust that went silent, and the file would be readable, and he has spent twenty-five years making certain that there is nothing anywhere that is readable."
 
 "And if he answers."
 
 "Then there is an instruction in his own words in a solicitor's office in Yeouido, and it will be the second document in the world with his reasoning in it." He looked at the draft. "The first one is in that cabinet and it is eleven years old and it is two corrections to a deed."
-
-* * *
 
 Baek stood with his hand on the cabinet door.
 
@@ -18292,8 +17902,6 @@ Baek stood with his hand on the cabinet door.
 
 "Then I am going to tell you the third part," said Baek, "and this is the one where you are going to want to argue with me."
 
-* * *
-
 He came back and sat down.
 
 "I am reporting myself," he said.
@@ -18302,11 +17910,9 @@ Georgij did not move at all.
 
 "The December signature. In writing, to the Law Society, with the deed and the schedule and the instruction attached. I have an appointment on the second of March with a man I have known for thirty-one years, and he is going to have to look at it." Baek said it in exactly the voice he had used for the other two parts. "I have been in this profession since 1994 and I have been investigated once, in 2007, and I was cleared, and I have told you that in this room before."
 
-"You told me in October that being investigated is the one thing a man in your line cannot survive twice."
+"I was told in June that being investigated is the one thing a man in your line cannot survive twice."
 
-"I did. I meant it and it is still true."
-
-* * *
+"By somebody who was right." Baek did not move. "It is still true."
 
 The office did what an office does.
 
@@ -18320,8 +17926,6 @@ Georgij sat in a chair in Yeouido and did not say one of the four things that ca
 
 "I know. I have got two of them myself and I am not going to use either."
 
-* * *
-
 Baek Jun-ho looked at him for a long moment.
 
 "Say why not, because I have not been able to work it out and I have been at it since Thursday."
@@ -18334,8 +17938,6 @@ Georgij put both hands flat on his knees.
 
 "Then say it."
 
-* * *
-
 "I did not do it in 2016," said Baek.
 
 He said it flatly and it cost him more than the rest of the morning.
@@ -18345,8 +17947,6 @@ He said it flatly and it cost him more than the rest of the morning.
 "And the second of March."
 
 "The second of March is nine years late and it is the only appointment available." Baek straightened the draft with one finger. "You do not argue a man out of that. You let him keep it or you take it off him, and I have watched you refuse to take a thing off somebody four times now and I have only understood it this morning."
-
-* * *
 
 At the door Georgij stopped, because there was one thing left.
 
@@ -18382,8 +17982,8 @@ He sat with that for a while.
 
 ---
 
-# Book Two · Chapter 76: The only line out
-*Lot Fourteen* · Version 1.0 · EN
+# Book Two · Chapter 78: The only line out
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Four Hundred and Ninety-Seven · Friday 12 February
 
@@ -18397,13 +17997,9 @@ Georgij put the folder down.
 
 "I was going to ask him. I have had it written down since Tuesday and I have read it about nine times." She had both hands flat on the desk. "He sat at my father's table for nineteen years, and there are four questions I could put to him that nobody else alive can answer, and I am not going to put any of them. I am going out there on Monday to tell him so to his face, because he is owed that and a letter is not it."
 
-* * *
-
 "There is a version where you do not go," said Georgij. "You send the letter and it is correct and nobody could fault it. I am not recommending it. I am putting it on the table because if I do not, you will decide in an hour that you thought of it and dismissed it, and you will not have."
 
 "That is the second time this month you have done that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. He came across a city on a Sunday in January so that a name would be said properly once, and I am not going to answer that with paper."
-
-* * *
 
 "There is a thing you have not said," said Georgij, "and I am going to say it badly, and you can correct the wording."
 
@@ -18416,8 +18012,6 @@ Annie looked at him for a moment longer than she usually does.
 "Yes," she said.
 
 She went to the window.
-
-* * *
 
 "Monday, at ten. He is seventy-eight and he does not do afternoons well, and I am going to him and he is not coming here." She did not turn round. "And you are going to be in the room."
 
@@ -18481,8 +18075,6 @@ He looked at Georgij for slightly longer than a host looks at anybody.
 
 "I am here to tell you why I am not going to," said Annie. "And there is a thing before that which is worse, and you have worked that out in the hall, and I want to do the rest of it sitting down."
 
-* * *
-
 The room he uses has four chairs in it and one of them is his, and there is a table with nothing on it.
 
 He waited until she was in a chair and then sat down himself, slowly, and put both hands on his knees.
@@ -18495,8 +18087,6 @@ Woo did not move at all.
 
 "That was five weeks ago on Wednesday." She had both hands flat on the arms of the chair. "You have not known in one single day of those five weeks whether it had reached me. I am not going to sit in your house and ask you for a favour while that is true."
 
-* * *
-
 The room did what an old room does at ten in the morning.
 
 "How much of it," said Woo.
@@ -18506,8 +18096,6 @@ The room did what an old room does at ten in the morning.
 "Then he gave you all of it."
 
 "He gave me all of it, and he gave it to me on the day, and he did not wait to be asked twice."
-
-* * *
 
 Woo looked at the table for a while.
 
@@ -18521,8 +18109,6 @@ Nobody said anything.
 
 "You are less than half my age," said Woo. "Five weeks is a different length of thing at this end of it than it is at yours, and you did not do that arithmetic, and it would have taken you about four seconds."
 
-* * *
-
 Annie did not defend it.
 
 "That is correct," she said.
@@ -18533,8 +18119,6 @@ Annie did not defend it.
 
 Woo turned his head and looked at Georgij for a moment, and then looked back at her, and that was the whole of it.
 
-* * *
-
 "It has a name," he said.
 
 "Say it, then."
@@ -18544,8 +18128,6 @@ Woo turned his head and looked at Georgij for a moment, and then looked back at 
 "I know."
 
 "Then I will say the useful part and we will get on to what you came for. You did not do a wrong thing." He put one hand flat. "You did a thing that is only distinguishable from the wrong one by whether the person finds out from you or from somebody else, and I am finding out from you, in a chair, at ten in the morning."
-
-* * *
 
 Annie let a moment go past.
 
@@ -18561,8 +18143,6 @@ The room was very quiet.
 
 "Because you would answer them."
 
-* * *
-
 Woo looked at her properly for the first time since the hall.
 
 "There is more of that, and I have the morning."
@@ -18574,8 +18154,6 @@ Woo looked at her properly for the first time since the hall.
 "No. It is not." She did not move. "I have made it anyway and I am not going to pretend that is different from what it is."
 
 "And you knew that in the drive and you came anyway, and you brought him so that there would be a witness to it." Woo said it without any cruelty in it at all. "That is the first thing this morning that your father would not have done."
-
-* * *
 
 Annie did not answer that.
 
@@ -18591,8 +18169,6 @@ Georgij, at the window, watched an old man decide something and did not move.
 
 "It is meant to be."
 
-* * *
-
 He got up, which took him a moment, and went to the window and stood next to Georgij and looked out at the same nothing.
 
 "I have been waiting to be asked since the tenth of January," he said, to the glass. "I went to that house on a Sunday and sat in her study with you for fifty minutes. Every week since, I have thought she would come out here and put it to me straight. I have had the four of them lined up in the order I would want them in. I am not a man who is asked things any more, and that was going to be the last time."
@@ -18600,8 +18176,6 @@ He got up, which took him a moment, and went to the window and stood next to Geo
 He turned round.
 
 "That is what it was for and now you know, and I would have told you afterwards in one sentence and been pleased with myself about it."
-
-* * *
 
 At the door, with the car already turned round, he did the thing he has done every time since October.
 
@@ -18615,7 +18189,7 @@ Annie stood in the hall.
 
 "Why would you do that," she said.
 
-"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-three years. They are not going into a box at a crematorium because a woman half my age decided in February that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
+"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-five years. They are not going into a box at a crematorium because a woman half my age decided in February that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
 
 * * *
 
@@ -18631,8 +18205,6 @@ She did not say anything for the first eleven kilometres, which is the same elev
 
 "Because you decided what an old man could carry without asking him," said Georgij, "and a man of seventy-eight who has been right about most things since 2002 would sooner name his own date than have one chosen for him by somebody being kind."
 
-* * *
-
 "That is not the whole of it."
 
 "No, Mistress. The rest of it is that he did it in the hall and not in the room." He did not soften it. "That way it could not be part of the conversation about your father, and neither of us can put it on the same page as the other thing."
@@ -18643,8 +18215,6 @@ Annie looked out of the window for a while.
 
 "Yes, Mistress."
 
-* * *
-
 "And Georgij."
 
 "Mistress."
@@ -18653,8 +18223,8 @@ Annie looked out of the window for a while.
 
 ---
 
-# Book Two · Chapter 77: Nobody asked
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 79: Nobody asked
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Ten · Thursday 25 February
 
@@ -18672,13 +18242,23 @@ He was behind the desk at two minutes to nine with a sheet of paper in his hand.
 
 "I know why you come at nine. I have known since the second time." He put the sheet down and squared it. "Sit down. This is the last morning there is anything to sit down for."
 
-* * *
-
 The van comes at eleven.
 
 Two men and a lorry, and nobody has pretended it is an archive. It is a firm in Siheung that does this for a living, against a schedule, with a weighbridge and a certificate, and Mr Hwang chose them in October out of four quotations and took the second cheapest.
 
 "The cheapest did not offer a certificate," he said. "I telephoned them to ask and the man said that nobody ever wants one."
+
+"Say why it is not an archive."
+
+"Because a retention period runs from the date on the deposit form, and nobody opens a box to find out whether the paper inside it is that year." Mr Hwang did not look up from the sheet. "Opening it is a week of somebody's time. The form is free."
+
+"So a box goes when its form says it goes."
+
+"A box goes when its form says it goes. A box with the wrong year written on it goes early, and nobody has done anything, and there is nobody to have done it to." He squared the sheet, which did not need it. "And a box that nobody wrote anything on at all sits in that room until the building comes down."
+
+"That is carelessness."
+
+"That is the ordinary kind, and it is the only kind there is, and it is why I am not sending thirty years of this house to a room where a stranger reads a form." Mr Hwang put one hand flat. "A weighbridge does not read anything."
 
 * * *
 
@@ -18696,8 +18276,6 @@ Mr Hwang put both hands on the desk.
 
 "I have told you that once, in this building, in May, and I am going to go on telling it to people until it stops being useful." He turned the sheet over. "Class three, correspondence. Class four, the personnel files, which go last and which go on the fourth of March, because there are people in them who are alive."
 
-* * *
-
 Georgij sat in a chair in a room with two crates in it.
 
 "And nobody has asked for anything," he said.
@@ -18710,13 +18288,19 @@ Mr Hwang did not answer straight away.
 
 "Then you may have it in the order it happened, and it is going to take about forty seconds, and I have been holding it since the fourth of February because you would have found it out today anyway."
 
-* * *
-
 "Two," said Mr Hwang.
 
 The room did what a half emptied room does at ten past nine.
 
-"In nineteen weeks, with the schedule published, and every buyer this house ever had sent a copy of the wind-up notice in October with the disposal date printed on the second page." He said it flatly. "Two requests under clause eleven. One in December and one in January. One of them was yours in August, which makes it three, and I am counting the two because you already know about yours."
+"In nineteen weeks, with the schedule published, and every buyer this house ever had sent a copy of the wind-up notice in October." He said it flatly. "The second page gives a date and it does not give a method. It says that after the twenty-fifth of February this house holds nothing, and six hundred and forty people have read that sentence and every one of them has read it the same way."
+
+"That it goes to an archive."
+
+"That it goes to an archive, because that is what happens, and because I have not said otherwise to anybody, including the fund." He squared the sheet, which did not need it. "It goes on a lorry."
+
+Georgij sat with that for a moment.
+
+"Two requests under clause eleven," said Mr Hwang. "One in December and one in January. One of them was yours in August, which makes it three, and I am counting the two because you already know about yours."
 
 "The two."
 
@@ -18728,8 +18312,6 @@ Georgij sat very still.
 
 "Six hundred and forty buyers, a clause I wrote in 2011 and was proud of for fourteen years, and a printed date." Mr Hwang put one hand flat on the sheet. "Two people in nineteen weeks. One of them was told about it by a man who came to her house and did not want anything, and the other one wanted to sell a bronze."
 
-* * *
-
 Neither of them said anything for a while.
 
 "You are waiting for me to say something," said Mr Hwang.
@@ -18738,27 +18320,21 @@ Neither of them said anything for a while.
 
 "Then do it out loud, because I did it on the fourth of February and I have not been able to make it come out any other way."
 
-* * *
-
 The sheet was still square on the desk where he had put it.
 
-"He has had the date since December," he said. "He got it by asking a man to telephone this office, and the girl read it off the schedule in about ninety seconds because it is not a secret."
+"He has had the date since October," he said. "It came to him in an envelope with six hundred and thirty-nine other people, and he did not have to ask anybody for it, and he has bought in this house for twenty-three years."
 
-"I know which girl and I know which morning. It is in the day book and I looked it up on the fourth."
+"He has."
 
-"Then he has had ten weeks with a printed date on a piece of paper, and there is one entry in that series that is worth more to him than anything else in this country." Georgij did not hurry it. "And he has not asked for it."
+"Then he has had nineteen weeks with a printed date on his own hall table, and there is one entry in that series that is worth more to him than anything else in this country." Georgij did not hurry it. "And he has not asked for it."
 
 Mr Hwang did not move.
 
 "Say why not."
 
-* * *
-
 "Because of the first eleven words of your own clause."
 
 He said it and then he did not go on, and Mr Hwang, who has been reading his own drafting since 2011, got there in about four seconds and went white around the mouth.
-
-* * *
 
 "*Where a bona fide interest is asserted in respect of any lot.*"
 
@@ -18772,8 +18348,6 @@ He said it and then he did not go on, and Mr Hwang, who has been reading his own
 
 "That is the price of the copy."
 
-* * *
-
 The corridor outside had men in it moving something, and one of them said a number to the other.
 
 "I did not build that," said Mr Hwang.
@@ -18786,7 +18360,7 @@ Georgij did not offer him anything.
 
 "You are going to tell me that is what a good clause does."
 
-"No," said Georgij. "I am going to tell you that a man who has spent twenty-three years never writing anything down has spent ten weeks looking at a printed date. And that he decided he would rather lose it than be in a sentence."
+"No," said Georgij. "I am going to tell you that a man who has spent twenty-five years never writing anything down has spent ten weeks looking at a printed date. And that he decided he would rather lose it than be in a sentence."
 
 * * *
 
@@ -18797,8 +18371,6 @@ Nineteen boxes went out of the front of a house on the river between eleven and 
 Mr Hwang went out to the lorry and watched them load it and did not help, because a man of his sort does not help, and he counted them onto the tailgate.
 
 Nineteen.
-
-* * *
 
 "There is a thing I am going to do and I would like you to be in the building for it and not in this room," he said.
 
@@ -18828,8 +18400,6 @@ He went back on the Monday and it is the fifth time and the building has two roo
 
 "Then say it standing up, because I have been sitting behind desks in this building for six years and I am finished with it on the fourth."
 
-* * *
-
 Georgij stood.
 
 "There is a woman in a house on the river who was going to be married in April eleven years ago," he said. "Sixty-two people were invited. She has asked what became of them. She has four and there are fifty-eight."
@@ -18838,8 +18408,6 @@ Mr Hwang did not say anything.
 
 "It is a records job and it is going to take years, and most of it is halls, registers, business filings and death notices, and about a third of it will come to nothing. There is a desk and a telephone and whatever it costs to be on trains. There is nobody to manage and nothing to run and no building. It is a long way beneath you and you would be doing it on your own."
 
-* * *
-
 "Who is paying," said Mr Hwang.
 
 "The woman who owns the house."
@@ -18847,8 +18415,6 @@ Mr Hwang did not say anything.
 "Say her name out loud in this room, because it is on a form I countersigned in October and I would like it said rather than understood."
 
 Georgij said it.
-
-* * *
 
 Mr Hwang stood up behind his own desk.
 
@@ -18862,8 +18428,6 @@ Mr Hwang stood up behind his own desk.
 
 "That a schedule is not a decision."
 
-* * *
-
 "In April I put twelve posts through in an afternoon out of a spreadsheet and I did not go down to the floor," said Mr Hwang. "That is the half. I have had it since June and I have not been able to get any further with it, and I have known since about October that there was more."
 
 "There is more and it is not mine to give you."
@@ -18871,8 +18435,6 @@ Mr Hwang stood up behind his own desk.
 "Then whose."
 
 "A woman in Gwangyang who is running a settlement function three hundred kilometres from here," said Georgij, "and she is not going to give it to you either, and she has told me so in her own words. She said that it would exist and that you do not get to have it."
-
-* * *
 
 Mr Hwang stood very still.
 
@@ -18884,8 +18446,6 @@ Mr Hwang stood very still.
 
 He came round the desk.
 
-* * *
-
 "Then I will take the work," he said.
 
 "You have not asked what it pays."
@@ -18895,8 +18455,6 @@ He came round the desk.
 "Say the two."
 
 "A clause in 2011 that a stranger used correctly in August." He picked the sheet up off the desk and put it in the crate. "And a woman who came up three floors on the ninth of January four years ago with a school exercise book, because she had heard that I was proud of it."
-
-* * *
 
 At the door Georgij stopped.
 
@@ -18922,26 +18480,24 @@ Then the rest, and he took longer over it.
 
 *He read eleven words of a clause a man wrote in 2011 and worked out that the price of one copy was one sentence with his name in it.*
 
-*And then he did the thing he has done for twenty-three years, which is nothing, and it cost him the only paper in this country that would have been worth having.*
+*And then he did the thing he has done for twenty-five years, which is nothing, and it cost him the only paper in this country that would have been worth having.*
 
 *I have been calling that a habit since June. It is not a habit. It is the whole of him, and it has never once failed him until this winter, and it is going to go on not failing him right up until the evening.*
 
 ---
 
-# Book Two · Chapter 78: No occasion
-*Lot Fourteen* · Version 3.1 · EN
+# Book Two · Chapter 80: No occasion
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Seventeen · Thursday 4 March
 
 Annie put the list on the desk at eight in the morning, face up, and did not turn it round.
 
-It is the folded sheet from June with the thirty-one names on it, and it has been unfolded, and there are five more at the bottom in the same hand and a different pen.
-
-* * *
+It is the folded sheet from June with the thirty-one names on it, and it has been unfolded, and there are five at the bottom in the same hand and a different pen.
 
 "Twenty-six," she said. "Say why it is not thirty-one and do not look at the page."
 
-"One died in 2019. One is in Vancouver. Three are too ill or too old to be moved and one of those is in Daegu." Georgij did not look at the page. "That leaves twenty-six of the original, and you have added five."
+"One died in 2019. One is in Vancouver. Three are too ill or too old to be moved and one of those is in Daegu." Georgij did not look at the page. "Three were told and decided they did not want an evening about it, and I am not going to ask any of the three twice. That leaves twenty-three of the original, and there are five at the bottom, and two of the five are not on it anywhere else."
 
 "Say the five."
 
@@ -18951,8 +18507,6 @@ Annie put one finger on the bottom of the sheet.
 
 "And the sixth, which I have not written down and which is not mine to write."
 
-* * *
-
 "Nam Byung-hee answered on the fifth of January," said Georgij. "She telephoned this house at nine in the morning and asked for me by name and said one word and rang off before I could say anything back."
 
 "You have not told me what the word was."
@@ -18960,8 +18514,6 @@ Annie put one finger on the bottom of the sheet.
 "She said yes. And then she said that she was not going to explain it and that I was not to ask, and that was the second sentence, and then the line went down."
 
 Annie wrote the name at the bottom of the page herself.
-
-* * *
 
 "Now the two you are going to raise," she said, "and I am going to say no to one of them and I would like to hear you make the case anyway."
 
@@ -18977,21 +18529,17 @@ Georgij stood at the side of the desk.
 
 "That is the whole of the case and I have had it since January and I do not think it is good enough."
 
-* * *
-
 Annie did not soften anything.
 
 "He would be the only man in that room who did it to them," she said. "Twenty-six people are going to spend an evening finding out that they were arranged. If he is standing by a window while they do it, then in about a fortnight every one of them knows his face and his name."
 
 "Yes."
 
-"And he is sixty-three and he has finished, and he has been finished since September, and what he has left is that nobody in this country has an unkind sentence to put against him." She turned her hand over on the desk. "You told him that yourself in December and you said it was the bill. I am not going to take it off him in my own dining room."
+"And he is sixty-three and he has finished, and he has been finished since September, and what he has left is that nobody in this country has an unkind sentence to put against him." She turned her hand over on the desk. "You told him in December that there was nothing left for the man to ask him for. I am not going to take it off him in my own dining room."
 
 "No, Mistress."
 
 "Say it as your own and not as mine, because you got there before I did and you have been carrying it since January."
-
-* * *
 
 He was still standing where he had been since eight.
 
@@ -19001,8 +18549,6 @@ Annie did not move in the chair.
 
 "That is the answer," she said. "Now the other one."
 
-* * *
-
 "There is no other one," said Georgij.
 
 "There is, and you have not raised it, and I have been waiting since Tuesday to find out whether you would."
@@ -19010,8 +18556,6 @@ Annie did not move in the chair.
 He did not pretend.
 
 "Neither of them comes near it," he said. "Not the room, not the house on that evening, not the corridor. There is a woman in the room at the back who has been in one building for eleven years. There is another who has been free since the second of November. There is not one version of that evening in which either of them is in this house while twenty-six people find out what was done to them."
-
-* * *
 
 "Where do they go."
 
@@ -19022,8 +18566,6 @@ Annie sat back.
 "Then say it as the decision and not the arrangement."
 
 "They are not exhibits," said Georgij. "There is going to be an evening in which twenty-six people work out that they were used. Every one of them is going to want to see the two people it was actually done to. Not one of them is going to get to."
-
-* * *
 
 "That is the first thing this year you have decided about that house without asking me," said Annie.
 
@@ -19043,8 +18585,6 @@ It does not say what for.
 
 There is no occasion on it and there is no other name on it and there is nothing on the back.
 
-* * *
-
 "Say what the fourth line does," said Annie.
 
 "There is no fourth line."
@@ -19052,8 +18592,6 @@ There is no occasion on it and there is no other name on it and there is nothing
 "There is a fourth line and it is the reason it works, and you have read the card six times since Friday."
 
 Georgij looked at it again.
-
-* * *
 
 *I hope you will not think it strange that I have not said what the evening is for.*
 
@@ -19071,8 +18609,6 @@ They went out on the eighth of March by hand and by post, twenty-seven of them, 
 
 Georgij did not write that one and did not address it and did not touch it. Annie did all three herself at the desk, and Mrs Seo took it to the box with the others and was not told which it was.
 
-* * *
-
 ## Day Five Hundred and Twenty-Two · Tuesday 9 March
 
 Mrs Seo came up to the study at half past seven in the morning, which she does about four times a year.
@@ -19083,8 +18619,6 @@ Mrs Seo came up to the study at half past seven in the morning, which she does a
 
 "I will stand, and you will tell me anyway."
 
-* * *
-
 Annie told her.
 
 It took eleven minutes and she did not leave any of it out, and Georgij stood at the window and did not say one word for the whole of it.
@@ -19092,8 +18626,6 @@ It took eleven minutes and she did not leave any of it out, and Georgij stood at
 The thirty-one names and how they were collected in nine days in June. The four who were made to be quiet about a wedding eleven years ago and the one who lost her business. A prosecutor of thirty-six who was got out of a service in 2002 by a man who could not read a contract, and whose photographs are in the dining room, and who is her father.
 
 And that twenty-seven people are coming to a dinner and none of them knows that the others exist.
-
-* * *
 
 Mrs Seo did not say anything for about four seconds.
 
@@ -19104,8 +18636,6 @@ Mrs Seo did not say anything for about four seconds.
 "Then I have one question and it is about the house and not about him."
 
 "Ask it."
-
-* * *
 
 "Does he come in at the front?"
 
@@ -19119,8 +18649,6 @@ Nobody said anything.
 
 "Then he comes in at the front and I take his coat," said Mrs Seo.
 
-* * *
-
 "There is a second thing and it is yours," said Annie, "and I am going to put it to you as a request, and you may say no in this room and nothing whatever happens."
 
 "Then put it."
@@ -19132,8 +18660,6 @@ Mrs Seo stood in the middle of the study.
 "You want me to walk him to a door."
 
 "I want to ask you whether you will."
-
-* * *
 
 She took about six seconds over it, which is longer than she takes over anything.
 
@@ -19147,8 +18673,6 @@ Annie looked at her.
 
 "Then choose the one that says nothing at all," she said.
 
-* * *
-
 "I will do it," said Mrs Seo, "and I am going to say one thing about it and then I am going to go and see about the second sitting."
 
 "Say it."
@@ -19156,8 +18680,6 @@ Annie looked at her.
 "I have run this house for nine years and I have never been told the reason for anything, and I have said out loud that I prefer it." She had one hand on the frame. "This is the first time anybody has told me the whole of something before asking me, and I want it said that I noticed, and that I would have done it either way."
 
 She went.
-
-* * *
 
 Georgij stood at the window for a while after the door had shut.
 
@@ -19168,8 +18690,6 @@ Georgij stood at the window for a while after the door had shut.
 She put the pen down and looked at the list.
 
 "Twenty-seven," she said. "Say what happens if he does not come."
-
-* * *
 
 Georgij did not take any time over it.
 
@@ -19185,8 +18705,8 @@ Annie folded the list along its own crease and put it in the drawer that locks.
 
 ---
 
-# Book Two · Chapter 79: Twenty-seven
-*Lot Fourteen* · Version 3.1 · EN
+# Book Two · Chapter 81: Twenty-seven
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19370,7 +18890,7 @@ It went eleven seats in under two minutes and it did not need one word said abov
 
 And at twenty past nine Choi Dae-ho picked up a fork, and put a piece of something on it, and put it in his mouth.
 
-Georgij, at the side of the room, with his hands where they could be seen, watched a man of sixty eat in front of people for the first time in twenty-three years.
+Georgij, at the side of the room, with his hands where they could be seen, watched a man of sixty eat in front of people for the first time in twenty-five years.
 
 * * *
 
@@ -19402,7 +18922,15 @@ She said that there was a room at the end of the passage, and that it would be q
 
 Choi Dae-ho put his napkin on the table beside his plate and got up.
 
-Two people at that end of the table looked up, because two people always look up when somebody gets up, and one of them said something to him and he answered it and smiled.
+Two people at that end of the table looked up, because two people always look up when somebody gets up.
+
+One of them was Park Sang-hoon, who had not said a word to him all evening.
+
+He lowered his voice for it, and nobody else in that room lowered theirs once.
+
+"I made an offer in this house in December. Two billion two hundred million, and it was refused, and I have been working out how far under I was ever since." He did not get up for any of it. "You are going to do the same arithmetic before you get to your car, and you are going to get a worse answer than I did."
+
+Choi Dae-ho answered him and smiled.
 
 Then he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
 
@@ -19450,14 +18978,18 @@ Behind him, at the far end of the building, twenty-six people went on with their
 
 ---
 
-# Book Two · Chapter 80: Please guide me
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 82: Please guide me
+*Lot Fourteen* · Version 3.11 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
 The small room at the end of the passage has two chairs and a table and a window that looks at the drive, and it is where a person waits in that house.
 
 Georgij has sat in it twice and both times he was waiting to be told something.
+
+Tonight the table was laid for two.
+
+It was what had gone down the long table at eight. Georgij had asked Mrs Seo for it in the passage on his way past, and she had not asked him what it was for.
 
 He came in at twenty-five to ten.
 
@@ -19519,7 +19051,7 @@ Choi Dae-ho looked at him properly then for the first time.
 
 The small room at the end of a passage did the thing rooms do.
 
-He did not answer for about three seconds, and the three seconds are the whole of it. A man who has spent twenty-three years being able to answer that question about anybody in this country did not have one name.
+He did not answer for about three seconds, and the three seconds are the whole of it. A man who has spent twenty-five years being able to answer that question about anybody in this country did not have one name.
 
 * * *
 
@@ -19585,7 +19117,7 @@ He asked it with the mark on the end of it, and it is the first question anybody
 
 He did not hurry any of it.
 
-"You have spent twenty-three years arranging things so that other people carry the weight and you carry none of it. A killing is quick, and it is private." Choi Dae-ho was still standing where he had turned round. "It would let you finish exactly the way you have lived, which is without ever once finding out what it costs to be found out. I am not going to hand you that."
+"You have spent twenty-five years arranging things so that other people carry the weight and you carry none of it. A killing is quick, and it is private." Choi Dae-ho was still standing where he had turned round. "It would let you finish exactly the way you have lived, which is without ever once finding out what it costs to be found out. I am not going to hand you that."
 
 * * *
 
@@ -19623,7 +19155,7 @@ He said it quite pleasantly and he did not say anything else for about six secon
 
 "Then say the rest of what you came for," he said.
 
-"You have known I was coming since the twenty-eighth of October and you have known what I am since the fourth of October," said Georgij. "You have been waiting to find out whether a lot with a number on it and no name of his own would do to you what you did to a woman in Ulsan with nine trucks."
+"You have known I was coming since the twenty-eighth of October and you have known what I am since the fourth of October," said Georgij. "You have been waiting to find out whether a lot with a number on it and no name of his own would do to you what you did to a woman in Ulsan with four trucks."
 
 "I did not send you anywhere," said Choi Dae-ho.
 
@@ -19649,7 +19181,7 @@ Georgij did not move at all.
 
 * * *
 
-"I ate." He did not move from the window. "I have not done that in front of people in twenty-three years, and I did it because a man near the middle of a table said four words in an ordinary voice."
+"I ate." He did not move from the window. "I have not done that in front of people in twenty-five years, and I did it because a man near the middle of a table said four words in an ordinary voice."
 
 "Yes."
 
@@ -19658,6 +19190,150 @@ Georgij did not move at all.
 "No," said Georgij.
 
 "It is the only thing that has happened to me this evening that I did not do on purpose, and there is nobody in this house I could say that to."
+
+* * *
+
+The table behind him had been laid for a quarter of an hour and neither of them had turned round to it.
+
+"You had that put there," said Choi Dae-ho.
+
+"I did."
+
+"To find out what?"
+
+"You do not eat. Not with people you work on." Choi Dae-ho's hand was still on the sill. "I wanted to see whether you would try to work on me. It is only a measurement, or my amusement. Pay it no mind."
+
+* * *
+
+Choi Dae-ho looked at the plate for the first time.
+
+* * *
+
+"That was the first one," said Georgij.
+
+"The first of what?"
+
+"I am going to tell you what you are. You do not have to agree with any of it, and you are not going to have to say anything at all."
+
+* * *
+
+"You do not eat in front of the ones you are working on. It is not a discipline and it is not a superstition." Choi Dae-ho's hand stayed where it was. "You cannot do both at once, and in twenty-five years you have never once noticed that it shows."
+
+"There are five men in this city who have watched you eat," said Georgij. "I have met two of them and I did not have to ask either of them anything. The last of the five did it before two thousand and two."
+
+* * *
+
+"You do not carry anything yourself."
+
+Down the passage a door opened and shut, and somebody at the far end of it laughed at something.
+
+"There is a man who makes the calls and he has been making them for years." Georgij let the noise finish before he went on. "I am not going to tell you whether I have his name."
+
+* * *
+
+"You paid a fee you did not owe."
+
+"In cash, on the same terms as everybody else, through the same man, for a lot this house never billed you for." He gave it to him flat and in the order it had happened. "You could have had it for nothing and you paid, so that nobody in that building would ever know you could have had it for nothing."
+
+* * *
+
+"And you were to be married in the second week of April, eleven years ago."
+
+Choi Dae-ho put his other hand on the sill.
+
+* * *
+
+"She went up an outside staircase on her own on the Monday to say it to a supplier's face, and she apologised to the woman for the trouble," said Georgij.
+
+Somewhere out on the drive a car door shut.
+
+"Four hundred and eleven weddings have gone through that office and no family has ever come up those stairs. Not before her and not since."
+
+* * *
+
+"You have spent twenty-five years arranging it so that somebody else goes round."
+
+Choi Dae-ho was looking at the carpet.
+
+"She did the opposite of you in one morning, in front of a woman who could do nothing for her at all." Georgij did not put anything round it. "She said it in the one way that did not need anybody to believe her."
+
+* * *
+
+"You have paid for her for eleven years and you have never once been in a room with her."
+
+"You send flowers into that building twice a year."
+
+* * *
+
+"October is her mother's month."
+
+"April is the month of the wedding." He did not raise it anywhere at all. "You did not send them to a grave and you did not send them to yourself. You sent them into the room."
+
+* * *
+
+"Four years ago a doctor was added to her, and he has never once billed for her."
+
+Georgij left that where it was and did not put anything after it.
+
+* * *
+
+Nothing happened in the man's face.
+
+"She is not in that building," said Georgij.
+
+* * *
+
+"She has a room on a ground floor with a window and a door that opens, and the account behind the machine has not been yours since December, and nobody has told her that anything changed." Choi Dae-ho's hand had come off the sill and he had not noticed. "I am not going to tell you where she is. I am not going to tell you what she has been asked, or what she has said, or whether your name has been in her mouth once since November."
+
+* * *
+
+"Where does the first one come from?"
+
+"A girl of fourteen at her father's table noticed that a man did not eat." Georgij said it with no pleasure in it anywhere. "She did not know what she had noticed for sixteen years. She has said it out loud to one person in twenty-five years, and she did not send me down here with it."
+
+* * *
+
+"The woman you were going to marry noticed the same thing."
+
+Choi Dae-ho did not do anything with that at all.
+
+"She did not need sixteen years." Georgij did not raise it anywhere. "She sat opposite you for however long it was and you never once ate, and she had told herself something about that, the way a person does. And then there was a day when she stopped telling herself it."
+
+* * *
+
+"That is why there was not going to be a later."
+
+* * *
+
+"And you arrived."
+
+"Say that."
+
+* * *
+
+"You were at that table in the spring of two thousand and two and you were thirty-six, and you had not been at it the spring before." He did not raise his voice anywhere in it. "Nobody in that house ever asked where you had come from, because the man who brought you was pleased with himself, and nobody asked him anything."
+
+"No," said Choi Dae-ho. "They did not."
+
+* * *
+
+"Nobody has ever put those in a row."
+
+"They are not in a row." Georgij had not moved from where he was standing. "That is the order you did them in."
+
+* * *
+
+"There are two places at that table," said Choi Dae-ho.
+
+"There are."
+
+"You have not touched yours either."
+
+"No," said Georgij.
+
+* * *
+
+He did not have anything to put after it, and he did not go looking for one.
 
 * * *
 
@@ -19739,10 +19415,12 @@ He went up the passage.
 
 Behind him, in a small room at the end of it, a man of sixty stood at a window and looked at four cars on a drive. Nobody came for him for eleven minutes. Mrs Seo had been asked to leave it exactly that long, and she counted it herself in a kitchen.
 
+The two places at the table were exactly as she had left them.
+
 ---
 
-# Book Two · Chapter 81: The length of the room
-*Lot Fourteen* · Version 3.2 · EN
+# Book Two · Chapter 83: The length of the room
+*Lot Fourteen* · Version 3.16 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19974,7 +19652,109 @@ Annie was in the study at midnight with the lamp on and the door open, which it 
 
 "Sit down," she said.
 
-He went round the desk and sat down on the carpet with his back to the drawers.
+"May I give you the whole of it standing?"
+
+Annie looked at him for a moment.
+
+"You asked me that in a car in October the year before last," she said. "Stand, then."
+
+* * *
+
+"Mistress."
+
+"Say it."
+
+"A year ago today a woman wrote to you by name, on a sheet of association letterhead that was not hers, and signed it Chair, and sent it registered so that there would be a record." His hands were behind his back. "Every word in it was true. She thought about it for four days before she posted it, and she put that in the letter so that you would know it was not temper. The thing she picked up and pointed at you was me."
+
+"I know what it was."
+
+"Then let me say where it has got to, because you have not asked and I have had it in order since about nine o'clock." He had not moved from the corner of the desk. "I asked you on the third of April for everything she had. I asked that it be done by people entitled to take it, and that she be somebody nobody in that trade would read a letter from again."
+
+"I remember what I asked for and what I gave you."
+
+"Then here is the part I have not said out loud since. It was done, and it held, and everybody on that coast watched it happen and there is no entry anywhere that says why." A pause. "She sat at your table tonight and she left last, and she came because she was asked and not because anything was arranged around her."
+
+"And the letterhead."
+
+"It has its standing from one lane, and there were six firms on that lane, and you bought five of them in November." He did not decorate it. "Openly, in the register, at a price. Anybody in this country may go and read it, and everybody on that coast has."
+
+"And the house."
+
+"Wound up. The schedule was published and every buyer that house ever had was sent a copy of it, and the man who administered it has taken work from you and will take more." He did not hurry any of it. "Six hundred and forty people have a tidied catalogue in a drawer and not one of them can prove what it is, because a house that is gone cannot be asked to say. The line that mattered was struck on the nineteenth of February last year and there is no procedure for putting it back."
+
+"And the people in it."
+
+"Twelve posts went in the second week of April and Hwang wrote every one of them into the schedule himself, and he has never once said that it was not his doing." He did not soften it. "One of them has run a settlement function in Gwangyang since June, on terms above what she was on, with your name on the first page. The other eleven draw wages from something you own, and a man who wanted at one of them would have to come at you first."
+
+"And Hwang."
+
+"Yeongjong. The office at the end of the shed, keeping the books of a terminal that has one clerk and does not need two." A pause. "It is a long way beneath a man who kept thirty years of a permanent series. He did not ask what it pays, and he is doing my work out of the same room in the evenings, and Woo has not once asked him what it is."
+
+"And the man who kept the book."
+
+"Twenty-six years, and he is not going to be asked to anything again, and it was not us who did that and I arranged not to know how." A pause. "And the one who used it walked the length of your dining room tonight, and nobody stopped him and nobody helped him, and he knew before he got to the hall what it had been."
+
+* * *
+
+"So there is nothing left pointed at me," said Annie.
+
+"One thing, and you put it there."
+
+Annie did not move.
+
+"There is a line in a permanent series with your name on it and his beside it and a number between the two, and it went into the sequence in November." He did not soften any of it. "It cannot be sealed and it cannot be withdrawn. The man who wrote the clause did not write an application for either."
+
+"Then it stands."
+
+"It went in a box." His hands had not moved. "Class one, the permanent series, thirty years and the renumbering, nineteen boxes, against a schedule, to a firm in Siheung with a weighbridge. Hwang took the second cheapest of four quotations because the cheapest did not offer a certificate. The personnel files went last, on the fourth of March, because there are people in them who are alive."
+
+"And the date."
+
+"Printed on the second page of the wind-up notice and sent in October to every buyer that house ever had. Six hundred and forty of them. Two asked a question in nineteen weeks, and neither of the two was about you."
+
+* * *
+
+"He offered me something tonight," said Georgij.
+
+Annie looked up.
+
+"He said that house is closing and that archives are careless, and that he could see the entry was properly indexed." He had not moved from the corner of the desk. "I had the certificate in my inside pocket while he was saying it. I told him it would not need indexing, and I did not take it out, and I let him do the rest himself."
+
+Annie did not say anything for a moment.
+
+"That was the last thing he had."
+
+"That was the last thing he had, and it was not a thing."
+
+* * *
+
+"Then say the part you have been keeping until last."
+
+"Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. And Mrs Sunwoo, who took three weeks over a man and never once raised her voice." He did not soften it. "Not one of the five can be made to stop knowing it, and I am not going to stand here and tell you that they are handled."
+
+"No," said Annie. "You are not."
+
+"But knowing is not a handle, and that is a different thing altogether." His hands had not moved. "A handle is a house that can be asked and a book that can be opened. There is no house and there is no book. Any one of the five could say it out loud tomorrow, in a room, in their own voice, and there would be nothing anywhere afterwards for anybody to go and look at."
+
+"And the room."
+
+"Nineteen buyers on the fourth of October, and you were one of them." He did not decorate it. "Two of the nineteen are on the list I have just read you. The other seventeen sat with you for two hours and watched you put your hand up once. Six hundred and forty have a tidied catalogue in a drawer."
+
+"And none of them."
+
+"None of them. Not one of the seventeen can put a piece of paper next to it, and neither can the six hundred and forty." A pause. "The only place any of it was ever written down went over a weighbridge in Siheung."
+
+Annie sat with that.
+
+"Then there is nothing pointed at me," she said.
+
+"Nothing pointed at you. Not a paper, not a person who can reach you, and nothing left that anybody can pick up." A pause. "Five people know, and they always will, and that is what it cost to make the rest of it true."
+
+Annie did not say anything.
+
+* * *
+
+Then he went round the desk and sat down on the carpet with his back to the drawers.
 
 Somewhere below them a man from the kitchen was stacking chairs and stopping every four or five to do it quietly, and failing.
 
@@ -19992,7 +19772,7 @@ Annie did not take any time over it.
 
 Georgij sat very still.
 
-"Say the rest of it, because you have put that away already and started on tomorrow, and I watched you do it." She put the pen down. "You were useful on the third of April, standing up, on your own account, for a thing I could have refused. You were useful in a shed in May. You were useful in a garage in June, and in a yard in Incheon in November, and I have a date for every one of them and I have never once had to be told."
+"Say the rest of it, because you have put that away already and started on tomorrow, and I watched you do it." She put the pen down. "You were useful on the third of April, standing up, on your own account, for a thing I could have refused. I have a date for every one of the others and I have never once had to be told."
 
 "Yes, Mistress."
 
@@ -20040,16 +19820,14 @@ Downstairs the chairs stopped.
 
 ---
 
-# Book Two · Chapter 82: Not the comfortable part
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 84: Not the comfortable part
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Seventy-One · Tuesday 27 April
 
-There are two people who were promised an account and there is a third who was promised nothing and is owed one anyway.
+There are two people who were promised an account, and there are two more who were promised nothing and are owed one anyway, and one of the two has told him not to come back.
 
-Georgij wrote the three names on the Monday and did them in six days, and he did not telephone ahead to any of them.
-
-* * *
+Georgij wrote the names on the Monday and did them in six days, and he did not telephone ahead to any of them.
 
 ## Day Five Hundred and Seventy-Three · Thursday 29 April
 
@@ -20059,13 +19837,9 @@ Mrs Sunwoo was in the same chair, and there is a folder on the low table that wa
 
 "I have come about all of it."
 
-* * *
-
 "Then sit down, and do not be quick about it, because I asked you for the whole of it and not the comfortable part and I have been waiting since the seventeenth of December."
 
 It took fifty minutes.
-
-* * *
 
 He told her what the fourth line was and how much it cost and who signed the form.
 
@@ -20075,8 +19849,6 @@ Then he told her what happened to the sequence on the twenty-fifth of February, 
 
 He told her about a dinner on the eighteenth of March with twenty-seven people at it and about twenty-seven cards that did not say what the evening was for, and about eleven metres of a dining room.
 
-* * *
-
 Mrs Sunwoo listened to the whole of it with her hands on the arms of the chair and did not interrupt once.
 
 "You have not told me the part where you did something clever," she said at the end.
@@ -20084,8 +19856,6 @@ Mrs Sunwoo listened to the whole of it with her hands on the arms of the chair a
 "There is not one."
 
 "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, and I want you to notice that I had to wait."
-
-* * *
 
 She put one hand on the folder then.
 
@@ -20095,8 +19865,6 @@ She put one hand on the folder then.
 
 "You were told by the man who wrote it and he did not tell you what was in it, and I have thought about that twice." She did not open the folder. "It is four lines and it says what that house held on my line, and one of the four is a fee and one of them is a date."
 
-* * *
-
 "You have not shown it to anybody."
 
 "I have not shown it to anybody and I am not going to show it to you." Mrs Sunwoo put both hands back on the arms of the chair. "It is in this house, in a folder, in the room I sit in. Everything else about that line is now a photocopy of an allegation, and I am the only person alive who can put a piece of paper next to it."
@@ -20104,8 +19872,6 @@ She put one hand on the folder then.
 Georgij did not say anything.
 
 "You gave me that in December and you did not want anything for it and you have not asked me about it since," she said. "I have been buying in that trade for forty-one years and I have never once been handed a thing that was only for me."
-
-* * *
 
 At the door she said the last of it.
 
@@ -20125,8 +19891,6 @@ There was tea and it was at the right temperature, and there were four small thi
 
 It took an hour and ten minutes and Georgij did not leave anything out.
 
-* * *
-
 He told Sim what the four visits in March eleven years ago had been for, and who had sent him, and what the two dates in the letter were.
 
 He told him that October is a woman's mother's month, and that the man who wrote it into a letter knew that. He wanted the flowers to arrive on the right day, and he wanted somebody else to be the one who brought them.
@@ -20139,7 +19903,27 @@ Sim did not say anything for a long time.
 
 "Yes."
 
-* * *
+"There is a thing I refused you in August," said Georgij.
+
+"The doctor."
+
+"The doctor." He kept both hands on his knees. "You asked me what a man is for who gets added to a household and then bills under a lot number, and I told you I would not hand you a thing I could not prove."
+
+Sim put the pot down.
+
+"And you can prove it now."
+
+"No. I am no nearer than I was in August and I am not going to get nearer." Georgij did not look away. "Getting nearer means asking a woman a question in a room at the back of a house on the river, and she has been asked enough of them by men who wanted something."
+
+Sim did not move for a moment.
+
+"Then say what happens to it."
+
+"Nothing. It is one name in a drawer in that house and it has been in there since a Tuesday evening in June last year, and it is going to be in there when I am old." He said it flatly. "I am telling you at a table so that you do not find it on your own at four in the morning and think I forgot."
+
+Sim looked at the four small things on the plate.
+
+"That is the third time," he said. "I have counted all three, and this one is the only one where you told me you were doing it."
 
 "Then there is one more thing and I am going to ask it and you are going to answer it exactly."
 
@@ -20147,17 +19931,13 @@ Sim did not say anything for a long time.
 
 "Was I good at it," said Sim.
 
-* * *
-
 Georgij did not take any time over it, because taking time would have been a way of deciding what to say.
 
-"You were the best I have ever seen," he said. "Four people out of sixty-two went silent for eleven years and not one of them has an unkind sentence to put against you, and I have asked one of them to her face. That is not a comfort and I am not offering it as one."
+"You were the best I have ever seen," he said. "You went to four people in one month and every one of the four went silent for eleven years. Not one of them has an unkind sentence to put against you, and I have asked one of them to her face. That is not a comfort and I am not offering it as one."
 
 "No," said Sim. "It is the bill."
 
 He picked the pot up and poured, because it was the right temperature and because he is who he is.
-
-* * *
 
 "There is one more and it is not mine to answer," said Georgij.
 
@@ -20169,8 +19949,6 @@ Sim straightened his cuff.
 
 "I have had that since the second week of April," he said. "I got it at about four in the morning and I have not been able to put it down since, and I would like it noted that you said it out loud before I had to."
 
-* * *
-
 "It is not the same thing," said Georgij.
 
 "You do not know that."
@@ -20181,9 +19959,7 @@ Sim did not accept it and did not reject it.
 
 "Then I will hold both of them," he said. "I have had a great deal of practice this year at holding two things, and it turns out that a man can, and that it is not as bad as it sounds and it does not get better either."
 
-* * *
-
-At the door he said the thing he said in October.
+At the door he said the thing he said in December.
 
 "Come in the spring," said Sim. "Not for anything."
 
@@ -20203,8 +19979,6 @@ It was still eight minutes late in May.
 
 "Then say it standing, because it is the only way we have ever done anything."
 
-* * *
-
 "You are finished," said Georgij.
 
 Mr Ok put his case on the wall.
@@ -20213,15 +19987,11 @@ Mr Ok put his case on the wall.
 
 "Nobody is going to telephone you again about a piece of paper. Nobody is going to come up your stairs. Nothing is going to happen to your firm, your family, your clients or your brother-in-law in Suwon." Georgij did not hurry any of it. "And this is the last time I am going to stand at this wall."
 
-* * *
-
 "Then he is finished."
 
 "He has not been seen since the eighth of April and I do not know where he is and nobody has looked."
 
 Mr Ok stood at his own wall in May and did not say anything for about four seconds.
-
-* * *
 
 "There is a thing I have wanted to ask since December and I have got about eleven versions of it," he said.
 
@@ -20230,8 +20000,6 @@ Mr Ok stood at his own wall in May and did not say anything for about four secon
 "Did the envelope matter?"
 
 Mr Ok's case was on the wall between them.
-
-* * *
 
 "It is the only thing anybody did last year that finished it," he said.
 
@@ -20245,15 +20013,11 @@ Mr Ok did not move.
 
 "He did not ask for it, because to ask he would have had to put his own name in a sentence, in writing, on paper, and it would have gone into the same series with the request attached."
 
-* * *
-
 "He knew that because of my envelope," said Mr Ok.
 
 "He knew it because a girl in an administrator's office read a schedule to you in about ninety seconds, and you posted it on the seventeenth of December from a box near your house." Georgij did not soften it. "He had ten weeks with a printed date and he did not ask, and on the twenty-fifth of February it went out of that building in nineteen boxes."
 
 The traffic did what traffic does.
-
-* * *
 
 "Four minutes of somebody's time," said Mr Ok.
 
@@ -20262,8 +20026,6 @@ The traffic did what traffic does.
 "That is not a comfort."
 
 "No. I am not offering it as one and you would know inside a syllable." He put one hand on the wall. "You did not decide anything either time. You were asked for something small in a way that made it small, and both of us did it to you, and the second one closed the door."
-
-* * *
 
 Mr Ok looked at the road for a while.
 
@@ -20274,8 +20036,6 @@ Mr Ok looked at the road for a while.
 "I have."
 
 "And in December you did it knowing, which is a different thing, and it is the only part of the whole of it that was yours. I would not have blamed you for refusing. You did not refuse, and you knew what you were doing when you did not, and there is no version of this in which somebody else could have done it."
-
-* * *
 
 The car came, and it was eight minutes late.
 
@@ -20288,8 +20048,6 @@ Mr Ok picked his case up off the wall and did not get in.
 "You told me in December that she was working and you would not say where, and I did not ask a second time." He had one hand on the door. "I am not asking now either. I would like to know whether she is all right."
 
 "She is not all right," said Georgij, "and she is working, and she went to a dinner in March that she did not have to go to, and she was the last person to leave it."
-
-* * *
 
 Mr Ok stood with the door open.
 
@@ -20315,6 +20073,12 @@ Georgij walked to the bridge and it took thirty-five minutes.
 
 *Not one of them wanted to know where he is.*
 
+*The doctor was added four years ago and has never billed for her. A doctor is added when somebody is going to die, and the man who paid for one is the man who could not have her die yet.*
+
+*Everything before that he did once, to one person, with his own hands and in his own city. Everything after it went through a house, on paper, to people he never saw and could not have described.*
+
+*He did not get worse in those four years. He found out that it could be done at a distance, and he has not been anywhere since.*
+
 He stopped on the bridge and wrote the last of it standing up.
 
 *Nobody has asked me where he is.*
@@ -20323,10 +20087,18 @@ He stopped on the bridge and wrote the last of it standing up.
 
 *Not one of them has asked.*
 
+*There were four names on the page on Monday and there are three now, and I did the crossing out myself and it took about a minute.*
+
+*Mrs Bae asked me in July whether the person who is the point was alive, and I said I could not prove it. I can prove it now.*
+
+*She told me not to come back, and she gave the reason, and the reason was about me and not about her. She was right about the wanting.*
+
+*The only way to tell her which half she had is to stand in her front at four in the afternoon, and that is the whole of it, and it is not going to be done.*
+
 ---
 
-# Book Two · Chapter 83: The weapon
-*Lot Fourteen* · Version 3.0 · EN
+# Book Two · Chapter 85: The weapon
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20404,7 +20176,53 @@ The nephew has stopped believing he owes her for the levy. She said in November 
 
 Mr Hwang has been at the fifty-eight since the fifteenth of March.
 
-He has four of them. Two are dead and one is in Vancouver and one has been in the same house in Suwon since 2009. He wrote all four out in a hand that has not changed since he was thirty, and brought them himself.
+He has four of them. Two are dead and one has been in Melbourne since 2015 and one has been in the same house in Suwon since 2009. He wrote all four out in a hand that has not changed since he was thirty, and brought them himself.
+
+* * *
+
+Mrs Ha telephoned this house in March, and it is the second time she has used the number, and she asked for a car and not for an address.
+
+Jang went to Mapo on the Thursday and was handed a green school exercise book at the top of an outside stair by a woman who did not come down.
+
+In February she told Georgij that she was not going to give it to him, and she has not. It is not for him.
+
+Nobody in this house has read it. It went into the room at the back on the Friday and it has not come out.
+
+Moon Hae-sook asked in November what became of sixty-two people, and she also asked that it be said she had never asked anybody about the ribbon. The second of the two is the one she has been answered on.
+
+* * *
+
+Mr Yeom read the folders.
+
+Four years of them, in a cupboard in a house in the suburbs, between August and the new year, and he did not tell anybody that he was doing it.
+
+The letter came in February in his own hand, two pages, and he posted it himself from a box that is not near his house.
+
+There is nothing in them.
+
+Four years of valuations, a road in Gyeonggi-do, a car park in Daejeon, and the fee the fund pays him for sitting in two meetings a year. No lot, no consignment, no name, and not one word about anybody who ever went out of that building.
+
+He said in August that he was not doing it for Georgij. The letter does not have Georgij in it anywhere, and it ends with four words.
+
+*I have read them.*
+
+* * *
+
+Baek Jun-ho sat down on the second of March with a man he has known for thirty-one years and put his own December signature on the table between them.
+
+It took fifty minutes and he brought all of it, including the deed he had not read between 2016 and the fourteenth of January.
+
+The answer came on the twenty-ninth of April. There is no order in it and no condition and no undertaking. It says that the trustee reported the matter himself, that no beneficiary was put at risk, and that no further action is to be taken.
+
+He has read it four times and he has not put it in a drawer.
+
+A copy of the deed went into that file with the schedule and the instruction, and it is going to be there for as long as that body keeps anything.
+
+Georgij said in February that it was the first document in the world with that man's reasoning in it. It is in two places now, and one of them is a building he has never been in.
+
+Two of the other trusts have gone to other firms since March. Neither of them said why, and both of them were perfectly pleasant about it, and one of them has sent a card at the new year since 2011.
+
+He is sixty-three and he has not told anybody that he is counting.
 
 * * *
 
@@ -20440,7 +20258,7 @@ At some point in the middle of it her hand came down into his hair, at the back,
 
 He sat with that for a while.
 
-"On the twenty-third of April last year I told a woman in Yeouido that I was going to have him," he said. "I have said out loud since that I am not going to kill him, and I meant it. A man went out of a gate on the eighteenth of March and has not been seen since the eighth of April."
+"On the thirtieth of April last year I told a woman in Ulsan that I was going to have him," he said. "I have said out loud since that I am not going to kill him, and I meant it. A man went out of a gate on the eighteenth of March and has not been seen since the eighth of April."
 
 "That is the one that is easiest to say at nine o'clock."
 
@@ -20452,7 +20270,7 @@ He sat with that for a while.
 
 He did not answer for about eight seconds.
 
-"There was a fortnight in March last year," he said, "when a woman with nine trucks picked something up and pointed it at you."
+"There was a fortnight in March last year," he said, "when a woman with four trucks picked something up and pointed it at you."
 
 Annie's hand did not move.
 
