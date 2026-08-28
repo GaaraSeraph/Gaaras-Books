@@ -352,6 +352,59 @@ Byun sagt er *"it was not us who did that and I arranged not to know how"*.
 **Ein Mann, der nie luegt, hat auf den schwersten Vorwurf seines Lebens genau
 eine Antwort, und sie klingt wie eine Ausrede.**
 
+### Wie er Kontakt aufnimmt: eine Einladung zur Beisetzung
+
+**Vom Autor am 28.08.** Er laedt **Georgij** ein. Ausdruecklich ihn - nicht
+Annie, und niemanden sonst aus dem Raum. **Damit ist es bestaetigt.**
+
+**Bestaetigt ist dabei dreierlei auf einmal**, und keines davon steht auf dem
+Blatt:
+
+* **dass Choi tot ist.** Zu einer Beisetzung wird nicht eingeladen, wenn
+  jemand verschwunden ist.
+* **dass jemand weiss, wer Georgij ist** und was er getan hat, und zwar genau
+  genug, um ihn von den anderen sechsundzwanzig zu trennen.
+* **dass es eine Vorladung ist und keine Hoeflichkeit.** Wer den Mann einlaedt,
+  den er verantwortlich macht, laedt ihn nicht ein. Und sie laesst sich nicht
+  ablehnen, ohne dass die Ablehnung etwas ueber ihn sagt.
+
+**Und hier schliesst sich der Kreis, den das Buch selbst aufgemacht hat.**
+`b2 ch87:310`, die Bilanz nach dem Abendessen:
+
+> *"A woman wrote to you by name last spring, on a sheet of association
+> letterhead that was not hers, and signed it Chair, and sent it registered
+> so that there would be a record."*
+
+**Band 2 faengt mit einem Brief an, der an Annie gerichtet ist, mit Namen.
+Band 3 faengt mit einem Blatt an, das an Georgij gerichtet ist, mit Namen.**
+Dieselbe Waffe, die eine Etage tiefer angesetzt wird - und diesmal ist er
+nicht das Werkzeug, sondern das Ziel.
+
+**Der zweite Kreis ist noch enger.** In `b2 ch86` sagt er zu Choi:
+
+> *"I am not going to tell you who else knows. Or how many of the people you
+> have had dinner with have already been told... I want you to live with not
+> knowing which one of them decides you have not been punished enough."*
+
+**Genau das bekommt er jetzt zugestellt.** Ein Blatt, das sagt, dass jemand
+es weiss, und nicht sagt, wer sonst.
+
+**Drei Dinge, die daran haengen und im Text stehen muessen:**
+
+1. **Er hat keine Adresse.** *"I have no money. I have no name that opens a
+   door and I have nothing in this country to telephone"* (`b2 ch54:384`).
+   Das Blatt kommt also **in ihr Haus**, adressiert an ihn - und ein Blatt
+   mit seinem Namen darauf, das an dieser Tuer ankommt, hat es in zwei
+   Baenden nicht gegeben.
+2. **Mrs Seo nimmt es an.** Sie hat neun Jahre lang alles an dieser Tuer
+   angenommen und nie gefragt. Sie wird auch hier nicht fragen, und sie wird
+   es merken.
+3. **Er geht hin.** Er ist nach Ulsan gefahren, nach Gwangyang, in die
+   Werkstatt in Mullae. Er faehrt auch dorthin, und er kann niemanden
+   schicken, weil er niemanden hat. **Er wird der einzige in dem Raum sein,
+   der nicht trauert und es auch nicht vorgibt** - und der einzige, dem der
+   Gastgeber genau das ansieht.
+
 ### Woher der Freund es weiss
 
 **Vom Autor:** bei dem Abendessen wollten nicht alle zugeben, dass sie
