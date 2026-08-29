@@ -691,11 +691,12 @@ Eigentum, die er nicht belegen kann, **und er sagt nie etwas Unwahres.**
 
 ### 10. Offen
 
-1. **Fremdkapital oder Eigenkapital.** Die entschiedene Fassung setzt
-   **Eigenkapital** voraus: bei Fremdkapital gaebe es nichts unerreichbar zu
-   machen, weil Woo einfach tilgen koennte.
+**Erledigt am 29.08.: Fremdkapital oder Eigenkapital - es war beides.**
+Das Darlehen ist tilgbar und wird getilgt; der Anteil ist es nicht und war
+es nie. Siehe *Fremdkapital oder Eigenkapital: beides, und darin liegt Woos
+Irrtum*.
 
-**Erledigt am 29.08.:** der Widerspruch 2011 gegen 2025 (siehe oben, die
+**Ebenfalls erledigt:** der Widerspruch 2011 gegen 2025 (siehe oben, die
 Zusage ist vierzehn Jahre aelter als der Bau) und die Fertigstellung
 (**vier bis fuenf Monate vor Tag 1**, nach zwei datierten Stellen; die
 zehn Monate sind die **Bauzeit** und nicht der Abstand zu Tag 1, und da lag
@@ -822,6 +823,129 @@ nicht das, was jemand fuehren muss.
 zwei Baende lang *the terminal at Yeongjong* und sonst nichts. **Ein
 Konzernname waere eine neue Vokabel ohne Aufgabe.** Er heisst Woo Jae-sung
 (`b2 ch69:172`), und das genuegt.
+
+### Die Gruppe wird NICHT in Annies Konzern integriert
+
+**Und der Grund ist kaufmaennisch, bevor er etwas mit Woo zu tun hat.**
+
+`b1 ch19:142`: *"At the volumes she moves now **she is about a third of your
+book**."*
+
+**Annie ist Verladerin und nicht Logistikerin.** Spezialchemie und
+Werkstoffe, fahrplangebundene Vorprodukte ueber wenige Haefen. **Sie ist
+Woos groesste Kundin.**
+
+**Ein Terminal, das seiner groessten Kundin gehoert, ist ein Terminal, das
+alle anderen Kunden verlassen.** Zwei Drittel von Woos Buch sind andere
+Leute, und ein Teil davon konkurriert mit ihr. **Am Tag der Ankuendigung
+telefonieren sie mit Busan.**
+
+**Dasselbe gilt fuer die Spedition, und dort schlimmer.** Eine Spedition
+sieht Mengen, Preise, Ziele und Termine ihrer Kunden. **Wenn sie einem
+Wettbewerber gehoert, ist das kein Dienstleister mehr, sondern eine
+Einsichtnahme.** `b1 ch14:144`: *customers come back because **somebody they
+trust** is standing next to you.* **Der ganze Wert ist Vertrauen, und
+Vertrauen ist genau das, was eine Eingliederung zerstoert.**
+
+**Also: Neutralitaet ist das Produkt.** Wer sie eingliedert, kauft eine
+Gruppe und macht sie im selben Vorgang wertlos.
+
+**Und das ist die Reihenfolge, in der Georgij es denkt.** Erst die Zahl, dann
+alles andere. **Er tut nie etwas nur aus Pietaet** - aber wenn die Rechnung
+ohnehin dasselbe sagt, darf der zweite Grund dastehen:
+
+**Woo war einundfuenfzig Jahre lang kein Chaebol, und das war keine
+Verlegenheit, sondern die Sache.** `b1 ch19:190`: *no photograph with a
+politician in it.* **Sein Lebenswerk in einen Chaebol zu schieben waere das
+Einzige, was er ausdruecklich nicht gewollt haette.**
+
+**Der Satz dafuer, falls er im Text gebraucht wird, gehoert Annie und nicht
+ihm** - sie ist die, die es koennte:
+
+> "We could. It would be worth less on the Tuesday than it was on the Monday, and I would have to explain that to a man who is dead."
+
+---
+
+### Fremdkapital oder Eigenkapital: beides, und darin liegt Woos Irrtum
+
+**Der Autor hat am 29.08. gesagt, Band 1 muesste es hergeben. Es gibt es her,
+und zwar in beide Richtungen - deshalb bin ich zweimal danebengelegen.**
+
+**Fuer Fremdkapital sprechen vier Woerter:** *syndicate* (`b1 ch13:94`),
+*owed* und *pay them out* (`b1 ch19:162/166`), *lent* (`b2 ch69:92`).
+
+**Fuer Eigenkapital spricht eins:** *beneficial ownership* (`b1 ch13:96`) -
+das allerdings sagt, wem der **Fonds** gehoert, und nicht, was er haelt.
+
+**Die Aufloesung ist, dass es beides war, in einem Geschaeft:**
+
+* **Ein Darlehen ueber vierhundert Milliarden**, syndiziert auf neun
+  Institute, der Fonds als groesster der drei grossen. **Tilgbar. Genau das,
+  was Woo am Donnerstag ausloesen kann.**
+* **Und zwanzig Prozent der Anteile an der Projektgesellschaft**, als Preis
+  dafuer, dass einer arrangiert und das erste Risiko traegt. **Nicht tilgbar.
+  Nie gewesen.**
+
+**Das ist die gewoehnlichste Konstruktion der Welt und sie erklaert jede
+Zeile so, wie sie dasteht:**
+
+| Zeile | Stimmt, und worauf sie sich bezieht |
+|---|---|
+| *nine institutions in the syndicate* | **auf das Darlehen** |
+| *he lent me four hundred billion won* | **auf das Darlehen** |
+| *I can pay them out on a Thursday* | **auf das Darlehen, und er hat recht** |
+| *twenty per cent of this has been **owed** since the year I built it* | **auf den Anteil - und *owed* ist Woos Wort dafuer, nicht das richtige** |
+| *a man does not ask when the money is already in the concrete* | **er hat es nie gelesen** |
+
+**Und daraus wird die Szene.** Woo zahlt das Darlehen aus, wie angekuendigt,
+**und die zwanzig Prozent stehen danach immer noch da.** Er hat
+einundfuenfzig Jahre geglaubt, es sei ein Posten. Es waren zwei.
+
+**Das ist derselbe Fehler wie bei Annies Vater** (`b2 ch84:192`, *a man who
+could not read a contract*) - **nur dass Woo lesen kann und es nicht getan
+hat.**
+
+---
+
+### Die Aufteilung zwischen Georgij und Annie: die Prozentfrage ist die falsche
+
+**Der Autor hat alle drei naheliegenden Antworten zerlegt, und zwar richtig:**
+
+* **Ihm mehr** waere eine Beleidigung an sie.
+* **Ihr mehr** stellt den eigentlichen Beitragenden schwaecher.
+* **Fuenfzig zu fuenfzig** birgt die Gefahren, die jeder Kaufmann kennt.
+
+**Alle drei scheitern daran, dass eine Zahl eine Rangfolge ist.** Woo wuerde
+keine Rangfolge aufschreiben.
+
+#### Also nicht nach Prozent, sondern nach Gegenstand
+
+* **Das Terminal an Georgij.** Es ist das Einzige, woran Woo haengt
+  (`b1 ch18:222`), es ist das, was Georgij **selbst moeglich gemacht hat** -
+  das Sieben-Jahres-Buch ist seine Arbeit -, und es ist das, was Woo nach
+  seinem eigenen Wort verkauft und dreigeteilt saehe, wenn er nichts taete.
+* **Die Gruppe an Annie.** Sie ist die Einzige mit einer Organisation, die
+  einen gewachsenen Betrieb halten kann. **Sie ist damit nicht die
+  Beschenkte, sondern die Verantwortliche.**
+
+**Damit ist keine der drei Fallen gestellt:** keine Zahl, keine Rangfolge,
+kein Patt. **Jeder bekommt das, was er tragen kann, und beide bekommen
+etwas, das ohne den anderen nicht funktioniert** - ein Terminal ohne Ladung
+ist Beton, eine Spedition ohne Kai steht bei Fremden an.
+
+**Und der Segen liegt nicht mehr in einer Bruchzahl, sondern in der
+Verzahnung.** Das ist besser als fuenfzig zu fuenfzig, weil es nicht auf
+Einigkeit angewiesen ist, sondern auf Bedarf.
+
+#### Falls doch eine Zahl gebraucht wird
+
+**Dann ungleich, mit dem Grund im Testament, in Woos Handschrift, und der
+Grund ist keine Wertung, sondern eine Feststellung:** sie hat genug. **So
+redet der Mann** (`b2 ch82:260`: *"I am not doing it for you."*).
+
+**Und ein dritter Halter fuer den Stichentscheid** - der Anwalt in Jung-gu,
+der weiterleitet - **ist die kaufmaennisch sauberste Loesung und die
+kaelteste.** Steht hier, weil sie existiert, nicht weil ich sie empfehle.
 
 ### Was offen bleibt
 
