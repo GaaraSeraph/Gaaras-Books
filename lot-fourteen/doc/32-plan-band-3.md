@@ -3624,10 +3624,21 @@ aufgeht und dass ihn das stoert. **Georgij hoert, was es wirklich ist.** Das
 ist woertlich das Ahn-Muster: ein Mann sagt eine wahre Kleinigkeit ueber seine
 eigene Arbeit, und sie ist der Fund.
 
-**3. Und es ist seine Wiedergutmachung, ohne dass es jemand ausspricht.** Ein
-Mann, der ein Haus gefuehrt hat, das Menschen verkaufte, und **nie auf die
-Flaeche gegangen ist**, rettet zum ersten Mal jemanden - **mit einer Spalte.**
-Der Text zeigt darauf nicht.
+**3. Und es ist die Fortsetzung seiner Wiedergutmachung, nicht ihr Anfang** -
+**am 29.08. vom Autor berichtigt.** Ich hatte *zum ersten Mal* geschrieben,
+und das ist falsch: **in Band 2 hat er an zwei Frauen mitgewirkt** - Ahn
+Jung-hee und Moon Hae-sook. `b2 ch81`: er sagt in etwa vierzig Sekunden zu,
+gegenzeichnet allein an seinem Schreibtisch, mit niemandem im Gebaeude, und
+er beantwortet dieselbe Stunde die Frage nach Moon Hae-sook.
+
+**Was hier neu ist, ist nicht das Retten, sondern die Sorte Arbeit.** In Band
+2 hat er unterschrieben, was man ihm hinlegte, und die zwoelf Stellen selbst
+in den Plan geschrieben. **Hier faellt es ihm auf, ohne dass jemand ihn
+gefragt hat** - ein Mann, der dreissig Jahre eine Reihe gefuehrt und **nie
+auf die Flaeche gegangen ist**, sieht in seiner eigenen Spalte, dass etwas
+nicht stimmt, **und sagt es.**
+
+**Das ist die Stufe darueber, und der Text zeigt darauf nicht.**
 
 **Warum nicht Woo selbst:** ihm gehoert das Terminal, er saehe dieselben
 Zahlen. **Aber wenn Woo es sagt, ist es eine Gefaelligkeit; wenn Hwang es
