@@ -3747,17 +3747,100 @@ ihm nie wichtig.**
 **Damit stellt der Band eine Frage, die das Buch noch nie gestellt hat:**
 Choi war Bosheit. **Yeom ist das andere**, und es hat mehr Leute gekostet.
 
-### Und es gibt genau eine Sache, die ihn treffen wuerde
+### Ihn zum Hinsehen zwingen: verworfen am 29.08.
 
-**Nicht der Abbau. Das Hinsehen.**
+**Ich hatte vorgeschlagen, ihm das Abrechnungsbuch hinzulegen und ihn Zeile
+fuer Zeile lesen zu lassen. Der Autor hat abgelehnt, und die Begruendung ist
+besser als der Vorschlag:**
 
-**Er hat sein Leben damit verbracht, nicht hinzusehen.** Wer ihm das
-Abrechnungsbuch hinlegt und ihn Zeile fuer Zeile lesen laesst, was sein Haus
-getan hat, **fuegt ihm das Einzige zu, was ihm zugefuegt werden kann.**
+> **Er wird es ohnehin erfahren, er ist maechtig. Und es wird ihm egal
+> bleiben, auch wenn seine Macht beschnitten wird - das ist eine gute
+> Methode.**
 
-**Ob Georgij das tut, ist eine echte Entscheidung und keine rhetorische.** Er
-braucht Yeom. **Und er hat mit Choi vorgemacht, dass er genau diese Sorte
-Schlag beherrscht.**
+**Damit ist der Zug nicht nur ueberfluessig, sondern teuer.** Er wirkt nicht,
+und er kostet einen Mann, den Georgij mag.
+
+### Und dass Georgij ihn mag, hat einen Grund, der schon dasteht
+
+**Die Liste der Menschen, die Georgij mag, ist kurz.** `b2 ch23:120`, ihr
+erstes Telefonat, ohne dass Yeom irgendetwas davon hat:
+
+> "You put a form in on Friday morning about an address in Jung-gu, and I am
+> on the third floor of it. **I thought it would be quicker to telephone you
+> than to let you spend four hundred thousand won** finding out that there
+> [is nothing there]."
+
+**Eine unnoetige Freundlichkeit von einem Fremden.** Es ist genau dieselbe
+Kategorie wie Ji-wons Licht am ersten Abend (`b1 ch03:90`), **und Georgij
+registriert nichts zuverlaessiger als das.**
+
+### Die Gleichgueltigkeit ist damit nicht sein Makel, sondern sein Nutzen
+
+**Man kann diesem Mann Macht wegnehmen, ohne sich einen Feind zu machen.**
+
+**Das ist das Seltenste in dieser ganzen Welt.** Jeder andere im Buch wird zum
+Gegner, sobald man ihm etwas nimmt - Nam, der Hanseong-Erbe, die
+Menschenhaendler, der Freund von Choi. **Yeom nicht.**
+
+**Und es bleibt trotzdem die Frage, die der Band stellt und nicht beantwortet:
+ob das ein Glueck ist oder das Schlimmste an ihm.**
+
+---
+
+## Die Durchsetzung laeuft ueber Fracht und nicht ueber Gewalt
+
+**Vom Autor am 29.08. festgestellt, und es ist der Schlussstein:** Annie,
+Sang-hoon und Georgij zusammen kontrollieren nahezu alles, was Logistik ist.
+**Damit ist die Macht echt genug, um die Verbote durchzusetzen.**
+
+**Das loest die Warlord-Frage endgueltig, und zwar ohne eine einzige neue
+Erfindung.**
+
+### Was in dieser Hand liegt
+
+| | woher |
+|---|---|
+| **Hanseong Shipping, vier Routen** | Sang-hoons vierzig Prozent (`b1 ch25:304`) |
+| **Das Terminal auf Yeongjong** | Woos Erbe an Georgij und Annie |
+| **Der Konzern** | Annie |
+| **Incheon und der Hafenstatus** | seit `b1 ch15` im Buch |
+
+**Menschenhandel ist Logistik.** Container, Fahrspuren, Ladeplaetze,
+Abfertigung, Papiere. **Wer die Tueren haelt, muss niemanden schlagen.**
+
+### Und die Formel dafuer steht seit Band 1 im Buch
+
+`b1 ch15:314`:
+
+> "**You would not have to close anything**," said Georgij. "**It would be
+> enough that you could.**"
+
+**Das war damals ein Verhandlungssatz gegen einen Reeder. In Band 5 ist es die
+Verfassung einer Unterwelt.**
+
+**Eine Gruppe, die nichts mehr bewegen kann, ist erledigt, ohne dass jemand
+sie anfasst.** Kein Ueberfall, keine Drohung, kein Wort: **ein Container
+bekommt keinen Platz. Ein Lastwagen bekommt keine Bucht.**
+
+### Was das mit Sang-hoon macht
+
+**Er kommt aus Band 3 als der, der Annie erpresst hat.** In Band 5 ist er ein
+Drittel des Engpasses.
+
+**Das ist ein Bogen und keine Versoehnung.** Die beiden muessen einander nicht
+moegen. **Sie muessen nur gemeinsam entscheiden, was verladen wird** - und
+das ist eine engere Bindung als Zuneigung.
+
+### Und der Preis, den es hat
+
+**Wer entscheidet, was verladen wird, entscheidet auch ueber alles andere, was
+in diesem Land bewegt wird.**
+
+**Die Verbote betreffen vier Sachen. Das Werkzeug betrifft alles.** Und es
+liegt bei drei Personen, von denen niemand gewaehlt wurde.
+
+**Das braucht keine Loesung. Es braucht einen Satz, der es einmal ausspricht.**
+
 
 ### Wenn doch ein Feind aus dieser Ecke gebraucht wird
 
