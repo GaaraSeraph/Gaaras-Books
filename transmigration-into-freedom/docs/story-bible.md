@@ -143,8 +143,10 @@ everything else)
 - THE BREAK AT TWENTY-NINE, filled in by the author (it was a deliberate
   hole until he did). A separation, and it broke him. The first time in
   his life he lost EVERYTHING, itemised: she saw to it that he lost his
-  only client of the time - one client, which was the whole income - she
-  put him out, he lived in his car, and he lost both cats. He had only
+  only client of the time - one client, which was the whole income; the
+  business was his own one-man IT consultancy, managed services and
+  process automation - she put him out, he lived in his car, and he lost
+  both cats, GÜNTHER and BÄRBEL. He had only
   ever trusted people exactly as far as they could hurt him - trust
   budgeted against possible damage, lifelong - and this once too much had
   been given, and the bill came in full.

@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 6 Dokumente am Stueck. 77.621 Woerter.
+Alle 6 Dokumente am Stueck. 77.701 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -3493,8 +3493,10 @@ everything else)
 - THE BREAK AT TWENTY-NINE, filled in by the author (it was a deliberate
   hole until he did). A separation, and it broke him. The first time in
   his life he lost EVERYTHING, itemised: she saw to it that he lost his
-  only client of the time - one client, which was the whole income - she
-  put him out, he lived in his car, and he lost both cats. He had only
+  only client of the time - one client, which was the whole income; the
+  business was his own one-man IT consultancy, managed services and
+  process automation - she put him out, he lived in his car, and he lost
+  both cats, GÜNTHER and BÄRBEL. He had only
   ever trusted people exactly as far as they could hurt him - trust
   budgeted against possible damage, lifelong - and this once too much had
   been given, and the bill came in full.
@@ -6334,9 +6336,13 @@ afterwards, which is rarer, and both times he was right.
 
 === 4. THE BREAK ===
 
-At twenty-nine there was one client. He knew better. He had known better
-since the shoebox: never build a deck where one card carries the whole
-game, because the game will find that card. But the work was good and the
+At twenty-nine there was one client. The business was his own by then,
+one man deep: IT consulting, which in practice meant he kept a company's
+machines running and its backups honest, and automated the processes its
+people still did by hand, and did both well enough that the one client
+had long since stopped shopping around. He knew better. He had known
+better since the shoebox: never build a deck where one card carries the
+whole game, because the game will find that card. But the work was good and the
 money was good and the year was full, and she was there, and a man with a
 full year lets the rule slide the way a man with a mild winter buys no
 firewood.
@@ -6367,7 +6373,8 @@ effective at the end of the month. Then the flat, which was in her name.
 He packed the car twice and planned a third trip, and before the third
 trip the locks were changed.
 
-The cats were on the other side of the locks. Both of them.
+The cats were on the other side of the locks. Both of them. Günther and
+Bärbel.
 
 He rang twice about the cats. The first call was calm and got him
 nothing. The second call was not calm and got him less. There was no
@@ -6448,8 +6455,9 @@ saying it out loud.
 === KNOWN GAPS, THE AUTHOR'S TO FILL OR LEAVE ===
 
 - Her name. Off the page until he puts it there.
-- The cats: names, ages, anything true about them he wants kept.
-- The one client's business, and what his work for them was.
+- FILLED (author): the cats were GÜNTHER and BÄRBEL. The business was IT
+  consulting - managed services and process automation. Anything more
+  about the cats he wants kept true, he supplies when he wants.
 - How long the car actually lasted; cities and durations throughout are
   stand-ins.
 - Which details above are wrong. He complains, they get fixed, the rest
