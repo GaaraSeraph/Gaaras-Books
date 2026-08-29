@@ -609,7 +609,7 @@ zum falschen Band gestellt worden.
 
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
-**19 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
+**20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
 **123 Kapitel, 327.806 Woerter.**
 
 ---

@@ -92,7 +92,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 46** *What he asked her* (v1.4) · Tag 292, Mi 22. Juli · 2.033 W
 - **B2 47** *The one he kept* (v2.7) · Tag 298, Di 28. Juli · 2.914 W
 - **B2 48** *The sixth one* (v1.5) · Tag 300, Do 30. Juli · 2.112 W
-- **B2 49** *Against her return* (v1.8) · Tag 302, Sa 1. August · 3.099 W
+- **B2 49** *Against her return* (v1.9) · Tag 302, Sa 1. August · 3.126 W
 - **B2 50** *The one I did not say in May* (v1.5) · Tag 305, Di 4. August · 2.498 W
 - **B2 51** *Clause eleven* (v1.6) · Tag 307, Do 6. August · 2.778 W
 - **B2 52** *Consigned by* (v1.3) · Tag 313, Mi 12. August · 2.042 W

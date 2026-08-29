@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.072 Woerter.
+Book Two, 89 Kapitel, 227.099 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -59,7 +59,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 46 | v1.4 | 2.033 |
 | 47 | v2.7 | 2.914 |
 | 48 | v1.5 | 2.112 |
-| 49 | v1.8 | 3.099 |
+| 49 | v1.9 | 3.126 |
 | 50 | v1.5 | 2.498 |
 | 51 | v1.6 | 2.778 |
 | 52 | v1.3 | 2.042 |
@@ -10639,7 +10639,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 49: Against her return
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -10793,13 +10793,13 @@ Neither of them said anything.
 
 "Do not do that." It came out of him at last, and it was not loud, and it was the first thing he had said all evening that had not been arranged. "I have spent thirty years being handed the version that is comfortable to carry. You are the first person in eleven years who has put a piece of paper in front of me and let me read it. Do not start being kind to me at the end of it."
 
-He did not eat anything.
+He picked up his spoon and ate it, because he had ordered it and because it was good.
 
-Georgij noticed it at about twenty past nine, and once he had noticed it he could not stop noticing it. The soup went cold in front of a man who has complimented a cook in every room he ever sat in. He had ordered it before Georgij arrived, and he had said it was the reason to come.
+Georgij noticed at about twenty past nine that his own bowl was exactly where the girl had put it, and once he had noticed it he could not stop noticing it. A man had been told at that table that eleven years of his life might have been a method, and had eaten his soup. The man who had told him had not touched anything.
 
 There is one other man in this story who does not eat in front of the person he is working on.
 
-Georgij did not say that out loud. He wrote it on the back of the envelope afterward, in the car, and he has not decided yet whether it was a kindness or a failure of nerve.
+He wrote it on the back of the envelope afterward, in the car, and he did not write the sentence after it, and he knew while he was not writing it that he was not going to.
 
 "There is one more thing," said Georgij, "and then you have everything I have."
 
@@ -10887,7 +10887,7 @@ Sim looked at the page for a long moment and then folded it once, along a crease
 
 "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and it was not a performance either. "You are the only person I have met in thirty years who would have said so instead of telling me I would not."
 
-He picked up neither bowl and left both.
+His own bowl was empty. The other one had not been moved all evening.
 
 At the doorway he stopped, with the folded screen beside him, and he did the thing that Georgij had written down on Friday night and had not been able to prepare for.
 
