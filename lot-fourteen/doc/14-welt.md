@@ -415,6 +415,246 @@ und in etwa neun Jahren liest sie jemand aus einem anderen Grund. Kein Agent,
 keine Gesellschaft, kein Strohmann verbessert, wie das dann aussieht. **Der Preis
 ist ihr Name auf einem Blatt, das nicht zurueckgenommen werden kann.**
 
+## Woos Terminal und die zwanzig Prozent: die feste Fassung
+
+**Festgeschrieben am 29.08. auf Verlangen des Autors**, weil ich diese Sache
+in einer Sitzung dreimal verschieden erzaehlt habe und jedes Mal einen
+anderen Mechanismus darunter gebaut habe. **Was hier steht, gilt. Wer etwas
+daran aendert, aendert es hier und nicht in einem Plandokument.**
+
+### 1. Das Terminal
+
+| Was | Beleg |
+|---|---|
+| Steht auf **Yeongjong** | `b1 ch19:14` |
+| **In zehn Monaten gebaut**, nach neun Jahren, in denen ihm gesagt wurde, es gehe nicht | `b1 ch10:50`, `b1 ch18:222` |
+| **Vierzehn Meter zu kurz, mit Absicht** - die Alternative war ein Streifen von der Hafenbehoerde in einem Jahr, in dem er mit ihr im Streit lag | `b1 ch19:48` |
+| Ankuendigung **im Fruehjahr** vor Tag 1 | `b1 ch07:106` |
+| **Zehn Monate alt** an Tag 188 (9. April 2026) | `b2 ch13:50` |
+| **Neunzehn Monate alt** an Tag 434 (11. Dezember 2026) | `b2 ch69:18` |
+| **Das einzige, was ihm etwas bedeutet** | `b1 ch18:222` |
+| Zweimal in einem Jahr wollte jemand es kaufen und nicht sagen, wer dahintersteht | `b1 ch18:298` |
+
+**Fertigstellung nach den beiden datierten Stellen: Mai bis Juni 2025, also
+vier bis fuenf Monate vor Tag 1** (Tag 1 = 4. Oktober 2025).
+
+**Der Autor hat am 29.08. *zehn Monate vor Tag 1* gesagt.** Das waere Dezember
+2024. **Die Differenz steht hier und ist nicht aufgeloest** - die beiden
+b2-Stellen sind datiert und praezise, die Erinnerung ist es naturgemaess
+nicht.
+
+### 2. Die Finanzierung
+
+| Was | Beleg |
+|---|---|
+| **Neun Institute** im Syndikat | `b1 ch13:94` |
+| Drei davon gross genug fuer eine interne Freigabe, **keines veroeffentlicht den Namen darunter** | `b1 ch13:94` |
+| Zwei davon gewoehnliche Haeuser, **das dritte ein Fonds** | `b1 ch13:96` |
+| Dessen **beneficial ownership** laeuft in eine **Kette von Kanzleien in Singapur** und hoert dort auf | `b1 ch13:96` |
+| Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**: eine **Private-Equity-Gesellschaft in Hongkong** | `b1 ch13:96` |
+| Dahinter *nothing whatsoever, because that is what it is for* | `b1 ch13:208` |
+| *So he had a company behind a chain behind a fund.* **He had no person at all.** | `b1 ch13:98/100` |
+| **Zwanzig Prozent** *has been owed since the year I built it, to a fund I could not fund it without* | `b1 ch19:162` |
+| *I have never had a name and I have never asked for one, and a man does not ask when the money is already in the concrete* | `b1 ch19:166` |
+| *I can pay them out on a Thursday with somebody else's money and never find out who I was bowing to* | `b1 ch19:166` |
+| Georgij zu Annie: *He **is going to** pay it out himself* - **Futur, nirgends vollzogen** | `b1 ch20:94` |
+| Chois Verbindung: *a director of a private equity firm in Hong Kong **through a chain of lawyers in Singapore*** | `b2 ch25:152` |
+| Das Singapur-Ende ist nie gefunden worden | `b2 ch39:254` |
+
+**Zehn Singapur-Treffer im ganzen Kanon, der letzte in `b2 ch39`.**
+
+### 3. Der Mann, der es eingefaedelt hat
+
+| Was | Beleg |
+|---|---|
+| Drei im Raum: zwei Anwaelte, deren Namen Woo **absichtlich vergessen** hat | `b1 ch13:186` |
+| Der dritte fuehrte das Wort: **etwa fuenfzig, Hongkong-Akzent im Englischen, keiner im Koreanischen** | `b1 ch13:186` |
+| **Gab niemandem eine Karte.** *He was not that sort* | `b1 ch13:190` |
+| Fragte **eine** Frage: *what would happen to the terminal if I died on the Tuesday* | `b1 ch13:190` |
+| Woos Antwort: *sold within a year and split three ways and probably one of the three would be Sang-hoon* | `b1 ch13:194` |
+| *And he said yes, **and then he lent me the money**.* | `b1 ch13:194` |
+| Woo reagierte nicht auf das Wort Hongkong | `b1 ch13:210` |
+| **Ein kleiner Mann mit schlechten Zaehnen, tot seit 2011** | `b1 ch31:364` |
+
+**⚠️ Widerspruch, offen:** das Terminal ist 2025 fertig geworden, der Mann ist
+seit 2011 tot. **Ein Toter finanziert kein Terminal, das vierzehn Jahre
+spaeter gebaut wird.** `b1 ch13:180` fragt ausdruecklich nach *the man who
+made that possible*, und `b1 ch31:354` bindet ihn an *the terminal*.
+
+**Die billigste Aufloesung waere, dass er nicht das Geld war, sondern der,
+der die Frage gestellt und es eingefaedelt hat.** Dann bliebe `b1 ch31:364`
+unveraendert richtig - *the best thing anybody ever did for me took him nine
+seconds* ist die Frage und nicht das Geld - und nur `b1 ch13:194` muesste von
+*he lent me the money* auf etwas wie *the money came* umgestellt werden.
+**Nicht entschieden.**
+
+---
+
+### 4. Die juristische Lage, und alles haengt an einer einzigen Frage
+
+**Fremdkapital oder Eigenkapital.**
+
+#### Fremdkapital
+
+**Dann kann Woo zurueckzahlen und die Sache ist erledigt.** Ein Kredit wird
+getilgt; der Glaeubiger hat kein Recht, das Geld zu behalten. **Dann gibt es
+kein Problem, keinen Streit und kein Geschenk am Grab.**
+
+**Dafuer spricht:** `b1 ch13:94` sagt *syndicate*, Woo sagt *owed* und *pay
+them out*.
+
+#### Eigenkapital: zwanzig Prozent der Anteile an der Terminalgesellschaft
+
+**Dann kann Woo es nicht.** Und der Grund ist einfach und hart:
+
+**Eigenkapital kann man nicht zurueckzahlen.** Ein Rueckkauf ist ein Kauf und
+braucht einen **verkaufswilligen Verkaeufer**. Es gibt kein Recht, einen
+Minderheitsgesellschafter loszuwerden. Der Squeeze-out braucht eine Schwelle
+um fuenfundneunzig Prozent, ein Gericht **und einen Gegner, den man
+identifizieren und dem man zustellen kann**. Woo hat nichts davon.
+
+**Dafuer spricht:** `b1 ch13:96` nennt ausdruecklich *beneficial ownership*
+und nicht eine Forderung, und `b1 ch17:114` sagt, wofuer solche
+Gesellschaften da sind: *Buying **positions** in things.*
+
+### 5. Warum Woo glaubt, er koenne es zurueckzahlen
+
+**Weil das Geld mit der Finanzierung hereinkam.** Neun Institute in einem
+Raum, ein Syndikat, Papiere. **Er hat es als Kredit verbucht, weil es sich
+wie einer anfuehlte.**
+
+**Und weil er nie hineingesehen hat.** `b1 ch19:166`: *a man does not ask when
+the money is already in the concrete.*
+
+**Das ist der Fehler, und er ist im Kanon vorbereitet.** Es ist derselbe
+Fehler wie bei Annies Vater, *a man who could not read a contract*
+(`b2 ch84:192`). **Woo kann Vertraege lesen. Er hat diesen nicht gelesen.**
+
+### 6. Was der Geldgeber davon hatte, und der Tod war nie das Ziel
+
+**Zwanzig Prozent an einem Hafenterminal, fuer Geld, das er ohnehin gegeben
+haette.** Ausschuettungen und Wertzuwachs, dauerhaft. **Ein gewoehnliches,
+gutes Investment.**
+
+**Die Dienstagsfrage ist Due Diligence und kein Warten auf einen Todesfall.**
+
+**Der Albtraum eines Minderheitsgesellschafters an einer nicht
+boersennotierten Gesellschaft ist, eingesperrt zu sein.** Er kann zwanzig
+Prozent an niemanden verkaufen; niemand kauft eine Minderheit an der Firma
+eines alten Mannes. **Sein einziger realistischer Ausstieg ist, dass das
+Ganze verkauft wird.**
+
+**Also fragt er die einzige Frage, die zaehlt: was passiert damit, wenn Du
+stirbst?**
+
+**Woos Antwort ist die beste, die er bekommen konnte:** *sold within a year
+and split three ways.* Uebersetzt: **es gibt einen Ausstieg, er kommt
+zwangslaeufig, und er haengt nicht davon ab, dass Deine Erben vernuenftig
+sind oder dass sie mich moegen.**
+
+**Deshalb sagte er *yes* und gab danach das Geld.** Die neun Sekunden waren
+die Pruefung, ob das Investment ueberhaupt jemals wieder herauskommt.
+
+### 7. Die vier Wege, wie ein Minderheitsgesellschafter verschwindet
+
+1. **Er verkauft.** Braucht Geld und seine Zustimmung.
+2. **Er wird herausgedraengt.** Braucht Schwelle, Gericht und einen
+   identifizierbaren Gegner.
+3. **Die Anteile sind fehlerhaft.** Nie eingezahlt, formunwirksam erworben.
+4. **Der eingetragene Halter existiert nicht mehr.** Gesellschaft geloescht,
+   niemand hat sie wiederhergestellt.
+
+**Nur Nummer 4 kostet niemanden Geld, und nur Nummer 4 findet ein Mann, der
+Register liest.**
+
+**Und dazu passt eine Tatsache, die feststeht:** das Terminal ist neu und hat
+**nie etwas ausgeschuettet**. Es ist nie Geld geflossen. **Also ist auch nie
+eine Zahlung liegengeblieben, die jemandem aufgefallen waere.**
+
+**Woo hat auf sein eigenes Papier gesehen und nie auf den Registerauszug
+seines Mitgesellschafters.**
+
+### 8. Was ausdruecklich NICHT gilt
+
+**Vier Thesen von mir, am 29.08. geprueft und durchgefallen. Sie stehen hier,
+damit sie nicht noch einmal gebaut werden.**
+
+* **"Jung-gu zeigt denselben Verwalter."** Falsch. **Einundvierzig Treffer im
+  Kanon**, es ist ein Stadtbezirk mit Hochzeitshallen, einem Zahnarzt und
+  einer Druckerei darin. Dabei aber ein echter Fund: `b2 ch06:364` (*an
+  address that also holds nine others*) und `b2 ch22:156` (*ten companies
+  registered at it*) sind dieselbe Adresse, und `b2 ch23:120` sagt, wer dort
+  sitzt - **Yeom. Der Auktionshaus-Fonds fuehrt zu Yeom, nicht nach
+  Singapur.**
+* **"Fonds sterben in diesem Buch."** Falsch. `b2 ch60:174`: *The fund has
+  decided.* Er hat das Haus abgewickelt und lebt.
+* **"Das Sieben-Jahres-Buch schafft den Verkauf ab."** Falsch und verkehrt
+  herum. `b1 ch19:158` sagt *lendable*; ein gebundenes Buch macht ein
+  Terminal **besser** verkaeuflich.
+* **"Die Struktur muss hervortreten und sich benennen lassen."** Falsch.
+  **Der Halter steht als Gesellschaft im Aktienbuch, ist voll berechtigt und
+  muss nichts beweisen.** Die Undurchsichtigkeit liegt hinter ihm, nicht vor
+  ihm. **Eigentum verschwindet nicht, weil jemand eine Akte liest.**
+
+**Und zwei Saetze, die nur im Plandokument stehen und nicht im Kanon:** dass
+die Kette eine Dienstleistung mit vielen Mandanten ist, und dass Hanseongs
+schwarze Kassen in derselben Kette sitzen. **Beides ist Festlegung, nicht
+Fund.**
+
+### 9. Wie es ausgeht: am 28.08. entschieden und bestaetigt
+
+**Ich habe das am 29.08. aus Versehen neu aufgerollt und dreimal schlechter
+beantwortet. Es gilt unveraendert.**
+
+**Nicht das Eigentum aendert sich, sondern die Durchsetzbarkeit.** Im
+Register steht weiter, wem die zwanzig Prozent gehoeren. Was verschwindet,
+ist, **dass jemand sie geltend machen kann, ohne selbst ins Licht zu
+treten.** `b2 ch87:390`:
+
+> *"But knowing is not a handle, and that is a different thing altogether.
+> **A handle is a house that can be asked and a book that can be opened**."*
+
+**Dann in dieser Reihenfolge:**
+
+1. **Georgij macht den Anteil unerreichbar.** Wer dahintersteht, kann Woo
+   nichts mehr abverlangen.
+2. **Der Anteil wird verwertet**, weil eine Position, die niemand arbeiten
+   kann, abgewickelt wird.
+3. **Niemand bietet auf Papier aus dieser Kette.**
+4. **Woo kauft zurueck, fuer sehr wenig, und besteht darauf zu zahlen** - ein
+   Mann, der fuenfzig Jahre nichts geschenkt bekommen hat, nimmt kein
+   Geschenk an.
+
+**Damit ist auch beantwortet, warum Woo nicht einfach selbst zurueckkauft:
+er kauft. Aber erst danach.** Vorher gibt es nichts zu kaufen, **weil ein
+Halter ohne Grund zu verkaufen nicht verkauft** - und ein Rueckkauf ist ein
+Kauf und braucht einen verkaufswilligen Verkaeufer.
+
+**Georgijs Geschenk ist nicht der Anteil. Es ist, dass niemand mehr fragen
+kann.**
+
+**Und seine Zeile am Grab ist entsprechend genau und kleiner als das, was er
+getan hat:**
+
+> *"There is nobody **who can** ask you for it, and there will not be."*
+
+**Nicht *is not owed to anybody now*.** Das waere eine Behauptung ueber
+Eigentum, die er nicht belegen kann, **und er sagt nie etwas Unwahres.**
+
+### 10. Offen
+
+1. **Fremdkapital oder Eigenkapital.** Die entschiedene Fassung setzt
+   **Eigenkapital** voraus: bei Fremdkapital gaebe es nichts unerreichbar zu
+   machen, weil Woo einfach tilgen koennte.
+2. **Der Widerspruch 2011 gegen 2025.**
+3. **Die Fertigstellung: vier bis fuenf Monate vor Tag 1 nach dem Kanon,
+   zehn nach der Angabe des Autors.**
+4. **Ein Anklang, der beim Berichtigen kaputtgegangen ist.** Der Szenenanfang
+   sagt *He did not know what she had liked and there was **nobody left to
+   ask**.* Die alte Fassung der Schenkungszeile wiederholte das woertlich.
+   **Die genaue Fassung tut es nicht mehr** - richtig ist sie trotzdem, und
+   der Anklang ist der kleinere Verlust.
+
 ## Wer sich mit Macht anlegt und seinen Schutz verliert
 
 **Regel dieser Welt, vom Autor am 26.08. festgelegt:** *"Sich mit Macht
