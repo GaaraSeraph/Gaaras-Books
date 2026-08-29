@@ -304,7 +304,7 @@ At the door he stopped, and he did it without turning round.
 
 "You are the second person to say that to me this year," he said, "and the first one wanted something."
 
-Mr Ku took him to the gate.
+His own car took him out at six minutes past five.
 
 Annie put down the page she had not been reading, and stood up, and started across the room.
 
@@ -328,9 +328,13 @@ He moved his weight, and put his hands behind his back, and took them out again,
 
 A small smile got out. He was holding a much larger one down and he was not managing all of it.
 
-Mrs Seo had come up for the tray and was in the doorway with it, and she did not come in.
+Mrs Seo had come in for the coffee and could not get out again without crossing in front of them, so she saw all of it.
 
-She has watched that man run this house since he came into it, and she had never once seen him be no use to anybody at all.
+She has run that house for nine years and she had never once seen that man be no use to anybody at all.
+
+She put the tray down in the kitchen on the wrong table.
+
+By the next evening there was nobody working in that house who had not been told, including the man at the gate.
 
 ### Die Choreografie ist vom Autor und wird nicht mehr angefasst
 
@@ -382,10 +386,24 @@ als Kontrollverlust erzaehlt wird und nicht als Gefuehl.
 **Vom Autor: die allererste Fassung war die richtige** - jemand sieht zu, wie
 der Mann gerade **zu gar nichts zu gebrauchen** ist.
 
-**Mrs Seo statt Sang-hoon, weil Sang-hoon zu diesem Zeitpunkt aus dem Haus
-ist** (*Mr Ku took him to the gate*). **Ihr Massstab ist ein anderer und
-genauso hart:** sie hat neun Jahre in diesem Haus und sieht seit seinem
-ersten Tag zu, wie er es fuehrt.
+**Berichtigt am 29.08.** In meiner Fassung stand sie in der Tuer und kam
+nicht herein. **Der Autor: sie haette es sehen muessen.** Also steht sie
+**im Raum** und kommt nicht mehr heraus, ohne vor den beiden vorbeizugehen -
+**das ist der Grund, warum sie bleibt, und er ist haeuslich und nicht
+dramatisch.**
+
+**Und die Folge steht jetzt dabei, weil sie die eigentliche Pointe ist:**
+sie raeumt das Tablett falsch weg, **und am naechsten Abend weiss es das
+ganze Haus.** Das falsche Tablett ist kein Detail, sondern der Beleg, dass
+es sie durcheinandergebracht hat - **und eine Haushaelterin, die
+durcheinander ist, erzaehlt es weiter.**
+
+**Damit hat der Kuss zum ersten Mal ein Publikum**, und das Haus ist die
+richtige Groesse dafuer: nicht privat, nicht oeffentlich. **Die
+Oeffentlichkeit kommt erst nach dem Ring in Band 4.**
+
+**Ihr Massstab ist ein anderer als Sang-hoons und genauso hart:** neun Jahre
+in diesem Haus (`b2 ch23:98`).
 
 **Und *be no use to anybody at all* ist die Ohrfeige**, weil Nuetzlichkeit
 seine ganze Person ist. Er fragt es im Buch zweimal selbst, beide Male mit
@@ -400,9 +418,17 @@ Park Sang-hoon stopped at the door and looked back, which he had not meant to do
 
 **Was sie kostet:** der Kuss muesste dann vor seinen Abgang, **und damit
 tritt er auf die Abfertigung** - *"You are the second person to say that to
-me this year, and the first one wanted something"* und *Mr Ku took him to the
-gate*. **Das ist der Abgang eines Chaebols, und ein Kuss davor macht ihn zur
-Nebensache.**
+me this year, and the first one wanted something."* **Das ist der Abgang
+eines Chaebols, und ein Kuss davor macht ihn zur Nebensache.**
+
+**Und Mr Ku ist gestrichen.** Ich hatte *Mr Ku took him to the gate*
+geschrieben. **Der Autor hat nach dem Grund gefragt, und es gibt keinen:**
+Sang-hoon kommt mit eigenem Wagen, und Mr Ku ist Annies Fahrer. Das Buch
+rechtfertigt es an der einen Stelle, an der es vorkommt, ausdruecklich -
+`b2 ch8x`: *Chairman Woo went at half past ten and Mr Ku took him, **because
+his own driver had gone at nine on his instruction***. **Wo das Buch sich
+selbst eine Begruendung schreibt, ist die Handlung nicht selbstverstaendlich.**
+Jetzt: *His own car took him out at six minutes past five.*
 
 **Also Mrs Seo im Text, und die Sang-hoon-Zeile bleibt hier stehen**, falls
 die Szene spaeter noch einmal umgebaut wird.
@@ -3206,73 +3232,171 @@ Kanon verbindet ihn nirgends mit Singapur.
 
 **Dazu `b1 ch13:210`: *Chairman Woo did not react to Hong Kong.***
 
-### Und daraus folgt der Streit, ohne dass irgendetwas erfunden werden muss
+### Die Zahl, berichtigt am 29.08.
 
-**Der Mann hat vor ueber zwanzig Jahren Woos Tod bepreist.** Er hat die eine
-Frage gestellt, die Antwort bekommen, die er brauchte, **und daraufhin das
-Geld gegeben.**
+**Zwanzig Prozent, und es ist keine Bankfinanzierung, sondern eine
+Beteiligung.** `b1 ch19:162`: *"**Twenty per cent of this** has been owed
+since the year I built it, to a fund I could not fund it without."*
 
-**Woo stirbt am Ende von Band 3, und die Antwort wird falsch.**
+**Achtzig Prozent kommen im ganzen Kanon nicht vor.** Die neun Institute
+haben **geliehen**; der Fonds **haelt**. Das ist der Unterschied, an dem
+alles Weitere haengt: **ein Darlehen wird zurueckgezahlt und ist damit
+erledigt, eine Beteiligung nicht.**
 
-Das Terminal wird **nicht** binnen eines Jahres verkauft und **nicht**
-dreigeteilt und einer davon ist **nicht** Sang-hoon. **Es geht an eine Frau,
-die schon die halbe Logistik des Landes haelt, und an einen Mann ohne
-Namen.**
+### Und der Streit faengt frueher an, als ich geschrieben hatte
 
-**Damit ist die Grundlage der Zusage weg**, und zwanzig Prozent stehen seit
-dem Baujahr offen.
+**Nicht beim Erbe. Beim Rueckkauf**, und der Autor hat das am 29.08.
+nachgetragen. `b1 ch19:166`, drei Zeilen nach der Zwanzig:
 
-### Drei Gruende, und jeder allein wuerde reichen
+> *"With this I do not need the name. **I can pay them out on a Thursday with
+> somebody else's money and never find out who I was bowing to**."*
 
-**1. Geld.** Zwanzig Prozent an einem Terminal, dessen Wert sich gerade
-geaendert hat.
+**Das ist der Tag, an dem der Streit anfaengt, und er liegt in Band 1.** Ein
+Drittel des Buchs unter Vertrag fuer sieben Jahre macht das Terminal *lendable
+in a bad year* (`b1 ch19:158`) - **und damit kann Woo refinanzieren und die
+zwanzig Prozent ausloesen.**
 
-**2. Kontrolle.** Die Frage nach dem Dienstag ist falsch beantwortet worden.
-**Wer so einen Kredit gibt, gibt ihn auf eine Antwort und nicht auf eine
-Zahl.**
+**Eine Position, die seit dem Baujahr laeuft, endet, weil ein Junge mit einem
+Ordner in ein Buero gegangen ist.**
 
-**3. Choi.** Ihr Direktor ist drei Wochen nach dem Tag tot gewesen, an dem
-Georgij mit ihm fertig war. **Das ist ihre Rechnung und nicht seine**, und
-sie brauchen sie nicht zu beweisen, weil sie niemanden anklagen wollen.
+**Und ausbezahlt zu werden ist nicht dasselbe wie zu behalten, wofuer man
+eingestiegen ist.** Wer zwanzig Prozent eines Terminals jahrzehntelang haelt,
+haelt sie nicht wegen der Zinsen. **Er haelt sie wegen des Tages, an dem
+verkauft wird** - und genau danach hat der Mann im Raum gefragt.
 
-### Warum er der schwerste Gegner des Buches ist
+### Also drei Ereignisse, alle datiert, alle mit ihm in der Mitte
 
-**Georgijs Verfahren braucht am Ende der Linie einen Menschen.** Herausfinden,
-was ein Mann getan hat, und ihm die eine Frage stellen, die er vor Zeugen
-nicht beantworten kann.
+**1. Der Tag der Unterschrift** (`b1 ch19`). Das Vertragsbuch ist das
+Werkzeug, das ihre Position beendet. **Nicht Woos Einfall - Georgijs.**
 
-**Hier ist zwei Baende lang keiner gefunden worden.** Vier Wochen Papier in
-Band 1: *He had no person at all.* Sang-hoon mit allem, was ein Chaebol hat,
-in Band 2: *I have not found the Singapore end yet.* **Zwei Maenner, zwei
-Baende, nichts.**
+**2. Woos Tod, Ende Band 3.** Die Antwort auf die Dienstagsfrage wird falsch.
+Nicht binnen eines Jahres verkauft, nicht dreigeteilt, keiner davon
+Sang-hoon.
 
-**Und dann kommt einer von selbst**, weil ihre Antwort falsch geworden ist.
-**Er wird nicht gefunden. Er meldet sich** - so wie er sich damals bei Woo
-gemeldet hat, ohne Karte, mit einer Frage.
+**3. Der achte April.** Ihr Direktor ist drei Wochen nach dem Tag tot, an dem
+Georgij mit ihm fertig war.
 
-### Und die Frage ist dieselbe, nur diesmal an ihn
+**Und keines davon ist eine Straftat.**
 
-**Der Mann hat Woo gefragt, was mit dem Terminal geschieht, wenn er am
-Dienstag stirbt.**
+---
 
-**Georgij hat auf diese Frage die schlechteste Antwort im ganzen Buch**
-(`b2 ch54:384`): *"I have no money. I have no name that opens a door and I
-have nothing in this country to telephone."*
+## Die drei Fragen des Autors, vom 29.08.
 
-**Und das gilt ab diesem Band nicht mehr.** Er besitzt etwas, zum ersten Mal.
-**Also ist die Frage jetzt auf ihn anwendbar, und er hat keine Antwort
-darauf, die ihn nicht kleiner macht.**
+### 1. Was will der Mann von mir
 
-**Das ist der Gegner, und er war seit Band 1, Kapitel 13 geladen.**
+**Materiell: die Position oder ihren Gegenwert.** `b1 ch17:114` sagt, wofuer
+so eine Gesellschaft ueberhaupt da ist: *"**Buying positions in things** is
+what a private equity company in Hong Kong exists for."*
 
-### Was noch entschieden werden muss
+**Aber das ist nicht, womit er anfaengt, und das ist der Punkt.**
 
-* **Ist er der Mann aus dem Raum, oder dessen Nachfolger?** Er war *about
-  fifty*, und das Terminal ist alt. **Derselbe Mann waere jetzt um die
-  siebzig**, und das ist gut, weil es die Zeitspanne sichtbar macht.
-* **Wird Choi als der Mann im Raum nachtraeglich identifiziert oder nicht?**
-  Der Kanon laesst beides zu. **Nein ist wahrscheinlich besser** - dann ist
-  Choi ein Direktor unter mehreren, und die Gesellschaft ist groesser als er,
-  was sie gefaehrlicher macht.
-* **Ein Name fuer die Gesellschaft.** Der Kanon hat keinen, und das war zwei
-  Baende lang richtig. **Sobald sie sich meldet, hat sie einen.**
+**Sein Verfahren ist, den Tod des Eigentuemers zu bepreisen.** Er stellt die
+eine Frage, bekommt eine ehrliche Antwort, und leiht dagegen. **Er hat es bei
+Woo genau so gemacht und danach zwanzig Jahre nichts weiter getan.**
+
+**Also will er von Georgij zuerst dasselbe: die Antwort.**
+
+**Und das ist der ganze Angriff.** Er droht nicht. **Er fragt**, hoeflich, ohne
+Karte, so wie damals - und Georgij muss wahrheitsgemaess antworten, weil er
+nie etwas Unwahres sagt.
+
+**Und die wahrheitsgemaesse Antwort ist die schlechteste im Buch.** Kein
+Erbe, kein Nachfolger, keine Urkunde, kein Name. **Alles, was in zwei Baenden
+gebaut worden ist, hat genau einen Punkt, an dem es ausfaellt, und der Punkt
+ist ein Mann, den es auf dem Papier nicht gibt.**
+
+**Der Mann fragt ihn also nach der einen Sache, die Georgij ueber sich selbst
+nie gesagt hat** - und Regel 3 sagt, dass er ueber sich keine Zahlen nennt.
+**Hier wird sie ihm abverlangt.**
+
+### 2. Warum werden wir Gegner
+
+**Weil sie nichts beweisen muessen.**
+
+**Georgijs ganze Bauweise ist gegen Anklage gerichtet.** Nichts traegt seine
+Handschrift, nichts ist unterschrieben, an keinem Ende steht sein Name. **Das
+funktioniert gegen einen Staatsanwalt und gegen die Presse und gegen einen
+Chaebol, weil die alle etwas nachweisen muessen.**
+
+**Diese Leute wollen niemanden anklagen. Sie wollen ihre zwanzig Prozent.**
+
+**Ein Glaeubiger braucht keinen Beweis, er braucht einen Titel** - und den hat
+er seit dem Baujahr. **Damit greift Georgijs gesamte Deckung nicht**, und zwar
+zum ersten Mal.
+
+**Und sie sind nicht boese.** Das ist die Sorte Gegner, die dieses Buch noch
+nicht hatte: **niemand hasst hier jemanden.** Sie holen sich etwas, das ihnen
+gehoert, und der Mann, der ihnen im Weg steht, ist derselbe Mann, der ihren
+Direktor in die Enge getrieben hat. **Beides zugleich, und beides ohne
+Stimmerhebung.**
+
+### 3. Wie ruiniere ich sie, ohne die Struktur zu kennen
+
+**Gar nicht ueber die Struktur. Das ist zweimal gescheitert und wird ein
+drittes Mal scheitern.** `b1 ch13:100`: *He had no person at all.*
+`b2 ch39:254`: *I have not found the Singapore end yet.* **Vier Wochen
+Georgij, ein ganzer Band Sang-hoon, nichts.**
+
+**Aber das Verfahren steht im Buch, und Georgij hat es schon einmal
+angewendet.** `b2 ch09:204`:
+
+> *"A house whose business is discretion cannot survive being the house that
+> sells deletions and does not perform them. **Nobody has to sue anybody. The
+> next twelve people simply go somewhere else.**"*
+
+**Eine Kanzleikette, die Eigentum fuer Mandanten haelt, hat genau ein Produkt:
+dass sie haelt.** Das ist alles, was sie verkauft.
+
+**Weg A: einmal sichtbar machen, nicht durchdringen.**
+
+Nicht die Gesellschafterstruktur aufklaeren. **Einen einzigen Mandanten, ein
+einziges Mal, oeffentlich durch die Kette hindurch sichtbar machen** - und
+danach weiss jeder andere dahinter, dass dahinter zu sein nicht dasselbe ist
+wie unsichtbar zu sein.
+
+**Und der Riss ist im Kanon schon da.** `b1 ch13:96`: hinter Singapur stand
+Hongkong, **laut einer Meldung von 2021, die zu einem ganz anderen Zweck
+gemacht worden war.** **Es ist einmal aus Versehen durchgesickert. Es kann
+einmal mit Absicht durchsickern.**
+
+**Was das kostet:** es verbrennt alle anderen Mandanten hinter derselben
+Kette, und einige davon braucht Annie moeglicherweise. **Und es ist genau die
+Handlung, die der Staatsanwalt ihm vorwirft.**
+
+**Weg B: nicht ruinieren, sondern die koreanische Seite unbrauchbar machen.**
+
+**Sie muessen nicht untergehen. Sie muessen gehen.** Ein Fonds, der zwanzig
+Prozent an einem koreanischen Terminal haelt, braucht koreanische
+Gegenparteien, koreanische Register, koreanische Kanzleien und einen Weg,
+Geld zu bewegen. **Annie, Sang-hoon und das Terminal sind die Logistik dieses
+Landes.**
+
+**Man macht das Halten koreanischer Positionen unwirtschaftlich, und sie
+verkaufen von selbst.**
+
+**Was das kostet:** es beendet sie nicht, es verschiebt sie. **Das ist die
+Methode aus Band 5 - kontrollieren statt zerstoeren -, zwei Baende zu frueh,
+und Georgij muesste dabei lernen, dass nicht alles fertig gemacht werden
+kann.**
+
+**Weg C: bezahlen.**
+
+**Sie wollen einen Ausstieg zur richtigen Zahl.** Georgij hat gerade geerbt,
+Annie haelt die Logistik. **Man kauft sie ordentlich heraus.**
+
+**Was das kostet:** es macht sie reich und gibt zu, dass sie im Recht waren.
+**Und Georgij hat in seinem Leben noch nichts gekauft.**
+
+### Mein Vorschlag, und er ist nicht das, wonach gefragt wurde
+
+**A versuchen und daran scheitern, dann B.**
+
+**Weil dies der erste Gegner sein sollte, den er nicht fertig macht.** Drei
+Baende lang endet jeder Gegner. Choi ist tot, Nam hat verloren, der Erbe
+verliert alles. **Ein Band, in dem er zum ersten Mal etwas besitzt, ist der
+richtige Band fuer den ersten Gegner, der einfach weitermacht.**
+
+**Und es beantwortet die Dienstagsfrage von der anderen Seite:** was mit
+diesem Ding geschieht, wenn er stirbt, ist erst dann eine ertraegliche Frage,
+wenn er aufgehoert hat zu glauben, dass er jede Sache selbst zu Ende bringen
+muss.
