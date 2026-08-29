@@ -1673,17 +1673,15 @@ and it is the one thing this year that he has not written down.*
 **Die wahre Fassung ist schlimmer als die Prahlerei**, und sie ist jetzt
 schmaler begruendet und dadurch schaerfer.
 
-### Der Text, ganz. Geschrieben am 29.08., nachdem der Charakter stand
+### Der Text, ganz. Umgebaut am 29.08., zweiter Durchgang
 
-**Die alte Fassung war eine Rede an eine Rolle. Diese ist an den Mann**, der
-inzwischen feststeht: vier Generationen, die ersten drei konnten es, er hat
-nie etwas gebaut, seine Inkompetenz war folgenlos, weil das Haus sich selbst
-fuehrte - **und genau das hat ihn erledigt.** Die Kernstuecke der alten
-Fassung stehen woertlich darin.
-
-**Sie ist der Finisher.** Hanseong ist gefallen, die Geschwister haben
-verkauft, die rechte Hand ist fort, der Oberstaatsanwalt ist fort und wird
-mit keinem Wort erwaehnt.
+**Der erste Umbau hatte die Guidance-Frage am Anfang, und der Autor hat sie
+ans Ende gestellt: sie ist der Finisher, am Anfang ist sie schwach.** Die
+Vorbilder geben ihm recht - bei Choi sitzt die toedliche Guidance-Bitte
+spaet (`b2 ch86:506`), bei Sang-hoon kommt *Please guide me* als zweite
+Bitte (`b1 ch33:138`). **Und die Burnt-Zeile ist zurueck, vom Autor:** sie
+fuettert den Brennholz-Schluss, und *I did enough of it* kalibriert sie
+danach exakt.
 
 ---
 
@@ -1695,33 +1693,13 @@ Georgij stood at the end of the room where he stands, and nobody had asked him a
 
 When the folders were closed, he spoke.
 
-"Please guide me," said Georgij. "How does an incompetent man, arrogant on the strength of things he never built and was only born in, save the legacy he is so proud of?"
-
-He asked it with the mark on the end of it, and there was not one word in it that could be argued with, and that is a different thing from being polite.
-
-The lawyers had stopped pretending to pack.
-
 ---
-
-The chairman of what was left began an answer.
-
-It reached the eighteenth century and stopped there, because the eighteenth century was not going to sign anything back to him, and he heard that himself while he was saying it.
-
-Nobody helped him.
-
-It went on for much longer than three seconds, and everybody in the room let it.
-
----
-
-"I asked myself the same question before any of this began," said Georgij. "I could not answer it either. I want that said, because you are going to spend years deciding I tricked you, and it will be easier for you than the other version."
-
-He did not move from the end of the room.
 
 "There was a woman in Ulsan with four trucks, and I took the firm off her myself. There was an auction house that had been on that river for thirty years. I told one of its buyers what was still in her copy of the catalogue. That is the whole of what I did to it, and there is nothing left of it now."
 
 "And there was a man who used to be a prosecutor. He decided for twenty-five years which men in this country sat down to dinner together, and eleven of them lost something afterwards, and none of them has ever been told why. Nobody has seen him since April."
 
-"Every one of them had pointed something at her."
+"Every one of them had pointed something at her. So I burnt them to the ground."
 
 Georgij did not raise his voice anywhere in it.
 
@@ -1733,7 +1711,7 @@ Georgij did not raise his voice anywhere in it.
 
 ---
 
-"Your grandfather could have told me what was behind every door in this building. Your father could have told me most of it. You gave me the eighteenth century just now, and the eighteenth century does not own anything."
+"Your grandfather could have told me what was behind every door in this building. Your father could have told me most of it. I asked you about your grandfather once, in the spring, in front of people who had been there, and you answered, and every man at that table knew the answer was wrong except you."
 
 The man at the head of the table did not move.
 
@@ -1747,9 +1725,21 @@ The man at the head of the table did not move.
 
 ---
 
+The room had stopped being a room some time ago and become a place where one man was standing and five were present.
+
+"Please give me your guidance," said Georgij. "How does an incompetent man, arrogant on the strength of things he never built and was only born in, save the legacy he is so proud of?"
+
+He asked it with the mark on the end of it, and there was not one word in it that could be argued with, and that is a different thing from being polite.
+
+He did not wait for an answer.
+
+---
+
 Georgij left, and the two directors left behind him, and then the lawyers.
 
-The chairman of what was left stayed at the head of a long table, in a building that still had his name on the outside, and on very little else.
+Some time after the door had closed, the chairman of what was left began an answer.
+
+It reached the eighteenth century and stopped there, because there was nobody in the room to hear the rest of it, and no rest of it.
 
 ### Was daran haengt
 
@@ -1779,17 +1769,25 @@ und beim dritten war es ein Telefonat, das er nicht gefuehrt hat.
 
 ### Was die neue Fassung dazubaut, am 29.08.
 
-**1. Die Guidance-Frage eroeffnet, und sie ist wahr.** *I asked myself the
-same question before any of this began. I could not answer it either.* **Die
-Frage war nie ein Trick** - Georgij hat sie durchgerechnet, und es gab keine
-Antwort. Regel 1 traegt die ganze Szene: **kein Wort in der Frage laesst sich
-bestreiten, und das ist etwas anderes als Hoeflichkeit.**
+**1. Die Guidance-Frage schliesst, und Georgij wartet die Antwort nicht ab.**
+*He did not wait for an answer.* **Die Frage ist der Finisher und kein
+Gespraechsangebot** - wie in Band 5, wo die Antwort der Vollzug ist. Regel 1
+traegt sie trotzdem: **kein Wort darin laesst sich bestreiten, und das ist
+etwas anderes als Hoeflichkeit.**
 
-**2. Sein Antwortversuch ist Chois drei Sekunden in lang.** Er kommt bis zum
-achtzehnten Jahrhundert und hoert sich selbst scheitern - *the eighteenth
-century was not going to sign anything back to him.* **Sein einziger Besitz
-ist seine einzige Antwort, und sie ist keine.** Und niemand hilft ihm, und
-alle lassen es laufen.
+**2. Sein Antwortversuch kommt, als niemand mehr zuhoert.** *It reached the
+eighteenth century and stopped there, because there was nobody in the room to
+hear the rest of it, and no rest of it.* **Chois drei Sekunden, in lang und
+ins Leere** - sein einziger Besitz ist seine einzige Antwort, und sie ist
+keine, und er gibt sie einem leeren Raum.
+
+**2b. Die Burnt-Zeile ist zurueck, vom Autor.** *So I burnt them to the
+ground* stand am 28.08. gestrichen, weil sie bei Choi ueberzieht. **In der
+neuen Stellung haelt sie:** zwei Saetze spaeter kalibriert *I did not do all
+of that myself. I did enough of it* die Urheberschaft exakt. **Und sie
+fuettert den Schluss:** wer verbrannt hat, darf vom groesseren Haufen
+desselben Holzes reden. **Die Feuer-Linie laeuft jetzt durch die ganze
+Rede.**
 
 **3. Die neue Klinge ist seine Entbehrlichkeit, und sie schneidet doppelt.**
 *Your incompetence never cost you anything, because nothing was ever yours to
@@ -3961,6 +3959,32 @@ dem er nichts vorzuwerfen hat.
 ---
 
 **UEBERHOLT.** Der Ersatzvorschlag darin ist ebenfalls verworfen.
+
+## Namen fuer den Erben und den Oberstaatsanwalt, vorgeschlagen am 29.08.
+
+**Vom Autor angefordert. Gegen den ganzen Kanon auf Kollisionen geprueft:**
+
+* **Frei sind: Seol, Gong, Chu, Wi** (null Treffer in 123 Kapiteln).
+* **Nicht frei: Heo** (Miss Heo, `b2 ch27:144`), **Song** (einer von Jangs
+  Leuten, `b1 ch06:138`), **Shin** (achtzehn Treffer), **Yang** (die Frau in
+  Ulsan), **Cho/Do/Ma** (frueher schon ausgeschieden).
+
+### Vorschlag Erbe: **Seol Il-hwan**
+
+**Seol** klingt alt und selten - ein Klan, der sich aufs achtzehnte
+Jahrhundert zurueckfuehrt, darf so heissen. **Il-hwan** traegt still das
+*Il* - der Erste, der aelteste Sohn. **Beide Silben ohne Kollision.** Im
+Text meist *Chairman Seol*.
+
+### Vorschlag Oberstaatsanwalt: **Gong Doo-hyun**
+
+**Gong** ist komplett frei, und es traegt eine stille Pointe: die Silbe
+heisst auch *oeffentlich* - ein Staatsdiener namens Gong. **Im Text meist
+nur der Nachname**, wie bei Sim, Jang und Yeom. Doo-hyun als voller Name,
+falls einer gebraucht wird.
+
+**Alternativen, falls eine nicht gefaellt: Chu fuer den Erben, Seol fuer den
+Staatsanwalt.** Nicht entschieden, bis der Autor waehlt.
 
 ## Der dritte Gegner: nicht die Kette in Singapur
 
