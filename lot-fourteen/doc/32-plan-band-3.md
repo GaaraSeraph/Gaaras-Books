@@ -2972,8 +2972,42 @@ beibringt, die er ohnehin kann, schrumpft er.
 
 **Also bringt Jang ihm nichts bei. Jang verweigert.** Beim ersten Befehl im
 neuen Ton sagt er nein und sagt warum. **Ein Mann, dem noch nie jemand aus
-Loyalitaet widersprochen hat**, bekommt es zum ersten Mal - und das ist der
-Unterricht, nicht ein Gespraech ueber Fuehrung.
+Loyalitaet widersprochen hat**, bekommt es zum ersten Mal.
+
+### Und woraufhin genau: die Unterwelt, nicht die Fuehrung
+
+**Am 29.08. praezisiert, und das ist enger und besser.** Jang hilft ihm
+**in den Unterweltgeschichten**: er kennt die Leute, die Gepflogenheiten, und
+**wie man sich in Gefahr begibt und wieder herauskommt.**
+
+**Georgijs eigener Anteil ist echt und reicht nicht.** Er sucht Ausgaenge, seit
+er denken kann, und er trifft den Augenblick zum Zugreifen - `b1 ch07:342`:
+*And eight hundred people **who had never in their lives had to keep an eye on
+a door.*** **Das ist Instinkt. Es ist keine Erfahrung**, und in diesem Gewerbe
+ist Instinkt ohne Erfahrung die Art, wie man einmal richtig liegt und danach
+nicht mehr.
+
+**Jangs Erfahrung steht im Text und muss nicht erfunden werden:**
+
+* `b1 ch13:40` - er liess vier Kennzeichen da und **lehnte es ab, korrekt, eine
+  Autovermietung in Mapo anzurufen.** Er weiss, was eine Spur hinterlaesst.
+* `b1 ch22:32` - er tat *the thing Jang did, which was to be **entirely visible
+  and entirely uninteresting.*** Das ist eine Faehigkeit und kein Charakterzug.
+* `b2 ch41:10` - er hat im Juni **sechzehn Tage lang** ein Fenster beobachtet
+  und die Frage beantwortet.
+
+**Was der Text ueber Jangs Herkunft NICHT sagt: alles.** Nachgesehen - kein
+Satz darueber, wo er vorher war. **Diese Luecke ist ein Geschenk**, weil sie in
+Band 5 gefuellt werden kann, ohne irgendetwas umzuschreiben.
+
+**Und es liegt eine Zeile bereit, die nie eingeloest wurde**, `b1 ch23:160`:
+
+> "I put it in again in my third week, because you do, and **she said no again
+> and did not give me a reason either time.** ... It is the only recommendation
+> of mine she has ever refused."
+
+**Annie hat Jang genau einmal etwas verweigert und nie gesagt, warum.** Was
+das war, steht nirgends.
 
 ### Hwang ist der tragende Balken, und er ist es schon einmal gewesen
 
@@ -2998,8 +3032,29 @@ nichts mit Gewalt durch. **Er setzt es damit durch, dass alles, was jemand
 tut, an einer Stelle steht, an die er nicht herankommt** - und Hwang ist diese
 Stelle.
 
+### Und die Berichtigung, ohne die die Figur falsch dasteht
+
+**Am 29.08. richtiggestellt: Hwang ist kein Pruefer von aussen. Er hat den
+Handel verwaltet.** `b2 ch07:30`: *"He was Mr Hwang then and he is Mr Hwang
+now, and in between he was **Mr Hwang at three other houses**."* `b2 ch59:178`:
+*"**I am the administrator of a house** that is going to be gone by
+Christmas."* Und `b2 ch35:340`: er wurde in ein Haus geholt, **das schon starb
+und es noch nicht wusste.**
+
+**Vier Haeuser. Er hat die Buecher von Betrieben gefuehrt, die Menschen
+verkauft haben** - und in einem davon stand Los vierzehn.
+
 **Seine Redlichkeit ist verfahrensmaessig und nicht persoenlich**, und das ist
-im ganzen Buch einmalig. Er ist nicht gut. **Er loescht nicht.**
+im ganzen Buch einmalig. **Er ist nicht gut. Er loescht nicht.**
+
+**Und genau deshalb taugt er fuer Band 5 doppelt.** Er weiss, wie diese
+Betriebe innen laufen, **weil er sie gefuehrt hat** - nicht nur, wie man ihre
+Papiere liest. Das ist Betriebswissen und nicht Buchhaltung.
+
+**Der Preis dafuer wird nicht weggeschrieben:** Georgijs Registerfuehrer ist
+ein Mann, der die Buecher von Haeusern gefuehrt hat, die Kinder verkauft
+haben. **Georgij weiss das und nimmt ihn trotzdem.** Es steht einmal da und
+wird nicht erklaert.
 
 ### Yeom, ein wenig: er kennt alle und will nichts
 
@@ -3014,9 +3069,13 @@ register at that house. You were in the building at the beginning of May
 talking to Hwang. You have been to see Byun in Seongdong."* **Er weiss, wo
 Georgij war, und er ruft an, um ihm vierhunderttausend Won zu sparen.**
 
-**Damit ist er das Eingangstor in Band 5 und muss dafuer nichts Neues
-bekommen.** Er kann sagen, wer die Gruppen sind und wer sie fuehrt. **Ein Mann
-aus dem Handel, ohne Ehrgeiz, amuesiert.**
+**Am 29.08. praezisiert: seine Verbindungen gehen in die obersten Reihen der
+Unterwelt, und ein paar Hinweise von ihm reichen.**
+
+**Damit ist er das Eingangstor und muss dafuer nichts Neues bekommen.** Er
+sagt, wer oben sitzt. **Ein Mann aus dem Handel, ohne Ehrgeiz, amuesiert** -
+und die Dosis ist klein. **Wer Yeom zur Dauerquelle macht, nimmt Georgij die
+Arbeit weg.**
 
 **Und er ist das Gegenstueck zum Hanseong-Erben, in derselben Kategorie.**
 Beide haben geerbt, beide haben nichts gebaut, beide haben nicht hingesehen.
@@ -3034,4 +3093,38 @@ das wirkt.
 
 **Keiner der drei ist neu, keiner braucht eine Einfuehrung, und alle drei sind
 schon einmal freiwillig auf seine Seite getreten.**
+
+---
+
+## Der Junge wird Bediensteter, und er lernt so, wie Georgij gelernt hat
+
+**Vom Autor am 29.08. festgelegt.** Los elf kommt als **Bediensteter** ins
+Haus, und Georgij nimmt ihn **ab und zu mit**, damit er **still lernt und
+danach fragt, wenn die Lage vorbei ist.**
+
+**Das ist keine Ausbildung, das ist eine Disziplin**, und es ist genau die,
+die einen in diesem Gewerbe am Leben haelt: **nicht dazwischenreden.** Wer im
+Raum fragt, sagt dem Raum, dass er etwas nicht verstanden hat.
+
+**Und es beantwortet die offene Frage von oben, ohne sie zu loesen.** Georgij
+lernt ihn nicht an, und er laesst ihn auch nicht unbrauchbar. **Er nimmt ihn
+mit.** Der Junge sieht, was zu sehen ist, und Georgij entscheidet jedes Mal
+neu, was er beantwortet.
+
+**Wichtig, damit es nicht ruehrend wird: die Fragen kommen hinterher, und sie
+sind gut.** Ein Junge, der zwei Jahre geschult wurde und vorher in dem Handel
+war, fragt nicht, was ein Wort bedeutet. **Er fragt, warum Georgij an einer
+Stelle nichts gesagt hat.**
+
+### Und im Haus stehen dann zwei Jungen
+
+**Yun ist Kuechenjunge seit der ersten Januarwoche** (`doc/11-figuren.md`,
+b1 K34), ein gewoehnlicher Zugang, und er sagt seit der zweiten Woche jeden
+Morgen guten Tag, **was ihm niemand gesagt hat** (`b2 ch01:22`).
+
+**Zwei Jungen im selben Haus, ungefaehr gleich alt, gleiche Arbeit. Einer
+wurde eingestellt, einer wurde gekauft.**
+
+**Niemand im Haus wird das gesagt bekommen**, und Georgij ist der Einzige, der
+beide Haelften kennt. **Es wird nirgends ausgesprochen.**
 
