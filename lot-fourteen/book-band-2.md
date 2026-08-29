@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.186 Woerter.
+Book Two, 89 Kapitel, 227.197 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -59,7 +59,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 46 | v1.4 | 2.033 |
 | 47 | v2.7 | 2.914 |
 | 48 | v1.5 | 2.112 |
-| 49 | v2.1 | 3.213 |
+| 49 | v2.2 | 3.224 |
 | 50 | v1.5 | 2.498 |
 | 51 | v1.6 | 2.778 |
 | 52 | v1.3 | 2.042 |
@@ -10639,7 +10639,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 49: Against her return
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -10655,7 +10655,7 @@ He stood up.
 
 He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had suggested when she described him. He has a face that does what he tells it to and has been doing it for so long that Georgij could not have said, in the first ten seconds, whether anything on it was chosen.
 
-"You have not eaten here before," he said. "The soup is the reason to come. I have ordered the whole of it for both of us, and coffee at the end, and you are under no obligation to touch any of it."
+"You have not eaten here before," he said. "The soup is the reason to come. I have ordered the whole of it for both of us and you are under no obligation to touch any of it."
 
 "Thank you."
 
@@ -10875,7 +10875,7 @@ He put one hand on the page and pushed it back across the table, and Georgij did
 
 Sim looked at the page for a long moment and then folded it once, along a crease it did not have, and put it in his inside pocket.
 
-The coffee came, and he drank it. He had ordered it at half past seven, when he was still a man who was going to have a pleasant evening.
+The coffee came, because it comes, and he was still sitting there. He has left before the coffee in every kitchen that remembers him, for thirty years.
 
 "What will you do," said Georgij.
 
@@ -10889,7 +10889,7 @@ The coffee came, and he drank it. He had ordered it at half past seven, when he 
 
 "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and it was not a performance either. "You are the only person I have met in thirty years who would have said so instead of telling me I would not."
 
-His own cup was empty. The other one was full, and so was the bowl beside it, and neither had been moved all evening.
+His plate was clean. Both cups were full and neither of them had been touched.
 
 At the doorway he stopped, with the folded screen beside him, and he did the thing that Georgij had written down on Friday night and had not been able to prepare for.
 
@@ -10906,6 +10906,8 @@ Georgij stood in a small room at the back of a restaurant with a cold bowl and a
 "No," said Sim. "I did not think so."
 
 He had paid at half past seven, before the meal, as he always does. The girl at the front told Georgij so on his way past, because she thought he would want to know that it was already settled.
+
+He had stopped at the kitchen on his way out, as well, and asked what had been in the soup, and had used the cook's name.
 
 ---
 
