@@ -2025,6 +2025,8 @@ He squared the page with the edge of the desk, which it did not need.
 
 "And telling us." Annie did not look up. "He was always like that."
 
+"He saw it before I did," said Georgij. "The only thing I ever wanted was to be yours." He was still holding the page and had stopped looking at it. "I never imagined anything else."
+
 **Was daran gebaut ist:**
 
 **Er liest ein Dokument und sagt, was es tut.** Das ist sein Verfahren, seit
@@ -2042,6 +2044,39 @@ vierhunderteins Repliken null, Annie seit `b1 ch15` keine.
 
 **Und *He was always like that* ist der ganze Nachruf.** Vier Woerter,
 freundlich, und sie sagen zugleich, dass sie es kommen sah.
+
+#### Und das Eingestaendnis danach, vom Autor am 29.08. ergaenzt
+
+**Vorgabe:** *he saw it way before I did. The only thing I wanted was to be
+yours. I never imagined anything else.*
+
+**Drei Sachen daran, und alle drei sind der Grund, warum es an dieser Stelle
+steht und nirgends sonst:**
+
+**1. Es steht im Praeteritum, und das ist bitter.** *The only thing I **ever
+wanted** was to be yours.* **Der Titel ist zu diesem Zeitpunkt schon
+abgeschafft** - die Sang-hoon-Szene liegt in der Mitte des Bandes, und dort
+sagt sie *"You cannot say that any more."* **Er sagt also, was er wollte, in
+dem Moment, in dem er es nicht mehr sein kann.**
+
+**2. *He saw it before I did* ist keine Hoeflichkeit, sondern eine
+Feststellung ueber die eigene Blindheit.** Ein Mann, der alles vorausrechnet,
+gibt zu, dass ein Achtzigjaehriger weiter gesehen hat. **Und `b2 ch82:246`
+sagt, dass Woo die beiden seit Oktober jedes Mal als Paar adressiert hat.
+Woo hat es wirklich frueher gesehen.**
+
+**3. Und *I never imagined anything else* ist die genaueste Zeile ueber diese
+Figur, die es gibt.** `b1 ch24:168`: *He had wanted things at nine years old
+and had stopped.* **Wer aufgehoert hat, sich Sachen vorzustellen, hat sich
+auch keine Zukunft vorgestellt** - und das Testament ist das erste Dokument
+in seinem Leben, das eine voraussetzt.
+
+**Kein *way before*.** Das ist ein anderes Register; das Buch sagt *before I
+did*.
+
+**Der Beat sitzt in seinem eigenen Block** - *He was still holding the page
+and had stopped looking at it* - **weil zwischen ihm und Annie keiner
+hingehoert und weil ein Mann, der alles liest, hier aufhoert zu lesen.**
 
 ---
 
@@ -2065,7 +2100,7 @@ sich denkt, und sagt dazu, dass er es sich denkt.**
 
 Annie waited.
 
-"He never wrote that down anywhere and I am not going to pretend he did." Georgij did not decorate any of it. "I would like to respect it anyway."
+"He never wrote that down anywhere and I am not going to pretend he did." He put both hands behind his back. "He was my friend. I would like to respect it anyway."
 
 **Was daran gebaut ist:**
 
@@ -2088,6 +2123,28 @@ abbrechen. **Sie tut es nicht, und das ist die Antwort.**
 **Und sie sagt zu dem Vorschlag nichts.** Der ganze Konzern haengt an
 Logistik, sie koennte es sich nehmen, und sie laesst es. **Ein Nein von ihr
 waere kleiner als ihr Schweigen.**
+
+#### Das Wort *friend*, vom Autor am 29.08. verlangt
+
+**Es steht jetzt drin, und zwar allein: *He was my friend.***
+
+**Ich hatte die staerkere Fassung im Kopf und lasse sie weg, und der Grund
+ist eine Regel.** Sie waere gewesen: *He was my friend, and I had two.*
+**Vergangenheit auf *had*, weil jetzt einer uebrig ist** - und die Zahl steht
+seit der Sang-hoon-Szene bereit: *"Two men in this country who own a great
+deal consider you a friend."*
+
+**Aber Regel 3 sagt, dass er ueber sich selbst keine Zahlen nennt.** Ob eine
+Freundeszahl darunter faellt, ist Auslegung. **Und sie muss gar nicht
+ausgelegt werden, weil der Leser die Zahl schon hat - von ihr.**
+
+**Sie hat gezaehlt. Er sagt nur, dass einer davon tot ist, und der Leser
+rechnet.** Das ist in jedem Fall besser, als es selbst auszusprechen.
+
+**Und der Beat ist gewechselt.** *He put both hands behind his back* statt
+*did not decorate any of it* - **die foermliche Haltung, weil er sie hier um
+etwas bittet, das ihr gehoert** (`b1 ch03:240`, `b2 ch19:166` und weitere:
+es ist seine Haltung fuer Bitten nach oben).
 
 ---
 
