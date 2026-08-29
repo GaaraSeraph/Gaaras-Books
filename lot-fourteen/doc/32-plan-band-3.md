@@ -1673,11 +1673,51 @@ and it is the one thing this year that he has not written down.*
 **Die wahre Fassung ist schlimmer als die Prahlerei**, und sie ist jetzt
 schmaler begruendet und dadurch schaerfer.
 
-### Der Text
+### Der Text, ganz. Geschrieben am 29.08., nachdem der Charakter stand
 
-"There was a woman in Ulsan with four trucks, and I took the firm off her myself," said Georgij. "There was an auction house that had been on that river for thirty years. I told one of its buyers what was still in her copy of the catalogue. That is the whole of what I did to it, and there is nothing left of it now."
+**Die alte Fassung war eine Rede an eine Rolle. Diese ist an den Mann**, der
+inzwischen feststeht: vier Generationen, die ersten drei konnten es, er hat
+nie etwas gebaut, seine Inkompetenz war folgenlos, weil das Haus sich selbst
+fuehrte - **und genau das hat ihn erledigt.** Die Kernstuecke der alten
+Fassung stehen woertlich darin.
 
-[Beat. Der Raum steht noch nicht, also steht hier auch der Beat noch nicht.]
+**Sie ist der Finisher.** Hanseong ist gefallen, die Geschwister haben
+verkauft, die rechte Hand ist fort, der Oberstaatsanwalt ist fort und wird
+mit keinem Wort erwaehnt.
+
+---
+
+The last of the profitable companies went on a Tuesday morning, in a room with a long table, with four lawyers and two directors in it.
+
+The last signature took four seconds and the pen was his own.
+
+Georgij stood at the end of the room where he stands, and nobody had asked him anything, and nobody had asked for two years why he was ever in the rooms he was in.
+
+When the folders were closed, he spoke.
+
+"Please guide me," said Georgij. "How does an incompetent man, arrogant on the strength of things he never built and was only born in, save the legacy he is so proud of?"
+
+He asked it with the mark on the end of it, and there was not one word in it that could be argued with, and that is a different thing from being polite.
+
+The lawyers had stopped pretending to pack.
+
+---
+
+The chairman of what was left began an answer.
+
+It reached the eighteenth century and stopped there, because the eighteenth century was not going to sign anything back to him, and he heard that himself while he was saying it.
+
+Nobody helped him.
+
+It went on for much longer than three seconds, and everybody in the room let it.
+
+---
+
+"I asked myself the same question before any of this began," said Georgij. "I could not answer it either. I want that said, because you are going to spend years deciding I tricked you, and it will be easier for you than the other version."
+
+He did not move from the end of the room.
+
+"There was a woman in Ulsan with four trucks, and I took the firm off her myself. There was an auction house that had been on that river for thirty years. I told one of its buyers what was still in her copy of the catalogue. That is the whole of what I did to it, and there is nothing left of it now."
 
 "And there was a man who used to be a prosecutor. He decided for twenty-five years which men in this country sat down to dinner together, and eleven of them lost something afterwards, and none of them has ever been told why. Nobody has seen him since April."
 
@@ -1687,13 +1727,29 @@ Georgij did not raise his voice anywhere in it.
 
 "I did not do all of that myself. I did enough of it."
 
-[Beat.]
+---
 
-"It was never said out loud and it did not have to be. There is no version of the last two years in which you did not understand it." He did not move from where he was standing. "You understood it and you decided it was not about you, because nobody touches a chaebol."
+"It was never said out loud and it did not have to be. There is no version of the last two years in which you did not understand it." He kept his hands at his sides. "You understood it and you decided it was not about you, because nobody touches a chaebol."
 
-[Beat.]
+---
+
+"Your grandfather could have told me what was behind every door in this building. Your father could have told me most of it. You gave me the eighteenth century just now, and the eighteenth century does not own anything."
+
+The man at the head of the table did not move.
+
+"A group of this size runs itself. The managers manage, the directors direct, and the man at the top can be anything at all, because the building does not need him." Georgij said it evenly, the way a man reads a clause. "That is what protected you. Your incompetence never cost you anything, because nothing was ever yours to lose by it."
+
+"And it is what ended you. The same thing that made your incompetence free of consequence made your consent unnecessary." He did not soften any of it. "Nobody asked you on the way up. Nobody had to ask you on the way down. Your brothers and sisters sold, and the first you knew of it was the paper."
+
+---
 
 "You were not an exception. You were a bigger pile of the same wood, and a bigger pile takes longer."
+
+---
+
+Georgij left, and the two directors left behind him, and then the lawyers.
+
+The chairman of what was left stayed at the head of a long table, in a building that still had his name on the outside, and on very little else.
 
 ### Was daran haengt
 
@@ -1720,6 +1776,45 @@ Zeile, *and none of them know why it happened to them.*
 **Und *"I did enough of it"* haelt weiterhin alle drei**, ohne eine einzige
 Ueberdehnung: die Firma hat er selbst genommen, das Haus hat er angestossen,
 und beim dritten war es ein Telefonat, das er nicht gefuehrt hat.
+
+### Was die neue Fassung dazubaut, am 29.08.
+
+**1. Die Guidance-Frage eroeffnet, und sie ist wahr.** *I asked myself the
+same question before any of this began. I could not answer it either.* **Die
+Frage war nie ein Trick** - Georgij hat sie durchgerechnet, und es gab keine
+Antwort. Regel 1 traegt die ganze Szene: **kein Wort in der Frage laesst sich
+bestreiten, und das ist etwas anderes als Hoeflichkeit.**
+
+**2. Sein Antwortversuch ist Chois drei Sekunden in lang.** Er kommt bis zum
+achtzehnten Jahrhundert und hoert sich selbst scheitern - *the eighteenth
+century was not going to sign anything back to him.* **Sein einziger Besitz
+ist seine einzige Antwort, und sie ist keine.** Und niemand hilft ihm, und
+alle lassen es laufen.
+
+**3. Die neue Klinge ist seine Entbehrlichkeit, und sie schneidet doppelt.**
+*Your incompetence never cost you anything, because nothing was ever yours to
+lose by it* - das Haus fuehrte sich selbst, also war seine Unfaehigkeit
+folgenlos. **Und derselbe Umstand hat ihn erledigt:** *The same thing that
+made your incompetence free of consequence made your consent unnecessary.*
+**Niemand hat ihn auf dem Weg nach oben gefragt, und niemand musste ihn auf
+dem Weg nach unten fragen.** Die Geschwister haben verkauft, und er hat es
+aus dem Papier erfahren.
+
+**4. Der Vergleich mit den Vorfahren ist praezise und nicht hoehnisch.**
+Grossvater haette jede Tuer erklaeren koennen, Vater die meisten, **er gibt
+das achtzehnte Jahrhundert - und das achtzehnte Jahrhundert besitzt nichts.**
+
+**5. Der Oberstaatsanwalt kommt nicht vor**, und der Raum weiss es trotzdem.
+
+**6. Und das Schlussbild ist die Festlegung 4 als Satz:** ein Mann am Kopf
+eines langen Tisches, in einem Gebaeude, das noch seinen Namen an der
+Aussenseite traegt, **und auf sehr wenig sonst.** Die Tuerschilder kommen in
+Band 4.
+
+**7. *I want that said, because you are going to spend years deciding I
+tricked you*** - Georgij nimmt ihm die bequeme Version weg, **bevor er sie
+sich bauen kann.** Es ist dieselbe Geste wie bei Sim (*You were answered
+before you had a question*): die Wahrheit als das Einzige, was er gibt.
 
 ## Die Bitte um Fuehrung geht in diesem Band an den Hanseong-Inhaber
 
