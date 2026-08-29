@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 19 Dokumente am Stueck plus das Begegnungsregister. 275.177 Woerter.
+Alle 19 Dokumente am Stueck plus das Begegnungsregister. 275.925 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -359,12 +359,18 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wer, und alle vier stehen schon im Buch](#wer-und-alle-vier-stehen-schon-im-buch)
   - [Und die Stelle, die niemand ausspricht](#und-die-stelle-die-niemand-ausspricht)
   - [Und im Haus stehen dann zwei Jungen](#und-im-haus-stehen-dann-zwei-jungen)
+  - [Also fragt man ihn nach seinem eigenen Haus](#also-fragt-man-ihn-nach-seinem-eigenen-haus)
+  - [Und die Rede sitzt danach](#und-die-rede-sitzt-danach)
 - [Plan, Band 4](#plan-band-4)  ·  `doc/33-plan-band-4.md`
   - [Die vier Sachen, die das braucht](#die-vier-sachen-die-das-braucht)
   - [Und die Vorlage steht schon im Buch](#und-die-vorlage-steht-schon-im-buch)
   - [Die drei Stellen](#die-drei-stellen)
   - [Es muss also nichts gepflanzt werden](#es-muss-also-nichts-gepflanzt-werden)
   - [Und die Zeile, die Band 4 daraus bekommt](#und-die-zeile-die-band-4-daraus-bekommt)
+  - [1. Hier lernt er fuehren, und das ist die Voraussetzung fuer Band 6](#1-hier-lernt-er-fuehren-und-das-ist-die-voraussetzung-fuer-band-6)
+  - [2. Woos Tod kann hier liegen](#2-woos-tod-kann-hier-liegen)
+  - [3. Nach dem Ring wird die Naehe oeffentlich](#3-nach-dem-ring-wird-die-naehe-oeffentlich)
+  - [Und was Band 4 NICHT mehr enthaelt](#und-was-band-4-nicht-mehr-enthaelt)
 - [Plan, Band 5](#plan-band-5)  ·  `doc/34-plan-band-5.md`
   - [1. Band 5 waere sonst aus lauter Uebergaengen gebaut](#1-band-5-waere-sonst-aus-lauter-uebergaengen-gebaut)
   - [2. Regel 2 bricht in Stufen, und das ist der Sinn der Sache](#2-regel-2-bricht-in-stufen-und-das-ist-der-sinn-der-sache)
@@ -17183,12 +17189,15 @@ sitzen: **in den Zwischengesellschaften, die niemand liest.**
 
 **Am 28.08. nachgezaehlt.**
 
-**1. Nam Byung-hees Firma.** `b2 ch87:254`: *"I want my firm. I am not going
-to get it, and there is nobody in this house who can give it to me, **and I
-would not take it from her if she offered**."* **Band 4 ist der einzige Ort,
-an dem das beantwortet werden kann**, weil dort nichts aus diesem Haus
-verschenkt wird, sondern Betriebe wieder aufgebaut werden. Ihre Bedingung ist
-woertlich, dass sie es nicht **von ihr** nimmt.
+**1. Nam Byung-hees Firma: VERWORFEN am 29.08.** Ich hatte vorgeschlagen, sie
+in Band 4 zurueckzubekommen. **Der Autor hat es abgelehnt, und der Plan zu
+Nam steht ohnehin anders:** sie geht zu Chairman Woo, sie erfaehrt nie, woher
+es kommt, und wenn Woo Anteile hinterlaesst, arbeitet sie fuer Georgij, ohne
+es zu wissen.
+
+**Ihre Zeile bleibt damit unbeantwortet, und das ist die Absicht.**
+`b2 ch87:254`: *"I want my firm. I am not going to get it."* **Sie hat
+recht.**
 
 **2. Die achtundfuenfzig Hochzeitsgaeste.** Moon Hae-sooks einziger Wunsch
 (`b2 ch67:238`) ist als **OFFEN** im Schuldbuch verzeichnet, faellig bei jedem
@@ -18490,6 +18499,59 @@ beide Haelften kennt. **Es wird nirgends ausgesprochen.**
 
 ---
 
+## Die Achse des Hanseong-Inhabers steht, und ich hatte sie nicht
+   zusammengesetzt
+
+**Am 29.08. festgestellt: die Frage ist beantwortet, ich habe sie nur weiter
+als offen gefuehrt.**
+
+**Die Bauanweisung lautete:** worauf ist dieser Mann stolz, das er koennen
+muss, und wie stellt man ihm genau das als Bitte hin, sodass er es vor Zeugen
+nicht kann.
+
+**Und die Antwort steht seit dem 28. und 29.08. fest, in drei Stuecken:**
+
+* **Vier Generationen, und die ersten drei konnten es.**
+* **Die Familie fuehrt sich auf das achtzehnte Jahrhundert zurueck.**
+* **Er hat nie etwas gebaut und ist aeltester Sohn.**
+
+**Sein Stand ruht also nicht auf Koennen, sondern auf Herkunft.** Das ist die
+Achse, und sie ist die genaue Entsprechung zu Choi: **dessen Stand ruhte
+darauf, ueber jeden Auskunft geben zu koennen, und er hatte drei Sekunden lang
+keinen Namen** (`b2 ch86:90`).
+
+### Also fragt man ihn nach seinem eigenen Haus
+
+**Ein Mann, der aus vier Generationen besteht, muss ueber vier Generationen
+Auskunft geben koennen.** Er kann es nicht, **weil er nie hingesehen hat** -
+dasselbe, was Yeom nachgesagt wird, nur bei ihm mit Duenkel obendrauf.
+
+**Zwei Formen, und beide sind hoeflich:**
+
+**A. Die kleine.** Eine Bitte um Fuehrung zu etwas, das sein Grossvater
+entschieden hat, vor Leuten, die dabei waren. **Er antwortet, weil er zu
+hochmuetig ist zu schweigen, und er antwortet falsch**, und alle im Raum
+wissen es und keiner sagt es.
+
+**B. Die grosse, und sie haengt am Registerzug.** Eine Bitte um Fuehrung zum
+achtzehnten Jahrhundert. **Er antwortet mit der Legende. Georgij hat die
+Seite.**
+
+**B nur, wenn die Seite wirklich existiert** - Regel 1 laesst nichts anderes
+zu, und ohne Fundstelle unterbleibt der Zug.
+
+### Und die Rede sitzt danach
+
+**Erst die Frage, die ihn vor Zeugen leer aussehen laesst. Dann der Satz mit
+dem Brennholz.** Ein Mann, der gerade nicht sagen konnte, was sein Grossvater
+gebaut hat, bekommt gesagt, dass er ein groesserer Haufen desselben Holzes
+ist.
+
+**Damit ist die erste offene Frage von Band 3 geschlossen.** Offen bleiben:
+der dritte Gegner, die Namen (tote Bank, Bunkering, Tochter), und Woos Frau.
+
+---
+
 # Plan, Band 4
 
 **Die Sanierung, der Werkseintritt, der Verlobungsring.** Herausgeloest am
@@ -18563,12 +18625,27 @@ im Abwicklungsbuero, die eine Haelfte bekommt und die Entscheidung behaelt.
 
 **Am 28.08. gefragt.**
 
-**1. Band 4 kann ohne es nicht stattfinden.** Ein Mann geht als kleiner
-Angestellter in ein Werk und redet mit allen. **Er kann das nicht mit einem
-Halsband tun.** Also entweder es kommt vorher ab - und das ist das Ereignis,
-das zwei Baende lang vermieden wurde -, oder Band 4 muss erklaeren, warum
-niemand in dieser Firma etwas dazu sagt. **Das ist keine Randfrage, das ist
-die Eintrittskarte.**
+**1. Berichtigt am 29.08.: nein, es muss nicht gesehen werden.** Ich hatte
+geschrieben, Band 4 koenne ohne diese Szene nicht stattfinden. **Das war zu
+stark, und der Autor hat zu Recht nachgefragt.**
+
+**Unter einem hochgeschlossenen Kragen ist es unsichtbar**, und in einem
+koreanischen Buero im Winter faellt ein hoher Kragen niemandem auf. **Ein Mann
+in der Infrastruktur zieht sich nirgends um.** Er sitzt an einem Platz, geht
+in Serverraeume und redet mit Leuten. **Es gibt keine Umkleide in diesem
+Beruf.**
+
+**Also ist die Entdeckung eine Wahl und kein Zwang.** Wer sie will, baut die
+Gelegenheit; wer sie nicht will, braucht nichts zu erklaeren - das Ding hat
+zwei Baende lang unter Hemden gelegen, ohne dass es jemand ausserhalb des
+Hauses bemerkt hat.
+
+**Und tauschen sollte man es nicht.** Ein Schmuckstueck, das aussieht wie ein
+Halsband, waere ein Kostuem. **Der Gegenstand ist Stahl** (`b1 ch17:172`:
+*Beneath the linen at his throat there was **a band of steel***), und die
+ganze Bedeutung haengt daran, dass er echt ist und seit dem 19. Februar keine
+Grundlage mehr hat. **Ein Accessoire kann man ablegen. Genau das ist der
+Unterschied.**
 
 **2. Es hat seit dem 19. Februar keine Grundlage.** Die Zeile im Register ist
 gestrichen. Er traegt etwas, das sagt, er sei Eigentum, **und es gibt kein
@@ -18632,6 +18709,48 @@ Jahre lang nicht gefragt.** Und das Buch hat den Vergleich schon gebaut,
 the answer to**.*
 
 **Das war der Junge. Der Ring ist der zweite, und der wartet noch.**
+
+---
+
+## Was Band 4 sonst noch traegt, nachgetragen am 29.08.
+
+**Beim Durchgang durch zwei Tage Gespraech gefunden: drei Festlegungen lagen
+in anderen Dateien oder gar nicht.**
+
+### 1. Hier lernt er fuehren, und das ist die Voraussetzung fuer Band 6
+
+**Vom Autor gesagt und von mir nicht aufgeschrieben.** In Band 6 uebernimmt er
+Annies Konzern, und die Frage, ob er das kann, wird **hier** beantwortet.
+
+**Er hat noch nie jemanden gefuehrt.** In elf Haeusern wurde Fuehrung an ihm
+geuebt und nicht mit ihm. **Eine Sanierungsrunde ueber mehrere Betriebe ist
+die einzige Schule dafuer, die dieses Buch anbieten kann** - und er geht sie
+von unten durch, was besser ist als jede Beforderung.
+
+**Damit hat Band 4 zwei Ausgaenge und nicht einen:** der Ring, und ein Mann,
+der weiss, wie man Leute dazu bringt, etwas zu tun, ohne ihnen zu drohen.
+
+### 2. Woos Tod kann hier liegen
+
+**Entschieden ist: Ende Band 3 oder in Band 4** (`doc/32-plan-band-3.md`,
+*Woo vererbt*). Faellt er hierher, dann faellt er **in die Sanierung hinein**
+- ein Mann lernt gerade, einen Betrieb zu halten, und erbt einen.
+
+**Die drei Briefe kommen dann hier an**, und der an Georgij ist die Fuehrung,
+um die er in seinen ersten vierzehn Tagen gebeten hat.
+
+### 3. Nach dem Ring wird die Naehe oeffentlich
+
+**Steht in `doc/10-naehe.md`, gehoert aber hierher gemerkt:** die Regel *niemand
+verliert je ein Wort darueber* endet mit dem Verlobungsring am Bandschluss.
+**Ab da naehern sie sich auch, wo man es sieht.**
+
+**Das ist die letzte Zeile des Bandes und nicht eine Szene darin.**
+
+### Und was Band 4 NICHT mehr enthaelt
+
+**Nam Byung-hees Firma.** Am 29.08. verworfen. Sie bekommt sie nicht zurueck,
+und ihre Zeile aus `b2 ch87:254` bleibt unbeantwortet stehen.
 
 ---
 

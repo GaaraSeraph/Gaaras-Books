@@ -71,12 +71,27 @@ im Abwicklungsbuero, die eine Haelfte bekommt und die Entscheidung behaelt.
 
 **Am 28.08. gefragt.**
 
-**1. Band 4 kann ohne es nicht stattfinden.** Ein Mann geht als kleiner
-Angestellter in ein Werk und redet mit allen. **Er kann das nicht mit einem
-Halsband tun.** Also entweder es kommt vorher ab - und das ist das Ereignis,
-das zwei Baende lang vermieden wurde -, oder Band 4 muss erklaeren, warum
-niemand in dieser Firma etwas dazu sagt. **Das ist keine Randfrage, das ist
-die Eintrittskarte.**
+**1. Berichtigt am 29.08.: nein, es muss nicht gesehen werden.** Ich hatte
+geschrieben, Band 4 koenne ohne diese Szene nicht stattfinden. **Das war zu
+stark, und der Autor hat zu Recht nachgefragt.**
+
+**Unter einem hochgeschlossenen Kragen ist es unsichtbar**, und in einem
+koreanischen Buero im Winter faellt ein hoher Kragen niemandem auf. **Ein Mann
+in der Infrastruktur zieht sich nirgends um.** Er sitzt an einem Platz, geht
+in Serverraeume und redet mit Leuten. **Es gibt keine Umkleide in diesem
+Beruf.**
+
+**Also ist die Entdeckung eine Wahl und kein Zwang.** Wer sie will, baut die
+Gelegenheit; wer sie nicht will, braucht nichts zu erklaeren - das Ding hat
+zwei Baende lang unter Hemden gelegen, ohne dass es jemand ausserhalb des
+Hauses bemerkt hat.
+
+**Und tauschen sollte man es nicht.** Ein Schmuckstueck, das aussieht wie ein
+Halsband, waere ein Kostuem. **Der Gegenstand ist Stahl** (`b1 ch17:172`:
+*Beneath the linen at his throat there was **a band of steel***), und die
+ganze Bedeutung haengt daran, dass er echt ist und seit dem 19. Februar keine
+Grundlage mehr hat. **Ein Accessoire kann man ablegen. Genau das ist der
+Unterschied.**
 
 **2. Es hat seit dem 19. Februar keine Grundlage.** Die Zeile im Register ist
 gestrichen. Er traegt etwas, das sagt, er sei Eigentum, **und es gibt kein
@@ -140,3 +155,46 @@ Jahre lang nicht gefragt.** Und das Buch hat den Vergleich schon gebaut,
 the answer to**.*
 
 **Das war der Junge. Der Ring ist der zweite, und der wartet noch.**
+
+---
+
+## Was Band 4 sonst noch traegt, nachgetragen am 29.08.
+
+**Beim Durchgang durch zwei Tage Gespraech gefunden: drei Festlegungen lagen
+in anderen Dateien oder gar nicht.**
+
+### 1. Hier lernt er fuehren, und das ist die Voraussetzung fuer Band 6
+
+**Vom Autor gesagt und von mir nicht aufgeschrieben.** In Band 6 uebernimmt er
+Annies Konzern, und die Frage, ob er das kann, wird **hier** beantwortet.
+
+**Er hat noch nie jemanden gefuehrt.** In elf Haeusern wurde Fuehrung an ihm
+geuebt und nicht mit ihm. **Eine Sanierungsrunde ueber mehrere Betriebe ist
+die einzige Schule dafuer, die dieses Buch anbieten kann** - und er geht sie
+von unten durch, was besser ist als jede Beforderung.
+
+**Damit hat Band 4 zwei Ausgaenge und nicht einen:** der Ring, und ein Mann,
+der weiss, wie man Leute dazu bringt, etwas zu tun, ohne ihnen zu drohen.
+
+### 2. Woos Tod kann hier liegen
+
+**Entschieden ist: Ende Band 3 oder in Band 4** (`doc/32-plan-band-3.md`,
+*Woo vererbt*). Faellt er hierher, dann faellt er **in die Sanierung hinein**
+- ein Mann lernt gerade, einen Betrieb zu halten, und erbt einen.
+
+**Die drei Briefe kommen dann hier an**, und der an Georgij ist die Fuehrung,
+um die er in seinen ersten vierzehn Tagen gebeten hat.
+
+### 3. Nach dem Ring wird die Naehe oeffentlich
+
+**Steht in `doc/10-naehe.md`, gehoert aber hierher gemerkt:** die Regel *niemand
+verliert je ein Wort darueber* endet mit dem Verlobungsring am Bandschluss.
+**Ab da naehern sie sich auch, wo man es sieht.**
+
+**Das ist die letzte Zeile des Bandes und nicht eine Szene darin.**
+
+### Und was Band 4 NICHT mehr enthaelt
+
+**Nam Byung-hees Firma.** Am 29.08. verworfen. Sie bekommt sie nicht zurueck,
+und ihre Zeile aus `b2 ch87:254` bleibt unbeantwortet stehen.
+

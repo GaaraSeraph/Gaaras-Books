@@ -1253,12 +1253,15 @@ sitzen: **in den Zwischengesellschaften, die niemand liest.**
 
 **Am 28.08. nachgezaehlt.**
 
-**1. Nam Byung-hees Firma.** `b2 ch87:254`: *"I want my firm. I am not going
-to get it, and there is nobody in this house who can give it to me, **and I
-would not take it from her if she offered**."* **Band 4 ist der einzige Ort,
-an dem das beantwortet werden kann**, weil dort nichts aus diesem Haus
-verschenkt wird, sondern Betriebe wieder aufgebaut werden. Ihre Bedingung ist
-woertlich, dass sie es nicht **von ihr** nimmt.
+**1. Nam Byung-hees Firma: VERWORFEN am 29.08.** Ich hatte vorgeschlagen, sie
+in Band 4 zurueckzubekommen. **Der Autor hat es abgelehnt, und der Plan zu
+Nam steht ohnehin anders:** sie geht zu Chairman Woo, sie erfaehrt nie, woher
+es kommt, und wenn Woo Anteile hinterlaesst, arbeitet sie fuer Georgij, ohne
+es zu wissen.
+
+**Ihre Zeile bleibt damit unbeantwortet, und das ist die Absicht.**
+`b2 ch87:254`: *"I want my firm. I am not going to get it."* **Sie hat
+recht.**
 
 **2. Die achtundfuenfzig Hochzeitsgaeste.** Moon Hae-sooks einziger Wunsch
 (`b2 ch67:238`) ist als **OFFEN** im Schuldbuch verzeichnet, faellig bei jedem
@@ -2557,3 +2560,57 @@ wurde eingestellt, einer wurde gekauft.**
 
 **Niemand im Haus wird das gesagt bekommen**, und Georgij ist der Einzige, der
 beide Haelften kennt. **Es wird nirgends ausgesprochen.**
+
+---
+
+## Die Achse des Hanseong-Inhabers steht, und ich hatte sie nicht
+   zusammengesetzt
+
+**Am 29.08. festgestellt: die Frage ist beantwortet, ich habe sie nur weiter
+als offen gefuehrt.**
+
+**Die Bauanweisung lautete:** worauf ist dieser Mann stolz, das er koennen
+muss, und wie stellt man ihm genau das als Bitte hin, sodass er es vor Zeugen
+nicht kann.
+
+**Und die Antwort steht seit dem 28. und 29.08. fest, in drei Stuecken:**
+
+* **Vier Generationen, und die ersten drei konnten es.**
+* **Die Familie fuehrt sich auf das achtzehnte Jahrhundert zurueck.**
+* **Er hat nie etwas gebaut und ist aeltester Sohn.**
+
+**Sein Stand ruht also nicht auf Koennen, sondern auf Herkunft.** Das ist die
+Achse, und sie ist die genaue Entsprechung zu Choi: **dessen Stand ruhte
+darauf, ueber jeden Auskunft geben zu koennen, und er hatte drei Sekunden lang
+keinen Namen** (`b2 ch86:90`).
+
+### Also fragt man ihn nach seinem eigenen Haus
+
+**Ein Mann, der aus vier Generationen besteht, muss ueber vier Generationen
+Auskunft geben koennen.** Er kann es nicht, **weil er nie hingesehen hat** -
+dasselbe, was Yeom nachgesagt wird, nur bei ihm mit Duenkel obendrauf.
+
+**Zwei Formen, und beide sind hoeflich:**
+
+**A. Die kleine.** Eine Bitte um Fuehrung zu etwas, das sein Grossvater
+entschieden hat, vor Leuten, die dabei waren. **Er antwortet, weil er zu
+hochmuetig ist zu schweigen, und er antwortet falsch**, und alle im Raum
+wissen es und keiner sagt es.
+
+**B. Die grosse, und sie haengt am Registerzug.** Eine Bitte um Fuehrung zum
+achtzehnten Jahrhundert. **Er antwortet mit der Legende. Georgij hat die
+Seite.**
+
+**B nur, wenn die Seite wirklich existiert** - Regel 1 laesst nichts anderes
+zu, und ohne Fundstelle unterbleibt der Zug.
+
+### Und die Rede sitzt danach
+
+**Erst die Frage, die ihn vor Zeugen leer aussehen laesst. Dann der Satz mit
+dem Brennholz.** Ein Mann, der gerade nicht sagen konnte, was sein Grossvater
+gebaut hat, bekommt gesagt, dass er ein groesserer Haufen desselben Holzes
+ist.
+
+**Damit ist die erste offene Frage von Band 3 geschlossen.** Offen bleiben:
+der dritte Gegner, die Namen (tote Bank, Bunkering, Tochter), und Woos Frau.
+
