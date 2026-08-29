@@ -3239,6 +3239,112 @@ allein stehen.**
 Yeom aus, dass es kein anderes Wort gibt. Dann, zu Hause, gibt Georgij zu,
 was er ohnehin nicht mehr verstecken kann.
 
+### Die Szene, ganz. Geschrieben am 29.08.
+
+**Platzierung: nach der Sang-hoon-Szene, vor dem Fall von Hanseong.** Drei
+Gruende:
+
+1. **Die Zaehlung muss steigen.** Erst *"Two men in this country"* in der
+   Bandmitte, dann der dritte - andersherum ist die Sang-hoon-Zeile falsch.
+2. **Das Bandende ist voll.** Fall, Kuss, Tod, Umschlaege, Beisetzung - dort
+   ist kein Platz fuer eine ruhige Szene, und diese Szene ist eine ruhige.
+3. **Yeoms Fachwissen darf den Feldzug noch speisen.** Er ist der einzige
+   Mann im Buch, der leere Firmen von innen kennt, und Hanseong haengt an
+   Zwischengesellschaften. **Die Freundschaft haengt trotzdem nicht daran** -
+   der Satz handelt von den Mappen, und die sind laengst Vergangenheit.
+
+**Als Funktion: die letzte ruhige Szene, bevor das Endspiel beginnt.** Der
+Haus-Beat am selben Abend.
+
+#### Der Text
+
+Mr Yeom was on the third floor, in the same room, at the same table, and there were two cups on it before Georgij had knocked.
+
+"You want to ask me about companies with nobody in them," said Mr Yeom. "You are taking apart a group that is held together by that kind of company, and I have spent my life inside the kind of company that does not exist."
+
+"Yes."
+
+"Then ask. And when you have finished I have something of my own to say, and you are going to stay in that chair for it."
+
+---
+
+He answered for about forty minutes, in order, and he did not once ask why Georgij wanted any of it, and both of them noticed that he did not.
+
+---
+
+Then he refilled both cups, which nobody had asked him to do.
+
+"Now mine," said Mr Yeom. "You never asked me why I read those folders. Four years of them, August to the new year, in a cupboard in a house in the suburbs. And then two pages in my own hand, posted from a box that is not near my house."
+
+"I did not ask because you would have had to decide what to answer."
+
+"I know your rule. I have watched you keep it in this room twice." Mr Yeom put his hands flat on either side of his cup. "I am going to answer it anyway, because I have done the arithmetic and it does not come out."
+
+---
+
+"I have spent my life being paid to know things. I know the going rate for every kind of knowing there is. Somebody pays, or somebody owes, or somebody is afraid, and the rate follows from which one it is."
+
+He was entirely comfortable about all of it.
+
+"There is no rate for what I did with those folders. Nobody paid. Nobody owed. Nobody in that house was afraid of me, which at my age is a novelty in itself."
+
+Georgij did not move.
+
+"A man does unpaid work for a friend," said Mr Yeom. "I looked it up. There is no other word."
+
+---
+
+Georgij did not say it back.
+
+Mr Yeom watched him not say it, and then he did the thing with his mouth that is not the front-desk smile.
+
+"Good," he said. "If you had said it back inside a minute, I would have taken it off the table. I have spent thirty years learning what a returned compliment is worth, and it is the same everywhere, and it is nothing."
+
+"I know."
+
+"I know you know. It is why the word holds." He stood up, and took both cups, and put them where they go. "Come again when there is nothing to take apart. I would like to find out what you are like when you are not working, and I suspect the answer is that nobody has ever seen it."
+
+---
+
+He told her in the evening, in the library, in four sentences.
+
+Then he said the thing he had not planned to say.
+
+"I like him," said Georgij, and heard himself say it, because he does not say that about people who are alive.
+
+"I know you do." Annie did not look up from the page. "I like him too."
+
+#### Was daran gebaut ist
+
+**Die zwei Tassen vor dem Klopfen** sind Yeoms Register seit `b2 ch23:120`:
+er weiss vorher, wer kommt, und er sagt es nicht, er zeigt es.
+
+**Die vierzig Minuten ohne eine einzige Warum-Frage** sind die Leistung. Ein
+Mann, dessen Beruf das Wissen ist, verzichtet auf die einzige Frage, die ihn
+etwas kosten koennte - **und beide bemerken es**, was die Freundschaft schon
+enthaelt, bevor das Wort faellt.
+
+**Das Nicht-Zurueckgeben ist die Pruefung, und sie ist die dritte.** In
+`b2 ch50:252` wollte Yeom hoeren, ob Georgij etwas zugibt. **Hier prueft er,
+ob er NICHT reflexhaft erwidert** - ein zurueckgegebenes Kompliment ist
+nichts wert, und beide Maenner wissen das aus demselben Gewerbe.
+
+**"It is why the word holds"** ist Yeoms Fassung von Freundschaft: **eine
+Rechnung, die nicht aufgeht und trotzdem stehen bleibt.** Das ist derselbe
+Mann, der in `b2 ch24:142` *arithmetic* gesagt hat - die Figur ist nicht
+weicher geworden, ihre Mathematik hat nur eine Stelle gefunden, an der sie
+endet.
+
+**Und die Einladung am Schluss oeffnet eine Tuer, die das Buch noch nie
+aufgemacht hat:** *what you are like when you are not working* - **niemand
+hat das je gesehen, und Yeom sagt es ihm ins Gesicht.** Das ist der Faden,
+der in Band 4 (das Werk, der Alltag) und Band 6 weiterlaeuft.
+
+**Regeln geprueft:** kein Satz ueber vierzig Woerter, keine Kontraktionen
+(beide Maenner sprechen foermlich, Annie sowieso), Punkt bei allen
+Feststellungen, Beats nur innerhalb derselben Stimme, und Georgij sagt
+nichts Unwahres - **er sagt fast nichts, und genau das traegt die Szene.**
+
 ### Was sich damit aendert
 
 * **Yeom ist kein Kandidat mehr fuer irgendeine Gegnerrolle**, auch nicht am
