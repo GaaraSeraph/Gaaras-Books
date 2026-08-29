@@ -3,6 +3,12 @@
 An isekai novel in English. Working discussion with the author happens in German.
 The prose is always English.
 
+THE AUDIENCE IS THE AUTHOR, ALONE. He has said it in as many words: this is
+not a book other people read. Every craft rule in this project exists to make
+the book good FOR HIM, not for a market; where a rule and his enjoyment
+collide, his enjoyment wins (see decisions.md, the boredom entry). His own
+vita is told in the book, openly - bible section 1, HOW HIS STORY GETS TOLD.
+
 The chapter files are canon. Everything else (docs/, this file) describes them or
 plans ahead. Where a planning document contradicts a chapter, the chapter is right
 and the document gets changed. How many chapters exist: see HANDBUCH.md.

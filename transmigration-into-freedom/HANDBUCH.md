@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 5 Dokumente am Stueck. 74.574 Woerter.
+Alle 5 Dokumente am Stueck. 75.264 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -848,7 +848,31 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
-=== His story gets told. All of it ===
+=== One reader, and openly. And the decks explain the man ===
+TWO AUTHOR CALLS IN ONE MESSAGE. FIRST: "das ist kein Buch, wo Leute
+lesen - ausser mir. Bitte offen erzaehlen." The book has exactly ONE
+reader, the author, and his story is told OPENLY - no subtext-rationing,
+no reader-only secrecy doctrine. CLAUDE.md now says so at the top, and
+HOW HIS STORY GETS TOLD in the bible is rewritten around openness: the
+narration may tell any of the vita directly and at length, pieces may be
+said out loud whole, retelling on purpose is allowed ("immer wieder"),
+and only the VOICE rules remain (rule one; flat, ordered, undecorated -
+the Hallvard-in-the-road register, which is how this man sounds when he
+is completely open). The one-piece-per-chapter rule became a staging
+default. Her name stays off the page unless he puts it there; the cats
+still never land in a joke.
+SECOND, the deck-building expansion, and it is a key to the whole
+character (bible section 1, childhood): creative decks because THERE WAS
+NO MONEY for meta decks - necessity first, style second. The edge was
+illegibility: middling players had never seen the shape. And he knew why
+meta was closed to him - ADHD, no long coherent chains, no five moves
+ahead - so he played from experience: estimate what the opponent can do
+and eliminate most of it AT DECK BUILDING, before the game starts. That
+is Gaara's entire strategic style on the page (the doctrine, the rib
+slot, the crew picked in ch14, deciding what an auditor sees), now
+grounded: he wins at setup, never in calculation, and the compensations
+the ADHD built are still how he thinks - which keeps the ch1 "no longer
+matter" question open exactly as the standing rule demands.
 The author, in one line: "Ich will meine Geschichte erzaehlen." The vita
 is not background any more, it is content - told across the book, again
 and again, to somebody in-world or only to the reader. This supersedes
@@ -3403,13 +3427,36 @@ everything else)
 - CHILDHOOD: awkward, and no friends. What there was instead: video games,
   and later a trading card game. As a PLAYER he was a little over average.
   AS A DECK BUILDER HE WAS GENUINELY CREATIVE, known for it, and it bought
-  him the only fame of his first eighteen years. Read that against the whole
-  book: the man was famous once already, as a boy, for building unusual
-  machines inside somebody else's rule system. The panel is not his first
-  game, and building the crew, the doctrine and Hades out of this world's
-  rules is the deck builder working at full size.
-  DO NOT NAME THE GAME ON THE PAGE. Same rule as the name's source work
-  above: "a card game" and "decks" is the whole permitted vocabulary.
+  him the only fame of his first eighteen years.
+  WHY THE DECKS WERE CREATIVE (author), and it is load-bearing for
+  everything he does in the new world: HE HAD NO MONEY FOR THE META DECKS.
+  Necessity first, style second. And over time he grew into the advantage
+  the odd decks bought him: bad and middling players could not handle them
+  and did not know how to play against them - they had never seen the
+  shape. HE ALSO KNEW EXACTLY WHY META WAS CLOSED TO HIM: with a meta deck
+  he would have been WORSE than the others. ADHD means he cannot think
+  long and coherently at one thing and cannot plan five moves ahead. So he
+  played from EXPERIENCE instead: estimate what the opponent can do, and
+  eliminate most of it - ALREADY AT DECK BUILDING, before the game starts.
+  THAT IS GAARA'S ENTIRE STRATEGIC STYLE, stated once here and visible
+  everywhere on the page: he does not out-calculate anybody and never
+  will. HE WINS AT SETUP. He reads patterns out of experience, estimates
+  what the other side can do, and removes those options in advance - the
+  doctrine (take it at a wall: the monster's options deleted before
+  contact), the rib slot in ch28 (a fight won entirely at deck building),
+  the crew picked by numbers in ch14, every negotiation where he decides
+  in advance what an auditor gets to see. "He distrusts fast answers,
+  including his own, and re-runs them cold" (core drives) is the same
+  machine: a learned compensation, not a temperament.
+  AND IT KEEPS THE ch1 QUESTION OPEN THE RIGHT WAY: the body's illnesses
+  are gone, but this one was never only in the body. The style the ADHD
+  built is still how he thinks, in every fight and every deal, and the
+  text keeps not confirming what he declared in ch1, exactly as the
+  standing rule demands.
+  Naming the game: the old reason not to (a published novel dating itself)
+  fell away with the audience decision - one reader, the author. The
+  in-world default stays unnamed, because nobody in that world could hear
+  it; whether narration ever names it is his call at writing time.
 - AT EIGHTEEN, THE TURN, and it was deliberate, not luck. He found the gym.
   And he taught himself to communicate, on purpose, like a subject - and the
   first thing he learned was to throw his references away: what happens in
@@ -3455,31 +3502,36 @@ everything else)
   why it unsettles him.
   THE CATS ARE UNSPENT. Two of them, lost with everything else. Do not
   spend them casually and never in a joke.
-  GUARDRAILS: on the page this surfaces only as concrete memory, never as
-  a speech and never as simile (standing rule). THE STORY GETS TOLD - the
-  author has staged it, see HOW HIS STORY GETS TOLD below - but she stays
-  unnamed on the page unless he names her. And nobody in the new world may
-  be written as a stand-in for her - if a plot ever wants a woman to cost
-  him everything, ask the author first, because that shape is loaded now.
+  GUARDRAILS: told OPENLY - see HOW HIS STORY GETS TOLD below - in his
+  voice: flat, true, concrete, never as simile. She stays unnamed on the
+  page unless he names her. And nobody in the new world may be written as
+  a stand-in for her - if a plot ever wants a woman to cost him
+  everything, ask the author first, because that shape is loaded now.
 
 HOW HIS STORY GETS TOLD (author's instruction, Band 1 planning). IT GETS
-TOLD - all of it, over the course of the book, to somebody or only to the
-reader. His words: "Ich will meine Geschichte erzaehlen." This supersedes
-the earlier reservation that no chapter tells it; everything below is HOW,
-not whether.
+TOLD - all of it, over the course of the book, to somebody in-world or in
+narration. His words: "Ich will meine Geschichte erzaehlen." And then the
+correction that governs everything here: THIS BOOK HAS ONE READER, THE
+AUTHOR, AND THE STORY IS TOLD OPENLY. No hiding it in subtext, no rationing
+it into implications. He wants to read his own story in this book.
 THE TWO CHANNELS:
-- NARRATION, reader-only: concrete memory, one to three lines, always
-  triggered by something physically present in the scene. Never
-  free-floating reminiscence, never simile.
-- DIALOGUE, rare: one piece, to one person, once. No speeches - when a
-  piece is said out loud the other person carries half the scene, and rule
-  one holds throughout: everything he says is true, and he omits rather
-  than softens.
-THE RULES: at most one piece per chapter. A piece told is never told
-again - this ledger records where each lands, like the silence ledger, so
-nothing doubles. And the book never diagnoses him: the reader gets facts
-and draws conclusions, the text confirms nothing (same posture as the ch1
-illness list).
+- NARRATION: may tell any of it directly and fully. A concrete in-scene
+  trigger still makes it land better than free-floating reminiscence, and
+  the no-simile rule still holds, but length and completeness are his to
+  spend - a page of the old life inside a chapter is allowed when the
+  moment carries it.
+- DIALOGUE: pieces may be said out loud, to people, whole. The VOICE rules
+  are what remain: rule one holds (everything he says is true, he omits
+  rather than softens), and Gaara does not deliver therapy-speak or beg
+  for absolution - he tells it the way Hallvard told the road: flat,
+  ordered, undecorated. That register is not concealment, it is how this
+  man sounds when he is being completely open.
+THE GUIDELINES (no longer laws - staging defaults, revisable by him per
+scene): roughly one piece per chapter so each gets room to land. The
+ledger below records where each piece lands so accidental verbatim repeats
+do not creep in - RETELLING ON PURPOSE IS ALLOWED, he said "immer wieder".
+The book still never diagnoses him: it gives the facts openly and confirms
+no conclusions (same posture as the ch1 illness list).
 THE PIECES, all UNSPENT, with candidate recipients and triggers - the
 author stages each fork as it comes up:
   A  THE SECOND TIME AT ZERO. The office mat was not the first collapse;
@@ -3500,13 +3552,13 @@ author stages each fork as it comes up:
      deduced by Runa rather than told - BEING READ is her register and
      she has already caught the ladder mid-act. Numbers never reach the
      page.
-  E  THE NINE DEAD YEARS, the joy gone. Reader-only, narration, in the
-     aftermath of a bed scene: one concrete memory of one date that was
-     work. Never said aloud to a partner.
-  F  THE CATS. Reader-only, triggered by an animal in-scene: the panel
-     reads a cat somewhere, Level 1, the same flat two lines it uses for
-     a goat, and the narration gives two lines and moves on. Never named
-     as grief to anybody in-world, and never in a joke.
+  E  THE NINE DEAD YEARS, the joy gone. Default: narration, in the
+     aftermath of a bed scene, and openly - what nine joyless years were
+     and what came back. Saying it to a partner out loud is his call.
+  F  THE CATS. Default: narration, triggered by an animal in-scene - the
+     panel reads a cat somewhere, Level 1, the same flat two lines it
+     uses for a goat, and the narration tells it openly. Whether he ever
+     says it to somebody in-world is his call. Never in a joke.
   G  HER, AND THE BREAK, WHOLE. The set-piece, told aloud, once, in the
      register the book already built for exactly this: flat ordinary
      sentences, undecorated, no sorry, the way Hallvard said his in the
@@ -3617,9 +3669,10 @@ is not guesswork, because a person in the dark cannot help answering.
   none of it is talent, all of it is mileage, and he is the one person in
   this world whose technique ever had a training set (section 3: everybody
   else is untaught, and the only practised people are prostitutes).
-  IT NEVER REACHES THE PAGE AS A NUMBER OR A BOAST. He does not explain
-  himself, and a man quoting his own statistics is reading out a CV, which
-  is the exact man he left behind.
+  THE CHARACTER DOES NOT BOAST - a man quoting his own statistics at a
+  partner is reading out a CV - but the NARRATION may state any of it
+  openly, numbers included: one reader, the author, and the vita hides
+  nothing (see HOW HIS STORY GETS TOLD).
 - AND WHERE THE JOY WENT, AND CAME BACK (author's vita): dead from
   twenty-nine on. Nine years in which dates were exhausting work and sex
   was not fun - the method intact, the appetite gone. What the new world
@@ -3628,7 +3681,9 @@ is not guesswork, because a person in the dark cannot help answering.
   continuing, it is a thing coming back to life after nine years. It also
   sits under HE STAYS AFTERWARDS - both partners so far braced for being
   got rid of, and the man doing the staying is the one who was put out.
-  NONE OF THIS IS EVER SAID ON THE PAGE.
+  Told openly whenever the author wants it on the page - the narration may
+  say all of it; only the character keeps his habit of not explaining
+  himself to the people in the room.
 - DISCOVERING THE OTHER PERSON IS THE POINT. He maps them. He looks for what
   works and goes back to it, and he has no interest at all in the parts that are
   meant to be interesting. Write it as reconnaissance and write it as delight.

@@ -3,7 +3,31 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
-=== His story gets told. All of it ===
+=== One reader, and openly. And the decks explain the man ===
+TWO AUTHOR CALLS IN ONE MESSAGE. FIRST: "das ist kein Buch, wo Leute
+lesen - ausser mir. Bitte offen erzaehlen." The book has exactly ONE
+reader, the author, and his story is told OPENLY - no subtext-rationing,
+no reader-only secrecy doctrine. CLAUDE.md now says so at the top, and
+HOW HIS STORY GETS TOLD in the bible is rewritten around openness: the
+narration may tell any of the vita directly and at length, pieces may be
+said out loud whole, retelling on purpose is allowed ("immer wieder"),
+and only the VOICE rules remain (rule one; flat, ordered, undecorated -
+the Hallvard-in-the-road register, which is how this man sounds when he
+is completely open). The one-piece-per-chapter rule became a staging
+default. Her name stays off the page unless he puts it there; the cats
+still never land in a joke.
+SECOND, the deck-building expansion, and it is a key to the whole
+character (bible section 1, childhood): creative decks because THERE WAS
+NO MONEY for meta decks - necessity first, style second. The edge was
+illegibility: middling players had never seen the shape. And he knew why
+meta was closed to him - ADHD, no long coherent chains, no five moves
+ahead - so he played from experience: estimate what the opponent can do
+and eliminate most of it AT DECK BUILDING, before the game starts. That
+is Gaara's entire strategic style on the page (the doctrine, the rib
+slot, the crew picked in ch14, deciding what an auditor sees), now
+grounded: he wins at setup, never in calculation, and the compensations
+the ADHD built are still how he thinks - which keeps the ch1 "no longer
+matter" question open exactly as the standing rule demands.
 The author, in one line: "Ich will meine Geschichte erzaehlen." The vita
 is not background any more, it is content - told across the book, again
 and again, to somebody in-world or only to the reader. This supersedes
