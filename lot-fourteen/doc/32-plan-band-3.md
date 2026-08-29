@@ -3382,6 +3382,154 @@ ist: **Gegner 1 der Oberstaatsanwalt, Gegner 2 der Hanseong-Erbe mit dem
 Apparat dahinter, Platz drei unbesetzt.** Kein Platz muss zwanghaft gefuellt
 werden - zwei Gegner und ein Apparat koennen einen Band tragen.
 
+---
+
+# Sechs Festlegungen vom 29.08.
+
+## 1. Wie Woo stirbt: eingeschlafen und nicht wieder aufgewacht
+
+**Vom Autor entschieden.** Natuerlich, ohne Drama, ohne Gegnerbeteiligung,
+an einem gewoehnlichen Tag. **Das Buch erfaehrt es so, wie Georgij es
+erfaehrt.**
+
+**Was daran haengt und jetzt gilt:** kein Gegner steht auch nur in der Naehe
+des Todes. **Das Erbe ist keine Rachegeschichte**, und niemand hat etwas
+beschleunigt, verhindert oder gewusst.
+
+## 2. Der Kalender: grob, mit Absicht
+
+**Arbeitsannahme, bei Bedarf anzupassen:** Band 3 laeuft **Sommer 2027 bis in
+den Winter**, Woos Tod im **Spaetherbst**. Band 2 endet Tag 590 (16. Mai
+2027). **Feste Tage werden erst vergeben, wenn Kapitel Kopfzeilen brauchen** -
+dann gegen den durchlaufenden Kalender, wie immer.
+
+## 3. Lot elf: warum sie ihn gekauft hat, und was er gelernt hat
+
+**Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
+
+**Sie hat ihn wegen Georgij gekauft.** Seine Bitte steht in Band 1 -
+`b1 ch04:226`: *"Has the house listed lot eleven yet?"* **Er schien
+nuetzlich, also wollte sie ihm einen Gefallen tun.** Sie hat gesehen, dass er
+nicht wollte, dass der Junge woanders unterkommt. **Und es hat sich
+bestaetigt - alles, mehrfach.**
+
+**Was das ueber sie sagt, und niemand spricht es aus:** wenige Wochen nach
+dem vierten Oktober hat diese Frau **einen Menschen gekauft, um ihrem neuen
+Besitz einen Gefallen zu tun.** Es ist ihr erster Gefallen an ihn, und er hat
+zwei Jahre lang nichts davon gewusst.
+
+**Die Ausbildung, zwei Jahre, ausserhalb des Hauses:** Schulbildung
+nachgeholt, Betriebswirtschaft, Finanzwesen, Allgemeinwissen, Etikette
+(das koreanische Aequivalent), **und das Handwerk eines Haushaelters in
+einem Chaebol-Haus.** Was ankommt, ist ein Sechzehnjaehriger, der fuer genau
+dieses Haus gebaut worden ist.
+
+**Offen: die Ankunftsszene** - wer ihn holt, wer ihn vorstellt, was Georgij
+sieht.
+
+## 4. Der Fall von Hanseong: was der Erbe verliert und behaelt
+
+**Vom Autor entschieden:**
+
+* **Er verliert alle profitablen Gesellschaften.**
+* **Er verliert seine rechte Hand, und die geht zu Georgij ueber.**
+* **Er behaelt die Gesellschaften, die Geld ausbluten.**
+* **Dass es fuer ihn endet, ist eine Frage der Zeit.**
+
+**Wohin er geht, hat der Autor offen gelassen und um Vorschlaege gebeten.
+Mein Vorschlag: nirgendwohin, und das ist die Strafe.**
+
+**Er bleibt sitzen.** Ehrenvorsitzender der ausblutenden Reste, von der
+eigenen Familie entmachtet - die Geschwister haben verkauft -, im selben
+Gebaeude, das jeden Monat leerer wird. **Er faehrt jeden Morgen an
+Tuerschildern vorbei, die nicht mehr Hanseong heissen.**
+
+**Warum das die genaueste Fassung ist:** sein ganzer Stand war Herkunft.
+**Also behaelt er den Namen und verliert alles, was der Name je bezeichnet
+hat.** Er wird, was er immer war, nur sichtbar: ein Titel. **Kein Exil (zu
+billig), kein Gefaengnis (er hat nichts getan, was eine Akte traegt), kein
+Untergang mit Knall.** Die Zeit erledigt ihn, jeder weiss es, und er weiss
+es zuletzt.
+
+**Und die rechte Hand, die uebergeht, ist eine Tuer fuer Band 4:** Georgij
+faengt dort als kleiner IT-Angestellter in einem Werk an. **Ob es ein Werk
+aus diesem Bestand ist und ob dieser Mann sein Vorgesetzter wird, ist offen
+und liegt nahe.**
+
+## 5. Der Oberstaatsanwalt verliert
+
+**Vom Autor entschieden, und es dreht meine Charakterisierung um** - er war
+als der Gegner gebaut, der nicht verlieren kann:
+
+* **Er wird abgesaegt.**
+* **Seine Kontakte wenden sich von ihm ab.**
+* **Georgij kontrolliert die Staatsanwaelte, die seinen Posten besetzen und
+  oben mitspielen, und die Mitte indirekt.**
+
+**Wie er faellt, ist offen. Mein Vorschlag, und er kommt ohne eine einzige
+Erfindung aus:**
+
+**Er faellt an seiner eigenen Akte.** Ein Staatsanwalt, der aus einem
+privaten Grund - Chois Tod - eine Akte ueber Menschen fuehrt, gegen die
+nichts vorliegt, **benutzt Amtsmittel fuer eine private Rechnung.** Das ist
+die eine Sache, die einen ehrlichen Staatsanwalt kippt: **er wird zu dem,
+was er jagt.**
+
+**Georgij muss nichts erfinden und nichts faelschen** - Regel 1. Er muss nur
+dafuer sorgen, dass die Riege oben sieht, was der Mann tut. **Und die Riege
+oben ist zu diesem Zeitpunkt laengst mit Georgijs wahren Sachen versorgt.**
+
+**Die Pointe, die daraus faellt:** Choi wurde 2002 aus dem Dienst geholt,
+indem man ihm *one thing to do that he cannot undo* gab (`b2 ch77:90`).
+**Der Mann, der Georgij vorwirft, das Haus habe Choi gemacht und
+weggeraeumt, gibt sich seine eine Sache selbst.** Sein Hass ist sein
+Februar-Nachmittag. **Niemand musste ihn kaufen.**
+
+**Und das ist der Aufbau, den Band 5 braucht:** die Exekution laeuft ueber
+Staatsanwaltschaftskontakte. **Band 3 baut die Kontrolle, Band 5 benutzt
+sie.**
+
+## 6. Das Geruest, als Vorschlag
+
+**Anfang, Mitte und Ende stehen. Dazwischen, in drei Akten:**
+
+### Akt I - Sommer 2027
+
+1. **Die Karte kommt ins Haus**, an Georgij, mit Namen. Mrs Seo nimmt sie an.
+2. **Chois Beisetzung.** Georgij als Einziger, der nicht trauert und es nicht
+   vorgibt. Erste Begegnung mit dem Oberstaatsanwalt.
+3. **Die Anklage:** *"I am interested in what you are going to be at
+   fifty-nine."*
+4. **Lot elf kommt an** - frueh im Band, damit er da ist und lernt, waehrend
+   alles Uebrige passiert.
+5. **Der Feldzug beginnt:** die Geschwister, die Anteile, die ersten Kaeufe.
+
+### Akt II - Herbst
+
+6. **Die Sang-hoon-Szene**, Bandmitte: die Wahl, der Wangenkuss, *"You cannot
+   say that any more."*
+7. **Das Grab von Woos Frau:** das Geschenk mit den zwanzig Prozent.
+8. **Die Rede an den Inhaber** und, falls die Seite existiert, der
+   Registerzug.
+9. **Der Boersenzug.** Parallel dazu ueberzieht der Oberstaatsanwalt - die
+   Akte waechst, und die Falschen sehen es.
+10. **Die Yeom-Szene**, und am selben Abend der Haus-Beat.
+
+### Akt III - Spaetherbst bis Winter
+
+11. **Hanseong faellt.** Die rechte Hand geht ueber, der Erbe behaelt die
+    Blutungen.
+12. **Der Oberstaatsanwalt wird abgesaegt** - an seiner eigenen Akte.
+13. **Der Kuss.** Woo lebt, nichts liegt auf dem Tisch, Georgij besitzt
+    nichts.
+14. **Woo stirbt**, eingeschlafen. **Die beiden Umschlaege am selben Tag.**
+15. **Die Beisetzung.** Sie nimmt seine Hand, vor mehreren hundert Leuten.
+    **Ende.**
+
+**Nicht einsortiert und flexibel:** die Grabszene kann frueher liegen (der
+Sterbetag der Frau ist Tag 341, der Besuch ist jederzeit moeglich), und die
+Yeom-Szene braucht nur *nach* Sang-hoon und *vor* dem Fall zu bleiben.
+
 # Verlauf: ueberholte Fassungen
 
 **Am 29.08. hierher verschoben.** Diese Abschnitte standen im Text und
