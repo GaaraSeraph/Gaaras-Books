@@ -3,6 +3,26 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The consultancy had employees, and ch23 now says two companies ===
+The author corrects the break at twenty-nine: the IT consultancy was not
+one man deep. SEVERAL EMPLOYEES, whom at some point he could no longer
+pay when the client fell. Worked into vita-stories.md (the payroll
+paragraph: paid in full for as long as anything was left, then the month
+where there was not, said plainly, one at a time, no speech) and into the
+bible's break block.
+THIS FORCED A CANON FIX, made under the author's standing rewrite
+permission: ch23 had "I ran exactly one. It was mine and it went under
+and it took my knees with it." His vita says he built and lost TWO. The
+line now reads: "I ran two. Both mine. The first went under when I was
+twenty-nine and took better people than me down with it. The second went
+under nine years later and took my knees with it." The older decisions
+entry "He did not RUN thirty-nine companies" stands in its main point
+(inside 39, ran his own) and is superseded only in the count.
+AND THE ROOT IT EXPOSES IS ALREADY ON THE PAGE: the man who once missed
+payroll clears Ordulf's debt in ch30 and has to stand still, and "Put it
+on mine" (ch29) is the same wound paying forward. Filed in the bible as
+resonance so no pass flattens it.
+
 === The stories get told at depth, and nobody pre-assigns them ===
 The author, on the piece list with candidate recipients: "was weiss ich
 wer die Stellen bekommt. Wir haben Buecher zu fuellen, da kann ich meine

@@ -139,13 +139,15 @@ afterwards, which is rarer, and both times he was right.
 
 === 4. THE BREAK ===
 
-At twenty-nine there was one client. The business was his own by then,
-one man deep: IT consulting, which in practice meant he kept a company's
-machines running and its backups honest, and automated the processes its
-people still did by hand, and did both well enough that the one client
-had long since stopped shopping around. He knew better. He had known
-better since the shoebox: never build a deck where one card carries the
-whole game, because the game will find that card. But the work was good and the
+At twenty-nine there was one client. The business was his own by then:
+IT consulting, several employees, machines kept running, backups kept
+honest, processes automated that other companies' people still did by
+hand. Good work, done well, for exactly one client who had long since
+stopped shopping around. He knew better. He had known better since the
+shoebox: never build a deck where one card carries the whole game,
+because the game will find that card. And it was worse than the shoebox
+ever was, and he knew that too: the one card was no longer carrying his
+game. It was carrying wages. But the work was good and the
 money was good and the year was full, and she was there, and a man with a
 full year lets the rule slide the way a man with a mild winter buys no
 firewood.
@@ -172,9 +174,19 @@ things he loved about her. The client went first. His one client, the
 whole income. He never learned the exact words and after a while he
 stopped wanting to, because the result spoke a complete sentence on its
 own: a contract wound down politely, nothing accusable anywhere in it,
-effective at the end of the month. Then the flat, which was in her name.
-He packed the car twice and planned a third trip, and before the third
-trip the locks were changed.
+effective at the end of the month.
+
+The employees went in the weeks after, because payroll is arithmetic and
+arithmetic does not negotiate. There were several of them, people he had
+hired himself, and he paid them in full for exactly as long as there was
+anything left to pay them from, and then there was a month where there
+was not. He sat across from each of them, one at a time, and said it
+plainly, no speech. None of them had done anything wrong, and he said
+that too, to each one. Some of them were kind to him about it, and the
+kindness was the worst part of the whole collapse, until the locks.
+
+Then the flat, which was in her name. He packed the car twice and planned
+a third trip, and before the third trip the locks were changed.
 
 The cats were on the other side of the locks. Both of them. Günther and
 Bärbel.
@@ -186,8 +198,8 @@ of his life to that date, and this from a man who had trained through
 every disaster for eleven years.
 
 If you had asked him then what he had lost, he would have listed the
-client, the flat, the standing, and the address, which was now a car
-park. The list was true and complete and it was also a fraud, and he knew
+client, the firm and the people in it, the flat, the standing, and the
+address, which was now a car park. The list was true and complete and it was also a fraud, and he knew
 it while saying it. Everything, weighed properly, was two animals who
 slept against his back and asked him for nothing a man could fail at. He
 said that to no one. There was no one to say it to, which he also
@@ -259,8 +271,10 @@ saying it out loud.
 
 - Her name. Off the page until he puts it there.
 - FILLED (author): the cats were GÜNTHER and BÄRBEL. The business was IT
-  consulting - managed services and process automation. Anything more
-  about the cats he wants kept true, he supplies when he wants.
+  consulting - managed services and process automation - WITH SEVERAL
+  EMPLOYEES, whom at some point he could no longer pay. Anything more
+  about the cats or the employees he wants kept true, he supplies when
+  he wants.
 - How long the car actually lasted; cities and durations throughout are
   stand-ins.
 - Which details above are wrong. He complains, they get fixed, the rest
