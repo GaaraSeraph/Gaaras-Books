@@ -1688,16 +1688,19 @@ eine Doppelung. **Der Autor hat genau danach gefragt.**
 concrete."* **Er hat nie hineingesehen.**
 
 **Eine Position kann man nicht ausloesen. Man kann sie nur zurueckkaufen, und
-nur, wenn der Halter verkauft.** Und der verkauft nicht, **weil das, was er
-haelt, an dem Tag ausschuettet, an dem das Terminal verkauft wird** - und das
-ist der Tag, an dem Woo stirbt.
+nur, wenn der Halter verkauft.** Das ist der belegte Teil (`b1 ch13:96`,
+`b1 ch17:114`).
 
-**Dafuer war die Dienstagsfrage da. Sie haben seinen Tod gekauft.**
+**Warum er nicht verkauft, ist nicht belegt.** Nach der Pruefung vom 29.08.
+bleibt davon nur die Beobachtung, dass die Dienstagsfrage nach einem
+**Ereignis** gefragt hat und nicht nach einer Rendite - `b1 ch13:190`, Woos
+Antwort: *sold within a year and split three ways.* **Was daran vertraglich
+ist und was nur Woos Erwartung war, sagt der Kanon nicht.**
 
 **Also faehrt Woo am Donnerstag hin, um zu zahlen, und kommt nicht durch.**
 Entweder nehmen sie es nicht, oder er zahlt herunter, was sie nehmen, und die
 Position bleibt. **Beides passt, und der Autor hat die zweite Fassung selbst
-angeboten.**
+angeboten. Beides ist eine Festlegung und kein Fund.**
 
 ### Und damit ist das Geschenk das groesste Ding im Band
 
@@ -1708,19 +1711,20 @@ today."*
 **2. Es ist der Kondolenzumschlag.** Ein Mann ohne Namen kann keinen
 beschriften. **Er bringt das hier statt dessen.**
 
-**3. Und es ist der Grund, warum das Erbe ueberhaupt moeglich ist.** Solange
-ein Fonds zwanzig Prozent haelt **und an Woos Tod ausschuettet, kann Woo das
-Terminal niemandem hinterlassen** - der Verkauf ist vorprogrammiert, und
-genau das hat er dem Mann damals selbst gesagt: *sold within a year and
-split three ways.* **Ein Jahr steht dafuer im Kanon nicht, und ich setze
-keines hin.**
+**3. Und es raeumt das Erbe frei - abgeschwaecht am 29.08.** Ich hatte
+geschrieben, Woo koenne das Terminal ueberhaupt nicht vererben, solange der
+Fonds haelt. **Das ist zu stark.** Woo kann seine achtzig Prozent vermachen,
+an wen er will; der Fonds bleibt daneben sitzen.
 
-**Georgij raeumt das weg, und erst danach kann Woo ein Testament schreiben.**
+**Was wahr bleibt, und es reicht:** wer das Terminal erbt, erbt einen
+Mitgesellschafter mit zwanzig Prozent, **den niemand benennen kann und der
+sich meldet, wann er will.** Das ist keine Sperre, das ist eine Hypothek auf
+alles, was danach kommt.
 
-**Er hat sein eigenes Erbe moeglich gemacht und wusste es nicht.** Und weil er
-nie etwas fuer sich nimmt und ueber sich keine Zahlen nennt, wird er es auch
-nie sagen. **Der Leser weiss es, Woo weiss es nicht, und Georgij denkt nicht
-daran.**
+**Georgij raeumt sie weg, bevor sie faellig wird, und ohne zu wissen, dass er
+selbst der Erbe ist.** Und weil er nie etwas fuer sich nimmt und ueber sich
+keine Zahlen nennt, wird er es auch nie sagen. **Der Leser weiss es, Woo
+weiss es nicht, und Georgij denkt nicht daran.**
 
 ### Und deshalb braucht Singapur keinen Gegner
 
@@ -1730,254 +1734,155 @@ in dieser Sache hatte, ist tot (siehe unten).
 
 ---
 
-## Wie er an die Position kommt, und warum nicht Woo
+## Wie er an die Position kommt: vier Thesen, vier Fehlschlaege
 
-**Am 29.08. gefragt. Die halbe Antwort steht seit dem 28.08. im Szenentext
-und ist nie ausgepackt worden:**
+**Am 29.08. hat der Autor verlangt, dass ich meine eigenen Thesen pruefe.
+Vier von fuenf halten nicht, und drei davon waren tragend.** Das steht hier
+vollstaendig, weil der naechste Durchgang sonst dieselben Wege noch einmal
+geht.
 
-> *"**It came out of the same place as a great many other things and it went
-> with them.** There is nobody left to ask you for it, and there will not be."*
+### Durchgefallen 1: *Jung-gu zeigt denselben Verwalter*
 
-**Er hat nicht nach Woos zwanzig Prozent gesucht.** Er hat etwas anderes
-aufgemacht, und sie lagen darin.
+**Ich hatte behauptet**, `b1 ch25:58` (*the corporate services firm in
+Jung-gu*) und `b2 ch06:364` (*an address in Jung-gu that also holds nine
+others*) belegten, dass dasselbe Haus beide Vehikel verwaltet.
 
-### Der Weg hinein ist Hanseong und nicht Woo
+**Nachgezaehlt: einundvierzig Treffer fuer Jung-gu im Kanon.** Es ist ein
+Stadtbezirk. Darin liegen Hochzeitshallen, ein Florist, ein Zahnarzt, eine
+Druckerei, ein Autovermieter, ein Anwaltsbuero, das weiterleitet. **Zwei
+Adressen in Jung-gu belegen so viel wie zwei Adressen in Mitte.**
 
-**Steht schon im Plan** (*Die Hanseong-Gruppe, aufgemacht*): ein Chaebol wird
-ueber Ueberkreuzbeteiligungen gehalten, **und die schwarzen Kassen und die
-Kette in Singapur sitzen an derselben Stelle - in den Zwischengesellschaften,
-die niemand liest.**
+**Was der Zaehlung dabei tatsaechlich aufgefallen ist, und das ist ein
+echter Fund:** `b2 ch06:364` sagt *an address in Jung-gu **that also holds
+nine others***, `b2 ch22:156` sagt *There are **ten companies** registered at
+it*, und `b2 ch23:120` sagt: *"My name is Yeom... **I am on the third floor of
+it**."*
 
-**Also ist die Kette nicht sein Ziel, sondern der Ort, an dem sich
-herausstellt, dass das Hanseong-Geld wohnt.** Er geht wegen des einen hinein
-und findet das andere daneben liegen.
+**Der Auktionshaus-Fonds fuehrt zu Yeom und nicht nach Singapur.** Das ist im
+Buch aufgeloest, und es trennt die beiden Straenge endgueltig.
 
-**Und das ist im Buch das uebliche Verfahren.** So ist er auf Choi gekommen,
-so auf die elf Namen: **nicht durch Suchen, sondern weil er beim Aufmachen von
-etwas anderem daneben gegriffen hat.**
+### Durchgefallen 2: *Fonds sterben in diesem Buch*
 
-### Und dann muss er die Position nicht zerstoeren, sondern sie nur wertlos machen
+**Ich hatte den Fonds aus Band 2 als Beispiel genommen.** `b2 ch60:174`:
 
-**Was der Fonds haelt, ist kein Zins, sondern ein Ereignis: der Tag, an dem
-das Terminal verkauft wird.** Dafuer war die Dienstagsfrage da.
+> *"The fund has decided. This house holds nothing after the twenty-fifth of
+> February."*
 
-**Und dieses Ereignis hat Georgij in Band 1 abgeschafft, ohne es zu merken.**
+**Der Fonds ist nicht untergegangen. Er hat entschieden.** Er hat das Haus
+abgewickelt und lebt weiter. **Damit gibt es im ganzen Buch keinen Fall, in
+dem so ein Vehikel verschwindet.**
 
-`b1 ch19:154-158`: ein Drittel des Buchs unter Vertrag fuer sieben Jahre.
-Woo liest daraus *lendable and not merely bankable* - **und das ist die eine
-Haelfte.** Die andere hat niemand ausgesprochen:
+### Durchgefallen 3: *Das Sieben-Jahres-Buch schafft den Verkauf ab*
 
-**Ein Terminal, dessen Buch sieben Jahre gebunden ist, wird nicht binnen eines
-Jahres verkauft und dreigeteilt.** Der Verkauf, auf den sie einundfuenfzig
-Jahre gewartet haben, findet nicht mehr statt.
+**Das ist nicht nur unbelegt, es ist verkehrt herum.** `b1 ch19:158` sagt,
+was es bewirkt, und nur das:
 
-**Damit halten sie einen Stumpf**: zwanzig Prozent an einer Sache, aus der
-sie nicht mehr herauskommen, mit einem Ertrag statt eines Ausstiegs.
+> *"It makes the place **lendable**... A terminal with a third of its book
+> under contract for seven is a thing a bank lends against in a bad one."*
 
-### Und der Halter hat auf einmal einen Grund, ihn loszuwerden
+**Ein gebundenes Buch macht ein Terminal besser verkaeuflich, nicht
+schlechter.** Ein Kaeufer zahlt dafuer mehr. **Ich hatte das Gegenteil
+behauptet und darauf einen ganzen Mechanismus gestellt.**
 
-**Wer immer hinter der Kette sitzt, sitzt dort neben Hanseong** - und Hanseong
-wird in diesem Band aufgemacht. **Jeder, der in denselben
-Zwischengesellschaften liegt, will in genau diesem Moment keine koreanischen
-Positionen mehr halten, die jemand ansehen koennte.**
+### Durchgefallen 4: *Die Kette strandet, wenn der Mandant ausfaellt*
 
-**Also verkaufen sie.** Nicht weil jemand sie gezwungen hat, sondern weil
-Halten teurer geworden ist als Loslassen. **Und dann ist die Zahl klein
-genug, dass sie bezahlt werden kann.**
+**Erfunden, und nach 2 ohnehin ohne Ausloeser**, weil nichts ausfaellt.
 
-**Georgij zerstoert dabei niemanden.** Das ist der ganze Unterschied zu den
-drei Wegen, die ich vorher erfunden hatte.
+### Und die fuenfte These ist nicht falsch, aber sie ist kein Kanon
 
-### Warum Woo das nicht selbst konnte, in fuenf Punkten
+**Dass die Kette eine Dienstleistung mit vielen Mandanten ist, steht
+nirgends.** Es ist eine vernuenftige Ableitung aus `b1 ch13:96`. **Mehr
+nicht.**
 
-**1. Er weiss nicht, wer sie sind, und hat vor einundfuenfzig Jahren
-entschieden, nicht zu fragen.** `b1 ch19:166`: *"I have never had a name and
-I have never asked for one, and a man does not ask when the money is already
-in the concrete."*
-
-**2. Er hat keinen Anlass zu suchen, weil er glaubt, zahlen zu koennen.**
-`b1 ch20:94`: *"He is going to pay it out himself, and he worked that out in
-the office in about ninety seconds."* **Ein Mann mit einer Loesung
-recherchiert nicht.**
-
-**3. Wenn er suchte, meldete er sich damit an.** Ein Vertragspartner, der
-nach wirtschaftlich Berechtigten fragt, ist ein Signal. **Ein Niemand, der
-Register liest, ist keins.** `b1 ch07:180`: *Nobody guards a mouth in front
-of a person nobody counts.* `b1 ch10:334`: *I am the only nobody in the
-building.*
-
-**4. Er hat keinen Weg hinein.** Der Weg hinein sind Hanseongs schwarze
-Kassen, **und Woo greift Hanseong nicht an.** Er ist ein Terminalbetreiber
-von achtzig, der sein Leben lang nicht auf Fotos mit Politikern war
-(`b1 ch19:190`).
-
-**5. Und das Werkzeug, das die Position entwertet, ist nicht seins.** Das
-Sieben-Jahres-Buch hat Georgij gebaut, in Band 1, aus einem ganz anderen
-Grund.
-
-### Und der sechste Punkt gehoert in die Szene und nicht in die Aufzaehlung
-
-**Woo haette es nicht angenommen.**
-
-`b1 ch19:172`: *"There is a difference between a man who is given a good
-reason and a man who finds one."* **Georgijs ganze Praxis mit Woo besteht
-darin, ihn selbst darauf kommen zu lassen** - er hat den Rueckkauf in neunzig
-Sekunden nicht ausgesprochen, obwohl er ihn auf der Autobahn schon hatte.
-
-**Darauf kommt Woo nicht selbst, nie.** Also muss es gegeben werden, und
-gegeben werden kann es nur **hinterher**, an einem Grab, wo er es nicht mehr
-ablehnen kann.
-
-**Das ist der Grund, warum die Szene an einem Grab steht und nicht in einem
-Buero.**
-
-**Und es ist ein Kondolenzumschlag.** Wer zu einer koreanischen Trauerfeier
-geht, bringt Geld in einem weissen Umschlag und **schreibt seinen Namen
-darauf**. Georgij hat keinen, den man auf so einen Umschlag schreiben kann -
-`b2 ch54:384`: *"I have no money. **I have no name that opens a door** and I
-have nothing in this country to telephone."*
-
-**Er kann den Umschlag nicht bringen. Also bringt er zwanzig Prozent eines
-Terminals.**
-
-### Der Text
-
-The grave is on a hill an hour outside the city if the bridge is kind, and it was not.
-
-He did not bring anything. He did not know what she had liked and there was nobody left to ask.
-
-Chairman Woo was already there and had been for some time.
-
-"I am sorry," said Georgij. "You said it to me in December and I did not hear it."
-
-"I know. It was in the middle of a sentence about three men who never paid, and I put it there so that it would be said." Woo did not turn round. "I have thought about that since and I do not know which of the two of us it says something about."
-
-"I would have come."
-
-"I know you would. That is why I did not tell you." He had his hands in his coat. "You had a thing to do and it was mine as well, and I was not going to be the reason you put it down."
-
-Neither of them said anything for a while.
-
-"What do you want." Woo said it without any edge on it at all. "You do not come somewhere and do nothing. I have watched you do it for eighteen months and you have never once done it."
-
-"I am here to visit a friend."
-
-Woo worked out that he did not mean the stone.
-
-"There is one thing and it is not why I came," said Georgij.
-
-"Say it anyway."
-
-"The twenty per cent you have owed since the year you built it is not owed to anybody now." He did not decorate any of it. "It came out of the same place as a great many other things and it went with them. There is nobody left to ask you for it, and there will not be."
-
-Woo did not say anything for a long moment.
-
-"How much did that cost you."
-
-"Nothing I am going to put in front of you today."
-
-Georgij looked at the stone rather than at him.
-
-"I did not bring an envelope," he said. "I would not have known what to write on it. I hope that does instead."
-
-Chairman Woo stood on a hill outside the city with his hands in his coat.
-
-"She asked me twice who you were," he said, "and I gave her two different answers, and neither of them was it."
-
-### Was daran haengt
-
-**Der Schlusssatz ist woertlich aus `b1 ch25:240`**: *"My wife has asked me
-twice who you were and I have given her two different answers."* Er hat es
-vor zwei Jahren als Scherz gesagt. Am Grab ist es das, was er nicht mehr
-richtigstellen kann.
-
-**Die Zeichensetzung.** Woo fragt und bekommt den Punkt: *"What do you want."*
-Er kann verlangen, und er tut es. Georgij stellt keine Frage.
-
-**Und die Luecke im Buch wird hier geheilt**, ohne dass sie erklaert werden
-muss: *"Nobody told you. I did not tell you."* Damit ist der stillschweigende
-Tod aus dem Herbst 2026 keine Nachlaessigkeit mehr, sondern **Woos
-Entscheidung.**
-
-## Vier Entscheidungen des Autors vom 28.08.
-
-**1. Choi und Singapur.** `b2 ch25:152` sagt genau so viel: *a director of a
-private equity firm in Hong Kong **through a chain of lawyers in Singapore**.*
-Er ist **Direktor** der Firma in Hongkong; die Kanzleien in Singapur sind der
-Weg dorthin. **Dass sie ihm gehoert, steht nirgends** - und das ist Absicht,
-denn genau daran haengt die Frage, fuer wen er gehandelt hat.
-
-**2. Nam Byung-hee wird untergebracht, und der Plan dafuer steht schon
-geschrieben - nur bei einem anderen Mann.** `doc/31-plan-band-2.md:1660`:
-
-> **Nam Byung-hee bei Chairman Woo unterbringen - SPAETER, und sie darf nie
-> erfahren, dass es von Georgij kommt.** Sonst ist die Rede in Ulsan keine
-> Entschuldigung, sondern eine Anzahlung. **Sie muss nichts haben, wenn er
-> spricht.**
->
-> Die drei Gruende, warm und eiskalt zugleich: sie ist kompetent, sie ist
-> ehrlich, **und wer einmal bewaffnet wurde, kann wieder bewaffnet werden.**
-> Und die Form ist die Vollendung und nicht die Ruecknahme: eine Frau, die
-> zwanzig Jahre ihre eigene Firma hatte, endet als **Angestellte, auf Lohn,
-> unter dem Schutz eines Mannes.**
-
-**Der Autor hat am 28.08. Sang-hoon genannt.** Beide gehen, und die Wahl ist
-keine Kleinigkeit.
-
-| | **Chairman Woo** | **Park Sang-hoon** |
-|---|---|---|
-| Geschaeft | das Terminal auf Yeongjong | Hanseong Shipping, vier Routen |
-| kennt die Spur | ja, er hat sieben Jahre darauf gelegt | nein |
-| steht in Band 3 | **ausserhalb des Kampfes** | **mitten drin** |
-| haelt sie fest | ja | ja |
-| Haltbarkeit | **er ist achtundsiebzig** | Jahrzehnte |
-
-**Der Einwand gegen Sang-hoon ist ernst und er heisst Los elf.** Nam hatte die
-Seite mit den vier Verweisen zwoelf Tage in ihrem Mantel (`b2 ch03:24`) -
-*Eleven and fourteen, four lines apart*. **Sie hat die Zeile von Los elf
-gesehen.** Wer sie unter Sang-hoon stellt, stellt eine Zeugin fuer Los elf
-unter den Mann, der ohnehin einen datierten Leerverkauf und etwas
-Zurueckgehaltenes hat. **Das ist ein drittes Blatt in derselben Hand.**
-
-**Der Einwand gegen Woo ist eine Uhr.** Er ist achtundsiebzig, seine Frau ist
-tot, er hat keine Erben, und sein Tod ist im Buch terminiert.
-
-**Der Vorschlag, der beides nimmt und aus dem Einwand einen Zug macht: erst
-Woo, dann Sang-hoon.** Sie geht zu Woo, wie geplant, ohne je zu erfahren,
-woher es kommt. **Und wenn Woo stirbt, muss sie irgendwohin** - und dann ist
-die Frage, wer sie nimmt, keine Freundlichkeit mehr, sondern ein Zug im
-Spiel. Georgij muss sie ein zweites Mal unterbringen, unter Leuten, die
-inzwischen wissen, wer er ist.
-
-**Was in jedem Fall gilt:** sie erfaehrt es nie, sie hat nichts, wenn er in
-Ulsan spricht, und `b2 ch87:254` bleibt woertlich wahr - *there is nobody in
-this house who can give it to me, and I would not take it from her if she
-offered.* **Es kommt nicht aus diesem Haus.**
-
-**3. Regel 2 faengt in Band 3 an zu brechen.** Vom Autor entschieden. Damit
-ist die Reihenfolge fuer drei Baende gesetzt:
-
-* **Band 3** - der erste Riss. Woos zwanzig Prozent sind kein Besitz, sondern
-  eine Schuld, die er *aufloest*, ohne selbst etwas zu nehmen; aber ein Mann,
-  der ueber zwanzig Prozent eines Terminals verfuegen kann, besitzt bereits
-  etwas, auch wenn es auf keinem Papier steht.
-* **Band 4** - die Personalnummer und der erste Lohn.
-* **Und der Bruch, gegen den er sich nicht wehren kann**, ist ein Testament.
-
-**4. Das Halsband bleibt, unter einem hohen Kragen.** Vom Autor entschieden
-und es ist die bessere Loesung: **es ist ein Zeichen, dass er ihr gehoert, und
-er behaelt es, weil er es behalten will.** Es hat seit dem 19. Februar keine
-Grundlage - das ist der Punkt und nicht der Einwand.
-
-**Was es in Band 4 kostet, und es ist eine Szene und kein Problem:** irgendwann
-sieht es jemand. In einer Umkleide, bei einer Hitze, an einem Tag, an dem er
-sich vorbeugt. **Und dann steht ein Mann in einem Werk und muss entscheiden,
-was er dem Menschen sagt, der es gesehen hat.**
-
-**5. Mr Chae bleibt liegen.** Vom Autor als duenn befunden. Steht weiter im
-Figurenblatt als Moeglichkeit und wird nicht geplant.
+**Ebenso: dass Hanseongs schwarze Kassen in derselben Kette sitzen, steht nur
+in diesem Plandokument.** Singapur hat zehn Treffer im Kanon und keiner nennt
+Hanseong.
 
 ---
+
+## Was nach der Pruefung stehen bleibt
+
+* **Es ist eine Position, kein Darlehen** (`b1 ch13:96` *beneficial
+  ownership*, `b1 ch17:114` *buying positions in things*).
+* **Der Rueckkauf ist Absicht und nicht Vollzug** (`b1 ch20:94`, Futur).
+* **Niemand hat das Singapur-Ende je gefunden** (`b1 ch13:100`,
+  `b2 ch39:254`).
+* **Der Mann mit der Dienstagsfrage ist seit 2011 tot** (`b1 ch31:364`).
+
+**Das Geschenk bleibt das, was der Autor am 28.08. vorgegeben hat. Der
+Mechanismus darunter ist offen.**
+
+---
+
+## Der einzige Mechanismus, der die Pruefung ueberlebt
+
+**Er ist immer noch erfunden.** Er widerspricht nur nichts, und er braucht
+weder einen Kauf noch einen Untergang.
+
+### Die Struktur hat genau eine Schwaeche, und es ist ihr eigener Zweck
+
+**Um einen Anspruch durchzusetzen, muss jemand hervortreten und benannt
+werden.** Das ist der Preis der Unsichtbarkeit, und er wird erst faellig,
+wenn jemand fragt.
+
+**Einundfuenfzig Jahre lang hat niemand gefragt.** `b1 ch19:166`: *"a man
+does not ask when the money is already in the concrete."* **Woo hat gezahlt,
+was ihm gesagt wurde, und nie einen Beleg verlangt.**
+
+**In dem Augenblick, in dem jemand sie auffordert, ihre Berechtigung
+nachzuweisen, haben sie zwei Moeglichkeiten:** einen Menschen benennen, oder
+die Sache fallen lassen.
+
+**Und sie lassen sie fallen.** Fuer ein Vehikel, dessen ganzer Wert darin
+besteht, dass niemand darin benannt ist, kostet Benanntwerden mehr als
+zwanzig Prozent eines koreanischen Terminals.
+
+**Das ist dieselbe Rechnung, die das Buch schon einmal aufgemacht hat**, und
+diesmal stimmt der Beleg. `b2 ch09:204`:
+
+> *"A house whose business is discretion cannot survive being the house that
+> sells deletions and does not perform them. **Nobody has to sue anybody. The
+> next twelve people simply go somewhere else.**"*
+
+### Warum Woo das nicht kann, und diesmal traegt der Grund
+
+**Nicht wegen des Zugangs. Wegen der Person, die fragt.**
+
+**Ein Schuldner, der von seinem Glaeubiger einen Berechtigungsnachweis
+verlangt, greift an.** Woo ist achtzig, sitzt auf einem Terminal, das er
+refinanzieren will, und braucht diese Leute ruhig. **Er kann es sich nicht
+leisten, sie zu reizen, und er weiss es.**
+
+**Und er hat vor einundfuenfzig Jahren entschieden, nicht zu fragen**
+(`b1 ch19:166`). Das ist kein Zugangsproblem, das ist eine Haltung.
+
+**Georgij ist niemand.** `b1 ch10:334`: *I am the only nobody in the
+building.* **Eine Frage von ihm ist kein Angriff eines Vertragspartners,
+sondern eine Verwaltungssache**, und sie kann ueber Mr Chae, ueber ein
+Register oder ueber eine Formalie laufen, ohne dass Woos Name daran steht.
+
+**Und es kostet kein Geld**, was Regel 2 unangetastet laesst.
+
+### Und die Zeile im Entwurf sagt genau das
+
+> *"There is nobody left to ask you for it, **and there will not be**."*
+
+**Nicht: es ist vernichtet. Nicht: ich habe es gekauft. Sondern: niemand wird
+kommen** - weil Kommen bedeuten wuerde, sich zu zeigen.
+
+**Das ist Regel 1 in ihrer genauesten Form.** Er sagt, was wahr ist, und
+kein Wort darueber hinaus.
+
+### Was daran noch entschieden werden muss
+
+* **Wer die Frage stellt.** Mr Chae ist der naheliegende Weg (`b1 ch18:274`),
+  und er hat schon einmal etwas gebaut, ohne den Grund zu erfahren.
+* **Ob Georgij das plant oder ob es ein Nebenprodukt ist.** Geplant ist es
+  ein Geschenk. Nebenprodukt waere es ehrlicher gegenueber seinem Verfahren.
+* **Und ob der Autor den Mechanismus ueberhaupt im Text haben will.** Die
+  Szene funktioniert, ohne ihn zu erklaeren. **Woo fragt *"How much did that
+  cost you"* und bekommt keine Antwort, und der Leser bekommt auch keine.**
+
 
 ## Die zwanzig Prozent: die tote Bank hat damit nichts zu tun
 
