@@ -146,9 +146,18 @@ everything else)
   main client of the time - one client, in practice the whole income; the
   work was IT consulting, managed services and process automation, and it
   was INCOME, NOT A FIRM: no staff, one man selling his hours - she put
-  him out, he lived in his car, and he lost EVERYTHING PRIVATE: her
-  CHILDREN, to whom he held no claim of paper on the day the locks
-  changed, and both cats, GÜNTHER and BÄRBEL. He had only
+  him out of her HOUSE (a house, not a flat), he lived in his car, and he
+  lost EVERYTHING PRIVATE: her CHILDREN, who called him papa - their own
+  ruling, delivered with full gravity: "Papa is our real papa. And you
+  are the funny papa." - and to whom he held no claim of paper on the day
+  the locks changed; and both cats, GÜNTHER and BÄRBEL, lost in two
+  different ways - Günther, his soul animal, rehomed during the
+  relationship under her calm ultimatum (the shelter otherwise; her own
+  tomcat, which scratched everybody including the children, stayed,
+  having had the address first), Bärbel behind the changed locks. AND HE
+  WAS NEVER ALLOWED TO ASK ABOUT THE CATS, a rule whose passing he never
+  witnessed and which he kept. Full telling: vita-stories.md, stories 4
+  and 5. He had only
   ever trusted people exactly as far as they could hurt him - trust
   budgeted against possible damage, lifelong - and this once too much had
   been given, and the bill came in full.
@@ -223,9 +232,11 @@ THE LEDGER (where a story has landed on the page; updated when one does):
   1  The boy with the decks         unplaced
   2  Eighteen, and the question     unplaced
   3  The wild decade                unplaced
-  4  The break                      unplaced
-  5  The nine years                 unplaced
-  6  The climb                      unplaced
+  4  Günther and Bärbel             unplaced
+  5  The break                      unplaced
+  6  The nine years                 unplaced
+  7  The climb                      unplaced
+  8  The second fall                unplaced
 RETRO-PLANTING INTO WRITTEN CHAPTERS stays allowed and wanted: the author
 has authorised rewriting, and a story dropped into an existing chapter
 serves the boredom repair at the same time.
@@ -250,7 +261,7 @@ Old life
   SEVERAL EMPLOYEES, hired by him: "he cut" in the next sentence means
   people, one at a time, plainly, and at some point there was a month he
   could not pay the ones still there (author; told in vita-stories.md,
-  story 7). Ran well for two years. Growth flattened, costs did not. He cut, put his own money back in, cut again, told himself next quarter would turn. Debt.
+  story 8). Ran well for two years. Growth flattened, costs did not. He cut, put his own money back in, cut again, told himself next quarter would turn. Debt.
 - Lost his flat in spring. Slept in the office, mat rolled out between desk and wall where the glass front did not show it. Told two people; both assumed he was joking.
 
 Health in the old body (all gone now)

@@ -137,7 +137,57 @@ He would have said so at the time, which is rare, and he said so
 afterwards, which is rarer, and both times he was right.
 
 
-=== 4. THE BREAK ===
+=== 4. GÜNTHER AND BÄRBEL ===
+
+The cats were his from before her. Two of them, Günther and Bärbel,
+indoor cats in a one-man household, which is its own kind of animal:
+they had never seen the world and did not miss it, they slept against
+his back, and the three of them ran the place on settled law.
+
+Moving into her house changed their constitution. A house, a garden,
+doors that opened, and inside a month they were outdoor cats, and he
+watched two animals discover that the world existed. That mattered
+later, and it mattered in one direction only: you can give a cat the
+world. You cannot take it back off him afterwards. He would not have
+done it to them for anything, and that this was fixed and not
+negotiable was a point everything that came later had to route around.
+
+Günther was the tomcat, and Günther was his in the way that has no
+paperwork. Both cats belonged to him; that is not what this was. If a
+man has one animal in the world that is somehow the same creature he
+is, it was that one, and he never said so out loud, and he never needed
+to, because it showed. He greeted the cat before he greeted anyone,
+every single time he came through the door. There was no policy in it
+and no message. Günther was simply the first one at the door, always,
+and you greet who is there.
+
+She was jealous of the cat. At times, and really, and it took him far
+too long to name what he was looking at, because a person being jealous
+of a cat appears on no list of things a competent man watches for. The
+offence was not the animal itself but how visibly the man loved it:
+first, at the door, without being asked.
+
+Her own tomcat got along with nothing alive. It scratched her, it
+scratched her children, it scratched every cat it ever met. Günther
+fought with it, which put Günther in the wrong by the only logic on
+offer, namely that hers had the address first. And one day she told
+him, calmly, with the reasons laid out like a memo, that either Günther
+went to live somewhere else or he went to the shelter. The case was
+reasoned and the reasoning held, and he checked it the way he checked
+everything, hoping for the flaw, and there was no flaw in it anywhere
+except everywhere.
+
+So he found Günther a place somewhere else, with people he could hand
+him to and doors that opened, because the one thing not on the table
+was taking the world back off him. And the household kept its peace,
+minus one cat, and the cat that scratched the children stayed, and
+nobody but him appeared to find the arithmetic remarkable.
+
+That was before the end. He did not file it as the rehearsal at the
+time. Later there was no other way to file it.
+
+
+=== 5. THE BREAK ===
 
 At twenty-nine there was one client that mattered, and no firm around
 him: one man selling IT consulting, machines kept running, backups kept
@@ -177,32 +227,40 @@ stopped wanting to, because the result spoke a complete sentence on its
 own: a contract wound down politely, nothing accusable anywhere in it,
 effective at the end of the month.
 
-Then the flat, which was in her name. He packed the car twice and planned
-a third trip, and before the third trip the locks were changed.
+Then the house, which was hers. He packed the car twice and planned a
+third trip, and before the third trip the locks were changed.
 
-The children were on the other side of the locks. Hers, not his, which
-had never mattered once on the inside of that flat and was the entire
-law of it from the outside. No paper, no claim, nobody obliged to answer
-the phone. He had lost clients before and found new ones. There was no
-version of that for children, and he knew it standing in the stairwell,
-and he stood there anyway for a while.
+The children were on the other side of the locks. They called him papa.
+They had settled the constitutional question themselves, early, the way
+children settle things, and had delivered the ruling to him with
+complete gravity: Papa is our real papa. And you are the funny papa. He
+had accepted the office and he had held it seriously, which is the only
+way the funny papa can be held. And the ruling turned out to be the
+exact law of the land. The real papa existed on paper. The funny papa
+existed at her pleasure, and the appointment ended with the locks: no
+claim, no standing, nobody obliged to answer the phone. He had lost
+clients before and found new ones. There was no version of that for
+children, and he knew it standing outside the door, and he stood there
+anyway for a while.
 
-So were the cats. Both of them. Günther and Bärbel.
+Bärbel was behind the locks too. The second cat, the one the ultimatum
+had never come for, and by the arithmetic of that day she belonged to
+the house now, the way the children did, the way everything did.
 
-He rang twice, and only about the cats, because the cats were the one
-thing on that side of the locks he was allowed to ask for. The first
-call was calm and got him nothing. The second call was not calm and got him less. There was no
-third call, and the absence of the third call was the hardest discipline
-of his life to that date, and this from a man who had trained through
-every disaster for eleven years.
+And about the cats there was a rule, and the rule was that he did not
+ask. He was never allowed to ask about the cats. He could not have told
+you when that law was passed, or by what majority, only that it was in
+force and stayed in force. He kept it. Of all the things he kept from
+those years, it was the one he never once managed to call by a kind
+name.
 
 If you had asked him then what he had lost, he would have listed the
-client, the flat, the standing, and the address, which was now a car
+client, the house, the standing, and the address, which was now a car
 park. The list was true and it was also a fraud, and he knew it while
-saying it. Everything, weighed properly, was children he had no right to
-count as his and had never counted as anything else, and two animals who
-slept against his back and asked him for nothing a man could fail at. He
-said that to no one. There was no one to say it to, which he also
+saying it. Everything, weighed properly, was the children's word for
+him, which he was never going to hear again, and two animals, lost in
+two different ways, who had slept against his back in a smaller life
+and asked him for nothing a man could fail at. He said that to no one. There was no one to say it to, which he also
 noticed, and which went into the accounting as its own line.
 
 The car lasted a stretch of weeks he never counted, and he counted
@@ -221,7 +279,7 @@ written where the ceiling used to be, and it stayed there for nine years,
 and he never renegotiated it once.
 
 
-=== 5. THE NINE YEARS ===
+=== 6. THE NINE YEARS ===
 
 The years from twenty-nine to thirty-eight had everything in them except
 appetite.
@@ -243,7 +301,7 @@ untended debt compounds. That part was outvoted every morning by the part
 that had work at nine.
 
 
-=== 6. THE CLIMB ===
+=== 7. THE CLIMB ===
 
 The way out was inventory, because the way out is always inventory. What
 is left. What does it cost. What does it pay. A man in a car owns his
@@ -267,7 +325,7 @@ man who did not lie, and that one he managed, for years, by never once
 saying it out loud.
 
 
-=== 7. THE SECOND FALL, AND THE PEOPLE IN IT ===
+=== 8. THE SECOND FALL, AND THE PEOPLE IN IT ===
 
 The company in the last act of the other life was real: founded on his
 own money, the corporate payout signed over into something with his name
@@ -298,14 +356,21 @@ learned to file.
 === KNOWN GAPS, THE AUTHOR'S TO FILL OR LEAVE ===
 
 - Her name. Off the page until he puts it there.
-- FILLED AND CORRECTED (author): the cats were GÜNTHER and BÄRBEL. At
+- FILLED AND CORRECTED (author, in rounds): the cats were GÜNTHER and
+  BÄRBEL, and their whole story is now story 4 - indoor cats made free
+  in her house, the greeting at the door, her jealousy of his soul
+  animal, the calm ultimatum with memo-reasons, Günther rehomed with his
+  freedom intact before the end, Bärbel behind the locks, and the
+  standing rule that he was never allowed to ask about the cats. At
   twenty-nine the work was IT consulting - managed services and process
-  automation - and it was INCOME, NOT A FIRM: no staff, one man. The
-  several employees he at some point could not pay belong to the SECOND
-  company, the payout one (story 7). And SHE HAD CHILDREN: losing
-  everything private included losing them.
-- Her children: how many, ages, anything about them he wants kept true,
-  and how much of them he wants on the page. Nothing gets invented.
+  automation - and it was INCOME, NOT A FIRM; the several employees he
+  could not pay belong to the SECOND company (story 8). It was a HOUSE,
+  hers, not a flat. And the children called him papa, their own ruling:
+  "Papa is our real papa. And you are the funny papa."
+- Her children: how many, ages, anything else he wants kept true, and
+  how much of them goes on the page. Nothing gets invented.
+- Who took Günther in, and anything about either cat beyond story 4 he
+  wants kept true.
 - How long the car actually lasted; cities and durations throughout are
   stand-ins.
 - Which details above are wrong. He complains, they get fixed, the rest

@@ -3,6 +3,25 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The house, the funny papa, and the true story of the cats ===
+Three author corrections in one message, and one of them deletes an
+invented stand-in. ONE: it was a HOUSE, hers, not a flat - fixed through
+The Break. TWO: THE CHILDREN CALLED HIM PAPA, and their ruling is kept
+verbatim in the story: "Papa is our real papa. And you are the funny
+papa." THREE: THE CATS' REAL STORY replaces the invented telephone
+calls. The stand-in had him ringing twice about the cats; the truth is
+harder - HE WAS NEVER ALLOWED TO ASK ABOUT THE CATS - and the stand-in
+is deleted. The full story is now its own section, story 4, GÜNTHER AND
+BÄRBEL: indoor cats made free-roaming in her house, a freedom he refused
+to take back off them; the greeting at the door, Günther first, every
+time; her jealousy of his soul animal, at times and really; her own
+tomcat that scratched everybody, the children included, and stayed,
+having had the address first; the calm ultimatum with memo-reasons;
+Günther rehomed somewhere else with his freedom intact, before the end -
+which later could only be filed as the rehearsal. Bärbel stayed behind
+the locks. Sections renumbered: the break is 5, the nine years 6, the
+climb 7, the second fall 8; the bible ledger now carries eight stories.
+
 === Corrected again: at twenty-nine it was income, not a firm. And her children ===
 The author: "mit 29 habe ich meinen Hauptauftraggeber verloren und alles
 Private. Inklusive ihrer Kinder. War nur Einkommen, keine Firma." Three
