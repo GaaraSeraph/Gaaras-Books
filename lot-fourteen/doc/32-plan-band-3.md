@@ -1728,6 +1728,109 @@ daran.**
 kommt deswegen jemanden holen, und der einzige Mensch, der jemals ein Gesicht
 in dieser Sache hatte, ist tot (siehe unten).
 
+---
+
+## Wie er an die Position kommt, und warum nicht Woo
+
+**Am 29.08. gefragt. Die halbe Antwort steht seit dem 28.08. im Szenentext
+und ist nie ausgepackt worden:**
+
+> *"**It came out of the same place as a great many other things and it went
+> with them.** There is nobody left to ask you for it, and there will not be."*
+
+**Er hat nicht nach Woos zwanzig Prozent gesucht.** Er hat etwas anderes
+aufgemacht, und sie lagen darin.
+
+### Der Weg hinein ist Hanseong und nicht Woo
+
+**Steht schon im Plan** (*Die Hanseong-Gruppe, aufgemacht*): ein Chaebol wird
+ueber Ueberkreuzbeteiligungen gehalten, **und die schwarzen Kassen und die
+Kette in Singapur sitzen an derselben Stelle - in den Zwischengesellschaften,
+die niemand liest.**
+
+**Also ist die Kette nicht sein Ziel, sondern der Ort, an dem sich
+herausstellt, dass das Hanseong-Geld wohnt.** Er geht wegen des einen hinein
+und findet das andere daneben liegen.
+
+**Und das ist im Buch das uebliche Verfahren.** So ist er auf Choi gekommen,
+so auf die elf Namen: **nicht durch Suchen, sondern weil er beim Aufmachen von
+etwas anderem daneben gegriffen hat.**
+
+### Und dann muss er die Position nicht zerstoeren, sondern sie nur wertlos machen
+
+**Was der Fonds haelt, ist kein Zins, sondern ein Ereignis: der Tag, an dem
+das Terminal verkauft wird.** Dafuer war die Dienstagsfrage da.
+
+**Und dieses Ereignis hat Georgij in Band 1 abgeschafft, ohne es zu merken.**
+
+`b1 ch19:154-158`: ein Drittel des Buchs unter Vertrag fuer sieben Jahre.
+Woo liest daraus *lendable and not merely bankable* - **und das ist die eine
+Haelfte.** Die andere hat niemand ausgesprochen:
+
+**Ein Terminal, dessen Buch sieben Jahre gebunden ist, wird nicht binnen eines
+Jahres verkauft und dreigeteilt.** Der Verkauf, auf den sie einundfuenfzig
+Jahre gewartet haben, findet nicht mehr statt.
+
+**Damit halten sie einen Stumpf**: zwanzig Prozent an einer Sache, aus der
+sie nicht mehr herauskommen, mit einem Ertrag statt eines Ausstiegs.
+
+### Und der Halter hat auf einmal einen Grund, ihn loszuwerden
+
+**Wer immer hinter der Kette sitzt, sitzt dort neben Hanseong** - und Hanseong
+wird in diesem Band aufgemacht. **Jeder, der in denselben
+Zwischengesellschaften liegt, will in genau diesem Moment keine koreanischen
+Positionen mehr halten, die jemand ansehen koennte.**
+
+**Also verkaufen sie.** Nicht weil jemand sie gezwungen hat, sondern weil
+Halten teurer geworden ist als Loslassen. **Und dann ist die Zahl klein
+genug, dass sie bezahlt werden kann.**
+
+**Georgij zerstoert dabei niemanden.** Das ist der ganze Unterschied zu den
+drei Wegen, die ich vorher erfunden hatte.
+
+### Warum Woo das nicht selbst konnte, in fuenf Punkten
+
+**1. Er weiss nicht, wer sie sind, und hat vor einundfuenfzig Jahren
+entschieden, nicht zu fragen.** `b1 ch19:166`: *"I have never had a name and
+I have never asked for one, and a man does not ask when the money is already
+in the concrete."*
+
+**2. Er hat keinen Anlass zu suchen, weil er glaubt, zahlen zu koennen.**
+`b1 ch20:94`: *"He is going to pay it out himself, and he worked that out in
+the office in about ninety seconds."* **Ein Mann mit einer Loesung
+recherchiert nicht.**
+
+**3. Wenn er suchte, meldete er sich damit an.** Ein Vertragspartner, der
+nach wirtschaftlich Berechtigten fragt, ist ein Signal. **Ein Niemand, der
+Register liest, ist keins.** `b1 ch07:180`: *Nobody guards a mouth in front
+of a person nobody counts.* `b1 ch10:334`: *I am the only nobody in the
+building.*
+
+**4. Er hat keinen Weg hinein.** Der Weg hinein sind Hanseongs schwarze
+Kassen, **und Woo greift Hanseong nicht an.** Er ist ein Terminalbetreiber
+von achtzig, der sein Leben lang nicht auf Fotos mit Politikern war
+(`b1 ch19:190`).
+
+**5. Und das Werkzeug, das die Position entwertet, ist nicht seins.** Das
+Sieben-Jahres-Buch hat Georgij gebaut, in Band 1, aus einem ganz anderen
+Grund.
+
+### Und der sechste Punkt gehoert in die Szene und nicht in die Aufzaehlung
+
+**Woo haette es nicht angenommen.**
+
+`b1 ch19:172`: *"There is a difference between a man who is given a good
+reason and a man who finds one."* **Georgijs ganze Praxis mit Woo besteht
+darin, ihn selbst darauf kommen zu lassen** - er hat den Rueckkauf in neunzig
+Sekunden nicht ausgesprochen, obwohl er ihn auf der Autobahn schon hatte.
+
+**Darauf kommt Woo nicht selbst, nie.** Also muss es gegeben werden, und
+gegeben werden kann es nur **hinterher**, an einem Grab, wo er es nicht mehr
+ablehnen kann.
+
+**Das ist der Grund, warum die Szene an einem Grab steht und nicht in einem
+Buero.**
+
 **Und es ist ein Kondolenzumschlag.** Wer zu einer koreanischen Trauerfeier
 geht, bringt Geld in einem weissen Umschlag und **schreibt seinen Namen
 darauf**. Georgij hat keinen, den man auf so einen Umschlag schreiben kann -
