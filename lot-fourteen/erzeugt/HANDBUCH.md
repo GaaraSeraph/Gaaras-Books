@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 272.438 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 272.449 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -938,10 +938,10 @@ Bemerkenswert ist das Weinen.**
 
 ### Es geschieht an seinem Platz, und den kennt der Leser zehnmal
 
-*which is where he sits* steht **zehnmal** im Buch: auf dem Teppich, seitlich
-vom Schreibtisch, mit dem Ruecken an den Schubladen (`b2 ch09:280`,
-`b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch66:302`,
-`b2 ch87:478`, `b2 ch89:194` und weitere).
+*which is where he sits* steht **sechsmal** woertlich im Buch: auf dem
+Teppich, seitlich vom Schreibtisch, mit dem Ruecken an den Schubladen
+(`b2 ch09:280`, `b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch89:194`). **Dazu vier weitere Stellen ohne
+die Formel** - `b2 ch32:282`, `b2 ch42:212`, `b2 ch66:302`, `b2 ch87:478`.
 
 **Also derselbe Boden, dasselbe Zimmer, dieselbe Haltung. Eine Sache anders.**
 
