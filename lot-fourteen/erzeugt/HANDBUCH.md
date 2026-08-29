@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 273.424 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 274.258 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -390,10 +390,19 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Der Text](#der-text)
   - [Vier Sachen, die daran haengen](#vier-sachen-die-daran-haengen)
   - [Warum ihr Satz funktioniert und nicht troestet](#warum-ihr-satz-funktioniert-und-nicht-troestet)
-  - [Erstens: es ist keine Nacht, es ist eine Reihe](#erstens-es-ist-keine-nacht-es-ist-eine-reihe)
+  - [Erstens: es ist doch ein Abend, und der Grund dafuer ist besser als meiner](#erstens-es-ist-doch-ein-abend-und-der-grund-dafuer-ist-besser-als-meiner)
+  - [Und damit trifft die Bitte um Fuehrung genau ins Ziel](#und-damit-trifft-die-bitte-um-fuehrung-genau-ins-ziel)
   - [Zweitens: die Zahl wird genannt und kein Name](#zweitens-die-zahl-wird-genannt-und-kein-name)
   - [Drittens: bei dieser Menge gibt es eine Liste, und das ist das Schlimmste](#drittens-bei-dieser-menge-gibt-es-eine-liste-und-das-ist-das-schlimmste)
+  - [Und was das kostet, ist praezise und nicht gefuehlig](#und-was-das-kostet-ist-praezise-und-nicht-gefuehlig)
   - [Und die Auswahl bleibt der harte Kern](#und-die-auswahl-bleibt-der-harte-kern)
+  - [Ganz Suedkorea waere eine Landkarte und keine Geschichte](#ganz-suedkorea-waere-eine-landkarte-und-keine-geschichte)
+  - [Seoul allein ist zu klein, und zwar aus einem Sachgrund](#seoul-allein-ist-zu-klein-und-zwar-aus-einem-sachgrund)
+  - [Also die drei Haefen, mit Seoul als Sitz](#also-die-drei-haefen-mit-seoul-als-sitz)
+  - [Und was draussen bleibt, ist der Zweck](#und-was-draussen-bleibt-ist-der-zweck)
+  - [Was er stattdessen tut, ist unangenehmer](#was-er-stattdessen-tut-ist-unangenehmer)
+  - [Und es gibt genau eine Sache, die ihn treffen wuerde](#und-es-gibt-genau-eine-sache-die-ihn-treffen-wuerde)
+  - [Wenn doch ein Feind aus dieser Ecke gebraucht wird](#wenn-doch-ein-feind-aus-dieser-ecke-gebraucht-wird)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -19466,25 +19475,42 @@ vereinigt, mindestens die von Seoul.**
 ist gestrichen. **Drei Sachen folgen daraus, und die dritte ist die
 wichtigste.**
 
-### Erstens: es ist keine Nacht, es ist eine Reihe
+### Erstens: es ist doch ein Abend, und der Grund dafuer ist besser als meiner
 
-**Ein Mann und ein Boden traegt ein Dutzend. Mehr traegt es nicht** - dann
-wird aus einem Vorgang ein Bild, und aus dem Bild wird ein Schlachthaus, das
-niemand mehr einzeln sieht.
+**Ich hatte eingewandt, ein Mann und ein Boden trage keine grosse Zahl, und
+daraus einen Zeitraum gemacht. Zurueckgenommen am 29.08.**
 
-**Also: die Versammlung ist ein Abend. Die Vollstreckung ist ein Zeitraum.**
+**Der Autor hat den Einwand mit einem Wort erledigt: sie sind entspannt.**
 
-**Und das ist haerter und nicht weicher.** Er tut es wieder. Und wieder. **Und
-jedes Mal weiss er vorher, was er tut, weil er es schon getan hat.** Ein
-einziger Abend laesst sich als Ueberwaeltigung lesen. **Wochen nicht.**
+**Sie knien und rechnen mit der Polizei.** Fuer diese Maenner ist eine
+Festnahme ein Betriebskosten, ein bekannter Vorgang, ein paar Jahre.
+**Deshalb wehrt sich niemand, deshalb braucht es keine Uebermacht, und
+deshalb traegt ein Abend jede Zahl.**
 
-**Damit steht die geschriebene Szene an ihrer richtigen Stelle: sie ist die
-letzte.** Der Warlord kommt zuletzt. *The last thing he saw was a face that
-had not moved* ist dann das Gesicht eines Mannes, **der das seit einiger Zeit
-tut** - und der Satz wird dadurch schwerer, ohne dass ein Wort dazukommt.
+**Sie sind nicht ueberwaeltigt worden. Sie warten geduldig auf eine
+Unannehmlichkeit.**
 
-**Und die Nacht bei Annie ist der Schluss der Reihe und nicht der Anfang.** Er
-hat die ganze Zeit gehalten. **Er bricht, als es fertig ist.**
+**Und das ist der kaelteste Raum, den dieses Buch je hatte.**
+
+### Und damit trifft die Bitte um Fuehrung genau ins Ziel
+
+**Der Satz ist gebaut, um eine Annahme zu toeten und nicht um eine Auskunft zu
+erbitten.**
+
+> "How does the last man to run this trade in this country get out of an
+> execution that begins **the moment he understands that he is not going to be
+> forgiven**?"
+
+**Er sagt dem Mann in einem hoeflichen Nebensatz, dass die Polizei nicht
+kommt.** Und weil er dabei um Fuehrung bittet, kann der Mann nicht einmal
+sagen, dass ihm gedroht wurde.
+
+**"The man looked up" ist der Augenblick, in dem die Annahme stirbt** - und
+die Temperatur des Raumes wechselt in einer Zeile.
+
+**Der Warlord kommt zuletzt**, nach den anderen, und *the last thing he saw
+was a face that had not moved* ist das Gesicht eines Mannes, **der an diesem
+Abend nicht angefangen hat.**
 
 ### Zweitens: die Zahl wird genannt und kein Name
 
@@ -19512,17 +19538,34 @@ Zeile, und mit einer Spalte, in der steht, wer in welche Haelfte gehoert.**
 **Und damit ist der Preis, den ich vorher nur strukturell hatte, ein
 Gegenstand.**
 
-**Er hat genau zwei Moeglichkeiten und beide sind unertraeglich:**
+**Vom Autor am 29.08. entschieden: nach diesem Abend existiert kein Blatt
+mehr.**
 
-**Er behaelt sie.** Dann existiert ein Blatt, auf dem in seiner Handschrift
-steht, wen er umbringen liess und warum. **Das ist ein Gestaendnis mit
-Fussnoten**, und es liegt in einem Haus, das er nicht allein bewohnt.
+**Das ist die haertere der beiden Moeglichkeiten**, und sie ist die einzige,
+die zu ihm passt: ein Gestaendnis mit Fussnoten in seiner Handschrift, in
+einem Haus, das er nicht allein bewohnt, ist keine Loesung, sondern eine
+Frist.
 
-**Er vernichtet sie.** Dann hat er zum ersten Mal in seinem Leben eine Seite
-verschwinden lassen - **und genau das ist die Sache, die Hwang nie getan
-hat.** `b2 ch20:86`: *"If I delete an entry because somebody paid..."*
+**Er tut damit zum ersten Mal in seinem Leben genau das, was Hwang nie getan
+hat** - `b2 ch20:86`: *"If I delete an entry because somebody paid..."*
+**Hwang darf davon nichts wissen.**
 
-**Es gibt keinen dritten Weg, und Hwang darf davon nichts wissen.**
+### Und was das kostet, ist praezise und nicht gefuehlig
+
+**Es gibt danach keinen Beleg dafuer, wer sie waren und warum.**
+
+**Niemand kann je nachpruefen, ob die Auswahl richtig war. Er selbst auch
+nicht.** Er kann nicht zurueckgehen und es sich bestaetigen. **In einem Buch,
+in dem jede Behauptung eine Fundstelle hat, ist die eine Tat ohne
+Fundstelle seine.**
+
+**Und es schliesst die Klammer zu seiner Kindheit, wortwoertlich.**
+`b1 ch01:34`: *Before that he had been a child, **and children get moved
+without paperwork.***
+
+**Sieben Haeuser ohne Papier am Anfang. Ein Abend ohne Papier am Ende.**
+**Das erste Mal wurde es an ihm getan. Das zweite Mal hat er es selbst
+getan.** Kein Satz im Text zieht die Verbindung.
 
 ### Und die Auswahl bleibt der harte Kern
 
@@ -19537,6 +19580,107 @@ in einem Satz, den jeder nachrechnen kann.
 **Und es muss mindestens einen geben, bei dem es knapp war.** Sonst war es
 keine Auswahl, sondern eine Kategorie - und dann hat er nicht entschieden,
 sondern sortiert.
+
+---
+
+## Wie weit die Dokkaebi reichen: nicht ein Gebiet, sondern die Tueren
+
+**Vom Autor am 29.08. gefragt.** Seoul? Busan dazu? Ganz Suedkorea?
+
+**Empfehlung, und sie folgt dem Handel und nicht der Verwaltungskarte.**
+
+### Ganz Suedkorea waere eine Landkarte und keine Geschichte
+
+**Wer alles hat, hat keinen Rand.** Kein Aussen, keine Reibung, niemand, der
+nicht dazugehoert - **und damit keinen Gegner mehr fuer Band 6.**
+
+### Seoul allein ist zu klein, und zwar aus einem Sachgrund
+
+**Menschenhandel ist ein Hafengeschaeft. Seoul ist kein Hafen.**
+
+### Also die drei Haefen, mit Seoul als Sitz
+
+| | was dort liegt | steht schon im Buch |
+|---|---|---|
+| **Seoul** | wo entschieden wird | das ganze Buch |
+| **Incheon / Yeongjong** | Woos Terminal, Hafenstatus, der Container | `b1 ch15`, `b1 ch19` |
+| **Busan** | der groesste Hafen des Landes | `b2 ch87:30`, die Frau aus Busan |
+| **Ulsan** | vier Lastwagen, die Getreidefirma, eine Fahrspur | `b2 ch03`, `b2 ch08`, `b2 ch85:138` |
+
+**Er erobert kein Land. Er nimmt die Tueren** - und das ist woertlich das, was
+er seit Kapitel eins tut.
+
+**Und ein Chaebol haelt ohnehin keine Provinzen, sondern Branchen.** Die Frage
+*wie weit soll meine Macht reichen* beantwortet sich damit von selbst: **so
+weit wie das Gewerbe und keinen Meter weiter.**
+
+### Und was draussen bleibt, ist der Zweck
+
+**Daegu, Gwangju, Jeju, der ganze Suedwesten.** Gruppen, die nicht in diesem
+Handel sind und ihn deshalb nichts angehen.
+
+**Sie sind nicht seine Verbuendeten und nicht seine Feinde. Sie sind
+verfuegbar** - und irgendwann wird jemand sie brauchen. **Das haelt Band 6 am
+Leben.**
+
+## Kriminalitaet endet nicht, und das gehoert in einen Satz
+
+**Vom Autor festgehalten:** er weiss, dass sie nie aufhoert. **Er kann sie
+vereint kontrollieren und bestimmte Handlungen beenden.**
+
+**Das ist der Unterschied zwischen ihm und einem Kreuzritter, und ohne ihn
+wird die Figur duemmer.** Es gehoert einmal gesagt, in seinem Ton, ohne
+Erklaerung:
+
+> "It does not end. It changes hands." ... "This is the last time it changes
+> hands without conditions."
+
+**Und es ist der Grund, warum die Verbote ueberhaupt durchsetzbar sind.** Wer
+alles verbieten will, setzt nichts durch. **Wer vier Sachen verbietet und
+alles andere laufen laesst, wird ernst genommen.**
+
+## Wird Yeom zum Feind? Nein, und das ist schlimmer
+
+**Vom Autor am 29.08. gefragt.**
+
+**Ein Feind ist jemand, der etwas will. Yeom will seit zwei Baenden nichts.**
+`b2 ch22:140`: *He did not build it and **he did not particularly want it**.
+He ran it the way a man runs a thing he inherited, which is to say **he did
+not look at it very much**.*
+
+**Er wollte das Haus nicht. Er wollte das Geld nicht genug, um hinzusehen. Er
+wird es nicht zurueckwollen.**
+
+### Was er stattdessen tut, ist unangenehmer
+
+**Er hilft, und es macht ihm nichts aus.**
+
+**Ein Mann, der ein Haus gefuehrt hat, das Kinder verkauft hat, und dem der
+Abbau desselben Hauses gleichgueltig ist, ist nicht bekehrt worden. Es war
+ihm nie wichtig.**
+
+**Und Georgij muss mit ihm arbeiten und das wissen.**
+
+**Damit stellt der Band eine Frage, die das Buch noch nie gestellt hat:**
+Choi war Bosheit. **Yeom ist das andere**, und es hat mehr Leute gekostet.
+
+### Und es gibt genau eine Sache, die ihn treffen wuerde
+
+**Nicht der Abbau. Das Hinsehen.**
+
+**Er hat sein Leben damit verbracht, nicht hinzusehen.** Wer ihm das
+Abrechnungsbuch hinlegt und ihn Zeile fuer Zeile lesen laesst, was sein Haus
+getan hat, **fuegt ihm das Einzige zu, was ihm zugefuegt werden kann.**
+
+**Ob Georgij das tut, ist eine echte Entscheidung und keine rhetorische.** Er
+braucht Yeom. **Und er hat mit Choi vorgemacht, dass er genau diese Sorte
+Schlag beherrscht.**
+
+### Wenn doch ein Feind aus dieser Ecke gebraucht wird
+
+**Dann ist es nicht Yeom, sondern jemand, dessen Einkommen der Abbau
+beendet.** Yeom hat nichts mehr zu verlieren, das Haus ist weg. **Wer noch
+daran verdient, hat es.**
 
 ---
 
