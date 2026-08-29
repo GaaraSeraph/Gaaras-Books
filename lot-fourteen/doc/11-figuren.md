@@ -569,6 +569,8 @@ die beim Planen zaehlt.
 | **Kang Ji-hoon** | **Beamter im Ministerium fuer Land und Infrastruktur**, mittlere Ebene | | B1 10 | Ruht |
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
 | **Minister Min-ho** | **Der Minister.** Ueber Choi mit Sang-hoon verbunden | Der Preis | B1 - | Ruht |
+| **Han Il-hwan** | **Der Hanseong-Erbe.** Aeltester Sohn, vier Generationen, hat nie etwas gebaut. **Nicht Mr Han, der Fahrer von Mrs Gwak** | Verliert in Band 3 alles Profitable und bleibt als Titel sitzen | B3 geplant | **Gegner 2 von Band 3** |
+| **Gong Doo-hyun** | **Der Oberstaatsanwalt.** Chois Freund von der Universitaet, geblieben, jetzt oben | Fuehrt aus Hass eine Akte und faellt an ihr | B3 geplant | **Gegner 1 von Band 3.** Sein Nachfolger ist Georgijs Mann |
 
 ### Der Feldzug in Band 2
 

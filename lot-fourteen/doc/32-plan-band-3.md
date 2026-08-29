@@ -3969,22 +3969,30 @@ dem er nichts vorzuwerfen hat.
   Leuten, `b1 ch06:138`), **Shin** (achtzehn Treffer), **Yang** (die Frau in
   Ulsan), **Cho/Do/Ma** (frueher schon ausgeschieden).
 
-### Vorschlag Erbe: **Seol Il-hwan**
+### Der Erbe: **Han Il-hwan**, entschieden am 29.08.
 
-**Seol** klingt alt und selten - ein Klan, der sich aufs achtzehnte
-Jahrhundert zurueckfuehrt, darf so heissen. **Il-hwan** traegt still das
-*Il* - der Erste, der aelteste Sohn. **Beide Silben ohne Kollision.** Im
-Text meist *Chairman Seol*.
+**Vom Autor kam der Einwand, der Name muesse etwas von Hanseong tragen - Han
+oder Seong.** Richtig, und **Han** ist die staerkere Haelfte:
 
-### Vorschlag Oberstaatsanwalt: **Gong Doo-hyun**
+**Das Schlussbild der Rede wird damit woertlich wahr.** *A building that
+still had his name on the outside* - **sein Name steht in Hanseong, in der
+ersten Silbe.** Die Familie Han, deren Firma sich nach der alten Hauptstadt
+nennt. Der Duenkel hat eine Adresse.
+
+**Il-hwan bleibt:** das stille *Il*, der Erste, der aelteste Sohn. Im Text
+meist **Chairman Han**.
+
+**⚠ Eine Doppelung, gewollt und zu vermerken wie Bae/Mrs Bae:** es gibt
+einen **Mr Han**, achtzehn Jahre Fahrer von Mrs Gwaks Blumenladen
+(`b2 ch29:232`). **Nicht dieselbe Person, nie im selben Raum.** Falls die
+Doppelung stoert, ist **Seong Il-hwan** die kollisionsfreie Ausweichform
+(Seong: null Treffer).
+
+### Der Oberstaatsanwalt: **Gong Doo-hyun**, entschieden am 29.08.
 
 **Gong** ist komplett frei, und es traegt eine stille Pointe: die Silbe
 heisst auch *oeffentlich* - ein Staatsdiener namens Gong. **Im Text meist
-nur der Nachname**, wie bei Sim, Jang und Yeom. Doo-hyun als voller Name,
-falls einer gebraucht wird.
-
-**Alternativen, falls eine nicht gefaellt: Chu fuer den Erben, Seol fuer den
-Staatsanwalt.** Nicht entschieden, bis der Autor waehlt.
+nur der Nachname**, wie bei Sim, Jang und Yeom.
 
 ## Der dritte Gegner: nicht die Kette in Singapur
 
