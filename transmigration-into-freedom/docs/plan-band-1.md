@@ -15,6 +15,11 @@ STATUS, updated during Band 1 planning:
    stand as the record of the paperwork version; the re-plot under
    discussion moves the climax onto the gate and what is behind it.
    Logged as open in decisions.md ("The author is bored...").
+3. THE VITA GETS TOLD (decisions.md, "His story gets told"): the finale
+   and the middle surgery carry the first pieces. Piece A (the second
+   time at zero) belongs in the climax; one retro-planted fragment in
+   ch30's Ketil hire is proposed. Ledger, channels and rules: bible,
+   section 1, HOW HIS STORY GETS TOLD.
 
 
 === 1. WHAT BAND 1 IS ===

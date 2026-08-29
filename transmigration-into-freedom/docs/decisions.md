@@ -3,6 +3,29 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== His story gets told. All of it ===
+The author, in one line: "Ich will meine Geschichte erzaehlen." The vita
+is not background any more, it is content - told across the book, again
+and again, to somebody in-world or only to the reader. This supersedes
+the reservation in the entry below that no chapter tells the break until
+staged: it is hereby staged, and only her name stays off the page unless
+he puts it there.
+FIXED IN THE BIBLE, section 1, HOW HIS STORY GETS TOLD: two channels
+(reader-only narration in one to three lines off a concrete trigger;
+dialogue rare, one piece to one person, once, no speeches), at most one
+piece per chapter, a ledger so nothing doubles, and the book never
+diagnoses him. Seven pieces A to G, all unspent, each with candidate
+recipients: the second time at zero (finale material), the childhood and
+the decks (Sivert or Bern), the ceiling question (Marit or Hallvard), the
+wild decade (Ylva, or Runa deducing it), the nine dead years (reader
+only, after a bed scene), the cats (reader only, off an animal the panel
+reads), and her - the whole break - told once, flat, in the Hallvard-in-
+the-road register. Recommended recipient for that one: Hallvard;
+alternatives Ylva or Marit; not in the crowded finale.
+RETRO-PLANTING INTO THE WRITTEN MIDDLE IS WANTED, one piece per chapter,
+first proposal a paragraph inside ch30's Ketil hire. It serves the
+boredom repair at the same time.
+
 === The break at twenty-nine is filled, and the hole closes ===
 The author has answered the one open question in his vita: a separation
 that broke him. She cost him his only client - the whole income - put him

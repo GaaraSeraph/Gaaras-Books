@@ -145,11 +145,74 @@ everything else)
   THE CATS ARE UNSPENT. Two of them, lost with everything else. Do not
   spend them casually and never in a joke.
   GUARDRAILS: on the page this surfaces only as concrete memory, never as
-  a speech and never as simile (standing rule). No chapter names her or
-  tells the story until the author stages it deliberately. And nobody in
-  the new world may be written as a stand-in for her - if a plot ever
-  wants a woman to cost him everything, ask the author first, because
-  that shape is loaded now.
+  a speech and never as simile (standing rule). THE STORY GETS TOLD - the
+  author has staged it, see HOW HIS STORY GETS TOLD below - but she stays
+  unnamed on the page unless he names her. And nobody in the new world may
+  be written as a stand-in for her - if a plot ever wants a woman to cost
+  him everything, ask the author first, because that shape is loaded now.
+
+HOW HIS STORY GETS TOLD (author's instruction, Band 1 planning). IT GETS
+TOLD - all of it, over the course of the book, to somebody or only to the
+reader. His words: "Ich will meine Geschichte erzaehlen." This supersedes
+the earlier reservation that no chapter tells it; everything below is HOW,
+not whether.
+THE TWO CHANNELS:
+- NARRATION, reader-only: concrete memory, one to three lines, always
+  triggered by something physically present in the scene. Never
+  free-floating reminiscence, never simile.
+- DIALOGUE, rare: one piece, to one person, once. No speeches - when a
+  piece is said out loud the other person carries half the scene, and rule
+  one holds throughout: everything he says is true, and he omits rather
+  than softens.
+THE RULES: at most one piece per chapter. A piece told is never told
+again - this ledger records where each lands, like the silence ledger, so
+nothing doubles. And the book never diagnoses him: the reader gets facts
+and draws conclusions, the text confirms nothing (same posture as the ch1
+illness list).
+THE PIECES, all UNSPENT, with candidate recipients and triggers - the
+author stages each fork as it comes up:
+  A  THE SECOND TIME AT ZERO. The office mat was not the first collapse;
+     the car at twenty-nine was, and he climbed out once already. One
+     line of narration, best placed when everything is at risk again -
+     the Band 1 finale can carry it.
+  B  THE CHILDHOOD: no friends, the games, the decks, the small fame.
+     Candidate: Sivert or Bern, the day somebody finally asks where he
+     learned to build the way he builds. Answer in the ch23 register:
+     "A card game." True, and it explains nothing.
+  C  THE TURN AT EIGHTEEN AND THE CEILING QUESTION ("I get through school
+     without effort. What would the result be if I did everything right?
+     I want to see that."). The one piece he might genuinely say out
+     loud, because it is an engine and not a wound. Candidate: Marit at
+     night, or Hallvard. Late, and only when somebody asks why he does
+     all this.
+  D  THE WILD DECADE. Candidate: Ylva on a road (their register), or
+     deduced by Runa rather than told - BEING READ is her register and
+     she has already caught the ladder mid-act. Numbers never reach the
+     page.
+  E  THE NINE DEAD YEARS, the joy gone. Reader-only, narration, in the
+     aftermath of a bed scene: one concrete memory of one date that was
+     work. Never said aloud to a partner.
+  F  THE CATS. Reader-only, triggered by an animal in-scene: the panel
+     reads a cat somewhere, Level 1, the same flat two lines it uses for
+     a goat, and the narration gives two lines and moves on. Never named
+     as grief to anybody in-world, and never in a joke.
+  G  HER, AND THE BREAK, WHOLE. The set-piece, told aloud, once, in the
+     register the book already built for exactly this: flat ordinary
+     sentences, undecorated, no sorry, the way Hallvard said his in the
+     road in about four minutes. RECOMMENDED RECIPIENT: Hallvard - the
+     two men are mirrored all book, both carried something alone for
+     years, and telling the person he does not sleep with keeps it from
+     becoming romance currency. Alternatives: Ylva (the Rulf-burial
+     register: true unkind things said flat) or Marit (riskier - it must
+     not read as a relationship payment). NOT in the crowded finale
+     chapters; Band 2, or a quiet chapter if one opens up.
+RETRO-PLANTING IS ALLOWED AND WANTED: the author has authorised rewriting
+written chapters, and single fragments dropped into the existing middle
+serve this and the boredom repair at once. First proposal: one paragraph
+in ch30, inside the Ketil hire - why this man can hire an informer: he
+has stood on the receiving end of somebody spending everything they were
+given, and he refuses the vacancy she left him as a model. One piece per
+chapter still holds.
 - THE COMPETENCE POLICY, lifelong: THERE IS NO COMPETENT PERSON WHO HAS
   ACTUALLY GOTTEN TO KNOW HIM AND CONSIDERS HIM INCOMPETENT. Not charm and
   not luck: he earned it over years, by working every position relevant to

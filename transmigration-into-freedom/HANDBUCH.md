@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 5 Dokumente am Stueck. 73.611 Woerter.
+Alle 5 Dokumente am Stueck. 74.574 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -847,6 +847,29 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== His story gets told. All of it ===
+The author, in one line: "Ich will meine Geschichte erzaehlen." The vita
+is not background any more, it is content - told across the book, again
+and again, to somebody in-world or only to the reader. This supersedes
+the reservation in the entry below that no chapter tells the break until
+staged: it is hereby staged, and only her name stays off the page unless
+he puts it there.
+FIXED IN THE BIBLE, section 1, HOW HIS STORY GETS TOLD: two channels
+(reader-only narration in one to three lines off a concrete trigger;
+dialogue rare, one piece to one person, once, no speeches), at most one
+piece per chapter, a ledger so nothing doubles, and the book never
+diagnoses him. Seven pieces A to G, all unspent, each with candidate
+recipients: the second time at zero (finale material), the childhood and
+the decks (Sivert or Bern), the ceiling question (Marit or Hallvard), the
+wild decade (Ylva, or Runa deducing it), the nine dead years (reader
+only, after a bed scene), the cats (reader only, off an animal the panel
+reads), and her - the whole break - told once, flat, in the Hallvard-in-
+the-road register. Recommended recipient for that one: Hallvard;
+alternatives Ylva or Marit; not in the crowded finale.
+RETRO-PLANTING INTO THE WRITTEN MIDDLE IS WANTED, one piece per chapter,
+first proposal a paragraph inside ch30's Ketil hire. It serves the
+boredom repair at the same time.
 
 === The break at twenty-nine is filled, and the hole closes ===
 The author has answered the one open question in his vita: a separation
@@ -2872,6 +2895,11 @@ STATUS, updated during Band 1 planning:
    stand as the record of the paperwork version; the re-plot under
    discussion moves the climax onto the gate and what is behind it.
    Logged as open in decisions.md ("The author is bored...").
+3. THE VITA GETS TOLD (decisions.md, "His story gets told"): the finale
+   and the middle surgery carry the first pieces. Piece A (the second
+   time at zero) belongs in the climax; one retro-planted fragment in
+   ch30's Ketil hire is proposed. Ledger, channels and rules: bible,
+   section 1, HOW HIS STORY GETS TOLD.
 
 
 === 1. WHAT BAND 1 IS ===
@@ -3428,11 +3456,74 @@ everything else)
   THE CATS ARE UNSPENT. Two of them, lost with everything else. Do not
   spend them casually and never in a joke.
   GUARDRAILS: on the page this surfaces only as concrete memory, never as
-  a speech and never as simile (standing rule). No chapter names her or
-  tells the story until the author stages it deliberately. And nobody in
-  the new world may be written as a stand-in for her - if a plot ever
-  wants a woman to cost him everything, ask the author first, because
-  that shape is loaded now.
+  a speech and never as simile (standing rule). THE STORY GETS TOLD - the
+  author has staged it, see HOW HIS STORY GETS TOLD below - but she stays
+  unnamed on the page unless he names her. And nobody in the new world may
+  be written as a stand-in for her - if a plot ever wants a woman to cost
+  him everything, ask the author first, because that shape is loaded now.
+
+HOW HIS STORY GETS TOLD (author's instruction, Band 1 planning). IT GETS
+TOLD - all of it, over the course of the book, to somebody or only to the
+reader. His words: "Ich will meine Geschichte erzaehlen." This supersedes
+the earlier reservation that no chapter tells it; everything below is HOW,
+not whether.
+THE TWO CHANNELS:
+- NARRATION, reader-only: concrete memory, one to three lines, always
+  triggered by something physically present in the scene. Never
+  free-floating reminiscence, never simile.
+- DIALOGUE, rare: one piece, to one person, once. No speeches - when a
+  piece is said out loud the other person carries half the scene, and rule
+  one holds throughout: everything he says is true, and he omits rather
+  than softens.
+THE RULES: at most one piece per chapter. A piece told is never told
+again - this ledger records where each lands, like the silence ledger, so
+nothing doubles. And the book never diagnoses him: the reader gets facts
+and draws conclusions, the text confirms nothing (same posture as the ch1
+illness list).
+THE PIECES, all UNSPENT, with candidate recipients and triggers - the
+author stages each fork as it comes up:
+  A  THE SECOND TIME AT ZERO. The office mat was not the first collapse;
+     the car at twenty-nine was, and he climbed out once already. One
+     line of narration, best placed when everything is at risk again -
+     the Band 1 finale can carry it.
+  B  THE CHILDHOOD: no friends, the games, the decks, the small fame.
+     Candidate: Sivert or Bern, the day somebody finally asks where he
+     learned to build the way he builds. Answer in the ch23 register:
+     "A card game." True, and it explains nothing.
+  C  THE TURN AT EIGHTEEN AND THE CEILING QUESTION ("I get through school
+     without effort. What would the result be if I did everything right?
+     I want to see that."). The one piece he might genuinely say out
+     loud, because it is an engine and not a wound. Candidate: Marit at
+     night, or Hallvard. Late, and only when somebody asks why he does
+     all this.
+  D  THE WILD DECADE. Candidate: Ylva on a road (their register), or
+     deduced by Runa rather than told - BEING READ is her register and
+     she has already caught the ladder mid-act. Numbers never reach the
+     page.
+  E  THE NINE DEAD YEARS, the joy gone. Reader-only, narration, in the
+     aftermath of a bed scene: one concrete memory of one date that was
+     work. Never said aloud to a partner.
+  F  THE CATS. Reader-only, triggered by an animal in-scene: the panel
+     reads a cat somewhere, Level 1, the same flat two lines it uses for
+     a goat, and the narration gives two lines and moves on. Never named
+     as grief to anybody in-world, and never in a joke.
+  G  HER, AND THE BREAK, WHOLE. The set-piece, told aloud, once, in the
+     register the book already built for exactly this: flat ordinary
+     sentences, undecorated, no sorry, the way Hallvard said his in the
+     road in about four minutes. RECOMMENDED RECIPIENT: Hallvard - the
+     two men are mirrored all book, both carried something alone for
+     years, and telling the person he does not sleep with keeps it from
+     becoming romance currency. Alternatives: Ylva (the Rulf-burial
+     register: true unkind things said flat) or Marit (riskier - it must
+     not read as a relationship payment). NOT in the crowded finale
+     chapters; Band 2, or a quiet chapter if one opens up.
+RETRO-PLANTING IS ALLOWED AND WANTED: the author has authorised rewriting
+written chapters, and single fragments dropped into the existing middle
+serve this and the boredom repair at once. First proposal: one paragraph
+in ch30, inside the Ketil hire - why this man can hire an informer: he
+has stood on the receiving end of somebody spending everything they were
+given, and he refuses the vacancy she left him as a model. One piece per
+chapter still holds.
 - THE COMPETENCE POLICY, lifelong: THERE IS NO COMPETENT PERSON WHO HAS
   ACTUALLY GOTTEN TO KNOW HIM AND CONSIDERS HIM INCOMPETENT. Not charm and
   not luck: he earned it over years, by working every position relevant to
