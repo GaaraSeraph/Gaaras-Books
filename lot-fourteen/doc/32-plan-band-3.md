@@ -310,233 +310,77 @@ Annie went back to the page.
 
 "Two men in this country who own a great deal consider you a friend," she said, "and one of them has just gone down my stairs." She turned a page. "You told me once that you have no money and no name that opens a door and nothing in this country to telephone."
 
+"It is still true," said Georgij. "A friend is not a thing anybody holds. Chairman Park can put it down on a Tuesday and not say why, and I would hear about it from a third person, and I would have no complaint."
+
+Annie put the page down on the arm of the chair, which she does not do, and got up, and came across the room while he was still explaining it to her.
+
 "Yes, Mistress."
 
-Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
-
-Georgij did not move and did not say anything, and both of those were correct.
-
-Then it arrived.
-
-There had been three seconds after the price was named and he had them without trying. He did not get a number for this.
-
-He put his hands behind his back, and then at his sides, and then behind his back again. He has only the two.
-
-Something went across his face and stayed there, which it does not.
-
-Mrs Seo came in for the coffee that Park Sang-hoon had not taken, and saw the end of it, and went out again and put the tray down in the kitchen on the wrong table.
-
-She had never once seen that face do anything, and she has been looking at it since the October before last.
-
-Nobody had said anything to him.
-
-"Yes, Mistress," he said.
+Annie kissed him on the cheek.
 
 "You cannot say that any more."
 
-### Was in der Reaktion woher kommt
+He looked at the carpet.
 
-**Vom Autor am 29.08. verlangt: Staunen, Unbeholfenheit, Freude,
-Zeitversatz - Looney Tunes, in den Ton dieses Buches gesetzt. Und ein Zeuge
-ist ausdruecklich erlaubt.** Alle vier stehen jetzt drin, und keines davon
-ist erfunden.
+That is what a boy does when he has been told he did something well, and he was never a boy in any way that counted.
 
-**Zeitversatz.** *Then it arrived.* Er arbeitet erst korrekt weiter und faellt
-danach aus. **Das ist der ganze Witz, und er ist bei Looney Tunes derselbe.**
+His hands went behind his back and did not stay there.
 
-**Staunen: der Zaehler springt nicht an.** `b1 ch33:412`: *He counts the way
-other people breathe, and he has done it since he was old enough to be sold.*
-**Es gibt nichts, was er nicht zaehlt.**
+Something came up into his face and he could not get it down again, and he did not try very hard.
 
-**Und der Gegenbeleg steht in derselben Szene, achtzig Zeilen weiter oben:**
-*Nobody in that room did anything for **about three seconds**.* **Er hatte
-die, ohne es zu versuchen. Fuer den Kuss bekommt er keine.**
+He did not say anything, and it was not the kind of not saying anything that he does.
 
-**Das ist der zweite Anlauf.** Zuerst hatte ich die Zeile aus `b1 ch33`
-woertlich hierher geholt. **Ein Rueckbezug innerhalb derselben Szene ist
-staerker als ein importierter**, und er kostet den Leser keinen Weg zurueck
-in Band 1.
+Annie sat down and picked the page up and found her place, and let him stand there.
 
-**Und ich habe absichtlich nicht *He did not count anything* geschrieben.**
-Der Satz gehoert Band 5, in Annies Schoss, nach der Exekution. **Zweimal
-derselbe Satz nimmt dem zweiten alles.**
 
-**Unbeholfenheit: er hat genau zwei Haltungen.** *He kept his hands at his
-sides* und *He put both hands behind his back* stehen ueber beide Baende
-verteilt und sind seine einzigen. **Er geht sie durch, und keine passt.**
-*He has only the two.* **Keine neue Geste, kein Buecken, nichts Erfundenes -
-das vorhandene Repertoire laeuft leer.**
+### Der Ton, berichtigt am 29.08.
 
-**Freude, und die Formel dafuer stand schon da, nur andersherum.** Dreimal im
-Buch: *something went across his face **and did not stay***. **Ein einziges
-Mal bleibt es**, und *which it does not* sagt dem Leser, dass das noch nie
-vorgekommen ist, ohne es zu behaupten.
+**Meine bisherigen Fassungen waren alle dasselbe, und der Autor hat es in
+einem Wort erledigt: nicht interessant.** Sie waren Maschine - ein Zaehler,
+der nicht anspringt, zwei Haltungen, die durchlaufen, eine Formel, die leer
+feuert. **Praezise, kalt und im falschen Register.**
 
-**Damit reimt sich der Schluss der Szene auf ihren ersten Satz:** *Park
-Sang-hoon telephoned at eleven, **which he does not do**.*
+**Verlangt ist etwas anderes: ein kleiner Junge, der zum ersten Mal ein
+Kompliment bekommt.** Glueck und Unbeholfenheit, nicht Ausfall und Fehlstart.
 
-**Der Zeuge: Mrs Seo, und sie kommt aus der Szene selbst.** Oben steht *He did
-not sit down and he did not take the coffee.* **Der Kaffee steht noch da, und
-irgendwer holt ihn.** Sie ist seit neun Jahren die Instanz, an der man merkt,
-dass etwas passiert ist (`b2 ch23:98`, `b2 ch23:246`) - **und sie meldet die
-Freude von aussen, weil dieses Buch Gefuehle nie von innen benennt.**
+**Und das ist die eine Sorte Reaktion, die dieser Mann nie gehabt hat.**
+Neun Jahre alt, als jemand ausgerechnet hat, was seine Mutter schuldete
+(`b1 ch01:10`). Vier Rueckgaben, *complex character, violent*
+(`b1 ch01:30`). Elf Haeuser. **In keinem davon hat ihm jemand gesagt, dass er
+etwas gut gemacht hat, ohne dafuer etwas zu wollen.**
 
-**Und die Fehlfunktion sitzt zum Schluss.** *Nobody had said anything to him.*
-Dann trotzdem *"Yes, Mistress."* **Die Maschine fuehrt den letzten Befehl noch
-einmal aus, weil kein neuer kommt** - und genau darauf faellt ihre Zeile.
+**Deshalb *He looked at the carpet*.** Ein Mann, der seit zwei Baenden alles
+ansieht - Tueren, Haende, wer wo steht -, sieht auf den Boden. **Das ist die
+Verlegenheit, und es ist die erste im ganzen Buch.**
 
-### Fuenf weitere Fassungen der Reaktion
+**Und deshalb steht ihr Satz jetzt VOR der Reaktion und nicht danach.** Der
+Autor hat die Reihenfolge vorgegeben: aufstehen und zugehen waehrend er
+redet, "Yes, Mistress.", Kuss, ihr Satz, **dann** die Reaktion. **So ist es
+eine Bewegung und kein Wechselspiel.**
 
-**Die oben stehende heisst hier A.** Alle fuenf halten dieselbe
-Reihenfolge ein - Aufzaehlung, "Yes, Mistress.", Kuss, Reaktion, ihr Satz -
-und alle enden auf **"You cannot say that any more."**
+**Was die Bewegung fluessig macht:** sie steht mitten in seiner Erklaerung
+auf und geht los, **und er redet weiter, weil er einen Bericht nie abbricht.**
+*while he was still explaining it to her* ist der ganze Witz, und er ist
+warm statt kalt.
 
----
+**Und sie laesst ihn danach stehen.** Sie rettet ihn nicht heraus und macht
+sich nicht darueber lustig. **Sie setzt sich hin und liest weiter, und er
+steht da** - was ihm zwei Baende lang nicht passiert ist.
 
-#### B. Der falsche Bericht
+**Was dabei erhalten bleibt:** *"Yes, Mistress."* als Letztes vor dem Kuss,
+ihr Satz mit Punkt und ohne Zusammenziehung, das Halsband bleibt liegen, und
+niemand sagt ein Wort ueber den Kuss selbst.
 
-**Die Maschine liefert korrekte, unbestellte Arbeit.**
+### Die fuenf Fassungen vom 29.08. sind verworfen
 
-Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
+**B bis F standen hier: der falsche Bericht, das falsche Skript, der
+verbotene Reflex, die Ueberkorrektheit, der Junge als Zeuge.** Alle fuenf
+sind gestrichen, und der Grund ist bei allen derselbe: **sie machen aus dem
+Kuss ein Ereignis, das ihm etwas antut.** Verlangt war eines, das ihn freut.
 
-"Chairman Park will put it in front of his own people on Thursday," said Georgij, "and he will not say where it came from, because he never does."
-
-It was accurate, and it was correct, and nobody had asked for it.
-
-He heard himself finish it, which does not happen to him.
-
-There was nothing wrong with his face until quite a long way into it.
-
-Mrs Seo came up for the tray and went back down without it.
-
-"Yes, Mistress," he said.
-
-"You cannot say that any more."
-
-**Was sie kann:** *He heard himself finish it* ist der praeziseste Ausfall der
-fuenf - ein Mann, der jedem Satz vorausdenkt, hoert einen von sich zu Ende
-gehen. **Was sie kostet:** keine Unbeholfenheit im Koerper, sie ist ganz
-sprachlich.
-
----
-
-#### C. Das falsche Skript
-
-**Es feuert die falsche Hoeflichkeitsformel.**
-
-Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
-
-"Thank you," said Georgij.
-
-It is what he says to men who hand him things across desks.
-
-He worked out what he had just done at the speed he works everything out, and then had nowhere at all to put the answer.
-
-His face did not go back to what it had been before.
-
-Mrs Seo was in the doorway and had been there for some of it, and she took the tray away and put it down in the kitchen on the wrong table.
-
-"Yes, Mistress," he said.
-
-"You cannot say that any more."
-
-**Was sie kann:** *"Thank you"* ist im selben Kapitel schon einmal gefallen,
-zu Sang-hoon, und war dort eine Verhandlungsmarke. **Derselbe Satz an eine
-Wange gerichtet ist die Peinlichkeit in reiner Form.** **Was sie kostet:**
-sie ist die grausamste, und sie macht ihn kleiner als die anderen vier.
-
----
-
-#### D. Der verbotene Reflex
-
-**Die eine Bewegung, die er sich seit zwei Baenden verbietet, kommt durch.**
-
-Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
-
-Georgij lifted his chin.
-
-He has spent two years not doing that. A man with something at his throat lifts the chin, and then everybody in the room looks at the throat.
-
-He put it down again. It was much too late, and it was the wrong room to be too late in.
-
-Mrs Seo was in the doorway with the tray and had seen all of it, and she has been in that house for nine years, and she went back down the stairs with it still full.
-
-Something went across his face and stayed there, which it does not.
-
-"Yes, Mistress," he said.
-
-"You cannot say that any more."
-
-**Was sie kann:** `b1 ch07:64` steht woertlich so da - *Not up. Level. A man
-with something at his throat lifts the chin, and then eight hundred people
-and four photographers and every picture desk in the country look at the
-throat.* **Es ist die einzige Bewegung, von der das Buch ausdruecklich sagt,
-dass er sie nie macht.** Und sie zeigt in derselben Sekunde auf das Halsband,
-in der sie ihm die Anrede wegnimmt. **Was sie kostet:** nichts, ausser dass
-sie ernster ist als komisch.
-
----
-
-#### E. Die Ueberkorrektheit
-
-**Kein sichtbarer Ausfall. Der Zeitversatz ist der ganze Rest des Tages.**
-
-Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
-
-"Yes, Mistress," he said.
-
-"You cannot say that any more."
-
-Georgij did the rest of that day properly.
-
-He did the note on the Busan schedule that he had been leaving since Monday, and the two telephone calls, and a thing with the gate log that nobody had asked for. All of it was better than it needed to be.
-
-Mrs Seo said afterwards that he had been up and down those stairs about nine times, and had not been carrying anything on four of them.
-
-**Was sie kann:** **ein Mann, der viermal ohne Grund eine Treppe geht, ist in
-diesem Buch die groesstmoegliche Freude**, und sie wird von der Haushaelterin
-gezaehlt und nicht von ihm. **Was sie kostet:** Staunen und Unbeholfenheit
-fallen weg. Es bleibt Zeitversatz und Freude. **Das ist die kaelteste der
-fuenf und die einzige, die gar nicht komisch ist.**
-
----
-
-#### F. Der Junge als Zeuge, und das ist kein Ersatz, sondern ein Anbau
-
-**Kombinierbar mit jeder der fuenf.** Lot elf ist sechzehn, wieder im Haus und
-Bediensteter, und er lernt, indem er zusieht und hinterher fragt.
-
-The boy was on the landing with the coffee, because that is his work now, and he waited until it was finished and then came in and took the cups.
-
-He asked about it four days later, in a car, which is where he asks things.
-
-"Does she do that often?"
-
-"No."
-
-"Then why did you not say anything to her?"
-
-"Because I did not have anything," said Georgij.
-
-**Was er kann:** **er verschiebt das Gewicht von Komik auf Weitergabe.** Der
-Junge sieht als Einziger im Buch beides - was mit dem Mann passiert und was
-der Mann danach zugibt. *which is where he asks things* traegt dieselbe
-Formel wie *which is where he sits* (`b2 ch89:194`). **Was er kostet:** vier
-Zeilen mehr und eine zweite Szene.
-
----
-
-#### Und mein Vorschlag ist D, mit F daran
-
-**D bringt die einzige Bewegung ins Bild, von der das Buch ausdruecklich sagt,
-dass er sie nie macht** - und sie zeigt auf das Halsband, in derselben Sekunde,
-in der ihm die Anrede genommen wird. **A ist der beste Witz, D ist die beste
-Stelle.**
-
-**Und wenn lot elf zu diesem Zeitpunkt schon im Haus ist, ist er der bessere
-Zeuge als Mrs Seo** - weil er der Einzige ist, der hinterher fragen darf.
-
----
+**Was aus F bleiben darf, wenn lot elf schon im Haus ist:** dass jemand es
+sieht und vier Tage spaeter im Auto danach fragt. **Das ist ein Anbau und
+keine Fassung**, und es kollidiert mit nichts.
 
 ### Was der zweite Durchgang gefunden hat
 
@@ -3210,95 +3054,104 @@ Geschaeftszweck, kein Mensch mit einem Groll.**
 
 ---
 
-## Der dritte Gegner: der Mann, der Hanseong tatsaechlich fuehrt
+## Der dritte Gegner ist Hanseong
 
-**Am 29.08. nachgefragt, nachdem ich geschrieben hatte, es gebe keinen. Es
-gibt einen, und er ist eine Luecke im eigenen Plan und keine Erfindung.**
+**Am 29.08. abgeraeumt, und der Einwand ist der bessere Gedanke.** Ich hatte
+den kompetenten Mann, der den Konzern fuehrt, zum dritten Gegner gemacht.
 
-### Die Luecke
+**Der Autor:** *Konzerne fuehren sich von alleine, mit den eigenen
+Geschaeftsfuehrern und Vorstaenden. Da braucht es keinen Kopf drueber, und
+deshalb darf der Kopf inkompetent sein, ohne grosse Konsequenzen zu
+befuerchten.*
 
-**Der Plan sagt ueber den Inhaber drei Sachen** (`doc/32-plan-band-3.md`, *Die
-Achse des Hanseong-Inhabers*): vier Generationen und die ersten drei konnten
-es, Herkunft bis ins achtzehnte Jahrhundert, **und er hat nie etwas gebaut.**
-Er kann nicht einmal ueber sein eigenes Haus Auskunft geben.
+**Das ist richtig, und es zerlegt meinen Vorschlag an der Wurzel.** Wenn der
+Betrieb ohne den Inhaber laeuft, ist die Inkompetenz oben folgenlos - **und
+dann gibt es niemanden, der ihn verteidigen muss, weil nichts zu verteidigen
+ist, was nicht ohnehin von selbst weiterlaeuft.** Ein Verteidiger ohne
+Verteidigungsnot ist keine Figur.
 
-**Ein Konzern dieser Groesse fuehrt sich nicht selbst.** Irgendwer fuehrt ihn,
-und dieser Jemand kommt im Plan nicht vor.
+### Und daraus folgt der dritte Gegner, statt gegen ihn zu argumentieren
 
-**Und damit hat der Angriff keinen Widerstand.** Band 3 ist der Angriff auf
-einen Chaebol. Wenn der Einzige, der ihn verteidigen muesste, ein Mann ist,
-der bei der ersten hoeflichen Frage vor Zeugen leer aussieht, **dann ist der
-ganze Band ein Schieben gegen etwas, das umfaellt.**
+**Der Gegner ist Hanseong.** Nicht der Erbe, nicht sein Berater. **Der
+Apparat.**
 
-### Die dritte Sorte, und sie ist die einzige, die noch fehlt
+**Und genau deshalb ist er der schwerste, den dieses Buch je aufgestellt
+hat.**
 
-* **Gegner 1, der Oberstaatsanwalt: Hass.**
-* **Gegner 2, der Erbe: Stand.**
-* **Gegner 3: Koennen.**
+### Georgijs Verfahren ist fuer Menschen gebaut, und nur fuer Menschen
 
-**Kein Groll, kein Rang. Ein Mann, der seine Arbeit besser macht als alle
-anderen in dem Gebaeude.**
+**Es besteht aus zwei Handgriffen, und beide setzen einen Kopf voraus:**
 
-### Warum er nicht zu schlagen ist, und es ist eine einzige Sache
+1. **Herausfinden, was ein Mann getan hat**, und es neben etwas anderes
+   legen.
+2. **Ihm hoeflich die eine Frage stellen, die er vor Zeugen nicht beantworten
+   kann** - Choi und die drei Sekunden (`b2 ch86:90`), der Inhaber und sein
+   eigenes achtzehntes Jahrhundert.
 
-**Er verteidigt nicht den Inhaber. Er verachtet den Inhaber.**
+**Ein Apparat hat keine Frage, die er nicht beantworten kann.** Er hat keine
+Eitelkeit, keine Scham, kein Abendessen, zu dem er eingeladen werden will,
+und niemanden, der drei Sekunden lang keinen Namen findet.
 
-**Er verteidigt viertausendzweihundert Leute** (`b1 ch15:332`: *Hanseong
-Shipping has four thousand two hundred employees*).
+**Zwei Baende lang war Georgijs Staerke, dass am Ende jeder Linie ein Mensch
+stand. Hier steht keiner.**
 
-**Und das ist Georgijs eigene Zahl.** Sie steht seit Band 1 in dem Satz, mit
-dem er zum ersten Mal erklaert hat, warum das, was er tut, erlaubt ist
-(`b1 ch15:314`: *You would not have to close anything. It would be enough that
-you could.*).
+### Was der Apparat stattdessen tut, und es ist unpersoenlich
 
-**Der Verteidiger haelt Georgijs Buch in der Hand.** Jedes Argument, mit dem
-Georgij sich seit zwei Baenden erlaubt, was er tut, ist das Argument dieses
-Mannes gegen ihn. **Und Georgij kann nicht dagegenreden, ohne etwas Unwahres
-zu sagen, und er sagt nie etwas Unwahres.**
+**Er antwortet in Verfahren, und keines davon hat jemand angeordnet:**
 
-### Und Georgijs Verfahren laeuft an ihm ins Leere
+* **Die Hausbanken ziehen Linien zurueck**, weil ein Kreditausschuss eine
+  Regel hat und nicht, weil jemand boese ist.
+* **Die Kanzleien fahren an**, in der Zahl, fuer die bezahlt ist.
+* **Die viertausendzweihundert werden zum politischen Schild** (`b1
+  ch15:332`) - **nicht von jemandem vorgeschoben, sondern einfach vorhanden.**
+* **Und die Zeitungen bekommen dieselbe Zeile von vier Stellen**, weil vier
+  Abteilungen unabhaengig voneinander dieselbe Pressesprache benutzen.
 
-**Seine Arbeit besteht darin herauszufinden, was ein Mann getan hat.** Dieser
-hat den Betrieb gehalten, waehrend ueber ihm vier Generationen Herkunft
-sassen. **Es gibt nichts zu finden, und was es zu finden gibt, spricht fuer
-ihn.**
+**Nichts davon kann man fragen, und nichts davon kann man beleidigen.**
 
-### Also gibt es genau einen Weg an ihm vorbei, und der ist teuer
+### Und Nam Byung-hee steht schon als Beweis im Buch
 
-**Kein Zug aus Papier. Ein besseres Angebot als das, das er gerade
-verteidigt.**
+`b2 ch34:214`, Georgij ueber die einunddreissig Namen:
 
-**Er wechselt die Seite in dem Moment, in dem die Uebernahme fuer die
-viertausendzweihundert besser ist als der Zustand** - und das ist sie nur,
-wenn Georgij vorhat, sie zu behalten. **Also muss Georgij sich vorher
-festlegen**, oeffentlich, nachpruefbar, auf etwas, wofuer er danach haftet.
+> *"Eight people it happened to is a case. I have been building a case for two
+> weeks without once asking myself who it would be presented to. **There is no
+> room. There is no panel and no prosecutor and no page in a newspaper that
+> will run it, because at the end of every line the man is not there**."*
 
-**Er hat noch nie fuer jemanden gehaftet.** Er hat Leute gerettet und ist
-weitergegangen.
+**Das ist woertlich die Beschreibung des dritten Gegners, und Georgij hat sie
+schon einmal geschrieben** - damals ueber Chois Netz. **Bei Hanseong gilt sie
+in gross und ohne Choi in der Mitte.**
 
-### Und deshalb geht dieser Gegner nicht mit dem Band zu Ende
+### Der Berater bleibt, und er ist kein Gegner
 
-**Er ist der Einzige der drei, der nicht verliert.** Der Staatsanwalt bleibt
-ein Gegner, der Erbe verliert seine Firma. **Dieser wechselt die Seite und
-behaelt seinen Betrieb.**
+**Vom Autor zugestanden: ein kompetenter innerer Berater, der fuer den Erben
+arbeitet.** Er verteidigt nichts. **Er ist der einzige Mensch in dem Gebaeude,
+der weiss, wo der Apparat tatsaechlich sitzt** - welcher Ausschuss wann tagt,
+welche Linie an welcher Unterschrift haengt, wo die Ausnahme steht.
 
-**Und damit ist er der Mann, in dessen Werk Georgij in Band 4 als kleiner
-IT-Angestellter anfaengt.** Er weiss genau, wer da hereinkommt, und er laesst
-ihn herein, **weil er sehen will, ob es ernst gemeint war.**
+**Damit ist er die Tuer und nicht die Wand.** Und er wird irgendwann
+entscheiden muessen, und dieses Buch hat fuer die Sorte Entscheidung ein
+Muster: `b2 ch82:238`, *"I have been waiting to be asked since the tenth of
+January."*
 
-**Aus dem Gegner von Band 3 wird der Lehrer von Band 4**, und Band 4 hat
-damit die Figur, die ihm gefehlt hat: **jemand, an dem Georgij Fuehrung lernen
-kann, ohne dass ihn jemand befoerdert.** Das ist die Voraussetzung fuer Band 6.
+### Warum das die dritte Sorte ist und nicht wieder Stand
 
-### Der Stand
+* **Gegner 1, der Oberstaatsanwalt: ein Mensch mit einem Grund.**
+* **Gegner 2, der Erbe: ein Mensch mit einem Rang.**
+* **Gegner 3, Hanseong: kein Mensch.**
 
-| | Sorte | Was er will | Ausgang |
-|---|---|---|---|
-| **Der Oberstaatsanwalt** | Hass, begruendet | einen Fall | bleibt Gegner |
-| **Der Hanseong-Erbe** | Stand | dass es so bleibt | verliert alles |
-| **Der Mann, der es fuehrt** | Koennen | die viertausendzweihundert | wechselt die Seite |
-| *die Kette in Singapur* | *keine* | *Gebuehren* | *eine Wand, kein Gegner* |
+**Und der Erbe wird dadurch besser und nicht kleiner.** Er darf inkompetent
+sein, weil die Inkompetenz folgenlos ist - **und das ist die eigentliche
+Beleidigung, die die Rede vom Brennholz ausspricht.** Ein Mann, der nichts
+kann und den es nicht kostet, ist genau ein groesserer Haufen desselben
+Holzes.
 
-**Drei Menschen und eine Wand.** Und der dritte ist der Einzige, mit dem
-Georgij am Ende auf derselben Seite steht - **was ihn waehrend des Bandes
-nicht ungefaehrlicher macht, sondern gefaehrlicher, weil er recht hat.**
+### Und falls doch ein drittes Gesicht gebraucht wird
+
+**Die einzige Sorte, die im ganzen Buch noch nicht besetzt ist, ist Neid mit
+Grund.** Jemand, der zwei Baende lang die gefaehrliche Arbeit gemacht hat und
+geblieben ist, wo er war, waehrend der Mann ohne Namen am Bandende Anteile an
+einem Terminal erbt.
+
+**Nicht ausgearbeitet, weil der Apparat den Platz fuellt.** Steht hier als
+Notiz und nicht als Vorschlag.
