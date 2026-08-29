@@ -95,14 +95,36 @@ everything else)
   him the only fame of his first eighteen years.
   WHY THE DECKS WERE CREATIVE (author), and it is load-bearing for
   everything he does in the new world: HE HAD NO MONEY FOR THE META DECKS.
-  Necessity first, style second. And over time he grew into the advantage
-  the odd decks bought him: bad and middling players could not handle them
-  and did not know how to play against them - they had never seen the
-  shape. HE ALSO KNEW EXACTLY WHY META WAS CLOSED TO HIM: with a meta deck
-  he would have been WORSE than the others. ADHD means he cannot think
-  long and coherently at one thing and cannot plan five moves ahead. So he
-  played from EXPERIENCE instead: estimate what the opponent can do, and
+  Necessity first, style second. THE REAL ECONOMICS (author): a little
+  money from his mother, finite; he bought USED and harvested the GOODIES
+  tournaments handed out; the weekend train ticket was split with up to
+  four others, out on the Friday and back the same day whenever possible;
+  entry was owed at every door; food on those days was what he brought or
+  nothing. FIFTY-PLUS TOURNAMENTS A YEAR on that budget. Every cost
+  examined, every free thing harvested, and playing itself never cut -
+  which is ch21's Wold arrival replayed in advance: three people on straw
+  and "it is not hardness, it is being able to count."
+  And over time he grew into the advantage the odd decks bought him: bad
+  and middling players could not handle them and did not know how to play
+  against them - they had never seen the shape. HE ALSO KNEW EXACTLY WHY
+  META WAS CLOSED TO HIM beyond the money: with a meta deck he would have
+  been WORSE than the others. ADHD means he cannot think long and
+  coherently at one thing and cannot plan five moves ahead. So he played
+  from EXPERIENCE instead: estimate what the opponent can do, and
   eliminate most of it - ALREADY AT DECK BUILDING, before the game starts.
+  THE ONE LAW OF HIS DECKS (author, and it corrects an earlier
+  paraphrase): A CARD MAY BE LOAD-BEARING, THAT IS ALLOWED. What is never
+  allowed is a DEAD CARD. He played no tribute monsters, on principle,
+  ever, because there is a situation where you need an out right now, on
+  this draw, and a card that wants two sacrifices and a next turn is
+  nothing in your hand. A man who cannot calculate his way out of a bad
+  hand cannot afford cards that are sometimes nothing, so every card had
+  to do something in every situation. Flexibility as law, not style.
+  AND THE BOOK HAS BEEN WRITING THIS MAN ALL ALONG WITHOUT KNOWING IT:
+  Improvised Weapon Handling E is the panel filing a no-dead-cards player
+  ("not a swordsman, not a knife man, a man who picks up whatever is
+  lying there", ch17). Brick stays in his belt after Invoice arrives
+  (ch28) - he is never without an out. Do not point at any of it.
   THAT IS GAARA'S ENTIRE STRATEGIC STYLE, stated once here and visible
   everywhere on the page: he does not out-calculate anybody and never
   will. HE WINS AT SETUP. He reads patterns out of experience, estimates

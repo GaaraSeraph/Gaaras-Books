@@ -36,12 +36,24 @@ He was the boy who stood a step outside every circle, close enough to hear
 the joke, far enough that nobody expected him to laugh, and by twelve he
 had stopped doing the arithmetic on it.
 
-The cards came later. Everybody played the same decks. That was the first
-thing he understood about the game: there was a correct answer, everybody
-knew it, it was printed and public and rich boys sleeved it up, and it
-cost more than anybody in his life had any intention of spending on
-cardboard. So the correct answer was closed to him, and he sat down with
-the shoebox of what he owned and built a wrong one.
+The cards came later, and with them the first budget he ever ran. There
+was a little money from his mother, and it was finite, and the game was
+not: the decks that won were public knowledge, printed and discussed and
+sleeved up by boys with allowances, and they cost more than his whole
+budget would ever add up to. So the correct answer was closed to him,
+and he learned the market instead. He bought used. He took the goodies
+tournaments handed out and valued them correctly, which almost nobody
+did. And out of all of it he built wrong answers.
+
+Fifty tournaments a year, and more. The weekend ticket was split with up
+to four others, out on the Friday, back the same day whenever it could
+be done, because a bed away from home costs money and a shared ticket
+costs almost nothing. Entry was owed at every door. Food on those days
+was what he had brought with him or it was nothing, and he would have
+called that a choice, and it half was. He ran the whole enterprise the
+way he would later run everything: every cost examined, every free thing
+harvested, and the one thing that was never allowed to be cut was
+playing.
 
 The wrong answers won more than they had any right to. It took him a
 while to see why, and when he saw it he never let go of it again: the
@@ -54,7 +66,7 @@ walked into the ones he did.
 
 The strong players did not fall apart. The strong ones took his nonsense
 to pieces in four turns, politely, without ever having seen it before,
-and he lost to them every time and studied every loss on the way home.
+and he lost to them every time and studied every loss on the train home.
 
 Because he had tried it their way. Twice, with a borrowed correct deck,
 and he had been worse with it than anyone he had ever beaten. He worked
@@ -62,18 +74,32 @@ out the reason with a clarity that would have been depressing if it had
 not been so useful: he could not hold five turns in his head. His head
 did not run long chains. It slid off, went sideways, came back holding
 something else. What it did instead, faster than anyone he knew, was
-remember. Every loss, every line that had ever killed him, every trick in
-the district. So he built against all of it in advance, at the kitchen
+remember. Every loss, every line that had ever killed him, every trick on
+the circuit. So he built against all of it in advance, at the kitchen
 table, alone, the week before, asking one question of every card in the
 list: what does my opponent want to do, and does this stop it. By the
 time anybody shuffled, most of the game had already been played.
 
-They knew him for it. In the shops and school halls of one unremarkable
-district, for a few years, the strange decks had a name attached, and the
-name got said with respect by boys who did not otherwise speak to him. It
-was the first fame of his life. He knew its exact size, and its size was
-small, and he went every single week, and it was twenty years before he
-understood what he had actually been training.
+And under all of it sat the one law he never broke: NO DEAD CARDS. A
+card was allowed to be load-bearing; a deck is permitted a heart, and
+his usually had one. What no card was ever permitted to be was useless
+in his hand at the wrong moment. He played no tribute monsters, on
+principle, ever, because there is a kind of situation where you need an
+out right now, on this draw, and what comes up instead is a thing that
+wants two sacrifices and a next turn you will not live to see. A man who
+cannot calculate his way out of a bad hand cannot afford to own cards
+that are sometimes nothing. So every card he ever sleeved did something,
+in every situation, and the flexibility was never style. It was the load
+his head could actually carry, turned into a rule.
+
+They knew him for it. On the circuit, for a few years, the strange decks
+had a name attached, and the name got said with respect by boys who did
+not otherwise speak to him, and four of them at a time would split a
+train ticket with him, which he priced as arithmetic because arithmetic
+was safer than the other word for it. It was the first fame of his life.
+He knew its exact size, and its size was small, and he went every single
+week, hungry, and it was twenty years before he understood what he had
+actually been training.
 
 
 === 2. EIGHTEEN, AND THE QUESTION ===
@@ -194,11 +220,16 @@ him: one man selling IT consulting, machines kept running, backups kept
 honest, processes automated that the client's own people still did by
 hand. Income, not a company. Good work, done well, for a main client who
 had long since stopped shopping around and had long since become the
-whole number. He knew better. He had known better since the shoebox:
-never build a deck where one card carries the whole game, because the
-game will find that card. What he had never once thought to check was
-how many of his cards one hand could reach. Her hand could reach all of
-them. But the work was good and the
+whole number.
+
+And by his own old law, that was in order. A deck is allowed a
+load-bearing card; he had played them all his life and won with them.
+The law was about something else - no dead cards, an out in every draw -
+and he had kept it everywhere he knew to look. What twenty-nine taught
+him was that his rulebook had no entry for the actual danger. The
+question was never whether one card carried the game. The question was
+how many of his cards one hand could reach, and her hand could reach
+all of them. But the work was good and the
 money was good and the year was full, and she was there, and a man with a
 full year lets the rule slide the way a man with a mild winter buys no
 firewood.

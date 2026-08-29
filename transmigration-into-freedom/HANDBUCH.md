@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 6 Dokumente am Stueck. 79.996 Woerter.
+Alle 6 Dokumente am Stueck. 80.880 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -848,6 +848,30 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== The tournament economics, and the real law of the decks ===
+Two author corrections. ONE: THE SHOEBOX IS DELETED - a stand-in that
+undersold the truth. The real childhood economics are in story 1 and the
+bible now: a little money from his mother, cards bought used, tournament
+goodies harvested, the weekend ticket split with up to four others
+(Fridays out, same day back when possible), entry fees at every door,
+food brought along or skipped, FIFTY-PLUS TOURNAMENTS A YEAR. The boy
+ran a budget, not a shoebox - and ch21's straw-bed arithmetic ("it is
+not hardness, it is being able to count") turns out to be the tournament
+economics replayed.
+TWO: THE LAW OF THE DECKS IS CORRECTED. My paraphrase ("never build a
+deck where one card carries the whole game") was wrong: A LOAD-BEARING
+CARD IS ALLOWED. The real law was NO DEAD CARDS - no tribute monsters,
+ever, on principle, because when you need an out right now, a card that
+wants two sacrifices and a next turn is nothing in your hand. Story 5's
+anchor is reworked accordingly, and it got sharper: at twenty-nine the
+one main client was PERMITTED under his own rulebook, which is exactly
+why the break broke him - he kept his rules and lost everything anyway,
+because the rulebook had no entry for how many of his cards one hand
+could reach.
+RESONANCES FILED: Improvised Weapon Handling is the panel filing a
+no-dead-cards player; Brick staying in the belt next to Invoice is the
+same law. Neither gets pointed at on the page.
 
 === Two daughters, and the file on them is closed ===
 The author: "2 Toechter, mehr gebe ich Dir nicht dazu." Entered in the
@@ -3511,14 +3535,36 @@ everything else)
   him the only fame of his first eighteen years.
   WHY THE DECKS WERE CREATIVE (author), and it is load-bearing for
   everything he does in the new world: HE HAD NO MONEY FOR THE META DECKS.
-  Necessity first, style second. And over time he grew into the advantage
-  the odd decks bought him: bad and middling players could not handle them
-  and did not know how to play against them - they had never seen the
-  shape. HE ALSO KNEW EXACTLY WHY META WAS CLOSED TO HIM: with a meta deck
-  he would have been WORSE than the others. ADHD means he cannot think
-  long and coherently at one thing and cannot plan five moves ahead. So he
-  played from EXPERIENCE instead: estimate what the opponent can do, and
+  Necessity first, style second. THE REAL ECONOMICS (author): a little
+  money from his mother, finite; he bought USED and harvested the GOODIES
+  tournaments handed out; the weekend train ticket was split with up to
+  four others, out on the Friday and back the same day whenever possible;
+  entry was owed at every door; food on those days was what he brought or
+  nothing. FIFTY-PLUS TOURNAMENTS A YEAR on that budget. Every cost
+  examined, every free thing harvested, and playing itself never cut -
+  which is ch21's Wold arrival replayed in advance: three people on straw
+  and "it is not hardness, it is being able to count."
+  And over time he grew into the advantage the odd decks bought him: bad
+  and middling players could not handle them and did not know how to play
+  against them - they had never seen the shape. HE ALSO KNEW EXACTLY WHY
+  META WAS CLOSED TO HIM beyond the money: with a meta deck he would have
+  been WORSE than the others. ADHD means he cannot think long and
+  coherently at one thing and cannot plan five moves ahead. So he played
+  from EXPERIENCE instead: estimate what the opponent can do, and
   eliminate most of it - ALREADY AT DECK BUILDING, before the game starts.
+  THE ONE LAW OF HIS DECKS (author, and it corrects an earlier
+  paraphrase): A CARD MAY BE LOAD-BEARING, THAT IS ALLOWED. What is never
+  allowed is a DEAD CARD. He played no tribute monsters, on principle,
+  ever, because there is a situation where you need an out right now, on
+  this draw, and a card that wants two sacrifices and a next turn is
+  nothing in your hand. A man who cannot calculate his way out of a bad
+  hand cannot afford cards that are sometimes nothing, so every card had
+  to do something in every situation. Flexibility as law, not style.
+  AND THE BOOK HAS BEEN WRITING THIS MAN ALL ALONG WITHOUT KNOWING IT:
+  Improvised Weapon Handling E is the panel filing a no-dead-cards player
+  ("not a swordsman, not a knife man, a man who picks up whatever is
+  lying there", ch17). Brick stays in his belt after Invoice arrives
+  (ch28) - he is never without an out. Do not point at any of it.
   THAT IS GAARA'S ENTIRE STRATEGIC STYLE, stated once here and visible
   everywhere on the page: he does not out-calculate anybody and never
   will. HE WINS AT SETUP. He reads patterns out of experience, estimates
@@ -6328,12 +6374,24 @@ He was the boy who stood a step outside every circle, close enough to hear
 the joke, far enough that nobody expected him to laugh, and by twelve he
 had stopped doing the arithmetic on it.
 
-The cards came later. Everybody played the same decks. That was the first
-thing he understood about the game: there was a correct answer, everybody
-knew it, it was printed and public and rich boys sleeved it up, and it
-cost more than anybody in his life had any intention of spending on
-cardboard. So the correct answer was closed to him, and he sat down with
-the shoebox of what he owned and built a wrong one.
+The cards came later, and with them the first budget he ever ran. There
+was a little money from his mother, and it was finite, and the game was
+not: the decks that won were public knowledge, printed and discussed and
+sleeved up by boys with allowances, and they cost more than his whole
+budget would ever add up to. So the correct answer was closed to him,
+and he learned the market instead. He bought used. He took the goodies
+tournaments handed out and valued them correctly, which almost nobody
+did. And out of all of it he built wrong answers.
+
+Fifty tournaments a year, and more. The weekend ticket was split with up
+to four others, out on the Friday, back the same day whenever it could
+be done, because a bed away from home costs money and a shared ticket
+costs almost nothing. Entry was owed at every door. Food on those days
+was what he had brought with him or it was nothing, and he would have
+called that a choice, and it half was. He ran the whole enterprise the
+way he would later run everything: every cost examined, every free thing
+harvested, and the one thing that was never allowed to be cut was
+playing.
 
 The wrong answers won more than they had any right to. It took him a
 while to see why, and when he saw it he never let go of it again: the
@@ -6346,7 +6404,7 @@ walked into the ones he did.
 
 The strong players did not fall apart. The strong ones took his nonsense
 to pieces in four turns, politely, without ever having seen it before,
-and he lost to them every time and studied every loss on the way home.
+and he lost to them every time and studied every loss on the train home.
 
 Because he had tried it their way. Twice, with a borrowed correct deck,
 and he had been worse with it than anyone he had ever beaten. He worked
@@ -6354,18 +6412,32 @@ out the reason with a clarity that would have been depressing if it had
 not been so useful: he could not hold five turns in his head. His head
 did not run long chains. It slid off, went sideways, came back holding
 something else. What it did instead, faster than anyone he knew, was
-remember. Every loss, every line that had ever killed him, every trick in
-the district. So he built against all of it in advance, at the kitchen
+remember. Every loss, every line that had ever killed him, every trick on
+the circuit. So he built against all of it in advance, at the kitchen
 table, alone, the week before, asking one question of every card in the
 list: what does my opponent want to do, and does this stop it. By the
 time anybody shuffled, most of the game had already been played.
 
-They knew him for it. In the shops and school halls of one unremarkable
-district, for a few years, the strange decks had a name attached, and the
-name got said with respect by boys who did not otherwise speak to him. It
-was the first fame of his life. He knew its exact size, and its size was
-small, and he went every single week, and it was twenty years before he
-understood what he had actually been training.
+And under all of it sat the one law he never broke: NO DEAD CARDS. A
+card was allowed to be load-bearing; a deck is permitted a heart, and
+his usually had one. What no card was ever permitted to be was useless
+in his hand at the wrong moment. He played no tribute monsters, on
+principle, ever, because there is a kind of situation where you need an
+out right now, on this draw, and what comes up instead is a thing that
+wants two sacrifices and a next turn you will not live to see. A man who
+cannot calculate his way out of a bad hand cannot afford to own cards
+that are sometimes nothing. So every card he ever sleeved did something,
+in every situation, and the flexibility was never style. It was the load
+his head could actually carry, turned into a rule.
+
+They knew him for it. On the circuit, for a few years, the strange decks
+had a name attached, and the name got said with respect by boys who did
+not otherwise speak to him, and four of them at a time would split a
+train ticket with him, which he priced as arithmetic because arithmetic
+was safer than the other word for it. It was the first fame of his life.
+He knew its exact size, and its size was small, and he went every single
+week, hungry, and it was twenty years before he understood what he had
+actually been training.
 
 
 === 2. EIGHTEEN, AND THE QUESTION ===
@@ -6486,11 +6558,16 @@ him: one man selling IT consulting, machines kept running, backups kept
 honest, processes automated that the client's own people still did by
 hand. Income, not a company. Good work, done well, for a main client who
 had long since stopped shopping around and had long since become the
-whole number. He knew better. He had known better since the shoebox:
-never build a deck where one card carries the whole game, because the
-game will find that card. What he had never once thought to check was
-how many of his cards one hand could reach. Her hand could reach all of
-them. But the work was good and the
+whole number.
+
+And by his own old law, that was in order. A deck is allowed a
+load-bearing card; he had played them all his life and won with them.
+The law was about something else - no dead cards, an out in every draw -
+and he had kept it everywhere he knew to look. What twenty-nine taught
+him was that his rulebook had no entry for the actual danger. The
+question was never whether one card carried the game. The question was
+how many of his cards one hand could reach, and her hand could reach
+all of them. But the work was good and the
 money was good and the year was full, and she was there, and a man with a
 full year lets the rule slide the way a man with a mild winter buys no
 firewood.

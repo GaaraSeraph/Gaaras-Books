@@ -3,6 +3,30 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The tournament economics, and the real law of the decks ===
+Two author corrections. ONE: THE SHOEBOX IS DELETED - a stand-in that
+undersold the truth. The real childhood economics are in story 1 and the
+bible now: a little money from his mother, cards bought used, tournament
+goodies harvested, the weekend ticket split with up to four others
+(Fridays out, same day back when possible), entry fees at every door,
+food brought along or skipped, FIFTY-PLUS TOURNAMENTS A YEAR. The boy
+ran a budget, not a shoebox - and ch21's straw-bed arithmetic ("it is
+not hardness, it is being able to count") turns out to be the tournament
+economics replayed.
+TWO: THE LAW OF THE DECKS IS CORRECTED. My paraphrase ("never build a
+deck where one card carries the whole game") was wrong: A LOAD-BEARING
+CARD IS ALLOWED. The real law was NO DEAD CARDS - no tribute monsters,
+ever, on principle, because when you need an out right now, a card that
+wants two sacrifices and a next turn is nothing in your hand. Story 5's
+anchor is reworked accordingly, and it got sharper: at twenty-nine the
+one main client was PERMITTED under his own rulebook, which is exactly
+why the break broke him - he kept his rules and lost everything anyway,
+because the rulebook had no entry for how many of his cards one hand
+could reach.
+RESONANCES FILED: Improvised Weapon Handling is the panel filing a
+no-dead-cards player; Brick staying in the belt next to Invoice is the
+same law. Neither gets pointed at on the page.
+
 === Two daughters, and the file on them is closed ===
 The author: "2 Toechter, mehr gebe ich Dir nicht dazu." Entered in the
 bible and in vita-stories (The Break opens the passage with two
