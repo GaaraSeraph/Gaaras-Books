@@ -1175,7 +1175,9 @@ dieses Dokument heisst *Entscheidungen und Verworfenes*.** Alles hier
 Folgende ist **beschlossen und in Kraft**, nicht verworfen. Verworfenes steht
 ausdruecklich unter `### Zurueckgenommen`.
 
-**Ausfuehrlich in `doc/32-plan-band-3.md`.**
+**Ausfuehrlich in den Plandateien**, seit dem 29.08. je Band getrennt:
+`doc/32-plan-band-3.md`, `doc/33-plan-band-4.md`, `doc/34-plan-band-5.md`,
+`doc/35-plan-band-6.md`.
 
 **Woo.** Kein Geschenk, **ein Erbe** - ein Geschenk lehnt Georgij ab, ein Erbe
 kann er nicht ablehnen, und Woo hat das Verfahren in `b2 ch82:252` selbst

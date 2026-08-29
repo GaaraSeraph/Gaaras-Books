@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 275.970 Woerter.
+Alle 19 Dokumente am Stueck plus das Begegnungsregister. 275.177 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -313,8 +313,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die schwarzen Kassen, und warum sie zwei Schlaege in einem sind](#die-schwarzen-kassen-und-warum-sie-zwei-schlaege-in-einem-sind)
   - [Die Warnung dazu, und sie ist ernst](#die-warnung-dazu-und-sie-ist-ernst)
   - [Die tote Bank, ausfuehrlich](#die-tote-bank-ausfuehrlich)
-  - [Die vier Sachen, die das braucht](#die-vier-sachen-die-das-braucht)
-  - [Und die Vorlage steht schon im Buch](#und-die-vorlage-steht-schon-im-buch)
   - [Und der Kollateralschaden ist kein Loch, sondern der Preis](#und-der-kollateralschaden-ist-kein-loch-sondern-der-preis)
   - [Der bessere dritte Gegner](#der-bessere-dritte-gegner)
   - [Und damit hat das Terminal keinen Erben](#und-damit-hat-das-terminal-keinen-erben)
@@ -336,9 +334,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Der Brief an beide: das Terminal, und dass sie damit aneinanderhaengen](#der-brief-an-beide-das-terminal-und-dass-sie-damit-aneinanderhaengen)
   - [Der Brief an Georgij, und der steht seit Band 1 bereit](#der-brief-an-georgij-und-der-steht-seit-band-1-bereit)
   - [Zwei Sachen, die dabei leicht kaputtgehen](#zwei-sachen-die-dabei-leicht-kaputtgehen)
-  - [Die drei Stellen](#die-drei-stellen)
-  - [Es muss also nichts gepflanzt werden](#es-muss-also-nichts-gepflanzt-werden)
-  - [Und die Zeile, die Band 4 daraus bekommt](#und-die-zeile-die-band-4-daraus-bekommt)
   - [Was sofort funktioniert](#was-sofort-funktioniert)
   - [Und dahinter steckt ueberhaupt nichts, und das ist der Punkt](#und-dahinter-steckt-ueberhaupt-nichts-und-das-ist-der-punkt)
   - [Die Gefahr: ein inkompetenter Gegner macht den Sieg wertlos](#die-gefahr-ein-inkompetenter-gegner-macht-den-sieg-wertlos)
@@ -357,6 +352,20 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Warum es bei genau diesen Leuten funktioniert](#warum-es-bei-genau-diesen-leuten-funktioniert)
   - [Das Verfahren hat das Buch schon einmal vorgefuehrt, und es hat funktioniert](#das-verfahren-hat-das-buch-schon-einmal-vorgefuehrt-und-es-hat-funktioniert)
   - [Und die, die nicht mitmachen, sind die bessere Szene](#und-die-die-nicht-mitmachen-sind-die-bessere-szene)
+  - [Das Alter, und der Katalog bekommt zwei Jahre zu spaet recht](#das-alter-und-der-katalog-bekommt-zwei-jahre-zu-spaet-recht)
+  - [Die Rechnung, die dabei aufgeht, ist gegen Annie](#die-rechnung-die-dabei-aufgeht-ist-gegen-annie)
+  - [Und dann steht er vor der Frage, die das ganze Buch stellt](#und-dann-steht-er-vor-der-frage-die-das-ganze-buch-stellt)
+  - [Und es setzt Band 6 auf](#und-es-setzt-band-6-auf)
+  - [Wer, und alle vier stehen schon im Buch](#wer-und-alle-vier-stehen-schon-im-buch)
+  - [Und die Stelle, die niemand ausspricht](#und-die-stelle-die-niemand-ausspricht)
+  - [Und im Haus stehen dann zwei Jungen](#und-im-haus-stehen-dann-zwei-jungen)
+- [Plan, Band 4](#plan-band-4)  ·  `doc/33-plan-band-4.md`
+  - [Die vier Sachen, die das braucht](#die-vier-sachen-die-das-braucht)
+  - [Und die Vorlage steht schon im Buch](#und-die-vorlage-steht-schon-im-buch)
+  - [Die drei Stellen](#die-drei-stellen)
+  - [Es muss also nichts gepflanzt werden](#es-muss-also-nichts-gepflanzt-werden)
+  - [Und die Zeile, die Band 4 daraus bekommt](#und-die-zeile-die-band-4-daraus-bekommt)
+- [Plan, Band 5](#plan-band-5)  ·  `doc/34-plan-band-5.md`
   - [1. Band 5 waere sonst aus lauter Uebergaengen gebaut](#1-band-5-waere-sonst-aus-lauter-uebergaengen-gebaut)
   - [2. Regel 2 bricht in Stufen, und das ist der Sinn der Sache](#2-regel-2-bricht-in-stufen-und-das-ist-der-sinn-der-sache)
   - [3. Und der Schluss steht schon geschrieben, in Kapitel 1](#3-und-der-schluss-steht-schon-geschrieben-in-kapitel-1)
@@ -367,19 +376,12 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wer das benutzt: Mr Chae, und er ist ueberfaellig](#wer-das-benutzt-mr-chae-und-er-ist-ueberfaellig)
   - [Und der zweite Faden: ihr Bruder](#und-der-zweite-faden-ihr-bruder)
   - [Was Band 5 damit ist](#was-band-5-damit-ist)
-  - [Das Alter, und der Katalog bekommt zwei Jahre zu spaet recht](#das-alter-und-der-katalog-bekommt-zwei-jahre-zu-spaet-recht)
-  - [Die Rechnung, die dabei aufgeht, ist gegen Annie](#die-rechnung-die-dabei-aufgeht-ist-gegen-annie)
-  - [Und dann steht er vor der Frage, die das ganze Buch stellt](#und-dann-steht-er-vor-der-frage-die-das-ganze-buch-stellt)
-  - [Und es setzt Band 6 auf](#und-es-setzt-band-6-auf)
   - [Jang ist der Mentor, und zwar fuer das Einzige, was Georgij nie gekonnt hat](#jang-ist-der-mentor-und-zwar-fuer-das-einzige-was-georgij-nie-gekonnt-hat)
   - [Und woraufhin genau: die Unterwelt, nicht die Fuehrung](#und-woraufhin-genau-die-unterwelt-nicht-die-fuehrung)
   - [Hwang ist der tragende Balken, und er ist es schon einmal gewesen](#hwang-ist-der-tragende-balken-und-er-ist-es-schon-einmal-gewesen)
   - [Und die Berichtigung, ohne die die Figur falsch dasteht](#und-die-berichtigung-ohne-die-die-figur-falsch-dasteht)
   - [Yeom, ein wenig: er kennt alle und will nichts](#yeom-ein-wenig-er-kennt-alle-und-will-nichts)
   - [Und die drei zusammen sind genau das, was ihm fehlt](#und-die-drei-zusammen-sind-genau-das-was-ihm-fehlt)
-  - [Und im Haus stehen dann zwei Jungen](#und-im-haus-stehen-dann-zwei-jungen)
-  - [Wer, und alle vier stehen schon im Buch](#wer-und-alle-vier-stehen-schon-im-buch)
-  - [Und die Stelle, die niemand ausspricht](#und-die-stelle-die-niemand-ausspricht)
   - [Das verlegt die Lehre von der Tat auf den Preis](#das-verlegt-die-lehre-von-der-tat-auf-den-preis)
   - [Und es ist genau das, was Georgij selbst nie bekommen hat](#und-es-ist-genau-das-was-georgij-selbst-nie-bekommen-hat)
   - [Wie der Junge es erfaehrt: so, wie dieses Haus alles erfaehrt](#wie-der-junge-es-erfaehrt-so-wie-dieses-haus-alles-erfaehrt)
@@ -409,6 +411,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was das mit Sang-hoon macht](#was-das-mit-sang-hoon-macht)
   - [Und der Preis, den es hat](#und-der-preis-den-es-hat)
   - [Wenn doch ein Feind aus dieser Ecke gebraucht wird](#wenn-doch-ein-feind-aus-dieser-ecke-gebraucht-wird)
+- [Plan, Band 6](#plan-band-6)  ·  `doc/35-plan-band-6.md`
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -516,7 +519,11 @@ Lesefassung je Band: `book-band-1.md` und `book-band-2.md`. Alle Dokumente am
 Stueck: `erzeugt/HANDBUCH.md`. **Welches Kapitel an welchem Tag spielt:
 `erzeugt/KAPITEL.md`**, eine Zeile je Kapitel, aus den Kapitelkoepfen erzeugt.
 Welche Datei gilt und wie lang sie ist: `erzeugt/MANIFEST.txt`. Was als
-Naechstes kommt: `doc/31-plan-band-2.md`.
+Naechstes kommt: `doc/32-plan-band-3.md`.
+
+**Je Band eine Plandatei**, seit dem 29.08. getrennt: `30` bis `35`. Vorher
+sind Band 3 bis 6 in einer Datei gewachsen, und genau daran ist eine Frage
+zum falschen Band gestellt worden.
 
 <!-- ZAHLEN -->
 
@@ -524,7 +531,7 @@ Naechstes kommt: `doc/31-plan-band-2.md`.
 
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
-**16 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
+**19 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
 **123 Kapitel, 327.806 Woerter.**
 
 ---
@@ -15923,115 +15930,9 @@ not a number."* ist eine Feststellung und keine Frage.
 
 # Plan, Band 3
 
-> **Achtung: dieses Dokument haelt inzwischen vier Baende.** Es ist in der
-> Reihenfolge der Gespraeche gewachsen und nicht in der Reihenfolge der
-> Handlung. **Die Navigation unten ist nach Band sortiert, der Text darunter
-> nicht.**
->
-> Wer hier etwas sucht, geht ueber diese Liste und nicht ueber das Scrollen.
-
-
-## Band 3
-
-* [Annies zweites Los ist Los elf, und es gehoert in Band 3](#annies-zweites-los-ist-los-elf-und-es-gehoert-in-band-3) `Z. 17`
-* [Singapur ist nie angefasst worden, und das ist kein Versehen mehr](#singapur-ist-nie-angefasst-worden-und-das-ist-kein-versehen-mehr) `Z. 53`
-* [Drei Gegner greifen Annie an](#drei-gegner-greifen-annie-an) `Z. 83`
-* [Der Kosmos ist zu geschlossen, und wo die Tueren stehen](#der-kosmos-ist-zu-geschlossen-und-wo-die-tueren-stehen) `Z. 136`
-* [Die Szene: Sang-hoon stellt sie vor die Wahl](#die-szene-sang-hoon-stellt-sie-vor-die-wahl) `Z. 203`
-* [Vom Autor am 28.08., zweiter Durchgang](#vom-autor-am-2808-zweiter-durchgang) `Z. 315`
-* [Gegner 1: ein echter Freund von Choi](#gegner-1-ein-echter-freund-von-choi) `Z. 317`
-* [Der Angriff auf den Chaebol laeuft ueber Anteile und die Boerse](#der-angriff-auf-den-chaebol-laeuft-ueber-anteile-und-die-boerse) `Z. 439`
-* [Gegner 3, der Vetobetroffene: offen](#gegner-3-der-vetobetroffene-offen) `Z. 505`
-* [Das Koerperliche zwischen den beiden, und wo ein Wangenkuss saesse](#das-koerperliche-zwischen-den-beiden-und-wo-ein-wangenkuss-saesse) `Z. 510`
-* [Karte oder Telefon: das Buch hat es entschieden](#karte-oder-telefon-das-buch-hat-es-entschieden) `Z. 549`
-* [Wer der Freund ist, und der Einwand dagegen ist der Grund dafuer](#wer-der-freund-ist-und-der-einwand-dagegen-ist-der-grund-dafuer) `Z. 565`
-* [Die Erlaubnis, mitten im Kampf](#die-erlaubnis-mitten-im-kampf) `Z. 592`
-* [Braucht er andere Behoerden? Ja, und die erste Akte ist Georgijs eigene](#braucht-er-andere-behoerden-ja-und-die-erste-akte-ist-georgijs-eigene) `Z. 662`
-* [Was er in den Ministerien tun darf, und wo er dabei ein anderer wird](#was-er-in-den-ministerien-tun-darf-und-wo-er-dabei-ein-anderer-wird) `Z. 696`
-* [Sang-hoons vierzig Prozent: warum die Szene in der Mitte keine Drohung ist](#sang-hoons-vierzig-prozent-warum-die-szene-in-der-mitte-keine-drohung-ist) `Z. 745`
-* [War das mit den fuenf Verladern Erpressung? Nachgelesen, und die Antwort ist geteilt](#war-das-mit-den-fuenf-verladern-erpressung-nachgelesen-und-die-antwort-ist-geteilt) `Z. 812`
-* [Die Hanseong-Gruppe, aufgemacht](#die-hanseong-gruppe-aufgemacht) `Z. 854`
-* [Der dritte Gegner ist, wer am Ende der Kette in Singapur sitzt](#der-dritte-gegner-ist-wer-am-ende-der-kette-in-singapur-sitzt) `Z. 1086`
-* [Die tote Bank ist nicht Hanseong Credit](#die-tote-bank-ist-nicht-hanseong-credit) `Z. 1110`
-* [Shorten: der gefaehrlichste Einfall im ganzen Plan, und deshalb der beste](#shorten-der-gefaehrlichste-einfall-im-ganzen-plan-und-deshalb-der-beste) `Z. 1132`
-* [Sechs Einheiten sind zu wenig fuer einen Chaebol, und das Buch weiss, wie man das loest](#sechs-einheiten-sind-zu-wenig-fuer-einen-chaebol-und-das-buch-weiss-wie-man-das-loest) `Z. 1281`
-* [Was wir uebersehen haben: sechs Faeden, die das Buch offen gelassen hat](#was-wir-uebersehen-haben-sechs-faeden-die-das-buch-offen-gelassen-hat) `Z. 1309`
-* [Wie Sang-hoon den Leerverkauf benutzt: nicht als Gewinn, sondern als Datum](#wie-sang-hoon-den-leerverkauf-benutzt-nicht-als-gewinn-sondern-als-datum) `Z. 1347`
-* [Es gibt keinen Streit mit Singapur, und der Autor hat recht damit](#es-gibt-keinen-streit-mit-singapur-und-der-autor-hat-recht-damit) `Z. 1384`
-* [Woos Frau stirbt im Buch, und das Buch zeigt es nicht](#woos-frau-stirbt-im-buch-und-das-buch-zeigt-es-nicht) `Z. 1426`
-* [Mr Chae hat mit Georgij gearbeitet, und das ist der Punkt](#mr-chae-hat-mit-georgij-gearbeitet-und-das-ist-der-punkt) `Z. 1488`
-* [Die Grabszene, und sie loest das Singapur-Problem](#die-grabszene-und-sie-loest-das-singapur-problem) `Z. 1503`
-* [Vier Entscheidungen des Autors vom 28.08.](#vier-entscheidungen-des-autors-vom-2808) `Z. 1581`
-* [Die zwanzig Prozent: die tote Bank hat damit nichts zu tun](#die-zwanzig-prozent-die-tote-bank-hat-damit-nichts-zu-tun) `Z. 1661`
-* [Die Rede an den Hanseong-Inhaber](#die-rede-an-den-hanseong-inhaber) `Z. 1712`
-* [Die Bitte um Fuehrung geht in diesem Band an den Hanseong-Inhaber](#die-bitte-um-fuehrung-geht-in-diesem-band-an-den-hanseong-inhaber) `Z. 1782`
-* [Nam geht zu Woo, und damit gehoert sie ihm ohnehin](#nam-geht-zu-woo-und-damit-gehoert-sie-ihm-ohnehin) `Z. 1809`
-* [Und die zwanzig Prozent: Fassung Woo ist entschieden](#und-die-zwanzig-prozent-fassung-woo-ist-entschieden) `Z. 1827`
-* [Woo vererbt, und damit bricht Regel 2 richtig](#woo-vererbt-und-damit-bricht-regel-2-richtig) `Z. 1837`
-* [Woos Ende: drei Briefe, und einer davon schreibt sich fast von selbst](#woos-ende-drei-briefe-und-einer-davon-schreibt-sich-fast-von-selbst) `Z. 1986`
-* [Das Ende von Band 3: Beisetzung, dann der Kuss](#das-ende-von-band-3-beisetzung-dann-der-kuss) `Z. 2047`
-* [Der Wangenkuss steht jetzt in der Sang-hoon-Szene, und das ist besser](#der-wangenkuss-steht-jetzt-in-der-sang-hoon-szene-und-das-ist-besser) `Z. 2064`
-* [Der Hanseong-Inhaber: ja, mit einer Korrektur](#der-hanseong-inhaber-ja-mit-einer-korrektur) `Z. 2162`
-* [Der Erbe: Vater konnte es, Grossvater konnte es, er ist der aelteste Sohn](#der-erbe-vater-konnte-es-grossvater-konnte-es-er-ist-der-aelteste-sohn) `Z. 2272`
-* [Die Faust: ja, und die Zahlen sagen, wie gross das ist](#die-faust-ja-und-die-zahlen-sagen-wie-gross-das-ist) `Z. 2373`
-* [Die Geschwister kaufen: das Verfahren steht in Band 1, und der Anker auch](#die-geschwister-kaufen-das-verfahren-steht-in-band-1-und-der-anker-auch) `Z. 2464`
-* [Los elf kommt in Band 3 zurueck, sechzehn und ausgebildet](#los-elf-kommt-in-band-3-zurueck-sechzehn-und-ausgebildet) `Z. 2716`
-* [Los elf: wie er ist, und wer ihn auftaut](#los-elf-wie-er-ist-und-wer-ihn-auftaut) `Z. 3133`
-
-## Band 4
-
-* [Band 4, erster Entwurf: er saniert, was er genommen hat](#band-4-erster-entwurf-er-saniert-was-er-genommen-hat) `Z. 1220`
-* [Das Halsband: zwei Gruende, es zu benutzen, und keiner davon ist Romantik](#das-halsband-zwei-gruende-es-zu-benutzen-und-keiner-davon-ist-romantik) `Z. 1471`
-* [Band 4 endet mit einem Verlobungsring, und der alte steht seit Kapitel 1 da](#band-4-endet-mit-einem-verlobungsring-und-der-alte-steht-seit-kapitel-1-da) `Z. 2105`
-
-## Band 5 und 6 zusammen
-
-* [Band 5 und Band 6: die Reihenfolge](#band-5-und-band-6-die-reihenfolge) `Z. 2532`
-
-## Band 5
-
-* [Also worum geht es in Band 5, ausser der Hochzeit](#also-worum-geht-es-in-band-5-ausser-der-hochzeit) `Z. 2597`
-* [Regel 2 ist mit der Hochzeit erledigt, und die Leiter wird dadurch kuerzer](#regel-2-ist-mit-der-hochzeit-erledigt-und-die-leiter-wird-dadurch-kuerzer) `Z. 2659`
-* [Die Vorgeschichte gehoert in denselben Band, und die Paarung ist der Grund](#die-vorgeschichte-gehoert-in-denselben-band-und-die-paarung-ist-der-grund) `Z. 2675`
-* [Die Gegner von Band 5 sind offen](#die-gegner-von-band-5-sind-offen) `Z. 2700`
-* [Band 5: die Unterwelt, und er geht dorthin zurueck, wo er herkommt](#band-5-die-unterwelt-und-er-geht-dorthin-zurueck-wo-er-herkommt) `Z. 2790`
-* [Der Name traegt, und die Begruendung wird nie ausgesprochen](#der-name-traegt-und-die-begruendung-wird-nie-ausgesprochen) `Z. 2807`
-* [Das Verfahren bleibt seins, und der Text hat es schon formuliert](#das-verfahren-bleibt-seins-und-der-text-hat-es-schon-formuliert) `Z. 2824`
-* [Die Genehmigungspflicht ist keine Lizenz, sondern eine Buchfuehrung](#die-genehmigungspflicht-ist-keine-lizenz-sondern-eine-buchfuehrung) `Z. 2849`
-* [Die Verbotsliste ist seine Biographie, und niemand im Raum weiss das](#die-verbotsliste-ist-seine-biographie-und-niemand-im-raum-weiss-das) `Z. 2871`
-* [Regel 1 im Umgang mit den Gruppen](#regel-1-im-umgang-mit-den-gruppen) `Z. 2886`
-* [Was es kostet, und ohne das ist es eine Machtphantasie](#was-es-kostet-und-ohne-das-ist-es-eine-machtphantasie) `Z. 2897`
-* [Wer ihn in Band 5 traegt: Jang, Hwang, und ein wenig Yeom](#wer-ihn-in-band-5-traegt-jang-hwang-und-ein-wenig-yeom) `Z. 2935`
-* [Der Junge wird Bediensteter, und er lernt so, wie Georgij gelernt hat](#der-junge-wird-bediensteter-und-er-lernt-so-wie-georgij-gelernt-hat) `Z. 3099`
-* [Jang war Wachmann bei mehreren Chaebol](#jang-war-wachmann-bei-mehreren-chaebol) `Z. 3185`
-* [Band 5: das erste Blut an seiner Hand](#band-5-das-erste-blut-an-seiner-hand) `Z. 3222`
-* [Erstens: er erhebt keinen Anspruch auf sich selbst](#erstens-er-erhebt-keinen-anspruch-auf-sich-selbst) `Z. 3233`
-* [Zweitens: Choi hat den Grund geliefert, warum er nicht toetet](#zweitens-choi-hat-den-grund-geliefert-warum-er-nicht-toetet) `Z. 3253`
-* [Der Text](#der-text) `Z. 3278`
-* [Was daran haengt](#was-daran-haengt) `Z. 3292`
-* [Die Bitte um Fuehrung ist nicht verbraucht, sie wird schwerer](#die-bitte-um-fuehrung-ist-nicht-verbraucht-sie-wird-schwerer) `Z. 3318`
-* [Was es kostet, und es ist nicht Reue](#was-es-kostet-und-es-ist-nicht-reue) `Z. 3338`
-* [Der Junge ist nicht dabei, entschieden am 29.08.](#der-junge-ist-nicht-dabei-entschieden-am-2908) `Z. 3369`
-* [Und danach geht er zu ihr](#und-danach-geht-er-zu-ihr) `Z. 3446`
-* [Die Menge, und sie aendert die Form an drei Stellen](#die-menge-und-sie-aendert-die-form-an-drei-stellen) `Z. 3551`
-* [Wie weit die Dokkaebi reichen: nicht ein Gebiet, sondern die Tueren](#wie-weit-die-dokkaebi-reichen-nicht-ein-gebiet-sondern-die-tueren) `Z. 3669`
-* [Kriminalitaet endet nicht, und das gehoert in einen Satz](#kriminalitaet-endet-nicht-und-das-gehoert-in-einen-satz) `Z. 3709`
-* [Wird Yeom zum Feind? Nein, und das ist schlimmer](#wird-yeom-zum-feind-nein-und-das-ist-schlimmer) `Z. 3725`
-* [Die Durchsetzung laeuft ueber Fracht und nicht ueber Gewalt](#die-durchsetzung-laeuft-ueber-fracht-und-nicht-ueber-gewalt) `Z. 3790`
-
-## Band 6
-
-* [Und daraus faellt Band 6 anders aus, als ich es notiert hatte](#und-daraus-faellt-band-6-anders-aus-als-ich-es-notiert-hatte) `Z. 2917`
-
----
-
-**Der Rest dieses Dokuments steht in Gespraechsreihenfolge.** Wenn es
-unuebersichtlich wird, ist der naechste Schritt, Band 4, 5 und 6 in eigene
-Dateien zu heben (`33-plan-band-4.md`, `34-plan-band-5.md`,
-`35-plan-band-6.md`). **Nicht getan, weil dabei etwas falsch einsortiert
-werden kann und dann leise falsch steht.**
-
----
+**Der Chaebol-Angriff.** Herausgeloest am 29.08. aus dem gewachsenen
+Sammeldokument. Band 4 steht in `33-plan-band-4.md`, Band 5 in
+`34-plan-band-5.md`, Band 6 in `35-plan-band-6.md`.
 
 *Plan. Was Band 2 an Band 3 uebergibt.*
 
@@ -17250,67 +17151,6 @@ hat.**
 
 ---
 
-# Band 4, erster Entwurf: er saniert, was er genommen hat
-
-**Vom Autor am 28.08.** Die gekauften Unternehmen werden saniert: Schwachstellen
-finden, Korruption abstellen, kompetente Leute halten, Prozesse straffen und
-automatisieren. **Und er geht als kleiner Angestellter hinein**, in die IT, fuer
-Infrastruktur - nicht fuer den direkten Anwenderdienst, der zu viel Zeit
-kostet. Das laesst ihn mit vielen Leuten reden und Dinge aufdecken, und er
-wird beliebt und man vertraut ihm.
-
-**Ja, das traegt, und zwar aus einem Grund, der groesser ist als der
-Einfall.**
-
-**Es dreht das ganze Buch um.** Drei Baende lang findet er heraus, was Leute
-getan haben, um sie zu zerlegen. Hier findet er dasselbe heraus, **um sie zu
-behalten.** Dieselbe Faehigkeit, entgegengesetztes Vorzeichen, und es braucht
-keine neue Figur.
-
-**Und die Stelle ist genau richtig gewaehlt.** Ein Mann in der Infrastruktur
-sieht alles und wird von niemandem beobachtet. Ausweislesegeraete, Fehlerlisten,
-Bestellsysteme, wer wann wo eingeloggt war - **das ist dasselbe Material wie
-Dockets und Register, nur mit Strom.** Das Buch muss dafuer seine Sprache nicht
-wechseln.
-
-**Und er bekommt, was er nie hatte, ohne dass jemand ein Wort darueber
-verliert: eine Personalnummer.** Ein Mann, dessen ganze Existenz *other
-people's paperwork about other things* war (`b1 ch25:120`), steht zum ersten
-Mal auf einer Liste als er selbst. **Das ist die Gegenszene zum vierten
-Oktober**, und es kostet keine Handlung.
-
-### Die vier Sachen, die das braucht
-
-**1. Wovon lebt er.** Ein Angestellter bekommt Lohn, und er hat in drei Baenden
-nie Geld gehabt (Regel 2). Entweder ist das der Bruch der Regel und dann ein
-Ereignis - **das erste Geld seines Lebens, von einer Firma, die ihr gehoert** -,
-oder es wird eigens geregelt und die Regelung ist eine Szene.
-
-**2. Er ist inzwischen bekannt.** Am Ende von Band 3 halten Chaebols ihn fuer
-einen Freund. Aber die, die ihn kennen, sitzen oben, und er geht nach unten.
-**In einem Werk hat nie jemand von ihm gehoert**, und das ist die Wahrheit ueber
-solche Haeuser. Die Spannung schreibt sich von selbst: irgendwann erkennt ihn
-einer von oben, im falschen Gang.
-
-**3. Der Motor.** Sanierung allein ist kein Stoff. Der Gegner steht schon da:
-**die Leute, die er gerettet hat, sind die, die es kaputtmachen.** Er hat die
-Betriebe genommen, damit sie nicht schliessen - und muss nun herausfinden,
-welche der Geschuetzten die Faeulnis sind. **Und jeder, den er findet, ist
-einer, den er selbst behalten hat.**
-
-**4. Die Uhr.** Drei Baende laufen auf Erzaehltagen. Sanierung laeuft auf
-Quartalen. Entweder bekommt Band 4 eine andere Uhr, oder er bekommt eine
-Frist, die dieselbe Uhr erzwingt.
-
-### Und die Vorlage steht schon im Buch
-
-Er hat es zweimal im Kleinen getan: **die elf aus dem Auktionshaus**, die in
-einem anderen Haus untergebracht wurden, und **Mrs Jeon**, dreiundzwanzig Jahre
-im Abwicklungsbuero, die eine Haelfte bekommt und die Entscheidung behaelt.
-**Band 4 ist dasselbe mal viertausend.**
-
----
-
 ## Sechs Einheiten sind zu wenig fuer einen Chaebol, und das Buch weiss, wie man das loest
 
 **Vom Autor gefragt am 28.08.** Eine echte Gruppe dieser Groessenordnung hat
@@ -17500,23 +17340,6 @@ Drei Antworten, und jede ist ein anderes Buch:
 3. **Georgij bekommt etwas davon.** **Das waere das erste, was er je besessen
    hat**, und es bricht Regel 2 nicht durch eine Zahlung, sondern durch ein
    Testament - das einzige Verfahren, gegen das er sich nicht wehren kann.
-
-## Das Halsband: zwei Gruende, es zu benutzen, und keiner davon ist Romantik
-
-**Am 28.08. gefragt.**
-
-**1. Band 4 kann ohne es nicht stattfinden.** Ein Mann geht als kleiner
-Angestellter in ein Werk und redet mit allen. **Er kann das nicht mit einem
-Halsband tun.** Also entweder es kommt vorher ab - und das ist das Ereignis,
-das zwei Baende lang vermieden wurde -, oder Band 4 muss erklaeren, warum
-niemand in dieser Firma etwas dazu sagt. **Das ist keine Randfrage, das ist
-die Eintrittskarte.**
-
-**2. Es hat seit dem 19. Februar keine Grundlage.** Die Zeile im Register ist
-gestrichen. Er traegt etwas, das sagt, er sei Eigentum, **und es gibt kein
-Papier im Land, das das stuetzt.** Vor einem Staatsanwalt, der eine Frau
-sucht, die zu weit geht, ist ein Mann mit einem Halsband und ohne Eintrag die
-beste halbe Stunde des Jahres.
 
 ## Mr Chae hat mit Georgij gearbeitet, und das ist der Punkt
 
@@ -18135,63 +17958,6 @@ bittet.
 behaelt es, **weil er es behalten will**. Das ist die Trennung, die Band 4
 braucht: **sie nimmt das Wort zurueck, er nicht das Zeichen.**
 
-## Band 4 endet mit einem Verlobungsring, und der alte steht seit Kapitel 1 da
-
-**Vom Autor am 28.08.: der Ring ist in Band 1, nach dem Kauf.** Das stimmt auf
-die Szene genau, und ich hatte vorher das Gegenteil gemeldet.
-
-**Berichtigung.** Ich hatte gemeldet, in hundertdreiundzwanzig Kapiteln komme
-kein Ring vor. **Das war falsch. Es sind drei Stellen**, und die Suche hat sie
-nicht uebersehen, sondern **weggeworfen**: die Wortgrenze `\b` im Muster kam
-als Steuerzeichen bei der Suche an, und das Muster konnte danach nichts mehr
-treffen. **Ein stiller Lauf, der Null meldet, ist kein Befund.** Nachgezaehlt
-wurde ohne Sonderzeichen.
-
-### Die drei Stellen
-
-| Stelle | Tag | |
-|---|---|---|
-| `b1 ch01:98` | 1 | *No jewellery except **a wedding ring on the wrong hand*** |
-| `b1 ch06:186` | 26 | *No jewellery except **the ring on the wrong hand**, and her hair up* |
-| `b2 ch78:72` | 464 | *she did not do **the thing with the ring on the wrong hand that she does when a number is bad*** |
-
-**Die erste steht im Wagen, unmittelbar nach dem Kauf**, in demselben Absatz,
-in dem er sie zum ersten Mal aus der Naehe sieht. **Genau da, wo der Autor ihn
-haben wollte.**
-
-**Der unbestimmte Artikel wird beim zweiten Mal bestimmt** - *a wedding ring*,
-dann *the ring*. Das Buch hat ihn nach einer Nennung als bekannt behandelt.
-
-**Und die dritte ist die beste, weil sie kein Schmuckstueck ist, sondern eine
-Gewohnheit.** `b2 ch78:72` erwaehnt ihn nur, um zu sagen, dass sie **es
-diesmal nicht getan hat**. Damit steht fest: sie fasst ihn an, wenn eine Zahl
-schlecht ist, sie tut es oft genug, dass es ein Zeichen ist, **und Georgij
-kennt es gut genug, um sein Fehlen zu bemerken.**
-
-### Es muss also nichts gepflanzt werden
-
-**Band 4 muss nur beantworten, was seit Tag 1 dasteht**, und der Text hat die
-Frage schon dreimal gestellt, ohne sie je auszusprechen:
-
-* **Die falsche Hand.** Der Ring sitzt seit der ersten Seite dort und wird
-  jedes Mal so genannt.
-* **Der Mann ist Vergangenheit, zweimal, und nie mit einem Grund.**
-  `b1 ch21:336`: *"the first one **was** married to me."* `b1 ch24:188`:
-  *"including the man I **married**."* **Wie er aufgehoert hat, steht
-  nirgends.**
-
-### Und die Zeile, die Band 4 daraus bekommt
-
-**Georgij hat in hundertdreiundzwanzig Kapiteln nie danach gefragt.**
-
-Ein Mann, der wildfremde Maechtige um Fuehrung bittet, weil Fragen billiger
-ist als Zudecken, **hat die eine Sache, die er wirklich wissen will, vier
-Jahre lang nicht gefragt.** Und das Buch hat den Vergleich schon gebaut,
-`b1 ch01:216`: *it was **the first question all night he had actually wanted
-the answer to**.*
-
-**Das war der Junge. Der Ring ist der zweite, und der wartet noch.**
-
 ## Der Hanseong-Inhaber: ja, mit einer Korrektur
 
 **Vom Autor am 28.08. entworfen:** inkompetent, elitaer, arrogant, erhaben.
@@ -18562,6 +18328,322 @@ braucht dafuer keine Reue, sondern nur jemanden, der es ausspricht.
 
 ---
 
+## Los elf kommt in Band 3 zurueck, sechzehn und ausgebildet
+
+**Vom Autor am 28.08. festgelegt**, und er hat recht damit, dass es schon
+festgeschrieben war - nur nicht mit einem Band daran.
+
+**Was in den Dokumenten schon steht:**
+
+* `doc/31-plan-band-2.md:1152` - *Los elf gehoert ohnehin in einen zweiten
+  Band.*
+* `doc/31-plan-band-2.md:1196` - *Los elf und der Name des Garanten,
+  **dieselbe Vorenthaltung.** Der Junge wird laut Absprache vom 23.08.
+  irgendwo geschult; wo, steht nirgends und muss auch nirgends stehen.*
+* `doc/11-figuren.md` - *Annie haelt den Namen zurueck, wie den des Garanten
+  und **wie Los elf**.*
+* `doc/14-welt.md` - Los elf wurde aus dem Katalog **zurueckgezogen**, und das
+  ist der Praezedenzfall.
+
+**Neu ist damit nur: der Band, das Alter, und dass die Ausbildung fertig ist.**
+
+### Das Alter, und der Katalog bekommt zwei Jahre zu spaet recht
+
+`b1 ch01:16`: *Lot eleven was a boy. **The file said sixteen. He was fourteen
+at the outside**, and files rounded upward when it suited the seller.*
+
+**Am vierten Oktober 2025 war er hoechstens vierzehn und stand als sechzehn im
+Buch.** In Band 3 **ist** er sechzehn.
+
+**Die Akte hat gelogen und ist von selbst wahr geworden.** Niemand hat sie
+berichtigt, niemand musste, und es hat zwei Jahre gedauert. **Das ist ein
+Satz und keine Szene, und er gehoert genau einmal hingeschrieben.**
+
+### Die Rechnung, die dabei aufgeht, ist gegen Annie
+
+**Georgij hat zweimal gefragt und zweimal keine Antwort bekommen.**
+`b1 ch01:214`: *"And the boy?"* `b1 ch04:226`: *"Has the house listed lot
+eleven yet?"* **Danach hat er aufgehoert zu fragen, zwei Baende lang.**
+
+**Und die Antwort gab es die ganze Zeit.** Sie hat ihn gekauft, am selben
+Abend, an dem sie den Namen des Garanten geholt hat.
+
+**Wenn der Junge in Band 3 durch eine Tuer kommt, erfaehrt Georgij nicht, dass
+es dem Jungen gutgeht. Er erfaehrt, dass ihm zwei Jahre lang etwas
+vorenthalten wurde, und von wem.** Das ist eine Rechnung mit der einzigen
+Person, mit der er noch keine hatte.
+
+### Und dann steht er vor der Frage, die das ganze Buch stellt
+
+**Der Junge ist ausgebildet. Er ist brauchbar. Und er will arbeiten.**
+
+**Alles, was Georgij kann, hat er in elf Haeusern gelernt.** Wenn er den
+Jungen anlernt, gibt er den Handel weiter. Wenn er es nicht tut, laesst er
+einen Sechzehnjaehrigen unbrauchbar in einer Welt, in der unbrauchbar
+gefaehrlich ist.
+
+**Es gibt keine saubere Antwort, und das ist der Grund, es einzubauen.**
+
+**Zwei Sachen, die dabei von selbst passieren und nicht erklaert werden
+duerfen:**
+
+1. **Der Junge sieht das Halsband.** Ein Mann, der eines freiwillig traegt,
+   vor einem, dem gerade eines abgenommen wurde.
+2. **Georgij war mit sechzehn im sechsten oder siebten Haus.** Er wird das
+   nicht sagen. **Er wird es einmal rechnen und dann weitermachen.**
+
+### Und es setzt Band 6 auf
+
+**Das erste Kind in Georgijs Leben ist eines, das er nicht gerettet hat.** Er
+hat einen Kaeufer ruiniert und ist weitergefahren, und eine andere hat
+bezahlt und es ihm verschwiegen.
+
+**Wer daraus Reue macht, macht es kleiner.** Es genuegt, dass es dasteht.
+
+---
+
+## Los elf: wie er ist, und wer ihn auftaut
+
+**Vom Autor am 29.08. festgelegt.** Wissbegierig, lernt schnell, **lieber
+still als redend - aus Angst, das Falsche zu sagen.** Dass er ueberhaupt
+verkauft wurde, sitzt ihm tief in den Knochen. **Er vertraut nicht wirklich.**
+
+**Das ist nicht Schuechternheit, das ist eine erlernte Rechnung**, und Georgij
+hat dieselbe gemacht: `b1 ch24:168` - *He had wanted things at nine years old
+and had stopped, **because a boy in that trade who wants something has told**
+[somebody something].*
+
+**Der Junge schweigt aus demselben Grund, aus dem Georgij aufgehoert hat, etwas
+zu wollen.** Nur ist Georgij daraus ein Werkzeug geworden und der Junge ist
+noch mitten darin.
+
+**Und deshalb darf Georgij ihn nicht auftauen.** Er ist der Beweis dafuer, dass
+die Rechnung stimmt. **Das Haus taut ihn auf.**
+
+### Wer, und alle vier stehen schon im Buch
+
+**Mrs Seo, streng und gerecht, und der Text sagt es in vier Woertern.**
+`b1 ch03:40`, zu Georgij am ersten Abend: *"I know what you are." **Not
+unkindly, and not kindly either.*** Neun Jahre im Haus, sie fuehrt Personal,
+Buecher und die Fremdfirmen, und sie traegt das Tablett selbst hinauf und
+wird es tun, *until she was carried out* (`b1 ch05:146`).
+
+**Ji-won ist die, die das Unnoetige tut, und das ist genau die Faehigkeit.**
+`b1 ch03:90`, Georgij an seinem ersten Abend:
+
+> **"Ji-won. Thank you for the light. Neither of us needed it and it was still
+> the right thing to bring."**
+
+**Sie hat ihm ein Licht gebracht, das keiner brauchte.** Das ist der Mensch,
+der einen Jungen auftaut, der niemandem traut - und es ist **schon einmal an
+demselben Mann vorgefuehrt worden.**
+
+**Eun-ju**, die von acht bis vier arbeitet, weil der Bus aus Nowon es nicht
+besser hergibt (`b1 ch05:144`). **Ein Mensch mit einem Fahrplan und ohne
+Absicht.**
+
+**Yun**, Kuechenjunge seit der ersten Januarwoche, der seit der zweiten Woche
+jeden Morgen guten Tag sagt, **was ihm niemand gesagt hat** (`b2 ch01:22`).
+**Der Gleichaltrige, und der Einzige, der nichts von ihm will.**
+
+### Und die Stelle, die niemand ausspricht
+
+**Georgij sieht, wie Ji-won dem Jungen etwas bringt, das er nicht braucht**,
+und er ist der Einzige im Haus, der weiss, was das ist, weil es ihm einmal
+selbst gebracht wurde.
+
+**Er sagt nichts. Er bedankt sich auch nicht noch einmal.**
+
+---
+
+## Der Junge wird Bediensteter, und er lernt so, wie Georgij gelernt hat
+
+**Vom Autor am 29.08. festgelegt.** Los elf kommt als **Bediensteter** ins
+Haus, und Georgij nimmt ihn **ab und zu mit**, damit er **still lernt und
+danach fragt, wenn die Lage vorbei ist.**
+
+**Das ist keine Ausbildung, das ist eine Disziplin**, und es ist genau die,
+die einen in diesem Gewerbe am Leben haelt: **nicht dazwischenreden.** Wer im
+Raum fragt, sagt dem Raum, dass er etwas nicht verstanden hat.
+
+**Und es beantwortet die offene Frage von oben, ohne sie zu loesen.** Georgij
+lernt ihn nicht an, und er laesst ihn auch nicht unbrauchbar. **Er nimmt ihn
+mit.** Der Junge sieht, was zu sehen ist, und Georgij entscheidet jedes Mal
+neu, was er beantwortet.
+
+**Wichtig, damit es nicht ruehrend wird: die Fragen kommen hinterher, und sie
+sind gut.** Ein Junge, der zwei Jahre geschult wurde und vorher in dem Handel
+war, fragt nicht, was ein Wort bedeutet. **Er fragt, warum Georgij an einer
+Stelle nichts gesagt hat.**
+
+### Und im Haus stehen dann zwei Jungen
+
+**Yun ist Kuechenjunge seit der ersten Januarwoche** (`doc/11-figuren.md`,
+b1 K34), ein gewoehnlicher Zugang, und er sagt seit der zweiten Woche jeden
+Morgen guten Tag, **was ihm niemand gesagt hat** (`b2 ch01:22`).
+
+**Zwei Jungen im selben Haus, ungefaehr gleich alt, gleiche Arbeit. Einer
+wurde eingestellt, einer wurde gekauft.**
+
+**Niemand im Haus wird das gesagt bekommen**, und Georgij ist der Einzige, der
+beide Haelften kennt. **Es wird nirgends ausgesprochen.**
+
+---
+
+# Plan, Band 4
+
+**Die Sanierung, der Werkseintritt, der Verlobungsring.** Herausgeloest am
+29.08. aus `32-plan-band-3.md`, wo alles zusammen gewachsen war.
+
+**Der Band ist erst skizziert.** Was hier steht, ist entschieden; was nicht
+hier steht, ist noch nicht besprochen.
+
+# Band 4, erster Entwurf: er saniert, was er genommen hat
+
+**Vom Autor am 28.08.** Die gekauften Unternehmen werden saniert: Schwachstellen
+finden, Korruption abstellen, kompetente Leute halten, Prozesse straffen und
+automatisieren. **Und er geht als kleiner Angestellter hinein**, in die IT, fuer
+Infrastruktur - nicht fuer den direkten Anwenderdienst, der zu viel Zeit
+kostet. Das laesst ihn mit vielen Leuten reden und Dinge aufdecken, und er
+wird beliebt und man vertraut ihm.
+
+**Ja, das traegt, und zwar aus einem Grund, der groesser ist als der
+Einfall.**
+
+**Es dreht das ganze Buch um.** Drei Baende lang findet er heraus, was Leute
+getan haben, um sie zu zerlegen. Hier findet er dasselbe heraus, **um sie zu
+behalten.** Dieselbe Faehigkeit, entgegengesetztes Vorzeichen, und es braucht
+keine neue Figur.
+
+**Und die Stelle ist genau richtig gewaehlt.** Ein Mann in der Infrastruktur
+sieht alles und wird von niemandem beobachtet. Ausweislesegeraete, Fehlerlisten,
+Bestellsysteme, wer wann wo eingeloggt war - **das ist dasselbe Material wie
+Dockets und Register, nur mit Strom.** Das Buch muss dafuer seine Sprache nicht
+wechseln.
+
+**Und er bekommt, was er nie hatte, ohne dass jemand ein Wort darueber
+verliert: eine Personalnummer.** Ein Mann, dessen ganze Existenz *other
+people's paperwork about other things* war (`b1 ch25:120`), steht zum ersten
+Mal auf einer Liste als er selbst. **Das ist die Gegenszene zum vierten
+Oktober**, und es kostet keine Handlung.
+
+### Die vier Sachen, die das braucht
+
+**1. Wovon lebt er.** Ein Angestellter bekommt Lohn, und er hat in drei Baenden
+nie Geld gehabt (Regel 2). Entweder ist das der Bruch der Regel und dann ein
+Ereignis - **das erste Geld seines Lebens, von einer Firma, die ihr gehoert** -,
+oder es wird eigens geregelt und die Regelung ist eine Szene.
+
+**2. Er ist inzwischen bekannt.** Am Ende von Band 3 halten Chaebols ihn fuer
+einen Freund. Aber die, die ihn kennen, sitzen oben, und er geht nach unten.
+**In einem Werk hat nie jemand von ihm gehoert**, und das ist die Wahrheit ueber
+solche Haeuser. Die Spannung schreibt sich von selbst: irgendwann erkennt ihn
+einer von oben, im falschen Gang.
+
+**3. Der Motor.** Sanierung allein ist kein Stoff. Der Gegner steht schon da:
+**die Leute, die er gerettet hat, sind die, die es kaputtmachen.** Er hat die
+Betriebe genommen, damit sie nicht schliessen - und muss nun herausfinden,
+welche der Geschuetzten die Faeulnis sind. **Und jeder, den er findet, ist
+einer, den er selbst behalten hat.**
+
+**4. Die Uhr.** Drei Baende laufen auf Erzaehltagen. Sanierung laeuft auf
+Quartalen. Entweder bekommt Band 4 eine andere Uhr, oder er bekommt eine
+Frist, die dieselbe Uhr erzwingt.
+
+### Und die Vorlage steht schon im Buch
+
+Er hat es zweimal im Kleinen getan: **die elf aus dem Auktionshaus**, die in
+einem anderen Haus untergebracht wurden, und **Mrs Jeon**, dreiundzwanzig Jahre
+im Abwicklungsbuero, die eine Haelfte bekommt und die Entscheidung behaelt.
+**Band 4 ist dasselbe mal viertausend.**
+
+---
+
+## Das Halsband: zwei Gruende, es zu benutzen, und keiner davon ist Romantik
+
+**Am 28.08. gefragt.**
+
+**1. Band 4 kann ohne es nicht stattfinden.** Ein Mann geht als kleiner
+Angestellter in ein Werk und redet mit allen. **Er kann das nicht mit einem
+Halsband tun.** Also entweder es kommt vorher ab - und das ist das Ereignis,
+das zwei Baende lang vermieden wurde -, oder Band 4 muss erklaeren, warum
+niemand in dieser Firma etwas dazu sagt. **Das ist keine Randfrage, das ist
+die Eintrittskarte.**
+
+**2. Es hat seit dem 19. Februar keine Grundlage.** Die Zeile im Register ist
+gestrichen. Er traegt etwas, das sagt, er sei Eigentum, **und es gibt kein
+Papier im Land, das das stuetzt.** Vor einem Staatsanwalt, der eine Frau
+sucht, die zu weit geht, ist ein Mann mit einem Halsband und ohne Eintrag die
+beste halbe Stunde des Jahres.
+
+## Band 4 endet mit einem Verlobungsring, und der alte steht seit Kapitel 1 da
+
+**Vom Autor am 28.08.: der Ring ist in Band 1, nach dem Kauf.** Das stimmt auf
+die Szene genau, und ich hatte vorher das Gegenteil gemeldet.
+
+**Berichtigung.** Ich hatte gemeldet, in hundertdreiundzwanzig Kapiteln komme
+kein Ring vor. **Das war falsch. Es sind drei Stellen**, und die Suche hat sie
+nicht uebersehen, sondern **weggeworfen**: die Wortgrenze `\b` im Muster kam
+als Steuerzeichen bei der Suche an, und das Muster konnte danach nichts mehr
+treffen. **Ein stiller Lauf, der Null meldet, ist kein Befund.** Nachgezaehlt
+wurde ohne Sonderzeichen.
+
+### Die drei Stellen
+
+| Stelle | Tag | |
+|---|---|---|
+| `b1 ch01:98` | 1 | *No jewellery except **a wedding ring on the wrong hand*** |
+| `b1 ch06:186` | 26 | *No jewellery except **the ring on the wrong hand**, and her hair up* |
+| `b2 ch78:72` | 464 | *she did not do **the thing with the ring on the wrong hand that she does when a number is bad*** |
+
+**Die erste steht im Wagen, unmittelbar nach dem Kauf**, in demselben Absatz,
+in dem er sie zum ersten Mal aus der Naehe sieht. **Genau da, wo der Autor ihn
+haben wollte.**
+
+**Der unbestimmte Artikel wird beim zweiten Mal bestimmt** - *a wedding ring*,
+dann *the ring*. Das Buch hat ihn nach einer Nennung als bekannt behandelt.
+
+**Und die dritte ist die beste, weil sie kein Schmuckstueck ist, sondern eine
+Gewohnheit.** `b2 ch78:72` erwaehnt ihn nur, um zu sagen, dass sie **es
+diesmal nicht getan hat**. Damit steht fest: sie fasst ihn an, wenn eine Zahl
+schlecht ist, sie tut es oft genug, dass es ein Zeichen ist, **und Georgij
+kennt es gut genug, um sein Fehlen zu bemerken.**
+
+### Es muss also nichts gepflanzt werden
+
+**Band 4 muss nur beantworten, was seit Tag 1 dasteht**, und der Text hat die
+Frage schon dreimal gestellt, ohne sie je auszusprechen:
+
+* **Die falsche Hand.** Der Ring sitzt seit der ersten Seite dort und wird
+  jedes Mal so genannt.
+* **Der Mann ist Vergangenheit, zweimal, und nie mit einem Grund.**
+  `b1 ch21:336`: *"the first one **was** married to me."* `b1 ch24:188`:
+  *"including the man I **married**."* **Wie er aufgehoert hat, steht
+  nirgends.**
+
+### Und die Zeile, die Band 4 daraus bekommt
+
+**Georgij hat in hundertdreiundzwanzig Kapiteln nie danach gefragt.**
+
+Ein Mann, der wildfremde Maechtige um Fuehrung bittet, weil Fragen billiger
+ist als Zudecken, **hat die eine Sache, die er wirklich wissen will, vier
+Jahre lang nicht gefragt.** Und das Buch hat den Vergleich schon gebaut,
+`b1 ch01:216`: *it was **the first question all night he had actually wanted
+the answer to**.*
+
+**Das war der Junge. Der Ring ist der zweite, und der wartet noch.**
+
+---
+
+# Plan, Band 5
+
+**Die Hochzeit, die Unterwelt, das erste Blut.** Herausgeloest am 29.08. aus
+`32-plan-band-3.md`.
+
+**Die Reihenfolge im Dokument ist die der Gespraeche und nicht die der
+Handlung.** Der Abschnitt *Band 5 und Band 6: die Reihenfolge* steht am
+Anfang und begruendet, warum was in welchem Band liegt.
+
 # Band 5 und Band 6: die Reihenfolge
 
 **Am 28.08. gefragt:** Kinder, und Georgij fuehrt das Imperium, weil Annie es
@@ -18746,80 +18828,6 @@ noch keinen Antrieb hat, der von aussen kommt.
 
 ---
 
-## Los elf kommt in Band 3 zurueck, sechzehn und ausgebildet
-
-**Vom Autor am 28.08. festgelegt**, und er hat recht damit, dass es schon
-festgeschrieben war - nur nicht mit einem Band daran.
-
-**Was in den Dokumenten schon steht:**
-
-* `doc/31-plan-band-2.md:1152` - *Los elf gehoert ohnehin in einen zweiten
-  Band.*
-* `doc/31-plan-band-2.md:1196` - *Los elf und der Name des Garanten,
-  **dieselbe Vorenthaltung.** Der Junge wird laut Absprache vom 23.08.
-  irgendwo geschult; wo, steht nirgends und muss auch nirgends stehen.*
-* `doc/11-figuren.md` - *Annie haelt den Namen zurueck, wie den des Garanten
-  und **wie Los elf**.*
-* `doc/14-welt.md` - Los elf wurde aus dem Katalog **zurueckgezogen**, und das
-  ist der Praezedenzfall.
-
-**Neu ist damit nur: der Band, das Alter, und dass die Ausbildung fertig ist.**
-
-### Das Alter, und der Katalog bekommt zwei Jahre zu spaet recht
-
-`b1 ch01:16`: *Lot eleven was a boy. **The file said sixteen. He was fourteen
-at the outside**, and files rounded upward when it suited the seller.*
-
-**Am vierten Oktober 2025 war er hoechstens vierzehn und stand als sechzehn im
-Buch.** In Band 3 **ist** er sechzehn.
-
-**Die Akte hat gelogen und ist von selbst wahr geworden.** Niemand hat sie
-berichtigt, niemand musste, und es hat zwei Jahre gedauert. **Das ist ein
-Satz und keine Szene, und er gehoert genau einmal hingeschrieben.**
-
-### Die Rechnung, die dabei aufgeht, ist gegen Annie
-
-**Georgij hat zweimal gefragt und zweimal keine Antwort bekommen.**
-`b1 ch01:214`: *"And the boy?"* `b1 ch04:226`: *"Has the house listed lot
-eleven yet?"* **Danach hat er aufgehoert zu fragen, zwei Baende lang.**
-
-**Und die Antwort gab es die ganze Zeit.** Sie hat ihn gekauft, am selben
-Abend, an dem sie den Namen des Garanten geholt hat.
-
-**Wenn der Junge in Band 3 durch eine Tuer kommt, erfaehrt Georgij nicht, dass
-es dem Jungen gutgeht. Er erfaehrt, dass ihm zwei Jahre lang etwas
-vorenthalten wurde, und von wem.** Das ist eine Rechnung mit der einzigen
-Person, mit der er noch keine hatte.
-
-### Und dann steht er vor der Frage, die das ganze Buch stellt
-
-**Der Junge ist ausgebildet. Er ist brauchbar. Und er will arbeiten.**
-
-**Alles, was Georgij kann, hat er in elf Haeusern gelernt.** Wenn er den
-Jungen anlernt, gibt er den Handel weiter. Wenn er es nicht tut, laesst er
-einen Sechzehnjaehrigen unbrauchbar in einer Welt, in der unbrauchbar
-gefaehrlich ist.
-
-**Es gibt keine saubere Antwort, und das ist der Grund, es einzubauen.**
-
-**Zwei Sachen, die dabei von selbst passieren und nicht erklaert werden
-duerfen:**
-
-1. **Der Junge sieht das Halsband.** Ein Mann, der eines freiwillig traegt,
-   vor einem, dem gerade eines abgenommen wurde.
-2. **Georgij war mit sechzehn im sechsten oder siebten Haus.** Er wird das
-   nicht sagen. **Er wird es einmal rechnen und dann weitermachen.**
-
-### Und es setzt Band 6 auf
-
-**Das erste Kind in Georgijs Leben ist eines, das er nicht gerettet hat.** Er
-hat einen Kaeufer ruiniert und ist weitergefahren, und eine andere hat
-bezahlt und es ihm verschwiegen.
-
-**Wer daraus Reue macht, macht es kleiner.** Es genuegt, dass es dasteht.
-
----
-
 # Band 5: die Unterwelt, und er geht dorthin zurueck, wo er herkommt
 
 **Vom Autor am 29.08. vorgegeben.** Er unterwirft die grossen Gruppen unter
@@ -18946,24 +18954,6 @@ besessen hat, **erteilt erwachsenen Maennern Vorschriften.** In dem Augenblick,
 in dem der Erste aus Angst gehorcht statt aus Einsicht, **ist er ein Haus.**
 
 **Der Band muss ihn das einmal sehen lassen. Er muss es nicht loesen.**
-
-## Und daraus faellt Band 6 anders aus, als ich es notiert hatte
-
-**Berichtigung meiner eigenen Notiz.** Ich hatte geschrieben, Georgij bekomme
-in Band 6 **ihre** Verbindungen, Leute und Kanaele.
-
-**Das stimmt so nicht mehr.** Wer Band 5 auf diese Weise beendet, **bringt
-seine eigenen mit.**
-
-**Er erbt ihr Netz nicht. Er heiratet mit einem zweiten hinein**, und die
-beiden Haelften seiner Welt liegen ab da nebeneinander: **oben ihr Konzern,
-unten seine Ordnung**, und er ist der Einzige, der in beiden Raeumen sitzt.
-
-**Das ist die Endstellung der Reihe** - und es ist woertlich das, was in
-Kapitel 1 gekauft wurde: *"You will be my shadow. Present when I need you.
-Absent when I don't."* **Ein Schatten liegt neben dem Ding, das ihn wirft.**
-
----
 
 ## Wer ihn in Band 5 traegt: Jang, Hwang, und ein wenig Yeom
 
@@ -19129,91 +19119,17 @@ schon einmal freiwillig auf seine Seite getreten.**
 
 ---
 
-## Der Junge wird Bediensteter, und er lernt so, wie Georgij gelernt hat
+## Der Junge wird Bediensteter: steht jetzt in Band 3
 
-**Vom Autor am 29.08. festgelegt.** Los elf kommt als **Bediensteter** ins
-Haus, und Georgij nimmt ihn **ab und zu mit**, damit er **still lernt und
-danach fragt, wenn die Lage vorbei ist.**
+**Verschoben am 29.08.** Los elf kommt in Band 3 ins Haus, also steht die
+Disziplin, mit der er lernt, auch dort: `doc/32-plan-band-3.md`, Abschnitt
+*Der Junge wird Bediensteter, und er lernt so, wie Georgij gelernt hat*.
 
-**Das ist keine Ausbildung, das ist eine Disziplin**, und es ist genau die,
-die einen in diesem Gewerbe am Leben haelt: **nicht dazwischenreden.** Wer im
-Raum fragt, sagt dem Raum, dass er etwas nicht verstanden hat.
-
-**Und es beantwortet die offene Frage von oben, ohne sie zu loesen.** Georgij
-lernt ihn nicht an, und er laesst ihn auch nicht unbrauchbar. **Er nimmt ihn
-mit.** Der Junge sieht, was zu sehen ist, und Georgij entscheidet jedes Mal
-neu, was er beantwortet.
-
-**Wichtig, damit es nicht ruehrend wird: die Fragen kommen hinterher, und sie
-sind gut.** Ein Junge, der zwei Jahre geschult wurde und vorher in dem Handel
-war, fragt nicht, was ein Wort bedeutet. **Er fragt, warum Georgij an einer
-Stelle nichts gesagt hat.**
-
-### Und im Haus stehen dann zwei Jungen
-
-**Yun ist Kuechenjunge seit der ersten Januarwoche** (`doc/11-figuren.md`,
-b1 K34), ein gewoehnlicher Zugang, und er sagt seit der zweiten Woche jeden
-Morgen guten Tag, **was ihm niemand gesagt hat** (`b2 ch01:22`).
-
-**Zwei Jungen im selben Haus, ungefaehr gleich alt, gleiche Arbeit. Einer
-wurde eingestellt, einer wurde gekauft.**
-
-**Niemand im Haus wird das gesagt bekommen**, und Georgij ist der Einzige, der
-beide Haelften kennt. **Es wird nirgends ausgesprochen.**
+**Zu Band 5 gehoert davon die Einloesung**, und die steht weiter unten unter
+*Der Junge ist nicht dabei*: der Abend, nach dem er zum ersten Mal nichts
+fragt.
 
 ---
-
-## Los elf: wie er ist, und wer ihn auftaut
-
-**Vom Autor am 29.08. festgelegt.** Wissbegierig, lernt schnell, **lieber
-still als redend - aus Angst, das Falsche zu sagen.** Dass er ueberhaupt
-verkauft wurde, sitzt ihm tief in den Knochen. **Er vertraut nicht wirklich.**
-
-**Das ist nicht Schuechternheit, das ist eine erlernte Rechnung**, und Georgij
-hat dieselbe gemacht: `b1 ch24:168` - *He had wanted things at nine years old
-and had stopped, **because a boy in that trade who wants something has told**
-[somebody something].*
-
-**Der Junge schweigt aus demselben Grund, aus dem Georgij aufgehoert hat, etwas
-zu wollen.** Nur ist Georgij daraus ein Werkzeug geworden und der Junge ist
-noch mitten darin.
-
-**Und deshalb darf Georgij ihn nicht auftauen.** Er ist der Beweis dafuer, dass
-die Rechnung stimmt. **Das Haus taut ihn auf.**
-
-### Wer, und alle vier stehen schon im Buch
-
-**Mrs Seo, streng und gerecht, und der Text sagt es in vier Woertern.**
-`b1 ch03:40`, zu Georgij am ersten Abend: *"I know what you are." **Not
-unkindly, and not kindly either.*** Neun Jahre im Haus, sie fuehrt Personal,
-Buecher und die Fremdfirmen, und sie traegt das Tablett selbst hinauf und
-wird es tun, *until she was carried out* (`b1 ch05:146`).
-
-**Ji-won ist die, die das Unnoetige tut, und das ist genau die Faehigkeit.**
-`b1 ch03:90`, Georgij an seinem ersten Abend:
-
-> **"Ji-won. Thank you for the light. Neither of us needed it and it was still
-> the right thing to bring."**
-
-**Sie hat ihm ein Licht gebracht, das keiner brauchte.** Das ist der Mensch,
-der einen Jungen auftaut, der niemandem traut - und es ist **schon einmal an
-demselben Mann vorgefuehrt worden.**
-
-**Eun-ju**, die von acht bis vier arbeitet, weil der Bus aus Nowon es nicht
-besser hergibt (`b1 ch05:144`). **Ein Mensch mit einem Fahrplan und ohne
-Absicht.**
-
-**Yun**, Kuechenjunge seit der ersten Januarwoche, der seit der zweiten Woche
-jeden Morgen guten Tag sagt, **was ihm niemand gesagt hat** (`b2 ch01:22`).
-**Der Gleichaltrige, und der Einzige, der nichts von ihm will.**
-
-### Und die Stelle, die niemand ausspricht
-
-**Georgij sieht, wie Ji-won dem Jungen etwas bringt, das er nicht braucht**,
-und er ist der Einzige im Haus, der weiss, was das ist, weil es ihm einmal
-selbst gebracht wurde.
-
-**Er sagt nichts. Er bedankt sich auch nicht noch einmal.**
 
 ## Jang war Wachmann bei mehreren Chaebol
 
@@ -19896,6 +19812,36 @@ liegt bei drei Personen, von denen niemand gewaehlt wurde.
 **Dann ist es nicht Yeom, sondern jemand, dessen Einkommen der Abbau
 beendet.** Yeom hat nichts mehr zu verlieren, das Haus ist weg. **Wer noch
 daran verdient, hat es.**
+
+---
+
+# Plan, Band 6
+
+**Kinder, und er fuehrt das Imperium.** Herausgeloest am 29.08. aus
+`32-plan-band-3.md`.
+
+**Dieser Band ist der duennste, und das ist richtig so.** Er ist der
+Schluss und wird von den Baenden davor gefuellt. Die Begruendung, warum
+die Uebergabe hierher gehoert und nicht in Band 5, steht in
+`34-plan-band-5.md` unter *Band 5 und Band 6: die Reihenfolge*.
+
+## Und daraus faellt Band 6 anders aus, als ich es notiert hatte
+
+**Berichtigung meiner eigenen Notiz.** Ich hatte geschrieben, Georgij bekomme
+in Band 6 **ihre** Verbindungen, Leute und Kanaele.
+
+**Das stimmt so nicht mehr.** Wer Band 5 auf diese Weise beendet, **bringt
+seine eigenen mit.**
+
+**Er erbt ihr Netz nicht. Er heiratet mit einem zweiten hinein**, und die
+beiden Haelften seiner Welt liegen ab da nebeneinander: **oben ihr Konzern,
+unten seine Ordnung**, und er ist der Einzige, der in beiden Raeumen sitzt.
+
+**Das ist die Endstellung der Reihe** - und es ist woertlich das, was in
+Kapitel 1 gekauft wurde: *"You will be my shadow. Present when I need you.
+Absent when I don't."* **Ein Schatten liegt neben dem Ding, das ihn wirft.**
+
+---
 
 ---
 
@@ -21076,7 +21022,9 @@ dieses Dokument heisst *Entscheidungen und Verworfenes*.** Alles hier
 Folgende ist **beschlossen und in Kraft**, nicht verworfen. Verworfenes steht
 ausdruecklich unter `### Zurueckgenommen`.
 
-**Ausfuehrlich in `doc/32-plan-band-3.md`.**
+**Ausfuehrlich in den Plandateien**, seit dem 29.08. je Band getrennt:
+`doc/32-plan-band-3.md`, `doc/33-plan-band-4.md`, `doc/34-plan-band-5.md`,
+`doc/35-plan-band-6.md`.
 
 **Woo.** Kein Geschenk, **ein Erbe** - ein Geschenk lehnt Georgij ab, ein Erbe
 kann er nicht ablehnen, und Woo hat das Verfahren in `b2 ch82:252` selbst

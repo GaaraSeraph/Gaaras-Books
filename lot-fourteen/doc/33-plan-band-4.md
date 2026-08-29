@@ -1,0 +1,142 @@
+# Plan, Band 4
+
+**Die Sanierung, der Werkseintritt, der Verlobungsring.** Herausgeloest am
+29.08. aus `32-plan-band-3.md`, wo alles zusammen gewachsen war.
+
+**Der Band ist erst skizziert.** Was hier steht, ist entschieden; was nicht
+hier steht, ist noch nicht besprochen.
+
+# Band 4, erster Entwurf: er saniert, was er genommen hat
+
+**Vom Autor am 28.08.** Die gekauften Unternehmen werden saniert: Schwachstellen
+finden, Korruption abstellen, kompetente Leute halten, Prozesse straffen und
+automatisieren. **Und er geht als kleiner Angestellter hinein**, in die IT, fuer
+Infrastruktur - nicht fuer den direkten Anwenderdienst, der zu viel Zeit
+kostet. Das laesst ihn mit vielen Leuten reden und Dinge aufdecken, und er
+wird beliebt und man vertraut ihm.
+
+**Ja, das traegt, und zwar aus einem Grund, der groesser ist als der
+Einfall.**
+
+**Es dreht das ganze Buch um.** Drei Baende lang findet er heraus, was Leute
+getan haben, um sie zu zerlegen. Hier findet er dasselbe heraus, **um sie zu
+behalten.** Dieselbe Faehigkeit, entgegengesetztes Vorzeichen, und es braucht
+keine neue Figur.
+
+**Und die Stelle ist genau richtig gewaehlt.** Ein Mann in der Infrastruktur
+sieht alles und wird von niemandem beobachtet. Ausweislesegeraete, Fehlerlisten,
+Bestellsysteme, wer wann wo eingeloggt war - **das ist dasselbe Material wie
+Dockets und Register, nur mit Strom.** Das Buch muss dafuer seine Sprache nicht
+wechseln.
+
+**Und er bekommt, was er nie hatte, ohne dass jemand ein Wort darueber
+verliert: eine Personalnummer.** Ein Mann, dessen ganze Existenz *other
+people's paperwork about other things* war (`b1 ch25:120`), steht zum ersten
+Mal auf einer Liste als er selbst. **Das ist die Gegenszene zum vierten
+Oktober**, und es kostet keine Handlung.
+
+### Die vier Sachen, die das braucht
+
+**1. Wovon lebt er.** Ein Angestellter bekommt Lohn, und er hat in drei Baenden
+nie Geld gehabt (Regel 2). Entweder ist das der Bruch der Regel und dann ein
+Ereignis - **das erste Geld seines Lebens, von einer Firma, die ihr gehoert** -,
+oder es wird eigens geregelt und die Regelung ist eine Szene.
+
+**2. Er ist inzwischen bekannt.** Am Ende von Band 3 halten Chaebols ihn fuer
+einen Freund. Aber die, die ihn kennen, sitzen oben, und er geht nach unten.
+**In einem Werk hat nie jemand von ihm gehoert**, und das ist die Wahrheit ueber
+solche Haeuser. Die Spannung schreibt sich von selbst: irgendwann erkennt ihn
+einer von oben, im falschen Gang.
+
+**3. Der Motor.** Sanierung allein ist kein Stoff. Der Gegner steht schon da:
+**die Leute, die er gerettet hat, sind die, die es kaputtmachen.** Er hat die
+Betriebe genommen, damit sie nicht schliessen - und muss nun herausfinden,
+welche der Geschuetzten die Faeulnis sind. **Und jeder, den er findet, ist
+einer, den er selbst behalten hat.**
+
+**4. Die Uhr.** Drei Baende laufen auf Erzaehltagen. Sanierung laeuft auf
+Quartalen. Entweder bekommt Band 4 eine andere Uhr, oder er bekommt eine
+Frist, die dieselbe Uhr erzwingt.
+
+### Und die Vorlage steht schon im Buch
+
+Er hat es zweimal im Kleinen getan: **die elf aus dem Auktionshaus**, die in
+einem anderen Haus untergebracht wurden, und **Mrs Jeon**, dreiundzwanzig Jahre
+im Abwicklungsbuero, die eine Haelfte bekommt und die Entscheidung behaelt.
+**Band 4 ist dasselbe mal viertausend.**
+
+---
+
+## Das Halsband: zwei Gruende, es zu benutzen, und keiner davon ist Romantik
+
+**Am 28.08. gefragt.**
+
+**1. Band 4 kann ohne es nicht stattfinden.** Ein Mann geht als kleiner
+Angestellter in ein Werk und redet mit allen. **Er kann das nicht mit einem
+Halsband tun.** Also entweder es kommt vorher ab - und das ist das Ereignis,
+das zwei Baende lang vermieden wurde -, oder Band 4 muss erklaeren, warum
+niemand in dieser Firma etwas dazu sagt. **Das ist keine Randfrage, das ist
+die Eintrittskarte.**
+
+**2. Es hat seit dem 19. Februar keine Grundlage.** Die Zeile im Register ist
+gestrichen. Er traegt etwas, das sagt, er sei Eigentum, **und es gibt kein
+Papier im Land, das das stuetzt.** Vor einem Staatsanwalt, der eine Frau
+sucht, die zu weit geht, ist ein Mann mit einem Halsband und ohne Eintrag die
+beste halbe Stunde des Jahres.
+
+## Band 4 endet mit einem Verlobungsring, und der alte steht seit Kapitel 1 da
+
+**Vom Autor am 28.08.: der Ring ist in Band 1, nach dem Kauf.** Das stimmt auf
+die Szene genau, und ich hatte vorher das Gegenteil gemeldet.
+
+**Berichtigung.** Ich hatte gemeldet, in hundertdreiundzwanzig Kapiteln komme
+kein Ring vor. **Das war falsch. Es sind drei Stellen**, und die Suche hat sie
+nicht uebersehen, sondern **weggeworfen**: die Wortgrenze `\b` im Muster kam
+als Steuerzeichen bei der Suche an, und das Muster konnte danach nichts mehr
+treffen. **Ein stiller Lauf, der Null meldet, ist kein Befund.** Nachgezaehlt
+wurde ohne Sonderzeichen.
+
+### Die drei Stellen
+
+| Stelle | Tag | |
+|---|---|---|
+| `b1 ch01:98` | 1 | *No jewellery except **a wedding ring on the wrong hand*** |
+| `b1 ch06:186` | 26 | *No jewellery except **the ring on the wrong hand**, and her hair up* |
+| `b2 ch78:72` | 464 | *she did not do **the thing with the ring on the wrong hand that she does when a number is bad*** |
+
+**Die erste steht im Wagen, unmittelbar nach dem Kauf**, in demselben Absatz,
+in dem er sie zum ersten Mal aus der Naehe sieht. **Genau da, wo der Autor ihn
+haben wollte.**
+
+**Der unbestimmte Artikel wird beim zweiten Mal bestimmt** - *a wedding ring*,
+dann *the ring*. Das Buch hat ihn nach einer Nennung als bekannt behandelt.
+
+**Und die dritte ist die beste, weil sie kein Schmuckstueck ist, sondern eine
+Gewohnheit.** `b2 ch78:72` erwaehnt ihn nur, um zu sagen, dass sie **es
+diesmal nicht getan hat**. Damit steht fest: sie fasst ihn an, wenn eine Zahl
+schlecht ist, sie tut es oft genug, dass es ein Zeichen ist, **und Georgij
+kennt es gut genug, um sein Fehlen zu bemerken.**
+
+### Es muss also nichts gepflanzt werden
+
+**Band 4 muss nur beantworten, was seit Tag 1 dasteht**, und der Text hat die
+Frage schon dreimal gestellt, ohne sie je auszusprechen:
+
+* **Die falsche Hand.** Der Ring sitzt seit der ersten Seite dort und wird
+  jedes Mal so genannt.
+* **Der Mann ist Vergangenheit, zweimal, und nie mit einem Grund.**
+  `b1 ch21:336`: *"the first one **was** married to me."* `b1 ch24:188`:
+  *"including the man I **married**."* **Wie er aufgehoert hat, steht
+  nirgends.**
+
+### Und die Zeile, die Band 4 daraus bekommt
+
+**Georgij hat in hundertdreiundzwanzig Kapiteln nie danach gefragt.**
+
+Ein Mann, der wildfremde Maechtige um Fuehrung bittet, weil Fragen billiger
+ist als Zudecken, **hat die eine Sache, die er wirklich wissen will, vier
+Jahre lang nicht gefragt.** Und das Buch hat den Vergleich schon gebaut,
+`b1 ch01:216`: *it was **the first question all night he had actually wanted
+the answer to**.*
+
+**Das war der Junge. Der Ring ist der zweite, und der wartet noch.**

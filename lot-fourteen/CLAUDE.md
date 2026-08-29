@@ -352,7 +352,10 @@ scheint.
 | **Plan** | *Was noch geschehen soll. Futur, je Band* |
 | `doc/30-plan-band-1.md` | Die Stoffbloecke von Band 1. **Geschrieben, also erledigt** |
 | `doc/31-plan-band-2.md` | Ziel, Feldzug, offene Faeden. **Hier duerfen Zeilen stehen, die im Buch nicht stehen** |
-| `doc/32-plan-band-3.md` | Was Band 2 uebergibt |
+| `doc/32-plan-band-3.md` | **Band 3.** Der Chaebol-Angriff, Woos Tod, Los elf |
+| `doc/33-plan-band-4.md` | **Band 4.** Sanierung, Werkseintritt, Verlobungsring |
+| `doc/34-plan-band-5.md` | **Band 5.** Hochzeit, Unterwelt, das erste Blut |
+| `doc/35-plan-band-6.md` | **Band 6.** Kinder, und er fuehrt es. Der duennste, und das ist richtig |
 | **Verworfenes** | |
 | `doc/40-verworfen.md` | Entscheidungen mit Begruendung, und was schon abgelehnt wurde |
 | **Archiv** | |

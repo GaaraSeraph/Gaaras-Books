@@ -30,7 +30,11 @@ Lesefassung je Band: `book-band-1.md` und `book-band-2.md`. Alle Dokumente am
 Stueck: `erzeugt/HANDBUCH.md`. **Welches Kapitel an welchem Tag spielt:
 `erzeugt/KAPITEL.md`**, eine Zeile je Kapitel, aus den Kapitelkoepfen erzeugt.
 Welche Datei gilt und wie lang sie ist: `erzeugt/MANIFEST.txt`. Was als
-Naechstes kommt: `doc/31-plan-band-2.md`.
+Naechstes kommt: `doc/32-plan-band-3.md`.
+
+**Je Band eine Plandatei**, seit dem 29.08. getrennt: `30` bis `35`. Vorher
+sind Band 3 bis 6 in einer Datei gewachsen, und genau daran ist eine Frage
+zum falschen Band gestellt worden.
 
 <!-- ZAHLEN -->
 
@@ -38,5 +42,5 @@ Naechstes kommt: `doc/31-plan-band-2.md`.
 
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
-**16 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
+**19 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
 **123 Kapitel, 327.806 Woerter.**
