@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 297.499 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 298.851 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -423,6 +423,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Szene, ganz. Geschrieben am 29.08.](#die-szene-ganz-geschrieben-am-29-08)
   - [Was sich damit aendert](#was-sich-damit-aendert)
   - [Warum das der richtige Angriff ist](#warum-das-der-richtige-angriff-ist)
+  - [Woran Georgij erkennt, dass es Absicht ist](#woran-georgij-erkennt-dass-es-absicht-ist)
   - [Die zweite Klinge: ihre Kunden](#die-zweite-klinge-ihre-kunden)
   - [Was eingebaut wird, sechs Sachen](#was-eingebaut-wird-sechs-sachen)
   - [Akt I - Sommer 2027](#akt-i-sommer-2027)
@@ -430,7 +431,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Akt III - Spaetherbst bis Winter](#akt-iii-spaetherbst-bis-winter)
   - [Die Reihenfolge der Rede, vom Autor am 29.08. zweimal festgelegt](#die-reihenfolge-der-rede-vom-autor-am-29-08-zweimal-festgelegt)
   - [Was der Brief tut, und warum nur Woo ihn schreiben kann](#was-der-brief-tut-und-warum-nur-woo-ihn-schreiben-kann)
-  - [Der Text](#der-text)
+  - [Der Text, in voller Laenge](#der-text-in-voller-laenge)
   - [Was daran gebaut ist](#was-daran-gebaut-ist)
   - [1. Hanseong, und der, der nicht verkauft hat](#1-hanseong-und-der-der-nicht-verkauft-hat)
   - [2. Einer, der unter dem Veto liegt](#2-einer-der-unter-dem-veto-liegt)
@@ -20309,6 +20310,42 @@ verzoegern kann."* **Han spielt dasselbe Stueck von der anderen Seite.**
 **4. Und es trifft sie da, wo sie nicht Chaebol ist, sondern abhaengig.**
 `doc/14-welt.md`: *"Damit ist sie nicht Wohltaeterin, sondern abhaengig."*
 
+### Woran Georgij erkennt, dass es Absicht ist
+
+**Der Einwand des Autors:** *"Wie erfahre ich, dass das Absicht ist? Jeden Tag
+passieren Probleme."* **Genau das ist die Tarnung, und sie ist gut.**
+
+**Er erkennt es nicht. Er misst es**, und zwar an drei Sachen, die alle in
+langweiligen Unterlagen stehen:
+
+**1. Es rutscht nur bei ihr.** Ein Terminal protokolliert jede
+Liegeplatzzuteilung. Ueber ein Quartal verschiebt sich ihre Ladung, **und
+sonst nichts.** Staus treffen alle. **Eine Zahl, und sie ist nicht
+mehrdeutig.**
+
+**2. Die Verspaetungen wissen, was sie kosten.** Sie treffen die Sendungen,
+bei denen eine Verspaetung teuer ist, und nicht die mit Luft darin. **Eine
+Ladung ohne Frist kommt puenktlich.**
+
+**Das ist der eigentliche Fund, und er ist schlimmer als der erste: wer das
+steuert, hat ihre Liefervertraege gelesen.** Wetter kennt keine
+Vertragsstrafen. **Und damit ist die zweite Frage aufgemacht, die den halben
+Band traegt: woher hat er sie.**
+
+**3. Und es bleibt genau unter der Schwelle.** Keine Verspaetung ist gross
+genug fuer eine foermliche Beschwerde. **Zufall weiss nicht, wo eine Schwelle
+liegt.**
+
+**Wie er darauf kommt: gar nicht durch Suchen.** Er sucht das nicht, so wenig
+wie er den Wagen in der Hotelrampe gesucht hat (`b1 ch13:46`). **Jemand
+beschwert sich ueber etwas anderes, und die Zahl faellt daneben ab** - ein
+Disponent, ein Dienstplan, eine Frau, die eine Liste fuehrt, weil sie
+abrechnen muss.
+
+**Und das ist die Symmetrie des Bandes:** Han greift unbeweisbar an, und
+Georgij beweist es trotzdem - **mit demselben Verfahren, mit dem er zwei
+Baende lang unbeweisbare Sachen bewiesen hat.**
+
 ### Die zweite Klinge: ihre Kunden
 
 **Wer unzuverlaessig liefert, verliert Kunden** - und das Buch hat den Satz
@@ -20669,17 +20706,73 @@ Schluessel dazu und macht das Thema des Bandes ausdruecklich.**
 einundfuenfzig Jahre lang getan hat und weiss, was sie kostet: *"I have never
 had a name and I have never asked for one"* (`b1 ch19:166`).
 
-### Der Text
+### Der Text, in voller Laenge
 
-The letter is one page, in his own hand, and there is no salutation on it.
+**Vom Autor am 29.08. verlangt: laenger, und mit vier Sachen darin** - Stolz,
+ihn Freund nennen zu duerfen; die Freude, zu seiner Frau zu kommen; und Dank
+fuer die zwanzig Prozent, die Ehrlichkeit und die drei Stunden.
+
+**Die drei Stunden sind belegt und gehoeren Georgij.** `b2 ch13:122`: *"You
+are the only man in this country who has ever talked to me for three hours
+without wanting anything at the end of it."* Und `b2 ch69:158`: *"In November
+you sat in a shed at Yeongjong and talked to me for three hours and wanted
+nothing at the end of it."*
 
 ---
 
-*In your first fortnight you asked me for guidance, and I gave you four sentences about a harbour board, and you thanked me as though I had handed you something. I have thought about that more often than you would believe.*
-
-*I have been answering it in pieces ever since. This is the rest of it, and it is the only part I could not say across a table, because you would have found a way to give it back inside a minute.*
+The letter is four pages, in his own hand, and there is no salutation on it.
 
 ---
+
+*In your first fortnight you asked me for guidance. I gave you four sentences about a harbour board, and you thanked me as though I had handed you something, and I have thought about that more often than you would believe.*
+
+*I have been answering it in pieces for two years. This is the rest of it. It is the only part I could not say across a table, because you would have found a way to give it back inside a minute.*
+
+*I am going to be slower than you want. I have earned that.*
+
+---
+
+*First the three hours, because they were the beginning of it and I never said this properly.*
+
+*In November you sat in a shed at Yeongjong and talked to me for three hours, and at the end of it you wanted nothing. I have been in this trade for fifty-one years and that had not happened to me before. I did not know what to do with it. I decided it was a technique, and I watched for the bill, and the bill did not come, and after about four months I stopped watching.*
+
+*I told you once that I would rather be owed than paid. That was true, and it was also the only way I could think of to keep hold of an afternoon I had no name for.*
+
+*Thank you for it. I am aware that I am thanking you for a conversation, and I am aware of how that sounds, and I want it said anyway.*
+
+---
+
+*Second, the honesty, and I want to be exact about which part.*
+
+*You have never told me a comfortable thing. Not once. You told me that my terminal was fourteen metres short and you told me why, and you told me about a fund in Singapore over soup and did not blink when I did not blink, and you told me on a hill outside the city that you could not prove something and were not going to sit at that table and tell me it was proved.*
+
+*Men have been kind to me my whole life. Being told the truth by somebody who has nothing to gain by it is a different thing, and I had it three times, and all three were you.*
+
+---
+
+*Third, the twenty per cent, and I know better than to ask again what it cost.*
+
+*I have not owned my own terminal since the year I built it. I did not say that out loud to anybody in twenty-five years, including myself, and I said it to you in about a minute and a half because you were sitting there and had already worked it out.*
+
+*You went and made it so that nobody will ever ask me for it again, and you would not tell me how, and you told me it was not why you came.*
+
+*I have had one afternoon since then in which I did not think about that arrangement at all. It was the first in a very long time. I am not going to be able to explain to you what that is worth, and I am not going to try, because you would tell me the number was smaller than I think.*
+
+---
+
+*Fourth, and this is the one I am least able to write.*
+
+*You told me in a hall in March that you considered me a friend, and I have never once said it back to you, and I would like to correct that now, at some length, because I am not going to get another chance and because you will not argue with a piece of paper.*
+
+*I was proud of it.*
+
+*I am seventy-nine years old and I have been in rooms with every man in this country who owns anything, and the thing I have been proudest of in the last two years is that a man half my age who owes nobody anything decided that I was worth being straight with. I have not told anybody that. It would have sounded like an old man being sentimental, and it was not that. It was arithmetic. I worked out what you had cost yourself by telling me the truth about the fund, and I worked out what you got back for it, and the second number was nothing, and I have never got the two of them to balance.*
+
+*It was an honour. That is not a word I use, and I have looked at it for a while, and it is the right one.*
+
+---
+
+*Now the guidance, and then I will leave you alone.*
 
 *You have never taken anything. Not from me, not from her, not from anybody, and you believe that it is the thing that keeps you safe.*
 
@@ -20687,57 +20780,81 @@ The letter is one page, in his own hand, and there is no salutation on it.
 
 *And you will not notice the day it stops, because a man notices what is taken from him and does not notice what he has refused.*
 
----
+*I did not ask for fifty-one years who lent me the money. I told myself that this was discipline. It was not discipline. It was the same habit you have, kept for longer, and I have nothing at the end of it but a terminal and a small man with bad teeth whom I never once thanked.*
 
-*I did not ask for fifty-one years who lent me the money. I told myself that this was discipline, and it was not. It was the same habit you have, kept for longer, and I have nothing at the end of it but a terminal and a small man with bad teeth who I never once thanked.*
-
-*You gave me that man's account of himself on a hill outside the city and would not tell me what it cost you. I am aware that this letter is the second half of that conversation and that you will not enjoy it.*
+*So I have arranged this so that you cannot refuse it. You may be as angry about that as you like. I have been dead for some hours and it will not reach me.*
 
 ---
 
-*So I have arranged this so that you cannot refuse it. It is not a kindness. I am not doing it for you.*
+*One more thing and then I am finished.*
 
----
-
-*One more thing, and then I am finished.*
-
-*You once heard what a man asked me about the terminal and what would become of it if I died on a Tuesday, and you took that question away with you and used it on somebody else, and it worked, and I was glad.*
+*You once heard what a man asked me about the terminal, and what would become of it if I died on a Tuesday. You took that question away with you and used it on somebody else, and it worked, and I was glad.*
 
 *Ask it about yourself.*
 
-*And when you answer it, do not answer it the way I did, because I answered it honestly and the honest answer was that everything I built would be sold within a year, and I let that stand for twenty-five years and called it clear sight.*
+*And do not answer it the way I did. I answered it honestly, and the honest answer was that everything I built would be sold inside a year, and I let that stand for twenty-five years and called it clear sight.*
 
 *It was not clear sight. It was that I had nobody, and I had arranged that as carefully as you have arranged yours.*
 
 ---
 
+*I am going to my wife.*
+
+*I have been telling myself since September that a man of my age does not get to be glad about a thing like that, and I have stopped telling myself. I am glad. She has been waiting since the ninth and she was never good at waiting.*
+
+*You came to that hill and you did not bring anything, and you said you did not know what she had liked and there was nobody left to ask. There was. You could have asked me and you did not, because you thought it would cost me something.*
+
+*She liked being read to, and she was better at figures than I was, and she thought I was funnier than I am. I would have told you all of it. I am telling you now.*
+
+---
+
+*You have the rest of it in the other envelope. Do not thank anybody for it. It was mine and now it is not, and that is all that has happened.*
+
+*Be careful in the rooms you should not be in. I did tell you.*
+
+---
+
 ### Was daran gebaut ist
 
-**1. Kein Salut, eine Seite, eigene Hand.** `b2 ch82:252` sagt, wie Woo so
-etwas macht: *All four, in my hand.*
+**1. Vier Seiten und *I am going to be slower than you want*.** `b2 ch77:106`
+zeigt genau diesen Woo: *he described the paperwork for slightly longer than
+the story needed, in the way of a man who has decided to be accurate because
+the rest of it is going to be difficult.*
 
-**2. Er nimmt die Gabe im Akt des Gebens zurueck** - *It is not a kindness. I
-am not doing it for you.* **Woertlich die Formel aus `b2 ch82:260`, und die
-einzige Form, in der Georgij ueberhaupt etwas annehmen kann.**
+**2. Der Dank fuer die drei Stunden ist belegt und nicht erfunden.**
+`b2 ch13:122` und `b2 ch69:158`. **Und *I decided it was a technique, and I
+watched for the bill*** ist die einzige ehrliche Reaktion eines Mannes aus
+diesem Gewerbe.
 
-**3. Die Grabszene bekommt ihre zweite Haelfte.** *You would not tell me what
-it cost you.* **Woo hat gefragt und keine Antwort bekommen** (*"How much did
-that cost you." - "Nothing I am going to put in front of you today."*), **und
-der Brief ist seine Antwort auf eine Antwort, die er nicht bekommen hat.**
+**3. Die Ehrlichkeit wird auf drei Stellen genau benannt** - die vierzehn
+Meter (`b1 ch19:48`), der Fonds ueber der Suppe (`b1 ch19:162`), und *I
+cannot prove it and I am not going to sit at this table and tell you it is
+proved* von der Grabszene. **Woo zaehlt, wie Georgij zaehlt.**
 
-**4. Der Kern ist eine Diagnose und kein Rat:** *a man notices what is taken
-from him and does not notice what he has refused.* **Woo stellt fest, was er
-sieht, weil er es an sich selbst gesehen hat.**
+**4. *It was an honour. That is not a word I use.*** Der Stolz kommt als
+Rechnung und nicht als Gefuehl: er hat ausgerechnet, was Georgij die
+Wahrheit gekostet und was sie ihm eingebracht hat, **und die zweite Zahl ist
+null.** So denkt dieser Mann, und deshalb traegt der Satz.
 
-**5. Und die Dienstagsfrage kommt zurueck, dreimal gewendet** - gestellt von
-einem Toten an Woo, weitergegeben von Woo an Georgij, benutzt von Georgij an
-Ye-rin (`b1 ch31:358`), **und jetzt zurueckgegeben, damit er sie an sich
-selbst stellt.** Das ist das Thema von Band 6 in einem Satz.
+**5. *You may be as angry about that as you like. I have been dead for some
+hours and it will not reach me.*** Die Formel aus `b2 ch82:260` bleibt, wird
+aber trocken statt kalt - **ein Mann, der aus dem Grab heraus die
+Verhandlung gewinnt.**
 
-**6. Und die letzte Zeile ist das haerteste Selbsturteil im ganzen Buch:**
-*I had nobody, and I had arranged that as carefully as you have arranged
-yours.* **Woo sagt nicht, Georgij solle sich aendern. Er sagt, was es ihn
-gekostet hat, es nicht zu tun** - und ueberlaesst ihm den Rest.
+**6. Die Frau, und es ist der schwerste Absatz.** *She has been waiting since
+the ninth and she was never good at waiting* - der neunte September 2026,
+Erzaehltag 341. **Und dann die Antwort auf die Zeile, mit der die Grabszene
+oeffnet:** *He did not bring anything. He did not know what she had liked and
+there was nobody left to ask.* **Es gab jemanden. Georgij hat nicht gefragt,
+weil er dachte, es koste ihn etwas** - und Woo sagt es ihm jetzt trotzdem, in
+drei Halbsaetzen, und es ist das Einzige im Brief, was ihm gehoert und nicht
+Georgij.
+
+**7. *Be careful in the rooms you should not be in. I did tell you.***
+`b1 ch19:382`: *"That is the only trick you have got, and it is a very good
+one, and one day it is going to get you into a room you should not be in."*
+**Der letzte Satz des Briefes ist ein Rueckruf auf den ersten Rat, den er ihm
+je gegeben hat** - und in Band 5 stimmt er.
 
 ---
 
