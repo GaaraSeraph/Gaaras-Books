@@ -2696,36 +2696,78 @@ Mensch mit einem eigenen Grund - Choi, Sang-hoon, Nam, der Erbe. **Eine
 Struktur kann man aufmachen, aber nicht schlagen**, und der Leser kann ihr
 nichts uebelnehmen.
 
-**2. Der Autor hat den Streit mit Singapur selbst zurueckgewiesen**, und zu
-Recht: die Kette ist Installation und keine Gegenpartei.
+**2. Und ich habe den Autor falsch wiedergegeben.** Er hat den Streit mit
+Singapur **nicht** zurueckgewiesen. Er hat einen **Grund** dafuer verlangt.
+**Sinnloser Streit wird abgelehnt, nicht der Streit.**
+
+**Den Grund gibt es, und er steht schon aufgebaut:**
+
+**Die Kette ist das, was den Handel unangreifbar macht.** Jedes Haus, jeder
+Kaeufer, jeder Fonds, dem ein Stueck davon gehoert, sitzt hinter diesen
+Kanzleien. **Wer den Handel zerlegen will, steht irgendwann vor der Wand, und
+die Wand ist ihr ganzer Geschaeftszweck.**
+
+**Und Georgij hat sie in Band 3 bereits angefasst.** Um Woos zwanzig Prozent
+unerreichbar zu machen, musste er hineinsehen. **Wer in so eine Kette
+hineingesehen hat, ist dort bekannt.** Der Streit faengt nicht damit an, dass
+er sie angreift, sondern damit, **dass sie gemerkt haben, dass jemand
+nachgesehen hat.**
+
+**Das ist ein Grund und kein Vorwand**, und er kostet keine neue Erfindung.
 
 **3. Und es fehlt eine dritte Sorte.** Der Freund von Choi ist **Trauer**. Der
 Erbe ist **Stand**. Der dritte darf nicht wieder Geld sein.
 
-### Der Vorschlag: der Mann, den er nicht gemeint hat
+### Der Vorschlag, und meine erste Fassung davon war unbrauchbar
 
-**Jemand, dessen Geld in denselben Zwischengesellschaften lag, der nie Ziel
-war und der nie etwas getan hat** - und den Georgij aufreisst, weil er
-danebengegriffen hat.
+**Am 29.08. zu Recht bemaengelt: ich hatte einen Mann beschrieben, der nichts
+kann.** Ein Geschaedigter ohne Macht ist keine Gegenfigur, sondern eine
+Wunde. **Hier die Fassung, in der er tatsaechlich gefaehrlich ist.**
 
-**Er wird Feind, weil er beschaedigt wurde, und aus keinem anderen Grund.**
+### Wer er ist
 
-**Und daran zerbricht Georgijs Verfahren zum ersten Mal.** Drei Baende lang
-besteht seine Arbeit darin, herauszufinden, **was ein Mann getan hat.** Bei
+**Ein Mann, der etwas Wirkliches gefuehrt hat** - eine mittelgrosse Firma mit
+Namen, Beschaeftigten und einer Bilanz. **Das Geld seines Betriebs lag in
+einer der Zwischengesellschaften**, weil seine Bank es dort hingelegt hat,
+und nicht, weil er irgendetwas gewusst haette.
+
+**Georgij macht die Kette auf, und der Betrieb ist weg.** Leute verlieren
+ihre Stellen. Es steht in der Zeitung. **Er hat nichts getan.**
+
+### Warum er gefaehrlich ist, und es ist eine einzige Sache
+
+**Er ist glaubwuerdig.**
+
+**Jeder, den Georgij bisher zerlegt hat, war schmutzig.** Choi, Nam, die
+fuenf Verlader, Byun, der Erbe. **Was ein solcher Mann ueber ihn sagt, ist
+nichts wert, und genau darauf beruht Georgijs ganze Sicherheit.**
+
+**Dieser hier ist sauber.** Kein Motiv zu luegen, keine eigene Akte, nichts,
+womit man ihn erklaeren koennte. **Was er sagt, wird geglaubt.**
+
+**Und er sagt es den Staatsanwaelten, die Georgij sich zwei Baende lang
+aufgebaut hat.** Das ist die Pointe: **die einzige Waffe im Land, die gegen
+diesen Mann funktioniert, ist ein ehrlicher Zeuge** - und Georgij hat ihn
+selbst hergestellt.
+
+### Und Georgijs Verfahren greift zum ersten Mal ins Leere
+
+**Seine Arbeit besteht darin herauszufinden, was ein Mann getan hat.** Bei
 diesem gibt es nichts zu finden. **Er ist der einzige Mensch im Buch, den man
-nicht recherchieren kann.**
+nicht recherchieren kann**, und damit auch der einzige, den man nicht
+zerstoeren kann, ohne selbst das zu werden, wogegen man antritt.
 
-**Damit kann er auch nicht zerstoert werden**, und die Aufloesung muss etwas
-sein, das Georgij noch nie getan hat: **wiedergutmachen, oder zugeben.** Er
-hat ausserhalb dieses Hauses noch nie etwas zugegeben.
+**Er ist genau die Sorte Mensch, die Georgij sonst rettet:** die elf aus dem
+Auktionshaus, Mrs Jeon, die viertausendzweihundert. **Er ist die
+Verlustseite der eigenen Rechnung, mit einem Gesicht.**
 
-**Und es beantwortet den Einwand des Autors gegen bewussten
-Kollateralschaden**, indem es ihn umdreht: **es ist kein bewusster Schaden. Es
-ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht.
+### Also ist die Aufloesung keine Zerstoerung
 
-### Die Alternative, falls doch jemand aus der Kette gebraucht wird
+**Wiedergutmachen oder zugeben** - und Georgij hat ausserhalb dieses Hauses
+noch nie etwas zugegeben.
 
-**Dann ein Mandant und nicht die Kanzlei** - jemand, fuer den dort etwas
-gehalten wurde und der es verliert. **Aber dann ist er wieder Geld**, und die
-dritte Sorte fehlt weiter.
+**Und der Einwand des Autors gegen sinnlosen Schaden ist damit nicht
+umgangen, sondern zum Gegenstand gemacht:** es ist kein bewusster Schaden.
+**Es ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht, und
+der einzige, den er nicht mit Papier reparieren kann.
 

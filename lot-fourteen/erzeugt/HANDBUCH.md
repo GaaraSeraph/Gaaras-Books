@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 19 Dokumente am Stueck plus das Begegnungsregister. 276.753 Woerter.
+Alle 19 Dokumente am Stueck plus das Begegnungsregister. 277.345 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -13,6 +13,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [B1 24 · Do 27. November · Die Brücke](#b1-24-do-27-november-die-br-cke)
   - [B1 34 · So 1. März · Der Boden neben ihr](#b1-34-so-1-m-rz-der-boden-neben-ihr)
   - [B2 35 · Do 4. Juni · Die Nacht mit leeren Händen](#b2-35-do-4-juni-die-nacht-mit-leeren-h-nden)
+  - [Und dazwischen faellt er aus, vom Autor am 29.08. verlangt](#und-dazwischen-faellt-er-aus-vom-autor-am-29-08-verlangt)
+  - [Warum das die richtige Fassung ist](#warum-das-die-richtige-fassung-ist)
   - [Erstes Ende: die Bewegung gehoert ihr, bis sie ihn zum Bett zieht](#erstes-ende-die-bewegung-gehoert-ihr-bis-sie-ihn-zum-bett-zieht)
   - [Zweites Ende: nach dem Verlobungsring auch in der Oeffentlichkeit](#zweites-ende-nach-dem-verlobungsring-auch-in-der-oeffentlichkeit)
   - [Was NICHT endet](#was-nicht-endet)
@@ -365,8 +367,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die untergegangene Finanzierungsgesellschaft: **Jinyang Trade Finance**](#die-untergegangene-finanzierungsgesellschaft-jinyang-trade-finance)
   - [Die Tochter, aus der Geld verschwunden ist: **Hanseong Bunkering**](#die-tochter-aus-der-geld-verschwunden-ist-hanseong-bunkering)
   - [Und **Hanseong Chemicals** bleibt, wo es steht](#und-hanseong-chemicals-bleibt-wo-es-steht)
-  - [Der Vorschlag: der Mann, den er nicht gemeint hat](#der-vorschlag-der-mann-den-er-nicht-gemeint-hat)
-  - [Die Alternative, falls doch jemand aus der Kette gebraucht wird](#die-alternative-falls-doch-jemand-aus-der-kette-gebraucht-wird)
+  - [Der Vorschlag, und meine erste Fassung davon war unbrauchbar](#der-vorschlag-und-meine-erste-fassung-davon-war-unbrauchbar)
+  - [Wer er ist](#wer-er-ist)
+  - [Warum er gefaehrlich ist, und es ist eine einzige Sache](#warum-er-gefaehrlich-ist-und-es-ist-eine-einzige-sache)
+  - [Und Georgijs Verfahren greift zum ersten Mal ins Leere](#und-georgijs-verfahren-greift-zum-ersten-mal-ins-leere)
+  - [Also ist die Aufloesung keine Zerstoerung](#also-ist-die-aufloesung-keine-zerstoerung)
 - [Plan, Band 4](#plan-band-4)  ·  `doc/33-plan-band-4.md`
   - [Die vier Sachen, die das braucht](#die-vier-sachen-die-das-braucht)
   - [Und die Vorlage steht schon im Buch](#und-die-vorlage-steht-schon-im-buch)
@@ -896,6 +901,50 @@ stellt** - nicht am Bandende. Die Reihenfolge:
 **Der Kuss ist das, was den Titel aufhebt.** Sie diskutiert ihn nicht weg und
 sie schenkt ihm nichts. **Sie tut etwas, nach dem das Wort nicht mehr
 stimmt**, und sagt danach nur, was ohnehin schon gilt.
+
+### Und dazwischen faellt er aus, vom Autor am 29.08. verlangt
+
+**Es soll eine Reaktion geben, und zwar eine grosse** - Looney Tunes, in den
+Ton dieses Buches uebersetzt.
+
+**Die Uebersetzung ist einfach, weil das Buch das Werkzeug schon hat:** nicht
+Augen, die herausspringen, sondern **eine Maschine, die auf dem letzten
+Befehl weiterlaeuft, waehrend der Mann nicht mehr da ist.**
+
+**Er hoert nicht auf zu reden. Er hoert auf, anwesend zu sein.** Und er merkt
+es erst mehrere Sekunden spaeter. **Die Verzoegerung ist der ganze Witz**, und
+sie ist bei Looney Tunes genauso.
+
+**Der Text:**
+
+Annie kissed him on the cheek.
+
+Georgij finished the sentence he had been in the middle of, which was about tonnage, and got two words into the next one before anything reached him.
+
+Then it reached him.
+
+* * *
+
+Park Sang-hoon watched a man he had once offered two point two billion won for stand in a room and be no use to anybody at all.
+
+### Warum das die richtige Fassung ist
+
+**Er ist nie um einen Satz verlegen.** Drei Baende lang nicht, in elf Haeusern
+nicht, vor einem Saal mit achthundert Leuten nicht. **Also faellt nicht die
+Sprache aus, sondern der Mensch dahinter, und die Sprache laeuft leer
+weiter.**
+
+**Und *be no use to anybody at all* ist die Ohrfeige**, weil Nuetzlichkeit
+seine ganze Person ist. `b2 ch67:212` fragt er selbst: *Was I useful?*
+
+**Sang-hoon als Zeuge ist kein Zufall.** Ein Mann, der zwei Milliarden
+zweihundert geboten hat, sieht zu, wie das Gebot in einer Sekunde
+gegenstandslos wird - **und er ist der Einzige im Raum, der beide Zahlen
+kennt.**
+
+**Danach erst kommt ihr Satz**, und er trifft einen Mann, der gerade nicht
+betriebsbereit ist. **Deshalb steht die Reaktion zwischen dem Kuss und der
+Zeile und nicht danach.**
 
 **Die Regel der Reihe bleibt eingehalten**, obwohl sie spricht: sie sagt
 nichts **ueber den Kuss**, sondern ueber die **Anrede.** Der Kuss selbst
@@ -18638,38 +18687,80 @@ Mensch mit einem eigenen Grund - Choi, Sang-hoon, Nam, der Erbe. **Eine
 Struktur kann man aufmachen, aber nicht schlagen**, und der Leser kann ihr
 nichts uebelnehmen.
 
-**2. Der Autor hat den Streit mit Singapur selbst zurueckgewiesen**, und zu
-Recht: die Kette ist Installation und keine Gegenpartei.
+**2. Und ich habe den Autor falsch wiedergegeben.** Er hat den Streit mit
+Singapur **nicht** zurueckgewiesen. Er hat einen **Grund** dafuer verlangt.
+**Sinnloser Streit wird abgelehnt, nicht der Streit.**
+
+**Den Grund gibt es, und er steht schon aufgebaut:**
+
+**Die Kette ist das, was den Handel unangreifbar macht.** Jedes Haus, jeder
+Kaeufer, jeder Fonds, dem ein Stueck davon gehoert, sitzt hinter diesen
+Kanzleien. **Wer den Handel zerlegen will, steht irgendwann vor der Wand, und
+die Wand ist ihr ganzer Geschaeftszweck.**
+
+**Und Georgij hat sie in Band 3 bereits angefasst.** Um Woos zwanzig Prozent
+unerreichbar zu machen, musste er hineinsehen. **Wer in so eine Kette
+hineingesehen hat, ist dort bekannt.** Der Streit faengt nicht damit an, dass
+er sie angreift, sondern damit, **dass sie gemerkt haben, dass jemand
+nachgesehen hat.**
+
+**Das ist ein Grund und kein Vorwand**, und er kostet keine neue Erfindung.
 
 **3. Und es fehlt eine dritte Sorte.** Der Freund von Choi ist **Trauer**. Der
 Erbe ist **Stand**. Der dritte darf nicht wieder Geld sein.
 
-### Der Vorschlag: der Mann, den er nicht gemeint hat
+### Der Vorschlag, und meine erste Fassung davon war unbrauchbar
 
-**Jemand, dessen Geld in denselben Zwischengesellschaften lag, der nie Ziel
-war und der nie etwas getan hat** - und den Georgij aufreisst, weil er
-danebengegriffen hat.
+**Am 29.08. zu Recht bemaengelt: ich hatte einen Mann beschrieben, der nichts
+kann.** Ein Geschaedigter ohne Macht ist keine Gegenfigur, sondern eine
+Wunde. **Hier die Fassung, in der er tatsaechlich gefaehrlich ist.**
 
-**Er wird Feind, weil er beschaedigt wurde, und aus keinem anderen Grund.**
+### Wer er ist
 
-**Und daran zerbricht Georgijs Verfahren zum ersten Mal.** Drei Baende lang
-besteht seine Arbeit darin, herauszufinden, **was ein Mann getan hat.** Bei
+**Ein Mann, der etwas Wirkliches gefuehrt hat** - eine mittelgrosse Firma mit
+Namen, Beschaeftigten und einer Bilanz. **Das Geld seines Betriebs lag in
+einer der Zwischengesellschaften**, weil seine Bank es dort hingelegt hat,
+und nicht, weil er irgendetwas gewusst haette.
+
+**Georgij macht die Kette auf, und der Betrieb ist weg.** Leute verlieren
+ihre Stellen. Es steht in der Zeitung. **Er hat nichts getan.**
+
+### Warum er gefaehrlich ist, und es ist eine einzige Sache
+
+**Er ist glaubwuerdig.**
+
+**Jeder, den Georgij bisher zerlegt hat, war schmutzig.** Choi, Nam, die
+fuenf Verlader, Byun, der Erbe. **Was ein solcher Mann ueber ihn sagt, ist
+nichts wert, und genau darauf beruht Georgijs ganze Sicherheit.**
+
+**Dieser hier ist sauber.** Kein Motiv zu luegen, keine eigene Akte, nichts,
+womit man ihn erklaeren koennte. **Was er sagt, wird geglaubt.**
+
+**Und er sagt es den Staatsanwaelten, die Georgij sich zwei Baende lang
+aufgebaut hat.** Das ist die Pointe: **die einzige Waffe im Land, die gegen
+diesen Mann funktioniert, ist ein ehrlicher Zeuge** - und Georgij hat ihn
+selbst hergestellt.
+
+### Und Georgijs Verfahren greift zum ersten Mal ins Leere
+
+**Seine Arbeit besteht darin herauszufinden, was ein Mann getan hat.** Bei
 diesem gibt es nichts zu finden. **Er ist der einzige Mensch im Buch, den man
-nicht recherchieren kann.**
+nicht recherchieren kann**, und damit auch der einzige, den man nicht
+zerstoeren kann, ohne selbst das zu werden, wogegen man antritt.
 
-**Damit kann er auch nicht zerstoert werden**, und die Aufloesung muss etwas
-sein, das Georgij noch nie getan hat: **wiedergutmachen, oder zugeben.** Er
-hat ausserhalb dieses Hauses noch nie etwas zugegeben.
+**Er ist genau die Sorte Mensch, die Georgij sonst rettet:** die elf aus dem
+Auktionshaus, Mrs Jeon, die viertausendzweihundert. **Er ist die
+Verlustseite der eigenen Rechnung, mit einem Gesicht.**
 
-**Und es beantwortet den Einwand des Autors gegen bewussten
-Kollateralschaden**, indem es ihn umdreht: **es ist kein bewusster Schaden. Es
-ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht.
+### Also ist die Aufloesung keine Zerstoerung
 
-### Die Alternative, falls doch jemand aus der Kette gebraucht wird
+**Wiedergutmachen oder zugeben** - und Georgij hat ausserhalb dieses Hauses
+noch nie etwas zugegeben.
 
-**Dann ein Mandant und nicht die Kanzlei** - jemand, fuer den dort etwas
-gehalten wurde und der es verliert. **Aber dann ist er wieder Geld**, und die
-dritte Sorte fehlt weiter.
+**Und der Einwand des Autors gegen sinnlosen Schaden ist damit nicht
+umgangen, sondern zum Gegenstand gemacht:** es ist kein bewusster Schaden.
+**Es ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht, und
+der einzige, den er nicht mit Papier reparieren kann.
 
 ---
 

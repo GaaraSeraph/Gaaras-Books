@@ -347,6 +347,50 @@ stellt** - nicht am Bandende. Die Reihenfolge:
 sie schenkt ihm nichts. **Sie tut etwas, nach dem das Wort nicht mehr
 stimmt**, und sagt danach nur, was ohnehin schon gilt.
 
+### Und dazwischen faellt er aus, vom Autor am 29.08. verlangt
+
+**Es soll eine Reaktion geben, und zwar eine grosse** - Looney Tunes, in den
+Ton dieses Buches uebersetzt.
+
+**Die Uebersetzung ist einfach, weil das Buch das Werkzeug schon hat:** nicht
+Augen, die herausspringen, sondern **eine Maschine, die auf dem letzten
+Befehl weiterlaeuft, waehrend der Mann nicht mehr da ist.**
+
+**Er hoert nicht auf zu reden. Er hoert auf, anwesend zu sein.** Und er merkt
+es erst mehrere Sekunden spaeter. **Die Verzoegerung ist der ganze Witz**, und
+sie ist bei Looney Tunes genauso.
+
+**Der Text:**
+
+Annie kissed him on the cheek.
+
+Georgij finished the sentence he had been in the middle of, which was about tonnage, and got two words into the next one before anything reached him.
+
+Then it reached him.
+
+* * *
+
+Park Sang-hoon watched a man he had once offered two point two billion won for stand in a room and be no use to anybody at all.
+
+### Warum das die richtige Fassung ist
+
+**Er ist nie um einen Satz verlegen.** Drei Baende lang nicht, in elf Haeusern
+nicht, vor einem Saal mit achthundert Leuten nicht. **Also faellt nicht die
+Sprache aus, sondern der Mensch dahinter, und die Sprache laeuft leer
+weiter.**
+
+**Und *be no use to anybody at all* ist die Ohrfeige**, weil Nuetzlichkeit
+seine ganze Person ist. `b2 ch67:212` fragt er selbst: *Was I useful?*
+
+**Sang-hoon als Zeuge ist kein Zufall.** Ein Mann, der zwei Milliarden
+zweihundert geboten hat, sieht zu, wie das Gebot in einer Sekunde
+gegenstandslos wird - **und er ist der Einzige im Raum, der beide Zahlen
+kennt.**
+
+**Danach erst kommt ihr Satz**, und er trifft einen Mann, der gerade nicht
+betriebsbereit ist. **Deshalb steht die Reaktion zwischen dem Kuss und der
+Zeile und nicht danach.**
+
 **Die Regel der Reihe bleibt eingehalten**, obwohl sie spricht: sie sagt
 nichts **ueber den Kuss**, sondern ueber die **Anrede.** Der Kuss selbst
 bleibt unkommentiert.
