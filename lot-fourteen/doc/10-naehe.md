@@ -370,6 +370,121 @@ Ort im Buch, an dem so etwas nicht privat ist und trotzdem niemanden angeht.
 
 ---
 
+---
+
+## Die Reihe hat ab jetzt zwei Enden, festgelegt am 29.08.
+
+**Beide Regeln, die das Register zwei Baende lang getragen haben, laufen aus -
+und zwar an bestimmten Stellen und nicht allmaehlich.**
+
+### Erstes Ende: die Bewegung gehoert ihr, bis sie ihn zum Bett zieht
+
+**Die Regel lautete: die Bewegung gehoert ihr, immer. Er fasst sie nicht an,
+er dreht sich hinein.**
+
+**Sie endet in Band 3 oder 4, in dem Augenblick, in dem sie ihn zum Bett
+zieht.**
+
+**Und sie wird dabei nicht gebrochen, sondern erfuellt.** Es ist ihre
+Bewegung, ihre letzte und groesste. **Danach gibt es nichts mehr, wohin sie
+ihn fuehren koennte** - und sich weiter in diesem Sinn fuehren zu lassen waere
+sinnlos.
+
+**Ab da ist es gegenseitig, und das braucht keine Ankuendigung.** Wer nach
+dieser Nacht noch darauf wartet, dass sie zuerst die Hand hebt, spielt eine
+Rolle, die es nicht mehr gibt.
+
+**Fuer alles davor gilt die Regel unveraendert und ohne Ausnahme.**
+
+### Zweites Ende: nach dem Verlobungsring auch in der Oeffentlichkeit
+
+**Die zweite Regel lautete: niemand verliert je ein Wort darueber.** Zwei
+Baende lang ist keine einzige Beruehrung von irgendjemandem bemerkt worden.
+
+**Das endet mit dem Verlobungsring am Schluss von Band 4.**
+
+**Danach naehern sie sich auch, wo man es sieht** - und damit ist es zum
+ersten Mal ein Ereignis, weil jeder im Raum weiss, was ein Ring bedeutet.
+
+**Der Schutz faellt hier absichtlich weg.** Er war noetig, solange die Reihe
+eine Steigerung war und kein Vorgang. **Ab dem Ring ist es ein Vorgang**, und
+Vorgaenge duerfen bemerkt werden.
+
+**Und es ist die koerperliche Fassung dessen, was Band 5 ohnehin tut:** die
+Ehe traegt das Privateste in oeffentliche Reihen ein. **Die Beruehrung geht
+denselben Weg, ein Buch frueher.**
+
+### Was NICHT endet
+
+**Das Halsband bleibt**, auch wenn die Anrede in Band 3 faellt. **Und die
+Regel, dass niemand danach darueber redet, gilt fuer alles, was privat
+bleibt** - das Weinen an erster Stelle.
+
+## Der Schoss, Band 5, nach der Nacht mit den Knienden
+
+**Vom Autor am 29.08. vorgegeben.** Nach ihrem Trost faellt er in ihren
+Schoss, schluchzt, und laesst sich streicheln.
+
+**Es ist ab hier keine Regelverletzung mehr**, weil die Bewegungsregel seit
+Band 3 oder 4 ausgelaufen ist. **Bemerkenswert ist nicht, dass er hingeht.
+Bemerkenswert ist das Weinen.**
+
+### Es geschieht an seinem Platz, und den kennt der Leser zehnmal
+
+*which is where he sits* steht **zehnmal** im Buch: auf dem Teppich, seitlich
+vom Schreibtisch, mit dem Ruecken an den Schubladen (`b2 ch09:280`,
+`b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch66:302`,
+`b2 ch87:478`, `b2 ch89:194` und weitere).
+
+**Also derselbe Boden, dasselbe Zimmer, dieselbe Haltung. Eine Sache anders.**
+
+### Der Text
+
+He went round the desk and down onto the carpet with his back against the drawers, which is where he sits.
+
+Then he put his head in her lap, which he has never done.
+
+He cried, properly, without any performance in it, and it went on for a long time and she did not once tell him that it was enough.
+
+Annie's hand went into his hair and stayed there.
+
+He did not count anything.
+
+### Warum die letzte Zeile die groesste ist
+
+`b1 ch33:412`:
+
+> **He counts the way other people breathe and he has done it since he was old
+> enough to be sold.**
+
+**Er hat noch nie aufgehoert.** Nicht auf dem Podest, nicht im Wagen, nicht in
+dem Kellergeschoss mit neunzehn Kaeufern. `b1 ch01:176`: *a habit of counting
+people in rooms* war **das Einzige, was er in siebzehn Jahren besass.**
+
+**In diesem Zimmer hoert es auf**, und es steht in vier Woertern da und wird
+nicht erklaert.
+
+### Und *crying properly* ist die Formel des Buches
+
+`b2 ch04:168`, ueber einen Fremden hinter einer Tuer:
+
+> somebody in the room behind them was **crying properly, without any
+> performance in it.**
+
+**Fuer einen Mann, dessen ganzes Leben Vorfuehrung ist, ist genau dieser
+Halbsatz das Urteil** - und der Leser hat ihn schon einmal gesehen, an
+jemandem, den er nicht kannte.
+
+### Die Handbewegung ist ihre bekannte, in voller Laenge
+
+`b1 ch33:406` *He turned his head into her hand and shut his eyes.*
+`b1 ch34:516` *Annie's hand came down on the back of his head and stayed
+there.* Und ab `b2 ch09` ist die Hand im Haar das feste Zeichen.
+
+**Nichts Neues wird erfunden. Es dauert nur zum ersten Mal lange.**
+
+---
+
 # Aus dem Kapitelindex
 
 *Bis zum 27.08. fuehrte das damalige `doc/05-continuity` eine Kapitelliste von Hand: **62.030 Woerter in zwei Bloecken**, von denen der zweite - Band 2 Kapitel 46 bis 90 - ohne eigene Ueberschrift unter einem Abschnitt ueber eine Handbewegung hing. Sie ist herausgenommen; das Geruest erzeugt `build.py` nach `erzeugt/KAPITEL.md`, die Nacherzaehlung steht im Buch, und was **bindend** war, steht hier.*

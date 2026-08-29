@@ -3469,14 +3469,17 @@ allein.
 vierhunderteins Repliken. Also **"I did not want to"** und nicht *didn't*.
 **Es waere die bequemste Stelle des Buches, es zu vergessen.**
 
-**4. Und die Bewegung geht zum ersten Mal von ihm aus.**
-`doc/10-naehe.md`: *Die Bewegung gehoert ihr, immer. Er fasst sie nicht an, er
-dreht sich hinein.*
+**4. Dass er hingeht, ist hier KEIN Regelbruch mehr, und das ist eine
+Berichtigung meiner eigenen Notiz.** Ich hatte geschrieben, die Bewegungsregel
+breche in dieser Nacht.
 
-**In dieser Nacht geht er hin.** Das ist der Bruch der Reihenregel, und er
-ist Absicht. **Sie darf genau einmal brechen, und dies ist die Nacht dafuer.**
-**Und sie stellt sie sofort wieder her**, indem die Hand danach ihre ist, an
-der Stelle, an der sie immer liegt (`b2 ch17:214`).
+**Sie ist zu diesem Zeitpunkt laengst ausgelaufen.** Vom Autor am 29.08.
+festgelegt: **die Regel endet in Band 3 oder 4, wenn Annie ihn zum Bett
+zieht** - und sie wird dabei nicht gebrochen, sondern erfuellt. Siehe
+`doc/10-naehe.md`.
+
+**Bemerkenswert ist hier also nicht, dass er hingeht. Bemerkenswert ist das
+Weinen** - und was danach kommt, steht im Naehe-Dokument unter *Der Schoss*.
 
 ### Warum ihr Satz funktioniert und nicht troestet
 
