@@ -198,3 +198,25 @@ verliert je ein Wort darueber* endet mit dem Verlobungsring am Bandschluss.
 **Nam Byung-hees Firma.** Am 29.08. verworfen. Sie bekommt sie nicht zurueck,
 und ihre Zeile aus `b2 ch87:254` bleibt unbeantwortet stehen.
 
+---
+
+## Georgij besucht den Hanseong-Erben, festgelegt am 29.08.
+
+**Vom Autor: der Besuch kommt in Band 4, von Georgij aus.**
+
+**Das Bild steht seit der Band-3-Festlegung:** der Erbe sitzt als
+Ehrenvorsitzender in einem Gebaeude, das jeden Monat leerer wird, und faehrt
+an Tuerschildern vorbei, die nicht mehr Hanseong heissen. **In Band 4 kommt
+der Mann, der ihn zerlegt hat, durch eine dieser Tueren** - inzwischen ein
+kleiner IT-Angestellter in einem Werk, das frueher dem Erben gehoerte.
+
+**Wozu, ist offen.** Was der Besuch nicht ist: Triumph. Georgij tritt nie
+nach. **Naheliegend: er kommt wegen etwas Praktischem, und die Szene traegt,
+weil beide wissen, was keiner ausspricht** - derselbe Bau wie bei Sim und
+den Schalen.
+
+**Und die Guidance-Frage aus Band 3 haengt noch im Raum.** *Save the legacy*
+hatte eine wahre Antwort, und der Erbe hat sie nicht gegeben. **Beim Besuch
+kann sie fallen - von ihm, zu spaet, als Feststellung:** er weiss inzwischen,
+was die Antwort gewesen waere.
+

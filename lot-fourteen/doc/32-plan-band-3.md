@@ -3415,8 +3415,18 @@ bestaetigt - alles, mehrfach.**
 
 **Was das ueber sie sagt, und niemand spricht es aus:** wenige Wochen nach
 dem vierten Oktober hat diese Frau **einen Menschen gekauft, um ihrem neuen
-Besitz einen Gefallen zu tun.** Es ist ihr erster Gefallen an ihn, und er hat
-zwei Jahre lang nichts davon gewusst.
+Besitz einen Gefallen zu tun.** Und er hat zwei Jahre lang nichts davon
+gewusst.
+
+**Es ist ihr zweiter Gefallen an ihn, nicht der erste - vom Autor am 29.08.
+berichtigt.** Der erste liegt am allerersten Abend: `b1 ch02:192`, die
+Nagelschere durch das Auge des Wachmanns, in der ersten Stunde des
+Besitzens. **Sie hat es uebersehen und sich darum gekuemmert** - *"A fair
+point," she said. "He was mediocre at best."* (`b1 ch02:232`).
+
+**Die Reihe ist damit sauber und sagt etwas:** ihr erster Gefallen war,
+etwas durchgehen zu lassen. **Ihr zweiter war, etwas zu tun.** Beide, bevor
+er ein Wort davon wusste, und beide in den ersten Wochen.
 
 **Die Ausbildung, zwei Jahre, ausserhalb des Hauses:** Schulbildung
 nachgeholt, Betriebswirtschaft, Finanzwesen, Allgemeinwissen, Etikette
@@ -3456,6 +3466,63 @@ faengt dort als kleiner IT-Angestellter in einem Werk an. **Ob es ein Werk
 aus diesem Bestand ist und ob dieser Mann sein Vorgesetzter wird, ist offen
 und liegt nahe.**
 
+## 4b. Die Guidance-Frage an den Erben, vom Autor am 29.08.
+
+**Die Formulierung ist vorgegeben:**
+
+> "Please give me your guidance: How does an incompetent man, arrogant
+> because of things he never built himself and was born in, save the legacy
+> he is so proud of?"
+
+**Das ist die mittlere von drei Guidance-Fragen, und die Reihe eskaliert:**
+
+| Band | Empfaenger | Was die Frage tut |
+|---|---|---|
+| 2 | Choi (`b2 ch86:82`) | **eine echte Frage** - *Who should I be careful of?* Er haette antworten koennen |
+| 3 | der Hanseong-Erbe | **eine Selbstbeschreibung als Frage.** Er kann nicht antworten, ohne sie zu bestaetigen |
+| 5 | der Warlord | **die Exekution als Frage.** Die Antwort ist der Vollzug |
+
+**Die Formel wird fortgesetzt und nicht verbraucht** - vom Autor am 29.08.
+schon fuer Band 5 festgelegt, hier ist das Mittelglied.
+
+### Was eingebaut wird, sechs Sachen
+
+**1. Jedes Wort ist belegt, und das ist Regel 1 als Waffe.** *Incompetent* -
+er kann ueber sein eigenes Haus keine Auskunft geben. *Never built himself* -
+steht in der Achse. *Born in* - aeltester Sohn, vier Generationen. **Die
+Frage enthaelt keine einzige Behauptung, die Georgij nicht belegen kann.**
+Eine Beleidigung waere angreifbar. **Eine Beschreibung ist es nicht.**
+
+**2. Das Zeichen, nicht der Punkt.** Der Erbe kann nein sagen, ohne den Raum
+zu verlassen - er kann schweigen. **Also Fragezeichen, wie bei Choi.** Und
+die Falle ist dieselbe wie in der Achse: **er ist zu hochmuetig zu
+schweigen.** Die Hoeflichkeit ist die Waffe, in der ganzen Reihe.
+
+**3. Die Frage ist zugleich das letzte echte Angebot, und das ist der Bau.**
+*Save the legacy* hat eine wahre Antwort: **indem er aufhoert, es zu
+fuehren.** Ein Erbe, der die Frage ehrlich beantwortet, rettet das
+Vermaechtnis und dankt ab - beantwortet er sie nicht, verliert er beides.
+**Er kann nur falsch antworten, weil die richtige Antwort seine Abdankung
+ist.** Das ist Georgijs Muster seit Woo: *there is a difference between a
+man who is given a good reason and a man who finds one* (`b1 ch19:172`).
+**Die Tuer stand offen. Er ist nicht durchgegangen. Danach ist alles, was
+kommt, seine eigene Wahl gewesen** - und der Leser hat es gesehen.
+
+**4. Die rechte Hand ist im Raum, und sie kennt die Antwort.** Die Frage,
+die der Erbe nicht beantworten kann, beantwortet ein anderer im Raum still
+mit - **und das ist der Moment, in dem die rechte Hand innerlich uebergeht.**
+Nicht spaeter, beim Fall. Hier, bei einer Frage, auf die ihr Mann nichts
+sagt. **Der Uebergang zu Georgij (Festlegung 4) hat damit eine Szene und
+kein Verfahren.**
+
+**5. Vor Zeugen, vor der Brennholz-Rede.** Die Achse verlangt beides: erst
+die Frage, die ihn leer aussehen laesst, dann der Satz mit dem Brennholz.
+**Die Guidance-Frage ist die Frage aus der Achse, jetzt mit Wortlaut.**
+
+**6. Und das Gegenbild laeuft mit, unausgesprochen.** *Born in* - gefragt von
+einem Mann, der in nichts geboren wurde und mit vierzehn verkauft war. **Kein
+Erzaehlerkommentar. Der Leser rechnet selbst.**
+
 ## 5. Der Oberstaatsanwalt verliert
 
 **Vom Autor entschieden, und es dreht meine Charakterisierung um** - er war
@@ -3465,6 +3532,10 @@ als der Gegner gebaut, der nicht verlieren kann:
 * **Seine Kontakte wenden sich von ihm ab.**
 * **Georgij kontrolliert die Staatsanwaelte, die seinen Posten besetzen und
   oben mitspielen, und die Mitte indirekt.**
+* **Und der Nachfolger auf dem Posten ist ausdruecklich auch seiner** - vom
+  Autor am 29.08. nachgelegt. **Der neue Oberstaatsanwalt ist Georgijs
+  Mann.** Das Amt, das ihn in diesem Band gejagt hat, gehoert am Bandende
+  ihm.
 
 **Wie er faellt, ist offen. Mein Vorschlag, und er kommt ohne eine einzige
 Erfindung aus:**
@@ -3509,22 +3580,49 @@ sie.**
 6. **Die Sang-hoon-Szene**, Bandmitte: die Wahl, der Wangenkuss, *"You cannot
    say that any more."*
 7. **Das Grab von Woos Frau:** das Geschenk mit den zwanzig Prozent.
-8. **Die Rede an den Inhaber** und, falls die Seite existiert, der
-   Registerzug.
-9. **Der Boersenzug.** Parallel dazu ueberzieht der Oberstaatsanwalt - die
-   Akte waechst, und die Falschen sehen es.
-10. **Die Yeom-Szene**, und am selben Abend der Haus-Beat.
+8. **Der Oberstaatsanwalt wird abgesaegt** - an seiner eigenen Akte. Die
+   Akte ist seit Akt I gewachsen, und die Falschen haben es gesehen.
+9. **Die Guidance-Frage und die Rede an den Inhaber** - und, falls die Seite
+   existiert, der Registerzug. **Die rechte Hand ist im Raum.**
+10. **Der Boersenzug.**
+11. **Die Yeom-Szene**, und am selben Abend der Haus-Beat.
 
 ### Akt III - Spaetherbst bis Winter
 
-11. **Hanseong faellt.** Die rechte Hand geht ueber, der Erbe behaelt die
+12. **Hanseong faellt.** Die rechte Hand geht ueber, der Erbe behaelt die
     Blutungen.
-12. **Der Oberstaatsanwalt wird abgesaegt** - an seiner eigenen Akte.
 13. **Der Kuss.** Woo lebt, nichts liegt auf dem Tisch, Georgij besitzt
     nichts.
 14. **Woo stirbt**, eingeschlafen. **Die beiden Umschlaege am selben Tag.**
 15. **Die Beisetzung.** Sie nimmt seine Hand, vor mehreren hundert Leuten.
     **Ende.**
+
+### Die Reihenfolge von 8 und 9, vom Autor am 29.08. entschieden
+
+**Die Rede an den Inhaber kommt NACH dem Fall des Oberstaatsanwalts.** Der
+Einwand des Autors: sonst muesste der Staatsanwalt auch noch eine Ansage
+bekommen.
+
+**Und zwei Ansagen waeren falsch, aus zwei Gruenden:**
+
+**1. Eine Ansage pro Band, sonst wird das Mittel eine Routine.** Choi hat in
+Band 2 eine bekommen. Der Inhaber bekommt die von Band 3. **Wer zwei
+verteilt, macht aus der schwersten Szene des Buches ein Verfahren.**
+
+**2. Der Oberstaatsanwalt darf ueberhaupt keine bekommen, und das ist die
+Eleganz seines Falls.** Er faellt an seiner eigenen Akte, **ohne dass
+Georgij ihn je anfasst** - keine Rede, keine Konfrontation, kein Satz.
+**Eine Ansage an ihn wuerde Georgij zum Urheber seines Sturzes machen, und
+genau das war die Anklage:** dass dieses Haus ehrliche Staatsanwaelte
+wegraeumt. **Er ist der eine Gegner, den Georgij nie adressiert, und das
+Schweigen ist die Antwort auf den Vorwurf.**
+
+**Und die Rede gewinnt durch die Reihenfolge einen Boden, den sie nicht
+ausspricht:** der Mann, der den Sprecher mit der ganzen Macht des Staates
+gejagt hat, ist weg, **und die Rede erwaehnt ihn mit keinem Wort.** Der
+Inhaber weiss es, der Leser weiss es, und der Satz mit dem Brennholz faellt
+in einen Raum, in dem niemand mehr hinter dem Sprecher steht ausser dem, was
+er getan hat.
 
 **Nicht einsortiert und flexibel:** die Grabszene kann frueher liegen (der
 Sterbetag der Frau ist Tag 341, der Besuch ist jederzeit moeglich), und die
