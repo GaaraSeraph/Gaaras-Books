@@ -3217,3 +3217,160 @@ haette.
 
 **Einmal, kurz, und danach nie wieder erwaehnt.**
 
+---
+
+# Band 5: das erste Blut an seiner Hand
+
+**Vom Autor am 29.08. vorgegeben.** Die Unverbesserlichen des Handels, der
+Warlord dabei, auf den Knien, **und sie warten auf das Gefaengnis, weil er es
+mit anderen so gemacht hat.** Die Staatsanwaltschaftskontakte aus dem
+vorigen Band tragen das. **Und dann die Bitte um Fuehrung, und mitten in den
+Blick hinein wird vollstreckt.**
+
+**Das traegt, und es ist der einzige Ort, an dem es tragen kann.** Aber zwei
+Sachen an der vorgegebenen Zeile brechen die Figur, und beide sind reparabel.
+
+## Erstens: er nennt sich nie selbst etwas, und schon gar nicht Koenig
+
+**Nachgesehen ueber alle hundertdreiundzwanzig Kapitel.** Das Naechste, was er
+je ueber sich sagt, ist `b1 ch10:334`:
+
+> "There are eight hundred people in it. **I am the only nobody in the
+> building.**"
+
+**Eine Verneinung.** *King of the Dokkaebi* aus seinem eigenen Mund ist die
+eine Formulierung, die die Figur in einem Satz kaputtmacht.
+
+**Es ist auch nicht noetig.** Der Mann auf den Knien weiss, wer nicht
+vergibt. **Wer es ausspricht, erklaert es ihm.**
+
+## Zweitens: Choi hat den Grund geliefert, warum er nicht toetet
+
+`b2 ch86:166` und `:172`:
+
+> "Because it would be one-sided," said Georgij. ... "**A killing is quick,
+> and it is private.** It would let you finish exactly the way you have lived,
+> **which is without ever once finding out what it costs to be found out. I am
+> not going to hand you that.**"
+
+**Das ist keine Abneigung gegen das Toeten. Das ist eine Regel ueber die
+Reihenfolge**, und sie loest den Widerspruch vollstaendig:
+
+> **Getoetet wird nicht statt der Aufdeckung, sondern danach.**
+
+**Der Mann auf den Knien hat bereits alles bekommen, was Choi bekommen hat.**
+Er ist aufgemacht, aktenkundig, oeffentlich, ruiniert. **Er kniet und
+erwartet die dokumentierte Strafe.**
+
+**Und die bekommt er nicht.** Choi hat die Strafe bekommen und durfte damit
+leben. Dieser bekommt die Strafe **und darf nicht.**
+
+**Der Unterschied zwischen den beiden Maennern wird einmal gesagt und nie
+wiederholt:** Choi hat fuenfundzwanzig Jahre lang dafuer gesorgt, dass andere
+das Gewicht tragen. **Dieser Mann war das Gewicht.**
+
+## Der Text
+
+Eleven of them on a concrete floor, and four who were not going to be on it.
+
+"Please guide me," said Georgij.
+
+He said it the way he had said it to a chairman, and to a deputy minister, and to a man at a window, which is courteously, and with the mark on the end of it.
+
+"How does the last man to run this trade in this country get out of an execution that begins the moment he understands that he is not going to be forgiven?"
+
+The man looked up.
+
+* * *
+
+The last thing he saw was a face that had not moved.
+
+## Was daran haengt
+
+**Das Fragezeichen ist richtig und es ist belegt.** `b2 ch86:82`: *"Please
+guide me," said Georgij. "Who should I be careful of?"* - **Zeichen, bei
+voller Macht.** Und `b2 ch86:162` schreibt die Regel sogar aus: *He asked it
+with the mark on the end of it, and it is the first question anybody has asked
+in that room that could have been refused.*
+
+**Die Form bleibt hoeflich, waehrend sie toetet. Das ist der ganze Schrecken.**
+
+**Und es ist wahr, also haelt Regel 1.** Die Hinrichtung **wird** in dem
+Augenblick beginnen. Es ist eine Vorhersage ueber etwas, das der Sprecher
+selbst herbeifuehrt, und darum keine Luege.
+
+**Der Blick nach oben ist die Oeffnung, und das Buch hat das Mass dafuer
+schon gesetzt.** `b2 ch86:90`: *He did not answer for about three seconds,
+**and the three seconds are the whole of it.*** **Dasselbe Intervall, anders
+gefuellt.** Es darf nirgends darauf gezeigt werden.
+
+**Und das Gesicht bleibt unbenannt.** `b1 ch02:34`: *his face had not moved.
+**Marble.** It had cost him eleven houses to learn **and it was the only thing
+he owned.*** **Das Wort faellt nicht.** Der Leser hat es seit Kapitel 2. **Das
+Letzte, was der Handel sieht, ist das Gesicht, das der Handel gebaut hat.**
+
+**Nicht dargestellt.** Der Satz danach ist die naechste Szene.
+
+## Und es muss die letzte Bitte um Fuehrung des ganzen Buches sein
+
+**Echt in Band 1. Verfahren ab `b1 ch33`. Waffe in `b2 ch86` und in Band 3.
+Und hier das Wort, mit dem vollstreckt wird.**
+
+**Danach ist die Form verbraucht.** Wer sie noch einmal benutzt, hat nichts
+mehr in der Hand, weil sie zuletzt einen Menschen umgebracht hat.
+
+**Ausnahme, und sie ist die einzige und gehoert an den Schluss der Reihe:**
+**Band 6, an Annie, echt gemeint.** Dieselben drei Woerter, das vierte Mal
+etwas anderes, und diesmal, weil er die Antwort braucht.
+
+## Was es kostet, und es ist nicht Reue
+
+**Reue waere falsch.** `b2 ch89:66` gibt den Ton: *He is not sorry about it
+and he has stopped waiting to become sorry about it.*
+
+**Der Preis ist strukturell, und er ist genau der, den Band 5 ohnehin
+aufgemacht hat.**
+
+**1. Es kann nicht abgelegt werden.** Seine ganze Macht ist die staendige
+Reihe - *it cannot be sealed and it cannot be withdrawn*. **Hwang loescht
+keine Eintraege. Und fuer diesen hier gibt es keinen.**
+
+**Der Mann, der die Welt lesbar gemacht hat, hat das eine getan, wovon es
+keine Seite gibt** - genau wie die sieben Haeuser seiner Kindheit, von denen
+es auch keine gibt. **Beide Enden seines Lebens stehen in keinem Buch.**
+
+**2. Er hat die eigene Regel gebrochen, in derselben Woche, in der er sie
+erlassen hat.** *Mord nur nach Genehmigung* verlangt, dass vorher gesagt wird,
+gegen wen und warum, schriftlich. **Er hat weder gefragt noch aufgeschrieben.**
+
+**Und das ist kein Versehen im Plan, das ist der Gegenstand.** Wer eine
+Ordnung erlaesst und sie als Erster bricht, hat entweder ein Gesetz oder eine
+Laune. **Der Band muss ihn das einmal wissen lassen. Loesen muss er es nicht.**
+
+**3. Und er hat entschieden, wer unverbesserlich ist.** Elf auf dem Boden,
+vier nicht. **Die vier kommen ins Gefaengnis, die elf nicht mehr irgendwohin**
+- und die Grenze hat kein Gericht gezogen.
+
+**Das ist die Stelle, an der er ein Haus ist**, und sie ist jetzt nicht mehr
+angedeutet, sondern vollzogen.
+
+## Die Frage, die der Autor entscheiden muss: ist der Junge dabei
+
+**Sie ergibt sich aus zwei Festlegungen, die beide schon getroffen sind**, und
+ich entscheide sie nicht.
+
+**Los elf kommt ab und zu mit, lernt still, und fragt hinterher.**
+
+**Wenn er an diesem Abend dabei ist, stellt er hinterher seine Frage.** Und
+Georgij sagt nie etwas Unwahres.
+
+**Ein Sechzehnjaehriger, der selbst verkauft wurde, fragt einen Mann, der
+gerade den Handel getoetet hat, warum er es getan hat.** Es gibt keine
+Antwort, die nicht entweder eine Rechtfertigung ist, die Georgij nicht gibt,
+oder ein Satz, der dem Jungen beibringt, wie man so etwas begruendet.
+
+**Wenn er nicht dabei ist, ist es das einzige Mal, dass Georgij ihn
+weggeschickt hat, und der Junge merkt das.**
+
+**Beides ist gut. Beides kostet. Es gibt keine dritte Fassung.**
+
