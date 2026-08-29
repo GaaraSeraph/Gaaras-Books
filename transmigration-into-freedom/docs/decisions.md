@@ -3,6 +3,24 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Corrected again: at twenty-nine it was income, not a firm. And her children ===
+The author: "mit 29 habe ich meinen Hauptauftraggeber verloren und alles
+Private. Inklusive ihrer Kinder. War nur Einkommen, keine Firma." Three
+consequences, and they undo most of the entry below. ONE: the twenty-nine
+break carries no firm and no payroll - one man, one main client, income.
+ch23 IS REVERTED to its original line ("I ran exactly one. It was mine
+and it went under and it took my knees with it."), which was right all
+along; the fix below is withdrawn in full. TWO: the several employees he
+could not pay belong to the SECOND collapse - the payout company the
+book already knows. "He cut" now has its face: people he hired, one at a
+time, plainly, and finally a month that did not cover the ones still
+there. Filed in Old life and told in vita-stories.md, story 7. THREE:
+SHE HAD CHILDREN, and losing everything private included losing them.
+They are in The Break now, behind the changed locks with Günther and
+Bärbel, and the cats were the one thing on that side he was allowed to
+ring about. NOTHING about the children gets invented: no count, no
+names, no ages, until he gives them.
+
 === The consultancy had employees, and ch23 now says two companies ===
 The author corrects the break at twenty-nine: the IT consultancy was not
 one man deep. SEVERAL EMPLOYEES, whom at some point he could no longer

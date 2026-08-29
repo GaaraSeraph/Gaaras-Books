@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-31 Kapitel. 69.970 Woerter.
+31 Kapitel. 69.953 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -30,7 +30,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 20 | Chapter 20: Two Arms | 2.692 |
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
 | 22 | Chapter 22: A Hand Changes a Noise | 1.188 |
-| 23 | Chapter 23: Two Coins Short | 2.548 |
+| 23 | Chapter 23: Two Coins Short | 2.531 |
 | 24 | Chapter 24: Somebody Has to Look at Him | 3.038 |
 | 25 | Chapter 25: The First of Four | 1.932 |
 | 26 | Chapter 26: Then Write Us Down | 2.337 |
@@ -5042,7 +5042,7 @@ Eleven had gone into that town and two of them had gone into a box for a name in
 
 "What," said Sivert.
 
-"I have been inside thirty-nine of these," said Gaara. "Employee, contractor, consultant, interim. I have sat in rooms where the number under discussion had six figures in it and every man at the table was lying about at least two of them." He put his hands over his face. "I ran two. Both mine. The first went under when I was twenty-nine and took better people than me down with it. The second went under nine years later and took my knees with it."
+"I have been inside thirty-nine of these," said Gaara. "Employee, contractor, consultant, interim. I have sat in rooms where the number under discussion had six figures in it and every man at the table was lying about at least two of them." He put his hands over his face. "I ran exactly one. It was mine and it went under and it took my knees with it."
 
 "And now."
 

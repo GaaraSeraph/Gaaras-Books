@@ -143,11 +143,12 @@ everything else)
 - THE BREAK AT TWENTY-NINE, filled in by the author (it was a deliberate
   hole until he did). A separation, and it broke him. The first time in
   his life he lost EVERYTHING, itemised: she saw to it that he lost his
-  only client of the time - one client, which was the whole income; the
-  business was his own IT consultancy, managed services and process
-  automation, WITH SEVERAL EMPLOYEES, and when the client fell he at some
-  point could not pay them any more - she put him out, he lived in his
-  car, and he lost both cats, GÜNTHER and BÄRBEL. He had only
+  main client of the time - one client, in practice the whole income; the
+  work was IT consulting, managed services and process automation, and it
+  was INCOME, NOT A FIRM: no staff, one man selling his hours - she put
+  him out, he lived in his car, and he lost EVERYTHING PRIVATE: her
+  CHILDREN, to whom he held no claim of paper on the day the locks
+  changed, and both cats, GÜNTHER and BÄRBEL. He had only
   ever trusted people exactly as far as they could hurt him - trust
   budgeted against possible damage, lifelong - and this once too much had
   been given, and the bill came in full.
@@ -168,8 +169,11 @@ everything else)
   client, destroyed by one person, is why he never again relies on a
   single anything - which is exactly what the panel now is, and part of
   why it unsettles him.
-  AND THE MISSED PAYROLL IS THE ROOT under two beats already on the page:
-  clearing Ordulf's debt in ch30 is the first debt he has ever cleared in
+  AND THE MISSED PAYROLL IS THE ROOT under two beats already on the page
+  - it belongs to the SECOND collapse, not to this one: the payout
+  company (Old life below) had several employees, hired by him, and at
+  some point there was a month he could not pay the ones still there.
+  Clearing Ordulf's debt in ch30 is the first debt he has ever cleared in
   this world and he has to stand still for a second, and "Put it on mine"
   (ch29) is a man who once sat across from people he could not pay now
   paying first, every time, before anybody asks. Neither chapter knew its
@@ -241,9 +245,12 @@ Old life
 - Did NOT die. No accident, no truck, no hospital. He lay down on a tatami mat in his office and woke up under a slab. He calls it "a cut in the tape." Nobody has explained it. Neither has the system.
 - Career: 19 years, 39 companies, 35 of them corporations, one big enough to be known abroad. Employee, contractor, consultant, interim. Has seen those buildings from the mailroom floor, from the head of the table, and from the seat where you present to a board.
 - Why he left: politics ate results everywhere, not in one bad company. The example that stuck: 18 months of finished, tested, signed-off work filed away because two directors were at war over a budget line and the project was born in the wrong department. Nobody said it was bad. Nobody looked at it. "Results were not the currency. Proximity was."
-- Own company - THE SECOND ONE. The first was the IT consultancy that died
-  at twenty-nine (vita above); he built twice and lost twice. This one:
-  founded with his corporate payout. Ran well for two years. Growth flattened, costs did not. He cut, put his own money back in, cut again, told himself next quarter would turn. Debt.
+- Own company - THE ONLY ONE HE EVER RAN (at twenty-nine there was income,
+  not a firm; see the vita above). Founded with his corporate payout.
+  SEVERAL EMPLOYEES, hired by him: "he cut" in the next sentence means
+  people, one at a time, plainly, and at some point there was a month he
+  could not pay the ones still there (author; told in vita-stories.md,
+  story 7). Ran well for two years. Growth flattened, costs did not. He cut, put his own money back in, cut again, told himself next quarter would turn. Debt.
 - Lost his flat in spring. Slept in the office, mat rolled out between desk and wall where the glass front did not show it. Told two people; both assumed he was joking.
 
 Health in the old body (all gone now)

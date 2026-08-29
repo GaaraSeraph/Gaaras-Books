@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 6 Dokumente am Stueck. 78.208 Woerter.
+Alle 6 Dokumente am Stueck. 78.841 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -848,6 +848,24 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== Corrected again: at twenty-nine it was income, not a firm. And her children ===
+The author: "mit 29 habe ich meinen Hauptauftraggeber verloren und alles
+Private. Inklusive ihrer Kinder. War nur Einkommen, keine Firma." Three
+consequences, and they undo most of the entry below. ONE: the twenty-nine
+break carries no firm and no payroll - one man, one main client, income.
+ch23 IS REVERTED to its original line ("I ran exactly one. It was mine
+and it went under and it took my knees with it."), which was right all
+along; the fix below is withdrawn in full. TWO: the several employees he
+could not pay belong to the SECOND collapse - the payout company the
+book already knows. "He cut" now has its face: people he hired, one at a
+time, plainly, and finally a month that did not cover the ones still
+there. Filed in Old life and told in vita-stories.md, story 7. THREE:
+SHE HAD CHILDREN, and losing everything private included losing them.
+They are in The Break now, behind the changed locks with Günther and
+Bärbel, and the cats were the one thing on that side he was allowed to
+ring about. NOTHING about the children gets invented: no count, no
+names, no ages, until he gives them.
 
 === The consultancy had employees, and ch23 now says two companies ===
 The author corrects the break at twenty-nine: the IT consultancy was not
@@ -3513,11 +3531,12 @@ everything else)
 - THE BREAK AT TWENTY-NINE, filled in by the author (it was a deliberate
   hole until he did). A separation, and it broke him. The first time in
   his life he lost EVERYTHING, itemised: she saw to it that he lost his
-  only client of the time - one client, which was the whole income; the
-  business was his own IT consultancy, managed services and process
-  automation, WITH SEVERAL EMPLOYEES, and when the client fell he at some
-  point could not pay them any more - she put him out, he lived in his
-  car, and he lost both cats, GÜNTHER and BÄRBEL. He had only
+  main client of the time - one client, in practice the whole income; the
+  work was IT consulting, managed services and process automation, and it
+  was INCOME, NOT A FIRM: no staff, one man selling his hours - she put
+  him out, he lived in his car, and he lost EVERYTHING PRIVATE: her
+  CHILDREN, to whom he held no claim of paper on the day the locks
+  changed, and both cats, GÜNTHER and BÄRBEL. He had only
   ever trusted people exactly as far as they could hurt him - trust
   budgeted against possible damage, lifelong - and this once too much had
   been given, and the bill came in full.
@@ -3538,8 +3557,11 @@ everything else)
   client, destroyed by one person, is why he never again relies on a
   single anything - which is exactly what the panel now is, and part of
   why it unsettles him.
-  AND THE MISSED PAYROLL IS THE ROOT under two beats already on the page:
-  clearing Ordulf's debt in ch30 is the first debt he has ever cleared in
+  AND THE MISSED PAYROLL IS THE ROOT under two beats already on the page
+  - it belongs to the SECOND collapse, not to this one: the payout
+  company (Old life below) had several employees, hired by him, and at
+  some point there was a month he could not pay the ones still there.
+  Clearing Ordulf's debt in ch30 is the first debt he has ever cleared in
   this world and he has to stand still for a second, and "Put it on mine"
   (ch29) is a man who once sat across from people he could not pay now
   paying first, every time, before anybody asks. Neither chapter knew its
@@ -3611,9 +3633,12 @@ Old life
 - Did NOT die. No accident, no truck, no hospital. He lay down on a tatami mat in his office and woke up under a slab. He calls it "a cut in the tape." Nobody has explained it. Neither has the system.
 - Career: 19 years, 39 companies, 35 of them corporations, one big enough to be known abroad. Employee, contractor, consultant, interim. Has seen those buildings from the mailroom floor, from the head of the table, and from the seat where you present to a board.
 - Why he left: politics ate results everywhere, not in one bad company. The example that stuck: 18 months of finished, tested, signed-off work filed away because two directors were at war over a budget line and the project was born in the wrong department. Nobody said it was bad. Nobody looked at it. "Results were not the currency. Proximity was."
-- Own company - THE SECOND ONE. The first was the IT consultancy that died
-  at twenty-nine (vita above); he built twice and lost twice. This one:
-  founded with his corporate payout. Ran well for two years. Growth flattened, costs did not. He cut, put his own money back in, cut again, told himself next quarter would turn. Debt.
+- Own company - THE ONLY ONE HE EVER RAN (at twenty-nine there was income,
+  not a firm; see the vita above). Founded with his corporate payout.
+  SEVERAL EMPLOYEES, hired by him: "he cut" in the next sentence means
+  people, one at a time, plainly, and at some point there was a month he
+  could not pay the ones still there (author; told in vita-stories.md,
+  story 7). Ran well for two years. Growth flattened, costs did not. He cut, put his own money back in, cut again, told himself next quarter would turn. Debt.
 - Lost his flat in spring. Slept in the office, mat rolled out between desk and wall where the glass front did not show it. Told two people; both assumed he was joking.
 
 Health in the old body (all gone now)
@@ -6365,15 +6390,16 @@ afterwards, which is rarer, and both times he was right.
 
 === 4. THE BREAK ===
 
-At twenty-nine there was one client. The business was his own by then:
-IT consulting, several employees, machines kept running, backups kept
-honest, processes automated that other companies' people still did by
-hand. Good work, done well, for exactly one client who had long since
-stopped shopping around. He knew better. He had known better since the
-shoebox: never build a deck where one card carries the whole game,
-because the game will find that card. And it was worse than the shoebox
-ever was, and he knew that too: the one card was no longer carrying his
-game. It was carrying wages. But the work was good and the
+At twenty-nine there was one client that mattered, and no firm around
+him: one man selling IT consulting, machines kept running, backups kept
+honest, processes automated that the client's own people still did by
+hand. Income, not a company. Good work, done well, for a main client who
+had long since stopped shopping around and had long since become the
+whole number. He knew better. He had known better since the shoebox:
+never build a deck where one card carries the whole game, because the
+game will find that card. What he had never once thought to check was
+how many of his cards one hand could reach. Her hand could reach all of
+them. But the work was good and the
 money was good and the year was full, and she was there, and a man with a
 full year lets the rule slide the way a man with a mild winter buys no
 firewood.
@@ -6402,31 +6428,30 @@ stopped wanting to, because the result spoke a complete sentence on its
 own: a contract wound down politely, nothing accusable anywhere in it,
 effective at the end of the month.
 
-The employees went in the weeks after, because payroll is arithmetic and
-arithmetic does not negotiate. There were several of them, people he had
-hired himself, and he paid them in full for exactly as long as there was
-anything left to pay them from, and then there was a month where there
-was not. He sat across from each of them, one at a time, and said it
-plainly, no speech. None of them had done anything wrong, and he said
-that too, to each one. Some of them were kind to him about it, and the
-kindness was the worst part of the whole collapse, until the locks.
-
 Then the flat, which was in her name. He packed the car twice and planned
 a third trip, and before the third trip the locks were changed.
 
-The cats were on the other side of the locks. Both of them. Günther and
-Bärbel.
+The children were on the other side of the locks. Hers, not his, which
+had never mattered once on the inside of that flat and was the entire
+law of it from the outside. No paper, no claim, nobody obliged to answer
+the phone. He had lost clients before and found new ones. There was no
+version of that for children, and he knew it standing in the stairwell,
+and he stood there anyway for a while.
 
-He rang twice about the cats. The first call was calm and got him
-nothing. The second call was not calm and got him less. There was no
+So were the cats. Both of them. Günther and Bärbel.
+
+He rang twice, and only about the cats, because the cats were the one
+thing on that side of the locks he was allowed to ask for. The first
+call was calm and got him nothing. The second call was not calm and got him less. There was no
 third call, and the absence of the third call was the hardest discipline
 of his life to that date, and this from a man who had trained through
 every disaster for eleven years.
 
 If you had asked him then what he had lost, he would have listed the
-client, the firm and the people in it, the flat, the standing, and the
-address, which was now a car park. The list was true and complete and it was also a fraud, and he knew
-it while saying it. Everything, weighed properly, was two animals who
+client, the flat, the standing, and the address, which was now a car
+park. The list was true and it was also a fraud, and he knew it while
+saying it. Everything, weighed properly, was children he had no right to
+count as his and had never counted as anything else, and two animals who
 slept against his back and asked him for nothing a man could fail at. He
 said that to no one. There was no one to say it to, which he also
 noticed, and which went into the accounting as its own line.
@@ -6493,14 +6518,45 @@ man who did not lie, and that one he managed, for years, by never once
 saying it out loud.
 
 
+=== 7. THE SECOND FALL, AND THE PEOPLE IN IT ===
+
+The company in the last act of the other life was real: founded on his
+own money, the corporate payout signed over into something with his name
+on the door and several people on the payroll. People he hired himself.
+It ran well for two years, and then growth flattened and the costs did
+not, and everything after that runs the way every such story runs,
+except that this one was his.
+
+He cut. The word is bloodless in a spreadsheet and it is not bloodless
+in a room. Cutting meant sitting across from people he had hired
+himself, one at a time, and saying it plainly, no speech. None of them
+had done anything wrong, and he said that too, to each one. Some of them
+were kind to him about it, and the kindness was the worst part. Then he
+put his own money back in, and told himself next quarter would turn, and
+cut again. And there was finally a month where what was left did not
+cover the people still there, and he sat across from the last of them
+knowing the wage was already spent.
+
+The debt stayed on him personally. The flat went in spring. The rest of
+that year the book already tells: a mat behind a desk, a glass front
+that did not show it, two people told, both of whom assumed he was
+joking. What the book did not have until now is that the man on the mat
+had missed a payroll once, and that of everything the second collapse
+cost him, the month he could not pay his people was the item he never
+learned to file.
+
+
 === KNOWN GAPS, THE AUTHOR'S TO FILL OR LEAVE ===
 
 - Her name. Off the page until he puts it there.
-- FILLED (author): the cats were GÜNTHER and BÄRBEL. The business was IT
-  consulting - managed services and process automation - WITH SEVERAL
-  EMPLOYEES, whom at some point he could no longer pay. Anything more
-  about the cats or the employees he wants kept true, he supplies when
-  he wants.
+- FILLED AND CORRECTED (author): the cats were GÜNTHER and BÄRBEL. At
+  twenty-nine the work was IT consulting - managed services and process
+  automation - and it was INCOME, NOT A FIRM: no staff, one man. The
+  several employees he at some point could not pay belong to the SECOND
+  company, the payout one (story 7). And SHE HAD CHILDREN: losing
+  everything private included losing them.
+- Her children: how many, ages, anything about them he wants kept true,
+  and how much of them he wants on the page. Nothing gets invented.
 - How long the car actually lasted; cities and durations throughout are
   stand-ins.
 - Which details above are wrong. He complains, they get fixed, the rest
