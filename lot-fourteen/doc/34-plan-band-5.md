@@ -113,7 +113,7 @@ der, der es erfaehrt - **und die Anweisung war ihre, aber die Hand war
 Georgijs.** Wenn Chae zusammenrechnet, was ihm nie gesagt wurde, hat er seine
 Rechnung nicht mit ihr allein.
 
-### Und der zweite Faden: ihr Bruder
+### Und der zweite Faden: ihr Bruder - GESTRICHEN, siehe unten
 
 **Eine einzige Nennung in zwei Baenden**, `b1 ch30:186`: *"There is no one. My
 brother will chair a meeting."*
@@ -183,7 +183,11 @@ dem einzigen Menschen, der ihn gekauft hat.
 * **Mr Chae.** Zweiunddreissig Nennungen, dreimal ausdruecklich nicht
   eingeweiht, nie ausgeloest (`b1 ch18:274`). **Eine Ehe braucht Papiere, und
   die macht der Jurist des Hauses.**
-* **Annies Bruder.** Eine einzige Zeile in zwei Baenden (`b1 ch30:186`).
+* **Annies Bruder: GESTRICHEN am 29.08.** `b1 ch30:186` ist **Kim Ye-rin**,
+  nicht Annie - es ist ihr Nachfolgeproblem, ihr Bruder, ihr Cousin. Und
+  `b1 ch24:188` sagt ueber Annie: *"My mother used it and my brother used it
+  and **both of them are dead**."* **Annie hat keinen Bruder.** Der Faden
+  stand auf einer falsch zugeordneten Zeile.
   **Der erste Gegner, der drinnen steht.**
 
 **Und ein dritter Platz bleibt frei**, weil Band 5 zum Zeitpunkt dieser Notiz

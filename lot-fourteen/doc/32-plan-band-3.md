@@ -3154,7 +3154,7 @@ Geschaeftszweck, kein Mensch mit einem Groll.**
 
 ---
 
-## Der dritte Gegner: der Mann ohne Karte
+## Singapur: die Tatsachen, und warum es KEIN Gegner ist
 
 **Nam Byung-hee ist am 29.08. abgelehnt worden: *schwach, kein Gegner*.**
 Zutreffend, und der Grund ist mechanisch. **Sie hat kein Mittel.** Kein
@@ -3280,123 +3280,96 @@ Georgij mit ihm fertig war.
 
 ---
 
-## Die drei Fragen des Autors, vom 29.08.
+## Und daraus wird trotzdem kein Gegner, verworfen am 29.08.
 
-### 1. Was will der Mann von mir
+**Der Autor hat zwei Fragen gestellt, und die zweite erledigt die erste.**
 
-**Materiell: die Position oder ihren Gegenwert.** `b1 ch17:114` sagt, wofuer
-so eine Gesellschaft ueberhaupt da ist: *"**Buying positions in things** is
-what a private equity company in Hong Kong exists for."*
+### *Warum will der Bankmann von mir eine Antwort? Ich habe nichts auf dem Papier.*
 
-**Aber das ist nicht, womit er anfaengt, und das ist der Punkt.**
+**Gar nicht. Ich hatte eine Symmetrie gebaut, die keine Grundlage hat.**
 
-**Sein Verfahren ist, den Tod des Eigentuemers zu bepreisen.** Er stellt die
-eine Frage, bekommt eine ehrliche Antwort, und leiht dagegen. **Er hat es bei
-Woo genau so gemacht und danach zwanzig Jahre nichts weiter getan.**
+**Die Dienstagsfrage stellt man einem Eigentuemer** - jemandem, dessen Tod
+aendert, wer die Sache kontrolliert. **Georgij besitzt zu diesem Zeitpunkt
+nichts, unterschreibt nichts und steht in keinem Register.** Es gibt bei ihm
+nichts zu fragen. Wer die Frage stellen wollte, muesste sie **Annie** stellen
+oder dem Nachlass.
 
-**Also will er von Georgij zuerst dasselbe: die Antwort.**
+### *Warum ruiniere ich sie ueberhaupt? Nur um die zwanzig Prozent frei zu bekommen?*
 
-**Und das ist der ganze Angriff.** Er droht nicht. **Er fragt**, hoeflich, ohne
-Karte, so wie damals - und Georgij muss wahrheitsgemaess antworten, weil er
-nie etwas Unwahres sagt.
+**Auch das nicht, und das ist der Punkt, an dem der ganze Vorschlag
+zusammenfaellt.**
 
-**Und die wahrheitsgemaesse Antwort ist die schlechteste im Buch.** Kein
-Erbe, kein Nachfolger, keine Urkunde, kein Name. **Alles, was in zwei Baenden
-gebaut worden ist, hat genau einen Punkt, an dem es ausfaellt, und der Punkt
-ist ein Mann, den es auf dem Papier nicht gibt.**
+**Die zwanzig Prozent sind bereits geloest, ohne einen einzigen Streit.**
+`b1 ch19:166`: *"I can pay them out on a Thursday with somebody else's money."*
+**Das ist normales Geschaeft.** Wer eine Position abloesen kann, muss
+niemanden vernichten.
 
-**Der Mann fragt ihn also nach der einen Sache, die Georgij ueber sich selbst
-nie gesagt hat** - und Regel 3 sagt, dass er ueber sich keine Zahlen nennt.
-**Hier wird sie ihm abverlangt.**
+**Ich hatte einen Gegner gebaut, der keinen Konflikt erzeugt, und danach drei
+Wege erfunden, ihn zu bekaempfen.** Das ist genau die Sorte Streit, die der
+Autor am 29.08. schon einmal abgelehnt hat.
 
-### 2. Warum werden wir Gegner
+### Also bleibt Singapur, was es zwei Baende lang war
 
-**Weil sie nichts beweisen muessen.**
+**Eine Wand ohne Streit.** Die Tatsachen oben bleiben stehen, weil sie
+geprueft sind und weil Band 5 sie braucht, wenn der Handel zerlegt wird.
+**Als Gegenfigur ist es gestrichen.**
 
-**Georgijs ganze Bauweise ist gegen Anklage gerichtet.** Nichts traegt seine
-Handschrift, nichts ist unterschrieben, an keinem Ende steht sein Name. **Das
-funktioniert gegen einen Staatsanwalt und gegen die Presse und gegen einen
-Chaebol, weil die alle etwas nachweisen muessen.**
+---
 
-**Diese Leute wollen niemanden anklagen. Sie wollen ihre zwanzig Prozent.**
+## Wo der dritte Gegner tatsaechlich liegt: bei lot elf
 
-**Ein Glaeubiger braucht keinen Beweis, er braucht einen Titel** - und den hat
-er seit dem Baujahr. **Damit greift Georgijs gesamte Deckung nicht**, und zwar
-zum ersten Mal.
+**Nicht erfunden, sondern die Stelle, an der der Plan schon ein Loch hat.**
 
-**Und sie sind nicht boese.** Das ist die Sorte Gegner, die dieses Buch noch
-nicht hatte: **niemand hasst hier jemanden.** Sie holen sich etwas, das ihnen
-gehoert, und der Mann, der ihnen im Weg steht, ist derselbe Mann, der ihren
-Direktor in die Enge getrieben hat. **Beides zugleich, und beides ohne
-Stimmerhebung.**
+**Beschlossen ist:** lot elf kommt in Band 3 zurueck, ist sechzehn, hat seine
+Ausbildung abgeschlossen und wird Bediensteter im Haus.
 
-### 3. Wie ruiniere ich sie, ohne die Struktur zu kennen
+**Im ganzen Plan steht kein Wort darueber, wie.**
 
-**Gar nicht ueber die Struktur. Das ist zweimal gescheitert und wird ein
-drittes Mal scheitern.** `b1 ch13:100`: *He had no person at all.*
-`b2 ch39:254`: *I have not found the Singapore end yet.* **Vier Wochen
-Georgij, ein ganzer Band Sang-hoon, nichts.**
+### Die Frage, die niemand gestellt hat
 
-**Aber das Verfahren steht im Buch, und Georgij hat es schon einmal
-angewendet.** `b2 ch09:204`:
+**Ausbildung wofuer, und von wem bezahlt?**
 
-> *"A house whose business is discretion cannot survive being the house that
-> sells deletions and does not perform them. **Nobody has to sue anybody. The
-> next twelve people simply go somewhere else.**"*
+`b2 ch27:180`: *Lot eleven and lot fourteen, **four lines apart**.* **Zwei
+Jungen, eine Auktion, ein Abend.** Einer ist in dieses Haus gegangen. **Der
+andere ist irgendwohin gegangen, und dort ist jemand, der ihn bezahlt hat und
+zwei Jahre auf ihn verwendet hat.**
 
-**Eine Kanzleikette, die Eigentum fuer Mandanten haelt, hat genau ein Produkt:
-dass sie haelt.** Das ist alles, was sie verkauft.
+**Diesen Mann gibt es, seit dem vierten Oktober, und er ist nie benannt
+worden.**
 
-**Weg A: einmal sichtbar machen, nicht durchdringen.**
+### Warum er der richtige dritte Gegner ist
 
-Nicht die Gesellschafterstruktur aufklaeren. **Einen einzigen Mandanten, ein
-einziges Mal, oeffentlich durch die Kette hindurch sichtbar machen** - und
-danach weiss jeder andere dahinter, dass dahinter zu sein nicht dasselbe ist
-wie unsichtbar zu sein.
+**1. Sein Grund ist der konkreteste im ganzen Buch.** Kein Groll, kein Stand,
+keine Kraenkung. **Georgij nimmt ihm etwas weg, wofuer er bezahlt hat.** Aus
+seiner Sicht ist das ein Diebstahl, und aus seiner Sicht hat er recht.
 
-**Und der Riss ist im Kanon schon da.** `b1 ch13:96`: hinter Singapur stand
-Hongkong, **laut einer Meldung von 2021, die zu einem ganz anderen Zweck
-gemacht worden war.** **Es ist einmal aus Versehen durchgesickert. Es kann
-einmal mit Absicht durchsickern.**
+**2. Er ist der Einzige, gegen den Georgijs Verfahren nicht angewendet werden
+darf.** Herausfinden, was ein Mann getan hat, und es Staatsanwaelten geben -
+**das kostet hier den Jungen.** Ein Verfahren gegen den Kaeufer macht den
+Jungen zum Beweismittel und seine zwei Jahre aktenkundig.
 
-**Was das kostet:** es verbrennt alle anderen Mandanten hinter derselben
-Kette, und einige davon braucht Annie moeglicherweise. **Und es ist genau die
-Handlung, die der Staatsanwalt ihm vorwirft.**
+**3. Und er stellt Georgij vor die eine Falle, die dieses Buch aufgebaut
+hat.** Der saubere Weg, den Jungen herauszubekommen, ist, ihn zu **kaufen**.
 
-**Weg B: nicht ruinieren, sondern die koreanische Seite unbrauchbar machen.**
+* **Georgij kann nicht kaufen. Er besitzt nichts.**
+* **Annie kann.** Und dann steht `b1 ch01:122` noch einmal da: *When he bought
+  the boy.* **Dasselbe Haus, dieselbe Handlung, neun Jahre spaeter, und
+  diesmal sieht er zu.**
 
-**Sie muessen nicht untergehen. Sie muessen gehen.** Ein Fonds, der zwanzig
-Prozent an einem koreanischen Terminal haelt, braucht koreanische
-Gegenparteien, koreanische Register, koreanische Kanzleien und einen Weg,
-Geld zu bewegen. **Annie, Sang-hoon und das Terminal sind die Logistik dieses
-Landes.**
+**4. Und es ist die Bruecke nach Band 5.** Der Mann, der lot elf gekauft hat,
+ist genau die Sorte, die Georgij in Band 5 ausrottet. **Band 3 gibt ihm zum
+ersten Mal ein Gesicht**, und der Ausgang dieses Strangs entscheidet, ob
+Georgij in Band 5 mit einem Vorsatz anfaengt oder mit einer Wunde.
 
-**Man macht das Halten koreanischer Positionen unwirtschaftlich, und sie
-verkaufen von selbst.**
+**5. Und lot elf sieht zu, wie es ausgeht.** Er wird der Junge, der still
+lernt und hinterher fragt. **Seine erste Frage waere, warum es bei ihm
+anders ausgegangen ist als bei den anderen.**
 
-**Was das kostet:** es beendet sie nicht, es verschiebt sie. **Das ist die
-Methode aus Band 5 - kontrollieren statt zerstoeren -, zwei Baende zu frueh,
-und Georgij muesste dabei lernen, dass nicht alles fertig gemacht werden
-kann.**
+### Was daran noch entschieden werden muss
 
-**Weg C: bezahlen.**
-
-**Sie wollen einen Ausstieg zur richtigen Zahl.** Georgij hat gerade geerbt,
-Annie haelt die Logistik. **Man kauft sie ordentlich heraus.**
-
-**Was das kostet:** es macht sie reich und gibt zu, dass sie im Recht waren.
-**Und Georgij hat in seinem Leben noch nichts gekauft.**
-
-### Mein Vorschlag, und er ist nicht das, wonach gefragt wurde
-
-**A versuchen und daran scheitern, dann B.**
-
-**Weil dies der erste Gegner sein sollte, den er nicht fertig macht.** Drei
-Baende lang endet jeder Gegner. Choi ist tot, Nam hat verloren, der Erbe
-verliert alles. **Ein Band, in dem er zum ersten Mal etwas besitzt, ist der
-richtige Band fuer den ersten Gegner, der einfach weitermacht.**
-
-**Und es beantwortet die Dienstagsfrage von der anderen Seite:** was mit
-diesem Ding geschieht, wenn er stirbt, ist erst dann eine ertraegliche Frage,
-wenn er aufgehoert hat zu glauben, dass er jede Sache selbst zu Ende bringen
-muss.
+* **Ob Georgij ihn kauft, tauscht oder nimmt.** Alle drei kosten etwas
+  Verschiedenes, und keiner ist umsonst.
+* **Ob der Mann ueberlebt.** Wenn nicht, ist es das erste Mal, und dann liegt
+  das erste Blut in Band 3 und nicht in Band 5.
+* **Wofuer der Junge ausgebildet wurde.** Das entscheidet, wie schlimm der
+  Mann ist, und es ist die einzige Stelle, an der etwas erfunden werden muss.
