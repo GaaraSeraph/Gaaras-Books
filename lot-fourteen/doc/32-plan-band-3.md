@@ -3277,8 +3277,6 @@ das Gewicht tragen. **Dieser Mann war das Gewicht.**
 
 ## Der Text
 
-Eleven of them on a concrete floor, and four who were not going to be on it.
-
 "Please guide me," said Georgij.
 
 He said it the way he had said it to a chairman, and to a deputy minister, and to a man at a window, which is courteously, and with the mark on the end of it.
@@ -3547,4 +3545,88 @@ zwei Baenden tut.
 **Und es ist wahr, was noetig ist, weil er es sonst nicht annehmen wuerde.**
 Ein Mann, der geworden waere, was er fuerchtet, **stuende nicht in diesem
 Zimmer.**
+
+---
+
+## Die Menge, und sie aendert die Form an drei Stellen
+
+**Vom Autor am 29.08. eingewandt:** die Zahl der willigen Menschenhaendler und
+Vergewaltiger ist hoeher als ein Dutzend. **Hier wird die Unterwelt Suedkoreas
+vereinigt, mindestens die von Seoul.**
+
+**Das stimmt, und meine *elf auf einem Betonboden* war zu klein.** Die Zeile
+ist gestrichen. **Drei Sachen folgen daraus, und die dritte ist die
+wichtigste.**
+
+### Erstens: es ist keine Nacht, es ist eine Reihe
+
+**Ein Mann und ein Boden traegt ein Dutzend. Mehr traegt es nicht** - dann
+wird aus einem Vorgang ein Bild, und aus dem Bild wird ein Schlachthaus, das
+niemand mehr einzeln sieht.
+
+**Also: die Versammlung ist ein Abend. Die Vollstreckung ist ein Zeitraum.**
+
+**Und das ist haerter und nicht weicher.** Er tut es wieder. Und wieder. **Und
+jedes Mal weiss er vorher, was er tut, weil er es schon getan hat.** Ein
+einziger Abend laesst sich als Ueberwaeltigung lesen. **Wochen nicht.**
+
+**Damit steht die geschriebene Szene an ihrer richtigen Stelle: sie ist die
+letzte.** Der Warlord kommt zuletzt. *The last thing he saw was a face that
+had not moved* ist dann das Gesicht eines Mannes, **der das seit einiger Zeit
+tut** - und der Satz wird dadurch schwerer, ohne dass ein Wort dazukommt.
+
+**Und die Nacht bei Annie ist der Schluss der Reihe und nicht der Anfang.** Er
+hat die ganze Zeit gehalten. **Er bricht, als es fertig ist.**
+
+### Zweitens: die Zahl wird genannt und kein Name
+
+**Das Verfahren hat das Buch dreimal vorgefuehrt:** `b1 ch07:338` -
+*eight hundred and thirty-six covers*, zehn Namen. `b2 ch87:326` - *six
+hundred and forty people*, eine Handvoll. `b1 ch15:332` - *four thousand two
+hundred employees*, kein einziger.
+
+**Also drei Zahlen und keine Namen:** wie viele gekommen sind, wie viele
+getrennt wurden, wie viele uebrig blieben. **Die Uebrigen gehen zu den
+Staatsanwaelten.**
+
+**Und Regel 3 teilt die Sache genau richtig.** *Ueber sich selbst nennt er
+keine Zahlen.* **Die Erzaehlung gibt die Zahl. Er sagt sie nie** - und
+deshalb kann er sie auch bei Annie nicht sagen, obwohl der Leser sie hat.
+
+### Drittens: bei dieser Menge gibt es eine Liste, und das ist das Schlimmste
+
+**Ein Dutzend behaelt man im Kopf. Ein paar Hundert nicht.**
+
+**Also hat er eine Liste geschrieben.** Ein Mann, der seit zwei Baenden alles
+aufschreibt, hat auch das aufgeschrieben - **mit Namen, mit einem Grund je
+Zeile, und mit einer Spalte, in der steht, wer in welche Haelfte gehoert.**
+
+**Und damit ist der Preis, den ich vorher nur strukturell hatte, ein
+Gegenstand.**
+
+**Er hat genau zwei Moeglichkeiten und beide sind unertraeglich:**
+
+**Er behaelt sie.** Dann existiert ein Blatt, auf dem in seiner Handschrift
+steht, wen er umbringen liess und warum. **Das ist ein Gestaendnis mit
+Fussnoten**, und es liegt in einem Haus, das er nicht allein bewohnt.
+
+**Er vernichtet sie.** Dann hat er zum ersten Mal in seinem Leben eine Seite
+verschwinden lassen - **und genau das ist die Sache, die Hwang nie getan
+hat.** `b2 ch20:86`: *"If I delete an entry because somebody paid..."*
+
+**Es gibt keinen dritten Weg, und Hwang darf davon nichts wissen.**
+
+### Und die Auswahl bleibt der harte Kern
+
+**Bei zwoelf sieht man jeden einzeln an. Bei einigen Hundert wird aus dem
+Ansehen ein Verfahren** - und ein Verfahren, das Menschen in zwei Haelften
+teilt, ist genau das, was elf Haeuser mit ihm gemacht haben.
+
+**Die Unterscheidung muss deshalb im Text stehen und darf nicht behauptet
+werden.** Nicht *die Unverbesserlichen*, sondern **das Kriterium**, einmal,
+in einem Satz, den jeder nachrechnen kann.
+
+**Und es muss mindestens einen geben, bei dem es knapp war.** Sonst war es
+keine Auswahl, sondern eine Kategorie - und dann hat er nicht entschieden,
+sondern sortiert.
 
