@@ -116,10 +116,40 @@ everything else)
 - NINETEEN TO TWENTY-NINE: THE WILD DECADE. Over four hundred dates, both
   sexes, and he stopped counting sexual partners at a hundred. He tried
   himself out professionally in the same spirit - this is the first stretch
-  of the thirty-nine companies. AT TWENTY-NINE IT ENDED, ABRUPTLY. WHAT
-  ENDED IT IS NOT ESTABLISHED: the author has not said, nothing gets
-  invented for it, and no chapter points at it without asking him first.
-  It is a hole in the vita on purpose until he fills it.
+  of the thirty-nine companies.
+- THE BREAK AT TWENTY-NINE, filled in by the author (it was a deliberate
+  hole until he did). A separation, and it broke him. The first time in
+  his life he lost EVERYTHING, itemised: she saw to it that he lost his
+  only client of the time - one client, which was the whole income - she
+  put him out, he lived in his car, and he lost both cats. He had only
+  ever trusted people exactly as far as they could hurt him - trust
+  budgeted against possible damage, lifelong - and this once too much had
+  been given, and the bill came in full.
+  WHAT IT COST FOR THE NEXT NINE YEARS: trust in women, gone. Dates
+  turned into work - exhausting, no pleasure left in them. Sex stopped
+  being fun. From twenty-nine to the office mat the machinery still
+  worked and the joy was dead.
+  AND HE FOUGHT HIS WAY OUT, which matters as much as the fall: new
+  clients found, a great deal learned, in the end a good flat. So the
+  office mat at thirty-eight was the SECOND collapse, not the first, and
+  he already knew the way up from nothing because he had walked it once.
+  That sits under ch1 without ch1 ever saying so.
+  RESONANCES, recorded so nothing gets invented twice: this is the
+  private root under "he hates betrayal more than anything else" - the
+  corporate root (the small convenient untruth with a budget line behind
+  it) is the one he can talk about, this is the one he cannot. It is also
+  the root of the second-tool rule (character-arc.md section 3): ONE
+  client, destroyed by one person, is why he never again relies on a
+  single anything - which is exactly what the panel now is, and part of
+  why it unsettles him.
+  THE CATS ARE UNSPENT. Two of them, lost with everything else. Do not
+  spend them casually and never in a joke.
+  GUARDRAILS: on the page this surfaces only as concrete memory, never as
+  a speech and never as simile (standing rule). No chapter names her or
+  tells the story until the author stages it deliberately. And nobody in
+  the new world may be written as a stand-in for her - if a plot ever
+  wants a woman to cost him everything, ask the author first, because
+  that shape is loaded now.
 - THE COMPETENCE POLICY, lifelong: THERE IS NO COMPETENT PERSON WHO HAS
   ACTUALLY GOTTEN TO KNOW HIM AND CONSIDERS HIM INCOMPETENT. Not charm and
   not luck: he earned it over years, by working every position relevant to
@@ -216,6 +246,15 @@ is not guesswork, because a person in the dark cannot help answering.
   IT NEVER REACHES THE PAGE AS A NUMBER OR A BOAST. He does not explain
   himself, and a man quoting his own statistics is reading out a CV, which
   is the exact man he left behind.
+- AND WHERE THE JOY WENT, AND CAME BACK (author's vita): dead from
+  twenty-nine on. Nine years in which dates were exhausting work and sex
+  was not fun - the method intact, the appetite gone. What the new world
+  handed back with the body is the APPETITE, and that is part of why every
+  scene here reads as delight rather than routine: it is not a habit
+  continuing, it is a thing coming back to life after nine years. It also
+  sits under HE STAYS AFTERWARDS - both partners so far braced for being
+  got rid of, and the man doing the staying is the one who was put out.
+  NONE OF THIS IS EVER SAID ON THE PAGE.
 - DISCOVERING THE OTHER PERSON IS THE POINT. He maps them. He looks for what
   works and goes back to it, and he has no interest at all in the parts that are
   meant to be interesting. Write it as reconnaissance and write it as delight.

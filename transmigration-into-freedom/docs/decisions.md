@@ -3,6 +3,24 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The break at twenty-nine is filled, and the hole closes ===
+The author has answered the one open question in his vita: a separation
+that broke him. She cost him his only client - the whole income - put him
+out, he lived in his car, and both cats were lost. The first time in his
+life he lost everything, and the proof of his own trust rule: people are
+trusted exactly as far as they can hurt you, and this once too much had
+been given. Nine years followed in which dates were exhausting and sex was
+joyless, and he fought his way out - new clients, much learned, a good
+flat - so ch1's office mat is the SECOND collapse and he already knew the
+way up. Fixed in the bible, section 1, with resonances (the private root
+of the betrayal hatred; the second-tool rule; the staying-afterwards
+beat; the appetite the new world handed back) and guardrails: concrete
+memory only, never a speech; no chapter names her or tells the story
+until the author stages it; nobody in the new world stands in for her
+without asking him first; the cats are unspent and never joke material.
+Supersedes the "deliberately unexplained" guardrail in the vita entry
+below.
+
 === Hades trades, Seraph fights ===
 DECIDED BY THE AUTHOR in two words: Handelskompanie Hades, Kampfkompanie
 Seraph. Both names are Gaara's, which supersedes the 6c note that Marit or

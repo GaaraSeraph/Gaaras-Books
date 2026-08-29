@@ -6,7 +6,7 @@ Companion to the story bible. Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Gaara's rule: control can only be held alone. Help is unreliable, other people's failures become your failures, so carry it yourself and nobody can put it down.
 
-The rule is not stupid. It was earned. 39 companies taught him that results die of politics, and his own company died anyway with his own money in it. The story must never treat the rule as simple foolishness.
+The rule is not stupid. It was earned, twice, from two directions. 39 companies taught him that results die of politics, and his own company died anyway with his own money in it. And at twenty-nine the one person he had let all the way in used the position: the only client, the home, both cats, gone in one stroke (bible section 1, the break at twenty-nine). The story must never treat the rule as simple foolishness.
 
 The story's counter-argument: the rule is what put him alone on a mat behind his own desk at four in the morning, owing money to people he had never met. It protected him from betrayal by removing everyone who could have carried anything.
 
@@ -68,7 +68,8 @@ Not "nobody can take it from me" but "it does not collapse if I fall over." The 
 The system is not a reward machine, and it is not a villain either. It is a
 TOOL, and it is the only one he has. That is the whole problem.
 His rule about tools is his rule about everything: you rely on one exactly as
-long as you have no second, and you build the second as fast as you can. He
+long as you have no second, and you build the second as fast as you can. (He
+learned the price at twenty-nine: one client, and one person who knew it.) He
 cannot audit this one, cannot switch it off, and cannot get a look at who is
 keeping the score. It already wrote a language into him without asking, and it
 shows him nothing at all for one man. So it does not need to menace him. It

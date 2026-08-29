@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 5 Dokumente am Stueck. 72.881 Woerter.
+Alle 5 Dokumente am Stueck. 73.611 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -462,7 +462,7 @@ Companion to the story bible. Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Gaara's rule: control can only be held alone. Help is unreliable, other people's failures become your failures, so carry it yourself and nobody can put it down.
 
-The rule is not stupid. It was earned. 39 companies taught him that results die of politics, and his own company died anyway with his own money in it. The story must never treat the rule as simple foolishness.
+The rule is not stupid. It was earned, twice, from two directions. 39 companies taught him that results die of politics, and his own company died anyway with his own money in it. And at twenty-nine the one person he had let all the way in used the position: the only client, the home, both cats, gone in one stroke (bible section 1, the break at twenty-nine). The story must never treat the rule as simple foolishness.
 
 The story's counter-argument: the rule is what put him alone on a mat behind his own desk at four in the morning, owing money to people he had never met. It protected him from betrayal by removing everyone who could have carried anything.
 
@@ -524,7 +524,8 @@ Not "nobody can take it from me" but "it does not collapse if I fall over." The 
 The system is not a reward machine, and it is not a villain either. It is a
 TOOL, and it is the only one he has. That is the whole problem.
 His rule about tools is his rule about everything: you rely on one exactly as
-long as you have no second, and you build the second as fast as you can. He
+long as you have no second, and you build the second as fast as you can. (He
+learned the price at twenty-nine: one client, and one person who knew it.) He
 cannot audit this one, cannot switch it off, and cannot get a look at who is
 keeping the score. It already wrote a language into him without asking, and it
 shows him nothing at all for one man. So it does not need to menace him. It
@@ -846,6 +847,24 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== The break at twenty-nine is filled, and the hole closes ===
+The author has answered the one open question in his vita: a separation
+that broke him. She cost him his only client - the whole income - put him
+out, he lived in his car, and both cats were lost. The first time in his
+life he lost everything, and the proof of his own trust rule: people are
+trusted exactly as far as they can hurt you, and this once too much had
+been given. Nine years followed in which dates were exhausting and sex was
+joyless, and he fought his way out - new clients, much learned, a good
+flat - so ch1's office mat is the SECOND collapse and he already knew the
+way up. Fixed in the bible, section 1, with resonances (the private root
+of the betrayal hatred; the second-tool rule; the staying-afterwards
+beat; the appetite the new world handed back) and guardrails: concrete
+memory only, never a speech; no chapter names her or tells the story
+until the author stages it; nobody in the new world stands in for her
+without asking him first; the cats are unspent and never joke material.
+Supersedes the "deliberately unexplained" guardrail in the vita entry
+below.
 
 === Hades trades, Seraph fights ===
 DECIDED BY THE AUTHOR in two words: Handelskompanie Hades, Kampfkompanie
@@ -3380,10 +3399,40 @@ everything else)
 - NINETEEN TO TWENTY-NINE: THE WILD DECADE. Over four hundred dates, both
   sexes, and he stopped counting sexual partners at a hundred. He tried
   himself out professionally in the same spirit - this is the first stretch
-  of the thirty-nine companies. AT TWENTY-NINE IT ENDED, ABRUPTLY. WHAT
-  ENDED IT IS NOT ESTABLISHED: the author has not said, nothing gets
-  invented for it, and no chapter points at it without asking him first.
-  It is a hole in the vita on purpose until he fills it.
+  of the thirty-nine companies.
+- THE BREAK AT TWENTY-NINE, filled in by the author (it was a deliberate
+  hole until he did). A separation, and it broke him. The first time in
+  his life he lost EVERYTHING, itemised: she saw to it that he lost his
+  only client of the time - one client, which was the whole income - she
+  put him out, he lived in his car, and he lost both cats. He had only
+  ever trusted people exactly as far as they could hurt him - trust
+  budgeted against possible damage, lifelong - and this once too much had
+  been given, and the bill came in full.
+  WHAT IT COST FOR THE NEXT NINE YEARS: trust in women, gone. Dates
+  turned into work - exhausting, no pleasure left in them. Sex stopped
+  being fun. From twenty-nine to the office mat the machinery still
+  worked and the joy was dead.
+  AND HE FOUGHT HIS WAY OUT, which matters as much as the fall: new
+  clients found, a great deal learned, in the end a good flat. So the
+  office mat at thirty-eight was the SECOND collapse, not the first, and
+  he already knew the way up from nothing because he had walked it once.
+  That sits under ch1 without ch1 ever saying so.
+  RESONANCES, recorded so nothing gets invented twice: this is the
+  private root under "he hates betrayal more than anything else" - the
+  corporate root (the small convenient untruth with a budget line behind
+  it) is the one he can talk about, this is the one he cannot. It is also
+  the root of the second-tool rule (character-arc.md section 3): ONE
+  client, destroyed by one person, is why he never again relies on a
+  single anything - which is exactly what the panel now is, and part of
+  why it unsettles him.
+  THE CATS ARE UNSPENT. Two of them, lost with everything else. Do not
+  spend them casually and never in a joke.
+  GUARDRAILS: on the page this surfaces only as concrete memory, never as
+  a speech and never as simile (standing rule). No chapter names her or
+  tells the story until the author stages it deliberately. And nobody in
+  the new world may be written as a stand-in for her - if a plot ever
+  wants a woman to cost him everything, ask the author first, because
+  that shape is loaded now.
 - THE COMPETENCE POLICY, lifelong: THERE IS NO COMPETENT PERSON WHO HAS
   ACTUALLY GOTTEN TO KNOW HIM AND CONSIDERS HIM INCOMPETENT. Not charm and
   not luck: he earned it over years, by working every position relevant to
@@ -3480,6 +3529,15 @@ is not guesswork, because a person in the dark cannot help answering.
   IT NEVER REACHES THE PAGE AS A NUMBER OR A BOAST. He does not explain
   himself, and a man quoting his own statistics is reading out a CV, which
   is the exact man he left behind.
+- AND WHERE THE JOY WENT, AND CAME BACK (author's vita): dead from
+  twenty-nine on. Nine years in which dates were exhausting work and sex
+  was not fun - the method intact, the appetite gone. What the new world
+  handed back with the body is the APPETITE, and that is part of why every
+  scene here reads as delight rather than routine: it is not a habit
+  continuing, it is a thing coming back to life after nine years. It also
+  sits under HE STAYS AFTERWARDS - both partners so far braced for being
+  got rid of, and the man doing the staying is the one who was put out.
+  NONE OF THIS IS EVER SAID ON THE PAGE.
 - DISCOVERING THE OTHER PERSON IS THE POINT. He maps them. He looks for what
   works and goes back to it, and he has no interest at all in the parts that are
   meant to be interesting. Write it as reconnaissance and write it as delight.
