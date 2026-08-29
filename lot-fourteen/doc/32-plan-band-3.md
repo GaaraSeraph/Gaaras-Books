@@ -3212,14 +3212,32 @@ Boden.** *"Two men in this country who own a great deal consider you a
 friend"* - **am Ende des Bandes sind es drei, und der dritte hat es selbst
 ausgerechnet.**
 
-### Und Annie mag ihn auch, und das steht dem nicht im Weg
+### Und der Beat mit Annie, berichtigt am 29.08.
 
-**Yeom hat in Band 2 nach Georgij gefragt und nie nach ihr** (`b2 ch23:98`) -
-das war damals das Zeichen, dass die Gegenseite ihn erkannt hat. **In Band 3
-darf daraus die andere Sache werden:** ein Mann, der mit beiden kann, ohne je
-durch den einen an die andere heranzuwollen. **Davon gibt es im Buch sonst
-niemanden** - jeder andere Verbuendete kam ueber sie zu ihm oder ueber ihn zu
-ihr.
+**Ich hatte daraus eine Struktursache gemacht. Der Autor meinte eine Szene:
+Georgij gibt zu, dass er Yeom mag, und Annie sagt daraufhin, dass sie ihn
+auch mag.**
+
+**Das Zugeben ist die eigentliche Meldung.** Ein Mann, der nie etwas Unwahres
+sagt, hat einen einfacheren Weg: nichts sagen. **Ueber eigene Zuneigung hat
+er in zwei Baenden genau null Saetze gesagt** - die Ausnahme ist Woo, am
+Grab, und da war der Mann tot. **Hier sagt er es ueber einen Lebenden.**
+
+**Entwurf:**
+
+"I like him," said Georgij, and heard himself say it, because he does not say that about people who are alive.
+
+"I know you do." Annie did not look up from the page. "I like him too."
+
+**Ihre Antwort ist zwei Feststellungen mit Punkt, und die erste ist die
+groessere:** *I know you do* heisst, sie hat es laengst gesehen - **er hat
+nichts verraten, er hat nur bestaetigt.** Und *I like him too* ist von ihr
+das Aequivalent einer Umarmung: **sie laesst ihn mit der Zuneigung nicht
+allein stehen.**
+
+**Wo der Beat sitzt: nach Yeoms Freundes-Satz, nicht davor.** Erst rechnet
+Yeom aus, dass es kein anderes Wort gibt. Dann, zu Hause, gibt Georgij zu,
+was er ohnehin nicht mehr verstecken kann.
 
 ### Was sich damit aendert
 
