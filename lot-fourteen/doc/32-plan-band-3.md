@@ -308,11 +308,13 @@ Mr Ku took him to the gate.
 
 Annie went back to the page.
 
-"Two men in this country who own a great deal consider you a friend," she said, "and one of them has just gone down my stairs." She turned a page. "You told me once that you have no money and no name that opens a door and nothing in this country to telephone."
+"Two men in this country who own a great deal consider you a friend," she said, "and one of them has just gone down my stairs. You told me once that you have no money and no name that opens a door and nothing in this country to telephone."
 
-"It is still true," said Georgij. "A friend is not a thing anybody holds. Chairman Park can put it down on a Tuesday and not say why, and I would hear about it from a third person, and I would have no complaint."
+Annie stood up and came across the room without hurrying any of it.
 
-Annie put the page down on the arm of the chair, which she does not do, and got up, and came across the room while he was still explaining it to her.
+She stopped beside him and looked at the side of his face.
+
+He did not move, which he does not.
 
 "Yes, Mistress."
 
@@ -320,18 +322,155 @@ Annie kissed him on the cheek.
 
 "You cannot say that any more."
 
-He looked at the carpet.
+**[hier steht eine der Optionen unten]**
 
-That is what a boy does when he has been told he did something well, and he was never a boy in any way that counted.
+### Die Choreografie ist vom Autor und wird nicht mehr angefasst
+
+**Am 29.08. vorgegeben, nachdem meine dritte Fassung wieder danebenlag:**
+
+> *Annie stood up and with slow strides went in his direction*
+> *"two men.."*
+> *she stopped right besides him, glancing at his profile. he did not move as
+> he usually does not*
+> *"yes, mistress"*
+> *kiss*
+> *"you can..."*
+
+**Was ich davor falsch hatte, dreimal hintereinander:**
+
+**1. Ich habe ihm etwas zu reden gegeben**, damit sie hineinlaufen kann. **Er
+redet hier nicht.** Er sagt drei Woerter, und die sind die ganze Rolle.
+
+**2. Ich habe sie ihm gegenuebergestellt.** Sie stellt sich **neben** ihn und
+sieht ihn von der Seite an. **Beide sehen in dieselbe Richtung**, und das ist
+die Stellung, in der die zwei das ganze Buch ueber nebeneinander gestanden
+haben. **Ein Gegenueber waere eine Verhandlung.**
+
+**3. Ich habe seine Reglosigkeit als Ausfall gelesen.** Sie ist keiner. *He
+did not move, which he does not* - **das ist der Normalzustand und wird hier
+nur benannt**, damit der Leser weiss, dass gleich etwas passiert, das er
+nicht abfangen kann.
+
+**Und die Bewegung faengt vor der Rede an und nicht mittendrin.** Sie steht
+auf, geht los, redet dabei, bleibt stehen. **Eine Linie, kein Wechselspiel.**
+
+**Der Beat zwischen ihrer Rede und seinen drei Woertern bleibt stehen**,
+obwohl die Figuren dort wechseln. Er ist kein Sprecherhinweis, er ist der
+Weg durch den Raum. **Das ist der Unterschied, den die Regel meint.**
+
+---
+
+## Was nach "You cannot say that any more." kommt: fuenf Optionen
+
+**Alles bis dahin ist fest.** Offen ist nur, was danach steht, und die
+Vorgabe dafuer bleibt: **Glueck und Unbeholfenheit, wie ein kleiner Junge,
+der zum ersten Mal ein Kompliment bekommen hat.**
+
+---
+
+### A. Er fragt, wofuer es war
+
+"May I ask what that was for?"
+
+"No."
+
+He stood where she had left him and worked at it and did not get near it.
 
 His hands went behind his back and did not stay there.
 
-Something came up into his face and he could not get it down again, and he did not try very hard.
+Something came up into his face and he could not get it down again, and he was not trying very hard.
 
-He did not say anything, and it was not the kind of not saying anything that he does.
+**Warum das die staerkste ist:** **jede Sache, die er in seinem Leben bekommen
+hat, war Bezahlung fuer etwas.** Also fragt er, wofuer. **Und ihr *No* nimmt
+ihm die einzige Kategorie, in der er so etwas verrechnen kann** - nicht
+unfreundlich, sondern indem sie den Handel abschafft.
 
-Annie sat down and picked the page up and found her place, and let him stand there.
+**Und *May I ask* ist seine Form**, mit Zeichen: er fragt nach oben, sie kann
+nein sagen, und sie tut es. Der Stand ist 15 zu 0 im ganzen Buch.
 
+---
+
+### B. Er sagt es noch einmal
+
+"Yes, Mistress," he said.
+
+It was out before he could do anything about it, and it was the second one in about a minute, and she had just abolished the word.
+
+He looked at the door Park Sang-hoon had gone out of, because it was the only thing in the room that was not her.
+
+Annie stayed where she was.
+
+**Was sie kann:** **Ungehorsam aus Reflex**, drei Sekunden nachdem sie ihm das
+Wort genommen hat. **Was sie kostet:** es ist mehr komisch als glucklich, und
+der Autor hat diese Sorte schon einmal abgelehnt.
+
+---
+
+### C. Er versucht einen Satz und findet ihn nicht
+
+Georgij started a sentence.
+
+It was going to be about Chairman Park and it was going to be accurate, and it got four words out.
+
+He stopped it himself, which he has never had to do.
+
+Annie waited beside him to see whether he would find the rest of it.
+
+He did not.
+
+**Was sie kann:** **die Unbeholfenheit sitzt in seiner einzigen Staerke.** Ein
+Mann, dem in zwei Baenden nie ein Satz ausgegangen ist. **Und sie wartet
+neben ihm**, was mehr ist als weggehen.
+
+---
+
+### D. Sie geht, er bleibt stehen
+
+Annie went back to the chair and found her place on the page.
+
+Georgij stayed where she had left him.
+
+He was still standing there when Mrs Seo came up for the tray, and she took it away and did not say anything about it, and she has been in that house for nine years.
+
+**Was sie kann:** **die Freude wird von aussen gezaehlt und nicht von ihm
+behauptet.** Ein Mann, der ohne Auftrag in einem Raum stehenbleibt, ist in
+diesem Buch das groesste Signal, das es gibt. **Was sie kostet:** die
+Unbeholfenheit fehlt ganz.
+
+---
+
+### E. Gar nichts
+
+"You cannot say that any more."
+
+* * *
+
+**Was sie kann:** **der Leser macht die Reaktion selbst**, und dieses Buch
+verlaesst sich sonst staendig darauf. **Was sie kostet:** der Autor hat
+ausdruecklich eine Reaktion verlangt. **Steht hier nur, damit die Reihe
+vollstaendig ist.**
+
+---
+
+### Vorschlag: A, und wenn es laenger sein darf, A mit den zwei Zeilen aus C
+
+**A beantwortet, was der Kuss fuer ihn ueberhaupt ist**, und das ist die
+Frage, die dieser Mann als Einziger im Buch stellen wuerde. **C ist die beste
+Unbeholfenheit.** Zusammen:
+
+"May I ask what that was for?"
+
+"No."
+
+He started a sentence anyway. It was going to be accurate and it got four words out, and he stopped it himself, which he has never had to do.
+
+His hands went behind his back and did not stay there.
+
+Something came up into his face and he could not get it down again, and he was not trying very hard.
+
+Annie stayed beside him and did not help him with any of it.
+
+---
 
 ### Der Ton, berichtigt am 29.08.
 
@@ -3054,104 +3193,106 @@ Geschaeftszweck, kein Mensch mit einem Groll.**
 
 ---
 
-## Der dritte Gegner ist Hanseong
+## Der dritte Gegner: Nam Byung-hee
 
-**Am 29.08. abgeraeumt, und der Einwand ist der bessere Gedanke.** Ich hatte
-den kompetenten Mann, der den Konzern fuehrt, zum dritten Gegner gemacht.
+**Am 29.08. hat der Autor die Nummerierung erledigt: *das ist doch der
+erste*.** Er hat recht, und der Einwand trifft beide meiner Vorschlaege.
 
-**Der Autor:** *Konzerne fuehren sich von alleine, mit den eigenen
-Geschaeftsfuehrern und Vorstaenden. Da braucht es keinen Kopf drueber, und
-deshalb darf der Kopf inkompetent sein, ohne grosse Konsequenzen zu
-befuerchten.*
+**Hanseong ist der Gegner dieses Bandes.** Band 3 ist der Angriff darauf. Der
+Erbe ist sein Gesicht. **Ich habe den offenen dritten Platz zweimal mit dem
+besetzt, was schon oben auf der Liste stand** - erst mit einem Mann aus
+Hanseong, dann mit Hanseong selbst.
 
-**Das ist richtig, und es zerlegt meinen Vorschlag an der Wurzel.** Wenn der
-Betrieb ohne den Inhaber laeuft, ist die Inkompetenz oben folgenlos - **und
-dann gibt es niemanden, der ihn verteidigen muss, weil nichts zu verteidigen
-ist, was nicht ohnehin von selbst weiterlaeuft.** Ein Verteidiger ohne
-Verteidigungsnot ist keine Figur.
+**Der Stand ist also:**
 
-### Und daraus folgt der dritte Gegner, statt gegen ihn zu argumentieren
+* **Hanseong**, mit dem Erben als Gesicht - **das Ziel.**
+* **Der Oberstaatsanwalt**, Chois Freund - **der Gegenangriff von aussen.**
+* **Und ein dritter, der von keinem der beiden kommt.**
 
-**Der Gegner ist Hanseong.** Nicht der Erbe, nicht sein Berater. **Der
-Apparat.**
+### Sie steht seit einem Band mit einer fertigen Zeile im Buch
 
-**Und genau deshalb ist er der schwerste, den dieses Buch je aufgestellt
-hat.**
+`b2 ch87:254`, im Flur, als Letzte im Haus:
 
-### Georgijs Verfahren ist fuer Menschen gebaut, und nur fuer Menschen
+> *"I want my firm," said Nam Byung-hee. "I am not going to get it, and there
+> is nobody in this house who can give it to me, **and I would not take it
+> from her if she offered**."*
 
-**Es besteht aus zwei Handgriffen, und beide setzen einen Kopf voraus:**
+**Das ist eine Bedingung, laut gesagt, vor Zeugen, ein Jahr im Voraus.**
 
-1. **Herausfinden, was ein Mann getan hat**, und es neben etwas anderes
-   legen.
-2. **Ihm hoeflich die eine Frage stellen, die er vor Zeugen nicht beantworten
-   kann** - Choi und die drei Sekunden (`b2 ch86:90`), der Inhaber und sein
-   eigenes achtzehntes Jahrhundert.
+### Und der Plan bricht sie, ohne dass jemand luegt
 
-**Ein Apparat hat keine Frage, die er nicht beantworten kann.** Er hat keine
-Eitelkeit, keine Scham, kein Abendessen, zu dem er eingeladen werden will,
-und niemanden, der drei Sekunden lang keinen Namen findet.
+**Festgelegt ist:** sie geht zu Chairman Woo, **sie erfaehrt nie, woher es
+kommt**, und wenn Woo Anteile hinterlaesst, arbeitet sie fuer Georgij, ohne
+es zu wissen.
 
-**Zwei Baende lang war Georgijs Staerke, dass am Ende jeder Linie ein Mensch
-stand. Hier steht keiner.**
+**Am Ende von Band 3 hinterlaesst Woo sie.**
 
-### Was der Apparat stattdessen tut, und es ist unpersoenlich
+**Damit wird der Weg sichtbar.** Ein Erbe ist ein Eintrag in einem Register,
+mit einem Namen daran. **Was zwei Jahre lang anonym lief, hat ab dem Tag eine
+Kette**, und die Kette ist nachlesbar. Sie hat ihre Firma nicht von Annie
+genommen. **Sie hat sie von Annies Mann genommen, und sie hat vorher gesagt,
+dass sie das nicht tut.**
 
-**Er antwortet in Verfahren, und keines davon hat jemand angeordnet:**
+### Warum sie gefaehrlicher ist als die beiden anderen
 
-* **Die Hausbanken ziehen Linien zurueck**, weil ein Kreditausschuss eine
-  Regel hat und nicht, weil jemand boese ist.
-* **Die Kanzleien fahren an**, in der Zahl, fuer die bezahlt ist.
-* **Die viertausendzweihundert werden zum politischen Schild** (`b1
-  ch15:332`) - **nicht von jemandem vorgeschoben, sondern einfach vorhanden.**
-* **Und die Zeitungen bekommen dieselbe Zeile von vier Stellen**, weil vier
-  Abteilungen unabhaengig voneinander dieselbe Pressesprache benutzen.
+**1. Sie hat es schon einmal gemacht.** `b2 ch87:310`:
 
-**Nichts davon kann man fragen, und nichts davon kann man beleidigen.**
+> *"A year ago today a woman wrote to you by name, on a sheet of association
+> letterhead that was not hers, and signed it Chair, and sent it registered so
+> that there would be a record."*
 
-### Und Nam Byung-hee steht schon als Beweis im Buch
+**Sie ist der einzige Mensch im Buch, der dieses Haus mit nichts in der Hand
+angegriffen und dabei einen ganzen Band lang standgehalten hat.** Sie fing
+mit einem Blatt an, das ihr nicht gehoerte.
 
-`b2 ch34:214`, Georgij ueber die einunddreissig Namen:
+**2. Sie hat recht, und sie hat es vorher angesagt.** Der Erbe hat keinen
+Grund, der Staatsanwalt hat einen und irrt sich in der Person. **Sie irrt sich
+nicht.**
 
-> *"Eight people it happened to is a case. I have been building a case for two
-> weeks without once asking myself who it would be presented to. **There is no
-> room. There is no panel and no prosecutor and no page in a newspaper that
-> will run it, because at the end of every line the man is not there**."*
+**3. Georgij kann es nicht bestreiten.** Regel 1. **Er kann sagen, dass Woo
+frei entschieden hat, und das ist wahr und wertlos**, weil er derjenige war,
+der Woo darauf gebracht hat.
 
-**Das ist woertlich die Beschreibung des dritten Gegners, und Georgij hat sie
-schon einmal geschrieben** - damals ueber Chois Netz. **Bei Hanseong gilt sie
-in gross und ohne Choi in der Mitte.**
+**4. Und er kann es nicht reparieren.** Er kann ihr die Firma nicht
+zurueckgeben - sie hat sie. **Er kann nur aufhoeren zu besitzen, und das ist
+genau die Sache, die dieser Band ihm gerade erst gegeben hat.**
 
-### Der Berater bleibt, und er ist kein Gegner
+### Die Sorte, und sie ist neu
 
-**Vom Autor zugestanden: ein kompetenter innerer Berater, der fuer den Erben
-arbeitet.** Er verteidigt nichts. **Er ist der einzige Mensch in dem Gebaeude,
-der weiss, wo der Apparat tatsaechlich sitzt** - welcher Ausschuss wann tagt,
-welche Linie an welcher Unterschrift haengt, wo die Ausnahme steht.
+* **Der Erbe: Stand.**
+* **Der Oberstaatsanwalt: Hass.**
+* **Nam Byung-hee: Anspruch.**
 
-**Damit ist er die Tuer und nicht die Wand.** Und er wird irgendwann
-entscheiden muessen, und dieses Buch hat fuer die Sorte Entscheidung ein
-Muster: `b2 ch82:238`, *"I have been waiting to be asked since the tenth of
-January."*
+**Kein Groll und kein Rang, sondern ein besseres Recht.**
 
-### Warum das die dritte Sorte ist und nicht wieder Stand
+### Und das ist der Preis von Regel 2, an der richtigen Stelle
 
-* **Gegner 1, der Oberstaatsanwalt: ein Mensch mit einem Grund.**
-* **Gegner 2, der Erbe: ein Mensch mit einem Rang.**
-* **Gegner 3, Hanseong: kein Mensch.**
+**Der ganze Band besteht darin, dass Georgij anfaengt, etwas zu besitzen.**
+Zwei Baende lang war *er besitzt nichts* seine Sicherheit: kein Konto, keine
+Beziehungen, nichts, was jemand ihm abnehmen kann, und nichts, was seinen
+Namen traegt.
 
-**Und der Erbe wird dadurch besser und nicht kleiner.** Er darf inkompetent
-sein, weil die Inkompetenz folgenlos ist - **und das ist die eigentliche
-Beleidigung, die die Rede vom Brennholz ausspricht.** Ein Mann, der nichts
-kann und den es nicht kostet, ist genau ein groesserer Haufen desselben
-Holzes.
+**Das Erste, was er je besitzt, kommt mit einem Feind daran.**
 
-### Und falls doch ein drittes Gesicht gebraucht wird
+**Und der Feind entsteht aus der einzigen Sache, die er ohne Gegenleistung
+getan hat.** Er hat Nam ihre Firma verschafft, ueber Woo, so eingerichtet,
+dass sie es nie erfaehrt und ihm nie etwas schuldet. **Kein Eintrag, keine
+Forderung, nichts, was er spaeter einloest.**
 
-**Die einzige Sorte, die im ganzen Buch noch nicht besetzt ist, ist Neid mit
-Grund.** Jemand, der zwei Baende lang die gefaehrliche Arbeit gemacht hat und
-geblieben ist, wo er war, waehrend der Mann ohne Namen am Bandende Anteile an
-einem Terminal erbt.
+**Genau das wird ihm zum Verhaengnis, weil Besitz sichtbar ist und
+Freundlichkeit es nicht war.**
 
-**Nicht ausgearbeitet, weil der Apparat den Platz fuellt.** Steht hier als
-Notiz und nicht als Vorschlag.
+### Was das mit Band 4 macht
+
+**Nams Firma zurueckzubekommen bleibt verworfen** - sie hat sie ja. **Offen
+ist, was sie tut, wenn sie es erfaehrt**, und dafuer gibt es genau zwei
+Ausgaenge, und beide sind gute:
+
+* **Sie gibt die Firma zurueck**, weil ihre Bedingung woertlich gemeint war.
+  Dann hat Georgij ihr zum zweiten Mal etwas genommen, ohne es zu wollen.
+* **Sie behaelt sie und macht ihn dafuer fertig**, weil sie es nicht ertraegt,
+  ihm etwas zu schulden. **Das ist die haerte Variante und die
+  wahrscheinlichere.**
+
+**Nicht jetzt entscheiden.** Sie erfaehrt es fruehestens, wenn das Register
+umgeschrieben ist, und das ist nach der Beisetzung.
