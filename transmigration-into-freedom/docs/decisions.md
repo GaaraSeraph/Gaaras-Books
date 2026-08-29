@@ -3,7 +3,45 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
-=== The author's vita goes into the sheet, all of it ===
+=== Hades trades, Seraph fights ===
+DECIDED BY THE AUTHOR in two words: Handelskompanie Hades, Kampfkompanie
+Seraph. Both names are Gaara's, which supersedes the 6c note that Marit or
+Bern should name the fighting company - the pair is the design, not an
+accident of who spoke first. What the pair carries, written out in bible
+6c so no later pass flattens it: one name of his in each register this
+world keeps; the god below who holds what is under the ground against the
+burning one who stands in front of things; and the flame he has stamped on
+every bale since ch23 - which everybody calls a leaf - turning out to have
+been the fighting company's name all along. NOBODY PUTS ANY OF THAT
+TOGETHER ON THE PAGE, ever, including the narration. When asked what
+Seraph means he gives a true and useless answer, ch23 pattern, rule one
+intact.
+
+=== The author is bored reading it, and that must not be. OPEN ===
+His words: he is getting bored reading the book, rewriting already-written
+chapters is explicitly allowed, and what actually happens plot-wise is to
+be discussed before more is fixed. This entry preserves the state of that
+discussion; nothing in it is decided yet except the complaint itself.
+THE DIAGNOSIS OFFERED: the book shut its own dungeon in ch16 and never
+reopened it. Since ch18 the only thing at risk has been money; the fights
+that remain are procedures and the text is proud of it (ch28: "it is not
+brave and it is not a fight"). Every mystery froze for fourteen chapters -
+Hallvard, the ???, the blind spot, what the crawlers run from, what broke
+the city - while contracts got signed. Nobody opposes him: every scene
+resolves as he talks, he is right, the room is impressed, and that beat
+has run near-identically in ch21, 23, 24, 26, 30 and 31. And the LitRPG
+engine was deliberately starved on craft grounds (levels rationed, MP
+unusable, class deferred, no new skills, no new places since ch21), which
+in sum is genre starvation. The paperwork finale in plan-band-1.md
+sections 3 and 6 doubles down on all of it and is reopened.
+DIRECTIONS UNDER DISCUSSION: reopen the world downward (the lord decides
+the hole is worth having, the gate goes up, the thing the crawlers run
+from is finally met, Hallvard's fear comes true and Hallvard may simply
+have been right); let Gaara's signature tool fail once at full stakes;
+pay the reserved genre beats inside the climax (MP spent by him on the
+city's own controls, the class arriving mid-crisis, a weighted kill worth
+the drought); and surgery on the slow middle (merges and retro-planted
+mystery beats) at the author's choice. The forks are with him.
 Supplied by the author during Band 1 planning and fixed in the bible,
 section 1 (a new block before "Old life", plus additions to Core drives and
 the bed section): the friendless childhood with the video games and the

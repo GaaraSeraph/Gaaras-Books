@@ -2400,14 +2400,28 @@ HE ENDS UP ON BOTH REGISTERS, AND THAT IS THE ODD THING ABOUT HIM.
   are fighting men, and somebody in the Wold will find it worth remarking on
   long before Gaara wants it remarked on.
 
-THE CREW'S COMPANY HAS NO NAME YET AND SHOULD NOT GET ONE FROM HIM. Hades is
-his. That one is theirs, they earned it in a dead street in ch17, and he is not
-even in the valley. MARIT SHOULD NAME IT, or Bern should, and the name should
-arrive as news rather than as a decision he made. Four men
-on the roll, and his are in Oldstep. His company has a one-legged bookkeeper, a
-smith, an eight, and a woman holding it together. No name, no charter, wrong
-town. THIS ALSO ANSWERS SECTION 6b: a chartered company is exactly the thing to
-stand next to the carcasses, because it points at people and away from the hole.
+THE FIGHTING COMPANY IS CALLED SERAPH (author, Band 1 planning). DECIDED,
+and it supersedes the earlier note that Marit or Bern should name it - the
+pair of names is the author's design and both come from Gaara: HADES in the
+Staple, SERAPH on the Roll. The trading house is named for the one below,
+who keeps everything under the ground; the fighting company for a burning
+one, whose whole job is to stand in front of things. Both are foreign noise
+in this world, neither translates, and when asked he answers true and
+useless, exactly the ch23 pattern: "A burning one, out of an old story. It
+stands in front of what matters." Rule one intact, listener no wiser.
+AND IT CLOSES A LOOP NOBODY ON THE PAGE MAY EVER POINT AT: his merchant
+mark has been a FLAME since ch23, on every bale and every form, and
+everybody calls it a leaf. The house of the dark signs with a flame, and
+the company of the flame holds his people. Nobody in either world gets
+told, including the reader, in words.
+THE TWO REGISTERS NOW RHYME ON PURPOSE: "a man in two registers is not
+normal" (above) stops being an anomaly and becomes his architecture - one
+name of his in each book this world keeps.
+Still true mechanically: four men on the roll, and his are in Oldstep. The
+company has a one-legged bookkeeper, a smith, an eight, and a woman holding
+it together - no charter yet, wrong town. THIS ALSO ANSWERS SECTION 6b: a
+chartered company is exactly the thing to stand next to the carcasses,
+because it points at people and away from the hole.
 
 WHERE TALK EARNS, ranked by how fast it pays against what it costs him:
 1  READING MEN. He looks at a person and knows the number. NOBODY ELSE ALIVE

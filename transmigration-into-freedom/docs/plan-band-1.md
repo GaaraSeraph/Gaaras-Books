@@ -5,6 +5,17 @@ this plan, the chapter is right and this file gets corrected - same rule as
 the bible. Jokes are NOT planned here: they are specified per scene at
 writing time, per CLAUDE.md, chapter by chapter.
 
+STATUS, updated during Band 1 planning:
+1. FORK 2 IS DECIDED BY THE AUTHOR: the fighting company is SERAPH, the
+   trading company is Hades. Bible 6c has the pair and its guardrails.
+   The ch33 title proposal below falls with it (he chose the name).
+2. THE FINALE IS REOPENED. The author reports being bored reading the
+   book, has authorised rewriting already-written chapters, and wants the
+   actual plot discussed before more gets fixed. Sections 3 and 6 below
+   stand as the record of the paperwork version; the re-plot under
+   discussion moves the climax onto the gate and what is behind it.
+   Logged as open in decisions.md ("The author is bored...").
+
 
 === 1. WHAT BAND 1 IS ===
 
@@ -359,15 +370,12 @@ recommendation until he says otherwise.
    paid in ch31 with the shed. The alternative (the account is forced,
    open conflict with the lord) breaks the volume shape and moves Band 1's
    ending into Band 2's war. Not recommended.
-2. THE COMPANY'S NAME. From the valley, never from Gaara (6c). Candidates,
-   in recommended order:
-   - NINE CAME DOWN (Bern's counting made into a flag: the company that
-     comes back whole, which is literally what was sold to the lord);
-   - THE WALL (the doctrine word, Marit-flat, what they actually do);
-   - OLDSTEP, plain (the place that was never on a list, now twice on
-     one).
-   Whoever names it on the page should be Bern or Marit, and the scene is
-   the letter, not a meeting.
+2. DECIDED BY THE AUTHOR: the fighting company is SERAPH. From Gaara,
+   like Hades - the pair is the design (bible 6c: the one below who
+   keeps, the burning one who stands in front, and the flame mark loop).
+   The earlier candidates (Nine Came Down, The Wall, Oldstep) are
+   discarded; the crew-names-it rule is superseded. Open at writing
+   time: only the staging - when and to whom he says the name first.
 3. THE CLASS. (a) It pays in ch35: recommended, a volume should close a
    promise this loud, and Band 2 opens on what it does. Name STEWARD
    recommended; FACTOR and CLERK as the disliked alternatives on the

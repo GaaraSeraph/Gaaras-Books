@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 5 Dokumente am Stueck. 72.175 Woerter.
+Alle 5 Dokumente am Stueck. 72.881 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -847,7 +847,45 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
-=== The author's vita goes into the sheet, all of it ===
+=== Hades trades, Seraph fights ===
+DECIDED BY THE AUTHOR in two words: Handelskompanie Hades, Kampfkompanie
+Seraph. Both names are Gaara's, which supersedes the 6c note that Marit or
+Bern should name the fighting company - the pair is the design, not an
+accident of who spoke first. What the pair carries, written out in bible
+6c so no later pass flattens it: one name of his in each register this
+world keeps; the god below who holds what is under the ground against the
+burning one who stands in front of things; and the flame he has stamped on
+every bale since ch23 - which everybody calls a leaf - turning out to have
+been the fighting company's name all along. NOBODY PUTS ANY OF THAT
+TOGETHER ON THE PAGE, ever, including the narration. When asked what
+Seraph means he gives a true and useless answer, ch23 pattern, rule one
+intact.
+
+=== The author is bored reading it, and that must not be. OPEN ===
+His words: he is getting bored reading the book, rewriting already-written
+chapters is explicitly allowed, and what actually happens plot-wise is to
+be discussed before more is fixed. This entry preserves the state of that
+discussion; nothing in it is decided yet except the complaint itself.
+THE DIAGNOSIS OFFERED: the book shut its own dungeon in ch16 and never
+reopened it. Since ch18 the only thing at risk has been money; the fights
+that remain are procedures and the text is proud of it (ch28: "it is not
+brave and it is not a fight"). Every mystery froze for fourteen chapters -
+Hallvard, the ???, the blind spot, what the crawlers run from, what broke
+the city - while contracts got signed. Nobody opposes him: every scene
+resolves as he talks, he is right, the room is impressed, and that beat
+has run near-identically in ch21, 23, 24, 26, 30 and 31. And the LitRPG
+engine was deliberately starved on craft grounds (levels rationed, MP
+unusable, class deferred, no new skills, no new places since ch21), which
+in sum is genre starvation. The paperwork finale in plan-band-1.md
+sections 3 and 6 doubles down on all of it and is reopened.
+DIRECTIONS UNDER DISCUSSION: reopen the world downward (the lord decides
+the hole is worth having, the gate goes up, the thing the crawlers run
+from is finally met, Hallvard's fear comes true and Hallvard may simply
+have been right); let Gaara's signature tool fail once at full stakes;
+pay the reserved genre beats inside the climax (MP spent by him on the
+city's own controls, the class arriving mid-crisis, a weighted kill worth
+the drought); and surgery on the slow middle (merges and retro-planted
+mystery beats) at the author's choice. The forks are with him.
 Supplied by the author during Band 1 planning and fixed in the bible,
 section 1 (a new block before "Old life", plus additions to Core drives and
 the bed section): the friendless childhood with the video games and the
@@ -2805,6 +2843,17 @@ this plan, the chapter is right and this file gets corrected - same rule as
 the bible. Jokes are NOT planned here: they are specified per scene at
 writing time, per CLAUDE.md, chapter by chapter.
 
+STATUS, updated during Band 1 planning:
+1. FORK 2 IS DECIDED BY THE AUTHOR: the fighting company is SERAPH, the
+   trading company is Hades. Bible 6c has the pair and its guardrails.
+   The ch33 title proposal below falls with it (he chose the name).
+2. THE FINALE IS REOPENED. The author reports being bored reading the
+   book, has authorised rewriting already-written chapters, and wants the
+   actual plot discussed before more gets fixed. Sections 3 and 6 below
+   stand as the record of the paperwork version; the re-plot under
+   discussion moves the climax onto the gate and what is behind it.
+   Logged as open in decisions.md ("The author is bored...").
+
 
 === 1. WHAT BAND 1 IS ===
 
@@ -3159,15 +3208,12 @@ recommendation until he says otherwise.
    paid in ch31 with the shed. The alternative (the account is forced,
    open conflict with the lord) breaks the volume shape and moves Band 1's
    ending into Band 2's war. Not recommended.
-2. THE COMPANY'S NAME. From the valley, never from Gaara (6c). Candidates,
-   in recommended order:
-   - NINE CAME DOWN (Bern's counting made into a flag: the company that
-     comes back whole, which is literally what was sold to the lord);
-   - THE WALL (the doctrine word, Marit-flat, what they actually do);
-   - OLDSTEP, plain (the place that was never on a list, now twice on
-     one).
-   Whoever names it on the page should be Bern or Marit, and the scene is
-   the letter, not a meeting.
+2. DECIDED BY THE AUTHOR: the fighting company is SERAPH. From Gaara,
+   like Hades - the pair is the design (bible 6c: the one below who
+   keeps, the burning one who stands in front, and the flame mark loop).
+   The earlier candidates (Nine Came Down, The Wall, Oldstep) are
+   discarded; the crew-names-it rule is superseded. Open at writing
+   time: only the staging - when and to whom he says the name first.
 3. THE CLASS. (a) It pays in ch35: recommended, a volume should close a
    promise this loud, and Band 2 opens on what it does. Name STEWARD
    recommended; FACTOR and CLERK as the disliked alternatives on the
@@ -5618,14 +5664,28 @@ HE ENDS UP ON BOTH REGISTERS, AND THAT IS THE ODD THING ABOUT HIM.
   are fighting men, and somebody in the Wold will find it worth remarking on
   long before Gaara wants it remarked on.
 
-THE CREW'S COMPANY HAS NO NAME YET AND SHOULD NOT GET ONE FROM HIM. Hades is
-his. That one is theirs, they earned it in a dead street in ch17, and he is not
-even in the valley. MARIT SHOULD NAME IT, or Bern should, and the name should
-arrive as news rather than as a decision he made. Four men
-on the roll, and his are in Oldstep. His company has a one-legged bookkeeper, a
-smith, an eight, and a woman holding it together. No name, no charter, wrong
-town. THIS ALSO ANSWERS SECTION 6b: a chartered company is exactly the thing to
-stand next to the carcasses, because it points at people and away from the hole.
+THE FIGHTING COMPANY IS CALLED SERAPH (author, Band 1 planning). DECIDED,
+and it supersedes the earlier note that Marit or Bern should name it - the
+pair of names is the author's design and both come from Gaara: HADES in the
+Staple, SERAPH on the Roll. The trading house is named for the one below,
+who keeps everything under the ground; the fighting company for a burning
+one, whose whole job is to stand in front of things. Both are foreign noise
+in this world, neither translates, and when asked he answers true and
+useless, exactly the ch23 pattern: "A burning one, out of an old story. It
+stands in front of what matters." Rule one intact, listener no wiser.
+AND IT CLOSES A LOOP NOBODY ON THE PAGE MAY EVER POINT AT: his merchant
+mark has been a FLAME since ch23, on every bale and every form, and
+everybody calls it a leaf. The house of the dark signs with a flame, and
+the company of the flame holds his people. Nobody in either world gets
+told, including the reader, in words.
+THE TWO REGISTERS NOW RHYME ON PURPOSE: "a man in two registers is not
+normal" (above) stops being an anomaly and becomes his architecture - one
+name of his in each book this world keeps.
+Still true mechanically: four men on the roll, and his are in Oldstep. The
+company has a one-legged bookkeeper, a smith, an eight, and a woman holding
+it together - no charter yet, wrong town. THIS ALSO ANSWERS SECTION 6b: a
+chartered company is exactly the thing to stand next to the carcasses,
+because it points at people and away from the hole.
 
 WHERE TALK EARNS, ranked by how fast it pays against what it costs him:
 1  READING MEN. He looks at a person and knows the number. NOBODY ELSE ALIVE
