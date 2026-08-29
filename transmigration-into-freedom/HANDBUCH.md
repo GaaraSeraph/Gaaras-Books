@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 6 Dokumente am Stueck. 79.864 Woerter.
+Alle 6 Dokumente am Stueck. 79.996 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -848,6 +848,15 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== Two daughters, and the file on them is closed ===
+The author: "2 Toechter, mehr gebe ich Dir nicht dazu." Entered in the
+bible and in vita-stories (The Break opens the passage with two
+daughters now), and the boundary is part of the canon: nothing more gets
+asked about them, nothing gets invented about them, ever. Names, ages,
+everything else stays off every page unless he one day volunteers it
+himself. This entry exists so no later pass mistakes the gap for an
+oversight.
 
 === The house, the funny papa, and the true story of the cats ===
 Three author corrections in one message, and one of them deletes an
@@ -3554,10 +3563,12 @@ everything else)
   work was IT consulting, managed services and process automation, and it
   was INCOME, NOT A FIRM: no staff, one man selling his hours - she put
   him out of her HOUSE (a house, not a flat), he lived in his car, and he
-  lost EVERYTHING PRIVATE: her CHILDREN, who called him papa - their own
-  ruling, delivered with full gravity: "Papa is our real papa. And you
-  are the funny papa." - and to whom he held no claim of paper on the day
-  the locks changed; and both cats, GÜNTHER and BÄRBEL, lost in two
+  lost EVERYTHING PRIVATE: her TWO DAUGHTERS, who called him papa - their
+  own ruling, delivered with full gravity: "Papa is our real papa. And
+  you are the funny papa." - and to whom he held no claim of paper on the
+  day the locks changed (THE COUNT IS ALL THE AUTHOR HAS GIVEN AND ALL
+  THAT WILL BE ASKED: nothing more gets requested or invented about
+  them); and both cats, GÜNTHER and BÄRBEL, lost in two
   different ways - Günther, his soul animal, rehomed during the
   relationship under her calm ultimatum (the shelter otherwise; her own
   tomcat, which scratched everybody including the children, stayed,
@@ -6511,7 +6522,7 @@ effective at the end of the month.
 Then the house, which was hers. He packed the car twice and planned a
 third trip, and before the third trip the locks were changed.
 
-The children were on the other side of the locks. They called him papa.
+Two daughters were on the other side of the locks. They called him papa.
 They had settled the constitutional question themselves, early, the way
 children settle things, and had delivered the ruling to him with
 complete gravity: Papa is our real papa. And you are the funny papa. He
@@ -6648,8 +6659,10 @@ learned to file.
   could not pay belong to the SECOND company (story 8). It was a HOUSE,
   hers, not a flat. And the children called him papa, their own ruling:
   "Papa is our real papa. And you are the funny papa."
-- Her children: how many, ages, anything else he wants kept true, and
-  how much of them goes on the page. Nothing gets invented.
+- CLOSED (author): TWO DAUGHTERS, and in his words, "mehr gebe ich Dir
+  nicht dazu." That is the whole file on them, by his decision: nothing
+  more gets asked and nothing gets invented, ever. How much of them goes
+  on any page stays his call, scene by scene.
 - Who took Günther in, and anything about either cat beyond story 4 he
   wants kept true.
 - How long the car actually lasted; cities and durations throughout are

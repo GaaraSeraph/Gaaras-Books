@@ -230,7 +230,7 @@ effective at the end of the month.
 Then the house, which was hers. He packed the car twice and planned a
 third trip, and before the third trip the locks were changed.
 
-The children were on the other side of the locks. They called him papa.
+Two daughters were on the other side of the locks. They called him papa.
 They had settled the constitutional question themselves, early, the way
 children settle things, and had delivered the ruling to him with
 complete gravity: Papa is our real papa. And you are the funny papa. He
@@ -367,8 +367,10 @@ learned to file.
   could not pay belong to the SECOND company (story 8). It was a HOUSE,
   hers, not a flat. And the children called him papa, their own ruling:
   "Papa is our real papa. And you are the funny papa."
-- Her children: how many, ages, anything else he wants kept true, and
-  how much of them goes on the page. Nothing gets invented.
+- CLOSED (author): TWO DAUGHTERS, and in his words, "mehr gebe ich Dir
+  nicht dazu." That is the whole file on them, by his decision: nothing
+  more gets asked and nothing gets invented, ever. How much of them goes
+  on any page stays his call, scene by scene.
 - Who took Günther in, and anything about either cat beyond story 4 he
   wants kept true.
 - How long the car actually lasted; cities and durations throughout are

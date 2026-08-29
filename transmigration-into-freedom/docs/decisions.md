@@ -3,6 +3,15 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Two daughters, and the file on them is closed ===
+The author: "2 Toechter, mehr gebe ich Dir nicht dazu." Entered in the
+bible and in vita-stories (The Break opens the passage with two
+daughters now), and the boundary is part of the canon: nothing more gets
+asked about them, nothing gets invented about them, ever. Names, ages,
+everything else stays off every page unless he one day volunteers it
+himself. This entry exists so no later pass mistakes the gap for an
+oversight.
+
 === The house, the funny papa, and the true story of the cats ===
 Three author corrections in one message, and one of them deletes an
 invented stand-in. ONE: it was a HOUSE, hers, not a flat - fixed through

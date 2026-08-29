@@ -147,10 +147,12 @@ everything else)
   work was IT consulting, managed services and process automation, and it
   was INCOME, NOT A FIRM: no staff, one man selling his hours - she put
   him out of her HOUSE (a house, not a flat), he lived in his car, and he
-  lost EVERYTHING PRIVATE: her CHILDREN, who called him papa - their own
-  ruling, delivered with full gravity: "Papa is our real papa. And you
-  are the funny papa." - and to whom he held no claim of paper on the day
-  the locks changed; and both cats, GÜNTHER and BÄRBEL, lost in two
+  lost EVERYTHING PRIVATE: her TWO DAUGHTERS, who called him papa - their
+  own ruling, delivered with full gravity: "Papa is our real papa. And
+  you are the funny papa." - and to whom he held no claim of paper on the
+  day the locks changed (THE COUNT IS ALL THE AUTHOR HAS GIVEN AND ALL
+  THAT WILL BE ASKED: nothing more gets requested or invented about
+  them); and both cats, GÜNTHER and BÄRBEL, lost in two
   different ways - Günther, his soul animal, rehomed during the
   relationship under her calm ultimatum (the shelter otherwise; her own
   tomcat, which scratched everybody including the children, stayed,
