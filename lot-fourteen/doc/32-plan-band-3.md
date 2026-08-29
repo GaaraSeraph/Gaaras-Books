@@ -3230,19 +3230,25 @@ Blick hinein wird vollstreckt.**
 **Das traegt, und es ist der einzige Ort, an dem es tragen kann.** Aber zwei
 Sachen an der vorgegebenen Zeile brechen die Figur, und beide sind reparabel.
 
-## Erstens: er nennt sich nie selbst etwas, und schon gar nicht Koenig
+## Erstens: er erhebt keinen Anspruch auf sich selbst
 
-**Nachgesehen ueber alle hundertdreiundzwanzig Kapitel.** Das Naechste, was er
-je ueber sich sagt, ist `b1 ch10:334`:
+**Meine erste Begruendung war die falsche.** Ich hatte geschrieben, er nenne
+sich nie etwas, weil er ein Niemand sei (`b1 ch10:334`). **Das gilt ab Band 3
+nicht mehr**, und der Autor hat am 29.08. darauf hingewiesen.
 
-> "There are eight hundred people in it. **I am the only nobody in the
-> building.**"
+**Der Grund ist ein anderer und er haelt in jedem Band.** Georgij nennt
+Tatsachen ueber andere und laesst sie selbst rechnen. **Ueber sich selbst
+behauptet er nichts** - `b1 ch09:206`: *He could have said something true and
+useless. He could have named the first house, or the second.* **Er tut es
+nicht.**
 
-**Eine Verneinung.** *King of the Dokkaebi* aus seinem eigenen Mund ist die
-eine Formulierung, die die Figur in einem Satz kaputtmacht.
+**Und ein Titel ist eine Behauptung.** *King of the Dokkaebi* aus seinem
+eigenen Mund waere die erste Stelle im ganzen Buch, an der er seinen eigenen
+Rang aussprechen muesste - **und sie waere schwaecher als das Schweigen, weil
+ein Mann, der es sagen muss, es nicht hat.**
 
-**Es ist auch nicht noetig.** Der Mann auf den Knien weiss, wer nicht
-vergibt. **Wer es ausspricht, erklaert es ihm.**
+**Der Mann auf den Knien weiss ohnehin, wer nicht vergibt. Wer es ausspricht,
+erklaert es ihm.**
 
 ## Zweitens: Choi hat den Grund geliefert, warum er nicht toetet
 
@@ -3311,17 +3317,25 @@ Letzte, was der Handel sieht, ist das Gesicht, das der Handel gebaut hat.**
 
 **Nicht dargestellt.** Der Satz danach ist die naechste Szene.
 
-## Und es muss die letzte Bitte um Fuehrung des ganzen Buches sein
+## Die Bitte um Fuehrung ist nicht verbraucht, sie wird schwerer
 
-**Echt in Band 1. Verfahren ab `b1 ch33`. Waffe in `b2 ch86` und in Band 3.
-Und hier das Wort, mit dem vollstreckt wird.**
+**Zurueckgenommen am 29.08.** Ich hatte geschrieben, dies muesse die letzte
+sein und die Form sei danach verbraucht. **Der Autor sagt, sie wird
+fortgesetzt, und das ist die bessere Fassung.**
 
-**Danach ist die Form verbraucht.** Wer sie noch einmal benutzt, hat nichts
-mehr in der Hand, weil sie zuletzt einen Menschen umgebracht hat.
+**Eine Form, die einmal getoetet hat, nutzt sich nicht ab. Sie sammelt an.**
+Jede weitere Verwendung traegt die vorige mit, und das kostet ihn nichts und
+bringt ihm alles: **wer im Raum weiss, was beim letzten Mal darauf folgte,
+hoert etwas anderes als der Rest.**
 
-**Ausnahme, und sie ist die einzige und gehoert an den Schluss der Reihe:**
-**Band 6, an Annie, echt gemeint.** Dieselben drei Woerter, das vierte Mal
-etwas anderes, und diesmal, weil er die Antwort braucht.
+**Damit hat er einen Satz, der hoeflich ist, um Auskunft bittet, jederzeit
+abgelehnt werden darf - und bei dem einige Anwesende blass werden.** Er muss
+nie erklaeren, warum.
+
+**Und die Reihe bleibt trotzdem, was sie war:** echt in Band 1, Verfahren ab
+`b1 ch33`, Waffe in `b2 ch86`, Vollstreckung in Band 5. **Und in Band 6 an
+Annie, echt gemeint** - dasselbe Wort, mit allem darin, und diesmal, weil er
+die Antwort braucht.
 
 ## Was es kostet, und es ist nicht Reue
 
@@ -3373,4 +3387,106 @@ oder ein Satz, der dem Jungen beibringt, wie man so etwas begruendet.
 weggeschickt hat, und der Junge merkt das.**
 
 **Beides ist gut. Beides kostet. Es gibt keine dritte Fassung.**
+
+---
+
+## Und danach geht er zu ihr
+
+**Vom Autor am 29.08. vorgegeben.** Er geht zu Annie und weint. Er weiss, dass
+es noetig war - um weiteres Blut zu verhindern, um Opfer zu verhindern, und
+als Zeichen, dass bestimmte Regeln nicht gebrochen werden. **Es bricht ihn
+trotzdem.**
+
+### Drei Zahlen, die sagen, wie gross das ist
+
+**Nachgezaehlt ueber alle hundertdreiundzwanzig Kapitel:**
+
+| | |
+|---|---|
+| Georgij weint | **null Mal** |
+| Annie sagt etwas Sanftes | **null Mal** |
+| Er verliert die Fassung | **zweimal**, und beide Male nur der Akzent (`b1 ch23:262`) |
+
+**Und das Buch hat vorgebaut, ohne es zu benutzen.** `b1 ch34:82`:
+
+> Unkindness he had eleven houses of. **He had no procedure at all for a woman
+> who refused him gently.**
+
+**Sanftheit von ihr ist seit Band 1 die eine Sache, fuer die er kein
+Verfahren hat.** Hier bekommt er sie zum ersten Mal, wenn es darauf ankommt.
+
+**Und ihr Register steht dagegen, ausdruecklich**, `b2 ch19:166`: *"**I am not
+going to ask it gently** and I am not going to give you a way of answering it
+that lets you past."* **Ihr *Shh* ist ihr erstes weiches Wort in zwei
+Baenden.**
+
+### Der Satz, der die ganze Nacht traegt, hat zwei Woerter
+
+**Die Hinrichtungsszene endet mit:** *The last thing he saw was a face that
+had not moved.*
+
+**Und hier steht:**
+
+> **His face moved.**
+
+**Mehr nicht. Das Wort *weinen* faellt nirgends.** Der Leser hat es aus dem
+Abstand zwischen den beiden Saetzen, und aus `b1 ch02:34`, wo das Gesicht
+*eleven houses to learn* gekostet hat **und das Einzige war, was er besass.**
+
+### Der Text
+
+She was still up, because she is always still up.
+
+He had put sentences together in the car for fifty minutes and none of them survived the door.
+
+"I had to," he said.
+
+His face moved.
+
+"I did not want to. I had to."
+
+She got up out of the chair.
+
+"I never wanted to become this."
+
+"Shh." Annie put her hand flat on the side of his neck, above the collar, where she puts it. "This shows you never became it."
+
+### Vier Sachen, die daran haengen
+
+**1. Er kann die Zahl nicht sagen, und das ist die schlimmste Stelle.** Regel
+3: ueber sich selbst nennt er keine Zahlen. **Der Leser weiss, wie viele auf
+dem Boden lagen. Er darf es nicht aussprechen.** Er setzt einmal an und laesst
+es. **Das einzige Mal im Buch, an dem die Regel gegen ihn arbeitet und nicht
+fuer ihn.**
+
+**2. Die Wiederholung ist der Bruch und nicht die Auslassungspunkte.**
+*"I had to. I did not want to. I had to."* Ein Mann, dessen Saetze bisher
+jedes Mal gesessen haben, **kommt zum selben Satz zurueck, weil ihm der
+naechste fehlt.** Keine Punkte, keine Gedankenstriche. Die Wiederholung
+allein.
+
+**3. Er zieht nicht zusammen, auch hier nicht.** Null Kontraktionen in
+vierhunderteins Repliken. Also **"I did not want to"** und nicht *didn't*.
+**Es waere die bequemste Stelle des Buches, es zu vergessen.**
+
+**4. Und die Bewegung geht zum ersten Mal von ihm aus.**
+`doc/10-naehe.md`: *Die Bewegung gehoert ihr, immer. Er fasst sie nicht an, er
+dreht sich hinein.*
+
+**In dieser Nacht geht er hin.** Das ist der Bruch der Reihenregel, und er
+ist Absicht. **Sie darf genau einmal brechen, und dies ist die Nacht dafuer.**
+**Und sie stellt sie sofort wieder her**, indem die Hand danach ihre ist, an
+der Stelle, an der sie immer liegt (`b2 ch17:214`).
+
+### Warum ihr Satz funktioniert und nicht troestet
+
+**"This shows you never became it" ist kein Trost, sondern ein Befund.**
+
+Sie sagt ihm nicht, dass er gut ist. **Sie liest, was vor ihr steht, und sagt,
+was daraus folgt** - genau wie sie es mit Zahlen, Vertraegen und Menschen seit
+zwei Baenden tut.
+
+**Und es ist wahr, was noetig ist, weil er es sonst nicht annehmen wuerde.**
+Ein Mann, der geworden waere, was er fuerchtet, **stuende nicht in diesem
+Zimmer.**
 
