@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 6 Dokumente am Stueck. 80.880 Woerter.
+Alle 6 Dokumente am Stueck. 81.227 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -848,6 +848,19 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== The client was a cage, not a choice ===
+The author corrects the reading in the entry below: the one main client
+was NOT permitted under his own rulebook - THE CLIENT ENFORCED THE
+CONCENTRATION. When he found other clients, and he did, more than once,
+the main one blocked it: obstruction, scenes, and the threat of
+withdrawing every order. So he knew the no-dead-cards law, tried to keep
+it, and was structurally prevented - paid well for it, and called it a
+compromise. Story 5 is reworked accordingly and the closing line grew
+its last clause: her hand could reach all of them, THE CLIENT INCLUDED.
+RESONANCE FILED in the bible: ch31's "he is on a leash for the first
+time and he chose it" now has its shadow, the unchosen leash at
+twenty-nine. Nobody points at it on the page.
 
 === The tournament economics, and the real law of the decks ===
 Two author corrections. ONE: THE SHOEBOX IS DELETED - a stand-in that
@@ -3605,9 +3618,14 @@ everything else)
 - THE BREAK AT TWENTY-NINE, filled in by the author (it was a deliberate
   hole until he did). A separation, and it broke him. The first time in
   his life he lost EVERYTHING, itemised: she saw to it that he lost his
-  main client of the time - one client, in practice the whole income; the
-  work was IT consulting, managed services and process automation, and it
-  was INCOME, NOT A FIRM: no staff, one man selling his hours - she put
+  main client of the time - one client, in practice the whole income,
+  AND THE CONCENTRATION WAS ENFORCED, NOT CHOSEN (author): he found
+  other clients more than once, and the main one blocked it every time,
+  obstruction, theatre, and the threat of withdrawing every order. He
+  knew his no-dead-cards law and was structurally prevented from keeping
+  it, was paid well for that, and called it a compromise. The work was
+  IT consulting, managed services and process automation, and it was
+  INCOME, NOT A FIRM: no staff, one man selling his hours - she put
   him out of her HOUSE (a house, not a flat), he lived in his car, and he
   lost EVERYTHING PRIVATE: her TWO DAUGHTERS, who called him papa - their
   own ruling, delivered with full gravity: "Papa is our real papa. And
@@ -3642,6 +3660,11 @@ everything else)
   client, destroyed by one person, is why he never again relies on a
   single anything - which is exactly what the panel now is, and part of
   why it unsettles him.
+  AND ch31 HAS A SHADOW NOW: "he is on a leash for the first time and he
+  chose it" (the rent, the lease) reads differently against the unchosen
+  leash at twenty-nine - the man who was once held by a client's threats
+  now prices his dependencies deliberately, in the open, with the exit
+  named. Do not point at it on the page.
   AND THE MISSED PAYROLL IS THE ROOT under two beats already on the page
   - it belongs to the SECOND collapse, not to this one: the payout
   company (Old life below) had several employees, hired by him, and at
@@ -6557,17 +6580,24 @@ At twenty-nine there was one client that mattered, and no firm around
 him: one man selling IT consulting, machines kept running, backups kept
 honest, processes automated that the client's own people still did by
 hand. Income, not a company. Good work, done well, for a main client who
-had long since stopped shopping around and had long since become the
-whole number.
+had long since become the whole number and intended to stay that way.
 
-And by his own old law, that was in order. A deck is allowed a
-load-bearing card; he had played them all his life and won with them.
-The law was about something else - no dead cards, an out in every draw -
-and he had kept it everywhere he knew to look. What twenty-nine taught
-him was that his rulebook had no entry for the actual danger. The
-question was never whether one card carried the game. The question was
-how many of his cards one hand could reach, and her hand could reach
-all of them. But the work was good and the
+And he had not chosen the concentration. That is the part that matters
+and the part nobody was ever told: he knew his own law - no dead cards,
+an out in every draw - and he tried to keep it. He found other clients,
+more than once. Every time it reached the main one, the main one made
+it impossible: obstruction first, then theatre, then the threat, plain
+enough for all its politeness, that every order he had could be
+withdrawn tomorrow if the second client stayed. A man with one card is
+in danger and knows it. A man forbidden to draw more is in a hostage
+arrangement, and the ransom is his own income, and he spent years
+paying it and calling it a compromise, because it paid well, and
+because naming it correctly would have obliged him to act on the name.
+
+What twenty-nine taught him was the rest of it. The question was never
+whether one card carried the game. The question was how many of his
+cards one hand could reach, and her hand could reach all of them, the
+client included. But the work was good and the
 money was good and the year was full, and she was there, and a man with a
 full year lets the rule slide the way a man with a mild winter buys no
 firewood.

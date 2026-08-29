@@ -219,17 +219,24 @@ At twenty-nine there was one client that mattered, and no firm around
 him: one man selling IT consulting, machines kept running, backups kept
 honest, processes automated that the client's own people still did by
 hand. Income, not a company. Good work, done well, for a main client who
-had long since stopped shopping around and had long since become the
-whole number.
+had long since become the whole number and intended to stay that way.
 
-And by his own old law, that was in order. A deck is allowed a
-load-bearing card; he had played them all his life and won with them.
-The law was about something else - no dead cards, an out in every draw -
-and he had kept it everywhere he knew to look. What twenty-nine taught
-him was that his rulebook had no entry for the actual danger. The
-question was never whether one card carried the game. The question was
-how many of his cards one hand could reach, and her hand could reach
-all of them. But the work was good and the
+And he had not chosen the concentration. That is the part that matters
+and the part nobody was ever told: he knew his own law - no dead cards,
+an out in every draw - and he tried to keep it. He found other clients,
+more than once. Every time it reached the main one, the main one made
+it impossible: obstruction first, then theatre, then the threat, plain
+enough for all its politeness, that every order he had could be
+withdrawn tomorrow if the second client stayed. A man with one card is
+in danger and knows it. A man forbidden to draw more is in a hostage
+arrangement, and the ransom is his own income, and he spent years
+paying it and calling it a compromise, because it paid well, and
+because naming it correctly would have obliged him to act on the name.
+
+What twenty-nine taught him was the rest of it. The question was never
+whether one card carried the game. The question was how many of his
+cards one hand could reach, and her hand could reach all of them, the
+client included. But the work was good and the
 money was good and the year was full, and she was there, and a man with a
 full year lets the rule slide the way a man with a mild winter buys no
 firewood.

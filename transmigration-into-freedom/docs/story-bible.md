@@ -165,9 +165,14 @@ everything else)
 - THE BREAK AT TWENTY-NINE, filled in by the author (it was a deliberate
   hole until he did). A separation, and it broke him. The first time in
   his life he lost EVERYTHING, itemised: she saw to it that he lost his
-  main client of the time - one client, in practice the whole income; the
-  work was IT consulting, managed services and process automation, and it
-  was INCOME, NOT A FIRM: no staff, one man selling his hours - she put
+  main client of the time - one client, in practice the whole income,
+  AND THE CONCENTRATION WAS ENFORCED, NOT CHOSEN (author): he found
+  other clients more than once, and the main one blocked it every time,
+  obstruction, theatre, and the threat of withdrawing every order. He
+  knew his no-dead-cards law and was structurally prevented from keeping
+  it, was paid well for that, and called it a compromise. The work was
+  IT consulting, managed services and process automation, and it was
+  INCOME, NOT A FIRM: no staff, one man selling his hours - she put
   him out of her HOUSE (a house, not a flat), he lived in his car, and he
   lost EVERYTHING PRIVATE: her TWO DAUGHTERS, who called him papa - their
   own ruling, delivered with full gravity: "Papa is our real papa. And
@@ -202,6 +207,11 @@ everything else)
   client, destroyed by one person, is why he never again relies on a
   single anything - which is exactly what the panel now is, and part of
   why it unsettles him.
+  AND ch31 HAS A SHADOW NOW: "he is on a leash for the first time and he
+  chose it" (the rent, the lease) reads differently against the unchosen
+  leash at twenty-nine - the man who was once held by a client's threats
+  now prices his dependencies deliberately, in the open, with the exit
+  named. Do not point at it on the page.
   AND THE MISSED PAYROLL IS THE ROOT under two beats already on the page
   - it belongs to the SECOND collapse, not to this one: the payout
   company (Old life below) had several employees, hired by him, and at

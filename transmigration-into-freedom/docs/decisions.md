@@ -3,6 +3,19 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The client was a cage, not a choice ===
+The author corrects the reading in the entry below: the one main client
+was NOT permitted under his own rulebook - THE CLIENT ENFORCED THE
+CONCENTRATION. When he found other clients, and he did, more than once,
+the main one blocked it: obstruction, scenes, and the threat of
+withdrawing every order. So he knew the no-dead-cards law, tried to keep
+it, and was structurally prevented - paid well for it, and called it a
+compromise. Story 5 is reworked accordingly and the closing line grew
+its last clause: her hand could reach all of them, THE CLIENT INCLUDED.
+RESONANCE FILED in the bible: ch31's "he is on a leash for the first
+time and he chose it" now has its shadow, the unchosen leash at
+twenty-nine. Nobody points at it on the page.
+
 === The tournament economics, and the real law of the decks ===
 Two author corrections. ONE: THE SHOEBOX IS DELETED - a stand-in that
 undersold the truth. The real childhood economics are in story 1 and the
