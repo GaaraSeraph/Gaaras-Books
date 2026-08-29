@@ -1260,8 +1260,13 @@ es kommt, und wenn Woo Anteile hinterlaesst, arbeitet sie fuer Georgij, ohne
 es zu wissen.
 
 **Ihre Zeile bleibt damit unbeantwortet, und das ist die Absicht.**
-`b2 ch87:254`: *"I want my firm. I am not going to get it."* **Sie hat
-recht.**
+`b2 ch87:254`, woertlich und mit dem Begleitsatz, der das Zitat teilt:
+
+> **"I want my firm," said Nam Byung-hee. "I am not going to get it, and there
+> is nobody in this house who can give it to me, and I would not take it from
+> her if she offered."**
+
+**Sie hat recht.**
 
 **2. Die achtundfuenfzig Hochzeitsgaeste.** Moon Hae-sooks einziger Wunsch
 (`b2 ch67:238`) ist als **OFFEN** im Schuldbuch verzeichnet, faellig bei jedem
