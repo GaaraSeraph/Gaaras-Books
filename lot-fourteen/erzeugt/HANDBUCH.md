@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 288.650 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 288.682 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -610,7 +610,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 327.806 Woerter.**
+**123 Kapitel, 327.833 Woerter.**
 
 ---
 
@@ -22971,7 +22971,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
 | Mr Hwang | 135 | 24 (b2ch07-b2ch89) | 166 | 590 |
-| Sim | 129 | 20 (b2ch29-b2ch88) | 239 | 578 |
+| Sim | 130 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 64 | 20 (b1ch07-b2ch89) | 22 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
@@ -25899,7 +25899,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Sim
 
-129 Nennungen in 20 Kapiteln.
+130 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -25916,6 +25916,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 288 | b2ch44:98 | He did not write the other version. That he had done it correctly, that honesty was the .. |
 | 288 | b2ch44:180 | Georgij wrote the day up before lunch, and it took him three attempts, because the first.. |
 | 302 | b2ch49:38 | "Yes," said Sim. "I thought that was probably the shape of it." |
+| 302 | b2ch49:46 | The soup came and it was as good as he had said, and neither of them touched it for elev.. |
 | 302 | b2ch49:48 | "You have been in five kitchens," said Sim. |
 | 302 | b2ch49:58 | Sim sat back. |
 | 302 | b2ch49:70 | "Ask me what you came to ask," said Sim, "because you have not asked anything, and I hav.. |
@@ -26038,6 +26039,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:118` (Tag 273) - one, three
 - `b2ch44:40` (Tag 288) - four, twelve, twenty
 - `b2ch44:180` (Tag 288) - one, three, two
+- `b2ch49:46` (Tag 302) - eleven
 - `b2ch49:48` (Tag 302) - five
 - `b2ch49:112` (Tag 302) - six
 - `b2ch49:136` (Tag 302) - thirty

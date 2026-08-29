@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.099 Woerter.
+Book Two, 89 Kapitel, 227.115 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -59,7 +59,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 46 | v1.4 | 2.033 |
 | 47 | v2.7 | 2.914 |
 | 48 | v1.5 | 2.112 |
-| 49 | v1.9 | 3.126 |
+| 49 | v2.0 | 3.142 |
 | 50 | v1.5 | 2.498 |
 | 51 | v1.6 | 2.778 |
 | 52 | v1.3 | 2.042 |
@@ -10639,7 +10639,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 49: Against her return
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -10669,7 +10669,7 @@ Georgij stood very still.
 
 They sat down.
 
-The soup came and it was as good as he had said, and neither of them touched it for eleven minutes.
+The soup came and it was as good as he had said, and neither of them touched it for eleven minutes. Then Sim ate his, and went on talking while he did it, which is a thing he has done in a great many rooms.
 
 "You have been in five kitchens," said Sim.
 
@@ -10793,7 +10793,7 @@ Neither of them said anything.
 
 "Do not do that." It came out of him at last, and it was not loud, and it was the first thing he had said all evening that had not been arranged. "I have spent thirty years being handed the version that is comfortable to carry. You are the first person in eleven years who has put a piece of paper in front of me and let me read it. Do not start being kind to me at the end of it."
 
-He picked up his spoon and ate it, because he had ordered it and because it was good.
+His bowl had been empty since a quarter to nine.
 
 Georgij noticed at about twenty past nine that his own bowl was exactly where the girl had put it, and once he had noticed it he could not stop noticing it. A man had been told at that table that eleven years of his life might have been a method, and had eaten his soup. The man who had told him had not touched anything.
 
