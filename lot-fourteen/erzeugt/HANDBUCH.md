@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 19 Dokumente am Stueck plus das Begegnungsregister. 277.359 Woerter.
+Alle 19 Dokumente am Stueck plus das Begegnungsregister. 277.907 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -14,6 +14,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [B1 34 · So 1. März · Der Boden neben ihr](#b1-34-so-1-m-rz-der-boden-neben-ihr)
   - [B2 35 · Do 4. Juni · Die Nacht mit leeren Händen](#b2-35-do-4-juni-die-nacht-mit-leeren-h-nden)
   - [Und dazwischen faellt er aus, vom Autor am 29.08. verlangt](#und-dazwischen-faellt-er-aus-vom-autor-am-29-08-verlangt)
+  - [Und die Zeile, die darauf folgt, steht bereits im Entwurf](#und-die-zeile-die-darauf-folgt-steht-bereits-im-entwurf)
   - [Warum das die richtige Fassung ist](#warum-das-die-richtige-fassung-ist)
   - [Erstes Ende: die Bewegung gehoert ihr, bis sie ihn zum Bett zieht](#erstes-ende-die-bewegung-gehoert-ihr-bis-sie-ihn-zum-bett-zieht)
   - [Zweites Ende: nach dem Verlobungsring auch in der Oeffentlichkeit](#zweites-ende-nach-dem-verlobungsring-auch-in-der-oeffentlichkeit)
@@ -372,6 +373,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Warum er gefaehrlich ist, und es ist eine einzige Sache](#warum-er-gefaehrlich-ist-und-es-ist-eine-einzige-sache)
   - [Und Georgijs Verfahren greift zum ersten Mal ins Leere](#und-georgijs-verfahren-greift-zum-ersten-mal-ins-leere)
   - [Also ist die Aufloesung keine Zerstoerung](#also-ist-die-aufloesung-keine-zerstoerung)
+  - [Der Grund ist Pflicht, und das ist die einzige Sorte, die noch fehlt](#der-grund-ist-pflicht-und-das-ist-die-einzige-sorte-die-noch-fehlt)
+  - [Warum das der gefaehrlichste Gegner des ganzen Buches ist](#warum-das-der-gefaehrlichste-gegner-des-ganzen-buches-ist)
+  - [Und der Grund liegt seit Band 2 im Esszimmer](#und-der-grund-liegt-seit-band-2-im-esszimmer)
+  - [Und der beschaedigte Unbeteiligte bleibt, aber als Zeuge](#und-der-beschaedigte-unbeteiligte-bleibt-aber-als-zeuge)
+  - [Was das mit Singapur macht](#was-das-mit-singapur-macht)
 - [Plan, Band 4](#plan-band-4)  ·  `doc/33-plan-band-4.md`
   - [Die vier Sachen, die das braucht](#die-vier-sachen-die-das-braucht)
   - [Und die Vorlage steht schon im Buch](#und-die-vorlage-steht-schon-im-buch)
@@ -904,48 +910,64 @@ stimmt**, und sagt danach nur, was ohnehin schon gilt.
 
 ### Und dazwischen faellt er aus, vom Autor am 29.08. verlangt
 
-**Es soll eine Reaktion geben, und zwar eine grosse** - Looney Tunes, in den
-Ton dieses Buches uebersetzt.
+**Meine erste Fassung war an zwei Stellen falsch, und der Autor hat beide
+gefunden.** Sang-hoon ist zu diesem Zeitpunkt **schon aus dem Haus** - im
+Entwurf steht *Mr Ku took him to the gate* -, und Georgij war **nicht mitten
+in einem Satz.** Seine Zeile ist **"Yes, Mistress."**, drei Woerter, fertig.
 
-**Die Uebersetzung ist einfach, weil das Buch das Werkzeug schon hat:** nicht
-Augen, die herausspringen, sondern **eine Maschine, die auf dem letzten
-Befehl weiterlaeuft, waehrend der Mann nicht mehr da ist.**
+**Damit wird die Loesung besser, weil sie nur das benutzt, was dasteht.**
 
-**Er hoert nicht auf zu reden. Er hoert auf, anwesend zu sein.** Und er merkt
-es erst mehrere Sekunden spaeter. **Die Verzoegerung ist der ganze Witz**, und
-sie ist bei Looney Tunes genauso.
+**Ein Mann, dessen letzter Befehl abgearbeitet ist und dem nichts nachkommt,
+fuehrt den letzten Befehl noch einmal aus.** Er sagt es zweimal. **Das zweite
+Mal ist kein Gehorsam, sondern eine Maschine ohne neuen Inhalt** - und das ist
+Looney Tunes, in die Sprache dieses Buches uebersetzt.
+
+### Und die Zeile, die darauf folgt, steht bereits im Entwurf
+
+**Das ist der eigentliche Fund.** Der Entwurf endet so:
+
+> "You told me once that you have no money and no name that opens a door and
+> nothing in this country to telephone."
+>
+> "Yes, Mistress."
+>
+> **"You are not going to be able to say that again."**
+
+**Ihr *that* meint dort die Armut.** Zwei maechtige Maenner halten ihn fuer
+einen Freund, also kann er nicht mehr sagen, dass er nichts hat.
+
+**Der Kuss verschiebt, worauf sich *that* bezieht.** Es muss nicht ein zweiter
+Satz erfunden werden. **Derselbe Satz bekommt ein zweites Ziel**, und der
+Leser braucht einen Augenblick, um zu merken, welches gemeint ist.
+
+**Beide gelten. Das ist kein Trick, das ist die Stelle.**
 
 **Der Text:**
 
-Annie kissed him on the cheek.
+Annie got up out of the chair, and crossed the room, and kissed him on the cheek, and went back to the page.
 
-Georgij finished the sentence he had been in the middle of, which was about tonnage, and got two words into the next one before anything reached him.
+Georgij stood where he was standing.
 
-Then it reached him.
+"Yes, Mistress," he said.
 
-* * *
-
-Park Sang-hoon watched a man he had once offered two point two billion won for stand in a room and be no use to anybody at all.
+"You are not going to be able to say that again."
 
 ### Warum das die richtige Fassung ist
 
-**Er ist nie um einen Satz verlegen.** Drei Baende lang nicht, in elf Haeusern
-nicht, vor einem Saal mit achthundert Leuten nicht. **Also faellt nicht die
-Sprache aus, sondern der Mensch dahinter, und die Sprache laeuft leer
-weiter.**
+**"Georgij stood where he was standing" ist der Ausfall.** Der Satz sagt
+nichts, weil nichts geschehen ist - **und genau das ist bei einem Mann, der
+in jeder Sekunde etwas tut, die groesste Meldung, die das Buch machen kann.**
 
-**Und *be no use to anybody at all* ist die Ohrfeige**, weil Nuetzlichkeit
-seine ganze Person ist. **Er fragt es zweimal im Buch selbst**, und beide Male
-mit dem Zeichen: `b1 ch33:362` und `b2 ch87:422` - *"Was I useful?"*
+**Er ist nie um einen Satz verlegen.** Drei Baende lang nicht, in elf
+Haeusern nicht, vor achthundert Leuten nicht. **Also faellt nicht die Sprache
+aus, sondern der Mensch dahinter, und die Sprache wiederholt sich.**
 
-**Sang-hoon als Zeuge ist kein Zufall.** Ein Mann, der zwei Milliarden
-zweihundert geboten hat, sieht zu, wie das Gebot in einer Sekunde
-gegenstandslos wird - **und er ist der Einzige im Raum, der beide Zahlen
-kennt.**
+**Und *on her way past* ist ihr Register**, seit `b1 ch34:82`: *put her hand
+on the back of his neck in an empty hall **on her way past**.* **Sie tut es im
+Vorbeigehen und liest weiter.** Wer sie dabei stehenbleiben laesst, macht ein
+Ereignis daraus.
 
-**Danach erst kommt ihr Satz**, und er trifft einen Mann, der gerade nicht
-betriebsbereit ist. **Deshalb steht die Reaktion zwischen dem Kuss und der
-Zeile und nicht danach.**
+**Die Bewegung gehoert ihr**, wie in dieser Bandphase noch immer.
 
 **Die Regel der Reihe bleibt eingehalten**, obwohl sie spricht: sie sagt
 nichts **ueber den Kuss**, sondern ueber die **Anrede.** Der Kuss selbst
@@ -18762,6 +18784,75 @@ noch nie etwas zugegeben.
 umgangen, sondern zum Gegenstand gemacht:** es ist kein bewusster Schaden.
 **Es ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht, und
 der einzige, den er nicht mit Papier reparieren kann.
+
+---
+
+## Der dritte Gegner, dritter Anlauf: ein Staatsanwalt, der seine Arbeit macht
+
+**Am 29.08. zweimal zu Recht abgelehnt.** Erst die Kanzleikette - **und der
+Einwand dagegen ist vernichtend:** der Fonds hat Woos Terminal finanziert.
+**Das ist ein Grund, ihnen zu helfen, und keiner, sie zu zerstoeren.** Dann
+der beschaedigte Unbeteiligte, der als Gegner nichts kann.
+
+**Beide Einwaende zeigen auf dieselbe Luecke: es fehlt ein Grund.**
+
+### Der Grund ist Pflicht, und das ist die einzige Sorte, die noch fehlt
+
+* **Gegner 1, Chois Freund: Trauer.**
+* **Gegner 2, der Erbe: Stand.**
+* **Gegner 3: Pflicht.**
+
+**Ein Staatsanwalt, der nicht gekauft ist, nicht feindselig, und Georgij
+moeglicherweise sogar mag** - und der eine Akte ueber ihn anlegt, **weil das
+die Arbeit ist.**
+
+### Warum das der gefaehrlichste Gegner des ganzen Buches ist
+
+**Georgijs Feldzug besteht darin, Staatsanwaelten wahre Sachen zu geben.** Er
+hat zwei Baende lang nichts anderes getan. **Der dritte Gegner nimmt dieselben
+wahren Sachen und geht sie rueckwaerts.**
+
+**Und es gibt nichts zu finden, was hilft.** Man kann ihn nicht kaufen, nicht
+erpressen und nicht blossstellen, **weil er nichts getan hat** - und jeder
+Versuch waere selbst die Straftat, die er sucht.
+
+**Georgijs Verfahren funktioniert an ihm zum ersten Mal nicht.**
+
+### Und der Grund liegt seit Band 2 im Esszimmer
+
+`b2 ch84:192`:
+
+> **A prosecutor of thirty-six who was got out of a service in 2002 by a man
+> who could not read a contract, and whose photographs are in the dining
+> room, and who is her father.**
+
+**Annies Vater war Staatsanwalt und wurde 2002 aus dem Dienst entfernt.**
+Seine Bilder haengen in ihrem Esszimmer.
+
+**Und der dritte Gegner ist derselbe Dienst, der diesmal richtig arbeitet -
+gegen sie.** Die Behoerde, die ihren Vater kaputtgemacht hat, weil sie
+korrupt war, wird ihr gefaehrlich, **weil sie es nicht mehr ist.**
+
+**Das ist keine Ironie, das ist eine Rechnung**, und sie liegt seit Band 2
+offen.
+
+### Und der beschaedigte Unbeteiligte bleibt, aber als Zeuge
+
+**Nicht als Gegner - da hatte der Autor recht.** Ein Mann ohne Macht ist keine
+Gegenfigur.
+
+**Aber als Beweismittel ist er unschlagbar.** Jeder, den Georgij zerlegt hat,
+war schmutzig, und deshalb ist sein Wort nichts wert. **Dieser ist sauber.**
+
+**Der Staatsanwalt ist der Gegner. Der Unbeteiligte ist das, womit er
+gewinnt.** Zwei Figuren, ein Strang, und beide Einwaende sind damit
+beantwortet.
+
+### Was das mit Singapur macht
+
+**Die Kette bleibt Installation und wird kein Gegner.** Sie ist die Wand, vor
+der Band 5 steht, wenn der Handel zerlegt wird - **ein Hindernis mit einem
+Geschaeftszweck, kein Mensch mit einem Groll.**
 
 ---
 

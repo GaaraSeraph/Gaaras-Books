@@ -349,48 +349,64 @@ stimmt**, und sagt danach nur, was ohnehin schon gilt.
 
 ### Und dazwischen faellt er aus, vom Autor am 29.08. verlangt
 
-**Es soll eine Reaktion geben, und zwar eine grosse** - Looney Tunes, in den
-Ton dieses Buches uebersetzt.
+**Meine erste Fassung war an zwei Stellen falsch, und der Autor hat beide
+gefunden.** Sang-hoon ist zu diesem Zeitpunkt **schon aus dem Haus** - im
+Entwurf steht *Mr Ku took him to the gate* -, und Georgij war **nicht mitten
+in einem Satz.** Seine Zeile ist **"Yes, Mistress."**, drei Woerter, fertig.
 
-**Die Uebersetzung ist einfach, weil das Buch das Werkzeug schon hat:** nicht
-Augen, die herausspringen, sondern **eine Maschine, die auf dem letzten
-Befehl weiterlaeuft, waehrend der Mann nicht mehr da ist.**
+**Damit wird die Loesung besser, weil sie nur das benutzt, was dasteht.**
 
-**Er hoert nicht auf zu reden. Er hoert auf, anwesend zu sein.** Und er merkt
-es erst mehrere Sekunden spaeter. **Die Verzoegerung ist der ganze Witz**, und
-sie ist bei Looney Tunes genauso.
+**Ein Mann, dessen letzter Befehl abgearbeitet ist und dem nichts nachkommt,
+fuehrt den letzten Befehl noch einmal aus.** Er sagt es zweimal. **Das zweite
+Mal ist kein Gehorsam, sondern eine Maschine ohne neuen Inhalt** - und das ist
+Looney Tunes, in die Sprache dieses Buches uebersetzt.
+
+### Und die Zeile, die darauf folgt, steht bereits im Entwurf
+
+**Das ist der eigentliche Fund.** Der Entwurf endet so:
+
+> "You told me once that you have no money and no name that opens a door and
+> nothing in this country to telephone."
+>
+> "Yes, Mistress."
+>
+> **"You are not going to be able to say that again."**
+
+**Ihr *that* meint dort die Armut.** Zwei maechtige Maenner halten ihn fuer
+einen Freund, also kann er nicht mehr sagen, dass er nichts hat.
+
+**Der Kuss verschiebt, worauf sich *that* bezieht.** Es muss nicht ein zweiter
+Satz erfunden werden. **Derselbe Satz bekommt ein zweites Ziel**, und der
+Leser braucht einen Augenblick, um zu merken, welches gemeint ist.
+
+**Beide gelten. Das ist kein Trick, das ist die Stelle.**
 
 **Der Text:**
 
-Annie kissed him on the cheek.
+Annie got up out of the chair, and crossed the room, and kissed him on the cheek, and went back to the page.
 
-Georgij finished the sentence he had been in the middle of, which was about tonnage, and got two words into the next one before anything reached him.
+Georgij stood where he was standing.
 
-Then it reached him.
+"Yes, Mistress," he said.
 
-* * *
-
-Park Sang-hoon watched a man he had once offered two point two billion won for stand in a room and be no use to anybody at all.
+"You are not going to be able to say that again."
 
 ### Warum das die richtige Fassung ist
 
-**Er ist nie um einen Satz verlegen.** Drei Baende lang nicht, in elf Haeusern
-nicht, vor einem Saal mit achthundert Leuten nicht. **Also faellt nicht die
-Sprache aus, sondern der Mensch dahinter, und die Sprache laeuft leer
-weiter.**
+**"Georgij stood where he was standing" ist der Ausfall.** Der Satz sagt
+nichts, weil nichts geschehen ist - **und genau das ist bei einem Mann, der
+in jeder Sekunde etwas tut, die groesste Meldung, die das Buch machen kann.**
 
-**Und *be no use to anybody at all* ist die Ohrfeige**, weil Nuetzlichkeit
-seine ganze Person ist. **Er fragt es zweimal im Buch selbst**, und beide Male
-mit dem Zeichen: `b1 ch33:362` und `b2 ch87:422` - *"Was I useful?"*
+**Er ist nie um einen Satz verlegen.** Drei Baende lang nicht, in elf
+Haeusern nicht, vor achthundert Leuten nicht. **Also faellt nicht die Sprache
+aus, sondern der Mensch dahinter, und die Sprache wiederholt sich.**
 
-**Sang-hoon als Zeuge ist kein Zufall.** Ein Mann, der zwei Milliarden
-zweihundert geboten hat, sieht zu, wie das Gebot in einer Sekunde
-gegenstandslos wird - **und er ist der Einzige im Raum, der beide Zahlen
-kennt.**
+**Und *on her way past* ist ihr Register**, seit `b1 ch34:82`: *put her hand
+on the back of his neck in an empty hall **on her way past**.* **Sie tut es im
+Vorbeigehen und liest weiter.** Wer sie dabei stehenbleiben laesst, macht ein
+Ereignis daraus.
 
-**Danach erst kommt ihr Satz**, und er trifft einen Mann, der gerade nicht
-betriebsbereit ist. **Deshalb steht die Reaktion zwischen dem Kuss und der
-Zeile und nicht danach.**
+**Die Bewegung gehoert ihr**, wie in dieser Bandphase noch immer.
 
 **Die Regel der Reihe bleibt eingehalten**, obwohl sie spricht: sie sagt
 nichts **ueber den Kuss**, sondern ueber die **Anrede.** Der Kuss selbst

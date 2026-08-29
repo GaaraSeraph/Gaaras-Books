@@ -2771,3 +2771,72 @@ umgangen, sondern zum Gegenstand gemacht:** es ist kein bewusster Schaden.
 **Es ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht, und
 der einzige, den er nicht mit Papier reparieren kann.
 
+---
+
+## Der dritte Gegner, dritter Anlauf: ein Staatsanwalt, der seine Arbeit macht
+
+**Am 29.08. zweimal zu Recht abgelehnt.** Erst die Kanzleikette - **und der
+Einwand dagegen ist vernichtend:** der Fonds hat Woos Terminal finanziert.
+**Das ist ein Grund, ihnen zu helfen, und keiner, sie zu zerstoeren.** Dann
+der beschaedigte Unbeteiligte, der als Gegner nichts kann.
+
+**Beide Einwaende zeigen auf dieselbe Luecke: es fehlt ein Grund.**
+
+### Der Grund ist Pflicht, und das ist die einzige Sorte, die noch fehlt
+
+* **Gegner 1, Chois Freund: Trauer.**
+* **Gegner 2, der Erbe: Stand.**
+* **Gegner 3: Pflicht.**
+
+**Ein Staatsanwalt, der nicht gekauft ist, nicht feindselig, und Georgij
+moeglicherweise sogar mag** - und der eine Akte ueber ihn anlegt, **weil das
+die Arbeit ist.**
+
+### Warum das der gefaehrlichste Gegner des ganzen Buches ist
+
+**Georgijs Feldzug besteht darin, Staatsanwaelten wahre Sachen zu geben.** Er
+hat zwei Baende lang nichts anderes getan. **Der dritte Gegner nimmt dieselben
+wahren Sachen und geht sie rueckwaerts.**
+
+**Und es gibt nichts zu finden, was hilft.** Man kann ihn nicht kaufen, nicht
+erpressen und nicht blossstellen, **weil er nichts getan hat** - und jeder
+Versuch waere selbst die Straftat, die er sucht.
+
+**Georgijs Verfahren funktioniert an ihm zum ersten Mal nicht.**
+
+### Und der Grund liegt seit Band 2 im Esszimmer
+
+`b2 ch84:192`:
+
+> **A prosecutor of thirty-six who was got out of a service in 2002 by a man
+> who could not read a contract, and whose photographs are in the dining
+> room, and who is her father.**
+
+**Annies Vater war Staatsanwalt und wurde 2002 aus dem Dienst entfernt.**
+Seine Bilder haengen in ihrem Esszimmer.
+
+**Und der dritte Gegner ist derselbe Dienst, der diesmal richtig arbeitet -
+gegen sie.** Die Behoerde, die ihren Vater kaputtgemacht hat, weil sie
+korrupt war, wird ihr gefaehrlich, **weil sie es nicht mehr ist.**
+
+**Das ist keine Ironie, das ist eine Rechnung**, und sie liegt seit Band 2
+offen.
+
+### Und der beschaedigte Unbeteiligte bleibt, aber als Zeuge
+
+**Nicht als Gegner - da hatte der Autor recht.** Ein Mann ohne Macht ist keine
+Gegenfigur.
+
+**Aber als Beweismittel ist er unschlagbar.** Jeder, den Georgij zerlegt hat,
+war schmutzig, und deshalb ist sein Wort nichts wert. **Dieser ist sauber.**
+
+**Der Staatsanwalt ist der Gegner. Der Unbeteiligte ist das, womit er
+gewinnt.** Zwei Figuren, ein Strang, und beide Einwaende sind damit
+beantwortet.
+
+### Was das mit Singapur macht
+
+**Die Kette bleibt Installation und wird kein Gegner.** Sie ist die Wand, vor
+der Band 5 steht, wenn der Handel zerlegt wird - **ein Hindernis mit einem
+Geschaeftszweck, kein Mensch mit einem Groll.**
+
