@@ -2008,6 +2008,89 @@ sie bekommt das hier nur, weil er ihrer ist.**
 Luecke, Vorschlag. **Wenn die ganze Gruppe vererbt wird, muss sie eine Form
 haben**, und sei es in zwei Halbsaetzen.
 
+## Zwei Beats zum Testament, vom Autor am 29.08. verlangt
+
+### 1. Der Segen ist zugleich ein erhobener Zeigefinger
+
+**Vorgabe:** *so he's saying we will have to keep getting along in the
+future. That's him giving his blessings.*
+
+**Der Text:**
+
+"Neither of us can do anything with any of it without the other," said Georgij. "And if we cannot agree, all of it goes to the people in his sheds."
+
+He squared the page with the edge of the desk, which it did not need.
+
+"So he is saying we are going to have to go on getting along. That is him giving us his blessing."
+
+"And telling us." Annie did not look up. "He was always like that."
+
+**Was daran gebaut ist:**
+
+**Er liest ein Dokument und sagt, was es tut.** Das ist sein Verfahren, seit
+`b1 ch01`, und es ist der einzige Weg, auf dem so ein Satz nicht ruehrselig
+wird: **er behauptet nicht, dass es ein Segen ist. Er rechnet ihn aus.**
+
+**Und Annie ergaenzt die andere Haelfte in zwei Woertern.** *"And telling
+us."* **Sie ist die Einzige, die den Zeigefinger benennen darf**, weil sie
+Woo laenger kennt und weil sie ihn nicht braucht.
+
+**Punkt und kein Fragezeichen bei ihr**, beide Male: sie stellt fest.
+
+**Keine Zusammenziehungen.** *he's* und *that's* gehen nicht - Georgij hat in
+vierhunderteins Repliken null, Annie seit `b1 ch15` keine.
+
+**Und *He was always like that* ist der ganze Nachruf.** Vier Woerter,
+freundlich, und sie sagen zugleich, dass sie es kommen sah.
+
+---
+
+### 2. Warum die Gruppe nicht eingegliedert wird
+
+**Vorgabe:** *we could integrate this into your company structure. But I
+would like to respect the last wishes of a friend.*
+
+**Eine Sache musste ich daran aendern, und sie macht es staerker.** Woo hat
+das nirgends gesagt. **Es gibt keinen letzten Wunsch, den man zitieren
+koennte** - und Georgij sagt nie etwas Unwahres. **Also sagt er, dass er es
+sich denkt, und sagt dazu, dass er es sich denkt.**
+
+**Der Text:**
+
+"We could put all of it inside yours," said Georgij. "It is the ordinary thing to do and nobody in this country would think twice about it."
+
+"And?"
+
+"He spent fifty-one years not being one, and it was not because nobody would let him."
+
+Annie waited.
+
+"He never wrote that down anywhere and I am not going to pretend he did." Georgij did not decorate any of it. "I would like to respect it anyway."
+
+**Was daran gebaut ist:**
+
+**Der erste Satz gibt zu, dass es geht.** Eingliedern ist in Korea der
+Normalfall - Glovis, Lotte Global Logistics, Pantos. **Wer so anfaengt, hat
+danach kein Argument mehr noetig, das kaufmaennisch tragen muss.**
+
+**Der zweite Satz ist die ganze Figur Woo in einer Zeile:** *it was not
+because nobody would let him.* **Er haette gekonnt und hat nicht.**
+
+**Und der dritte ist Regel 1 in ihrer schaerfsten Form.** *He never wrote
+that down anywhere and I am not going to pretend he did.* **Ein Mann, der
+nichts Unwahres sagt, kann einen letzten Wunsch nicht zitieren, den es nicht
+gibt** - und die Zeile wird dadurch nicht schwaecher, sondern zum ersten
+Mal seins statt Woos.
+
+**Annies *"And?"* mit Zeichen.** Sie gibt ihm den Zug weiter und koennte ihn
+abbrechen. **Sie tut es nicht, und das ist die Antwort.**
+
+**Und sie sagt zu dem Vorschlag nichts.** Der ganze Konzern haengt an
+Logistik, sie koennte es sich nehmen, und sie laesst es. **Ein Nein von ihr
+waere kleiner als ihr Schweigen.**
+
+---
+
 ## Woo vererbt, und damit bricht Regel 2 richtig
 
 **Vom Autor am 28.08. entschieden: kein Geschenk, sondern ein Erbe.** Das ist
