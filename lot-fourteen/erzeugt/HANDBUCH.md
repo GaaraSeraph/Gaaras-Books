@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 288.682 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 289.390 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -310,9 +310,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Warum die Antwort mehr sagt als eine Summe](#warum-die-antwort-mehr-sagt-als-eine-summe)
   - [Zeichensetzung](#zeichensetzung)
 - [Plan, Band 3](#plan-band-3)  ·  `doc/32-plan-band-3.md`
-  - [1. Hanseong, und der, der nicht verkauft hat](#1-hanseong-und-der-der-nicht-verkauft-hat)
-  - [2. Einer, der unter dem Veto liegt](#2-einer-der-unter-dem-veto-liegt)
-  - [3. Offen, und drei Vorschlaege, die nichts erfinden](#3-offen-und-drei-vorschlaege-die-nichts-erfinden)
   - [GANZ neue Gesichter, und der Saal ist schon gebaut](#ganz-neue-gesichter-und-der-saal-ist-schon-gebaut)
   - [Der Text](#der-text)
   - [Die Choreografie ist vom Autor und wird nicht mehr angefasst](#die-choreografie-ist-vom-autor-und-wird-nicht-mehr-angefasst)
@@ -343,8 +340,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die schwarzen Kassen, und warum sie zwei Schlaege in einem sind](#die-schwarzen-kassen-und-warum-sie-zwei-schlaege-in-einem-sind)
   - [Die Warnung dazu, und sie ist ernst](#die-warnung-dazu-und-sie-ist-ernst)
   - [Die tote Bank, ausfuehrlich](#die-tote-bank-ausfuehrlich)
-  - [Und der Kollateralschaden ist kein Loch, sondern der Preis](#und-der-kollateralschaden-ist-kein-loch-sondern-der-preis)
-  - [Der bessere dritte Gegner](#der-bessere-dritte-gegner)
   - [Entschieden am 29.08., und der Text hatte die Antwort schon](#entschieden-am-29-08-und-der-text-hatte-die-antwort-schon)
   - [Und damit hat das Terminal keinen Erben](#und-damit-hat-das-terminal-keinen-erben)
   - [Der Text](#der-text)
@@ -409,6 +404,23 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die untergegangene Finanzierungsgesellschaft: **Jinyang Trade Finance**](#die-untergegangene-finanzierungsgesellschaft-jinyang-trade-finance)
   - [Die Tochter, aus der Geld verschwunden ist: **Hanseong Bunkering**](#die-tochter-aus-der-geld-verschwunden-ist-hanseong-bunkering)
   - [Und **Hanseong Chemicals** bleibt, wo es steht](#und-hanseong-chemicals-bleibt-wo-es-steht)
+  - [Die Tatsachenlage, geprueft am 29.08. ueber den ganzen Kanon](#die-tatsachenlage-geprueft-am-29-08-ueber-den-ganzen-kanon)
+  - [Der Mann selbst, und er ist fertig geschrieben](#der-mann-selbst-und-er-ist-fertig-geschrieben)
+  - [Und er ist tot, seit 2011](#und-er-ist-tot-seit-2011)
+  - [Die Zahl, berichtigt am 29.08.](#die-zahl-berichtigt-am-29-08)
+  - [Und der Streit faengt frueher an, als ich geschrieben hatte](#und-der-streit-faengt-frueher-an-als-ich-geschrieben-hatte)
+  - [Also drei Ereignisse, alle datiert, alle mit ihm in der Mitte](#also-drei-ereignisse-alle-datiert-alle-mit-ihm-in-der-mitte)
+  - [*Warum will der Bankmann von mir eine Antwort? Ich habe nichts auf dem Papier.*](#warum-will-der-bankmann-von-mir-eine-antwort-ich-habe-nichts-auf-dem-papier)
+  - [*Warum ruiniere ich sie ueberhaupt? Nur um die zwanzig Prozent frei zu bekommen?*](#warum-ruiniere-ich-sie-ueberhaupt-nur-um-die-zwanzig-prozent-frei-zu-bekommen)
+  - [Also bleibt Singapur, was es zwei Baende lang war](#also-bleibt-singapur-was-es-zwei-baende-lang-war)
+  - [Die Frage, die niemand gestellt hat](#die-frage-die-niemand-gestellt-hat)
+  - [Warum er der richtige dritte Gegner ist](#warum-er-der-richtige-dritte-gegner-ist)
+  - [Was daran noch entschieden werden muss](#was-daran-noch-entschieden-werden-muss)
+  - [1. Hanseong, und der, der nicht verkauft hat](#1-hanseong-und-der-der-nicht-verkauft-hat)
+  - [2. Einer, der unter dem Veto liegt](#2-einer-der-unter-dem-veto-liegt)
+  - [3. Offen, und drei Vorschlaege, die nichts erfinden](#3-offen-und-drei-vorschlaege-die-nichts-erfinden)
+  - [Und der Kollateralschaden ist kein Loch, sondern der Preis](#und-der-kollateralschaden-ist-kein-loch-sondern-der-preis)
+  - [Der bessere dritte Gegner](#der-bessere-dritte-gegner)
   - [Der Vorschlag, und meine erste Fassung davon war unbrauchbar](#der-vorschlag-und-meine-erste-fassung-davon-war-unbrauchbar)
   - [Wer er ist](#wer-er-ist)
   - [Warum er gefaehrlich ist, und es ist eine einzige Sache](#warum-er-gefaehrlich-ist-und-es-ist-eine-einzige-sache)
@@ -424,18 +436,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Und deshalb kann die Aufloesung keine Zerstoerung sein](#und-deshalb-kann-die-aufloesung-keine-zerstoerung-sein)
   - [Was damit wegfaellt](#was-damit-wegfaellt)
   - [Was das mit Singapur macht](#was-das-mit-singapur-macht)
-  - [Die Tatsachenlage, geprueft am 29.08. ueber den ganzen Kanon](#die-tatsachenlage-geprueft-am-29-08-ueber-den-ganzen-kanon)
-  - [Der Mann selbst, und er ist fertig geschrieben](#der-mann-selbst-und-er-ist-fertig-geschrieben)
-  - [Und er ist tot, seit 2011](#und-er-ist-tot-seit-2011)
-  - [Die Zahl, berichtigt am 29.08.](#die-zahl-berichtigt-am-29-08)
-  - [Und der Streit faengt frueher an, als ich geschrieben hatte](#und-der-streit-faengt-frueher-an-als-ich-geschrieben-hatte)
-  - [Also drei Ereignisse, alle datiert, alle mit ihm in der Mitte](#also-drei-ereignisse-alle-datiert-alle-mit-ihm-in-der-mitte)
-  - [*Warum will der Bankmann von mir eine Antwort? Ich habe nichts auf dem Papier.*](#warum-will-der-bankmann-von-mir-eine-antwort-ich-habe-nichts-auf-dem-papier)
-  - [*Warum ruiniere ich sie ueberhaupt? Nur um die zwanzig Prozent frei zu bekommen?*](#warum-ruiniere-ich-sie-ueberhaupt-nur-um-die-zwanzig-prozent-frei-zu-bekommen)
-  - [Also bleibt Singapur, was es zwei Baende lang war](#also-bleibt-singapur-was-es-zwei-baende-lang-war)
-  - [Die Frage, die niemand gestellt hat](#die-frage-die-niemand-gestellt-hat)
-  - [Warum er der richtige dritte Gegner ist](#warum-er-der-richtige-dritte-gegner-ist)
-  - [Was daran noch entschieden werden muss](#was-daran-noch-entschieden-werden-muss)
 - [Plan, Band 4](#plan-band-4)  ·  `doc/33-plan-band-4.md`
   - [Die vier Sachen, die das braucht](#die-vier-sachen-die-das-braucht)
   - [Und die Vorlage steht schon im Buch](#und-die-vorlage-steht-schon-im-buch)
@@ -610,7 +610,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 327.920 Woerter.**
+**123 Kapitel, 327.931 Woerter.**
 
 ---
 
@@ -1733,72 +1733,72 @@ die beim Planen zaehlt.
 
 ### Das Haus am Fluss
 
-| Figur | Was | Auftritt | Stand |
-|---|---|---|---|
-| **Annie** | Kauft ihn am 4. Oktober. Fuehrt die Familienfinanzen, 42,4 % bei sechs Leuten | B1 1 | Traegt den Band |
-| **Georgij** | Los vierzehn. Elf Haeuser, siebzehn Jahre, vier Sprachen | B1 1 | Traegt den Band |
-| **Mrs Seo** | Fuehrt das Haus seit neun Jahren, Personal, Konten, Fremdfirmen | B1 3 | Laufend, ab B2 58 mit eigener Stimme |
-| **Jang** | Sicherheitschef, achtundfuenfzig, acht Familien, dreissig Jahre | B1 5 | Laufend, sitzt seit Juni in einer Bucht |
-| **Ji-won** | Wohnt ueber der Kueche | B1 3 | Ruht |
-| **Bae** | Wachmann am Tor. **Nicht Mrs Bae aus Band 2** | B1 3 | Ruht |
-| **Eun-ju** | Acht bis vier, wegen des Busses aus Nowon | B1 3 | Ruht |
-| **Mr Baek** | Der Koch. **Nicht Baek Jun-ho** | B1 4 | Ruht |
-| **Mr Ku, Mr Pyo** | Fahren | B1 7 | Laufend |
-| **Mr Chae** | Zeichnet die Instrumente | B1 24 | Ruht |
-| **Mr Noh** | Vorgaenger von Jang | B1 5 | Erledigt |
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Annie** | **Die Eigentuemerin des Hauses.** Kauft ihn am 4. Oktober | Fuehrt die Familienfinanzen, 42,4 % bei sechs Leuten | B1 1 | Traegt den Band |
+| **Georgij** | **Er.** Los vierzehn, gekauft am selben Abend | Elf Haeuser, siebzehn Jahre, vier Sprachen | B1 1 | Traegt den Band |
+| **Mrs Seo** | **Die Haushaelterin** | Fuehrt das Haus seit neun Jahren: Personal, Konten, Fremdfirmen | B1 3 | Laufend, ab B2 58 mit eigener Stimme |
+| **Jang** | **Der Sicherheitschef** | Achtundfuenfzig, acht Familien, dreissig Jahre | B1 5 | Laufend, sitzt seit Juni in einer Bucht |
+| **Ji-won** | **Hausmaedchen.** Bringt ihn am ersten Abend hinauf (`b1 ch03:40`) | Wohnt ueber der Kueche | B1 3 | Ruht |
+| **Bae** | **Wachmann am Tor.** **Nicht Mrs Bae aus Band 2** | | B1 3 | Ruht |
+| **Eun-ju** | **Hausmaedchen**, eine der vier | Acht bis vier, wegen des Busses aus Nowon | B1 3 | Ruht |
+| **Mr Baek** | **Der Koch.** **Nicht Baek Jun-ho** | | B1 4 | Ruht |
+| **Mr Ku, Mr Pyo** | **Die Fahrer des Hauses** | | B1 7 | Laufend |
+| **Mr Chae** | **Der Vertragsjurist auf Annies Seite** | Zeichnet die Instrumente, und erfaehrt den Grund nicht | B1 24 | Ruht |
+| **Mr Noh** | **Jangs Vorgaenger als Sicherheitschef** | | B1 5 | Erledigt |
 
 ### Verbuendete
 
-| Figur | Was | Auftritt | Stand |
-|---|---|---|---|
-| **Chairman Woo Jae-sung** | Achtundsiebzig, einundfuenfzig Jahre, Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
-| **Hana Seo-yeon** | Kennt Annie seit zwanzig Jahren. Drei Prozent Unvorsichtigkeit, und die sind gewaehlt | B1 7 | Ruht seit Mai |
-| **Kim Ye-rin** | Vetorecht ueber Routen, Name auf Seite eins und elf | B1 30 | Erledigt in B1 |
-| **Park Sang-hoon** | Gegner und Handelspartner zugleich. Hat vier Entscheidungen an Chois Tischen getroffen und keine erklaeren koennen | B1 22 | **Aktiv.** Haelt Sims Namen und benutzt ihn nicht |
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Chairman Woo Jae-sung** | **Logistiker, und ausdruecklich kein Chaebol.** Georgijs Freund | Achtundsiebzig, einundfuenfzig Jahre im Gewerbe, Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
+| **Hana Seo-yeon** | **Spediteurin mit eigenem Hof.** Annies aelteste Verbindung, fuehrt ihn in den Ballsaal ein | Kennt Annie seit zwanzig Jahren. Drei Prozent Unvorsichtigkeit, und die sind gewaehlt | B1 7 | Ruht seit Mai |
+| **Kim Ye-rin** | **Fuehrt eine Gruppe, in der sechs Leute sie anrufen, bevor sie unterschreiben** | Vetorecht ueber Routen, Name auf Seite eins und elf | B1 30 | Erledigt in B1 |
+| **Park Sang-hoon** | **Chaebol. Haelt vierzig Prozent an Hanseong Shipping** | Gegner und Handelspartner zugleich. Hat vier Entscheidungen an Chois Tischen getroffen und keine erklaeren koennen | B1 22 | **Aktiv.** Haelt Sims Namen und benutzt ihn nicht |
 
 ### Die Gegenseite
 
-| Figur | Was | Auftritt | Stand |
-|---|---|---|---|
-| **Choi Dae-ho** | Neunundfuenfzig. Ehemaliger Staatsanwalt, sitzt in nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 und 90: neun Anrufe, und er ueberlebt das Ende nicht |
-| **Nam Byung-hee** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
-| **Kang Ji-hoon** | Ministerium | B1 10 | Ruht |
-| **Kim Do-yun** | Gesicht, das nichts tut | B1 31 | Ruht |
-| **Minister Min-ho** | Der Preis. Ueber Choi mit Sang-hoon verbunden | B1 - | Ruht |
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 und 90: neun Anrufe, und er ueberlebt das Ende nicht |
+| **Nam Byung-hee** | **Spediteurin aus Ulsan** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
+| **Kang Ji-hoon** | **Beamter im Ministerium fuer Land und Infrastruktur**, mittlere Ebene | | B1 10 | Ruht |
+| **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
+| **Minister Min-ho** | **Der Minister.** Ueber Choi mit Sang-hoon verbunden | Der Preis | B1 - | Ruht |
 
 ### Der Feldzug in Band 2
 
 **Die Reihenfolge ist erzwungen** und steht in `doc/31-plan-band-2.md`: erst die Haende,
 dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 
-| Figur | Was | Auftritt | Stand |
-|---|---|---|---|
-| **Ahn Jung-hee** | **Die vierte Zeile.** Fuenfunddreissig. Im Haus heisst sie **Do Kyung-ae** und fuehrt den Haushalt, in dem sie gehalten wird | B2 56 | **Der Angelpunkt.** Hat am 27. August zum ersten Mal gesprochen |
-| **Mr Ahn** | Ihr Bruder, neununddreissig, repariert Kleinmotoren. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
-| **Moon Hae-sook** | **Die zweite Frau in demselben Haus, und sie hat kein Losnummer.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
-| **Mrs Ha** | Dreissig Jahre Blumen und Waesche in Saele geliefert, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 67 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij ist am 4. September zu ihr nach Mapo gegangen und wusste, dass sie telefonieren wuerde |
-| **Sim** | Chois Haende. Dreissig Jahre Fixer, und sein Instrument ist die Freundlichkeit | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
-| **Mr Yeom** | Dritte Etage in Jung-gu, zehn Firmen ohne Personal. Kennt Sims Namen und gibt ihn nicht her | B2 24 | Aktiv, liest vier Jahre Quartalsmappen |
-| **Mr Hwang** | **Der Sanierer.** Fuehrt das Auktionshaus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
-| **Baek Jun-ho** | Solicitor in Yeouido, dreiundsechzig, elf Treuhandschaften, verwaltet diese seit elf Jahren | B2 42 | **Eingeloest in B2 82: das Geld IST der Sauerstoff.** Vierundvierzig Zahlungen an eine Adresse in Gangwon-do, ohne Namen, mit seiner Unterschrift |
-| **Mr Koh** | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
-| **Mr Pyeon** | Einer der fünf. Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
-| **Mr Tak** | Seit Ende August im Haus in Gangwon-do, der erste neue Wachmann in vier Jahren | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
-| **Mrs Jeon Mi-ja** | Einundfuenfzig, dreiundzwanzig Jahre Abrechnung, seit dem 12. Mai draussen | B2 6 | **Ab 1. Oktober in Gwangyang, und im Maerz liest sie Ahn Jung-hee die erste Stunde vor (B2 71)** |
-| **Mr Byun** | Sechsundzwanzig Jahre im Haus. *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
-| **Mrs Bae** | Zweiundzwanzig Jahre am Empfang, fuehrt das Buch mit Bleistift. **Nicht Bae aus Band 1** | B2 41 | Gegeben, was sie hatte |
-| **Mr Sohn** | Kocht ohne Schild fuer Stammgaeste. Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
-| **Mrs Gwak** | Blumenladen in Hyoja-dong, fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
-| **Mrs Sunwoo** | Einundachtzig, einundvierzig Jahre Kaeuferin in dem Haus. Eine der vier Zeilen | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
-| **Mrs Uhm** | Ablage bei Yeom seit 2004 | B2 17 | Wird von niemandem behelligt werden |
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Ahn Jung-hee** | **Die vierte Zeile im Katalog.** Wird in einem Haushalt in Gangwon-do gehalten | Fuenfunddreissig. Im Haus heisst sie **Do Kyung-ae** und fuehrt den Haushalt, in dem sie gehalten wird | B2 56 | **Der Angelpunkt.** Hat am 27. August zum ersten Mal gesprochen |
+| **Mr Ahn** | **Ihr Bruder.** Repariert Kleinmotoren | Neununddreissig. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
+| **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
+| **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | Dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 67 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij ist am 4. September zu ihr nach Mapo gegangen und wusste, dass sie telefonieren wuerde |
+| **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
+| **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her | B2 24 | Aktiv, liest vier Jahre Quartalsmappen |
+| **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuehrt es seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
+| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren | B2 42 | **Eingeloest in B2 82: das Geld IST der Sauerstoff.** Vierundvierzig Zahlungen an eine Adresse in Gangwon-do, ohne Namen, mit seiner Unterschrift |
+| **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
+| **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
+| **Mr Tak** | **Wachmann im Haus in Gangwon-do**, der erste neue in vier Jahren | Seit Ende August dort | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
+| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Ab 1. Oktober in Gwangyang, und im Maerz liest sie Ahn Jung-hee die erste Stunde vor (B2 71)** |
+| **Mr Byun** | **Fuehrte sechsundzwanzig Jahre das Register des Auktionshauses** | *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
+| **Mrs Bae** | **Empfangsdame**, fuehrt das Buchungsbuch mit Bleistift. **Nicht Bae aus Band 1** | Zweiundzwanzig Jahre am Empfang | B2 41 | Gegeben, was sie hatte |
+| **Mr Sohn** | **Koch.** Kocht ohne Schild fuer Stammgaeste | Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
+| **Mrs Gwak** | **Blumenladen in Hyoja-dong** | Fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
+| **Mrs Sunwoo** | **Kaeuferin in dem Auktionshaus**, einundvierzig Jahre. Eine der vier Zeilen | Einundachtzig | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
+| **Mrs Uhm** | **Macht Yeoms Ablage**, seit 2004 |  | B2 17 | Wird von niemandem behelligt werden |
 
 ### Ohne Namen, und das ist Absicht
 
-| Figur | Was | Auftritt |
-|---|---|---|
-| **Der Neffe** | Vierunddreissig, fuehrt die Spedition in Gwangyang, die er geerbt hat, und hat Angst vor dem Hafen. **Fragt Mrs Jeon als erster Mensch seit 1998, was sie denkt** | B2 83, B2 90 |
-| **Der Vertreter** | Etwa fuenfzig, mit Mappe, wickelt fuer die Gegenseite den Hof ab. Nicht Mr Tak und in keiner Akte | B2 86 |
-| **Die Pflegerin** | Fuer einen Tag aus einer Agentur in Chuncheon. Bekam die Adresse und sonst nichts und war sehr gut | B2 89 |
+| Figur | Wer das ist | Was | Auftritt |
+|---|---|---|---|
+| **Der Neffe** | **Fuehrt die geerbte Spedition in Gwangyang** | Vierunddreissig, und hat Angst vor dem Hafen. **Fragt Mrs Jeon als erster Mensch seit 1998, was sie denkt** | B2 83, B2 90 |
+| **Der Vertreter** | **Wickelt fuer die Gegenseite den Hof ab.** Nicht Mr Tak und in keiner Akte | Etwa fuenfzig, mit Mappe | B2 86 |
+| **Die Pflegerin** | **Agenturpflegerin aus Chuncheon**, fuer einen Tag | Bekam die Adresse und sonst nichts und war sehr gut | B2 89 |
 
 **Warum sie keine Namen haben:** in jedem dieser drei Faelle ist die Namenlosigkeit
 die Aussage. Der Neffe ist der Mann, dessen Firma Mrs Jeon rettet, ohne dass ihn
@@ -1808,13 +1808,13 @@ verschwindet, weil sie nichts erfahren durfte.
 
 ### Einmalige, und sie bleiben es
 
-| Figur | Was | Auftritt |
-|---|---|---|
-| **Mr Hong** | Einundsechzig, neunzehn Jahre derselbe Tisch. Traegt die Berater-Legende | B1 7 |
-| **Mrs Ryu** | Das Schiedsverfahren in Singapur. **Nicht Mr Koh** | B1 7 |
-| **Chef Bang Seung-min** | Los neun auf der Benefiz | B1 8 |
-| **Die junge Frau von der Stiftung** | Vierundzwanzig, bleibt namenlos, und das ist Absicht | B1 7 |
-| **Mr Kwon** | Auf der Spur aus Ulsan | B2 - |
+| Figur | Wer das ist | Was | Auftritt |
+|---|---|---|---|
+| **Mr Hong** | **Der Mann, der Georgij im Ballsaal die Leute erklaert** | Einundsechzig, neunzehn Jahre derselbe Tisch. Traegt die Berater-Legende | B1 7 |
+| **Mrs Ryu** | **Die Frau, die in Singapur aus dem Schiedsverfahren gegangen ist.** **Nicht Mr Koh** | Georgij fragt sie, ob die Fassung stimmt, die man sich erzaehlt | B1 7 |
+| **Chef Bang Seung-min** | **Koch.** Los neun auf der Benefizauktion | | B1 8 |
+| **Die junge Frau von der Stiftung** | **Mitarbeiterin einer Stiftung** | Vierundzwanzig, bleibt namenlos, und das ist Absicht | B1 7 |
+| **Mr Kwon** | **Ein Name auf der Spur aus Ulsan** | | B2 - |
 
 ---
 
@@ -16677,17 +16677,47 @@ Sammeldokument. Band 4 steht in `33-plan-band-4.md`, Band 5 in
 
 *Plan. Was Band 2 an Band 3 uebergibt.*
 
-Angelegt am 27.08. beim Umbau der Ablage. Bisher steht hier ein Faden; die
-uebrigen stehen noch verstreut in `31-plan-band-2.md` und gehoeren
-hierher, sobald jemand sie durchgeht.
+Angelegt am 27.08. beim Umbau der Ablage, seither auf zweiundfuenfzig
+Abschnitte gewachsen. **Der Satz *bisher steht hier ein Faden* stand hier bis
+zum 29.08. und war laengst falsch.**
 
-**Bekannt und noch nicht eingetragen:** der Umschlag mit Chairman Woos vier
-Antworten, der beim Anwalt liegt und **am Tag seines Todes** faellig wird
-(b2 K80) - der einzige Faden im Buch mit einem Termin, den niemand
-nachschlagen kann. Und die **achtundfuenfzig Namen** hinten in Georgijs
-Notizbuch (b2 K65), von denen es heisst, das werde Jahre dauern.
+**Noch nicht eingetragen: die achtundfuenfzig Namen** hinten in Georgijs
+Notizbuch, von denen es heisst, das werde Jahre dauern. **Der Umschlag mit
+Woos vier Antworten ist eingetragen** und steht unter *Woos Ende: drei
+Briefe*.
+
+**Vorsicht bei Kapitelnummern in dieser Datei.** `doc/15-kalender.md` meldet
+oben zwei Verschiebungen in Band 2, die nie in die Dokumente nachgezogen
+worden sind. **Wer eine Nummer aus einem Dokument benutzt, schlaegt sie im
+Text nach.**
 
 ---
+
+
+---
+
+## Was in dieser Datei gilt, und wo es steht
+
+**Angelegt am 29.08.** Diese Datei ist in der Reihenfolge gewachsen, in der
+gedacht wurde, und nicht in der Reihenfolge, in der man sie liest. **Acht
+Abschnitte waren ueberholt und stehen jetzt ganz unten unter *Verlauf*.**
+Alles davor gilt.
+
+| Frage | Wo der Stand steht |
+|---|---|
+| **Wer die Gegner sind** | *Gegner 1: ein echter Freund von Choi*, *Der Hanseong-Inhaber: ja, mit einer Korrektur*, und **zuletzt** *Wo der dritte Gegner tatsaechlich liegt: bei lot elf* |
+| **Singapur** | *Singapur: die Tatsachen* und *Und daraus wird trotzdem kein Gegner*. **Kein Gegner, aber Band 5 braucht die Tatsachen** |
+| **Woos zwanzig Prozent** | *Fassung Woo ist entschieden* hier, und die vollstaendige Lage in `doc/14-welt.md` |
+| **Das Erbe** | *Der Umfang des Erbes: entschieden am 29.08.* und *Woo vererbt* |
+| **Die Grabszene** | *Die Grabszene, und sie loest das Singapur-Problem* |
+| **Der Wangenkuss** | *Die Szene: Sang-hoon stellt sie vor die Wahl* (Text) und *Der Wangenkuss steht jetzt in der Sang-hoon-Szene* (Begruendung) |
+| **Das Bandende** | *Das Ende von Band 3, umgestellt am 29.08.* |
+| **Lot elf** | *Los elf kommt in Band 3 zurueck* und die zwei Abschnitte danach |
+| **Der Chaebol-Angriff** | *Der Angriff auf den Chaebol laeuft ueber Anteile und die Boerse*, *Die Hanseong-Gruppe, aufgemacht*, *Shorten* |
+
+**Wo diese Datei und `doc/14-welt.md` dieselbe Sache behandeln, gilt
+`14-welt.md`.** Dort steht die gepruefte Faktenlage; hier steht, was damit in
+Band 3 geschieht.
 
 ## Annies zweites Los ist Los elf, und es gehoert in Band 3
 
@@ -16724,89 +16754,6 @@ beilaeufig widerrufen oder das zweite Los im Vorbeigehen erklaeren. **Er steht
 da, damit er in Band 3 aufgemacht werden kann**, und die einzige Stelle, an der
 er im Buch auftaucht, ist eine Nebenbemerkung ueber eine Zahlung an einen
 Registerfuehrer.
-
-## Singapur ist nie angefasst worden, und das ist kein Versehen mehr
-
-**Vom Autor am 28.08. benannt.** Die Anwaltskette in Singapur laeuft durch
-beide Baende und wird nie geoeffnet.
-
-| Wo | Was dort steht |
-|---|---|
-| `b1 ch13:96` | Ein Fonds, dessen wirtschaftlich Berechtigte in eine Kette von Kanzleien in Singapur laufen **und dort aufhoeren** |
-| `b1 ch13:208` | *"The filings end in Singapore, and behind Singapore there is a company in Hong Kong."* |
-| `b1 ch13:210` | **Chairman Woo reagiert nicht auf Hongkong**, und das ist eine eigene Zeile |
-| `b1 ch19:162` | Woo: zwanzig Prozent des Terminals schuldet er seit dem Baujahr einem Fonds aus derselben Kette |
-| `b2 ch25:152` | Choi ist Direktor einer Private-Equity-Firma in Hongkong **ueber genau diese Kette** |
-| `b2 ch32:374` | Annie sagt zu, in vier Tagen herauszufinden, was er dahinter besitzt |
-| `b2 ch39:254` | Sang-hoon: *"I have not found the Singapore end yet."* |
-
-**Danach kommt das Wort im Buch nicht mehr vor.**
-
-**Warum das als Material taugt und nicht als Loch.** Band 2 nimmt ihm die
-Leute, die Papiere und den Namen. Es nimmt ihm nicht das **Geld**, und der
-Text sagt selbst zweimal, dass niemand weiss, wo es liegt. Das ist der
-einzige Teil des Mannes, den `b2 ch86` nicht aufzaehlen kann - Georgij
-zaehlt dort sieben Dinge auf und Singapur ist bei keinem davon.
-
-**Und es haengt an Woo.** Dieselbe Kette haelt zwanzig Prozent seines
-Terminals, seit dem Jahr, in dem er es gebaut hat. Wer Singapur oeffnet,
-oeffnet nicht nur Choi.
-
-**Die Zusage steht als OFFEN im Schuldbuch**, mit Datum und Frist, damit sie
-nicht als vergessener Faden wiederkommt.
-
-## Drei Gegner greifen Annie an
-
-**Vom Autor am 28.08. festgelegt.** Alle drei haengen an Dingen, die in Band 1
-gebaut und seither nicht angefasst worden sind.
-
-### 1. Hanseong, und der, der nicht verkauft hat
-
-**Vierzweihundert Beschaeftigte** (`b1 ch15:332`; das Kapitel heisst danach).
-Park Sang-hoon hat **vierzig Prozent** gekauft, von **sieben Aktionaeren**, die
-seit Maerz nicht mehr zusammen in einem Raum gesessen hatten (`b1 ch25:304`).
-**Die anderen sechzig Prozent sind nie erzaehlt worden.** Wer sie haelt, hat
-zugesehen, wie eine Frau seine Gruppe aufgeteilt hat, ohne je ein Gebot
-abzugeben: das Gebot kam von Mr Chae, ohne Grund, und es sollte scheitern.
-
-**Und die Zusage dazu ist offen.** `b1 ch15:444`, Annie: *"Four thousand two
-hundred. Do not lose that figure. I am going to ask you for it again when all
-of this is finished."* **Band 3 ist, wo sie fragt.**
-
-### 2. Einer, der unter dem Veto liegt
-
-Das Veto entscheidet, welche Kiste auf welches Schiff geht, wenn ein Schiff voll
-ist, und auf diesen Spuren sind die Schiffe **neun Monate im Jahr voll**
-(`b1 ch19:276`). Wer darunter liegt, steht namentlich da (`b1 ch15:310`):
-
-| | Anteil | Stand |
-|---|---|---|
-| **Kyeongil** | etwa ein Fuenftel einer Spur | genannt, kein Gesicht |
-| **Die Yang-Operation in Ulsan** | mehr als das, **und hat sonst nichts** | genannt, kein Gesicht |
-| zwei kleinere | teilen sich den Rest | **nicht einmal genannt** |
-
-**Die zwei kleineren sind die Luecke, die das Buch selbst gelassen hat**, und
-der beste Platz fuer neue Gesichter: versprochen und nie geliefert.
-
-**Umbenannt am 28.08., und das war eine Entscheidung.** Die Spedition hiess
-bis dahin **Nam** und lag damit auf Nam Byung-hee - beide aus Ulsan, beide auf
-derselben Spur. Fuer Band 3 ist die Spedition ein Gegner, und eine Verwechslung
-haette jede Szene mit ihr belastet, in der sie nicht gemeint ist. Sie heisst
-jetzt **Yang**; der Name kam im ganzen Kanon null mal vor. Geaendert wurde
-genau eine Zeile, `b1 ch15:310`, Kapitel 15 steht auf v2.17.
-
-### 3. Offen, und drei Vorschlaege, die nichts erfinden
-
-* **Die Kims wollen das Veto zurueck.** Sie haben es hergegeben, als der Zoll
-  in ihrem Gebaeude sass (`b1 ch14:112`). Wer es heute anficht, sagt, es sei
-  unter Zwang gegeben worden, und **er haette nicht ganz unrecht.**
-* **Einer der sechshundertvierzig.** Jeder Kaeufer hat einen Katalog in einer
-  Schublade und keine Moeglichkeit, ihn zu beweisen. Einer versucht es trotzdem.
-* **Mr Chae.** `doc/11-figuren.md` fuehrt ihn als *die einzige Figur, die auf
-  Annies Seite steht und trotzdem eine Gefahr ist* - nicht aus Illoyalitaet,
-  sondern aus Kompetenz. Er rechnet zusammen, was ihm nie gesagt wurde.
-
----
 
 ## Der Kosmos ist zu geschlossen, und wo die Tueren stehen
 
@@ -17380,51 +17327,6 @@ Und der Satz dahinter gehoert ihm und nicht ihr: **fuer Annie darf die Welt
 brennen.** Er wird ihn nicht sagen. Er wird es tun, und jemand anders wird
 ihn aussprechen.
 
-## Gegner 3, der Vetobetroffene: offen
-
-Kyeongil oder die Yang-Operation in Ulsan (`b1 ch15:310`), oder einer der
-zwei kleineren, die das Buch versprochen und nie geliefert hat.
-
-## Das Koerperliche zwischen den beiden, und wo ein Wangenkuss saesse
-
-**Vom Autor gefragt, hier am Text nachgezaehlt.** Die Steigerung laeuft ueber
-beide Baende, sie geht **immer von ihr aus**, und **niemand bemerkt sie je
-mit einem Wort.**
-
-| Tag | Was | Wo |
-|---|---|---|
-| 87 | *He turned his head into her hand and shut his eyes.* | `b1 ch33:406` |
-| 149 | *Annie's hand came down on the back of his head and stayed there.* | `b1 ch34:516` |
-| 164 | *she put her hand along the side of his face, cool from the room, the heel of it just under the bone* | `b2 ch06:350` |
-| 206 | die Hand flach an der Halsseite, ueber dem Halsband | `b2 ch17:214` |
-| ab 168 | die Hand ins Haar, und es wird das feste Zeichen | `b2 ch09`, `19`, `25`, `28`, `32`, `52`, `54`, `66`, `89` |
-| 590 | *She took her hand off the arm of the chair and held it out to him.* | `b2 ch89:290` |
-
-**Das Buch endet damit, dass sie ihm die Hand hinhaelt.** Ein Kuss waere der
-erste Schritt daran vorbei, und er waere folgerichtig - aber nur, wenn er die
-drei Regeln der Reihe einhaelt: **von ihr**, **ohne Ankuendigung**, und **ohne
-dass irgendjemand danach ein Wort darueber verliert.** Wer ihn kommentieren
-laesst, macht aus einer Steigerung ein Ereignis, und dann ist die ganze Reihe
-davor umsonst gewesen.
-
-**ENTSCHIEDEN AM 28.08., und dieser Abschnitt ist damit ueberholt.** Es sind
-**zwei** Kuesse und nicht einer, an zwei verschiedenen Stellen:
-
-| | Wo | Was |
-|---|---|---|
-| **auf die Wange** | in der Sang-hoon-Szene, **Mitte des Bandes** | hebt die Anrede *Mistress* auf |
-| **der Kuss** | **vor Woos Tod, nach dem Fall von Hanseong** (umgestellt am 29.08.) | er besitzt dabei noch nichts |
-| **die Hand, oeffentlich** | **auf der Beisetzung, Bandende** | die letzte Zeile des Bandes |
-
-**Ausgefuehrt weiter unten** unter *Das Ende von Band 3* und *Der Wangenkuss
-steht jetzt in der Sang-hoon-Szene*, und festgeschrieben in
-`doc/10-naehe.md`.
-
-**Was ausserhalb bleibt, bleibt ausserhalb** (`CLAUDE.md`): was zwischen den
-beiden geschieht, endet an der Tuer. Eine Wange ist diesseits davon.
-
----
-
 ## Karte oder Telefon: das Buch hat es entschieden
 
 **Vom Autor gefragt am 28.08.** `b2 ch23:176`, Mr Yeom, nachdem er in diesem
@@ -17962,30 +17864,6 @@ und auf einem Blatt in dieser Sache steht sein eigener Name.
 
 ---
 
-## Der dritte Gegner ist, wer am Ende der Kette in Singapur sitzt
-
-**Vom Autor am 28.08. vorgeschlagen, und es ist besser als der Vetobetroffene.**
-
-**Warum:**
-
-* **Es ist der einzige Faden, den zwei Baende nie geoeffnet haben**, und der
-  Text sagt selbst, dass er nicht geoeffnet ist (`b2 ch39:254`: *I have not
-  found the Singapore end yet*).
-* **Die Kette bedient mehr als einen Mann.** Sie haelt zwanzig Prozent von
-  Woos Terminal seit dem Baujahr (`b1 ch19:162`), und Chois
-  Private-Equity-Firma in Hongkong laeuft durch sie (`b2 ch25:152`). Wer die
-  schwarzen Kassen des Hanseong-Inhabers aufmacht, kommt an derselben Stelle
-  heraus.
-* **Er kommt im ganzen Buch nicht vor.** Kein Gesicht, kein Name, keine
-  Nennung - das ist genau das ganz neue Gesicht, das gesucht wurde, und es
-  wird seit Band 1 vorbereitet, ohne dass es jemand gemerkt hat.
-* **Und er ist der einzige, der Georgij und Choi zugleich erklaert.** Choi war
-  ein Mann, der fuer andere handelte. Die Frage, fuer wen, ist nie gestellt
-  worden.
-
-**Der Vetobetroffene bleibt trotzdem brauchbar** - als Vierter, oder als der,
-den der Dritte vorschickt. Kyeongil, die Yang-Operation, die zwei ungenannten.
-
 ## Die tote Bank ist nicht Hanseong Credit
 
 **Vom Autor gefragt am 28.08.** Nein, und der Unterschied traegt die ganze
@@ -18206,48 +18084,6 @@ an verschiedenen Enden. **Deshalb gewinnt in dem Zimmer niemand, und deshalb
 geht der Mann, der nichts besitzt, als einziger unbeschaedigt hinaus.**
 
 ---
-
-## Es gibt keinen Streit mit Singapur, und der Autor hat recht damit
-
-**Am 28.08. eingewandt:** bewusster Kollateralschaden ist ein Loch.
-
-**Die Kette ist keine Gegenpartei, sie ist Installation.** Anwaltskanzleien in
-Singapur, die wirtschaftliches Eigentum fuer **Mandanten** halten. Das Buch
-nennt zwei davon, und sie haben nichts miteinander zu tun:
-
-* **der Fonds, ohne den Woo sein Terminal nicht haette bauen koennen** -
-  zwanzig Prozent, seit dem Baujahr geschuldet (`b1 ch19:162`);
-* **Chois Private-Equity-Firma in Hongkong** (`b2 ch25:152`).
-
-**Ein Land oder eine Kanzleikette als Gegner waere schwach und moralisch
-schlampig.** Der dritte Gegner muss ein **Mandant** sein.
-
-### Und der Kollateralschaden ist kein Loch, sondern der Preis
-
-**Wer die schwarzen Kassen des Hanseong-Inhabers aufmacht, macht die Kette
-auf. Wer die Kette aufmacht, legt Woos zwanzig Prozent frei.**
-
-Das trifft den einzigen Mann im Buch, der Georgij ohne Gegenleistung etwas
-gegeben hat, der ihm vier Antworten versiegelt hinterlegt und der in
-`b2 ch87:176` sagt, er habe es in fuenfzig Jahren nie gesehen und wolle es
-einmal laut gesagt haben.
-
-**Das ist keine Nachlaessigkeit im Plan. Das ist die Entscheidung, die Band 3
-zu treffen hat**, und sie gehoert in eine Szene und nicht in eine Fussnote.
-
-### Der bessere dritte Gegner
-
-**Nicht wer am Ende der Kette sitzt, sondern wer daneben liegt.**
-
-Ein Mann, dessen Geld in denselben Zwischengesellschaften steht, **der nie
-Ziel war und nie etwas getan hat** - und den Georgij aufreisst, weil er
-danebengegriffen hat. **Er wird zum Feind, weil er beschaedigt wurde, und aus
-keinem anderen Grund.**
-
-**Damit ist das Unbehagen des Autors nicht wegargumentiert, sondern zum Thema
-gemacht.** Drei Baende lang trifft Georgij genau, wen er treffen will. Der
-dritte Gegner ist der erste, den er **nicht gemeint hat** - und der einzige,
-dem er nichts vorzuwerfen hat.
 
 ## Woos Frau stirbt im Buch, und das Buch zeigt es nicht
 
@@ -19805,270 +19641,6 @@ ist der Grund, warum Shipping heute laeuft.
 Existiert, wird **nicht** gekauft, ist eine der Verlusteinheiten beim Erben,
 und ist der Grund, warum Annies Veto ueberhaupt greift.
 
-## Der dritte Gegner: nicht die Kette in Singapur
-
-**Vom Autor am 29.08. gefragt.** Nein, und aus drei Gruenden.
-
-**1. Eine Kanzleikette hat kein Gesicht.** Jeder Gegner dieses Buches ist ein
-Mensch mit einem eigenen Grund - Choi, Sang-hoon, Nam, der Erbe. **Eine
-Struktur kann man aufmachen, aber nicht schlagen**, und der Leser kann ihr
-nichts uebelnehmen.
-
-**2. Und ich habe den Autor falsch wiedergegeben.** Er hat den Streit mit
-Singapur **nicht** zurueckgewiesen. Er hat einen **Grund** dafuer verlangt.
-**Sinnloser Streit wird abgelehnt, nicht der Streit.**
-
-**Den Grund gibt es, und er steht schon aufgebaut:**
-
-**Die Kette ist das, was den Handel unangreifbar macht.** Jedes Haus, jeder
-Kaeufer, jeder Fonds, dem ein Stueck davon gehoert, sitzt hinter diesen
-Kanzleien. **Wer den Handel zerlegen will, steht irgendwann vor der Wand, und
-die Wand ist ihr ganzer Geschaeftszweck.**
-
-**Und Georgij hat sie in Band 3 bereits angefasst.** Um Woos zwanzig Prozent
-unerreichbar zu machen, musste er hineinsehen. **Wer in so eine Kette
-hineingesehen hat, ist dort bekannt.** Der Streit faengt nicht damit an, dass
-er sie angreift, sondern damit, **dass sie gemerkt haben, dass jemand
-nachgesehen hat.**
-
-**Das ist ein Grund und kein Vorwand**, und er kostet keine neue Erfindung.
-
-**3. Und es fehlt eine dritte Sorte.** Der Freund von Choi ist **Trauer**. Der
-Erbe ist **Stand**. Der dritte darf nicht wieder Geld sein.
-
-### Der Vorschlag, und meine erste Fassung davon war unbrauchbar
-
-**Am 29.08. zu Recht bemaengelt: ich hatte einen Mann beschrieben, der nichts
-kann.** Ein Geschaedigter ohne Macht ist keine Gegenfigur, sondern eine
-Wunde. **Hier die Fassung, in der er tatsaechlich gefaehrlich ist.**
-
-### Wer er ist
-
-**Ein Mann, der etwas Wirkliches gefuehrt hat** - eine mittelgrosse Firma mit
-Namen, Beschaeftigten und einer Bilanz. **Das Geld seines Betriebs lag in
-einer der Zwischengesellschaften**, weil seine Bank es dort hingelegt hat,
-und nicht, weil er irgendetwas gewusst haette.
-
-**Georgij macht die Kette auf, und der Betrieb ist weg.** Leute verlieren
-ihre Stellen. Es steht in der Zeitung. **Er hat nichts getan.**
-
-### Warum er gefaehrlich ist, und es ist eine einzige Sache
-
-**Er ist glaubwuerdig.**
-
-**Jeder, den Georgij bisher zerlegt hat, war schmutzig.** Choi, Nam, die
-fuenf Verlader, Byun, der Erbe. **Was ein solcher Mann ueber ihn sagt, ist
-nichts wert, und genau darauf beruht Georgijs ganze Sicherheit.**
-
-**Dieser hier ist sauber.** Kein Motiv zu luegen, keine eigene Akte, nichts,
-womit man ihn erklaeren koennte. **Was er sagt, wird geglaubt.**
-
-**Und er sagt es den Staatsanwaelten, die Georgij sich zwei Baende lang
-aufgebaut hat.** Das ist die Pointe: **die einzige Waffe im Land, die gegen
-diesen Mann funktioniert, ist ein ehrlicher Zeuge** - und Georgij hat ihn
-selbst hergestellt.
-
-### Und Georgijs Verfahren greift zum ersten Mal ins Leere
-
-**Seine Arbeit besteht darin herauszufinden, was ein Mann getan hat.** Bei
-diesem gibt es nichts zu finden. **Er ist der einzige Mensch im Buch, den man
-nicht recherchieren kann**, und damit auch der einzige, den man nicht
-zerstoeren kann, ohne selbst das zu werden, wogegen man antritt.
-
-**Er ist genau die Sorte Mensch, die Georgij sonst rettet:** die elf aus dem
-Auktionshaus, Mrs Jeon, die viertausendzweihundert. **Er ist die
-Verlustseite der eigenen Rechnung, mit einem Gesicht.**
-
-### Also ist die Aufloesung keine Zerstoerung
-
-**Wiedergutmachen oder zugeben** - und Georgij hat ausserhalb dieses Hauses
-noch nie etwas zugegeben.
-
-**Und der Einwand des Autors gegen sinnlosen Schaden ist damit nicht
-umgangen, sondern zum Gegenstand gemacht:** es ist kein bewusster Schaden.
-**Es ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht, und
-der einzige, den er nicht mit Papier reparieren kann.
-
----
-
-## Der dritte Gegner, und die Antwort ist eine Zusammenlegung
-
-**Zwei Anlaeufe sind am 29.08. zu Recht abgelehnt worden**, die Kanzleikette
-und der beschaedigte Unbeteiligte. **Der dritte Anlauf war schlimmer als
-beide**, weil er auf einem Sachfehler stand.
-
-### Zuerst der Fehler, weil alles Weitere daran haengt
-
-**Ich hatte geschrieben: *Annies Vater war Staatsanwalt und wurde 2002 aus dem
-Dienst entfernt.* Das ist falsch.** `b2 ch84:192` liest sich andersherum, und
-die Nebensaetze haengen an dem **anderen** Mann:
-
-> *A prosecutor of thirty-six who was got out of a service in 2002 **by a man
-> who could not read a contract**, and whose photographs are in the dining
-> room, and who is her father.*
-
-**Der Mann, der nicht lesen konnte, ist ihr Vater. Er ist derjenige, der den
-Staatsanwalt herausgeholt hat.**
-
-### Und der Staatsanwalt von sechsunddreissig ist Choi Dae-ho
-
-**Das steht woertlich im Buch und ich hatte es nicht zusammengesetzt.**
-
-`b2 ch77:66`, Chairman Woo:
-
-> *"The file on my company was closed on the eleventh of April in two thousand
-> and two. There is no reason recorded and there was never going to be one."*
-> Woo did not move his hands. *"**Choi Dae-ho resigned from that service eleven
-> days later**."*
-
-`b2 ch77:90`, derselbe Mann, vier Repliken spaeter:
-
-> *"You do not get a man like that out of a service by offering him money. He
-> will not take it and he will remember that you asked. **You get him out by
-> giving him one thing to do that he cannot undo**, and then he leaves on his
-> own and he never once says why."*
-
-`b2 ch77:94`:
-
-> *"He closed my case. He had it. He would have had a third of what was coming
-> and he had earned it... And on the day he did it he stopped being a man with
-> a career and became **a man with a marker**... Eleven days later he was
-> standing in somebody's house in a good coat with nothing at all to sell."*
-
-`b2 ch82:134`, Annie, die es selbst ausspricht:
-
-> *"Two thousand and two. A prosecutor of thirty-six who closed your case.
-> Eleven days later in a good coat with nothing to sell. **My father at a
-> lunch, saying he had found somebody who could do it in one**."*
-
-**Damit steht folgendes fest und ist nicht mehr verhandelbar:**
-
-* **Choi war ein guter Staatsanwalt.** Sechsunddreissig, hatte den Fall
-  gewonnen, haette in neun Jahren oben gestanden.
-* **Annies Vater hat ihn kaputtgemacht**, indem er ihm eine Sache zu tun gab,
-  die er nicht rueckgaengig machen konnte.
-* **Choi ist nicht schlecht geboren worden. Dieses Haus hat ihn hergestellt.**
-* **Und vierundzwanzig Jahre spaeter hat der Mann dieses Hauses ihn
-  auseinandergenommen, und drei Wochen danach war er tot** (achtzehnter Maerz
-  bis achter April, einundzwanzig Tage).
-
-### Also gibt es keinen dritten Gegner, sondern einen richtigen ersten
-
-**Gegner 1 war schon der amtierende Oberstaatsanwalt, Chois Freund** - und
-meine dritte Erfindung war noch ein Staatsanwalt daneben. **Zwei
-Staatsanwaelte sind einer zu viel.** Sie werden derselbe Mann, und er
-bekommt das, was ihm gefehlt hat: **einen Grund, der nicht Trauer heisst.**
-
-**Er hasst ihn, und der Hass ist begruendet**, und das ist etwas anderes als
-ein Freund, der traurig ist.
-
-### Die Anklage, und Georgij hat darauf keine Antwort
-
-**Sie lautet nicht *du hast ihn getoetet*.** Das waere leicht, denn es ist
-nicht wahr, und Georgij kann es wahrheitsgemaess bestreiten.
-
-**Sie lautet: dieses Haus hat ihn gemacht, und dieses Haus hat ihn wieder
-weggeraeumt, und du bist der Zweite.**
-
-**Entwurf, damit die Achse steht:**
-
-"I am not accusing you of killing him. You would enjoy that, because you could answer it."
-
-"Then say the other one."
-
-"A man in that house bought him at thirty-six. A man in that house finished him at fifty-nine." He did not raise his voice anywhere in it. "He spent twenty-four years being what one afternoon in April made him. You have had two."
-
-Georgij did not move from where he was standing.
-
-"I am not interested in what you have done. I have read all of it and none of it is a crime." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at fifty-nine."
-
-**Das ist der Satz, den er nicht beantworten kann**, weil er ueber die Zukunft
-geht und er ueber die Zukunft keine Belege hat. **Und weil er nie etwas
-Unwahres sagt, kann er nicht einmal behaupten, dass es nicht so kommen wird.**
-
-### Und der Schlussstein ist, dass er es selbst schon gesagt hat
-
-**Das ist der Fund, der die ganze Anklage traegt.** `b2 ch58:170`, und es ist
-**Georgij**, der spricht:
-
-> *"Somebody gets made by being handed a good reason at the wrong moment,"
-> said Georgij. "**Choi did it to a man who telephones about drainpipes for
-> eleven years.** I did it to a man at a wall in April with four minutes and a
-> piece of paper, and he has thought about it every week since and told me so.
-> I did a version of it to eleven people between March and August and **wrote
-> down at the time that I could not tell whether the difference was one of
-> kind**."*
-
-**Er hat die Anklage vor einem Band gegen sich selbst erhoben, laut, in einem
-Nebensatz, und aufgeschrieben.** Der Staatsanwalt sagt in Band 3 nichts, was
-neu waere. **Er sagt dem Mann seinen eigenen Satz zurueck.**
-
-**Und die Kette steht damit dreigliedrig im Buch und ist nicht erfunden:**
-
-* **Annies Vater macht Choi**, 2002, mit einer Sache, die er nicht
-  rueckgaengig machen kann (`b2 ch77:66/90/94`).
-* **Choi macht Sim**, auf dieselbe Weise (`b2 ch58:170`).
-* **Georgij macht elf Leute zwischen Maerz und August** und schreibt auf, dass
-  er den Unterschied nicht benennen kann (`b2 ch58:170`).
-
-**Der Gegner muss also nichts beweisen. Er muss vorlesen.**
-
-### Und damit haengt der Faden ueber drei Baende
-
-* **Band 3:** ein Fremder sagt ihm, dass er Choi wird.
-* **Band 5:** er sagt es selbst, nach der Exekution: *"I never wanted to
-  become this."*
-* **Band 5, zwei Zeilen spaeter:** sie beantwortet es. *"This shows you never
-  became it."*
-
-**Die Anklage aus Band 3 wird in Band 5 von Annie widerlegt, und zwar nicht
-mit einem Argument, sondern mit einem Befund.** Wer das aufmacht, muss es
-zumachen, und die Zange steht bereits.
-
-### Warum wir Streit haben, in drei Punkten, und keiner ist vermeidbar
-
-**1. Er will nichts.** Nicht kaufbar, nicht erpressbar, nicht blossstellbar,
-**weil er nichts getan hat** - und jeder Versuch waere selbst die Straftat,
-die er sucht.
-
-**2. Georgijs einzige Waffe ist auf ihn nicht anwendbar.** Sein Verfahren
-besteht seit zwei Baenden darin, **Staatsanwaelten wahre Sachen zu geben.**
-Dieser Mann hat sie bekommen. **Und jetzt liest er sie rueckwaerts:** zwei
-Jahre lang praezise, anonyme, zutreffende Zulieferungen, und am Ende jeder
-Linie steht jemand, der derselben Frau in die Quere gekommen ist. **Das ist
-keine Straftat. Das ist ein Muster** - und mit Mustern arbeitet dieser Beruf.
-
-**3. Und die Akte handelt nicht von Georgij.** Er besitzt nichts, heisst
-nichts, unterschreibt nichts; **es gibt nichts, womit man ihn belangen
-koennte, und das war zwei Baende lang seine Sicherheit.** Sie besitzt alles.
-
-**Die Waffe, die er gebaut hat, zeigt jetzt auf die Person, fuer die er sie
-gebaut hat. Das ist der Streit, und er ist selbst verschuldet.**
-
-### Und deshalb kann die Aufloesung keine Zerstoerung sein
-
-**Einen ehrlichen Staatsanwalt zu vernichten ist genau die Handlung, die den
-Vorwurf beweist.** Wer das tut, ist mit sechsundfuenfzig, was Choi mit
-neunundfuenfzig war.
-
-**Also bleibt nur das, was er ausserhalb dieses Hauses noch nie getan hat:
-etwas ueber sich selbst sagen, laut, zu jemandem, der es benutzen kann.**
-Regel 3 sagt, dass er ueber sich keine Zahlen nennt. **Der Preis dieses
-Bandes ist, dass er es einmal tut.**
-
-### Was damit wegfaellt
-
-**Der beschaedigte Unbeteiligte ist gestrichen**, auch als Zeuge. Er war meine
-Erfindung, er war nie freigegeben, und der neue Grund braucht ihn nicht.
-
-### Was das mit Singapur macht
-
-**Die Kette bleibt Installation und wird kein Gegner.** Sie ist die Wand, vor
-der Band 5 steht, wenn der Handel zerlegt wird - **ein Hindernis mit einem
-Geschaeftszweck, kein Mensch mit einem Groll.**
-
----
-
 ## Singapur: die Tatsachen, und warum es KEIN Gegner ist
 
 **Nam Byung-hee ist am 29.08. abgelehnt worden: *schwach, kein Gegner*.**
@@ -20305,6 +19877,512 @@ anders ausgegangen ist als bei den anderen.**
   das erste Blut in Band 3 und nicht in Band 5.
 * **Wofuer der Junge ausgebildet wurde.** Das entscheidet, wie schlimm der
   Mann ist, und es ist die einzige Stelle, an der etwas erfunden werden muss.
+
+---
+
+# Verlauf: ueberholte Fassungen
+
+**Am 29.08. hierher verschoben.** Diese Abschnitte standen im Text und
+waren nicht mehr gueltig. **Sie bleiben vollstaendig stehen**, weil sie
+zeigen, welche Wege schon gegangen worden sind - aber sie stehen unten
+und nicht mitten im Plan, wo sie beim Lesen als Stand gelesen wurden.
+
+---
+
+**UEBERHOLT.** Die geprueften Tatsachen stehen jetzt unter *Singapur: die Tatsachen, und warum es KEIN Gegner ist*.
+
+## Singapur ist nie angefasst worden, und das ist kein Versehen mehr
+
+**Vom Autor am 28.08. benannt.** Die Anwaltskette in Singapur laeuft durch
+beide Baende und wird nie geoeffnet.
+
+| Wo | Was dort steht |
+|---|---|
+| `b1 ch13:96` | Ein Fonds, dessen wirtschaftlich Berechtigte in eine Kette von Kanzleien in Singapur laufen **und dort aufhoeren** |
+| `b1 ch13:208` | *"The filings end in Singapore, and behind Singapore there is a company in Hong Kong."* |
+| `b1 ch13:210` | **Chairman Woo reagiert nicht auf Hongkong**, und das ist eine eigene Zeile |
+| `b1 ch19:162` | Woo: zwanzig Prozent des Terminals schuldet er seit dem Baujahr einem Fonds aus derselben Kette |
+| `b2 ch25:152` | Choi ist Direktor einer Private-Equity-Firma in Hongkong **ueber genau diese Kette** |
+| `b2 ch32:374` | Annie sagt zu, in vier Tagen herauszufinden, was er dahinter besitzt |
+| `b2 ch39:254` | Sang-hoon: *"I have not found the Singapore end yet."* |
+
+**Danach kommt das Wort im Buch nicht mehr vor.**
+
+**Warum das als Material taugt und nicht als Loch.** Band 2 nimmt ihm die
+Leute, die Papiere und den Namen. Es nimmt ihm nicht das **Geld**, und der
+Text sagt selbst zweimal, dass niemand weiss, wo es liegt. Das ist der
+einzige Teil des Mannes, den `b2 ch86` nicht aufzaehlen kann - Georgij
+zaehlt dort sieben Dinge auf und Singapur ist bei keinem davon.
+
+**Und es haengt an Woo.** Dieselbe Kette haelt zwanzig Prozent seines
+Terminals, seit dem Jahr, in dem er es gebaut hat. Wer Singapur oeffnet,
+oeffnet nicht nur Choi.
+
+**Die Zusage steht als OFFEN im Schuldbuch**, mit Datum und Frist, damit sie
+nicht als vergessener Faden wiederkommt.
+
+
+---
+
+**UEBERHOLT.** Die Aufstellung hat sich zweimal geaendert. Stand: *Wo der dritte Gegner tatsaechlich liegt*.
+
+## Drei Gegner greifen Annie an
+
+**Vom Autor am 28.08. festgelegt.** Alle drei haengen an Dingen, die in Band 1
+gebaut und seither nicht angefasst worden sind.
+
+### 1. Hanseong, und der, der nicht verkauft hat
+
+**Vierzweihundert Beschaeftigte** (`b1 ch15:332`; das Kapitel heisst danach).
+Park Sang-hoon hat **vierzig Prozent** gekauft, von **sieben Aktionaeren**, die
+seit Maerz nicht mehr zusammen in einem Raum gesessen hatten (`b1 ch25:304`).
+**Die anderen sechzig Prozent sind nie erzaehlt worden.** Wer sie haelt, hat
+zugesehen, wie eine Frau seine Gruppe aufgeteilt hat, ohne je ein Gebot
+abzugeben: das Gebot kam von Mr Chae, ohne Grund, und es sollte scheitern.
+
+**Und die Zusage dazu ist offen.** `b1 ch15:444`, Annie: *"Four thousand two
+hundred. Do not lose that figure. I am going to ask you for it again when all
+of this is finished."* **Band 3 ist, wo sie fragt.**
+
+### 2. Einer, der unter dem Veto liegt
+
+Das Veto entscheidet, welche Kiste auf welches Schiff geht, wenn ein Schiff voll
+ist, und auf diesen Spuren sind die Schiffe **neun Monate im Jahr voll**
+(`b1 ch19:276`). Wer darunter liegt, steht namentlich da (`b1 ch15:310`):
+
+| | Anteil | Stand |
+|---|---|---|
+| **Kyeongil** | etwa ein Fuenftel einer Spur | genannt, kein Gesicht |
+| **Die Yang-Operation in Ulsan** | mehr als das, **und hat sonst nichts** | genannt, kein Gesicht |
+| zwei kleinere | teilen sich den Rest | **nicht einmal genannt** |
+
+**Die zwei kleineren sind die Luecke, die das Buch selbst gelassen hat**, und
+der beste Platz fuer neue Gesichter: versprochen und nie geliefert.
+
+**Umbenannt am 28.08., und das war eine Entscheidung.** Die Spedition hiess
+bis dahin **Nam** und lag damit auf Nam Byung-hee - beide aus Ulsan, beide auf
+derselben Spur. Fuer Band 3 ist die Spedition ein Gegner, und eine Verwechslung
+haette jede Szene mit ihr belastet, in der sie nicht gemeint ist. Sie heisst
+jetzt **Yang**; der Name kam im ganzen Kanon null mal vor. Geaendert wurde
+genau eine Zeile, `b1 ch15:310`, Kapitel 15 steht auf v2.17.
+
+### 3. Offen, und drei Vorschlaege, die nichts erfinden
+
+* **Die Kims wollen das Veto zurueck.** Sie haben es hergegeben, als der Zoll
+  in ihrem Gebaeude sass (`b1 ch14:112`). Wer es heute anficht, sagt, es sei
+  unter Zwang gegeben worden, und **er haette nicht ganz unrecht.**
+* **Einer der sechshundertvierzig.** Jeder Kaeufer hat einen Katalog in einer
+  Schublade und keine Moeglichkeit, ihn zu beweisen. Einer versucht es trotzdem.
+* **Mr Chae.** `doc/11-figuren.md` fuehrt ihn als *die einzige Figur, die auf
+  Annies Seite steht und trotzdem eine Gefahr ist* - nicht aus Illoyalitaet,
+  sondern aus Kompetenz. Er rechnet zusammen, was ihm nie gesagt wurde.
+
+---
+
+
+---
+
+**UEBERHOLT.** Der Platz ist inzwischen dreimal anders besetzt worden und steht am Ende dieser Datei.
+
+## Gegner 3, der Vetobetroffene: offen
+
+Kyeongil oder die Yang-Operation in Ulsan (`b1 ch15:310`), oder einer der
+zwei kleineren, die das Buch versprochen und nie geliefert hat.
+
+
+---
+
+**UEBERHOLT.** Ersetzt durch *Der Wangenkuss steht jetzt in der Sang-hoon-Szene* und *Das Ende von Band 3, umgestellt am 29.08.*
+
+## Das Koerperliche zwischen den beiden, und wo ein Wangenkuss saesse
+
+**Vom Autor gefragt, hier am Text nachgezaehlt.** Die Steigerung laeuft ueber
+beide Baende, sie geht **immer von ihr aus**, und **niemand bemerkt sie je
+mit einem Wort.**
+
+| Tag | Was | Wo |
+|---|---|---|
+| 87 | *He turned his head into her hand and shut his eyes.* | `b1 ch33:406` |
+| 149 | *Annie's hand came down on the back of his head and stayed there.* | `b1 ch34:516` |
+| 164 | *she put her hand along the side of his face, cool from the room, the heel of it just under the bone* | `b2 ch06:350` |
+| 206 | die Hand flach an der Halsseite, ueber dem Halsband | `b2 ch17:214` |
+| ab 168 | die Hand ins Haar, und es wird das feste Zeichen | `b2 ch09`, `19`, `25`, `28`, `32`, `52`, `54`, `66`, `89` |
+| 590 | *She took her hand off the arm of the chair and held it out to him.* | `b2 ch89:290` |
+
+**Das Buch endet damit, dass sie ihm die Hand hinhaelt.** Ein Kuss waere der
+erste Schritt daran vorbei, und er waere folgerichtig - aber nur, wenn er die
+drei Regeln der Reihe einhaelt: **von ihr**, **ohne Ankuendigung**, und **ohne
+dass irgendjemand danach ein Wort darueber verliert.** Wer ihn kommentieren
+laesst, macht aus einer Steigerung ein Ereignis, und dann ist die ganze Reihe
+davor umsonst gewesen.
+
+**ENTSCHIEDEN AM 28.08., und dieser Abschnitt ist damit ueberholt.** Es sind
+**zwei** Kuesse und nicht einer, an zwei verschiedenen Stellen:
+
+| | Wo | Was |
+|---|---|---|
+| **auf die Wange** | in der Sang-hoon-Szene, **Mitte des Bandes** | hebt die Anrede *Mistress* auf |
+| **der Kuss** | **vor Woos Tod, nach dem Fall von Hanseong** (umgestellt am 29.08.) | er besitzt dabei noch nichts |
+| **die Hand, oeffentlich** | **auf der Beisetzung, Bandende** | die letzte Zeile des Bandes |
+
+**Ausgefuehrt weiter unten** unter *Das Ende von Band 3* und *Der Wangenkuss
+steht jetzt in der Sang-hoon-Szene*, und festgeschrieben in
+`doc/10-naehe.md`.
+
+**Was ausserhalb bleibt, bleibt ausserhalb** (`CLAUDE.md`): was zwischen den
+beiden geschieht, endet an der Tuer. Eine Wange ist diesseits davon.
+
+---
+
+
+---
+
+**UEBERHOLT.** Am 29.08. verworfen: die Kette erzeugt keinen Streit.
+
+## Der dritte Gegner ist, wer am Ende der Kette in Singapur sitzt
+
+**Vom Autor am 28.08. vorgeschlagen, und es ist besser als der Vetobetroffene.**
+
+**Warum:**
+
+* **Es ist der einzige Faden, den zwei Baende nie geoeffnet haben**, und der
+  Text sagt selbst, dass er nicht geoeffnet ist (`b2 ch39:254`: *I have not
+  found the Singapore end yet*).
+* **Die Kette bedient mehr als einen Mann.** Sie haelt zwanzig Prozent von
+  Woos Terminal seit dem Baujahr (`b1 ch19:162`), und Chois
+  Private-Equity-Firma in Hongkong laeuft durch sie (`b2 ch25:152`). Wer die
+  schwarzen Kassen des Hanseong-Inhabers aufmacht, kommt an derselben Stelle
+  heraus.
+* **Er kommt im ganzen Buch nicht vor.** Kein Gesicht, kein Name, keine
+  Nennung - das ist genau das ganz neue Gesicht, das gesucht wurde, und es
+  wird seit Band 1 vorbereitet, ohne dass es jemand gemerkt hat.
+* **Und er ist der einzige, der Georgij und Choi zugleich erklaert.** Choi war
+  ein Mann, der fuer andere handelte. Die Frage, fuer wen, ist nie gestellt
+  worden.
+
+**Der Vetobetroffene bleibt trotzdem brauchbar** - als Vierter, oder als der,
+den der Dritte vorschickt. Kyeongil, die Yang-Operation, die zwei ungenannten.
+
+
+---
+
+**UEBERHOLT.** Doppelt falsch. Der Autor hatte den Streit nicht zurueckgewiesen, sondern einen Grund verlangt - und der Grund hat sich dann als nicht vorhanden herausgestellt.
+
+## Es gibt keinen Streit mit Singapur, und der Autor hat recht damit
+
+**Am 28.08. eingewandt:** bewusster Kollateralschaden ist ein Loch.
+
+**Die Kette ist keine Gegenpartei, sie ist Installation.** Anwaltskanzleien in
+Singapur, die wirtschaftliches Eigentum fuer **Mandanten** halten. Das Buch
+nennt zwei davon, und sie haben nichts miteinander zu tun:
+
+* **der Fonds, ohne den Woo sein Terminal nicht haette bauen koennen** -
+  zwanzig Prozent, seit dem Baujahr geschuldet (`b1 ch19:162`);
+* **Chois Private-Equity-Firma in Hongkong** (`b2 ch25:152`).
+
+**Ein Land oder eine Kanzleikette als Gegner waere schwach und moralisch
+schlampig.** Der dritte Gegner muss ein **Mandant** sein.
+
+### Und der Kollateralschaden ist kein Loch, sondern der Preis
+
+**Wer die schwarzen Kassen des Hanseong-Inhabers aufmacht, macht die Kette
+auf. Wer die Kette aufmacht, legt Woos zwanzig Prozent frei.**
+
+Das trifft den einzigen Mann im Buch, der Georgij ohne Gegenleistung etwas
+gegeben hat, der ihm vier Antworten versiegelt hinterlegt und der in
+`b2 ch87:176` sagt, er habe es in fuenfzig Jahren nie gesehen und wolle es
+einmal laut gesagt haben.
+
+**Das ist keine Nachlaessigkeit im Plan. Das ist die Entscheidung, die Band 3
+zu treffen hat**, und sie gehoert in eine Szene und nicht in eine Fussnote.
+
+### Der bessere dritte Gegner
+
+**Nicht wer am Ende der Kette sitzt, sondern wer daneben liegt.**
+
+Ein Mann, dessen Geld in denselben Zwischengesellschaften steht, **der nie
+Ziel war und nie etwas getan hat** - und den Georgij aufreisst, weil er
+danebengegriffen hat. **Er wird zum Feind, weil er beschaedigt wurde, und aus
+keinem anderen Grund.**
+
+**Damit ist das Unbehagen des Autors nicht wegargumentiert, sondern zum Thema
+gemacht.** Drei Baende lang trifft Georgij genau, wen er treffen will. Der
+dritte Gegner ist der erste, den er **nicht gemeint hat** - und der einzige,
+dem er nichts vorzuwerfen hat.
+
+
+---
+
+**UEBERHOLT.** Der Ersatzvorschlag darin ist ebenfalls verworfen.
+
+## Der dritte Gegner: nicht die Kette in Singapur
+
+**Vom Autor am 29.08. gefragt.** Nein, und aus drei Gruenden.
+
+**1. Eine Kanzleikette hat kein Gesicht.** Jeder Gegner dieses Buches ist ein
+Mensch mit einem eigenen Grund - Choi, Sang-hoon, Nam, der Erbe. **Eine
+Struktur kann man aufmachen, aber nicht schlagen**, und der Leser kann ihr
+nichts uebelnehmen.
+
+**2. Und ich habe den Autor falsch wiedergegeben.** Er hat den Streit mit
+Singapur **nicht** zurueckgewiesen. Er hat einen **Grund** dafuer verlangt.
+**Sinnloser Streit wird abgelehnt, nicht der Streit.**
+
+**Den Grund gibt es, und er steht schon aufgebaut:**
+
+**Die Kette ist das, was den Handel unangreifbar macht.** Jedes Haus, jeder
+Kaeufer, jeder Fonds, dem ein Stueck davon gehoert, sitzt hinter diesen
+Kanzleien. **Wer den Handel zerlegen will, steht irgendwann vor der Wand, und
+die Wand ist ihr ganzer Geschaeftszweck.**
+
+**Und Georgij hat sie in Band 3 bereits angefasst.** Um Woos zwanzig Prozent
+unerreichbar zu machen, musste er hineinsehen. **Wer in so eine Kette
+hineingesehen hat, ist dort bekannt.** Der Streit faengt nicht damit an, dass
+er sie angreift, sondern damit, **dass sie gemerkt haben, dass jemand
+nachgesehen hat.**
+
+**Das ist ein Grund und kein Vorwand**, und er kostet keine neue Erfindung.
+
+**3. Und es fehlt eine dritte Sorte.** Der Freund von Choi ist **Trauer**. Der
+Erbe ist **Stand**. Der dritte darf nicht wieder Geld sein.
+
+### Der Vorschlag, und meine erste Fassung davon war unbrauchbar
+
+**Am 29.08. zu Recht bemaengelt: ich hatte einen Mann beschrieben, der nichts
+kann.** Ein Geschaedigter ohne Macht ist keine Gegenfigur, sondern eine
+Wunde. **Hier die Fassung, in der er tatsaechlich gefaehrlich ist.**
+
+### Wer er ist
+
+**Ein Mann, der etwas Wirkliches gefuehrt hat** - eine mittelgrosse Firma mit
+Namen, Beschaeftigten und einer Bilanz. **Das Geld seines Betriebs lag in
+einer der Zwischengesellschaften**, weil seine Bank es dort hingelegt hat,
+und nicht, weil er irgendetwas gewusst haette.
+
+**Georgij macht die Kette auf, und der Betrieb ist weg.** Leute verlieren
+ihre Stellen. Es steht in der Zeitung. **Er hat nichts getan.**
+
+### Warum er gefaehrlich ist, und es ist eine einzige Sache
+
+**Er ist glaubwuerdig.**
+
+**Jeder, den Georgij bisher zerlegt hat, war schmutzig.** Choi, Nam, die
+fuenf Verlader, Byun, der Erbe. **Was ein solcher Mann ueber ihn sagt, ist
+nichts wert, und genau darauf beruht Georgijs ganze Sicherheit.**
+
+**Dieser hier ist sauber.** Kein Motiv zu luegen, keine eigene Akte, nichts,
+womit man ihn erklaeren koennte. **Was er sagt, wird geglaubt.**
+
+**Und er sagt es den Staatsanwaelten, die Georgij sich zwei Baende lang
+aufgebaut hat.** Das ist die Pointe: **die einzige Waffe im Land, die gegen
+diesen Mann funktioniert, ist ein ehrlicher Zeuge** - und Georgij hat ihn
+selbst hergestellt.
+
+### Und Georgijs Verfahren greift zum ersten Mal ins Leere
+
+**Seine Arbeit besteht darin herauszufinden, was ein Mann getan hat.** Bei
+diesem gibt es nichts zu finden. **Er ist der einzige Mensch im Buch, den man
+nicht recherchieren kann**, und damit auch der einzige, den man nicht
+zerstoeren kann, ohne selbst das zu werden, wogegen man antritt.
+
+**Er ist genau die Sorte Mensch, die Georgij sonst rettet:** die elf aus dem
+Auktionshaus, Mrs Jeon, die viertausendzweihundert. **Er ist die
+Verlustseite der eigenen Rechnung, mit einem Gesicht.**
+
+### Also ist die Aufloesung keine Zerstoerung
+
+**Wiedergutmachen oder zugeben** - und Georgij hat ausserhalb dieses Hauses
+noch nie etwas zugegeben.
+
+**Und der Einwand des Autors gegen sinnlosen Schaden ist damit nicht
+umgangen, sondern zum Gegenstand gemacht:** es ist kein bewusster Schaden.
+**Es ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht, und
+der einzige, den er nicht mit Papier reparieren kann.
+
+---
+
+
+---
+
+**UEBERHOLT.** Verworfen: Nam Byung-hee hat kein Mittel, und Hanseong ist das Ziel des Bandes und kein dritter Gegner.
+
+## Der dritte Gegner, und die Antwort ist eine Zusammenlegung
+
+**Zwei Anlaeufe sind am 29.08. zu Recht abgelehnt worden**, die Kanzleikette
+und der beschaedigte Unbeteiligte. **Der dritte Anlauf war schlimmer als
+beide**, weil er auf einem Sachfehler stand.
+
+### Zuerst der Fehler, weil alles Weitere daran haengt
+
+**Ich hatte geschrieben: *Annies Vater war Staatsanwalt und wurde 2002 aus dem
+Dienst entfernt.* Das ist falsch.** `b2 ch84:192` liest sich andersherum, und
+die Nebensaetze haengen an dem **anderen** Mann:
+
+> *A prosecutor of thirty-six who was got out of a service in 2002 **by a man
+> who could not read a contract**, and whose photographs are in the dining
+> room, and who is her father.*
+
+**Der Mann, der nicht lesen konnte, ist ihr Vater. Er ist derjenige, der den
+Staatsanwalt herausgeholt hat.**
+
+### Und der Staatsanwalt von sechsunddreissig ist Choi Dae-ho
+
+**Das steht woertlich im Buch und ich hatte es nicht zusammengesetzt.**
+
+`b2 ch77:66`, Chairman Woo:
+
+> *"The file on my company was closed on the eleventh of April in two thousand
+> and two. There is no reason recorded and there was never going to be one."*
+> Woo did not move his hands. *"**Choi Dae-ho resigned from that service eleven
+> days later**."*
+
+`b2 ch77:90`, derselbe Mann, vier Repliken spaeter:
+
+> *"You do not get a man like that out of a service by offering him money. He
+> will not take it and he will remember that you asked. **You get him out by
+> giving him one thing to do that he cannot undo**, and then he leaves on his
+> own and he never once says why."*
+
+`b2 ch77:94`:
+
+> *"He closed my case. He had it. He would have had a third of what was coming
+> and he had earned it... And on the day he did it he stopped being a man with
+> a career and became **a man with a marker**... Eleven days later he was
+> standing in somebody's house in a good coat with nothing at all to sell."*
+
+`b2 ch82:134`, Annie, die es selbst ausspricht:
+
+> *"Two thousand and two. A prosecutor of thirty-six who closed your case.
+> Eleven days later in a good coat with nothing to sell. **My father at a
+> lunch, saying he had found somebody who could do it in one**."*
+
+**Damit steht folgendes fest und ist nicht mehr verhandelbar:**
+
+* **Choi war ein guter Staatsanwalt.** Sechsunddreissig, hatte den Fall
+  gewonnen, haette in neun Jahren oben gestanden.
+* **Annies Vater hat ihn kaputtgemacht**, indem er ihm eine Sache zu tun gab,
+  die er nicht rueckgaengig machen konnte.
+* **Choi ist nicht schlecht geboren worden. Dieses Haus hat ihn hergestellt.**
+* **Und vierundzwanzig Jahre spaeter hat der Mann dieses Hauses ihn
+  auseinandergenommen, und drei Wochen danach war er tot** (achtzehnter Maerz
+  bis achter April, einundzwanzig Tage).
+
+### Also gibt es keinen dritten Gegner, sondern einen richtigen ersten
+
+**Gegner 1 war schon der amtierende Oberstaatsanwalt, Chois Freund** - und
+meine dritte Erfindung war noch ein Staatsanwalt daneben. **Zwei
+Staatsanwaelte sind einer zu viel.** Sie werden derselbe Mann, und er
+bekommt das, was ihm gefehlt hat: **einen Grund, der nicht Trauer heisst.**
+
+**Er hasst ihn, und der Hass ist begruendet**, und das ist etwas anderes als
+ein Freund, der traurig ist.
+
+### Die Anklage, und Georgij hat darauf keine Antwort
+
+**Sie lautet nicht *du hast ihn getoetet*.** Das waere leicht, denn es ist
+nicht wahr, und Georgij kann es wahrheitsgemaess bestreiten.
+
+**Sie lautet: dieses Haus hat ihn gemacht, und dieses Haus hat ihn wieder
+weggeraeumt, und du bist der Zweite.**
+
+**Entwurf, damit die Achse steht:**
+
+"I am not accusing you of killing him. You would enjoy that, because you could answer it."
+
+"Then say the other one."
+
+"A man in that house bought him at thirty-six. A man in that house finished him at fifty-nine." He did not raise his voice anywhere in it. "He spent twenty-four years being what one afternoon in April made him. You have had two."
+
+Georgij did not move from where he was standing.
+
+"I am not interested in what you have done. I have read all of it and none of it is a crime." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at fifty-nine."
+
+**Das ist der Satz, den er nicht beantworten kann**, weil er ueber die Zukunft
+geht und er ueber die Zukunft keine Belege hat. **Und weil er nie etwas
+Unwahres sagt, kann er nicht einmal behaupten, dass es nicht so kommen wird.**
+
+### Und der Schlussstein ist, dass er es selbst schon gesagt hat
+
+**Das ist der Fund, der die ganze Anklage traegt.** `b2 ch58:170`, und es ist
+**Georgij**, der spricht:
+
+> *"Somebody gets made by being handed a good reason at the wrong moment,"
+> said Georgij. "**Choi did it to a man who telephones about drainpipes for
+> eleven years.** I did it to a man at a wall in April with four minutes and a
+> piece of paper, and he has thought about it every week since and told me so.
+> I did a version of it to eleven people between March and August and **wrote
+> down at the time that I could not tell whether the difference was one of
+> kind**."*
+
+**Er hat die Anklage vor einem Band gegen sich selbst erhoben, laut, in einem
+Nebensatz, und aufgeschrieben.** Der Staatsanwalt sagt in Band 3 nichts, was
+neu waere. **Er sagt dem Mann seinen eigenen Satz zurueck.**
+
+**Und die Kette steht damit dreigliedrig im Buch und ist nicht erfunden:**
+
+* **Annies Vater macht Choi**, 2002, mit einer Sache, die er nicht
+  rueckgaengig machen kann (`b2 ch77:66/90/94`).
+* **Choi macht Sim**, auf dieselbe Weise (`b2 ch58:170`).
+* **Georgij macht elf Leute zwischen Maerz und August** und schreibt auf, dass
+  er den Unterschied nicht benennen kann (`b2 ch58:170`).
+
+**Der Gegner muss also nichts beweisen. Er muss vorlesen.**
+
+### Und damit haengt der Faden ueber drei Baende
+
+* **Band 3:** ein Fremder sagt ihm, dass er Choi wird.
+* **Band 5:** er sagt es selbst, nach der Exekution: *"I never wanted to
+  become this."*
+* **Band 5, zwei Zeilen spaeter:** sie beantwortet es. *"This shows you never
+  became it."*
+
+**Die Anklage aus Band 3 wird in Band 5 von Annie widerlegt, und zwar nicht
+mit einem Argument, sondern mit einem Befund.** Wer das aufmacht, muss es
+zumachen, und die Zange steht bereits.
+
+### Warum wir Streit haben, in drei Punkten, und keiner ist vermeidbar
+
+**1. Er will nichts.** Nicht kaufbar, nicht erpressbar, nicht blossstellbar,
+**weil er nichts getan hat** - und jeder Versuch waere selbst die Straftat,
+die er sucht.
+
+**2. Georgijs einzige Waffe ist auf ihn nicht anwendbar.** Sein Verfahren
+besteht seit zwei Baenden darin, **Staatsanwaelten wahre Sachen zu geben.**
+Dieser Mann hat sie bekommen. **Und jetzt liest er sie rueckwaerts:** zwei
+Jahre lang praezise, anonyme, zutreffende Zulieferungen, und am Ende jeder
+Linie steht jemand, der derselben Frau in die Quere gekommen ist. **Das ist
+keine Straftat. Das ist ein Muster** - und mit Mustern arbeitet dieser Beruf.
+
+**3. Und die Akte handelt nicht von Georgij.** Er besitzt nichts, heisst
+nichts, unterschreibt nichts; **es gibt nichts, womit man ihn belangen
+koennte, und das war zwei Baende lang seine Sicherheit.** Sie besitzt alles.
+
+**Die Waffe, die er gebaut hat, zeigt jetzt auf die Person, fuer die er sie
+gebaut hat. Das ist der Streit, und er ist selbst verschuldet.**
+
+### Und deshalb kann die Aufloesung keine Zerstoerung sein
+
+**Einen ehrlichen Staatsanwalt zu vernichten ist genau die Handlung, die den
+Vorwurf beweist.** Wer das tut, ist mit sechsundfuenfzig, was Choi mit
+neunundfuenfzig war.
+
+**Also bleibt nur das, was er ausserhalb dieses Hauses noch nie getan hat:
+etwas ueber sich selbst sagen, laut, zu jemandem, der es benutzen kann.**
+Regel 3 sagt, dass er ueber sich keine Zahlen nennt. **Der Preis dieses
+Bandes ist, dass er es einmal tut.**
+
+### Was damit wegfaellt
+
+**Der beschaedigte Unbeteiligte ist gestrichen**, auch als Zeuge. Er war meine
+Erfindung, er war nie freigegeben, und der neue Grund braucht ihn nicht.
+
+### Was das mit Singapur macht
+
+**Die Kette bleibt Installation und wird kein Gegner.** Sie ist die Wand, vor
+der Band 5 steht, wenn der Handel zerlegt wird - **ein Hindernis mit einem
+Geschaeftszweck, kein Mensch mit einem Groll.**
+
+---
 
 ---
 
