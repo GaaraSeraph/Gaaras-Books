@@ -742,7 +742,8 @@ davor umsonst gewesen.
 | | Wo | Was |
 |---|---|---|
 | **auf die Wange** | in der Sang-hoon-Szene, **Mitte des Bandes** | hebt die Anrede *Mistress* auf |
-| **der Kuss** | **auf Chairman Woos Beisetzung, Bandende** | die letzte Zeile des Bandes |
+| **der Kuss** | **vor Woos Tod, nach dem Fall von Hanseong** (umgestellt am 29.08.) | er besitzt dabei noch nichts |
+| **die Hand, oeffentlich** | **auf der Beisetzung, Bandende** | die letzte Zeile des Bandes |
 
 **Ausgefuehrt weiter unten** unter *Das Ende von Band 3* und *Der Wangenkuss
 steht jetzt in der Sang-hoon-Szene*, und festgeschrieben in
@@ -2290,9 +2291,13 @@ Erlaubnis, er teilt mit, und er bestreitet, dass es eine Gabe ist. Genau so
 wie am Tuerrahmen im Februar.
 
 **Berichtigt am 29.08.: der Tod und die Beisetzung sind das Ende von Band 3,
-nicht Band 4.** Der Autor hat nachgefragt, und die Entscheidung steht weiter
-unten laengst so: *Das Ende von Band 3: Beisetzung, dann der Kuss.* Mein
-*oder in Band 4* war ein Rest aus einer frueheren Fassung.
+nicht Band 4.** Mein *oder in Band 4* war ein Rest aus einer frueheren
+Fassung.
+
+**Die Reihenfolge am Bandschluss ist am selben Tag noch einmal umgestellt
+worden** - siehe *Das Ende von Band 3, umgestellt am 29.08.* **Der Kuss liegt
+jetzt vor Woos Tod**, die Beisetzung schliesst den Band, und dort nimmt sie
+seine Hand.
 
 **Und die Stelle ist die beste, die es gibt.** Das Erbe faellt in das
 allerletzte Kapitel. **Damit kaempft er den ganzen Band mit nichts** - der
@@ -2404,22 +2409,68 @@ gehoert und zwei Jahre daran festgehalten.**
 weil ihm niemand etwas vorwirft und weil der Mann, der sie ausstellt, tot ist
 und freundlich bleibt.
 
-## Das Ende von Band 3: Beisetzung, dann der Kuss
+## Das Ende von Band 3, umgestellt am 29.08.
 
-**Vom Autor am 28.08. festgelegt.** Das Buch endet auf Woos Beerdigung, und
-danach kuessen die beiden sich.
+**Der Autor: der richtige Kuss gehoert vor die Beisetzung und vor die
+Bekanntgabe des Testaments.**
 
-**Das schliesst drei Sachen auf einmal**, und keine muss erklaert werden:
+### Und damit liegt er vor Woos Tod, nicht knapp davor
 
-* **Der Kondolenzumschlag.** `b2 ch54:384`: *"I have no name that opens a
-  door."* Er kann keinen schreiben. Diesmal muss er auch nicht.
-* **Die Reihe der Beruehrungen** endet an dem Tag, an dem der Mann begraben
-  wird, der die beiden als Erster zusammen adressiert hat.
-* **Und es ist der einzige Ort im Buch, an dem ein Kuss nicht privat ist und
-  trotzdem niemanden angeht.** Auf einem Friedhof sieht man weg.
+**Der Umschlag entscheidet es.** `b2 ch82:252`:
 
-**Band 2 endet damit, dass sie ihm die Hand hinhaelt** (`b2 ch89:290`).
-**Band 3 endet eine Stufe weiter, und die Stufe ist von ihr.**
+> *"my solicitor will hold the envelope, and **it goes to you on the day I am
+> dead and not one hour before**."*
+
+**Das Testament ist am Todestag bekannt. Die Beisetzung ist Tage spaeter.**
+Zwischen beidem gibt es kein Fenster. **Also vor dem Tod.**
+
+### Die Reihenfolge
+
+1. **Hanseong faellt.** Der Band hat sein Ziel erreicht.
+2. **Der Kuss.** Woo lebt noch, es liegt nichts auf dem Tisch, **und Georgij
+   besitzt weiter nichts.**
+3. **Woo stirbt.**
+4. **Die beiden Umschlaege**, am selben Tag.
+5. **Die Beisetzung**, und dort nimmt sie vor mehreren hundert Leuten seine
+   Hand.
+
+### Was die Umstellung kauft, und es ist viel
+
+**1. Der Kuss kann nicht das Erbe sein.** Wer geerbt hat und dann gekuesst
+wird, hat einen Verdacht am Hals, den man nicht mehr abwaschen kann - nicht
+beim Leser und, schlimmer, nicht bei ihm selbst. **Ein Mann, der jede Handlung
+auf ihren Zweck abklopft, haette den Rest seines Lebens daran gerechnet.**
+
+**2. Er kann auch nicht die Trauer sein.** Nach einem Grab ist ein Kuss Trost,
+und Trost ist etwas anderes. **Sie troestet ihn erst in Band 5, und dafuer
+gibt es dort einen eigenen Grund.**
+
+**3. Also ist er das, was uebrig bleibt, und nur das: was er getan hat.**
+
+**4. Und das letzte Drittel des Bandes gehoert damit einem Mann, der gekuesst
+worden ist und immer noch nichts besitzt.** Das ist die schaerfste Fassung von
+Regel 2, die dieses Buch je haben wird, **und sie dauert genau bis zu dem
+Vormittag, an dem ein Anwalt zwei Umschlaege aufmacht.**
+
+### Was es kostet
+
+**Der Band endet nicht mehr auf dem Kuss.** Er endet auf der Beisetzung, und
+die braucht damit einen eigenen letzten Zug.
+
+**Der Zug ist die Hand, oeffentlich.** Band 2 schliesst damit, dass sie ihm
+die Hand hinhaelt (`b2 ch89:290`), und er sie nimmt. **Band 3 schliesst
+damit, dass sie sie nimmt, wo alle es sehen** - und das ist die Tuer zu Band
+4, wo die Naehe nach dem Ring oeffentlich wird.
+
+**Damit steigt es dreimal und wiederholt sich nie:** Wange in der Bandmitte,
+Mund vor dem Tod, Hand vor Zeugen.
+
+### Was aus der alten Fassung erhalten bleibt
+
+* **Der Kondolenzumschlag** bleibt das Motiv der Beisetzung - er kann keinen
+  schreiben, und diesmal muss er auch nicht.
+* **Die Beisetzung bleibt der Tag, an dem der Mann begraben wird, der die
+  beiden als Erster zusammen adressiert hat** (`b2 ch82:248`).
 
 ## Der Wangenkuss steht jetzt in der Sang-hoon-Szene, und das ist besser
 

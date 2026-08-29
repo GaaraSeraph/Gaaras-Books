@@ -1196,7 +1196,9 @@ zurueck **und besteht darauf zu zahlen** - das Zahlen trennt das Bezahlte vom
 Vererbten.
 
 **Der Wangenkuss** geht in die Sang-hoon-Szene, siehe `doc/10-naehe.md`.
-**Band 3 endet auf der Beisetzung mit einem Kuss. Band 4 endet mit einem
+**Band 3 endet auf der Beisetzung, und dort nimmt sie vor Zeugen seine
+Hand** - der richtige Kuss ist am 29.08. davor gerueckt, vor Woos Tod, damit
+er weder das Erbe noch die Trauer sein kann. **Band 4 endet mit einem
 Verlobungsring**, und dort wird auch erklaert, warum sie den alten traegt.
 
 **Der Hanseong-Inhaber** und **Georgijs Faust**: siehe `doc/11-figuren.md`.

@@ -415,19 +415,30 @@ Fragezeichen: sie verfuegt.
 behaelt es, weil er es behalten will. **Sie nimmt das Wort zurueck, er nicht
 das Zeichen.**
 
-### Und hier stand ein Widerspruch, aufgeloest am 29.08.
+### Und hier stand ein Widerspruch, aufgeloest am 29.08. und danach noch einmal umgestellt
 
 **Oben in dieser Datei steht, der Wangenkuss sei in der Sang-hoon-Szene und
 ausdruecklich *nicht am Bandende*. Weiter unten stand, Band 3 ende auf Woos
 Beisetzung mit einem Kuss.** Beides zugleich heisst zweimal dieselbe Geste,
 und die zweite ist dann eine Wiederholung.
 
-**Aufgeloest so, dass keine Stufe verlorengeht:**
+**Und am selben Tag hat der Autor den richtigen Kuss ausserdem vor Woos Tod
+gerueckt**, weil er weder das Erbe noch die Trauer sein darf. **Der
+Umschlag laesst kein Fenster dazwischen** (`b2 ch82:252`: *on the day I am
+dead and not one hour before*).
+
+**Damit stehen drei Stufen, und keine wiederholt eine andere:**
 
 * **Wangenkuss: Sang-hoon-Szene, Mitte des Bandes, ein Zeuge.** Privat, im
   eigenen Haus, und der Ausfall gehoert dorthin, weil er komisch sein darf.
+* **Der richtige Kuss: vor Woos Tod**, nach dem Fall von Hanseong
+  (umgestellt am 29.08.). **Er besitzt dabei noch nichts und es liegt nichts
+  auf dem Tisch** - damit kann der Kuss weder das Erbe noch die Trauer sein.
 * **Beisetzung, Bandschluss: sie nimmt seine Hand und laesst sie nicht mehr
   los, und sieht dabei niemanden an.** Vor mehreren hundert Leuten.
+
+**Damit steigt es dreimal und wiederholt sich nie: Wange in der Bandmitte,
+Mund vor dem Tod, Hand vor Zeugen.**
 
 **Damit steigt es und wiederholt sich nicht.** Band 2 schliesst damit, dass
 sie ihm die Hand hinhaelt (`b2 ch89:290`), und er sie nimmt. **Band 3
