@@ -824,9 +824,23 @@ zwei Baende lang *the terminal at Yeongjong* und sonst nichts. **Ein
 Konzernname waere eine neue Vokabel ohne Aufgabe.** Er heisst Woo Jae-sung
 (`b2 ch69:172`), und das genuegt.
 
-### Die Gruppe wird NICHT in Annies Konzern integriert
+### Die Gruppe wird nicht in Annies Konzern integriert - aber sie koennte
 
-**Und der Grund ist kaufmaennisch, bevor er etwas mit Woo zu tun hat.**
+**Berichtigt am 29.08. Ich hatte geschrieben, es gehe kaufmaennisch nicht.
+Der Autor hat gefragt, ob das bei Chaebols nicht ueblich sei, und es ist
+ueblich.**
+
+**Vertikale Integration ist in Korea der Normalfall.** Hyundai hat Glovis,
+Lotte hat Global Logistics, LG hat Pantos. **Ein eigener Logistikarm ist
+Standard, nicht Ausnahme.** Mein *Neutralitaet ist das Produkt* war ein
+erfundenes Absolutes.
+
+**Der wirkliche Unterschied ist kleiner und heisst captive.** Solche Arme
+fahren zuerst fuer den eigenen Konzern und nehmen Drittgeschaeft mit, und
+jeder weiss das und rechnet es ein. **Was sie nicht sind, ist ein vertrauter
+neutraler Spediteur fuer Wettbewerber.**
+
+**Also: sie koennten. Und der Preis steht fest.**
 
 `b1 ch19:142`: *"At the volumes she moves now **she is about a third of your
 book**."*
@@ -847,12 +861,14 @@ Einsichtnahme.** `b1 ch14:144`: *customers come back because **somebody they
 trust** is standing next to you.* **Der ganze Wert ist Vertrauen, und
 Vertrauen ist genau das, was eine Eingliederung zerstoert.**
 
-**Also: Neutralitaet ist das Produkt.** Wer sie eingliedert, kauft eine
-Gruppe und macht sie im selben Vorgang wertlos.
+**Der Preis sind die zwei Drittel Fremdgeschaeft.** Wer mit ihr konkurriert,
+geht sofort; der Rest ueber zwei Jahre. **Was bleibt, ist ein captiver Arm:
+profitabel, aber ein anderes und kleineres Geschaeft**, und die
+einundfuenfzig Jahre Vertrauen sind nicht wiederbeschaffbar.
 
-**Und das ist die Reihenfolge, in der Georgij es denkt.** Erst die Zahl, dann
-alles andere. **Er tut nie etwas nur aus Pietaet** - aber wenn die Rechnung
-ohnehin dasselbe sagt, darf der zweite Grund dastehen:
+**Damit ist es eine Abwaegung und kein Naturgesetz** - und **genau deshalb
+wird Woos Wunsch das entscheidende Argument und nicht das zweite.** Die
+Entscheidung ist eine Entscheidung, und sie kostet etwas:
 
 **Woo war einundfuenfzig Jahre lang kein Chaebol, und das war keine
 Verlegenheit, sondern die Sache.** `b1 ch19:190`: *no photograph with a
@@ -918,34 +934,48 @@ hat.**
 **Alle drei scheitern daran, dass eine Zahl eine Rangfolge ist.** Woo wuerde
 keine Rangfolge aufschreiben.
 
-#### Also nicht nach Prozent, sondern nach Gegenstand
+#### Mein Vorschlag, nach Gegenstand zu teilen, ist abgelehnt
 
-* **Das Terminal an Georgij.** Es ist das Einzige, woran Woo haengt
-  (`b1 ch18:222`), es ist das, was Georgij **selbst moeglich gemacht hat** -
-  das Sieben-Jahres-Buch ist seine Arbeit -, und es ist das, was Woo nach
-  seinem eigenen Wort verkauft und dreigeteilt saehe, wenn er nichts taete.
-* **Die Gruppe an Annie.** Sie ist die Einzige mit einer Organisation, die
-  einen gewachsenen Betrieb halten kann. **Sie ist damit nicht die
-  Beschenkte, sondern die Verantwortliche.**
+**Ich hatte vorgeschlagen: das Terminal an ihn, die Gruppe an sie.** Der
+Autor: *kaufmaennisch richtig, gefuehlsmaessig falsch.* **Damit faellt das
+gemeinsame Unterschreiben weg, und mit ihm der Segen.**
 
-**Damit ist keine der drei Fallen gestellt:** keine Zahl, keine Rangfolge,
-kein Patt. **Jeder bekommt das, was er tragen kann, und beide bekommen
-etwas, das ohne den anderen nicht funktioniert** - ein Terminal ohne Ladung
-ist Beton, eine Spedition ohne Kai steht bei Fremden an.
+**Er hat recht, und der Fehler ist bei mir immer derselbe:** ich loese die
+kaufmaennische Frage und uebersehe, wozu die Sache in dem Buch da ist.
 
-**Und der Segen liegt nicht mehr in einer Bruchzahl, sondern in der
-Verzahnung.** Das ist besser als fuenfzig zu fuenfzig, weil es nicht auf
-Einigkeit angewiesen ist, sondern auf Bedarf.
+#### Also gemeinsam, zur Haelfte, und beide unterschreiben
 
-#### Falls doch eine Zahl gebraucht wird
+**Alles: die Gruppe und das Terminal. Fuenfzig zu fuenfzig. Kein Vorgang ohne
+beide Namen.**
 
-**Dann ungleich, mit dem Grund im Testament, in Woos Handschrift, und der
-Grund ist keine Wertung, sondern eine Feststellung:** sie hat genug. **So
-redet der Mann** (`b2 ch82:260`: *"I am not doing it for you."*).
+**Und das Patt ist kein Konstruktionsfehler, sondern die Konstruktion.** So
+sieht ein Segen auf zwei Menschen im Gesellschaftsrecht aus: **keiner kann
+allein handeln.**
 
-**Und ein dritter Halter fuer den Stichentscheid** - der Anwalt in Jung-gu,
-der weiterleitet - **ist die kaufmaennisch sauberste Loesung und die
-kaelteste.** Steht hier, weil sie existiert, nicht weil ich sie empfehle.
+#### Und gegen die Gefahr, die der Autor zu Recht nennt, gibt es genau ein sauberes Mittel
+
+**Ein Patt braucht einen Ausgang, sonst steht der Betrieb.** Die
+kaufmaennisch ueblichen Ausgaenge - Stichentscheid eines Dritten,
+Russisch-Roulette-Klausel, Andienung - **sind hier alle falsch, weil jeder
+davon einen Gewinner vorsieht.**
+
+**Also einer, der keinen vorsieht:** kommen sie nicht zusammen, **faellt
+alles an die Belegschaft**, in den Betrieben, in denen sie arbeitet.
+
+**Damit verliert im Patt niemand gegen den anderen. Beide verlieren gegen
+Woo.** Keiner kann damit drohen, weil die Drohung ihn selbst kostet - **und
+deshalb wird es nie so weit kommen, was der Zweck ist.**
+
+**Und es ist genau die Sorte Vorrichtung, die dieser Mann baut.**
+`b2 ch82:252`: *my solicitor will hold the envelope, and it goes to you on
+the day I am dead and not one hour before.* `b2 ch82:260`: *I am not doing
+it for you. I have given myself a date.* **Woo konstruiert Sachen, gegen die
+man sich nicht wehren kann, und er bestreitet dabei, dass es eine Gabe
+ist.**
+
+**Es passt ausserdem zu dem, was er ohnehin tut:** die Belegschaft steht
+schon im Testament. **Der Rueckfall geht nicht an Fremde, sondern an die
+Leute, die er zuerst genannt hat.**
 
 ### Was offen bleibt
 
