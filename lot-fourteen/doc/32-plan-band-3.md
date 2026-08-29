@@ -306,15 +306,11 @@ At the door he stopped, and he did it without turning round.
 
 Mr Ku took him to the gate.
 
-Annie went back to the page.
+Annie put down the page she had not been reading, and stood up, and started across the room.
 
-"Two men in this country who own a great deal consider you a friend," she said, "and one of them has just gone down my stairs. You told me once that you have no money and no name that opens a door and nothing in this country to telephone."
+"Two men in this country who own a great deal consider you a friend," she said, "and one of them has just gone down my stairs." She was not hurrying any of it. "You told me once that you have no money and no name that opens a door and nothing in this country to telephone."
 
-Annie stood up and came across the room without hurrying any of it.
-
-She stopped beside him and looked at the side of his face.
-
-He did not move, which he does not.
+She finished it standing beside him, and looked at the side of his face.
 
 "Yes, Mistress."
 
@@ -322,155 +318,94 @@ Annie kissed him on the cheek.
 
 "You cannot say that any more."
 
-**[hier steht eine der Optionen unten]**
+Georgij was not there for a moment.
+
+The thing behind that face that counts everything had stopped, and there was nothing else in there.
+
+Then he could not stand still.
+
+He moved his weight, and put his hands behind his back, and took them out again, and none of it was any good.
+
+A small smile got out. He was holding a much larger one down and he was not managing all of it.
+
+Mrs Seo had come up for the tray and was in the doorway with it, and she did not come in.
+
+She has watched that man run this house since he came into it, and she had never once seen him be no use to anybody at all.
 
 ### Die Choreografie ist vom Autor und wird nicht mehr angefasst
 
-**Am 29.08. vorgegeben, nachdem meine dritte Fassung wieder danebenlag:**
+**Am 29.08. zum zweiten Mal vorgegeben, weil ich es beim ersten Mal wieder
+verschoben hatte:**
 
-> *Annie stood up and with slow strides went in his direction*
-> *"two men.."*
-> *she stopped right besides him, glancing at his profile. he did not move as
-> he usually does not*
-> *"yes, mistress"*
-> *kiss*
-> *"you can..."*
+> *sie steht **vor** ihrer Rede auf und geht langsam in meine Richtung. wenn
+> sie zu Ende geredet hat vor dem yes mistress steht sie neben mir.*
 
-**Was ich davor falsch hatte, dreimal hintereinander:**
+**Die drei Sachen, die daran haengen:**
 
-**1. Ich habe ihm etwas zu reden gegeben**, damit sie hineinlaufen kann. **Er
-redet hier nicht.** Er sagt drei Woerter, und die sind die ganze Rolle.
+**1. Sie steht auf, bevor sie anfaengt zu reden.** Nicht mittendrin. **Der
+Weg durch den Raum ist die Rede**, und nicht etwas, das die Rede
+unterbricht.
 
-**2. Ich habe sie ihm gegenuebergestellt.** Sie stellt sich **neben** ihn und
-sieht ihn von der Seite an. **Beide sehen in dieselbe Richtung**, und das ist
-die Stellung, in der die zwei das ganze Buch ueber nebeneinander gestanden
-haben. **Ein Gegenueber waere eine Verhandlung.**
+**2. Sie kommt genau am Satzende an.** *She finished it standing beside him.*
+**Die Bewegung und der Satz hoeren zusammen auf**, und danach ist nichts mehr
+zwischen ihm und ihr.
 
-**3. Ich habe seine Reglosigkeit als Ausfall gelesen.** Sie ist keiner. *He
-did not move, which he does not* - **das ist der Normalzustand und wird hier
-nur benannt**, damit der Leser weiss, dass gleich etwas passiert, das er
-nicht abfangen kann.
+**3. Sie steht neben ihm, nicht vor ihm**, und sieht ihn von der Seite an.
+Beide sehen in dieselbe Richtung. **Ein Gegenueber waere eine Verhandlung.**
 
-**Und die Bewegung faengt vor der Rede an und nicht mittendrin.** Sie steht
-auf, geht los, redet dabei, bleibt stehen. **Eine Linie, kein Wechselspiel.**
+**Und er redet hier nicht.** Ich hatte ihm zweimal etwas zu sagen gegeben,
+damit sie hineinlaufen kann. **Drei Woerter sind die ganze Rolle.**
 
-**Der Beat zwischen ihrer Rede und seinen drei Woertern bleibt stehen**,
-obwohl die Figuren dort wechseln. Er ist kein Sprecherhinweis, er ist der
-Weg durch den Raum. **Das ist der Unterschied, den die Regel meint.**
+### Die Reaktion: Aussetzer, Unruhe, Laecheln
 
----
+**Vom Autor am 29.08. benannt, und es sind drei Stufen in dieser
+Reihenfolge:**
 
-## Was nach "You cannot say that any more." kommt: fuenf Optionen
+**1. Der Aussetzer.** *Georgij was not there for a moment.* **Nicht die
+Sprache faellt aus, sondern das Rechenwerk.** `b1 ch33:412` sagt, dass er
+zaehlt, wie andere Leute atmen - **hier zaehlt zum ersten Mal nichts.**
 
-**Alles bis dahin ist fest.** Offen ist nur, was danach steht, und die
-Vorgabe dafuer bleibt: **Glueck und Unbeholfenheit, wie ein kleiner Junge,
-der zum ersten Mal ein Kompliment bekommen hat.**
+**2. Er kann nicht stillstehen.** **Das ist die Umkehrung seines
+Grundzustands.** Zwei Baende lang steht dieser Mann still, an derselben
+Stelle, mit den Haenden an den Seiten oder hinter dem Ruecken. **Jetzt geht
+beides nicht mehr**, und er probiert beide durch, ohne etwas damit zu
+erreichen.
 
----
+**3. Und das Laecheln ist klein, weil er ein grosses herunterdrueckt.**
+*A small smile got out.* **Nicht: er laechelt. Sondern: es entkommt ihm
+etwas**, waehrend er an etwas Groesserem arbeitet, das er nicht durchlassen
+will. **Das ist die genaueste Freude, die dieses Buch bauen kann**, weil sie
+als Kontrollverlust erzaehlt wird und nicht als Gefuehl.
 
-### A. Er fragt, wofuer es war
+### Und die Zeugin sagt, was er in dem Moment ist
 
-"May I ask what that was for?"
+**Vom Autor: die allererste Fassung war die richtige** - jemand sieht zu, wie
+der Mann gerade **zu gar nichts zu gebrauchen** ist.
 
-"No."
+**Mrs Seo statt Sang-hoon, weil Sang-hoon zu diesem Zeitpunkt aus dem Haus
+ist** (*Mr Ku took him to the gate*). **Ihr Massstab ist ein anderer und
+genauso hart:** sie hat neun Jahre in diesem Haus und sieht seit seinem
+ersten Tag zu, wie er es fuehrt.
 
-He stood where she had left him and worked at it and did not get near it.
+**Und *be no use to anybody at all* ist die Ohrfeige**, weil Nuetzlichkeit
+seine ganze Person ist. Er fragt es im Buch zweimal selbst, beide Male mit
+Zeichen: `b1 ch33:362` und `b2 ch87:422` - *"Was I useful?"*
 
-His hands went behind his back and did not stay there.
+#### Die Sang-hoon-Fassung, und was sie kostet
 
-Something came up into his face and he could not get it down again, and he was not trying very hard.
+**Sie ist besser, weil er die einzige Figur im Buch ist, die beide Zahlen
+kennt:**
 
-**Warum das die staerkste ist:** **jede Sache, die er in seinem Leben bekommen
-hat, war Bezahlung fuer etwas.** Also fragt er, wofuer. **Und ihr *No* nimmt
-ihm die einzige Kategorie, in der er so etwas verrechnen kann** - nicht
-unfreundlich, sondern indem sie den Handel abschafft.
+Park Sang-hoon stopped at the door and looked back, which he had not meant to do, and saw a man he had once offered two point two billion won for be of no use to anybody at all.
 
-**Und *May I ask* ist seine Form**, mit Zeichen: er fragt nach oben, sie kann
-nein sagen, und sie tut es. Der Stand ist 15 zu 0 im ganzen Buch.
+**Was sie kostet:** der Kuss muesste dann vor seinen Abgang, **und damit
+tritt er auf die Abfertigung** - *"You are the second person to say that to
+me this year, and the first one wanted something"* und *Mr Ku took him to the
+gate*. **Das ist der Abgang eines Chaebols, und ein Kuss davor macht ihn zur
+Nebensache.**
 
----
-
-### B. Er sagt es noch einmal
-
-"Yes, Mistress," he said.
-
-It was out before he could do anything about it, and it was the second one in about a minute, and she had just abolished the word.
-
-He looked at the door Park Sang-hoon had gone out of, because it was the only thing in the room that was not her.
-
-Annie stayed where she was.
-
-**Was sie kann:** **Ungehorsam aus Reflex**, drei Sekunden nachdem sie ihm das
-Wort genommen hat. **Was sie kostet:** es ist mehr komisch als glucklich, und
-der Autor hat diese Sorte schon einmal abgelehnt.
-
----
-
-### C. Er versucht einen Satz und findet ihn nicht
-
-Georgij started a sentence.
-
-It was going to be about Chairman Park and it was going to be accurate, and it got four words out.
-
-He stopped it himself, which he has never had to do.
-
-Annie waited beside him to see whether he would find the rest of it.
-
-He did not.
-
-**Was sie kann:** **die Unbeholfenheit sitzt in seiner einzigen Staerke.** Ein
-Mann, dem in zwei Baenden nie ein Satz ausgegangen ist. **Und sie wartet
-neben ihm**, was mehr ist als weggehen.
-
----
-
-### D. Sie geht, er bleibt stehen
-
-Annie went back to the chair and found her place on the page.
-
-Georgij stayed where she had left him.
-
-He was still standing there when Mrs Seo came up for the tray, and she took it away and did not say anything about it, and she has been in that house for nine years.
-
-**Was sie kann:** **die Freude wird von aussen gezaehlt und nicht von ihm
-behauptet.** Ein Mann, der ohne Auftrag in einem Raum stehenbleibt, ist in
-diesem Buch das groesste Signal, das es gibt. **Was sie kostet:** die
-Unbeholfenheit fehlt ganz.
-
----
-
-### E. Gar nichts
-
-"You cannot say that any more."
-
-* * *
-
-**Was sie kann:** **der Leser macht die Reaktion selbst**, und dieses Buch
-verlaesst sich sonst staendig darauf. **Was sie kostet:** der Autor hat
-ausdruecklich eine Reaktion verlangt. **Steht hier nur, damit die Reihe
-vollstaendig ist.**
-
----
-
-### Vorschlag: A, und wenn es laenger sein darf, A mit den zwei Zeilen aus C
-
-**A beantwortet, was der Kuss fuer ihn ueberhaupt ist**, und das ist die
-Frage, die dieser Mann als Einziger im Buch stellen wuerde. **C ist die beste
-Unbeholfenheit.** Zusammen:
-
-"May I ask what that was for?"
-
-"No."
-
-He started a sentence anyway. It was going to be accurate and it got four words out, and he stopped it himself, which he has never had to do.
-
-His hands went behind his back and did not stay there.
-
-Something came up into his face and he could not get it down again, and he was not trying very hard.
-
-Annie stayed beside him and did not help him with any of it.
-
----
+**Also Mrs Seo im Text, und die Sang-hoon-Zeile bleibt hier stehen**, falls
+die Szene spaeter noch einmal umgebaut wird.
 
 ### Der Ton, berichtigt am 29.08.
 
@@ -3193,106 +3128,151 @@ Geschaeftszweck, kein Mensch mit einem Groll.**
 
 ---
 
-## Der dritte Gegner: Nam Byung-hee
+## Der dritte Gegner: der Mann ohne Karte
 
-**Am 29.08. hat der Autor die Nummerierung erledigt: *das ist doch der
-erste*.** Er hat recht, und der Einwand trifft beide meiner Vorschlaege.
+**Nam Byung-hee ist am 29.08. abgelehnt worden: *schwach, kein Gegner*.**
+Zutreffend, und der Grund ist mechanisch. **Sie hat kein Mittel.** Kein
+Kapital, keine Institution, keinen Zugang, kein Amt. Ihre Staerke in Band 2
+war, dass sie die Geschaedigte war und ein Blatt Briefpapier hatte. **Gegen
+einen Mann, der nichts besitzt, und eine Frau, der alles gehoert, ist eine
+Gruenderin mit einem Groll ein Brief.**
 
-**Hanseong ist der Gegner dieses Bandes.** Band 3 ist der Angriff darauf. Der
-Erbe ist sein Gesicht. **Ich habe den offenen dritten Platz zweimal mit dem
-besetzt, was schon oben auf der Liste stand** - erst mit einem Mann aus
-Hanseong, dann mit Hanseong selbst.
+**Der Dritte steht seit Band 1, Kapitel 13 im Buch, hat ein Gesicht, eine
+Stimme, ein Verfahren und keinen Namen** - und er ist nie wieder benutzt
+worden.
 
-**Der Stand ist also:**
+### Die Tatsachenlage, geprueft am 29.08. ueber den ganzen Kanon
 
-* **Hanseong**, mit dem Erben als Gesicht - **das Ziel.**
-* **Der Oberstaatsanwalt**, Chois Freund - **der Gegenangriff von aussen.**
-* **Und ein dritter, der von keinem der beiden kommt.**
+**Zehn Treffer fuer Singapur in hundertdreiundzwanzig Kapiteln**, der letzte
+in `b2 ch39`. Danach kommt es nicht mehr vor.
 
-### Sie steht seit einem Band mit einer fertigen Zeile im Buch
+**Die Struktur** (`b1 ch13:94-100`):
 
-`b2 ch87:254`, im Flur, als Letzte im Haus:
+* **Neun Institute** im Syndikat fuer Woos Terminal.
+* Drei davon gross genug fuer eine interne Freigabe, **und keines
+  veroeffentlicht den Namen darunter.**
+* Zwei davon gewoehnliche Haeuser. **Das dritte ist ein Fonds.**
+* Dessen wirtschaftlich Berechtigte laufen in **eine Kette von Kanzleien in
+  Singapur und hoeren dort auf.**
+* Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**:
+  **eine Private-Equity-Gesellschaft in Hongkong.**
+* Dahinter: *nothing whatsoever, because that is what it is for*
+  (`b1 ch13:208`).
 
-> *"I want my firm," said Nam Byung-hee. "I am not going to get it, and there
-> is nobody in this house who can give it to me, **and I would not take it
-> from her if she offered**."*
+`b1 ch13:98`: *So he had a company behind a chain behind a fund.*
+`b1 ch13:100`: **He had no person at all.**
 
-**Das ist eine Bedingung, laut gesagt, vor Zeugen, ein Jahr im Voraus.**
+**Der Anteil.** `b1 ch19:162`, Woo: *"**Twenty per cent of this** has been
+owed since the year I built it, to a fund I could not fund it without. It
+came out of a chain of law firms in Singapore."* Und `b1 ch19:166`: *"I have
+never had a name and I have never asked for one."*
 
-### Und der Plan bricht sie, ohne dass jemand luegt
+**Es ist derselbe Fonds wie in ch13** - Woo sagt *"You told me that yourself
+over soup"*, und das ist woertlich das Gespraech aus Kapitel 13.
 
-**Festgelegt ist:** sie geht zu Chairman Woo, **sie erfaehrt nie, woher es
-kommt**, und wenn Woo Anteile hinterlaesst, arbeitet sie fuer Georgij, ohne
-es zu wissen.
+**Choi war beteiligt, und es steht woertlich da.** `b2 ch25:152`: *"He is **a
+director of a private equity firm in Hong Kong through a chain of lawyers in
+Singapore** and he has never made an investment in his life."*
 
-**Am Ende von Band 3 hinterlaesst Woo sie.**
+**Was der Kanon NICHT sagt**, und das ist die Freiheit, die noch da ist:
+dass Choi der Mann im Raum war, und dass Chois Gesellschaft ausdruecklich
+Woos Kreditgeberin ist. **Die Struktur ist identisch beschrieben, die
+Gleichsetzung steht nirgends.**
 
-**Damit wird der Weg sichtbar.** Ein Erbe ist ein Eintrag in einem Register,
-mit einem Namen daran. **Was zwei Jahre lang anonym lief, hat ab dem Tag eine
-Kette**, und die Kette ist nachlesbar. Sie hat ihre Firma nicht von Annie
-genommen. **Sie hat sie von Annies Mann genommen, und sie hat vorher gesagt,
-dass sie das nicht tut.**
+**Und die Kette wurde nie geoeffnet.** `b2 ch39:254`, Sang-hoon: *"This is
+not Singapore... **I have not found the Singapore end yet.**"*
 
-### Warum sie gefaehrlicher ist als die beiden anderen
+**Abgrenzung:** der Fonds aus Band 2, der das Auktionshaus gekauft hat
+(`b2 ch06:364`, vier Gesellschaften tief, Jung-gu), ist ein **anderer**. Der
+Kanon verbindet ihn nirgends mit Singapur.
 
-**1. Sie hat es schon einmal gemacht.** `b2 ch87:310`:
+### Der Mann selbst, und er ist fertig geschrieben
 
-> *"A year ago today a woman wrote to you by name, on a sheet of association
-> letterhead that was not hers, and signed it Chair, and sent it registered so
-> that there would be a record."*
+`b1 ch13:186-194`, Woo ueber den Abend, an dem das Geld kam:
 
-**Sie ist der einzige Mensch im Buch, der dieses Haus mit nichts in der Hand
-angegriffen und dabei einen ganzen Band lang standgehalten hat.** Sie fing
-mit einem Blatt an, das ihr nicht gehoerte.
+> *"There were three of them in the room. Two were lawyers and I have
+> forgotten both of their names on purpose. The third one did the talking and
+> **he was about fifty and he had a Hong Kong accent when he spoke English and
+> none at all when he spoke Korean**."*
+>
+> *"**He did not give anybody a card. He was not that sort.** He asked me one
+> question and I have never forgotten it, because nobody had ever asked it and
+> everybody should. **He asked me what would happen to the terminal if I died
+> on the Tuesday**."*
+>
+> *"I told him it would be sold within a year and split three ways and probably
+> one of the three would be Sang-hoon. **And he said yes, and then he lent me
+> the money**."*
 
-**2. Sie hat recht, und sie hat es vorher angesagt.** Der Erbe hat keinen
-Grund, der Staatsanwalt hat einen und irrt sich in der Person. **Sie irrt sich
-nicht.**
+**Dazu `b1 ch13:210`: *Chairman Woo did not react to Hong Kong.***
 
-**3. Georgij kann es nicht bestreiten.** Regel 1. **Er kann sagen, dass Woo
-frei entschieden hat, und das ist wahr und wertlos**, weil er derjenige war,
-der Woo darauf gebracht hat.
+### Und daraus folgt der Streit, ohne dass irgendetwas erfunden werden muss
 
-**4. Und er kann es nicht reparieren.** Er kann ihr die Firma nicht
-zurueckgeben - sie hat sie. **Er kann nur aufhoeren zu besitzen, und das ist
-genau die Sache, die dieser Band ihm gerade erst gegeben hat.**
+**Der Mann hat vor ueber zwanzig Jahren Woos Tod bepreist.** Er hat die eine
+Frage gestellt, die Antwort bekommen, die er brauchte, **und daraufhin das
+Geld gegeben.**
 
-### Die Sorte, und sie ist neu
+**Woo stirbt am Ende von Band 3, und die Antwort wird falsch.**
 
-* **Der Erbe: Stand.**
-* **Der Oberstaatsanwalt: Hass.**
-* **Nam Byung-hee: Anspruch.**
+Das Terminal wird **nicht** binnen eines Jahres verkauft und **nicht**
+dreigeteilt und einer davon ist **nicht** Sang-hoon. **Es geht an eine Frau,
+die schon die halbe Logistik des Landes haelt, und an einen Mann ohne
+Namen.**
 
-**Kein Groll und kein Rang, sondern ein besseres Recht.**
+**Damit ist die Grundlage der Zusage weg**, und zwanzig Prozent stehen seit
+dem Baujahr offen.
 
-### Und das ist der Preis von Regel 2, an der richtigen Stelle
+### Drei Gruende, und jeder allein wuerde reichen
 
-**Der ganze Band besteht darin, dass Georgij anfaengt, etwas zu besitzen.**
-Zwei Baende lang war *er besitzt nichts* seine Sicherheit: kein Konto, keine
-Beziehungen, nichts, was jemand ihm abnehmen kann, und nichts, was seinen
-Namen traegt.
+**1. Geld.** Zwanzig Prozent an einem Terminal, dessen Wert sich gerade
+geaendert hat.
 
-**Das Erste, was er je besitzt, kommt mit einem Feind daran.**
+**2. Kontrolle.** Die Frage nach dem Dienstag ist falsch beantwortet worden.
+**Wer so einen Kredit gibt, gibt ihn auf eine Antwort und nicht auf eine
+Zahl.**
 
-**Und der Feind entsteht aus der einzigen Sache, die er ohne Gegenleistung
-getan hat.** Er hat Nam ihre Firma verschafft, ueber Woo, so eingerichtet,
-dass sie es nie erfaehrt und ihm nie etwas schuldet. **Kein Eintrag, keine
-Forderung, nichts, was er spaeter einloest.**
+**3. Choi.** Ihr Direktor ist drei Wochen nach dem Tag tot gewesen, an dem
+Georgij mit ihm fertig war. **Das ist ihre Rechnung und nicht seine**, und
+sie brauchen sie nicht zu beweisen, weil sie niemanden anklagen wollen.
 
-**Genau das wird ihm zum Verhaengnis, weil Besitz sichtbar ist und
-Freundlichkeit es nicht war.**
+### Warum er der schwerste Gegner des Buches ist
 
-### Was das mit Band 4 macht
+**Georgijs Verfahren braucht am Ende der Linie einen Menschen.** Herausfinden,
+was ein Mann getan hat, und ihm die eine Frage stellen, die er vor Zeugen
+nicht beantworten kann.
 
-**Nams Firma zurueckzubekommen bleibt verworfen** - sie hat sie ja. **Offen
-ist, was sie tut, wenn sie es erfaehrt**, und dafuer gibt es genau zwei
-Ausgaenge, und beide sind gute:
+**Hier ist zwei Baende lang keiner gefunden worden.** Vier Wochen Papier in
+Band 1: *He had no person at all.* Sang-hoon mit allem, was ein Chaebol hat,
+in Band 2: *I have not found the Singapore end yet.* **Zwei Maenner, zwei
+Baende, nichts.**
 
-* **Sie gibt die Firma zurueck**, weil ihre Bedingung woertlich gemeint war.
-  Dann hat Georgij ihr zum zweiten Mal etwas genommen, ohne es zu wollen.
-* **Sie behaelt sie und macht ihn dafuer fertig**, weil sie es nicht ertraegt,
-  ihm etwas zu schulden. **Das ist die haerte Variante und die
-  wahrscheinlichere.**
+**Und dann kommt einer von selbst**, weil ihre Antwort falsch geworden ist.
+**Er wird nicht gefunden. Er meldet sich** - so wie er sich damals bei Woo
+gemeldet hat, ohne Karte, mit einer Frage.
 
-**Nicht jetzt entscheiden.** Sie erfaehrt es fruehestens, wenn das Register
-umgeschrieben ist, und das ist nach der Beisetzung.
+### Und die Frage ist dieselbe, nur diesmal an ihn
+
+**Der Mann hat Woo gefragt, was mit dem Terminal geschieht, wenn er am
+Dienstag stirbt.**
+
+**Georgij hat auf diese Frage die schlechteste Antwort im ganzen Buch**
+(`b2 ch54:384`): *"I have no money. I have no name that opens a door and I
+have nothing in this country to telephone."*
+
+**Und das gilt ab diesem Band nicht mehr.** Er besitzt etwas, zum ersten Mal.
+**Also ist die Frage jetzt auf ihn anwendbar, und er hat keine Antwort
+darauf, die ihn nicht kleiner macht.**
+
+**Das ist der Gegner, und er war seit Band 1, Kapitel 13 geladen.**
+
+### Was noch entschieden werden muss
+
+* **Ist er der Mann aus dem Raum, oder dessen Nachfolger?** Er war *about
+  fifty*, und das Terminal ist alt. **Derselbe Mann waere jetzt um die
+  siebzig**, und das ist gut, weil es die Zeitspanne sichtbar macht.
+* **Wird Choi als der Mann im Raum nachtraeglich identifiziert oder nicht?**
+  Der Kanon laesst beides zu. **Nein ist wahrscheinlich besser** - dann ist
+  Choi ein Direktor unter mehreren, und die Gesellschaft ist groesser als er,
+  was sie gefaehrlicher macht.
+* **Ein Name fuer die Gesellschaft.** Der Kanon hat keinen, und das war zwei
+  Baende lang richtig. **Sobald sie sich meldet, hat sie einen.**
