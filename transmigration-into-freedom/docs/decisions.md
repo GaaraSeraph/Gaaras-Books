@@ -3,6 +3,21 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The stories get told at depth, and nobody pre-assigns them ===
+The author, on the piece list with candidate recipients: "was weiss ich
+wer die Stellen bekommt. Wir haben Buecher zu fuellen, da kann ich meine
+Stories zum Besten geben." And the planning sketches were not told deeply
+enough for him. So docs/vita-stories.md now exists and is the leading
+document for the material: six stories written out at depth in the book's
+voice (the boy with the decks; eighteen, and the question; the wild
+decade; the break; the nine years; the climb), liftable into chapters
+whole or reworked. Where the vita gave no concrete detail the telling
+uses stand-ins; he complains at what is wrong and it gets fixed, and the
+known gaps are listed at the end of the file. All recipient
+recommendations are withdrawn; the ledger in the bible tracks only where
+a story has actually landed. The name-origin beat is NOT in the reservoir
+and stays reserved.
+
 === One reader, and openly. And the decks explain the man ===
 TWO AUTHOR CALLS IN ONE MESSAGE. FIRST: "das ist kein Buch, wo Leute
 lesen - ausser mir. Bitte offen erzaehlen." The book has exactly ONE

@@ -197,50 +197,25 @@ ledger below records where each piece lands so accidental verbatim repeats
 do not creep in - RETELLING ON PURPOSE IS ALLOWED, he said "immer wieder".
 The book still never diagnoses him: it gives the facts openly and confirms
 no conclusions (same posture as the ch1 illness list).
-THE PIECES, all UNSPENT, with candidate recipients and triggers - the
-author stages each fork as it comes up:
-  A  THE SECOND TIME AT ZERO. The office mat was not the first collapse;
-     the car at twenty-nine was, and he climbed out once already. One
-     line of narration, best placed when everything is at risk again -
-     the Band 1 finale can carry it.
-  B  THE CHILDHOOD: no friends, the games, the decks, the small fame.
-     Candidate: Sivert or Bern, the day somebody finally asks where he
-     learned to build the way he builds. Answer in the ch23 register:
-     "A card game." True, and it explains nothing.
-  C  THE TURN AT EIGHTEEN AND THE CEILING QUESTION ("I get through school
-     without effort. What would the result be if I did everything right?
-     I want to see that."). The one piece he might genuinely say out
-     loud, because it is an engine and not a wound. Candidate: Marit at
-     night, or Hallvard. Late, and only when somebody asks why he does
-     all this.
-  D  THE WILD DECADE. Candidate: Ylva on a road (their register), or
-     deduced by Runa rather than told - BEING READ is her register and
-     she has already caught the ladder mid-act. Numbers never reach the
-     page.
-  E  THE NINE DEAD YEARS, the joy gone. Default: narration, in the
-     aftermath of a bed scene, and openly - what nine joyless years were
-     and what came back. Saying it to a partner out loud is his call.
-  F  THE CATS. Default: narration, triggered by an animal in-scene - the
-     panel reads a cat somewhere, Level 1, the same flat two lines it
-     uses for a goat, and the narration tells it openly. Whether he ever
-     says it to somebody in-world is his call. Never in a joke.
-  G  HER, AND THE BREAK, WHOLE. The set-piece, told aloud, once, in the
-     register the book already built for exactly this: flat ordinary
-     sentences, undecorated, no sorry, the way Hallvard said his in the
-     road in about four minutes. RECOMMENDED RECIPIENT: Hallvard - the
-     two men are mirrored all book, both carried something alone for
-     years, and telling the person he does not sleep with keeps it from
-     becoming romance currency. Alternatives: Ylva (the Rulf-burial
-     register: true unkind things said flat) or Marit (riskier - it must
-     not read as a relationship payment). NOT in the crowded finale
-     chapters; Band 2, or a quiet chapter if one opens up.
-RETRO-PLANTING IS ALLOWED AND WANTED: the author has authorised rewriting
-written chapters, and single fragments dropped into the existing middle
-serve this and the boredom repair at once. First proposal: one paragraph
-in ch30, inside the Ketil hire - why this man can hire an informer: he
-has stood on the receiving end of somebody spending everything they were
-given, and he refuses the vacancy she left him as a model. One piece per
-chapter still holds.
+THE MATERIAL ITSELF LIVES IN docs/vita-stories.md, TOLD AT DEPTH. That
+file is the leading document for the stories; this block keeps only the
+rules above and the ledger below. The author does not pre-assign
+recipients or chapters - his words: "was weiss ich wer die Stellen
+bekommt. Wir haben Buecher zu fuellen, da kann ich meine Stories zum
+Besten geben." So the stories find their places as the books fill, in
+narration or told to somebody, whole or in pieces, and every new story he
+hands over gets told in that file at depth BEFORE anybody plans where it
+goes.
+THE LEDGER (where a story has landed on the page; updated when one does):
+  1  The boy with the decks         unplaced
+  2  Eighteen, and the question     unplaced
+  3  The wild decade                unplaced
+  4  The break                      unplaced
+  5  The nine years                 unplaced
+  6  The climb                      unplaced
+RETRO-PLANTING INTO WRITTEN CHAPTERS stays allowed and wanted: the author
+has authorised rewriting, and a story dropped into an existing chapter
+serves the boredom repair at the same time.
 - THE COMPETENCE POLICY, lifelong: THERE IS NO COMPETENT PERSON WHO HAS
   ACTUALLY GOTTEN TO KNOW HIM AND CONSIDERS HIM INCOMPETENT. Not charm and
   not luck: he earned it over years, by working every position relevant to

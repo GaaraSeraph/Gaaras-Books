@@ -73,6 +73,7 @@ elsewhere, never copy. A second hand-maintained copy always drifts.
 | The long arc, pacing, what must not drift | `docs/character-arc.md` |
 | Cast: characters, levels, quotes | `docs/cast.md` |
 | System rules, world, protagonist, threads | `docs/story-bible.md` |
+| The author's vita, told at depth (story reservoir for the chapters) | `docs/vita-stories.md` |
 | Plot of the Band 1 finale (ch32 to 35), with the author's forks | `docs/plan-band-1.md` |
 | Decisions and what was discarded, with reasons | `docs/decisions.md` |
 | Reading/paste versions (generated, never edit) | `book.md`, `HANDBUCH.md`, `MANIFEST.txt`, `chapters/*.txt` |
