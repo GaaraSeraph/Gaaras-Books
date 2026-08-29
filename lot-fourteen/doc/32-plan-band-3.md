@@ -34,7 +34,7 @@ Alles davor gilt.
 
 | Frage | Wo der Stand steht |
 |---|---|
-| **Wer die Gegner sind** | *Gegner 1: ein echter Freund von Choi*, *Der Hanseong-Inhaber: ja, mit einer Korrektur*, und **zuletzt** *Der dritte Gegner: der Mann, der lot elf gekauft hat*. **Lot elf selbst ist kein Gegner, er ist Georgijs Protege** |
+| **Wer die Gegner sind** | *Gegner 1: ein echter Freund von Choi*, *Der Hanseong-Inhaber: ja, mit einer Korrektur*, und **zuletzt** *Lot elf: Annie hat ihn gekauft, und der Kaeufer-Gegner faellt*. **Platz drei ist offen. Lot elf ist Georgijs Protege und kein Gegner** |
 | **Singapur** | *Singapur: die Tatsachen* und *Und daraus wird trotzdem kein Gegner*. **Kein Gegner, aber Band 5 braucht die Tatsachen** |
 | **Woos zwanzig Prozent** | *Fassung Woo ist entschieden* hier, und die vollstaendige Lage in `doc/14-welt.md` |
 | **Das Erbe** | *Der Umfang des Erbes: entschieden am 29.08.* und *Woo vererbt* |
@@ -3172,75 +3172,34 @@ geprueft sind und weil Band 5 sie braucht, wenn der Handel zerlegt wird.
 
 ---
 
-## Der dritte Gegner: der Mann, der lot elf gekauft hat
+## Lot elf: Annie hat ihn gekauft, und der Kaeufer-Gegner faellt
 
-**Berichtigt am 29.08. Die Ueberschrift hiess *Wo der dritte Gegner
-tatsaechlich liegt: bei lot elf*, und der Autor hat sie sofort so gelesen,
-wie sie dasteht.**
+**Am 29.08. vom Autor abgeraeumt, und der Beleg stand weiter oben in
+derselben Datei** (*Annies zweites Los ist Los elf*):
 
-> *lot 11 kein Gegner, er ist mein Protege*
+**Annie hat lot elf gekauft.** `b1 ch01:88`: der Kauf des Mannes in der
+zweiten Reihe platzt, der Junge geht in den Katalog des Folgemonats zurueck,
+**und Annie kauft im November zum zweiten Mal** - `b2 ch27:180` zaehlt beide
+Lose, vier Zeilen auseinander.
 
-**Er hat recht, und der Fehler war meiner.** Gemeint war nie der Junge,
-sondern **der Mann, der ihn gekauft und zwei Jahre auf ihn verwendet hat.**
-Der Junge ist das, worum gestritten wird, und nicht die Gegenpartei.
+**Und der Autor hat die Luecke gefuellt, die der Plan offen hatte:** sie hat
+ihn gekauft, **ausserhalb des Hauses zwei Jahre ausbilden lassen, und dann
+kam er ins Haus.** Damit ist beantwortet, wo der Junge zwischen November und
+Band 3 war - **es gibt keinen fremden Kaeufer, keine fremde Ausbildung und
+niemanden, dem etwas weggenommen werden muesste.**
 
-**Nicht erfunden, sondern die Stelle, an der der Plan schon ein Loch hat.**
+**Mein Gegner-Vorschlag hat dem eigenen Plandokument widersprochen.** Ich
+habe einen Mann erfunden, der den Jungen haelt, waehrend zweihundert Zeilen
+weiter oben steht, wer ihn haelt.
 
-**Beschlossen ist:** lot elf kommt in Band 3 zurueck, ist sechzehn, hat seine
-Ausbildung abgeschlossen und wird Bediensteter im Haus.
+**Der Mann in der zweiten Reihe ist kein Kandidat:** `b1 ch01:88` erledigt
+ihn am selben Abend - *by Friday he would be explaining himself to people who
+did not accept explanations.*
 
-**Im ganzen Plan steht kein Wort darueber, wie.**
-
-### Die Frage, die niemand gestellt hat
-
-**Ausbildung wofuer, und von wem bezahlt?**
-
-`b2 ch27:180`: *Lot eleven and lot fourteen, **four lines apart**.* **Zwei
-Jungen, eine Auktion, ein Abend.** Einer ist in dieses Haus gegangen. **Der
-andere ist irgendwohin gegangen, und dort ist jemand, der ihn bezahlt hat und
-zwei Jahre auf ihn verwendet hat.**
-
-**Diesen Mann gibt es, seit dem vierten Oktober, und er ist nie benannt
-worden.**
-
-### Warum er der richtige dritte Gegner ist
-
-**1. Sein Grund ist der konkreteste im ganzen Buch.** Kein Groll, kein Stand,
-keine Kraenkung. **Georgij nimmt ihm etwas weg, wofuer er bezahlt hat.** Aus
-seiner Sicht ist das ein Diebstahl, und aus seiner Sicht hat er recht.
-
-**2. Er ist der Einzige, gegen den Georgijs Verfahren nicht angewendet werden
-darf.** Herausfinden, was ein Mann getan hat, und es Staatsanwaelten geben -
-**das kostet hier den Jungen.** Ein Verfahren gegen den Kaeufer macht den
-Jungen zum Beweismittel und seine zwei Jahre aktenkundig.
-
-**3. Und er stellt Georgij vor die eine Falle, die dieses Buch aufgebaut
-hat.** Der saubere Weg, den Jungen herauszubekommen, ist, ihn zu **kaufen**.
-
-* **Georgij kann nicht kaufen. Er besitzt nichts.**
-* **Annie kann.** Und dann steht `b1 ch01:122` noch einmal da: *When he bought
-  the boy.* **Dasselbe Haus, dieselbe Handlung, neun Jahre spaeter, und
-  diesmal sieht er zu.**
-
-**4. Und es ist die Bruecke nach Band 5.** Der Mann, der lot elf gekauft hat,
-ist genau die Sorte, die Georgij in Band 5 ausrottet. **Band 3 gibt ihm zum
-ersten Mal ein Gesicht**, und der Ausgang dieses Strangs entscheidet, ob
-Georgij in Band 5 mit einem Vorsatz anfaengt oder mit einer Wunde.
-
-**5. Und lot elf sieht zu, wie es ausgeht.** Er wird der Junge, der still
-lernt und hinterher fragt. **Seine erste Frage waere, warum es bei ihm
-anders ausgegangen ist als bei den anderen.**
-
-### Was daran noch entschieden werden muss
-
-* **Ob Georgij ihn kauft, tauscht oder nimmt.** Alle drei kosten etwas
-  Verschiedenes, und keiner ist umsonst.
-* **Ob der Mann ueberlebt.** Wenn nicht, ist es das erste Mal, und dann liegt
-  das erste Blut in Band 3 und nicht in Band 5.
-* **Wofuer der Junge ausgebildet wurde.** Das entscheidet, wie schlimm der
-  Mann ist, und es ist die einzige Stelle, an der etwas erfunden werden muss.
-
----
+**Der dritte Gegner ist damit wieder offen**, und der Stand der Aufstellung
+ist: **Gegner 1 der Oberstaatsanwalt, Gegner 2 der Hanseong-Erbe mit dem
+Apparat dahinter, Platz drei unbesetzt.** Kein Platz muss zwanghaft gefuellt
+werden - zwei Gegner und ein Apparat koennen einen Band tragen.
 
 # Verlauf: ueberholte Fassungen
 
@@ -3746,4 +3705,78 @@ Geschaeftszweck, kein Mensch mit einem Groll.**
 
 ---
 
+---
 
+**UEBERHOLT.** Annie hat lot elf gekauft (steht im selben Dokument unter
+*Annies zweites Los ist Los elf*), zwei Jahre ausserhalb ausbilden lassen,
+dann kam er ins Haus. Es gibt keinen fremden Kaeufer.
+
+## Der dritte Gegner: der Mann, der lot elf gekauft hat
+
+**Berichtigt am 29.08. Die Ueberschrift hiess *Wo der dritte Gegner
+tatsaechlich liegt: bei lot elf*, und der Autor hat sie sofort so gelesen,
+wie sie dasteht.**
+
+> *lot 11 kein Gegner, er ist mein Protege*
+
+**Er hat recht, und der Fehler war meiner.** Gemeint war nie der Junge,
+sondern **der Mann, der ihn gekauft und zwei Jahre auf ihn verwendet hat.**
+Der Junge ist das, worum gestritten wird, und nicht die Gegenpartei.
+
+**Nicht erfunden, sondern die Stelle, an der der Plan schon ein Loch hat.**
+
+**Beschlossen ist:** lot elf kommt in Band 3 zurueck, ist sechzehn, hat seine
+Ausbildung abgeschlossen und wird Bediensteter im Haus.
+
+**Im ganzen Plan steht kein Wort darueber, wie.**
+
+### Die Frage, die niemand gestellt hat
+
+**Ausbildung wofuer, und von wem bezahlt?**
+
+`b2 ch27:180`: *Lot eleven and lot fourteen, **four lines apart**.* **Zwei
+Jungen, eine Auktion, ein Abend.** Einer ist in dieses Haus gegangen. **Der
+andere ist irgendwohin gegangen, und dort ist jemand, der ihn bezahlt hat und
+zwei Jahre auf ihn verwendet hat.**
+
+**Diesen Mann gibt es, seit dem vierten Oktober, und er ist nie benannt
+worden.**
+
+### Warum er der richtige dritte Gegner ist
+
+**1. Sein Grund ist der konkreteste im ganzen Buch.** Kein Groll, kein Stand,
+keine Kraenkung. **Georgij nimmt ihm etwas weg, wofuer er bezahlt hat.** Aus
+seiner Sicht ist das ein Diebstahl, und aus seiner Sicht hat er recht.
+
+**2. Er ist der Einzige, gegen den Georgijs Verfahren nicht angewendet werden
+darf.** Herausfinden, was ein Mann getan hat, und es Staatsanwaelten geben -
+**das kostet hier den Jungen.** Ein Verfahren gegen den Kaeufer macht den
+Jungen zum Beweismittel und seine zwei Jahre aktenkundig.
+
+**3. Und er stellt Georgij vor die eine Falle, die dieses Buch aufgebaut
+hat.** Der saubere Weg, den Jungen herauszubekommen, ist, ihn zu **kaufen**.
+
+* **Georgij kann nicht kaufen. Er besitzt nichts.**
+* **Annie kann.** Und dann steht `b1 ch01:122` noch einmal da: *When he bought
+  the boy.* **Dasselbe Haus, dieselbe Handlung, neun Jahre spaeter, und
+  diesmal sieht er zu.**
+
+**4. Und es ist die Bruecke nach Band 5.** Der Mann, der lot elf gekauft hat,
+ist genau die Sorte, die Georgij in Band 5 ausrottet. **Band 3 gibt ihm zum
+ersten Mal ein Gesicht**, und der Ausgang dieses Strangs entscheidet, ob
+Georgij in Band 5 mit einem Vorsatz anfaengt oder mit einer Wunde.
+
+**5. Und lot elf sieht zu, wie es ausgeht.** Er wird der Junge, der still
+lernt und hinterher fragt. **Seine erste Frage waere, warum es bei ihm
+anders ausgegangen ist als bei den anderen.**
+
+### Was daran noch entschieden werden muss
+
+* **Ob Georgij ihn kauft, tauscht oder nimmt.** Alle drei kosten etwas
+  Verschiedenes, und keiner ist umsonst.
+* **Ob der Mann ueberlebt.** Wenn nicht, ist es das erste Mal, und dann liegt
+  das erste Blut in Band 3 und nicht in Band 5.
+* **Wofuer der Junge ausgebildet wurde.** Das entscheidet, wie schlimm der
+  Mann ist, und es ist die einzige Stelle, an der etwas erfunden werden muss.
+
+---
