@@ -655,6 +655,86 @@ Eigentum, die er nicht belegen kann, **und er sagt nie etwas Unwahres.**
    **Die genaue Fassung tut es nicht mehr** - richtig ist sie trotzdem, und
    der Anklang ist der kleinere Verlust.
 
+## Was Woo ausser dem Terminal besitzt
+
+**Am 29.08. vom Autor aufgemacht:** ein Mann, der als Nichtchaebol an der
+Spitze der koreanischen Logistik steht, **hat nicht einen Hafen und sonst
+nichts.**
+
+### Der Kanon laesst ausdruecklich Platz und fuellt ihn nirgends
+
+| Beleg | Was daraus folgt |
+|---|---|
+| `b1 ch18:222` *He has money and he has had it for **fifty years***  | **Vermoegen jenseits des Terminals**, und zwar altes |
+| `b1 ch18:222` *He owns **one thing he cares about*** | *cares about*, nicht *owns*. **Der Satz sagt nicht, dass es das Einzige ist** |
+| `b1 ch10:50` *knew my numbers better than **my own finance man*** | **Er hat einen Finanzchef. Also eine Organisation** |
+| `b1 ch14:144` *Fifty-one years in that trade* | ein halbes Jahrhundert Kundenbeziehungen |
+| `b1 ch14:144` *Customers come back because **somebody they trust is standing next to you*** | **Sein Kapital ist Vertrauen, und Vertrauen wird in einem Dienstleistungsgeschaeft verdient, nicht an einem Kai** |
+| `b2 ch69:102` eine Zollsache vor 23 Jahren, zwei Container, eine Erklaerung eines Mannes, der nicht mehr fuer ihn arbeitete | **Er macht eigene Zollerklaerungen**, also Spedition und nicht nur Umschlag |
+| `b2 ch69:92` *he lent me **four hundred billion won** afterward* | eine Anlage dieser Groesse bekommt kein Mann mit einer Bilanz |
+| `b2 ch87:334` das Terminal hat **einen Buchhalter und braucht keine zwei** | **Das Terminal selbst ist ein kleiner Betrieb.** Der Rest liegt woanders |
+| `b2 ch82:96` wohnt seit 1979 im selben Haus, zweimal schlecht angebaut | **kein Aufwand nach aussen**, was erklaert, warum man es ihm nicht ansieht |
+
+**Zusammen:** ein grosses, altes, unauffaelliges Geschaeft, und **das
+Terminal ist die Kroenung und nicht der Bestand.**
+
+### Und das erklaert zwei Sachen, die vorher lose herumlagen
+
+**1. Warum die zwanzig Prozent nur am Terminal haengen.** `b1 ch19:162` sagt
+*twenty per cent of **this***, gesagt auf dem Terminal. **Eine
+Infrastrukturfinanzierung dieser Groesse laeuft ueber eine eigene
+Projektgesellschaft** - die Geldgeber leihen dem Objekt und nicht dem Mann.
+**Deshalb konnte der Fonds zwanzig Prozent davon nehmen, ohne den Rest
+anzufassen, und deshalb ist der Rest davon nicht betroffen.**
+
+**2. Warum er sie trotz Vermoegens nicht zurueckkaufen kann.** Es liegt nicht
+am Geld. **Man kauft nicht, was nicht verkauft wird.**
+
+### Und es erklaert auch die Antwort auf die Dienstagsfrage
+
+`b1 ch18:226`: *"It is sold within a year and split three ways, and one of
+the three is Sang-hoon."*
+
+**"It" ist das Terminal und nicht das Lebenswerk.** Eine Projektgesellschaft
+ist genau die Sorte Sache, die man in einem Jahr verkauft und aufteilt.
+**Ein gewachsener Speditionsbetrieb mit fuenfzig Jahren Kundenbeziehungen ist
+es nicht** - der wird nicht dreigeteilt, der zerfaellt.
+
+**Das macht Woos Antwort damals ehrlicher und trauriger, als sie bisher
+gelesen wurde:** er hat dem Mann gesagt, was mit dem **verkaeuflichen** Teil
+passiert. Ueber den anderen hat ihn niemand gefragt.
+
+### Vorschlag fuer den Bestand, nicht entschieden
+
+**Nichts davon steht im Kanon. Es ist die uebliche Form eines koreanischen
+Nichtchaebol-Logistikers dieser Generation, und sie widerspricht keiner
+Stelle.**
+
+| Einheit | Was sie ist | Warum sie passt |
+|---|---|---|
+| **Die Spedition** | Der aelteste Teil. Buchen, Zoll, Papiere, Kundenbeziehungen. Anlagenarm | `b1 ch14:144` und die Zollsache in `b2 ch69:102`. **Hier sind die fuenfzig Jahre Geld hergekommen** |
+| **Zollager und Hallen** | Zwei, drei Standorte um Incheon, seit Jahrzehnten abbezahlt | langweilig, ertragreich, unsichtbar |
+| **Beteiligungen** | Minderheiten an Betrieben anderer Leute, aus fuenfzig Jahren Gefaelligkeiten | erklaert, warum ihm so viele etwas schulden |
+| **Das Terminal Yeongjong** | Eigene Projektgesellschaft, neun Institute, vierhundert Milliarden, zwanzig Prozent beim Fonds | **das Einzige, was im Kanon beschrieben ist** |
+
+**Was ausdruecklich nicht dazugehoert:** eine Reederei. **Woo faehrt keine
+Schiffe.** Er bewegt die Ladung anderer Leute, und das ist der ganze
+Unterschied zu den Kims und zu Hanseong.
+
+### Was daran zu entscheiden ist
+
+1. **Erbt Georgij das Terminal oder die Gruppe?** Bisher stand im Plan
+   *zwanzig Prozent eines Terminals*. **Wenn Woo mehr hat, ist die Frage
+   offen, und sie ist gross** - eine Spedition mit fuenfzig Jahren Kunden ist
+   ein anderes Erbe als ein Kai.
+2. **Ob der Rest ueberhaupt im Text vorkommt.** **Er muss nicht.** Es reicht,
+   dass er existiert und dass keine Zeile ihn ausschliesst. **Zwei Halbsaetze
+   im ganzen Band wuerden genuegen.**
+3. **Und wenn er vorkommt: wer ihn nach dem Tod fuehrt.** Eine Spedition ohne
+   den Mann, dem die Kunden vertrauen, ist in achtzehn Monaten leer. **Das
+   ist dieselbe Frage, die Ye-rin in `b1 ch30:186` an sich selbst stellt**,
+   und Georgij hat sie dort schon einmal beantwortet.
+
 ## Wer sich mit Macht anlegt und seinen Schutz verliert
 
 **Regel dieser Welt, vom Autor am 26.08. festgelegt:** *"Sich mit Macht
