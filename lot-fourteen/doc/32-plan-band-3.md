@@ -1,5 +1,115 @@
 # Plan, Band 3
 
+> **Achtung: dieses Dokument haelt inzwischen vier Baende.** Es ist in der
+> Reihenfolge der Gespraeche gewachsen und nicht in der Reihenfolge der
+> Handlung. **Die Navigation unten ist nach Band sortiert, der Text darunter
+> nicht.**
+>
+> Wer hier etwas sucht, geht ueber diese Liste und nicht ueber das Scrollen.
+
+
+## Band 3
+
+* [Annies zweites Los ist Los elf, und es gehoert in Band 3](#annies-zweites-los-ist-los-elf-und-es-gehoert-in-band-3) `Z. 17`
+* [Singapur ist nie angefasst worden, und das ist kein Versehen mehr](#singapur-ist-nie-angefasst-worden-und-das-ist-kein-versehen-mehr) `Z. 53`
+* [Drei Gegner greifen Annie an](#drei-gegner-greifen-annie-an) `Z. 83`
+* [Der Kosmos ist zu geschlossen, und wo die Tueren stehen](#der-kosmos-ist-zu-geschlossen-und-wo-die-tueren-stehen) `Z. 136`
+* [Die Szene: Sang-hoon stellt sie vor die Wahl](#die-szene-sang-hoon-stellt-sie-vor-die-wahl) `Z. 203`
+* [Vom Autor am 28.08., zweiter Durchgang](#vom-autor-am-2808-zweiter-durchgang) `Z. 315`
+* [Gegner 1: ein echter Freund von Choi](#gegner-1-ein-echter-freund-von-choi) `Z. 317`
+* [Der Angriff auf den Chaebol laeuft ueber Anteile und die Boerse](#der-angriff-auf-den-chaebol-laeuft-ueber-anteile-und-die-boerse) `Z. 439`
+* [Gegner 3, der Vetobetroffene: offen](#gegner-3-der-vetobetroffene-offen) `Z. 505`
+* [Das Koerperliche zwischen den beiden, und wo ein Wangenkuss saesse](#das-koerperliche-zwischen-den-beiden-und-wo-ein-wangenkuss-saesse) `Z. 510`
+* [Karte oder Telefon: das Buch hat es entschieden](#karte-oder-telefon-das-buch-hat-es-entschieden) `Z. 549`
+* [Wer der Freund ist, und der Einwand dagegen ist der Grund dafuer](#wer-der-freund-ist-und-der-einwand-dagegen-ist-der-grund-dafuer) `Z. 565`
+* [Die Erlaubnis, mitten im Kampf](#die-erlaubnis-mitten-im-kampf) `Z. 592`
+* [Braucht er andere Behoerden? Ja, und die erste Akte ist Georgijs eigene](#braucht-er-andere-behoerden-ja-und-die-erste-akte-ist-georgijs-eigene) `Z. 662`
+* [Was er in den Ministerien tun darf, und wo er dabei ein anderer wird](#was-er-in-den-ministerien-tun-darf-und-wo-er-dabei-ein-anderer-wird) `Z. 696`
+* [Sang-hoons vierzig Prozent: warum die Szene in der Mitte keine Drohung ist](#sang-hoons-vierzig-prozent-warum-die-szene-in-der-mitte-keine-drohung-ist) `Z. 745`
+* [War das mit den fuenf Verladern Erpressung? Nachgelesen, und die Antwort ist geteilt](#war-das-mit-den-fuenf-verladern-erpressung-nachgelesen-und-die-antwort-ist-geteilt) `Z. 812`
+* [Die Hanseong-Gruppe, aufgemacht](#die-hanseong-gruppe-aufgemacht) `Z. 854`
+* [Der dritte Gegner ist, wer am Ende der Kette in Singapur sitzt](#der-dritte-gegner-ist-wer-am-ende-der-kette-in-singapur-sitzt) `Z. 1086`
+* [Die tote Bank ist nicht Hanseong Credit](#die-tote-bank-ist-nicht-hanseong-credit) `Z. 1110`
+* [Shorten: der gefaehrlichste Einfall im ganzen Plan, und deshalb der beste](#shorten-der-gefaehrlichste-einfall-im-ganzen-plan-und-deshalb-der-beste) `Z. 1132`
+* [Sechs Einheiten sind zu wenig fuer einen Chaebol, und das Buch weiss, wie man das loest](#sechs-einheiten-sind-zu-wenig-fuer-einen-chaebol-und-das-buch-weiss-wie-man-das-loest) `Z. 1281`
+* [Was wir uebersehen haben: sechs Faeden, die das Buch offen gelassen hat](#was-wir-uebersehen-haben-sechs-faeden-die-das-buch-offen-gelassen-hat) `Z. 1309`
+* [Wie Sang-hoon den Leerverkauf benutzt: nicht als Gewinn, sondern als Datum](#wie-sang-hoon-den-leerverkauf-benutzt-nicht-als-gewinn-sondern-als-datum) `Z. 1347`
+* [Es gibt keinen Streit mit Singapur, und der Autor hat recht damit](#es-gibt-keinen-streit-mit-singapur-und-der-autor-hat-recht-damit) `Z. 1384`
+* [Woos Frau stirbt im Buch, und das Buch zeigt es nicht](#woos-frau-stirbt-im-buch-und-das-buch-zeigt-es-nicht) `Z. 1426`
+* [Mr Chae hat mit Georgij gearbeitet, und das ist der Punkt](#mr-chae-hat-mit-georgij-gearbeitet-und-das-ist-der-punkt) `Z. 1488`
+* [Die Grabszene, und sie loest das Singapur-Problem](#die-grabszene-und-sie-loest-das-singapur-problem) `Z. 1503`
+* [Vier Entscheidungen des Autors vom 28.08.](#vier-entscheidungen-des-autors-vom-2808) `Z. 1581`
+* [Die zwanzig Prozent: die tote Bank hat damit nichts zu tun](#die-zwanzig-prozent-die-tote-bank-hat-damit-nichts-zu-tun) `Z. 1661`
+* [Die Rede an den Hanseong-Inhaber](#die-rede-an-den-hanseong-inhaber) `Z. 1712`
+* [Die Bitte um Fuehrung geht in diesem Band an den Hanseong-Inhaber](#die-bitte-um-fuehrung-geht-in-diesem-band-an-den-hanseong-inhaber) `Z. 1782`
+* [Nam geht zu Woo, und damit gehoert sie ihm ohnehin](#nam-geht-zu-woo-und-damit-gehoert-sie-ihm-ohnehin) `Z. 1809`
+* [Und die zwanzig Prozent: Fassung Woo ist entschieden](#und-die-zwanzig-prozent-fassung-woo-ist-entschieden) `Z. 1827`
+* [Woo vererbt, und damit bricht Regel 2 richtig](#woo-vererbt-und-damit-bricht-regel-2-richtig) `Z. 1837`
+* [Woos Ende: drei Briefe, und einer davon schreibt sich fast von selbst](#woos-ende-drei-briefe-und-einer-davon-schreibt-sich-fast-von-selbst) `Z. 1986`
+* [Das Ende von Band 3: Beisetzung, dann der Kuss](#das-ende-von-band-3-beisetzung-dann-der-kuss) `Z. 2047`
+* [Der Wangenkuss steht jetzt in der Sang-hoon-Szene, und das ist besser](#der-wangenkuss-steht-jetzt-in-der-sang-hoon-szene-und-das-ist-besser) `Z. 2064`
+* [Der Hanseong-Inhaber: ja, mit einer Korrektur](#der-hanseong-inhaber-ja-mit-einer-korrektur) `Z. 2162`
+* [Der Erbe: Vater konnte es, Grossvater konnte es, er ist der aelteste Sohn](#der-erbe-vater-konnte-es-grossvater-konnte-es-er-ist-der-aelteste-sohn) `Z. 2272`
+* [Die Faust: ja, und die Zahlen sagen, wie gross das ist](#die-faust-ja-und-die-zahlen-sagen-wie-gross-das-ist) `Z. 2373`
+* [Die Geschwister kaufen: das Verfahren steht in Band 1, und der Anker auch](#die-geschwister-kaufen-das-verfahren-steht-in-band-1-und-der-anker-auch) `Z. 2464`
+* [Los elf kommt in Band 3 zurueck, sechzehn und ausgebildet](#los-elf-kommt-in-band-3-zurueck-sechzehn-und-ausgebildet) `Z. 2716`
+* [Los elf: wie er ist, und wer ihn auftaut](#los-elf-wie-er-ist-und-wer-ihn-auftaut) `Z. 3133`
+
+## Band 4
+
+* [Band 4, erster Entwurf: er saniert, was er genommen hat](#band-4-erster-entwurf-er-saniert-was-er-genommen-hat) `Z. 1220`
+* [Das Halsband: zwei Gruende, es zu benutzen, und keiner davon ist Romantik](#das-halsband-zwei-gruende-es-zu-benutzen-und-keiner-davon-ist-romantik) `Z. 1471`
+* [Band 4 endet mit einem Verlobungsring, und der alte steht seit Kapitel 1 da](#band-4-endet-mit-einem-verlobungsring-und-der-alte-steht-seit-kapitel-1-da) `Z. 2105`
+
+## Band 5 und 6 zusammen
+
+* [Band 5 und Band 6: die Reihenfolge](#band-5-und-band-6-die-reihenfolge) `Z. 2532`
+
+## Band 5
+
+* [Also worum geht es in Band 5, ausser der Hochzeit](#also-worum-geht-es-in-band-5-ausser-der-hochzeit) `Z. 2597`
+* [Regel 2 ist mit der Hochzeit erledigt, und die Leiter wird dadurch kuerzer](#regel-2-ist-mit-der-hochzeit-erledigt-und-die-leiter-wird-dadurch-kuerzer) `Z. 2659`
+* [Die Vorgeschichte gehoert in denselben Band, und die Paarung ist der Grund](#die-vorgeschichte-gehoert-in-denselben-band-und-die-paarung-ist-der-grund) `Z. 2675`
+* [Die Gegner von Band 5 sind offen](#die-gegner-von-band-5-sind-offen) `Z. 2700`
+* [Band 5: die Unterwelt, und er geht dorthin zurueck, wo er herkommt](#band-5-die-unterwelt-und-er-geht-dorthin-zurueck-wo-er-herkommt) `Z. 2790`
+* [Der Name traegt, und die Begruendung wird nie ausgesprochen](#der-name-traegt-und-die-begruendung-wird-nie-ausgesprochen) `Z. 2807`
+* [Das Verfahren bleibt seins, und der Text hat es schon formuliert](#das-verfahren-bleibt-seins-und-der-text-hat-es-schon-formuliert) `Z. 2824`
+* [Die Genehmigungspflicht ist keine Lizenz, sondern eine Buchfuehrung](#die-genehmigungspflicht-ist-keine-lizenz-sondern-eine-buchfuehrung) `Z. 2849`
+* [Die Verbotsliste ist seine Biographie, und niemand im Raum weiss das](#die-verbotsliste-ist-seine-biographie-und-niemand-im-raum-weiss-das) `Z. 2871`
+* [Regel 1 im Umgang mit den Gruppen](#regel-1-im-umgang-mit-den-gruppen) `Z. 2886`
+* [Was es kostet, und ohne das ist es eine Machtphantasie](#was-es-kostet-und-ohne-das-ist-es-eine-machtphantasie) `Z. 2897`
+* [Wer ihn in Band 5 traegt: Jang, Hwang, und ein wenig Yeom](#wer-ihn-in-band-5-traegt-jang-hwang-und-ein-wenig-yeom) `Z. 2935`
+* [Der Junge wird Bediensteter, und er lernt so, wie Georgij gelernt hat](#der-junge-wird-bediensteter-und-er-lernt-so-wie-georgij-gelernt-hat) `Z. 3099`
+* [Jang war Wachmann bei mehreren Chaebol](#jang-war-wachmann-bei-mehreren-chaebol) `Z. 3185`
+* [Band 5: das erste Blut an seiner Hand](#band-5-das-erste-blut-an-seiner-hand) `Z. 3222`
+* [Erstens: er erhebt keinen Anspruch auf sich selbst](#erstens-er-erhebt-keinen-anspruch-auf-sich-selbst) `Z. 3233`
+* [Zweitens: Choi hat den Grund geliefert, warum er nicht toetet](#zweitens-choi-hat-den-grund-geliefert-warum-er-nicht-toetet) `Z. 3253`
+* [Der Text](#der-text) `Z. 3278`
+* [Was daran haengt](#was-daran-haengt) `Z. 3292`
+* [Die Bitte um Fuehrung ist nicht verbraucht, sie wird schwerer](#die-bitte-um-fuehrung-ist-nicht-verbraucht-sie-wird-schwerer) `Z. 3318`
+* [Was es kostet, und es ist nicht Reue](#was-es-kostet-und-es-ist-nicht-reue) `Z. 3338`
+* [Der Junge ist nicht dabei, entschieden am 29.08.](#der-junge-ist-nicht-dabei-entschieden-am-2908) `Z. 3369`
+* [Und danach geht er zu ihr](#und-danach-geht-er-zu-ihr) `Z. 3446`
+* [Die Menge, und sie aendert die Form an drei Stellen](#die-menge-und-sie-aendert-die-form-an-drei-stellen) `Z. 3551`
+* [Wie weit die Dokkaebi reichen: nicht ein Gebiet, sondern die Tueren](#wie-weit-die-dokkaebi-reichen-nicht-ein-gebiet-sondern-die-tueren) `Z. 3669`
+* [Kriminalitaet endet nicht, und das gehoert in einen Satz](#kriminalitaet-endet-nicht-und-das-gehoert-in-einen-satz) `Z. 3709`
+* [Wird Yeom zum Feind? Nein, und das ist schlimmer](#wird-yeom-zum-feind-nein-und-das-ist-schlimmer) `Z. 3725`
+* [Die Durchsetzung laeuft ueber Fracht und nicht ueber Gewalt](#die-durchsetzung-laeuft-ueber-fracht-und-nicht-ueber-gewalt) `Z. 3790`
+
+## Band 6
+
+* [Und daraus faellt Band 6 anders aus, als ich es notiert hatte](#und-daraus-faellt-band-6-anders-aus-als-ich-es-notiert-hatte) `Z. 2917`
+
+---
+
+**Der Rest dieses Dokuments steht in Gespraechsreihenfolge.** Wenn es
+unuebersichtlich wird, ist der naechste Schritt, Band 4, 5 und 6 in eigene
+Dateien zu heben (`33-plan-band-4.md`, `34-plan-band-5.md`,
+`35-plan-band-6.md`). **Nicht getan, weil dabei etwas falsch einsortiert
+werden kann und dann leise falsch steht.**
+
+---
+
 *Plan. Was Band 2 an Band 3 uebergibt.*
 
 Angelegt am 27.08. beim Umbau der Ablage. Bisher steht hier ein Faden; die
@@ -3863,4 +3973,5 @@ liegt bei drei Personen, von denen niemand gewaehlt wurde.
 **Dann ist es nicht Yeom, sondern jemand, dessen Einkommen der Abbau
 beendet.** Yeom hat nichts mehr zu verlieren, das Haus ist weg. **Wer noch
 daran verdient, hat es.**
+
 
