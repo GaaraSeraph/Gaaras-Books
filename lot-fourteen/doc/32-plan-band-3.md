@@ -3477,6 +3477,169 @@ werden - zwei Gegner und ein Apparat koennen einen Band tragen.
 
 ---
 
+---
+
+# Warum Hanseong Annie angreift, festgelegt am 29.08.
+
+**Der Einwand des Autors:** *"Nur wegen Beleidigung wuerde ich nicht so eine
+Vernichtung vom Zaun brechen, das waere unangemessen."* **Richtig - und der
+Grund liegt seit Band 1 im Buch und wartet dort.**
+
+## Der Grund: was Band 1 mit Hanseong gemacht hat
+
+`doc/14-welt.md`, *Der Koeder: Hanseong*, ueber den Eigentuemer:
+
+> **"Es gehoert einem Chaebol, der nicht benannt und nicht auf der Gala
+> anwesend ist. Das bleibt bewusst offen: eine Rechnung ohne Gesicht, die
+> spaeter jemand praesentiert."**
+
+**Der Autor hat das vor zwei Baenden hingelegt. Das ist Han Il-hwan.**
+
+**Was ihm angetan wurde, sachlich:**
+
+* Georgij legte Sang-hoon einen **wahren** Bericht ueber Hanseong hin.
+* Sang-hoon biss und kaufte **vierzig Prozent von Hanseong Shipping** -
+  billig und schnell, von der Haelfte des Vorstands, die heraus wollte
+  (`b1 ch25:304`).
+* **Hanseong verlor vierzig Prozent seiner einzigen laufenden Tochter, und
+  Han wurde nie gefragt.**
+
+**Und der Zweck war nicht einmal Hanseong.** `doc/14-welt.md`: *"Es haelt ihn
+nicht auf, es kauft Wochen, und Wochen sind das Einzige, was zu kaufen ist."*
+**Sein Konzern war das Werkzeug in einem fremden Streit, und er war nicht
+einmal gemeint.**
+
+**Das ist kein Kraenkungsmotiv, das ist ein Ueberfall** - und es ist die
+genaue Vorwegnahme der Rede: *Nobody asked you on the way up. Nobody had to
+ask you on the way down.* **Er war schon einmal nicht der Punkt.**
+
+## Wie er es erfaehrt
+
+**Nicht durch Verrat aus dem eigenen Lager.** Die fuenf, die es wissen
+(`b2 ch87:384`), sagen nichts.
+
+**Sondern durch die Haelfte des Vorstands, die verkauft hat.** Sie haben
+billig und schnell unterschrieben, und zwei Jahre spaeter wissen sie, dass
+sie benutzt worden sind. **Einer von ihnen erzaehlt seinem frueheren
+Vorsitzenden, wie das Papier auf den Tisch kam.** Das ist die Bewegungsart
+dieses Buches: ein Angestellter, ein Beleg, ein Mann, der sich erinnert.
+
+## Wie er angreift: ueber Zeit, nicht ueber Eigentum
+
+**Er kann Annie nicht kaufen und nicht verklagen. Er kann sie langsam
+machen.**
+
+**Ihre Verwundbarkeit steht ausgeschrieben** (`doc/14-welt.md`, *Was Annies
+Gruppe macht*): Spezialchemie und Werkstoffe, **die Vorprodukte sind
+fahrplangebunden und laufen ueber wenige Haefen.**
+
+> *Ein Reaktor, der steht, laeuft nicht am Donnerstag wieder an. Die Charge
+> darin ist verloren, die zwei dahinter auch, und eine Anlage, die eine
+> Woche kalt war, ist vier Wochen von brauchbar entfernt. Unter jedem
+> Liefervertrag steht eine Lieferklausel mit einer Zahl darin, und die Zahl
+> steht dort nicht, um vernuenftig zu sein.*
+
+**Und Hanseong Shipping hat vier Routen, echte Liegeplaetze, echte Slots**
+(`b1 ch14:82`).
+
+**Er verweigert nichts. Er ist langsam.** Ein Liegeplatz wird umgelegt. Ein
+Slot verschiebt sich um zwei Tage. Ein Umschlag dauert. **Jede Verspaetung
+faellt in einen kalten Reaktor, und jeder kalte Reaktor loest eine Klausel
+aus.**
+
+**Und es ist nicht beweisbar.** Haefen sind voll, Fahrplaene rutschen,
+Absicht kann niemand zeigen.
+
+### Warum das der richtige Angriff ist
+
+**1. Es ist Georgijs eigenes Verfahren, gegen ihn gerichtet.** Wahr,
+unbeweisbar, ohne Fingerabdruck. **Zum ersten Mal macht jemand anders das,
+was er macht.**
+
+**2. Das Buch hat Verzoegerung schon als Waffe eingefuehrt** - `doc/14-welt.md`
+ueber Incheon: *"Damit kontrolliert man Zeit, und Zeit ist in der Logistik
+alles... Fuer Sang-hoon ist Incheon deshalb die Stelle, an der man ihn
+verzoegern kann."* **Han spielt dasselbe Stueck von der anderen Seite.**
+
+**3. Es hat eine Uhr.** Die Klauseln laufen. **Damit ist der Feldzug von Band
+3 nicht Ehrgeiz, sondern Verteidigung mit Frist** - wie jeder Band davor.
+
+**4. Und es trifft sie da, wo sie nicht Chaebol ist, sondern abhaengig.**
+`doc/14-welt.md`: *"Damit ist sie nicht Wohltaeterin, sondern abhaengig."*
+
+### Die zweite Klinge: ihre Kunden
+
+**Wer unzuverlaessig liefert, verliert Kunden** - und das Buch hat den Satz
+dafuer schon, `b1 ch14:144`: *"Customers never come back for money. They come
+back because somebody they trust is standing next to you."*
+
+**Bei den Kims war die Antwort Woo.** Er stellte seinen Namen neben ihren,
+und die Kuendigungen hoerten in derselben Woche auf.
+
+**Bei Annie in Band 3 ist Woo achtzig und stirbt am Bandende.** Der Schild
+existiert und hat ein Ablaufdatum, **und alle im Raum wissen das.**
+
+## Was das mit dem Band macht
+
+**Die Reihenfolge steht jetzt aufrecht:** Han greift an, weil Band 1 ihm
+vierzig Prozent genommen hat, ohne ihn zu fragen. **Georgij zerlegt ihn,
+weil die Klauseln laufen.** Und am Ende sagt er ihm ins Gesicht, dass er nie
+der Punkt war - **was der Grund ist, warum das alles ueberhaupt angefangen
+hat.**
+
+**Damit ist Band 3 der erste Band, in dem Georgij die Folgen seiner eigenen
+Arbeit einholt.**
+
+---
+
+# Vier kleinere Festlegungen vom 29.08.
+
+## Lot elfs Ankunft
+
+**Vom Autor:** *sie sagt es ihm nicht. Wird nur angedeutet. Von wem er
+gebracht wird, ist egal. Mrs Seo ist Chefin des Haushalts, sie nimmt ihn in
+Empfang.*
+
+**Damit gilt:**
+
+* **Der Junge erfaehrt nie, dass er wegen Georgij gekauft wurde.** Es wird
+  angedeutet und nicht gesagt. **Georgij weiss es und sagt es auch nicht.**
+* **Wer ihn bringt, ist unerheblich** und bekommt keine Zeile.
+* **Mrs Seo nimmt ihn in Empfang**, weil sie den Haushalt fuehrt - dieselbe
+  Frau, die Georgij am ersten Abend *"I know what you are"* gesagt hat, nicht
+  unfreundlich und nicht freundlich (`b1 ch03:40`).
+
+**Und das ist die Symmetrie, die niemand ausspricht:** derselbe Flur,
+dieselbe Frau, derselbe Satz zur Verfuegung - **und diesmal steht der, der
+zuerst so ankam, daneben und sieht zu.**
+
+## Woos Frau: **Woo Mi-sook**
+
+**Vom Autor freigegeben.** Null Kollisionen im ganzen Kanon (*Mi-sook*,
+*Sook*: je null Treffer). **Gestorben am neunten September 2026, Erzaehltag
+341**, mitten im unerzaehlten Fenster.
+
+**Auf dem Stein steht das Datum, und Georgij liest es. Mehr braucht die Szene
+nicht.**
+
+## Der Registerzug: die Seite existiert
+
+**Vom Autor bestaetigt.** Die Seite aus dem achtzehnten Jahrhundert gibt es,
+und sie widerlegt die Familienlegende.
+
+**Und Georgij spielt sie nie aus. Das ist die Entscheidung.**
+
+**Warum:** er hat sie frueh gefunden, und sie ist der Grund, warum er von
+Anfang an wusste, dass der Mann hohl ist. **Aber die Rede zerlegt ihn mit
+Tatsachen ueber die Gegenwart** - der Vorstand, die Geschwister, die
+Entbehrlichkeit. **Eine widerlegte Legende von 1780 waere daneben eine
+Fussnote und wuerde die Rede weicher machen, nicht haerter.**
+
+**Und es traegt die Figur:** ein Mann, der die Waffe hat und sie nicht
+braucht, ist gefaehrlicher als einer, der alles auspackt. **Der Leser
+erfaehrt, dass die Seite existiert. Han nie.**
+
+
 # Sechs Festlegungen vom 29.08.
 
 ## 1. Wie Woo stirbt: eingeschlafen und nicht wieder aufgewacht
@@ -3724,6 +3887,170 @@ er getan hat.
 **Nicht einsortiert und flexibel:** die Grabszene kann frueher liegen (der
 Sterbetag der Frau ist Tag 341, der Besuch ist jederzeit moeglich), und die
 Yeom-Szene braucht nur *nach* Sang-hoon und *vor* dem Fall zu bleiben.
+
+---
+
+# Woos drei Briefe, entworfen am 29.08.
+
+**Der Autor hat den Inhalt des dritten angefordert.** Alle drei liegen beim
+Anwalt und gehen **am Tag seines Todes** auf (`b2 ch82:252`).
+
+## Brief eins, an Annie: die vier Antworten
+
+**Steht seit Band 2 fest und braucht nichts.** `b2 ch82:238`: *"I have been
+waiting to be asked since the tenth of January."* **Sie hat sich geweigert zu
+fragen, und bekommt sie jetzt, ohne gefragt zu haben.**
+
+## Brief zwei, an beide: das Testament
+
+**Zuerst seine Leute, mit Namen und Betrieben. Dann die Gruppe an Georgij und
+Annie, fuenfzig zu fuenfzig, kein Vorgang ohne beide Namen, und bei
+Uneinigkeit faellt alles an die Belegschaft.**
+
+## Brief drei, an Georgij: die Fuehrung aus den ersten vierzehn Tagen
+
+**Der Anlass steht in `b1 ch12:146`:** *"On Saturday you asked me for
+guidance. Chairman Woo has told several people that you asked him the same
+thing, in almost the same words, some minutes earlier."*
+
+**Woo hat zwei Jahre lang in Stuecken geantwortet. Das ist der Rest.**
+
+### Was der Brief tut, und warum nur Woo ihn schreiben kann
+
+**Georgijs blinder Fleck ist, dass er nichts annehmen kann.** Zwei Baende
+lang nimmt er nichts: keinen Umschlag, keine Gefaelligkeit, kein Geschenk.
+**Und Band 3 ist der Band, in dem ihm Sachen gegeben werden** - Yeom nennt
+ihn Freund, sie kuesst ihn, Woo vererbt ihm alles. **Der Brief ist der
+Schluessel dazu und macht das Thema des Bandes ausdruecklich.**
+
+**Und Woo ist der Einzige, der es sagen darf**, weil er dieselbe Sache
+einundfuenfzig Jahre lang getan hat und weiss, was sie kostet: *"I have never
+had a name and I have never asked for one"* (`b1 ch19:166`).
+
+### Der Text
+
+The letter is one page, in his own hand, and there is no salutation on it.
+
+---
+
+*In your first fortnight you asked me for guidance, and I gave you four sentences about a harbour board, and you thanked me as though I had handed you something. I have thought about that more often than you would believe.*
+
+*I have been answering it in pieces ever since. This is the rest of it, and it is the only part I could not say across a table, because you would have found a way to give it back inside a minute.*
+
+---
+
+*You have never taken anything. Not from me, not from her, not from anybody, and you believe that it is the thing that keeps you safe.*
+
+*It was. It is not any more.*
+
+*And you will not notice the day it stops, because a man notices what is taken from him and does not notice what he has refused.*
+
+---
+
+*I did not ask for fifty-one years who lent me the money. I told myself that this was discipline, and it was not. It was the same habit you have, kept for longer, and I have nothing at the end of it but a terminal and a small man with bad teeth who I never once thanked.*
+
+*You gave me that man's account of himself on a hill outside the city and would not tell me what it cost you. I am aware that this letter is the second half of that conversation and that you will not enjoy it.*
+
+---
+
+*So I have arranged this so that you cannot refuse it. It is not a kindness. I am not doing it for you.*
+
+---
+
+*One more thing, and then I am finished.*
+
+*You once heard what a man asked me about the terminal and what would become of it if I died on a Tuesday, and you took that question away with you and used it on somebody else, and it worked, and I was glad.*
+
+*Ask it about yourself.*
+
+*And when you answer it, do not answer it the way I did, because I answered it honestly and the honest answer was that everything I built would be sold within a year, and I let that stand for twenty-five years and called it clear sight.*
+
+*It was not clear sight. It was that I had nobody, and I had arranged that as carefully as you have arranged yours.*
+
+---
+
+### Was daran gebaut ist
+
+**1. Kein Salut, eine Seite, eigene Hand.** `b2 ch82:252` sagt, wie Woo so
+etwas macht: *All four, in my hand.*
+
+**2. Er nimmt die Gabe im Akt des Gebens zurueck** - *It is not a kindness. I
+am not doing it for you.* **Woertlich die Formel aus `b2 ch82:260`, und die
+einzige Form, in der Georgij ueberhaupt etwas annehmen kann.**
+
+**3. Die Grabszene bekommt ihre zweite Haelfte.** *You would not tell me what
+it cost you.* **Woo hat gefragt und keine Antwort bekommen** (*"How much did
+that cost you." - "Nothing I am going to put in front of you today."*), **und
+der Brief ist seine Antwort auf eine Antwort, die er nicht bekommen hat.**
+
+**4. Der Kern ist eine Diagnose und kein Rat:** *a man notices what is taken
+from him and does not notice what he has refused.* **Woo stellt fest, was er
+sieht, weil er es an sich selbst gesehen hat.**
+
+**5. Und die Dienstagsfrage kommt zurueck, dreimal gewendet** - gestellt von
+einem Toten an Woo, weitergegeben von Woo an Georgij, benutzt von Georgij an
+Ye-rin (`b1 ch31:358`), **und jetzt zurueckgegeben, damit er sie an sich
+selbst stellt.** Das ist das Thema von Band 6 in einem Satz.
+
+**6. Und die letzte Zeile ist das haerteste Selbsturteil im ganzen Buch:**
+*I had nobody, and I had arranged that as carefully as you have arranged
+yours.* **Woo sagt nicht, Georgij solle sich aendern. Er sagt, was es ihn
+gekostet hat, es nicht zu tun** - und ueberlaesst ihm den Rest.
+
+---
+
+# Das Schuldbuch: wo die drei offenen Zusagen eingeloest werden
+
+**Vom Autor am 29.08. angefordert.** `doc/13-zusagen.md` fuehrt drei Posten
+als **[OFFEN]**, und alle drei haben jetzt einen Ort.
+
+## 1. Singapur: *"What he actually owns behind the lawyers in Singapore"*
+
+**Annie an Georgij, Tag 244, faellig Tag 248. Nie eingeloest, und der Text
+weiss es** - `b2 ch39:254`: *I have not found the Singapore end yet.*
+
+**Wo es eingeloest wird: teilweise in Band 3, ganz in Band 5.**
+
+* **Band 3** gibt die halbe Antwort und sagt, dass es die halbe ist: Georgij
+  geht wegen Hanseong in die Zwischengesellschaften und findet dort Woos
+  zwanzig Prozent. **Was dahinter sitzt, findet er weiterhin nicht.**
+* **Band 5** loest sie ein, wenn der Handel zerlegt wird - dort ist die
+  Kette die Wand, und dort muss sie fallen.
+
+**Wichtig fuer den Text: er sagt es ihr.** Eine zwei Jahre alte Zusage, die
+halb eingeloest wird, wird benannt und nicht stillschweigend abgehakt.
+
+## 2. Die achtundfuenfzig: was aus den Eingeladenen geworden ist
+
+**Georgij an Moon Hae-sook, Tag 409, faellig bei jedem einzelnen von
+achtundfuenfzig.** Der Text weiss es und sagt es selbst: *The other fifty-eight
+are in the back of the book and I am going to be at this for years.*
+
+**Das ist kein Posten, der eingeloest wird, sondern einer, der laeuft.**
+
+**Wie Band 3 ihn bezahlt: in Zahlen am Rand, nie als Szene.** Ein Satz alle
+paar Kapitel - wie viele es inzwischen sind, wie viele nicht mehr leben, wie
+viele nicht gefunden werden wollten. **Der Posten ist nur dann ehrlich, wenn
+er den ganzen Band ueber im Hintergrund weiterlaeuft**, waehrend Georgij mit
+einem Chaebol beschaeftigt ist. **Das ist zugleich die Antwort auf Gongs
+Anklage, ohne dass sie ausgesprochen wird.**
+
+## 3. Die zweite Korrektur: Datum und Wortlaut
+
+**Georgij an Annie, Tag 397, faellig bei dem Tag, an dem Baek die Urkunde
+herausgibt. Am Bandende offen, und der Text weiss es.**
+
+**Wo es eingeloest wird: frueh in Band 3, in Akt I, und es dauert eine
+halbe Seite.**
+
+**Warum frueh:** es ist eine Bringschuld aus Band 2, und ein Band, der mit
+einer Beisetzungskarte anfaengt, soll nicht auch noch mit einem alten
+Versprechen anfangen. **Ausserdem ist es die letzte Sache, die den Ahn-Faden
+schliesst** - und Band 3 braucht den Tisch frei.
+
+**Und der Ton ist der von `b2 ch65`: ohne Umschreibung.** Datum, Wortlaut,
+fertig. **Wer das ausschmueckt, bricht die Zusage im Einloesen.**
+
 
 # Verlauf: ueberholte Fassungen
 

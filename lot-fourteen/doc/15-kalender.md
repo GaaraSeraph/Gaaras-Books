@@ -16,27 +16,36 @@ Kalender, Kapitelstand, wiederkehrende Bilder, woertlich festgelegte Zeilen. Die
 
 ## ⚠ Kapitelnummern in Band 2: zwei Verschiebungen, keine nachgezogen
 
-**Band 2 hat seit dem 28.08. fuenfundachtzig Kapitel.** `ch35` ist in drei
-geteilt worden, und **alle Nummern ab 36 sind seither um zwei hoeher**: aus
-alt 36 wurde 38, aus alt 83 wurde 85.
+**Band 2 hat neunundachtzig Kapitel** (gezaehlt am 29.08. ueber
+`chapters-2/`; die Zahl fuenfundachtzig stand hier und war ueberholt).
 
-**Die Verweise in `doc/` sind NICHT nachgezogen worden, und zwar mit Absicht.**
-Sie tragen naemlich schon einen aelteren Versatz: die Umnummerierung vom 27.08.
-ist ebenfalls nie in die Dokumente gelaufen. Belegbar daran, dass hier und in
-`41-entscheidungen.md` **Kapitel 87, 88 und 90** stehen, und die hat Band 2 auch vor
-dem 28.08. nicht gehabt.
+**Es hat drei Nummerierungsgenerationen gegeben** - vor dem 27.08., die
+Umnummerierung vom 27.08. (`archiv/UMNUMMERIERUNG.md`), und die Teilung vom
+28.08. **Ein pauschales Verschieben wuerde die falschen Stellen
+mittreffen.**
 
-**Ein pauschales Plus-Zwei wuerde die falschen Stellen mitverschieben.** Jeder
-Verweis muss einzeln entschieden werden, und dafuer ist
-`archiv/VERWEISE-OFFEN.md` da.
+### Die Regel, aufgestellt und geprueft am 29.08.: das Format sagt, welche Generation gilt
 
-Bis dahin gilt beim Lesen dieser Dokumente:
+| Schreibweise | Bedeutung | Zahl in `doc/` |
+|---|---|---|
+| **`b2 chNN:LL`** | **aktuelle Nummerierung, mit Zeilennummer.** Gueltig | **521** |
+| **`KNN`, `b2 KNN`, `Kapitel N`** | **alte Nummerierung.** Vor dem Benutzen im Text nachschlagen | **476** |
 
-| Nummer im Text | Was gemeint sein kann |
-|---|---|
-| bis 35 | unveraendert gueltig |
-| 36 bis 85 | entweder heutige Nummer, oder heutige minus zwei, oder alte Nummerierung von vor dem 27.08. |
-| ueber 85 | sicher alte Nummerierung |
+**Und die erste Zeile ist nachgewiesen, nicht behauptet:**
+`python werkzeug/belege.py --kapitel` meldet am 29.08. **null Zitate unter
+der falschen Kapitelnummer.** Alle Verweise im `chNN:LL`-Format sind gegen
+den Text geprueft.
+
+**Damit ist der Drift sichtbar statt unsichtbar.** Wer eine Nummer im
+alten Format sieht, weiss ohne Nachdenken, dass er sie nachschlagen muss.
+**Wer eine im neuen Format sieht, darf sie benutzen.**
+
+**Die 476 alten Stellen sind einzeln aufgefuehrt in
+`archiv/VERWEISE-OFFEN.md`** und werden umgehaengt, wenn jemand sie
+anfasst - nicht auf Vorrat.
+
+**Fuer neue Eintraege gilt ab sofort: nur noch `b2 chNN:LL`.** Wer im alten
+Format schreibt, erzeugt eine neue Altlast.
 
 **Was immer stimmt, ist `erzeugt/KAPITEL.md` und `erzeugt/REGISTER.md`.** Beide
 werden aus den Kapitelkoepfen erzeugt und koennen nicht driften.
