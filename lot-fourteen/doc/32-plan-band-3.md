@@ -3368,25 +3368,68 @@ vier nicht. **Die vier kommen ins Gefaengnis, die elf nicht mehr irgendwohin**
 **Das ist die Stelle, an der er ein Haus ist**, und sie ist jetzt nicht mehr
 angedeutet, sondern vollzogen.
 
-## Die Frage, die der Autor entscheiden muss: ist der Junge dabei
+## Der Junge ist nicht dabei, entschieden am 29.08.
 
-**Sie ergibt sich aus zwei Festlegungen, die beide schon getroffen sind**, und
-ich entscheide sie nicht.
+**Und die Begruendung des Autors ist eine dritte Fassung, die ich nicht
+gesehen hatte.** Ich hatte zwei angeboten: er ist dabei und fragt hinterher,
+oder er wird weggeschickt und merkt es. **Beide handeln davon, was er sieht.**
 
-**Los elf kommt ab und zu mit, lernt still, und fragt hinterher.**
+**Die Entscheidung handelt davon, was er lernen soll:**
 
-**Wenn er an diesem Abend dabei ist, stellt er hinterher seine Frage.** Und
-Georgij sagt nie etwas Unwahres.
+> **Er ist sechzehn und soll keinen Massenmord mit eigenen Augen sehen. Dass
+> eine Hinrichtung stattgefunden hat und wie gebrochen der Mann danach war,
+> sagt ihm alles, was er lernen soll.**
 
-**Ein Sechzehnjaehriger, der selbst verkauft wurde, fragt einen Mann, der
-gerade den Handel getoetet hat, warum er es getan hat.** Es gibt keine
-Antwort, die nicht entweder eine Rechtfertigung ist, die Georgij nicht gibt,
-oder ein Satz, der dem Jungen beibringt, wie man so etwas begruendet.
+### Das verlegt die Lehre von der Tat auf den Preis
 
-**Wenn er nicht dabei ist, ist es das einzige Mal, dass Georgij ihn
-weggeschickt hat, und der Junge merkt das.**
+**Wer die Hinrichtung sieht, lernt, dass sie geht.**
 
-**Beides ist gut. Beides kostet. Es gibt keine dritte Fassung.**
+**Wer nur den Mann danach sieht, lernt, was sie kostet** - und das ist das
+Einzige, was ihn spaeter davon abhaelt, es leichtfertig zu tun.
+
+**Und es loest die Schwierigkeit, die ich aufgemacht hatte, ohne sie zu
+verhandeln.** Der Junge muss nicht fragen, warum. **Er muss nichts
+beantwortet bekommen.** Damit steht Georgij nicht vor der Wahl zwischen einer
+Rechtfertigung, die er nicht gibt, und einem Satz, der Begruendungen
+beibringt.
+
+### Und es ist genau das, was Georgij selbst nie bekommen hat
+
+**In elf Haeusern hat ihm niemand gezeigt, was irgendetwas kostet.** Er hat
+Verfahren gelernt, Preise, Gesichter, Ausgaenge. **Nie den Preis.**
+
+**Das Einzige, was er dem Jungen geben kann, das er selbst nie bekommen hat,
+ist der Anblick eines Mannes, der zahlt.**
+
+### Wie der Junge es erfaehrt: so, wie dieses Haus alles erfaehrt
+
+**Niemand sagt es ihm.** Er sieht den Mann durch die Tuer kommen, und das ist
+alles.
+
+**Das Haus registriert seit zwei Baenden, was mit ihm los ist, ohne dass es
+jemand ausspricht.** Mrs Seo hat elf Minuten in einer Kueche abgezaehlt
+(`b2 ch86:556`). Ji-won hat ein Licht gebracht, das keiner brauchte
+(`b1 ch03:90`). Jang stand in der Halle, **ohne dass er dort sein musste**
+(`b1 ch33:12`).
+
+**Der Junge lernt es auf demselben Weg**, und er ist dafuer ausgebildet:
+zusehen, still sein, hinterher fragen.
+
+### Und die Frage, die er hinterher stellt
+
+**Zwei Fassungen, und die zweite ist die haertere.**
+
+**A. Er fragt etwas Kleines und Praktisches** - ob es etwas gibt, das er nicht
+sagen soll. **Eine Bedienstetenfrage nach einer solchen Nacht**, und dass er
+sie stellt, sagt Georgij, dass der Junge noch in der Logik des Handels denkt.
+**Das ist die Stelle, an der es wehtut.**
+
+**B. Er fragt nichts.** Zum ersten Mal, seit er mitgeht, hat er keine Frage.
+**Und daran erkennt Georgij, dass er verstanden hat.**
+
+**B ist besser, wenn es nur einmal benutzt wird**, und es funktioniert nur,
+weil die Reihe davor steht: ein Junge, der nach jedem Mal gefragt hat, fragt
+nach diesem nicht.
 
 ---
 
