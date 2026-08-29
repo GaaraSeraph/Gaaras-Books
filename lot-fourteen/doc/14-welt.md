@@ -454,7 +454,11 @@ nicht.
 | Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**: eine **Private-Equity-Gesellschaft in Hongkong** | `b1 ch13:96` |
 | Dahinter *nothing whatsoever, because that is what it is for* | `b1 ch13:208` |
 | *So he had a company behind a chain behind a fund.* **He had no person at all.** | `b1 ch13:98/100` |
+| **Vierhundert Milliarden Won** hat der Mann geliehen | `b2 ch69:92` |
 | **Zwanzig Prozent** *has been owed since the year I built it, to a fund I could not fund it without* | `b1 ch19:162` |
+| **Er hat nicht zwanzig Prozent gekauft.** Er hat vierhundert Milliarden **geliehen** und zwanzig Prozent als Eigenkapitalanteil genommen - die uebliche Form, wenn einer arrangiert und das erste Risiko traegt | Ableitung aus beiden |
+| **Und warum zwanzig und nicht fuenf:** weil das Risiko total war. Neun Jahre *geht nicht*, kein Chaebol dahinter, ein Nichtchaebol von etwa fuenfundsechzig. **Zu keinem Preis haette sonst jemand geliehen** | Ableitung |
+| **Warum Woo ueberhaupt gefragt hat, obwohl er Geld hat:** man baut kein Objekt dieser Groesse aus der eigenen Tasche, sein Geld liegt im laufenden Betrieb, und `b1 ch19:158` zeigt, wie er denkt - *lendable*. **Und die neun Jahre waren nicht Geld, sondern Erlaubnis** | `b1 ch18:222`, `b1 ch19:48/158` |
 | *I have never had a name and I have never asked for one, and a man does not ask when the money is already in the concrete* | `b1 ch19:166` |
 | *I can pay them out on a Thursday with somebody else's money and never find out who I was bowing to* | `b1 ch19:166` |
 | Georgij zu Annie: *He **is going to** pay it out himself* - **Futur, nirgends vollzogen** | `b1 ch20:94` |
@@ -476,17 +480,61 @@ nicht.
 | Woo reagierte nicht auf das Wort Hongkong | `b1 ch13:210` |
 | **Ein kleiner Mann mit schlechten Zaehnen, tot seit 2011** | `b1 ch31:364` |
 
-**⚠️ Widerspruch, offen:** das Terminal ist 2025 fertig geworden, der Mann ist
-seit 2011 tot. **Ein Toter finanziert kein Terminal, das vierzehn Jahre
-spaeter gebaut wird.** `b1 ch13:180` fragt ausdruecklich nach *the man who
-made that possible*, und `b1 ch31:354` bindet ihn an *the terminal*.
+### Der Widerspruch 2011 gegen 2025, aufgeloest am 29.08.
 
-**Die billigste Aufloesung waere, dass er nicht das Geld war, sondern der,
-der die Frage gestellt und es eingefaedelt hat.** Dann bliebe `b1 ch31:364`
-unveraendert richtig - *the best thing anybody ever did for me took him nine
-seconds* ist die Frage und nicht das Geld - und nur `b1 ch13:194` muesste von
-*he lent me the money* auf etwas wie *the money came* umgestellt werden.
-**Nicht entschieden.**
+**Er war keiner. Ich hatte eine Annahme drin, die nirgends steht: dass Geld
+und Bau zusammenfallen.**
+
+`b1 ch18:222` sagt es: *a terminal on Yeongjong that he built in ten months
+**after nine years of being told it could not be done**.*
+
+**Die neun Jahre sind das fehlende Stueck. Das Geld war zugesagt, lange bevor
+gebaut wurde.**
+
+| Wann | Was | Beleg |
+|---|---|---|
+| **um 2010** | Ein Abendessen bringt ihn zu dem Mann | `b1 ch10:56` *"Somebody at a dinner"* |
+| **um 2010** | Drei im Raum, die Dienstagsfrage, die Antwort, dann das Geld: **vierhundert Milliarden Won** | `b1 ch13:186-194`, `b2 ch69:92` |
+| **2011** | **Der Mann stirbt** | `b1 ch31:364` |
+| 2011-2024 | **Neun Jahre *es geht nicht***, dazu der Streit mit der Hafenbehoerde um einen Landstreifen und die Ausschuesse | `b1 ch18:222`, `b1 ch19:48` |
+| ueberlappend | **Sechs Jahre die Falschen nach Ladung gefragt** | `b1 ch27:294` |
+| ~Mitte 2024 | Baubeginn | |
+| **zehn Monate** | Bauzeit | `b1 ch10:50` |
+| Fruehjahr 2025 | Ankuendigung | `b1 ch07:106` |
+| **~Mai/Juni 2025** | fertig, **vier bis fuenf Monate vor Tag 1** | |
+| Tag 188 / Tag 434 | zehn bzw. neunzehn Monate alt | `b2 ch13:50`, `b2 ch69:18` |
+
+**Und die eine Zeile, die zu widersprechen schien, stimmt danach genau.**
+`b1 ch19:162`: *twenty per cent of this has been owed **since the year I built
+it**.* **Ein Anteil an der Projektgesellschaft kann erst entstehen, wenn die
+Gesellschaft existiert.** Die Zusage ist vierzehn Jahre aelter als die
+Anteile, und Woo sagt das auch so.
+
+**Kein Kanoneingriff noetig. Keine Zeile wird geaendert.**
+
+#### Und was die Zeitleiste der Geschichte gibt
+
+**Der Mann, der es moeglich gemacht hat, hat es nie gesehen.** Neun Sekunden
+Frage, vierhundert Milliarden Won, und vierzehn Jahre vor dem ersten Schiff
+tot.
+
+**Erst so ist `b1 ch31:364` vollstaendig:** *"I have never known what to do
+with the fact that **the best thing anybody ever did for me took him nine
+seconds**."* Woo konnte nichts zurueckgeben, nichts danken, nichts.
+
+**Und es erklaert die zwanzig Prozent.** Vierzehn Jahre lang war das die
+Zusage eines Toten, weitergefuehrt von einer Struktur, die laeuft, weil
+Strukturen laufen. Niemand hat nachverhandelt, niemand hat gefragt, **und als
+Woo endlich gebaut hat, gingen die Anteile dorthin, wo das Papier sie
+hinschickte.**
+
+**Und es erklaert endgueltig, warum niemand zu finden ist.** `b1 ch13:100`:
+*He had no person at all.* **Es gibt keine Person. Es gab eine, und sie ist
+seit 2011 tot.** Was uebrig ist, fuehrt Anweisungen aus.
+
+**Fuer die Grabszene heisst das: wer die zwanzig Prozent heute haelt, hat
+eine Zusage geerbt und keine Beziehung.** Es steht niemand dahinter, dem Woo
+je etwas bedeutet hat.
 
 ---
 
@@ -646,9 +694,12 @@ Eigentum, die er nicht belegen kann, **und er sagt nie etwas Unwahres.**
 1. **Fremdkapital oder Eigenkapital.** Die entschiedene Fassung setzt
    **Eigenkapital** voraus: bei Fremdkapital gaebe es nichts unerreichbar zu
    machen, weil Woo einfach tilgen koennte.
-2. **Der Widerspruch 2011 gegen 2025.**
-3. **Die Fertigstellung: vier bis fuenf Monate vor Tag 1 nach dem Kanon,
-   zehn nach der Angabe des Autors.**
+
+**Erledigt am 29.08.:** der Widerspruch 2011 gegen 2025 (siehe oben, die
+Zusage ist vierzehn Jahre aelter als der Bau) und die Fertigstellung
+(**vier bis fuenf Monate vor Tag 1**, nach zwei datierten Stellen; die
+zehn Monate sind die **Bauzeit** und nicht der Abstand zu Tag 1, und da lag
+die Verwechslung).
 4. **Ein Anklang, der beim Berichtigen kaputtgegangen ist.** Der Szenenanfang
    sagt *He did not know what she had liked and there was **nobody left to
    ask**.* Die alte Fassung der Schenkungszeile wiederholte das woertlich.
@@ -721,19 +772,68 @@ Stelle.**
 Schiffe.** Er bewegt die Ladung anderer Leute, und das ist der ganze
 Unterschied zu den Kims und zu Hanseong.
 
-### Was daran zu entscheiden ist
+### Entschieden am 29.08.
 
-1. **Erbt Georgij das Terminal oder die Gruppe?** Bisher stand im Plan
-   *zwanzig Prozent eines Terminals*. **Wenn Woo mehr hat, ist die Frage
-   offen, und sie ist gross** - eine Spedition mit fuenfzig Jahren Kunden ist
-   ein anderes Erbe als ein Kai.
-2. **Ob der Rest ueberhaupt im Text vorkommt.** **Er muss nicht.** Es reicht,
-   dass er existiert und dass keine Zeile ihn ausschliesst. **Zwei Halbsaetze
-   im ganzen Band wuerden genuegen.**
-3. **Und wenn er vorkommt: wer ihn nach dem Tod fuehrt.** Eine Spedition ohne
-   den Mann, dem die Kunden vertrauen, ist in achtzehn Monaten leer. **Das
-   ist dieselbe Frage, die Ye-rin in `b1 ch30:186` an sich selbst stellt**,
-   und Georgij hat sie dort schon einmal beantwortet.
+**Der Bestand oben gilt. Und die Beteiligungsverhaeltnisse sind sauber, und
+das ist der ganze Punkt.**
+
+**Die Gruppe haelt an jedem Betrieb darunter die absolute Mehrheit.**
+
+**Georgij und Annie halten an der Gruppe die absolute Mehrheit, moeglicherweise
+zusammen hundert Prozent.**
+
+#### Und das ist das genaue Gegenteil eines Chaebols
+
+**Ein Chaebol wird ueber Ueberkreuzbeteiligungen gehalten:** der Inhaber
+kontrolliert einundvierzig Firmen mit einem kleinen direkten Anteil, weil
+jede die naechste haelt. **Deshalb nimmt ihm der Kauf der profitablen
+Einheiten die Kontrolle nicht ab**, und deshalb sitzen die schwarzen Kassen
+in den Zwischengesellschaften, die niemand liest.
+
+**Woos Gruppe ist eine gerade Pyramide mit echten Mehrheiten.** Kein
+Ueberkreuz, keine Zwischengesellschaft, nichts, was jemand lesen muesste.
+
+**Drei Sachen folgen daraus, und alle drei sind Handlung:**
+
+1. **Sie ist in einem Dokument vererbbar.** Ein Chaebol ist es nicht - er
+   waere in vierzig Einzelteilen zu uebertragen, und jedes haette einen
+   Aufsichtsrat.
+2. **Sie ist angreifbar.** Wer die Gruppe hat, hat alles darunter. **Ein
+   Chaebol ist gegen genau das gebaut**, und Woo ist es nicht.
+3. **Und sie sagt etwas ueber den Mann.** Wer sein Leben lang gerade Anteile
+   haelt, hat nie etwas zu verstecken gehabt (`b1 ch19:190`: *no photograph
+   with a politician in it*).
+
+#### Wo die Belegschaft sitzt
+
+**Unter der Gruppe, in ihren eigenen Betrieben.** Die Gruppe behaelt die
+Mehrheit, die Leute bekommen den Rest. **Damit greift die Regel auf beiden
+Ebenen und die Belegschaft ist Minderheit, nicht Miteigentuemer der Gruppe.**
+
+#### Die Beteiligungen sind ausgenommen
+
+**Minderheiten an Betrieben anderer Leute sind Vermoegen und keine
+Konzernteile.** Fuer sie gilt die Mehrheitsregel nicht, und sie sind auch
+nicht das, was jemand fuehren muss.
+
+#### Und die Gruppe bekommt keinen Namen
+
+**Das Buch benennt Firmen nur, wenn der Name arbeitet.** Woos Terminal heisst
+zwei Baende lang *the terminal at Yeongjong* und sonst nichts. **Ein
+Konzernname waere eine neue Vokabel ohne Aufgabe.** Er heisst Woo Jae-sung
+(`b2 ch69:172`), und das genuegt.
+
+### Was offen bleibt
+
+**Die Aufteilung zwischen Georgij und Annie.** Der Plan las das Erbe bisher
+als *so geteilt, dass keiner allein handeln kann* - **das waere die Haelfte
+je**, und es ist die Form, in der aus einem Nachlass ein Segen wird. **Nicht
+entschieden.**
+
+**Und wer die Spedition nach dem Tod fuehrt.** Ohne den Mann, dem die Kunden
+vertrauen, ist sie in achtzehn Monaten leer - **dieselbe Frage, die Ye-rin in
+`b1 ch30:186` an sich selbst stellt**, und Georgij hat sie dort schon einmal
+beantwortet.
 
 ## Wer sich mit Macht anlegt und seinen Schutz verliert
 

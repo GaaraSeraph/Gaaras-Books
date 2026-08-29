@@ -1980,10 +1980,15 @@ und in keine andere** - und `b2 ch82:252` sagt schon, wie er so etwas macht:
 *All four, in my hand.*
 
 **Damit hat das Testament eine Reihenfolge, und die ist die Pointe:** zuerst
-seine Leute, mit Namen und Betrieben. **Dann die Gruppe an zwei Personen, von
-denen eine keinen Namen hat, der eine Tuer oeffnet.**
+seine Leute, mit Namen und Betrieben. **Dann die Gruppe.**
 
 **Georgij steht nicht am Anfang des Dokuments. Er steht darin.**
+
+**Berichtigt am 29.08.:** ich hatte geschrieben *von denen eine keinen Namen
+hat, der eine Tuer oeffnet*. **Das gilt nicht mehr.** `b2 ch54:384` ist Band
+2, und die Sang-hoon-Szene in diesem Band beendet es ausdruecklich: *"You
+cannot say that any more."* **Wer eine zurueckgenommene Zeile weiterzitiert,
+schreibt den Band rueckwaerts.**
 
 ### Und die Richtung dreht sich zum ersten Mal um
 
