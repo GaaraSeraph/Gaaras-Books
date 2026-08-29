@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 5 Dokumente am Stueck. 71.121 Woerter.
+Alle 5 Dokumente am Stueck. 72.175 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -845,6 +845,30 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The author's vita goes into the sheet, all of it ===
+Supplied by the author during Band 1 planning and fixed in the bible,
+section 1 (a new block before "Old life", plus additions to Core drives and
+the bed section): the friendless childhood with the video games and the
+decks, the turn at eighteen (the gym, communication learned deliberately,
+the manga/light-novel references thrown away and why), the question about
+his own ceiling ("what would the result be if I did everything right? I
+want to see that"), the wild decade from nineteen to twenty-nine - four
+hundred dates, both sexes, count abandoned at a hundred - and its abrupt
+end, the competence policy and the childhood management book behind it,
+and the stated goal that names the book: rich, laid, amused, FREE.
+THREE GUARDRAILS SET WITH IT: the card game and the management book stay
+unnamed on the page, same logic as the name's source work. THE BREAK AT
+TWENTY-NINE IS DELIBERATELY UNEXPLAINED - the author has not said what
+ended the wild decade, so nothing is invented and no chapter points at it
+without asking him first. And the partner count never reaches the page as
+a number or a boast - he does not explain himself.
+NOTHING ON THE PAGE CONTRADICTS IT, checked: the chapters never mention
+school, childhood friends or cards, and the existing canon (name chosen at
+nineteen, 140 kg at nineteen, knees four months after the nineteenth
+summer, thirty-nine companies across nineteen years) slots around it
+cleanly - the wild decade is the first stretch of the thirty-nine.
 
 
 === ch31: the disaster is caused by his own competence, not by an enemy ===
@@ -3280,6 +3304,51 @@ to OUTLIVE him, not a register that merely records him. NOT in Band 1, and
 not in the ch33 charter or the ch35 class scene. Until then, nothing about
 where the name comes from appears in any chapter.
 
+Before the career (author's vita, fixed during Band 1 planning; not yet
+chapter-tagged - where a piece of it reaches the page it gets its tag like
+everything else)
+- CHILDHOOD: awkward, and no friends. What there was instead: video games,
+  and later a trading card game. As a PLAYER he was a little over average.
+  AS A DECK BUILDER HE WAS GENUINELY CREATIVE, known for it, and it bought
+  him the only fame of his first eighteen years. Read that against the whole
+  book: the man was famous once already, as a boy, for building unusual
+  machines inside somebody else's rule system. The panel is not his first
+  game, and building the crew, the doctrine and Hades out of this world's
+  rules is the deck builder working at full size.
+  DO NOT NAME THE GAME ON THE PAGE. Same rule as the name's source work
+  above: "a card game" and "decks" is the whole permitted vocabulary.
+- AT EIGHTEEN, THE TURN, and it was deliberate, not luck. He found the gym.
+  And he taught himself to communicate, on purpose, like a subject - and the
+  first thing he learned was to throw his references away: what happens in
+  manga, games and light novels cannot and must not be used as a manual for
+  people. He worked out why at that age: the cultural gap between Japan and
+  Europe is immense, and even inside Japan those stories are their authors'
+  escape from a miserable, school-and-work-dominated reality. He kept
+  reading them anyway (ch1: an embarrassing volume of isekai at three in
+  the morning). He just stopped believing them.
+- THE QUESTION THAT STARTED EVERYTHING, his own words, kept close to this
+  wording when it ever surfaces: "I get through school without effort. What
+  would the result be if I did everything right? I want to see that." Not
+  ambition, not revenge, not hunger: CURIOSITY ABOUT HIS OWN CEILING, run
+  as an experiment on his own life. It has never stopped running.
+- NINETEEN TO TWENTY-NINE: THE WILD DECADE. Over four hundred dates, both
+  sexes, and he stopped counting sexual partners at a hundred. He tried
+  himself out professionally in the same spirit - this is the first stretch
+  of the thirty-nine companies. AT TWENTY-NINE IT ENDED, ABRUPTLY. WHAT
+  ENDED IT IS NOT ESTABLISHED: the author has not said, nothing gets
+  invented for it, and no chapter points at it without asking him first.
+  It is a hole in the vita on purpose until he fills it.
+- THE COMPETENCE POLICY, lifelong: THERE IS NO COMPETENT PERSON WHO HAS
+  ACTUALLY GOTTEN TO KNOW HIM AND CONSIDERS HIM INCOMPETENT. Not charm and
+  not luck: he earned it over years, by working every position relevant to
+  his business until he had stood in each of them himself - which is the
+  same fact ch1 states from the other end (the mailroom floor, the head of
+  the table, the seat where you present to a board). The tip came out of a
+  short management book he read at six or eight, by accident, out of
+  boredom (the author names it as the "5 minute manager"). DO NOT NAME THE
+  BOOK ON THE PAGE either; "a thin book about managing people, read far too
+  young" is plenty.
+
 Old life
 - Age at transition: 38.
 - Did NOT die. No accident, no truck, no hospital. He lay down on a tatami mat in his office and woke up under a slab. He calls it "a cut in the tape." Nobody has explained it. Neither has the system.
@@ -3300,6 +3369,17 @@ Body now
 - Barefoot until Chapter 3.
 
 Core drives
+- WHAT HE WANTS NOW, and it is the title (author's vita). He is nineteen
+  again, at the peak his body ever had, with the knowledge of thirty-eight,
+  and he intends to do what he wants: GET RICH. FUCK. HAVE FUN. BE FREE.
+  And for that he accepts effort and trouble up front, without complaint,
+  the way he has since the first time he was nineteen. Transmigration into
+  FREEDOM - the title is this line. That the Band 1 finale ends him holding
+  everything of somebody else is allowed to sit in tension with it, on
+  purpose, and the text never says so out loud.
+- The experiment (author's vita): "What would the result be if I did
+  everything right? I want to see that." Running since eighteen, still
+  running - the panel just gave it better instrumentation.
 - Control. Everything he lost, he lost by not having it.
 - Self-reliance to a fault: he believes help is unreliable and incompetence of others is the main risk in any system.
 - He distrusts fast answers, including his own, and re-runs them cold before acting.
@@ -3345,6 +3425,15 @@ WHAT HE IS LIKE IN BED (author, ch20). This is character, not decoration, and
 the whole of it is downstream of one fact: HE PAYS ATTENTION. Nineteen years of
 reading people, six days of reading a panel, and this is the one place the skill
 is not guesswork, because a person in the dark cannot help answering.
+- WHERE THE METHOD COMES FROM (author's vita): the wild decade, nineteen to
+  twenty-nine. Over four hundred dates, both sexes, the count of partners
+  abandoned at a hundred. The paying-attention, the ladder, the four words:
+  none of it is talent, all of it is mileage, and he is the one person in
+  this world whose technique ever had a training set (section 3: everybody
+  else is untaught, and the only practised people are prostitutes).
+  IT NEVER REACHES THE PAGE AS A NUMBER OR A BOAST. He does not explain
+  himself, and a man quoting his own statistics is reading out a CV, which
+  is the exact man he left behind.
 - DISCOVERING THE OTHER PERSON IS THE POINT. He maps them. He looks for what
   works and goes back to it, and he has no interest at all in the parts that are
   meant to be interesting. Write it as reconnaissance and write it as delight.

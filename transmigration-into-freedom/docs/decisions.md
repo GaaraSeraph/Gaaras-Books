@@ -3,6 +3,30 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The author's vita goes into the sheet, all of it ===
+Supplied by the author during Band 1 planning and fixed in the bible,
+section 1 (a new block before "Old life", plus additions to Core drives and
+the bed section): the friendless childhood with the video games and the
+decks, the turn at eighteen (the gym, communication learned deliberately,
+the manga/light-novel references thrown away and why), the question about
+his own ceiling ("what would the result be if I did everything right? I
+want to see that"), the wild decade from nineteen to twenty-nine - four
+hundred dates, both sexes, count abandoned at a hundred - and its abrupt
+end, the competence policy and the childhood management book behind it,
+and the stated goal that names the book: rich, laid, amused, FREE.
+THREE GUARDRAILS SET WITH IT: the card game and the management book stay
+unnamed on the page, same logic as the name's source work. THE BREAK AT
+TWENTY-NINE IS DELIBERATELY UNEXPLAINED - the author has not said what
+ended the wild decade, so nothing is invented and no chapter points at it
+without asking him first. And the partner count never reaches the page as
+a number or a boast - he does not explain himself.
+NOTHING ON THE PAGE CONTRADICTS IT, checked: the chapters never mention
+school, childhood friends or cards, and the existing canon (name chosen at
+nineteen, 140 kg at nineteen, knees four months after the nineteenth
+summer, thirty-nine companies across nineteen years) slots around it
+cleanly - the wild decade is the first stretch of the thirty-nine.
+
+
 === ch31: the disaster is caused by his own competence, not by an enemy ===
 The ch26 display worked. What undid it is that he then went and was extremely
 good at his job in public: four carts, an open market, and a shed three people
