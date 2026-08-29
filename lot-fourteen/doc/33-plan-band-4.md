@@ -215,8 +215,9 @@ nach. **Naheliegend: er kommt wegen etwas Praktischem, und die Szene traegt,
 weil beide wissen, was keiner ausspricht** - derselbe Bau wie bei Sim und
 den Schalen.
 
-**Und die Guidance-Frage aus Band 3 haengt noch im Raum.** *Save the legacy*
-hatte eine wahre Antwort, und der Erbe hat sie nicht gegeben. **Beim Besuch
-kann sie fallen - von ihm, zu spaet, als Feststellung:** er weiss inzwischen,
-was die Antwort gewesen waere.
+**Und die Guidance-Frage aus Band 3 haengt noch im Raum.** Sie war ein
+Finisher und hatte keine Antwort - **alle Wege waren zugebaut, und er hat es
+im Zuhoeren begriffen.** Beim Besuch kann er darauf zurueckkommen, **als
+Feststellung eines Mannes, der seither Zeit zum Rechnen hatte** - was daraus
+wird, entscheidet die Szene.
 

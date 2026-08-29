@@ -3498,26 +3498,25 @@ zu verlassen - er kann schweigen. **Also Fragezeichen, wie bei Choi.** Und
 die Falle ist dieselbe wie in der Achse: **er ist zu hochmuetig zu
 schweigen.** Die Hoeflichkeit ist die Waffe, in der ganzen Reihe.
 
-**3. Die Frage ist zugleich das letzte echte Angebot, und das ist der Bau.**
-*Save the legacy* hat eine wahre Antwort: **indem er aufhoert, es zu
-fuehren.** Ein Erbe, der die Frage ehrlich beantwortet, rettet das
-Vermaechtnis und dankt ab - beantwortet er sie nicht, verliert er beides.
-**Er kann nur falsch antworten, weil die richtige Antwort seine Abdankung
-ist.** Das ist Georgijs Muster seit Woo: *there is a difference between a
-man who is given a good reason and a man who finds one* (`b1 ch19:172`).
-**Die Tuer stand offen. Er ist nicht durchgegangen. Danach ist alles, was
-kommt, seine eigene Wahl gewesen** - und der Leser hat es gesehen.
+**3. Die Frage ist kein Angebot, und das war mein Fehler - vom Autor am
+29.08. richtiggestellt.** Sie kommt **nach** dem Fall, und es gibt nichts
+mehr zu retten. **Theoretisch schon** - ein Erbe koennte verkaufen, leihen,
+die Familie zurueckholen. **Aber alle Wege, die fuer diesen Mann realistisch
+sind, sind zugebaut, und jeder im Raum weiss es.** Die Frage klingt offen
+und ist ein Protokoll der Zugebautheit: **er prueft beim Zuhoeren jeden Weg
+und findet jede Tuer vermauert.** Das sind Chois drei Sekunden, noch einmal,
+an einem Mann, der keine drei Sekunden hat, sondern lange.
 
-**4. Die rechte Hand ist im Raum, und sie kennt die Antwort.** Die Frage,
-die der Erbe nicht beantworten kann, beantwortet ein anderer im Raum still
-mit - **und das ist der Moment, in dem die rechte Hand innerlich uebergeht.**
-Nicht spaeter, beim Fall. Hier, bei einer Frage, auf die ihr Mann nichts
-sagt. **Der Uebergang zu Georgij (Festlegung 4) hat damit eine Szene und
-kein Verfahren.**
+**4. Wer im Raum ist, ist offen - die rechte Hand ist zu diesem Zeitpunkt
+schon uebergegangen** (sie geht mit dem Fall, Festlegung 4). Ob sie als
+Georgijs Frau im Raum steht oder gar nicht, entscheidet die Szene. **Zeugen
+braucht es**, wie die Achse sie verlangt.
 
-**5. Vor Zeugen, vor der Brennholz-Rede.** Die Achse verlangt beides: erst
-die Frage, die ihn leer aussehen laesst, dann der Satz mit dem Brennholz.
-**Die Guidance-Frage ist die Frage aus der Achse, jetzt mit Wortlaut.**
+**5. Frage und Rede sind EINE Szene.** Die Guidance-Frage ist die Form der
+Rede, nicht ihr Vorlauf - **so wie *Please guide me* bei Choi die Form des
+Finishers war** und die Exekutionsfrage es in Band 5 sein wird. Erst die
+Frage, die ihn leer aussehen laesst, dann der Satz mit dem Brennholz,
+**beides in einem Raum, an einem erledigten Mann.**
 
 **6. Und das Gegenbild laeuft mit, unausgesprochen.** *Born in* - gefragt von
 einem Mann, der in nichts geboren wurde und mit vierzehn verkauft war. **Kein
@@ -3582,26 +3581,31 @@ sie.**
 7. **Das Grab von Woos Frau:** das Geschenk mit den zwanzig Prozent.
 8. **Der Oberstaatsanwalt wird abgesaegt** - an seiner eigenen Akte. Die
    Akte ist seit Akt I gewachsen, und die Falschen haben es gesehen.
-9. **Die Guidance-Frage und die Rede an den Inhaber** - und, falls die Seite
-   existiert, der Registerzug. **Die rechte Hand ist im Raum.**
-10. **Der Boersenzug.**
-11. **Die Yeom-Szene**, und am selben Abend der Haus-Beat.
+9. **Der Boersenzug.**
+10. **Die Yeom-Szene**, und am selben Abend der Haus-Beat.
 
 ### Akt III - Spaetherbst bis Winter
 
-12. **Hanseong faellt.** Die rechte Hand geht ueber, der Erbe behaelt die
+11. **Hanseong faellt.** Die rechte Hand geht ueber, der Erbe behaelt die
     Blutungen.
+12. **Die Rede an den Inhaber, und die Guidance-Frage ist ihre Form.** Der
+    Finisher: er kommt, weil der Mann erledigt ist, und nach ihm kommt kein
+    Zug mehr. Falls die Seite existiert, der Registerzug hier. **Feste
+    Regel, siehe `doc/16-motive.md`.**
 13. **Der Kuss.** Woo lebt, nichts liegt auf dem Tisch, Georgij besitzt
     nichts.
 14. **Woo stirbt**, eingeschlafen. **Die beiden Umschlaege am selben Tag.**
 15. **Die Beisetzung.** Sie nimmt seine Hand, vor mehreren hundert Leuten.
     **Ende.**
 
-### Die Reihenfolge von 8 und 9, vom Autor am 29.08. entschieden
+### Die Reihenfolge der Rede, vom Autor am 29.08. zweimal festgelegt
 
-**Die Rede an den Inhaber kommt NACH dem Fall des Oberstaatsanwalts.** Der
-Einwand des Autors: sonst muesste der Staatsanwalt auch noch eine Ansage
-bekommen.
+**Erst: nach dem Fall des Oberstaatsanwalts** - sonst muesste der auch noch
+eine Ansage bekommen. **Dann, schaerfer: nach dem Fall von Hanseong, weil
+die Rede ein Finisher ist** (feste Regel, `doc/16-motive.md`). Sang-hoon
+bekam seine, als sein Geld gebunden war. Choi bekam seine, als er nichts
+mehr hatte. **Nach der Rede kommt kein Boersenzug und kein sonstiger Zug
+mehr - wer sie bekommt, ist fertig.**
 
 **Und zwei Ansagen waeren falsch, aus zwei Gruenden:**
 

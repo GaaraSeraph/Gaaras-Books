@@ -651,3 +651,43 @@ Mengenangabe.**
 205. **DIE SCHLUSSZEILE DES BANDES:** *"You are such a beautiful, strong woman. Thank you for buying me."* Sie ist der Zwilling des ersten kalten Laechelns - **zweimal verliert er die Fassung, einmal kalt, einmal warm.**
 206. **"If the world points anything at you at all, I will burn the world down"** steht **seit dem 26.08. im Text**, in alt K90, unter Erschoepfung. **Damit ist Eintrag 101 dieser Liste erledigt.**
 207. **Der letzte Absatz des Bandes ist ein Ventilator**, der seit dem 15. September laeuft und den niemand abgestellt hat.
+
+---
+
+## Die Rede ist ein Finisher: feste Regel, vom Autor am 29.08.
+
+**Die Rede kommt immer erst, wenn jemand erledigt ist und sich nicht mehr
+wehren kann. Sie ist ein Finisher, keine Eroeffnung, keine Drohung und kein
+Angebot.**
+
+**Die Belege des Autors:**
+
+* **Sang-hoon:** seine Rede kam, als sein Geld in Hanseong investiert war -
+  gebunden, nicht mehr frei.
+* **Choi:** seine Rede kam, als er nichts mehr hatte (`b2 ch86`).
+
+**Diese Regel ist fest und darf nicht anders ausgelegt werden.** Nach einer
+Rede kommt kein weiterer Zug gegen denselben Mann - kein Boersenzug, kein
+Nachschlag, nichts. **Wer eine Rede bekommt, ist fertig, und die Rede ist
+die Feststellung davon.**
+
+**Und die Guidance-Frage ist keine eigene Sache. Sie IST die Rede** - ihre
+Form. *Please guide me* an Choi, die Legacy-Frage an den Erben, die
+Exekutionsfrage an den Warlord in Band 5: **jedes Mal ist die hoefliche
+Bitte um Fuehrung der Finisher selbst.**
+
+### Was *sich nicht mehr wehren koennen* genau heisst, vom Autor praezisiert
+
+**Nicht, dass theoretisch nichts mehr ginge.** Choi haette ein neues Netz
+aufbauen koennen, bevor er stirbt. Sang-hoon haette bei Banken leihen und
+die Kim-Chefin toeten lassen koennen. **Theoretisch waere immer noch etwas
+zu retten.**
+
+**Sondern: alle Wege, die fuer diese Charaktere realistisch sind, sind
+zugebaut - und alle im Raum wissen es.** Diese Maenner sind maechtig, aber
+keine Goetter. **Der Finisher kommt in dem Moment, in dem das Zugebautsein
+vollstaendig ist**, und die Frage, die er stellt, klingt offen und ist ein
+Protokoll genau davon: **der Empfaenger prueft beim Zuhoeren jeden Weg und
+findet jede Tuer vermauert.** Das sind Chois drei Sekunden, und sie werden
+es beim Erben wieder sein.
+
