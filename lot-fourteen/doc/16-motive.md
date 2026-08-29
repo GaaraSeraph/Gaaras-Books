@@ -383,8 +383,8 @@ Der Hammer ist hölzern, etwa so lang wie ein Löffel, und macht in einem Saal d
 ## Festgelegte Zeilen
 
 Wortlaut steht fest. Wer eine dieser Stellen anfasst, aendert nicht die Formulierung,
-sondern nur mit ausdruecklicher Entscheidung, und traegt sie unten in
-`doc/40-verworfen.md` ein.
+sondern nur mit ausdruecklicher Entscheidung, und traegt sie in
+`doc/41-entscheidungen.md` ein.
 
 ### Festgelegte Zeile: die Heimfahrt nach dem Essen mit Sang-hoon
 
@@ -492,7 +492,7 @@ sehen kann.
   Erzaehler zeigt nicht darauf, und keine Figur greift es auf.
 - **Die eine erlaubte Zukunft:** dass Georgij ihn selbst laut sagt. Das waere
   ein Zustandswechsel und keine Formulierungsfrage, gehoert also vorher nach
-  `doc/40-verworfen.md`.
+  `doc/41-entscheidungen.md`.
 
 ---
 

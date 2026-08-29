@@ -1155,7 +1155,7 @@ schiefgehen, und Los elf gehört ohnehin in einen zweiten Band.
 Georgij will. **Eingelöst in Kapitel 34, am 1. März.** Der Eintrag ist gestrichen,
 das Halsband bleibt auf seine Weigerung hin, und die Anrede bleibt auch. Damit ist
 **Band 1 zu Ende erzählt.** Begründung und verworfene Alternativen in
-`doc/40-verworfen.md` unter „Der Schluss von Band 1".
+`doc/41-entscheidungen.md` unter „Der Schluss von Band 1".
 
 ---
 

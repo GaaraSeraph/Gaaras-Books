@@ -302,7 +302,7 @@ was das ganze Buch auf einmal braucht."*
 | Die zwei Trenner: `---` Takt, `* * *` Szene | |
 
 **Dokumente.** `doc/20-handwerk.md` gehoert dem Stil-Chat. `doc/15-kalender.md`
-und `doc/40-verworfen.md` gehoeren dem Inhalts-Chat. In `doc/31-plan-band-2.md`
+und `doc/40-verworfen.md` und `doc/41-entscheidungen.md` gehoeren dem Inhalts-Chat. In `doc/31-plan-band-2.md`
 schreibt der Schreibende vorn (was kommt) und der Pruefende hinten (was offen
 blieb).
 
@@ -791,7 +791,7 @@ Verfahren, das am 24.08. funktioniert hat, in fuenf Schritten:
 | `chapters-2/` neue Kapitel | Schreiben |
 | bestehende Kapitel | Stil **oder** Inhalt, nach Regel 4 |
 | `doc/20-handwerk.md` | Stil |
-| `doc/15-kalender.md`, `doc/40-verworfen.md` | Inhalt |
+| `doc/15-kalender.md`, `doc/40-verworfen.md`, `doc/41-entscheidungen.md` | Inhalt |
 | `doc/30-plan-band-1.md` | Schreiben |
 | `doc/31-plan-band-2.md` | alle drei: Schreiben vorn, Pruefende hinten anhaengen |
 | `doc/protokoll/2026-08-stil.md` | **Stil**, waehrend des Durchgangs. Die Inhaltspruefung liest nur |

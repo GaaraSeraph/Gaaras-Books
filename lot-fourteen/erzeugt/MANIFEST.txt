@@ -125,4 +125,4 @@ b2  ch88  v3.4       2956 Woerter  ch88_v3_4_en.md
 b2  ch89  v3.3       2652 Woerter  ch89_v3_3_en.md
 
 Gesamt: 2 Baende, 123 Kapitel, 327806 Woerter
-Handbuch: 20 Dokumente
+Handbuch: 21 Dokumente

@@ -362,7 +362,8 @@ scheint.
 | `doc/34-plan-band-5.md` | **Band 5.** Hochzeit, Unterwelt, das erste Blut |
 | `doc/35-plan-band-6.md` | **Band 6.** Kinder, und er fuehrt es. Der duennste, und das ist richtig |
 | **Verworfenes** | |
-| `doc/40-verworfen.md` | Entscheidungen mit Begruendung, und was schon abgelehnt wurde |
+| `doc/40-verworfen.md` | **Nur Verworfenes.** Was versucht und abgelehnt wurde, und was aus dem Text gestrichen ist |
+| `doc/41-entscheidungen.md` | Entscheidungen mit Begruendung. **Am 29.08. von 40 getrennt** |
 | **Archiv** | |
 | `doc/protokoll/` | Alles Datierte. Append-only, **gewinnt nie**, nicht im Handbuch |
 | `erzeugt/HANDBUCH.md` | **Erzeugt.** Alle Dokumente am Stueck, mit Inhaltsverzeichnis |

@@ -23,7 +23,7 @@ alt 36 wurde 38, aus alt 83 wurde 85.
 **Die Verweise in `doc/` sind NICHT nachgezogen worden, und zwar mit Absicht.**
 Sie tragen naemlich schon einen aelteren Versatz: die Umnummerierung vom 27.08.
 ist ebenfalls nie in die Dokumente gelaufen. Belegbar daran, dass hier und in
-`40-verworfen.md` **Kapitel 87, 88 und 90** stehen, und die hat Band 2 auch vor
+`41-entscheidungen.md` **Kapitel 87, 88 und 90** stehen, und die hat Band 2 auch vor
 dem 28.08. nicht gehabt.
 
 **Ein pauschales Plus-Zwei wuerde die falschen Stellen mitverschieben.** Jeder
@@ -885,7 +885,8 @@ Sie sind in der Basislinie verbucht und erzeugen keine neue Verschuldung. **Wer
 sie im Lauf sieht, hat nichts gefunden.**
 
 Drei Durchgaenge ueber Band 2: Zahlen und Zeitachse, Wissens- und Zusagenkette,
-Punkt oder Fragezeichen. Die Begruendungen stehen in `doc/40-verworfen.md`, was
+Punkt oder Fragezeichen. Die Begruendungen stehen in
+`doc/41-entscheidungen.md`, was
 offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
 
 - **Chairman Woo: achtundsiebzig, im Gewerbe seit siebenundzwanzig.** Band 2,
