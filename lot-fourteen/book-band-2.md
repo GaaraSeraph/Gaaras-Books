@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.115 Woerter.
+Book Two, 89 Kapitel, 227.186 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -59,7 +59,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 46 | v1.4 | 2.033 |
 | 47 | v2.7 | 2.914 |
 | 48 | v1.5 | 2.112 |
-| 49 | v2.0 | 3.142 |
+| 49 | v2.1 | 3.213 |
 | 50 | v1.5 | 2.498 |
 | 51 | v1.6 | 2.778 |
 | 52 | v1.3 | 2.042 |
@@ -10639,7 +10639,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 49: Against her return
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -10655,7 +10655,7 @@ He stood up.
 
 He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had suggested when she described him. He has a face that does what he tells it to and has been doing it for so long that Georgij could not have said, in the first ten seconds, whether anything on it was chosen.
 
-"You have not eaten here before," he said. "The soup is the reason to come. I have ordered it for both of us and you are under no obligation to touch it."
+"You have not eaten here before," he said. "The soup is the reason to come. I have ordered the whole of it for both of us, and coffee at the end, and you are under no obligation to touch any of it."
 
 "Thank you."
 
@@ -10793,7 +10793,7 @@ Neither of them said anything.
 
 "Do not do that." It came out of him at last, and it was not loud, and it was the first thing he had said all evening that had not been arranged. "I have spent thirty years being handed the version that is comfortable to carry. You are the first person in eleven years who has put a piece of paper in front of me and let me read it. Do not start being kind to me at the end of it."
 
-His bowl had been empty since a quarter to nine.
+His bowl had been empty since a quarter to nine, and the girl had taken it and brought the next thing and taken that away as well.
 
 Georgij noticed at about twenty past nine that his own bowl was exactly where the girl had put it, and once he had noticed it he could not stop noticing it. A man had been told at that table that eleven years of his life might have been a method, and had eaten his soup. The man who had told him had not touched anything.
 
@@ -10875,6 +10875,8 @@ He put one hand on the page and pushed it back across the table, and Georgij did
 
 Sim looked at the page for a long moment and then folded it once, along a crease it did not have, and put it in his inside pocket.
 
+The coffee came, and he drank it. He had ordered it at half past seven, when he was still a man who was going to have a pleasant evening.
+
 "What will you do," said Georgij.
 
 "Nothing further tonight. I have already done the one thing I was going to do, and I did it before I could think better of it." Sim stood up, and put both hands on the back of his chair, and did not push it in. "Then I am going to go home and sit up. I keep everything. Eleven years of letters, and two of them said she was worse, and I am going to find out what else was in those two."
@@ -10887,7 +10889,7 @@ Sim looked at the page for a long moment and then folded it once, along a crease
 
 "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and it was not a performance either. "You are the only person I have met in thirty years who would have said so instead of telling me I would not."
 
-His own bowl was empty. The other one had not been moved all evening.
+His own cup was empty. The other one was full, and so was the bowl beside it, and neither had been moved all evening.
 
 At the doorway he stopped, with the folded screen beside him, and he did the thing that Georgij had written down on Friday night and had not been able to prepare for.
 
@@ -10897,7 +10899,7 @@ At the doorway he stopped, with the folded screen beside him, and he did the thi
 
 "Are you all right?"
 
-Georgij stood in a small room at the back of a restaurant with a cold bowl in front of him and found that he had no arrangement at all for that.
+Georgij stood in a small room at the back of a restaurant with a cold bowl and a full cup in front of him and found that he had no arrangement at all for that.
 
 "No," he said.
 

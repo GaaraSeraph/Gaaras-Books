@@ -610,7 +610,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 327.833 Woerter.**
+**123 Kapitel, 327.849 Woerter.**
 
 ---
 
@@ -25938,9 +25938,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 302 | b2ch49:296 | "I have spoken to the same person for four years," said Sim. "About the heating. About w.. |
 | 302 | b2ch49:300 | "That person has never been him, and has never once pretended to be, and would not know .. |
 | 302 | b2ch49:310 | Sim looked at the page for a long moment and then folded it once, along a crease it did .. |
-| 302 | b2ch49:314 | "Nothing further tonight. I have already done the one thing I was going to do, and I did.. |
-| 302 | b2ch49:322 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
-| 302 | b2ch49:344 | "No," said Sim. "I did not think so." |
+| 302 | b2ch49:318 | "Nothing further tonight. I have already done the one thing I was going to do, and I did.. |
+| 302 | b2ch49:326 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
+| 302 | b2ch49:348 | "No," said Sim. "I did not think so." |
 | 319 | b2ch54:10 | Sim wrote it in a small room at the back of a restaurant at about a quarter to eleven, w.. |
 | 319 | b2ch54:38 | *A working name. He has been given one the way Sim has been given one. That is the whole.. |
 | 319 | b2ch54:210 | She is the person Sim telephones about the heating. |
@@ -26049,8 +26049,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch49:280` (Tag 302) - thirty
 - `b2ch49:296` (Tag 302) - four
 - `b2ch49:300` (Tag 302) - eleven
-- `b2ch49:314` (Tag 302) - eleven, one, two
-- `b2ch49:322` (Tag 302) - thirty
+- `b2ch49:318` (Tag 302) - eleven, one, two
+- `b2ch49:326` (Tag 302) - thirty
 - `b2ch54:10` (Tag 319) - eleven
 - `b2ch54:38` (Tag 319) - one
 - `b2ch54:266` (Tag 319) - one
@@ -27531,7 +27531,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 292 | b2ch46:226 | *Mrs Bae, and I have taken her off page two and put her on the third list, and she is th.. |
 | 300 | b2ch48:88 | "He asked Mrs Bae one question, and it was what I looked like. If a man in that position.. |
 | 302 | b2ch49:24 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
-| 302 | b2ch49:322 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
+| 302 | b2ch49:326 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
 | 305 | b2ch50:110 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
 | 578 | b2ch88:382 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
 
@@ -27547,7 +27547,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch46:226` (Tag 292) - two
 - `b2ch48:88` (Tag 300) - one, twelve
 - `b2ch49:24` (Tag 302) - ten
-- `b2ch49:322` (Tag 302) - thirty
+- `b2ch49:326` (Tag 302) - thirty
 - `b2ch50:110` (Tag 305) - forty, four, one, two
 
 ---
