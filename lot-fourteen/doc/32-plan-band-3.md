@@ -34,7 +34,7 @@ Alles davor gilt.
 
 | Frage | Wo der Stand steht |
 |---|---|
-| **Wer die Gegner sind** | *Gegner 1: ein echter Freund von Choi*, *Der Hanseong-Inhaber: ja, mit einer Korrektur*, und **zuletzt** *Wo der dritte Gegner tatsaechlich liegt: bei lot elf* |
+| **Wer die Gegner sind** | *Gegner 1: ein echter Freund von Choi*, *Der Hanseong-Inhaber: ja, mit einer Korrektur*, und **zuletzt** *Der dritte Gegner: der Mann, der lot elf gekauft hat*. **Lot elf selbst ist kein Gegner, er ist Georgijs Protege** |
 | **Singapur** | *Singapur: die Tatsachen* und *Und daraus wird trotzdem kein Gegner*. **Kein Gegner, aber Band 5 braucht die Tatsachen** |
 | **Woos zwanzig Prozent** | *Fassung Woo ist entschieden* hier, und die vollstaendige Lage in `doc/14-welt.md` |
 | **Das Erbe** | *Der Umfang des Erbes: entschieden am 29.08.* und *Woo vererbt* |
@@ -2811,6 +2811,29 @@ noch mitten darin.
 **Und deshalb darf Georgij ihn nicht auftauen.** Er ist der Beweis dafuer, dass
 die Rechnung stimmt. **Das Haus taut ihn auf.**
 
+### Was er fuer Georgij ist: sein Protege
+
+**Vom Autor am 29.08. festgelegt, und es ist das Wort, das gefehlt hat.**
+Nicht ein Bediensteter, der nebenbei lernt. **Jemand, den Georgij bewusst
+aufzieht.**
+
+**Und es steht nicht im Widerspruch zu dem Absatz darueber, es teilt ihn
+sauber:**
+
+* **Die Waerme kommt aus dem Haus** - Mrs Seo, Ji-won, Eun-ju, Yun. Georgij
+  kann sie nicht geben, weil er der Beweis dafuer ist, dass Misstrauen
+  richtig war.
+* **Die Ausbildung ist seine.** Mitnehmen, zusehen lassen, hinterher fragen
+  lassen. Das ist genau das, was ihm selbst niemand getan hat.
+
+**Georgij ist sein Foerderer und nicht seine Waerme, und die beiden Dinge
+liegen in verschiedenen Haenden. Das ist die ganze Konstruktion.**
+
+**Und es macht den dritten Gegner erst richtig.** Wer den Jungen hat, hat
+nicht irgendeinen Jungen. **Er hat den, den Georgij aufzieht** - und das ist
+das erste Mal in drei Baenden, dass Georgij um einen Menschen streitet und
+nicht um ein Blatt.
+
 ### Wer, und alle vier stehen schon im Buch
 
 **Mrs Seo, streng und gerecht, und der Text sagt es in vier Woertern.**
@@ -3149,7 +3172,17 @@ geprueft sind und weil Band 5 sie braucht, wenn der Handel zerlegt wird.
 
 ---
 
-## Wo der dritte Gegner tatsaechlich liegt: bei lot elf
+## Der dritte Gegner: der Mann, der lot elf gekauft hat
+
+**Berichtigt am 29.08. Die Ueberschrift hiess *Wo der dritte Gegner
+tatsaechlich liegt: bei lot elf*, und der Autor hat sie sofort so gelesen,
+wie sie dasteht.**
+
+> *lot 11 kein Gegner, er ist mein Protege*
+
+**Er hat recht, und der Fehler war meiner.** Gemeint war nie der Junge,
+sondern **der Mann, der ihn gekauft und zwei Jahre auf ihn verwendet hat.**
+Der Junge ist das, worum gestritten wird, und nicht die Gegenpartei.
 
 **Nicht erfunden, sondern die Stelle, an der der Plan schon ein Loch hat.**
 
@@ -3253,7 +3286,7 @@ nicht als vergessener Faden wiederkommt.
 
 ---
 
-**UEBERHOLT.** Die Aufstellung hat sich zweimal geaendert. Stand: *Wo der dritte Gegner tatsaechlich liegt*.
+**UEBERHOLT.** Die Aufstellung hat sich zweimal geaendert. Stand: *Der dritte Gegner: der Mann, der lot elf gekauft hat*.
 
 ## Drei Gegner greifen Annie an
 
