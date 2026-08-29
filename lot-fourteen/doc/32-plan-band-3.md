@@ -3824,12 +3824,28 @@ bekommt keinen Platz. Ein Lastwagen bekommt keine Bucht.**
 
 ### Was das mit Sang-hoon macht
 
-**Er kommt aus Band 3 als der, der Annie erpresst hat.** In Band 5 ist er ein
-Drittel des Engpasses.
+**Am 29.08. praezisiert, und ich hatte es falsch:** ich hatte geschrieben, das
+sei ein Bogen und keine Versoehnung. **Es gibt eine, und sie kommt sofort.**
 
-**Das ist ein Bogen und keine Versoehnung.** Die beiden muessen einander nicht
-moegen. **Sie muessen nur gemeinsam entscheiden, was verladen wird** - und
-das ist eine engere Bindung als Zuneigung.
+> **Direkt nach seinem Angebot versoehnen sich die beiden, und er ist zur
+> Hochzeit eingeladen.**
+
+**Das ist die richtige Fassung, und der Grund steht in seiner eigenen Zeile**
+(`b2 ch04:106`): *"I do not pay what a thing is worth. **I pay what it costs
+to stop having to think about it.**"*
+
+**Ein Mann, der so rechnet, traegt nichts nach.** Das Angebot war ein Preis,
+den er genannt hat. Es wurde abgelehnt. **Damit ist die Sache erledigt, und
+Groll waere eine laufende Ausgabe.**
+
+**Und daraus faellt der ganze Rest.** Er hat zwei Milliarden zweihundert fuer
+diesen Mann geboten, er hat versucht, ihn zu bekommen, **und er sitzt bei
+seiner Hochzeit.** Es muss niemand erklaeren, wie das zusammengeht - **in
+diesem Milieu geht es genau so zusammen.**
+
+**In Band 5 ist er ein Drittel des Engpasses**, und sie muessen nicht
+befreundet sein, um gemeinsam zu entscheiden, was verladen wird. **Aber sie
+sind es inzwischen ungefaehr.**
 
 ### Und der Preis, den es hat
 
