@@ -3172,6 +3172,63 @@ geprueft sind und weil Band 5 sie braucht, wenn der Handel zerlegt wird.
 
 ---
 
+## Yeom wird in Band 3 Freund, festgelegt am 29.08.
+
+**Vom Autor: er mag ihn, und Annie mag ihn auch.** In Band 3 faellt das Wort.
+
+### Der Weg ist im Kanon fertig gelegt, in drei Stufen
+
+**1. Arithmetik.** `b2 ch24:142`: *"I would like you to understand exactly
+why not, because you are going to think it was cowardice and it was not. **It
+was arithmetic.**"* So faengt er an: ein Mann, der nicht wissen will, weil
+Nichtwissen guenstiger ist.
+
+**2. Respekt.** `b2 ch50:244`, nachdem Georgij seine eigene Regel absichtlich
+vor ihm gebrochen hat: *"I have been in this trade my whole life. I have
+never once seen anybody give away the thing that keeps..."* Und dann:
+*"I know. **I only wanted to hear whether you would say so.**"*
+
+**3. Freiwillige Arbeit, von der niemand weiss.** `b2 ch89:122-128`: **vier
+Jahre Quartalsmappen, zwischen August und Neujahr, ohne es jemandem zu
+sagen** - und im Februar ein Brief **in eigener Hand**, aufgegeben aus einem
+Briefkasten, der nicht bei seinem Haus ist.
+
+**Band 2 endet mit einem Mann, der laengst wie ein Freund handelt und nur das
+Wort nicht hat.** Band 3 gibt es ihm.
+
+### Wie das Wort faellt, und von wem
+
+**Nicht von Georgij, und das ist die Pointe.** Georgij hat es zu Sang-hoon
+gesagt (als Abschluss einer Verhandlung) und ueber Woo (am Grab, ueber einen
+Toten). **Wenn er es ein drittes Mal selbst vergibt, wird es eine Muenze.**
+
+**Yeom sagt es, und er sagt es wie eine Feststellung aus seinem eigenen
+Gewerbe** - so, wie er alles sagt. Entwurf:
+
+"I have spent my life being paid to know things," said Mr Yeom. "I know the going rate for every kind of knowing there is. There is no rate for what I did with those folders." He was entirely comfortable about it. "A man does unpaid work for a friend. I looked it up. There is no other word."
+
+**Und die Sang-hoon-Zeile aus der Bandmitte bekommt damit einen zweiten
+Boden.** *"Two men in this country who own a great deal consider you a
+friend"* - **am Ende des Bandes sind es drei, und der dritte hat es selbst
+ausgerechnet.**
+
+### Und Annie mag ihn auch, und das steht dem nicht im Weg
+
+**Yeom hat in Band 2 nach Georgij gefragt und nie nach ihr** (`b2 ch23:98`) -
+das war damals das Zeichen, dass die Gegenseite ihn erkannt hat. **In Band 3
+darf daraus die andere Sache werden:** ein Mann, der mit beiden kann, ohne je
+durch den einen an die andere heranzuwollen. **Davon gibt es im Buch sonst
+niemanden** - jeder andere Verbuendete kam ueber sie zu ihm oder ueber ihn zu
+ihr.
+
+### Was sich damit aendert
+
+* **Yeom ist kein Kandidat mehr fuer irgendeine Gegnerrolle**, auch nicht am
+  Rand. Der Band-5-Plan sagt es schon (*Wird Yeom zum Feind? Nein*), jetzt
+  gilt es positiv.
+* **Er ist in Band 5 einer der drei Traeger** (Jang, Hwang, ein wenig Yeom) -
+  **und ab Band 3 traegt er als Freund und nicht als Quelle.**
+
 ## Lot elf: Annie hat ihn gekauft, und der Kaeufer-Gegner faellt
 
 **Am 29.08. vom Autor abgeraeumt, und der Beleg stand weiter oben in
