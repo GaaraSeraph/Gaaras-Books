@@ -3593,11 +3593,53 @@ Band traegt: woher hat er sie.**
 genug fuer eine foermliche Beschwerde. **Zufall weiss nicht, wo eine Schwelle
 liegt.**
 
-**Wie er darauf kommt: gar nicht durch Suchen.** Er sucht das nicht, so wenig
-wie er den Wagen in der Hotelrampe gesucht hat (`b1 ch13:46`). **Jemand
-beschwert sich ueber etwas anderes, und die Zahl faellt daneben ab** - ein
-Disponent, ein Dienstplan, eine Frau, die eine Liste fuehrt, weil sie
-abrechnen muss.
+### Wer es ihm sagt: Hwang, und er weiss nicht, was er gefunden hat
+
+**Vom Autor am 29.08. gefragt, und der Kanon hat die Antwort schon
+hingestellt.** `b2 ch87:334`:
+
+> *"Yeongjong. The office at the end of the shed, **keeping the books of a
+> terminal that has one clerk and does not need two**." A pause. "It is a long
+> way beneath a man who kept thirty years of a permanent series. He did not
+> ask what it pays, and **he is doing my work out of the same room in the
+> evenings**."*
+
+**Hwang sitzt seit Band 2 in Woos Terminal und fuehrt dessen Buecher, und
+abends macht er Georgijs Arbeit.** Er muss nichts suchen und nichts
+recherchieren: **er sieht die Ankuenfte, weil das seine Spalte ist.**
+
+**Und Annie ist ein Drittel von Woos Buch** (`b1 ch19:142`). Was bei ihr
+rutscht, rutscht durch seine Seiten.
+
+**Drei Gruende, warum er die richtige Quelle ist:**
+
+**1. Er ist der Mann fuer genau dieses Medium.** Dreissig Jahre eine
+fortlaufende Reihe gefuehrt. **Eine Liegeplatzliste ist seine Muttersprache**,
+und Unregelmaessigkeit darin faellt ihm auf, wie einem Musiker ein falscher
+Ton.
+
+**2. Er meldet keinen Verdacht, sondern eine Unordnung.** Er sagt nicht *da
+greift jemand an*. Er sagt, dass seine Spalte seit dem Quartal nicht mehr
+aufgeht und dass ihn das stoert. **Georgij hoert, was es wirklich ist.** Das
+ist woertlich das Ahn-Muster: ein Mann sagt eine wahre Kleinigkeit ueber seine
+eigene Arbeit, und sie ist der Fund.
+
+**3. Und es ist seine Wiedergutmachung, ohne dass es jemand ausspricht.** Ein
+Mann, der ein Haus gefuehrt hat, das Menschen verkaufte, und **nie auf die
+Flaeche gegangen ist**, rettet zum ersten Mal jemanden - **mit einer Spalte.**
+Der Text zeigt darauf nicht.
+
+**Warum nicht Woo selbst:** ihm gehoert das Terminal, er saehe dieselben
+Zahlen. **Aber wenn Woo es sagt, ist es eine Gefaelligkeit; wenn Hwang es
+sagt, ist es ein Nebenprodukt** - und dieses Buch bewegt sich in
+Nebenprodukten. Ausserdem ist Woo neunundsiebzig und geht Sachen nicht mehr
+nach.
+
+**Und Georgij sucht es nicht**, so wenig wie er den Wagen in der Hotelrampe
+gesucht hat (`b1 ch13:46`).
+
+**Damit hat Hwang in Band 3 eine Aufgabe**, die der Plan bisher nicht hatte -
+er stand nur als Traeger fuer Band 5 darin.
 
 **Und das ist die Symmetrie des Bandes:** Han greift unbeweisbar an, und
 Georgij beweist es trotzdem - **mit demselben Verfahren, mit dem er zwei
@@ -4009,11 +4051,15 @@ The letter is four pages, in his own hand, and there is no salutation on it.
 
 *Third, the twenty per cent, and I know better than to ask again what it cost.*
 
-*I have not owned my own terminal since the year I built it. I did not say that out loud to anybody in twenty-five years, including myself, and I said it to you in about a minute and a half because you were sitting there and had already worked it out.*
+*I have not owned the whole of my own terminal for one single day since it opened. Twenty per cent of it belonged to people whose names I never had and never asked for, and I told you that over soup in about a minute and a half, because you were already sitting there with it worked out.*
 
-*You went and made it so that nobody will ever ask me for it again, and you would not tell me how, and you told me it was not why you came.*
+*You went and made it so that nobody could ask me for it. You would not tell me how, and you told me it was not why you came.*
 
-*I have had one afternoon since then in which I did not think about that arrangement at all. It was the first in a very long time. I am not going to be able to explain to you what that is worth, and I am not going to try, because you would tell me the number was smaller than I think.*
+*I bought it back in the autumn and I insisted on paying for it, and you let me, and you knew exactly why I needed to. I have been a long time in this trade and I have watched a great many men be kind in a way that leaves the other man smaller. You did not do that once.*
+
+*So the thing in the other envelope is whole.*
+
+*It has been whole for some weeks and it was never whole before that, and I have had a few weeks at seventy-nine of owning a thing outright, and I would like you to know that I enjoyed them.*
 
 ---
 
@@ -4059,9 +4105,13 @@ The letter is four pages, in his own hand, and there is no salutation on it.
 
 *I have been telling myself since September that a man of my age does not get to be glad about a thing like that, and I have stopped telling myself. I am glad. She has been waiting since the ninth and she was never good at waiting.*
 
-*You came to that hill and you did not bring anything, and you said you did not know what she had liked and there was nobody left to ask. There was. You could have asked me and you did not, because you thought it would cost me something.*
+*You came to that hill and brought me the only thing anybody has ever given me that I could not have bought for myself, and you brought her nothing at all, and you said you did not know what she had liked and there was nobody left to ask.*
 
-*She liked being read to, and she was better at figures than I was, and she thought I was funnier than I am. I would have told you all of it. I am telling you now.*
+*There was. You could have asked me.*
+
+*You did not ask, for the same reason you would not tell me what the other thing had cost you, and I have decided that those are one habit and not two.*
+
+*She liked being read to, and she was better at figures than I was, and she thought I was funnier than I am. I would have told you all of it and been glad of the afternoon. I am telling you now, which is worse for both of us and is the only version left.*
 
 ---
 
@@ -4098,14 +4148,38 @@ hours and it will not reach me.*** Die Formel aus `b2 ch82:260` bleibt, wird
 aber trocken statt kalt - **ein Mann, der aus dem Grab heraus die
 Verhandlung gewinnt.**
 
-**6. Die Frau, und es ist der schwerste Absatz.** *She has been waiting since
-the ninth and she was never good at waiting* - der neunte September 2026,
-Erzaehltag 341. **Und dann die Antwort auf die Zeile, mit der die Grabszene
-oeffnet:** *He did not bring anything. He did not know what she had liked and
-there was nobody left to ask.* **Es gab jemanden. Georgij hat nicht gefragt,
-weil er dachte, es koste ihn etwas** - und Woo sagt es ihm jetzt trotzdem, in
-drei Halbsaetzen, und es ist das Einzige im Brief, was ihm gehoert und nicht
-Georgij.
+**6. Die Frau, und es ist der schwerste Absatz** - **am 29.08. zweimal
+berichtigt, weil der Autor beide Fehler gefunden hat.**
+
+**Erstens: er hat sehr wohl etwas mitgebracht.** Meine Zeile sagte *you did
+not bring anything*, und das ist falsch: **er hat Woo die zwanzig Prozent
+gebracht.** Die Zeile der Grabszene meint die **Tote** - *He did not bring
+anything. He did not know what she had liked and there was nobody left to
+ask.* Kein Blumenstrauss, keine Gabe fuer sie. **Woo trennt das jetzt sauber,
+und die Trennung ist besser als die Zeile vorher:** dem Mann das Groesste,
+der Frau nichts.
+
+**Und Woo verbindet die beiden Weigerungen, weil er zaehlt:** Georgij hat
+nicht gefragt, was sie mochte, weil es Woo etwas gekostet haette - und hat
+nicht gesagt, was die zwanzig Prozent ihn gekostet haben. ***Those are one
+habit and not two.*** **Das ist die Diagnose des Briefes, an einer zweiten
+Stelle und ohne sie zu wiederholen.**
+
+**Zweitens: das Terminal ist wieder ganz.** Ich hatte geschrieben, niemand
+werde ihn mehr danach fragen - **aber die entschiedene Fassung geht weiter**
+(`doc/14-welt.md`, Abschnitt 9): unerreichbar, dann verwertet, **dann kauft
+Woo zurueck und besteht darauf zu zahlen.**
+
+**Also besitzt er es am Ende zu hundert Prozent, und das ist die Pointe des
+ganzen Erbes:** *So the thing in the other envelope is whole.* **Er kann nur
+deshalb ein ganzes Terminal hinterlassen.** Und die Rechnung dazu ist klein
+und genau: **einige Wochen mit neunundsiebzig, in denen ihm zum ersten Mal
+etwas ungeteilt gehoert hat, und er sagt, dass er sie genossen hat.**
+
+**Dazu eine Zahl berichtigt:** *twenty-five years* stand darin und war von
+mir. **Die zwanzig Prozent sind so alt wie das Terminal**, also jung; die
+fuenfundzwanzig Jahre gehoeren der Zollsache von 2002 (`b2 ch69:242`).
+**Zwei verschiedene Rechnungen, die ich zusammengezogen hatte.**
 
 **7. *Be careful in the rooms you should not be in. I did tell you.***
 `b1 ch19:382`: *"That is the only trick you have got, and it is a very good
