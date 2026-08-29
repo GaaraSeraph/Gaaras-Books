@@ -1391,14 +1391,32 @@ dem er nichts vorzuwerfen hat.
 es nicht, erwaehnt es nicht, und Georgij reagiert nie darauf - **bei dem
 einzigen Mann, der ihm etwas geschenkt hat.**
 
-**Zwei Wege, und beide sind gute:**
+### Entschieden am 29.08., und der Text hatte die Antwort schon
 
-* **Es war ein Versehen** und wird geheilt, indem eine Zeile in den Herbst
-  2026 gesetzt wird, und Georgij tut, was er tut: er faehrt hin und bringt
-  nichts mit.
-* **Es war kein Versehen**, und dann ist es das Haerteste im Buch: Woo
-  begraebt seine Frau, waehrend Georgij mit seinem Feldzug beschaeftigt ist,
-  und **niemand hat es ihm gesagt, weil niemand dachte, dass es ihn angeht.**
+**Es war kein Versehen, und es war auch nicht so, dass niemand es ihm gesagt
+haette. Woo hat es ihm gesagt** - `b2 ch69:152`, am elften Dezember:
+
+> "The third is alive. **I have not had a real conversation with him since my
+> wife died.**" Woo looked at the photograph of the fourteen metres. "Nobody
+> paid."
+
+**Es steht in einem Nebensatz ueber drei andere Maenner.** Der Satz handelt
+davon, dass niemand gezahlt hat. **Die Frau steht darin wie ein Datum.**
+
+**Und Georgij, der alles liest, hat es durchgehen lassen.**
+
+**Damit haben beide etwas getan, und keiner von beiden kann es dem anderen
+vorwerfen:** Woo hat es so gesagt, dass es gesagt war und nicht besprochen
+werden musste. Georgij hat es so gehoert, dass er nicht darauf eingehen
+musste.
+
+**Der Sterbetag: Mittwoch, der neunte September 2026, Erzaehltag 341.**
+Er liegt mitten in dem Monat, den Band 2 nicht erzaehlt (Tag 329 bis 361), und
+damit muss keine einzige Zeile geaendert werden. **Das Buch hat weggesehen,
+und das ist ab jetzt kein Loch, sondern der Befund.**
+
+**Auf dem Stein steht das Datum, und Georgij liest es. Mehr braucht die
+Szene nicht.**
 
 ### Und damit hat das Terminal keinen Erben
 
@@ -1461,9 +1479,9 @@ He did not bring anything. He did not know what she had liked and there was nobo
 
 Chairman Woo was already there and had been for some time.
 
-"I am sorry," said Georgij. "I did not know until January."
+"I am sorry," said Georgij. "You said it to me in December and I did not hear it."
 
-"Nobody told you. I did not tell you." Woo did not turn round. "I have thought about that since and I do not know which of the two of us it says something about."
+"I know. It was in the middle of a sentence about three men who never paid, and I put it there so that it would be said." Woo did not turn round. "I have thought about that since and I do not know which of the two of us it says something about."
 
 "I would have come."
 
@@ -1875,7 +1893,19 @@ staerker, weil man dagegen nichts anbieten kann.
 Erlaubnis, er teilt mit, und er bestreitet, dass es eine Gabe ist. Genau so
 wie am Tuerrahmen im Februar.
 
-**Der Tod und die Urkunde kommen an das Ende von Band 3 oder in Band 4.**
+**Berichtigt am 29.08.: der Tod und die Beisetzung sind das Ende von Band 3,
+nicht Band 4.** Der Autor hat nachgefragt, und die Entscheidung steht weiter
+unten laengst so: *Das Ende von Band 3: Beisetzung, dann der Kuss.* Mein
+*oder in Band 4* war ein Rest aus einer frueheren Fassung.
+
+**Und die Stelle ist die beste, die es gibt.** Das Erbe faellt in das
+allerletzte Kapitel. **Damit kaempft er den ganzen Band mit nichts** - der
+Motor bleibt bis zur letzten Seite unangetastet - **und Band 4 macht mit
+einem Mann auf, dem ein Stueck eines Terminals gehoert und der eine Stelle in
+der IT annimmt.**
+
+**Die drei Briefe kommen an dem Tag** (`b2 ch82:252`: *on the day I am dead
+and not one hour before*), also im Schlusskapitel oder im ersten von Band 4.
 
 **Damit endet Band 3 in dem Zustand, der fuer diese Figur der genaueste ist:
 er hat zugesagt, etwas zu besitzen, und besitzt es noch nicht.** Der Leser
@@ -2618,4 +2648,84 @@ ist.
 
 **Damit ist die erste offene Frage von Band 3 geschlossen.** Offen bleiben:
 der dritte Gegner, die Namen (tote Bank, Bunkering, Tochter), und Woos Frau.
+
+---
+
+## Die Namen, entschieden am 29.08.
+
+**Vom Autor freigegeben: Namen sind ihm gleich, ich entscheide.** Beide sind
+gegen den ganzen Kanon auf Kollisionen geprueft.
+
+### Die untergegangene Finanzierungsgesellschaft: **Jinyang Trade Finance**
+
+**Nicht eine Bank, sondern ein Handelsfinanzierer** - und das ist praeziser,
+weil genau diese Sorte Haus mit einer Reederei zu tun hat und weil ihr
+Zusammenbruch das erzeugt, worauf es ankommt: **ein Insolvenzverwalter, der
+Aufstellungen veroeffentlicht, aus denen hervorgeht, wer wieviel bei ihr
+liegen hatte.**
+
+**Und die widerlegen Hanseong Credits eigene Zahlen**, ohne dass irgendjemand
+etwas behaupten muesste.
+
+**Warum der Name:** *Jin* kommt im ganzen Buch **null Mal** vor. *Han*, *Dae*,
+*Seo*, *Woo* und *Nam* sind mit zwei- bis dreihundert Stellen belegt, *Myeong*
+kollidiert mit Myeongdong. **Jinyang ist die einzige gepruefte Silbe ohne
+Nachbarn.**
+
+### Die Tochter, aus der Geld verschwunden ist: **Hanseong Bunkering**
+
+**Die Bebunkerung der eigenen Schiffe** - die unglamouroeseste Stelle einer
+Reederei und die, an der Treibstoff und Geld sich am leichtesten trennen. Das
+Geruecht steht seit `b1 ch14:82` und `b1 ch16:222` zweimal im Buch und war nie
+aufgeloest.
+
+**Und Sang-hoon hat sie saniert**, nachdem er die vierzig Prozent hatte. Das
+ist der Grund, warum Shipping heute laeuft.
+
+### Und **Hanseong Chemicals** bleibt, wo es steht
+
+Existiert, wird **nicht** gekauft, ist eine der Verlusteinheiten beim Erben,
+und ist der Grund, warum Annies Veto ueberhaupt greift.
+
+## Der dritte Gegner: nicht die Kette in Singapur
+
+**Vom Autor am 29.08. gefragt.** Nein, und aus drei Gruenden.
+
+**1. Eine Kanzleikette hat kein Gesicht.** Jeder Gegner dieses Buches ist ein
+Mensch mit einem eigenen Grund - Choi, Sang-hoon, Nam, der Erbe. **Eine
+Struktur kann man aufmachen, aber nicht schlagen**, und der Leser kann ihr
+nichts uebelnehmen.
+
+**2. Der Autor hat den Streit mit Singapur selbst zurueckgewiesen**, und zu
+Recht: die Kette ist Installation und keine Gegenpartei.
+
+**3. Und es fehlt eine dritte Sorte.** Der Freund von Choi ist **Trauer**. Der
+Erbe ist **Stand**. Der dritte darf nicht wieder Geld sein.
+
+### Der Vorschlag: der Mann, den er nicht gemeint hat
+
+**Jemand, dessen Geld in denselben Zwischengesellschaften lag, der nie Ziel
+war und der nie etwas getan hat** - und den Georgij aufreisst, weil er
+danebengegriffen hat.
+
+**Er wird Feind, weil er beschaedigt wurde, und aus keinem anderen Grund.**
+
+**Und daran zerbricht Georgijs Verfahren zum ersten Mal.** Drei Baende lang
+besteht seine Arbeit darin, herauszufinden, **was ein Mann getan hat.** Bei
+diesem gibt es nichts zu finden. **Er ist der einzige Mensch im Buch, den man
+nicht recherchieren kann.**
+
+**Damit kann er auch nicht zerstoert werden**, und die Aufloesung muss etwas
+sein, das Georgij noch nie getan hat: **wiedergutmachen, oder zugeben.** Er
+hat ausserhalb dieses Hauses noch nie etwas zugegeben.
+
+**Und es beantwortet den Einwand des Autors gegen bewussten
+Kollateralschaden**, indem es ihn umdreht: **es ist kein bewusster Schaden. Es
+ist ein Fehler** - der erste, den dieser Mann in drei Baenden macht.
+
+### Die Alternative, falls doch jemand aus der Kette gebraucht wird
+
+**Dann ein Mandant und nicht die Kanzlei** - jemand, fuer den dort etwas
+gehalten wurde und der es verliert. **Aber dann ist er wieder Geld**, und die
+dritte Sorte fehlt weiter.
 
