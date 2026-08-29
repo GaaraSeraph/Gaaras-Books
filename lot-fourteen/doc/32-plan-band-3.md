@@ -3415,21 +3415,33 @@ jemand ausspricht.** Mrs Seo hat elf Minuten in einer Kueche abgezaehlt
 **Der Junge lernt es auf demselben Weg**, und er ist dafuer ausgebildet:
 zusehen, still sein, hinterher fragen.
 
-### Und die Frage, die er hinterher stellt
+### Und die Frage, die er hinterher stellt: er stellt keine
 
-**Zwei Fassungen, und die zweite ist die haertere.**
-
-**A. Er fragt etwas Kleines und Praktisches** - ob es etwas gibt, das er nicht
-sagen soll. **Eine Bedienstetenfrage nach einer solchen Nacht**, und dass er
-sie stellt, sagt Georgij, dass der Junge noch in der Logik des Handels denkt.
-**Das ist die Stelle, an der es wehtut.**
-
-**B. Er fragt nichts.** Zum ersten Mal, seit er mitgeht, hat er keine Frage.
+**Entschieden am 29.08.** Zum ersten Mal, seit er mitgeht, hat er keine Frage.
 **Und daran erkennt Georgij, dass er verstanden hat.**
 
-**B ist besser, wenn es nur einmal benutzt wird**, und es funktioniert nur,
-weil die Reihe davor steht: ein Junge, der nach jedem Mal gefragt hat, fragt
-nach diesem nicht.
+**Damit erledigt sich auch die Antwort.** Es gibt keine, es muss keine geben,
+und Georgij muss nichts sagen, was ein Sechzehnjaehriger als Anleitung
+mitnehmen koennte.
+
+### Was das im Voraus verlangt, und es ist eine Schreibanweisung
+
+**Das Ausbleiben wirkt nur, wenn der Leser mitgezaehlt hat.**
+
+**Also bekommt jedes vorherige Mitnehmen seine Frage, sichtbar, am Ende der
+Szene.** Nicht angedeutet, nicht zusammengefasst, nicht *er fragte spaeter
+noch etwas*. **Wortlaut, jedes Mal.**
+
+**Drei- oder viermal reicht**, wenn die Fragen von Mal zu Mal besser werden -
+das ist ohnehin, was ein Junge tut, der schnell lernt. **Und dann kommt der
+Abend, an dem nichts kommt.**
+
+**Kein Satz weist darauf hin.** Der Text sagt nicht *und diesmal fragte er
+nichts.* **Er hoert einfach auf, wo sonst die Frage stand**, und der Leser
+merkt, dass etwas fehlt, weil er es viermal an derselben Stelle hatte.
+
+**Das ist dasselbe Verfahren wie bei dem Ring** (`b2 ch78:72`): eine
+Gewohnheit wird dadurch benannt, **dass sie einmal ausbleibt.**
 
 ---
 
