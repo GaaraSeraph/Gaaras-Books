@@ -385,6 +385,159 @@ Freude von aussen, weil dieses Buch Gefuehle nie von innen benennt.**
 Dann trotzdem *"Yes, Mistress."* **Die Maschine fuehrt den letzten Befehl noch
 einmal aus, weil kein neuer kommt** - und genau darauf faellt ihre Zeile.
 
+### Fuenf weitere Fassungen der Reaktion
+
+**Die oben stehende heisst hier A.** Alle fuenf halten dieselbe
+Reihenfolge ein - Aufzaehlung, "Yes, Mistress.", Kuss, Reaktion, ihr Satz -
+und alle enden auf **"You cannot say that any more."**
+
+---
+
+#### B. Der falsche Bericht
+
+**Die Maschine liefert korrekte, unbestellte Arbeit.**
+
+Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
+
+"Chairman Park will put it in front of his own people on Thursday," said Georgij, "and he will not say where it came from, because he never does."
+
+It was accurate, and it was correct, and nobody had asked for it.
+
+He heard himself finish it, which does not happen to him.
+
+There was nothing wrong with his face until quite a long way into it.
+
+Mrs Seo came up for the tray and went back down without it.
+
+"Yes, Mistress," he said.
+
+"You cannot say that any more."
+
+**Was sie kann:** *He heard himself finish it* ist der praeziseste Ausfall der
+fuenf - ein Mann, der jedem Satz vorausdenkt, hoert einen von sich zu Ende
+gehen. **Was sie kostet:** keine Unbeholfenheit im Koerper, sie ist ganz
+sprachlich.
+
+---
+
+#### C. Das falsche Skript
+
+**Es feuert die falsche Hoeflichkeitsformel.**
+
+Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
+
+"Thank you," said Georgij.
+
+It is what he says to men who hand him things across desks.
+
+He worked out what he had just done at the speed he works everything out, and then had nowhere at all to put the answer.
+
+His face did not go back to what it had been before.
+
+Mrs Seo was in the doorway and had been there for some of it, and she took the tray away and put it down in the kitchen on the wrong table.
+
+"Yes, Mistress," he said.
+
+"You cannot say that any more."
+
+**Was sie kann:** *"Thank you"* ist im selben Kapitel schon einmal gefallen,
+zu Sang-hoon, und war dort eine Verhandlungsmarke. **Derselbe Satz an eine
+Wange gerichtet ist die Peinlichkeit in reiner Form.** **Was sie kostet:**
+sie ist die grausamste, und sie macht ihn kleiner als die anderen vier.
+
+---
+
+#### D. Der verbotene Reflex
+
+**Die eine Bewegung, die er sich seit zwei Baenden verbietet, kommt durch.**
+
+Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
+
+Georgij lifted his chin.
+
+He has spent two years not doing that. A man with something at his throat lifts the chin, and then everybody in the room looks at the throat.
+
+He put it down again. It was much too late, and it was the wrong room to be too late in.
+
+Mrs Seo was in the doorway with the tray and had seen all of it, and she has been in that house for nine years, and she went back down the stairs with it still full.
+
+Something went across his face and stayed there, which it does not.
+
+"Yes, Mistress," he said.
+
+"You cannot say that any more."
+
+**Was sie kann:** `b1 ch07:64` steht woertlich so da - *Not up. Level. A man
+with something at his throat lifts the chin, and then eight hundred people
+and four photographers and every picture desk in the country look at the
+throat.* **Es ist die einzige Bewegung, von der das Buch ausdruecklich sagt,
+dass er sie nie macht.** Und sie zeigt in derselben Sekunde auf das Halsband,
+in der sie ihm die Anrede wegnimmt. **Was sie kostet:** nichts, ausser dass
+sie ernster ist als komisch.
+
+---
+
+#### E. Die Ueberkorrektheit
+
+**Kein sichtbarer Ausfall. Der Zeitversatz ist der ganze Rest des Tages.**
+
+Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
+
+"Yes, Mistress," he said.
+
+"You cannot say that any more."
+
+Georgij did the rest of that day properly.
+
+He did the note on the Busan schedule that he had been leaving since Monday, and the two telephone calls, and a thing with the gate log that nobody had asked for. All of it was better than it needed to be.
+
+Mrs Seo said afterwards that he had been up and down those stairs about nine times, and had not been carrying anything on four of them.
+
+**Was sie kann:** **ein Mann, der viermal ohne Grund eine Treppe geht, ist in
+diesem Buch die groesstmoegliche Freude**, und sie wird von der Haushaelterin
+gezaehlt und nicht von ihm. **Was sie kostet:** Staunen und Unbeholfenheit
+fallen weg. Es bleibt Zeitversatz und Freude. **Das ist die kaelteste der
+fuenf und die einzige, die gar nicht komisch ist.**
+
+---
+
+#### F. Der Junge als Zeuge, und das ist kein Ersatz, sondern ein Anbau
+
+**Kombinierbar mit jeder der fuenf.** Lot elf ist sechzehn, wieder im Haus und
+Bediensteter, und er lernt, indem er zusieht und hinterher fragt.
+
+The boy was on the landing with the coffee, because that is his work now, and he waited until it was finished and then came in and took the cups.
+
+He asked about it four days later, in a car, which is where he asks things.
+
+"Does she do that often?"
+
+"No."
+
+"Then why did you not say anything to her?"
+
+"Because I did not have anything," said Georgij.
+
+**Was er kann:** **er verschiebt das Gewicht von Komik auf Weitergabe.** Der
+Junge sieht als Einziger im Buch beides - was mit dem Mann passiert und was
+der Mann danach zugibt. *which is where he asks things* traegt dieselbe
+Formel wie *which is where he sits* (`b2 ch89:194`). **Was er kostet:** vier
+Zeilen mehr und eine zweite Szene.
+
+---
+
+#### Und mein Vorschlag ist D, mit F daran
+
+**D bringt die einzige Bewegung ins Bild, von der das Buch ausdruecklich sagt,
+dass er sie nie macht** - und sie zeigt auf das Halsband, in derselben Sekunde,
+in der ihm die Anrede genommen wird. **A ist der beste Witz, D ist die beste
+Stelle.**
+
+**Und wenn lot elf zu diesem Zeitpunkt schon im Haus ist, ist er der bessere
+Zeuge als Mrs Seo** - weil er der Einzige ist, der hinterher fragen darf.
+
+---
+
 ### Was der zweite Durchgang gefunden hat
 
 **Regel: erst wenn zwei Durchgaenge nacheinander nichts finden, ist es
@@ -3055,13 +3208,97 @@ Erfindung, er war nie freigegeben, und der neue Grund braucht ihn nicht.
 der Band 5 steht, wenn der Handel zerlegt wird - **ein Hindernis mit einem
 Geschaeftszweck, kein Mensch mit einem Groll.**
 
-### Der Stand nach dieser Zusammenlegung
+---
 
-* **Der Oberstaatsanwalt, Chois Freund: Hass, begruendet.** Die Person.
-* **Der Hanseong-Erbe: Stand.** Das Ziel des Angriffs.
-* **Die Kette in Singapur: eine Wand.** Kein Gegner.
+## Der dritte Gegner: der Mann, der Hanseong tatsaechlich fuehrt
 
-**Zwei Menschen und eine Wand, und Band 3 braucht keinen dritten Kopf.** Der
-dritte Platz war zweimal mit einer Erfindung besetzt, und beide Male hat der
-Autor gemerkt, dass kein Grund darunter lag. **Der Grund lag die ganze Zeit in
-Kapitel 77.**
+**Am 29.08. nachgefragt, nachdem ich geschrieben hatte, es gebe keinen. Es
+gibt einen, und er ist eine Luecke im eigenen Plan und keine Erfindung.**
+
+### Die Luecke
+
+**Der Plan sagt ueber den Inhaber drei Sachen** (`doc/32-plan-band-3.md`, *Die
+Achse des Hanseong-Inhabers*): vier Generationen und die ersten drei konnten
+es, Herkunft bis ins achtzehnte Jahrhundert, **und er hat nie etwas gebaut.**
+Er kann nicht einmal ueber sein eigenes Haus Auskunft geben.
+
+**Ein Konzern dieser Groesse fuehrt sich nicht selbst.** Irgendwer fuehrt ihn,
+und dieser Jemand kommt im Plan nicht vor.
+
+**Und damit hat der Angriff keinen Widerstand.** Band 3 ist der Angriff auf
+einen Chaebol. Wenn der Einzige, der ihn verteidigen muesste, ein Mann ist,
+der bei der ersten hoeflichen Frage vor Zeugen leer aussieht, **dann ist der
+ganze Band ein Schieben gegen etwas, das umfaellt.**
+
+### Die dritte Sorte, und sie ist die einzige, die noch fehlt
+
+* **Gegner 1, der Oberstaatsanwalt: Hass.**
+* **Gegner 2, der Erbe: Stand.**
+* **Gegner 3: Koennen.**
+
+**Kein Groll, kein Rang. Ein Mann, der seine Arbeit besser macht als alle
+anderen in dem Gebaeude.**
+
+### Warum er nicht zu schlagen ist, und es ist eine einzige Sache
+
+**Er verteidigt nicht den Inhaber. Er verachtet den Inhaber.**
+
+**Er verteidigt viertausendzweihundert Leute** (`b1 ch15:332`: *Hanseong
+Shipping has four thousand two hundred employees*).
+
+**Und das ist Georgijs eigene Zahl.** Sie steht seit Band 1 in dem Satz, mit
+dem er zum ersten Mal erklaert hat, warum das, was er tut, erlaubt ist
+(`b1 ch15:314`: *You would not have to close anything. It would be enough that
+you could.*).
+
+**Der Verteidiger haelt Georgijs Buch in der Hand.** Jedes Argument, mit dem
+Georgij sich seit zwei Baenden erlaubt, was er tut, ist das Argument dieses
+Mannes gegen ihn. **Und Georgij kann nicht dagegenreden, ohne etwas Unwahres
+zu sagen, und er sagt nie etwas Unwahres.**
+
+### Und Georgijs Verfahren laeuft an ihm ins Leere
+
+**Seine Arbeit besteht darin herauszufinden, was ein Mann getan hat.** Dieser
+hat den Betrieb gehalten, waehrend ueber ihm vier Generationen Herkunft
+sassen. **Es gibt nichts zu finden, und was es zu finden gibt, spricht fuer
+ihn.**
+
+### Also gibt es genau einen Weg an ihm vorbei, und der ist teuer
+
+**Kein Zug aus Papier. Ein besseres Angebot als das, das er gerade
+verteidigt.**
+
+**Er wechselt die Seite in dem Moment, in dem die Uebernahme fuer die
+viertausendzweihundert besser ist als der Zustand** - und das ist sie nur,
+wenn Georgij vorhat, sie zu behalten. **Also muss Georgij sich vorher
+festlegen**, oeffentlich, nachpruefbar, auf etwas, wofuer er danach haftet.
+
+**Er hat noch nie fuer jemanden gehaftet.** Er hat Leute gerettet und ist
+weitergegangen.
+
+### Und deshalb geht dieser Gegner nicht mit dem Band zu Ende
+
+**Er ist der Einzige der drei, der nicht verliert.** Der Staatsanwalt bleibt
+ein Gegner, der Erbe verliert seine Firma. **Dieser wechselt die Seite und
+behaelt seinen Betrieb.**
+
+**Und damit ist er der Mann, in dessen Werk Georgij in Band 4 als kleiner
+IT-Angestellter anfaengt.** Er weiss genau, wer da hereinkommt, und er laesst
+ihn herein, **weil er sehen will, ob es ernst gemeint war.**
+
+**Aus dem Gegner von Band 3 wird der Lehrer von Band 4**, und Band 4 hat
+damit die Figur, die ihm gefehlt hat: **jemand, an dem Georgij Fuehrung lernen
+kann, ohne dass ihn jemand befoerdert.** Das ist die Voraussetzung fuer Band 6.
+
+### Der Stand
+
+| | Sorte | Was er will | Ausgang |
+|---|---|---|---|
+| **Der Oberstaatsanwalt** | Hass, begruendet | einen Fall | bleibt Gegner |
+| **Der Hanseong-Erbe** | Stand | dass es so bleibt | verliert alles |
+| **Der Mann, der es fuehrt** | Koennen | die viertausendzweihundert | wechselt die Seite |
+| *die Kette in Singapur* | *keine* | *Gebuehren* | *eine Wand, kein Gegner* |
+
+**Drei Menschen und eine Wand.** Und der dritte ist der Einzige, mit dem
+Georgij am Ende auf derselben Seite steht - **was ihn waehrend des Bandes
+nicht ungefaehrlicher macht, sondern gefaehrlicher, weil er recht hat.**
