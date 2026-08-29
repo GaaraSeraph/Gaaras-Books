@@ -1939,6 +1939,70 @@ can ask you for it, and there will not be."*
 
 ---
 
+## Der Umfang des Erbes: entschieden am 29.08.
+
+**Ich hatte fuenf Einwaende gegen *alles*. Der Autor hat vier beantwortet und
+den fuenften umgedreht, und er hatte bei allen recht.**
+
+### Was gilt
+
+**Die Gruppe geht an Georgij und Annie. Beide.**
+
+**Die Belegschaft bekommt Anteile an den Betrieben, in denen sie gearbeitet
+hat - von Woo, im Testament, nicht von Georgij hinterher.**
+
+### Die Einwaende und ihre Erledigung
+
+| Mein Einwand | Die Antwort |
+|---|---|
+| *Alles hebt Regel 2 auf* | **Es gehoert ihm und Annie.** Die Regel soll in diesem Band brechen, und ein halber Bruch ist keiner |
+| *Band 4 wird unmoeglich* | **Sein Gesicht ist nicht bekannt**, und das war zwei Baende lang seine Arbeitsgrundlage (`b1 ch10:334` *I am the only nobody in the building*, `b1 ch22:32` *entirely visible and entirely uninteresting*). **Das reicht** |
+| *Es beschaedigt Woo* | **Nicht, wenn er seine Leute selbst bedenkt.** Anteile an ihren eigenen Betrieben, und die Gruppe an die zwei |
+| *Es macht Annie ueberfluessig* | **Umgekehrt.** Das Erbe ist Woos **Segen auf die beiden** und geht an beide - **und sie bekommt es, weil er ihrer ist.** Sie bleibt Chaebol |
+
+### Und der fuenfte Punkt war mein Fehler
+
+**Ich hatte vorgeschlagen, Georgij verteile die Betriebe hinterher selbst.**
+Der Autor:
+
+> *Dass ich die Anteile fair verteile, finde ich hier mutig. Ich kenne die
+> Leute und ihre Geschichten mit Woo nicht. Unnoetige, fehleranfaellige
+> Arbeit.*
+
+**Richtig, und es ist ausserdem gegen die Figur.** Georgij verteilt nichts
+nach Gefuehl. **Er kennt keinen einzigen dieser Menschen**, und eine faire
+Verteilung ohne Kenntnis ist eine Behauptung und keine Leistung.
+
+**Woo kennt sie. Fuenfzig Jahre lang, mit Namen.** Er weiss, wer die
+Zollsache vor dreiundzwanzig Jahren ausgebadet hat (`b2 ch69:102`), wer
+geblieben ist und wer nicht. **Die Verteilung gehoert in seine Handschrift
+und in keine andere** - und `b2 ch82:252` sagt schon, wie er so etwas macht:
+*All four, in my hand.*
+
+**Damit hat das Testament eine Reihenfolge, und die ist die Pointe:** zuerst
+seine Leute, mit Namen und Betrieben. **Dann die Gruppe an zwei Personen, von
+denen eine keinen Namen hat, der eine Tuer oeffnet.**
+
+**Georgij steht nicht am Anfang des Dokuments. Er steht darin.**
+
+### Und die Richtung dreht sich zum ersten Mal um
+
+**Zwei Baende lang gehoert er ihr und besitzt nichts.** Alles, was er
+weitergegeben hat, gehoerte jemand anderem: Auskuenfte, Termine,
+Gelegenheiten, ihre Zeit.
+
+**Hier bekommt sie etwas durch ihn.**
+
+**Der Satz des Autors dazu gehoert in den Kopf jeder Szene, die daran haengt:
+sie bekommt das hier nur, weil er ihrer ist.**
+
+### Was daraus fuer die Gruppe folgt
+
+**Der Bestand ist damit keine Nebensache mehr.** Was Woo besitzt, steht unter
+*Was Woo ausser dem Terminal besitzt* in `doc/14-welt.md` - Kanonlage,
+Luecke, Vorschlag. **Wenn die ganze Gruppe vererbt wird, muss sie eine Form
+haben**, und sei es in zwei Halbsaetzen.
+
 ## Woo vererbt, und damit bricht Regel 2 richtig
 
 **Vom Autor am 28.08. entschieden: kein Geschenk, sondern ein Erbe.** Das ist
