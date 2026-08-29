@@ -537,72 +537,72 @@ die beim Planen zaehlt.
 
 ### Das Haus am Fluss
 
-| Figur | Was | Auftritt | Stand |
-|---|---|---|---|
-| **Annie** | Kauft ihn am 4. Oktober. Fuehrt die Familienfinanzen, 42,4 % bei sechs Leuten | B1 1 | Traegt den Band |
-| **Georgij** | Los vierzehn. Elf Haeuser, siebzehn Jahre, vier Sprachen | B1 1 | Traegt den Band |
-| **Mrs Seo** | Fuehrt das Haus seit neun Jahren, Personal, Konten, Fremdfirmen | B1 3 | Laufend, ab B2 58 mit eigener Stimme |
-| **Jang** | Sicherheitschef, achtundfuenfzig, acht Familien, dreissig Jahre | B1 5 | Laufend, sitzt seit Juni in einer Bucht |
-| **Ji-won** | Wohnt ueber der Kueche | B1 3 | Ruht |
-| **Bae** | Wachmann am Tor. **Nicht Mrs Bae aus Band 2** | B1 3 | Ruht |
-| **Eun-ju** | Acht bis vier, wegen des Busses aus Nowon | B1 3 | Ruht |
-| **Mr Baek** | Der Koch. **Nicht Baek Jun-ho** | B1 4 | Ruht |
-| **Mr Ku, Mr Pyo** | Fahren | B1 7 | Laufend |
-| **Mr Chae** | Zeichnet die Instrumente | B1 24 | Ruht |
-| **Mr Noh** | Vorgaenger von Jang | B1 5 | Erledigt |
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Annie** | **Die Eigentuemerin des Hauses.** Kauft ihn am 4. Oktober | Fuehrt die Familienfinanzen, 42,4 % bei sechs Leuten | B1 1 | Traegt den Band |
+| **Georgij** | **Er.** Los vierzehn, gekauft am selben Abend | Elf Haeuser, siebzehn Jahre, vier Sprachen | B1 1 | Traegt den Band |
+| **Mrs Seo** | **Die Haushaelterin** | Fuehrt das Haus seit neun Jahren: Personal, Konten, Fremdfirmen | B1 3 | Laufend, ab B2 58 mit eigener Stimme |
+| **Jang** | **Der Sicherheitschef** | Achtundfuenfzig, acht Familien, dreissig Jahre | B1 5 | Laufend, sitzt seit Juni in einer Bucht |
+| **Ji-won** | **Hausmaedchen.** Bringt ihn am ersten Abend hinauf (`b1 ch03:40`) | Wohnt ueber der Kueche | B1 3 | Ruht |
+| **Bae** | **Wachmann am Tor.** **Nicht Mrs Bae aus Band 2** | | B1 3 | Ruht |
+| **Eun-ju** | **Hausmaedchen**, eine der vier | Acht bis vier, wegen des Busses aus Nowon | B1 3 | Ruht |
+| **Mr Baek** | **Der Koch.** **Nicht Baek Jun-ho** | | B1 4 | Ruht |
+| **Mr Ku, Mr Pyo** | **Die Fahrer des Hauses** | | B1 7 | Laufend |
+| **Mr Chae** | **Der Vertragsjurist auf Annies Seite** | Zeichnet die Instrumente, und erfaehrt den Grund nicht | B1 24 | Ruht |
+| **Mr Noh** | **Jangs Vorgaenger als Sicherheitschef** | | B1 5 | Erledigt |
 
 ### Verbuendete
 
-| Figur | Was | Auftritt | Stand |
-|---|---|---|---|
-| **Chairman Woo Jae-sung** | Achtundsiebzig, einundfuenfzig Jahre, Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
-| **Hana Seo-yeon** | Kennt Annie seit zwanzig Jahren. Drei Prozent Unvorsichtigkeit, und die sind gewaehlt | B1 7 | Ruht seit Mai |
-| **Kim Ye-rin** | Vetorecht ueber Routen, Name auf Seite eins und elf | B1 30 | Erledigt in B1 |
-| **Park Sang-hoon** | Gegner und Handelspartner zugleich. Hat vier Entscheidungen an Chois Tischen getroffen und keine erklaeren koennen | B1 22 | **Aktiv.** Haelt Sims Namen und benutzt ihn nicht |
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Chairman Woo Jae-sung** | **Logistiker, und ausdruecklich kein Chaebol.** Georgijs Freund | Achtundsiebzig, einundfuenfzig Jahre im Gewerbe, Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
+| **Hana Seo-yeon** | **Spediteurin mit eigenem Hof.** Annies aelteste Verbindung, fuehrt ihn in den Ballsaal ein | Kennt Annie seit zwanzig Jahren. Drei Prozent Unvorsichtigkeit, und die sind gewaehlt | B1 7 | Ruht seit Mai |
+| **Kim Ye-rin** | **Fuehrt eine Gruppe, in der sechs Leute sie anrufen, bevor sie unterschreiben** | Vetorecht ueber Routen, Name auf Seite eins und elf | B1 30 | Erledigt in B1 |
+| **Park Sang-hoon** | **Chaebol. Haelt vierzig Prozent an Hanseong Shipping** | Gegner und Handelspartner zugleich. Hat vier Entscheidungen an Chois Tischen getroffen und keine erklaeren koennen | B1 22 | **Aktiv.** Haelt Sims Namen und benutzt ihn nicht |
 
 ### Die Gegenseite
 
-| Figur | Was | Auftritt | Stand |
-|---|---|---|---|
-| **Choi Dae-ho** | Neunundfuenfzig. Ehemaliger Staatsanwalt, sitzt in nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 und 90: neun Anrufe, und er ueberlebt das Ende nicht |
-| **Nam Byung-hee** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
-| **Kang Ji-hoon** | Ministerium | B1 10 | Ruht |
-| **Kim Do-yun** | Gesicht, das nichts tut | B1 31 | Ruht |
-| **Minister Min-ho** | Der Preis. Ueber Choi mit Sang-hoon verbunden | B1 - | Ruht |
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 und 90: neun Anrufe, und er ueberlebt das Ende nicht |
+| **Nam Byung-hee** | **Spediteurin aus Ulsan** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
+| **Kang Ji-hoon** | **Beamter im Ministerium fuer Land und Infrastruktur**, mittlere Ebene | | B1 10 | Ruht |
+| **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
+| **Minister Min-ho** | **Der Minister.** Ueber Choi mit Sang-hoon verbunden | Der Preis | B1 - | Ruht |
 
 ### Der Feldzug in Band 2
 
 **Die Reihenfolge ist erzwungen** und steht in `doc/31-plan-band-2.md`: erst die Haende,
 dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 
-| Figur | Was | Auftritt | Stand |
-|---|---|---|---|
-| **Ahn Jung-hee** | **Die vierte Zeile.** Fuenfunddreissig. Im Haus heisst sie **Do Kyung-ae** und fuehrt den Haushalt, in dem sie gehalten wird | B2 56 | **Der Angelpunkt.** Hat am 27. August zum ersten Mal gesprochen |
-| **Mr Ahn** | Ihr Bruder, neununddreissig, repariert Kleinmotoren. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
-| **Moon Hae-sook** | **Die zweite Frau in demselben Haus, und sie hat kein Losnummer.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
-| **Mrs Ha** | Dreissig Jahre Blumen und Waesche in Saele geliefert, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 67 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij ist am 4. September zu ihr nach Mapo gegangen und wusste, dass sie telefonieren wuerde |
-| **Sim** | Chois Haende. Dreissig Jahre Fixer, und sein Instrument ist die Freundlichkeit | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
-| **Mr Yeom** | Dritte Etage in Jung-gu, zehn Firmen ohne Personal. Kennt Sims Namen und gibt ihn nicht her | B2 24 | Aktiv, liest vier Jahre Quartalsmappen |
-| **Mr Hwang** | **Der Sanierer.** Fuehrt das Auktionshaus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
-| **Baek Jun-ho** | Solicitor in Yeouido, dreiundsechzig, elf Treuhandschaften, verwaltet diese seit elf Jahren | B2 42 | **Eingeloest in B2 82: das Geld IST der Sauerstoff.** Vierundvierzig Zahlungen an eine Adresse in Gangwon-do, ohne Namen, mit seiner Unterschrift |
-| **Mr Koh** | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
-| **Mr Pyeon** | Einer der fünf. Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
-| **Mr Tak** | Seit Ende August im Haus in Gangwon-do, der erste neue Wachmann in vier Jahren | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
-| **Mrs Jeon Mi-ja** | Einundfuenfzig, dreiundzwanzig Jahre Abrechnung, seit dem 12. Mai draussen | B2 6 | **Ab 1. Oktober in Gwangyang, und im Maerz liest sie Ahn Jung-hee die erste Stunde vor (B2 71)** |
-| **Mr Byun** | Sechsundzwanzig Jahre im Haus. *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
-| **Mrs Bae** | Zweiundzwanzig Jahre am Empfang, fuehrt das Buch mit Bleistift. **Nicht Bae aus Band 1** | B2 41 | Gegeben, was sie hatte |
-| **Mr Sohn** | Kocht ohne Schild fuer Stammgaeste. Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
-| **Mrs Gwak** | Blumenladen in Hyoja-dong, fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
-| **Mrs Sunwoo** | Einundachtzig, einundvierzig Jahre Kaeuferin in dem Haus. Eine der vier Zeilen | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
-| **Mrs Uhm** | Ablage bei Yeom seit 2004 | B2 17 | Wird von niemandem behelligt werden |
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Ahn Jung-hee** | **Die vierte Zeile im Katalog.** Wird in einem Haushalt in Gangwon-do gehalten | Fuenfunddreissig. Im Haus heisst sie **Do Kyung-ae** und fuehrt den Haushalt, in dem sie gehalten wird | B2 56 | **Der Angelpunkt.** Hat am 27. August zum ersten Mal gesprochen |
+| **Mr Ahn** | **Ihr Bruder.** Repariert Kleinmotoren | Neununddreissig. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
+| **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
+| **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | Dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 67 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij ist am 4. September zu ihr nach Mapo gegangen und wusste, dass sie telefonieren wuerde |
+| **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
+| **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her | B2 24 | Aktiv, liest vier Jahre Quartalsmappen |
+| **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuehrt es seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
+| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren | B2 42 | **Eingeloest in B2 82: das Geld IST der Sauerstoff.** Vierundvierzig Zahlungen an eine Adresse in Gangwon-do, ohne Namen, mit seiner Unterschrift |
+| **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
+| **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
+| **Mr Tak** | **Wachmann im Haus in Gangwon-do**, der erste neue in vier Jahren | Seit Ende August dort | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
+| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Ab 1. Oktober in Gwangyang, und im Maerz liest sie Ahn Jung-hee die erste Stunde vor (B2 71)** |
+| **Mr Byun** | **Fuehrte sechsundzwanzig Jahre das Register des Auktionshauses** | *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
+| **Mrs Bae** | **Empfangsdame**, fuehrt das Buchungsbuch mit Bleistift. **Nicht Bae aus Band 1** | Zweiundzwanzig Jahre am Empfang | B2 41 | Gegeben, was sie hatte |
+| **Mr Sohn** | **Koch.** Kocht ohne Schild fuer Stammgaeste | Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
+| **Mrs Gwak** | **Blumenladen in Hyoja-dong** | Fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
+| **Mrs Sunwoo** | **Kaeuferin in dem Auktionshaus**, einundvierzig Jahre. Eine der vier Zeilen | Einundachtzig | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
+| **Mrs Uhm** | **Macht Yeoms Ablage**, seit 2004 |  | B2 17 | Wird von niemandem behelligt werden |
 
 ### Ohne Namen, und das ist Absicht
 
-| Figur | Was | Auftritt |
-|---|---|---|
-| **Der Neffe** | Vierunddreissig, fuehrt die Spedition in Gwangyang, die er geerbt hat, und hat Angst vor dem Hafen. **Fragt Mrs Jeon als erster Mensch seit 1998, was sie denkt** | B2 83, B2 90 |
-| **Der Vertreter** | Etwa fuenfzig, mit Mappe, wickelt fuer die Gegenseite den Hof ab. Nicht Mr Tak und in keiner Akte | B2 86 |
-| **Die Pflegerin** | Fuer einen Tag aus einer Agentur in Chuncheon. Bekam die Adresse und sonst nichts und war sehr gut | B2 89 |
+| Figur | Wer das ist | Was | Auftritt |
+|---|---|---|---|
+| **Der Neffe** | **Fuehrt die geerbte Spedition in Gwangyang** | Vierunddreissig, und hat Angst vor dem Hafen. **Fragt Mrs Jeon als erster Mensch seit 1998, was sie denkt** | B2 83, B2 90 |
+| **Der Vertreter** | **Wickelt fuer die Gegenseite den Hof ab.** Nicht Mr Tak und in keiner Akte | Etwa fuenfzig, mit Mappe | B2 86 |
+| **Die Pflegerin** | **Agenturpflegerin aus Chuncheon**, fuer einen Tag | Bekam die Adresse und sonst nichts und war sehr gut | B2 89 |
 
 **Warum sie keine Namen haben:** in jedem dieser drei Faelle ist die Namenlosigkeit
 die Aussage. Der Neffe ist der Mann, dessen Firma Mrs Jeon rettet, ohne dass ihn
@@ -612,13 +612,13 @@ verschwindet, weil sie nichts erfahren durfte.
 
 ### Einmalige, und sie bleiben es
 
-| Figur | Was | Auftritt |
-|---|---|---|
-| **Mr Hong** | Einundsechzig, neunzehn Jahre derselbe Tisch. Traegt die Berater-Legende | B1 7 |
-| **Mrs Ryu** | Das Schiedsverfahren in Singapur. **Nicht Mr Koh** | B1 7 |
-| **Chef Bang Seung-min** | Los neun auf der Benefiz | B1 8 |
-| **Die junge Frau von der Stiftung** | Vierundzwanzig, bleibt namenlos, und das ist Absicht | B1 7 |
-| **Mr Kwon** | Auf der Spur aus Ulsan | B2 - |
+| Figur | Wer das ist | Was | Auftritt |
+|---|---|---|---|
+| **Mr Hong** | **Der Mann, der Georgij im Ballsaal die Leute erklaert** | Einundsechzig, neunzehn Jahre derselbe Tisch. Traegt die Berater-Legende | B1 7 |
+| **Mrs Ryu** | **Die Frau, die in Singapur aus dem Schiedsverfahren gegangen ist.** **Nicht Mr Koh** | Georgij fragt sie, ob die Fassung stimmt, die man sich erzaehlt | B1 7 |
+| **Chef Bang Seung-min** | **Koch.** Los neun auf der Benefizauktion | | B1 8 |
+| **Die junge Frau von der Stiftung** | **Mitarbeiterin einer Stiftung** | Vierundzwanzig, bleibt namenlos, und das ist Absicht | B1 7 |
+| **Mr Kwon** | **Ein Name auf der Spur aus Ulsan** | | B2 - |
 
 ---
 
