@@ -2544,3 +2544,66 @@ Alle drei stehen im Index und sind dort nie beantwortet worden.
 1. **b1 K30: *"I have known that since I was forty-one."*** Das macht Annie mindestens einundvierzig. Sie war vierzehn, als Choi kam, Choi ist neunundfuenfzig und war damals sechsunddreissig - **das ergibt siebenunddreissig.** Dasselbe Kapitel ist voll von *"forty-one per cent"*. **Verdacht auf Zahlenkontamination aus dem Anteilssatz.**
 2. **Wann ist Annies Vater gestorben?** b1 K15 sagt *"She has done it since the father died"* und *"not one of those six has voted against her since 2009"*. Mit vierzehn fuehrt niemand Familienfinanzen. **Im Text steht kein Sterbedatum.**
 3. **b2 K13: *"I still have the three hours. I am seventy-eight and I would rather be owed than paid."*** Woo ist an dieser Stelle der **Schuldner**, aber *to be owed* ist die Position des Glaeubigers. Entweder ein Dreher, oder dem Satz fehlt ein Wort.
+
+---
+
+## Nachtrag 29.08.: die Preisfrage im Gang, nach Kapitel 86
+
+**Vom Autor vorgeschlagen.** Wenn Choi aus dem Gespraech kommt, fragt
+Sang-hoon ihn, auf welchen Preis er Georgij nach dem Gespraech schaetzen
+wuerde. **Noch nicht geschrieben - hier der Inhalt und die Fundstellen.**
+
+### Der Platz dafuer ist bereits gebaut
+
+* `b2 ch86:556` - *Behind him, in a small room at the end of it, a man of
+  sixty stood at a window and looked at four cars on a drive. **Nobody came
+  for him for eleven minutes.***
+* `b2 ch85:124` - *Sang-hoon was by the window with two other men and did not
+  turn round.*
+* `b2 ch85:284` - *One of them was Park Sang-hoon, **who had not said a word to
+  him all evening**.* (zu Georgij, nicht zu Choi)
+* `b2 ch87:180` - ***Park Sang-hoon left last of the men and left at eleven.***
+
+**Chois elf Minuten und Sang-hoons elf Uhr liegen nebeneinander.** Die Szene
+gehoert dazwischen, in den Gang oder an die Wagen.
+
+**Und Georgij ist nicht dabei** - `b2 ch86:552`: *He went up the passage.*
+**Das ist der Gewinn und nicht das Problem:** der Leser bekommt Chois
+Schaetzung, und Georgij bekommt sie nie. Das Buch erzaehlt an dieser Stelle
+ohnehin schon ohne ihn, vier Zeilen weiter.
+
+### Der Text
+
+Park Sang-hoon was at the end of the passage and had been for some minutes.
+
+"Eleven minutes," he said. "What would you have gone to?"
+
+Choi Dae-ho took his time with his coat.
+
+"Nothing I have ever been able to pay."
+
+"That is not a number."
+
+"No," said Choi Dae-ho. "It is not."
+
+### Warum die Antwort mehr sagt als eine Summe
+
+**Sang-hoon hat zwei Milliarden zweihundert geboten** und rechnet in Preisen -
+`b2 ch04:106`: *"I do not pay what a thing is worth. I pay what it costs to
+stop having to think about it."*
+
+**Chois Antwort verweigert ihm die Waehrung und nicht den Betrag.** *Nothing I
+have ever been able to pay* heisst nicht *zu teuer fuer mich*. Es heisst,
+**dass es nie in Geld war.**
+
+**Und das steht drei Seiten vorher, aus Georgijs Mund**, `b2 ch86:310`:
+*"You do not carry anything yourself."* **Was dieser Mann kostet, ist
+Tragen** - und Choi hat in fuenfundzwanzig Jahren nie in dieser Waehrung
+gezahlt.
+
+### Zeichensetzung
+
+**Sang-hoon bekommt das Fragezeichen**, weil Choi nein sagen kann, ohne den
+Gang zu verlassen. **Chois zwei Antworten bekommen den Punkt.** Und *"That is
+not a number."* ist eine Feststellung und keine Frage.
+

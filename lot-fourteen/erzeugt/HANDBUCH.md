@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 268.733 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 269.757 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -274,6 +274,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Bekannte Baustellen - angelegt nach Kapitel 17, seither weitergepflegt](#bekannte-baustellen-angelegt-nach-kapitel-17-seither-weitergepflegt)
   - [Wie es dazu kam, und die Lehre ist wichtiger als der Fall](#wie-es-dazu-kam-und-die-lehre-ist-wichtiger-als-der-fall)
   - [Der Vorschlag, falls der Autor ihn will](#der-vorschlag-falls-der-autor-ihn-will)
+  - [Der Platz dafuer ist bereits gebaut](#der-platz-dafuer-ist-bereits-gebaut)
+  - [Der Text](#der-text)
+  - [Warum die Antwort mehr sagt als eine Summe](#warum-die-antwort-mehr-sagt-als-eine-summe)
+  - [Zeichensetzung](#zeichensetzung)
 - [Plan, Band 3](#plan-band-3)  ·  `doc/32-plan-band-3.md`
   - [1. Hanseong, und der, der nicht verkauft hat](#1-hanseong-und-der-der-nicht-verkauft-hat)
   - [2. Einer, der unter dem Veto liegt](#2-einer-der-unter-dem-veto-liegt)
@@ -366,6 +370,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Yeom, ein wenig: er kennt alle und will nichts](#yeom-ein-wenig-er-kennt-alle-und-will-nichts)
   - [Und die drei zusammen sind genau das, was ihm fehlt](#und-die-drei-zusammen-sind-genau-das-was-ihm-fehlt)
   - [Und im Haus stehen dann zwei Jungen](#und-im-haus-stehen-dann-zwei-jungen)
+  - [Wer, und alle vier stehen schon im Buch](#wer-und-alle-vier-stehen-schon-im-buch)
+  - [Und die Stelle, die niemand ausspricht](#und-die-stelle-die-niemand-ausspricht)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/40-verworfen.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -15701,6 +15707,68 @@ Alle drei stehen im Index und sind dort nie beantwortet worden.
 
 ---
 
+## Nachtrag 29.08.: die Preisfrage im Gang, nach Kapitel 86
+
+**Vom Autor vorgeschlagen.** Wenn Choi aus dem Gespraech kommt, fragt
+Sang-hoon ihn, auf welchen Preis er Georgij nach dem Gespraech schaetzen
+wuerde. **Noch nicht geschrieben - hier der Inhalt und die Fundstellen.**
+
+### Der Platz dafuer ist bereits gebaut
+
+* `b2 ch86:556` - *Behind him, in a small room at the end of it, a man of
+  sixty stood at a window and looked at four cars on a drive. **Nobody came
+  for him for eleven minutes.***
+* `b2 ch85:124` - *Sang-hoon was by the window with two other men and did not
+  turn round.*
+* `b2 ch85:284` - *One of them was Park Sang-hoon, **who had not said a word to
+  him all evening**.* (zu Georgij, nicht zu Choi)
+* `b2 ch87:180` - ***Park Sang-hoon left last of the men and left at eleven.***
+
+**Chois elf Minuten und Sang-hoons elf Uhr liegen nebeneinander.** Die Szene
+gehoert dazwischen, in den Gang oder an die Wagen.
+
+**Und Georgij ist nicht dabei** - `b2 ch86:552`: *He went up the passage.*
+**Das ist der Gewinn und nicht das Problem:** der Leser bekommt Chois
+Schaetzung, und Georgij bekommt sie nie. Das Buch erzaehlt an dieser Stelle
+ohnehin schon ohne ihn, vier Zeilen weiter.
+
+### Der Text
+
+Park Sang-hoon was at the end of the passage and had been for some minutes.
+
+"Eleven minutes," he said. "What would you have gone to?"
+
+Choi Dae-ho took his time with his coat.
+
+"Nothing I have ever been able to pay."
+
+"That is not a number."
+
+"No," said Choi Dae-ho. "It is not."
+
+### Warum die Antwort mehr sagt als eine Summe
+
+**Sang-hoon hat zwei Milliarden zweihundert geboten** und rechnet in Preisen -
+`b2 ch04:106`: *"I do not pay what a thing is worth. I pay what it costs to
+stop having to think about it."*
+
+**Chois Antwort verweigert ihm die Waehrung und nicht den Betrag.** *Nothing I
+have ever been able to pay* heisst nicht *zu teuer fuer mich*. Es heisst,
+**dass es nie in Geld war.**
+
+**Und das steht drei Seiten vorher, aus Georgijs Mund**, `b2 ch86:310`:
+*"You do not carry anything yourself."* **Was dieser Mann kostet, ist
+Tragen** - und Choi hat in fuenfundzwanzig Jahren nie in dieser Waehrung
+gezahlt.
+
+### Zeichensetzung
+
+**Sang-hoon bekommt das Fragezeichen**, weil Choi nein sagen kann, ohne den
+Gang zu verlassen. **Chois zwei Antworten bekommen den Punkt.** Und *"That is
+not a number."* ist eine Feststellung und keine Frage.
+
+---
+
 # Plan, Band 3
 
 *Plan. Was Band 2 an Band 3 uebergibt.*
@@ -18830,6 +18898,95 @@ wurde eingestellt, einer wurde gekauft.**
 
 **Niemand im Haus wird das gesagt bekommen**, und Georgij ist der Einzige, der
 beide Haelften kennt. **Es wird nirgends ausgesprochen.**
+
+---
+
+## Los elf: wie er ist, und wer ihn auftaut
+
+**Vom Autor am 29.08. festgelegt.** Wissbegierig, lernt schnell, **lieber
+still als redend - aus Angst, das Falsche zu sagen.** Dass er ueberhaupt
+verkauft wurde, sitzt ihm tief in den Knochen. **Er vertraut nicht wirklich.**
+
+**Das ist nicht Schuechternheit, das ist eine erlernte Rechnung**, und Georgij
+hat dieselbe gemacht: `b1 ch24:168` - *He had wanted things at nine years old
+and had stopped, **because a boy in that trade who wants something has told**
+[somebody something].*
+
+**Der Junge schweigt aus demselben Grund, aus dem Georgij aufgehoert hat, etwas
+zu wollen.** Nur ist Georgij daraus ein Werkzeug geworden und der Junge ist
+noch mitten darin.
+
+**Und deshalb darf Georgij ihn nicht auftauen.** Er ist der Beweis dafuer, dass
+die Rechnung stimmt. **Das Haus taut ihn auf.**
+
+### Wer, und alle vier stehen schon im Buch
+
+**Mrs Seo, streng und gerecht, und der Text sagt es in vier Woertern.**
+`b1 ch03:40`, zu Georgij am ersten Abend: *"I know what you are." **Not
+unkindly, and not kindly either.*** Neun Jahre im Haus, sie fuehrt Personal,
+Buecher und die Fremdfirmen, und sie traegt das Tablett selbst hinauf und
+wird es tun, *until she was carried out* (`b1 ch05:146`).
+
+**Ji-won ist die, die das Unnoetige tut, und das ist genau die Faehigkeit.**
+`b1 ch03:90`, Georgij an seinem ersten Abend:
+
+> **"Ji-won. Thank you for the light. Neither of us needed it and it was still
+> the right thing to bring."**
+
+**Sie hat ihm ein Licht gebracht, das keiner brauchte.** Das ist der Mensch,
+der einen Jungen auftaut, der niemandem traut - und es ist **schon einmal an
+demselben Mann vorgefuehrt worden.**
+
+**Eun-ju**, die von acht bis vier arbeitet, weil der Bus aus Nowon es nicht
+besser hergibt (`b1 ch05:144`). **Ein Mensch mit einem Fahrplan und ohne
+Absicht.**
+
+**Yun**, Kuechenjunge seit der ersten Januarwoche, der seit der zweiten Woche
+jeden Morgen guten Tag sagt, **was ihm niemand gesagt hat** (`b2 ch01:22`).
+**Der Gleichaltrige, und der Einzige, der nichts von ihm will.**
+
+### Und die Stelle, die niemand ausspricht
+
+**Georgij sieht, wie Ji-won dem Jungen etwas bringt, das er nicht braucht**,
+und er ist der Einzige im Haus, der weiss, was das ist, weil es ihm einmal
+selbst gebracht wurde.
+
+**Er sagt nichts. Er bedankt sich auch nicht noch einmal.**
+
+## Jang war Wachmann bei mehreren Chaebol
+
+**Vom Autor am 29.08. festgelegt, und damit ist die Luecke geschlossen** - der
+Text sagte ueber seine Herkunft bisher nichts.
+
+**Und es ist die richtige Antwort, weil sie nichts erfindet.** Wer die
+Sicherheit eines solchen Hauses fuehrt, **hat immer Kontakt mit der
+Unterwelt**, weil dort die Dinge landen, die nicht durch die Kanaele gehen.
+
+**Es erklaert ausserdem, was schon dasteht:**
+
+* `b1 ch05:32` - *"**Everybody I spoke to before I took this** told me your
+  name inside four minutes."* **Er hat vorher herumgefragt. Er hat also, wen
+  man fragt.**
+* `b1 ch13:40` - er lehnte es ab, **eine Autovermietung anzurufen.** Das lernt
+  man nicht in einem Wachdienst, der nur Tore bewacht.
+
+**Zwei Sachen, die daraus fallen. Die erste ist eine Moeglichkeit, die zweite
+eine Szene.**
+
+**1. Er kann bei Hanseong gewesen sein**, oder er kennt deren Leute. **Nur
+notiert, nicht entschieden** - es waere in Band 3 zu billig, wenn es zu genau
+passt.
+
+**2. Und die Frage, die einmal gestellt gehoert:** ein Mann, der die
+Sicherheit mehrerer solcher Haeuser gefuehrt hat, **wusste, dass es diesen
+Handel gibt.**
+
+**Die ehrliche Antwort ist die einzige brauchbare:** er hat es gewusst und nie
+angefasst, **und mehr kann in dieser Stellung niemand sagen.** Georgij nimmt
+sie an, weil sie wahr ist und weil er selbst nichts Besseres anzubieten
+haette.
+
+**Einmal, kurz, und danach nie wieder erwaehnt.**
 
 ---
 
