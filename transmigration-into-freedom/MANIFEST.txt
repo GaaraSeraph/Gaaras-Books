@@ -33,4 +33,4 @@ ch30    2964 Woerter  ch30-a-man-in-town.md
 ch31    2747 Woerter  ch31-send-me-a-bill.md
 
 Gesamt: 31 Kapitel, 69953 Woerter
-Handbuch: 4 Dokumente
+Handbuch: 5 Dokumente

@@ -38,6 +38,13 @@ nicht diese Zeile von Hand.
 30. A Man in Town
 31. Send Me a Bill
 32. (planned) the quarter, and who attends with the roll
+33. (planned) the charter
+34. (planned) the first job under seal
+35. (planned) the class arrives, and the volume ends
+
+Chapters 32 to 35 are the Band 1 finale. Their plot is fixed in
+docs/plan-band-1.md (leading document, with the author's forks listed);
+titles there are proposals, these lines are working notes.
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -70,10 +77,14 @@ record - and what it read off him was a borrowed fiction, which it then made
 his true name without asking. Nothing on the page says this yet. It sits next
 to thread 1 (it can write into his head) and thread 11 (Hallvard shows nothing
 at all).
-RESERVED BEAT, do not spend it anywhere else: the origin lands the first time
-somebody in this world WRITES THE NAME DOWN. See thread 16 for the shape of
-that scene and what else it has to carry. Until then, nothing about where the
-name comes from appears in any chapter.
+RESERVED BEAT, do not spend it anywhere else, TRIGGER RE-FIXED (plan-band-1,
+section 4): the old trigger was "the first time somebody in this world writes
+the name down", and that moment has come and gone - Signe wrote it in ch21
+and the chapter rightly spent itself on him being in the book at all. ch21 is
+canon and stays. The origin now lands when the name goes onto something built
+to OUTLIVE him, not a register that merely records him. NOT in Band 1, and
+not in the ch33 charter or the ch35 class scene. Until then, nothing about
+where the name comes from appears in any chapter.
 
 Old life
 - Age at transition: 38.
@@ -1998,8 +2009,10 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     - A lord's man "keeps a ledger" (ch17). Gaara's assumption, not verified.
 13. The nobility, and whether anything large needs a noble backer.
 14. This world's norms on sexuality and non-exclusive partnership.
-15. The name, and the first time it becomes a record. RESERVED for the scene
-    where somebody in this world writes it down. See section 1.
+15. The name, and when its origin finally lands. The literal first writing
+    happened in ch21 (Signe, the Roll) without the beat, on purpose. Trigger
+    re-fixed in section 1: it lands when the name goes onto something built
+    to outlive him. Band 2 material - see docs/plan-band-1.md section 4.
 16. Whether anything stands above Gaara's own head, and who could read it. He
     has never asked and has never looked.
 17. THE STICK-CARRIER. Somebody has been going into the ruin for months: a fire
