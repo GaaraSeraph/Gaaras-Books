@@ -380,7 +380,8 @@ Sprache aus, sondern der Mensch dahinter, und die Sprache laeuft leer
 weiter.**
 
 **Und *be no use to anybody at all* ist die Ohrfeige**, weil Nuetzlichkeit
-seine ganze Person ist. `b2 ch67:212` fragt er selbst: *Was I useful?*
+seine ganze Person ist. **Er fragt es zweimal im Buch selbst**, und beide Male
+mit dem Zeichen: `b1 ch33:362` und `b2 ch87:422` - *"Was I useful?"*
 
 **Sang-hoon als Zeuge ist kein Zufall.** Ein Mann, der zwei Milliarden
 zweihundert geboten hat, sieht zu, wie das Gebot in einer Sekunde

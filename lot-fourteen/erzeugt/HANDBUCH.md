@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 19 Dokumente am Stueck plus das Begegnungsregister. 277.345 Woerter.
+Alle 19 Dokumente am Stueck plus das Begegnungsregister. 277.359 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -935,7 +935,8 @@ Sprache aus, sondern der Mensch dahinter, und die Sprache laeuft leer
 weiter.**
 
 **Und *be no use to anybody at all* ist die Ohrfeige**, weil Nuetzlichkeit
-seine ganze Person ist. `b2 ch67:212` fragt er selbst: *Was I useful?*
+seine ganze Person ist. **Er fragt es zweimal im Buch selbst**, und beide Male
+mit dem Zeichen: `b1 ch33:362` und `b2 ch87:422` - *"Was I useful?"*
 
 **Sang-hoon als Zeuge ist kein Zufall.** Ein Mann, der zwei Milliarden
 zweihundert geboten hat, sieht zu, wie das Gebot in einer Sekunde
