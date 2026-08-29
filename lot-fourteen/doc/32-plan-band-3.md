@@ -312,7 +312,113 @@ Annie went back to the page.
 
 "Yes, Mistress."
 
-"You are not going to be able to say that again."
+Annie got up out of the chair and crossed the room and kissed him on the cheek, and went back to the chair and found her place again.
+
+Georgij did not move and did not say anything, and both of those were correct.
+
+Then it arrived.
+
+There had been three seconds after the price was named and he had them without trying. He did not get a number for this.
+
+He put his hands behind his back, and then at his sides, and then behind his back again. He has only the two.
+
+Something went across his face and stayed there, which it does not.
+
+Mrs Seo came in for the coffee that Park Sang-hoon had not taken, and saw the end of it, and went out again and put the tray down in the kitchen on the wrong table.
+
+She had never once seen that face do anything, and she has been looking at it since the October before last.
+
+Nobody had said anything to him.
+
+"Yes, Mistress," he said.
+
+"You cannot say that any more."
+
+### Was in der Reaktion woher kommt
+
+**Vom Autor am 29.08. verlangt: Staunen, Unbeholfenheit, Freude,
+Zeitversatz - Looney Tunes, in den Ton dieses Buches gesetzt. Und ein Zeuge
+ist ausdruecklich erlaubt.** Alle vier stehen jetzt drin, und keines davon
+ist erfunden.
+
+**Zeitversatz.** *Then it arrived.* Er arbeitet erst korrekt weiter und faellt
+danach aus. **Das ist der ganze Witz, und er ist bei Looney Tunes derselbe.**
+
+**Staunen: der Zaehler springt nicht an.** `b1 ch33:412`: *He counts the way
+other people breathe, and he has done it since he was old enough to be sold.*
+**Es gibt nichts, was er nicht zaehlt.**
+
+**Und der Gegenbeleg steht in derselben Szene, achtzig Zeilen weiter oben:**
+*Nobody in that room did anything for **about three seconds**.* **Er hatte
+die, ohne es zu versuchen. Fuer den Kuss bekommt er keine.**
+
+**Das ist der zweite Anlauf.** Zuerst hatte ich die Zeile aus `b1 ch33`
+woertlich hierher geholt. **Ein Rueckbezug innerhalb derselben Szene ist
+staerker als ein importierter**, und er kostet den Leser keinen Weg zurueck
+in Band 1.
+
+**Und ich habe absichtlich nicht *He did not count anything* geschrieben.**
+Der Satz gehoert Band 5, in Annies Schoss, nach der Exekution. **Zweimal
+derselbe Satz nimmt dem zweiten alles.**
+
+**Unbeholfenheit: er hat genau zwei Haltungen.** *He kept his hands at his
+sides* und *He put both hands behind his back* stehen ueber beide Baende
+verteilt und sind seine einzigen. **Er geht sie durch, und keine passt.**
+*He has only the two.* **Keine neue Geste, kein Buecken, nichts Erfundenes -
+das vorhandene Repertoire laeuft leer.**
+
+**Freude, und die Formel dafuer stand schon da, nur andersherum.** Dreimal im
+Buch: *something went across his face **and did not stay***. **Ein einziges
+Mal bleibt es**, und *which it does not* sagt dem Leser, dass das noch nie
+vorgekommen ist, ohne es zu behaupten.
+
+**Damit reimt sich der Schluss der Szene auf ihren ersten Satz:** *Park
+Sang-hoon telephoned at eleven, **which he does not do**.*
+
+**Der Zeuge: Mrs Seo, und sie kommt aus der Szene selbst.** Oben steht *He did
+not sit down and he did not take the coffee.* **Der Kaffee steht noch da, und
+irgendwer holt ihn.** Sie ist seit neun Jahren die Instanz, an der man merkt,
+dass etwas passiert ist (`b2 ch23:98`, `b2 ch23:246`) - **und sie meldet die
+Freude von aussen, weil dieses Buch Gefuehle nie von innen benennt.**
+
+**Und die Fehlfunktion sitzt zum Schluss.** *Nobody had said anything to him.*
+Dann trotzdem *"Yes, Mistress."* **Die Maschine fuehrt den letzten Befehl noch
+einmal aus, weil kein neuer kommt** - und genau darauf faellt ihre Zeile.
+
+### Was der zweite Durchgang gefunden hat
+
+**Regel: erst wenn zwei Durchgaenge nacheinander nichts finden, ist es
+fertig. Der zweite hat drei Sachen gefunden.**
+
+**1. Fuenf *and* in einem Satz.** *got up... and crossed... and kissed... and
+went back and sat down and found her place.* **Ihr Rueckweg bekam mehr
+Schritte als die Geste selbst**, und damit wird das Zurueckgehen zum
+Ereignis. Jetzt: *and went back to the chair and found her place again.*
+
+**2. Eine Zahlenkollision in derselben Szene.** Oben steht *for about three
+seconds, and **one of the three** was working out...* - dort sind die drei
+**Personen** gemeint. Mein Rueckbezug *the three seconds* haette daneben
+gestanden und den Leser eine Sekunde kosten koennen. Jetzt: *There had been
+three seconds after the price was named.*
+
+**3. *for two years* ist ungefaehr, und dieses Buch zaehlt genau.** Tag 1 ist
+der vierte Oktober; die Szene liegt hinter Tag 590. **Das sind nicht zwei
+Jahre, und eine ungefaehre Zahl ist hier schlechter als keine.** Jetzt:
+*since the October before last* - der Auktionstag, ohne ihn zu nennen.
+
+### Zwei Sachen, die ich vorher berichtigt habe
+
+**1. Die Reihenfolge.** Mein erster Versuch hatte den Kuss **vor** *"Yes,
+Mistress."* `doc/10-naehe.md` hatte sie am 28.08. anders festgelegt, und die
+festgelegte ist die richtige: **Aufzaehlung, "Yes, Mistress.", Kuss,
+Reaktion, ihr Satz.** Nur so kann ihre Zeile die Fehlfunktion treffen.
+
+**2. Ihr Schlusssatz.** Im Entwurf stand *"You are not going to be able to say
+that again."*, in `doc/10-naehe.md` **"You cannot say that any more."**
+**Zwei Fassungen derselben Zeile in zwei Dateien ist genau die Drift, gegen
+die das ganze Verfahren gebaut ist.** Sie ist jetzt in beiden die kuerzere:
+nach einem Ausfall traegt der kurze Satz weiter, und Annie verfuegt mit
+Punkt.
 
 ---
 
@@ -2773,66 +2879,175 @@ der einzige, den er nicht mit Papier reparieren kann.
 
 ---
 
-## Der dritte Gegner, dritter Anlauf: ein Staatsanwalt, der seine Arbeit macht
+## Der dritte Gegner, und die Antwort ist eine Zusammenlegung
 
-**Am 29.08. zweimal zu Recht abgelehnt.** Erst die Kanzleikette - **und der
-Einwand dagegen ist vernichtend:** der Fonds hat Woos Terminal finanziert.
-**Das ist ein Grund, ihnen zu helfen, und keiner, sie zu zerstoeren.** Dann
-der beschaedigte Unbeteiligte, der als Gegner nichts kann.
+**Zwei Anlaeufe sind am 29.08. zu Recht abgelehnt worden**, die Kanzleikette
+und der beschaedigte Unbeteiligte. **Der dritte Anlauf war schlimmer als
+beide**, weil er auf einem Sachfehler stand.
 
-**Beide Einwaende zeigen auf dieselbe Luecke: es fehlt ein Grund.**
+### Zuerst der Fehler, weil alles Weitere daran haengt
 
-### Der Grund ist Pflicht, und das ist die einzige Sorte, die noch fehlt
+**Ich hatte geschrieben: *Annies Vater war Staatsanwalt und wurde 2002 aus dem
+Dienst entfernt.* Das ist falsch.** `b2 ch84:192` liest sich andersherum, und
+die Nebensaetze haengen an dem **anderen** Mann:
 
-* **Gegner 1, Chois Freund: Trauer.**
-* **Gegner 2, der Erbe: Stand.**
-* **Gegner 3: Pflicht.**
+> *A prosecutor of thirty-six who was got out of a service in 2002 **by a man
+> who could not read a contract**, and whose photographs are in the dining
+> room, and who is her father.*
 
-**Ein Staatsanwalt, der nicht gekauft ist, nicht feindselig, und Georgij
-moeglicherweise sogar mag** - und der eine Akte ueber ihn anlegt, **weil das
-die Arbeit ist.**
+**Der Mann, der nicht lesen konnte, ist ihr Vater. Er ist derjenige, der den
+Staatsanwalt herausgeholt hat.**
 
-### Warum das der gefaehrlichste Gegner des ganzen Buches ist
+### Und der Staatsanwalt von sechsunddreissig ist Choi Dae-ho
 
-**Georgijs Feldzug besteht darin, Staatsanwaelten wahre Sachen zu geben.** Er
-hat zwei Baende lang nichts anderes getan. **Der dritte Gegner nimmt dieselben
-wahren Sachen und geht sie rueckwaerts.**
+**Das steht woertlich im Buch und ich hatte es nicht zusammengesetzt.**
 
-**Und es gibt nichts zu finden, was hilft.** Man kann ihn nicht kaufen, nicht
-erpressen und nicht blossstellen, **weil er nichts getan hat** - und jeder
-Versuch waere selbst die Straftat, die er sucht.
+`b2 ch77:66`, Chairman Woo:
 
-**Georgijs Verfahren funktioniert an ihm zum ersten Mal nicht.**
+> *"The file on my company was closed on the eleventh of April in two thousand
+> and two. There is no reason recorded and there was never going to be one."*
+> Woo did not move his hands. *"**Choi Dae-ho resigned from that service eleven
+> days later**."*
 
-### Und der Grund liegt seit Band 2 im Esszimmer
+`b2 ch77:90`, derselbe Mann, vier Repliken spaeter:
 
-`b2 ch84:192`:
+> *"You do not get a man like that out of a service by offering him money. He
+> will not take it and he will remember that you asked. **You get him out by
+> giving him one thing to do that he cannot undo**, and then he leaves on his
+> own and he never once says why."*
 
-> **A prosecutor of thirty-six who was got out of a service in 2002 by a man
-> who could not read a contract, and whose photographs are in the dining
-> room, and who is her father.**
+`b2 ch77:94`:
 
-**Annies Vater war Staatsanwalt und wurde 2002 aus dem Dienst entfernt.**
-Seine Bilder haengen in ihrem Esszimmer.
+> *"He closed my case. He had it. He would have had a third of what was coming
+> and he had earned it... And on the day he did it he stopped being a man with
+> a career and became **a man with a marker**... Eleven days later he was
+> standing in somebody's house in a good coat with nothing at all to sell."*
 
-**Und der dritte Gegner ist derselbe Dienst, der diesmal richtig arbeitet -
-gegen sie.** Die Behoerde, die ihren Vater kaputtgemacht hat, weil sie
-korrupt war, wird ihr gefaehrlich, **weil sie es nicht mehr ist.**
+`b2 ch82:134`, Annie, die es selbst ausspricht:
 
-**Das ist keine Ironie, das ist eine Rechnung**, und sie liegt seit Band 2
-offen.
+> *"Two thousand and two. A prosecutor of thirty-six who closed your case.
+> Eleven days later in a good coat with nothing to sell. **My father at a
+> lunch, saying he had found somebody who could do it in one**."*
 
-### Und der beschaedigte Unbeteiligte bleibt, aber als Zeuge
+**Damit steht folgendes fest und ist nicht mehr verhandelbar:**
 
-**Nicht als Gegner - da hatte der Autor recht.** Ein Mann ohne Macht ist keine
-Gegenfigur.
+* **Choi war ein guter Staatsanwalt.** Sechsunddreissig, hatte den Fall
+  gewonnen, haette in neun Jahren oben gestanden.
+* **Annies Vater hat ihn kaputtgemacht**, indem er ihm eine Sache zu tun gab,
+  die er nicht rueckgaengig machen konnte.
+* **Choi ist nicht schlecht geboren worden. Dieses Haus hat ihn hergestellt.**
+* **Und vierundzwanzig Jahre spaeter hat der Mann dieses Hauses ihn
+  auseinandergenommen, und drei Wochen danach war er tot** (achtzehnter Maerz
+  bis achter April, einundzwanzig Tage).
 
-**Aber als Beweismittel ist er unschlagbar.** Jeder, den Georgij zerlegt hat,
-war schmutzig, und deshalb ist sein Wort nichts wert. **Dieser ist sauber.**
+### Also gibt es keinen dritten Gegner, sondern einen richtigen ersten
 
-**Der Staatsanwalt ist der Gegner. Der Unbeteiligte ist das, womit er
-gewinnt.** Zwei Figuren, ein Strang, und beide Einwaende sind damit
-beantwortet.
+**Gegner 1 war schon der amtierende Oberstaatsanwalt, Chois Freund** - und
+meine dritte Erfindung war noch ein Staatsanwalt daneben. **Zwei
+Staatsanwaelte sind einer zu viel.** Sie werden derselbe Mann, und er
+bekommt das, was ihm gefehlt hat: **einen Grund, der nicht Trauer heisst.**
+
+**Er hasst ihn, und der Hass ist begruendet**, und das ist etwas anderes als
+ein Freund, der traurig ist.
+
+### Die Anklage, und Georgij hat darauf keine Antwort
+
+**Sie lautet nicht *du hast ihn getoetet*.** Das waere leicht, denn es ist
+nicht wahr, und Georgij kann es wahrheitsgemaess bestreiten.
+
+**Sie lautet: dieses Haus hat ihn gemacht, und dieses Haus hat ihn wieder
+weggeraeumt, und du bist der Zweite.**
+
+**Entwurf, damit die Achse steht:**
+
+"I am not accusing you of killing him. You would enjoy that, because you could answer it."
+
+"Then say the other one."
+
+"A man in that house bought him at thirty-six. A man in that house finished him at fifty-nine." He did not raise his voice anywhere in it. "He spent twenty-four years being what one afternoon in April made him. You have had two."
+
+Georgij did not move from where he was standing.
+
+"I am not interested in what you have done. I have read all of it and none of it is a crime." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at fifty-nine."
+
+**Das ist der Satz, den er nicht beantworten kann**, weil er ueber die Zukunft
+geht und er ueber die Zukunft keine Belege hat. **Und weil er nie etwas
+Unwahres sagt, kann er nicht einmal behaupten, dass es nicht so kommen wird.**
+
+### Und der Schlussstein ist, dass er es selbst schon gesagt hat
+
+**Das ist der Fund, der die ganze Anklage traegt.** `b2 ch58:170`, und es ist
+**Georgij**, der spricht:
+
+> *"Somebody gets made by being handed a good reason at the wrong moment,"
+> said Georgij. "**Choi did it to a man who telephones about drainpipes for
+> eleven years.** I did it to a man at a wall in April with four minutes and a
+> piece of paper, and he has thought about it every week since and told me so.
+> I did a version of it to eleven people between March and August and **wrote
+> down at the time that I could not tell whether the difference was one of
+> kind**."*
+
+**Er hat die Anklage vor einem Band gegen sich selbst erhoben, laut, in einem
+Nebensatz, und aufgeschrieben.** Der Staatsanwalt sagt in Band 3 nichts, was
+neu waere. **Er sagt dem Mann seinen eigenen Satz zurueck.**
+
+**Und die Kette steht damit dreigliedrig im Buch und ist nicht erfunden:**
+
+* **Annies Vater macht Choi**, 2002, mit einer Sache, die er nicht
+  rueckgaengig machen kann (`b2 ch77:66/90/94`).
+* **Choi macht Sim**, auf dieselbe Weise (`b2 ch58:170`).
+* **Georgij macht elf Leute zwischen Maerz und August** und schreibt auf, dass
+  er den Unterschied nicht benennen kann (`b2 ch58:170`).
+
+**Der Gegner muss also nichts beweisen. Er muss vorlesen.**
+
+### Und damit haengt der Faden ueber drei Baende
+
+* **Band 3:** ein Fremder sagt ihm, dass er Choi wird.
+* **Band 5:** er sagt es selbst, nach der Exekution: *"I never wanted to
+  become this."*
+* **Band 5, zwei Zeilen spaeter:** sie beantwortet es. *"This shows you never
+  became it."*
+
+**Die Anklage aus Band 3 wird in Band 5 von Annie widerlegt, und zwar nicht
+mit einem Argument, sondern mit einem Befund.** Wer das aufmacht, muss es
+zumachen, und die Zange steht bereits.
+
+### Warum wir Streit haben, in drei Punkten, und keiner ist vermeidbar
+
+**1. Er will nichts.** Nicht kaufbar, nicht erpressbar, nicht blossstellbar,
+**weil er nichts getan hat** - und jeder Versuch waere selbst die Straftat,
+die er sucht.
+
+**2. Georgijs einzige Waffe ist auf ihn nicht anwendbar.** Sein Verfahren
+besteht seit zwei Baenden darin, **Staatsanwaelten wahre Sachen zu geben.**
+Dieser Mann hat sie bekommen. **Und jetzt liest er sie rueckwaerts:** zwei
+Jahre lang praezise, anonyme, zutreffende Zulieferungen, und am Ende jeder
+Linie steht jemand, der derselben Frau in die Quere gekommen ist. **Das ist
+keine Straftat. Das ist ein Muster** - und mit Mustern arbeitet dieser Beruf.
+
+**3. Und die Akte handelt nicht von Georgij.** Er besitzt nichts, heisst
+nichts, unterschreibt nichts; **es gibt nichts, womit man ihn belangen
+koennte, und das war zwei Baende lang seine Sicherheit.** Sie besitzt alles.
+
+**Die Waffe, die er gebaut hat, zeigt jetzt auf die Person, fuer die er sie
+gebaut hat. Das ist der Streit, und er ist selbst verschuldet.**
+
+### Und deshalb kann die Aufloesung keine Zerstoerung sein
+
+**Einen ehrlichen Staatsanwalt zu vernichten ist genau die Handlung, die den
+Vorwurf beweist.** Wer das tut, ist mit sechsundfuenfzig, was Choi mit
+neunundfuenfzig war.
+
+**Also bleibt nur das, was er ausserhalb dieses Hauses noch nie getan hat:
+etwas ueber sich selbst sagen, laut, zu jemandem, der es benutzen kann.**
+Regel 3 sagt, dass er ueber sich keine Zahlen nennt. **Der Preis dieses
+Bandes ist, dass er es einmal tut.**
+
+### Was damit wegfaellt
+
+**Der beschaedigte Unbeteiligte ist gestrichen**, auch als Zeuge. Er war meine
+Erfindung, er war nie freigegeben, und der neue Grund braucht ihn nicht.
 
 ### Was das mit Singapur macht
 
@@ -2840,3 +3055,13 @@ beantwortet.
 der Band 5 steht, wenn der Handel zerlegt wird - **ein Hindernis mit einem
 Geschaeftszweck, kein Mensch mit einem Groll.**
 
+### Der Stand nach dieser Zusammenlegung
+
+* **Der Oberstaatsanwalt, Chois Freund: Hass, begruendet.** Die Person.
+* **Der Hanseong-Erbe: Stand.** Das Ziel des Angriffs.
+* **Die Kette in Singapur: eine Wand.** Kein Gegner.
+
+**Zwei Menschen und eine Wand, und Band 3 braucht keinen dritten Kopf.** Der
+dritte Platz war zweimal mit einer Erfindung besetzt, und beide Male hat der
+Autor gemerkt, dass kein Grund darunter lag. **Der Grund lag die ganze Zeit in
+Kapitel 77.**

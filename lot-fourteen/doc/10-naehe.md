@@ -347,66 +347,57 @@ stellt** - nicht am Bandende. Die Reihenfolge:
 sie schenkt ihm nichts. **Sie tut etwas, nach dem das Wort nicht mehr
 stimmt**, und sagt danach nur, was ohnehin schon gilt.
 
-### Und dazwischen faellt er aus, vom Autor am 29.08. verlangt
+### Und dazwischen faellt er aus, festgelegt am 29.08.
 
-**Meine erste Fassung war an zwei Stellen falsch, und der Autor hat beide
-gefunden.** Sang-hoon ist zu diesem Zeitpunkt **schon aus dem Haus** - im
-Entwurf steht *Mr Ku took him to the gate* -, und Georgij war **nicht mitten
-in einem Satz.** Seine Zeile ist **"Yes, Mistress."**, drei Woerter, fertig.
+**Verlangt sind vier Sachen: Staunen, Unbeholfenheit, Freude, Zeitversatz.**
+Looney Tunes, in den Ton dieses Buches gesetzt. **Ein Zeuge ist ausdruecklich
+erlaubt**, und das aendert die Szene, weil es sie aus dem Zweipersonenstueck
+herausholt.
 
-**Damit wird die Loesung besser, weil sie nur das benutzt, was dasteht.**
+**Der volle Text steht in `doc/32-plan-band-3.md`**, in der Sang-hoon-Szene.
+Hier nur, woraus er gebaut ist.
 
-**Ein Mann, dessen letzter Befehl abgearbeitet ist und dem nichts nachkommt,
-fuehrt den letzten Befehl noch einmal aus.** Er sagt es zweimal. **Das zweite
-Mal ist kein Gehorsam, sondern eine Maschine ohne neuen Inhalt** - und das ist
-Looney Tunes, in die Sprache dieses Buches uebersetzt.
+**Zeitversatz.** *Then it arrived.* Er arbeitet erst korrekt weiter - nicht
+bewegen, nichts sagen - und faellt danach aus. **Die Verzoegerung ist der
+ganze Witz.**
 
-### Und die Zeile, die darauf folgt, steht bereits im Entwurf
+**Staunen: der Zaehler springt nicht an.** `b1 ch33:412`: *He counts the way
+other people breathe.* **Diese eine Sache bekommt keine Zahl.** Die Szene hat
+oben schon eine (*for about three seconds*), damit der Ausfall auffaellt.
 
-**Das ist der eigentliche Fund.** Der Entwurf endet so:
+**Unbeholfenheit: er hat genau zwei Haltungen und geht beide durch.** *He kept
+his hands at his sides* und *He put both hands behind his back* sind seine
+einzigen im ganzen Buch. **Keine erfundene Geste, kein Buecken - das
+vorhandene Repertoire laeuft leer.** *He has only the two.*
 
-> "You told me once that you have no money and no name that opens a door and
-> nothing in this country to telephone."
->
-> "Yes, Mistress."
->
-> **"You are not going to be able to say that again."**
+**Freude, und die Formel dafuer stand schon da, nur andersherum.** Dreimal im
+Buch: *something went across his face **and did not stay***. **Ein einziges
+Mal bleibt es.**
 
-**Ihr *that* meint dort die Armut.** Zwei maechtige Maenner halten ihn fuer
-einen Freund, also kann er nicht mehr sagen, dass er nichts hat.
+**Zeuge: Mrs Seo**, die den Kaffee holt, den Sang-hoon nicht genommen hat.
+**Sie meldet die Freude von aussen**, weil dieses Buch Gefuehle nie von innen
+benennt.
 
-**Der Kuss verschiebt, worauf sich *that* bezieht.** Es muss nicht ein zweiter
-Satz erfunden werden. **Derselbe Satz bekommt ein zweites Ziel**, und der
-Leser braucht einen Augenblick, um zu merken, welches gemeint ist.
+**Und die Fehlfunktion sitzt zum Schluss**, damit ihr Satz darauf faellt.
 
-**Beide gelten. Das ist kein Trick, das ist die Stelle.**
+### Die Reihenfolge, und mein erster Versuch hatte sie verdreht
 
-**Der Text:**
+**Richtig ist die am 28.08. festgelegte:**
 
-Annie got up out of the chair, and crossed the room, and kissed him on the cheek, and went back to the page.
+1. ihre Aufzaehlung;
+2. **"Yes, Mistress."**;
+3. der Kuss;
+4. die Reaktion;
+5. **"You cannot say that any more."**
 
-Georgij stood where he was standing.
+**Ich hatte den Kuss vor die Anrede gesetzt.** Dann trifft ihr Satz ins Leere,
+weil die Fehlfunktion noch nicht passiert ist. **Der Kuss loest sie aus, also
+muss er davor stehen und ihr Satz danach.**
 
-"Yes, Mistress," he said.
-
-"You are not going to be able to say that again."
-
-### Warum das die richtige Fassung ist
-
-**"Georgij stood where he was standing" ist der Ausfall.** Der Satz sagt
-nichts, weil nichts geschehen ist - **und genau das ist bei einem Mann, der
-in jeder Sekunde etwas tut, die groesste Meldung, die das Buch machen kann.**
-
-**Er ist nie um einen Satz verlegen.** Drei Baende lang nicht, in elf
-Haeusern nicht, vor achthundert Leuten nicht. **Also faellt nicht die Sprache
-aus, sondern der Mensch dahinter, und die Sprache wiederholt sich.**
-
-**Und *on her way past* ist ihr Register**, seit `b1 ch34:82`: *put her hand
-on the back of his neck in an empty hall **on her way past**.* **Sie tut es im
-Vorbeigehen und liest weiter.** Wer sie dabei stehenbleiben laesst, macht ein
-Ereignis daraus.
-
-**Die Bewegung gehoert ihr**, wie in dieser Bandphase noch immer.
+**Ihr *that* hat zwei Ziele, und beide gelten.** Vor dem Kuss meint es die
+Armut: zwei maechtige Maenner halten ihn fuer einen Freund. **Nach dem Kuss
+meint es die Anrede.** Der Leser braucht einen Augenblick, um zu merken,
+welches gemeint ist.
 
 **Die Regel der Reihe bleibt eingehalten**, obwohl sie spricht: sie sagt
 nichts **ueber den Kuss**, sondern ueber die **Anrede.** Der Kuss selbst
@@ -424,10 +415,27 @@ Fragezeichen: sie verfuegt.
 behaelt es, weil er es behalten will. **Sie nimmt das Wort zurueck, er nicht
 das Zeichen.**
 
-**Und Band 3 endet eine Stufe weiter als Band 2.** Band 2 schliesst damit,
-dass sie ihm die Hand hinhaelt (`b2 ch89:290`). **Band 3 endet auf Chairman
-Woos Beisetzung mit einem Kuss** - von ihr, unkommentiert, an dem einzigen
-Ort im Buch, an dem so etwas nicht privat ist und trotzdem niemanden angeht.
+### Und hier stand ein Widerspruch, aufgeloest am 29.08.
+
+**Oben in dieser Datei steht, der Wangenkuss sei in der Sang-hoon-Szene und
+ausdruecklich *nicht am Bandende*. Weiter unten stand, Band 3 ende auf Woos
+Beisetzung mit einem Kuss.** Beides zugleich heisst zweimal dieselbe Geste,
+und die zweite ist dann eine Wiederholung.
+
+**Aufgeloest so, dass keine Stufe verlorengeht:**
+
+* **Wangenkuss: Sang-hoon-Szene, Mitte des Bandes, ein Zeuge.** Privat, im
+  eigenen Haus, und der Ausfall gehoert dorthin, weil er komisch sein darf.
+* **Beisetzung, Bandschluss: sie nimmt seine Hand und laesst sie nicht mehr
+  los, und sieht dabei niemanden an.** Vor mehreren hundert Leuten.
+
+**Damit steigt es und wiederholt sich nicht.** Band 2 schliesst damit, dass
+sie ihm die Hand hinhaelt (`b2 ch89:290`), und er sie nimmt. **Band 3
+schliesst damit, dass sie sie nimmt, wo alle es sehen** - und das ist die
+Tuer zu Band 4, wo die Naehe nach dem Ring oeffentlich wird.
+
+**Der Kuss bleibt das, was den Titel aufhebt. Die Hand ist das, was ihn
+ersetzt.**
 
 ---
 
