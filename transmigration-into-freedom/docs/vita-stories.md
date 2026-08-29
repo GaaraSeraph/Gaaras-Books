@@ -230,7 +230,13 @@ enough for all its politeness, that every order he had could be
 withdrawn tomorrow if the second client stayed. A man with one card is
 in danger and knows it. A man forbidden to draw more is in a hostage
 arrangement, and the ransom is his own income, and he spent years
-paying it and calling it a compromise, because it paid well, and
+paying it and calling it a compromise, because it paid enough. That is
+the word, and it is the right one: enough. Twenty euros an hour, in
+those years. A job paid thirty-two euros, most paid eighteen, and for
+one of them he drove a thousand kilometres in two days and another four
+hundred on the last day. Enough is the most efficient ransom there is,
+too little to build an exit from and too much to drop with nothing
+behind it, and he knew the mechanism and lived inside it anyway,
 because naming it correctly would have obliged him to act on the name.
 
 What twenty-nine taught him was the rest of it. The question was never

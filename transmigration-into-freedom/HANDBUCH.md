@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 6 Dokumente am Stueck. 81.227 Woerter.
+Alle 6 Dokumente am Stueck. 81.439 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -848,6 +848,15 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== Enough, not well - and the numbers ===
+The author, on "because it paid well": "enough. It paid enough." With
+figures, now in story 5 and the bible: twenty euros an hour in those
+years, a job at thirty-two euros, most at eighteen, a thousand
+kilometres in two days for one job and four hundred more on the last
+day. The cage was never golden - enough is the most efficient ransom,
+too little to build an exit from, too much to drop with nothing behind
+it. The correction recolors the whole arrangement and stays.
 
 === The client was a cage, not a choice ===
 The author corrects the reading in the entry below: the one main client
@@ -3623,7 +3632,10 @@ everything else)
   other clients more than once, and the main one blocked it every time,
   obstruction, theatre, and the threat of withdrawing every order. He
   knew his no-dead-cards law and was structurally prevented from keeping
-  it, was paid well for that, and called it a compromise. The work was
+  it, was paid ENOUGH for that - not well: twenty euros an hour in those
+  years, jobs at thirty-two euros and mostly eighteen, a thousand
+  kilometres in two days for one of them and four hundred more on the
+  last day - and called it a compromise. The work was
   IT consulting, managed services and process automation, and it was
   INCOME, NOT A FIRM: no staff, one man selling his hours - she put
   him out of her HOUSE (a house, not a flat), he lived in his car, and he
@@ -6591,7 +6603,13 @@ enough for all its politeness, that every order he had could be
 withdrawn tomorrow if the second client stayed. A man with one card is
 in danger and knows it. A man forbidden to draw more is in a hostage
 arrangement, and the ransom is his own income, and he spent years
-paying it and calling it a compromise, because it paid well, and
+paying it and calling it a compromise, because it paid enough. That is
+the word, and it is the right one: enough. Twenty euros an hour, in
+those years. A job paid thirty-two euros, most paid eighteen, and for
+one of them he drove a thousand kilometres in two days and another four
+hundred on the last day. Enough is the most efficient ransom there is,
+too little to build an exit from and too much to drop with nothing
+behind it, and he knew the mechanism and lived inside it anyway,
 because naming it correctly would have obliged him to act on the name.
 
 What twenty-nine taught him was the rest of it. The question was never

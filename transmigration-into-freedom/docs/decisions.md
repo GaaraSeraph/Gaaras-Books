@@ -3,6 +3,15 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Enough, not well - and the numbers ===
+The author, on "because it paid well": "enough. It paid enough." With
+figures, now in story 5 and the bible: twenty euros an hour in those
+years, a job at thirty-two euros, most at eighteen, a thousand
+kilometres in two days for one job and four hundred more on the last
+day. The cage was never golden - enough is the most efficient ransom,
+too little to build an exit from, too much to drop with nothing behind
+it. The correction recolors the whole arrangement and stays.
+
 === The client was a cage, not a choice ===
 The author corrects the reading in the entry below: the one main client
 was NOT permitted under his own rulebook - THE CLIENT ENFORCED THE

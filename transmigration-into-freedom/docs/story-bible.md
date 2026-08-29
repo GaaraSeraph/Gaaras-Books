@@ -170,7 +170,10 @@ everything else)
   other clients more than once, and the main one blocked it every time,
   obstruction, theatre, and the threat of withdrawing every order. He
   knew his no-dead-cards law and was structurally prevented from keeping
-  it, was paid well for that, and called it a compromise. The work was
+  it, was paid ENOUGH for that - not well: twenty euros an hour in those
+  years, jobs at thirty-two euros and mostly eighteen, a thousand
+  kilometres in two days for one of them and four hundred more on the
+  last day - and called it a compromise. The work was
   IT consulting, managed services and process automation, and it was
   INCOME, NOT A FIRM: no staff, one man selling his hours - she put
   him out of her HOUSE (a house, not a flat), he lived in his car, and he
