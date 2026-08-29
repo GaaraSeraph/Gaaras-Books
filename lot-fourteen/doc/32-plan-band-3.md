@@ -1665,6 +1665,69 @@ legt Woos zwanzig Prozent frei, und das ist der Kollateralschaden, den der
 Autor nicht wollte. **Jetzt ist es kein Schaden, sondern das Geschenk** - und
 es ist das erste, das Georgij je gemacht hat, das etwas wert ist.
 
+### Der Einwand vom 29.08., und er kam von mir selbst
+
+**Ich hatte den Rueckkauf als Tatsache eingetragen** (`b1 ch19:166`: *I can
+pay them out on a Thursday*) **und damit das Geschenk wertlos gemacht.** Wenn
+Woo die zwanzig Prozent ohnehin abloesen kann, ist es keine Gabe, sondern
+eine Doppelung. **Der Autor hat genau danach gefragt.**
+
+### Die Aufloesung steht im Kanon und macht die Szene groesser
+
+**Es war nie ein Darlehen. Es war ein Kauf.**
+
+* `b1 ch13:96`: der Fonds ist der dritte im Syndikat, und was in Singapur
+  endet, ist seine **beneficial ownership** - nicht seine Forderung.
+* `b1 ch17:114`: *"**Buying positions in things** is what a private equity
+  company in Hong Kong exists for."*
+* `b1 ch20:94` sagt ausserdem **Futur**: *"He **is going to** pay it out
+  himself."* **Der Kanon bestaetigt nirgends, dass es geschehen ist.**
+
+**Woo nennt es *owed*, weil er es einundfuenfzig Jahre so getragen hat.**
+`b1 ch19:166`: *"a man does not ask when the money is already in the
+concrete."* **Er hat nie hineingesehen.**
+
+**Eine Position kann man nicht ausloesen. Man kann sie nur zurueckkaufen, und
+nur, wenn der Halter verkauft.** Und der verkauft nicht, **weil das, was er
+haelt, an dem Tag ausschuettet, an dem das Terminal verkauft wird** - und das
+ist der Tag, an dem Woo stirbt.
+
+**Dafuer war die Dienstagsfrage da. Sie haben seinen Tod gekauft.**
+
+**Also faehrt Woo am Donnerstag hin, um zu zahlen, und kommt nicht durch.**
+Entweder nehmen sie es nicht, oder er zahlt herunter, was sie nehmen, und die
+Position bleibt. **Beides passt, und der Autor hat die zweite Fassung selbst
+angeboten.**
+
+### Und damit ist das Geschenk das groesste Ding im Band
+
+**1. Es ist genau das, was Geld nicht kann.** Die Szene sagt es schon:
+*"How much did that cost you." - "Nothing I am going to put in front of you
+today."*
+
+**2. Es ist der Kondolenzumschlag.** Ein Mann ohne Namen kann keinen
+beschriften. **Er bringt das hier statt dessen.**
+
+**3. Und es ist der Grund, warum das Erbe ueberhaupt moeglich ist.** Solange
+ein Fonds zwanzig Prozent haelt **und an Woos Tod ausschuettet, kann Woo das
+Terminal niemandem hinterlassen** - der Verkauf ist vorprogrammiert, und
+genau das hat er dem Mann damals selbst gesagt: *sold within a year and
+split three ways.* **Ein Jahr steht dafuer im Kanon nicht, und ich setze
+keines hin.**
+
+**Georgij raeumt das weg, und erst danach kann Woo ein Testament schreiben.**
+
+**Er hat sein eigenes Erbe moeglich gemacht und wusste es nicht.** Und weil er
+nie etwas fuer sich nimmt und ueber sich keine Zahlen nennt, wird er es auch
+nie sagen. **Der Leser weiss es, Woo weiss es nicht, und Georgij denkt nicht
+daran.**
+
+### Und deshalb braucht Singapur keinen Gegner
+
+**Der Fonds verliert eine Position. Fonds verlieren Positionen.** Niemand
+kommt deswegen jemanden holen, und der einzige Mensch, der jemals ein Gesicht
+in dieser Sache hatte, ist tot (siehe unten).
+
 **Und es ist ein Kondolenzumschlag.** Wer zu einer koreanischen Trauerfeier
 geht, bringt Geld in einem weissen Umschlag und **schreibt seinen Namen
 darauf**. Georgij hat keinen, den man auf so einen Umschlag schreiben kann -
@@ -3231,6 +3294,23 @@ Kanon verbindet ihn nirgends mit Singapur.
 > the money**."*
 
 **Dazu `b1 ch13:210`: *Chairman Woo did not react to Hong Kong.***
+
+### Und er ist tot, seit 2011
+
+**Am 29.08. gefunden, und es haette vor allem anderen gefunden werden
+muessen.** `b1 ch31:364`, Woo ueber genau diesen Mann, nachdem Georgij die
+Dienstagsfrage noch einmal aufgemacht hat:
+
+> *"**He was a small man with bad teeth**," said Woo at last, "**and he has
+> been dead since 2011**, and I have never known what to do with the fact that
+> the best thing anybody ever did for me took him nine seconds."*
+
+**Damit ist jede Fassung erledigt, in der dieser Mann in Band 3 auftaucht.**
+Ich hatte ihn als dritten Gegner vorgeschlagen, ohne die Stelle zu kennen -
+**der Kanon hatte ihn fuenfzehn Jahre vorher beerdigt.**
+
+**Was bleibt, ist die Gesellschaft ohne ihn drin**, und das ist genau der
+Zustand, den `b1 ch13:100` beschreibt: *He had no person at all.*
 
 ### Die Zahl, berichtigt am 29.08.
 
