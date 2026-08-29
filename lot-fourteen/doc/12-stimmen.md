@@ -386,8 +386,16 @@ rechnet, ist die falsche Figur.
 Jede Figur hält gegenüber jeder Stellung etwas anderes zurück, **und das
 Zurückhalten wird sichtbar gemacht**, nicht verschwiegen:
 
-- **Georgij** hält Zahlen über sich selbst zurück. Seine einzige Regel, seit er
-  neunzehn ist.
+- **Georgij** hält Zahlen über sich selbst zurück - **außerhalb dieses
+  Hauses.** Seine einzige Regel, seit er neunzehn ist. **Ihr gegenüber gilt
+  sie nicht, und das war nie anders:** *"I had ten and I did not need them"*
+  (`b1 ch20:36`), *"May I have ten minutes, Mistress"* (`b1 ch16:324`), *"You
+  typed it in front of me twice in three weeks"* (`b1 ch05:312`), *"I have
+  been this for about three weeks and I do not know yet whether it goes
+  away"* (`b2 ch14:208`). **Berichtigt am 29.08.** Die Regel stand hier ohne
+  Ausnahme und war damit falsch: **was er zurückhält, hält er vor der Welt
+  zurück und nicht vor ihr.** Genau das macht die Zahlen, die er ihr gibt,
+  zu dem, was sie sind.
 - **Jang** hält die dritte Stufe vor Annie zurück und sagt, dass er es tut:
   *"The third one is not mine to say in this room."*
 - **Mrs Seo** hält die Frage zurück - **in dreizehn Repliken über beide Bände

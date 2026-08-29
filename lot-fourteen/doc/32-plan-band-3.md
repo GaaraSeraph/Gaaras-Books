@@ -2100,7 +2100,7 @@ sich denkt, und sagt dazu, dass er es sich denkt.**
 
 Annie waited.
 
-"He never wrote that down anywhere and I am not going to pretend he did." He put both hands behind his back. "He was my friend. I would like to respect it anyway."
+"He never wrote that down anywhere and I am not going to pretend he did." He put both hands behind his back. "He was my friend. I did not have one before him." A pause. "I would like to respect it anyway."
 
 **Was daran gebaut ist:**
 
@@ -2124,22 +2124,56 @@ abbrechen. **Sie tut es nicht, und das ist die Antwort.**
 Logistik, sie koennte es sich nehmen, und sie laesst es. **Ein Nein von ihr
 waere kleiner als ihr Schweigen.**
 
-#### Das Wort *friend*, vom Autor am 29.08. verlangt
+#### Das Wort *friend*, und Woo bekommt niemanden neben sich
 
-**Es steht jetzt drin, und zwar allein: *He was my friend.***
+**Meine erste Fassung waere gewesen:** *He was my friend, and I had two.*
+**Vergangenheit auf *had*, weil einer uebrig ist**, und die Zahl steht seit
+der Sang-hoon-Szene bereit.
 
-**Ich hatte die staerkere Fassung im Kopf und lasse sie weg, und der Grund
-ist eine Regel.** Sie waere gewesen: *He was my friend, and I had two.*
-**Vergangenheit auf *had*, weil jetzt einer uebrig ist** - und die Zahl steht
-seit der Sang-hoon-Szene bereit: *"Two men in this country who own a great
-deal consider you a friend."*
+**Der Autor hat sie abgelehnt, und der Einwand ist besser als meiner war:
+das setzt jemanden neben Woo.**
 
-**Aber Regel 3 sagt, dass er ueber sich selbst keine Zahlen nennt.** Ob eine
-Freundeszahl darunter faellt, ist Auslegung. **Und sie muss gar nicht
-ausgelegt werden, weil der Leser die Zahl schon hat - von ihr.**
+**Und es flacht ihn ab, gerade weil dieser Jemand Sang-hoon waere** - der
+Mann, der drei Kapitel vorher versucht hat, ihn zu kaufen, und dessen
+Freundschaft in derselben Szene als **Zug** ausgesprochen wurde. *"I consider
+you a friend, and I would like to go on doing it"* war wahr und war zugleich
+das, was die Verhandlung geschlossen hat.
 
-**Sie hat gezaehlt. Er sagt nur, dass einer davon tot ist, und der Leser
-rechnet.** Das ist in jedem Fall besser, als es selbst auszusprechen.
+**Woo ist nichts davon.** `b1 ch19:250`: *"And because I would like you to
+win this. **That is not a strategy, Chairman. It is just true, and I have had
+very little use for it.**"* **Das ist die einzige Stelle im Buch, an der er
+etwas Nutzloses sagt, weil es wahr ist.**
+
+**Also keine Zaehlung, sondern eine Erstmaligkeit:**
+
+> "He was my friend. I did not have one before him."
+
+**Damit steht niemand daneben.** Es zaehlt keinen anderen, es vergleicht
+nicht, und es macht Woo zum Ersten statt zu einem von zweien.
+
+**Und die Regel, die mich vorher gebremst hat, gilt an dieser Stelle
+ohnehin nicht mehr** - siehe unten.
+
+#### Regel 3 ist am 29.08. berichtigt worden
+
+**Sie stand als *ueber sich selbst nennt er keine Zahlen* ohne Ausnahme da,
+und sie war damit falsch.** Der Autor hat sie abgeaendert, und der Kanon
+gibt ihm recht, seit Band 1:
+
+* `b1 ch20:36` - *"**I had ten and I did not need them**," Georgij shrugged.*
+* `b1 ch16:324` - *"May I have **ten minutes**, Mistress, before I give you
+  any of it?"*
+* `b1 ch05:312` - *"You typed it in front of me **twice in three weeks**."*
+* `b2 ch14:208` - *"I have been this for **about three weeks** and I do not
+  know yet whether it goes away."*
+
+**Die Regel heisst jetzt: ausserhalb dieses Hauses nennt er ueber sich keine
+Zahlen. Ihr gegenueber schon.**
+
+**Und das ist die bessere Regel**, weil sie erklaert, wofuer das Zurueckhalten
+da ist: **was er zurueckhaelt, haelt er vor der Welt zurueck und nicht vor
+ihr** - und genau das macht die Zahlen, die er ihr gibt, zu dem, was sie
+sind. **Geaendert in `CLAUDE.md` und `doc/12-stimmen.md`.**
 
 **Und der Beat ist gewechselt.** *He put both hands behind his back* statt
 *did not decorate any of it* - **die foermliche Haltung, weil er sie hier um

@@ -316,8 +316,13 @@ die ihre Arbeit tut.
    fuehrt durch Auswahl in die Irre. Er sagt nichts Falsches, nie.
 2. **Er besitzt nichts.** Kein Geld, kein Konto, keine Beziehungen. Jede Szene,
    in der er etwas kauft, besitzt oder verschenkt, ist ein Fehler.
-3. **Ueber sich selbst nennt er keine Zahlen.** Eine Zahl ist ein Datum, und ein
-   Datum kann man neben ein anderes legen. Ueber andere ist er praezise.
+3. **Ueber sich selbst nennt er ausserhalb dieses Hauses keine Zahlen.** Eine
+   Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Ueber
+   andere ist er praezise. **Ihr gegenueber gibt er die Zahlen her**, und
+   zwar seit Band 1: *"I had ten and I did not need them"* (`b1 ch20:36`),
+   *"May I have ten minutes, Mistress"* (`b1 ch16:324`), *"I have been this
+   for about three weeks"* (`b2 ch14:208`). **Berichtigt am 29.08.: die Regel
+   stand hier ohne die Ausnahme, und der Text hatte sie von Anfang an.**
 4. **Kein Satz ueber vierzig Woerter.** `check.py` findet sie.
 5. **Zwischen zwei Redebloecken derselben Figur steht immer etwas Koerperliches.**
    Der Beat ist die Sprecherkennzeichnung, keine Verzierung.
