@@ -18,18 +18,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 867 | 92 (b1ch01-b2ch89) | 1 | 590 |
-| Park Sang-hoon | 304 | 46 (b1ch10-b2ch89) | 22 | 590 |
+| Annie | 873 | 93 (b1ch01-b3ch01) | 1 | 592 |
+| Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
-| Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
+| Mrs Seo | 142 | 50 (b1ch03-b3ch01) | 1 | 592 |
 | Sim | 134 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 83 | 20 (b1ch07-b2ch89) | 22 | 590 |
+| Choi Dae-ho | 88 | 21 (b1ch07-b3ch01) | 22 | 592 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
-| Mr Baek | 60 | 13 (b1ch05-b2ch81) | 6 | 493 |
+| Mr Baek | 62 | 14 (b1ch05-b3ch01) | 6 | 592 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
 | Mr Yeo | 57 | 11 (b1ch05-b2ch89) | 6 | 590 |
 | Mr Yeom | 53 | 9 (b2ch23-b2ch89) | 224 | 590 |
@@ -40,9 +40,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Hong | 36 | 11 (b1ch07-b2ch34) | 22 | 249 |
 | Mr Ku | 35 | 23 (b1ch05-b2ch87) | 6 | 531 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
+| Baek Jun-ho | 31 | 10 (b2ch39-b3ch01) | 270 | 592 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 31 | 87 |
 | Mr Kwon | 30 | 6 (b2ch14-b2ch73) | 193 | 445 |
-| Baek Jun-ho | 29 | 9 (b2ch39-b2ch89) | 270 | 590 |
 | Mrs Bae | 29 | 8 (b2ch38-b2ch88) | 262 | 578 |
 | Mr Im | 28 | 5 (b1ch05-b2ch87) | 6 | 531 |
 | Mr Koh | 25 | 7 (b2ch35-b2ch87) | 251 | 531 |
@@ -59,6 +59,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Jeon Mi-ja | 5 | 4 (b2ch26-b2ch64) | 237 | 395 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
+| Gong Doo-hyun | 2 | 1 (b3ch01) | 592 | 592 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Mrs Uhm | 2 | 1 (b2ch16) | 206 | 206 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
@@ -71,7 +72,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-867 Nennungen in 92 Kapiteln.
+873 Nennungen in 93 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -942,6 +943,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch89:256 | "Then say the rest of it," said Annie. |
 | 590 | b2ch89:286 | Annie did not say anything. |
 | 590 | b2ch89:362 | Annie put her hand back into his hair. |
+| 592 | b3ch01:172 | "Say the name again," said Annie. |
+| 592 | b3ch01:180 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
+| 592 | b3ch01:194 | Annie waited. |
+| 592 | b3ch01:204 | Annie did not answer for a while. |
+| 592 | b3ch01:232 | Annie looked at him for a moment. |
+| 592 | b3ch01:246 | Annie picked the pen back up, which is what she does when a thing has been decided. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1184,12 +1191,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:226` (Tag 531) - eleven, four, two
 - `b2ch87:498` (Tag 531) - one
 - `b2ch89:88` (Tag 590) - four
+- `b3ch01:180` (Tag 592) - four, one, two
 
 ---
 
 ## Park Sang-hoon
 
-304 Nennungen in 46 Kapiteln.
+307 Nennungen in 47 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1497,6 +1505,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:222 | "Do not say anything," said Sang-hoon. "I have had ten months of you not saying things a.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:26 | Park Sang-hoon has heard nothing in the trade, and he has asked in three places and he d.. |
+| 592 | b3ch01:84 | He wrote that in a garden in Hannam-dong with a glass in his other hand, because Park Sa.. |
+| 592 | b3ch01:150 | Georgij did not telephone Park Sang-hoon. |
+| 592 | b3ch01:154 | Sang-hoon asked in three places in April and heard nothing back, and he does not usually.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1638,6 +1649,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:222` (Tag 531) - ten
 - `b2ch87:428` (Tag 531) - five, one, three
 - `b2ch89:26` (Tag 590) - three
+- `b3ch01:154` (Tag 592) - one, three, two
 
 ---
 
@@ -2780,7 +2792,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-138 Nennungen in 49 Kapiteln.
+142 Nennungen in 50 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2922,6 +2934,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:188 | Twenty-six people stayed for an hour and a half after he had gone, and they were given c.. |
 | 531 | b2ch87:240 | She came out into the hall on her own and Mrs Seo brought her coat, and she put it on an.. |
 | 531 | b2ch87:310 | Mrs Seo came through with a tray and did not stop. |
+| 592 | b3ch01:20 | Mrs Seo took it in the hall and brought it up herself. |
+| 592 | b3ch01:28 | "There is a card," said Mrs Seo. "It has your name on the front of it and it has it corr.. |
+| 592 | b3ch01:38 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
+| 592 | b3ch01:270 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -3359,7 +3375,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Choi Dae-ho
 
-83 Nennungen in 20 Kapiteln.
+88 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3446,6 +3462,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
 | 590 | b2ch89:380 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
+| 592 | b3ch01:56 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
+| 592 | b3ch01:80 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
+| 592 | b3ch01:142 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
+| 592 | b3ch01:192 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
+| 592 | b3ch01:266 | Choi Dae-ho was dead on the eighth of April. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -3485,6 +3506,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
 - `b2ch89:380` (Tag 590) - four, thirty, thirty-one, two
+- `b3ch01:56` (Tag 592) - forty
+- `b3ch01:142` (Tag 592) - four, one
+- `b3ch01:192` (Tag 592) - three
 
 ---
 
@@ -3593,7 +3617,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Baek
 
-60 Nennungen in 13 Kapiteln.
+62 Nennungen in 14 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3657,6 +3681,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 493 | b2ch81:242 | "The second of March is nine years late and it is the only appointment available." Baek .. |
 | 493 | b2ch81:250 | "It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on .. |
 | 493 | b2ch81:274 | *He did not build it so that the payments could not be suspended. He built it so that he.. |
+| 592 | b3ch01:126 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
+| 592 | b3ch01:196 | "The second is that a man buried him." He had his hands behind his back. "Baek was told .. |
 
 ### Zahlen in der Naehe von Mr Baek
 
@@ -3699,6 +3725,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch81:192` (Tag 493) - thirty-one, two
 - `b2ch81:242` (Tag 493) - four, nine, one
 - `b2ch81:250` (Tag 493) - fifty
+- `b3ch01:126` (Tag 592) - four, two
 
 ---
 
@@ -4478,6 +4505,63 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Baek Jun-ho
+
+31 Nennungen in 10 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 270 | b2ch39:176 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
+| 270 | b2ch39:180 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
+| 270 | b2ch39:244 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
+| 290 | b2ch45:128 | "You do the thing you are the only person who can do, and it is not the house." Georgij .. |
+| 298 | b2ch47:20 | "This is Baek Jun-ho," said Sang-hoon. |
+| 298 | b2ch47:38 | Baek Jun-ho did not move at all. |
+| 298 | b2ch47:78 | Baek Jun-ho has administered eleven trusts for a firm in Yeouido for most of his working.. |
+| 298 | b2ch47:136 | Baek Jun-ho did not move. |
+| 298 | b2ch47:160 | Baek Jun-ho put both hands on the document case beside his chair, which had been there t.. |
+| 298 | b2ch47:202 | Baek Jun-ho opened the case. |
+| 298 | b2ch47:236 | Baek Jun-ho sat very still. |
+| 298 | b2ch47:296 | Baek Jun-ho nodded once, the way a man does when something he has half known has been sa.. |
+| 300 | b2ch48:136 | "And Baek Jun-ho does not find out that a copy left this house until after Saturday, bec.. |
+| 382 | b2ch60:24 | Baek Jun-ho gave him fifty minutes on the Tuesday and had read the question before he ar.. |
+| 382 | b2ch60:80 | Baek Jun-ho looked at him for a moment. |
+| 382 | b2ch60:90 | Baek Jun-ho did not say anything. |
+| 396 | b2ch65:14 | Baek Jun-ho did not say anything for a moment. |
+| 397 | b2ch65:90 | Baek Jun-ho came at two. |
+| 397 | b2ch65:110 | "The trust was settled in the second week of March eleven years ago," said Baek Jun-ho. .. |
+| 397 | b2ch65:124 | Baek Jun-ho looked at the case. |
+| 397 | b2ch65:156 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
+| 431 | b2ch68:92 | Baek Jun-ho telephoned at eleven. |
+| 493 | b2ch81:6 | Baek Jun-ho asked for the Monday morning and said on the telephone that it would take fi.. |
+| 493 | b2ch81:82 | Baek Jun-ho sat back for the first time that morning. |
+| 493 | b2ch81:142 | Baek Jun-ho got up and went to the cabinet behind his desk and did not open it. |
+| 493 | b2ch81:216 | Baek Jun-ho looked at him for a long moment. |
+| 493 | b2ch81:254 | "In the meantime a man in this city has to write me a letter about a woman he has never .. |
+| 590 | b2ch89:14 | Baek Jun-ho found it out the way everything in this business is found out, which is that.. |
+| 590 | b2ch89:156 | Baek Jun-ho sat down on the second of March with a man he has known for thirty-one years.. |
+| 592 | b3ch01:118 | He telephoned Baek Jun-ho at half past eleven and asked one question. |
+| 592 | b3ch01:136 | Baek Jun-ho did not answer for a while. |
+
+### Zahlen in der Naehe von Baek Jun-ho
+
+- `b2ch39:176` (Tag 270) - one
+- `b2ch39:180` (Tag 270) - nineteen
+- `b2ch39:244` (Tag 270) - eleven
+- `b2ch45:128` (Tag 290) - eleven
+- `b2ch47:78` (Tag 298) - eleven, one
+- `b2ch60:24` (Tag 382) - fifty
+- `b2ch65:90` (Tag 397) - two
+- `b2ch65:110` (Tag 397) - eleven, one, twenty, two
+- `b2ch65:156` (Tag 397) - four, one
+- `b2ch68:92` (Tag 431) - eleven
+- `b2ch81:6` (Tag 493) - fifty
+- `b2ch81:254` (Tag 493) - thirty-one
+- `b2ch89:156` (Tag 590) - thirty-one
+- `b3ch01:118` (Tag 592) - eleven, one
+
+---
+
 ## Kim Do-yun
 
 31 Nennungen in 9 Kapiteln.
@@ -4587,60 +4671,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch23:78` (Tag 224) - one, sixty-three
 - `b2ch23:80` (Tag 224) - forty
 - `b2ch73:62` (Tag 445) - nine
-
----
-
-## Baek Jun-ho
-
-29 Nennungen in 9 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 270 | b2ch39:176 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 270 | b2ch39:180 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
-| 270 | b2ch39:244 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
-| 290 | b2ch45:128 | "You do the thing you are the only person who can do, and it is not the house." Georgij .. |
-| 298 | b2ch47:20 | "This is Baek Jun-ho," said Sang-hoon. |
-| 298 | b2ch47:38 | Baek Jun-ho did not move at all. |
-| 298 | b2ch47:78 | Baek Jun-ho has administered eleven trusts for a firm in Yeouido for most of his working.. |
-| 298 | b2ch47:136 | Baek Jun-ho did not move. |
-| 298 | b2ch47:160 | Baek Jun-ho put both hands on the document case beside his chair, which had been there t.. |
-| 298 | b2ch47:202 | Baek Jun-ho opened the case. |
-| 298 | b2ch47:236 | Baek Jun-ho sat very still. |
-| 298 | b2ch47:296 | Baek Jun-ho nodded once, the way a man does when something he has half known has been sa.. |
-| 300 | b2ch48:136 | "And Baek Jun-ho does not find out that a copy left this house until after Saturday, bec.. |
-| 382 | b2ch60:24 | Baek Jun-ho gave him fifty minutes on the Tuesday and had read the question before he ar.. |
-| 382 | b2ch60:80 | Baek Jun-ho looked at him for a moment. |
-| 382 | b2ch60:90 | Baek Jun-ho did not say anything. |
-| 396 | b2ch65:14 | Baek Jun-ho did not say anything for a moment. |
-| 397 | b2ch65:90 | Baek Jun-ho came at two. |
-| 397 | b2ch65:110 | "The trust was settled in the second week of March eleven years ago," said Baek Jun-ho. .. |
-| 397 | b2ch65:124 | Baek Jun-ho looked at the case. |
-| 397 | b2ch65:156 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
-| 431 | b2ch68:92 | Baek Jun-ho telephoned at eleven. |
-| 493 | b2ch81:6 | Baek Jun-ho asked for the Monday morning and said on the telephone that it would take fi.. |
-| 493 | b2ch81:82 | Baek Jun-ho sat back for the first time that morning. |
-| 493 | b2ch81:142 | Baek Jun-ho got up and went to the cabinet behind his desk and did not open it. |
-| 493 | b2ch81:216 | Baek Jun-ho looked at him for a long moment. |
-| 493 | b2ch81:254 | "In the meantime a man in this city has to write me a letter about a woman he has never .. |
-| 590 | b2ch89:14 | Baek Jun-ho found it out the way everything in this business is found out, which is that.. |
-| 590 | b2ch89:156 | Baek Jun-ho sat down on the second of March with a man he has known for thirty-one years.. |
-
-### Zahlen in der Naehe von Baek Jun-ho
-
-- `b2ch39:176` (Tag 270) - one
-- `b2ch39:180` (Tag 270) - nineteen
-- `b2ch39:244` (Tag 270) - eleven
-- `b2ch45:128` (Tag 290) - eleven
-- `b2ch47:78` (Tag 298) - eleven, one
-- `b2ch60:24` (Tag 382) - fifty
-- `b2ch65:90` (Tag 397) - two
-- `b2ch65:110` (Tag 397) - eleven, one, twenty, two
-- `b2ch65:156` (Tag 397) - four, one
-- `b2ch68:92` (Tag 431) - eleven
-- `b2ch81:6` (Tag 493) - fifty
-- `b2ch81:254` (Tag 493) - thirty-one
-- `b2ch89:156` (Tag 590) - thirty-one
 
 ---
 
@@ -5176,6 +5206,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch09:60` (Tag 22) - two
 - `b1ch09:72` (Tag 22) - two
+
+---
+
+## Gong Doo-hyun
+
+2 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 592 | b3ch01:68 | The name is Gong Doo-hyun. He is the Prosecutor General. |
+| 592 | b3ch01:174 | "Gong Doo-hyun." |
 
 ---
 

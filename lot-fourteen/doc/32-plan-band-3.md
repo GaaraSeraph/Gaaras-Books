@@ -3746,10 +3746,85 @@ beschleunigt, verhindert oder gewusst.
 
 ## 2. Der Kalender: grob, mit Absicht
 
-**Arbeitsannahme, bei Bedarf anzupassen:** Band 3 laeuft **Sommer 2027 bis in
-den Winter**, Woos Tod im **Spaetherbst**. Band 2 endet Tag 590 (16. Mai
-2027). **Feste Tage werden erst vergeben, wenn Kapitel Kopfzeilen brauchen** -
-dann gegen den durchlaufenden Kalender, wie immer.
+**Berichtigt am 30.08., und der Anfang steht jetzt fest.** Band 3 faengt an
+**Tag 592, Dienstag dem 18. Mai 2027** an, zwei Tage nach dem Ende von
+Band 2. Das ist derselbe Anschluss wie zwischen Band 1 und Band 2, wo Tag
+149 auf Tag 150 folgte.
+
+**Sommer 2027 war falsch, und der Grund ist Chois Todestag.** Er stirbt am
+**8. April 2027, Tag 552**. Eine koreanische Beisetzung ist drei Tage spaeter
+vorbei, und zu einer Beisetzung laedt im Sommer niemand mehr per Karte ein.
+
+**Was sich von selbst datiert, ist der neunundvierzigste Tag** - der
+Todestag zaehlt als erster, also **Mittwoch der 26. Mai 2027, Tag 600**.
+Damit kommt die Karte acht Tage vorher, und das Datum ist aus dem Todestag
+gerechnet und nirgends erfunden.
+
+**Das Bandende bleibt offen.** Mrs Seos Frist faellt auf **Tag 897, Samstag
+den 18. Maerz 2028** - 2028 ist ein Schaltjahr, deshalb 366 und nicht 365
+Tage, und im Schuldbuch stand bis zum 30.08. Tag 896. Wenn die Szene in
+Band 3 stehen soll, laeuft der Band ueber den Winter hinaus bis ins Fruehjahr
+2028. **Feste Tage werden weiter erst vergeben, wenn ein Kapitel eine
+Kopfzeile braucht.**
+
+## Was `b3 ch01` festlegt, geschrieben am 30.08.
+
+**Der Anlass ist der neunundvierzigste Tag und keine Beisetzung.** Die Karte
+gibt Mittwoch den 26. Mai, elf Uhr, einen Tempel in Jongno und einen Saal
+darin. Sie gibt unten einen Namen und kein Amt, keine Anschrift und keine
+Nummer, weil der Name seit zwei Jahren in den Zeitungen steht.
+
+**Gong Doo-hyun wird sofort erkannt, und das ist Absicht.** Der amtierende
+Oberstaatsanwalt ist keine Rechercheaufgabe. Wer zwei Jahre Papier liest,
+kennt den Namen, und die Arbeit des Kapitels ist deshalb nicht *wer ist das*,
+sondern **was war dieser Mann fuer Choi**.
+
+**Und die halbe Antwort stand seit zwei Jahren in Georgijs eigenem Heft.**
+`b2 ch25:152`, Sang-hoon im Garten in Hannam-dong: *Former prosecutor, out
+early and nobody says why.* Georgij hat die Seite oft gelesen und **nie
+wegen dieser Zeile**. Der Satz des Kapitels ist:
+
+> There is a man who says why.
+
+**Der kleine Saal ist der Fund, den ch02 abholen muss.** Der Tempel hat zwei
+Saele. Der grosse wird fotografiert und waere der, in dem ein Mann in diesem
+Amt irgendetwas haelt. Die Karte gibt den anderen, der etwa zweihundert fasst,
+*and two hundred is a number a man can go down with a pen.* Georgij schreibt
+eine Zeile ins Heft und setzt das Datum darunter:
+
+> *Everybody in that room will be somebody he wanted in it.*
+
+**Das ist eine Ablage, und nach der Regel aus `heft.py` braucht jede Ablage
+eine spaetere Entnahme.** Sie wird im Saal eingeloest und nicht spaeter.
+
+**Was das Kapitel sonst festlegt:**
+
+* **Mrs Seo kommt zum zweiten Mal in zehn Jahren nach oben**, und das erste
+  Mal war `b2 ch23`, wegen Yeoms Anruf. Sie misst und fragt nicht, wie immer,
+  und ihr letzter Satz ist der schlimmste: *he was not looking at the house
+  the way a man looks at a house he has not seen before.*
+* **Baek Jun-ho hat die Antwort seit dem 20. April in der eigenen Handschrift
+  und hat sie nicht gesehen.** Er hat nicht gefragt, wer der Kanzlei den Tod
+  gemeldet hat. *"I had every reason and I did not have the wit."*
+* **Sang-hoon wird nicht angerufen**, und der Text sagt warum: er hat im April
+  in drei Haeusern gefragt und nichts gehoert, ein zweiter Anlauf wuerde ihm
+  sagen, dass etwas angekommen ist.
+* **Annie sagt den vierten Punkt, den Georgij weggelassen hat**: die Karte
+  laesst sich nicht ablehnen. Und sie verbietet es ihm nicht, mit einem Grund,
+  der ihrer ist: *I would rather it happened at eleven in the morning in a hall
+  with two hundred people in it.*
+* **Die Erlaubnis wird eingeloest**, `b2 ch19:216`. Er bringt den Preis, bevor
+  er bezahlt wird, und sagt dazu, dass er ihn nicht kennt.
+* **Das Halsband geht mit in den Saal**, und Georgij rechnet es einmal aus:
+  besser, der Mann hat es in den ersten vier Sekunden, als dass er vierzehn
+  Tage lang danebenliegt.
+
+**Und der Schluss dreht `b2 ch81:134` um.** Georgij hat in Baeks Buero ueber
+Choi gesagt: *There is nothing in the world with his name on it except what he
+signed himself. That letter is going to be the first thing that arrives at
+him.* Der Brief ging am 8. Februar hinaus. Choi war am 8. April tot. **Jetzt
+liegt auf derselben Schreibtischecke eine Karte mit Georgijs Namen darauf, in
+einer Handschrift, die er nicht kennt.**
 
 ## 3. Lot elf: warum sie ihn gekauft hat, und was er gelernt hat
 
@@ -3914,6 +3989,7 @@ sie.**
 ### Akt I - Sommer 2027
 
 1. **Die Karte kommt ins Haus**, an Georgij, mit Namen. Mrs Seo nimmt sie an.
+   **Geschrieben: `b3 ch01`, Tag 592.**
 2. **Chois Beisetzung.** Georgij als Einziger, der nicht trauert und es nicht
    vorgibt. Erste Begegnung mit dem Oberstaatsanwalt.
 3. **Die Anklage:** *"I am interested in what you are going to be at

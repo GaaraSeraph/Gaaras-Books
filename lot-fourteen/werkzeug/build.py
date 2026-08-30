@@ -278,6 +278,8 @@ FIGURES = {
     "Mr Sohn": [r"Mr Sohn", r"\bSohn\b"],
     "Baek Jun-ho": [r"Baek Jun-ho", r"Jun-ho"],
     "Mrs Jeon Mi-ja": [r"Jeon Mi-ja", r"Mi-ja"],
+    # Band 3. Null Kollisionen im ganzen Kanon geprueft am 30.08.
+    "Gong Doo-hyun": [r"Gong Doo-hyun", r"\bGong\b", r"Doo-hyun"],
     "Moon Hae-sook": [r"Moon Hae-sook", r"Hae-sook"],
     "Mrs Ha": [r"Mrs Ha"],
     # Cha steht neben Mr Chae im Buch, deshalb die Wortgrenze.

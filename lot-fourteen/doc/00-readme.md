@@ -43,4 +43,4 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 332.588 Woerter.**
+**124 Kapitel, 334.713 Woerter.**

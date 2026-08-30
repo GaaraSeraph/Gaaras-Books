@@ -50,6 +50,13 @@ HOLEN = re.compile(
     # Formulierungen findet, misst den Autor und nicht das Buch.
     r'|\bopen(ed)? (the |that |his )?(note)?book\b(?!.{0,20}\b(and wrote|to write)\b)'
     r'|\bat the January pages\b'
+    # Am 30.08. ergaenzt, weil b3 ch01 eine Entnahme enthaelt, die keines
+    # der bisherigen Muster gesehen hat: er holt ein altes Heft und
+    # schlaegt eine datierte Seite auf. Ein Detektor, der nur die
+    # Formulierungen von Band 1 kennt, misst den alten Text.
+    r'|\bwent and got (a|the|his) (note)?book\b'
+    r'|\bfound the page for\b'
+    r'|\bback to that page\b'
     r'|\ba page that was already full\b', re.I)
 
 
