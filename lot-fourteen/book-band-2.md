@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.045 Woerter.
+Book Two, 89 Kapitel, 231.170 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -96,7 +96,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.16 | 3.444 |
+| 86 | v3.17 | 3.569 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
@@ -19262,7 +19262,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.16 · EN
+*Lot Fourteen* · Version 3.17 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19340,6 +19340,8 @@ Choi Dae-ho looked at him properly then for the first time.
 
 "In my first fortnight in this country I asked four men who I should be careful of," said Georgij. "I have not put it to anybody since. I am going to put it to you once, and then not again."
 
+Georgij put both hands on the table, one on either side of the place that had been laid for him.
+
 "Who should I be careful of?"
 
 * * *
@@ -19390,6 +19392,8 @@ Choi Dae-ho did not answer that, and the not answering was itself an answer.
 
 "No."
 
+Choi Dae-ho waited about two seconds longer than a man waits.
+
 "Say it, then. You have brought me down a passage to say it and I would rather have it than watch you decide not to."
 
 * * *
@@ -19419,6 +19423,8 @@ He did not hurry any of it.
 Choi Dae-ho put one hand flat on the cloth beside the place that had been laid for him.
 
 "Say what you are going to do instead."
+
+Down on the drive a car started and did not go anywhere.
 
 "Nothing, tonight."
 
@@ -19464,6 +19470,8 @@ He said it quite pleasantly and he did not say anything else for about six secon
 
 * * *
 
+Choi Dae-ho got up and went to the window.
+
 Georgij did not move at all.
 
 "There is a thing you saw at twenty past nine," said Choi Dae-ho.
@@ -19471,6 +19479,8 @@ Georgij did not move at all.
 "There is."
 
 "Then say it, because you have been careful not to, and I have watched you be careful about it for four minutes."
+
+Georgij did not hurry it, and the not hurrying was the only courtesy left in that room.
 
 "You ate," said Georgij.
 
@@ -19488,7 +19498,7 @@ Georgij did not move at all.
 
 * * *
 
-The table behind him had been laid for a quarter of an hour and neither of them had turned round to it.
+The table had been laid for a quarter of an hour. He had got up from it and Georgij had not, and nothing on it had been touched.
 
 "You had that put there," said Choi Dae-ho.
 
@@ -19506,7 +19516,11 @@ Choi Dae-ho looked at the plate for the first time.
 
 "That was the first one," said Georgij.
 
+Choi Dae-ho looked away from the plate.
+
 "The first of what?"
+
+Georgij put his hands in his lap, which is where he puts them when he is going to be a while.
 
 "I am going to tell you what you are. You do not have to agree with any of it, and you are not going to have to say anything at all."
 
@@ -19527,6 +19541,8 @@ Down the passage a door opened and shut, and somebody at the far end of it laugh
 * * *
 
 "You paid a fee you did not owe."
+
+Choi Dae-ho did not say anything to that at all.
 
 "In cash, on the same terms as everybody else, through the same man, for a lot this house never billed you for." He gave it to him flat and in the order it had happened. "You could have had it for nothing and you paid, so that nobody in that building would ever know you could have had it for nothing."
 
@@ -19556,11 +19572,15 @@ Choi Dae-ho was looking at the carpet.
 
 "You have paid for her for eleven years and you have never once been in a room with her."
 
+Choi Dae-ho did not turn round.
+
 "You send flowers into that building twice a year."
 
 * * *
 
 "October is her mother's month."
+
+He gave him the second one at the same speed as the first.
 
 "April is the month of the wedding." He did not raise it anywhere at all. "You did not send them to a grave and you did not send them to yourself. You sent them into the room."
 
@@ -19602,6 +19622,8 @@ Choi Dae-ho did not do anything with that at all.
 
 "And you arrived."
 
+Choi Dae-ho put his hand back on the sill.
+
 "Say that."
 
 * * *
@@ -19620,9 +19642,13 @@ Choi Dae-ho did not do anything with that at all.
 
 "There are two places at that table," said Choi Dae-ho.
 
+He had said it looking at the table and not at the man who was sitting at it.
+
 "There are."
 
 "You have not touched yours either."
+
+It was the first thing he had said all evening that was not about himself.
 
 "No," said Georgij.
 
@@ -19634,7 +19660,7 @@ He did not have anything to put after it, and he did not go looking.
 
 "That is the whole of tonight. I am not going to tell you who else knows. Or how many of the people you have had dinner with have already been told, or which of them think a conversation is enough and which of them do not. I am not going to tell you because I have not decided it myself. And even if I had, you would not get it from me in a room where I hold every part of the advantage."
 
-Choi Dae-ho got up and went to the window of a small room in somebody else's house.
+Choi Dae-ho stood at the window of a small room in somebody else's house.
 
 "There is a man called Byun," said Georgij.
 
@@ -19654,6 +19680,8 @@ Choi Dae-ho put a hand flat on the glass and took it away again, and the mark st
 
 "You want me to live with that," he said.
 
+Georgij did not get up.
+
 "I want you to live with not knowing which one of them decides you have not been punished enough."
 
 * * *
@@ -19667,6 +19695,8 @@ The four cars on the drive did not do anything.
 * * *
 
 "I am told you have never once been wrong about what a person wants before they know it themselves," said Georgij.
+
+Choi Dae-ho looked at the glass and not at anything through it.
 
 "That is a thing people say."
 
