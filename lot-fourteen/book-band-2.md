@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.822 Woerter.
+Book Two, 89 Kapitel, 231.824 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.23 | 3.901 |
-| 87 | v3.21 | 4.127 |
+| 87 | v3.22 | 4.129 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
 
@@ -19723,7 +19723,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.21 · EN
+*Lot Fourteen* · Version 3.22 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -20101,7 +20101,7 @@ Annie did not take any time over it.
 
 Georgij sat very still.
 
-"Say the rest of it, because you have put that away already and started on tomorrow, and I watched you do it." She put the pen down. "You were useful on the third of April, standing up, on your own account, for a thing I could have refused. I have a date for every one of the others and I have never once had to be told."
+"I will say the rest of it, because you have put that away already and started on tomorrow, and I watched you do it." She put the pen down. "You were useful on the third of April, standing up, on your own account, for a thing I could have refused. I have a date for every one of the others and I have never once had to be told."
 
 "Yes, Mistress."
 
