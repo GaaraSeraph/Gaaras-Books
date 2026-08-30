@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 304.890 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 304.892 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -640,7 +640,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 331.779 Woerter.**
+**123 Kapitel, 331.904 Woerter.**
 
 ---
 
@@ -28203,8 +28203,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch86:30 | There were two places at that table and Choi Dae-ho did not look at either of them. It i.. |
 | 531 | b2ch86:32 | "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been a.. |
 | 531 | b2ch86:42 | Choi Dae-ho sat down about four seconds afterwards, because a man of that sort does not .. |
-| 531 | b2ch86:74 | Choi Dae-ho looked at him properly then for the first time. |
-| 531 | b2ch86:102 | Choi Dae-ho watched him do it and did not do anything with his face at all. |
+| 531 | b2ch86:72 | Choi Dae-ho looked at him properly then for the first time. |
+| 531 | b2ch86:102 | Choi Dae-ho watched him do both of those things and did not do anything with his face at.. |
 | 531 | b2ch86:124 | Choi Dae-ho did not answer that, and the not answering was itself an answer. |
 | 531 | b2ch86:132 | Choi Dae-ho waited about two seconds longer than a man waits. |
 | 531 | b2ch86:142 | "No," said Choi Dae-ho. "I do not think it would." |

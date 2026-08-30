@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.170 Woerter.
+Book Two, 89 Kapitel, 231.161 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -96,7 +96,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.17 | 3.569 |
+| 86 | v3.18 | 3.560 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
@@ -19262,7 +19262,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.17 · EN
+*Lot Fourteen* · Version 3.18 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19304,9 +19304,7 @@ He had asked for the table in the passage at eight and he had asked for two plac
 
 Choi Dae-ho sat down about four seconds afterwards, because a man of that sort does not go on standing over somebody who has stopped.
 
-There are two men in this story who do not eat in front of a person they are working on.
-
-They sat down at a laid table at twenty to ten, and neither of them put a hand on anything, and neither of them said a word about it, and both of them understood it.
+It was twenty to ten. Neither of them put a hand on anything on that table at any point, and neither of them said a word about it for the next half hour.
 
 * * *
 
@@ -19360,9 +19358,11 @@ He has spent a year putting it on at doors.
 
 He has never once used it cold.
 
+"It has been good to see you again," said Georgij.
+
 * * *
 
-Choi Dae-ho watched him do it and did not do anything with his face at all.
+Choi Dae-ho watched him do both of those things and did not do anything with his face at all.
 
 "That was not necessary," he said.
 
