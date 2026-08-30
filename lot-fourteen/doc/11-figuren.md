@@ -597,6 +597,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Sohn** | **Koch.** Kocht ohne Schild fuer Stammgaeste | Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
 | **Mrs Gwak** | **Blumenladen in Hyoja-dong** | Fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
 | **Mrs Sunwoo** | **Kaeuferin in dem Auktionshaus**, einundvierzig Jahre. Eine der vier Zeilen | Einundachtzig | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
+| **Mr Ok** | **Chois Opfer, nur eine Hand.** *Ok. A hand. Nothing before the twelfth. Frightened only.* Kein Kalender im Buero, faehrt jeden Abend mit einem Wagen, der acht Minuten zu spaet kommt | Etwa fuenfzig | B2 1 | Steht auf der Liste in `doc/32` |
 | **Mrs Uhm** | **Macht Yeoms Ablage**, seit 2004 |  | B2 17 | Wird von niemandem behelligt werden |
 
 ### Ohne Namen, und das ist Absicht

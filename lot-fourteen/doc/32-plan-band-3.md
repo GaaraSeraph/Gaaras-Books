@@ -4866,3 +4866,94 @@ anders ausgegangen ist als bei den anderen.**
   Mann ist, und es ist die einzige Stelle, an der etwas erfunden werden muss.
 
 ---
+
+---
+
+# Chois Leute: der Faden, der Band 3 traegt, festgelegt am 30.08.
+
+**Vom Autor:** *"Ich will, dass wir Chois Opfern helfen. Die tun mir alle so
+leid. Ruiniert Menschen, weil sie im falschen Raum waren."*
+
+## Der Satz, auf dem alles steht, und er steht schon im Buch
+
+`b2 ch75:126`, Georgij erklaert Mr Im, wie Choi arbeitet:
+
+> *"He puts two things next to each other four minutes apart and lets you be
+> the one who joins them. Then you say yes to something, in your own voice,
+> out of your own mouth, and you carry it for six years, and he has never once
+> had to claim anything."*
+
+**Das ist auch Georgijs Verfahren, und in Band 3 dreht er es um.** Er besitzt
+nichts, er kann niemandem einen Auftrag geben, und er wird auch keinen geben.
+**Er legt zwei Sachen nebeneinander und laesst andere sie verbinden** - nur
+gehen die Leute diesmal nicht sechs Jahre lang daran zugrunde, sondern haben
+Arbeit.
+
+**Und der Unterschied zwischen den beiden Maennern ist ein einziger:**
+
+> **Choi kam, war zauberhaft, richtete den Raum ein, ging vor dem Kaffee und
+> kam nie wieder. Georgij kommt wieder.**
+
+Die Frau im Erdgeschoss nennt Choi bis heute *"the lovely man"*
+(`b2 ch76:230`). **Niemand von diesen Leuten weiss, dass ihm etwas angetan
+wurde. Das ist der Grund, warum es sie zerstoert hat.**
+
+## Wer auf der Liste steht, und alle stehen im Buch
+
+| Wer | Was Choi gekostet hat | Fundstelle |
+|---|---|---|
+| **Mrs Sunwoo** | einundachtzig, Porzellan, persoenlich betrogen | `b2 ch10`, `b2 ch71` |
+| **Mrs Ha** | der Saal, die Hochzeiten, ein nicht abgeholter Auftrag von 2019 in einer Kiste | `b2 ch72`, `b2 ch80` |
+| **Mr Im** | sechs Jahre. *"I have not been able to have dinner with anybody"* | `b2 ch75:146` |
+| **Mr Ok** | *Ok. A hand. Nothing before the twelfth. Frightened only.* | `b2 ch16:12` |
+| **Die Frau im Erdgeschoss** | zweiundzwanzig Jahre Topf, dreimal geschrieben, nie eine Antwort | `b2 ch43`, `b2 ch76` |
+
+**Die Liste ist nicht vollstaendig und darf es nicht sein.** `b2 ch75:120`:
+*"Four that I know of. There will be more and I am not going to guess at a
+number in your office."* **Der Faden laeuft den ganzen Band durch, in Zahlen
+am Rand, wie die achtundfuenfzig.**
+
+## Wie es geschieht, und es ist kein Geschenk
+
+**1. Die Auftraege kommen nicht von ihm, weil sie es nicht koennen.** Regel 2.
+Er hat kein Geld. **Annies Gruppe kauft Porzellan, weil Annies Gruppe
+Porzellan braucht**, und ein Konzern dieser Groesse heiratet, feiert, empfaengt
+und beerdigt. **Mrs Ha bekommt in einigen Wochen ein paar Dutzend Hochzeiten
+und macht mehr Saele auf, als sie vor Choi hatte.**
+
+**2. Und niemand von ihnen erfaehrt, woher es kommt.** Das ist keine
+Bescheidenheit, sondern die einzige Fassung, in der es kein Almosen ist. **Ein
+Auftrag, von dem man weiss, dass er Mitleid ist, macht kleiner.** Woo sagt es
+im Brief: *"I have watched a great many men be kind in a way that leaves the
+other man smaller."*
+
+**3. Das Wesentliche ist nicht das Geld, sondern dass er sie untereinander
+verbindet.** Mrs Ha braucht Porzellan. Mrs Sunwoo braucht Saele, in denen ihr
+Porzellan steht. **Er stellt sie einander vor und geht.** Danach brauchen sie
+ihn nicht mehr, **und das ist der Punkt: er baut kein Netz um sich, sondern
+eines ohne ihn in der Mitte.**
+
+**4. Und er kommt vorbei und fragt, wie es ihnen geht.** Ohne Anlass, ohne
+Papier, ohne etwas zu wollen. **Das ist die eigentliche Wiedergutmachung und
+nicht der Umsatz**, und es ist genau das, was Choi in fuenfundzwanzig Jahren
+nie getan hat.
+
+## Warum es kein Nebenstrang ist
+
+**Band 3 ist der Band, in dem Georgij zum ersten Mal etwas annimmt** - Yeom
+nennt ihn Freund, sie kuesst ihn, Woo vererbt ihm alles. **Chois Leute sind
+die Gegenprobe:** waehrend er lernt zu nehmen, lernt er zu geben, ohne dass
+es dem anderen etwas kostet.
+
+**Und es ist die Antwort auf Gongs Anklage, ohne dass sie ausgesprochen
+wird.** Der Oberstaatsanwalt wird sagen, Georgij sei dasselbe wie Choi. **Der
+Band widerlegt es nicht mit einer Rede, sondern damit, dass eine Frau von
+einundachtzig wieder Auftraege hat und niemand ihr gesagt hat, warum.**
+
+## Offen, und der Autor entscheidet es
+
+**Wem gibt er die erweiterte Liste, und wem dankt er?** Der Autor hat *"ihm"*
+geschrieben. **Zwei kommen in Frage:** Sim, der berufsmaessig Faelle
+aufarbeitet und dem Georgij etwas schuldet, oder Hwang, der Listen fuehrt.
+**Sim ist die staerkere Wahl**, weil er dreissig Jahre lang der Mann war, der
+nicht fragt, und weil er derjenige ist, der vor dem Kaffee geht.

@@ -221,3 +221,41 @@ im Zuhoeren begriffen.** Beim Besuch kann er darauf zurueckkommen, **als
 Feststellung eines Mannes, der seither Zeit zum Rechnen hatte** - was daraus
 wird, entscheidet die Szene.
 
+
+---
+
+# Das Management luegt, festgelegt am 30.08.
+
+**Vom Autor:** *"Ich will, dass das Management in Band 4, was ich
+auseinandernehme, die Wahrheitsserie auseinanderreisst."*
+
+**Bis hierher haben alle Gegner die Wahrheit gesagt.** Choi log nie, er
+richtete Raeume ein. Han sagte nichts Falsches, er war langsam. Woo, Sang-hoon,
+Hwang, Sim: jeder von ihnen gab Georgij die Wahrheit, oft gegen das eigene
+Interesse. **Zwei Baende lang war die Waehrung dieses Buches, dass Leute
+zutreffende Sachen sagen.**
+
+**Ab Band 4 hoert das auf, und es muss wehtun.**
+
+**Was das Management tut:** es luegt in Sitzungen, in Zahlen, in Protokollen
+und ins Gesicht. Nicht geschickt, sondern **gewohnheitsmaessig** - Leute, die
+seit Jahren so arbeiten und nie einen Grund hatten, damit aufzuhoeren.
+
+**Warum das Georgij haerter trifft als jeder Angriff davor:**
+
+* **Sein ganzes Verfahren setzt voraus, dass gesagte Sachen ueberpruefbar
+  sind.** Er legt zwei Papiere nebeneinander. Wenn beide erfunden sind,
+  stimmen sie trotzdem ueberein.
+* **Seine eigene Regel wird zur Schwaeche.** Er sagt nie etwas Unwahres, und
+  in einem Raum, in dem alle luegen, ist das kein Vorteil, sondern eine
+  Angriffsflaeche. **Zum ersten Mal kostet ihn Regel 1 etwas.**
+* **Und er kann nicht zurueckluegen.** Das ist die Klemme des Bandes und sie
+  loest sich nicht dadurch, dass er sich aendert.
+
+**Wie er es loest:** nicht mit Worten. **Er hoert auf, Leuten zuzuhoeren, und
+faengt an, ihre Bewegungen zu lesen** - wer wann wo war, was geliefert wurde,
+wer wen angerufen hat. Eine Luege in einer Sitzung ist billig. **Ein
+Lastwagen, der irgendwo war, ist teuer.**
+
+**Und ein Satz aus Band 3 wird hier eingeloest:** *A weighbridge does not read
+anything.* **Eine Waage luegt nicht, weil sie nichts versteht.**

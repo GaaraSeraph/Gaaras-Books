@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 302.401 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 303.770 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -640,7 +640,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 330.850 Woerter.**
+**123 Kapitel, 330.952 Woerter.**
 
 ---
 
@@ -1823,6 +1823,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Sohn** | **Koch.** Kocht ohne Schild fuer Stammgaeste | Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
 | **Mrs Gwak** | **Blumenladen in Hyoja-dong** | Fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
 | **Mrs Sunwoo** | **Kaeuferin in dem Auktionshaus**, einundvierzig Jahre. Eine der vier Zeilen | Einundachtzig | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
+| **Mr Ok** | **Chois Opfer, nur eine Hand.** *Ok. A hand. Nothing before the twelfth. Frightened only.* Kein Kalender im Buero, faehrt jeden Abend mit einem Wagen, der acht Minuten zu spaet kommt | Etwa fuenfzig | B2 1 | Steht auf der Liste in `doc/32` |
 | **Mrs Uhm** | **Macht Yeoms Ablage**, seit 2004 |  | B2 17 | Wird von niemandem behelligt werden |
 
 ### Ohne Namen, und das ist Absicht
@@ -21847,6 +21848,97 @@ anders ausgegangen ist als bei den anderen.**
 
 ---
 
+# Chois Leute: der Faden, der Band 3 traegt, festgelegt am 30.08.
+
+**Vom Autor:** *"Ich will, dass wir Chois Opfern helfen. Die tun mir alle so
+leid. Ruiniert Menschen, weil sie im falschen Raum waren."*
+
+## Der Satz, auf dem alles steht, und er steht schon im Buch
+
+`b2 ch75:126`, Georgij erklaert Mr Im, wie Choi arbeitet:
+
+> *"He puts two things next to each other four minutes apart and lets you be
+> the one who joins them. Then you say yes to something, in your own voice,
+> out of your own mouth, and you carry it for six years, and he has never once
+> had to claim anything."*
+
+**Das ist auch Georgijs Verfahren, und in Band 3 dreht er es um.** Er besitzt
+nichts, er kann niemandem einen Auftrag geben, und er wird auch keinen geben.
+**Er legt zwei Sachen nebeneinander und laesst andere sie verbinden** - nur
+gehen die Leute diesmal nicht sechs Jahre lang daran zugrunde, sondern haben
+Arbeit.
+
+**Und der Unterschied zwischen den beiden Maennern ist ein einziger:**
+
+> **Choi kam, war zauberhaft, richtete den Raum ein, ging vor dem Kaffee und
+> kam nie wieder. Georgij kommt wieder.**
+
+Die Frau im Erdgeschoss nennt Choi bis heute *"the lovely man"*
+(`b2 ch76:230`). **Niemand von diesen Leuten weiss, dass ihm etwas angetan
+wurde. Das ist der Grund, warum es sie zerstoert hat.**
+
+## Wer auf der Liste steht, und alle stehen im Buch
+
+| Wer | Was Choi gekostet hat | Fundstelle |
+|---|---|---|
+| **Mrs Sunwoo** | einundachtzig, Porzellan, persoenlich betrogen | `b2 ch10`, `b2 ch71` |
+| **Mrs Ha** | der Saal, die Hochzeiten, ein nicht abgeholter Auftrag von 2019 in einer Kiste | `b2 ch72`, `b2 ch80` |
+| **Mr Im** | sechs Jahre. *"I have not been able to have dinner with anybody"* | `b2 ch75:146` |
+| **Mr Ok** | *Ok. A hand. Nothing before the twelfth. Frightened only.* | `b2 ch16:12` |
+| **Die Frau im Erdgeschoss** | zweiundzwanzig Jahre Topf, dreimal geschrieben, nie eine Antwort | `b2 ch43`, `b2 ch76` |
+
+**Die Liste ist nicht vollstaendig und darf es nicht sein.** `b2 ch75:120`:
+*"Four that I know of. There will be more and I am not going to guess at a
+number in your office."* **Der Faden laeuft den ganzen Band durch, in Zahlen
+am Rand, wie die achtundfuenfzig.**
+
+## Wie es geschieht, und es ist kein Geschenk
+
+**1. Die Auftraege kommen nicht von ihm, weil sie es nicht koennen.** Regel 2.
+Er hat kein Geld. **Annies Gruppe kauft Porzellan, weil Annies Gruppe
+Porzellan braucht**, und ein Konzern dieser Groesse heiratet, feiert, empfaengt
+und beerdigt. **Mrs Ha bekommt in einigen Wochen ein paar Dutzend Hochzeiten
+und macht mehr Saele auf, als sie vor Choi hatte.**
+
+**2. Und niemand von ihnen erfaehrt, woher es kommt.** Das ist keine
+Bescheidenheit, sondern die einzige Fassung, in der es kein Almosen ist. **Ein
+Auftrag, von dem man weiss, dass er Mitleid ist, macht kleiner.** Woo sagt es
+im Brief: *"I have watched a great many men be kind in a way that leaves the
+other man smaller."*
+
+**3. Das Wesentliche ist nicht das Geld, sondern dass er sie untereinander
+verbindet.** Mrs Ha braucht Porzellan. Mrs Sunwoo braucht Saele, in denen ihr
+Porzellan steht. **Er stellt sie einander vor und geht.** Danach brauchen sie
+ihn nicht mehr, **und das ist der Punkt: er baut kein Netz um sich, sondern
+eines ohne ihn in der Mitte.**
+
+**4. Und er kommt vorbei und fragt, wie es ihnen geht.** Ohne Anlass, ohne
+Papier, ohne etwas zu wollen. **Das ist die eigentliche Wiedergutmachung und
+nicht der Umsatz**, und es ist genau das, was Choi in fuenfundzwanzig Jahren
+nie getan hat.
+
+## Warum es kein Nebenstrang ist
+
+**Band 3 ist der Band, in dem Georgij zum ersten Mal etwas annimmt** - Yeom
+nennt ihn Freund, sie kuesst ihn, Woo vererbt ihm alles. **Chois Leute sind
+die Gegenprobe:** waehrend er lernt zu nehmen, lernt er zu geben, ohne dass
+es dem anderen etwas kostet.
+
+**Und es ist die Antwort auf Gongs Anklage, ohne dass sie ausgesprochen
+wird.** Der Oberstaatsanwalt wird sagen, Georgij sei dasselbe wie Choi. **Der
+Band widerlegt es nicht mit einer Rede, sondern damit, dass eine Frau von
+einundachtzig wieder Auftraege hat und niemand ihr gesagt hat, warum.**
+
+## Offen, und der Autor entscheidet es
+
+**Wem gibt er die erweiterte Liste, und wem dankt er?** Der Autor hat *"ihm"*
+geschrieben. **Zwei kommen in Frage:** Sim, der berufsmaessig Faelle
+aufarbeitet und dem Georgij etwas schuldet, oder Hwang, der Listen fuehrt.
+**Sim ist die staerkere Wahl**, weil er dreissig Jahre lang der Mann war, der
+nicht fragt, und weil er derjenige ist, der vor dem Kaffee geht.
+
+---
+
 # Plan, Band 4
 
 **Die Sanierung, der Werkseintritt, der Verlobungsring.** Herausgeloest am
@@ -22069,6 +22161,45 @@ Finisher und hatte keine Antwort - **alle Wege waren zugebaut, und er hat es
 im Zuhoeren begriffen.** Beim Besuch kann er darauf zurueckkommen, **als
 Feststellung eines Mannes, der seither Zeit zum Rechnen hatte** - was daraus
 wird, entscheidet die Szene.
+
+
+---
+
+# Das Management luegt, festgelegt am 30.08.
+
+**Vom Autor:** *"Ich will, dass das Management in Band 4, was ich
+auseinandernehme, die Wahrheitsserie auseinanderreisst."*
+
+**Bis hierher haben alle Gegner die Wahrheit gesagt.** Choi log nie, er
+richtete Raeume ein. Han sagte nichts Falsches, er war langsam. Woo, Sang-hoon,
+Hwang, Sim: jeder von ihnen gab Georgij die Wahrheit, oft gegen das eigene
+Interesse. **Zwei Baende lang war die Waehrung dieses Buches, dass Leute
+zutreffende Sachen sagen.**
+
+**Ab Band 4 hoert das auf, und es muss wehtun.**
+
+**Was das Management tut:** es luegt in Sitzungen, in Zahlen, in Protokollen
+und ins Gesicht. Nicht geschickt, sondern **gewohnheitsmaessig** - Leute, die
+seit Jahren so arbeiten und nie einen Grund hatten, damit aufzuhoeren.
+
+**Warum das Georgij haerter trifft als jeder Angriff davor:**
+
+* **Sein ganzes Verfahren setzt voraus, dass gesagte Sachen ueberpruefbar
+  sind.** Er legt zwei Papiere nebeneinander. Wenn beide erfunden sind,
+  stimmen sie trotzdem ueberein.
+* **Seine eigene Regel wird zur Schwaeche.** Er sagt nie etwas Unwahres, und
+  in einem Raum, in dem alle luegen, ist das kein Vorteil, sondern eine
+  Angriffsflaeche. **Zum ersten Mal kostet ihn Regel 1 etwas.**
+* **Und er kann nicht zurueckluegen.** Das ist die Klemme des Bandes und sie
+  loest sich nicht dadurch, dass er sich aendert.
+
+**Wie er es loest:** nicht mit Worten. **Er hoert auf, Leuten zuzuhoeren, und
+faengt an, ihre Bewegungen zu lesen** - wer wann wo war, was geliefert wurde,
+wer wen angerufen hat. Eine Luege in einer Sitzung ist billig. **Ein
+Lastwagen, der irgendwo war, ist teuer.**
+
+**Und ein Satz aus Band 3 wird hier eingeloest:** *A weighbridge does not read
+anything.* **Eine Waage luegt nicht, weil sie nichts versteht.**
 
 ---
 
@@ -23253,6 +23384,40 @@ liegt bei drei Personen, von denen niemand gewaehlt wurde.
 **Dann ist es nicht Yeom, sondern jemand, dessen Einkommen der Abbau
 beendet.** Yeom hat nichts mehr zu verlieren, das Haus ist weg. **Wer noch
 daran verdient, hat es.**
+
+---
+
+# Der Warlord luegt wie gedruckt, festgelegt am 30.08.
+
+**Vom Autor:** *"Ich will, dass der Warlord in Band 5 luegt wie gedruckt."*
+
+**Er ist die Steigerung des Managements aus Band 4 und eine andere Sorte.**
+Das Management luegt aus Gewohnheit und verteidigt Posten. **Der Warlord luegt
+ohne Zweck**, ueber Kleinigkeiten, ueber Sachen, bei denen die Wahrheit ihm
+mehr genuetzt haette. **Er luegt, weil er es kann und weil ihn seit Jahren
+niemand dabei stoert.**
+
+**Warum das die gefaehrlichste Figur der Reihe ist:**
+
+* **Gegen einen Mann, der aus Interesse luegt, gibt es ein Verfahren:** man
+  findet das Interesse. **Gegen einen, der ohne Interesse luegt, gibt es
+  keines.**
+* **Er ist nicht zu verhandeln, weil eine Zusage von ihm nichts wiegt.** Das
+  ganze Buch laeuft auf Zusagen. `doc/13-zusagen.md` ist ein Schuldbuch.
+  **Hier ist es Altpapier.**
+* **Und er ist der erste, der Gewalt anwendet.** Band 5 ist der Band mit dem
+  ersten Blut, und das ist kein Zufall: **wo Worte nichts mehr wiegen, bleibt
+  nur, was Koerper tun.**
+
+**Was das mit Georgij macht:** in Band 1 bis 4 hat er gewonnen, weil er
+zuhoerte. **Hier gewinnt er, weil er aufhoert.** Und der Preis dafuer steht in
+Woos Brief und wird hier faellig: *Be careful in the rooms you should not be
+in. I did tell you.*
+
+**Regel: keiner von beiden wird entlarvt.** Es gibt keine Szene, in der eine
+Luege aufgedeckt und der Luegner beschaemt wird. **Das ist Fernsehen.** Der
+Band handelt davon, dass Georgij mit Leuten arbeiten muss, deren Worte
+wertlos sind, **und dass er es lernt, ohne selbst einer von ihnen zu werden.**
 
 ---
 
