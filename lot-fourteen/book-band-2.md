@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 230.834 Woerter.
+Book Two, 89 Kapitel, 230.928 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -96,7 +96,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.13 | 3.233 |
+| 86 | v3.14 | 3.327 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
@@ -19262,7 +19262,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.13 · EN
+*Lot Fourteen* · Version 3.14 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19290,9 +19290,11 @@ He is not tall.
 
 * * *
 
-He did not sit down and he did not offer the other chair, because it is not his room and he has never in his life offered anybody anything in a room that was not his.
+There were two places at that table and Choi Dae-ho did not look at either of them. It is not his room, and he has never in his life offered anybody anything in a room that was not his.
 
 Georgij did not sit down either.
+
+He had asked for it in the passage at eight and he had not asked for it in order to use it. A man who is going to be finished in twenty minutes gets a laid table, because the alternative is a bare one, and a bare table is a thing you do to somebody.
 
 "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been at something for a year and it shows in the way you are standing, and I would say the same thing to anybody."
 
@@ -19328,7 +19330,9 @@ Choi Dae-ho looked at him properly then for the first time.
 
 "Then ask."
 
-"Please guide me," said Georgij. "Who should I be careful of?"
+"In my first fortnight in this country I asked four men who I should be careful of," said Georgij. "I have not put it to anybody since. I am going to put it to you once, and then not again."
+
+"Who should I be careful of?"
 
 * * *
 
