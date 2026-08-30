@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.603 Woerter.
+Book Two, 89 Kapitel, 227.879 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -69,11 +69,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 56 | v1.11 | 2.125 |
 | 57 | v1.9 | 2.279 |
 | 58 | v1.6 | 2.481 |
-| 59 | v1.10 | 2.765 |
+| 59 | v1.11 | 3.058 |
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.7 | 2.342 |
+| 63 | v1.8 | 2.325 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -12965,7 +12965,7 @@ He sat with the pen and then wrote one more line.
 ---
 
 # Book Two · Chapter 59: The permanent series
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -13082,6 +13082,32 @@ Out in the corridor two men carried something past the open door and one of them
 "That is the thing I came here without," said Georgij.
 
 "I know it is. You had four hundred and eighty-one million and a month and no idea what it would cost her afterwards, and that is not a criticism. Nobody in this trade knows what the series does except the man who wrote the clause." Mr Hwang turned the sheet back over. "You have two choices and I am not going to help you pick. You take it back to her today and she decides. Or you tell me now that she has decided already, and I will not believe you, and I will make you say it twice."
+
+"There is one more and I should have asked it first," said Georgij.
+
+"Ask it."
+
+"Who is the placing party."
+
+Mr Hwang did not look anything up, and the not looking told Georgij how many times that page had been read.
+
+"Chu Sang-cheol," he said. "He has had her four years and he has had the other one eleven, and he is on the entry from the day of the placing, in the series, in my father's hand."
+
+"Say the part I have not thought of."
+
+"That you cannot frighten him with a record. He has been in that book longer than I have been running it." Mr Hwang did not soften it. "Whatever you were going to do with the sequence, do not. It is the one thing in this that will not move him."
+
+"Then what is he."
+
+"A man with a lease on a house, nine people on a rota and four cars, and a fee that was agreed in the year the arrangement was made." Mr Hwang looked at him properly. "The oxygen order was thirty days then. It is eleven now."
+
+Georgij sat with that longer than he had sat with anything else in that room.
+
+*He is not holding two women. He is running a house he cannot get out of, on a number that has not moved since the year it was written, and one of the two is dying inside it.*
+
+*The day she dies he has a body in a building that officially contains nobody, and no piece of paper that says how she got there.*
+
+*Nobody is going to have to persuade that man of anything. Somebody is going to have to offer him half of it back.*
 
 "She has not decided. She does not know."
 
@@ -13771,7 +13797,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13809,27 +13835,27 @@ Mr Hwang telephoned it through and did not dress it.
 
 "That they were never going to argue about it, and that the figure could have been a third of what it is." He did not hurry any of it. "You will both work that out by about six this evening and there is nothing I can do about it. I am telling you at ten past two so that you have it from me and not from the arithmetic."
 
-"Then say why they did not simply refuse."
+"Then say why he did not simply refuse."
 
-"They could have refused. I want that said before I say the rest of it." Mr Hwang did not hurry any of it. "And the refusal would have gone into the sequence in the same hand as the acceptance, because I served it as administrator, and everything served in a wind-up is answered on the record."
+"Because refusing costs him the money and changes nothing else about his week." Mr Hwang did not hurry any of it. "You know what I told you in this room in October. He has been on that entry for four years and on the other one for eleven, and there is nothing left of him to expose. He was never going to be frightened into anything."
 
-"Say what that record would have said."
+"Then say what did it."
 
-"That on the twenty-seventh of October a named party declined to release a consignment out of a house in wind-up, and asserted that he was holding it." He did not look away from any of it. "There is no version of that sentence that is survivable by a man whose whole business is that nobody can write a sentence about him."
+"You offered to take half of a house off a man who cannot get out of it, and to pay him for the half that nobody in Seoul asks about." Mr Hwang put both hands flat. "He did not weigh a woman against four hundred and eighty-one million. He weighed one rota against two."
 
 Georgij put the note face down before he answered.
 
-"So they were not offered a price."
-
-"They were offered a way of not being written down. The price was the part that let them say yes without saying anything else." Mr Hwang put both hands flat. "That is why they took the first one and why it came back in a day, and you are going to want to think it was the money."
-
 "And the man in Seoul."
 
-"Is not on the form and there is no place on it where he could be. Telephoning him means telling him that his name is about to be four lines under a refusal." A pause. "The agent worked that out faster than I would have."
+"Would have been told if anything had changed for him, and nothing has. He pays for a woman on oxygen and he will go on paying for her, and she is still in that building tonight." He said it without any comfort in it. "Chu was not asked to give up the one his client wants. That is why there was no telephone call, and it is the only reason there was not one."
 
-*It held because a refusal is a sentence, and the people who hold women in houses cannot afford sentences. That is the whole of it and it is the only part I built.*
+*He kept the one that is paid for and sold the one that was not, and it took him a night and part of a morning to see that.*
 
-*It did not hold because anybody on that side spent one minute thinking about her, and I am writing that down so that I do not tell myself afterwards that they weighed her against the money. They weighed themselves.*
+*I built that. It is the first thing this year that worked because I understood what a man wanted and not what he was afraid of.*
+
+*I would like to be pleased about it. I am not going to be.*
+
+*She ran that household for three and a half years and nobody on that side ever wrote down that she did.*
 
 She worked it out at about twenty past two, which is ten minutes and not four hours.
 

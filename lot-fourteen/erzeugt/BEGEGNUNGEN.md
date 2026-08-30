@@ -23,8 +23,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chairman Woo | 229 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
+| Mr Hwang | 140 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
-| Mr Hwang | 137 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Sim | 130 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 64 | 20 (b1ch07-b2ch89) | 22 | 590 |
@@ -2506,6 +2506,230 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Hwang
+
+140 Nennungen in 24 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 166 | b2ch07:30 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 172 | b2ch10:230 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
+| 213 | b2ch20:20 | Mr Hwang was in the room at the end with three crates open and a list. |
+| 213 | b2ch20:38 | Mr Hwang put the list down on the table. |
+| 213 | b2ch20:46 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
+| 213 | b2ch20:54 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
+| 213 | b2ch20:62 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
+| 213 | b2ch20:78 | "Nothing," said Mr Hwang. |
+| 213 | b2ch20:86 | "They paid for a service," said Mr Hwang. "The service was not performed. I have been aw.. |
+| 213 | b2ch20:96 | Mr Hwang did not answer. |
+| 213 | b2ch20:106 | Mr Hwang picked the list up again and then put it down without looking at it. |
+| 213 | b2ch20:128 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
+| 213 | b2ch20:134 | "And the page that did that," said Mr Hwang. |
+| 213 | b2ch20:140 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
+| 213 | b2ch20:152 | "Lot fourteen," said Mr Hwang. |
+| 213 | b2ch20:162 | Mr Hwang looked at the floor of a room with three crates in it. |
+| 213 | b2ch20:178 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
+| 213 | b2ch20:190 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
+| 213 | b2ch20:204 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
+| 213 | b2ch20:218 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
+| 213 | b2ch20:230 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
+| 213 | b2ch20:246 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
+| 213 | b2ch20:256 | "Mr Hwang." |
+| 224 | b2ch23:142 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
+| 224 | b2ch23:194 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
+| 236 | b2ch25:468 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 236 | b2ch25:482 | Mr Hwang keeps everything. |
+| 237 | b2ch26:28 | Mr Hwang was on the third floor in a room with two crates and a table and nothing else. |
+| 237 | b2ch26:32 | "You," said Mr Hwang. |
+| 237 | b2ch26:38 | Mr Hwang put the page he was holding face down on the table, squared it, and turned round. |
+| 237 | b2ch26:50 | Mr Hwang stood with one hand on the box file. |
+| 237 | b2ch26:58 | Mr Hwang did not go to a box and did not open anything. |
+| 237 | b2ch26:68 | "No," said Mr Hwang. "I have not had to look that up once since the twelfth of May, and .. |
+| 237 | b2ch26:76 | "Because it was correct." Mr Hwang said it without any defence in it at all, which is ne.. |
+| 237 | b2ch26:86 | "You are going to tell me that is the same thing again," said Mr Hwang. |
+| 237 | b2ch26:92 | Mr Hwang turned back to the table and moved the box file about an inch to the left, whic.. |
+| 237 | b2ch26:98 | "She came up here on the ninth of January." Mr Hwang put both hands flat on the table. ".. |
+| 237 | b2ch26:122 | "I said that the house was in wind-up," said Mr Hwang, "and that reopening a matter in w.. |
+| 237 | b2ch26:132 | "I did not open it. She had it in her hands and she was holding it out and I did not put.. |
+| 237 | b2ch26:136 | Georgij looked at the two crates and did not look at Mr Hwang at all. |
+| 237 | b2ch26:146 | Mr Hwang looked up at that. |
+| 237 | b2ch26:154 | Mr Hwang stood very still for a while. |
+| 237 | b2ch26:164 | "There is a bus every twenty minutes from the station and it is the fourth stop," said M.. |
+| 237 | b2ch26:170 | "She asked me for a reference on the twelfth," said Mr Hwang. "I wrote her one. It is tw.. |
+| 237 | b2ch26:182 | Mr Hwang nodded once, slowly, as though somebody had confirmed a figure. |
+| 237 | b2ch26:200 | Mr Hwang did not say anything for a moment. |
+| 237 | b2ch26:214 | "There is one thing," said Mr Hwang. |
+| 237 | b2ch26:232 | He did not agree to it. He also did not refuse, and Mr Hwang had been in enough rooms by.. |
+| 237 | b2ch26:234 | "Mr Hwang." |
+| 237 | b2ch26:242 | Mr Hwang picked the page back up off the table and turned it the right way round. |
+| 237 | b2ch26:262 | Mr Hwang looked at the crate he had closed. |
+| 237 | b2ch26:268 | "I am not the custodian of anything in this building any more." Mr Hwang put one hand fl.. |
+| 237 | b2ch26:272 | "Yes," said Mr Hwang. "You should." |
+| 237 | b2ch26:290 | Mr Hwang would not take the exercise book in January, and it went back out of that build.. |
+| 238 | b2ch27:204 | "It went to six hundred and forty of them in March and it has been lying in their drawer.. |
+| 239 | b2ch29:84 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
+| 242 | b2ch30:262 | "Mr Hwang asked me for something and I did not answer him," said Georgij. "I want to giv.. |
+| 243 | b2ch31:10 | Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied p.. |
+| 243 | b2ch31:68 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
+| 243 | b2ch31:138 | "And the page from Mrs Jeon. The one for Hwang." |
+| 244 | b2ch32:166 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 255 | b2ch35:216 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
+| 255 | b2ch35:264 | "You are not going to give this to Hwang," she said. It was not a question. |
+| 255 | b2ch35:340 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
+| 273 | b2ch40:144 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
+| 273 | b2ch40:152 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
+| 273 | b2ch40:160 | "You did not know Hwang was coming." |
+| 273 | b2ch40:162 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
+| 307 | b2ch51:38 | Nobody has told Hwang either, because a fund decides that and a fund is in no hurry. It .. |
+| 307 | b2ch51:162 | It names the lot by its reference in the permanent series, which he has, because Byun so.. |
+| 371 | b2ch58:126 | "There is one door," he said, "and it is Mr Hwang." |
+| 371 | b2ch58:130 | "The woman in that house is a consignment on a book that belongs to a house that is bein.. |
+| 371 | b2ch58:142 | "On the ninth of January four years ago a woman held a book out to Mr Hwang in his own o.. |
+| 371 | b2ch58:172 | "And now you are going to do it to Mr Hwang." |
+| 371 | b2ch58:228 | "So on the day Mr Hwang signs, one of them is a transaction and the other one is a woman.. |
+| 377 | b2ch59:10 | Georgij was at the desk at two minutes to nine and Mr Hwang was already behind it, with .. |
+| 377 | b2ch59:14 | "The eleventh of June," said Mr Hwang. "That was the last time you were in this building.. |
+| 377 | b2ch59:26 | "The fourth line on that page you asked about in August is a woman. She is on our books .. |
+| 377 | b2ch59:38 | "It is the rule and it is also true. I have looked for the other answer for nine weeks a.. |
+| 377 | b2ch59:62 | Mr Hwang had not moved his hand. |
+| 377 | b2ch59:70 | "I did," said Mr Hwang. |
+| 377 | b2ch59:74 | Mr Hwang looked at the sheet on his desk for a while. |
+| 377 | b2ch59:84 | "I am going to be exact, because you have been exact and because you will otherwise leav.. |
+| 377 | b2ch59:98 | "On the sixth of August you used a clause in our terms of business. You asked in writing.. |
+| 377 | b2ch59:110 | "For as long as the series exists, and it exists until somebody signs it over to an arch.. |
+| 377 | b2ch59:122 | "On the day I have it," said Mr Hwang, and he did not make anything of it. "You have ask.. |
+| 377 | b2ch59:140 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
+| 377 | b2ch59:152 | Mr Hwang did not look anything up, and the not looking told Georgij how many times that .. |
+| 377 | b2ch59:158 | "That you cannot frighten him with a record. He has been in that book longer than I have.. |
+| 377 | b2ch59:164 | "A man with a lease on a house, nine people on a rota and four cars, and a fee that was .. |
+| 377 | b2ch59:192 | Mr Hwang did not reach for anything. |
+| 377 | b2ch59:204 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
+| 377 | b2ch59:214 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
+| 377 | b2ch59:222 | Mr Hwang did not move at all. |
+| 377 | b2ch59:230 | "The ninth line," said Mr Hwang. |
+| 377 | b2ch59:240 | Mr Hwang put the sheet down on the desk and left his hand off it. |
+| 384 | b2ch60:174 | "It will not be nine years." Georgij did not move at all. "The fund has decided. This ho.. |
+| 386 | b2ch62:6 | Mr Hwang telephoned the house on the Saturday morning at nine, which is not a thing that.. |
+| 386 | b2ch62:28 | "He receives nothing," said Mr Hwang. "I want you to be exact about that when you say it.. |
+| 386 | b2ch62:32 | "He signs a form that says the house may transfer a lot he placed to a person who is buy.. |
+| 386 | b2ch62:40 | "It is the same form. It is the reverse of the same form, and it is printed on the rever.. |
+| 388 | b2ch62:78 | "You get nothing. Not a won, not a fee, not a share of it, and you are not a party to th.. |
+| 388 | b2ch62:156 | "The form goes to the house tomorrow morning. The house serves it on the holder with the.. |
+| 389 | b2ch63:6 | The four pages went in on the Tuesday morning and Mr Hwang served them on the holder at .. |
+| 390 | b2ch63:34 | Mr Hwang telephoned it through and did not dress it. |
+| 390 | b2ch63:46 | "Because refusing costs him the money and changes nothing else about his week." Mr Hwang.. |
+| 390 | b2ch63:50 | "You offered to take half of a house off a man who cannot get out of it, and to pay him .. |
+| 390 | b2ch63:160 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
+| 395 | b2ch64:66 | The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. T.. |
+| 466 | b2ch79:124 | **H.** A late August, three years after that. Half past seven. Six weeks before Mr Hwang.. |
+| 510 | b2ch83:10 | The plate by the entrance came down in October and the four screw holes are still there,.. |
+| 510 | b2ch83:28 | Two men and a lorry, and nobody has pretended it is an archive. It is a firm in Siheung .. |
+| 510 | b2ch83:36 | "Because a retention period runs from the date on the deposit form, and nobody opens a b.. |
+| 510 | b2ch83:48 | "That is the ordinary kind, and it is the only kind there is, and it is why I am not sen.. |
+| 510 | b2ch83:60 | Mr Hwang put both hands on the desk. |
+| 510 | b2ch83:76 | Mr Hwang did not answer straight away. |
+| 510 | b2ch83:86 | "Two," said Mr Hwang. |
+| 510 | b2ch83:102 | "Two requests under clause eleven," said Mr Hwang. "One in December and one in January. .. |
+| 510 | b2ch83:106 | "A woman who has bought in this house for forty-one years, on the twenty-first of Decemb.. |
+| 510 | b2ch83:114 | "Six hundred and forty buyers, a clause I wrote in 2011 and was proud of for fourteen ye.. |
+| 510 | b2ch83:120 | "You are waiting for me to say something," said Mr Hwang. |
+| 510 | b2ch83:140 | Mr Hwang did not move. |
+| 510 | b2ch83:150 | He said it and then he did not go on, and Mr Hwang, who has been reading his own draftin.. |
+| 510 | b2ch83:158 | "He would have to assert an interest." Mr Hwang said it the way a man says a figure he h.. |
+| 510 | b2ch83:164 | "So to get a copy of a line that has a woman's name on one side and a woman's name on th.. |
+| 510 | b2ch83:172 | "I did not build that," said Mr Hwang. |
+| 510 | b2ch83:194 | Mr Hwang went out to the lorry and watched them load it and did not help, because a man .. |
+| 510 | b2ch83:216 | Mr Hwang had it couriered to the house on the river on the Monday morning with a complim.. |
+| 514 | b2ch83:228 | "You have come to offer me something," said Mr Hwang. "You have had it in your coat for .. |
+| 514 | b2ch83:242 | Mr Hwang did not say anything. |
+| 514 | b2ch83:248 | "Who is paying," said Mr Hwang. |
+| 514 | b2ch83:260 | Mr Hwang stood up behind his own desk. |
+| 514 | b2ch83:276 | "In April I put twelve posts through in an afternoon out of a spreadsheet and I did not .. |
+| 514 | b2ch83:288 | Mr Hwang stood very still. |
+| 514 | b2ch83:294 | "No," said Mr Hwang. "I did not think you would." |
+| 514 | b2ch83:318 | "Fifty-eight names, eleven years old, out of a hall book with no addresses in it." Mr Hw.. |
+| 531 | b2ch87:330 | "Twelve posts went in the second week of April and Hwang wrote every one of them into th.. |
+| 531 | b2ch87:332 | "And Hwang." |
+| 531 | b2ch87:354 | "It went in a box." His hands had not moved. "Class one, the permanent series, thirty ye.. |
+| 590 | b2ch89:100 | Mr Hwang has been at the fifty-eight since the fifteenth of March. |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:30` (Tag 166) - three
+- `b2ch10:230` (Tag 172) - one
+- `b2ch20:20` (Tag 213) - three
+- `b2ch20:54` (Tag 213) - three
+- `b2ch20:62` (Tag 213) - five, three
+- `b2ch20:128` (Tag 213) - eight, one
+- `b2ch20:140` (Tag 213) - one
+- `b2ch20:152` (Tag 213) - fourteen
+- `b2ch20:162` (Tag 213) - three
+- `b2ch20:204` (Tag 213) - twenty
+- `b2ch20:230` (Tag 213) - fifteen
+- `b2ch20:246` (Tag 213) - five, four, twenty
+- `b2ch25:468` (Tag 236) - four
+- `b2ch26:28` (Tag 237) - two
+- `b2ch26:50` (Tag 237) - one
+- `b2ch26:76` (Tag 237) - eleven, one, twelve
+- `b2ch26:122` (Tag 237) - twenty-three
+- `b2ch26:132` (Tag 237) - four
+- `b2ch26:136` (Tag 237) - two
+- `b2ch26:164` (Tag 237) - one, twenty
+- `b2ch26:170` (Tag 237) - one, two
+- `b2ch26:214` (Tag 237) - one
+- `b2ch26:268` (Tag 237) - one
+- `b2ch27:204` (Tag 238) - six hundred and forty
+- `b2ch30:262` (Tag 242) - five
+- `b2ch31:10` (Tag 243) - two
+- `b2ch31:138` (Tag 243) - one
+- `b2ch32:166` (Tag 244) - one
+- `b2ch35:340` (Tag 255) - six, three
+- `b2ch40:144` (Tag 273) - seven, six, three
+- `b2ch40:152` (Tag 273) - one, six
+- `b2ch51:162` (Tag 307) - four, one, thirty
+- `b2ch58:126` (Tag 371) - one
+- `b2ch58:142` (Tag 371) - four, one
+- `b2ch58:228` (Tag 371) - one
+- `b2ch59:10` (Tag 377) - nine, two
+- `b2ch59:14` (Tag 377) - nineteen, twenty, two
+- `b2ch59:26` (Tag 377) - nine, six
+- `b2ch59:38` (Tag 377) - four, nine, one
+- `b2ch59:84` (Tag 377) - four, three
+- `b2ch59:98` (Tag 377) - fourteen
+- `b2ch59:122` (Tag 377) - two
+- `b2ch59:140` (Tag 377) - four hundred and eighty-one million, two
+- `b2ch59:158` (Tag 377) - one
+- `b2ch59:164` (Tag 377) - eleven, four, nine, thirty
+- `b2ch59:204` (Tag 377) - eleven
+- `b2ch59:214` (Tag 377) - one
+- `b2ch60:174` (Tag 384) - nine, seven, six hundred, twenty
+- `b2ch62:6` (Tag 386) - nine
+- `b2ch62:32` (Tag 386) - four, one
+- `b2ch62:40` (Tag 386) - four
+- `b2ch63:6` (Tag 389) - eleven, four, twenty
+- `b2ch63:46` (Tag 390) - eleven, four, one
+- `b2ch63:50` (Tag 390) - four hundred and eighty-one million, one, two
+- `b2ch63:160` (Tag 390) - four, three
+- `b2ch79:124` (Tag 466) - seven, six, three
+- `b2ch83:10` (Tag 510) - four
+- `b2ch83:28` (Tag 510) - four, two
+- `b2ch83:48` (Tag 510) - one, thirty
+- `b2ch83:86` (Tag 510) - two
+- `b2ch83:102` (Tag 510) - eleven, one, three, two
+- `b2ch83:106` (Tag 510) - forty-one, twenty
+- `b2ch83:114` (Tag 510) - fourteen, nineteen, one, six hundred and forty, two
+- `b2ch83:150` (Tag 510) - four
+- `b2ch83:158` (Tag 510) - one
+- `b2ch83:164` (Tag 510) - one
+- `b2ch83:228` (Tag 514) - four
+- `b2ch83:276` (Tag 514) - twelve
+- `b2ch83:318` (Tag 514) - eleven, fifty-eight, four hundred and sixty
+- `b2ch87:330` (Tag 531) - eleven, one, twelve
+- `b2ch87:354` (Tag 531) - four, nineteen, one, thirty
+- `b2ch89:100` (Tag 590) - fifty-eight
+
+---
+
 ## Mrs Seo
 
 138 Nennungen in 49 Kapiteln.
@@ -2733,224 +2957,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:556` (Tag 531) - eleven, four, sixty
 - `b2ch87:44` (Tag 531) - ten
 - `b2ch87:162` (Tag 531) - four, ten, twenty-six
-
----
-
-## Mr Hwang
-
-137 Nennungen in 24 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 166 | b2ch07:30 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 172 | b2ch10:230 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
-| 213 | b2ch20:20 | Mr Hwang was in the room at the end with three crates open and a list. |
-| 213 | b2ch20:38 | Mr Hwang put the list down on the table. |
-| 213 | b2ch20:46 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
-| 213 | b2ch20:54 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
-| 213 | b2ch20:62 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
-| 213 | b2ch20:78 | "Nothing," said Mr Hwang. |
-| 213 | b2ch20:86 | "They paid for a service," said Mr Hwang. "The service was not performed. I have been aw.. |
-| 213 | b2ch20:96 | Mr Hwang did not answer. |
-| 213 | b2ch20:106 | Mr Hwang picked the list up again and then put it down without looking at it. |
-| 213 | b2ch20:128 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
-| 213 | b2ch20:134 | "And the page that did that," said Mr Hwang. |
-| 213 | b2ch20:140 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
-| 213 | b2ch20:152 | "Lot fourteen," said Mr Hwang. |
-| 213 | b2ch20:162 | Mr Hwang looked at the floor of a room with three crates in it. |
-| 213 | b2ch20:178 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
-| 213 | b2ch20:190 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
-| 213 | b2ch20:204 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
-| 213 | b2ch20:218 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
-| 213 | b2ch20:230 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
-| 213 | b2ch20:246 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
-| 213 | b2ch20:256 | "Mr Hwang." |
-| 224 | b2ch23:142 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
-| 224 | b2ch23:194 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
-| 236 | b2ch25:468 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
-| 236 | b2ch25:482 | Mr Hwang keeps everything. |
-| 237 | b2ch26:28 | Mr Hwang was on the third floor in a room with two crates and a table and nothing else. |
-| 237 | b2ch26:32 | "You," said Mr Hwang. |
-| 237 | b2ch26:38 | Mr Hwang put the page he was holding face down on the table, squared it, and turned round. |
-| 237 | b2ch26:50 | Mr Hwang stood with one hand on the box file. |
-| 237 | b2ch26:58 | Mr Hwang did not go to a box and did not open anything. |
-| 237 | b2ch26:68 | "No," said Mr Hwang. "I have not had to look that up once since the twelfth of May, and .. |
-| 237 | b2ch26:76 | "Because it was correct." Mr Hwang said it without any defence in it at all, which is ne.. |
-| 237 | b2ch26:86 | "You are going to tell me that is the same thing again," said Mr Hwang. |
-| 237 | b2ch26:92 | Mr Hwang turned back to the table and moved the box file about an inch to the left, whic.. |
-| 237 | b2ch26:98 | "She came up here on the ninth of January." Mr Hwang put both hands flat on the table. ".. |
-| 237 | b2ch26:122 | "I said that the house was in wind-up," said Mr Hwang, "and that reopening a matter in w.. |
-| 237 | b2ch26:132 | "I did not open it. She had it in her hands and she was holding it out and I did not put.. |
-| 237 | b2ch26:136 | Georgij looked at the two crates and did not look at Mr Hwang at all. |
-| 237 | b2ch26:146 | Mr Hwang looked up at that. |
-| 237 | b2ch26:154 | Mr Hwang stood very still for a while. |
-| 237 | b2ch26:164 | "There is a bus every twenty minutes from the station and it is the fourth stop," said M.. |
-| 237 | b2ch26:170 | "She asked me for a reference on the twelfth," said Mr Hwang. "I wrote her one. It is tw.. |
-| 237 | b2ch26:182 | Mr Hwang nodded once, slowly, as though somebody had confirmed a figure. |
-| 237 | b2ch26:200 | Mr Hwang did not say anything for a moment. |
-| 237 | b2ch26:214 | "There is one thing," said Mr Hwang. |
-| 237 | b2ch26:232 | He did not agree to it. He also did not refuse, and Mr Hwang had been in enough rooms by.. |
-| 237 | b2ch26:234 | "Mr Hwang." |
-| 237 | b2ch26:242 | Mr Hwang picked the page back up off the table and turned it the right way round. |
-| 237 | b2ch26:262 | Mr Hwang looked at the crate he had closed. |
-| 237 | b2ch26:268 | "I am not the custodian of anything in this building any more." Mr Hwang put one hand fl.. |
-| 237 | b2ch26:272 | "Yes," said Mr Hwang. "You should." |
-| 237 | b2ch26:290 | Mr Hwang would not take the exercise book in January, and it went back out of that build.. |
-| 238 | b2ch27:204 | "It went to six hundred and forty of them in March and it has been lying in their drawer.. |
-| 239 | b2ch29:84 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
-| 242 | b2ch30:262 | "Mr Hwang asked me for something and I did not answer him," said Georgij. "I want to giv.. |
-| 243 | b2ch31:10 | Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied p.. |
-| 243 | b2ch31:68 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
-| 243 | b2ch31:138 | "And the page from Mrs Jeon. The one for Hwang." |
-| 244 | b2ch32:166 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
-| 255 | b2ch35:216 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
-| 255 | b2ch35:264 | "You are not going to give this to Hwang," she said. It was not a question. |
-| 255 | b2ch35:340 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
-| 273 | b2ch40:144 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
-| 273 | b2ch40:152 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
-| 273 | b2ch40:160 | "You did not know Hwang was coming." |
-| 273 | b2ch40:162 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
-| 307 | b2ch51:38 | Nobody has told Hwang either, because a fund decides that and a fund is in no hurry. It .. |
-| 307 | b2ch51:162 | It names the lot by its reference in the permanent series, which he has, because Byun so.. |
-| 371 | b2ch58:126 | "There is one door," he said, "and it is Mr Hwang." |
-| 371 | b2ch58:130 | "The woman in that house is a consignment on a book that belongs to a house that is bein.. |
-| 371 | b2ch58:142 | "On the ninth of January four years ago a woman held a book out to Mr Hwang in his own o.. |
-| 371 | b2ch58:172 | "And now you are going to do it to Mr Hwang." |
-| 371 | b2ch58:228 | "So on the day Mr Hwang signs, one of them is a transaction and the other one is a woman.. |
-| 377 | b2ch59:10 | Georgij was at the desk at two minutes to nine and Mr Hwang was already behind it, with .. |
-| 377 | b2ch59:14 | "The eleventh of June," said Mr Hwang. "That was the last time you were in this building.. |
-| 377 | b2ch59:26 | "The fourth line on that page you asked about in August is a woman. She is on our books .. |
-| 377 | b2ch59:38 | "It is the rule and it is also true. I have looked for the other answer for nine weeks a.. |
-| 377 | b2ch59:62 | Mr Hwang had not moved his hand. |
-| 377 | b2ch59:70 | "I did," said Mr Hwang. |
-| 377 | b2ch59:74 | Mr Hwang looked at the sheet on his desk for a while. |
-| 377 | b2ch59:84 | "I am going to be exact, because you have been exact and because you will otherwise leav.. |
-| 377 | b2ch59:98 | "On the sixth of August you used a clause in our terms of business. You asked in writing.. |
-| 377 | b2ch59:110 | "For as long as the series exists, and it exists until somebody signs it over to an arch.. |
-| 377 | b2ch59:122 | "On the day I have it," said Mr Hwang, and he did not make anything of it. "You have ask.. |
-| 377 | b2ch59:140 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
-| 377 | b2ch59:156 | Mr Hwang did not reach for anything. |
-| 377 | b2ch59:168 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
-| 377 | b2ch59:178 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
-| 377 | b2ch59:186 | Mr Hwang did not move at all. |
-| 377 | b2ch59:194 | "The ninth line," said Mr Hwang. |
-| 377 | b2ch59:204 | Mr Hwang put the sheet down on the desk and left his hand off it. |
-| 384 | b2ch60:174 | "It will not be nine years." Georgij did not move at all. "The fund has decided. This ho.. |
-| 386 | b2ch62:6 | Mr Hwang telephoned the house on the Saturday morning at nine, which is not a thing that.. |
-| 386 | b2ch62:28 | "He receives nothing," said Mr Hwang. "I want you to be exact about that when you say it.. |
-| 386 | b2ch62:32 | "He signs a form that says the house may transfer a lot he placed to a person who is buy.. |
-| 386 | b2ch62:40 | "It is the same form. It is the reverse of the same form, and it is printed on the rever.. |
-| 388 | b2ch62:78 | "You get nothing. Not a won, not a fee, not a share of it, and you are not a party to th.. |
-| 388 | b2ch62:156 | "The form goes to the house tomorrow morning. The house serves it on the holder with the.. |
-| 389 | b2ch63:6 | The four pages went in on the Tuesday morning and Mr Hwang served them on the holder at .. |
-| 390 | b2ch63:34 | Mr Hwang telephoned it through and did not dress it. |
-| 390 | b2ch63:46 | "They could have refused. I want that said before I say the rest of it." Mr Hwang did no.. |
-| 390 | b2ch63:58 | "They were offered a way of not being written down. The price was the part that let them.. |
-| 390 | b2ch63:160 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
-| 395 | b2ch64:66 | The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. T.. |
-| 466 | b2ch79:124 | **H.** A late August, three years after that. Half past seven. Six weeks before Mr Hwang.. |
-| 510 | b2ch83:10 | The plate by the entrance came down in October and the four screw holes are still there,.. |
-| 510 | b2ch83:28 | Two men and a lorry, and nobody has pretended it is an archive. It is a firm in Siheung .. |
-| 510 | b2ch83:36 | "Because a retention period runs from the date on the deposit form, and nobody opens a b.. |
-| 510 | b2ch83:48 | "That is the ordinary kind, and it is the only kind there is, and it is why I am not sen.. |
-| 510 | b2ch83:60 | Mr Hwang put both hands on the desk. |
-| 510 | b2ch83:76 | Mr Hwang did not answer straight away. |
-| 510 | b2ch83:86 | "Two," said Mr Hwang. |
-| 510 | b2ch83:102 | "Two requests under clause eleven," said Mr Hwang. "One in December and one in January. .. |
-| 510 | b2ch83:106 | "A woman who has bought in this house for forty-one years, on the twenty-first of Decemb.. |
-| 510 | b2ch83:114 | "Six hundred and forty buyers, a clause I wrote in 2011 and was proud of for fourteen ye.. |
-| 510 | b2ch83:120 | "You are waiting for me to say something," said Mr Hwang. |
-| 510 | b2ch83:140 | Mr Hwang did not move. |
-| 510 | b2ch83:150 | He said it and then he did not go on, and Mr Hwang, who has been reading his own draftin.. |
-| 510 | b2ch83:158 | "He would have to assert an interest." Mr Hwang said it the way a man says a figure he h.. |
-| 510 | b2ch83:164 | "So to get a copy of a line that has a woman's name on one side and a woman's name on th.. |
-| 510 | b2ch83:172 | "I did not build that," said Mr Hwang. |
-| 510 | b2ch83:194 | Mr Hwang went out to the lorry and watched them load it and did not help, because a man .. |
-| 510 | b2ch83:216 | Mr Hwang had it couriered to the house on the river on the Monday morning with a complim.. |
-| 514 | b2ch83:228 | "You have come to offer me something," said Mr Hwang. "You have had it in your coat for .. |
-| 514 | b2ch83:242 | Mr Hwang did not say anything. |
-| 514 | b2ch83:248 | "Who is paying," said Mr Hwang. |
-| 514 | b2ch83:260 | Mr Hwang stood up behind his own desk. |
-| 514 | b2ch83:276 | "In April I put twelve posts through in an afternoon out of a spreadsheet and I did not .. |
-| 514 | b2ch83:288 | Mr Hwang stood very still. |
-| 514 | b2ch83:294 | "No," said Mr Hwang. "I did not think you would." |
-| 514 | b2ch83:318 | "Fifty-eight names, eleven years old, out of a hall book with no addresses in it." Mr Hw.. |
-| 531 | b2ch87:330 | "Twelve posts went in the second week of April and Hwang wrote every one of them into th.. |
-| 531 | b2ch87:332 | "And Hwang." |
-| 531 | b2ch87:354 | "It went in a box." His hands had not moved. "Class one, the permanent series, thirty ye.. |
-| 590 | b2ch89:100 | Mr Hwang has been at the fifty-eight since the fifteenth of March. |
-
-### Zahlen in der Naehe von Mr Hwang
-
-- `b2ch07:30` (Tag 166) - three
-- `b2ch10:230` (Tag 172) - one
-- `b2ch20:20` (Tag 213) - three
-- `b2ch20:54` (Tag 213) - three
-- `b2ch20:62` (Tag 213) - five, three
-- `b2ch20:128` (Tag 213) - eight, one
-- `b2ch20:140` (Tag 213) - one
-- `b2ch20:152` (Tag 213) - fourteen
-- `b2ch20:162` (Tag 213) - three
-- `b2ch20:204` (Tag 213) - twenty
-- `b2ch20:230` (Tag 213) - fifteen
-- `b2ch20:246` (Tag 213) - five, four, twenty
-- `b2ch25:468` (Tag 236) - four
-- `b2ch26:28` (Tag 237) - two
-- `b2ch26:50` (Tag 237) - one
-- `b2ch26:76` (Tag 237) - eleven, one, twelve
-- `b2ch26:122` (Tag 237) - twenty-three
-- `b2ch26:132` (Tag 237) - four
-- `b2ch26:136` (Tag 237) - two
-- `b2ch26:164` (Tag 237) - one, twenty
-- `b2ch26:170` (Tag 237) - one, two
-- `b2ch26:214` (Tag 237) - one
-- `b2ch26:268` (Tag 237) - one
-- `b2ch27:204` (Tag 238) - six hundred and forty
-- `b2ch30:262` (Tag 242) - five
-- `b2ch31:10` (Tag 243) - two
-- `b2ch31:138` (Tag 243) - one
-- `b2ch32:166` (Tag 244) - one
-- `b2ch35:340` (Tag 255) - six, three
-- `b2ch40:144` (Tag 273) - seven, six, three
-- `b2ch40:152` (Tag 273) - one, six
-- `b2ch51:162` (Tag 307) - four, one, thirty
-- `b2ch58:126` (Tag 371) - one
-- `b2ch58:142` (Tag 371) - four, one
-- `b2ch58:228` (Tag 371) - one
-- `b2ch59:10` (Tag 377) - nine, two
-- `b2ch59:14` (Tag 377) - nineteen, twenty, two
-- `b2ch59:26` (Tag 377) - nine, six
-- `b2ch59:38` (Tag 377) - four, nine, one
-- `b2ch59:84` (Tag 377) - four, three
-- `b2ch59:98` (Tag 377) - fourteen
-- `b2ch59:122` (Tag 377) - two
-- `b2ch59:140` (Tag 377) - four hundred and eighty-one million, two
-- `b2ch59:168` (Tag 377) - eleven
-- `b2ch59:178` (Tag 377) - one
-- `b2ch60:174` (Tag 384) - nine, seven, six hundred, twenty
-- `b2ch62:6` (Tag 386) - nine
-- `b2ch62:32` (Tag 386) - four, one
-- `b2ch62:40` (Tag 386) - four
-- `b2ch63:6` (Tag 389) - eleven, four, twenty
-- `b2ch63:58` (Tag 390) - one
-- `b2ch63:160` (Tag 390) - four, three
-- `b2ch79:124` (Tag 466) - seven, six, three
-- `b2ch83:10` (Tag 510) - four
-- `b2ch83:28` (Tag 510) - four, two
-- `b2ch83:48` (Tag 510) - one, thirty
-- `b2ch83:86` (Tag 510) - two
-- `b2ch83:102` (Tag 510) - eleven, one, three, two
-- `b2ch83:106` (Tag 510) - forty-one, twenty
-- `b2ch83:114` (Tag 510) - fourteen, nineteen, one, six hundred and forty, two
-- `b2ch83:150` (Tag 510) - four
-- `b2ch83:158` (Tag 510) - one
-- `b2ch83:164` (Tag 510) - one
-- `b2ch83:228` (Tag 514) - four
-- `b2ch83:276` (Tag 514) - twelve
-- `b2ch83:318` (Tag 514) - eleven, fifty-eight, four hundred and sixty
-- `b2ch87:330` (Tag 531) - eleven, one, twelve
-- `b2ch87:354` (Tag 531) - four, nineteen, one, thirty
-- `b2ch89:100` (Tag 590) - fifty-eight
 
 ---
 
@@ -4147,7 +4153,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 328 | b2ch57:90 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
 | 371 | b2ch58:226 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
 | 377 | b2ch59:56 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
-| 377 | b2ch59:242 | *Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks.. |
+| 377 | b2ch59:278 | *Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks.. |
 | 385 | b2ch61:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
 | 385 | b2ch61:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
 | 395 | b2ch64:96 | Ahn Jung-hee did not say anything. |
@@ -4183,7 +4189,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:90` (Tag 328) - four, nine, thirty-five
 - `b2ch58:226` (Tag 371) - eleven, six
 - `b2ch59:56` (Tag 377) - four, nine, thirty-five
-- `b2ch59:242` (Tag 377) - eleven, nine, six, ten
+- `b2ch59:278` (Tag 377) - eleven, nine, six, ten
 - `b2ch61:82` (Tag 385) - four, thirty-five
 - `b2ch61:92` (Tag 385) - eleven, forty
 - `b2ch64:104` (Tag 395) - four, one
@@ -4883,7 +4889,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|
 | 371 | b2ch58:222 | "Moon Hae-sook." |
 | 371 | b2ch58:224 | "Moon Hae-sook. Say it in one sentence and use the word." |
-| 377 | b2ch59:154 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
+| 377 | b2ch59:190 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
 | 382 | b2ch60:88 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
 | 404 | b2ch67:74 | Nobody has told Moon Hae-sook that they are there. |
 | 404 | b2ch67:86 | Moon Hae-sook is fifty-two. |
@@ -4900,7 +4906,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Moon Hae-sook
 
 - `b2ch58:224` (Tag 371) - one
-- `b2ch59:154` (Tag 377) - eleven, four
+- `b2ch59:190` (Tag 377) - eleven, four
 - `b2ch60:88` (Tag 382) - eleven, three
 - `b2ch67:86` (Tag 404) - fifty-two
 - `b2ch67:238` (Tag 409) - one
