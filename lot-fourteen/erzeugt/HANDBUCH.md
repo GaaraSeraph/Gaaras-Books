@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 300.725 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 300.783 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -636,7 +636,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 329.332 Woerter.**
+**123 Kapitel, 329.506 Woerter.**
 
 ---
 
@@ -24378,7 +24378,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chairman Woo | 229 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
-| Mr Hwang | 150 | 24 (b2ch07-b2ch89) | 166 | 590 |
+| Mr Hwang | 152 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
 | Sim | 130 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
@@ -25159,11 +25159,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 384 | b2ch60:184 | Annie looked at him for a moment longer than the answer needed. |
 | 384 | b2ch60:212 | Annie looked at him for slightly longer than she needed to. |
 | 389 | b2ch63:8 | Annie wrote her name on the fourth page at eight o'clock at the desk in the small room, .. |
-| 390 | b2ch63:162 | "They took the first number," said Annie. |
-| 390 | b2ch63:198 | Annie came away from the window. |
-| 390 | b2ch63:220 | Annie stood with both hands on the back of the reading chair. |
-| 390 | b2ch63:234 | "Refuse it," said Annie. |
-| 390 | b2ch63:242 | "Then he learns it." Annie did not blink. "I have paid four hundred and eighty-one milli.. |
+| 390 | b2ch63:182 | "They took the first number," said Annie. |
+| 390 | b2ch63:218 | Annie came away from the window. |
+| 390 | b2ch63:240 | Annie stood with both hands on the back of the reading chair. |
+| 390 | b2ch63:254 | "Refuse it," said Annie. |
+| 390 | b2ch63:262 | "Then he learns it." Annie did not blink. "I have paid four hundred and eighty-one milli.. |
 | 395 | b2ch64:174 | Annie was not on the step and was not in the hall and had given an instruction about it .. |
 | 395 | b2ch64:184 | Annie was at the desk and had not done anything all day, which he could see from the top.. |
 | 395 | b2ch64:190 | Annie looked at the window and not at him. |
@@ -25493,7 +25493,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch58:162` (Tag 371) - eight
 - `b2ch58:204` (Tag 371) - four hundred and eighty-one million, one, three, twenty
 - `b2ch63:8` (Tag 389) - eight, one
-- `b2ch63:242` (Tag 390) - four hundred and eighty-one million
+- `b2ch63:262` (Tag 390) - four hundred and eighty-one million
 - `b2ch64:200` (Tag 395) - one
 - `b2ch65:24` (Tag 397) - fifty, ten, twenty
 - `b2ch65:162` (Tag 397) - two
@@ -26751,8 +26751,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 290 | b2ch45:28 | "I have had three weeks and I have an answer, and it is not the one you asked me for." G.. |
 | 290 | b2ch45:52 | "That is what Jang said, in those words, and he made me repeat it back to him before he .. |
 | 319 | b2ch54:102 | The twentieth of July. Jang's rota and Jang's grocery numbers, in his own hand, four lin.. |
-| 391 | b2ch63:280 | Jang was at the far end of it with his coat still on. He had come in at eight with the S.. |
-| 391 | b2ch63:284 | "Eleven at the house." Jang did not move. "Then I want the Sunday. I want to drive that .. |
+| 391 | b2ch63:300 | Jang was at the far end of it with his coat still on. He had come in at eight with the S.. |
+| 391 | b2ch63:304 | "Eleven at the house." Jang did not move. "Then I want the Sunday. I want to drive that .. |
 | 394 | b2ch64:6 | Jang drove the road on the Sunday in daylight, twice, once each way, with nobody in the .. |
 | 395 | b2ch64:28 | Jang drove. Mrs Jeon sat in the front, because she said so and because nobody argued. Ge.. |
 | 395 | b2ch64:44 | The house is a long way up and the last part of it is what Jang said it was. |
@@ -26848,8 +26848,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch45:28` (Tag 290) - eight, eleven, one, three
 - `b2ch45:52` (Tag 290) - four, one
 - `b2ch54:102` (Tag 319) - four
-- `b2ch63:280` (Tag 391) - eight
-- `b2ch63:284` (Tag 391) - eleven
+- `b2ch63:300` (Tag 391) - eight
+- `b2ch63:304` (Tag 391) - eleven
 - `b2ch64:140` (Tag 395) - four
 - `b2ch64:146` (Tag 395) - four, two
 - `b2ch64:152` (Tag 395) - four
@@ -26863,7 +26863,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-150 Nennungen in 24 Kapiteln.
+152 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -26981,10 +26981,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 390 | b2ch63:100 | "Because the work is not nursing. The work is nursing somebody who is not on any paper.".. |
 | 390 | b2ch63:108 | "He used the one he already had because she was inside it already. That is the whole of .. |
 | 390 | b2ch63:114 | "What he did in February four years ago," said Mr Hwang. "It took seven weeks that time,.. |
-| 390 | b2ch63:120 | "Walks out of his house on the second of November and becomes somebody else's arrangemen.. |
-| 390 | b2ch63:128 | "He thinks she is going into another house," said Mr Hwang. |
-| 390 | b2ch63:134 | "The form is a way of getting rid of her without ever having to mention her to anybody.".. |
-| 390 | b2ch63:246 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
+| 390 | b2ch63:124 | "Then you have already done it and you would like me to say it out loud, and I am going .. |
+| 390 | b2ch63:130 | "There is nobody in this trade who has ever been shown a return like that," said Mr Hwan.. |
+| 390 | b2ch63:136 | "Walks out of his house on the second of November and becomes somebody else's arrangemen.. |
+| 390 | b2ch63:144 | "He thinks she is going into another house," said Mr Hwang. |
+| 390 | b2ch63:150 | "The form is a way of getting rid of her without ever having to mention her to anybody.".. |
+| 390 | b2ch63:266 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
 | 395 | b2ch64:66 | The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. T.. |
 | 466 | b2ch79:124 | **H.** A late August, three years after that. Half past seven. Six weeks before Mr Hwang.. |
 | 510 | b2ch83:10 | The plate by the entrance came down in October and the four screw holes are still there,.. |
@@ -27080,9 +27082,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch63:100` (Tag 390) - eleven
 - `b2ch63:108` (Tag 390) - one
 - `b2ch63:114` (Tag 390) - four, seven
-- `b2ch63:120` (Tag 390) - one
-- `b2ch63:134` (Tag 390) - one
-- `b2ch63:246` (Tag 390) - four, three
+- `b2ch63:124` (Tag 390) - eight, four
+- `b2ch63:136` (Tag 390) - one
+- `b2ch63:150` (Tag 390) - one
+- `b2ch63:266` (Tag 390) - four, three
 - `b2ch79:124` (Tag 466) - seven, six, three
 - `b2ch83:10` (Tag 510) - four
 - `b2ch83:28` (Tag 510) - four, two
@@ -27410,8 +27413,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 328 | b2ch57:270 | "You will not like the last of it," said Sim, "and I am going to give it to you anyway." |
 | 328 | b2ch57:286 | "I said I would telephone on the fourteenth of September, because that is when a man tel.. |
 | 371 | b2ch58:252 | *The last time I built a sentence for a man over four days it was for Sim. I took it apa.. |
-| 390 | b2ch63:222 | "That is what he did to Sim for eleven years," she said. |
-| 390 | b2ch63:224 | "That is what he did to Sim for eleven years, and Sim has spent eight weeks trying to fi.. |
+| 390 | b2ch63:242 | "That is what he did to Sim for eleven years," she said. |
+| 390 | b2ch63:244 | "That is what he did to Sim for eleven years, and Sim has spent eight weeks trying to fi.. |
 | 400 | b2ch66:220 | The Yeouido file was read. The registry work does not move until Monday. Sim is not to b.. |
 | 437 | b2ch70:6 | Sim telephoned at twenty past four from a box, which is where he telephones from now, an.. |
 | 437 | b2ch70:14 | "You are not going to ask me how I know who it was, and you are right not to, and I am g.. |
@@ -27502,8 +27505,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:256` (Tag 328) - four, nineteen
 - `b2ch57:264` (Tag 328) - four
 - `b2ch58:252` (Tag 371) - four, two
-- `b2ch63:222` (Tag 390) - eleven
-- `b2ch63:224` (Tag 390) - eight, eleven, one
+- `b2ch63:242` (Tag 390) - eleven
+- `b2ch63:244` (Tag 390) - eight, eleven, one
 - `b2ch70:6` (Tag 437) - four, twenty
 - `b2ch70:14` (Tag 437) - eleven, five, forty, one
 - `b2ch70:24` (Tag 437) - four
@@ -27606,7 +27609,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 385 | b2ch61:162 | "Then yes," said Mrs Jeon. |
 | 385 | b2ch61:178 | "I said it to her on the ninth," said Mrs Jeon. "In the corridor, badly, on a Friday, wi.. |
 | 385 | b2ch61:194 | "I told you that on the eleventh of September, about a flat in Incheon, and it was a dif.. |
-| 391 | b2ch63:258 | "The day of the week," said Mrs Jeon. |
+| 391 | b2ch63:278 | "The day of the week," said Mrs Jeon. |
 | 394 | b2ch64:14 | Mrs Jeon came up from Gwangyang on the Sunday afternoon and did not stay in the house. |
 | 395 | b2ch64:28 | Jang drove. Mrs Jeon sat in the front, because she said so and because nobody argued. Ge.. |
 | 395 | b2ch64:60 | Mrs Jeon got out, and Jang stayed at the wheel with the engine running, which they had a.. |
@@ -27837,7 +27840,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 388 | b2ch62:174 | Mr Ahn put one hand flat on the bench beside the paper. |
 | 388 | b2ch62:180 | "I want to say the thing I am not going to be able to say afterwards," said Mr Ahn, "and.. |
 | 388 | b2ch62:200 | Mr Ahn nodded once. |
-| 390 | b2ch63:202 | "On the twenty-sixth Mr Ahn said that whoever is in the car has about four minutes." Geo.. |
+| 390 | b2ch63:222 | "On the twenty-sixth Mr Ahn said that whoever is in the car has about four minutes." Geo.. |
 | 395 | b2ch64:30 | Mr Ahn was not in the car. |
 | 460 | b2ch76:14 | "You will want to hear something and it is good," said Mr Ahn. |
 | 460 | b2ch76:30 | "It came in the post on Monday and I read it four times standing in that doorway." Mr Ah.. |
@@ -27875,7 +27878,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch62:136` (Tag 388) - one
 - `b2ch62:174` (Tag 388) - one
 - `b2ch62:180` (Tag 388) - eleven
-- `b2ch63:202` (Tag 390) - four, three, twenty
+- `b2ch63:222` (Tag 390) - four, three, twenty
 - `b2ch76:30` (Tag 460) - four
 - `b2ch76:42` (Tag 460) - one
 - `b2ch76:332` (Tag 463) - four
@@ -29264,7 +29267,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 371 | b2ch58:224 | "Moon Hae-sook. Say it in one sentence and use the word." |
 | 377 | b2ch59:190 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
 | 382 | b2ch60:88 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
-| 390 | b2ch63:140 | *The hole is that somebody who has every reason to talk has known everything about Moon .. |
+| 390 | b2ch63:156 | *The hole is that somebody who has every reason to talk has known everything about Moon .. |
 | 404 | b2ch67:74 | Nobody has told Moon Hae-sook that they are there. |
 | 404 | b2ch67:86 | Moon Hae-sook is fifty-two. |
 | 404 | b2ch67:162 | Nobody told Moon Hae-sook that it had been done. She noticed on the Sunday and did not s.. |
@@ -29282,7 +29285,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch58:224` (Tag 371) - one
 - `b2ch59:190` (Tag 377) - eleven, four
 - `b2ch60:88` (Tag 382) - eleven, three
-- `b2ch63:140` (Tag 390) - three
+- `b2ch63:156` (Tag 390) - three
 - `b2ch67:86` (Tag 404) - fifty-two
 - `b2ch67:238` (Tag 409) - one
 - `b2ch74:220` (Tag 451) - eleven, four, one

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 228.772 Woerter.
+Book Two, 89 Kapitel, 228.943 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.13 | 3.218 |
+| 63 | v1.14 | 3.389 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -13797,7 +13797,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13891,6 +13891,18 @@ Georgij had gone very still.
 
 "What he did in February four years ago," said Mr Hwang. "It took seven weeks that time, and he was not hurrying, and there was a house on the river to get it from."
 
+"Sixty-one million four hundred thousand," said Georgij.
+
+"You have that from the brother."
+
+"To the won."
+
+"Then you have already done it and you would like me to say it out loud, and I am going to, because you will do it wrong on your own and make it smaller." Mr Hwang did not look up from the sheet. "You have paid him about eight times what she cost him. He has had four years of her work in between and he did not pay for that either."
+
+Georgij did not say anything at all.
+
+"There is nobody in this trade who has ever been shown a return like that," said Mr Hwang, "and you showed it to a man who buys people. I would rather you heard that this afternoon than worked it out in about a fortnight."
+
 "And the thing that could end him."
 
 "Walks out of his house on the second of November and becomes somebody else's arrangement." Mr Hwang looked up then. "He did not ask who the buyer was and he did not ask what she wanted her for. Nobody in that trade asks. The answer everybody assumes is the ordinary one."
@@ -13917,7 +13929,11 @@ Georgij did not say anything for a moment.
 
 *He will not hire a nurse. He will get another one.*
 
-*The house on the river is finished, which makes it slower and does not make it stop, and I have handed him four hundred and eighty-one million to do it with.*
+*Sixty-one million four hundred thousand in February four years ago. Four hundred and eighty-one this afternoon, and four years of her in between for nothing.*
+
+*I have not only paid for the next one. I have shown him what the last one was worth.*
+
+*The house on the river is finished, which makes it slower and does not make it stop.*
 
 *Get the second one out before he does.*
 
