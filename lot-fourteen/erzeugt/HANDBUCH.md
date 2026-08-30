@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.921 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 306.037 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -18666,7 +18666,10 @@ Vorbilder geben ihm recht - bei Choi sitzt die toedliche Guidance-Bitte
 spaet (`b2 ch86:506`), bei Sang-hoon kommt *Please guide me* als zweite
 Bitte (`b1 ch33:138`). **Und die Burnt-Zeile ist zurueck, vom Autor:** sie
 fuettert den Brennholz-Schluss, und *I did enough of it* kalibriert sie
-danach exakt.
+danach exakt. **Und sie wird leise wuetend gesprochen und nicht
+berichtet:** die Stimme geht nicht hoch, sondern auf dem letzten Wort
+herunter. Das ist die einzige Stelle in drei Baenden, an der man ihm etwas
+anhoert.
 
 ---
 
@@ -18686,7 +18689,7 @@ When the folders were closed, he spoke.
 
 "Every one of them had pointed something at her. So I burnt them to the ground."
 
-Georgij did not raise his voice anywhere in it.
+His voice did not go up anywhere in it. It went down on the last word, and that is the only part of the morning he had not decided on beforehand.
 
 "I did not do all of that myself. I did enough of it."
 
@@ -24881,9 +24884,15 @@ Vernichtungsbescheinigungen. **Wer das gelesen hat, braucht das Wort nicht
 mehr, und genau deshalb kann sie mit *too* antworten, ohne dass es je
 gefallen ist.**
 
-**Und in Band 3 wird es einmal laut**, vor Zeugen, in einem Raum, an einen
-Fremden gerichtet, und Georgij merkt nicht, dass er es tut, weil es wie ein
-Bericht ueber getane Arbeit klingt.
+**Und in Band 3 wird es einmal hoerbar**, vor Zeugen, in einem Raum, an einen
+Fremden gerichtet, und **nicht als Bericht**. Die Stimme geht nirgends hoch.
+Sie geht auf dem letzten Wort herunter, und das ist die einzige Stelle in
+drei Baenden, an der man ihm etwas anhoert.
+
+**Er ist wuetend, und zwar leise.** Ein Mann, der ueber getane Arbeit
+berichtet, sagt nicht *So I burnt them to the ground*, sondern was verkauft
+wurde und an wen. **Das *So* ist der Verrat:** es macht aus einer Liste eine
+Begruendung, und die Begruendung ist sie.
 
 ### Was verworfen ist
 
@@ -25849,7 +25858,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch89:238 | Annie's hand did not move. |
 | 590 | b2ch89:256 | "Then say the rest of it," said Annie. |
 | 590 | b2ch89:286 | Annie did not say anything. |
-| 590 | b2ch89:366 | Annie put her hand back into his hair. |
+| 590 | b2ch89:362 | Annie put her hand back into his hair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -27101,7 +27110,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch78:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 | 464 | b2ch78:264 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:334 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
+| 590 | b2ch89:330 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -27171,7 +27180,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch78:264` (Tag 464) - thirty
 - `b2ch87:428` (Tag 531) - five, one, three
-- `b2ch89:334` (Tag 590) - eight hundred, five, four
+- `b2ch89:330` (Tag 590) - eight hundred, five, four
 
 ---
 
@@ -28353,7 +28362,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
 | 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
-| 590 | b2ch89:384 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
+| 590 | b2ch89:380 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -28392,7 +28401,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:442` (Tag 531) - one
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
-- `b2ch89:384` (Tag 590) - four, thirty, thirty-one, two
+- `b2ch89:380` (Tag 590) - four, thirty, thirty-one, two
 
 ---
 

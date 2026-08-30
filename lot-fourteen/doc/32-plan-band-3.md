@@ -1681,7 +1681,10 @@ Vorbilder geben ihm recht - bei Choi sitzt die toedliche Guidance-Bitte
 spaet (`b2 ch86:506`), bei Sang-hoon kommt *Please guide me* als zweite
 Bitte (`b1 ch33:138`). **Und die Burnt-Zeile ist zurueck, vom Autor:** sie
 fuettert den Brennholz-Schluss, und *I did enough of it* kalibriert sie
-danach exakt.
+danach exakt. **Und sie wird leise wuetend gesprochen und nicht
+berichtet:** die Stimme geht nicht hoch, sondern auf dem letzten Wort
+herunter. Das ist die einzige Stelle in drei Baenden, an der man ihm etwas
+anhoert.
 
 ---
 
@@ -1701,7 +1704,7 @@ When the folders were closed, he spoke.
 
 "Every one of them had pointed something at her. So I burnt them to the ground."
 
-Georgij did not raise his voice anywhere in it.
+His voice did not go up anywhere in it. It went down on the last word, and that is the only part of the morning he had not decided on beforehand.
 
 "I did not do all of that myself. I did enough of it."
 

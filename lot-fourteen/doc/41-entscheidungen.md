@@ -1199,9 +1199,15 @@ Vernichtungsbescheinigungen. **Wer das gelesen hat, braucht das Wort nicht
 mehr, und genau deshalb kann sie mit *too* antworten, ohne dass es je
 gefallen ist.**
 
-**Und in Band 3 wird es einmal laut**, vor Zeugen, in einem Raum, an einen
-Fremden gerichtet, und Georgij merkt nicht, dass er es tut, weil es wie ein
-Bericht ueber getane Arbeit klingt.
+**Und in Band 3 wird es einmal hoerbar**, vor Zeugen, in einem Raum, an einen
+Fremden gerichtet, und **nicht als Bericht**. Die Stimme geht nirgends hoch.
+Sie geht auf dem letzten Wort herunter, und das ist die einzige Stelle in
+drei Baenden, an der man ihm etwas anhoert.
+
+**Er ist wuetend, und zwar leise.** Ein Mann, der ueber getane Arbeit
+berichtet, sagt nicht *So I burnt them to the ground*, sondern was verkauft
+wurde und an wen. **Das *So* ist der Verrat:** es macht aus einer Liste eine
+Begruendung, und die Begruendung ist sie.
 
 ### Was verworfen ist
 

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.860 Woerter.
+Book Two, 89 Kapitel, 231.854 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 86 | v3.23 | 3.901 |
 | 87 | v3.22 | 4.129 |
 | 88 | v3.6 | 3.285 |
-| 89 | v3.5 | 2.937 |
+| 89 | v3.6 | 2.931 |
 
 ---
 
@@ -20463,7 +20463,7 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.5 · EN
+*Lot Fourteen* · Version 3.6 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20692,8 +20692,6 @@ The house did the things a house does at half past nine, and one of them, since 
 She did not look away and she did not fill it and she did not make it smaller.
 
 * * *
-
-He went round the desk.
 
 She took her hand off the arm of the chair and held it out to him.
 

@@ -17,3 +17,6 @@ desktop.ini
 # build.py importiert reader.py, seither legt Python hier Bytecode ab.
 __pycache__/
 *.pyc
+
+# Arbeitslisten einer Sitzung, nicht Kanon
+*/.arbeit/
