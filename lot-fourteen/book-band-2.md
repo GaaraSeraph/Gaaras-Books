@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.681 Woerter.
+Book Two, 89 Kapitel, 231.822 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.23 | 3.901 |
-| 87 | v3.20 | 3.986 |
+| 87 | v3.21 | 4.127 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
 
@@ -19723,7 +19723,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.20 · EN
+*Lot Fourteen* · Version 3.21 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -20023,11 +20023,21 @@ Annie did not move.
 
 "There is a line in a permanent series with your name on it and his beside it and a number between the two, and it went into the sequence in November." He did not soften any of it. "It cannot be sealed and it cannot be withdrawn. The man who wrote the clause did not write an application for either."
 
-"Then it stands."
+"You told me in October what that man meant to do about it." Annie had not moved either. "And I told you in October what a thing a man means to do is worth."
 
-"It went in a box." His hands had not moved. "Class one, the permanent series, thirty years and the renumbering, nineteen boxes, against a schedule, to a firm in Siheung with a weighbridge. Hwang took the second cheapest of four quotations because the cheapest did not offer a certificate. The personnel files went last, on the fourth of March, because there are people in them who are alive."
+"You did."
 
-"And the date."
+"Then say what it is worth in March."
+
+"It went on the twenty-fifth of February and it took him four seconds to sign for it." His hands had not moved. "Class one, the permanent series, thirty years and the renumbering, nineteen boxes, against a schedule, to a firm in Siheung with a weighbridge. Hwang took the second cheapest of four quotations because the cheapest did not offer a certificate. The personnel files went last, on the fourth of March, because there are people in them who are alive."
+
+Annie sat with that for a moment.
+
+"And it exists on paper."
+
+"A certificate came by post on the Friday. It gives the date, the class, the weight in kilogrammes, the method and a reference number. It gives no lot and no name, because a certificate of destruction is a document about paper and not about what was on it." He did not move. "It has been in my inside pocket since the first of March and it was in it this evening."
+
+"And who was told."
 
 "Printed on the second page of the wind-up notice and sent in October to every buyer that house ever had. Six hundred and forty of them. Two asked a question in nineteen weeks, and neither of the two was about you."
 
