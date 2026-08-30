@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.502 Woerter.
+Book Two, 89 Kapitel, 231.521 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.23 | 3.901 |
-| 87 | v3.16 | 3.807 |
+| 87 | v3.17 | 3.826 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
 
@@ -19723,7 +19723,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.16 · EN
+*Lot Fourteen* · Version 3.17 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19735,9 +19735,9 @@ They were so that twenty-six people would have eleven minutes in a room with the
 
 Georgij came back into the dining room at twenty to ten by the door at the near end and stood where he had stood before.
 
-Nobody was eating.
+Twenty-two people at that table had stopped eating and not one of them had decided to.
 
-Four people were. They are the ones who came late and sat on the far side and have been talking to each other about a berth all evening, and they went on eating and it did not matter.
+The four who came late were on the far side and had been talking about a berth all evening. They went on with their food and noticed nothing, and they are the only four who were in that room and were not in it.
 
 * * *
 
