@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 301.480 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 301.941 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -150,6 +150,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was offen bleibt](#was-offen-bleibt)
   - [Die beiden Faelle im Buch](#die-beiden-faelle-im-buch)
   - [Was die Regel fuer das Schreiben heisst](#was-die-regel-fuer-das-schreiben-heisst)
+  - [Wer die Klassen setzt, und was mit jeder passiert](#wer-die-klassen-setzt-und-was-mit-jeder-passiert)
+  - [Warum trotzdem sechshundertvierzig Leute Archiv lesen](#warum-trotzdem-sechshundertvierzig-leute-archiv-lesen)
 - [Kalender](#kalender)  ·  `doc/15-kalender.md`
   - [Die Regel, aufgestellt und geprueft am 29.08.: das Format sagt, welche Generation gilt](#die-regel-aufgestellt-und-geprueft-am-29-08-das-format-sagt-welche-generation-gilt)
   - [Das Jahr](#das-jahr)
@@ -7929,6 +7931,61 @@ gewaehlt. Der Fonds entscheidet um den 22. **Am 15. wusste er nichts**, und am
 einzuholen dauert laenger als fuenf Tage bis zu Annies Unterschrift.
 
 **Wer daran spaeter etwas verschiebt, prueft zuerst diese drei Szenen.**
+
+### Wer die Klassen setzt, und was mit jeder passiert
+
+**Hwang schreibt den Plan selber, und das ist der ganze Hebel.** `b2 ch83:52`:
+*"I have read it and I would like it from you, because **you wrote it** and you
+are the only man alive who knows what it does not cover."* Dasselbe noch einmal
+an anderer Stelle, ueber die zwoelf Stellen: *"Hwang wrote every one of them
+into the schedule himself, and he has never once said that it was not his
+doing"* (`b2 ch87:330`).
+
+**Die vier Klassen, aus `b2 ch83:56` bis `62`:**
+
+| Klasse | Was | Wohin, und wann |
+|---|---|---|
+| **eins** | die dauerhafte Reihe, dreissig Jahre und die Umnummerierung | **neunzehn Kisten**, 25. Februar |
+| **zwei** | die Abrechnungsbuecher | **schon weg**: 20. Mai im Vorjahr, in einer Lagereinheit eines Fonds, **nachtraeglich derselben Anweisung unterstellt** |
+| **drei** | Schriftverkehr | nach Plan |
+| **vier** | die Personalakten | **zuletzt, am 4. Maerz**, *"because there are people in them who are alive"* |
+
+**Und was mit einer Akte tatsaechlich geschieht, entscheidet kein Mensch,
+sondern ein Formular** (`b2 ch83:36` bis `44`):
+
+* **Eine Aufbewahrungsfrist laeuft ab dem Datum auf dem Einlieferungsschein**,
+  und **niemand macht eine Kiste auf, um nachzusehen, ob das Papier darin aus
+  dem Jahr ist.** *"Opening it is a week of somebody's time. The form is
+  free."*
+* **Eine Kiste geht, wenn ihr Schein sagt, dass sie geht.**
+* **Eine Kiste mit dem falschen Jahr geht zu frueh, und niemand hat etwas
+  getan, und es gibt niemanden, dem man etwas getan haette.**
+* **Eine Kiste, auf die gar nichts geschrieben wurde, steht in dem Raum, bis
+  das Gebaeude abgerissen wird.**
+
+**Deshalb kein Archiv.** *"That is the ordinary kind of carelessness, and it is
+the only kind there is, and it is why I am not sending thirty years of this
+house to a room where a stranger reads a form... **A weighbridge does not read
+anything.**"*
+
+### Warum trotzdem sechshundertvierzig Leute Archiv lesen
+
+**Weil Plan und Verfahren zwei verschiedene Papiere sind, und nur eines davon
+oeffentlich ist.**
+
+**Der Plan wird im Oktober veroeffentlicht** und geht als Anlage der
+Abwicklungsanzeige an jeden Kaeufer, den das Haus je hatte. **Er nennt Klassen
+und Daten.** `b2 ch83:92`: ***"The second page gives a date and it does not give
+a method."***
+
+**Das Verfahren ist Hwangs eigene Anweisung und steht nirgends.** `b2 ch83:96`:
+*"because I have not said otherwise to anybody, **including the fund**."*
+
+**Damit loest sich die enge Stelle von oben ganz auf:** Hwang konnte im Oktober
+Klassen und Daten schreiben und trotzdem *"an archive or a successor"* sagen,
+**weil die Klasse nicht sagt, was am Ende mit dem Papier geschieht.** Und
+`b2 ch83:272` sagt es in vier Woertern: ***"That a schedule is not a
+decision."***
 
 ---
 
