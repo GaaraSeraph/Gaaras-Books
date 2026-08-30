@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 301.160 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 301.480 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -636,7 +636,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 330.018 Woerter.**
+**123 Kapitel, 330.196 Woerter.**
 
 ---
 
@@ -7887,6 +7887,48 @@ Regel ueberhaupt etwas bedeutet.
 55. **Der Trust wurde vor elf Jahren gegruendet** und steht **sowohl** hinter dem Pflegeheim bei Wonju **als auch** hinter der erloschenen Arztzulassung. Einmal gebaut, zweimal benutzt.
 
 ---
+
+## Was Hwang wann ueber das Register sagt, und was er nicht sagt
+
+**Festgelegt am 30.08., weil die Erinnerung zwei Sachen mischt.** Es sind zwei
+getrennte Auskuenfte, und nur die erste kommt im Oktober.
+
+**1. Wann die Reihe aufhoert: gesagt, ohne Datum, mit Zusage.**
+
+`b2 ch59:112`, 15. Oktober: *"it exists until somebody signs it over to an
+archive or to a successor... a fund is in no hurry, and nobody has told me the
+morning."* Georgij bittet: *"I would like it before the envelope."* Hwang sagt
+zu: *"On the day I have it."*
+
+**Bezahlt am 22. Oktober, 7:20** (`b2 ch60:174`), und Georgij sagt Annie dabei,
+warum der Anruf kam: *because I asked him in that room to be the first call and
+not the six hundred and fortieth envelope.*
+
+**2. Was mit dem Papier geschieht: bis Februar nicht gesagt.**
+
+**Bis `b2 ch83` sagt niemand vernichten.** Alle sagen Archiv, und Hwang sagt
+es auch. Was er am 22. Oktober durchgibt, ist das Ende des Hauses und nicht
+das Schicksal der Akten: *This house holds nothing after the twenty-fifth of
+February.*
+
+**Warum das so bleiben muss, und es sind drei Sachen:**
+
+* **Annies Szene am 22. Oktober** hat als Gegenstand die Furcht, dass in neun
+  Jahren jemand die Zeile liest. **Eingestampftes Papier hat keine neun
+  Jahre**, und die Szene verliert ihren Grund.
+* **Ihre Unterschrift am 27. Oktober** ist bezahlt mit dem Wissen, dass ihr
+  Name lesbar bleibt.
+* **`b2 ch86:194`**: Choi droht mit dem Archiv, waehrend Georgij die
+  Bescheinigung in der Innentasche hat und sie nicht herausholt.
+
+**3. Die enge Stelle, geprueft und haltbar.**
+
+`b2 ch83:28` sagt, Hwang habe die Firma **im Oktober** aus vier Angeboten
+gewaehlt. Der Fonds entscheidet um den 22. **Am 15. wusste er nichts**, und am
+22. wusste er, **dass** geraeumt wird und nicht **wie**. Vier Angebote
+einzuholen dauert laenger als fuenf Tage bis zu Annies Unterschrift.
+
+**Wer daran spaeter etwas verschiebt, prueft zuerst diese drei Szenen.**
 
 ---
 
