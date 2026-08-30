@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.667 Woerter.
+Book Two, 89 Kapitel, 231.681 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.23 | 3.901 |
-| 87 | v3.19 | 3.972 |
+| 87 | v3.20 | 3.986 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
 
@@ -19723,7 +19723,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.19 · EN
+*Lot Fourteen* · Version 3.20 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19865,7 +19865,7 @@ The dinner went on until twenty past eleven.
 
 That is the part nobody would believe and it is the part that matters.
 
-Twenty-six people stayed for an hour and a half after he had gone, and they were given coffee. Four of them asked for the telephone and were shown to it. Mrs Seo put a second pot out at half past ten because they were still there.
+Twenty-six people stayed for an hour and a half after he had gone, and they were given coffee. Four of them went out into the hall at different times to make a call, and not one of the four made it from the table. Mrs Seo put a second pot out at half past ten because they were still there.
 
 * * *
 

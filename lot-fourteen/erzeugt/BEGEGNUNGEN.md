@@ -3002,7 +3002,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:12` (Tag 531) - eight, two
 - `b2ch86:456` (Tag 531) - eleven, four, sixty
 - `b2ch87:44` (Tag 531) - ten
-- `b2ch87:188` (Tag 531) - four, ten, twenty-six
+- `b2ch87:188` (Tag 531) - four, one, ten, twenty-six
 
 ---
 
