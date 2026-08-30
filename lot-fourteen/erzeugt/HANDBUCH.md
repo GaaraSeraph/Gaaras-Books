@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.670 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.921 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -544,6 +544,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Annie geht auf Woos Satz mit keinem Wort ein](#annie-geht-auf-woos-satz-mit-keinem-wort-ein)
   - [Die Zeile](#die-zeile)
   - [Warum sie es ist](#warum-sie-es-ist)
+  - [Warum das *too* kein Sprung ist](#warum-das-too-kein-sprung-ist)
   - [Was verworfen ist](#was-verworfen-ist)
   - [Regel](#regel)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
@@ -24853,6 +24854,36 @@ mehr steht. **Er wird ihn nicht am selben Abend neu anlegen.**
 
 **4. Und sie hat lange gebraucht**, im Satz und im Buch: *She did not say
 anything for a long time.* Zwei Baende, fuenfhundertneunzig Erzaehltage.
+
+### Warum das *too* kein Sprung ist
+
+**Vom Autor am 30.08.:** *"er hat es sehr sehr sehr ausdruecklich zwischen den
+Zeilen gesagt. fuer wen sonst brennt man komplett nieder."*
+
+**Das ist die Auskunft, die den ganzen Satz traegt.** Die erste Person steht
+diesem Mann nicht zur Verfuegung. Er sagt nichts Unwahres, er nennt ueber
+sich keine Zahlen, er besitzt nichts, und in zwei Baenden gibt es keinen
+Satz, in dem er sagt, was er fuehlt. **Also konjugiert er es in Verben.**
+
+**Die Liste ist der Text, und sie ist nicht kurz:** eine Frau in Ulsan mit
+vier Lastwagen, ein Auktionshaus, das dreissig Jahre an dem Fluss stand, ein
+Staatsanwalt, der fuenfundzwanzig Jahre lang entschieden hat, wer mit wem zu
+Abend isst, sechs Firmen an einer Fahrspur, ein Haus mit dreissig Jahren
+Register darin, neunzehn Kisten ueber eine Brueckenwaage.
+
+**Und der einzige gemeinsame Nenner steht in der Rede an Han Il-hwan
+(`doc/32`):** *"Every one of them had pointed something at her. **So I burnt
+them to the ground.**"*
+
+**Damit ist die Erklaerung in Band 1 bis 2 vollstaendig abgegeben, nur nicht
+in der ersten Person.** Sie steht als Handlung da, in Terminen, Betraegen und
+Vernichtungsbescheinigungen. **Wer das gelesen hat, braucht das Wort nicht
+mehr, und genau deshalb kann sie mit *too* antworten, ohne dass es je
+gefallen ist.**
+
+**Und in Band 3 wird es einmal laut**, vor Zeugen, in einem Raum, an einen
+Fremden gerichtet, und Georgij merkt nicht, dass er es tut, weil es wie ein
+Bericht ueber getane Arbeit klingt.
 
 ### Was verworfen ist
 
