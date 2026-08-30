@@ -1128,61 +1128,66 @@ fuer dieselbe Sache laufen auseinander. Genau das ist passiert.
 
 ## Annies vier Woerter am Ende von Band 2
 
-**Vom Autor am 30.08. verlangt:** *"welche 4 Woerter? ich als Autor will das
-erfahren."*
+**Vom Autor am 30.08. verlangt und vom Autor entschieden.** Sie stehen nicht
+im Buch und werden nie darin stehen. `b2 ch89:370`: *She did not say anything
+for a long time, and then she said four words, and they are not in this book
+because he has not written them down and is not going to.*
 
-**Sie stehen nicht im Buch und werden nie darin stehen.** `b2 ch89:370`: *She
-did not say anything for a long time, and then she said four words, and they
-are not in this book because he has not written them down and is not going
-to.* **Hier stehen sie, damit der Autor sie kennt und damit niemand sie
-spaeter anders erfindet.**
+**Hier stehen sie, damit der Autor sie kennt und damit niemand sie spaeter
+anders erfindet.**
 
 ### Die Zeile
 
-> **"I would again, Georgij."**
+> **"I love you, too."**
 
-### Woran sie geprueft ist
+### Warum sie es ist
 
-**1. Sie muss auf den Satz davor antworten, und der ist der haerteste im
-Band.** *"You are such a beautiful, strong woman," said Georgij. "Thank you
-for buying me."* Und die Erzaehlzeile darunter laesst keinen Zweifel, wovon
-geredet wird: er sagt es zu einer Frau, die im Fruehjahr wegen eines Mannes
-in einer Wohnung im achten Stock telefoniert hat, **und er weiss, was er
-sagt. Not although. Because.**
+**1. Das Wort kommt in zwei Baenden kein einziges Mal vor.** Gegenprobe am
+30.08. gelaufen, ueber `chapters/` und `chapters-2/`: **null Treffer.** Die
+einzige Verwendung im ganzen Werk ist also genau der Satz, den das Buch nicht
+druckt.
 
-**Sie antwortet nicht mit Trost und nicht mit Widerspruch. Sie antwortet mit
-demselben Mut.**
+**2. Das ganze Gewicht liegt auf dem letzten Wort.** *Too* antwortet auf
+etwas, das er **nicht gesagt hat.** Er hat gesagt: *"You are such a
+beautiful, strong woman. Thank you for buying me."*
 
-**2. Und sie besteht die Probe, die der Text selbst aufstellt.** Die Frage ist
-nicht, was sie sagt, sondern **warum er es nicht aufschreibt** - er schreibt
-alles auf, vier Woerter ueber Mr Ok, vier Woerter im Wagen auf der Rampe.
+**Das ist die Erklaerung, und sie ist als Dank getarnt, und sie ist der
+groesste Satz, den dieser Mann in zwei Baenden ueber sich selbst sagt.** Er
+sagt nie etwas Unwahres und fast nie etwas ueber sich; also sagt er es so,
+dass es nur ein Mensch auf der Welt hoeren kann. **Sie hoert es. Das *too*
+ist der Beweis, dass sie es gehoert hat.**
 
-**Weil dieser eine Satz auf Papier ein Gestaendnis waere.** Das *again* deckt
-beides ab, den Kauf und den Anruf, und beide wissen das, waehrend es gesagt
-wird. **In einem Kapitel, das damit endet, dass neunzehn Kisten ueber eine
-Brueckenwaage gegangen sind, ist der einzige verbliebene Eintrag der in
-seinem Kopf, und er legt ihn nicht an.**
+**3. Und damit besteht sie die Probe, die der Text selbst aufstellt.** Die
+Frage ist nicht, was sie sagt, sondern **warum er es nicht aufschreibt.**
 
-**3. Sie ist in ihrem Register.** Kurz, flach, keine Verkuerzung, Punkt am
-Ende. Und sie spricht ihn mit Namen an, was sie im ganzen Buch tut, wenn es
-ernst ist (`b2 ch06:236`, `b2 ch09:268`, `b2 ch12:200`, `b2 ch45:238`).
+**Alles in diesem Heft ist ueber andere Leute.** Vierhundertdreissig Namen,
+vier Woerter ueber Mr Ok, Daten, Eintraege, Zusagen mit Faelligkeit. **Jede
+einzelne Zeile darin war irgendwann zu gebrauchen.** Dieser Satz ist der
+erste in zwei Baenden, der zu gar nichts zu gebrauchen ist, und der einzige,
+der niemanden betrifft ausser den beiden.
 
-**4. Und sie reiht sich in das Vierwortmotiv ein**, das quer durch beide
-Baende laeuft: *He is not eating.* (`b2 ch85`), *she walked out alone.*
-(`b2 ch64:154`), die vier Woerter des Angestellten im Korridor (`b2 ch77`),
-die vier Woerter am Ende von Woos Brief (`b2 ch89:150`).
+**Ein Heft ist ausserdem ein Gegenstand, den jemand aufheben kann.** Er hat
+gerade ein ganzes Haus vernichten lassen, damit ein Satz ueber sie nirgends
+mehr steht. **Er wird ihn nicht am selben Abend neu anlegen.**
 
-### Zwei Fassungen, die verworfen sind, und warum
+**4. Und sie hat lange gebraucht**, im Satz und im Buch: *She did not say
+anything for a long time.* Zwei Baende, fuenfhundertneunzig Erzaehltage.
 
-* **"Thank you for staying."** Schoen, und sie faellt an der Probe durch:
-  **es gibt keinen Grund, das nicht aufzuschreiben.** Ausserdem macht es sie
-  dankbar, und das verschiebt die Machtlage am letzten Abend des Bandes.
-* **"I am glad, Georgij."** Reimt sich auf Mrs Seos Ritualsatz an der Tuer
-  (`b2 ch87`), was sehr schoen waere. **Faellt an derselben Probe durch.**
+### Was verworfen ist
+
+**Mein Vorschlag war "I would again, Georgij."** Er bestand die
+Aufschreibprobe, weil das *again* Kauf und Anruf zugleich abdeckt und auf
+Papier ein Gestaendnis waere. **Er ist trotzdem falsch: er macht die letzte
+Zeile des Bandes zu einer Sache ueber Choi.** Die Szene handelt von den
+beiden.
+
+**Ebenfalls verworfen:** *"Thank you for staying."* und *"I am glad,
+Georgij."* Beide fallen an der Aufschreibprobe durch, weil es keinen Grund
+gaebe, sie nicht zu notieren.
 
 ### Regel
 
-**Sie duerfen nie gedruckt werden, auch nicht in einem spaeteren Band.** Der
-Satz wirkt, weil der Leser weiss, dass es ihn gibt, und nicht, weil er ihn
-kennt. **Wer sie einmal hinschreibt, macht aus dem Einzigen, was nicht
-aktenkundig ist, eine Akte.**
+**Sie duerfen nie gedruckt werden, auch nicht in Band 3 bis 6.** Der Satz
+wirkt, weil der Leser weiss, dass es ihn gibt, und nicht, weil er ihn kennt.
+**Und das Wort bleibt im ganzen Werk ungedruckt.** Wer es einmal hinschreibt,
+macht aus dem Einzigen, was nicht aktenkundig ist, eine Akte.
