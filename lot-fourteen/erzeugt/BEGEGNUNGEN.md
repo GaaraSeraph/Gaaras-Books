@@ -19,7 +19,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 865 | 92 (b1ch01-b2ch89) | 1 | 590 |
-| Park Sang-hoon | 303 | 46 (b1ch10-b2ch89) | 22 | 590 |
+| Park Sang-hoon | 304 | 46 (b1ch10-b2ch89) | 22 | 590 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
@@ -27,7 +27,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
 | Sim | 133 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 82 | 20 (b1ch07-b2ch89) | 22 | 590 |
+| Choi Dae-ho | 83 | 20 (b1ch07-b2ch89) | 22 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Baek | 60 | 13 (b1ch05-b2ch81) | 6 | 493 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -919,20 +919,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch85:148 | Annie was at one end and she is very good at it and she has done it since she was twenty.. |
 | 531 | b2ch85:250 | Annie did not look down the table once in two hours. |
 | 531 | b2ch87:10 | They were so that twenty-six people would have eleven minutes in a room with the twenty-.. |
-| 531 | b2ch87:166 | Mr Koh left first and left at ten past ten, and he went to Annie and thanked her for the.. |
-| 531 | b2ch87:200 | The four who came late left at a quarter past eleven and thanked Annie for a very good e.. |
-| 531 | b2ch87:290 | Annie was in the study at midnight with the lamp on and the door open, which it is not a.. |
-| 531 | b2ch87:300 | Annie looked at him for a moment. |
-| 531 | b2ch87:342 | "So there is nothing left pointed at me," said Annie. |
-| 531 | b2ch87:348 | Annie did not move. |
-| 531 | b2ch87:366 | Annie looked up. |
-| 531 | b2ch87:372 | Annie did not say anything for a moment. |
-| 531 | b2ch87:386 | "No," said Annie. "You are not." |
-| 531 | b2ch87:404 | Annie sat with that. |
-| 531 | b2ch87:412 | Annie did not say anything. |
-| 531 | b2ch87:430 | Annie did not take any time over it. |
-| 531 | b2ch87:454 | "There is one line in what you gave me about that room and you put nothing round it." An.. |
-| 531 | b2ch87:474 | "That is the second time you have done that this year," said Annie. "I have counted both." |
+| 531 | b2ch87:192 | Mr Koh left first and left at ten past ten, and he went to Annie and thanked her for the.. |
+| 531 | b2ch87:226 | The four who came late left at a quarter past eleven and thanked Annie for a very good e.. |
+| 531 | b2ch87:316 | Annie was in the study at midnight with the lamp on and the door open, which it is not a.. |
+| 531 | b2ch87:326 | Annie looked at him for a moment. |
+| 531 | b2ch87:368 | "So there is nothing left pointed at me," said Annie. |
+| 531 | b2ch87:374 | Annie did not move. |
+| 531 | b2ch87:392 | Annie looked up. |
+| 531 | b2ch87:398 | Annie did not say anything for a moment. |
+| 531 | b2ch87:412 | "No," said Annie. "You are not." |
+| 531 | b2ch87:430 | Annie sat with that. |
+| 531 | b2ch87:438 | Annie did not say anything. |
+| 531 | b2ch87:456 | Annie did not take any time over it. |
+| 531 | b2ch87:480 | "There is one line in what you gave me about that room and you put nothing round it." An.. |
+| 531 | b2ch87:500 | "That is the second time you have done that this year," said Annie. "I have counted both." |
 | 590 | b2ch89:88 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
 | 590 | b2ch89:194 | He noticed at about the fourth week that it had gone past a month, and he did not do any.. |
 | 590 | b2ch89:212 | "You have not slept since the eighteenth," said Annie. |
@@ -1178,16 +1178,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch85:148` (Tag 531) - one, twenty-six
 - `b2ch85:250` (Tag 531) - two
 - `b2ch87:10` (Tag 531) - eleven, twenty, twenty-six
-- `b2ch87:166` (Tag 531) - ten
-- `b2ch87:200` (Tag 531) - eleven, four, two
-- `b2ch87:454` (Tag 531) - one
+- `b2ch87:192` (Tag 531) - ten
+- `b2ch87:226` (Tag 531) - eleven, four, two
+- `b2ch87:480` (Tag 531) - one
 - `b2ch89:88` (Tag 590) - four
 
 ---
 
 ## Park Sang-hoon
 
-303 Nennungen in 46 Kapiteln.
+304 Nennungen in 46 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1490,9 +1490,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 517 | b2ch84:20 | "Mr Koh. Mr Im. Mr Ok. Chairman Woo. And Park Sang-hoon." |
 | 531 | b2ch85:124 | Sang-hoon was by the window with two other men and did not turn round. |
 | 531 | b2ch85:284 | One of them was Park Sang-hoon, who had not said a word to him all evening. |
-| 531 | b2ch87:180 | Park Sang-hoon left last of the men and left at eleven. |
-| 531 | b2ch87:196 | "Do not say anything," said Sang-hoon. "I have had ten months of you not saying things a.. |
-| 531 | b2ch87:384 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
+| 531 | b2ch87:128 | Park Sang-hoon was on the aisle at the last of the tables and he did not get up for it. |
+| 531 | b2ch87:206 | Park Sang-hoon left last of the men and left at eleven. |
+| 531 | b2ch87:222 | "Do not say anything," said Sang-hoon. "I have had ten months of you not saying things a.. |
+| 531 | b2ch87:410 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:26 | Park Sang-hoon has heard nothing in the trade, and he has asked in three places and he d.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -1631,9 +1632,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:238` (Tag 466) - four, one, twenty
 - `b2ch85:124` (Tag 531) - two
 - `b2ch85:284` (Tag 531) - one
-- `b2ch87:180` (Tag 531) - eleven
-- `b2ch87:196` (Tag 531) - ten
-- `b2ch87:384` (Tag 531) - five, one, three
+- `b2ch87:206` (Tag 531) - eleven
+- `b2ch87:222` (Tag 531) - ten
+- `b2ch87:410` (Tag 531) - five, one, three
 - `b2ch89:26` (Tag 590) - three
 
 ---
@@ -1874,9 +1875,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 517 | b2ch84:20 | "Mr Koh. Mr Im. Mr Ok. Chairman Woo. And Park Sang-hoon." |
 | 531 | b2ch85:130 | Chairman Woo sat down at half past seven and did not get up again, and four people came .. |
 | 531 | b2ch85:254 | She talked to Chairman Woo and to a woman from a firm in Busan and to a man who has an i.. |
-| 531 | b2ch87:174 | Chairman Woo went at half past ten and Mr Ku took him, because his own driver had gone a.. |
-| 531 | b2ch87:334 | "Yeongjong. The office at the end of the shed, keeping the books of a terminal that has .. |
-| 531 | b2ch87:384 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
+| 531 | b2ch87:200 | Chairman Woo went at half past ten and Mr Ku took him, because his own driver had gone a.. |
+| 531 | b2ch87:360 | "Yeongjong. The office at the end of the shed, keeping the books of a terminal that has .. |
+| 531 | b2ch87:410 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:28 | Chairman Woo telephoned once, in April, and asked one question and rang off, and the que.. |
 
 ### Zahlen in der Naehe von Chairman Woo
@@ -2009,9 +2010,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch82:188` (Tag 500) - one
 - `b2ch82:260` (Tag 500) - four, twenty-five
 - `b2ch85:130` (Tag 531) - four, seven
-- `b2ch87:174` (Tag 531) - nine, one, ten
-- `b2ch87:334` (Tag 531) - one, thirty, two
-- `b2ch87:384` (Tag 531) - five, one, three
+- `b2ch87:200` (Tag 531) - nine, one, ten
+- `b2ch87:360` (Tag 531) - one, thirty, two
+- `b2ch87:410` (Tag 531) - five, one, three
 - `b2ch89:28` (Tag 590) - one
 
 ---
@@ -2189,7 +2190,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 257 | b2ch36:82 | "Liking is a different register and I have not had much use for it. It has happened thre.. |
 | 464 | b2ch78:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 | 464 | b2ch78:264 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
-| 531 | b2ch87:384 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
+| 531 | b2ch87:410 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:334 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
 
 ### Zahlen in der Naehe von Hana
@@ -2259,7 +2260,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:82` (Tag 257) - one, three
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch78:264` (Tag 464) - thirty
-- `b2ch87:384` (Tag 531) - five, one, three
+- `b2ch87:410` (Tag 531) - five, one, three
 - `b2ch89:334` (Tag 590) - eight hundred, five, four
 
 ---
@@ -2678,9 +2679,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 514 | b2ch83:288 | Mr Hwang stood very still. |
 | 514 | b2ch83:294 | "No," said Mr Hwang. "I did not think you would." |
 | 514 | b2ch83:318 | "Fifty-eight names, eleven years old, out of a hall book with no addresses in it." Mr Hw.. |
-| 531 | b2ch87:330 | "Twelve posts went in the second week of April and Hwang wrote every one of them into th.. |
-| 531 | b2ch87:332 | "And Hwang." |
-| 531 | b2ch87:354 | "It went in a box." His hands had not moved. "Class one, the permanent series, thirty ye.. |
+| 531 | b2ch87:356 | "Twelve posts went in the second week of April and Hwang wrote every one of them into th.. |
+| 531 | b2ch87:358 | "And Hwang." |
+| 531 | b2ch87:380 | "It went in a box." His hands had not moved. "Class one, the permanent series, thirty ye.. |
 | 590 | b2ch89:110 | Mr Hwang has been at the fifty-eight since the fifteenth of March. |
 
 ### Zahlen in der Naehe von Mr Hwang
@@ -2769,8 +2770,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch83:228` (Tag 514) - four
 - `b2ch83:276` (Tag 514) - twelve
 - `b2ch83:318` (Tag 514) - eleven, fifty-eight, four hundred and sixty
-- `b2ch87:330` (Tag 531) - eleven, one, twelve
-- `b2ch87:354` (Tag 531) - four, nineteen, one, thirty
+- `b2ch87:356` (Tag 531) - eleven, one, twelve
+- `b2ch87:380` (Tag 531) - four, nineteen, one, thirty
 - `b2ch89:110` (Tag 590) - fifty-eight
 
 ---
@@ -2908,17 +2909,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch85:74 | Mrs Seo took it over her arm and said good evening and told him where the room was. |
 | 531 | b2ch85:88 | Mrs Seo did not say anything back. She said the number of the room again and stepped asi.. |
 | 531 | b2ch85:264 | At half past nine Mrs Seo came into the room by the door at the far end. |
-| 531 | b2ch85:322 | Mrs Seo was coming back up it. |
-| 531 | b2ch85:334 | "He asked me on the way whether I had been in this house long," said Mrs Seo, "and I sai.. |
-| 531 | b2ch85:348 | "No," said Mrs Seo. "I am going to go and see about the second sitting, and in about a y.. |
+| 531 | b2ch85:312 | Mrs Seo was coming back up it. |
+| 531 | b2ch85:324 | "He asked me on the way whether I had been in this house long," said Mrs Seo, "and I sai.. |
+| 531 | b2ch85:338 | "No," said Mrs Seo. "I am going to go and see about the second sitting, and in about a y.. |
 | 531 | b2ch86:12 | It was not what had gone down the long table at eight. Georgij had asked Mrs Seo in the .. |
 | 531 | b2ch86:456 | Behind him, in a small room at the end of it, a man of sixty stood at a window and looke.. |
 | 531 | b2ch87:44 | At ten to ten Mrs Seo went down the passage. |
-| 531 | b2ch87:128 | In the hall Mrs Seo had his coat over her arm before he was through the door. |
-| 531 | b2ch87:134 | "I am glad, sir," said Mrs Seo. |
-| 531 | b2ch87:162 | Twenty-six people stayed for an hour and a half after he had gone, and they were given c.. |
-| 531 | b2ch87:214 | She came out into the hall on her own and Mrs Seo brought her coat, and she put it on an.. |
-| 531 | b2ch87:284 | Mrs Seo came through with a tray and did not stop. |
+| 531 | b2ch87:154 | In the hall Mrs Seo had his coat over her arm before he was through the door. |
+| 531 | b2ch87:160 | "I am glad, sir," said Mrs Seo. |
+| 531 | b2ch87:188 | Twenty-six people stayed for an hour and a half after he had gone, and they were given c.. |
+| 531 | b2ch87:240 | She came out into the hall on her own and Mrs Seo brought her coat, and she put it on an.. |
+| 531 | b2ch87:310 | Mrs Seo came through with a tray and did not stop. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -2997,11 +2998,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch85:58` (Tag 531) - six
 - `b2ch85:88` (Tag 531) - two
 - `b2ch85:264` (Tag 531) - nine
-- `b2ch85:334` (Tag 531) - nine
+- `b2ch85:324` (Tag 531) - nine
 - `b2ch86:12` (Tag 531) - eight, two
 - `b2ch86:456` (Tag 531) - eleven, four, sixty
 - `b2ch87:44` (Tag 531) - ten
-- `b2ch87:162` (Tag 531) - four, ten, twenty-six
+- `b2ch87:188` (Tag 531) - four, ten, twenty-six
 
 ---
 
@@ -3355,7 +3356,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Choi Dae-ho
 
-82 Nennungen in 20 Kapiteln.
+83 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3391,7 +3392,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch85:202 | Georgij watched Choi Dae-ho watch it. |
 | 531 | b2ch85:234 | And at twenty past nine Choi Dae-ho picked up a fork, and put a piece of something on it.. |
 | 531 | b2ch85:276 | Choi Dae-ho put his napkin on the table beside his plate and got up. |
-| 531 | b2ch85:298 | Choi Dae-ho stopped with one hand on the back of his own chair. |
+| 531 | b2ch85:294 | Choi Dae-ho answered him and smiled. |
 | 531 | b2ch86:18 | Choi Dae-ho was standing at the window with his back to the door and he turned round bef.. |
 | 531 | b2ch86:30 | There were two places at that table and Choi Dae-ho did not look at either of them. It i.. |
 | 531 | b2ch86:32 | "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been a.. |
@@ -3438,7 +3439,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch86:422 | Choi Dae-ho did not have an answer. |
 | 531 | b2ch86:442 | At the door there was one thing and it was Choi Dae-ho's, and Georgij heard it with his .. |
 | 531 | b2ch87:54 | Choi Dae-ho walked the length of that dining room to get to the hall. |
-| 531 | b2ch87:266 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
+| 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
+| 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
 | 590 | b2ch89:384 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 
@@ -3463,7 +3465,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch85:106` (Tag 531) - nine
 - `b2ch85:138` (Tag 531) - eight, eleven, fifty, five, four, one, six, two
 - `b2ch85:234` (Tag 531) - nine, twenty
-- `b2ch85:298` (Tag 531) - one
 - `b2ch86:30` (Tag 531) - two
 - `b2ch86:40` (Tag 531) - four
 - `b2ch86:120` (Tag 531) - two
@@ -3478,7 +3479,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:362` (Tag 531) - two
 - `b2ch86:404` (Tag 531) - four, nine, one, twenty-five, twenty-six
 - `b2ch86:442` (Tag 531) - one
-- `b2ch87:266` (Tag 531) - eight, three
+- `b2ch87:138` (Tag 531) - eleven
+- `b2ch87:292` (Tag 531) - eight, three
 - `b2ch89:384` (Tag 590) - four, thirty, thirty-one, two
 
 ---
@@ -3756,7 +3758,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 441 | b2ch72:88 | The first was a man of her own age who has since died, and who changed the subject by lo.. |
 | 441 | b2ch72:96 | *She was at the fitting. Mrs Sunwoo has written the word fitting and then written it aga.. |
 | 441 | b2ch72:112 | Mrs Sunwoo did not know that when she wrote the pages, because the pages are nine years .. |
-| 531 | b2ch87:384 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
+| 531 | b2ch87:410 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 573 | b2ch88:14 | Mrs Sunwoo was in the same chair, and there is a folder on the low table that was not th.. |
 | 573 | b2ch88:42 | Mrs Sunwoo listened to the whole of it with her hands on the arms of the chair and did n.. |
 | 573 | b2ch88:50 | "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, .. |
@@ -3794,7 +3796,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:62` (Tag 441) - eleven
 - `b2ch72:96` (Tag 441) - nine
 - `b2ch72:112` (Tag 441) - nine, twenty
-- `b2ch87:384` (Tag 531) - five, one, three
+- `b2ch87:410` (Tag 531) - five, one, three
 - `b2ch88:50` (Tag 573) - fifty
 - `b2ch88:386` (Tag 578) - one
 
@@ -3861,7 +3863,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 307 | b2ch51:212 | "Change *supply* to *furnish*," said Mr Yeom. |
 | 313 | b2ch52:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 313 | b2ch52:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
-| 531 | b2ch87:384 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
+| 531 | b2ch87:410 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:132 | Mr Yeom read the folders. |
 
 ### Zahlen in der Naehe von Mr Yeo
@@ -3891,7 +3893,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch51:198` (Tag 307) - four, nine
 - `b2ch52:6` (Tag 313) - three, two
 - `b2ch52:136` (Tag 313) - four, seven
-- `b2ch87:384` (Tag 531) - five, one, three
+- `b2ch87:410` (Tag 531) - five, one, three
 
 ---
 
@@ -3952,7 +3954,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 307 | b2ch51:212 | "Change *supply* to *furnish*," said Mr Yeom. |
 | 313 | b2ch52:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 313 | b2ch52:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
-| 531 | b2ch87:384 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
+| 531 | b2ch87:410 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:132 | Mr Yeom read the folders. |
 
 ### Zahlen in der Naehe von Mr Yeom
@@ -3978,7 +3980,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch51:198` (Tag 307) - four, nine
 - `b2ch52:6` (Tag 313) - three, two
 - `b2ch52:136` (Tag 313) - four, seven
-- `b2ch87:384` (Tag 531) - five, one, three
+- `b2ch87:410` (Tag 531) - five, one, three
 
 ---
 
@@ -4175,9 +4177,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 517 | b2ch84:30 | "Nam Byung-hee answered on the fifth of January," said Georgij. "She telephoned this hou.. |
 | 531 | b2ch85:56 | Nam Byung-hee came at four minutes to eight and she came on the train and she had been i.. |
 | 531 | b2ch87:88 | Nam Byung-hee was on the near side, on the aisle, and she had been placed there on the M.. |
-| 531 | b2ch87:210 | Nam Byung-hee left at twenty past eleven and she was the last. |
-| 531 | b2ch87:236 | Nam Byung-hee stood in the hall of a house on the river with her coat open. |
-| 531 | b2ch87:254 | "I want my firm," said Nam Byung-hee. "I am not going to get it, and there is nobody in .. |
+| 531 | b2ch87:236 | Nam Byung-hee left at twenty past eleven and she was the last. |
+| 531 | b2ch87:262 | Nam Byung-hee stood in the hall of a house on the river with her coat open. |
+| 531 | b2ch87:280 | "I want my firm," said Nam Byung-hee. "I am not going to get it, and there is nobody in .. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
 
@@ -4202,7 +4204,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch84:30` (Tag 517) - nine, one
 - `b2ch85:56` (Tag 531) - eight, four, two
 - `b2ch87:88` (Tag 531) - four
-- `b2ch87:210` (Tag 531) - eleven, twenty
+- `b2ch87:236` (Tag 531) - eleven, twenty
 
 ---
 
@@ -4388,8 +4390,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 404 | b2ch67:52 | She said one thing in the car, and Mr Ku reported it because he reports what he is asked.. |
 | 404 | b2ch67:58 | Mr Ku said that he had not known what to say to that and had said nothing, and that he h.. |
 | 500 | b2ch82:92 | Mr Ku had them there at four minutes to ten. |
-| 531 | b2ch87:174 | Chairman Woo went at half past ten and Mr Ku took him, because his own driver had gone a.. |
-| 531 | b2ch87:276 | Mr Ku took her to the station. |
+| 531 | b2ch87:200 | Chairman Woo went at half past ten and Mr Ku took him, because his own driver had gone a.. |
+| 531 | b2ch87:302 | Mr Ku took her to the station. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -4411,7 +4413,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch67:48` (Tag 404) - six
 - `b2ch67:52` (Tag 404) - one
 - `b2ch82:92` (Tag 500) - four, ten
-- `b2ch87:174` (Tag 531) - nine, one, ten
+- `b2ch87:200` (Tag 531) - nine, one, ten
 
 ---
 
@@ -4725,7 +4727,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch85:166 | Mr Im was talking to a man from a shipping firm in Incheon about nothing at all, and the.. |
 | 531 | b2ch85:168 | And Mr Im said that his firm had gone in the two years after a dinner in Cheongdam on th.. |
 | 531 | b2ch85:180 | He did not say anything for about four seconds. Then he asked Mr Im which restaurant it .. |
-| 531 | b2ch87:170 | Mr Im stayed until eleven and left with the man from the shipping firm in Incheon, and t.. |
+| 531 | b2ch87:196 | Mr Im stayed until eleven and left with the man from the shipping firm in Incheon, and t.. |
 
 ### Zahlen in der Naehe von Mr Im
 
@@ -4741,7 +4743,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:320` (Tag 453) - one, ten
 - `b2ch85:168` (Tag 531) - six, two
 - `b2ch85:180` (Tag 531) - four
-- `b2ch87:170` (Tag 531) - eleven, six, two
+- `b2ch87:196` (Tag 531) - eleven, six, two
 
 ---
 
@@ -4775,7 +4777,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 453 | b2ch75:310 | *Koh, two, in September. Im, two, in January. And a man in Mullae kept a diary for that .. |
 | 517 | b2ch84:20 | "Mr Koh. Mr Im. Mr Ok. Chairman Woo. And Park Sang-hoon." |
 | 531 | b2ch85:52 | Mr Koh came at eight minutes to and was the only one who came with something, which was .. |
-| 531 | b2ch87:166 | Mr Koh left first and left at ten past ten, and he went to Annie and thanked her for the.. |
+| 531 | b2ch87:192 | Mr Koh left first and left at ten past ten, and he went to Annie and thanked her for the.. |
 
 ### Zahlen in der Naehe von Mr Koh
 
@@ -4789,7 +4791,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:280` (Tag 453) - nine, one, two
 - `b2ch75:310` (Tag 453) - two
 - `b2ch85:52` (Tag 531) - eight, one
-- `b2ch87:166` (Tag 531) - ten
+- `b2ch87:192` (Tag 531) - ten
 
 ---
 

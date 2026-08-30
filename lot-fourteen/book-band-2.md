@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.605 Woerter.
+Book Two, 89 Kapitel, 231.687 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -95,9 +95,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 82 | v1.3 | 2.814 |
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
-| 85 | v3.4 | 2.677 |
+| 85 | v3.3 | 2.593 |
 | 86 | v3.23 | 3.901 |
-| 87 | v3.17 | 3.826 |
+| 87 | v3.18 | 3.992 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
 
@@ -18989,7 +18989,7 @@ Annie folded the list along its own crease and put it in the drawer that locks.
 ---
 
 # Book Two · Chapter 85: Twenty-seven
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19213,15 +19213,9 @@ He lowered his voice for it, and nobody else in that room lowered theirs once.
 
 "I made an offer in this house in December. Two billion two hundred million, and it was refused, and I have been working out how far under I was ever since." He did not get up for any of it. "You are going to do the same arithmetic before you get to your car, and you are going to get a worse answer than I did."
 
-"So how much would you say I should have offered."
+Choi Dae-ho answered him and smiled.
 
-Choi Dae-ho stopped with one hand on the back of his own chair.
-
-"Nothing I am able to afford," he said.
-
-It is the only true thing he said out loud in that room all evening. He said it to a man he does not like, in front of two people who were looking, about somebody who was standing eleven feet away and heard it.
-
-Then he smiled, and there was nothing wrong with the smile at all, and he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
+Then he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
 
 Nobody watched him go.
 
@@ -19729,7 +19723,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.17 · EN
+*Lot Fourteen* · Version 3.18 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19779,7 +19773,7 @@ It is eleven metres and there were twenty-six people in it, and he did it at the
 
 They looked at him.
 
-Not one of them said anything.
+Not one of them said anything, and one of them was going to.
 
 Eleven of them had said good evening to him between five past eight and the gong. Four of them had shaken his hand. A man from a firm in Ulsan that moves grain had talked to him for six minutes about a road.
 
@@ -19826,6 +19820,22 @@ He did not hurry and he did not slow. There is nothing in it that anybody at tha
 What changed is that he stopped reading the room.
 
 For six metres a man who has read every room he has been in since 2002 went on reading that one. Then he stopped, and he did the last five looking at the door.
+
+Park Sang-hoon was on the aisle at the last of the tables and he did not get up for it.
+
+"So how much would you say I should have offered."
+
+There was nothing in his voice at all. It is the question he has been carrying since December and he asked it the way he would have asked it in December, and eleven people heard him do it.
+
+Choi Dae-ho stopped, which he had not done in eleven metres.
+
+"Nothing I am able to afford," he said.
+
+Georgij was at the near end of the room with his hands where they could be seen.
+
+It is the last thing that man said in that house to anybody but a housekeeper, and he said it to somebody who had bid and lost, about somebody standing eleven feet away, and it is true.
+
+Then he did the rest of it and did not look at anybody.
 
 * * *
 
