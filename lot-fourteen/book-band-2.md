@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 228.323 Woerter.
+Book Two, 89 Kapitel, 228.598 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.11 | 2.769 |
+| 63 | v1.12 | 3.044 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -13797,7 +13797,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13869,6 +13869,24 @@ Georgij did not move at all.
 
 "Then he has told the man in Seoul that the one thing that man has protected for eleven years has been sitting at a kitchen table with a prisoner, and that he did it to save a wage." Mr Hwang turned the sheet back over. "He does not lose a fee. He is finished, and he has been finished since the spring four years ago and has not had to think about it, because nobody has ever asked him a question about that house."
 
+"Then say the arithmetic he did in the night," said Georgij. "Because I have been sitting here telling myself I took his nurse away from him."
+
+"You did. And then you handed him ten years of one." Mr Hwang did not hurry it. "Four hundred and eighty-one million buys a woman in that valley to do that work for about a decade, and he was going to have to find one by about March in any case."
+
+"So he is ahead."
+
+"He is ahead on the money, he is ahead on the risk, and the fee has not moved." He turned one hand over. "He sold the one who was doing it for nothing and he can buy the one who will do it for a wage, and there is a great deal left over."
+
+"And the thing that could end him."
+
+"Walks out of his house on the second of November and becomes somebody else's arrangement." Mr Hwang looked up then. "He did not ask who the buyer was and he did not ask what she wanted her for. Nobody in that trade asks. The answer everybody assumes is the ordinary one."
+
+Georgij did not say anything for a moment.
+
+"He thinks she is going into another house."
+
+"He thinks she is going into another house," said Mr Hwang.
+
 "So the form is not a purchase," said Georgij.
 
 "The form is a way of getting rid of her without ever having to mention her to anybody." Mr Hwang looked at him properly. "You did not take the decision away from him. You offered a man the disposal of the one thing that could end him, and you had it paid for, and you never said a word to him."
@@ -13881,7 +13899,9 @@ Georgij did not move at all.
 
 *I did not threaten him and I never spoke to him. I found the sentence he cannot say out loud and put a form on his desk that let him not say it.*
 
-*And when she comes out of that building there is nobody left in it who knows how to look after the other one.*
+*He signed it because he believed we are the same as him. There was no version of that form that could have told him otherwise, and I did not want one, and her name is on it in her own hand.*
+
+*And when she comes out on the second there is nobody left in that building who knows how to look after the other one, and he will not have anybody in place for weeks.*
 
 *I have known that since Tuesday and I signed anyway. There is one version in which that is not the worst thing I have done this year, and it has a date on it, and the date is before Christmas.*
 
