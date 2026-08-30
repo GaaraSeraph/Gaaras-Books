@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 307.325 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 308.170 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -584,13 +584,13 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Moon Hae-sook](#moon-hae-sook)
   - [Mr Pyo](#mr-pyo)
   - [Mr Sohn](#mr-sohn)
+  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Bae](#bae)
   - [Eun-ju](#eun-ju)
   - [Mr Noh](#mr-noh)
   - [Mrs Jeon Mi-ja](#mrs-jeon-mi-ja)
   - [Chef Bang](#chef-bang)
   - [Minister Min-ho](#minister-min-ho)
-  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Mrs Ahn](#mrs-ahn)
   - [Mrs Uhm](#mrs-uhm)
   - [Tae-min](#tae-min)
@@ -646,7 +646,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**124 Kapitel, 334.713 Woerter.**
+**125 Kapitel, 336.913 Woerter.**
 
 ---
 
@@ -1802,7 +1802,7 @@ die beim Planen zaehlt.
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
 | **Minister Min-ho** | **Der Minister.** Ueber Choi mit Sang-hoon verbunden | Der Preis | B1 - | Ruht |
 | **Han Il-hwan** | **Der Hanseong-Erbe.** Aeltester Sohn, vier Generationen, hat nie etwas gebaut. **Nicht Mr Han, der Fahrer von Mrs Gwak** | Verliert in Band 3 alles Profitable und bleibt als Titel sitzen | B3 geplant | **Gegner 2 von Band 3** |
-| **Gong Doo-hyun** | **Der Oberstaatsanwalt.** Chois Freund von der Universitaet, geblieben, jetzt oben | Fuehrt aus Hass eine Akte und faellt an ihr | B3 geplant | **Gegner 1 von Band 3.** Sein Nachfolger ist Georgijs Mann |
+| **Gong Doo-hyun** | **Der Oberstaatsanwalt.** Chois Freund von der Universitaet, geblieben, jetzt oben | Fuehrt aus Hass eine Akte und faellt an ihr | **B3 1 (genannt), B3 2 (erster Auftritt)** | **Gegner 1 von Band 3.** Sein Nachfolger ist Georgijs Mann. **Er stellt keine einzige Frage** - `b3 ch02` |
 
 ### Der Feldzug in Band 2
 
@@ -8096,6 +8096,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **frueheres Kapitel 90** | 415 | So 22. November 2026 |
 | **Band 2, Kapitel 89** - Bandende | 590 | So **16. Mai 2027** |
 | **Band 3, Kapitel 1** | 592 | Di **18. Mai 2027** |
+| **Band 3, Kapitel 2** - der neunundvierzigste Tag | 600 | Mi **26. Mai 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -20813,6 +20814,69 @@ him.* Der Brief ging am 8. Februar hinaus. Choi war am 8. April tot. **Jetzt
 liegt auf derselben Schreibtischecke eine Karte mit Georgijs Namen darauf, in
 einer Handschrift, die er nicht kennt.**
 
+## Was `b3 ch02` festlegt, geschrieben am 30.08.
+
+**Der Ritus ist Tag 600, Mittwoch der 26. Mai, elf Uhr, der kleine Saal.**
+Ungefaehr neunzig Leute in einem Saal fuer zweihundert.
+
+**Die Entnahme aus `b3 ch01` erfolgt hier und nirgends spaeter.** Die Zeile
+war *Everybody in that room will be somebody he wanted in it*, und Georgij
+hatte sie als Liste gelesen: wer einen Saal fuellt, fuellt ihn mit
+Brauchbaren. **Sie stimmt und bedeutet das Gegenteil.** Niemand in dem Saal
+schuldete Choi am Ende noch etwas, niemand gewinnt durch sein Kommen, und elf
+von ihnen stehen in einem Dienst, der sich merkt, wer wo gesehen wurde.
+
+**Georgijs Verfahren greift zum ersten Mal ins Leere, und der Text zeigt es
+statt es zu behaupten:**
+
+* **Er geht ans Geld und findet nichts.** Der billigere Saal, die Karte aus
+  der Schachtel, kein Fonds, keine Umlage, nichts auf einem fremden Konto.
+  Das einzig Aufwendige an der ganzen Sache ist der eigene Name unter neunzig
+  Karten.
+* **Und der Mann stellt ihm keine einzige Frage.** Georgij holt seit zwei
+  Jahren alles aus Leuten heraus, indem er etwas fragt, das klein genug zum
+  Beantworten ist. *The other man did not want anything out of him today, and
+  there is no version of that which is good.*
+
+**Das Buch an der Tuer ist neu und gehoert zum Faden aus Kapitel 1.** Es gibt
+kein Papier in diesem Land mit seinem Namen darauf, das er selbst
+hingeschrieben hat. Nicht zu unterschreiben waere das Einzige gewesen, was
+irgendjemand von dem Vormittag behalten haette. **Also unterschreibt er, und
+damit steht sein Name zum ersten Mal in seiner eigenen Handschrift in einem
+Dokument** - beim Ritus fuer den Mann, den er auseinandergenommen hat.
+
+**Das Bild vorn ist der Sechsunddreissigjaehrige.** Jemand hatte
+vierundzwanzig Jahre Fotografien zur Auswahl und ist an allen vorbei
+zurueckgegangen. Georgij sieht es an, bevor Gong den Satz sagt, und der Satz
+lautet:
+
+> "He was thirty-six and he was the best man in that building at the thing he
+> did. ... The fifth one he did not take apart."
+>
+> "That is what I wanted to say to you today, and I am not going to finish it
+> here."
+
+**Der Satz bleibt eine Klausel vor dem Haus stehen, und das ist Absicht.** Die
+Anklage selbst gehoert in das Buero mit der Akte und nicht in einen Saal. *I
+am not going to finish it here* ist die Vorladung fuer die naechste Szene und
+keine Bitte.
+
+**Und Georgij gibt nichts her.** Seine einzige Replik ist wahr und
+unbrauchbar: *"I have been told twice what he was at thirty-six. Both times by
+somebody who was not sorry."* Antwort: *"That will be most of the people you
+talk to."*
+
+**Der Mann hinter dem Pfeiler** ist einer der vier, die am 18. Maerz gegessen
+haben (`b2 ch87`: zweiundzwanzig hatten aufgehoert). Georgij hat sechs Seiten
+ueber ihn und weiss alles ausser dem Einzigen, was heute zaehlt. **Er
+erscheint nicht wieder, wenn nichts mit ihm vorgesehen ist** - dann ist er
+das, was er im Kapitel ist.
+
+**Und das Kapitel endet auf dem Satz, den Annie ihm nicht abnimmt:**
+
+> "I did not know until this afternoon that all of it rested on the other man
+> being dirty."
+
 ## 3. Lot elf: warum sie ihn gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -20979,6 +21043,7 @@ sie.**
    **Geschrieben: `b3 ch01`, Tag 592.**
 2. **Chois Beisetzung.** Georgij als Einziger, der nicht trauert und es nicht
    vorgibt. Erste Begegnung mit dem Oberstaatsanwalt.
+   **Geschrieben: `b3 ch02`, Tag 600, der neunundvierzigste Tag.**
 3. **Die Anklage:** *"I am interested in what you are going to be at
    fifty-nine."*
 4. **Lot elf kommt an** - frueh im Band, damit er da ist und lernt, waehrend
@@ -25013,16 +25078,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 873 | 93 (b1ch01-b3ch01) | 1 | 592 |
+| Annie | 876 | 94 (b1ch01-b3ch02) | 1 | 600 |
 | Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
-| Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
+| Jang | 161 | 39 (b1ch05-b3ch02) | 4 | 600 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 142 | 50 (b1ch03-b3ch01) | 1 | 592 |
 | Sim | 134 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 88 | 21 (b1ch07-b3ch01) | 22 | 592 |
+| Choi Dae-ho | 90 | 22 (b1ch07-b3ch02) | 22 | 600 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Baek | 62 | 14 (b1ch05-b3ch01) | 6 | 592 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -25048,13 +25113,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
+| Gong Doo-hyun | 8 | 2 (b3ch01-b3ch02) | 592 | 600 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Mrs Jeon Mi-ja | 5 | 4 (b2ch26-b2ch64) | 237 | 395 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
-| Gong Doo-hyun | 2 | 1 (b3ch01) | 592 | 592 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Mrs Uhm | 2 | 1 (b2ch16) | 206 | 206 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
@@ -25067,7 +25132,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-873 Nennungen in 93 Kapiteln.
+876 Nennungen in 94 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -25944,6 +26009,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:204 | Annie did not answer for a while. |
 | 592 | b3ch01:232 | Annie looked at him for a moment. |
 | 592 | b3ch01:246 | Annie picked the pen back up, which is what she does when a thing has been decided. |
+| 600 | b3ch02:264 | "And what did you get," said Annie. |
+| 600 | b3ch02:290 | Annie did not write anything down. |
+| 600 | b3ch02:300 | Annie put the pen down. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -27276,7 +27344,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-160 Nennungen in 38 Kapiteln.
+161 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -27440,6 +27508,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 444 | b2ch72:194 | Jang put the car where he puts cars, which is forty metres past the place and facing the.. |
 | 444 | b2ch72:200 | "You will come out of there at half past and she will have been perfectly all right abou.. |
 | 590 | b2ch89:118 | Jang went to Mapo on the Thursday and was handed a green school exercise book at the top.. |
+| 600 | b3ch02:194 | Georgij went down the steps past the woman with the bucket and got into the car and did .. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -28370,7 +28439,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Choi Dae-ho
 
-88 Nennungen in 21 Kapiteln.
+90 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -28462,6 +28531,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:142 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
 | 592 | b3ch01:192 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
 | 592 | b3ch01:266 | Choi Dae-ho was dead on the eighth of April. |
+| 600 | b3ch02:230 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
+| 600 | b3ch02:236 | Choi Dae-ho has been out of that service for twenty-four years and out of the trade sinc.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -28504,6 +28575,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:56` (Tag 592) - forty
 - `b3ch01:142` (Tag 592) - four, one
 - `b3ch01:192` (Tag 592) - three
+- `b3ch02:236` (Tag 600) - twenty-four
 
 ---
 
@@ -30084,6 +30156,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Gong Doo-hyun
+
+8 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 592 | b3ch01:68 | The name is Gong Doo-hyun. He is the Prosecutor General. |
+| 592 | b3ch01:174 | "Gong Doo-hyun." |
+| 600 | b3ch02:100 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
+| 600 | b3ch02:114 | "Thank you for coming," said Gong Doo-hyun. |
+| 600 | b3ch02:128 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
+| 600 | b3ch02:138 | "He was thirty-six and he was the best man in that building at the thing he did." Gong D.. |
+| 600 | b3ch02:156 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
+| 600 | b3ch02:164 | Gong Doo-hyun looked at him for about two seconds. |
+
+### Zahlen in der Naehe von Gong Doo-hyun
+
+- `b3ch02:100` (Tag 600) - eleven, one, twenty
+- `b3ch02:128` (Tag 600) - one, three
+- `b3ch02:138` (Tag 600) - four, one, thirty-six
+- `b3ch02:164` (Tag 600) - two
+
+---
+
 ### Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -30201,17 +30297,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch09:60` (Tag 22) - two
 - `b1ch09:72` (Tag 22) - two
-
----
-
-### Gong Doo-hyun
-
-2 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 592 | b3ch01:68 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:174 | "Gong Doo-hyun." |
 
 ---
 

@@ -3826,6 +3826,69 @@ him.* Der Brief ging am 8. Februar hinaus. Choi war am 8. April tot. **Jetzt
 liegt auf derselben Schreibtischecke eine Karte mit Georgijs Namen darauf, in
 einer Handschrift, die er nicht kennt.**
 
+## Was `b3 ch02` festlegt, geschrieben am 30.08.
+
+**Der Ritus ist Tag 600, Mittwoch der 26. Mai, elf Uhr, der kleine Saal.**
+Ungefaehr neunzig Leute in einem Saal fuer zweihundert.
+
+**Die Entnahme aus `b3 ch01` erfolgt hier und nirgends spaeter.** Die Zeile
+war *Everybody in that room will be somebody he wanted in it*, und Georgij
+hatte sie als Liste gelesen: wer einen Saal fuellt, fuellt ihn mit
+Brauchbaren. **Sie stimmt und bedeutet das Gegenteil.** Niemand in dem Saal
+schuldete Choi am Ende noch etwas, niemand gewinnt durch sein Kommen, und elf
+von ihnen stehen in einem Dienst, der sich merkt, wer wo gesehen wurde.
+
+**Georgijs Verfahren greift zum ersten Mal ins Leere, und der Text zeigt es
+statt es zu behaupten:**
+
+* **Er geht ans Geld und findet nichts.** Der billigere Saal, die Karte aus
+  der Schachtel, kein Fonds, keine Umlage, nichts auf einem fremden Konto.
+  Das einzig Aufwendige an der ganzen Sache ist der eigene Name unter neunzig
+  Karten.
+* **Und der Mann stellt ihm keine einzige Frage.** Georgij holt seit zwei
+  Jahren alles aus Leuten heraus, indem er etwas fragt, das klein genug zum
+  Beantworten ist. *The other man did not want anything out of him today, and
+  there is no version of that which is good.*
+
+**Das Buch an der Tuer ist neu und gehoert zum Faden aus Kapitel 1.** Es gibt
+kein Papier in diesem Land mit seinem Namen darauf, das er selbst
+hingeschrieben hat. Nicht zu unterschreiben waere das Einzige gewesen, was
+irgendjemand von dem Vormittag behalten haette. **Also unterschreibt er, und
+damit steht sein Name zum ersten Mal in seiner eigenen Handschrift in einem
+Dokument** - beim Ritus fuer den Mann, den er auseinandergenommen hat.
+
+**Das Bild vorn ist der Sechsunddreissigjaehrige.** Jemand hatte
+vierundzwanzig Jahre Fotografien zur Auswahl und ist an allen vorbei
+zurueckgegangen. Georgij sieht es an, bevor Gong den Satz sagt, und der Satz
+lautet:
+
+> "He was thirty-six and he was the best man in that building at the thing he
+> did. ... The fifth one he did not take apart."
+>
+> "That is what I wanted to say to you today, and I am not going to finish it
+> here."
+
+**Der Satz bleibt eine Klausel vor dem Haus stehen, und das ist Absicht.** Die
+Anklage selbst gehoert in das Buero mit der Akte und nicht in einen Saal. *I
+am not going to finish it here* ist die Vorladung fuer die naechste Szene und
+keine Bitte.
+
+**Und Georgij gibt nichts her.** Seine einzige Replik ist wahr und
+unbrauchbar: *"I have been told twice what he was at thirty-six. Both times by
+somebody who was not sorry."* Antwort: *"That will be most of the people you
+talk to."*
+
+**Der Mann hinter dem Pfeiler** ist einer der vier, die am 18. Maerz gegessen
+haben (`b2 ch87`: zweiundzwanzig hatten aufgehoert). Georgij hat sechs Seiten
+ueber ihn und weiss alles ausser dem Einzigen, was heute zaehlt. **Er
+erscheint nicht wieder, wenn nichts mit ihm vorgesehen ist** - dann ist er
+das, was er im Kapitel ist.
+
+**Und das Kapitel endet auf dem Satz, den Annie ihm nicht abnimmt:**
+
+> "I did not know until this afternoon that all of it rested on the other man
+> being dirty."
+
 ## 3. Lot elf: warum sie ihn gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -3992,6 +4055,7 @@ sie.**
    **Geschrieben: `b3 ch01`, Tag 592.**
 2. **Chois Beisetzung.** Georgij als Einziger, der nicht trauert und es nicht
    vorgibt. Erste Begegnung mit dem Oberstaatsanwalt.
+   **Geschrieben: `b3 ch02`, Tag 600, der neunundvierzigste Tag.**
 3. **Die Anklage:** *"I am interested in what you are going to be at
    fifty-nine."*
 4. **Lot elf kommt an** - frueh im Band, damit er da ist und lernt, waehrend

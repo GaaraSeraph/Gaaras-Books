@@ -2,7 +2,7 @@
 
 *Erzeugt von `build.py` aus den Kapitelkoepfen. Wird nicht bearbeitet.*
 
-124 Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im Kapitel selbst
+125 Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im Kapitel selbst
 und werden hier nur eingesammelt. **Wer etwas aendern will, aendert das Kapitel.**
 
 Was ein Kapitel *bedeutet*, steht nicht hier, sondern unter seinem Thema im Kanon.
@@ -134,3 +134,4 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 88** *Not the comfortable part* (v3.6) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 3.285 W
 - **B2 89** *The weapon* (v3.6) · Tag 590, So 16. Mai · 2.931 W
 - **B3 1** *The first thing that arrives* (v1.4) · Tag 592, Di 18. Mai · 2.125 W
+- **B3 2** *Thank you for coming* (v1.6) · Tag 600, Mi 26. Mai · 2.211 W

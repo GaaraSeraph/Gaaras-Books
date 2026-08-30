@@ -57,6 +57,11 @@ HOLEN = re.compile(
     r'|\bwent and got (a|the|his) (note)?book\b'
     r'|\bfound the page for\b'
     r'|\bback to that page\b'
+    # Im Englischen darf das Partikel hinter das Objekt: *took the
+    # notebook out*. Das Muster oben verlangte *took out the notebook*
+    # und hat die haeufigere Stellung nicht gesehen.
+    r'|\b(took|got) (the|his|it) (note)?book? ?out\b'
+    r'(?!.{0,30}\b(and wrote|to write|and did not open)\b)'
     r'|\ba page that was already full\b', re.I)
 
 
