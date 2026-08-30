@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.687 Woerter.
+Book Two, 89 Kapitel, 231.667 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.23 | 3.901 |
-| 87 | v3.18 | 3.992 |
+| 87 | v3.19 | 3.972 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
 
@@ -19723,7 +19723,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.18 · EN
+*Lot Fourteen* · Version 3.19 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19825,15 +19825,15 @@ Park Sang-hoon was on the aisle at the last of the tables and he did not get up 
 
 "So how much would you say I should have offered."
 
-There was nothing in his voice at all. It is the question he has been carrying since December and he asked it the way he would have asked it in December, and eleven people heard him do it.
+He asked it the way he has been asking it of himself since December, which is with nothing in it, and eleven people heard him do it.
 
 Choi Dae-ho stopped, which he had not done in eleven metres.
 
-"Nothing I am able to afford," he said.
+"You were not under," he said.
 
-Georgij was at the near end of the room with his hands where they could be seen.
+He said it to the door and not to the man.
 
-It is the last thing that man said in that house to anybody but a housekeeper, and he said it to somebody who had bid and lost, about somebody standing eleven feet away, and it is true.
+"There was no figure in this house in December. She was not selling and you were not buying, and you have spent four months on the arithmetic because the arithmetic is the part you can do."
 
 Then he did the rest of it and did not look at anybody.
 
