@@ -3397,39 +3397,39 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch86:30 | "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been a.. |
 | 531 | b2ch86:38 | Choi Dae-ho sat down about four seconds afterwards, because a man of that sort does not .. |
 | 531 | b2ch86:62 | Choi Dae-ho looked at him properly then for the first time. |
-| 531 | b2ch86:86 | Choi Dae-ho watched him do both of those things and did not do anything with his face at.. |
-| 531 | b2ch86:106 | Choi Dae-ho did not answer that, and the not answering was itself an answer. |
-| 531 | b2ch86:114 | Choi Dae-ho waited about two seconds longer than a man waits. |
-| 531 | b2ch86:122 | "No," said Choi Dae-ho. "I do not think it would." |
-| 531 | b2ch86:132 | "You have spent twenty-five years arranging things so that other people carry the weight.. |
-| 531 | b2ch86:134 | Choi Dae-ho put one hand flat on the cloth beside the place that had been laid for him. |
-| 531 | b2ch86:144 | "There is a thing I can do for you," said Choi Dae-ho. |
-| 531 | b2ch86:156 | "Ah," said Choi Dae-ho. |
-| 531 | b2ch86:164 | "I did not send you anywhere," said Choi Dae-ho. |
-| 531 | b2ch86:172 | Choi Dae-ho got up and went to the window. |
-| 531 | b2ch86:176 | "There is a thing you saw at twenty past nine," said Choi Dae-ho. |
-| 531 | b2ch86:198 | "You had that put there," said Choi Dae-ho. |
-| 531 | b2ch86:204 | "You do not eat. Not with people you work on." Choi Dae-ho's hand was still on the sill... |
-| 531 | b2ch86:206 | Choi Dae-ho looked at the table for the first time. |
-| 531 | b2ch86:214 | Choi Dae-ho turned round from the glass. |
-| 531 | b2ch86:222 | Choi Dae-ho looked away from the two bowls. |
-| 531 | b2ch86:230 | "It is not a discipline and it is not a superstition." Choi Dae-ho's hand stayed where i.. |
-| 531 | b2ch86:246 | Choi Dae-ho did not say anything to that at all. |
-| 531 | b2ch86:254 | Choi Dae-ho put his other hand on the sill. |
-| 531 | b2ch86:266 | Choi Dae-ho was looking at the carpet. |
-| 531 | b2ch86:274 | Choi Dae-ho did not turn round. |
-| 531 | b2ch86:296 | "She has a room on a ground floor with a window and a door that opens, and the account b.. |
-| 531 | b2ch86:302 | Choi Dae-ho did not lift his head. |
-| 531 | b2ch86:306 | Choi Dae-ho did not do anything with that at all. |
-| 531 | b2ch86:316 | Choi Dae-ho put his hand back on the sill. |
-| 531 | b2ch86:322 | "No," said Choi Dae-ho. "They did not." |
-| 531 | b2ch86:330 | "There are two places at that table," said Choi Dae-ho. |
-| 531 | b2ch86:346 | Choi Dae-ho stood at the window of a small room in somebody else's house. |
-| 531 | b2ch86:358 | Choi Dae-ho put a hand flat on the glass and took it away again, and the mark stayed on .. |
-| 531 | b2ch86:368 | "There were twenty-six people at that table," said Georgij, "and by about a quarter past.. |
-| 531 | b2ch86:370 | "No," said Choi Dae-ho. "There was not." |
-| 531 | b2ch86:374 | Choi Dae-ho looked at the glass and not at anything through it. |
-| 531 | b2ch86:384 | Choi Dae-ho did not have an answer. |
+| 531 | b2ch86:78 | Choi Dae-ho did not do anything with his face at all. |
+| 531 | b2ch86:98 | Choi Dae-ho did not answer that, and the not answering was itself an answer. |
+| 531 | b2ch86:106 | Choi Dae-ho waited about two seconds longer than a man waits. |
+| 531 | b2ch86:114 | "No," said Choi Dae-ho. "I do not think it would." |
+| 531 | b2ch86:124 | "You have spent twenty-five years arranging things so that other people carry the weight.. |
+| 531 | b2ch86:126 | Choi Dae-ho put one hand flat on the cloth beside the place that had been laid for him. |
+| 531 | b2ch86:136 | "There is a thing I can do for you," said Choi Dae-ho. |
+| 531 | b2ch86:148 | "Ah," said Choi Dae-ho. |
+| 531 | b2ch86:156 | "I did not send you anywhere," said Choi Dae-ho. |
+| 531 | b2ch86:164 | Choi Dae-ho got up and went to the window. |
+| 531 | b2ch86:168 | "There is a thing you saw at twenty past nine," said Choi Dae-ho. |
+| 531 | b2ch86:190 | "You had that put there," said Choi Dae-ho. |
+| 531 | b2ch86:196 | "You do not eat. Not with people you work on." Choi Dae-ho's hand was still on the sill... |
+| 531 | b2ch86:198 | Choi Dae-ho looked at the table for the first time. |
+| 531 | b2ch86:206 | Choi Dae-ho turned round from the glass. |
+| 531 | b2ch86:214 | Choi Dae-ho looked away from the two bowls. |
+| 531 | b2ch86:222 | "It is not a discipline and it is not a superstition." Choi Dae-ho's hand stayed where i.. |
+| 531 | b2ch86:238 | Choi Dae-ho did not say anything to that at all. |
+| 531 | b2ch86:246 | Choi Dae-ho put his other hand on the sill. |
+| 531 | b2ch86:258 | Choi Dae-ho was looking at the carpet. |
+| 531 | b2ch86:266 | Choi Dae-ho did not turn round. |
+| 531 | b2ch86:288 | "She has a room on a ground floor with a window and a door that opens, and the account b.. |
+| 531 | b2ch86:294 | Choi Dae-ho did not lift his head. |
+| 531 | b2ch86:298 | Choi Dae-ho did not do anything with that at all. |
+| 531 | b2ch86:308 | Choi Dae-ho put his hand back on the sill. |
+| 531 | b2ch86:314 | "No," said Choi Dae-ho. "They did not." |
+| 531 | b2ch86:322 | "There are two places at that table," said Choi Dae-ho. |
+| 531 | b2ch86:338 | Choi Dae-ho stood at the window of a small room in somebody else's house. |
+| 531 | b2ch86:350 | Choi Dae-ho put a hand flat on the glass and took it away again, and the mark stayed on .. |
+| 531 | b2ch86:360 | "There were twenty-six people at that table," said Georgij, "and by about a quarter past.. |
+| 531 | b2ch86:362 | "No," said Choi Dae-ho. "There was not." |
+| 531 | b2ch86:366 | Choi Dae-ho looked at the glass and not at anything through it. |
+| 531 | b2ch86:376 | Choi Dae-ho did not have an answer. |
 | 531 | b2ch86:396 | At the door there was one thing and it was Choi Dae-ho's, and Georgij heard it with his .. |
 | 531 | b2ch87:54 | Choi Dae-ho walked the length of that dining room to get to the hall. |
 | 531 | b2ch87:266 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
@@ -3459,14 +3459,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch85:234` (Tag 531) - nine, twenty
 - `b2ch86:28` (Tag 531) - two
 - `b2ch86:38` (Tag 531) - four
-- `b2ch86:114` (Tag 531) - two
-- `b2ch86:132` (Tag 531) - twenty-five
-- `b2ch86:134` (Tag 531) - one
-- `b2ch86:176` (Tag 531) - nine, twenty
-- `b2ch86:222` (Tag 531) - two
-- `b2ch86:230` (Tag 531) - twenty-five
-- `b2ch86:330` (Tag 531) - two
-- `b2ch86:368` (Tag 531) - four, nine, one, twenty-five, twenty-six
+- `b2ch86:106` (Tag 531) - two
+- `b2ch86:124` (Tag 531) - twenty-five
+- `b2ch86:126` (Tag 531) - one
+- `b2ch86:168` (Tag 531) - nine, twenty
+- `b2ch86:214` (Tag 531) - two
+- `b2ch86:222` (Tag 531) - twenty-five
+- `b2ch86:322` (Tag 531) - two
+- `b2ch86:360` (Tag 531) - four, nine, one, twenty-five, twenty-six
 - `b2ch86:396` (Tag 531) - one
 - `b2ch87:266` (Tag 531) - eight, three
 - `b2ch89:384` (Tag 590) - four, thirty, thirty-one, two

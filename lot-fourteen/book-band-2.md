@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.239 Woerter.
+Book Two, 89 Kapitel, 231.231 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -96,7 +96,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.20 | 3.638 |
+| 86 | v3.21 | 3.630 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
@@ -19262,7 +19262,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.20 · EN
+*Lot Fourteen* · Version 3.21 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19336,17 +19336,9 @@ The small room at the end of a passage did the thing rooms do.
 
 He did not answer for about three seconds, and the three seconds are the whole of it. A man who has spent twenty-five years being able to answer that question about anybody in this country did not have one name.
 
-And then Georgij smiled at him.
-
-It is the broad one. It goes all the way up and it arrives about a quarter of a second late, and the delay is the whole of why people believe it. It was built in a house in Daejeon when he was twenty-one, for men who were deciding what he was worth.
-
-He has spent a year putting it on at doors.
-
-He has never once used it cold.
-
 "It has been good to see you again," said Georgij.
 
-Choi Dae-ho watched him do both of those things and did not do anything with his face at all.
+Choi Dae-ho did not do anything with his face at all.
 
 "That was not necessary," he said.
 
@@ -19649,6 +19641,14 @@ Choi Dae-ho did not have an answer.
 And for the first time since Georgij had come through that door, it showed on his face, for slightly longer than a quarter of a second.
 
 "No," said Georgij. "I did not think you would."
+
+And then Georgij smiled at him.
+
+It is the broad one. It goes all the way up and it arrives about a quarter of a second late, and the delay is the whole of why people believe it. It was built in a house in Daejeon when he was twenty-one, for men who were deciding what he was worth.
+
+He has spent a year putting it on at doors.
+
+He has never once used it cold.
 
 Georgij stood up, which he had not done since twenty to ten.
 
