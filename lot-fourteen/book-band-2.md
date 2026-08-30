@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 228.018 Woerter.
+Book Two, 89 Kapitel, 228.102 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.9 | 2.464 |
+| 63 | v1.10 | 2.548 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -13797,7 +13797,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13841,31 +13841,37 @@ Mr Hwang telephoned it through and did not dress it.
 
 "He could have picked up a telephone at any hour on Tuesday."
 
-"He could have picked it up. He could not have said the sentence." Mr Hwang did not hurry any of it. "To ask Seoul whether he may sell her, he has to say why he wants to. And the reason he wants to is the one thing in that house he has never reported."
-
-Georgij did not move at all.
+"He could have picked it up. He could not have said the sentence." Mr Hwang did not hurry any of it. "To ask Seoul whether he may sell her, he has to say why he wants to. And the answer to that is the thing he has never told them."
 
 "Say it flatly."
 
-"She has been the nursing in that building for three and a half years." Mr Hwang put both hands on the desk. "He takes a fee that was written when the oxygen was thirty days. It is eleven. He has never gone back and asked for more, and I want you to think about why a man in that trade would not ask for more."
+"For three and a half years the nursing in that house has been done by the other woman." Mr Hwang put both hands on the desk. "Not by a nurse. Not by anybody he pays. By the one who is on the book."
 
-"Because he found a way to cover the difference and it did not cost him anything."
+Georgij did not move at all.
 
-"It cost him nothing at all. She was already in the building."
+"They do not know that."
 
-"So if he telephones."
+"They cannot know it. Think about what they have been paying him for." Mr Hwang did not soften any of it. "There is no line anywhere on the woman on the oxygen. Eleven years of it, and it is the only thing in the whole of this that anybody has done perfectly."
 
-"Then the first question is what he has been doing with the difference for four years." Mr Hwang did not look away from it. "The second is who has been looking after her, and he does not survive answering that one. He loses the fee, he loses the client, and he keeps the house."
+"And for three and a half of those years."
 
-"He can still refuse," said Georgij.
+"Everything there is to know about her has been in the hands of somebody who is also being held in that building, and who has every reason on earth to say it out loud one day."
 
-"He can refuse and say nothing, and then he has your form on his desk, no money, and the same two women on Friday." Mr Hwang turned the sheet back over. "You did not take the decision away from him. You arranged it so that the cheapest thing he could do was the thing you wanted, and you did it without ever speaking to him, and I would like you to be clear with yourself about what that is."
+"And if he telephones on Tuesday."
 
-*He did not choose her against the money. He chose not to have to explain himself, and it took him a night and part of a morning to find that out about himself.*
+"Then he has told the man in Seoul that the one thing that man has protected for eleven years has been sitting at a kitchen table with a prisoner." Mr Hwang turned the sheet back over. "He does not lose a fee. He is finished, and he has been finished since the summer four years ago and has not had to think about it because nobody asked."
 
-*I did not threaten him. I never spoke to him. I made the question expensive and let him decline to ask it.*
+"So the form is not a purchase," said Georgij.
 
-*And when she comes out of that building there is nobody left in it who knows how to look after Moon Hae-sook.*
+"The form is a way of getting rid of her without ever having to mention her to anybody." Mr Hwang looked at him properly. "You did not take the decision away from him. You offered a man the disposal of the one thing that could end him, and you had it paid for, and you never said a word to him."
+
+*He is not selling a woman. He is closing a hole in his own house and being paid for the trouble.*
+
+*The hole is that somebody who has every reason to talk has known everything about Moon Hae-sook for three and a half years, and the man who pays for the silence has never been told.*
+
+*I did not threaten him and I never spoke to him. I found the sentence he cannot say out loud and put a form on his desk that let him not say it.*
+
+*And when she comes out of that building there is nobody left in it who knows how to look after the other one.*
 
 *I have known that since Tuesday and I signed anyway. There is one version in which that is not the worst thing I have done this year, and it has a date on it, and the date is before Christmas.*
 
