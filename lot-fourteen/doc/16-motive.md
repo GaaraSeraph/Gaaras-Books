@@ -691,3 +691,31 @@ Protokoll genau davon: **der Empfaenger prueft beim Zuhoeren jeden Weg und
 findet jede Tuer vermauert.** Das sind Chois drei Sekunden, und sie werden
 es beim Erben wieder sein.
 
+
+## Der Stuhl bei Hwang
+
+**Vier Stellen, und keine davon sagt, was sie tut.**
+
+**1. `b2 ch20:40`, Tag 213.** Im Raum steht ein Stuhl. Hwang gibt ihn dem
+Besucher und bleibt stehen: *"There is one chair and you may have it, and I am
+going to stand, because I have been standing since seven and if I sit down now
+I will not get up again."*
+
+**2. `b2 ch26:28`, Tag 237.** Derselbe Raum, vierundzwanzig Tage spaeter: zwei
+Kisten, ein Tisch, sonst nichts. **Der Stuhl ist weg.** Am selben Abend bittet
+Georgij Annie, einen Tisch und zwei Stuehle zu schicken, und muss vor ihr
+aussprechen, warum: *"It makes it a chair." / "It makes it a chair that went
+before I wanted anything."*
+
+**3. `b2 ch59:26`, Tag 377.** *Georgij sat down.* **Ein Satz, kein Kommentar.**
+Erst am Ende desselben Gespraechs benennt Hwang es, und zwar bevor er
+unterschreibt und nicht danach: *"I want it said before I do the thing you
+came here for, because afterwards it will look like the reason."*
+
+**4. `b2 ch83:70`, Tag 510.** *Georgij sat in a chair in a room with two crates
+in it.* **Neun Monate spaeter, letzter Morgen, derselbe Stuhl.**
+
+**Die Regel dahinter:** die Gabe wird nie erklaert, waehrend sie wirkt. Sie
+wird einmal beschlossen, einmal gedankt und zweimal nur benutzt. **Wer sie
+oefter erwaehnt, macht sie zur Bestechung, und genau das ist die Frage, die
+Hwang selbst offen laesst:** *whether I am grateful or bought.*

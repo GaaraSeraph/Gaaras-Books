@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 229.284 Woerter.
+Book Two, 89 Kapitel, 229.462 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -36,7 +36,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 23 | v1.6 | 2.033 |
 | 24 | v1.5 | 2.099 |
 | 25 | v1.9 | 3.966 |
-| 26 | v4.1 | 2.787 |
+| 26 | v4.2 | 2.786 |
 | 27 | v4.0 | 2.472 |
 | 28 | v4.0 | 1.968 |
 | 29 | v1.3 | 2.317 |
@@ -69,7 +69,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 56 | v1.11 | 2.125 |
 | 57 | v1.9 | 2.279 |
 | 58 | v1.6 | 2.481 |
-| 59 | v1.11 | 3.058 |
+| 59 | v1.12 | 3.237 |
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
@@ -5687,7 +5687,7 @@ That is the whole of what happened in that room on the twenty-seventh of May.
 ---
 
 # Book Two · Chapter 26: The same sort of man
-*Lot Fourteen* · Version 4.1 · EN
+*Lot Fourteen* · Version 4.2 · EN
 
 ## Day Two Hundred and Thirty-Seven · Thursday 28 May
 
@@ -5947,7 +5947,7 @@ Georgij did not move from where he was standing.
 
 "It makes it a chair," said Annie.
 
-"It makes it a chair that I bought before I wanted anything."
+"It makes it a chair that went before I wanted anything."
 
 *It went on the Tuesday with no note in it. The delivery man had a docket and the docket had this house on it, because a docket with nothing on it is worse.*
 
@@ -13001,7 +13001,7 @@ He sat with the pen and then wrote one more line.
 ---
 
 # Book Two · Chapter 59: The permanent series
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -13104,6 +13104,16 @@ Georgij did not move.
 "I would like it before the envelope."
 
 "On the day I have it," said Mr Hwang, and he did not make anything of it. "You have asked me for two things in this room and neither of them was for you."
+
+"There is a third and you did not ask for it." Mr Hwang put his hand flat on the desk. "You sent me a table and two chairs in June with no note in it. The docket had a house on it, and I telephoned the shop, and the account is not yours."
+
+Georgij did not answer that.
+
+"So I worked out what it was, and I have sat in one of them every day since the second of June, and I have not once decided whether I am grateful or bought." He said it the way another man reads out a figure. "I want it said before I do the thing you came here for, because afterwards it will look like the reason."
+
+"It was not the reason."
+
+"No. It was four months ago and you have never mentioned it, and that is how I know." Mr Hwang squared the sheet again. "Thank you. That is the whole of what I have to say about furniture and I am not going to say it a second time."
 
 "In about nine years somebody will read that sequence for a different reason and they will find an entry from November with a man's name on one side and a woman's name on the other."
 

@@ -59,7 +59,7 @@ b2  ch22  v1.8       2015 Woerter  ch22_v1_8_en.md
 b2  ch23  v1.6       2033 Woerter  ch23_v1_6_en.md
 b2  ch24  v1.5       2099 Woerter  ch24_v1_5_en.md
 b2  ch25  v1.9       3966 Woerter  ch25_v1_9_en.md
-b2  ch26  v4.1       2787 Woerter  ch26_v4_1_en.md
+b2  ch26  v4.2       2786 Woerter  ch26_v4_2_en.md
 b2  ch27  v4.0       2472 Woerter  ch27_v4_0_en.md
 b2  ch28  v4.0       1968 Woerter  ch28_v4_0_en.md
 b2  ch29  v1.3       2317 Woerter  ch29_v1_3_en.md
@@ -92,7 +92,7 @@ b2  ch55  v1.6       2143 Woerter  ch55_v1_6_en.md
 b2  ch56  v1.11      2125 Woerter  ch56_v1_11_en.md
 b2  ch57  v1.9       2279 Woerter  ch57_v1_9_en.md
 b2  ch58  v1.6       2481 Woerter  ch58_v1_6_en.md
-b2  ch59  v1.11      3058 Woerter  ch59_v1_11_en.md
+b2  ch59  v1.12      3237 Woerter  ch59_v1_12_en.md
 b2  ch60  v1.6       2612 Woerter  ch60_v1_6_en.md
 b2  ch61  v1.3       2402 Woerter  ch61_v1_3_en.md
 b2  ch62  v1.3       2103 Woerter  ch62_v1_3_en.md
@@ -124,5 +124,5 @@ b2  ch87  v3.16      3807 Woerter  ch87_v3_16_en.md
 b2  ch88  v3.4       2956 Woerter  ch88_v3_4_en.md
 b2  ch89  v3.3       2652 Woerter  ch89_v3_3_en.md
 
-Gesamt: 2 Baende, 123 Kapitel, 330018 Woerter
+Gesamt: 2 Baende, 123 Kapitel, 330196 Woerter
 Handbuch: 21 Dokumente

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 300.854 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 301.160 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -636,7 +636,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 329.677 Woerter.**
+**123 Kapitel, 330.018 Woerter.**
 
 ---
 
@@ -9853,6 +9853,35 @@ vollstaendig ist**, und die Frage, die er stellt, klingt offen und ist ein
 Protokoll genau davon: **der Empfaenger prueft beim Zuhoeren jeden Weg und
 findet jede Tuer vermauert.** Das sind Chois drei Sekunden, und sie werden
 es beim Erben wieder sein.
+
+
+## Der Stuhl bei Hwang
+
+**Vier Stellen, und keine davon sagt, was sie tut.**
+
+**1. `b2 ch20:40`, Tag 213.** Im Raum steht ein Stuhl. Hwang gibt ihn dem
+Besucher und bleibt stehen: *"There is one chair and you may have it, and I am
+going to stand, because I have been standing since seven and if I sit down now
+I will not get up again."*
+
+**2. `b2 ch26:28`, Tag 237.** Derselbe Raum, vierundzwanzig Tage spaeter: zwei
+Kisten, ein Tisch, sonst nichts. **Der Stuhl ist weg.** Am selben Abend bittet
+Georgij Annie, einen Tisch und zwei Stuehle zu schicken, und muss vor ihr
+aussprechen, warum: *"It makes it a chair." / "It makes it a chair that went
+before I wanted anything."*
+
+**3. `b2 ch59:26`, Tag 377.** *Georgij sat down.* **Ein Satz, kein Kommentar.**
+Erst am Ende desselben Gespraechs benennt Hwang es, und zwar bevor er
+unterschreibt und nicht danach: *"I want it said before I do the thing you
+came here for, because afterwards it will look like the reason."*
+
+**4. `b2 ch83:70`, Tag 510.** *Georgij sat in a chair in a room with two crates
+in it.* **Neun Monate spaeter, letzter Morgen, derselbe Stuhl.**
+
+**Die Regel dahinter:** die Gabe wird nie erklaert, waehrend sie wirkt. Sie
+wird einmal beschlossen, einmal gedankt und zweimal nur benutzt. **Wer sie
+oefter erwaehnt, macht sie zur Bestechung, und genau das ist die Frage, die
+Hwang selbst offen laesst:** *whether I am grateful or bought.*
 
 ---
 
@@ -24378,7 +24407,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chairman Woo | 229 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
-| Mr Hwang | 152 | 24 (b2ch07-b2ch89) | 166 | 590 |
+| Mr Hwang | 154 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
 | Sim | 130 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
@@ -26868,7 +26897,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-152 Nennungen in 24 Kapiteln.
+154 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -26958,16 +26987,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 377 | b2ch59:98 | "On the sixth of August you used a clause in our terms of business. You asked in writing.. |
 | 377 | b2ch59:110 | "For as long as the series exists, and it exists until somebody signs it over to an arch.. |
 | 377 | b2ch59:122 | "On the day I have it," said Mr Hwang, and he did not make anything of it. "You have ask.. |
-| 377 | b2ch59:140 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
-| 377 | b2ch59:152 | Mr Hwang did not look anything up, and the not looking told Georgij how many times that .. |
-| 377 | b2ch59:158 | "That you cannot frighten him with a record. He has been in that book longer than I have.. |
-| 377 | b2ch59:164 | "A man with a lease on a house, nine people on a rota and four cars, and a fee that was .. |
-| 377 | b2ch59:192 | Mr Hwang did not reach for anything. |
-| 377 | b2ch59:204 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
-| 377 | b2ch59:214 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
-| 377 | b2ch59:222 | Mr Hwang did not move at all. |
-| 377 | b2ch59:230 | "The ninth line," said Mr Hwang. |
-| 377 | b2ch59:240 | Mr Hwang put the sheet down on the desk and left his hand off it. |
+| 377 | b2ch59:126 | "There is a third and you did not ask for it." Mr Hwang put his hand flat on the desk. ".. |
+| 377 | b2ch59:134 | "No. It was four months ago and you have never mentioned it, and that is how I know." Mr.. |
+| 377 | b2ch59:152 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
+| 377 | b2ch59:164 | Mr Hwang did not look anything up, and the not looking told Georgij how many times that .. |
+| 377 | b2ch59:170 | "That you cannot frighten him with a record. He has been in that book longer than I have.. |
+| 377 | b2ch59:176 | "A man with a lease on a house, nine people on a rota and four cars, and a fee that was .. |
+| 377 | b2ch59:204 | Mr Hwang did not reach for anything. |
+| 377 | b2ch59:216 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
+| 377 | b2ch59:226 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
+| 377 | b2ch59:234 | Mr Hwang did not move at all. |
+| 377 | b2ch59:242 | "The ninth line," said Mr Hwang. |
+| 377 | b2ch59:252 | Mr Hwang put the sheet down on the desk and left his hand off it. |
 | 384 | b2ch60:174 | "It will not be nine years." Georgij did not move at all. "The fund has decided. This ho.. |
 | 386 | b2ch62:6 | Mr Hwang telephoned the house on the Saturday morning at nine, which is not a thing that.. |
 | 386 | b2ch62:28 | "He receives nothing," said Mr Hwang. "I want you to be exact about that when you say it.. |
@@ -27069,11 +27100,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch59:84` (Tag 377) - four, three
 - `b2ch59:98` (Tag 377) - fourteen
 - `b2ch59:122` (Tag 377) - two
-- `b2ch59:140` (Tag 377) - four hundred and eighty-one million, two
-- `b2ch59:158` (Tag 377) - one
-- `b2ch59:164` (Tag 377) - eleven, four, nine, thirty
-- `b2ch59:204` (Tag 377) - eleven
-- `b2ch59:214` (Tag 377) - one
+- `b2ch59:126` (Tag 377) - two
+- `b2ch59:134` (Tag 377) - four
+- `b2ch59:152` (Tag 377) - four hundred and eighty-one million, two
+- `b2ch59:170` (Tag 377) - one
+- `b2ch59:176` (Tag 377) - eleven, four, nine, thirty
+- `b2ch59:216` (Tag 377) - eleven
+- `b2ch59:226` (Tag 377) - one
 - `b2ch60:174` (Tag 384) - nine, seven, six hundred, twenty
 - `b2ch62:6` (Tag 386) - nine
 - `b2ch62:32` (Tag 386) - four, one
@@ -28534,7 +28567,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 328 | b2ch57:90 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
 | 371 | b2ch58:226 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
 | 377 | b2ch59:56 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
-| 377 | b2ch59:278 | *Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks.. |
+| 377 | b2ch59:290 | *Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks.. |
 | 385 | b2ch61:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
 | 385 | b2ch61:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
 | 395 | b2ch64:96 | Ahn Jung-hee did not say anything. |
@@ -28570,7 +28603,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:90` (Tag 328) - four, nine, thirty-five
 - `b2ch58:226` (Tag 371) - eleven, six
 - `b2ch59:56` (Tag 377) - four, nine, thirty-five
-- `b2ch59:278` (Tag 377) - eleven, nine, six, ten
+- `b2ch59:290` (Tag 377) - eleven, nine, six, ten
 - `b2ch61:82` (Tag 385) - four, thirty-five
 - `b2ch61:92` (Tag 385) - eleven, forty
 - `b2ch64:104` (Tag 395) - four, one
@@ -29270,7 +29303,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|
 | 371 | b2ch58:222 | "Moon Hae-sook." |
 | 371 | b2ch58:224 | "Moon Hae-sook. Say it in one sentence and use the word." |
-| 377 | b2ch59:190 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
+| 377 | b2ch59:202 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
 | 382 | b2ch60:88 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
 | 390 | b2ch63:156 | *The hole is that somebody who has every reason to talk has known everything about Moon .. |
 | 404 | b2ch67:74 | Nobody has told Moon Hae-sook that they are there. |
@@ -29288,7 +29321,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Moon Hae-sook
 
 - `b2ch58:224` (Tag 371) - one
-- `b2ch59:190` (Tag 377) - eleven, four
+- `b2ch59:202` (Tag 377) - eleven, four
 - `b2ch60:88` (Tag 382) - eleven, three
 - `b2ch63:156` (Tag 390) - three
 - `b2ch67:86` (Tag 404) - fifty-two

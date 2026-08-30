@@ -69,7 +69,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 23** *Ten minutes on a Friday* (v1.6) · Tag 224, Fr 15. Mai · 2.033 W
 - **B2 24** *Four people who could see us* (v1.5) · Tag 230, Do 21. Mai · 2.099 W
 - **B2 25** *What he collects* (v1.9) · Tag 236, Mi 27. Mai · 3.966 W
-- **B2 26** *The same sort of man* (v4.1) · Tag 237, Do 28. Mai · 2.787 W
+- **B2 26** *The same sort of man* (v4.2) · Tag 237, Do 28. Mai · 2.786 W
 - **B2 27** *She has a list* (v4.0) · Tag 238, Fr 29. Mai · 2.472 W
 - **B2 28** *A practice keeps records* (v4.0) · Tag 238, Fr 29. Mai · 1.968 W
 - **B2 29** *Nobody hides flowers* (v1.3) · Tag 239, Sa 30. Mai · 2.317 W
@@ -102,7 +102,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 56** *One sentence* (v1.11) · Tag 326, Di 25. August · 2.125 W
 - **B2 57** *The one who orders* (v1.9) · Tag 328, Do 27. August · 2.279 W
 - **B2 58** *The only door* (v1.6) · Tag 362, Mi 30. September · Tag 371, Fr 9. Oktober · 2.481 W
-- **B2 59** *The permanent series* (v1.11) · Tag 377, Do 15. Oktober · 3.058 W
+- **B2 59** *The permanent series* (v1.12) · Tag 377, Do 15. Oktober · 3.237 W
 - **B2 60** *Eleven years of paying for it* (v1.6) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.612 W
 - **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
 - **B2 62** *The consignor of record* (v1.3) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.103 W
