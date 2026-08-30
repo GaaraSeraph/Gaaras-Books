@@ -1,5 +1,5 @@
 # Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -38,6 +38,16 @@ Mr Hwang telephoned it through and did not dress it.
 "Say what you take from that."
 
 "That they were never going to argue about it, and that the figure could have been a third of what it is." He did not hurry any of it. "You will both work that out by about six this evening and there is nothing I can do about it. I am telling you at ten past two so that you have it from me and not from the arithmetic."
+
+---
+
+"Then say why nobody on that side had to be asked."
+
+"Because on that side there is nobody who has to be asked." Mr Hwang did not hurry that either. "She is a line. The man who holds her holds a line, a room and a rota, and he is paid for the room. A transfer out of a house in wind-up is the most ordinary sheet that will cross his desk this year, and his agent signed it the way an agent signs things."
+
+"And the man in Seoul."
+
+"Is not on the form. He has never been on the form and there is no place on it where he could be." A pause. "That is the whole of why this was possible. It is also the whole of why the other one is not."
 
 ---
 

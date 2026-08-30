@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.262 Woerter.
+Book Two, 89 Kapitel, 227.409 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -64,7 +64,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 51 | v1.6 | 2.778 |
 | 52 | v1.3 | 2.042 |
 | 53 | v1.9 | 2.679 |
-| 54 | v1.13 | 4.410 |
+| 54 | v1.14 | 4.420 |
 | 55 | v1.6 | 2.143 |
 | 56 | v1.11 | 2.125 |
 | 57 | v1.9 | 2.279 |
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.4 | 2.011 |
+| 63 | v1.5 | 2.148 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -11780,7 +11780,7 @@ He put the notebook away without writing the last line, and wrote it that night 
 ---
 
 # Book Two · Chapter 54: Buy her
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Three Hundred and Nineteen · Tuesday 18 August
 
@@ -12108,7 +12108,7 @@ Georgij did not sit down.
 
 "Third. When."
 
-"Not until Baek is finished and not until the house is. If she goes first, the man in Seoul finds out that somebody wanted her, and then he wants her, and he has more money than either of us and eleven years of reasons."
+"Not until Baek is finished and not until the house is. If she goes first, the man in Seoul finds out that somebody has reached into that building, and then he stops being comfortable, and he does not have to buy her from anybody. He has eleven years of reasons and one telephone call."
 
 Annie wrote one word on the pad.
 
@@ -13771,7 +13771,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13808,6 +13808,14 @@ Mr Hwang telephoned it through and did not dress it.
 "Say what you take from that."
 
 "That they were never going to argue about it, and that the figure could have been a third of what it is." He did not hurry any of it. "You will both work that out by about six this evening and there is nothing I can do about it. I am telling you at ten past two so that you have it from me and not from the arithmetic."
+
+"Then say why nobody on that side had to be asked."
+
+"Because on that side there is nobody who has to be asked." Mr Hwang did not hurry that either. "She is a line. The man who holds her holds a line, a room and a rota, and he is paid for the room. A transfer out of a house in wind-up is the most ordinary sheet that will cross his desk this year, and his agent signed it the way an agent signs things."
+
+"And the man in Seoul."
+
+"Is not on the form. He has never been on the form and there is no place on it where he could be." A pause. "That is the whole of why this was possible. It is also the whole of why the other one is not."
 
 She worked it out at about twenty past two, which is ten minutes and not four hours.
 
