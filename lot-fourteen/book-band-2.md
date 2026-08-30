@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 230.993 Woerter.
+Book Two, 89 Kapitel, 231.045 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -96,7 +96,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.15 | 3.392 |
+| 86 | v3.16 | 3.444 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
@@ -19262,7 +19262,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.15 · EN
+*Lot Fourteen* · Version 3.16 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19292,17 +19292,21 @@ He is not tall.
 
 There were two places at that table and Choi Dae-ho did not look at either of them. It is not his room, and he has never in his life offered anybody anything in a room that was not his.
 
-Georgij did not sit down either.
-
-He had asked for it in the passage at eight, and he had asked for two places, and he had known while he was asking that neither of them would be used.
-
-A man who is going to be finished in the next hour gets a laid table, because the alternative is a bare one, and a bare table is a thing you do to somebody.
-
-And there is a second reason, and Georgij did not put it into words that evening or afterwards. There are two men in this story who do not eat in front of a person they are working on, and both of them were standing in that room, and one of them had ordered the food.
-
-"You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been at something for a year and it shows in the way you are standing, and I would say the same thing to anybody."
+"You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been at something for a year and it shows in the way you came up that passage, and I would say the same thing to anybody."
 
 "I know that you would."
+
+* * *
+
+Georgij took the chair on the near side and sat down in it.
+
+He had asked for the table in the passage at eight and he had asked for two places. A man who is going to be finished in the next hour gets a laid table, because the alternative is a bare one, and a bare table is a thing you do to somebody.
+
+Choi Dae-ho sat down about four seconds afterwards, because a man of that sort does not go on standing over somebody who has stopped.
+
+There are two men in this story who do not eat in front of a person they are working on.
+
+They sat down at a laid table at twenty to ten, and neither of them put a hand on anything, and neither of them said a word about it, and both of them understood it.
 
 * * *
 
@@ -19312,7 +19316,7 @@ And there is a second reason, and Georgij did not put it into words that evening
 
 "Is she well?"
 
-Georgij stood in the middle of a small room.
+Georgij sat in a small room at the end of a passage.
 
 There are four answers to that and three of them are what the man is for, and the fourth one is the true one, and there is nothing in the true one that anybody could use.
 
@@ -19408,11 +19412,11 @@ He asked it with the mark on the end of it, and it is the first question anybody
 
 He did not hurry any of it.
 
-"You have spent twenty-five years arranging things so that other people carry the weight and you carry none of it. A killing is quick, and it is private." Choi Dae-ho was still standing where he had turned round. "It would let you finish exactly the way you have lived, which is without ever once finding out what it costs to be found out. I am not going to hand you that."
+"You have spent twenty-five years arranging things so that other people carry the weight and you carry none of it. A killing is quick, and it is private." Choi Dae-ho had not moved anything but his hands since he sat down. "It would let you finish exactly the way you have lived, which is without ever once finding out what it costs to be found out. I am not going to hand you that."
 
 * * *
 
-Choi Dae-ho put one hand on the back of the chair he had not sat in.
+Choi Dae-ho put one hand flat on the cloth beside the place that had been laid for him.
 
 "Say what you are going to do instead."
 
@@ -19428,7 +19432,7 @@ Neither of them said anything for a while.
 
 "There will be an entry in a permanent series, from November, with her name on one side of it." He said it in exactly the voice he had used about the tiredness. "That house is closing and those things go to an archive and archives are careless. I could see that it was properly indexed."
 
-Georgij stood in the middle of the room with a certificate of destruction in his inside pocket.
+Georgij sat at a laid table with a certificate of destruction in his inside pocket.
 
 * * *
 
@@ -19610,7 +19614,7 @@ Choi Dae-ho did not do anything with that at all.
 
 "Nobody has ever put those in a row."
 
-"They are not in a row." Georgij had not moved from where he was standing. "That is the order you did them in."
+"They are not in a row." Georgij had not moved at all. "That is the order you did them in."
 
 * * *
 
@@ -19630,7 +19634,7 @@ He did not have anything to put after it, and he did not go looking.
 
 "That is the whole of tonight. I am not going to tell you who else knows. Or how many of the people you have had dinner with have already been told, or which of them think a conversation is enough and which of them do not. I am not going to tell you because I have not decided it myself. And even if I had, you would not get it from me in a room where I hold every part of the advantage."
 
-Choi Dae-ho stood at the window of a small room in somebody else's house.
+Choi Dae-ho got up and went to the window of a small room in somebody else's house.
 
 "There is a man called Byun," said Georgij.
 
@@ -19646,7 +19650,7 @@ Choi Dae-ho stood at the window of a small room in somebody else's house.
 
 * * *
 
-Choi Dae-ho took his hand off the back of the chair.
+Choi Dae-ho put a hand flat on the glass and took it away again, and the mark stayed on it for a moment.
 
 "You want me to live with that," he said.
 
@@ -19656,7 +19660,7 @@ Choi Dae-ho took his hand off the back of the chair.
 
 The four cars on the drive did not do anything.
 
-"There were twenty-six people at that table," said Georgij, "and by about a quarter past nine every one of them had worked out what the other twenty-five had in common. Nobody said your name. Nobody is going to." Choi Dae-ho put one hand on the back of the second chair. "You are very good at reading a room and I watched you read that one in four minutes, and you got it right, and there was nothing you could do with it."
+"There were twenty-six people at that table," said Georgij, "and by about a quarter past nine every one of them had worked out what the other twenty-five had in common. Nobody said your name. Nobody is going to." Choi Dae-ho went on looking at four cars on a drive. "You are very good at reading a room and I watched you read that one in four minutes, and you got it right, and there was nothing you could do with it."
 
 "No," said Choi Dae-ho. "There was not."
 
@@ -19683,6 +19687,8 @@ And for the first time since Georgij had come through that door, it showed on hi
 * * *
 
 "No," said Georgij. "I did not think you would."
+
+Georgij stood up, which he had not done since twenty to ten.
 
 He went out before the silence could turn into anything the man could use.
 
