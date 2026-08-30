@@ -128,7 +128,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 82** *The only line out* (v1.3) · Tag 497, Fr 12. Februar · Tag 500, Mo 15. Februar · 2.814 W
 - **B2 83** *Nobody asked* (v3.5) · Tag 510, Do 25. Februar · Tag 514, Mo 1. Maerz · 2.934 W
 - **B2 84** *No occasion* (v3.4) · Tag 517, Do 4. Maerz · Tag 522, Di 9. Maerz · 2.147 W
-- **B2 85** *Twenty-seven* (v3.3) · Tag 531, Do 18. Maerz · 2.593 W
+- **B2 85** *Twenty-seven* (v3.4) · Tag 531, Do 18. Maerz · 2.677 W
 - **B2 86** *Please guide me* (v3.23) · Tag 531, Do 18. Maerz · 3.901 W
 - **B2 87** *The length of the room* (v3.17) · Tag 531, Do 18. Maerz · 3.826 W
 - **B2 88** *Not the comfortable part* (v3.5) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 3.249 W

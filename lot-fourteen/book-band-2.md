@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.521 Woerter.
+Book Two, 89 Kapitel, 231.605 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -95,7 +95,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 82 | v1.3 | 2.814 |
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
-| 85 | v3.3 | 2.593 |
+| 85 | v3.4 | 2.677 |
 | 86 | v3.23 | 3.901 |
 | 87 | v3.17 | 3.826 |
 | 88 | v3.5 | 3.249 |
@@ -18989,7 +18989,7 @@ Annie folded the list along its own crease and put it in the drawer that locks.
 ---
 
 # Book Two · Chapter 85: Twenty-seven
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19213,9 +19213,15 @@ He lowered his voice for it, and nobody else in that room lowered theirs once.
 
 "I made an offer in this house in December. Two billion two hundred million, and it was refused, and I have been working out how far under I was ever since." He did not get up for any of it. "You are going to do the same arithmetic before you get to your car, and you are going to get a worse answer than I did."
 
-Choi Dae-ho answered him and smiled.
+"So how much would you say I should have offered."
 
-Then he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
+Choi Dae-ho stopped with one hand on the back of his own chair.
+
+"Nothing I am able to afford," he said.
+
+It is the only true thing he said out loud in that room all evening. He said it to a man he does not like, in front of two people who were looking, about somebody who was standing eleven feet away and heard it.
+
+Then he smiled, and there was nothing wrong with the smile at all, and he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
 
 Nobody watched him go.
 

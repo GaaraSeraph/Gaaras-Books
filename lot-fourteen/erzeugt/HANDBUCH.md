@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.057 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.070 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -640,7 +640,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 332.236 Woerter.**
+**123 Kapitel, 332.255 Woerter.**
 
 ---
 
@@ -27715,9 +27715,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch85:74 | Mrs Seo took it over her arm and said good evening and told him where the room was. |
 | 531 | b2ch85:88 | Mrs Seo did not say anything back. She said the number of the room again and stepped asi.. |
 | 531 | b2ch85:264 | At half past nine Mrs Seo came into the room by the door at the far end. |
-| 531 | b2ch85:312 | Mrs Seo was coming back up it. |
-| 531 | b2ch85:324 | "He asked me on the way whether I had been in this house long," said Mrs Seo, "and I sai.. |
-| 531 | b2ch85:338 | "No," said Mrs Seo. "I am going to go and see about the second sitting, and in about a y.. |
+| 531 | b2ch85:322 | Mrs Seo was coming back up it. |
+| 531 | b2ch85:334 | "He asked me on the way whether I had been in this house long," said Mrs Seo, "and I sai.. |
+| 531 | b2ch85:348 | "No," said Mrs Seo. "I am going to go and see about the second sitting, and in about a y.. |
 | 531 | b2ch86:12 | It was not what had gone down the long table at eight. Georgij had asked Mrs Seo in the .. |
 | 531 | b2ch86:456 | Behind him, in a small room at the end of it, a man of sixty stood at a window and looke.. |
 | 531 | b2ch87:44 | At ten to ten Mrs Seo went down the passage. |
@@ -27804,7 +27804,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch85:58` (Tag 531) - six
 - `b2ch85:88` (Tag 531) - two
 - `b2ch85:264` (Tag 531) - nine
-- `b2ch85:324` (Tag 531) - nine
+- `b2ch85:334` (Tag 531) - nine
 - `b2ch86:12` (Tag 531) - eight, two
 - `b2ch86:456` (Tag 531) - eleven, four, sixty
 - `b2ch87:44` (Tag 531) - ten
@@ -28198,7 +28198,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch85:202 | Georgij watched Choi Dae-ho watch it. |
 | 531 | b2ch85:234 | And at twenty past nine Choi Dae-ho picked up a fork, and put a piece of something on it.. |
 | 531 | b2ch85:276 | Choi Dae-ho put his napkin on the table beside his plate and got up. |
-| 531 | b2ch85:294 | Choi Dae-ho answered him and smiled. |
+| 531 | b2ch85:298 | Choi Dae-ho stopped with one hand on the back of his own chair. |
 | 531 | b2ch86:18 | Choi Dae-ho was standing at the window with his back to the door and he turned round bef.. |
 | 531 | b2ch86:30 | There were two places at that table and Choi Dae-ho did not look at either of them. It i.. |
 | 531 | b2ch86:32 | "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been a.. |
@@ -28270,6 +28270,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch85:106` (Tag 531) - nine
 - `b2ch85:138` (Tag 531) - eight, eleven, fifty, five, four, one, six, two
 - `b2ch85:234` (Tag 531) - nine, twenty
+- `b2ch85:298` (Tag 531) - one
 - `b2ch86:30` (Tag 531) - two
 - `b2ch86:40` (Tag 531) - four
 - `b2ch86:120` (Tag 531) - two

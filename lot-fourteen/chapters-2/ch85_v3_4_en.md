@@ -1,5 +1,5 @@
 # Chapter 85: Twenty-seven
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -291,9 +291,19 @@ He lowered his voice for it, and nobody else in that room lowered theirs once.
 
 ---
 
-Choi Dae-ho answered him and smiled.
+"So how much would you say I should have offered."
 
-Then he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
+---
+
+Choi Dae-ho stopped with one hand on the back of his own chair.
+
+"Nothing I am able to afford," he said.
+
+---
+
+It is the only true thing he said out loud in that room all evening. He said it to a man he does not like, in front of two people who were looking, about somebody who was standing eleven feet away and heard it.
+
+Then he smiled, and there was nothing wrong with the smile at all, and he went round behind the chairs and followed a woman in her fifties down the length of that dining room and out through a door.
 
 ---
 
