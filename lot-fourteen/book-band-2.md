@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.879 Woerter.
+Book Two, 89 Kapitel, 228.018 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.8 | 2.325 |
+| 63 | v1.9 | 2.464 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -13797,7 +13797,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13835,27 +13835,39 @@ Mr Hwang telephoned it through and did not dress it.
 
 "That they were never going to argue about it, and that the figure could have been a third of what it is." He did not hurry any of it. "You will both work that out by about six this evening and there is nothing I can do about it. I am telling you at ten past two so that you have it from me and not from the arithmetic."
 
-"Then say why he did not simply refuse."
+"Say the part I did not ask for," said Georgij. "Why he did not telephone Seoul."
 
-"Because refusing costs him the money and changes nothing else about his week." Mr Hwang did not hurry any of it. "You know what I told you in this room in October. He has been on that entry for four years and on the other one for eleven, and there is nothing left of him to expose. He was never going to be frightened into anything."
+"Because he could not."
 
-"Then say what did it."
+"He could have picked up a telephone at any hour on Tuesday."
 
-"You offered to take half of a house off a man who cannot get out of it, and to pay him for the half that nobody in Seoul asks about." Mr Hwang put both hands flat. "He did not weigh a woman against four hundred and eighty-one million. He weighed one rota against two."
+"He could have picked it up. He could not have said the sentence." Mr Hwang did not hurry any of it. "To ask Seoul whether he may sell her, he has to say why he wants to. And the reason he wants to is the one thing in that house he has never reported."
 
-Georgij put the note face down before he answered.
+Georgij did not move at all.
 
-"And the man in Seoul."
+"Say it flatly."
 
-"Would have been told if anything had changed for him, and nothing has. He pays for a woman on oxygen and he will go on paying for her, and she is still in that building tonight." He said it without any comfort in it. "Chu was not asked to give up the one his client wants. That is why there was no telephone call, and it is the only reason there was not one."
+"She has been the nursing in that building for three and a half years." Mr Hwang put both hands on the desk. "He takes a fee that was written when the oxygen was thirty days. It is eleven. He has never gone back and asked for more, and I want you to think about why a man in that trade would not ask for more."
 
-*He kept the one that is paid for and sold the one that was not, and it took him a night and part of a morning to see that.*
+"Because he found a way to cover the difference and it did not cost him anything."
 
-*I built that. It is the first thing this year that worked because I understood what a man wanted and not what he was afraid of.*
+"It cost him nothing at all. She was already in the building."
 
-*I would like to be pleased about it. I am not going to be.*
+"So if he telephones."
 
-*She ran that household for three and a half years and nobody on that side ever wrote down that she did.*
+"Then the first question is what he has been doing with the difference for four years." Mr Hwang did not look away from it. "The second is who has been looking after her, and he does not survive answering that one. He loses the fee, he loses the client, and he keeps the house."
+
+"He can still refuse," said Georgij.
+
+"He can refuse and say nothing, and then he has your form on his desk, no money, and the same two women on Friday." Mr Hwang turned the sheet back over. "You did not take the decision away from him. You arranged it so that the cheapest thing he could do was the thing you wanted, and you did it without ever speaking to him, and I would like you to be clear with yourself about what that is."
+
+*He did not choose her against the money. He chose not to have to explain himself, and it took him a night and part of a morning to find that out about himself.*
+
+*I did not threaten him. I never spoke to him. I made the question expensive and let him decline to ask it.*
+
+*And when she comes out of that building there is nobody left in it who knows how to look after Moon Hae-sook.*
+
+*I have known that since Tuesday and I signed anyway. There is one version in which that is not the worst thing I have done this year, and it has a date on it, and the date is before Christmas.*
 
 She worked it out at about twenty past two, which is ten minutes and not four hours.
 
