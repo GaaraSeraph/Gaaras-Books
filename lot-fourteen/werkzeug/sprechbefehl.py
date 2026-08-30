@@ -60,7 +60,7 @@ BEHALTEN = {"Annie", "Sang-hoon", "Park Sang-hoon"}
 
 def kapitel():
     aus = []
-    for ordner, band in (("chapters", "b1"), ("chapters-2", "b2")):
+    for ordner, band in (("chapters", "b1"), ("chapters-2", "b2"), ("chapters-3", "b3")):
         pfad = os.path.join(WURZEL, ordner)
         if not os.path.isdir(pfad):
             continue

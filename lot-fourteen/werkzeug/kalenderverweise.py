@@ -55,7 +55,7 @@ def zahl(s):
 def kanon():
     u"""Kapitelnummer -> Menge der Erzaehltage darin, je Band."""
     aus = {}
-    for band, ordner in ((1, u'chapters'), (2, u'chapters-2')):
+    for band, ordner in ((1, u'chapters'), (2, u'chapters-2'), (3, u'chapters-3')):
         hoechste = {}
         for f in glob.glob(os.path.join(ordner, u'ch*_en.md')):
             m = re.search(u'ch(\\d+)_v(\\d+)_(\\d+)_en\\.md$', f.replace(u'\\', u'/'))

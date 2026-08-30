@@ -67,7 +67,7 @@ def woerter(t):
 
 dfz = collections.Counter()
 gesamt = 0
-for _v in ('chapters', 'chapters-2'):
+for _v in ('chapters', 'chapters-2', 'chapters-3'):
     for _k, _p in kapitel(_v).items():
         gesamt += 1
         dfz.update(set(woerter(rumpf(_p))))

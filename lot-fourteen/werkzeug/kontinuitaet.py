@@ -27,7 +27,7 @@ NAME = re.compile(r'ch(\d+)_v(\d+)_(\d+)_en\.md$')
 def kapitel():
     """Alle Kapitel beider Baende, jeweils die hoechste Fassung."""
     out = []
-    for band, d in ((1, 'chapters'), (2, 'chapters-2')):
+    for band, d in ((1, 'chapters'), (2, 'chapters-2'), (3, 'chapters-3')):
         best = {}
         for p in glob.glob(os.path.join(d, 'ch*_en.md')):
             m = NAME.search(os.path.basename(p))

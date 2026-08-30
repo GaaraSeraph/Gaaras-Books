@@ -70,12 +70,12 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | Band 1, Ende | 149 | So 1. Maerz 2026 |
 | **Band 2, Kapitel 1** | 150 | Mo 2. Maerz 2026 |
 | **frueheres Kapitel 90** | 415 | So 22. November 2026 |
-| **Kapitel 83** - Bandende, seit dem Umbau vom 27.08. | 590 | So **16. Mai 2027** |
+| **Band 2, Kapitel 89** - Bandende | 590 | So **16. Mai 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
-2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 71 bis
-83 spielen im Jahr 2027. Bis zum Umbau endete der Band im November 2026, und
-alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber alle 124 Kapitel geprueft und stimmen:
+2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
+89 spielen im Jahr 2027 - Kapitel 76 faengt an Tag 460, dem 6. Januar, an. Bis zum Umbau endete der Band im November 2026, und
+alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber alle 123 Kapitel geprueft und stimmen:
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 *"Sunday 22 November"*, der Kalender sagt Sonntag.
 

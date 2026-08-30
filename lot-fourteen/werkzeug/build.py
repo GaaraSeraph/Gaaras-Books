@@ -48,6 +48,7 @@ HEAD = re.compile(r"Version\s+(\d+)\.(\d+)\s")
 BANDS = [
     (1, "chapters", "Book One"),
     (2, "chapters-2", "Book Two"),
+    (3, "chapters-3", "Book Three"),
 ]
 
 

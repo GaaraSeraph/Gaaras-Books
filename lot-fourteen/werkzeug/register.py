@@ -73,9 +73,11 @@ def datum(n):
 def kanon():
     u"""Hoechste Fassung je Kapitelnummer, je Band."""
     aus = []
-    for ordner, band in ((u'chapters', 1), (u'chapters-2', 2)):
+    for ordner, band in ((u'chapters', 1), (u'chapters-2', 2), (u'chapters-3', 3)):
         hoechste = {}
         p = os.path.join(WURZEL, ordner)
+        if not os.path.isdir(p):
+            continue
         for name in os.listdir(p):
             m = DATEI.match(name)
             if m:

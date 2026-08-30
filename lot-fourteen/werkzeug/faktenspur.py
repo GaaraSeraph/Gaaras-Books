@@ -134,7 +134,7 @@ def aus_git(root, sha, relpfad):
 
 def vergleich_vorige(root):
     treffer = 0
-    for band, d in ((u"B1", "chapters"), (u"B2", "chapters-2")):
+    for band, d in ((u"B1", "chapters"), (u"B2", "chapters-2"), (u"B3", "chapters-3")):
         f = fassungen(os.path.join(root, d))
         for ch in sorted(f, key=lambda x: int(x[2:])):
             vs = f[ch]
@@ -153,7 +153,7 @@ def vergleich_vorige(root):
 def vergleich_seit(root, sha):
     treffer = 0
     vorher = {}
-    for d in ("chapters", "chapters-2"):
+    for d in ("chapters", "chapters-2", "chapters-3"):
         roh = subprocess.check_output(["git", "ls-tree", "--name-only", sha,
                                        "lot-fourteen/%s/" % d], cwd=os.path.dirname(root))
         for zeile in roh.decode("utf-8").split():
@@ -163,7 +163,7 @@ def vergleich_seit(root, sha):
                 k = (int(m.group(3)), int(m.group(4)))
                 if schluessel not in vorher or k > vorher[schluessel][0]:
                     vorher[schluessel] = (k, zeile)
-    for band, d in ((u"B1", "chapters"), (u"B2", "chapters-2")):
+    for band, d in ((u"B1", "chapters"), (u"B2", "chapters-2"), (u"B3", "chapters-3")):
         f = fassungen(os.path.join(root, d))
         for ch in sorted(f, key=lambda x: int(x[2:])):
             alt = vorher.get((d, ch))

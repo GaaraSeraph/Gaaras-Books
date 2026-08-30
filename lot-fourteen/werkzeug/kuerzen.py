@@ -66,7 +66,7 @@ KAPITEL_REF = re.compile(r"\b[Bb]([12])\s*(?:ch|K)?\s*(\d{1,2})\b")
 def neuste_kapitel():
     """(band, nummer, pfad, text) je Kapitel, nur die hoechste Fassung."""
     aus = []
-    for ordner, band in (("chapters", "B1"), ("chapters-2", "B2")):
+    for ordner, band in (("chapters", "B1"), ("chapters-2", "B2"), ("chapters-3", "B3")):
         pfad = os.path.join(WURZEL, ordner)
         if not os.path.isdir(pfad):
             continue

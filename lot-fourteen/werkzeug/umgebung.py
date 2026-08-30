@@ -28,7 +28,7 @@ def dump(band, von, bis):
         print('Keine Stelle in %s %02d bis %02d.' % (band, von, bis))
         return 0
 
-    ordner = 'chapters' if band == 'b1' else 'chapters-2'
+    ordner = {'b1': 'chapters', 'b2': 'chapters-2', 'b3': 'chapters-3'}[band]
     cache = {}
     letzte_marke = None
     for marke, datei, nr, wer, replik in treffer:

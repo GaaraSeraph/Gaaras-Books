@@ -93,8 +93,10 @@ TICS = {
 
 def kanon():
     """Hoechste Fassung je Kapitel, aus dem Verzeichnis und nie aus MANIFEST."""
-    for band, d in (("b1", "chapters"), ("b2", "chapters-2")):
+    for band, d in (("b1", "chapters"), ("b2", "chapters-2"), ("b3", "chapters-3")):
         best = {}
+        if not os.path.isdir(d):
+            continue
         for n in os.listdir(d):
             m = re.match(r"ch(\d+)_v(\d+)_(\d+)_en\.md$", n)
             if not m:

@@ -102,7 +102,7 @@ def machen(texte):
 
 def korpus(root, alle=False):
     texte = []
-    for d in ("chapters", "chapters-2"):
+    for d in ("chapters", "chapters-2", "chapters-3"):
         ordner = os.path.join(root, d)
         pfade = glob.glob(os.path.join(ordner, "ch*_v*_en.md")) if alle \
             else list(lebende(ordner).values())
@@ -353,7 +353,7 @@ MARKE = re.compile(r"^- \*\*Band (1|2), Kapitel (\d+)\*\*", re.M)
 
 def kapitelkorpora(root):
     aus = {}
-    for band, d in (("1", "chapters"), ("2", "chapters-2")):
+    for band, d in (("1", "chapters"), ("2", "chapters-2"), ("3", "chapters-3")):
         for ch, p in lebende(os.path.join(root, d)).items():
             aus[(band, int(ch[2:]))] = machen([io.open(p, encoding="utf-8").read()])
     return aus

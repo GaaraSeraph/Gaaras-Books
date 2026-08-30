@@ -71,7 +71,7 @@ ZITAT = re.compile(r'"([^"]{20,})"')
 def kapitel():
     """Aktuelle Fassung jedes Kapitels, mit Band, Nummer und Tag."""
     aus = []
-    for ordner, band in (("chapters", "B1"), ("chapters-2", "B2")):
+    for ordner, band in (("chapters", "B1"), ("chapters-2", "B2"), ("chapters-3", "B3")):
         pfad = os.path.join(WURZEL, ordner)
         if not os.path.isdir(pfad):
             continue
