@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.132 Woerter.
+Book Two, 89 Kapitel, 231.239 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -96,7 +96,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.19 | 3.531 |
+| 86 | v3.20 | 3.638 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
@@ -19262,7 +19262,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.19 · EN
+*Lot Fourteen* · Version 3.20 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19272,7 +19272,7 @@ Georgij has sat in it twice and both times he was waiting to be told something.
 
 Tonight the table was laid for two.
 
-It was what had gone down the long table at eight. Georgij had asked Mrs Seo for it in the passage on his way past, and she had not asked him what it was for.
+It was not what had gone down the long table at eight. Georgij had asked Mrs Seo in the passage on his way past for two bowls and two spoons and nothing else at all, and she had not asked him what it was for.
 
 He came in at twenty-five to ten.
 
@@ -19466,11 +19466,23 @@ The table had been laid for a quarter of an hour. He had got up from it and Geor
 
 "You do not eat. Not with people you work on." Choi Dae-ho's hand was still on the sill. "I wanted to see whether you would try to work on me. It is only a measurement, or my amusement. Pay it no mind."
 
-Choi Dae-ho looked at the plate for the first time.
+Choi Dae-ho looked at the table for the first time.
+
+It is a bowl and a spoon and nothing else, and there are two of them, and there is no other reason for a table in that house to be laid that way.
+
+"The twenty-first of May," he said.
+
+"The third table from the window."
+
+Choi Dae-ho turned round from the glass.
+
+"You did not know I was going to be there that day." Georgij did not decorate it. "I have wondered about that for ten months and I have just been told."
+
+He let the man have the whole of it before he went on.
 
 "That was the first one," said Georgij.
 
-Choi Dae-ho looked away from the plate.
+Choi Dae-ho looked away from the two bowls.
 
 "The first of what?"
 
