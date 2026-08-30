@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 229.805 Woerter.
+Book Two, 89 Kapitel, 230.116 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.7 | 2.675 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.14 | 3.389 |
+| 63 | v1.15 | 3.575 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 86 | v3.13 | 3.233 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.4 | 2.956 |
-| 89 | v3.3 | 2.652 |
+| 89 | v3.4 | 2.777 |
 
 ---
 
@@ -13869,7 +13869,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13961,7 +13961,21 @@ Georgij had gone very still.
 
 "Then say what he does on the third of November."
 
-"What he did in February four years ago," said Mr Hwang. "It took seven weeks that time, and he was not hurrying, and there was a house on the river to get it from."
+"What he did in February four years ago," said Mr Hwang. "It took seven weeks that time, and there was a house on the river to get it from."
+
+"Seven weeks is a long time to choose a servant."
+
+"He was not choosing a servant." Mr Hwang put the sheet down and did not square it. "A woman kept in a room for eleven years with no doctor's name on anything does not get a hospital. She gets what can be carried into a house."
+
+Georgij did not move at all.
+
+"Say it once and do not soften it."
+
+"He needed somebody she could take, and there are four kinds and hers is not the common one." Mr Hwang did not look away. "He waited seven weeks for one to come up on the river, and when one came up he paid for her without seeing her."
+
+"And the nursing."
+
+"Came free afterwards, because she was inside the house already." He picked the sheet up again. "That is the whole of why it was her twice over. The second time was a saving. The first time was on a card."
 
 "Sixty-one million four hundred thousand," said Georgij.
 
@@ -13999,7 +14013,7 @@ Georgij did not say anything for a moment.
 
 *He signed it because he believed we are the same as him. There was no version of that form that could have told him otherwise, and I did not want one, and her name is on it in her own hand.*
 
-*He will not hire a nurse. He will get another one.*
+*He will not hire a nurse. He cannot. He will get another one and it will take him seven weeks, and there is a woman on the river who has eleven days in her and does not know it.*
 
 *Sixty-one million four hundred thousand in February four years ago. Four hundred and eighty-one this afternoon, and four years of her in between for nothing.*
 
@@ -20335,7 +20349,7 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20373,6 +20387,12 @@ Two men in the ministry who are not in this book and do not need to be had a con
 
 And on the eleventh of April a man of about fifty-five sat down in a private room in Cheongdam with four people. Three of them had been at that table before, and one of them said so out loud in the first ten minutes.
 
+Nobody counted, and the number was never the thing about it.
+
+Men who had sat at that table told other men. Those men told the ones they eat with, and by the end of April there was nobody of that kind left in this country who had not heard what a dinner had been for.
+
+Some of them worked out that they had been worked on. Some of them worked out that they were going to have been. The second sort took it worse.
+
 * * *
 
 Mr Byun has not been seen in that trade since May of last year.
@@ -20397,7 +20417,9 @@ Moon Hae-sook has the room at the back on the ground floor because of the stairs
 
 The machine runs for four minutes in every hour and the account behind it has been Annie's since December, and nobody in that room has ever been told that there was a changeover.
 
-A cup goes in at eleven and at four.
+A cup goes in at eleven and at four. It is the same two hours it has been for four years.
+
+What is in it comes out of the woman who carries it, and she has been free since the second of November, and she has not missed one.
 
 Ahn Jung-hee has been up that hill eleven times. In April she stayed three days and came back with a fan.
 
