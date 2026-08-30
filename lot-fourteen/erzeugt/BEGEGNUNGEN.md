@@ -20,7 +20,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 865 | 92 (b1ch01-b2ch89) | 1 | 590 |
 | Park Sang-hoon | 303 | 46 (b1ch10-b2ch89) | 22 | 590 |
-| Chairman Woo | 229 | 39 (b1ch07-b2ch89) | 22 | 590 |
+| Chairman Woo | 231 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
@@ -847,19 +847,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 431 | b2ch68:166 | Annie stood in the passage for a moment. |
 | 431 | b2ch68:176 | "There is a price and you are going to say it out loud," said Annie, "because you will h.. |
 | 431 | b2ch68:190 | Annie looked at the cylinders. |
-| 434 | b2ch69:272 | He went up at about nine and Annie was at the desk and did not ask. |
-| 434 | b2ch69:284 | "And the part you have not said," said Annie. |
+| 434 | b2ch69:276 | He went up at about nine and Annie was at the desk and did not ask. |
+| 434 | b2ch69:288 | "And the part you have not said," said Annie. |
 | 442 | b2ch72:156 | Annie was at the desk with the folder from Yeouido open and did not close it, which she .. |
 | 442 | b2ch72:168 | Annie did not say anything for a moment. |
 | 442 | b2ch72:178 | "Jang takes you and sits in the car," said Annie. |
-| 462 | b2ch76:264 | Annie was at the desk when he got back and he gave her the three of them in the order th.. |
-| 462 | b2ch76:270 | Annie listened to the whole of it without saying anything. |
-| 462 | b2ch76:280 | Annie had not picked the pen back up. |
-| 462 | b2ch76:284 | "He was doing it in October, when the only thing he had was that somebody had been askin.. |
-| 462 | b2ch76:298 | "Then say the last part," said Annie. |
-| 462 | b2ch76:304 | Annie sat with that. |
-| 462 | b2ch76:312 | "Then we take it," said Annie. |
-| 462 | b2ch76:328 | Annie did not tell him that was wrong. |
+| 462 | b2ch76:266 | Annie was at the desk when he got back and he gave her the three of them in the order th.. |
+| 462 | b2ch76:272 | Annie listened to the whole of it without saying anything. |
+| 462 | b2ch76:282 | Annie had not picked the pen back up. |
+| 462 | b2ch76:286 | "He was doing it in October, when the only thing he had was that somebody had been askin.. |
+| 462 | b2ch76:300 | "Then say the last part," said Annie. |
+| 462 | b2ch76:306 | Annie sat with that. |
+| 462 | b2ch76:314 | "Then we take it," said Annie. |
+| 462 | b2ch76:330 | Annie did not tell him that was wrong. |
 | 464 | b2ch77:26 | Annie met him at the foot of the stairs and did not come further than that. |
 | 464 | b2ch77:34 | Annie looked at him for a moment. |
 | 464 | b2ch78:28 | Annie was at the desk with nothing in front of her at all, which he has seen twice. |
@@ -1156,9 +1156,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch67:12` (Tag 404) - one
 - `b2ch68:124` (Tag 431) - eleven
 - `b2ch68:140` (Tag 431) - four
-- `b2ch69:272` (Tag 434) - nine
-- `b2ch76:264` (Tag 462) - three
-- `b2ch76:284` (Tag 462) - four
+- `b2ch69:276` (Tag 434) - nine
+- `b2ch76:266` (Tag 462) - three
+- `b2ch76:286` (Tag 462) - four
 - `b2ch78:120` (Tag 464) - thirty
 - `b2ch78:128` (Tag 464) - four hundred, thirty, two
 - `b2ch78:218` (Tag 464) - one
@@ -1640,7 +1640,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-229 Nennungen in 39 Kapiteln.
+231 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1795,31 +1795,33 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 434 | b2ch69:22 | Chairman Woo came out to the car himself, which is the third time. |
 | 434 | b2ch69:42 | Woo stopped with his hand on the back of his own chair. |
 | 434 | b2ch69:54 | Woo sat down. |
+| 434 | b2ch69:58 | Woo looked at the coat and not at the man in it. |
 | 434 | b2ch69:66 | Woo sat with his forearms on the desk and looked at the middle of it for about as long a.. |
-| 434 | b2ch69:74 | "No. You had somebody in a building then and you could not afford the answer." Woo turne.. |
-| 434 | b2ch69:82 | Woo did not perform anything. |
-| 434 | b2ch69:86 | Then Woo went quiet, and it was a different quiet from the first one. |
-| 434 | b2ch69:92 | "I am aware of the arrangement. I made most of it." Woo looked out at the water for a mo.. |
-| 434 | b2ch69:98 | "I have never told anybody about the other one," said Woo. |
-| 434 | b2ch69:106 | Two containers, a declaration that had been made by a man who no longer worked for him, .. |
-| 434 | b2ch69:112 | "A young man came out to the yard. On his own, in his own car, on a Wednesday in Februar.. |
-| 434 | b2ch69:118 | "He asked me one question," said Woo. "Not about the declaration. He had the declaration.. |
-| 434 | b2ch69:122 | "He asked me who I would telephone if it went badly." Woo said it exactly, in the way of.. |
-| 434 | b2ch69:130 | "I named three men. I did it in about four seconds, which is the part I have had to live.. |
-| 434 | b2ch69:142 | Woo got there on his own, and it took him perhaps twenty seconds, and Georgij watched a .. |
-| 434 | b2ch69:144 | "He did not want it for the case," said Woo. |
-| 434 | b2ch69:148 | "He wanted to know who I had." Woo said it flatly and then he said the rest of it more s.. |
-| 434 | b2ch69:152 | "The third is alive. I have not had a real conversation with him since my wife died." Wo.. |
-| 434 | b2ch69:154 | "I am spending the three hours," said Woo. |
-| 434 | b2ch69:158 | "You have not asked for them twice now, and you are the only man alive who has ever had .. |
-| 434 | b2ch69:172 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
-| 434 | b2ch69:184 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
-| 434 | b2ch69:198 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
-| 434 | b2ch69:202 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
-| 434 | b2ch69:218 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
-| 434 | b2ch69:228 | Woo took his hand off the roof of the car. |
-| 434 | b2ch69:242 | *Chairman Woo has been telling himself for twenty-four years that one of three men paid .. |
-| 462 | b2ch76:300 | "Chairman Woo said it in a shed in December and I wrote it down in a car on the bridge a.. |
+| 434 | b2ch69:72 | "No. I am telling you because I am about to use it." Woo did not move his forearms. "You.. |
+| 434 | b2ch69:78 | "No. You had somebody in a building then and you could not afford the answer." Woo turne.. |
+| 434 | b2ch69:86 | Woo did not perform anything. |
+| 434 | b2ch69:90 | Then Woo went quiet, and it was a different quiet from the first one. |
+| 434 | b2ch69:96 | "I am aware of the arrangement. I made most of it." Woo looked out at the water for a mo.. |
+| 434 | b2ch69:102 | "I have never told anybody about the other one," said Woo. |
+| 434 | b2ch69:110 | Two containers, a declaration that had been made by a man who no longer worked for him, .. |
+| 434 | b2ch69:116 | "A young man came out to the yard. On his own, in his own car, on a Wednesday in Februar.. |
+| 434 | b2ch69:122 | "He asked me one question," said Woo. "Not about the declaration. He had the declaration.. |
+| 434 | b2ch69:126 | "He asked me who I would telephone if it went badly." Woo said it exactly, in the way of.. |
+| 434 | b2ch69:134 | "I named three men. I did it in about four seconds, which is the part I have had to live.. |
+| 434 | b2ch69:146 | Woo got there on his own, and it took him perhaps twenty seconds, and Georgij watched a .. |
+| 434 | b2ch69:148 | "He did not want it for the case," said Woo. |
+| 434 | b2ch69:152 | "He wanted to know who I had." Woo said it flatly and then he said the rest of it more s.. |
+| 434 | b2ch69:156 | "The third is alive. I have not had a real conversation with him since my wife died." Wo.. |
+| 434 | b2ch69:158 | "I am spending the three hours," said Woo. |
+| 434 | b2ch69:162 | "You have not asked for them twice now, and you are the only man alive who has ever had .. |
+| 434 | b2ch69:176 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
+| 434 | b2ch69:188 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
+| 434 | b2ch69:202 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
+| 434 | b2ch69:206 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
+| 434 | b2ch69:222 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
+| 434 | b2ch69:232 | Woo took his hand off the roof of the car. |
+| 434 | b2ch69:246 | *Chairman Woo has been telling himself for twenty-four years that one of three men paid .. |
+| 462 | b2ch76:302 | "Chairman Woo said it in a shed in December and I wrote it down in a car on the bridge a.. |
 | 464 | b2ch77:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 464 | b2ch77:28 | "Chairman Woo." |
 | 464 | b2ch77:30 | "I telephoned on Friday and I said a thing to your man that I want to say to your face, .. |
@@ -1961,24 +1963,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch19:32` (Tag 209) - five, seven, twenty, two
 - `b2ch19:64` (Tag 209) - five, four, one
 - `b2ch36:82` (Tag 257) - one, three
-- `b2ch69:74` (Tag 434) - one
-- `b2ch69:86` (Tag 434) - one
-- `b2ch69:92` (Tag 434) - fifty-one, four hundred, one, two
-- `b2ch69:98` (Tag 434) - one
-- `b2ch69:106` (Tag 434) - two
-- `b2ch69:112` (Tag 434) - forty, one, thirty-five, thirty-six, twenty-four
-- `b2ch69:118` (Tag 434) - one
-- `b2ch69:130` (Tag 434) - four, six, three
-- `b2ch69:142` (Tag 434) - seventy-eight, twenty
-- `b2ch69:148` (Tag 434) - one, three, twenty-four, two
-- `b2ch69:152` (Tag 434) - fourteen, three, twenty-four
-- `b2ch69:154` (Tag 434) - three
+- `b2ch69:78` (Tag 434) - one
+- `b2ch69:90` (Tag 434) - one
+- `b2ch69:96` (Tag 434) - fifty-one, four hundred, one, two
+- `b2ch69:102` (Tag 434) - one
+- `b2ch69:110` (Tag 434) - two
+- `b2ch69:116` (Tag 434) - forty, one, thirty-five, thirty-six, twenty-four
+- `b2ch69:122` (Tag 434) - one
+- `b2ch69:134` (Tag 434) - four, six, three
+- `b2ch69:146` (Tag 434) - seventy-eight, twenty
+- `b2ch69:152` (Tag 434) - one, three, twenty-four, two
+- `b2ch69:156` (Tag 434) - fourteen, three, twenty-four
 - `b2ch69:158` (Tag 434) - three
-- `b2ch69:172` (Tag 434) - seventy-eight, two, two thousand and two
-- `b2ch69:198` (Tag 434) - nine hundred, one, six, ten
-- `b2ch69:202` (Tag 434) - four, one
-- `b2ch69:218` (Tag 434) - one
-- `b2ch69:242` (Tag 434) - one, three, twenty-four
+- `b2ch69:162` (Tag 434) - three
+- `b2ch69:176` (Tag 434) - seventy-eight, two, two thousand and two
+- `b2ch69:202` (Tag 434) - nine hundred, one, six, ten
+- `b2ch69:206` (Tag 434) - four, one
+- `b2ch69:222` (Tag 434) - one
+- `b2ch69:246` (Tag 434) - one, three, twenty-four
 - `b2ch77:14` (Tag 464) - nine, one
 - `b2ch77:58` (Tag 464) - eleven, seventy-four
 - `b2ch77:66` (Tag 464) - eleven, one, two thousand and two
@@ -2881,7 +2883,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 431 | b2ch68:12 | Mrs Seo had it put up on the Thursday. Nobody in that house asked her about it and nobod.. |
 | 431 | b2ch68:102 | Georgij stood in the passage by the rail Mrs Seo had put up. |
 | 431 | b2ch68:126 | She looked at the cylinders against the wall and at the rail Mrs Seo had put up, and she.. |
-| 434 | b2ch69:266 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
+| 434 | b2ch69:270 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
 | 464 | b2ch77:10 | Mrs Seo had the door open before he was out of it. |
 | 464 | b2ch77:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 464 | b2ch77:36 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
@@ -3511,10 +3513,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 460 | b2ch76:42 | "I telephoned him on Tuesday to ask, because I am not a fool." Mr Ahn looked up. "He sai.. |
 | 460 | b2ch76:58 | "You have gone quiet," said Mr Ahn. |
 | 460 | b2ch76:76 | Mr Ahn wiped his hands on the cloth. |
-| 463 | b2ch76:332 | He went back up the hill and told Mr Ahn the whole of it, standing, and it took under fo.. |
-| 463 | b2ch76:336 | Mr Ahn heard it with the cloth over his shoulder and did not touch anything on the bench. |
-| 463 | b2ch76:348 | Mr Ahn looked at the fan in the corner for a while. |
-| 463 | b2ch76:358 | Georgij held it at the angle it wanted and did not say anything. At some point in the mi.. |
+| 463 | b2ch76:334 | He went back up the hill and told Mr Ahn the whole of it, standing, and it took under fo.. |
+| 463 | b2ch76:338 | Mr Ahn heard it with the cloth over his shoulder and did not touch anything on the bench. |
+| 463 | b2ch76:350 | Mr Ahn looked at the fan in the corner for a while. |
+| 463 | b2ch76:360 | Georgij held it at the angle it wanted and did not say anything. At some point in the mi.. |
 | 590 | b2ch89:98 | It is the one that was in bits on a bench in July and was mended in September and has be.. |
 
 ### Zahlen in der Naehe von Mr Ahn
@@ -3545,8 +3547,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch63:240` (Tag 390) - four, three, twenty
 - `b2ch76:30` (Tag 460) - four
 - `b2ch76:42` (Tag 460) - one
-- `b2ch76:332` (Tag 463) - four
-- `b2ch76:358` (Tag 463) - eleven
+- `b2ch76:334` (Tag 463) - four
+- `b2ch76:360` (Tag 463) - eleven
 - `b2ch89:98` (Tag 590) - one
 
 ---

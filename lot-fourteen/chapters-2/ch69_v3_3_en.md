@@ -1,5 +1,5 @@
 # Chapter 69: Nobody paid
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Thirty-Four · Friday 11 December
 
@@ -55,7 +55,7 @@ Woo sat down.
 
 "Then stay standing," he said. "I have not been spoken to like that since nineteen ninety-four and I am not going to interrupt it with furniture."
 
----
+Woo looked at the coat and not at the man in it.
 
 "Then say what you are here for."
 
@@ -65,7 +65,11 @@ Woo sat down.
 
 Woo sat with his forearms on the desk and looked at the middle of it for about as long as it takes to fill a kettle.
 
-"You have had him all year," he said. "You have taken a woman out of his house. You have taken his solicitor and the man who did his telephoning. And you have come out to an island in December to ask me a question you could have asked in March."
+"Since April I have had a man read that trade for me once a month," he said. "You would not take anything from me, and I wanted to know what you were spending instead."
+
+"I did not know that."
+
+"No. I am telling you because I am about to use it." Woo did not move his forearms. "You have had him all year. You have taken a woman out of his house. You have taken his solicitor and the man who did his telephoning. And you have come out to an island in December to ask me a question you could have asked in March."
 
 "I could not have asked it in March."
 
@@ -155,11 +159,11 @@ Woo got there on his own, and it took him perhaps twenty seconds, and Georgij wa
 
 "I did not ask for them."
 
-"You have not asked for them twice now, and you are the only man alive who has ever had to be told what he is owed." Woo turned his hand over on the desk. "In November you sat in a shed at Yeongjong and talked to me for three hours and wanted nothing at the end of it. Nobody has done that to me since 1994. I have been in your debt since, and in April I refused to settle it on a lane."
+"You have not asked for them twice now, and you are the only man alive who has ever had to be told what he is owed." Woo turned his hand over on the desk. "In November you sat in a shed at Yeongjong and gave me three hours and wanted nothing at the end of them. Nobody has done that to me since 1994. I have had three hours of yours since, and in April I tried to hand them back on a lane and you would not have it."
 
 "You said it would have to be worth what it was worth."
 
-"It is. I am paying it this afternoon and I am choosing what it goes on, and I have been waiting fourteen months to be allowed to." He pulled a pad towards him. "And I could only choose it because you did not ask. If you had asked me in April I would have given them to you and thought about it every week since, and by August I would have found something wrong with you."
+"It is. This afternoon you are getting three of mine, and I am choosing what they go on, and I have been waiting fourteen months to be allowed to." He turned the hand back over. "And I could only choose it because you did not ask. If you had asked me in April I would have given them to you and thought about it every week since, and by August I would have found something wrong with you."
 
 ---
 

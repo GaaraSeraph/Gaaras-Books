@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 230.116 Woerter.
+Book Two, 89 Kapitel, 230.218 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -79,20 +79,20 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 66 | v1.3 | 2.411 |
 | 67 | v2.6 | 2.074 |
 | 68 | v3.2 | 2.071 |
-| 69 | v3.2 | 2.492 |
+| 69 | v3.3 | 2.566 |
 | 70 | v3.3 | 2.249 |
 | 71 | v3.1 | 2.228 |
 | 72 | v3.2 | 3.672 |
 | 73 | v3.4 | 2.286 |
 | 74 | v3.1 | 2.398 |
-| 75 | v3.5 | 2.560 |
-| 76 | v3.2 | 2.806 |
+| 75 | v3.6 | 2.564 |
+| 76 | v3.3 | 2.827 |
 | 77 | v3.1 | 2.331 |
 | 78 | v3.1 | 2.566 |
-| 79 | v3.2 | 2.861 |
+| 79 | v3.3 | 2.864 |
 | 80 | v3.3 | 2.846 |
 | 81 | v3.3 | 2.369 |
-| 82 | v1.2 | 2.814 |
+| 82 | v1.3 | 2.814 |
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
@@ -15163,7 +15163,7 @@ Nobody in that room will be told, and that is the whole of what was decided in a
 ---
 
 # Book Two · Chapter 69: Nobody paid
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Thirty-Four · Friday 11 December
 
@@ -15207,13 +15207,19 @@ Woo sat down.
 
 "Then stay standing," he said. "I have not been spoken to like that since nineteen ninety-four and I am not going to interrupt it with furniture."
 
+Woo looked at the coat and not at the man in it.
+
 "Then say what you are here for."
 
 "How do you take a man apart who does not own anything?"
 
 Woo sat with his forearms on the desk and looked at the middle of it for about as long as it takes to fill a kettle.
 
-"You have had him all year," he said. "You have taken a woman out of his house. You have taken his solicitor and the man who did his telephoning. And you have come out to an island in December to ask me a question you could have asked in March."
+"Since April I have had a man read that trade for me once a month," he said. "You would not take anything from me, and I wanted to know what you were spending instead."
+
+"I did not know that."
+
+"No. I am telling you because I am about to use it." Woo did not move his forearms. "You have had him all year. You have taken a woman out of his house. You have taken his solicitor and the man who did his telephoning. And you have come out to an island in December to ask me a question you could have asked in March."
 
 "I could not have asked it in March."
 
@@ -15279,11 +15285,11 @@ Woo got there on his own, and it took him perhaps twenty seconds, and Georgij wa
 
 "I did not ask for them."
 
-"You have not asked for them twice now, and you are the only man alive who has ever had to be told what he is owed." Woo turned his hand over on the desk. "In November you sat in a shed at Yeongjong and talked to me for three hours and wanted nothing at the end of it. Nobody has done that to me since 1994. I have been in your debt since, and in April I refused to settle it on a lane."
+"You have not asked for them twice now, and you are the only man alive who has ever had to be told what he is owed." Woo turned his hand over on the desk. "In November you sat in a shed at Yeongjong and gave me three hours and wanted nothing at the end of them. Nobody has done that to me since 1994. I have had three hours of yours since, and in April I tried to hand them back on a lane and you would not have it."
 
 "You said it would have to be worth what it was worth."
 
-"It is. I am paying it this afternoon and I am choosing what it goes on, and I have been waiting fourteen months to be allowed to." He pulled a pad towards him. "And I could only choose it because you did not ask. If you had asked me in April I would have given them to you and thought about it every week since, and by August I would have found something wrong with you."
+"It is. This afternoon you are getting three of mine, and I am choosing what they go on, and I have been waiting fourteen months to be allowed to." He turned the hand back over. "And I could only choose it because you did not ask. If you had asked me in April I would have given them to you and thought about it every week since, and by August I would have found something wrong with you."
 
 He pulled a pad towards him, which is what he does instead of agreeing to things.
 
@@ -16531,7 +16537,7 @@ He sat with the pen in his hand for a while.
 ---
 
 # Book Two · Chapter 75: Over the dessert
-*Lot Fourteen* · Version 3.5 · EN
+*Lot Fourteen* · Version 3.6 · EN
 
 ## Day Four Hundred and Fifty-Three · Wednesday 30 December
 
@@ -16631,7 +16637,7 @@ Mr Im looked at the window, which faces a wall.
 
 "Then what do I do with it."
 
-"Whatever you like. That is not a courtesy." Georgij put his hand on the back of the chair he had not sat in. "I have not asked you for one thing and I am not going to, and I am going to walk down those stairs in about a minute whatever you say next."
+"Whatever you like. That is not a courtesy." Georgij put his hand on the back of the chair he had not sat in. "I have not asked you for one thing and I am not going to, and if you would like me down those stairs now I will go and you will never hear from me again."
 
 Mr Im sat behind a desk in a room with nothing on it.
 
@@ -16776,7 +16782,7 @@ Then the second page, because that is where this one goes.
 ---
 
 # Book Two · Chapter 76: Three pieces of good news
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Sixty · Wednesday 6 January
 
@@ -16952,9 +16958,11 @@ Georgij stood on the pavement.
 
 "It will take this year. I have got a thing in it that a woman at the market told me is impossible to kill and we shall see." She looked at him. "You have not asked me anything about the fourth floor."
 
-"No."
+"I asked you once."
 
-"Good," she said. "You are the only one who ever came here who did not, and I told the lovely man that, and he said he was glad."
+She thought about that with her hand still on the door.
+
+"So you did," she said. "Once, and you never came back and asked it again, and every other one came back three times. I told the lovely man that, and he said he was glad."
 
 * * *
 
@@ -17501,7 +17509,7 @@ He waited.
 ---
 
 # Book Two · Chapter 79: Not four
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Sixty-Five · Monday 11 January
 
@@ -17699,7 +17707,7 @@ Sang-hoon did not say anything for a while.
 
 "Why," he said.
 
-"Because the thing she picked up and pointed at my employer was me." Georgij did not decorate it. "Lot fourteen. On the page, in her coat, for twelve days, and she did not know there was a person on it until I told her on the thirtieth of April."
+"Because the thing she picked up and pointed at the woman I belong to was me." Georgij did not decorate it. "Lot fourteen. On the page, in her coat, for twelve days, and she did not know there was a person on it until I told her on the thirtieth of April."
 
 The room was very quiet.
 
@@ -18234,7 +18242,7 @@ He sat with that for a while.
 ---
 
 # Book Two · Chapter 82: The only line out
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Four Hundred and Ninety-Seven · Friday 12 February
 
@@ -18336,7 +18344,7 @@ He waited until she was in a chair and then sat down himself, slowly, and put bo
 
 Woo did not move at all.
 
-"That was five weeks ago on Wednesday." She had both hands flat on the arms of the chair. "You have not known in one single day of those five weeks whether it had reached me. I am not going to sit in your house and ask you for a favour while that is true."
+"That was five weeks ago on Sunday." She had both hands flat on the arms of the chair. "You have not known in one single day of those five weeks whether it had reached me. I am not going to sit in your house and ask you for a favour while that is true."
 
 The room did what an old room does at ten in the morning.
 
