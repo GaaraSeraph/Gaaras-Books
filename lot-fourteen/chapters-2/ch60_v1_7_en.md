@@ -1,5 +1,5 @@
 # Chapter 60: Eleven years of paying for it
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -150,6 +150,14 @@ Neither of them said anything for some time.
 She had the whole of it by Tuesday evening and she did not say anything about it on the Wednesday.
 
 On the Thursday morning she came down to the small office at twenty past eight, which she has never done, and stood in the doorway with the terms of business in her hand.
+
+"The man who administers it has told you he does not intend to keep it."
+
+"Yes."
+
+"And you gave me his answer about what that is worth, and you did not improve it." Annie did not come into the room. "So it is worth nothing this morning, and I am not signing my name against a thing a man means to do."
+
+---
 
 "Say the sentence back to me," said Annie.
 

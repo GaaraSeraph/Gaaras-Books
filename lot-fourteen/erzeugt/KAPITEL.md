@@ -102,8 +102,8 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 56** *One sentence* (v1.11) · Tag 326, Di 25. August · 2.125 W
 - **B2 57** *The one who orders* (v1.9) · Tag 328, Do 27. August · 2.279 W
 - **B2 58** *The only door* (v1.6) · Tag 362, Mi 30. September · Tag 371, Fr 9. Oktober · 2.481 W
-- **B2 59** *The permanent series* (v1.12) · Tag 377, Do 15. Oktober · 3.237 W
-- **B2 60** *Eleven years of paying for it* (v1.6) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.612 W
+- **B2 59** *The permanent series* (v1.14) · Tag 377, Do 15. Oktober · 3.509 W
+- **B2 60** *Eleven years of paying for it* (v1.7) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.675 W
 - **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
 - **B2 62** *The consignor of record* (v1.3) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.103 W
 - **B2 63** *They did not argue about it* (v1.14) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 3.389 W
@@ -126,7 +126,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 80** *Nine boxes* (v3.3) · Tag 472, Mo 18. Januar · Tag 473, Di 19. Januar · Tag 489, Do 4. Februar · 2.846 W
 - **B2 81** *I require your instructions* (v3.3) · Tag 493, Mo 8. Februar · 2.369 W
 - **B2 82** *The only line out* (v1.2) · Tag 497, Fr 12. Februar · Tag 500, Mo 15. Februar · 2.814 W
-- **B2 83** *Nobody asked* (v3.4) · Tag 510, Do 25. Februar · Tag 514, Mo 1. Maerz · 2.926 W
+- **B2 83** *Nobody asked* (v3.5) · Tag 510, Do 25. Februar · Tag 514, Mo 1. Maerz · 2.934 W
 - **B2 84** *No occasion* (v3.4) · Tag 517, Do 4. Maerz · Tag 522, Di 9. Maerz · 2.147 W
 - **B2 85** *Twenty-seven* (v3.3) · Tag 531, Do 18. Maerz · 2.593 W
 - **B2 86** *Please guide me* (v3.13) · Tag 531, Do 18. Maerz · 3.233 W

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 229.462 Woerter.
+Book Two, 89 Kapitel, 229.805 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -69,8 +69,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 56 | v1.11 | 2.125 |
 | 57 | v1.9 | 2.279 |
 | 58 | v1.6 | 2.481 |
-| 59 | v1.12 | 3.237 |
-| 60 | v1.6 | 2.612 |
+| 59 | v1.14 | 3.509 |
+| 60 | v1.7 | 2.675 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
 | 63 | v1.14 | 3.389 |
@@ -93,7 +93,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 80 | v3.3 | 2.846 |
 | 81 | v3.3 | 2.369 |
 | 82 | v1.2 | 2.814 |
-| 83 | v3.4 | 2.926 |
+| 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.13 | 3.233 |
@@ -13001,7 +13001,7 @@ He sat with the pen and then wrote one more line.
 ---
 
 # Book Two · Chapter 59: The permanent series
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -13099,6 +13099,26 @@ Georgij sat very still.
 
 "Then there is a date, and it is not a secret. It goes on the second page of a notice to every buyer this house ever had."
 
+"And where does it go."
+
+Mr Hwang looked up from the sheet for the first time that morning.
+
+"Nobody has asked me that in eleven months, and that includes the fund." He put the sheet down. "It goes where I send it. The schedule is mine and I write it, and the notice gives a date and does not give a method."
+
+"Then say the method."
+
+"I am not sending thirty years of this house to a room where a stranger reads a form off the side of a box." Mr Hwang did not soften any of it. "It goes to a firm with a weighbridge. There is a certificate at the end of it, and it does not come back."
+
+Georgij did not move for a moment.
+
+"Say what that is worth this morning."
+
+"Nothing." He said it with no weight on it at all. "It is a thing I intend. A thing a man intends is not a document, there is no date on it, and I have put none of it in writing and will not until there is one." He held the sheet down with two fingers and did not move them. "You will make a great deal of trouble for yourself if you carry it out of this room as a fact."
+
+"May I carry it out of this room as an intention?"
+
+"You may tell her what I have said and in the order I have said it." Mr Hwang picked the sheet up again. "And when she asks you what it is worth, give her my answer and not a better one."
+
 Georgij did not move.
 
 "I would like it before the envelope."
@@ -13113,7 +13133,7 @@ Georgij did not answer that.
 
 "It was not the reason."
 
-"No. It was four months ago and you have never mentioned it, and that is how I know." Mr Hwang squared the sheet again. "Thank you. That is the whole of what I have to say about furniture and I am not going to say it a second time."
+"No. It was four months ago and you have never mentioned it, and that is how I know." Mr Hwang sat back in the chair. "Thank you. That is the whole of what I have to say about furniture and I am not going to say it a second time."
 
 "In about nine years somebody will read that sequence for a different reason and they will find an entry from November with a man's name on one side and a woman's name on the other."
 
@@ -13250,7 +13270,7 @@ He wrote four lines in the car and did not start the engine while he wrote them.
 ---
 
 # Book Two · Chapter 60: Eleven years of paying for it
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -13381,6 +13401,12 @@ Neither of them said anything for some time.
 She had the whole of it by Tuesday evening and she did not say anything about it on the Wednesday.
 
 On the Thursday morning she came down to the small office at twenty past eight, which she has never done, and stood in the doorway with the terms of business in her hand.
+
+"The man who administers it has told you he does not intend to keep it."
+
+"Yes."
+
+"And you gave me his answer about what that is worth, and you did not improve it." Annie did not come into the room. "So it is worth nothing this morning, and I am not signing my name against a thing a man means to do."
 
 "Say the sentence back to me," said Annie.
 
@@ -18435,7 +18461,7 @@ Annie looked out of the window for a while.
 ---
 
 # Book Two · Chapter 83: Nobody asked
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Five Hundred and Ten · Thursday 25 February
 
@@ -18507,7 +18533,7 @@ The room did what a half emptied room does at ten past nine.
 
 "That it goes to an archive."
 
-"That it goes to an archive, because that is what happens, and because I have not said otherwise to anybody, including the fund." He squared the sheet, which did not need it. "It goes on a lorry."
+"That it goes to an archive, because that is what happens, and because I have said otherwise to one man in eleven months and he is sitting in front of me." He squared the sheet, which did not need it. "It goes on a lorry."
 
 Georgij sat with that for a moment.
 

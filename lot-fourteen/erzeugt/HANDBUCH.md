@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 302.189 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 302.295 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -24526,12 +24526,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 864 | 92 (b1ch01-b2ch89) | 1 | 590 |
+| Annie | 865 | 92 (b1ch01-b2ch89) | 1 | 590 |
 | Park Sang-hoon | 303 | 46 (b1ch10-b2ch89) | 22 | 590 |
 | Chairman Woo | 229 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
-| Mr Hwang | 154 | 24 (b2ch07-b2ch89) | 166 | 590 |
+| Mr Hwang | 157 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
 | Sim | 130 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
@@ -24579,7 +24579,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-864 Nennungen in 92 Kapiteln.
+865 Nennungen in 92 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -25311,10 +25311,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 371 | b2ch58:204 | "On the twenty-second there will be four hundred and eighty-one million won in an accoun.. |
 | 371 | b2ch58:234 | Annie stood at the window for a while. |
 | 377 | b2ch60:10 | "Find me the way round it," said Annie. |
-| 384 | b2ch60:154 | "Say the sentence back to me," said Annie. |
-| 384 | b2ch60:170 | Annie put the terms of business down on the edge of the desk. |
-| 384 | b2ch60:184 | Annie looked at him for a moment longer than the answer needed. |
-| 384 | b2ch60:212 | Annie looked at him for slightly longer than she needed to. |
+| 384 | b2ch60:158 | "And you gave me his answer about what that is worth, and you did not improve it." Annie.. |
+| 384 | b2ch60:162 | "Say the sentence back to me," said Annie. |
+| 384 | b2ch60:178 | Annie put the terms of business down on the edge of the desk. |
+| 384 | b2ch60:192 | Annie looked at him for a moment longer than the answer needed. |
+| 384 | b2ch60:220 | Annie looked at him for slightly longer than she needed to. |
 | 389 | b2ch63:8 | Annie wrote her name on the fourth page at eight o'clock at the desk in the small room, .. |
 | 390 | b2ch63:182 | "They took the first number," said Annie. |
 | 390 | b2ch63:218 | Annie came away from the window. |
@@ -27021,7 +27022,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-154 Nennungen in 24 Kapiteln.
+157 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -27110,20 +27111,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 377 | b2ch59:84 | "I am going to be exact, because you have been exact and because you will otherwise leav.. |
 | 377 | b2ch59:98 | "On the sixth of August you used a clause in our terms of business. You asked in writing.. |
 | 377 | b2ch59:110 | "For as long as the series exists, and it exists until somebody signs it over to an arch.. |
-| 377 | b2ch59:122 | "On the day I have it," said Mr Hwang, and he did not make anything of it. "You have ask.. |
-| 377 | b2ch59:126 | "There is a third and you did not ask for it." Mr Hwang put his hand flat on the desk. ".. |
-| 377 | b2ch59:134 | "No. It was four months ago and you have never mentioned it, and that is how I know." Mr.. |
-| 377 | b2ch59:152 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
-| 377 | b2ch59:164 | Mr Hwang did not look anything up, and the not looking told Georgij how many times that .. |
-| 377 | b2ch59:170 | "That you cannot frighten him with a record. He has been in that book longer than I have.. |
-| 377 | b2ch59:176 | "A man with a lease on a house, nine people on a rota and four cars, and a fee that was .. |
-| 377 | b2ch59:204 | Mr Hwang did not reach for anything. |
-| 377 | b2ch59:216 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
-| 377 | b2ch59:226 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
-| 377 | b2ch59:234 | Mr Hwang did not move at all. |
-| 377 | b2ch59:242 | "The ninth line," said Mr Hwang. |
-| 377 | b2ch59:252 | Mr Hwang put the sheet down on the desk and left his hand off it. |
-| 384 | b2ch60:174 | "It will not be nine years." Georgij did not move at all. "The fund has decided. This ho.. |
+| 377 | b2ch59:120 | Mr Hwang looked up from the sheet for the first time that morning. |
+| 377 | b2ch59:126 | "I am not sending thirty years of this house to a room where a stranger reads a form off.. |
+| 377 | b2ch59:138 | "You may tell her what I have said and in the order I have said it." Mr Hwang picked the.. |
+| 377 | b2ch59:146 | "On the day I have it," said Mr Hwang, and he did not make anything of it. "You have ask.. |
+| 377 | b2ch59:150 | "There is a third and you did not ask for it." Mr Hwang put his hand flat on the desk. ".. |
+| 377 | b2ch59:158 | "No. It was four months ago and you have never mentioned it, and that is how I know." Mr.. |
+| 377 | b2ch59:176 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
+| 377 | b2ch59:188 | Mr Hwang did not look anything up, and the not looking told Georgij how many times that .. |
+| 377 | b2ch59:194 | "That you cannot frighten him with a record. He has been in that book longer than I have.. |
+| 377 | b2ch59:200 | "A man with a lease on a house, nine people on a rota and four cars, and a fee that was .. |
+| 377 | b2ch59:228 | Mr Hwang did not reach for anything. |
+| 377 | b2ch59:240 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
+| 377 | b2ch59:250 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
+| 377 | b2ch59:258 | Mr Hwang did not move at all. |
+| 377 | b2ch59:266 | "The ninth line," said Mr Hwang. |
+| 377 | b2ch59:276 | Mr Hwang put the sheet down on the desk and left his hand off it. |
+| 384 | b2ch60:182 | "It will not be nine years." Georgij did not move at all. "The fund has decided. This ho.. |
 | 386 | b2ch62:6 | Mr Hwang telephoned the house on the Saturday morning at nine, which is not a thing that.. |
 | 386 | b2ch62:28 | "He receives nothing," said Mr Hwang. "I want you to be exact about that when you say it.. |
 | 386 | b2ch62:32 | "He signs a form that says the house may transfer a lot he placed to a person who is buy.. |
@@ -27223,15 +27227,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch59:38` (Tag 377) - four, nine, one
 - `b2ch59:84` (Tag 377) - four, three
 - `b2ch59:98` (Tag 377) - fourteen
-- `b2ch59:122` (Tag 377) - two
-- `b2ch59:126` (Tag 377) - two
-- `b2ch59:134` (Tag 377) - four
-- `b2ch59:152` (Tag 377) - four hundred and eighty-one million, two
-- `b2ch59:170` (Tag 377) - one
-- `b2ch59:176` (Tag 377) - eleven, four, nine, thirty
-- `b2ch59:216` (Tag 377) - eleven
-- `b2ch59:226` (Tag 377) - one
-- `b2ch60:174` (Tag 384) - nine, seven, six hundred, twenty
+- `b2ch59:126` (Tag 377) - thirty
+- `b2ch59:138` (Tag 377) - one
+- `b2ch59:146` (Tag 377) - two
+- `b2ch59:150` (Tag 377) - two
+- `b2ch59:158` (Tag 377) - four
+- `b2ch59:176` (Tag 377) - four hundred and eighty-one million, two
+- `b2ch59:194` (Tag 377) - one
+- `b2ch59:200` (Tag 377) - eleven, four, nine, thirty
+- `b2ch59:240` (Tag 377) - eleven
+- `b2ch59:250` (Tag 377) - one
+- `b2ch60:182` (Tag 384) - nine, seven, six hundred, twenty
 - `b2ch62:6` (Tag 386) - nine
 - `b2ch62:32` (Tag 386) - four, one
 - `b2ch62:40` (Tag 386) - four
@@ -28691,7 +28697,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 328 | b2ch57:90 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
 | 371 | b2ch58:226 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
 | 377 | b2ch59:56 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
-| 377 | b2ch59:290 | *Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks.. |
+| 377 | b2ch59:314 | *Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks.. |
 | 385 | b2ch61:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
 | 385 | b2ch61:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
 | 395 | b2ch64:96 | Ahn Jung-hee did not say anything. |
@@ -28727,7 +28733,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:90` (Tag 328) - four, nine, thirty-five
 - `b2ch58:226` (Tag 371) - eleven, six
 - `b2ch59:56` (Tag 377) - four, nine, thirty-five
-- `b2ch59:290` (Tag 377) - eleven, nine, six, ten
+- `b2ch59:314` (Tag 377) - eleven, nine, six, ten
 - `b2ch61:82` (Tag 385) - four, thirty-five
 - `b2ch61:92` (Tag 385) - eleven, forty
 - `b2ch64:104` (Tag 395) - four, one
@@ -29427,7 +29433,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|
 | 371 | b2ch58:222 | "Moon Hae-sook." |
 | 371 | b2ch58:224 | "Moon Hae-sook. Say it in one sentence and use the word." |
-| 377 | b2ch59:202 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
+| 377 | b2ch59:226 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
 | 382 | b2ch60:88 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
 | 390 | b2ch63:156 | *The hole is that somebody who has every reason to talk has known everything about Moon .. |
 | 404 | b2ch67:74 | Nobody has told Moon Hae-sook that they are there. |
@@ -29445,7 +29451,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Moon Hae-sook
 
 - `b2ch58:224` (Tag 371) - one
-- `b2ch59:202` (Tag 377) - eleven, four
+- `b2ch59:226` (Tag 377) - eleven, four
 - `b2ch60:88` (Tag 382) - eleven, three
 - `b2ch63:156` (Tag 390) - three
 - `b2ch67:86` (Tag 404) - fifty-two
