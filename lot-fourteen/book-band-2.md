@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 228.598 Woerter.
+Book Two, 89 Kapitel, 228.772 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.12 | 3.044 |
+| 63 | v1.13 | 3.218 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -13797,7 +13797,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13875,7 +13875,21 @@ Georgij did not move at all.
 
 "So he is ahead."
 
-"He is ahead on the money, he is ahead on the risk, and the fee has not moved." He turned one hand over. "He sold the one who was doing it for nothing and he can buy the one who will do it for a wage, and there is a great deal left over."
+"He is ahead on the money and the fee has not moved." He turned one hand over. "And he is not going to spend one won of it on a nurse."
+
+"Say why not."
+
+"Because the work is not nursing. The work is nursing somebody who is not on any paper." Mr Hwang said it the way he says the parts of his trade. "Anybody he takes on from outside walks into that house on the first morning and sees a woman who does not exist. He has spent eleven years making certain that no such person is alive."
+
+Georgij had gone very still.
+
+"He used the one he already had because she could not leave and she could not tell anybody."
+
+"He used the one he already had because she was inside it already. That is the whole of why it was her." Mr Hwang did not soften it. "The money was the reason he liked it. It was not the reason it worked."
+
+"Then say what he does on the third of November."
+
+"What he did in February four years ago," said Mr Hwang. "It took seven weeks that time, and he was not hurrying, and there was a house on the river to get it from."
 
 "And the thing that could end him."
 
@@ -13901,7 +13915,11 @@ Georgij did not say anything for a moment.
 
 *He signed it because he believed we are the same as him. There was no version of that form that could have told him otherwise, and I did not want one, and her name is on it in her own hand.*
 
-*And when she comes out on the second there is nobody left in that building who knows how to look after the other one, and he will not have anybody in place for weeks.*
+*He will not hire a nurse. He will get another one.*
+
+*The house on the river is finished, which makes it slower and does not make it stop, and I have handed him four hundred and eighty-one million to do it with.*
+
+*Get the second one out before he does.*
 
 *I have known that since Tuesday and I signed anyway. There is one version in which that is not the worst thing I have done this year, and it has a date on it, and the date is before Christmas.*
 

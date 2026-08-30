@@ -106,7 +106,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 60** *Eleven years of paying for it* (v1.6) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.612 W
 - **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
 - **B2 62** *The consignor of record* (v1.3) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.103 W
-- **B2 63** *They did not argue about it* (v1.12) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 3.044 W
+- **B2 63** *They did not argue about it* (v1.13) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 3.218 W
 - **B2 64** *The second of November* (v1.2) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.121 W
 - **B2 65** *The first hour* (v1.7) · Tag 396, Di 3. November · Tag 397, Mi 4. November · 1.977 W
 - **B2 66** *She went back* (v1.3) · Tag 398, Do 5. November · Tag 399, Fr 6. November · Tag 400, Sa 7. November · 2.411 W
