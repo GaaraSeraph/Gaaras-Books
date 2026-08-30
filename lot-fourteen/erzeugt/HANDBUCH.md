@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 301.941 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 302.189 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -150,6 +150,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was offen bleibt](#was-offen-bleibt)
   - [Die beiden Faelle im Buch](#die-beiden-faelle-im-buch)
   - [Was die Regel fuer das Schreiben heisst](#was-die-regel-fuer-das-schreiben-heisst)
+  - [Zuerst, weil es sonst untergeht: die Vernichtung wird vollzogen](#zuerst-weil-es-sonst-untergeht-die-vernichtung-wird-vollzogen)
+  - [Und erst danach: wer wann was sagt](#und-erst-danach-wer-wann-was-sagt)
   - [Wer die Klassen setzt, und was mit jeder passiert](#wer-die-klassen-setzt-und-was-mit-jeder-passiert)
   - [Warum trotzdem sechshundertvierzig Leute Archiv lesen](#warum-trotzdem-sechshundertvierzig-leute-archiv-lesen)
 - [Kalender](#kalender)  ·  `doc/15-kalender.md`
@@ -7891,6 +7893,29 @@ Regel ueberhaupt etwas bedeutet.
 ---
 
 ## Was Hwang wann ueber das Register sagt, und was er nicht sagt
+
+### Zuerst, weil es sonst untergeht: die Vernichtung wird vollzogen
+
+**Am 30.08. beanstandet, und die Beanstandung galt diesem Dokument und nicht
+dem Text.** Der Eintrag stand zuerst so da, dass er nur erklaerte, wer wann
+das Wort nicht sagt, und den Vollzug nicht nannte. **Wer nur das las, musste
+schliessen, dass nie etwas vernichtet wird.** Es wird.
+
+| Wann | Was, mit Fundstelle |
+|---|---|
+| **Do 25. Februar**, Tag 510 | **Neunzehn Kisten.** *He signed the manifest at the desk with the door open, and it took him about four seconds*, und Georgij steht elf Fuss entfernt im Korridor und sieht nicht zu (`b2 ch83:206`) |
+| **Fr 26. Februar** | **Die Bescheinigung kommt mit der Post**, eine Seite: Datum, Klasse, **Gewicht in Kilogramm**, Methode, Referenznummer (`b2 ch83:210`) |
+| **Mo 1. Maerz** | Per Kurier ans Haus am Fluss, **Kompliment-Zettel ohne ein Wort darauf**. Georgij steckt sie am Nachmittag in die Innentasche (`b2 ch83:216`) |
+| **Do 4. Maerz** | **Die Personalakten zuletzt**, *because there are people in them who are alive* (`b2 ch87:354`) |
+| **Do 18. Maerz** | **Choi droht mit dem Archiv**, waehrend die Bescheinigung in der Innentasche liegt (`b2 ch86:198`, `b2 ch87:368`) |
+
+**Der Abstand ist drei Wochen, und das ist die Voraussetzung fuer das
+Choi-Gespraech.** `b2 ch87:400`: *"The only place any of it was ever written
+down **went over a weighbridge in Siheung**."*
+
+**Wer an der Reihenfolge etwas verschiebt, verschiebt zuerst diese Zeile.**
+
+### Und erst danach: wer wann was sagt
 
 **Festgelegt am 30.08., weil die Erinnerung zwei Sachen mischt.** Es sind zwei
 getrennte Auskuenfte, und nur die erste kommt im Oktober.
