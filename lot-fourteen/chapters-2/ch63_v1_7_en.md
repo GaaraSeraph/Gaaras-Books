@@ -1,7 +1,7 @@
-Book Two · Chapter 63: They did not argue about it
-Lot Fourteen · Version 1.6 · EN
+# Chapter 63: They did not argue about it
+*Lot Fourteen* · Version 1.7 · EN
 
-Day Three Hundred and Eighty-Nine · Tuesday 27 October
+## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
 The four pages went in on the Tuesday morning and Mr Hwang served them on the holder at twenty past eleven.
 
@@ -19,7 +19,7 @@ Then she put the cap on the pen and sat with both hands flat on the desk on eith
 
 He took it.
 
-Day Three Hundred and Ninety · Wednesday 28 October
+## Day Three Hundred and Ninety · Wednesday 28 October
 
 The answer came back at ten past two on the Wednesday.
 
@@ -29,6 +29,8 @@ They accepted the price.
 
 They did not counter, they did not query the assignment, they did not ask who the buyer was or what she wanted it for, and they did not ask for anything to be added to the schedule.
 
+---
+
 Mr Hwang telephoned it through and did not dress it.
 
 "I have served about nine hundred of these in six years," he said, "and I have never had one come back inside a day. The average is eleven days and the record before this afternoon was four."
@@ -37,23 +39,35 @@ Mr Hwang telephoned it through and did not dress it.
 
 "That they were never going to argue about it, and that the figure could have been a third of what it is." He did not hurry any of it. "You will both work that out by about six this evening and there is nothing I can do about it. I am telling you at ten past two so that you have it from me and not from the arithmetic."
 
-"Then say why nobody on that side had to be asked."
+---
 
-"They did not have to be. That is not the same as saying they could not have been." Mr Hwang did not hurry that either. "She is a line. The man who holds her holds a line, a room and a rota, and he is paid for the room. A transfer out of a house in wind-up is the most ordinary sheet that will cross his desk this year, and his agent handled it as one."
+"Then say why they did not simply refuse."
 
-"And the man in Seoul."
+"They could have refused. I want that said before I say the rest of it." Mr Hwang did not hurry any of it. "And the refusal would have gone into the sequence in the same hand as the acceptance, because I served it as administrator, and everything served in a wind-up is answered on the record."
 
-"Is not on the form and there is no place on it where he could be, so nothing went to him and nothing had to go." A pause. "If that agent had thought it was worth a telephone call, you would have had a no on Wednesday. There would have been no second sheet, and she would have been somewhere without a book by the end of November."
+"Say what that record would have said."
+
+"That on the twenty-seventh of October a named party declined to release a consignment out of a house in wind-up, and asserted that he was holding it." He did not look away from any of it. "There is no version of that sentence that is survivable by a man whose whole business is that nobody can write a sentence about him."
+
+---
 
 Georgij put the note face down before he answered.
 
-"So we did not buy her out of that house."
+"So they were not offered a price."
 
-"No. You bought twenty-six hours in which nobody thought she was worth a telephone call." Mr Hwang did not soften it at all. "I would not say that to her. I am saying it to you because you asked me a question and you have never once wanted the comfortable half of an answer."
+"They were offered a way of not being written down. The price was the part that let them say yes without saying anything else." Mr Hwang put both hands flat. "That is why they took the first one and why it came back in a day, and you are going to want to think it was the money."
 
-It held because she was cheap to them. Nothing else held it. If one man on that side had been interested for four minutes, she is in a van in November and I have a form and a price and no woman.
+"And the man in Seoul."
 
-I have written that down so that I cannot tell myself afterwards that it was built well.
+"Is not on the form and there is no place on it where he could be. Telephoning him means telling him that his name is about to be four lines under a refusal." A pause. "The agent worked that out faster than I would have."
+
+---
+
+*It held because a refusal is a sentence, and the people who hold women in houses cannot afford sentences. That is the whole of it and it is the only part I built.*
+
+*It did not hold because anybody on that side spent one minute thinking about her, and I am writing that down so that I do not tell myself afterwards that they weighed her against the money. They weighed themselves.*
+
+---
 
 She worked it out at about twenty past two, which is ten minutes and not four hours.
 
@@ -71,11 +85,15 @@ She was standing at the window with the note in her hand and she did not turn ro
 
 "I will say it again in a fortnight."
 
+---
+
 There is a second sheet with the acceptance and it is four lines long and it is not a contract.
 
 It says that the holder is content to arrange conveyance of the consignment from the present address to any address in the country the buyer chooses. At the holder's own cost, on any date from the second of November, with two days of notice.
 
 It is signed by an agent for the holder, in a hand nobody in that house has seen before, and it is dated the twenty-eighth.
+
+---
 
 Georgij read it three times and put it face down on the blotter.
 
@@ -89,6 +107,8 @@ Georgij read it three times and put it face down on the blotter.
 
 "Yes, Mistress."
 
+---
+
 Annie came away from the window.
 
 "Then say why, and take your time, because I have read it twice and I do not have it yet."
@@ -99,6 +119,8 @@ Annie came away from the window.
 
 "That is the practical half."
 
+---
+
 "Then the other one."
 
 "He is not doing us a kindness. He is not doing anything at all, and that is what he does." Georgij put one finger on the back of the sheet. "There is no instruction in this and there is no name. There is a man who has never once told anybody to do anything." He did not stop anywhere. "The helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."
@@ -106,6 +128,8 @@ Annie came away from the window.
 "What it costs to accept it."
 
 "Nothing that anybody could point at. That is the cost." He did not stop anywhere. "In four years, when somebody asks how she came out, the answer will be that the house that held her put her in a car and brought her. That will be true, and there will be no way to say the other thing without sounding as though you are complaining about being helped."
+
+---
 
 Annie stood with both hands on the back of the reading chair.
 
@@ -116,6 +140,8 @@ Annie stood with both hands on the back of the reading chair.
 "And to my father's man in 2002."
 
 "Yes."
+
+---
 
 She was quiet for what was probably eight seconds.
 
@@ -129,7 +155,7 @@ She was quiet for what was probably eight seconds.
 
 "Then he learns it." Annie did not blink. "I have paid four hundred and eighty-one million won this afternoon to a man who would have taken a third of it. He is not also getting the drive."
 
-———
+* * *
 
 The refusal went back through Mr Hwang at four o'clock and it was three lines and it gave no reason, because a reason is a thing that can be read.
 
@@ -137,7 +163,7 @@ The house named the second of November.
 
 The holder replied at nine the next morning with two words and a time, and the two words were the address as it appears on their own file, and the time was eleven o'clock.
 
-Day Three Hundred and Ninety-One · Thursday 29 October
+## Day Three Hundred and Ninety-One · Thursday 29 October
 
 He telephoned Gwangyang at ten past nine, which is forty minutes after the time and the two words came in, and he had been standing next to the telephone for thirty of them.
 
@@ -151,6 +177,8 @@ He telephoned Gwangyang at ten past nine, which is forty minutes after the time 
 
 "You will have them on the Sunday evening."
 
+---
+
 There was a pause on the line and it was hers and not his.
 
 "You said you would telephone on the day you had it," she said. "It is the day you had it. I have been in this trade since 1998 and I have had about four hundred people say that sentence to me and I have had it kept twice, and the other one was in 2006."
@@ -158,6 +186,8 @@ There was a pause on the line and it was hers and not his.
 "It was not difficult."
 
 "It was not difficult and it is still twice." She rang off the way she does, without a word for it.
+
+---
 
 He put the receiver down and stood in the passage.
 
@@ -171,18 +201,20 @@ Jang was at the far end of it with his coat still on. He had come in at eight wi
 
 "Because a woman who has been in a building for four years is going to want to get out of a car at some point in the first hour. It will not be at a service station with eleven people in it." He said it in his own order, which is the fact, then the origin, then the limit. "That is from nineteen years of driving families out of places. It is not from anything anybody told me and I have been wrong about it twice."
 
-———
+* * *
 
 Georgij wrote it in the book on the Thursday evening and sat with it for a while before he wrote the second half.
 
-Twenty-six hours and fifty minutes, and about six of those were a night.
+*Twenty-six hours and fifty minutes, and about six of those were a night.*
 
-Nine hundred of these in six years and the record was four days.
+*Nine hundred of these in six years and the record was four days.*
 
-She was never worth arguing about to him. She has been in that building for four years and has cost him a heating bill, a doctor and eleven thousand won a month for a telephone. This afternoon somebody offered him four hundred and eighty-one million for her and he did not think about it over lunch.
+*She was never worth arguing about to him. She has been in that building for four years and has cost him a heating bill, a doctor and eleven thousand won a month for a telephone. This afternoon somebody offered him four hundred and eighty-one million for her and he did not think about it over lunch.*
 
-And then he offered to drive her.
+---
 
-I have spent eight months looking for the thing that would take him apart, and I have been looking for a document. There is no document. There is a man who has never in his life said a sentence that anybody can repeat, and the whole of what he is is that the arrangement is always already made.
+*And then he offered to drive her.*
 
-On the second of November we are going to take one thing out of an arrangement he made. That is not the same as taking him apart and I am going to write that down so that I do not confuse the two on the drive home.
+*I have spent eight months looking for the thing that would take him apart, and I have been looking for a document. There is no document. There is a man who has never in his life said a sentence that anybody can repeat, and the whole of what he is is that the arrangement is always already made.*
+
+*On the second of November we are going to take one thing out of an arrangement he made. That is not the same as taking him apart and I am going to write that down so that I do not confuse the two on the drive home.*

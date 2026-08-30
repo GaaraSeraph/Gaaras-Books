@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.567 Woerter.
+Book Two, 89 Kapitel, 227.603 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.6 | 2.306 |
+| 63 | v1.7 | 2.342 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -13771,7 +13771,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13809,23 +13809,27 @@ Mr Hwang telephoned it through and did not dress it.
 
 "That they were never going to argue about it, and that the figure could have been a third of what it is." He did not hurry any of it. "You will both work that out by about six this evening and there is nothing I can do about it. I am telling you at ten past two so that you have it from me and not from the arithmetic."
 
-"Then say why nobody on that side had to be asked."
+"Then say why they did not simply refuse."
 
-"They did not have to be. That is not the same as saying they could not have been." Mr Hwang did not hurry that either. "She is a line. The man who holds her holds a line, a room and a rota, and he is paid for the room. A transfer out of a house in wind-up is the most ordinary sheet that will cross his desk this year, and his agent handled it as one."
+"They could have refused. I want that said before I say the rest of it." Mr Hwang did not hurry any of it. "And the refusal would have gone into the sequence in the same hand as the acceptance, because I served it as administrator, and everything served in a wind-up is answered on the record."
 
-"And the man in Seoul."
+"Say what that record would have said."
 
-"Is not on the form and there is no place on it where he could be, so nothing went to him and nothing had to go." A pause. "If that agent had thought it was worth a telephone call, you would have had a no on Wednesday. There would have been no second sheet, and she would have been somewhere without a book by the end of November."
+"That on the twenty-seventh of October a named party declined to release a consignment out of a house in wind-up, and asserted that he was holding it." He did not look away from any of it. "There is no version of that sentence that is survivable by a man whose whole business is that nobody can write a sentence about him."
 
 Georgij put the note face down before he answered.
 
-"So we did not buy her out of that house."
+"So they were not offered a price."
 
-"No. You bought twenty-six hours in which nobody thought she was worth a telephone call." Mr Hwang did not soften it at all. "I would not say that to her. I am saying it to you because you asked me a question and you have never once wanted the comfortable half of an answer."
+"They were offered a way of not being written down. The price was the part that let them say yes without saying anything else." Mr Hwang put both hands flat. "That is why they took the first one and why it came back in a day, and you are going to want to think it was the money."
 
-*It held because she was cheap to them. Nothing else held it. If one man on that side had been interested for four minutes, she is in a van in November and I have a form and a price and no woman.*
+"And the man in Seoul."
 
-*I have written that down so that I cannot tell myself afterwards that it was built well.*
+"Is not on the form and there is no place on it where he could be. Telephoning him means telling him that his name is about to be four lines under a refusal." A pause. "The agent worked that out faster than I would have."
+
+*It held because a refusal is a sentence, and the people who hold women in houses cannot afford sentences. That is the whole of it and it is the only part I built.*
+
+*It did not hold because anybody on that side spent one minute thinking about her, and I am writing that down so that I do not tell myself afterwards that they weighed her against the money. They weighed themselves.*
 
 She worked it out at about twenty past two, which is ten minutes and not four hours.
 
