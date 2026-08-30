@@ -1125,3 +1125,64 @@ fuer dieselbe Sache laufen auseinander. Genau das ist passiert.
 `doc/35-plan-band-6.md`.
 
 **Das Zurueckgenommene vom 28. und 29.08. steht in `doc/40-verworfen.md`.**
+
+## Annies vier Woerter am Ende von Band 2
+
+**Vom Autor am 30.08. verlangt:** *"welche 4 Woerter? ich als Autor will das
+erfahren."*
+
+**Sie stehen nicht im Buch und werden nie darin stehen.** `b2 ch89:370`: *She
+did not say anything for a long time, and then she said four words, and they
+are not in this book because he has not written them down and is not going
+to.* **Hier stehen sie, damit der Autor sie kennt und damit niemand sie
+spaeter anders erfindet.**
+
+### Die Zeile
+
+> **"I would again, Georgij."**
+
+### Woran sie geprueft ist
+
+**1. Sie muss auf den Satz davor antworten, und der ist der haerteste im
+Band.** *"You are such a beautiful, strong woman," said Georgij. "Thank you
+for buying me."* Und die Erzaehlzeile darunter laesst keinen Zweifel, wovon
+geredet wird: er sagt es zu einer Frau, die im Fruehjahr wegen eines Mannes
+in einer Wohnung im achten Stock telefoniert hat, **und er weiss, was er
+sagt. Not although. Because.**
+
+**Sie antwortet nicht mit Trost und nicht mit Widerspruch. Sie antwortet mit
+demselben Mut.**
+
+**2. Und sie besteht die Probe, die der Text selbst aufstellt.** Die Frage ist
+nicht, was sie sagt, sondern **warum er es nicht aufschreibt** - er schreibt
+alles auf, vier Woerter ueber Mr Ok, vier Woerter im Wagen auf der Rampe.
+
+**Weil dieser eine Satz auf Papier ein Gestaendnis waere.** Das *again* deckt
+beides ab, den Kauf und den Anruf, und beide wissen das, waehrend es gesagt
+wird. **In einem Kapitel, das damit endet, dass neunzehn Kisten ueber eine
+Brueckenwaage gegangen sind, ist der einzige verbliebene Eintrag der in
+seinem Kopf, und er legt ihn nicht an.**
+
+**3. Sie ist in ihrem Register.** Kurz, flach, keine Verkuerzung, Punkt am
+Ende. Und sie spricht ihn mit Namen an, was sie im ganzen Buch tut, wenn es
+ernst ist (`b2 ch06:236`, `b2 ch09:268`, `b2 ch12:200`, `b2 ch45:238`).
+
+**4. Und sie reiht sich in das Vierwortmotiv ein**, das quer durch beide
+Baende laeuft: *He is not eating.* (`b2 ch85`), *she walked out alone.*
+(`b2 ch64:154`), die vier Woerter des Angestellten im Korridor (`b2 ch77`),
+die vier Woerter am Ende von Woos Brief (`b2 ch89:150`).
+
+### Zwei Fassungen, die verworfen sind, und warum
+
+* **"Thank you for staying."** Schoen, und sie faellt an der Probe durch:
+  **es gibt keinen Grund, das nicht aufzuschreiben.** Ausserdem macht es sie
+  dankbar, und das verschiebt die Machtlage am letzten Abend des Bandes.
+* **"I am glad, Georgij."** Reimt sich auf Mrs Seos Ritualsatz an der Tuer
+  (`b2 ch87`), was sehr schoen waere. **Faellt an derselben Probe durch.**
+
+### Regel
+
+**Sie duerfen nie gedruckt werden, auch nicht in einem spaeteren Band.** Der
+Satz wirkt, weil der Leser weiss, dass es ihn gibt, und nicht, weil er ihn
+kennt. **Wer sie einmal hinschreibt, macht aus dem Einzigen, was nicht
+aktenkundig ist, eine Akte.**
