@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 300.783 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 300.854 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -636,7 +636,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 329.506 Woerter.**
+**123 Kapitel, 329.677 Woerter.**
 
 ---
 
@@ -24373,7 +24373,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 860 | 91 (b1ch01-b2ch89) | 1 | 590 |
+| Annie | 864 | 92 (b1ch01-b2ch89) | 1 | 590 |
 | Park Sang-hoon | 303 | 46 (b1ch10-b2ch89) | 22 | 590 |
 | Chairman Woo | 229 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
@@ -24426,7 +24426,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-860 Nennungen in 91 Kapiteln.
+864 Nennungen in 92 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -24928,6 +24928,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 236 | b2ch25:388 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 | 236 | b2ch25:418 | Annie stood in the middle of her own room. |
 | 236 | b2ch25:434 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
+| 237 | b2ch26:312 | He asked Annie for one thing that evening and it was not about any of it. |
+| 237 | b2ch26:316 | Annie did not look up from the page. |
+| 237 | b2ch26:330 | Annie turned a page and did not turn it back. |
+| 237 | b2ch26:344 | "It makes it a chair," said Annie. |
 | 238 | b2ch28:18 | Annie was standing at the side of the desk with a folder open in her hand. |
 | 238 | b2ch28:32 | Annie put the folder down on the desk and squared it with two fingers, which is not a th.. |
 | 238 | b2ch28:46 | "Sit down," said Annie. |
@@ -25419,6 +25423,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch25:374` (Tag 236) - four
 - `b2ch25:388` (Tag 236) - sixty-eight
 - `b2ch25:434` (Tag 236) - four, sixty-eight
+- `b2ch26:312` (Tag 237) - one
 - `b2ch28:32` (Tag 238) - two
 - `b2ch28:170` (Tag 238) - one
 - `b2ch28:172` (Tag 238) - ten

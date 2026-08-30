@@ -69,7 +69,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 23** *Ten minutes on a Friday* (v1.6) · Tag 224, Fr 15. Mai · 2.033 W
 - **B2 24** *Four people who could see us* (v1.5) · Tag 230, Do 21. Mai · 2.099 W
 - **B2 25** *What he collects* (v1.9) · Tag 236, Mi 27. Mai · 3.966 W
-- **B2 26** *The same sort of man* (v4.0) · Tag 237, Do 28. Mai · 2.446 W
+- **B2 26** *The same sort of man* (v4.1) · Tag 237, Do 28. Mai · 2.787 W
 - **B2 27** *She has a list* (v4.0) · Tag 238, Fr 29. Mai · 2.472 W
 - **B2 28** *A practice keeps records* (v4.0) · Tag 238, Fr 29. Mai · 1.968 W
 - **B2 29** *Nobody hides flowers* (v1.3) · Tag 239, Sa 30. Mai · 2.317 W

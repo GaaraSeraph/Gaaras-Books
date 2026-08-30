@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 228.943 Woerter.
+Book Two, 89 Kapitel, 229.284 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -36,7 +36,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 23 | v1.6 | 2.033 |
 | 24 | v1.5 | 2.099 |
 | 25 | v1.9 | 3.966 |
-| 26 | v4.0 | 2.446 |
+| 26 | v4.1 | 2.787 |
 | 27 | v4.0 | 2.472 |
 | 28 | v4.0 | 1.968 |
 | 29 | v1.3 | 2.317 |
@@ -5687,7 +5687,7 @@ That is the whole of what happened in that room on the twenty-seventh of May.
 ---
 
 # Book Two · Chapter 26: The same sort of man
-*Lot Fourteen* · Version 4.0 · EN
+*Lot Fourteen* · Version 4.1 · EN
 
 ## Day Two Hundred and Thirty-Seven · Thursday 28 May
 
@@ -5916,6 +5916,42 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.*
 
 *She has a list.*
+
+* * *
+
+He asked Annie for one thing that evening and it was not about any of it.
+
+"There is a man winding up a building with two crates and a table in the room he works in," he said. "There is nowhere in it for a second person to sit down."
+
+Annie did not look up from the page.
+
+"You want me to send a man a chair."
+
+"A table and two chairs. He will not take anything that is for him." He kept his hands at his sides. "A table and two chairs are for the room, and a man who is closing a building cannot refuse furniture without explaining why, and he will not want to explain it."
+
+"And it is not for him."
+
+"It is entirely for him and he is not going to be able to say so."
+
+Annie turned a page and did not turn it back.
+
+"You will be in that room again."
+
+"Yes."
+
+"Then say that part out loud, because you have not, and I would like it said in this room rather than worked out in nine months."
+
+Georgij did not move from where he was standing.
+
+"I am going to need something from that man one day and I do not know yet what it is," he said. "This costs about four hundred thousand won and it will sit in the room while he decides whether he likes me. I would rather have it there than not, and I am aware of what that makes it."
+
+"It makes it a chair," said Annie.
+
+"It makes it a chair that I bought before I wanted anything."
+
+*It went on the Tuesday with no note in it. The delivery man had a docket and the docket had this house on it, because a docket with nothing on it is worse.*
+
+*He has not mentioned it. He sat in one of them on the third of June and did not say where it came from, and neither did I.*
 
 ---
 
