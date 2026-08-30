@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.152 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.177 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -640,7 +640,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 332.556 Woerter.**
+**123 Kapitel, 332.558 Woerter.**
 
 ---
 
@@ -24832,7 +24832,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
-| Sim | 133 | 20 (b2ch29-b2ch88) | 239 | 578 |
+| Sim | 134 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 83 | 20 (b1ch07-b2ch89) | 22 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
@@ -27817,7 +27817,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Sim
 
-133 Nennungen in 20 Kapiteln.
+134 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -27953,7 +27953,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 575 | b2ch88:220 | Sim looked at the back of the page for some time. |
 | 575 | b2ch88:232 | Sim did not answer any of that. |
 | 575 | b2ch88:240 | "Come in the spring," said Sim. "Not for anything." |
-| 578 | b2ch88:386 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 575 | b2ch88:252 | Sim stood in his own doorway and did not say anything to that, and then he shut the door.. |
+| 578 | b2ch88:394 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -28015,7 +28016,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:42` (Tag 465) - eleven
 - `b2ch88:102` (Tag 575) - eleven, four, two
 - `b2ch88:142` (Tag 575) - four
-- `b2ch88:386` (Tag 578) - one
+- `b2ch88:394` (Tag 578) - one
 
 ---
 
@@ -28573,7 +28574,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 573 | b2ch88:50 | "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, .. |
 | 573 | b2ch88:68 | "I have not shown it to anybody and I am not going to show it to you." Mrs Sunwoo put bo.. |
 | 573 | b2ch88:90 | "Not before. She has had a winter." Mrs Sunwoo looked at the window. "And when you do it.. |
-| 578 | b2ch88:386 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 578 | b2ch88:394 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
 
@@ -28607,7 +28608,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:112` (Tag 441) - nine, twenty
 - `b2ch87:428` (Tag 531) - five, one, three
 - `b2ch88:50` (Tag 573) - fifty
-- `b2ch88:386` (Tag 578) - one
+- `b2ch88:394` (Tag 578) - one
 
 ---
 
@@ -29484,7 +29485,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 302 | b2ch49:24 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
 | 302 | b2ch49:326 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
 | 305 | b2ch50:110 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
-| 578 | b2ch88:420 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
+| 578 | b2ch88:428 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
 
 ### Zahlen in der Naehe von Mrs Bae
 
