@@ -1186,30 +1186,37 @@ daran verdient, hat es.**
 
 **Vom Autor:** *"Ich will, dass der Warlord in Band 5 luegt wie gedruckt."*
 
-**Er ist die Steigerung des Managements aus Band 4 und eine andere Sorte.**
-Das Management luegt aus Gewohnheit und verteidigt Posten. **Der Warlord luegt
-ohne Zweck**, ueber Kleinigkeiten, ueber Sachen, bei denen die Wahrheit ihm
-mehr genuetzt haette. **Er luegt, weil er es kann und weil ihn seit Jahren
-niemand dabei stoert.**
+## Er ist nicht schwerer zu lesen. Er ist nicht zu gebrauchen
 
-**Warum das die gefaehrlichste Figur der Reihe ist:**
+**Nach der Berichtigung in `doc/33` gilt: Georgij liest ihn muehelos.** Jede
+Luege sagt ihm, was der Mann will. **Und es hilft ihm nicht das Geringste.**
 
-* **Gegen einen Mann, der aus Interesse luegt, gibt es ein Verfahren:** man
-  findet das Interesse. **Gegen einen, der ohne Interesse luegt, gibt es
-  keines.**
-* **Er ist nicht zu verhandeln, weil eine Zusage von ihm nichts wiegt.** Das
-  ganze Buch laeuft auf Zusagen. `doc/13-zusagen.md` ist ein Schuldbuch.
-  **Hier ist es Altpapier.**
-* **Und er ist der erste, der Gewalt anwendet.** Band 5 ist der Band mit dem
-  ersten Blut, und das ist kein Zufall: **wo Worte nichts mehr wiegen, bleibt
-  nur, was Koerper tun.**
+**Weil das Wort dieses Mannes nichts bindet.** Die ganze Reihe laeuft auf
+Zusagen: `doc/13-zusagen.md` ist ein Schuldbuch, und jeder Band besteht darin,
+dass jemand etwas zusagt und es haelt oder nicht haelt. **Hier ist es
+Altpapier.**
 
-**Was das mit Georgij macht:** in Band 1 bis 4 hat er gewonnen, weil er
-zuhoerte. **Hier gewinnt er, weil er aufhoert.** Und der Preis dafuer steht in
-Woos Brief und wird hier faellig: *Be careful in the rooms you should not be
-in. I did tell you.*
+**Der Unterschied in einem Satz:**
 
-**Regel: keiner von beiden wird entlarvt.** Es gibt keine Szene, in der eine
-Luege aufgedeckt und der Luegner beschaemt wird. **Das ist Fernsehen.** Der
-Band handelt davon, dass Georgij mit Leuten arbeiten muss, deren Worte
-wertlos sind, **und dass er es lernt, ohne selbst einer von ihnen zu werden.**
+> **Beim Management weiss Georgij, was sie wollen, und kann es nicht belegen.
+> Beim Warlord weiss er, was er will, und es sagt nichts darueber aus, was der
+> Mann morgen tut.**
+
+**Ein Mann, dessen Wort nichts wiegt, ist kein Gegner, mit dem man verhandelt.
+Er ist Wetter.**
+
+## Warum daraus das erste Blut folgt
+
+**Wo eine Zusage nicht bindet, bleibt nur, was Koerper tun.** Band 5 ist der
+Band mit dem ersten Blut, und das ist keine Eskalation um ihrer selbst willen:
+**es ist die einzige Waehrung, die in diesem Raum noch angenommen wird.**
+
+**Und der Preis dafuer steht in Woos Brief und wird hier faellig:** *Be
+careful in the rooms you should not be in. I did tell you.*
+
+## Regel: keiner von beiden wird entlarvt
+
+**Es gibt keine Szene, in der eine Luege aufgedeckt und der Luegner beschaemt
+wird. Das ist Fernsehen.** Georgij weiss vom ersten Satz an, dass gelogen
+wird, und sagt es nie. **Der Band handelt davon, dass Wissen und Nutzen zwei
+verschiedene Sachen sind.**

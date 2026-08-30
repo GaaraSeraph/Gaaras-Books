@@ -229,33 +229,53 @@ wird, entscheidet die Szene.
 **Vom Autor:** *"Ich will, dass das Management in Band 4, was ich
 auseinandernehme, die Wahrheitsserie auseinanderreisst."*
 
-**Bis hierher haben alle Gegner die Wahrheit gesagt.** Choi log nie, er
-richtete Raeume ein. Han sagte nichts Falsches, er war langsam. Woo, Sang-hoon,
-Hwang, Sim: jeder von ihnen gab Georgij die Wahrheit, oft gegen das eigene
-Interesse. **Zwei Baende lang war die Waehrung dieses Buches, dass Leute
-zutreffende Sachen sagen.**
+## Erst die Berichtigung, weil ich es falsch herum hatte
 
-**Ab Band 4 hoert das auf, und es muss wehtun.**
+**Ich hatte geschrieben, Luegen seien fuer Georgij die schwerere Sorte. Das
+ist falsch, und der Autor hat es umgedreht:**
 
-**Was das Management tut:** es luegt in Sitzungen, in Zahlen, in Protokollen
-und ins Gesicht. Nicht geschickt, sondern **gewohnheitsmaessig** - Leute, die
-seit Jahren so arbeiten und nie einen Grund hatten, damit aufzuhoeren.
+> *"Ich komme mit Luegen besser klar. Ich erkenne sie besser und arbeite damit
+> auch besser als mit Wahrheiten, weil eine Luege nahezu IMMER zeigt, warum
+> das Gegenueber luegt und was es will. Eine Wahrheit nicht."*
 
-**Warum das Georgij haerter trifft als jeder Angriff davor:**
+**Und das ist richtig, und es ist die Figur:** eine Wahrheit ist eine Aussage
+ueber die Welt. **Eine Luege ist eine Aussage ueber den Sprecher.** Sie sagt,
+was er schuetzt, wovor er Angst hat und wofuer er ein Risiko eingeht. **Wer
+luegt, gibt eine Auskunft ueber sich, die er nicht geben wollte.**
 
-* **Sein ganzes Verfahren setzt voraus, dass gesagte Sachen ueberpruefbar
-  sind.** Er legt zwei Papiere nebeneinander. Wenn beide erfunden sind,
-  stimmen sie trotzdem ueberein.
-* **Seine eigene Regel wird zur Schwaeche.** Er sagt nie etwas Unwahres, und
-  in einem Raum, in dem alle luegen, ist das kein Vorteil, sondern eine
-  Angriffsflaeche. **Zum ersten Mal kostet ihn Regel 1 etwas.**
-* **Und er kann nicht zurueckluegen.** Das ist die Klemme des Bandes und sie
-  loest sich nicht dadurch, dass er sich aendert.
+**Also ist ein Raum voller Luegner fuer Georgij kein Hindernis, sondern eine
+Karte.** Zwei Baende lang hat er Leute gelesen, die die Wahrheit sagten, und
+das war die schwerere Arbeit.
 
-**Wie er es loest:** nicht mit Worten. **Er hoert auf, Leuten zuzuhoeren, und
-faengt an, ihre Bewegungen zu lesen** - wer wann wo war, was geliefert wurde,
-wer wen angerufen hat. Eine Luege in einer Sitzung ist billig. **Ein
-Lastwagen, der irgendwo war, ist teuer.**
+## Was ihn dann trotzdem kostet, und es ist etwas anderes
 
-**Und ein Satz aus Band 3 wird hier eingeloest:** *A weighbridge does not read
+**Nicht das Lesen. Das Belegen.**
+
+Sein Verfahren war zwei Baende lang, zwei Papiere nebeneinanderzulegen, die
+nie fuereinander gedacht waren, und die trotzdem uebereinstimmen
+(`b2 ch40:222`). **Das setzt voraus, dass sie von Leuten geschrieben wurden,
+die keinen Grund zu luegen hatten.** In diesem Konzern haben alle einen.
+**Zwei erfundene Papiere stimmen auch ueberein.**
+
+**Er weiss also vom ersten Tag an, wer was will, und kann nichts davon
+hinlegen.**
+
+## Und die zweite Haelfte, die schlimmer ist
+
+**Die Leute um ihn herum koennen es nicht.** Annie kann es nicht, der Vorstand
+kann es nicht, die Belegschaft kann es nicht. **Er sitzt in einem Raum, in dem
+er als Einziger weiss, dass gelogen wird, und alle anderen werden gerade
+ueberzeugt.**
+
+**Das ist die Einsamkeit dieses Bandes**, und sie ist eine andere als die von
+Band 1 bis 3: dort war er allein, weil ihn niemand fragte. **Hier ist er
+allein, weil ihn alle fragen und er nichts vorzeigen kann.**
+
+## Wie er es loest
+
+**Er hoert auf, Gesagtem nachzugehen, und geht Bewegungen nach.** Wer war wann
+wo, was wurde geliefert, wer hat wen angerufen. **Eine Luege in einer Sitzung
+ist billig. Ein Lastwagen, der irgendwo war, ist teuer.**
+
+**Und ein Satz aus Band 2 wird hier eingeloest:** *A weighbridge does not read
 anything.* **Eine Waage luegt nicht, weil sie nichts versteht.**

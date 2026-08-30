@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 303.770 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 303.785 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -21848,94 +21848,74 @@ anders ausgegangen ist als bei den anderen.**
 
 ---
 
-# Chois Leute: der Faden, der Band 3 traegt, festgelegt am 30.08.
+# Chois Leute: in Band 2 bezahlt, in Band 3 nur noch gezaehlt
 
-**Vom Autor:** *"Ich will, dass wir Chois Opfern helfen. Die tun mir alle so
-leid. Ruiniert Menschen, weil sie im falschen Raum waren."*
+**Am 30.08. zuerst als Band-3-Faden entworfen, und der Autor hat ihn nach
+Band 2 gezogen: "ich will das in Band 2 abgehandelt haben."** Richtig, denn
+die Haelfte davon stand schon dort.
 
-## Der Satz, auf dem alles steht, und er steht schon im Buch
+## Was in Band 2 steht, mit Fundstelle
+
+`b2 ch76:268`, sechster Januar, ohne einen Satz Erklaerung:
+
+> *A five-year lease for a man who has been month to month since 2019. A
+> standing order of forty stems a week since the fourteenth of October, paid
+> on the day, **from a firm that was given her name**. A drain that came up on
+> a schedule in November after twenty-two years and three letters.*
+
+Und `b2 ch76:296`: ***"None of them has been asked for anything. None of them
+ever will be."***
+
+**Am 30.08. nachgetragen, weil der Autor Mrs Ha und Mrs Sunwoo vermisst hat:**
+
+* **`b2 ch89`** - die Frau, die dreissig Jahre Blumen und Waesche in Saele
+  gestellt hat, hat seit Mitte Maerz einunddreissig Buchungen und ist in vier
+  Saelen, in denen sie vor Choi nie war. **Vier Leute haben ihr gesagt, jemand
+  habe sie empfohlen, und keiner erinnert sich, wer.**
+* **`b2 ch89`** - im April brauchte sie Porzellan. Jemand hat sie sechs
+  Minuten lang neben eine Einundachtzigjaehrige gesetzt, die seit
+  einundvierzig Jahren welches kauft, **und ist dann woanders im Raum
+  stehengeblieben.** Elf Telefonate seither. **Keine von beiden hat gemerkt,
+  dass sie hingesetzt wurden.**
+* **`b2 ch88`** - Sim bekommt elf Namen, keiner davon einer seiner vier, alle
+  am Leben und keinem je gesagt worden, was ihm geschehen ist. Nicht als
+  Auftrag: *"I want you to have it."* Und der erste Dank in acht Monaten.
+
+## Der Satz, auf dem es steht, und er stand schon im Buch
 
 `b2 ch75:126`, Georgij erklaert Mr Im, wie Choi arbeitet:
 
 > *"He puts two things next to each other four minutes apart and lets you be
-> the one who joins them. Then you say yes to something, in your own voice,
-> out of your own mouth, and you carry it for six years, and he has never once
-> had to claim anything."*
+> the one who joins them."*
 
-**Das ist auch Georgijs Verfahren, und in Band 3 dreht er es um.** Er besitzt
-nichts, er kann niemandem einen Auftrag geben, und er wird auch keinen geben.
-**Er legt zwei Sachen nebeneinander und laesst andere sie verbinden** - nur
-gehen die Leute diesmal nicht sechs Jahre lang daran zugrunde, sondern haben
-Arbeit.
+**Georgij benutzt dasselbe Verfahren, um denselben Schaden zu reparieren.** Er
+besitzt nichts und kann niemandem einen Auftrag geben. **Er stellt zwei Sachen
+nebeneinander und geht weg.**
 
-**Und der Unterschied zwischen den beiden Maennern ist ein einziger:**
+**Und der Unterschied zwischen den beiden Maennern ist einer:**
 
 > **Choi kam, war zauberhaft, richtete den Raum ein, ging vor dem Kaffee und
 > kam nie wieder. Georgij kommt wieder.**
 
 Die Frau im Erdgeschoss nennt Choi bis heute *"the lovely man"*
-(`b2 ch76:230`). **Niemand von diesen Leuten weiss, dass ihm etwas angetan
+(`b2 ch76:230`). **Keiner von diesen Leuten weiss, dass ihm etwas angetan
 wurde. Das ist der Grund, warum es sie zerstoert hat.**
 
-## Wer auf der Liste steht, und alle stehen im Buch
+**Die drei Regeln, ohne die es ein Almosen waere:** die Auftraege koennen
+nicht von ihm kommen, weil er nichts hat; niemand erfaehrt, woher sie kommen,
+weil ein Auftrag, von dem man weiss, dass er Mitleid ist, kleiner macht
+(Woos Brief: *"kind in a way that leaves the other man smaller"*); und das
+Wesentliche ist nicht der Umsatz, sondern dass er sie einander vorstellt und
+dann weggeht.
 
-| Wer | Was Choi gekostet hat | Fundstelle |
-|---|---|---|
-| **Mrs Sunwoo** | einundachtzig, Porzellan, persoenlich betrogen | `b2 ch10`, `b2 ch71` |
-| **Mrs Ha** | der Saal, die Hochzeiten, ein nicht abgeholter Auftrag von 2019 in einer Kiste | `b2 ch72`, `b2 ch80` |
-| **Mr Im** | sechs Jahre. *"I have not been able to have dinner with anybody"* | `b2 ch75:146` |
-| **Mr Ok** | *Ok. A hand. Nothing before the twelfth. Frightened only.* | `b2 ch16:12` |
-| **Die Frau im Erdgeschoss** | zweiundzwanzig Jahre Topf, dreimal geschrieben, nie eine Antwort | `b2 ch43`, `b2 ch76` |
+## Was davon in Band 3 uebrigbleibt
 
-**Die Liste ist nicht vollstaendig und darf es nicht sein.** `b2 ch75:120`:
-*"Four that I know of. There will be more and I am not going to guess at a
-number in your office."* **Der Faden laeuft den ganzen Band durch, in Zahlen
-am Rand, wie die achtundfuenfzig.**
+**Nur die Zahl am Rand, wie bei den achtundfuenfzig.** `b2 ch75:120`: *"Four
+that I know of. There will be more and I am not going to guess at a number in
+your office."* **Ein Satz alle paar Kapitel, wie viele es inzwischen sind, und
+was Sim mit seinen elf gemacht hat.**
 
-## Wie es geschieht, und es ist kein Geschenk
-
-**1. Die Auftraege kommen nicht von ihm, weil sie es nicht koennen.** Regel 2.
-Er hat kein Geld. **Annies Gruppe kauft Porzellan, weil Annies Gruppe
-Porzellan braucht**, und ein Konzern dieser Groesse heiratet, feiert, empfaengt
-und beerdigt. **Mrs Ha bekommt in einigen Wochen ein paar Dutzend Hochzeiten
-und macht mehr Saele auf, als sie vor Choi hatte.**
-
-**2. Und niemand von ihnen erfaehrt, woher es kommt.** Das ist keine
-Bescheidenheit, sondern die einzige Fassung, in der es kein Almosen ist. **Ein
-Auftrag, von dem man weiss, dass er Mitleid ist, macht kleiner.** Woo sagt es
-im Brief: *"I have watched a great many men be kind in a way that leaves the
-other man smaller."*
-
-**3. Das Wesentliche ist nicht das Geld, sondern dass er sie untereinander
-verbindet.** Mrs Ha braucht Porzellan. Mrs Sunwoo braucht Saele, in denen ihr
-Porzellan steht. **Er stellt sie einander vor und geht.** Danach brauchen sie
-ihn nicht mehr, **und das ist der Punkt: er baut kein Netz um sich, sondern
-eines ohne ihn in der Mitte.**
-
-**4. Und er kommt vorbei und fragt, wie es ihnen geht.** Ohne Anlass, ohne
-Papier, ohne etwas zu wollen. **Das ist die eigentliche Wiedergutmachung und
-nicht der Umsatz**, und es ist genau das, was Choi in fuenfundzwanzig Jahren
-nie getan hat.
-
-## Warum es kein Nebenstrang ist
-
-**Band 3 ist der Band, in dem Georgij zum ersten Mal etwas annimmt** - Yeom
-nennt ihn Freund, sie kuesst ihn, Woo vererbt ihm alles. **Chois Leute sind
-die Gegenprobe:** waehrend er lernt zu nehmen, lernt er zu geben, ohne dass
-es dem anderen etwas kostet.
-
-**Und es ist die Antwort auf Gongs Anklage, ohne dass sie ausgesprochen
-wird.** Der Oberstaatsanwalt wird sagen, Georgij sei dasselbe wie Choi. **Der
-Band widerlegt es nicht mit einer Rede, sondern damit, dass eine Frau von
-einundachtzig wieder Auftraege hat und niemand ihr gesagt hat, warum.**
-
-## Offen, und der Autor entscheidet es
-
-**Wem gibt er die erweiterte Liste, und wem dankt er?** Der Autor hat *"ihm"*
-geschrieben. **Zwei kommen in Frage:** Sim, der berufsmaessig Faelle
-aufarbeitet und dem Georgij etwas schuldet, oder Hwang, der Listen fuehrt.
-**Sim ist die staerkere Wahl**, weil er dreissig Jahre lang der Mann war, der
-nicht fragt, und weil er derjenige ist, der vor dem Kaffee geht.
+**Keine Szene mehr. Der Faden ist bezahlt.**
 
 ---
 
@@ -22170,35 +22150,55 @@ wird, entscheidet die Szene.
 **Vom Autor:** *"Ich will, dass das Management in Band 4, was ich
 auseinandernehme, die Wahrheitsserie auseinanderreisst."*
 
-**Bis hierher haben alle Gegner die Wahrheit gesagt.** Choi log nie, er
-richtete Raeume ein. Han sagte nichts Falsches, er war langsam. Woo, Sang-hoon,
-Hwang, Sim: jeder von ihnen gab Georgij die Wahrheit, oft gegen das eigene
-Interesse. **Zwei Baende lang war die Waehrung dieses Buches, dass Leute
-zutreffende Sachen sagen.**
+## Erst die Berichtigung, weil ich es falsch herum hatte
 
-**Ab Band 4 hoert das auf, und es muss wehtun.**
+**Ich hatte geschrieben, Luegen seien fuer Georgij die schwerere Sorte. Das
+ist falsch, und der Autor hat es umgedreht:**
 
-**Was das Management tut:** es luegt in Sitzungen, in Zahlen, in Protokollen
-und ins Gesicht. Nicht geschickt, sondern **gewohnheitsmaessig** - Leute, die
-seit Jahren so arbeiten und nie einen Grund hatten, damit aufzuhoeren.
+> *"Ich komme mit Luegen besser klar. Ich erkenne sie besser und arbeite damit
+> auch besser als mit Wahrheiten, weil eine Luege nahezu IMMER zeigt, warum
+> das Gegenueber luegt und was es will. Eine Wahrheit nicht."*
 
-**Warum das Georgij haerter trifft als jeder Angriff davor:**
+**Und das ist richtig, und es ist die Figur:** eine Wahrheit ist eine Aussage
+ueber die Welt. **Eine Luege ist eine Aussage ueber den Sprecher.** Sie sagt,
+was er schuetzt, wovor er Angst hat und wofuer er ein Risiko eingeht. **Wer
+luegt, gibt eine Auskunft ueber sich, die er nicht geben wollte.**
 
-* **Sein ganzes Verfahren setzt voraus, dass gesagte Sachen ueberpruefbar
-  sind.** Er legt zwei Papiere nebeneinander. Wenn beide erfunden sind,
-  stimmen sie trotzdem ueberein.
-* **Seine eigene Regel wird zur Schwaeche.** Er sagt nie etwas Unwahres, und
-  in einem Raum, in dem alle luegen, ist das kein Vorteil, sondern eine
-  Angriffsflaeche. **Zum ersten Mal kostet ihn Regel 1 etwas.**
-* **Und er kann nicht zurueckluegen.** Das ist die Klemme des Bandes und sie
-  loest sich nicht dadurch, dass er sich aendert.
+**Also ist ein Raum voller Luegner fuer Georgij kein Hindernis, sondern eine
+Karte.** Zwei Baende lang hat er Leute gelesen, die die Wahrheit sagten, und
+das war die schwerere Arbeit.
 
-**Wie er es loest:** nicht mit Worten. **Er hoert auf, Leuten zuzuhoeren, und
-faengt an, ihre Bewegungen zu lesen** - wer wann wo war, was geliefert wurde,
-wer wen angerufen hat. Eine Luege in einer Sitzung ist billig. **Ein
-Lastwagen, der irgendwo war, ist teuer.**
+## Was ihn dann trotzdem kostet, und es ist etwas anderes
 
-**Und ein Satz aus Band 3 wird hier eingeloest:** *A weighbridge does not read
+**Nicht das Lesen. Das Belegen.**
+
+Sein Verfahren war zwei Baende lang, zwei Papiere nebeneinanderzulegen, die
+nie fuereinander gedacht waren, und die trotzdem uebereinstimmen
+(`b2 ch40:222`). **Das setzt voraus, dass sie von Leuten geschrieben wurden,
+die keinen Grund zu luegen hatten.** In diesem Konzern haben alle einen.
+**Zwei erfundene Papiere stimmen auch ueberein.**
+
+**Er weiss also vom ersten Tag an, wer was will, und kann nichts davon
+hinlegen.**
+
+## Und die zweite Haelfte, die schlimmer ist
+
+**Die Leute um ihn herum koennen es nicht.** Annie kann es nicht, der Vorstand
+kann es nicht, die Belegschaft kann es nicht. **Er sitzt in einem Raum, in dem
+er als Einziger weiss, dass gelogen wird, und alle anderen werden gerade
+ueberzeugt.**
+
+**Das ist die Einsamkeit dieses Bandes**, und sie ist eine andere als die von
+Band 1 bis 3: dort war er allein, weil ihn niemand fragte. **Hier ist er
+allein, weil ihn alle fragen und er nichts vorzeigen kann.**
+
+## Wie er es loest
+
+**Er hoert auf, Gesagtem nachzugehen, und geht Bewegungen nach.** Wer war wann
+wo, was wurde geliefert, wer hat wen angerufen. **Eine Luege in einer Sitzung
+ist billig. Ein Lastwagen, der irgendwo war, ist teuer.**
+
+**Und ein Satz aus Band 2 wird hier eingeloest:** *A weighbridge does not read
 anything.* **Eine Waage luegt nicht, weil sie nichts versteht.**
 
 ---
@@ -23391,33 +23391,40 @@ daran verdient, hat es.**
 
 **Vom Autor:** *"Ich will, dass der Warlord in Band 5 luegt wie gedruckt."*
 
-**Er ist die Steigerung des Managements aus Band 4 und eine andere Sorte.**
-Das Management luegt aus Gewohnheit und verteidigt Posten. **Der Warlord luegt
-ohne Zweck**, ueber Kleinigkeiten, ueber Sachen, bei denen die Wahrheit ihm
-mehr genuetzt haette. **Er luegt, weil er es kann und weil ihn seit Jahren
-niemand dabei stoert.**
+## Er ist nicht schwerer zu lesen. Er ist nicht zu gebrauchen
 
-**Warum das die gefaehrlichste Figur der Reihe ist:**
+**Nach der Berichtigung in `doc/33` gilt: Georgij liest ihn muehelos.** Jede
+Luege sagt ihm, was der Mann will. **Und es hilft ihm nicht das Geringste.**
 
-* **Gegen einen Mann, der aus Interesse luegt, gibt es ein Verfahren:** man
-  findet das Interesse. **Gegen einen, der ohne Interesse luegt, gibt es
-  keines.**
-* **Er ist nicht zu verhandeln, weil eine Zusage von ihm nichts wiegt.** Das
-  ganze Buch laeuft auf Zusagen. `doc/13-zusagen.md` ist ein Schuldbuch.
-  **Hier ist es Altpapier.**
-* **Und er ist der erste, der Gewalt anwendet.** Band 5 ist der Band mit dem
-  ersten Blut, und das ist kein Zufall: **wo Worte nichts mehr wiegen, bleibt
-  nur, was Koerper tun.**
+**Weil das Wort dieses Mannes nichts bindet.** Die ganze Reihe laeuft auf
+Zusagen: `doc/13-zusagen.md` ist ein Schuldbuch, und jeder Band besteht darin,
+dass jemand etwas zusagt und es haelt oder nicht haelt. **Hier ist es
+Altpapier.**
 
-**Was das mit Georgij macht:** in Band 1 bis 4 hat er gewonnen, weil er
-zuhoerte. **Hier gewinnt er, weil er aufhoert.** Und der Preis dafuer steht in
-Woos Brief und wird hier faellig: *Be careful in the rooms you should not be
-in. I did tell you.*
+**Der Unterschied in einem Satz:**
 
-**Regel: keiner von beiden wird entlarvt.** Es gibt keine Szene, in der eine
-Luege aufgedeckt und der Luegner beschaemt wird. **Das ist Fernsehen.** Der
-Band handelt davon, dass Georgij mit Leuten arbeiten muss, deren Worte
-wertlos sind, **und dass er es lernt, ohne selbst einer von ihnen zu werden.**
+> **Beim Management weiss Georgij, was sie wollen, und kann es nicht belegen.
+> Beim Warlord weiss er, was er will, und es sagt nichts darueber aus, was der
+> Mann morgen tut.**
+
+**Ein Mann, dessen Wort nichts wiegt, ist kein Gegner, mit dem man verhandelt.
+Er ist Wetter.**
+
+## Warum daraus das erste Blut folgt
+
+**Wo eine Zusage nicht bindet, bleibt nur, was Koerper tun.** Band 5 ist der
+Band mit dem ersten Blut, und das ist keine Eskalation um ihrer selbst willen:
+**es ist die einzige Waehrung, die in diesem Raum noch angenommen wird.**
+
+**Und der Preis dafuer steht in Woos Brief und wird hier faellig:** *Be
+careful in the rooms you should not be in. I did tell you.*
+
+## Regel: keiner von beiden wird entlarvt
+
+**Es gibt keine Szene, in der eine Luege aufgedeckt und der Luegner beschaemt
+wird. Das ist Fernsehen.** Georgij weiss vom ersten Satz an, dass gelogen
+wird, und sagt es nie. **Der Band handelt davon, dass Wissen und Nutzen zwei
+verschiedene Sachen sind.**
 
 ---
 
@@ -24693,14 +24700,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 865 | 92 (b1ch01-b2ch89) | 1 | 590 |
 | Park Sang-hoon | 303 | 46 (b1ch10-b2ch89) | 22 | 590 |
-| Chairman Woo | 231 | 39 (b1ch07-b2ch89) | 22 | 590 |
+| Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
-| Sim | 130 | 20 (b2ch29-b2ch88) | 239 | 578 |
+| Sim | 133 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 64 | 20 (b1ch07-b2ch89) | 22 | 590 |
+| Choi Dae-ho | 65 | 20 (b1ch07-b2ch89) | 22 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Baek | 60 | 13 (b1ch05-b2ch81) | 6 | 493 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -25520,8 +25527,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 431 | b2ch68:166 | Annie stood in the passage for a moment. |
 | 431 | b2ch68:176 | "There is a price and you are going to say it out loud," said Annie, "because you will h.. |
 | 431 | b2ch68:190 | Annie looked at the cylinders. |
-| 434 | b2ch69:276 | He went up at about nine and Annie was at the desk and did not ask. |
-| 434 | b2ch69:288 | "And the part you have not said," said Annie. |
+| 434 | b2ch69:304 | He went up at about nine and Annie was at the desk and did not ask. |
+| 434 | b2ch69:316 | "And the part you have not said," said Annie. |
 | 442 | b2ch72:156 | Annie was at the desk with the folder from Yeouido open and did not close it, which she .. |
 | 442 | b2ch72:168 | Annie did not say anything for a moment. |
 | 442 | b2ch72:178 | "Jang takes you and sits in the car," said Annie. |
@@ -25829,7 +25836,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch67:12` (Tag 404) - one
 - `b2ch68:124` (Tag 431) - eleven
 - `b2ch68:140` (Tag 431) - four
-- `b2ch69:276` (Tag 434) - nine
+- `b2ch69:304` (Tag 434) - nine
 - `b2ch76:266` (Tag 462) - three
 - `b2ch76:286` (Tag 462) - four
 - `b2ch78:120` (Tag 464) - thirty
@@ -26313,7 +26320,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-231 Nennungen in 39 Kapiteln.
+234 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -26487,13 +26494,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 434 | b2ch69:156 | "The third is alive. I have not had a real conversation with him since my wife died." Wo.. |
 | 434 | b2ch69:158 | "I am spending the three hours," said Woo. |
 | 434 | b2ch69:162 | "You have not asked for them twice now, and you are the only man alive who has ever had .. |
-| 434 | b2ch69:176 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
-| 434 | b2ch69:188 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
-| 434 | b2ch69:202 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
-| 434 | b2ch69:206 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
-| 434 | b2ch69:222 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
-| 434 | b2ch69:232 | Woo took his hand off the roof of the car. |
-| 434 | b2ch69:246 | *Chairman Woo has been telling himself for twenty-four years that one of three men paid .. |
+| 434 | b2ch69:172 | Woo looked up. |
+| 434 | b2ch69:180 | Woo did not say anything. |
+| 434 | b2ch69:188 | Woo looked at him for a while and then at the middle of the desk. |
+| 434 | b2ch69:204 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
+| 434 | b2ch69:216 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
+| 434 | b2ch69:230 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
+| 434 | b2ch69:234 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
+| 434 | b2ch69:250 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
+| 434 | b2ch69:260 | Woo took his hand off the roof of the car. |
+| 434 | b2ch69:274 | *Chairman Woo has been telling himself for twenty-four years that one of three men paid .. |
 | 462 | b2ch76:302 | "Chairman Woo said it in a shed in December and I wrote it down in a car on the bridge a.. |
 | 464 | b2ch77:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 464 | b2ch77:28 | "Chairman Woo." |
@@ -26649,11 +26659,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:156` (Tag 434) - fourteen, three, twenty-four
 - `b2ch69:158` (Tag 434) - three
 - `b2ch69:162` (Tag 434) - three
-- `b2ch69:176` (Tag 434) - seventy-eight, two, two thousand and two
-- `b2ch69:202` (Tag 434) - nine hundred, one, six, ten
-- `b2ch69:206` (Tag 434) - four, one
-- `b2ch69:222` (Tag 434) - one
-- `b2ch69:246` (Tag 434) - one, three, twenty-four
+- `b2ch69:204` (Tag 434) - seventy-eight, two, two thousand and two
+- `b2ch69:230` (Tag 434) - nine hundred, one, six, ten
+- `b2ch69:234` (Tag 434) - four, one
+- `b2ch69:250` (Tag 434) - one
+- `b2ch69:274` (Tag 434) - one, three, twenty-four
 - `b2ch77:14` (Tag 464) - nine, one
 - `b2ch77:58` (Tag 464) - eleven, seventy-four
 - `b2ch77:66` (Tag 464) - eleven, one, two thousand and two
@@ -27556,7 +27566,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 431 | b2ch68:12 | Mrs Seo had it put up on the Thursday. Nobody in that house asked her about it and nobod.. |
 | 431 | b2ch68:102 | Georgij stood in the passage by the rail Mrs Seo had put up. |
 | 431 | b2ch68:126 | She looked at the cylinders against the wall and at the rail Mrs Seo had put up, and she.. |
-| 434 | b2ch69:270 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
+| 434 | b2ch69:298 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
 | 464 | b2ch77:10 | Mrs Seo had the door open before he was out of it. |
 | 464 | b2ch77:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 464 | b2ch77:36 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
@@ -27677,7 +27687,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Sim
 
-130 Nennungen in 20 Kapiteln.
+133 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -27809,8 +27819,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 575 | b2ch88:164 | "No," said Sim. "It is the bill." |
 | 575 | b2ch88:180 | Sim straightened his cuff. |
 | 575 | b2ch88:194 | Sim did not accept it and did not reject it. |
-| 575 | b2ch88:202 | "Come in the spring," said Sim. "Not for anything." |
-| 578 | b2ch88:348 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 575 | b2ch88:208 | Sim did not pick it up. |
+| 575 | b2ch88:220 | Sim looked at the back of the page for some time. |
+| 575 | b2ch88:232 | Sim did not answer any of that. |
+| 575 | b2ch88:240 | "Come in the spring," said Sim. "Not for anything." |
+| 578 | b2ch88:386 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -27872,7 +27885,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:42` (Tag 465) - eleven
 - `b2ch88:102` (Tag 575) - eleven, four, two
 - `b2ch88:142` (Tag 575) - four
-- `b2ch88:348` (Tag 578) - one
+- `b2ch88:386` (Tag 578) - one
 
 ---
 
@@ -28022,7 +28035,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Choi Dae-ho
 
-64 Nennungen in 20 Kapiteln.
+65 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -28090,6 +28103,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:54 | Choi Dae-ho walked the length of that dining room to get to the hall. |
 | 531 | b2ch87:266 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
+| 590 | b2ch89:384 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -28120,6 +28134,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:492` (Tag 531) - four, nine, one, twenty-five, twenty-six
 - `b2ch86:534` (Tag 531) - one
 - `b2ch87:266` (Tag 531) - eight, three
+- `b2ch89:384` (Tag 590) - four, thirty, thirty-one, two
 
 ---
 
@@ -28402,7 +28417,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 573 | b2ch88:50 | "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, .. |
 | 573 | b2ch88:68 | "I have not shown it to anybody and I am not going to show it to you." Mrs Sunwoo put bo.. |
 | 573 | b2ch88:90 | "Not before. She has had a winter." Mrs Sunwoo looked at the window. "And when you do it.. |
-| 578 | b2ch88:348 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 578 | b2ch88:386 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
 
@@ -28436,7 +28451,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:112` (Tag 441) - nine, twenty
 - `b2ch87:384` (Tag 531) - five, one, three
 - `b2ch88:50` (Tag 573) - fifty
-- `b2ch88:348` (Tag 578) - one
+- `b2ch88:386` (Tag 578) - one
 
 ---
 
@@ -29313,7 +29328,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 302 | b2ch49:24 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
 | 302 | b2ch49:326 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
 | 305 | b2ch50:110 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
-| 578 | b2ch88:382 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
+| 578 | b2ch88:420 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
 
 ### Zahlen in der Naehe von Mrs Bae
 

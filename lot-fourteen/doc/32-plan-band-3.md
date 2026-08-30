@@ -4869,91 +4869,71 @@ anders ausgegangen ist als bei den anderen.**
 
 ---
 
-# Chois Leute: der Faden, der Band 3 traegt, festgelegt am 30.08.
+# Chois Leute: in Band 2 bezahlt, in Band 3 nur noch gezaehlt
 
-**Vom Autor:** *"Ich will, dass wir Chois Opfern helfen. Die tun mir alle so
-leid. Ruiniert Menschen, weil sie im falschen Raum waren."*
+**Am 30.08. zuerst als Band-3-Faden entworfen, und der Autor hat ihn nach
+Band 2 gezogen: "ich will das in Band 2 abgehandelt haben."** Richtig, denn
+die Haelfte davon stand schon dort.
 
-## Der Satz, auf dem alles steht, und er steht schon im Buch
+## Was in Band 2 steht, mit Fundstelle
+
+`b2 ch76:268`, sechster Januar, ohne einen Satz Erklaerung:
+
+> *A five-year lease for a man who has been month to month since 2019. A
+> standing order of forty stems a week since the fourteenth of October, paid
+> on the day, **from a firm that was given her name**. A drain that came up on
+> a schedule in November after twenty-two years and three letters.*
+
+Und `b2 ch76:296`: ***"None of them has been asked for anything. None of them
+ever will be."***
+
+**Am 30.08. nachgetragen, weil der Autor Mrs Ha und Mrs Sunwoo vermisst hat:**
+
+* **`b2 ch89`** - die Frau, die dreissig Jahre Blumen und Waesche in Saele
+  gestellt hat, hat seit Mitte Maerz einunddreissig Buchungen und ist in vier
+  Saelen, in denen sie vor Choi nie war. **Vier Leute haben ihr gesagt, jemand
+  habe sie empfohlen, und keiner erinnert sich, wer.**
+* **`b2 ch89`** - im April brauchte sie Porzellan. Jemand hat sie sechs
+  Minuten lang neben eine Einundachtzigjaehrige gesetzt, die seit
+  einundvierzig Jahren welches kauft, **und ist dann woanders im Raum
+  stehengeblieben.** Elf Telefonate seither. **Keine von beiden hat gemerkt,
+  dass sie hingesetzt wurden.**
+* **`b2 ch88`** - Sim bekommt elf Namen, keiner davon einer seiner vier, alle
+  am Leben und keinem je gesagt worden, was ihm geschehen ist. Nicht als
+  Auftrag: *"I want you to have it."* Und der erste Dank in acht Monaten.
+
+## Der Satz, auf dem es steht, und er stand schon im Buch
 
 `b2 ch75:126`, Georgij erklaert Mr Im, wie Choi arbeitet:
 
 > *"He puts two things next to each other four minutes apart and lets you be
-> the one who joins them. Then you say yes to something, in your own voice,
-> out of your own mouth, and you carry it for six years, and he has never once
-> had to claim anything."*
+> the one who joins them."*
 
-**Das ist auch Georgijs Verfahren, und in Band 3 dreht er es um.** Er besitzt
-nichts, er kann niemandem einen Auftrag geben, und er wird auch keinen geben.
-**Er legt zwei Sachen nebeneinander und laesst andere sie verbinden** - nur
-gehen die Leute diesmal nicht sechs Jahre lang daran zugrunde, sondern haben
-Arbeit.
+**Georgij benutzt dasselbe Verfahren, um denselben Schaden zu reparieren.** Er
+besitzt nichts und kann niemandem einen Auftrag geben. **Er stellt zwei Sachen
+nebeneinander und geht weg.**
 
-**Und der Unterschied zwischen den beiden Maennern ist ein einziger:**
+**Und der Unterschied zwischen den beiden Maennern ist einer:**
 
 > **Choi kam, war zauberhaft, richtete den Raum ein, ging vor dem Kaffee und
 > kam nie wieder. Georgij kommt wieder.**
 
 Die Frau im Erdgeschoss nennt Choi bis heute *"the lovely man"*
-(`b2 ch76:230`). **Niemand von diesen Leuten weiss, dass ihm etwas angetan
+(`b2 ch76:230`). **Keiner von diesen Leuten weiss, dass ihm etwas angetan
 wurde. Das ist der Grund, warum es sie zerstoert hat.**
 
-## Wer auf der Liste steht, und alle stehen im Buch
+**Die drei Regeln, ohne die es ein Almosen waere:** die Auftraege koennen
+nicht von ihm kommen, weil er nichts hat; niemand erfaehrt, woher sie kommen,
+weil ein Auftrag, von dem man weiss, dass er Mitleid ist, kleiner macht
+(Woos Brief: *"kind in a way that leaves the other man smaller"*); und das
+Wesentliche ist nicht der Umsatz, sondern dass er sie einander vorstellt und
+dann weggeht.
 
-| Wer | Was Choi gekostet hat | Fundstelle |
-|---|---|---|
-| **Mrs Sunwoo** | einundachtzig, Porzellan, persoenlich betrogen | `b2 ch10`, `b2 ch71` |
-| **Mrs Ha** | der Saal, die Hochzeiten, ein nicht abgeholter Auftrag von 2019 in einer Kiste | `b2 ch72`, `b2 ch80` |
-| **Mr Im** | sechs Jahre. *"I have not been able to have dinner with anybody"* | `b2 ch75:146` |
-| **Mr Ok** | *Ok. A hand. Nothing before the twelfth. Frightened only.* | `b2 ch16:12` |
-| **Die Frau im Erdgeschoss** | zweiundzwanzig Jahre Topf, dreimal geschrieben, nie eine Antwort | `b2 ch43`, `b2 ch76` |
+## Was davon in Band 3 uebrigbleibt
 
-**Die Liste ist nicht vollstaendig und darf es nicht sein.** `b2 ch75:120`:
-*"Four that I know of. There will be more and I am not going to guess at a
-number in your office."* **Der Faden laeuft den ganzen Band durch, in Zahlen
-am Rand, wie die achtundfuenfzig.**
+**Nur die Zahl am Rand, wie bei den achtundfuenfzig.** `b2 ch75:120`: *"Four
+that I know of. There will be more and I am not going to guess at a number in
+your office."* **Ein Satz alle paar Kapitel, wie viele es inzwischen sind, und
+was Sim mit seinen elf gemacht hat.**
 
-## Wie es geschieht, und es ist kein Geschenk
-
-**1. Die Auftraege kommen nicht von ihm, weil sie es nicht koennen.** Regel 2.
-Er hat kein Geld. **Annies Gruppe kauft Porzellan, weil Annies Gruppe
-Porzellan braucht**, und ein Konzern dieser Groesse heiratet, feiert, empfaengt
-und beerdigt. **Mrs Ha bekommt in einigen Wochen ein paar Dutzend Hochzeiten
-und macht mehr Saele auf, als sie vor Choi hatte.**
-
-**2. Und niemand von ihnen erfaehrt, woher es kommt.** Das ist keine
-Bescheidenheit, sondern die einzige Fassung, in der es kein Almosen ist. **Ein
-Auftrag, von dem man weiss, dass er Mitleid ist, macht kleiner.** Woo sagt es
-im Brief: *"I have watched a great many men be kind in a way that leaves the
-other man smaller."*
-
-**3. Das Wesentliche ist nicht das Geld, sondern dass er sie untereinander
-verbindet.** Mrs Ha braucht Porzellan. Mrs Sunwoo braucht Saele, in denen ihr
-Porzellan steht. **Er stellt sie einander vor und geht.** Danach brauchen sie
-ihn nicht mehr, **und das ist der Punkt: er baut kein Netz um sich, sondern
-eines ohne ihn in der Mitte.**
-
-**4. Und er kommt vorbei und fragt, wie es ihnen geht.** Ohne Anlass, ohne
-Papier, ohne etwas zu wollen. **Das ist die eigentliche Wiedergutmachung und
-nicht der Umsatz**, und es ist genau das, was Choi in fuenfundzwanzig Jahren
-nie getan hat.
-
-## Warum es kein Nebenstrang ist
-
-**Band 3 ist der Band, in dem Georgij zum ersten Mal etwas annimmt** - Yeom
-nennt ihn Freund, sie kuesst ihn, Woo vererbt ihm alles. **Chois Leute sind
-die Gegenprobe:** waehrend er lernt zu nehmen, lernt er zu geben, ohne dass
-es dem anderen etwas kostet.
-
-**Und es ist die Antwort auf Gongs Anklage, ohne dass sie ausgesprochen
-wird.** Der Oberstaatsanwalt wird sagen, Georgij sei dasselbe wie Choi. **Der
-Band widerlegt es nicht mit einer Rede, sondern damit, dass eine Frau von
-einundachtzig wieder Auftraege hat und niemand ihr gesagt hat, warum.**
-
-## Offen, und der Autor entscheidet es
-
-**Wem gibt er die erweiterte Liste, und wem dankt er?** Der Autor hat *"ihm"*
-geschrieben. **Zwei kommen in Frage:** Sim, der berufsmaessig Faelle
-aufarbeitet und dem Georgij etwas schuldet, oder Hwang, der Listen fuehrt.
-**Sim ist die staerkere Wahl**, weil er dreissig Jahre lang der Mann war, der
-nicht fragt, und weil er derjenige ist, der vor dem Kaffee geht.
+**Keine Szene mehr. Der Faden ist bezahlt.**

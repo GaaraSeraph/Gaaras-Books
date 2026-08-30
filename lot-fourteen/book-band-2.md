@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 230.218 Woerter.
+Book Two, 89 Kapitel, 230.834 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -79,7 +79,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 66 | v1.3 | 2.411 |
 | 67 | v2.6 | 2.074 |
 | 68 | v3.2 | 2.071 |
-| 69 | v3.3 | 2.566 |
+| 69 | v3.4 | 2.729 |
 | 70 | v3.3 | 2.249 |
 | 71 | v3.1 | 2.228 |
 | 72 | v3.2 | 3.672 |
@@ -98,8 +98,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 85 | v3.3 | 2.593 |
 | 86 | v3.13 | 3.233 |
 | 87 | v3.16 | 3.807 |
-| 88 | v3.4 | 2.956 |
-| 89 | v3.4 | 2.777 |
+| 88 | v3.5 | 3.249 |
+| 89 | v3.5 | 2.937 |
 
 ---
 
@@ -15163,7 +15163,7 @@ Nobody in that room will be told, and that is the whole of what was decided in a
 ---
 
 # Book Two · Chapter 69: Nobody paid
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Four Hundred and Thirty-Four · Friday 11 December
 
@@ -15290,6 +15290,30 @@ Woo got there on his own, and it took him perhaps twenty seconds, and Georgij wa
 "You said it would have to be worth what it was worth."
 
 "It is. This afternoon you are getting three of mine, and I am choosing what they go on, and I have been waiting fourteen months to be allowed to." He turned the hand back over. "And I could only choose it because you did not ask. If you had asked me in April I would have given them to you and thought about it every week since, and by August I would have found something wrong with you."
+
+"Then I will spend three of mine," said Georgij.
+
+Woo looked up.
+
+"On what."
+
+"On this room." He had not moved from where he had been standing since he came in. "You have just found out that nobody paid. You went to two funerals wondering, and the third man is alive, and you have not had a real conversation with him since your wife died."
+
+Woo did not say anything.
+
+"You came in here and would not sit down."
+
+"I would not take a chair." Georgij went and got the one by the wall and turned it round and sat down in it. "I am bringing one."
+
+Woo looked at him for a while and then at the middle of the desk.
+
+"An hour of it is going to be about a woman who has been dead since September," he said, "and it is not going to be useful to you in any way at all."
+
+"No."
+
+"Good."
+
+* * *
 
 He pulled a pad towards him, which is what he does instead of agreeing to things.
 
@@ -20080,7 +20104,7 @@ Downstairs the chairs stopped.
 ---
 
 # Book Two · Chapter 88: Not the comfortable part
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Five Hundred and Seventy-One · Tuesday 27 April
 
@@ -20217,6 +20241,38 @@ Sim straightened his cuff.
 Sim did not accept it and did not reject it.
 
 "Then I will hold both of them," he said. "I have had a great deal of practice this year at holding two things, and it turns out that a man can, and that it is not as bad as it sounds and it does not get better either."
+
+"There is one more thing and it is in my coat."
+
+He put it on the table face down and took his hand off it.
+
+"Eleven names, and not one of them is one of your four." Georgij did not touch it again. "They are the ones he did himself, or with somebody who was not you. All eleven are alive and none of them has ever been told what happened to them."
+
+Sim did not pick it up.
+
+"You want me to go and see them."
+
+"No. I want you to have it." Georgij sat back. "You have thirty years of knowing how to sit in a stranger's kitchen and be no trouble at all. There is nobody else in this country with that, and you have nothing left in front of you to use it on."
+
+"And if I burn it."
+
+"Then you will have burnt it, and I will not know, and I am not going to ask you about it in a year."
+
+Sim looked at the back of the page for some time.
+
+"You have not thanked me once," he said. "In eight months."
+
+"No."
+
+"Then do not start now."
+
+"I am going to." Georgij stood up. "You went to four people eleven years ago and you were kind to every one of them, and every one of them went quiet for eleven years, and none of that was yours. Thank you for the telephone call you did not want to make, and for the eleven minutes about the gutters before it."
+
+Sim did not answer any of that.
+
+Then he turned the page over and read it, and read it again, and put it in his inside pocket where it goes.
+
+* * *
 
 At the door he said the thing he said in December.
 
@@ -20357,7 +20413,7 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20654,5 +20710,15 @@ He slept about nine hours, which is the first time since the eighteenth of March
 Downstairs somebody moved a chair.
 
 At the back of the house a machine ran for four minutes and stopped.
+
+A woman in her sixties who put flowers and linen into halls for thirty years has taken thirty-one bookings since the middle of March. She is in four halls she was never in before Choi, and two of them are the ones that stopped answering her in 2019.
+
+Four separate people have told her that somebody recommended her, and not one of them can remember who.
+
+In April she needed porcelain and did not know where to start. Somebody put her next to a woman of eighty-one who has been buying it for forty-one years, at a table, for about six minutes, and then went and stood somewhere else.
+
+They have spoken on the telephone eleven times since. The older one has been asked her opinion about a thing she knows more about than anybody alive, by somebody who needed the answer and was not being kind.
+
+Neither of them has worked out that they were put there.
 
 In a workshop on a hill in Seodaemun there is a corner where a fan stood from the fifteenth of September until the second week of April. A man who mends small motors has not put anything in that corner since. He has not said why and nobody has asked him.

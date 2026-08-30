@@ -20,14 +20,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 865 | 92 (b1ch01-b2ch89) | 1 | 590 |
 | Park Sang-hoon | 303 | 46 (b1ch10-b2ch89) | 22 | 590 |
-| Chairman Woo | 231 | 39 (b1ch07-b2ch89) | 22 | 590 |
+| Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 160 | 38 (b1ch05-b2ch89) | 4 | 590 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 138 | 49 (b1ch03-b2ch87) | 1 | 531 |
-| Sim | 130 | 20 (b2ch29-b2ch88) | 239 | 578 |
+| Sim | 133 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 64 | 20 (b1ch07-b2ch89) | 22 | 590 |
+| Choi Dae-ho | 65 | 20 (b1ch07-b2ch89) | 22 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Baek | 60 | 13 (b1ch05-b2ch81) | 6 | 493 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -847,8 +847,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 431 | b2ch68:166 | Annie stood in the passage for a moment. |
 | 431 | b2ch68:176 | "There is a price and you are going to say it out loud," said Annie, "because you will h.. |
 | 431 | b2ch68:190 | Annie looked at the cylinders. |
-| 434 | b2ch69:276 | He went up at about nine and Annie was at the desk and did not ask. |
-| 434 | b2ch69:288 | "And the part you have not said," said Annie. |
+| 434 | b2ch69:304 | He went up at about nine and Annie was at the desk and did not ask. |
+| 434 | b2ch69:316 | "And the part you have not said," said Annie. |
 | 442 | b2ch72:156 | Annie was at the desk with the folder from Yeouido open and did not close it, which she .. |
 | 442 | b2ch72:168 | Annie did not say anything for a moment. |
 | 442 | b2ch72:178 | "Jang takes you and sits in the car," said Annie. |
@@ -1156,7 +1156,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch67:12` (Tag 404) - one
 - `b2ch68:124` (Tag 431) - eleven
 - `b2ch68:140` (Tag 431) - four
-- `b2ch69:276` (Tag 434) - nine
+- `b2ch69:304` (Tag 434) - nine
 - `b2ch76:266` (Tag 462) - three
 - `b2ch76:286` (Tag 462) - four
 - `b2ch78:120` (Tag 464) - thirty
@@ -1640,7 +1640,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-231 Nennungen in 39 Kapiteln.
+234 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1814,13 +1814,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 434 | b2ch69:156 | "The third is alive. I have not had a real conversation with him since my wife died." Wo.. |
 | 434 | b2ch69:158 | "I am spending the three hours," said Woo. |
 | 434 | b2ch69:162 | "You have not asked for them twice now, and you are the only man alive who has ever had .. |
-| 434 | b2ch69:176 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
-| 434 | b2ch69:188 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
-| 434 | b2ch69:202 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
-| 434 | b2ch69:206 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
-| 434 | b2ch69:222 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
-| 434 | b2ch69:232 | Woo took his hand off the roof of the car. |
-| 434 | b2ch69:246 | *Chairman Woo has been telling himself for twenty-four years that one of three men paid .. |
+| 434 | b2ch69:172 | Woo looked up. |
+| 434 | b2ch69:180 | Woo did not say anything. |
+| 434 | b2ch69:188 | Woo looked at him for a while and then at the middle of the desk. |
+| 434 | b2ch69:204 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
+| 434 | b2ch69:216 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
+| 434 | b2ch69:230 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
+| 434 | b2ch69:234 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
+| 434 | b2ch69:250 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
+| 434 | b2ch69:260 | Woo took his hand off the roof of the car. |
+| 434 | b2ch69:274 | *Chairman Woo has been telling himself for twenty-four years that one of three men paid .. |
 | 462 | b2ch76:302 | "Chairman Woo said it in a shed in December and I wrote it down in a car on the bridge a.. |
 | 464 | b2ch77:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 464 | b2ch77:28 | "Chairman Woo." |
@@ -1976,11 +1979,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:156` (Tag 434) - fourteen, three, twenty-four
 - `b2ch69:158` (Tag 434) - three
 - `b2ch69:162` (Tag 434) - three
-- `b2ch69:176` (Tag 434) - seventy-eight, two, two thousand and two
-- `b2ch69:202` (Tag 434) - nine hundred, one, six, ten
-- `b2ch69:206` (Tag 434) - four, one
-- `b2ch69:222` (Tag 434) - one
-- `b2ch69:246` (Tag 434) - one, three, twenty-four
+- `b2ch69:204` (Tag 434) - seventy-eight, two, two thousand and two
+- `b2ch69:230` (Tag 434) - nine hundred, one, six, ten
+- `b2ch69:234` (Tag 434) - four, one
+- `b2ch69:250` (Tag 434) - one
+- `b2ch69:274` (Tag 434) - one, three, twenty-four
 - `b2ch77:14` (Tag 464) - nine, one
 - `b2ch77:58` (Tag 464) - eleven, seventy-four
 - `b2ch77:66` (Tag 464) - eleven, one, two thousand and two
@@ -2883,7 +2886,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 431 | b2ch68:12 | Mrs Seo had it put up on the Thursday. Nobody in that house asked her about it and nobod.. |
 | 431 | b2ch68:102 | Georgij stood in the passage by the rail Mrs Seo had put up. |
 | 431 | b2ch68:126 | She looked at the cylinders against the wall and at the rail Mrs Seo had put up, and she.. |
-| 434 | b2ch69:270 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
+| 434 | b2ch69:298 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
 | 464 | b2ch77:10 | Mrs Seo had the door open before he was out of it. |
 | 464 | b2ch77:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 464 | b2ch77:36 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
@@ -3004,7 +3007,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Sim
 
-130 Nennungen in 20 Kapiteln.
+133 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3136,8 +3139,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 575 | b2ch88:164 | "No," said Sim. "It is the bill." |
 | 575 | b2ch88:180 | Sim straightened his cuff. |
 | 575 | b2ch88:194 | Sim did not accept it and did not reject it. |
-| 575 | b2ch88:202 | "Come in the spring," said Sim. "Not for anything." |
-| 578 | b2ch88:348 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 575 | b2ch88:208 | Sim did not pick it up. |
+| 575 | b2ch88:220 | Sim looked at the back of the page for some time. |
+| 575 | b2ch88:232 | Sim did not answer any of that. |
+| 575 | b2ch88:240 | "Come in the spring," said Sim. "Not for anything." |
+| 578 | b2ch88:386 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -3199,7 +3205,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:42` (Tag 465) - eleven
 - `b2ch88:102` (Tag 575) - eleven, four, two
 - `b2ch88:142` (Tag 575) - four
-- `b2ch88:348` (Tag 578) - one
+- `b2ch88:386` (Tag 578) - one
 
 ---
 
@@ -3349,7 +3355,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Choi Dae-ho
 
-64 Nennungen in 20 Kapiteln.
+65 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3417,6 +3423,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:54 | Choi Dae-ho walked the length of that dining room to get to the hall. |
 | 531 | b2ch87:266 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
+| 590 | b2ch89:384 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -3447,6 +3454,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:492` (Tag 531) - four, nine, one, twenty-five, twenty-six
 - `b2ch86:534` (Tag 531) - one
 - `b2ch87:266` (Tag 531) - eight, three
+- `b2ch89:384` (Tag 590) - four, thirty, thirty-one, two
 
 ---
 
@@ -3729,7 +3737,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 573 | b2ch88:50 | "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, .. |
 | 573 | b2ch88:68 | "I have not shown it to anybody and I am not going to show it to you." Mrs Sunwoo put bo.. |
 | 573 | b2ch88:90 | "Not before. She has had a winter." Mrs Sunwoo looked at the window. "And when you do it.. |
-| 578 | b2ch88:348 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 578 | b2ch88:386 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
 
@@ -3763,7 +3771,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:112` (Tag 441) - nine, twenty
 - `b2ch87:384` (Tag 531) - five, one, three
 - `b2ch88:50` (Tag 573) - fifty
-- `b2ch88:348` (Tag 578) - one
+- `b2ch88:386` (Tag 578) - one
 
 ---
 
@@ -4640,7 +4648,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 302 | b2ch49:24 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
 | 302 | b2ch49:326 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
 | 305 | b2ch50:110 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
-| 578 | b2ch88:382 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
+| 578 | b2ch88:420 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
 
 ### Zahlen in der Naehe von Mrs Bae
 

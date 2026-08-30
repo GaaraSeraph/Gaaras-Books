@@ -112,7 +112,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 66** *She went back* (v1.3) · Tag 398, Do 5. November · Tag 399, Fr 6. November · Tag 400, Sa 7. November · 2.411 W
 - **B2 67** *The draught under the door* (v2.6) · Tag 404, Mi 11. November · Tag 409, Mo 16. November · 2.074 W
 - **B2 68** *The second Tuesday* (v3.2) · Tag 431, Di 8. Dezember · 2.071 W
-- **B2 69** *Nobody paid* (v3.3) · Tag 434, Fr 11. Dezember · 2.566 W
+- **B2 69** *Nobody paid* (v3.4) · Tag 434, Fr 11. Dezember · 2.729 W
 - **B2 70** *A man who answers* (v3.3) · Tag 437, Mo 14. Dezember · Tag 439, Mi 16. Dezember · 2.249 W
 - **B2 71** *No story at all* (v3.1) · Tag 440, Do 17. Dezember · 2.228 W
 - **B2 72** *What silence costs* (v3.2) · Tag 441, Fr 18. Dezember · Tag 442, Sa 19. Dezember · Tag 444, Mo 21. Dezember · 3.672 W
@@ -131,5 +131,5 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 85** *Twenty-seven* (v3.3) · Tag 531, Do 18. Maerz · 2.593 W
 - **B2 86** *Please guide me* (v3.13) · Tag 531, Do 18. Maerz · 3.233 W
 - **B2 87** *The length of the room* (v3.16) · Tag 531, Do 18. Maerz · 3.807 W
-- **B2 88** *Not the comfortable part* (v3.4) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 2.956 W
-- **B2 89** *The weapon* (v3.4) · Tag 590, So 16. Mai · 2.777 W
+- **B2 88** *Not the comfortable part* (v3.5) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 3.249 W
+- **B2 89** *The weapon* (v3.5) · Tag 590, So 16. Mai · 2.937 W
