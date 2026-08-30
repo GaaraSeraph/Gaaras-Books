@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 230.928 Woerter.
+Book Two, 89 Kapitel, 230.993 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -96,7 +96,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 83 | v3.5 | 2.934 |
 | 84 | v3.4 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.14 | 3.327 |
+| 86 | v3.15 | 3.392 |
 | 87 | v3.16 | 3.807 |
 | 88 | v3.5 | 3.249 |
 | 89 | v3.5 | 2.937 |
@@ -19262,7 +19262,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.14 · EN
+*Lot Fourteen* · Version 3.15 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19294,7 +19294,11 @@ There were two places at that table and Choi Dae-ho did not look at either of th
 
 Georgij did not sit down either.
 
-He had asked for it in the passage at eight and he had not asked for it in order to use it. A man who is going to be finished in twenty minutes gets a laid table, because the alternative is a bare one, and a bare table is a thing you do to somebody.
+He had asked for it in the passage at eight, and he had asked for two places, and he had known while he was asking that neither of them would be used.
+
+A man who is going to be finished in the next hour gets a laid table, because the alternative is a bare one, and a bare table is a thing you do to somebody.
+
+And there is a second reason, and Georgij did not put it into words that evening or afterwards. There are two men in this story who do not eat in front of a person they are working on, and both of them were standing in that room, and one of them had ordered the food.
 
 "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been at something for a year and it shows in the way you are standing, and I would say the same thing to anybody."
 
@@ -19662,13 +19666,13 @@ The four cars on the drive did not do anything.
 
 "That is a thing people say."
 
-"It is a thing four people have said to me in eleven months and none of them knew the others. I would like your guidance, since you are the expert in the room and I am only the one who arranged it."
+"It is a thing four people have said to me in eleven months and none of them knew the others. You are the expert in this room, and I am only the man who arranged it."
 
 * * *
 
 He let that sit for exactly as long as it needed to.
 
-"How does a man with nothing left escape a thing he cannot see coming?"
+"Please guide me," said Georgij. "How does a man with nothing left escape a thing he cannot see coming?"
 
 * * *
 
