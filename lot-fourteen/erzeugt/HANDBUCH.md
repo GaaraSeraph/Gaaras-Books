@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.146 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 305.152 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -640,7 +640,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**123 Kapitel, 332.415 Woerter.**
+**123 Kapitel, 332.556 Woerter.**
 
 ---
 
@@ -9009,14 +9009,14 @@ das ist am 27.08. schon einmal passiert, siehe `protokoll/`.
 
 | Tag | Datum | Was daran haengt |
 |---|---|---|
-| 377 | Do 15. Okt 2026 | `ch55`. Hwang erklaert die Nummernfolge. **Er kennt kein Datum**, ein Fonds entscheidet. Georgij bittet um den ersten Anruf statt den sechshundertvierzigsten Umschlag |
-| 384 | Do 22. Okt 2026 | `ch56`. Der Fonds hat entschieden, Hwang ruft um **zwanzig nach sieben** an. Annie haelt ihre Rede ueber neun Jahre zu Ende, **weil er sie nicht unterbricht**, und wird danach richtiggestellt. Sie unterschreibt |
+| 377 | Do 15. Okt 2026 | `b2 ch59`. Hwang erklaert die Nummernfolge. **Er kennt kein Datum**, ein Fonds entscheidet. Georgij bittet um den ersten Anruf statt den sechshundertvierzigsten Umschlag |
+| 384 | Do 22. Okt 2026 | `b2 ch60`. Der Fonds hat entschieden, Hwang ruft um **zwanzig nach sieben** an. Annie haelt ihre Rede ueber neun Jahre zu Ende, **weil er sie nicht unterbricht**, und wird danach richtiggestellt. Sie unterschreibt |
 | 395 | Mo 2. Nov 2026 | Der Kauf. Ihr Name geht mit dem Eintrag in die Folge |
-| 510 | Do 25. Feb 2027 | `ch79`. Klasse eins, neunzehn Kisten, ueber eine Brueckenwaage in Siheung. Zweitguenstigste von vier Offerten, weil die guenstigste kein Zertifikat anbot |
+| 510 | Do 25. Feb 2027 | `b2 ch83`. Klasse eins, neunzehn Kisten, ueber eine Brueckenwaage in Siheung. Zweitguenstigste von vier Offerten, weil die guenstigste kein Zertifikat anbot |
 | 514 | Mo 1. Mrz 2027 | Das Zertifikat liegt in Georgijs Innentasche. Es bleibt dort |
 | 517 | Do 4. Mrz 2027 | Klasse vier zuletzt, *"because there are people in them who are alive"* |
-| 522 | Mo 8. Mrz 2027 | `ch80`. Die siebenundzwanzig Einladungen gehen hinaus. **Nach dem Vernichtungstermin, und das ist kein Zufall** |
-| 531 | Do 18. Mrz 2027 | Das Essen, `ch82` mit Choi, `ch83` die Bilanz. **Auf den Tag ein Jahr nach dem Brief** (`ch12`: *"The eighteenth of March." / "Sixteen days."*) |
+| 522 | Mo 8. Mrz 2027 | `b2 ch84`. Die siebenundzwanzig Einladungen gehen hinaus. **Nach dem Vernichtungstermin, und das ist kein Zufall** |
+| 531 | Do 18. Mrz 2027 | Das Essen, `b2 ch86` mit Choi, `b2 ch87` die Bilanz. **Auf den Tag ein Jahr nach dem Brief** (`ch12`: *"The eighteenth of March." / "Sixteen days."*) |
 
 **Ihr Name steht damit drei Monate und dreiundzwanzig Tage.** Vom zweiten
 November bis zum fuenfundzwanzigsten Februar, einhundertfuenfzehn Tage.
