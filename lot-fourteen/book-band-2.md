@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.409 Woerter.
+Book Two, 89 Kapitel, 227.567 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
-| 63 | v1.5 | 2.148 |
+| 63 | v1.6 | 2.306 |
 | 64 | v1.2 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
@@ -13771,7 +13771,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 63: They did not argue about it
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -13811,11 +13811,21 @@ Mr Hwang telephoned it through and did not dress it.
 
 "Then say why nobody on that side had to be asked."
 
-"Because on that side there is nobody who has to be asked." Mr Hwang did not hurry that either. "She is a line. The man who holds her holds a line, a room and a rota, and he is paid for the room. A transfer out of a house in wind-up is the most ordinary sheet that will cross his desk this year, and his agent signed it the way an agent signs things."
+"They did not have to be. That is not the same as saying they could not have been." Mr Hwang did not hurry that either. "She is a line. The man who holds her holds a line, a room and a rota, and he is paid for the room. A transfer out of a house in wind-up is the most ordinary sheet that will cross his desk this year, and his agent handled it as one."
 
 "And the man in Seoul."
 
-"Is not on the form. He has never been on the form and there is no place on it where he could be." A pause. "That is the whole of why this was possible. It is also the whole of why the other one is not."
+"Is not on the form and there is no place on it where he could be, so nothing went to him and nothing had to go." A pause. "If that agent had thought it was worth a telephone call, you would have had a no on Wednesday. There would have been no second sheet, and she would have been somewhere without a book by the end of November."
+
+Georgij put the note face down before he answered.
+
+"So we did not buy her out of that house."
+
+"No. You bought twenty-six hours in which nobody thought she was worth a telephone call." Mr Hwang did not soften it at all. "I would not say that to her. I am saying it to you because you asked me a question and you have never once wanted the comfortable half of an answer."
+
+*It held because she was cheap to them. Nothing else held it. If one man on that side had been interested for four minutes, she is in a van in November and I have a form and a price and no woman.*
+
+*I have written that down so that I cannot tell myself afterwards that it was built well.*
 
 She worked it out at about twenty past two, which is ten minutes and not four hours.
 
