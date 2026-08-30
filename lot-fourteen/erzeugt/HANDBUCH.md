@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 299.485 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 300.182 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -311,6 +311,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Der Text](#der-text)
   - [Warum die Antwort mehr sagt als eine Summe](#warum-die-antwort-mehr-sagt-als-eine-summe)
   - [Zeichensetzung](#zeichensetzung)
+  - [Die Zahlen werden trotzdem nicht geändert](#die-zahlen-werden-trotzdem-nicht-ge-ndert)
+  - [Die Auflösung: sie wird nicht aus dem Haushalt verpflegt](#die-aufl-sung-sie-wird-nicht-aus-dem-haushalt-verpflegt)
+  - [Eingebaut in `b2 ch59` v1.10](#eingebaut-in-b2-ch59-v1-10)
 - [Plan, Band 3](#plan-band-3)  ·  `doc/32-plan-band-3.md`
   - [GANZ neue Gesichter, und der Saal ist schon gebaut](#ganz-neue-gesichter-und-der-saal-ist-schon-gebaut)
   - [Der Text](#der-text)
@@ -16740,6 +16743,83 @@ gezahlt.
 Gang zu verlassen. **Chois zwei Antworten bekommen den Punkt.** Und *"That is
 not a number."* ist eine Feststellung und keine Frage.
 
+
+---
+
+## Die Krämerzahl und die zweite Frau, geprüft am 29.08.
+
+**Vom Autor gefunden:** Ahn Jung-hee und Moon Hae-sook sind im selben Haus
+(`b2 ch59:154`: *a woman in **the same building** who has been there eleven
+years*), Ahn seit vier Jahren, Moon seit elf. **Dann müsste die Bestellung
+für elf reichen und nicht für zehn.**
+
+**Die Arithmetik stimmt, der Einwand ist berechtigt:**
+
+| | |
+|---|---|
+| Rota | **neun**, elf Morgen über sechs Wochen gezählt (`b2 ch40:60`, `b2 ch45:14`) |
+| Bestellung | **zehn** seit vier Jahren, **neun** davor (`b2 ch45:14`) |
+| Ahn | vier Jahre im Haus |
+| Moon | **elf** Jahre im Haus |
+
+**Neun plus zwei ist elf. Beide Zahlen sind konsistent um eins zu niedrig,
+wenn Moon aus dem Haushalt verpflegt wird.**
+
+### Die Zahlen werden trotzdem nicht geändert
+
+**Weil es die Handlung zerstört.** Georgij schließt aus zehn minus neun auf
+**eine** verborgene Person. Bei elf wären es zwei, und er wüsste es von der
+Krämerzahl an. **Moon wird aber erst viel später gefunden, über die
+Sauerstoff-Meldung bei der Feuerwehrbehörde** (`b2 ch41:22`) - eine
+vollständig andere Spur, und die Reihenfolge trägt vier Kapitel.
+
+### Die Auflösung: sie wird nicht aus dem Haushalt verpflegt
+
+**Und das ist kein Notbehelf, sondern Sims durchgehendes Muster.**
+`b2 ch57:126`:
+
+> *"**You did not add a doctor to a household. You added a doctor to her.**"*
+
+**Alles, was für Moon Hae-sook beschafft wird, läuft auf ihrer eigenen Linie
+und wird vom Trust bezahlt** - der Sauerstoff, der Arzt, die Wohnung.
+Vierundvierzig Zahlungen in elf Jahren, ohne Namen, mit Baeks Unterschrift.
+**Das Essen hat dieselbe Form: es kommt mit der medizinischen Lieferung, auf
+demselben Konto, im selben Takt wie der Sauerstoff** - alle elf Tage eine
+Anlieferung, eine Rechnung, ein Zahler.
+
+**Damit ist jede Zahl im Buch richtig, wie sie dasteht:**
+
+* Vor vier Jahren: neun auf der Rota, neun im Haushalt. **Moon war da und
+  kam nie darin vor.**
+* Seit vier Jahren: neun plus Ahn Jung-hee. **Zehn.**
+
+**Und es erklärt, warum Georgij sie über den Sauerstoff findet und über
+nichts sonst:** die Feuerwehrmeldung ist der einzige öffentliche Eintrag, den
+es über sie gibt, **und er existiert nur, weil eine Löschmannschaft um drei
+Uhr morgens wissen muss, was sie erwartet.** Alles andere über sie läuft
+durch einen Kanal, der gebaut ist, um kein Haushaltsbeleg zu sein.
+
+**`b2 ch59:238` sagt es bereits:** *There is no line anywhere on the other
+woman. Not one. That is not an oversight and it is not carelessness.*
+**Auch nicht in der Küche.**
+
+### Eingebaut in `b2 ch59` v1.10
+
+**Zwei Zeilen an die vier Autonotizen am Kapitelende angehängt**, als sein
+eigener Fehler und nicht als Erklärung des Erzählers:
+
+> *Nine on a rota and food for ten, and I was satisfied with that arithmetic
+> for six weeks. The ten is Ahn Jung-hee. There has never been an eleven.*
+>
+> *Nobody buys that woman a meal anywhere a grocer could write it down.
+> Whatever reaches her comes on the same account as the oxygen, and I did not
+> once ask why the number was not higher.*
+
+**Warum dort:** die Autonotizen sind ohnehin seine Selbstprüfung, und
+`b2 ch54:120` hat die Zahl schon einmal angezweifelt - *"A grocer's order is
+not a headcount. Kitchens over-order."* **Er hat die Schwäche seiner eigenen
+Zahl gekannt und trotzdem nicht weit genug gefragt.**
+
 ---
 
 # Plan, Band 3
@@ -20368,10 +20448,21 @@ aufgeht und dass ihn das stoert. **Georgij hoert, was es wirklich ist.** Das
 ist woertlich das Ahn-Muster: ein Mann sagt eine wahre Kleinigkeit ueber seine
 eigene Arbeit, und sie ist der Fund.
 
-**3. Und es ist seine Wiedergutmachung, ohne dass es jemand ausspricht.** Ein
-Mann, der ein Haus gefuehrt hat, das Menschen verkaufte, und **nie auf die
-Flaeche gegangen ist**, rettet zum ersten Mal jemanden - **mit einer Spalte.**
-Der Text zeigt darauf nicht.
+**3. Und es ist die Fortsetzung seiner Wiedergutmachung, nicht ihr Anfang** -
+**am 29.08. vom Autor berichtigt.** Ich hatte *zum ersten Mal* geschrieben,
+und das ist falsch: **in Band 2 hat er an zwei Frauen mitgewirkt** - Ahn
+Jung-hee und Moon Hae-sook. `b2 ch81`: er sagt in etwa vierzig Sekunden zu,
+gegenzeichnet allein an seinem Schreibtisch, mit niemandem im Gebaeude, und
+er beantwortet dieselbe Stunde die Frage nach Moon Hae-sook.
+
+**Was hier neu ist, ist nicht das Retten, sondern die Sorte Arbeit.** In Band
+2 hat er unterschrieben, was man ihm hinlegte, und die zwoelf Stellen selbst
+in den Plan geschrieben. **Hier faellt es ihm auf, ohne dass jemand ihn
+gefragt hat** - ein Mann, der dreissig Jahre eine Reihe gefuehrt und **nie
+auf die Flaeche gegangen ist**, sieht in seiner eigenen Spalte, dass etwas
+nicht stimmt, **und sagt es.**
+
+**Das ist die Stufe darueber, und der Text zeigt darauf nicht.**
 
 **Warum nicht Woo selbst:** ihm gehoert das Terminal, er saehe dieselben
 Zahlen. **Aber wenn Woo es sagt, ist es eine Gefaelligkeit; wenn Hwang es
@@ -24299,7 +24390,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 31 | 145 |
 | Mrs Ha | 44 | 4 (b2ch72-b2ch89) | 441 | 590 |
 | Nam Byung-hee | 43 | 13 (b2ch03-b2ch87) | 155 | 531 |
-| Ahn Jung-hee | 36 | 15 (b2ch53-b2ch89) | 315 | 590 |
+| Ahn Jung-hee | 37 | 15 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch34) | 22 | 249 |
 | Mr Ku | 35 | 23 (b1ch05-b2ch87) | 6 | 531 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
@@ -28387,7 +28478,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Ahn Jung-hee
 
-36 Nennungen in 15 Kapiteln.
+37 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -28407,6 +28498,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 328 | b2ch57:90 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
 | 371 | b2ch58:226 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
 | 377 | b2ch59:56 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
+| 377 | b2ch59:242 | *Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks.. |
 | 385 | b2ch61:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
 | 385 | b2ch61:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
 | 395 | b2ch64:96 | Ahn Jung-hee did not say anything. |
@@ -28442,6 +28534,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:90` (Tag 328) - four, nine, thirty-five
 - `b2ch58:226` (Tag 371) - eleven, six
 - `b2ch59:56` (Tag 377) - four, nine, thirty-five
+- `b2ch59:242` (Tag 377) - eleven, nine, six, ten
 - `b2ch61:82` (Tag 385) - four, thirty-five
 - `b2ch61:92` (Tag 385) - eleven, forty
 - `b2ch64:104` (Tag 395) - four, one

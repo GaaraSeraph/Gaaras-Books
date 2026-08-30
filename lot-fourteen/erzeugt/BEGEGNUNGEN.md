@@ -36,7 +36,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 31 | 145 |
 | Mrs Ha | 44 | 4 (b2ch72-b2ch89) | 441 | 590 |
 | Nam Byung-hee | 43 | 13 (b2ch03-b2ch87) | 155 | 531 |
-| Ahn Jung-hee | 36 | 15 (b2ch53-b2ch89) | 315 | 590 |
+| Ahn Jung-hee | 37 | 15 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch34) | 22 | 249 |
 | Mr Ku | 35 | 23 (b1ch05-b2ch87) | 6 | 531 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
@@ -4124,7 +4124,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Ahn Jung-hee
 
-36 Nennungen in 15 Kapiteln.
+37 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4144,6 +4144,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 328 | b2ch57:90 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
 | 371 | b2ch58:226 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
 | 377 | b2ch59:56 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
+| 377 | b2ch59:242 | *Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks.. |
 | 385 | b2ch61:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
 | 385 | b2ch61:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
 | 395 | b2ch64:96 | Ahn Jung-hee did not say anything. |
@@ -4179,6 +4180,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:90` (Tag 328) - four, nine, thirty-five
 - `b2ch58:226` (Tag 371) - eleven, six
 - `b2ch59:56` (Tag 377) - four, nine, thirty-five
+- `b2ch59:242` (Tag 377) - eleven, nine, six, ten
 - `b2ch61:82` (Tag 385) - four, thirty-five
 - `b2ch61:92` (Tag 385) - eleven, forty
 - `b2ch64:104` (Tag 395) - four, one

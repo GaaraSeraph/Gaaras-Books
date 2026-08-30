@@ -102,7 +102,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 56** *One sentence* (v1.11) · Tag 326, Di 25. August · 2.125 W
 - **B2 57** *The one who orders* (v1.9) · Tag 328, Do 27. August · 2.279 W
 - **B2 58** *The only door* (v1.6) · Tag 362, Mi 30. September · Tag 371, Fr 9. Oktober · 2.481 W
-- **B2 59** *The permanent series* (v1.9) · Tag 377, Do 15. Oktober · 2.700 W
+- **B2 59** *The permanent series* (v1.10) · Tag 377, Do 15. Oktober · 2.765 W
 - **B2 60** *Eleven years of paying for it* (v1.6) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.612 W
 - **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
 - **B2 62** *The consignor of record* (v1.3) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.103 W

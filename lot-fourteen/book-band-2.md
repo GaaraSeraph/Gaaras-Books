@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 227.197 Woerter.
+Book Two, 89 Kapitel, 227.262 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -69,7 +69,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 56 | v1.11 | 2.125 |
 | 57 | v1.9 | 2.279 |
 | 58 | v1.6 | 2.481 |
-| 59 | v1.9 | 2.700 |
+| 59 | v1.10 | 2.765 |
 | 60 | v1.6 | 2.612 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
@@ -12965,7 +12965,7 @@ He sat with the pen and then wrote one more line.
 ---
 
 # Book Two · Chapter 59: The permanent series
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -13170,6 +13170,10 @@ He wrote four lines in the car and did not start the engine while he wrote them.
 *There is no line anywhere on the other woman. Not one. That is not an oversight and it is not carelessness.*
 
 *A man who keeps somebody without a line has decided in advance that nobody will ever be able to ask.*
+
+*Nine on a rota and food for ten, and I was satisfied with that arithmetic for six weeks. The ten is Ahn Jung-hee. There has never been an eleven.*
+
+*Nobody buys that woman a meal anywhere a grocer could write it down. Whatever reaches her comes on the same account as the oxygen, and I did not once ask why the number was not higher.*
 
 ---
 
