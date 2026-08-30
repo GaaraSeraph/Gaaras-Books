@@ -172,6 +172,7 @@ wird.**
 - [BEZAHLT] **B2 54** Georgij an Annie · gesagt Tag 319 · faellig bei der ersten Stunde nach der Uebergabe · "she is told that in the first hour by somebody who is not you and not me" · B2 87: zwei Menschen im Raum, Annie eine Etage hoeher mit offener Tuer, Georgij am Ende des Gangs ausser Hoerweite **[BELEG?]**
 - [BEZAHLT] **B2 60** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters erst danach · B2 87: am Tag danach angerufen, und Baek kommt am Mittwoch um zwei persoenlich **[BELEG?]**
 - [OFFEN] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **Am Bandende offen, und der Text weiss es**
+- [OFFEN] **B2 85** Mrs Seo an Georgij · gesagt Tag 531 · faellig Tag 896 · "In about a year I am going to tell you what it was." · **Sie setzt die Frist, damit sie nie faellig wird**: *you are going to have forgotten this conversation and I am not.* Tag 896 ist der 18. Maerz des Folgejahres. **Die Szene steht ganz in `doc/32-plan-band-3.md`, und er kommt auf den Tag**
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst: der Satz **ist** die Einloesung, er sagt es im selben Atemzug an alle sechs. **Stand bis zum 25.08. als aeltester offener Posten im Buch und war nie einer.**
 
 ## Bezahlt
