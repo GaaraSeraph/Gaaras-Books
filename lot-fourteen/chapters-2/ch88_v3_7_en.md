@@ -1,5 +1,5 @@
 # Chapter 88: Not the comfortable part
-*Lot Fourteen* · Version 3.6 · EN
+*Lot Fourteen* · Version 3.7 · EN
 
 ## Day Five Hundred and Seventy-One · Tuesday 27 April
 
@@ -92,6 +92,22 @@ At the door she said the last of it.
 ## Day Five Hundred and Seventy-Five · Saturday 1 May
 
 There was tea and it was at the right temperature, and there were four small things on a plate.
+
+---
+
+"You are not sleeping," said Sim.
+
+He said it while he was pouring and he did not look up from the pot, and it was not a question.
+
+"No."
+
+---
+
+"Then you are not having that one."
+
+Sim took the cup away before Georgij had touched it and went out to the kitchen with it, and was gone about two minutes, and came back with a different one.
+
+He did not say anything else about it at any point in the afternoon.
 
 ---
 

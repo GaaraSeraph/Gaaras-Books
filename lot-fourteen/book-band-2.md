@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.854 Woerter.
+Book Two, 89 Kapitel, 231.943 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -98,8 +98,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 85 | v3.3 | 2.593 |
 | 86 | v3.23 | 3.901 |
 | 87 | v3.22 | 4.129 |
-| 88 | v3.6 | 3.285 |
-| 89 | v3.6 | 2.931 |
+| 88 | v3.7 | 3.368 |
+| 89 | v3.7 | 2.937 |
 
 ---
 
@@ -20150,7 +20150,7 @@ Downstairs the chairs stopped.
 ---
 
 # Book Two · Chapter 88: Not the comfortable part
-*Lot Fourteen* · Version 3.6 · EN
+*Lot Fourteen* · Version 3.7 · EN
 
 ## Day Five Hundred and Seventy-One · Tuesday 27 April
 
@@ -20217,6 +20217,18 @@ At the door she said the last of it.
 ## Day Five Hundred and Seventy-Five · Saturday 1 May
 
 There was tea and it was at the right temperature, and there were four small things on a plate.
+
+"You are not sleeping," said Sim.
+
+He said it while he was pouring and he did not look up from the pot, and it was not a question.
+
+"No."
+
+"Then you are not having that one."
+
+Sim took the cup away before Georgij had touched it and went out to the kitchen with it, and was gone about two minutes, and came back with a different one.
+
+He did not say anything else about it at any point in the afternoon.
 
 It took an hour and ten minutes and Georgij did not leave anything out.
 
@@ -20463,7 +20475,7 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.6 · EN
+*Lot Fourteen* · Version 3.7 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20623,7 +20635,7 @@ At some point in the middle of it her hand came down into his hair, at the back,
 
 * * *
 
-"You have not slept since the eighteenth," said Annie.
+"You have not had a whole night since the eighteenth," said Annie.
 
 "No."
 
@@ -20655,7 +20667,7 @@ Annie's hand did not move.
 
 "Yes."
 
-"And I have not slept for eight weeks and it is that, and I have only just got to it." He was looking at the leg of the desk. "I am twenty-seven and it has taken me fourteen months."
+"And I have not had a whole night in eight weeks and it is that, and I have only just got to it." He was looking at the leg of the desk. "I am twenty-seven and it has taken me fourteen months."
 
 * * *
 
@@ -20753,7 +20765,7 @@ She did not say anything for a long time, and then she said four words, and they
 
 * * *
 
-He slept about nine hours, which is the first time since the eighteenth of March.
+He slept about nine hours, which he has not done since the eighteenth of March.
 
 Downstairs somebody moved a chair.
 

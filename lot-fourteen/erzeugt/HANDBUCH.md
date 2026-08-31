@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 308.170 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 308.216 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -646,7 +646,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**125 Kapitel, 336.913 Woerter.**
+**125 Kapitel, 336.924 Woerter.**
 
 ---
 
@@ -25085,7 +25085,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Jang | 161 | 39 (b1ch05-b3ch02) | 4 | 600 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 142 | 50 (b1ch03-b3ch01) | 1 | 592 |
-| Sim | 134 | 20 (b2ch29-b2ch88) | 239 | 578 |
+| Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 90 | 22 (b1ch07-b3ch02) | 22 | 600 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
@@ -25998,7 +25998,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:518 | "That is the second time you have done that this year," said Annie. "I have counted both." |
 | 590 | b2ch89:88 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
 | 590 | b2ch89:194 | He noticed at about the fourth week that it had gone past a month, and he did not do any.. |
-| 590 | b2ch89:212 | "You have not slept since the eighteenth," said Annie. |
+| 590 | b2ch89:212 | "You have not had a whole night since the eighteenth," said Annie. |
 | 590 | b2ch89:238 | Annie's hand did not move. |
 | 590 | b2ch89:256 | "Then say the rest of it," said Annie. |
 | 590 | b2ch89:286 | Annie did not say anything. |
@@ -28090,7 +28090,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Sim
 
-134 Nennungen in 20 Kapiteln.
+136 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -28213,21 +28213,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 465 | b2ch79:48 | "You are going to tell him," said Sim. |
 | 517 | b2ch84:44 | "Sim." |
 | 517 | b2ch84:46 | "Sim." |
-| 575 | b2ch88:102 | He told Sim what the four visits in March eleven years ago had been for, and who had sen.. |
-| 575 | b2ch88:110 | Sim did not say anything for a long time. |
-| 575 | b2ch88:126 | Sim put the pot down. |
-| 575 | b2ch88:134 | Sim did not move for a moment. |
-| 575 | b2ch88:142 | Sim looked at the four small things on the plate. |
-| 575 | b2ch88:154 | "Was I good at it," said Sim. |
-| 575 | b2ch88:164 | "No," said Sim. "It is the bill." |
-| 575 | b2ch88:180 | Sim straightened his cuff. |
-| 575 | b2ch88:194 | Sim did not accept it and did not reject it. |
-| 575 | b2ch88:208 | Sim did not pick it up. |
-| 575 | b2ch88:220 | Sim looked at the back of the page for some time. |
-| 575 | b2ch88:232 | Sim did not answer any of that. |
-| 575 | b2ch88:240 | "Come in the spring," said Sim. "Not for anything." |
-| 575 | b2ch88:252 | Sim stood in his own doorway and did not say anything to that, and then he shut the door.. |
-| 578 | b2ch88:394 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 575 | b2ch88:98 | "You are not sleeping," said Sim. |
+| 575 | b2ch88:108 | Sim took the cup away before Georgij had touched it and went out to the kitchen with it,.. |
+| 575 | b2ch88:118 | He told Sim what the four visits in March eleven years ago had been for, and who had sen.. |
+| 575 | b2ch88:126 | Sim did not say anything for a long time. |
+| 575 | b2ch88:142 | Sim put the pot down. |
+| 575 | b2ch88:150 | Sim did not move for a moment. |
+| 575 | b2ch88:158 | Sim looked at the four small things on the plate. |
+| 575 | b2ch88:170 | "Was I good at it," said Sim. |
+| 575 | b2ch88:180 | "No," said Sim. "It is the bill." |
+| 575 | b2ch88:196 | Sim straightened his cuff. |
+| 575 | b2ch88:210 | Sim did not accept it and did not reject it. |
+| 575 | b2ch88:224 | Sim did not pick it up. |
+| 575 | b2ch88:236 | Sim looked at the back of the page for some time. |
+| 575 | b2ch88:248 | Sim did not answer any of that. |
+| 575 | b2ch88:256 | "Come in the spring," said Sim. "Not for anything." |
+| 575 | b2ch88:268 | Sim stood in his own doorway and did not say anything to that, and then he shut the door.. |
+| 578 | b2ch88:410 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -28287,9 +28289,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:26` (Tag 465) - eleven, nine
 - `b2ch79:32` (Tag 465) - forty thousand, nine
 - `b2ch79:42` (Tag 465) - eleven
-- `b2ch88:102` (Tag 575) - eleven, four, two
-- `b2ch88:142` (Tag 575) - four
-- `b2ch88:394` (Tag 578) - one
+- `b2ch88:108` (Tag 575) - one, two
+- `b2ch88:118` (Tag 575) - eleven, four, two
+- `b2ch88:158` (Tag 575) - four
+- `b2ch88:410` (Tag 578) - one
 
 ---
 
@@ -28861,7 +28864,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 573 | b2ch88:50 | "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, .. |
 | 573 | b2ch88:68 | "I have not shown it to anybody and I am not going to show it to you." Mrs Sunwoo put bo.. |
 | 573 | b2ch88:90 | "Not before. She has had a winter." Mrs Sunwoo looked at the window. "And when you do it.. |
-| 578 | b2ch88:394 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 578 | b2ch88:410 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
 
@@ -28895,7 +28898,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:112` (Tag 441) - nine, twenty
 - `b2ch87:428` (Tag 531) - five, one, three
 - `b2ch88:50` (Tag 573) - fifty
-- `b2ch88:394` (Tag 578) - one
+- `b2ch88:410` (Tag 578) - one
 
 ---
 
@@ -29775,7 +29778,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 302 | b2ch49:24 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
 | 302 | b2ch49:326 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
 | 305 | b2ch50:110 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
-| 578 | b2ch88:428 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
+| 578 | b2ch88:444 | *Mrs Bae asked me in July whether the person who is the point was alive, and I said I co.. |
 
 ### Zahlen in der Naehe von Mrs Bae
 
