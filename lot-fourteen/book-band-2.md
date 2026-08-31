@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 232.014 Woerter.
+Book Two, 89 Kapitel, 232.231 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 86 | v3.23 | 3.901 |
 | 87 | v3.22 | 4.129 |
 | 88 | v3.7 | 3.368 |
-| 89 | v3.9 | 3.008 |
+| 89 | v3.11 | 3.225 |
 
 ---
 
@@ -20475,7 +20475,7 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.9 · EN
+*Lot Fourteen* · Version 3.11 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20670,6 +20670,26 @@ Annie's hand did not move.
 "I have known that since the third of April," said Georgij. "I have said it out loud three times and every one of them was a fact, and I was perfectly calm about it all three times."
 
 "Yes."
+
+"Then say what changed."
+
+* * *
+
+It took him longer than anything else he said that evening.
+
+"There were four names on a page at the end of April and I got into three of the rooms," he said. "Not one of the four had done anything except stand in a room that a man had a use for."
+
+Annie let him have the whole of it.
+
+"I went to give them an account and I gave it, and every word of it was true, and I got into the car afterwards each time and read a page of my own."
+
+"There is a woman in Ulsan with four trucks. There is a house that stood on that river for thirty years. There is a man who spent twenty-five years deciding which men in this country ate together, and there is a man nobody in that trade has seen since May." He said it at the speed he says a schedule. "In August I wrote down that I could not tell whether the difference between him and me was one of kind."
+
+"You did."
+
+"I have not answered it since, and until the first week of May I did not have to, because there was always something on top of it."
+
+* * *
 
 "And I have not had a whole night in a fortnight and it is that, and I have only just got to it." He was looking at the leg of the desk. "I am twenty-seven and it has taken me fourteen months."
 

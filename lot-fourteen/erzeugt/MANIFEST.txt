@@ -122,9 +122,9 @@ b2  ch85  v3.3       2593 Woerter  ch85_v3_3_en.md
 b2  ch86  v3.23      3901 Woerter  ch86_v3_23_en.md
 b2  ch87  v3.22      4129 Woerter  ch87_v3_22_en.md
 b2  ch88  v3.7       3368 Woerter  ch88_v3_7_en.md
-b2  ch89  v3.9       3008 Woerter  ch89_v3_9_en.md
+b2  ch89  v3.11      3225 Woerter  ch89_v3_11_en.md
 b3  ch01  v1.4       2125 Woerter  ch01_v1_4_en.md
 b3  ch02  v1.6       2211 Woerter  ch02_v1_6_en.md
 
-Gesamt: 3 Baende, 125 Kapitel, 337084 Woerter
+Gesamt: 3 Baende, 125 Kapitel, 337301 Woerter
 Handbuch: 21 Dokumente

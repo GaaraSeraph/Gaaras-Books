@@ -1242,8 +1242,14 @@ Satz, in dem er sagt, was er fuehlt. **Also konjugiert er es in Verben.**
 **Die Liste ist der Text, und sie ist nicht kurz:** eine Frau in Ulsan mit
 vier Lastwagen, ein Auktionshaus, das dreissig Jahre an dem Fluss stand, ein
 Staatsanwalt, der fuenfundzwanzig Jahre lang entschieden hat, wer mit wem zu
-Abend isst, sechs Firmen an einer Fahrspur, ein Haus mit dreissig Jahren
-Register darin, neunzehn Kisten ueber eine Brueckenwaage.
+Abend isst, ein Mann, den in dem Gewerbe seit dem Mai davor niemand mehr
+gesehen hat, ein Haus mit dreissig Jahren Register darin, neunzehn Kisten
+ueber eine Brueckenwaage.
+
+*(Hier standen bis zum 31.08. "sechs Firmen an einer Fahrspur". Das war
+falsch herum: die sechs auf der Fahrspur aus `b2 ch12` und `b2 ch13` sind
+die, denen er Arbeit verschafft hat, und nicht die, die er zerlegt hat.
+Zerlegt hat er die sechste, die Frau in Ulsan.)*
 
 **Und der einzige gemeinsame Nenner steht in der Rede an Han Il-hwan
 (`doc/32`):** *"Every one of them had pointed something at her. **So I burnt

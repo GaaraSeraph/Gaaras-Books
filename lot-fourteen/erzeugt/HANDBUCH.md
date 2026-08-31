@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.751 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.822 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -652,7 +652,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**125 Kapitel, 337.063 Woerter.**
+**125 Kapitel, 337.084 Woerter.**
 
 ---
 
@@ -25209,8 +25209,14 @@ Satz, in dem er sagt, was er fuehlt. **Also konjugiert er es in Verben.**
 **Die Liste ist der Text, und sie ist nicht kurz:** eine Frau in Ulsan mit
 vier Lastwagen, ein Auktionshaus, das dreissig Jahre an dem Fluss stand, ein
 Staatsanwalt, der fuenfundzwanzig Jahre lang entschieden hat, wer mit wem zu
-Abend isst, sechs Firmen an einer Fahrspur, ein Haus mit dreissig Jahren
-Register darin, neunzehn Kisten ueber eine Brueckenwaage.
+Abend isst, ein Mann, den in dem Gewerbe seit dem Mai davor niemand mehr
+gesehen hat, ein Haus mit dreissig Jahren Register darin, neunzehn Kisten
+ueber eine Brueckenwaage.
+
+*(Hier standen bis zum 31.08. "sechs Firmen an einer Fahrspur". Das war
+falsch herum: die sechs auf der Fahrspur aus `b2 ch12` und `b2 ch13` sind
+die, denen er Arbeit verschafft hat, und nicht die, die er zerlegt hat.
+Zerlegt hat er die sechste, die Frau in Ulsan.)*
 
 **Und der einzige gemeinsame Nenner steht in der Rede an Han Il-hwan
 (`doc/32`):** *"Every one of them had pointed something at her. **So I burnt
@@ -25273,7 +25279,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 877 | 94 (b1ch01-b3ch02) | 1 | 600 |
+| Annie | 878 | 94 (b1ch01-b3ch02) | 1 | 600 |
 | Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
@@ -25327,7 +25333,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-877 Nennungen in 94 Kapiteln.
+878 Nennungen in 94 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -26196,9 +26202,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch89:218 | "You have not had a whole night since the first week of May," said Annie. |
 | 590 | b2ch89:234 | "He has been dead since the eighth of April, and you slept in April." Annie had not move.. |
 | 590 | b2ch89:244 | Annie's hand did not move. |
-| 590 | b2ch89:262 | "Then say the rest of it," said Annie. |
-| 590 | b2ch89:292 | Annie did not say anything. |
-| 590 | b2ch89:368 | Annie put her hand back into his hair. |
+| 590 | b2ch89:264 | Annie let him have the whole of it. |
+| 590 | b2ch89:286 | "Then say the rest of it," said Annie. |
+| 590 | b2ch89:316 | Annie did not say anything. |
+| 590 | b2ch89:392 | Annie put her hand back into his hair. |
 | 592 | b3ch01:172 | "Say the name again," said Annie. |
 | 592 | b3ch01:180 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
 | 592 | b3ch01:194 | Annie waited. |
@@ -27464,7 +27471,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch78:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 | 464 | b2ch78:264 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:336 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
+| 590 | b2ch89:360 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -27534,7 +27541,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch78:264` (Tag 464) - thirty
 - `b2ch87:428` (Tag 531) - five, one, three
-- `b2ch89:336` (Tag 590) - eight hundred, five, four
+- `b2ch89:360` (Tag 590) - eight hundred, five, four
 
 ---
 
@@ -28724,7 +28731,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
 | 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
-| 590 | b2ch89:386 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
+| 590 | b2ch89:410 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 | 592 | b3ch01:56 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
 | 592 | b3ch01:80 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
 | 592 | b3ch01:142 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
@@ -28770,7 +28777,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:442` (Tag 531) - one
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
-- `b2ch89:386` (Tag 590) - four, thirty, thirty-one, two
+- `b2ch89:410` (Tag 590) - four, thirty, thirty-one, two
 - `b3ch01:56` (Tag 592) - forty
 - `b3ch01:142` (Tag 592) - four, one
 - `b3ch01:192` (Tag 592) - three
