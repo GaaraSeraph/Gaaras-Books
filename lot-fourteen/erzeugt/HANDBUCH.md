@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.293 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.751 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -544,6 +544,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Falle ist eine Auseinandersetzung und ein Kalender, kein Stillstand](#die-falle-ist-eine-auseinandersetzung-und-ein-kalender-kein-stillstand)
   - [Ye-rin wird im Dezember angesprochen, nicht im Januar](#ye-rin-wird-im-dezember-angesprochen-nicht-im-januar)
   - [Annie geht auf Woos Satz mit keinem Wort ein](#annie-geht-auf-woos-satz-mit-keinem-wort-ein)
+  - [1. Was dastand, und was daran unwahr war](#1-was-dastand-und-was-daran-unwahr-war)
+  - [2. Acht Wochen Leerlauf widersprachen dem Nachbarkapitel](#2-acht-wochen-leerlauf-widersprachen-dem-nachbarkapitel)
+  - [3. Und der 18. Maerz hat die falsche Begruendung wahr aussehen lassen](#3-und-der-18-maerz-hat-die-falsche-begruendung-wahr-aussehen-lassen)
+  - [4. Und ein Zeuge, weil acht Wochen im Off nicht erzaehlt sind](#4-und-ein-zeuge-weil-acht-wochen-im-off-nicht-erzaehlt-sind)
   - [Die Zeile](#die-zeile)
   - [Warum sie es ist](#warum-sie-es-ist)
   - [Warum das *too* kein Sprung ist](#warum-das-too-kein-sprung-ist)
@@ -648,7 +652,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**125 Kapitel, 337.013 Woerter.**
+**125 Kapitel, 337.063 Woerter.**
 
 ---
 
@@ -25089,6 +25093,62 @@ fuer dieselbe Sache laufen auseinander. Genau das ist passiert.
 
 **Das Zurueckgenommene vom 28. und 29.08. steht in `doc/40-verworfen.md`.**
 
+## Der Schlaf am Ende von Band 2, zweimal berichtigt am 31.08.
+
+**Der Autor: acht Wochen schlecht schlafen ist nicht plausibel, und acht
+Wochen nichts tun erst recht nicht.** Beides stimmt, und der zweite Einwand
+hat einen Fehler aufgedeckt, der schlimmer war als eine Dauer.
+
+### 1. Was dastand, und was daran unwahr war
+
+Georgij sagte *"I have not slept for eight weeks."* **Das ist unwahr, und
+dieser Mann sagt nie etwas Unwahres.** Acht Wochen ohne jeden Schlaf gibt es
+nicht; er hat schlecht geschlafen. Die Erzaehlung daneben hatte es die ganze
+Zeit richtig: *not slept **properly***. Jetzt sagt er *"I have not had a whole
+night"*, und Annie ebenso, weil sie die Genaue ist.
+
+### 2. Acht Wochen Leerlauf widersprachen dem Nachbarkapitel
+
+`b2 ch88` zeigt sechs Tage Besuche vom 27. April bis zum 4. Mai - Mrs
+Sunwoo, Sim, Mr Ok. **Er hat gearbeitet.** Die Leere faengt an, als der
+letzte Name abgearbeitet ist, und dauert bis zum Bandende: **zwoelf Tage.**
+
+### 3. Und der 18. Maerz hat die falsche Begruendung wahr aussehen lassen
+
+**Das ist der eigentliche Fund.** Die Szene lebt davon, dass Georgijs erste
+Antwort die bequeme ist und Annie sie nicht nimmt. Die bequeme Antwort ist
+Chois Tod. **Und der Text hatte den Schlaf auf den Abend datiert, an dem
+Choi im Haus war** - womit die bequeme Antwort zeitlich genau aufging und
+Annies *"Then it is not the reason"* wie eine Behauptung aussah statt wie ein
+Befund.
+
+**Jetzt faengt der schlechte Schlaf in der ersten Maiwoche an**, in den
+letzten Tagen der Arbeit, *when there were more names crossed off that page
+than left on it, and he could see the bottom of it coming.*
+
+**Und Annie erledigt die bequeme Antwort mit einem Datum statt mit einer
+Ahnung:**
+
+> "He has been dead since the eighth of April, and you slept in April."
+
+**Die Regel dahinter, und sie gilt ueber diese Stelle hinaus:** wenn eine
+Figur eine falsche Begruendung anbietet, darf der Kalender sie nicht
+stuetzen. Sonst arbeitet der Text gegen die Szene, die er selbst gebaut hat.
+
+### 4. Und ein Zeuge, weil acht Wochen im Off nicht erzaehlt sind
+
+Der ganze Faden lebte in vier Zeilen des letzten Kapitels. Jetzt sieht Sim
+es am 1. Mai und tut das Einzige, was Sim tut - er bewirtet weiter,
+`b2 ch88`:
+
+> "Then you are not having that one."
+>
+> Sim took the cup away before Georgij had touched it and went out to the
+> kitchen with it, and was gone about two minutes, and came back with a
+> different one.
+
+**Kein Trost, keine Frage, keine Diagnose.**
+
 ## Annies vier Woerter am Ende von Band 2
 
 **Vom Autor am 30.08. verlangt und vom Autor entschieden.** Sie stehen nicht
@@ -25213,7 +25273,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 876 | 94 (b1ch01-b3ch02) | 1 | 600 |
+| Annie | 877 | 94 (b1ch01-b3ch02) | 1 | 600 |
 | Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
@@ -25267,7 +25327,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-876 Nennungen in 94 Kapiteln.
+877 Nennungen in 94 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -26132,8 +26192,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:498 | "There is one line in what you gave me about that room and you put nothing round it." An.. |
 | 531 | b2ch87:518 | "That is the second time you have done that this year," said Annie. "I have counted both." |
 | 590 | b2ch89:88 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
-| 590 | b2ch89:200 | Annie noticed in the second week and said nothing until there was nothing left for him t.. |
-| 590 | b2ch89:218 | "You have not had a whole night since the eighteenth," said Annie. |
+| 590 | b2ch89:200 | Annie noticed on about the fourth day and said nothing for a week. |
+| 590 | b2ch89:218 | "You have not had a whole night since the first week of May," said Annie. |
+| 590 | b2ch89:234 | "He has been dead since the eighth of April, and you slept in April." Annie had not move.. |
 | 590 | b2ch89:244 | Annie's hand did not move. |
 | 590 | b2ch89:262 | "Then say the rest of it," said Annie. |
 | 590 | b2ch89:292 | Annie did not say anything. |

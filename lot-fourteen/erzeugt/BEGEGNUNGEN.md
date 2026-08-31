@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 876 | 94 (b1ch01-b3ch02) | 1 | 600 |
+| Annie | 877 | 94 (b1ch01-b3ch02) | 1 | 600 |
 | Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
@@ -72,7 +72,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-876 Nennungen in 94 Kapiteln.
+877 Nennungen in 94 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -937,8 +937,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:498 | "There is one line in what you gave me about that room and you put nothing round it." An.. |
 | 531 | b2ch87:518 | "That is the second time you have done that this year," said Annie. "I have counted both." |
 | 590 | b2ch89:88 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
-| 590 | b2ch89:200 | Annie noticed in the second week and said nothing until there was nothing left for him t.. |
-| 590 | b2ch89:218 | "You have not had a whole night since the eighteenth," said Annie. |
+| 590 | b2ch89:200 | Annie noticed on about the fourth day and said nothing for a week. |
+| 590 | b2ch89:218 | "You have not had a whole night since the first week of May," said Annie. |
+| 590 | b2ch89:234 | "He has been dead since the eighth of April, and you slept in April." Annie had not move.. |
 | 590 | b2ch89:244 | Annie's hand did not move. |
 | 590 | b2ch89:262 | "Then say the rest of it," said Annie. |
 | 590 | b2ch89:292 | Annie did not say anything. |

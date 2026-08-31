@@ -1126,6 +1126,62 @@ fuer dieselbe Sache laufen auseinander. Genau das ist passiert.
 
 **Das Zurueckgenommene vom 28. und 29.08. steht in `doc/40-verworfen.md`.**
 
+## Der Schlaf am Ende von Band 2, zweimal berichtigt am 31.08.
+
+**Der Autor: acht Wochen schlecht schlafen ist nicht plausibel, und acht
+Wochen nichts tun erst recht nicht.** Beides stimmt, und der zweite Einwand
+hat einen Fehler aufgedeckt, der schlimmer war als eine Dauer.
+
+### 1. Was dastand, und was daran unwahr war
+
+Georgij sagte *"I have not slept for eight weeks."* **Das ist unwahr, und
+dieser Mann sagt nie etwas Unwahres.** Acht Wochen ohne jeden Schlaf gibt es
+nicht; er hat schlecht geschlafen. Die Erzaehlung daneben hatte es die ganze
+Zeit richtig: *not slept **properly***. Jetzt sagt er *"I have not had a whole
+night"*, und Annie ebenso, weil sie die Genaue ist.
+
+### 2. Acht Wochen Leerlauf widersprachen dem Nachbarkapitel
+
+`b2 ch88` zeigt sechs Tage Besuche vom 27. April bis zum 4. Mai - Mrs
+Sunwoo, Sim, Mr Ok. **Er hat gearbeitet.** Die Leere faengt an, als der
+letzte Name abgearbeitet ist, und dauert bis zum Bandende: **zwoelf Tage.**
+
+### 3. Und der 18. Maerz hat die falsche Begruendung wahr aussehen lassen
+
+**Das ist der eigentliche Fund.** Die Szene lebt davon, dass Georgijs erste
+Antwort die bequeme ist und Annie sie nicht nimmt. Die bequeme Antwort ist
+Chois Tod. **Und der Text hatte den Schlaf auf den Abend datiert, an dem
+Choi im Haus war** - womit die bequeme Antwort zeitlich genau aufging und
+Annies *"Then it is not the reason"* wie eine Behauptung aussah statt wie ein
+Befund.
+
+**Jetzt faengt der schlechte Schlaf in der ersten Maiwoche an**, in den
+letzten Tagen der Arbeit, *when there were more names crossed off that page
+than left on it, and he could see the bottom of it coming.*
+
+**Und Annie erledigt die bequeme Antwort mit einem Datum statt mit einer
+Ahnung:**
+
+> "He has been dead since the eighth of April, and you slept in April."
+
+**Die Regel dahinter, und sie gilt ueber diese Stelle hinaus:** wenn eine
+Figur eine falsche Begruendung anbietet, darf der Kalender sie nicht
+stuetzen. Sonst arbeitet der Text gegen die Szene, die er selbst gebaut hat.
+
+### 4. Und ein Zeuge, weil acht Wochen im Off nicht erzaehlt sind
+
+Der ganze Faden lebte in vier Zeilen des letzten Kapitels. Jetzt sieht Sim
+es am 1. Mai und tut das Einzige, was Sim tut - er bewirtet weiter,
+`b2 ch88`:
+
+> "Then you are not having that one."
+>
+> Sim took the cup away before Georgij had touched it and went out to the
+> kitchen with it, and was gone about two minutes, and came back with a
+> different one.
+
+**Kein Trost, keine Frage, keine Diagnose.**
+
 ## Annies vier Woerter am Ende von Band 2
 
 **Vom Autor am 30.08. verlangt und vom Autor entschieden.** Sie stehen nicht

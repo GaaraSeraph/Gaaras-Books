@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 231.993 Woerter.
+Book Two, 89 Kapitel, 232.014 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 86 | v3.23 | 3.901 |
 | 87 | v3.22 | 4.129 |
 | 88 | v3.7 | 3.368 |
-| 89 | v3.8 | 2.987 |
+| 89 | v3.9 | 3.008 |
 
 ---
 
@@ -20475,7 +20475,7 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.8 · EN
+*Lot Fourteen* · Version 3.9 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20617,13 +20617,13 @@ There has been nothing to build since.
 
 Twelve days of it now. No route, no room, no name to get, no man to be in front of and no sentence to take apart over four days. There is a woman in a chair by a kitchen garden with fifty-four names still to find, and that is going to take years and it cannot be done at speed.
 
-He has not slept properly since the eighteenth of March, and for six of those weeks it did not matter.
+He has not slept properly since the first week of May.
 
-A man who is out of the house at seven and has five people to get to does not have to look at anything, and he did not.
+It did not start when the work stopped. It started in the last days of it, when there were more names crossed off that page than left on it, and he could see the bottom of it coming.
 
-He noticed at about the fourth week that it had gone past a month and did not do anything about it.
+A man who is out of the house at seven and has somebody to get to does not have to look at anything, and for fourteen months he did not.
 
-Annie noticed in the second week and said nothing until there was nothing left for him to be doing instead.
+Annie noticed on about the fourth day and said nothing for a week.
 
 * * *
 
@@ -20639,7 +20639,7 @@ At some point in the middle of it her hand came down into his hair, at the back,
 
 * * *
 
-"You have not had a whole night since the eighteenth," said Annie.
+"You have not had a whole night since the first week of May," said Annie.
 
 "No."
 
@@ -20653,7 +20653,7 @@ He sat with that for a while.
 
 "It is."
 
-"Then it is not the reason."
+"He has been dead since the eighth of April, and you slept in April." Annie had not moved. "Then it is not the reason."
 
 * * *
 
@@ -20671,7 +20671,7 @@ Annie's hand did not move.
 
 "Yes."
 
-"And I have not had a whole night in eight weeks and it is that, and I have only just got to it." He was looking at the leg of the desk. "I am twenty-seven and it has taken me fourteen months."
+"And I have not had a whole night in a fortnight and it is that, and I have only just got to it." He was looking at the leg of the desk. "I am twenty-seven and it has taken me fourteen months."
 
 * * *
 
@@ -20769,7 +20769,7 @@ She did not say anything for a long time, and then she said four words, and they
 
 * * *
 
-He slept about nine hours, which he has not done since the eighteenth of March.
+He slept about nine hours, which he has not done since April.
 
 Downstairs somebody moved a chair.
 
