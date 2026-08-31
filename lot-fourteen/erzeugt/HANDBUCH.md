@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.822 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.900 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -652,7 +652,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**125 Kapitel, 337.084 Woerter.**
+**125 Kapitel, 337.301 Woerter.**
 
 ---
 
@@ -25152,9 +25152,19 @@ es am 1. Mai und tut das Einzige, was Sim tut - er bewirtet weiter,
 ## Annies vier Woerter am Ende von Band 2
 
 **Vom Autor am 30.08. verlangt und vom Autor entschieden.** Sie stehen nicht
-im Buch und werden nie darin stehen. `b2 ch89:370`: *She did not say anything
-for a long time, and then she said four words, and they are not in this book
-because he has not written them down and is not going to.*
+im Buch und werden nie darin stehen.
+
+**Der Grund dafuer ist am 31.08. ausgewechselt worden, und er ist jetzt
+ungleich haerter.** Bis dahin stand da, sie stuenden nicht im Buch, weil er
+sie nicht aufgeschrieben habe. Jetzt:
+
+> She said four words.
+>
+> She said them quietly and she said them once, **and he was already
+> asleep.**
+>
+> They are not in this book. **He did not hear them, and nobody has ever
+> told him.**
 
 **Hier stehen sie, damit der Autor sie kennt und damit niemand sie spaeter
 anders erfindet.**
@@ -25172,7 +25182,8 @@ druckt.
 
 **2. Das ganze Gewicht liegt auf dem letzten Wort.** *Too* antwortet auf
 etwas, das er **nicht gesagt hat.** Er hat gesagt: *"You are such a
-beautiful, strong woman. Thank you for buying me."*
+beautiful, strong woman. Thank you for buying me."* - mit geschlossenen
+Augen und fast schon weg.
 
 **Das ist die Erklaerung, und sie ist als Dank getarnt, und sie ist der
 groesste Satz, den dieser Mann in zwei Baenden ueber sich selbst sagt.** Er
@@ -25180,21 +25191,27 @@ sagt nie etwas Unwahres und fast nie etwas ueber sich; also sagt er es so,
 dass es nur ein Mensch auf der Welt hoeren kann. **Sie hoert es. Das *too*
 ist der Beweis, dass sie es gehoert hat.**
 
-**3. Und damit besteht sie die Probe, die der Text selbst aufstellt.** Die
-Frage ist nicht, was sie sagt, sondern **warum er es nicht aufschreibt.**
+**3. Und sie sagt es zu einem Mann, der es nicht hoeren kann. Das ist die
+Bedingung, unter der diese Frau es ueberhaupt sagt.**
 
-**Alles in diesem Heft ist ueber andere Leute.** Vierhundertdreissig Namen,
-vier Woerter ueber Mr Ok, Daten, Eintraege, Zusagen mit Faelligkeit. **Jede
-einzelne Zeile darin war irgendwann zu gebrauchen.** Dieser Satz ist der
-erste in zwei Baenden, der zu gar nichts zu gebrauchen ist, und der einzige,
-der niemanden betrifft ausser den beiden.
+`doc/12-stimmen.md` haelt fest, dass **Annie von allen am meisten
+zurueckhaelt** - der Name des Garanten, Los elf, neunzehn Tage lang ein
+Name, den sie hat und nicht hergibt. **Sie hoert damit hier nicht auf.** Sie
+wartet, bis es niemanden mehr erreicht, und sagt es dann einmal, leise, in
+ein Zimmer, in dem der Einzige, den es angeht, gerade eingeschlafen ist.
 
-**Ein Heft ist ausserdem ein Gegenstand, den jemand aufheben kann.** Er hat
-gerade ein ganzes Haus vernichten lassen, damit ein Satz ueber sie nirgends
-mehr steht. **Er wird ihn nicht am selben Abend neu anlegen.**
+**Damit gibt sie nichts her und sagt trotzdem alles.** `doc/12` sagt, ihr
+Weichwerden sei ausschliesslich koerperlich. **Das hier ist die einzige
+Ausnahme, und sie hat sie sich so eingerichtet, dass sie keine ist.**
 
-**4. Und sie hat lange gebraucht**, im Satz und im Buch: *She did not say
-anything for a long time.* Zwei Baende, fuenfhundertneunzig Erzaehltage.
+**4. Und daraus faellt ein Faden, den die restlichen Baende tragen koennen:
+sie hat es einmal gesagt, und er weiss es nicht.** Der Text sagt es
+ausdruecklich - *nobody has ever told him*. **Wer es spaeter einloest, loest
+es an ihr ein und nicht an ihm.**
+
+**5. Und sie hat lange gebraucht.** Zwei Baende, fuenfhundertneunzig
+Erzaehltage - und sie hat den einen Abend abgewartet, an dem er zum ersten
+Mal vor ihr eingeschlafen ist.
 
 ### Warum das *too* kein Sprung ist
 
@@ -26200,12 +26217,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch89:88 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
 | 590 | b2ch89:200 | Annie noticed on about the fourth day and said nothing for a week. |
 | 590 | b2ch89:218 | "You have not had a whole night since the first week of May," said Annie. |
-| 590 | b2ch89:234 | "He has been dead since the eighth of April, and you slept in April." Annie had not move.. |
-| 590 | b2ch89:244 | Annie's hand did not move. |
-| 590 | b2ch89:264 | Annie let him have the whole of it. |
-| 590 | b2ch89:286 | "Then say the rest of it," said Annie. |
-| 590 | b2ch89:316 | Annie did not say anything. |
-| 590 | b2ch89:392 | Annie put her hand back into his hair. |
+| 590 | b2ch89:230 | Annie waited. |
+| 590 | b2ch89:248 | Annie let him have the whole of it. |
+| 590 | b2ch89:270 | "Then say the rest of it," said Annie. |
+| 590 | b2ch89:288 | Annie waited. |
+| 590 | b2ch89:298 | Annie did not move at all. |
+| 590 | b2ch89:318 | Annie did not say anything. |
 | 592 | b3ch01:172 | "Say the name again," said Annie. |
 | 592 | b3ch01:180 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
 | 592 | b3ch01:194 | Annie waited. |
@@ -27471,7 +27488,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch78:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 | 464 | b2ch78:264 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:360 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
+| 590 | b2ch89:366 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -27541,7 +27558,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch78:264` (Tag 464) - thirty
 - `b2ch87:428` (Tag 531) - five, one, three
-- `b2ch89:360` (Tag 590) - eight hundred, five, four
+- `b2ch89:366` (Tag 590) - eight hundred, five, four
 
 ---
 
@@ -28731,7 +28748,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
 | 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
-| 590 | b2ch89:410 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
+| 590 | b2ch89:424 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 | 592 | b3ch01:56 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
 | 592 | b3ch01:80 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
 | 592 | b3ch01:142 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
@@ -28777,7 +28794,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:442` (Tag 531) - one
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
-- `b2ch89:410` (Tag 590) - four, thirty, thirty-one, two
+- `b2ch89:424` (Tag 590) - four, thirty, thirty-one, two
 - `b3ch01:56` (Tag 592) - forty
 - `b3ch01:142` (Tag 592) - four, one
 - `b3ch01:192` (Tag 592) - three

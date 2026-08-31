@@ -1185,9 +1185,19 @@ es am 1. Mai und tut das Einzige, was Sim tut - er bewirtet weiter,
 ## Annies vier Woerter am Ende von Band 2
 
 **Vom Autor am 30.08. verlangt und vom Autor entschieden.** Sie stehen nicht
-im Buch und werden nie darin stehen. `b2 ch89:370`: *She did not say anything
-for a long time, and then she said four words, and they are not in this book
-because he has not written them down and is not going to.*
+im Buch und werden nie darin stehen.
+
+**Der Grund dafuer ist am 31.08. ausgewechselt worden, und er ist jetzt
+ungleich haerter.** Bis dahin stand da, sie stuenden nicht im Buch, weil er
+sie nicht aufgeschrieben habe. Jetzt:
+
+> She said four words.
+>
+> She said them quietly and she said them once, **and he was already
+> asleep.**
+>
+> They are not in this book. **He did not hear them, and nobody has ever
+> told him.**
 
 **Hier stehen sie, damit der Autor sie kennt und damit niemand sie spaeter
 anders erfindet.**
@@ -1205,7 +1215,8 @@ druckt.
 
 **2. Das ganze Gewicht liegt auf dem letzten Wort.** *Too* antwortet auf
 etwas, das er **nicht gesagt hat.** Er hat gesagt: *"You are such a
-beautiful, strong woman. Thank you for buying me."*
+beautiful, strong woman. Thank you for buying me."* - mit geschlossenen
+Augen und fast schon weg.
 
 **Das ist die Erklaerung, und sie ist als Dank getarnt, und sie ist der
 groesste Satz, den dieser Mann in zwei Baenden ueber sich selbst sagt.** Er
@@ -1213,21 +1224,27 @@ sagt nie etwas Unwahres und fast nie etwas ueber sich; also sagt er es so,
 dass es nur ein Mensch auf der Welt hoeren kann. **Sie hoert es. Das *too*
 ist der Beweis, dass sie es gehoert hat.**
 
-**3. Und damit besteht sie die Probe, die der Text selbst aufstellt.** Die
-Frage ist nicht, was sie sagt, sondern **warum er es nicht aufschreibt.**
+**3. Und sie sagt es zu einem Mann, der es nicht hoeren kann. Das ist die
+Bedingung, unter der diese Frau es ueberhaupt sagt.**
 
-**Alles in diesem Heft ist ueber andere Leute.** Vierhundertdreissig Namen,
-vier Woerter ueber Mr Ok, Daten, Eintraege, Zusagen mit Faelligkeit. **Jede
-einzelne Zeile darin war irgendwann zu gebrauchen.** Dieser Satz ist der
-erste in zwei Baenden, der zu gar nichts zu gebrauchen ist, und der einzige,
-der niemanden betrifft ausser den beiden.
+`doc/12-stimmen.md` haelt fest, dass **Annie von allen am meisten
+zurueckhaelt** - der Name des Garanten, Los elf, neunzehn Tage lang ein
+Name, den sie hat und nicht hergibt. **Sie hoert damit hier nicht auf.** Sie
+wartet, bis es niemanden mehr erreicht, und sagt es dann einmal, leise, in
+ein Zimmer, in dem der Einzige, den es angeht, gerade eingeschlafen ist.
 
-**Ein Heft ist ausserdem ein Gegenstand, den jemand aufheben kann.** Er hat
-gerade ein ganzes Haus vernichten lassen, damit ein Satz ueber sie nirgends
-mehr steht. **Er wird ihn nicht am selben Abend neu anlegen.**
+**Damit gibt sie nichts her und sagt trotzdem alles.** `doc/12` sagt, ihr
+Weichwerden sei ausschliesslich koerperlich. **Das hier ist die einzige
+Ausnahme, und sie hat sie sich so eingerichtet, dass sie keine ist.**
 
-**4. Und sie hat lange gebraucht**, im Satz und im Buch: *She did not say
-anything for a long time.* Zwei Baende, fuenfhundertneunzig Erzaehltage.
+**4. Und daraus faellt ein Faden, den die restlichen Baende tragen koennen:
+sie hat es einmal gesagt, und er weiss es nicht.** Der Text sagt es
+ausdruecklich - *nobody has ever told him*. **Wer es spaeter einloest, loest
+es an ihr ein und nicht an ihm.**
+
+**5. Und sie hat lange gebraucht.** Zwei Baende, fuenfhundertneunzig
+Erzaehltage - und sie hat den einen Abend abgewartet, an dem er zum ersten
+Mal vor ihr eingeschlafen ist.
 
 ### Warum das *too* kein Sprung ist
 
