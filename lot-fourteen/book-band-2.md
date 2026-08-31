@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 232.452 Woerter.
+Book Two, 89 Kapitel, 232.569 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -59,7 +59,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 46 | v1.4 | 2.033 |
 | 47 | v2.7 | 2.914 |
 | 48 | v1.5 | 2.112 |
-| 49 | v2.3 | 3.224 |
+| 49 | v2.4 | 3.224 |
 | 50 | v1.5 | 2.498 |
 | 51 | v1.6 | 2.778 |
 | 52 | v1.3 | 2.042 |
@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 86 | v3.23 | 3.901 |
 | 87 | v3.22 | 4.129 |
 | 88 | v3.7 | 3.368 |
-| 89 | v3.18 | 3.446 |
+| 89 | v3.19 | 3.563 |
 
 ---
 
@@ -10675,7 +10675,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 49: Against her return
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -10833,7 +10833,7 @@ His bowl had been empty since a quarter to nine, and the girl had taken it and b
 
 Georgij noticed at about twenty past nine that his own bowl was exactly where the girl had put it, and once he had noticed it he could not stop noticing it. A man had been told at that table that eleven years of his life might have been a method, and had eaten his soup. The man who had told him had not touched anything.
 
-There is one other man in this business who does not eat in front of the person he is working on.
+There is one other man in this story who does not eat in front of the person he is working on.
 
 He wrote it on the back of the envelope afterward, in the car, and he did not write the sentence after it, and he knew while he was not writing it that he was not going to.
 
@@ -20475,13 +20475,13 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.18 · EN
+*Lot Fourteen* · Version 3.19 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
 Choi Dae-ho has been dead since the eighth of April.
 
-Not because he hid. He did not hide at all.
+He did not hide at all. He knew he could not hide.
 
 * * *
 
@@ -20546,6 +20546,18 @@ The machine runs for four minutes in every hour and the account behind it has be
 A cup goes in at eleven and at four. It is the same two hours it has been for four years.
 
 What is in it comes out of the woman who carries it, and she has been free since the second of November, and she has not missed one.
+
+The rest of her day is the rest of the house.
+
+She asked in November whether there was anything else she could do, because nobody had thought to offer her any of it, and Mrs Seo gave her the linen for a fortnight to see.
+
+She has had it since.
+
+She ran a house for three and a half years and she is better at this than anybody here expected, and nobody has said out loud where she learned it.
+
+Mrs Seo said one sentence about it in February, to nobody in particular, which was that the second sitting has gone out on time every day since the middle of December.
+
+* * *
 
 Ahn Jung-hee has been up that hill eleven times. In April she stayed three days and came back with a fan.
 

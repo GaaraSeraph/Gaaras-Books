@@ -24,7 +24,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
 | Jang | 161 | 39 (b1ch05-b3ch02) | 4 | 600 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
-| Mrs Seo | 142 | 50 (b1ch03-b3ch01) | 1 | 592 |
+| Mrs Seo | 144 | 51 (b1ch03-b3ch01) | 1 | 592 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 90 | 22 (b1ch07-b3ch02) | 22 | 600 |
@@ -937,13 +937,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:498 | "There is one line in what you gave me about that room and you put nothing round it." An.. |
 | 531 | b2ch87:518 | "That is the second time you have done that this year," said Annie. "I have counted both." |
 | 590 | b2ch89:88 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
-| 590 | b2ch89:200 | Annie noticed on about the fourth day and said nothing for a week. |
-| 590 | b2ch89:218 | "You have not had a whole night since the first week of May," said Annie. |
-| 590 | b2ch89:230 | Annie waited. |
-| 590 | b2ch89:248 | Annie let him have the whole of it. |
-| 590 | b2ch89:272 | "Then say the rest of it," said Annie. |
-| 590 | b2ch89:292 | Annie did not move at all. |
-| 590 | b2ch89:318 | Annie did not say anything. |
+| 590 | b2ch89:214 | Annie noticed on about the fourth day and said nothing for a week. |
+| 590 | b2ch89:232 | "You have not had a whole night since the first week of May," said Annie. |
+| 590 | b2ch89:244 | Annie waited. |
+| 590 | b2ch89:262 | Annie let him have the whole of it. |
+| 590 | b2ch89:286 | "Then say the rest of it," said Annie. |
+| 590 | b2ch89:306 | Annie did not move at all. |
+| 590 | b2ch89:332 | Annie did not say anything. |
 | 592 | b3ch01:172 | "Say the name again," said Annie. |
 | 592 | b3ch01:180 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
 | 592 | b3ch01:194 | Annie waited. |
@@ -2209,7 +2209,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch78:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 | 464 | b2ch78:264 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:366 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
+| 590 | b2ch89:380 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -2279,7 +2279,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch78:264` (Tag 464) - thirty
 - `b2ch87:428` (Tag 531) - five, one, three
-- `b2ch89:366` (Tag 590) - eight hundred, five, four
+- `b2ch89:380` (Tag 590) - eight hundred, five, four
 
 ---
 
@@ -2448,7 +2448,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 442 | b2ch72:178 | "Jang takes you and sits in the car," said Annie. |
 | 444 | b2ch72:194 | Jang put the car where he puts cars, which is forty metres past the place and facing the.. |
 | 444 | b2ch72:200 | "You will come out of there at half past and she will have been perfectly all right abou.. |
-| 590 | b2ch89:118 | Jang went to Mapo on the Thursday and was handed a green school exercise book at the top.. |
+| 590 | b2ch89:132 | Jang went to Mapo on the Thursday and was handed a green school exercise book at the top.. |
 | 600 | b3ch02:194 | Georgij went down the steps past the woman with the bucket and got into the car and did .. |
 
 ### Zahlen in der Naehe von Jang
@@ -2701,7 +2701,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:356 | "Twelve posts went in the second week of April and Hwang wrote every one of them into th.. |
 | 531 | b2ch87:358 | "And Hwang." |
 | 531 | b2ch87:388 | "It went on the twenty-fifth of February and it took him four seconds to sign for it." H.. |
-| 590 | b2ch89:110 | Mr Hwang has been at the fifty-eight since the fifteenth of March. |
+| 590 | b2ch89:124 | Mr Hwang has been at the fifty-eight since the fifteenth of March. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -2791,13 +2791,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch83:318` (Tag 514) - eleven, fifty-eight, four hundred and sixty
 - `b2ch87:356` (Tag 531) - eleven, one, twelve
 - `b2ch87:388` (Tag 531) - four, nineteen, one, thirty, twenty
-- `b2ch89:110` (Tag 590) - fifty-eight
+- `b2ch89:124` (Tag 590) - fifty-eight
 
 ---
 
 ## Mrs Seo
 
-142 Nennungen in 50 Kapiteln.
+144 Nennungen in 51 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2939,6 +2939,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:188 | Twenty-six people stayed for an hour and a half after he had gone, and they were given c.. |
 | 531 | b2ch87:240 | She came out into the hall on her own and Mrs Seo brought her coat, and she put it on an.. |
 | 531 | b2ch87:310 | Mrs Seo came through with a tray and did not stop. |
+| 590 | b2ch89:98 | She asked in November whether there was anything else she could do, because nobody had t.. |
+| 590 | b2ch89:106 | Mrs Seo said one sentence about it in February, to nobody in particular, which was that .. |
 | 592 | b3ch01:20 | Mrs Seo took it in the hall and brought it up herself. |
 | 592 | b3ch01:28 | "There is a card," said Mrs Seo. "It has your name on the front of it and it has it corr.. |
 | 592 | b3ch01:38 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
@@ -3026,6 +3028,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:456` (Tag 531) - eleven, four, sixty
 - `b2ch87:44` (Tag 531) - ten
 - `b2ch87:188` (Tag 531) - four, one, ten, twenty-six
+- `b2ch89:106` (Tag 590) - one
 
 ---
 
@@ -3335,7 +3338,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 399 | b2ch66:210 | *I had a version ready inside four minutes. It was the correct one and it would have wor.. |
 | 400 | b2ch66:266 | "Mrs Jeon told me about the eleven minutes on the fourth, and I had not asked her for it.. |
 | 400 | b2ch66:272 | "I know she did. She told me on the Wednesday that she was going to, and she told me why.. |
-| 590 | b2ch89:104 | Mrs Jeon telephones on Sundays and asks for Ahn Jung-hee and not for anybody else in the.. |
+| 590 | b2ch89:118 | Mrs Jeon telephones on Sundays and asks for Ahn Jung-hee and not for anybody else in the.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -3469,7 +3472,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
 | 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
-| 590 | b2ch89:424 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
+| 590 | b2ch89:438 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 | 592 | b3ch01:56 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
 | 592 | b3ch01:80 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
 | 592 | b3ch01:142 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
@@ -3515,7 +3518,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:442` (Tag 531) - one
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
-- `b2ch89:424` (Tag 590) - five, thirty, thirty-one, two
+- `b2ch89:438` (Tag 590) - five, thirty, thirty-one, two
 - `b3ch01:56` (Tag 592) - forty
 - `b3ch01:142` (Tag 592) - four, one
 - `b3ch01:192` (Tag 592) - three
@@ -3590,7 +3593,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 463 | b2ch76:338 | Mr Ahn heard it with the cloth over his shoulder and did not touch anything on the bench. |
 | 463 | b2ch76:350 | Mr Ahn looked at the fan in the corner for a while. |
 | 463 | b2ch76:360 | Georgij held it at the angle it wanted and did not say anything. At some point in the mi.. |
-| 590 | b2ch89:98 | It is the one that was in bits on a bench in July and was mended in September and has be.. |
+| 590 | b2ch89:112 | It is the one that was in bits on a bench in July and was mended in September and has be.. |
 
 ### Zahlen in der Naehe von Mr Ahn
 
@@ -3622,7 +3625,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch76:42` (Tag 460) - one
 - `b2ch76:334` (Tag 463) - four
 - `b2ch76:360` (Tag 463) - eleven
-- `b2ch89:98` (Tag 590) - one
+- `b2ch89:112` (Tag 590) - one
 
 ---
 
@@ -3905,7 +3908,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 313 | b2ch52:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 313 | b2ch52:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:132 | Mr Yeom read the folders. |
+| 590 | b2ch89:146 | Mr Yeom read the folders. |
 
 ### Zahlen in der Naehe von Mr Yeo
 
@@ -3996,7 +3999,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 313 | b2ch52:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 313 | b2ch52:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:132 | Mr Yeom read the folders. |
+| 590 | b2ch89:146 | Mr Yeom read the folders. |
 
 ### Zahlen in der Naehe von Mr Yeom
 
@@ -4150,7 +4153,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 489 | b2ch80:278 | "I have a school exercise book," said Mrs Ha. |
 | 489 | b2ch80:296 | "That is not in any of the nine boxes now and it was never in the order book, and there .. |
 | 489 | b2ch80:312 | "No," said Mrs Ha. "He bought nine boxes off an old woman in Mapo at a proper price and .. |
-| 590 | b2ch89:116 | Mrs Ha telephoned this house in March, and it is the second time she has used the number.. |
+| 590 | b2ch89:130 | Mrs Ha telephoned this house in March, and it is the second time she has used the number.. |
 
 ### Zahlen in der Naehe von Mrs Ha
 
@@ -4290,8 +4293,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 431 | b2ch68:80 | She signed the docket Do Kyung-ae. |
 | 431 | b2ch68:228 | At four o'clock Ahn Jung-hee took a cup in, because it is four o'clock. |
 | 464 | b2ch78:250 | "Your father brought a man to a table twenty-five years ago and was pleased with himself.. |
-| 590 | b2ch89:96 | Ahn Jung-hee has been up that hill eleven times. In April she stayed three days and came.. |
-| 590 | b2ch89:104 | Mrs Jeon telephones on Sundays and asks for Ahn Jung-hee and not for anybody else in the.. |
+| 590 | b2ch89:110 | Ahn Jung-hee has been up that hill eleven times. In April she stayed three days and came.. |
+| 590 | b2ch89:118 | Mrs Jeon telephones on Sundays and asks for Ahn Jung-hee and not for anybody else in the.. |
 
 ### Zahlen in der Naehe von Ahn Jung-hee
 
@@ -4318,7 +4321,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch67:100` (Tag 404) - eight
 - `b2ch68:228` (Tag 431) - four
 - `b2ch78:250` (Tag 464) - eleven, twenty-five
-- `b2ch89:96` (Tag 590) - eleven, three
+- `b2ch89:110` (Tag 590) - eleven, three
 
 ---
 
@@ -4550,7 +4553,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 493 | b2ch81:216 | Baek Jun-ho looked at him for a long moment. |
 | 493 | b2ch81:254 | "In the meantime a man in this city has to write me a letter about a woman he has never .. |
 | 590 | b2ch89:14 | Baek Jun-ho found it out the way everything in this business is found out, which is that.. |
-| 590 | b2ch89:156 | Baek Jun-ho sat down on the second of March with a man he has known for thirty-one years.. |
+| 590 | b2ch89:170 | Baek Jun-ho sat down on the second of March with a man he has known for thirty-one years.. |
 | 592 | b3ch01:118 | He telephoned Baek Jun-ho at half past eleven and asked one question. |
 | 592 | b3ch01:136 | Baek Jun-ho did not answer for a while. |
 
@@ -4568,7 +4571,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch68:92` (Tag 431) - eleven
 - `b2ch81:6` (Tag 493) - fifty
 - `b2ch81:254` (Tag 493) - thirty-one
-- `b2ch89:156` (Tag 590) - thirty-one
+- `b2ch89:170` (Tag 590) - thirty-one
 - `b3ch01:118` (Tag 592) - eleven, one
 
 ---
@@ -5023,7 +5026,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 451 | b2ch74:220 | "You did not do it to her." He did not soften it. "You went to four people and you were .. |
 | 473 | b2ch80:214 | He told her about Moon Hae-sook for about forty minutes. |
 | 590 | b2ch89:86 | Moon Hae-sook has the room at the back on the ground floor because of the stairs, and th.. |
-| 590 | b2ch89:128 | Moon Hae-sook asked in November what became of sixty-two people, and she also asked that.. |
+| 590 | b2ch89:142 | Moon Hae-sook asked in November what became of sixty-two people, and she also asked that.. |
 
 ### Zahlen in der Naehe von Moon Hae-sook
 
@@ -5036,7 +5039,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch74:220` (Tag 451) - eleven, four, one
 - `b2ch80:214` (Tag 473) - forty
 - `b2ch89:86` (Tag 590) - four
-- `b2ch89:128` (Tag 590) - one, sixty-two, two
+- `b2ch89:142` (Tag 590) - one, sixty-two, two
 
 ---
 

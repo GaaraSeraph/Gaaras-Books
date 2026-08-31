@@ -92,7 +92,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 46** *What he asked her* (v1.4) · Tag 292, Mi 22. Juli · 2.033 W
 - **B2 47** *The one he kept* (v2.7) · Tag 298, Di 28. Juli · 2.914 W
 - **B2 48** *The sixth one* (v1.5) · Tag 300, Do 30. Juli · 2.112 W
-- **B2 49** *Against her return* (v2.3) · Tag 302, Sa 1. August · 3.224 W
+- **B2 49** *Against her return* (v2.4) · Tag 302, Sa 1. August · 3.224 W
 - **B2 50** *The one I did not say in May* (v1.5) · Tag 305, Di 4. August · 2.498 W
 - **B2 51** *Clause eleven* (v1.6) · Tag 307, Do 6. August · 2.778 W
 - **B2 52** *Consigned by* (v1.3) · Tag 313, Mi 12. August · 2.042 W
@@ -132,6 +132,6 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 86** *Please guide me* (v3.23) · Tag 531, Do 18. Maerz · 3.901 W
 - **B2 87** *The length of the room* (v3.22) · Tag 531, Do 18. Maerz · 4.129 W
 - **B2 88** *Not the comfortable part* (v3.7) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 3.368 W
-- **B2 89** *The weapon* (v3.18) · Tag 590, So 16. Mai · 3.446 W
+- **B2 89** *The weapon* (v3.19) · Tag 590, So 16. Mai · 3.563 W
 - **B3 1** *The first thing that arrives* (v1.4) · Tag 592, Di 18. Mai · 2.125 W
 - **B3 2** *Thank you for coming* (v1.6) · Tag 600, Mi 26. Mai · 2.211 W
