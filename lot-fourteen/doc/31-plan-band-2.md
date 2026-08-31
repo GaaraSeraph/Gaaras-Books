@@ -653,39 +653,37 @@ sagen warum - ausser einem.**
 
 **Vom Autor am 25.08. vorgegeben.** Nach dem Endgespraech, nicht vorher.
 
-**Der Kern:** *Jemand hat eine Waffe auf Dich gerichtet. Dass ich diese Waffe
-war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt ueberhaupt
-irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
+**Der Kern:** Dass die Frau in Ulsan **ihn** als Waffe benutzt hat, war
+persoenlich, aber nur zu einem Bruchteil. Der Rest ist Annie.
 
-> *"Somebody pointed a weapon at you," he said. "That the weapon was me is one
-> half of why it was personal."*
+> *"Half of it was personal," said Georgij. "A woman with four trucks picked me
+> up and pointed me at you."*
 >
-> *He stopped, because he had heard it go and it was not accurate.*
+> *He stopped. The fraction was wrong.*
 >
-> *"That is not half. It is a great deal less than half, and I could give you the
-> number, and I am not going to, because giving you the number would be the
-> fourth cleverest thing I have done this year."*
+> *"No. Less than half. A fraction."*
 >
-> *"Then give me the rest of it."*
+> *"What is the rest."*
 >
-> *"If the world points anything at you at all, I will burn the world down."*
+> *"If the world pointed anything at you, I would burn the world down."*
 
 **Warum das die Landung des Bandes ist:** Georgijs Maschine endet in jedem Satz
 auf einem Preis (`doc/12-stimmen.md`). **Das ist der erste und einzige Satz in
 zwei Baenden, in dem kein Preis steht.** Der Text kommentiert es nicht.
 
-**Die Reihenfolge ist erzwungen:** die Selbstkorrektur muss vor dem grossen Satz
-stehen. Ein Mann, der zuerst pathetisch wird und dann rechnet, ist ein anderer
-Mann.
+**Die Bruchrechnung ist vom Autor ausdruecklich gewollt.** Die Reihenfolge ist
+erzwungen: erst *half*, dann die Korrektur zu *a fraction*, dann Annies Frage,
+dann der grosse Satz. Ein Mann, der zuerst pathetisch wird und danach rechnet,
+ist ein anderer Mann.
 
 ---
 
 ## 10. Die Schlussgeste: ihre Fingerspitzen
 
 **Vom Autor am 25.08. festgelegt, am 27.08. als unzureichend geschrieben
-verworfen.** Was im Text steht, ist zu schwach: der Dialog traegt nicht und das
-Kuessen ist eine Andeutung. **Neu zu schreiben: zaertlich, liebevoll, und
-eindeutig.**
+verworfen, am 31.08. in B2 90 v4.1 neu geschrieben.** Der Dialog traegt jetzt
+Mord, Kollateralschaden und seine Entscheidung, es fuer sie wieder zu tun. Das
+Kuessen ist zaertlich, liebevoll und eindeutig.
 
 Am Ende des Bandes kuesst er ihr die **Fingerspitzen**. Wie ein Mann es bei einer
 Frau tut, die er sehr mag.
@@ -713,7 +711,9 @@ Szene misslungen.**
 einem Telefonat hat verschwinden lassen, und er weiss das. **Nicht obwohl.
 Deswegen.**
 
-**Der Anlauf laeuft ueber Erschoepfung, nie ueber Ruhe.**
+**Der Anlauf laeuft ueber Erschoepfung, nie ueber Ruhe.** Innerhalb der Szene
+stehen Beats statt Taktstrichen; ein Trenner steht nur bei einem wirklichen
+Szenenwechsel.
 
 ---
 

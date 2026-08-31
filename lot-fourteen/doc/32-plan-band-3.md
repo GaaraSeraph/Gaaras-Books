@@ -1658,7 +1658,7 @@ Berichtigung, die noetig war und die den Satz haerter macht.
 
 **Das Auktionshaus gehoert ihm, und das war mein Fehler.** Ich hatte es dem
 Fonds zugeschrieben. Der Autor hat es am 28.08. richtiggestellt, und der Text
-gibt ihm recht: `b2 ch89:60` sagt **"He made three people at that auction
+gibt ihm recht: `b2 ch89:68` sagt **"He made three people at that auction
 house very angry, a man and two women, and the woman who bought twice made a
 telephone call."** Georgij hat der Kaeuferin gesagt, was in ihrem Exemplar des
 Katalogs nicht gestrichen war (`b2 ch16:44`). **Der Fonds war der zweite
@@ -1666,7 +1666,7 @@ Stein, nicht der erste.**
 
 **Was trotzdem nicht stehenbleiben kann, ist *I have burnt them all to the
 ground*** - wegen Choi. Georgij hat ihn ausdruecklich nicht getoetet, und
-`b2 ch89:62` sagt, was er stattdessen getan hat: *Georgij worked out what that
+`b2 ch89:70` sagt, was er stattdessen getan hat: *Georgij worked out what that
 meant on the afternoon he heard about it, and it took him about four seconds,
 and it is the one thing this year that he has not written down.*
 
@@ -2390,7 +2390,8 @@ Vormittag, an dem ein Anwalt zwei Umschlaege aufmacht.**
 die braucht damit einen eigenen letzten Zug.
 
 **Der Zug ist die Hand, oeffentlich.** Band 2 schliesst damit, dass sie ihm
-die Hand hinhaelt (`b2 ch89:290`), und er sie nimmt. **Band 3 schliesst
+die Hand hinhaelt (`b2 ch90:138`), und er sie nicht nimmt, sondern ihre
+Fingerspitzen kuesst. **Band 3 schliesst
 damit, dass sie sie nimmt, wo alle es sehen** - und das ist die Tuer zu Band
 4, wo die Naehe nach dem Ring oeffentlich wird.
 
@@ -3315,7 +3316,7 @@ vor ihm gebrochen hat: *"I have been in this trade my whole life. I have
 never once seen anybody give away the thing that keeps..."* Und dann:
 *"I know. **I only wanted to hear whether you would say so.**"*
 
-**3. Freiwillige Arbeit, von der niemand weiss.** `b2 ch89:122-128`: **vier
+**3. Freiwillige Arbeit, von der niemand weiss.** `b2 ch89:146-152`: **vier
 Jahre Quartalsmappen, zwischen August und Neujahr, ohne es jemandem zu
 sagen** - und im Februar ein Brief **in eigener Hand**, aufgegeben aus einem
 Briefkasten, der nicht bei seinem Haus ist.
@@ -4555,8 +4556,8 @@ mit einem Wort.**
 | 149 | *Annie's hand came down on the back of his head and stayed there.* | `b1 ch34:516` |
 | 164 | *she put her hand along the side of his face, cool from the room, the heel of it just under the bone* | `b2 ch06:350` |
 | 206 | die Hand flach an der Halsseite, ueber dem Halsband | `b2 ch17:214` |
-| ab 168 | die Hand ins Haar, und es wird das feste Zeichen | `b2 ch09`, `19`, `25`, `28`, `32`, `52`, `54`, `66`, `89` |
-| 590 | *She took her hand off the arm of the chair and held it out to him.* | `b2 ch89:290` |
+| ab 168 | die Hand ins Haar, und es wird das feste Zeichen | `b2 ch09`, `19`, `25`, `28`, `32`, `52`, `54`, `66`, `90` |
+| 590 | *She took her hand off the arm of the chair and held it out to him.* | `b2 ch90:138` |
 
 **Das Buch endet damit, dass sie ihm die Hand hinhaelt.** Ein Kuss waere der
 erste Schritt daran vorbei, und er waere folgerichtig - aber nur, wenn er die

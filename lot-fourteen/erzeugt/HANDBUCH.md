@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.935 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.154 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -546,8 +546,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Annie geht auf Woos Satz mit keinem Wort ein](#annie-geht-auf-woos-satz-mit-keinem-wort-ein)
   - [1. Was dastand, und was daran unwahr war](#1-was-dastand-und-was-daran-unwahr-war)
   - [2. Acht Wochen Leerlauf widersprachen dem Nachbarkapitel](#2-acht-wochen-leerlauf-widersprachen-dem-nachbarkapitel)
-  - [3. Und der 18. Maerz hat die falsche Begruendung wahr aussehen lassen](#3-und-der-18-maerz-hat-die-falsche-begruendung-wahr-aussehen-lassen)
+  - [3. Chois Tod ist ein wirklicher Grund, aber nicht der einzige](#3-chois-tod-ist-ein-wirklicher-grund-aber-nicht-der-einzige)
   - [4. Und ein Zeuge, weil acht Wochen im Off nicht erzaehlt sind](#4-und-ein-zeuge-weil-acht-wochen-im-off-nicht-erzaehlt-sind)
+  - [5. Was ihn beruhigt, ohne den Bruch zu heilen](#5-was-ihn-beruhigt-ohne-den-bruch-zu-heilen)
   - [Die Zeile](#die-zeile)
   - [Warum sie es ist](#warum-sie-es-ist)
   - [Warum das *too* kein Sprung ist](#warum-das-too-kein-sprung-ist)
@@ -652,7 +653,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**125 Kapitel, 337.522 Woerter.**
+**126 Kapitel, 337.662 Woerter.**
 
 ---
 
@@ -770,7 +771,7 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 4 | B2 29 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
 | 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
 | 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |
-| 10 | **B2 90** | **So 22. Nov** | **Die letzte des Bandes, und sie steht zweimal in derselben Szene.** Vorher, waehrend sie arbeitet: *"at some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Und nach der Schlusszeile, wortlos: *"Annie put her hand back into his hair."* |
+| 10 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
 | 9 | B2 76 | Do 24. Sept | Abends, sie sitzt ohne Lampe am Fenster und arbeitet nicht. *"After about ten minutes she put her hand down into his hair without looking away from the window and left it there."* Der Text zählt mit und er nicht: *"That is the ninth time since March, and he has not counted one of them since July, and he did not count this one either."* |
 | 8 | B2 72 | Mo 14. Sept | **Der Beleg dafuer, dass er wirklich aufgehoert hat mitzuzaehlen.** *"Annie put her hand down into his hair and left it there, and he could not have said afterwards at what point in it she had done that."* Nach Sims Anruf, waehrend keiner von beiden redet. |
 | 7 | B2 58 | Di 18. Aug | Sechs Tage spaeter, ohne Anlass, waehrend sie liest. *"She put her hand down into his hair without looking away from the page, at the back, and left it there."* Und: **er hat aufgehoert mitzuzaehlen.** *"He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
@@ -865,7 +866,7 @@ sehen, wie selten es ist.
 |---|---|---|---|
 | 1 | B1 34 | So 1. März | **Er geht zu ihr herunter**, ohne dass es jemand verlangt hat. *"which took about two seconds and which nobody in that room had asked for"* |
 
-| 2 | **B2 90** | **So 22. Nov** | **Die Schlussgeste des Bandes, vom Autor am 25.08. festgelegt.** Nach *"If the world points anything at you at all, I will burn the world down"*. Er geht wieder hinunter, **nimmt ihre Hand nicht**, und legt den Mund an die Enden ihrer Finger. *"There is nothing in it that anybody could describe afterwards and nothing that would work in a room."* Der Text kommentiert es nicht. |
+| 2 | **B2 90** | **So 16. Mai** | **Die Schlussgeste des Bandes, vom Autor am 25.08. festgelegt.** Nach *"If the world pointed anything at you, I would burn the world down"*. Sie haelt ihm die Hand hin; er geht wieder hinunter, **nimmt ihre Hand nicht**, und kuesst ihre Fingerspitzen. *"There is nothing in it that anybody could describe afterwards and nothing that would work in a room."* |
 
 **Es gab bis zum 25.08. genau einen Eintrag, und das war die Regel.** In einer Zwischenfassung
 von B2 6 nahm er ihre Hand vom Sessel. Der Autor hat das gestrichen: **er fasst
@@ -1099,7 +1100,8 @@ dead and not one hour before*).
 Mund vor dem Tod, Hand vor Zeugen.**
 
 **Damit steigt es und wiederholt sich nicht.** Band 2 schliesst damit, dass
-sie ihm die Hand hinhaelt (`b2 ch89:290`), und er sie nimmt. **Band 3
+sie ihm die Hand hinhaelt (`b2 ch90:138`), und er sie nicht nimmt, sondern ihre
+Fingerspitzen kuesst. **Band 3
 schliesst damit, dass sie sie nimmt, wo alle es sehen** - und das ist die
 Tuer zu Band 4, wo die Naehe nach dem Ring oeffentlich wird.
 
@@ -1171,7 +1173,7 @@ Bemerkenswert ist das Weinen.**
 
 *which is where he sits* steht **sechsmal** woertlich im Buch: auf dem
 Teppich, seitlich vom Schreibtisch, mit dem Ruecken an den Schubladen
-(`b2 ch09:280`, `b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch89:194`). **Dazu vier weitere Stellen ohne
+(`b2 ch09:280`, `b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch90:24`). **Dazu vier weitere Stellen ohne
 die Formel** - `b2 ch32:282`, `b2 ch42:212`, `b2 ch66:302`, `b2 ch87:478`.
 
 **Also derselbe Boden, dasselbe Zimmer, dieselbe Haltung. Eine Sache anders.**
@@ -8161,7 +8163,8 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | Band 1, Ende | 149 | So 1. Maerz 2026 |
 | **Band 2, Kapitel 1** | 150 | Mo 2. Maerz 2026 |
 | **frueheres Kapitel 90** | 415 | So 22. November 2026 |
-| **Band 2, Kapitel 89** - Bandende | 590 | So **16. Mai 2027** |
+| **Band 2, Kapitel 89** | 590 | So **16. Mai 2027** |
+| **Band 2, Kapitel 90** - Bandende | 590 | So **16. Mai 2027** |
 | **Band 3, Kapitel 1** | 592 | Di **18. Mai 2027** |
 | **Band 3, Kapitel 2** - der neunundvierzigste Tag | 600 | Mi **26. Mai 2027** |
 
@@ -8170,7 +8173,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 89 spielen im Jahr 2027 - Kapitel 76 faengt an Tag 460, dem 6. Januar, an. Bis zum Umbau endete der Band im November 2026, und
 alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber alle 123 Kapitel geprueft und stimmen:
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
-*"Sunday 22 November"*, der Kalender sagt Sonntag.
+*"Sunday 16 May"*, der Kalender sagt Sonntag.
 
 **Annie ist damit achtunddreissig.** Woo sagt in Band 2, Kapitel 73, dass sie
 2002 vierzehn war; das ergibt Geburtsjahr 1987 oder 1988. Passt zu `doc/11-figuren.md`
@@ -15020,39 +15023,37 @@ sagen warum - ausser einem.**
 
 **Vom Autor am 25.08. vorgegeben.** Nach dem Endgespraech, nicht vorher.
 
-**Der Kern:** *Jemand hat eine Waffe auf Dich gerichtet. Dass ich diese Waffe
-war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt ueberhaupt
-irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
+**Der Kern:** Dass die Frau in Ulsan **ihn** als Waffe benutzt hat, war
+persoenlich, aber nur zu einem Bruchteil. Der Rest ist Annie.
 
-> *"Somebody pointed a weapon at you," he said. "That the weapon was me is one
-> half of why it was personal."*
+> *"Half of it was personal," said Georgij. "A woman with four trucks picked me
+> up and pointed me at you."*
 >
-> *He stopped, because he had heard it go and it was not accurate.*
+> *He stopped. The fraction was wrong.*
 >
-> *"That is not half. It is a great deal less than half, and I could give you the
-> number, and I am not going to, because giving you the number would be the
-> fourth cleverest thing I have done this year."*
+> *"No. Less than half. A fraction."*
 >
-> *"Then give me the rest of it."*
+> *"What is the rest."*
 >
-> *"If the world points anything at you at all, I will burn the world down."*
+> *"If the world pointed anything at you, I would burn the world down."*
 
 **Warum das die Landung des Bandes ist:** Georgijs Maschine endet in jedem Satz
 auf einem Preis (`doc/12-stimmen.md`). **Das ist der erste und einzige Satz in
 zwei Baenden, in dem kein Preis steht.** Der Text kommentiert es nicht.
 
-**Die Reihenfolge ist erzwungen:** die Selbstkorrektur muss vor dem grossen Satz
-stehen. Ein Mann, der zuerst pathetisch wird und dann rechnet, ist ein anderer
-Mann.
+**Die Bruchrechnung ist vom Autor ausdruecklich gewollt.** Die Reihenfolge ist
+erzwungen: erst *half*, dann die Korrektur zu *a fraction*, dann Annies Frage,
+dann der grosse Satz. Ein Mann, der zuerst pathetisch wird und danach rechnet,
+ist ein anderer Mann.
 
 ---
 
 ## 10. Die Schlussgeste: ihre Fingerspitzen
 
 **Vom Autor am 25.08. festgelegt, am 27.08. als unzureichend geschrieben
-verworfen.** Was im Text steht, ist zu schwach: der Dialog traegt nicht und das
-Kuessen ist eine Andeutung. **Neu zu schreiben: zaertlich, liebevoll, und
-eindeutig.**
+verworfen, am 31.08. in B2 90 v4.1 neu geschrieben.** Der Dialog traegt jetzt
+Mord, Kollateralschaden und seine Entscheidung, es fuer sie wieder zu tun. Das
+Kuessen ist zaertlich, liebevoll und eindeutig.
 
 Am Ende des Bandes kuesst er ihr die **Fingerspitzen**. Wie ein Mann es bei einer
 Frau tut, die er sehr mag.
@@ -15080,7 +15081,9 @@ Szene misslungen.**
 einem Telefonat hat verschwinden lassen, und er weiss das. **Nicht obwohl.
 Deswegen.**
 
-**Der Anlauf laeuft ueber Erschoepfung, nie ueber Ruhe.**
+**Der Anlauf laeuft ueber Erschoepfung, nie ueber Ruhe.** Innerhalb der Szene
+stehen Beats statt Taktstrichen; ein Trenner steht nur bei einem wirklichen
+Szenenwechsel.
 
 ---
 
@@ -18713,7 +18716,7 @@ Berichtigung, die noetig war und die den Satz haerter macht.
 
 **Das Auktionshaus gehoert ihm, und das war mein Fehler.** Ich hatte es dem
 Fonds zugeschrieben. Der Autor hat es am 28.08. richtiggestellt, und der Text
-gibt ihm recht: `b2 ch89:60` sagt **"He made three people at that auction
+gibt ihm recht: `b2 ch89:68` sagt **"He made three people at that auction
 house very angry, a man and two women, and the woman who bought twice made a
 telephone call."** Georgij hat der Kaeuferin gesagt, was in ihrem Exemplar des
 Katalogs nicht gestrichen war (`b2 ch16:44`). **Der Fonds war der zweite
@@ -18721,7 +18724,7 @@ Stein, nicht der erste.**
 
 **Was trotzdem nicht stehenbleiben kann, ist *I have burnt them all to the
 ground*** - wegen Choi. Georgij hat ihn ausdruecklich nicht getoetet, und
-`b2 ch89:62` sagt, was er stattdessen getan hat: *Georgij worked out what that
+`b2 ch89:70` sagt, was er stattdessen getan hat: *Georgij worked out what that
 meant on the afternoon he heard about it, and it took him about four seconds,
 and it is the one thing this year that he has not written down.*
 
@@ -19445,7 +19448,8 @@ Vormittag, an dem ein Anwalt zwei Umschlaege aufmacht.**
 die braucht damit einen eigenen letzten Zug.
 
 **Der Zug ist die Hand, oeffentlich.** Band 2 schliesst damit, dass sie ihm
-die Hand hinhaelt (`b2 ch89:290`), und er sie nimmt. **Band 3 schliesst
+die Hand hinhaelt (`b2 ch90:138`), und er sie nicht nimmt, sondern ihre
+Fingerspitzen kuesst. **Band 3 schliesst
 damit, dass sie sie nimmt, wo alle es sehen** - und das ist die Tuer zu Band
 4, wo die Naehe nach dem Ring oeffentlich wird.
 
@@ -20370,7 +20374,7 @@ vor ihm gebrochen hat: *"I have been in this trade my whole life. I have
 never once seen anybody give away the thing that keeps..."* Und dann:
 *"I know. **I only wanted to hear whether you would say so.**"*
 
-**3. Freiwillige Arbeit, von der niemand weiss.** `b2 ch89:122-128`: **vier
+**3. Freiwillige Arbeit, von der niemand weiss.** `b2 ch89:146-152`: **vier
 Jahre Quartalsmappen, zwischen August und Neujahr, ohne es jemandem zu
 sagen** - und im Februar ein Brief **in eigener Hand**, aufgegeben aus einem
 Briefkasten, der nicht bei seinem Haus ist.
@@ -21610,8 +21614,8 @@ mit einem Wort.**
 | 149 | *Annie's hand came down on the back of his head and stayed there.* | `b1 ch34:516` |
 | 164 | *she put her hand along the side of his face, cool from the room, the heel of it just under the bone* | `b2 ch06:350` |
 | 206 | die Hand flach an der Halsseite, ueber dem Halsband | `b2 ch17:214` |
-| ab 168 | die Hand ins Haar, und es wird das feste Zeichen | `b2 ch09`, `19`, `25`, `28`, `32`, `52`, `54`, `66`, `89` |
-| 590 | *She took her hand off the arm of the chair and held it out to him.* | `b2 ch89:290` |
+| ab 168 | die Hand ins Haar, und es wird das feste Zeichen | `b2 ch09`, `19`, `25`, `28`, `32`, `52`, `54`, `66`, `90` |
+| 590 | *She took her hand off the arm of the chair and held it out to him.* | `b2 ch90:138` |
 
 **Das Buch endet damit, dass sie ihm die Hand hinhaelt.** Ein Kuss waere der
 erste Schritt daran vorbei, und er waere folgerichtig - aber nur, wenn er die
@@ -22866,7 +22870,7 @@ und der Band soll ihn nicht suchen.
 | Menschenhandel | Los vierzehn |
 | Kinder | Los elf, und er selbst mit neun |
 | Zwangsprostitution | `b1 ch01:30`, *No medical history* |
-| Mord nur nach Genehmigung | `b2 ch89:60` - drei Leute wuetend gemacht, und jemand hat telefoniert |
+| Mord nur nach Genehmigung | `b2 ch89:68` - drei Leute wuetend gemacht, und jemand hat telefoniert |
 
 **Vier von fuenf sind Sachen, die ihm angetan wurden oder die er getan hat.**
 
@@ -23275,7 +23279,7 @@ die Antwort braucht.
 
 ## Was es kostet, und es ist nicht Reue
 
-**Reue waere falsch.** `b2 ch89:66` gibt den Ton: *He is not sorry about it
+**Reue waere falsch.** `b2 ch89:74` gibt den Ton: *He is not sorry about it
 and he has stopped waiting to become sorry about it.*
 
 **Der Preis ist strukturell, und er ist genau der, den Band 5 ohnehin
@@ -23952,7 +23956,7 @@ nicht tut.
 
 ## Zurueckgenommen am selben Tag
 
-* **"Das Auktionshaus hat der Fonds geschlossen."** Falsch. `b2 ch89:60`:
+* **"Das Auktionshaus hat der Fonds geschlossen."** Falsch. `b2 ch89:68`:
   Georgij hat dort drei Leute wuetend gemacht, und die Kaeuferin hat
   telefoniert. **Der Fonds war der zweite Stein.**
 * **"Kein Ring in hundertdreiundzwanzig Kapiteln."** Falsch, es sind drei
@@ -25093,7 +25097,7 @@ fuer dieselbe Sache laufen auseinander. Genau das ist passiert.
 
 **Das Zurueckgenommene vom 28. und 29.08. steht in `doc/40-verworfen.md`.**
 
-## Der Schlaf am Ende von Band 2, zweimal berichtigt am 31.08.
+## Der Schlaf am Ende von Band 2, abschliessend berichtigt am 31.08.
 
 **Der Autor: acht Wochen schlecht schlafen ist nicht plausibel, und acht
 Wochen nichts tun erst recht nicht.** Beides stimmt, und der zweite Einwand
@@ -25113,27 +25117,34 @@ night"*, und Annie ebenso, weil sie die Genaue ist.
 Sunwoo, Sim, Mr Ok. **Er hat gearbeitet.** Die Leere faengt an, als der
 letzte Name abgearbeitet ist, und dauert bis zum Bandende: **zwoelf Tage.**
 
-### 3. Und der 18. Maerz hat die falsche Begruendung wahr aussehen lassen
+### 3. Chois Tod ist ein wirklicher Grund, aber nicht der einzige
 
-**Das ist der eigentliche Fund.** Die Szene lebt davon, dass Georgijs erste
-Antwort die bequeme ist und Annie sie nicht nimmt. Die bequeme Antwort ist
-Chois Tod. **Und der Text hatte den Schlaf auf den Abend datiert, an dem
-Choi im Haus war** - womit die bequeme Antwort zeitlich genau aufging und
-Annies *"Then it is not the reason"* wie eine Behauptung aussah statt wie ein
-Befund.
+**Vom Autor am 31.08. klargestellt.** Georgij hat einen Mann ermordet, ohne die
+Hand zu kennen, die ihn am Ende getoetet hat. Das nagt an ihm und bricht etwas
+in ihm. Annie nimmt ihm diesen Grund nicht weg und spricht ihn nicht frei. Sie
+laesst ihn den Satz ohne die Ausweichbewegung ueber die fremde Hand sagen:
+
+> "That is about the hand," said Annie. "Say what you did."
+>
+> "I killed him."
+
+Der Kalender zeigt nur, dass der Mord **nicht alles** erklaert: Choi ist seit
+dem 8. April tot, und Georgij hat im April noch geschlafen.
 
 **Jetzt faengt der schlechte Schlaf in der ersten Maiwoche an**, in den
 letzten Tagen der Arbeit, *when there were more names crossed off that page
 than left on it, and he could see the bottom of it coming.*
 
-**Und Annie erledigt die bequeme Antwort mit einem Datum statt mit einer
-Ahnung:**
+**Annie oeffnet deshalb mit dem Datum den zweiten Grund:**
 
-> "He has been dead since the eighth of April, and you slept in April."
+> "And you slept in April."
+>
+> "Then that is not all of it. Say May."
 
-**Die Regel dahinter, und sie gilt ueber diese Stelle hinaus:** wenn eine
-Figur eine falsche Begruendung anbietet, darf der Kalender sie nicht
-stuetzen. Sonst arbeitet der Text gegen die Szene, die er selbst gebaut hat.
+Im Mai sieht Georgij in drei fremden Zimmern Menschen, die nichts getan haben,
+und liest danach die eigene Seite neu. Hinter der Frau in Ulsan, dem Haus am
+Fluss, Choi und Byun stehen Menschen, die er nie getroffen und nie gezaehlt hat.
+Der Mord und dieser Kollateralschaden sind gleichzeitig wahr.
 
 ### 4. Und ein Zeuge, weil acht Wochen im Off nicht erzaehlt sind
 
@@ -25148,6 +25159,32 @@ es am 1. Mai und tut das Einzige, was Sim tut - er bewirtet weiter,
 > different one.
 
 **Kein Trost, keine Frage, keine Diagnose.**
+
+### 5. Was ihn beruhigt, ohne den Bruch zu heilen
+
+Das Gespraech macht den Mord nicht kleiner. Es bringt Georgij dazu, ebenfalls
+auszusprechen, dass er es fuer Annie wieder tun wuerde. **Beides bleibt wahr.**
+Das zweite spricht ihn vom ersten nicht frei, und der Mord bleibt die Stelle,
+an der etwas in ihm gebrochen ist. Aber die Frage ist beendet, und seine
+Schultern sinken.
+
+**Die Bruchrechnung ist geschuetzt und vom Autor genau so verlangt:**
+
+> "Half of it was personal," said Georgij. "A woman with four trucks picked me
+> up and pointed me at you."
+>
+> "No. Less than half. A fraction."
+>
+> "What is the rest."
+>
+> "If the world pointed anything at you, I would burn the world down."
+
+**Ausdruecklich keine Vorgabe des Autors und nicht wieder einzubauen:** Annie
+frage, wonach er gesucht habe, und er antworte, nach einem Satz, der es kleiner
+mache. Das war eine fremde Erfindung und gehoert nicht zu dieser Szene.
+
+**Formregel vom Autor:** Beats statt Strichen, wenn kein Szenenwechsel
+stattfindet. B2 90 hat innerhalb des durchgehenden Gespraechs keine Taktstriche.
 
 ## Annies vier Woerter am Ende von Band 2
 
@@ -25296,10 +25333,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 877 | 94 (b1ch01-b3ch02) | 1 | 600 |
+| Annie | 878 | 95 (b1ch01-b3ch02) | 1 | 600 |
 | Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
-| Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
+| Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 161 | 39 (b1ch05-b3ch02) | 4 | 600 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 144 | 51 (b1ch03-b3ch01) | 1 | 592 |
@@ -25350,7 +25387,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-877 Nennungen in 94 Kapiteln.
+878 Nennungen in 95 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -26215,13 +26252,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:498 | "There is one line in what you gave me about that room and you put nothing round it." An.. |
 | 531 | b2ch87:518 | "That is the second time you have done that this year," said Annie. "I have counted both." |
 | 590 | b2ch89:88 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
-| 590 | b2ch89:214 | Annie noticed on about the fourth day and said nothing for a week. |
-| 590 | b2ch89:232 | "You have not had a whole night since the first week of May," said Annie. |
-| 590 | b2ch89:244 | Annie waited. |
-| 590 | b2ch89:262 | Annie let him have the whole of it. |
-| 590 | b2ch89:286 | "Then say the rest of it," said Annie. |
-| 590 | b2ch89:306 | Annie did not move at all. |
-| 590 | b2ch89:332 | Annie did not say anything. |
+| 590 | b2ch90:16 | Annie noticed on about the fourth day and said nothing for a week. |
+| 590 | b2ch90:30 | "You have not had a whole night since the first week of May," said Annie. |
+| 590 | b2ch90:40 | Annie waited. |
+| 590 | b2ch90:44 | "That is about the hand," said Annie. "Say what you did." |
+| 590 | b2ch90:64 | Annie let him have the whole of it. |
+| 590 | b2ch90:86 | Annie's hand stayed where it was. |
+| 590 | b2ch90:106 | Annie did not move at all. |
+| 590 | b2ch90:124 | Annie did not say anything. |
 | 592 | b3ch01:172 | "Say the name again," said Annie. |
 | 592 | b3ch01:180 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
 | 592 | b3ch01:194 | Annie waited. |
@@ -27487,7 +27525,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch78:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 | 464 | b2ch78:264 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:380 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
+| 590 | b2ch90:160 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -27557,7 +27595,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch78:264` (Tag 464) - thirty
 - `b2ch87:428` (Tag 531) - five, one, three
-- `b2ch89:380` (Tag 590) - eight hundred, five, four
+- `b2ch90:160` (Tag 590) - eight hundred, five, four
 
 ---
 
@@ -28750,7 +28788,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
 | 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
-| 590 | b2ch89:438 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
+| 590 | b2ch89:200 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 | 592 | b3ch01:56 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
 | 592 | b3ch01:80 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
 | 592 | b3ch01:142 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
@@ -28796,7 +28834,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:442` (Tag 531) - one
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
-- `b2ch89:438` (Tag 590) - five, thirty, thirty-one, two
+- `b2ch89:200` (Tag 590) - five, thirty, thirty-one, two
 - `b3ch01:56` (Tag 592) - forty
 - `b3ch01:142` (Tag 592) - four, one
 - `b3ch01:192` (Tag 592) - three

@@ -75,7 +75,7 @@ nicht tut.
 
 ## Zurueckgenommen am selben Tag
 
-* **"Das Auktionshaus hat der Fonds geschlossen."** Falsch. `b2 ch89:60`:
+* **"Das Auktionshaus hat der Fonds geschlossen."** Falsch. `b2 ch89:68`:
   Georgij hat dort drei Leute wuetend gemacht, und die Kaeuferin hat
   telefoniert. **Der Fonds war der zweite Stein.**
 * **"Kein Ring in hundertdreiundzwanzig Kapiteln."** Falsch, es sind drei

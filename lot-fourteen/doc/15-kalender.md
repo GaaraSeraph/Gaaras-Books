@@ -70,7 +70,8 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | Band 1, Ende | 149 | So 1. Maerz 2026 |
 | **Band 2, Kapitel 1** | 150 | Mo 2. Maerz 2026 |
 | **frueheres Kapitel 90** | 415 | So 22. November 2026 |
-| **Band 2, Kapitel 89** - Bandende | 590 | So **16. Mai 2027** |
+| **Band 2, Kapitel 89** | 590 | So **16. Mai 2027** |
+| **Band 2, Kapitel 90** - Bandende | 590 | So **16. Mai 2027** |
 | **Band 3, Kapitel 1** | 592 | Di **18. Mai 2027** |
 | **Band 3, Kapitel 2** - der neunundvierzigste Tag | 600 | Mi **26. Mai 2027** |
 
@@ -79,7 +80,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 89 spielen im Jahr 2027 - Kapitel 76 faengt an Tag 460, dem 6. Januar, an. Bis zum Umbau endete der Band im November 2026, und
 alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber alle 123 Kapitel geprueft und stimmen:
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
-*"Sunday 22 November"*, der Kalender sagt Sonntag.
+*"Sunday 16 May"*, der Kalender sagt Sonntag.
 
 **Annie ist damit achtunddreissig.** Woo sagt in Band 2, Kapitel 73, dass sie
 2002 vierzehn war; das ergibt Geburtsjahr 1987 oder 1988. Passt zu `doc/11-figuren.md`
@@ -1268,4 +1269,3 @@ ausser in b2 K82"*, und Chois einzige Szene ist heute ch86 und nicht ch88.
 Sie standen also laengst auf der 85er-Zaehlung. **Ein Lauf mit +6 haette
 hundertdreiundsechzig richtige Verweise zerlegt**, und keine Pruefung im Haus
 haette es gemeldet.
-

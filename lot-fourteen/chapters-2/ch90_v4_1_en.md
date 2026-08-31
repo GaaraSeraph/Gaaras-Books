@@ -1,0 +1,196 @@
+# Chapter 90: The weapon
+*Lot Fourteen* · Version 4.1 · EN
+
+## Day Five Hundred and Ninety · Sunday 16 May
+
+There has been nothing to build since.
+
+Twelve days of it now. No route, no room, no name to get, no man to be in front of and no sentence to take apart over four days. There is a woman in a chair by a kitchen garden with fifty-four names still to find, and that is going to take years and it cannot be done at speed.
+
+He has not slept properly since the first week of May.
+
+It did not start when the work stopped. It started in the last days of it, when there were more names crossed off that page than left on it, and he could see the bottom of it coming.
+
+A man who is out of the house at seven and has somebody to get to does not have to look at anything, and for fourteen months he did not.
+
+Annie noticed on about the fourth day and said nothing for a week.
+
+* * *
+
+She said it at about nine, at the desk, without looking up.
+
+"Sit down."
+
+He went round the desk and down onto the carpet at the side of it, with his back against the drawers, which is where he sits.
+
+She worked for about twenty minutes and he did not say anything and did not do anything.
+
+At some point in the middle of it her hand came down into his hair, at the back, and stayed there.
+
+"You have not had a whole night since the first week of May," said Annie.
+
+"No."
+
+"Say why. Do not say it is the fifty-four."
+
+He sat with that for a while.
+
+"On the thirtieth of April last year I told a woman in Ulsan that I was going to have him," he said. "I said afterwards that I was not going to lay a hand on him. I meant it, and I did not."
+
+Annie waited.
+
+"A man went out of a gate on the eighteenth of March with nothing left, because I had taken all of it off him myself over eleven months. He was dead three weeks later. I do not know whose hand it was."
+
+"That is about the hand," said Annie. "Say what you did."
+
+He did not look at her.
+
+"I killed him."
+
+"Yes."
+
+"I have known that since the ninth of April at about eleven in the morning."
+
+"And you slept in April."
+
+"Yes."
+
+"Then that is not all of it. Say May."
+
+It took him longer than anything else he said that evening.
+
+"There were four names on a page at the end of April and I got into three of the rooms," he said. "Not one of the four had done anything except stand in a room that a man had a use for. None of what was done to them was mine. I did not do a single thing to any of them."
+
+Annie let him have the whole of it.
+
+"I went to give them an account and I gave it, and every word of it was true, and I got into the car afterwards each time and read a page of my own."
+
+"There is a woman in Ulsan with four trucks. There is a house that stood on that river for thirty years. There is a man who spent twenty-five years deciding which men in this country ate together, and there is a man nobody in that trade has seen since May of last year."
+
+He said it at the speed he says a schedule.
+
+"And behind every one of those there are people I never met and did not count."
+
+"Yes."
+
+"In August I wrote down that I could not tell whether the difference between him and me was one of kind." He did not look away. "I still cannot. Until the first week of May I did not have to, because there was always something on top of it."
+
+"There is nothing on top of it now."
+
+"No."
+
+He was looking at the leg of the desk.
+
+"I killed a man, and I did not count the people standing behind him."
+
+Annie's hand stayed where it was.
+
+"And I am not sorry that he is dead," said Georgij. "I am sorry that is true."
+
+Neither of them moved.
+
+"I have not had a whole night in a fortnight because all of those things are true at the same time."
+
+She took her hand out of his hair and put it on the arm of the chair.
+
+"Stand up."
+
+He got up off the floor and stood in front of the desk and did not put his hands anywhere.
+
+"Would you do it again."
+
+He was quiet for long enough that the machine at the back of the house began its four minutes.
+
+"Yes."
+
+Annie did not move at all.
+
+"I would do it again."
+
+"Next week, and the week after that, and every time it was put in front of me. I would know before I began that there were people standing behind him. I would sleep exactly as badly afterwards. I would still do it."
+
+"Half of it was personal," said Georgij. "A woman with four trucks picked me up and pointed me at you."
+
+He stopped.
+
+The fraction was wrong.
+
+"No. Less than half. A fraction."
+
+"What is the rest."
+
+"If the world pointed anything at you, I would burn the world down."
+
+Annie did not say anything.
+
+The house did the things a house does at half past nine, and one of them, since November, is the sound of a machine in a room at the back that runs for four minutes in every hour.
+
+She did not look away and she did not fill it and she did not make it smaller.
+
+He heard the sentence in the room after he had said it, which is not the same as saying it, and he had never once said it before to anybody.
+
+He had killed a man. He would do it again for her.
+
+The second did not acquit him of the first. Saying it did not mend the thing the first had broken.
+
+His shoulders came down anyway.
+
+She took her hand off the arm of the chair and held it out to him.
+
+She did it without saying anything and without looking away.
+
+He went down at the side of the desk and he did not take hold of it.
+
+He kissed the end of the second finger, and then the joint below it, where the skin creases.
+
+Then the one beside it, and then the first, and then back to the second.
+
+Her fingers were cool from the room and they did not stay cool. There is a ridge on that one where a pen has been since she was nineteen, and he found it and stayed on it longer than on the others.
+
+He did it slowly, and he did it for long enough that it stopped being a thing a man does once.
+
+She moved at about the fourth.
+
+She moved because she had not expected it to go on, and it was not much, and he felt the whole of it.
+
+Then she did not move again.
+
+It is not the thing he did in a ballroom in November of the year before last.
+
+That was Hana's hand, over the fingers, in the European way, in front of four or five people. It was in the room for eight hundred of them by the end of the week, and it was meant to be.
+
+There is nobody else in the room at half past nine on a Sunday.
+
+There is nothing in it that anybody could describe afterwards and nothing that would work in a room, and it is not for anything at all.
+
+After a while she put her other hand on the back of his head and left it there.
+
+That is the whole of what she did and it took her about eleven seconds to decide to.
+
+She took the first hand back at some point and went back to the page she had been on, which is what she does when she is not going to say anything.
+
+The other one stayed where it was.
+
+He stopped being able to hold his head up at about ten and did nothing about it, which he has not done in this house or in any of the eleven before it.
+
+"You are such a beautiful, strong woman," said Georgij. "Thank you for buying me."
+
+He said it with his eyes shut and most of the way gone, to a woman who made a telephone call in the spring of last year about a man in a flat on the eighth floor in Seongdong.
+
+Not although. Because.
+
+She said four words.
+
+She said them quietly and she said them once, and he was already asleep.
+
+Nobody has ever told him what they were.
+
+* * *
+
+He slept about nine hours, which he has not done since April.
+
+He does not know how he got upstairs and he has not asked.
+
+Downstairs somebody moved a chair.
+
+At the back of the house a machine ran for four minutes and stopped.

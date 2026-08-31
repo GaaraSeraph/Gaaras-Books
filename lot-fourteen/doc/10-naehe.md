@@ -112,7 +112,7 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 4 | B2 29 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
 | 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
 | 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |
-| 10 | **B2 90** | **So 22. Nov** | **Die letzte des Bandes, und sie steht zweimal in derselben Szene.** Vorher, waehrend sie arbeitet: *"at some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Und nach der Schlusszeile, wortlos: *"Annie put her hand back into his hair."* |
+| 10 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
 | 9 | B2 76 | Do 24. Sept | Abends, sie sitzt ohne Lampe am Fenster und arbeitet nicht. *"After about ten minutes she put her hand down into his hair without looking away from the window and left it there."* Der Text zählt mit und er nicht: *"That is the ninth time since March, and he has not counted one of them since July, and he did not count this one either."* |
 | 8 | B2 72 | Mo 14. Sept | **Der Beleg dafuer, dass er wirklich aufgehoert hat mitzuzaehlen.** *"Annie put her hand down into his hair and left it there, and he could not have said afterwards at what point in it she had done that."* Nach Sims Anruf, waehrend keiner von beiden redet. |
 | 7 | B2 58 | Di 18. Aug | Sechs Tage spaeter, ohne Anlass, waehrend sie liest. *"She put her hand down into his hair without looking away from the page, at the back, and left it there."* Und: **er hat aufgehoert mitzuzaehlen.** *"He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
@@ -207,7 +207,7 @@ sehen, wie selten es ist.
 |---|---|---|---|
 | 1 | B1 34 | So 1. März | **Er geht zu ihr herunter**, ohne dass es jemand verlangt hat. *"which took about two seconds and which nobody in that room had asked for"* |
 
-| 2 | **B2 90** | **So 22. Nov** | **Die Schlussgeste des Bandes, vom Autor am 25.08. festgelegt.** Nach *"If the world points anything at you at all, I will burn the world down"*. Er geht wieder hinunter, **nimmt ihre Hand nicht**, und legt den Mund an die Enden ihrer Finger. *"There is nothing in it that anybody could describe afterwards and nothing that would work in a room."* Der Text kommentiert es nicht. |
+| 2 | **B2 90** | **So 16. Mai** | **Die Schlussgeste des Bandes, vom Autor am 25.08. festgelegt.** Nach *"If the world pointed anything at you, I would burn the world down"*. Sie haelt ihm die Hand hin; er geht wieder hinunter, **nimmt ihre Hand nicht**, und kuesst ihre Fingerspitzen. *"There is nothing in it that anybody could describe afterwards and nothing that would work in a room."* |
 
 **Es gab bis zum 25.08. genau einen Eintrag, und das war die Regel.** In einer Zwischenfassung
 von B2 6 nahm er ihre Hand vom Sessel. Der Autor hat das gestrichen: **er fasst
@@ -441,7 +441,8 @@ dead and not one hour before*).
 Mund vor dem Tod, Hand vor Zeugen.**
 
 **Damit steigt es und wiederholt sich nicht.** Band 2 schliesst damit, dass
-sie ihm die Hand hinhaelt (`b2 ch89:290`), und er sie nimmt. **Band 3
+sie ihm die Hand hinhaelt (`b2 ch90:138`), und er sie nicht nimmt, sondern ihre
+Fingerspitzen kuesst. **Band 3
 schliesst damit, dass sie sie nimmt, wo alle es sehen** - und das ist die
 Tuer zu Band 4, wo die Naehe nach dem Ring oeffentlich wird.
 
@@ -513,7 +514,7 @@ Bemerkenswert ist das Weinen.**
 
 *which is where he sits* steht **sechsmal** woertlich im Buch: auf dem
 Teppich, seitlich vom Schreibtisch, mit dem Ruecken an den Schubladen
-(`b2 ch09:280`, `b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch89:194`). **Dazu vier weitere Stellen ohne
+(`b2 ch09:280`, `b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch90:24`). **Dazu vier weitere Stellen ohne
 die Formel** - `b2 ch32:282`, `b2 ch42:212`, `b2 ch66:302`, `b2 ch87:478`.
 
 **Also derselbe Boden, dasselbe Zimmer, dieselbe Haltung. Eine Sache anders.**

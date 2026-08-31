@@ -1126,7 +1126,7 @@ fuer dieselbe Sache laufen auseinander. Genau das ist passiert.
 
 **Das Zurueckgenommene vom 28. und 29.08. steht in `doc/40-verworfen.md`.**
 
-## Der Schlaf am Ende von Band 2, zweimal berichtigt am 31.08.
+## Der Schlaf am Ende von Band 2, abschliessend berichtigt am 31.08.
 
 **Der Autor: acht Wochen schlecht schlafen ist nicht plausibel, und acht
 Wochen nichts tun erst recht nicht.** Beides stimmt, und der zweite Einwand
@@ -1146,27 +1146,34 @@ night"*, und Annie ebenso, weil sie die Genaue ist.
 Sunwoo, Sim, Mr Ok. **Er hat gearbeitet.** Die Leere faengt an, als der
 letzte Name abgearbeitet ist, und dauert bis zum Bandende: **zwoelf Tage.**
 
-### 3. Und der 18. Maerz hat die falsche Begruendung wahr aussehen lassen
+### 3. Chois Tod ist ein wirklicher Grund, aber nicht der einzige
 
-**Das ist der eigentliche Fund.** Die Szene lebt davon, dass Georgijs erste
-Antwort die bequeme ist und Annie sie nicht nimmt. Die bequeme Antwort ist
-Chois Tod. **Und der Text hatte den Schlaf auf den Abend datiert, an dem
-Choi im Haus war** - womit die bequeme Antwort zeitlich genau aufging und
-Annies *"Then it is not the reason"* wie eine Behauptung aussah statt wie ein
-Befund.
+**Vom Autor am 31.08. klargestellt.** Georgij hat einen Mann ermordet, ohne die
+Hand zu kennen, die ihn am Ende getoetet hat. Das nagt an ihm und bricht etwas
+in ihm. Annie nimmt ihm diesen Grund nicht weg und spricht ihn nicht frei. Sie
+laesst ihn den Satz ohne die Ausweichbewegung ueber die fremde Hand sagen:
+
+> "That is about the hand," said Annie. "Say what you did."
+>
+> "I killed him."
+
+Der Kalender zeigt nur, dass der Mord **nicht alles** erklaert: Choi ist seit
+dem 8. April tot, und Georgij hat im April noch geschlafen.
 
 **Jetzt faengt der schlechte Schlaf in der ersten Maiwoche an**, in den
 letzten Tagen der Arbeit, *when there were more names crossed off that page
 than left on it, and he could see the bottom of it coming.*
 
-**Und Annie erledigt die bequeme Antwort mit einem Datum statt mit einer
-Ahnung:**
+**Annie oeffnet deshalb mit dem Datum den zweiten Grund:**
 
-> "He has been dead since the eighth of April, and you slept in April."
+> "And you slept in April."
+>
+> "Then that is not all of it. Say May."
 
-**Die Regel dahinter, und sie gilt ueber diese Stelle hinaus:** wenn eine
-Figur eine falsche Begruendung anbietet, darf der Kalender sie nicht
-stuetzen. Sonst arbeitet der Text gegen die Szene, die er selbst gebaut hat.
+Im Mai sieht Georgij in drei fremden Zimmern Menschen, die nichts getan haben,
+und liest danach die eigene Seite neu. Hinter der Frau in Ulsan, dem Haus am
+Fluss, Choi und Byun stehen Menschen, die er nie getroffen und nie gezaehlt hat.
+Der Mord und dieser Kollateralschaden sind gleichzeitig wahr.
 
 ### 4. Und ein Zeuge, weil acht Wochen im Off nicht erzaehlt sind
 
@@ -1181,6 +1188,32 @@ es am 1. Mai und tut das Einzige, was Sim tut - er bewirtet weiter,
 > different one.
 
 **Kein Trost, keine Frage, keine Diagnose.**
+
+### 5. Was ihn beruhigt, ohne den Bruch zu heilen
+
+Das Gespraech macht den Mord nicht kleiner. Es bringt Georgij dazu, ebenfalls
+auszusprechen, dass er es fuer Annie wieder tun wuerde. **Beides bleibt wahr.**
+Das zweite spricht ihn vom ersten nicht frei, und der Mord bleibt die Stelle,
+an der etwas in ihm gebrochen ist. Aber die Frage ist beendet, und seine
+Schultern sinken.
+
+**Die Bruchrechnung ist geschuetzt und vom Autor genau so verlangt:**
+
+> "Half of it was personal," said Georgij. "A woman with four trucks picked me
+> up and pointed me at you."
+>
+> "No. Less than half. A fraction."
+>
+> "What is the rest."
+>
+> "If the world pointed anything at you, I would burn the world down."
+
+**Ausdruecklich keine Vorgabe des Autors und nicht wieder einzubauen:** Annie
+frage, wonach er gesucht habe, und er antworte, nach einem Satz, der es kleiner
+mache. Das war eine fremde Erfindung und gehoert nicht zu dieser Szene.
+
+**Formregel vom Autor:** Beats statt Strichen, wenn kein Szenenwechsel
+stattfindet. B2 90 hat innerhalb des durchgehenden Gespraechs keine Taktstriche.
 
 ## Annies vier Woerter am Ende von Band 2
 

@@ -283,7 +283,7 @@ und der Band soll ihn nicht suchen.
 | Menschenhandel | Los vierzehn |
 | Kinder | Los elf, und er selbst mit neun |
 | Zwangsprostitution | `b1 ch01:30`, *No medical history* |
-| Mord nur nach Genehmigung | `b2 ch89:60` - drei Leute wuetend gemacht, und jemand hat telefoniert |
+| Mord nur nach Genehmigung | `b2 ch89:68` - drei Leute wuetend gemacht, und jemand hat telefoniert |
 
 **Vier von fuenf sind Sachen, die ihm angetan wurden oder die er getan hat.**
 
@@ -692,7 +692,7 @@ die Antwort braucht.
 
 ## Was es kostet, und es ist nicht Reue
 
-**Reue waere falsch.** `b2 ch89:66` gibt den Ton: *He is not sorry about it
+**Reue waere falsch.** `b2 ch89:74` gibt den Ton: *He is not sorry about it
 and he has stopped waiting to become sorry about it.*
 
 **Der Preis ist strukturell, und er ist genau der, den Band 5 ohnehin
