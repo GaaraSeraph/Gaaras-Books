@@ -3232,6 +3232,33 @@ Georgij mit ihm fertig war.
 
 ---
 
+## Singapur in Band 3: die halbe Antwort bekommt eine Richtung
+
+**Festgeschrieben am 31.08., zusammen mit `doc/14-welt.md`, Abschnitt 4.**
+
+**Was gleich bleibt:** Georgij geht wegen Hanseong in die
+Zwischengesellschaften, findet dort Woos zwanzig Prozent, und die Schicht
+faellt mit dem Rest. **Die Grabszene bleibt Wort fuer Wort**, samt *"There is
+nobody who can ask you for it, and there will not be."*
+
+**Was dazukommt, und es ist eine Zeile und keine Szene:** was er beim
+Aufmachen sieht, ist, dass die Schicht darueber **von innen gespeist wird und
+nicht von aussen.** Geld, das dieses Land nie verlassen hat und trotzdem in
+Singapur steht.
+
+**Und mehr bekommt er nicht.** Er hat einen Verdacht, er kann ihn nicht
+belegen, und die Zusage aus `b2 ch32` wird ausdruecklich als halb eingeloest
+benannt und nicht stillschweigend abgehakt.
+
+**Was das mit Gong macht, ohne dass es jemand ausspricht:** der Leser hat in
+Kapitel 1 gehoert, dass zweimal jemand versucht hat, diesen Mann aus seinem
+Amt zu bewegen. **Er erfaehrt in Band 3 nicht, warum. Er erfaehrt es in
+Band 5.**
+
+**Verbot:** Georgij darf in Band 3 nicht auf Politiker stossen, und niemand
+darf das Wort in den Mund nehmen. Sonst ist der Fall von Hanseong nicht mehr
+das Thema des Bandes.
+
 ## Und daraus wird trotzdem kein Gegner, verworfen am 29.08.
 
 **Der Autor hat zwei Fragen gestellt, und die zweite erledigt die erste.**
@@ -3263,8 +3290,12 @@ Autor am 29.08. schon einmal abgelehnt hat.
 ### Also bleibt Singapur, was es zwei Baende lang war
 
 **Eine Wand ohne Streit.** Die Tatsachen oben bleiben stehen, weil sie
-geprueft sind und weil Band 5 sie braucht, wenn der Handel zerlegt wird.
-**Als Gegenfigur ist es gestrichen.**
+geprueft sind und weil Band 5 sie braucht. **Als Gegenfigur ist es
+gestrichen, und das gilt weiter.**
+
+**Was am 31.08. dazugekommen ist, aendert daran nichts:** hinter der Kette
+steht jetzt eine Sache und keine Person, und eine Sache kann man nicht vor
+sich hinstellen und ansprechen. Siehe `doc/14-welt.md`, Abschnitt 4.
 
 ---
 
@@ -4358,8 +4389,10 @@ weiss es** - `b2 ch39:254`: *I have not found the Singapore end yet.*
 * **Band 3** gibt die halbe Antwort und sagt, dass es die halbe ist: Georgij
   geht wegen Hanseong in die Zwischengesellschaften und findet dort Woos
   zwanzig Prozent. **Was dahinter sitzt, findet er weiterhin nicht.**
-* **Band 5** loest sie ein, wenn der Handel zerlegt wird - dort ist die
-  Kette die Wand, und dort muss sie fallen.
+* **Band 5** loest sie ganz ein, und zwar ueber die Haefen und nicht ueber
+  eine Recherche. Was hinter der Kette sitzt, ist eine Tuer in einen Hafen,
+  und wer die Fracht kontrolliert, steht darin. Siehe
+  `doc/34-plan-band-5.md`, *Die Wand aus Band 1 ist die Tuer*.
 
 **Wichtig fuer den Text: er sagt es ihr.** Eine zwei Jahre alte Zusage, die
 halb eingeloest wird, wird benannt und nicht stillschweigend abgehakt.

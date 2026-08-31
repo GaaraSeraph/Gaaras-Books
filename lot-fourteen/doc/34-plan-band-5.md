@@ -535,6 +535,45 @@ haette.
 
 ---
 
+# Singapur: die Wand aus Band 1 ist die Tuer in diesen Band. 31.08.
+
+**Die Tatsachenlage steht in `doc/14-welt.md`, Abschnitt 4**, die halbe
+Aufloesung in `doc/32-plan-band-3.md`. **Hier faellt sie ganz.**
+
+**Warum sie ausgerechnet hier faellt, und es ist kein Zufall:** Band 5 sind
+die Haefen. Und was seit dem Zusagejahr hinter der Kanzleikette sitzt, ist
+kein Vermoegen, sondern **eine Tuer in einen Hafen** - zwanzig Prozent eines
+Terminals, gehalten fuer Liegeplatz, Reihenfolge und die Frage, welche Boxen
+angesehen werden.
+
+**Wer die Fracht kontrolliert, kontrolliert genau das, wofuer diese zwanzig
+Prozent je gehalten wurden.** Georgij bekommt die Antwort auf eine zwei Baende
+alte Frage also nicht, indem er sucht, sondern indem er in die Stellung
+einrueckt, aus der sie sichtbar ist.
+
+**Und daraus faellt die Falle des Bandes von selbst.** Die Schleuse braucht
+denselben Hafen wie er. **Zum ersten Mal in fuenf Baenden sitzt er auf
+derselben Seite des Tisches wie das, was er aufmachen will** - und er kann
+sie nicht zerlegen, ohne sich selbst die Tuer zuzumachen, durch die er gerade
+gegangen ist.
+
+**Das ist der Preis, den `doc/34` an anderer Stelle schon verlangt** (*Was es
+kostet, und ohne das ist es eine Machtphantasie*), und er ist hier kein Motiv,
+sondern eine Rechnung.
+
+## Die Warnung dazu, und sie ist ernst
+
+**Das Buch ist zwei Baende lang unpolitisch gewesen, und das war kein
+Versehen.** Wenn Amtstraeger vorkommen, dann so wie Minister Min-ho in
+`b1 ch09`: **als Amt und als Person, ohne Partei, ohne Regierung, ohne
+Jahreszahl, die auf etwas Wirkliches zeigt.**
+
+**Wer eine Partei nennt, wechselt das Genre**, und der Roman handelt danach
+von Korea und nicht mehr von zwei Leuten in einem Haus.
+
+**Die Probe:** kaeme derselbe Satz in einem Land vor, das es nicht gibt,
+wuerde er noch funktionieren? Dann bleibt er.
+
 # Band 5: das erste Blut an seiner Hand
 
 **Vom Autor am 29.08. vorgegeben.** Die Unverbesserlichen des Handels, der

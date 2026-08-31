@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 308.216 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.293 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -131,6 +131,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [1. Das Terminal](#1-das-terminal)
   - [2. Die Finanzierung](#2-die-finanzierung)
   - [3. Der Mann, der es eingefaedelt hat](#3-der-mann-der-es-eingefaedelt-hat)
+  - [4. Was hinter der Kette sitzt. Entschieden am 31.08.](#4-was-hinter-der-kette-sitzt-entschieden-am-31-08)
+  - [Woo weiss es nicht. Er ahnt. Festgeschrieben am 31.08.](#woo-weiss-es-nicht-er-ahnt-festgeschrieben-am-31-08)
   - [Der Widerspruch 2011 gegen 2025, aufgeloest am 29.08.](#der-widerspruch-2011-gegen-2025-aufgeloest-am-29-08)
   - [4. Die juristische Lage, und alles haengt an einer einzigen Frage](#4-die-juristische-lage-und-alles-haengt-an-einer-einzigen-frage)
   - [5. Warum Woo glaubt, er koenne es zurueckzahlen](#5-warum-woo-glaubt-er-koenne-es-zurueckzahlen)
@@ -646,7 +648,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**125 Kapitel, 336.924 Woerter.**
+**125 Kapitel, 337.013 Woerter.**
 
 ---
 
@@ -7275,6 +7277,67 @@ nicht.
 | *And he said yes, **and then he lent me the money**.* | `b1 ch13:194` |
 | Woo reagierte nicht auf das Wort Hongkong | `b1 ch13:210` |
 | **Ein kleiner Mann mit schlechten Zaehnen, tot seit 2011** | `b1 ch31:364` |
+
+### 4. Was hinter der Kette sitzt. Entschieden am 31.08.
+
+**Vom Autor: die Verbindung aus zwei Vorschlaegen.** Hinter der Kette sitzt
+kein wirtschaftlich Berechtigter und kein geparktes Altvermoegen. **Es ist
+eine Schleuse, und sie laeuft heute noch.**
+
+**Was sie ist.** Ein Kanal fuer Geld, das in diesem Land auf keinem Konto
+stehen kann: was Aemter kostet und was Aemter einbringen. Staatsanwaelte,
+Abgeordnete, Ministerialbeamte, und die, die fuer sie zahlen. Es kommt
+herein, und es geht in Sachen, die langweilig, dauerhaft und unaufregend
+sind.
+
+**Warum ein Hafenterminal.** Weil es das Langweiligste ist, was man in diesem
+Land besitzen kann - und weil zwanzig Prozent nicht nur eine Position sind,
+sondern **eine Tuer**: Liegeplatz, Reihenfolge, welche Boxen angesehen werden
+und welche nicht. **Die Rendite war nie der Punkt.**
+
+**Damit ist die Dienstagsfrage die klaerste Frage im ganzen Buch.** *What
+would happen to the terminal if I died on the Tuesday.* Eine Tuer ist nur
+etwas wert, wenn sie den Eigentuemer ueberlebt. Der Mann hat neun Sekunden
+gebraucht, weil Woos Antwort genau die richtige war: binnen eines Jahres
+verkauft, dreigeteilt, wahrscheinlich einer davon Sang-hoon. **Die Tuer
+bleibt offen, gleich wer stirbt.**
+
+**Choi war die gesellschaftliche Schicht und kein Investor.** `b2 ch25:152`
+sagt, er habe nie im Leben investiert, und das ist ab jetzt kein Raetsel,
+sondern die Stellenbeschreibung. Fuenfundzwanzig Jahre lang hat er
+entschieden, wer mit wem zu Abend isst. **Genau diese Arbeit braucht eine
+Schleuse, und niemand sonst kann sie machen.** Er wurde 2002 dort
+hingesetzt, und das war der Rest des Preises.
+
+**Und Gong sitzt auf der anderen Seite derselben Sache.** Sein Amt ist das
+einzige im Land, das die Kette oeffnen koennte. Der Grund, warum es nie
+geschehen ist: die Namen leben, und einige davon sind seine eigenen Leute.
+`b3 ch01`, Annie: zweimal in vier Jahren hat jemand, der ihn haette bewegen
+koennen, versucht ihn zu bewegen, und er sitzt immer noch da.
+
+**Der Mann mit den schlechten Zaehnen bleibt anstaendig, und das ist die
+Klammer.** Keine Karte, neun Sekunden, die einzige richtige Frage, und dann
+das Geld. **Er war der beste Mensch in Woos Leben und der Bote der
+schmutzigsten Sache im Land**, und beides ist wahr.
+
+### Woo weiss es nicht. Er ahnt. Festgeschrieben am 31.08.
+
+**Vom Autor, und der Grund ist zwingend:** alles, was Woo ueber den Mann von
+2011 weiss, spricht dagegen, dass er das Geld kennt.
+
+* Er hat **nie einen Namen gehabt und nie einen verlangt** - `b1 ch19:166`.
+* Er hat bei *Hongkong* nicht gezuckt, weil er im Zusagejahr die **Sorte**
+  Geld erkannt hat und nicht die Leute: *a man does not ask when the money is
+  already in the concrete.*
+* **Und er hat es nie aufgeloest, weil es nicht aufgeht.** `b1 ch31:368`:
+  *"I have never known what to do with the fact that the best thing anybody
+  ever did for me took him nine seconds."* Der Bote war anstaendig, das Geld
+  ist es nicht, und Woo hat die beiden nie zusammenbekommen. **Deshalb hat er
+  aufgehoert hinzusehen.**
+
+**Was damit verboten ist:** jede Szene, in der Woo mehr weiss als das. Er
+darf ahnen, er darf einmal sagen, dass er nicht gefragt hat, und er hat
+**nie** einen Namen.
 
 ### Der Widerspruch 2011 gegen 2025, aufgeloest am 29.08.
 
@@ -20220,6 +20283,33 @@ Georgij mit ihm fertig war.
 
 ---
 
+## Singapur in Band 3: die halbe Antwort bekommt eine Richtung
+
+**Festgeschrieben am 31.08., zusammen mit `doc/14-welt.md`, Abschnitt 4.**
+
+**Was gleich bleibt:** Georgij geht wegen Hanseong in die
+Zwischengesellschaften, findet dort Woos zwanzig Prozent, und die Schicht
+faellt mit dem Rest. **Die Grabszene bleibt Wort fuer Wort**, samt *"There is
+nobody who can ask you for it, and there will not be."*
+
+**Was dazukommt, und es ist eine Zeile und keine Szene:** was er beim
+Aufmachen sieht, ist, dass die Schicht darueber **von innen gespeist wird und
+nicht von aussen.** Geld, das dieses Land nie verlassen hat und trotzdem in
+Singapur steht.
+
+**Und mehr bekommt er nicht.** Er hat einen Verdacht, er kann ihn nicht
+belegen, und die Zusage aus `b2 ch32` wird ausdruecklich als halb eingeloest
+benannt und nicht stillschweigend abgehakt.
+
+**Was das mit Gong macht, ohne dass es jemand ausspricht:** der Leser hat in
+Kapitel 1 gehoert, dass zweimal jemand versucht hat, diesen Mann aus seinem
+Amt zu bewegen. **Er erfaehrt in Band 3 nicht, warum. Er erfaehrt es in
+Band 5.**
+
+**Verbot:** Georgij darf in Band 3 nicht auf Politiker stossen, und niemand
+darf das Wort in den Mund nehmen. Sonst ist der Fall von Hanseong nicht mehr
+das Thema des Bandes.
+
 ## Und daraus wird trotzdem kein Gegner, verworfen am 29.08.
 
 **Der Autor hat zwei Fragen gestellt, und die zweite erledigt die erste.**
@@ -20251,8 +20341,12 @@ Autor am 29.08. schon einmal abgelehnt hat.
 ### Also bleibt Singapur, was es zwei Baende lang war
 
 **Eine Wand ohne Streit.** Die Tatsachen oben bleiben stehen, weil sie
-geprueft sind und weil Band 5 sie braucht, wenn der Handel zerlegt wird.
-**Als Gegenfigur ist es gestrichen.**
+geprueft sind und weil Band 5 sie braucht. **Als Gegenfigur ist es
+gestrichen, und das gilt weiter.**
+
+**Was am 31.08. dazugekommen ist, aendert daran nichts:** hinter der Kette
+steht jetzt eine Sache und keine Person, und eine Sache kann man nicht vor
+sich hinstellen und ansprechen. Siehe `doc/14-welt.md`, Abschnitt 4.
 
 ---
 
@@ -21346,8 +21440,10 @@ weiss es** - `b2 ch39:254`: *I have not found the Singapore end yet.*
 * **Band 3** gibt die halbe Antwort und sagt, dass es die halbe ist: Georgij
   geht wegen Hanseong in die Zwischengesellschaften und findet dort Woos
   zwanzig Prozent. **Was dahinter sitzt, findet er weiterhin nicht.**
-* **Band 5** loest sie ein, wenn der Handel zerlegt wird - dort ist die
-  Kette die Wand, und dort muss sie fallen.
+* **Band 5** loest sie ganz ein, und zwar ueber die Haefen und nicht ueber
+  eine Recherche. Was hinter der Kette sitzt, ist eine Tuer in einen Hafen,
+  und wer die Fracht kontrolliert, steht darin. Siehe
+  `doc/34-plan-band-5.md`, *Die Wand aus Band 1 ist die Tuer*.
 
 **Wichtig fuer den Text: er sagt es ihr.** Eine zwei Jahre alte Zusage, die
 halb eingeloest wird, wird benannt und nicht stillschweigend abgehakt.
@@ -23017,6 +23113,45 @@ haette.
 **Einmal, kurz, und danach nie wieder erwaehnt.**
 
 ---
+
+# Singapur: die Wand aus Band 1 ist die Tuer in diesen Band. 31.08.
+
+**Die Tatsachenlage steht in `doc/14-welt.md`, Abschnitt 4**, die halbe
+Aufloesung in `doc/32-plan-band-3.md`. **Hier faellt sie ganz.**
+
+**Warum sie ausgerechnet hier faellt, und es ist kein Zufall:** Band 5 sind
+die Haefen. Und was seit dem Zusagejahr hinter der Kanzleikette sitzt, ist
+kein Vermoegen, sondern **eine Tuer in einen Hafen** - zwanzig Prozent eines
+Terminals, gehalten fuer Liegeplatz, Reihenfolge und die Frage, welche Boxen
+angesehen werden.
+
+**Wer die Fracht kontrolliert, kontrolliert genau das, wofuer diese zwanzig
+Prozent je gehalten wurden.** Georgij bekommt die Antwort auf eine zwei Baende
+alte Frage also nicht, indem er sucht, sondern indem er in die Stellung
+einrueckt, aus der sie sichtbar ist.
+
+**Und daraus faellt die Falle des Bandes von selbst.** Die Schleuse braucht
+denselben Hafen wie er. **Zum ersten Mal in fuenf Baenden sitzt er auf
+derselben Seite des Tisches wie das, was er aufmachen will** - und er kann
+sie nicht zerlegen, ohne sich selbst die Tuer zuzumachen, durch die er gerade
+gegangen ist.
+
+**Das ist der Preis, den `doc/34` an anderer Stelle schon verlangt** (*Was es
+kostet, und ohne das ist es eine Machtphantasie*), und er ist hier kein Motiv,
+sondern eine Rechnung.
+
+## Die Warnung dazu, und sie ist ernst
+
+**Das Buch ist zwei Baende lang unpolitisch gewesen, und das war kein
+Versehen.** Wenn Amtstraeger vorkommen, dann so wie Minister Min-ho in
+`b1 ch09`: **als Amt und als Person, ohne Partei, ohne Regierung, ohne
+Jahreszahl, die auf etwas Wirkliches zeigt.**
+
+**Wer eine Partei nennt, wechselt das Genre**, und der Roman handelt danach
+von Korea und nicht mehr von zwei Leuten in einem Haus.
+
+**Die Probe:** kaeme derselbe Satz in einem Land vor, das es nicht gibt,
+wuerde er noch funktionieren? Dann bleibt er.
 
 # Band 5: das erste Blut an seiner Hand
 
@@ -25997,12 +26132,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:498 | "There is one line in what you gave me about that room and you put nothing round it." An.. |
 | 531 | b2ch87:518 | "That is the second time you have done that this year," said Annie. "I have counted both." |
 | 590 | b2ch89:88 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
-| 590 | b2ch89:194 | He noticed at about the fourth week that it had gone past a month, and he did not do any.. |
-| 590 | b2ch89:212 | "You have not had a whole night since the eighteenth," said Annie. |
-| 590 | b2ch89:238 | Annie's hand did not move. |
-| 590 | b2ch89:256 | "Then say the rest of it," said Annie. |
-| 590 | b2ch89:286 | Annie did not say anything. |
-| 590 | b2ch89:362 | Annie put her hand back into his hair. |
+| 590 | b2ch89:200 | Annie noticed in the second week and said nothing until there was nothing left for him t.. |
+| 590 | b2ch89:218 | "You have not had a whole night since the eighteenth," said Annie. |
+| 590 | b2ch89:244 | Annie's hand did not move. |
+| 590 | b2ch89:262 | "Then say the rest of it," said Annie. |
+| 590 | b2ch89:292 | Annie did not say anything. |
+| 590 | b2ch89:368 | Annie put her hand back into his hair. |
 | 592 | b3ch01:172 | "Say the name again," said Annie. |
 | 592 | b3ch01:180 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
 | 592 | b3ch01:194 | Annie waited. |
@@ -27268,7 +27403,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch78:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 | 464 | b2ch78:264 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:330 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
+| 590 | b2ch89:336 | That was Hana's hand, over the fingers, in the European way, in front of four or five pe.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -27338,7 +27473,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch78:264` (Tag 464) - thirty
 - `b2ch87:428` (Tag 531) - five, one, three
-- `b2ch89:330` (Tag 590) - eight hundred, five, four
+- `b2ch89:336` (Tag 590) - eight hundred, five, four
 
 ---
 
@@ -28528,7 +28663,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
 | 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
-| 590 | b2ch89:380 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
+| 590 | b2ch89:386 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
 | 592 | b3ch01:56 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
 | 592 | b3ch01:80 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
 | 592 | b3ch01:142 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
@@ -28574,7 +28709,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:442` (Tag 531) - one
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
-- `b2ch89:380` (Tag 590) - four, thirty, thirty-one, two
+- `b2ch89:386` (Tag 590) - four, thirty, thirty-one, two
 - `b3ch01:56` (Tag 592) - forty
 - `b3ch01:142` (Tag 592) - four, one
 - `b3ch01:192` (Tag 592) - three

@@ -480,6 +480,67 @@ nicht.
 | Woo reagierte nicht auf das Wort Hongkong | `b1 ch13:210` |
 | **Ein kleiner Mann mit schlechten Zaehnen, tot seit 2011** | `b1 ch31:364` |
 
+### 4. Was hinter der Kette sitzt. Entschieden am 31.08.
+
+**Vom Autor: die Verbindung aus zwei Vorschlaegen.** Hinter der Kette sitzt
+kein wirtschaftlich Berechtigter und kein geparktes Altvermoegen. **Es ist
+eine Schleuse, und sie laeuft heute noch.**
+
+**Was sie ist.** Ein Kanal fuer Geld, das in diesem Land auf keinem Konto
+stehen kann: was Aemter kostet und was Aemter einbringen. Staatsanwaelte,
+Abgeordnete, Ministerialbeamte, und die, die fuer sie zahlen. Es kommt
+herein, und es geht in Sachen, die langweilig, dauerhaft und unaufregend
+sind.
+
+**Warum ein Hafenterminal.** Weil es das Langweiligste ist, was man in diesem
+Land besitzen kann - und weil zwanzig Prozent nicht nur eine Position sind,
+sondern **eine Tuer**: Liegeplatz, Reihenfolge, welche Boxen angesehen werden
+und welche nicht. **Die Rendite war nie der Punkt.**
+
+**Damit ist die Dienstagsfrage die klaerste Frage im ganzen Buch.** *What
+would happen to the terminal if I died on the Tuesday.* Eine Tuer ist nur
+etwas wert, wenn sie den Eigentuemer ueberlebt. Der Mann hat neun Sekunden
+gebraucht, weil Woos Antwort genau die richtige war: binnen eines Jahres
+verkauft, dreigeteilt, wahrscheinlich einer davon Sang-hoon. **Die Tuer
+bleibt offen, gleich wer stirbt.**
+
+**Choi war die gesellschaftliche Schicht und kein Investor.** `b2 ch25:152`
+sagt, er habe nie im Leben investiert, und das ist ab jetzt kein Raetsel,
+sondern die Stellenbeschreibung. Fuenfundzwanzig Jahre lang hat er
+entschieden, wer mit wem zu Abend isst. **Genau diese Arbeit braucht eine
+Schleuse, und niemand sonst kann sie machen.** Er wurde 2002 dort
+hingesetzt, und das war der Rest des Preises.
+
+**Und Gong sitzt auf der anderen Seite derselben Sache.** Sein Amt ist das
+einzige im Land, das die Kette oeffnen koennte. Der Grund, warum es nie
+geschehen ist: die Namen leben, und einige davon sind seine eigenen Leute.
+`b3 ch01`, Annie: zweimal in vier Jahren hat jemand, der ihn haette bewegen
+koennen, versucht ihn zu bewegen, und er sitzt immer noch da.
+
+**Der Mann mit den schlechten Zaehnen bleibt anstaendig, und das ist die
+Klammer.** Keine Karte, neun Sekunden, die einzige richtige Frage, und dann
+das Geld. **Er war der beste Mensch in Woos Leben und der Bote der
+schmutzigsten Sache im Land**, und beides ist wahr.
+
+### Woo weiss es nicht. Er ahnt. Festgeschrieben am 31.08.
+
+**Vom Autor, und der Grund ist zwingend:** alles, was Woo ueber den Mann von
+2011 weiss, spricht dagegen, dass er das Geld kennt.
+
+* Er hat **nie einen Namen gehabt und nie einen verlangt** - `b1 ch19:166`.
+* Er hat bei *Hongkong* nicht gezuckt, weil er im Zusagejahr die **Sorte**
+  Geld erkannt hat und nicht die Leute: *a man does not ask when the money is
+  already in the concrete.*
+* **Und er hat es nie aufgeloest, weil es nicht aufgeht.** `b1 ch31:368`:
+  *"I have never known what to do with the fact that the best thing anybody
+  ever did for me took him nine seconds."* Der Bote war anstaendig, das Geld
+  ist es nicht, und Woo hat die beiden nie zusammenbekommen. **Deshalb hat er
+  aufgehoert hinzusehen.**
+
+**Was damit verboten ist:** jede Szene, in der Woo mehr weiss als das. Er
+darf ahnen, er darf einmal sagen, dass er nicht gefragt hat, und er hat
+**nie** einen Namen.
+
 ### Der Widerspruch 2011 gegen 2025, aufgeloest am 29.08.
 
 **Er war keiner. Ich hatte eine Annahme drin, die nirgends steht: dass Geld
