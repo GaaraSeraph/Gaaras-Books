@@ -1196,8 +1196,7 @@ sie nicht aufgeschrieben habe. Jetzt:
 > She said them quietly and she said them once, **and he was already
 > asleep.**
 >
-> They are not in this book. **He did not hear them, and nobody has ever
-> told him.**
+> **Nobody has ever told him what they were.**
 
 **Hier stehen sie, damit der Autor sie kennt und damit niemand sie spaeter
 anders erfindet.**
@@ -1239,7 +1238,8 @@ Ausnahme, und sie hat sie sich so eingerichtet, dass sie keine ist.**
 
 **4. Und daraus faellt ein Faden, den die restlichen Baende tragen koennen:
 sie hat es einmal gesagt, und er weiss es nicht.** Der Text sagt es
-ausdruecklich - *nobody has ever told him*. **Wer es spaeter einloest, loest
+ausdruecklich: *Nobody has ever told him what they were.* **Wer es spaeter
+einloest, loest
 es an ihr ein und nicht an ihm.**
 
 **5. Und sie hat lange gebraucht.** Zwei Baende, fuenfhundertneunzig

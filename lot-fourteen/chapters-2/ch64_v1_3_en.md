@@ -1,5 +1,5 @@
 # Chapter 64: The second of November
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Ninety-Four · Sunday 1 November
 
@@ -163,7 +163,7 @@ Once, about the middle of the journey, she said that the medical gas was deliver
 
 Once, near the end, she said that she had signed nothing since February four years ago and asked whether she was going to have to.
 
-That is the first question she has asked anybody in this book.
+That is the first question she has asked anybody in eleven years.
 
 "Yes," said Mrs Jeon. "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." She did not turn round. "And if you do not want to sign it then you do not sign it, and nothing about today comes undone."
 

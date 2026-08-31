@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.900 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 309.884 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -652,7 +652,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**125 Kapitel, 337.301 Woerter.**
+**125 Kapitel, 337.466 Woerter.**
 
 ---
 
@@ -25163,8 +25163,7 @@ sie nicht aufgeschrieben habe. Jetzt:
 > She said them quietly and she said them once, **and he was already
 > asleep.**
 >
-> They are not in this book. **He did not hear them, and nobody has ever
-> told him.**
+> **Nobody has ever told him what they were.**
 
 **Hier stehen sie, damit der Autor sie kennt und damit niemand sie spaeter
 anders erfindet.**
@@ -25206,7 +25205,8 @@ Ausnahme, und sie hat sie sich so eingerichtet, dass sie keine ist.**
 
 **4. Und daraus faellt ein Faden, den die restlichen Baende tragen koennen:
 sie hat es einmal gesagt, und er weiss es nicht.** Der Text sagt es
-ausdruecklich - *nobody has ever told him*. **Wer es spaeter einloest, loest
+ausdruecklich: *Nobody has ever told him what they were.* **Wer es spaeter
+einloest, loest
 es an ihr ein und nicht an ihm.**
 
 **5. Und sie hat lange gebraucht.** Zwei Baende, fuenfhundertneunzig
@@ -25296,7 +25296,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 878 | 94 (b1ch01-b3ch02) | 1 | 600 |
+| Annie | 877 | 94 (b1ch01-b3ch02) | 1 | 600 |
 | Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch89) | 22 | 590 |
@@ -25350,7 +25350,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-878 Nennungen in 94 Kapiteln.
+877 Nennungen in 94 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -26219,9 +26219,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch89:218 | "You have not had a whole night since the first week of May," said Annie. |
 | 590 | b2ch89:230 | Annie waited. |
 | 590 | b2ch89:248 | Annie let him have the whole of it. |
-| 590 | b2ch89:270 | "Then say the rest of it," said Annie. |
-| 590 | b2ch89:288 | Annie waited. |
-| 590 | b2ch89:298 | Annie did not move at all. |
+| 590 | b2ch89:272 | "Then say the rest of it," said Annie. |
+| 590 | b2ch89:292 | Annie did not move at all. |
 | 590 | b2ch89:318 | Annie did not say anything. |
 | 592 | b3ch01:172 | "Say the name again," said Annie. |
 | 592 | b3ch01:180 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
@@ -28794,7 +28793,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:442` (Tag 531) - one
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
-- `b2ch89:424` (Tag 590) - four, thirty, thirty-one, two
+- `b2ch89:424` (Tag 590) - five, thirty, thirty-one, two
 - `b3ch01:56` (Tag 592) - forty
 - `b3ch01:142` (Tag 592) - four, one
 - `b3ch01:192` (Tag 592) - three

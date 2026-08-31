@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 232.396 Woerter.
+Book Two, 89 Kapitel, 232.452 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -59,7 +59,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 46 | v1.4 | 2.033 |
 | 47 | v2.7 | 2.914 |
 | 48 | v1.5 | 2.112 |
-| 49 | v2.2 | 3.224 |
+| 49 | v2.3 | 3.224 |
 | 50 | v1.5 | 2.498 |
 | 51 | v1.6 | 2.778 |
 | 52 | v1.3 | 2.042 |
@@ -74,7 +74,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
 | 63 | v1.15 | 3.575 |
-| 64 | v1.2 | 2.121 |
+| 64 | v1.3 | 2.121 |
 | 65 | v1.7 | 1.977 |
 | 66 | v1.3 | 2.411 |
 | 67 | v2.6 | 2.074 |
@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 86 | v3.23 | 3.901 |
 | 87 | v3.22 | 4.129 |
 | 88 | v3.7 | 3.368 |
-| 89 | v3.16 | 3.390 |
+| 89 | v3.18 | 3.446 |
 
 ---
 
@@ -10675,7 +10675,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 49: Against her return
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -10833,7 +10833,7 @@ His bowl had been empty since a quarter to nine, and the girl had taken it and b
 
 Georgij noticed at about twenty past nine that his own bowl was exactly where the girl had put it, and once he had noticed it he could not stop noticing it. A man had been told at that table that eleven years of his life might have been a method, and had eaten his soup. The man who had told him had not touched anything.
 
-There is one other man in this story who does not eat in front of the person he is working on.
+There is one other man in this business who does not eat in front of the person he is working on.
 
 He wrote it on the back of the envelope afterward, in the car, and he did not write the sentence after it, and he knew while he was not writing it that he was not going to.
 
@@ -14160,7 +14160,7 @@ Georgij wrote it in the book on the Thursday evening and sat with it for a while
 ---
 
 # Book Two · Chapter 64: The second of November
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Ninety-Four · Sunday 1 November
 
@@ -14300,7 +14300,7 @@ Once, about the middle of the journey, she said that the medical gas was deliver
 
 Once, near the end, she said that she had signed nothing since February four years ago and asked whether she was going to have to.
 
-That is the first question she has asked anybody in this book.
+That is the first question she has asked anybody in eleven years.
 
 "Yes," said Mrs Jeon. "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." She did not turn round. "And if you do not want to sign it then you do not sign it, and nothing about today comes undone."
 
@@ -20475,7 +20475,7 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: The weapon
-*Lot Fourteen* · Version 3.16 · EN
+*Lot Fourteen* · Version 3.18 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20499,7 +20499,7 @@ Park Sang-hoon has heard nothing in the trade, and he has asked in three places 
 
 Chairman Woo telephoned once, in April, and asked one question and rang off, and the question was whether it was finished.
 
-Nobody in this book knows whose hand it was, and nobody has looked.
+Nobody has found out whose hand it was, and nobody has looked.
 
 * * *
 
@@ -20509,7 +20509,7 @@ A man in Mullae had dinner with a man he has known for thirty years, and then wi
 
 A firm in Ulsan that moves grain wrote to a shipping insurer about a contract that went in 2021 and did not say why it was writing.
 
-Two men in the ministry who are not in this book and do not need to be had a conversation about a case that was closed in 2002. It did not go anywhere. Both of them remember it.
+Two men in the ministry whose names do not matter had a conversation about a case that was closed in 2002. It did not go anywhere. Both of them remember it.
 
 And on the eleventh of April a man of about fifty-five sat down in a private room in Cheongdam with four people. Three of them had been at that table before, and one of them said so out loud in the first ten minutes.
 
@@ -20523,7 +20523,7 @@ Some of them worked out that they had been worked on. Some of them worked out th
 
 Mr Byun has not been seen in that trade since May of last year.
 
-The flat on the eighth floor in Seongdong with the view of the river went in July and nobody in this book knows who has it now.
+The flat on the eighth floor in Seongdong with the view of the river went in July and nobody in that house knows who has it now.
 
 He made three people at that auction house very angry, a man and two women, and the woman who bought twice made a telephone call.
 
@@ -20663,21 +20663,21 @@ Annie waited.
 
 It took him longer than anything else he said that evening.
 
-"There were four names on a page at the end of April and I got into three of the rooms," he said. "Not one of the four had done anything except stand in a room that a man had a use for."
+"There were four names on a page at the end of April and I got into three of the rooms," he said. "Not one of the four had done anything except stand in a room that a man had a use for. None of it was mine and I did not do a single thing to any of them."
 
 Annie let him have the whole of it.
 
 "I went to give them an account and I gave it, and every word of it was true, and I got into the car afterwards each time and read a page of my own."
 
-"There is a woman in Ulsan with four trucks. There is a house that stood on that river for thirty years. There is a man who spent twenty-five years deciding which men in this country ate together, and there is a man nobody in that trade has seen since May of last year." He said it at the speed he says a schedule. "In August I wrote down that I could not tell whether the difference between him and me was one of kind."
+"There is a woman in Ulsan with four trucks. There is a house that stood on that river for thirty years. There is a man who spent twenty-five years deciding which men in this country ate together, and there is a man nobody in that trade has seen since May of last year." He said it at the speed he says a schedule. "And behind every one of those there are people I never met and did not count."
 
-"You did."
+"Yes."
 
-"I have not answered it since, and until the first week of May I did not have to, because there was always something on top of it."
+"In August I wrote down that I could not tell whether the difference between him and me was one of kind." He did not look away. "I still cannot, and until the first week of May I did not have to, because there was always something on top of it."
 
 * * *
 
-"And I have not had a whole night in a fortnight," said Georgij, "and it is that."
+"And I have not had a whole night in a fortnight and it is that." He was looking at the leg of the desk. "I am twenty-seven and it has taken me fourteen months."
 
 * * *
 
@@ -20695,27 +20695,27 @@ He stood in front of the desk and did not put his hands anywhere.
 
 "Yes."
 
-"I was calm because I thought that was the reason. That it was me she picked up, and that a thing is personal when it is about you."
-
-Annie waited.
-
-"It is not."
-
 * * *
 
 "I would do it again," said Georgij.
 
 Annie did not move at all.
 
-"Next week, and the week after that, and every time it was put in front of me. I would not be quicker about it and I would not be kinder, and I would sleep exactly as badly afterwards, and I would still do it." He did not decorate any of it. "He pointed a weapon at you. There has never been a second half to it, and I have been looking for one since the first week of May."
-
-"Say what you were looking for."
-
-"A sentence that makes it smaller." He did not look away. "There is not one. It is the size it is, and I am twenty-seven and it has taken me fourteen months to be able to say so."
+"Next week, and the week after that, and every time it was put in front of me. I would not be quicker about it and I would not be kinder, and I would sleep exactly as badly afterwards, and I would still do it."
 
 * * *
 
-"Then say it as a rule."
+"Somebody pointed a weapon at you," he said. "That the weapon was me is one half of why it was personal."
+
+He stopped, because he had heard it go and it was not accurate.
+
+* * *
+
+"That is not half. It is a great deal less than half."
+
+"Then give me the rest of it."
+
+* * *
 
 "If the world points anything at you at all, I will burn the world down."
 
@@ -20793,7 +20793,7 @@ She said four words.
 
 She said them quietly and she said them once, and he was already asleep.
 
-They are not in this book. He did not hear them, and nobody has ever told him.
+Nobody has ever told him what they were.
 
 * * *
 
@@ -20805,7 +20805,7 @@ Downstairs somebody moved a chair.
 
 At the back of the house a machine ran for four minutes and stopped.
 
-A woman in her sixties who put flowers and linen into halls for thirty years has taken thirty-one bookings since the middle of March. She is in four halls she was never in before Choi, and two of them are the ones that stopped answering her in 2019.
+A woman in her sixties who put flowers and linen into halls for thirty years has taken thirty-one bookings since the middle of March. She is in five halls she was never in before Choi, and two of them are the ones that stopped answering her in 2019.
 
 Four separate people have told her that somebody recommended her, and not one of them can remember who.
 
@@ -20813,6 +20813,12 @@ In April she needed porcelain and did not know where to start. Somebody put her 
 
 They have spoken on the telephone eleven times since. The older one has been asked her opinion about a thing she knows more about than anybody alive, by somebody who needed the answer and was not being kind.
 
+Two of the five halls have written to her since about what to put on the tables, and neither of them had heard of her in February.
+
+A dealer in Insa-dong who has never met her wrote to her in May about a service of thirty-six pieces and called her madam four times in one letter.
+
 Neither of them has worked out that they were put there.
+
+Six other people have been put next to somebody since March, in other rooms, and none of them has worked it out either.
 
 In a workshop on a hill in Seodaemun there is a corner where a fan stood from the fifteenth of September until the second week of April. A man who mends small motors has not put anything in that corner since. He has not said why and nobody has asked him.

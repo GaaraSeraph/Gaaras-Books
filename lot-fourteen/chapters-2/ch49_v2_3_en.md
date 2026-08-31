@@ -1,17 +1,25 @@
-Book Two · Chapter 49: Against her return
-Lot Fourteen · Version 2.2 · EN
+# Chapter 49: Against her return
+*Lot Fourteen* · Version 2.3 · EN
 
-Day Three Hundred and Two · Saturday 1 August
+## Day Three Hundred and Two · Saturday 1 August
 
 He was already there.
 
+---
+
 He had been there since half past seven, according to the girl who took Georgij through. He had asked her about the walk from the station and had said the wrong tram number on purpose, so that she could correct him.
 
+---
+
 The small room at the back has one table, six chairs of which four had been taken out, a window onto a wall, and a screen that folds across the doorway and had been left open.
+
+---
 
 He stood up.
 
 "Thank you for coming," he said. "I did not know whether you would."
+
+---
 
 He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had suggested when she described him. He has a face that does what he tells it to and has been doing it for so long that Georgij could not have said, in the first ten seconds, whether anything on it was chosen.
 
@@ -21,13 +29,19 @@ He is not quite as old as the cook had said and not as tall as Mrs Bae's hands h
 
 "You are welcome, and I would like to say the next part before the food comes, because it is easier standing up and I am about to sit down." He put one hand on the back of his own chair. "I have not told him. Not on the sixteenth, when I found out, and not since. I am telling you that first because it is the only thing I have that you would want, and because if I keep it until later it becomes a card I am playing."
 
+---
+
 Georgij stood very still.
 
 "Then I will say mine," he said. "I have not told him either, and I am not going to, and not as a favour to you. There is nothing in this year that I want less than that man knowing where I have been."
 
 "Yes," said Sim. "I thought that was probably the shape of it."
 
+---
+
 They sat down.
+
+---
 
 The soup came and it was as good as he had said, and neither of them touched it for eleven minutes. Then Sim ate his, and went on talking while he did it, which is a thing he has done in a great many rooms.
 
@@ -38,6 +52,8 @@ The soup came and it was as good as he had said, and neither of them touched it 
 "Six now." Something went across his face that was almost amusement and did not stay. "I counted the five. I would like to know how you chose them, because I have been trying to work it out for a fortnight and I have not managed it, and I do not enjoy that."
 
 "By how long the same cook had been in the building."
+
+---
 
 Sim sat back.
 
@@ -59,25 +75,43 @@ Sim sat back.
 
 "Because everything I would ask you, you would have to decide whether to answer, and then we are two men negotiating over a table. I have done a great deal of that this year and it has never once got me the true version of anything." Georgij had both hands where the other man could see them. "I have brought one thing with me. I am going to put it down and I am going to say nothing at all, and you may read it or not read it."
 
+---
+
 Sim looked at him for a moment.
 
 "That is a considerable risk," he said.
 
 "It is the only one I have got that is not a trick."
 
+---
+
 He took the envelope out of his inside pocket, and it was the only thing in that pocket, and he put it on the table between the two bowls and took his hand off it.
+
+---
 
 Sim read it the way a man reads who has read paper for a living.
 
+---
+
 He read the letterhead first, then the date, then the two lines with the figures. Georgij watched him notice that the travelling cost three times the attendance, and watched him not react to it, because that part he had known.
+
+---
 
 Then he came to the box where the name goes.
 
+---
+
 He stopped.
+
+---
 
 Georgij said nothing, which was the entire plan, and it was very much harder than he had expected it to be.
 
+---
+
 Sim read the six characters. Then he read them again. Then he put the page flat on the table, squared it with the edge without appearing to know that he was doing it, and sat with both hands on either side of it.
+
+---
 
 The room did what a small room at the back of a restaurant does.
 
@@ -95,19 +129,27 @@ The room did what a small room at the back of a restaurant does.
 
 "A bill. From that house, or to it, or about it. In eleven years." He had still not looked up from the page. "I pay in an envelope and I do not take receipts. I have not taken one in thirty years, because a receipt is a piece of paper with two names on it."
 
+---
+
 One finger moved a fraction along the edge of the page and stopped.
 
 "That is the first thing you learn and it is most of the trade," said Sim. "I have spent thirty years making certain that nothing of this kind exists anywhere I could reach it. It appears that I was very good at it."
 
+---
+
 He did not look up.
 
 "July, four years ago," he said. "I sent flowers on the sixth and the twenty-seventh of April that year. I have sent them twice a year since, in April and in October. In April she was told, and October was her mother's month. I was given both of those dates in a letter eleven years ago and never once a reason for either."
+
+---
 
 Georgij did not move.
 
 "What you understood the arrangement to be," he said, and it was the only sentence he permitted himself in nine minutes.
 
 "You will have to forgive me. I am going to be slower than you want." Sim moved his bowl an inch to the left so that it was not between them. "A lady who is not well. A house in the country, and good people in it. I chose the people myself and I went out twice to look at them, and nobody had asked me to do that."
+
+---
 
 He said all of it the way a man recommends a dish.
 
@@ -121,6 +163,8 @@ Georgij did not touch his own bowl.
 
 "The first time, a doctor." He put one finger beside the six characters and did not touch them. "The second time, a flat."
 
+---
+
 Georgij sat in a small room at the back of a restaurant and understood that he was watching a man arrive somewhere.
 
 "The flat in Seodaemun," said Sim.
@@ -133,13 +177,19 @@ Georgij sat in a small room at the back of a restaurant and understood that he w
 
 "I know you have. She told me." Sim did look up then. "She told me exactly what you looked like and exactly what you asked, and she did not leave anything out, and she was not frightened. I have thought about that a great deal in three weeks, because it is not how people are with me."
 
+---
+
 Georgij did not tell him why, and it was one of the two hardest things he did that evening.
 
 "Whose flat did you think it was," he said instead.
 
+---
+
 Sim put both hands flat on the table on either side of the page.
 
 "Hers," he said. "The woman who is ill. I have never once asked myself why a woman who has been in a house in the country for eleven years would have a flat that was added to the arrangement seven years after she went there."
+
+---
 
 Neither of them said anything.
 
@@ -153,11 +203,19 @@ Neither of them said anything.
 
 "Do not do that." It came out of him at last, and it was not loud, and it was the first thing he had said all evening that had not been arranged. "I have spent thirty years being handed the version that is comfortable to carry. You are the first person in eleven years who has put a piece of paper in front of me and let me read it. Do not start being kind to me at the end of it."
 
+---
+
 His bowl had been empty since a quarter to nine, and the girl had taken it and brought the next thing and taken that away as well.
+
+---
 
 Georgij noticed at about twenty past nine that his own bowl was exactly where the girl had put it, and once he had noticed it he could not stop noticing it. A man had been told at that table that eleven years of his life might have been a method, and had eaten his soup. The man who had told him had not touched anything.
 
-There is one other man in this story who does not eat in front of the person he is working on.
+---
+
+There is one other man in this business who does not eat in front of the person he is working on.
+
+---
 
 He wrote it on the back of the envelope afterward, in the car, and he did not write the sentence after it, and he knew while he was not writing it that he was not going to.
 
@@ -166,6 +224,8 @@ He wrote it on the back of the envelope afterward, in the car, and he did not wr
 Sim did not tell him to stop.
 
 "That house had no oxygen in it until the July on that invoice." He said it without arranging it at all. "A tank in a private house has to be told to the fire authority. The filing is one event. There is nothing before it. It has never been renewed as new and it has never been cancelled."
+
+---
 
 Sim did not move for a long moment.
 
@@ -177,6 +237,8 @@ Sim did not move for a long moment.
 
 "Nothing that anybody is required to write down."
 
+---
+
 Sim put one hand flat on the table beside the page and left it there.
 
 "She was not worse."
@@ -184,6 +246,8 @@ Sim put one hand flat on the table beside the page and left it there.
 "I have not said that."
 
 "You have not said a great many things this evening and I have understood every one of them." It came out level and it did not stay level all the way to the end. "Somebody arrived. Everything that was described to me as an illness arrived in the same month as the somebody. I put two of those things there myself, and I was glad to, and I have just said so out loud in front of you."
+
+---
 
 He had arranged that household for eleven years and had never once been given a reason to ask, and it took one page and nine minutes.
 
@@ -197,11 +261,13 @@ He had arranged that household for eleven years and had never once been given a 
 
 "You did not fail to work it out. You were answered before you had a question."
 
+---
+
 Sim was quiet for about four seconds.
 
 "That is the kindest thing anybody has said to me in eleven years," he said, "and you have made certain that it is also true, and I cannot get the two of them apart. I have been getting those two apart professionally since before you were born."
 
-———
+* * *
 
 "I am not going to give you him," said Sim.
 
@@ -213,6 +279,8 @@ Sim was quiet for about four seconds.
 
 "They have looked identical for thirty years," said Sim. "Tonight is the first evening they have not."
 
+---
+
 Then he straightened his cuff, which is a thing he does before he arranges something.
 
 "I am going to give you something else."
@@ -220,6 +288,8 @@ Then he straightened his cuff, which is a thing he does before he arranges somet
 "I have not asked for that either."
 
 "No, and you are going to let me finish, because I have spent thirty years being the man who arranges things in every room he sits in, and I would like to do it once more this evening." He was entirely courteous about it. "You cannot add a doctor to a household from a table in Seoul. You cannot add a flat either. Somebody in that house takes the telephone call and says yes. Somebody in that house lets the man in at the gate."
+
+---
 
 Georgij kept both hands where they were.
 
@@ -229,11 +299,17 @@ Georgij kept both hands where they were.
 
 "That person has never been him, and has never once pretended to be, and would not know how." Sim took a pen out of his inside pocket, which is where the envelope had been in Georgij's. "I am going to write it down now, before eleven o'clock, because at eleven o'clock I am going to be a man who has had time to think about it."
 
+---
+
 He put one hand on the page and pushed it back across the table, and Georgij did not take it.
 
 "Keep it," said Georgij. "It is a copy. There is one more and it is with the man who kept it for four years without knowing why."
 
+---
+
 Sim looked at the page for a long moment and then folded it once, along a crease it did not have, and put it in his inside pocket.
+
+---
 
 The coffee came, because it comes, and he was still sitting there. He has left before the coffee in every kitchen that remembers him, for thirty years.
 
@@ -249,7 +325,11 @@ The coffee came, because it comes, and he was still sitting there. He has left b
 
 "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and it was not a performance either. "You are the only person I have met in thirty years who would have said so instead of telling me I would not."
 
+---
+
 His plate was clean. Both cups were full and neither of them had been touched.
+
+---
 
 At the doorway he stopped, with the folded screen beside him, and he did the thing that Georgij had written down on Friday night and had not been able to prepare for.
 
@@ -259,12 +339,18 @@ At the doorway he stopped, with the folded screen beside him, and he did the thi
 
 "Are you all right?"
 
+---
+
 Georgij stood in a small room at the back of a restaurant with a cold bowl and a full cup in front of him and found that he had no arrangement at all for that.
 
 "No," he said.
 
 "No," said Sim. "I did not think so."
 
+---
+
 He had paid at half past seven, before the meal, as he always does. The girl at the front told Georgij so on his way past, because she thought he would want to know that it was already settled.
+
+---
 
 He had stopped at the kitchen on his way out, as well, and asked what had been in the soup, and had used the cook's name.

@@ -92,7 +92,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 46** *What he asked her* (v1.4) · Tag 292, Mi 22. Juli · 2.033 W
 - **B2 47** *The one he kept* (v2.7) · Tag 298, Di 28. Juli · 2.914 W
 - **B2 48** *The sixth one* (v1.5) · Tag 300, Do 30. Juli · 2.112 W
-- **B2 49** *Against her return* (v2.2) · Tag 302, Sa 1. August · 3.224 W
+- **B2 49** *Against her return* (v2.3) · Tag 302, Sa 1. August · 3.224 W
 - **B2 50** *The one I did not say in May* (v1.5) · Tag 305, Di 4. August · 2.498 W
 - **B2 51** *Clause eleven* (v1.6) · Tag 307, Do 6. August · 2.778 W
 - **B2 52** *Consigned by* (v1.3) · Tag 313, Mi 12. August · 2.042 W
@@ -107,7 +107,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
 - **B2 62** *The consignor of record* (v1.3) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.103 W
 - **B2 63** *They did not argue about it* (v1.15) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 3.575 W
-- **B2 64** *The second of November* (v1.2) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.121 W
+- **B2 64** *The second of November* (v1.3) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.121 W
 - **B2 65** *The first hour* (v1.7) · Tag 396, Di 3. November · Tag 397, Mi 4. November · 1.977 W
 - **B2 66** *She went back* (v1.3) · Tag 398, Do 5. November · Tag 399, Fr 6. November · Tag 400, Sa 7. November · 2.411 W
 - **B2 67** *The draught under the door* (v2.6) · Tag 404, Mi 11. November · Tag 409, Mo 16. November · 2.074 W
@@ -132,6 +132,6 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 86** *Please guide me* (v3.23) · Tag 531, Do 18. Maerz · 3.901 W
 - **B2 87** *The length of the room* (v3.22) · Tag 531, Do 18. Maerz · 4.129 W
 - **B2 88** *Not the comfortable part* (v3.7) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 3.368 W
-- **B2 89** *The weapon* (v3.16) · Tag 590, So 16. Mai · 3.390 W
+- **B2 89** *The weapon* (v3.18) · Tag 590, So 16. Mai · 3.446 W
 - **B3 1** *The first thing that arrives* (v1.4) · Tag 592, Di 18. Mai · 2.125 W
 - **B3 2** *Thank you for coming* (v1.6) · Tag 600, Mi 26. Mai · 2.211 W
