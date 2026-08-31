@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 2 Kapitel, 4.336 Woerter.
+Book Three, 2 Kapitel, 4.234 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,23 +11,21 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.4 | 2.125 |
-| 02 | v1.6 | 2.211 |
+| 01 | v1.5 | 2.098 |
+| 02 | v1.7 | 2.136 |
 
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
-Since the eighteenth of March there has been nothing to build.
+For fourteen days there has been nothing to build.
 
 He still gets up at the same hour and reads the same four papers, and he still goes through the shipping notices and the corporate filings the way he has since the March before last.
 
-It has not been for anything since March. He has not missed a morning.
-
-* * *
+It has not been for anything for fourteen days. He has not missed a morning.
 
 The card came to the front door at twenty past ten.
 
@@ -49,8 +47,6 @@ She did not come into the room.
 
 She went back down and did not say anything else about it.
 
-* * *
-
 The card is printed and it is not expensive, and one line of it is in ink.
 
 It gives a name, with the character in front of it that only ever goes in front of a dead man's.
@@ -59,7 +55,7 @@ It gives Wednesday the twenty-sixth of May at eleven in the morning, a temple in
 
 The forty-ninth day is counted from the death and the death is the first of them. Choi Dae-ho died on the eighth of April.
 
-It is a rite that a family holds. Somebody has to book the hall and pay for it and stand at the front of it, and the person who does that is the person the dead man belonged to.
+It is a rite that a family holds. Somebody has to book the hall and pay for it and stand at the front of it. If there is no family, the person who does those things has taken the family's place.
 
 It is the sort of card a stationer keeps a box of.
 
@@ -93,8 +89,6 @@ He is going to be standing at the front of a hall in Jongno on Wednesday of next
 
 And he has sent a card to a house that is on no list, addressed to a man whose name exists on one piece of paper in the Republic of Korea. That one exists because a compliance officer needed something in the second week of October two years ago.
 
-* * *
-
 He looked the temple up, because that costs nothing.
 
 It has two halls. The large one is the one that gets photographed, and it is where a man in that office would be expected to hold anything at all.
@@ -104,8 +98,6 @@ The card gives the other one. It is behind the large one and it takes about two 
 Georgij looked at that for a while and then wrote one line and put the date on it.
 
 *Everybody in that room will be somebody he wanted in it.*
-
-* * *
 
 He telephoned Baek Jun-ho at half past eleven and asked one question.
 
@@ -131,9 +123,7 @@ Baek Jun-ho did not answer for a while.
 
 "Yes."
 
-"And somebody buried him, and it was not the estate and it was not a firm. That has been sitting in a note in my own hand since the twentieth of April, and I have read it since and not seen it."
-
-* * *
+"And now a man has taken the family's place, and the name at the bottom is his own, not an estate's and not a firm's. The office told me there was no address for anybody at all. I put that in a note on the twentieth of April, and I have read it since and not seen what it left unanswered."
 
 Georgij did not telephone Park Sang-hoon.
 
@@ -169,7 +159,7 @@ The clock in the hall did the thing it does at the quarter.
 
 Annie waited.
 
-"The second is that a man buried him." He had his hands behind his back. "Baek was told there was no address for anybody at all. Somebody still had to take a body and book a hall and put his own name at the bottom of a card, and that is not a thing you do for a man you have had dinner with."
+"The second is that a man took the family's place." He had his hands behind his back. "Baek was told there was no address for anybody at all. Somebody still booked a hall and put his own name at the bottom of a card, and that is not a thing you do for a man you have had dinner with."
 
 "And the third."
 
@@ -234,7 +224,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -270,8 +260,6 @@ Not signing it would have been the only thing anybody in that hall remembered ab
 
 He wrote it, in the hand he writes in, and it took him about two seconds, and he went and stood at the back.
 
-* * *
-
 There were about ninety people in a hall that takes two hundred.
 
 He counted them in the first six minutes, in fours, the way he was taught to count a room in the fourth house.
@@ -283,8 +271,6 @@ He came in at five to eleven. He saw Georgij at the back, and he went and stood 
 Nobody spoke to Georgij at any point in the whole of it.
 
 That is not the same as nobody noticing him, and he knew the difference by the fourth minute.
-
-* * *
 
 There is a photograph at the front and it is not a recent one.
 
@@ -304,9 +290,7 @@ Georgij went up with the rest and bowed twice and did it correctly. Doing it wro
 
 He did not put his head down for any longer than the form asks for.
 
-He is the only man in that hall who is not sorry, and he did not arrange his face to look as if he were.
-
-* * *
+He is the only man in that hall who is not sorry Choi Dae-ho is dead, and he did not arrange his face to look as if he were.
 
 Gong Doo-hyun stood at the front of it from eleven until twenty past one.
 
@@ -314,9 +298,7 @@ He is about sixty and he is not a large man, and there is nothing about him that
 
 He thanked them one at a time, in a line, and did not hurry any of them, and the line went out of the door and down the steps for the last forty minutes of it.
 
-Georgij went last, because he wanted the whole of it in front of him before he had to be in it.
-
-* * *
+Georgij was the last man in the line, because he wanted the whole of it in front of him before he had to be in it.
 
 "Thank you for coming," said Gong Doo-hyun.
 
@@ -332,8 +314,6 @@ Georgij bowed the way the man in front of him had.
 
 "Then say it."
 
-* * *
-
 Georgij did not put anything in front of it.
 
 "He was thirty-six and he was the best man in that building at the thing he did." Gong Doo-hyun said it with no weight on it anywhere. "He took four companies apart on paper and he was right about all four of them, and there was not one of the four that anybody in that service could have done in the time he did it."
@@ -346,8 +326,6 @@ The monk was putting things away at the front and there was a woman folding clot
 
 "That is what I wanted to say to you today, and I am not going to finish it here."
 
-* * *
-
 "May I say one thing to you?"
 
 "You may say anything you like." Gong Doo-hyun did not step back and did not look at the door. "I am going to remember all of it, and you know that, and you have decided to say it anyway, and I would like to hear what a man says under that condition."
@@ -358,13 +336,9 @@ Gong Doo-hyun looked at him for about two seconds.
 
 "Yes," he said. "That will be most of the people you talk to."
 
-* * *
-
 He turned to the woman who had been waiting behind Georgij for a minute and a half, and thanked her for coming, and said her husband's name, and asked whether the road up had been bad.
 
 It was the ninety-first time and it was not a shorter one than the first.
-
-* * *
 
 The man who had stood behind the pillar went out at the same time Georgij did, because there is one door.
 
@@ -375,8 +349,6 @@ He was at that table on the eighteenth of March and he was one of the four who a
 Georgij has read six pages about him. He knows what the man does for a living, what he was sold, what it has cost him since, and the name of the firm that is going to buy the rest of it by the autumn.
 
 None of that says why he came today, and there is nowhere to look it up.
-
-* * *
 
 Georgij went down the steps past the woman with the bucket and got into the car and did not tell Jang to start it for about a minute.
 
@@ -390,19 +362,15 @@ He has spent two years getting what he needs out of people by asking them someth
 
 The other man did not want anything out of him today, and there is no version of that which is good.
 
-* * *
-
 He took the notebook out at the lights on Yulgok-ro.
 
-He wrote a line on the eighteenth, on the Tuesday morning, and put the date under it.
+The line he had written on Tuesday the eighteenth had the date under it.
 
 *Everybody in that room will be somebody he wanted in it.*
 
 It is true, and it is not what he meant by it.
 
 He had read it as a list. A man who fills a hall fills it with people who are useful to him, and the useful ones are the ones who owe something or want something. A hall of ninety is ninety names and about eleven of them worth having.
-
-* * *
 
 There is nobody in that hall who owed Choi Dae-ho anything by the end of it.
 
@@ -411,8 +379,6 @@ There is nobody in it who gained by coming, and there are eleven who are in a se
 Choi Dae-ho has been out of that service for twenty-four years and out of the trade since March and dead since April, and there is no version of standing in that hall that pays.
 
 They came because they were asked, and the man who asked them is the one man in the Republic of Korea who is not able to give any of them anything.
-
-* * *
 
 The hall was the cheaper of the two. The card was the sort a stationer keeps a box of. Nobody catered it and there was no car for the family, because there is no family.
 
@@ -444,8 +410,6 @@ She let that stand for a moment.
 
 "Then say it."
 
-* * *
-
 "I have spent two years finding out what men have done," said Georgij. "It has worked every time, and it worked because there has always been something."
 
 Annie did not write anything down.
@@ -455,8 +419,6 @@ Annie did not write anything down.
 "And."
 
 "And there is nothing to find, and I have never once been in front of that." He did not soften it. "I did not know until this afternoon that all of it rested on the other man being dirty."
-
-* * *
 
 Annie put the pen down.
 

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.154 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.180 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -653,7 +653,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**126 Kapitel, 337.662 Woerter.**
+**126 Kapitel, 337.499 Woerter.**
 
 ---
 
@@ -25342,7 +25342,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Seo | 144 | 51 (b1ch03-b3ch01) | 1 | 592 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 90 | 22 (b1ch07-b3ch02) | 22 | 600 |
+| Choi Dae-ho | 91 | 22 (b1ch07-b3ch02) | 22 | 600 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Baek | 62 | 14 (b1ch05-b3ch01) | 6 | 592 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -26260,15 +26260,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch90:86 | Annie's hand stayed where it was. |
 | 590 | b2ch90:106 | Annie did not move at all. |
 | 590 | b2ch90:124 | Annie did not say anything. |
-| 592 | b3ch01:172 | "Say the name again," said Annie. |
-| 592 | b3ch01:180 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
-| 592 | b3ch01:194 | Annie waited. |
-| 592 | b3ch01:204 | Annie did not answer for a while. |
-| 592 | b3ch01:232 | Annie looked at him for a moment. |
-| 592 | b3ch01:246 | Annie picked the pen back up, which is what she does when a thing has been decided. |
-| 600 | b3ch02:264 | "And what did you get," said Annie. |
-| 600 | b3ch02:290 | Annie did not write anything down. |
-| 600 | b3ch02:300 | Annie put the pen down. |
+| 592 | b3ch01:124 | "Say the name again," said Annie. |
+| 592 | b3ch01:130 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
+| 592 | b3ch01:142 | Annie waited. |
+| 592 | b3ch01:152 | Annie did not answer for a while. |
+| 592 | b3ch01:174 | Annie looked at him for a moment. |
+| 592 | b3ch01:186 | Annie picked the pen back up, which is what she does when a thing has been decided. |
+| 600 | b3ch02:172 | "And what did you get," said Annie. |
+| 600 | b3ch02:190 | Annie did not write anything down. |
+| 600 | b3ch02:198 | Annie put the pen down. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -26511,7 +26511,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:226` (Tag 531) - eleven, four, two
 - `b2ch87:498` (Tag 531) - one
 - `b2ch89:88` (Tag 590) - four
-- `b3ch01:180` (Tag 592) - four, one, two
+- `b3ch01:130` (Tag 592) - four, one, two
 
 ---
 
@@ -26825,9 +26825,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:222 | "Do not say anything," said Sang-hoon. "I have had ten months of you not saying things a.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:26 | Park Sang-hoon has heard nothing in the trade, and he has asked in three places and he d.. |
-| 592 | b3ch01:84 | He wrote that in a garden in Hannam-dong with a glass in his other hand, because Park Sa.. |
-| 592 | b3ch01:150 | Georgij did not telephone Park Sang-hoon. |
-| 592 | b3ch01:154 | Sang-hoon asked in three places in April and heard nothing back, and he does not usually.. |
+| 592 | b3ch01:60 | He wrote that in a garden in Hannam-dong with a glass in his other hand, because Park Sa.. |
+| 592 | b3ch01:110 | Georgij did not telephone Park Sang-hoon. |
+| 592 | b3ch01:112 | Sang-hoon asked in three places in April and heard nothing back, and he does not usually.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -26969,7 +26969,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:222` (Tag 531) - ten
 - `b2ch87:428` (Tag 531) - five, one, three
 - `b2ch89:26` (Tag 590) - three
-- `b3ch01:154` (Tag 592) - one, three, two
+- `b3ch01:112` (Tag 592) - one, three, two
 
 ---
 
@@ -27765,7 +27765,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 444 | b2ch72:194 | Jang put the car where he puts cars, which is forty metres past the place and facing the.. |
 | 444 | b2ch72:200 | "You will come out of there at half past and she will have been perfectly all right abou.. |
 | 590 | b2ch89:132 | Jang went to Mapo on the Thursday and was handed a green school exercise book at the top.. |
-| 600 | b3ch02:194 | Georgij went down the steps past the woman with the bucket and got into the car and did .. |
+| 600 | b3ch02:128 | Georgij went down the steps past the woman with the bucket and got into the car and did .. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -28257,10 +28257,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:310 | Mrs Seo came through with a tray and did not stop. |
 | 590 | b2ch89:98 | She asked in November whether there was anything else she could do, because nobody had t.. |
 | 590 | b2ch89:106 | Mrs Seo said one sentence about it in February, to nobody in particular, which was that .. |
-| 592 | b3ch01:20 | Mrs Seo took it in the hall and brought it up herself. |
-| 592 | b3ch01:28 | "There is a card," said Mrs Seo. "It has your name on the front of it and it has it corr.. |
-| 592 | b3ch01:38 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
-| 592 | b3ch01:270 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
+| 592 | b3ch01:14 | Mrs Seo took it in the hall and brought it up herself. |
+| 592 | b3ch01:20 | "There is a card," said Mrs Seo. "It has your name on the front of it and it has it corr.. |
+| 592 | b3ch01:28 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
+| 592 | b3ch01:204 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -28702,7 +28702,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Choi Dae-ho
 
-90 Nennungen in 22 Kapiteln.
+91 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -28789,13 +28789,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
 | 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
 | 590 | b2ch89:200 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
-| 592 | b3ch01:56 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
-| 592 | b3ch01:80 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
-| 592 | b3ch01:142 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
-| 592 | b3ch01:192 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
-| 592 | b3ch01:266 | Choi Dae-ho was dead on the eighth of April. |
-| 600 | b3ch02:230 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
-| 600 | b3ch02:236 | Choi Dae-ho has been out of that service for twenty-four years and out of the trade sinc.. |
+| 592 | b3ch01:38 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
+| 592 | b3ch01:58 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
+| 592 | b3ch01:104 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
+| 592 | b3ch01:140 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
+| 592 | b3ch01:202 | Choi Dae-ho was dead on the eighth of April. |
+| 600 | b3ch02:68 | He is the only man in that hall who is not sorry Choi Dae-ho is dead, and he did not arr.. |
+| 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
+| 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-four years and out of the trade sinc.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -28835,10 +28836,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three
 - `b2ch89:200` (Tag 590) - five, thirty, thirty-one, two
-- `b3ch01:56` (Tag 592) - forty
-- `b3ch01:142` (Tag 592) - four, one
-- `b3ch01:192` (Tag 592) - three
-- `b3ch02:236` (Tag 600) - twenty-four
+- `b3ch01:38` (Tag 592) - forty
+- `b3ch01:104` (Tag 592) - four, one
+- `b3ch01:140` (Tag 592) - three
+- `b3ch02:154` (Tag 600) - twenty-four
 
 ---
 
@@ -29011,8 +29012,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 493 | b2ch81:242 | "The second of March is nine years late and it is the only appointment available." Baek .. |
 | 493 | b2ch81:250 | "It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on .. |
 | 493 | b2ch81:274 | *He did not build it so that the payments could not be suspended. He built it so that he.. |
-| 592 | b3ch01:126 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
-| 592 | b3ch01:196 | "The second is that a man buried him." He had his hands behind his back. "Baek was told .. |
+| 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
+| 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
 
 ### Zahlen in der Naehe von Mr Baek
 
@@ -29055,7 +29056,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch81:192` (Tag 493) - thirty-one, two
 - `b2ch81:242` (Tag 493) - four, nine, one
 - `b2ch81:250` (Tag 493) - fifty
-- `b3ch01:126` (Tag 592) - four, two
+- `b3ch01:90` (Tag 592) - four, two
 
 ---
 
@@ -29870,8 +29871,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 493 | b2ch81:254 | "In the meantime a man in this city has to write me a letter about a woman he has never .. |
 | 590 | b2ch89:14 | Baek Jun-ho found it out the way everything in this business is found out, which is that.. |
 | 590 | b2ch89:170 | Baek Jun-ho sat down on the second of March with a man he has known for thirty-one years.. |
-| 592 | b3ch01:118 | He telephoned Baek Jun-ho at half past eleven and asked one question. |
-| 592 | b3ch01:136 | Baek Jun-ho did not answer for a while. |
+| 592 | b3ch01:84 | He telephoned Baek Jun-ho at half past eleven and asked one question. |
+| 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -29888,7 +29889,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch81:6` (Tag 493) - fifty
 - `b2ch81:254` (Tag 493) - thirty-one
 - `b2ch89:170` (Tag 590) - thirty-one
-- `b3ch01:118` (Tag 592) - eleven, one
+- `b3ch01:84` (Tag 592) - eleven, one
 
 ---
 
@@ -30425,21 +30426,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 592 | b3ch01:68 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:174 | "Gong Doo-hyun." |
-| 600 | b3ch02:100 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
-| 600 | b3ch02:114 | "Thank you for coming," said Gong Doo-hyun. |
-| 600 | b3ch02:128 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
-| 600 | b3ch02:138 | "He was thirty-six and he was the best man in that building at the thing he did." Gong D.. |
-| 600 | b3ch02:156 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
-| 600 | b3ch02:164 | Gong Doo-hyun looked at him for about two seconds. |
+| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
+| 592 | b3ch01:126 | "Gong Doo-hyun." |
+| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
+| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
+| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
+| 600 | b3ch02:94 | "He was thirty-six and he was the best man in that building at the thing he did." Gong D.. |
+| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
+| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
 
 ### Zahlen in der Naehe von Gong Doo-hyun
 
-- `b3ch02:100` (Tag 600) - eleven, one, twenty
-- `b3ch02:128` (Tag 600) - one, three
-- `b3ch02:138` (Tag 600) - four, one, thirty-six
-- `b3ch02:164` (Tag 600) - two
+- `b3ch02:70` (Tag 600) - eleven, one, twenty
+- `b3ch02:88` (Tag 600) - one, three
+- `b3ch02:94` (Tag 600) - four, one, thirty-six
+- `b3ch02:110` (Tag 600) - two
 
 ---
 
