@@ -3089,6 +3089,19 @@ freigegeben sind.
     *The second Tuesday in December* am Kapitelschluss bezeichnet danach weiter
     den Tag, nicht den Rhythmus. Quartalsfreigabe und monatliche Praxiszahlung
     des Trusts sind davon getrennte Geldtakte und bleiben unberuehrt.
+38. **`b2 ch30:138` gegen `b2 ch35:240-300` und `b2 ch87:356`, Mrs Jeons
+    angekuendigte Annahme vom Sohn.** Am 2. Juni sagt Mrs Jeon bestimmt, ihr Sohn
+    werde ihr im Juli ein Angebot machen und sie werde es annehmen. Zwei Wochen
+    spaeter beginnt sie stattdessen die Settlement-Stelle in Gwangyang; Kapitel
+    87 bestaetigt, dass sie diese Funktion seit Juni weiterfuehrt. Das ist nicht
+    nur eine ausgelassene Annahmeszene: Die spaetere Berufsentscheidung ersetzt
+    die Zukunft, die sie selbst angekuendigt hat, ohne dass der Text den Wechsel
+    bemerkt. Der Satz in Kapitel 30 soll bleiben, weil er zeigt, wie wenig Wahl
+    sie in diesem Moment bei sich sieht. Die kleinste Einloesung steht deshalb
+    in Kapitel 35 unmittelbar nach **She started today**: **The son who was
+    going to offer in July had not offered yet. She had not waited for him.**
+    Damit wird Gwangyang zu ihrer geaenderten Entscheidung und nicht zur stillen
+    Tilgung ihres eigenen Satzes.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

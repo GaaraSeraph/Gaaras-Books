@@ -112,7 +112,7 @@ wird.**
 
 - [OFFEN] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 39, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
 - [OFFEN] **B2 18** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · Choi stirbt erst im April. B2 89 und B2 90 sprechen ueber Tat und Folge, aber nirgends ueber die verfehlte Jahresfrist. Deshalb offen und nicht verfallen
-- [OFFEN] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · Angebot und Annahme kommen nach B2 30 in keiner kanonischen Fassung mehr vor
+- [OFFEN] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · Nicht nur Angebot und Annahme fehlen: B2 35 laesst sie schon am 15. Juni die Gwangyang-Stelle beginnen, die sie laut B2 87 seit Juni weiterfuehrt. Der kleinste Band-2-Anschluss steht als Manuskriptvorschlag in `doc/31-plan-band-2.md`: Der Sohn hat im Juli noch nicht angeboten; sie hat nicht auf ihn gewartet
 - [OFFEN] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig bei der Mitteilung an alle fuenf · "Go back and tell all five that they do not owe me anything." · B2 69 bezahlt Mr Kwon. Fuer die anderen vier gibt es im heutigen Kanon weder Gespraech noch Brief
 - [OFFEN] **B2 67** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · "I will use your words and not mine." · B2 83 setzt Hwang an die Suche; B2 89 verbucht vier von achtundfuenfzig. Der Posten laeuft weiter
 - [OFFEN] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **Am Bandende offen, und der Text weiss es**
@@ -179,8 +179,10 @@ ist.
 
 **Mrs Jeon, B2 Kapitel 30 (2. Juni):** *"I have four months of money and a son
 who is going to offer next month, and I am going to take it."* Das Angebot und
-seine Annahme stehen in keiner spaeteren Kanonfassung. **Der Posten ist weiter
-offen und laengst ueberfaellig.**
+seine Annahme stehen in keiner spaeteren Kanonfassung. Stattdessen beginnt sie
+am 15. Juni die Gwangyang-Stelle und fuehrt sie seitdem weiter. **Der Posten ist
+weiter offen und laengst ueberfaellig; `doc/31-plan-band-2.md` traegt den
+kleinsten Anschluss als Manuskriptvorschlag.**
 
 **Annies Satz aus B2 Kapitel 54:** *"in about a week you will have found a way
 to make it about you and I would like to have said this first."* Der alte Stand
