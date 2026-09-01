@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 316.076 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 316.255 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -319,6 +319,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Auflösung: sie wird nicht aus dem Haushalt verpflegt](#die-aufl-sung-sie-wird-nicht-aus-dem-haushalt-verpflegt)
   - [Eingebaut in `b2 ch59` v1.10](#eingebaut-in-b2-ch59-v1-10)
   - [Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87](#verifizierte-gegenprobe-der-wissenskreis-in-kapitel-87)
+  - [Verifizierte Gegenprobe: Einladungsliste und Gedecke](#verifizierte-gegenprobe-einladungsliste-und-gedecke)
 - [Plan, Band 3](#plan-band-3)  ·  `doc/32-plan-band-3.md`
   - [GANZ neue Gesichter, und der Saal ist schon gebaut](#ganz-neue-gesichter-und-der-saal-ist-schon-gebaut)
   - [Der Text](#der-text)
@@ -17359,6 +17360,27 @@ Sang-hoon kennt Georgijs Konstruktion, Yeom kennt Lot vierzehn und den Zweck,
 Hana kennt Annies Rolle aus dem Haus. Hwang, Mrs Jeon und Sim bleiben bewusst
 unterhalb dieser Kenntnistiefe. Die **fuenf** sind deshalb kein
 Kontinuitaetsfehler; nur die daraus abgeleiteten **siebzehn** sind einer.
+
+### Verifizierte Gegenprobe: Einladungsliste und Gedecke
+
+Die scheinbar fehlende Person in `b2 ch84:10-38` entsteht nur, wenn Nams
+ungeschriebene Zeile zu frueh mit der Liste verrechnet wird. Von den
+einunddreissig Namen fallen acht aus: ein Toter, Vancouver, drei nicht
+reisefaehige Menschen und drei Absagen. Es bleiben dreiundzwanzig. Von den fuenf
+Namen am unteren Rand stehen Koh, Im und Sang-hoon bereits in der urspruenglichen
+Tischmenge; Ok und Woo sind die zwei wirklichen Ergaenzungen. Das ergibt
+fuenfundzwanzig. Nam ist die nicht notierte Sechste und macht
+**sechsundzwanzig**; Choi ist Einladung **siebenundzwanzig**; Annie selbst macht
+in `b2 ch85:6-14` das achtundzwanzigste Gedeck. Die Zahlenfolge
+**23 + 2 + 1 + 1 + 1 = 28** ist damit geschlossen und braucht keine
+Textkorrektur.
+
+Auch `b2 ch85:154-160` zaehlt sauber. Die sechs Menschen im Speisesaal, die
+wissen, wer Georgij ist, sind Annie, Nam, Sang-hoon, Woo, Yeom und Mrs Sunwoo.
+Hana kennt seine Rolle ebenfalls, ist an diesem Abend aber nicht im Raum. Koh
+kennt sein Gesicht und seine Auskunft, nicht seine Stellung im Haus; die
+uebrigen Eingeladenen kennen nur Annies Einladung. Auch diese **sechs** sind
+deshalb kein Kontinuitaetsfehler.
 
 ---
 

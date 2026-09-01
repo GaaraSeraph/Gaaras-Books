@@ -3025,3 +3025,24 @@ Sang-hoon kennt Georgijs Konstruktion, Yeom kennt Lot vierzehn und den Zweck,
 Hana kennt Annies Rolle aus dem Haus. Hwang, Mrs Jeon und Sim bleiben bewusst
 unterhalb dieser Kenntnistiefe. Die **fuenf** sind deshalb kein
 Kontinuitaetsfehler; nur die daraus abgeleiteten **siebzehn** sind einer.
+
+### Verifizierte Gegenprobe: Einladungsliste und Gedecke
+
+Die scheinbar fehlende Person in `b2 ch84:10-38` entsteht nur, wenn Nams
+ungeschriebene Zeile zu frueh mit der Liste verrechnet wird. Von den
+einunddreissig Namen fallen acht aus: ein Toter, Vancouver, drei nicht
+reisefaehige Menschen und drei Absagen. Es bleiben dreiundzwanzig. Von den fuenf
+Namen am unteren Rand stehen Koh, Im und Sang-hoon bereits in der urspruenglichen
+Tischmenge; Ok und Woo sind die zwei wirklichen Ergaenzungen. Das ergibt
+fuenfundzwanzig. Nam ist die nicht notierte Sechste und macht
+**sechsundzwanzig**; Choi ist Einladung **siebenundzwanzig**; Annie selbst macht
+in `b2 ch85:6-14` das achtundzwanzigste Gedeck. Die Zahlenfolge
+**23 + 2 + 1 + 1 + 1 = 28** ist damit geschlossen und braucht keine
+Textkorrektur.
+
+Auch `b2 ch85:154-160` zaehlt sauber. Die sechs Menschen im Speisesaal, die
+wissen, wer Georgij ist, sind Annie, Nam, Sang-hoon, Woo, Yeom und Mrs Sunwoo.
+Hana kennt seine Rolle ebenfalls, ist an diesem Abend aber nicht im Raum. Koh
+kennt sein Gesicht und seine Auskunft, nicht seine Stellung im Haus; die
+uebrigen Eingeladenen kennen nur Annies Einladung. Auch diese **sechs** sind
+deshalb kein Kontinuitaetsfehler.
