@@ -2875,3 +2875,16 @@ freigegeben sind.
     **Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the
     other, which took about a second, and said the first thing she had said
     since she walked out of the house.**
+21. **`b2 ch81:122-138` gegen `b2 ch47:92`, Chois angeblich erster Brief.**
+    Baek sagt zuerst, die Weiterleitungsadresse habe in elf Jahren vier Dinge
+    an Choi weitergeleitet und alle vier seien von ihm gewesen. Die fruehere
+    Trust-Szene bestaetigt, dass Baek mit Chois Vertreter schriftlich verkehrt
+    hat. Unmittelbar danach nennt Georgij den neuen Brief trotzdem *"the first
+    letter anybody has ever sent him"* und *"the first thing that arrives at
+    him"*. Beides kann nach den vier frueheren Sendungen nicht stimmen. Das
+    Neue und fuer die Szene Tragende ist die verlangte Antwort: Zum ersten Mal
+    soll Choi selbst eine Anweisung und damit seine Begruendung auf Papier
+    setzen. Der kleinste Eingriff ist deshalb **That is the first letter anybody
+    has ever sent him that requires an answer** und spaeter **That letter is
+    going to be the first thing that arrives at him and asks him to put himself
+    on paper.**

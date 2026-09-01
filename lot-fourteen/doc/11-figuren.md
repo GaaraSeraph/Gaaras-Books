@@ -1658,3 +1658,8 @@ und niemand muss ihn zitieren.
 149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
 150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
 151. **Choi hat im ganzen Buch keine Replik ausser in b2 K86** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**
+152. **Offen in `b2 ch81`: Baeks Forderung ist nicht der erste Brief, der Choi
+    erreicht.** Dieselbe Szene nennt vier fruehere, von Baek stammende
+    Weiterleitungen; `b2 ch47` bestaetigt den Schriftverkehr. Neu ist, dass der
+    Brief eine Antwort und Chois eigene Begruendung auf Papier verlangt. Siehe
+    `doc/31-plan-band-2.md`.
