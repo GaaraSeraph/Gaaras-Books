@@ -107,14 +107,14 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
 - **B2 62** *The consignor of record* (v1.4) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.111 W
 - **B2 63** *They did not argue about it* (v1.15) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 3.575 W
-- **B2 64** *The second of November* (v1.3) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.121 W
+- **B2 64** *The second of November* (v1.4) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.123 W
 - **B2 65** *The first hour* (v1.8) · Tag 396, Di 3. November · Tag 397, Mi 4. November · 1.991 W
 - **B2 66** *She went back* (v1.4) · Tag 398, Do 5. November · Tag 399, Fr 6. November · Tag 400, Sa 7. November · 2.404 W
 - **B2 67** *The draught under the door* (v2.6) · Tag 404, Mi 11. November · Tag 409, Mo 16. November · 2.074 W
-- **B2 68** *The second Tuesday* (v3.2) · Tag 431, Di 8. Dezember · 2.071 W
+- **B2 68** *The second Tuesday* (v3.3) · Tag 431, Di 8. Dezember · 2.073 W
 - **B2 69** *Nobody paid* (v3.5) · Tag 434, Fr 11. Dezember · 2.729 W
 - **B2 70** *A man who answers* (v3.3) · Tag 437, Mo 14. Dezember · Tag 439, Mi 16. Dezember · 2.249 W
-- **B2 71** *No story at all* (v3.1) · Tag 440, Do 17. Dezember · 2.228 W
+- **B2 71** *No story at all* (v3.2) · Tag 440, Do 17. Dezember · 2.228 W
 - **B2 72** *What silence costs* (v3.2) · Tag 441, Fr 18. Dezember · Tag 442, Sa 19. Dezember · Tag 444, Mo 21. Dezember · 3.672 W
 - **B2 73** *The fourth time* (v3.5) · Tag 445, Di 22. Dezember · 2.281 W
 - **B2 74** *What he was for* (v3.1) · Tag 451, Mo 28. Dezember · 2.398 W

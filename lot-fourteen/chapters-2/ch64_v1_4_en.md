@@ -1,7 +1,7 @@
-Book Two · Chapter 64: The second of November
-Lot Fourteen · Version 1.3 · EN
+# Chapter 64: The second of November
+*Lot Fourteen* · Version 1.4 · EN
 
-Day Three Hundred and Ninety-Four · Sunday 1 November
+## Day Three Hundred and Ninety-Four · Sunday 1 November
 
 Jang drove the road on the Sunday in daylight, twice, once each way, with nobody in the car.
 
@@ -9,7 +9,7 @@ He came back at four and said three things and none of them was about the house.
 
 "That is what I have," he said. "I have not been up the drive and I have not looked at the house, and if anybody in that building has seen this car it will have been from the road at fifty."
 
-———
+* * *
 
 Mrs Jeon came up from Gwangyang on the Sunday afternoon and did not stay in the house.
 
@@ -21,7 +21,7 @@ She had two hours with them in a room with a light in it and nobody in the doorw
 
 "It is a good instrument and there are two words in the third paragraph that a person reading it at speed could take the wrong way," she said, "and I am going to read that paragraph twice tomorrow and not once."
 
-Day Three Hundred and Ninety-Five · Monday 2 November
+## Day Three Hundred and Ninety-Five · Monday 2 November
 
 They left at ten past seven.
 
@@ -29,7 +29,7 @@ Jang drove. Mrs Jeon sat in the front, because she said so and because nobody ar
 
 Mr Ahn was not in the car.
 
-———
+* * *
 
 He had decided that on the Thursday evening in the shop, standing up, and he had taken about four seconds over it.
 
@@ -39,7 +39,7 @@ He had decided that on the Thursday evening in the shop, standing up, and he had
 
 "I want to be in this shop with the door open." He had put both hands on the bench. "And I want somebody to telephone me from the second petrol station and say four words, and the four words are whether she walked out on her own."
 
-———
+* * *
 
 The house is a long way up and the last part of it is what Jang said it was.
 
@@ -49,6 +49,8 @@ There are three vehicles on the gravel and two of them are vans with the doors o
 
 The clearing has already started. It started, from the look of it, on about the Thursday.
 
+---
+
 The man who came out is not Mr Tak and is not anybody from any file.
 
 He is about fifty and he has a folder, and he was on the step before the car had stopped, and he did the thing that people do when they have been told to be quick and pleasant.
@@ -56,6 +58,8 @@ He is about fifty and he has a folder, and he was on the step before the car had
 Georgij did not get out.
 
 Mrs Jeon got out, and Jang stayed at the wheel with the engine running, which they had agreed on the Sunday.
+
+---
 
 It took eleven minutes and all of it was paper.
 
@@ -65,11 +69,15 @@ The agent read the whole of it, twice, standing on gravel, and then said that ev
 
 "She is not a consignment out here," said Mrs Jeon. "She is out here. Go and tell her that somebody has come, and do not tell her anything else, because you do not know anything else."
 
+---
+
 The agent went in and was gone about four minutes.
 
 Georgij sat in the back of a car and watched a doorway and did the only thing he could do with four minutes, which is to count them.
 
 At the third minute one of the men carried a rolled carpet out of the house and put it in the second van and went back in.
+
+---
 
 She came out on her own.
 
@@ -79,6 +87,8 @@ She is thirty-five and she looks like her brother across the eyes and nowhere el
 
 She stopped and she looked at the car and at the vans and at the woman standing in front of her, and she did not say anything, and she did not move for about six seconds.
 
+---
+
 Mrs Jeon did not step towards her.
 
 "My name is Jeon Mi-ja," she said. "I have come from a firm four hundred kilometres from here and I am fifty-one. I was told your name on the twenty-third of October by a man who had gone and asked your brother how your mother said it."
@@ -87,11 +97,15 @@ Ahn Jung-hee did not say anything.
 
 "I am not from this house and I have never been in it," said Mrs Jeon. "Nobody in this yard is going to tell you anything today that is not true, and if somebody does you are to say so out loud and I will deal with it."
 
+---
+
 The silence went on for a while.
 
-Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which took about a second, and said the first thing she has said to anybody outside that house in four years.
+Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which took about a second, and said the first thing she had said since she walked out of the house.
 
 "The kettle is on the second shelf," she said. "I moved it on Thursday because they took the counter."
+
+---
 
 Nobody in that yard understood it except Mrs Jeon, who has been handing over other people's arrangements since 1998.
 
@@ -103,17 +117,23 @@ Nobody in that yard understood it except Mrs Jeon, who has been handing over oth
 
 "Thank you."
 
+---
+
 They went back in and Mrs Jeon made him write it on the folder, in front of her, and read it back.
 
 That took two minutes and it is the only thing anybody from that car did inside that house.
 
 Georgij stayed in the vehicle for the whole of it and did not once put his hand on the door, and it is the single hardest thing he has done since March.
 
+---
+
 She got into the back on the right, which is the far side from him, and put the bag on the floor between her feet.
 
 Jang turned the car on the gravel and went down the drive at the speed a man drives when there is nothing behind him.
 
 At the road she looked back once, and it was not at the house.
+
+---
 
 Nobody said anything for about nine hundred metres, which is the single track.
 
@@ -127,23 +147,27 @@ She got out and stood at the edge of it with her arms at her sides and looked at
 
 Georgij did not get out.
 
+---
+
 At the second petrol station Jang went in and telephoned a repair shop and said four words.
 
-The four words were she walked out alone.
+The four words were *she walked out alone.*
 
 He came back and said that the man on the other end had not said anything for a while and had then said thank you and rung off, and that he had heard a fan.
 
+---
+
 She spoke twice more between there and the river, and both times it was to Mrs Jeon, and both times it was a completed thing.
 
-Once, about the middle of the journey, she said that the medical gas was delivered on the second Tuesday and that the man who brings it knocks twice and comes in, and that somebody should know that.
+Once, about the middle of the journey, she said that the medical gas was due again in nine days and that the man who brings it knocks twice and comes in, and that somebody should know that.
 
 Once, near the end, she said that she had signed nothing since February four years ago and asked whether she was going to have to.
 
-That is the first question she has asked anybody in eleven years.
+It is the first question she has asked since she walked out of the house.
 
 "Yes," said Mrs Jeon. "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." She did not turn round. "And if you do not want to sign it then you do not sign it, and nothing about today comes undone."
 
-———
+* * *
 
 They came up the drive at eleven minutes past three.
 
@@ -153,7 +177,7 @@ Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way.
 
 Georgij stood in the drive for a moment after the car had gone round to the back.
 
-———
+* * *
 
 He went up at about six because he was sent for.
 
@@ -168,6 +192,8 @@ Annie looked at the window and not at him.
 "And the other woman."
 
 "Still in the building. The kettle is on the second shelf and a man has written it on a folder."
+
+---
 
 Neither of them said anything for a while.
 

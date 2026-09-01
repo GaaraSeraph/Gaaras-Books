@@ -4546,7 +4546,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch59:314` (Tag 377) - eleven, nine, six, ten
 - `b2ch61:82` (Tag 385) - four, thirty-five
 - `b2ch61:92` (Tag 385) - eleven, forty
-- `b2ch64:104` (Tag 395) - four, one
+- `b2ch64:104` (Tag 395) - one
 - `b2ch64:114` (Tag 395) - eleven, four
 - `b2ch65:150` (Tag 397) - four
 - `b2ch67:82` (Tag 404) - two

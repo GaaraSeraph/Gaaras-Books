@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 320.749 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 320.748 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -663,7 +663,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**126 Kapitel, 337.571 Woerter.**
+**126 Kapitel, 337.577 Woerter.**
 
 ---
 
@@ -30708,7 +30708,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch59:314` (Tag 377) - eleven, nine, six, ten
 - `b2ch61:82` (Tag 385) - four, thirty-five
 - `b2ch61:92` (Tag 385) - eleven, forty
-- `b2ch64:104` (Tag 395) - four, one
+- `b2ch64:104` (Tag 395) - one
 - `b2ch64:114` (Tag 395) - eleven, four
 - `b2ch65:150` (Tag 397) - four
 - `b2ch67:82` (Tag 404) - two

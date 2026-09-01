@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.611 Woerter.
+Book Two, 90 Kapitel, 232.615 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -74,14 +74,14 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 61 | v1.3 | 2.402 |
 | 62 | v1.4 | 2.111 |
 | 63 | v1.15 | 3.575 |
-| 64 | v1.3 | 2.121 |
+| 64 | v1.4 | 2.123 |
 | 65 | v1.8 | 1.991 |
 | 66 | v1.4 | 2.404 |
 | 67 | v2.6 | 2.074 |
-| 68 | v3.2 | 2.071 |
+| 68 | v3.3 | 2.073 |
 | 69 | v3.5 | 2.729 |
 | 70 | v3.3 | 2.249 |
-| 71 | v3.1 | 2.228 |
+| 71 | v3.2 | 2.228 |
 | 72 | v3.2 | 3.672 |
 | 73 | v3.5 | 2.281 |
 | 74 | v3.1 | 2.398 |
@@ -14161,7 +14161,7 @@ Georgij wrote it in the book on the Thursday evening and sat with it for a while
 ---
 
 # Book Two · Chapter 64: The second of November
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Ninety-Four · Sunday 1 November
 
@@ -14251,7 +14251,7 @@ Ahn Jung-hee did not say anything.
 
 The silence went on for a while.
 
-Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which took about a second, and said the first thing she has said to anybody outside that house in four years.
+Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which took about a second, and said the first thing she had said since she walked out of the house.
 
 "The kettle is on the second shelf," she said. "I moved it on Thursday because they took the counter."
 
@@ -14297,11 +14297,11 @@ He came back and said that the man on the other end had not said anything for a 
 
 She spoke twice more between there and the river, and both times it was to Mrs Jeon, and both times it was a completed thing.
 
-Once, about the middle of the journey, she said that the medical gas was delivered on the second Tuesday and that the man who brings it knocks twice and comes in, and that somebody should know that.
+Once, about the middle of the journey, she said that the medical gas was due again in nine days and that the man who brings it knocks twice and comes in, and that somebody should know that.
 
 Once, near the end, she said that she had signed nothing since February four years ago and asked whether she was going to have to.
 
-That is the first question she has asked anybody in eleven years.
+It is the first question she has asked since she walked out of the house.
 
 "Yes," said Mrs Jeon. "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." She did not turn round. "And if you do not want to sign it then you do not sign it, and nothing about today comes undone."
 
@@ -14983,7 +14983,7 @@ He wrote two lines in the book that evening.
 ---
 
 # Book Two · Chapter 68: The second Tuesday
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Thirty-One · Tuesday 8 December
 
@@ -15049,7 +15049,7 @@ Georgij stood in a drive with a piece of paper in his hand and read the bottom o
 
 Baek Jun-ho telephoned at eleven.
 
-"I signed something on the first and I have spent seven days deciding whether to tell you about it before you found it," he said. "Then I worked out that you would find it this morning, because it is the second Tuesday, and I have made myself ring before nine and then not done it until eleven."
+"I signed something on the first and I have spent seven days deciding whether to tell you about it before you found it," he said. "Then I worked out that you would find it this morning, because the change I signed took effect with today's delivery, and I have made myself ring before nine and then not done it until eleven."
 
 "Say what you signed."
 
@@ -15129,7 +15129,7 @@ Annie looked at the cylinders.
 
 "No."
 
-"He cannot do anything. He built it eleven years ago so that he could not." She did not raise her voice at any point. "And it followed her out of his house and into mine, and it will go on arriving on the second Tuesday of every month until one of them is dead."
+"He cannot do anything. He built it eleven years ago so that he could not." She did not raise her voice at any point. "And it followed her out of his house and into mine, and it will go on arriving whenever the tanks run low until one of them is dead."
 
 Georgij stood in the passage after she had gone up.
 
@@ -15636,7 +15636,7 @@ He stopped there and read it back and then wrote the rest, because the order had
 ---
 
 # Book Two · Chapter 71: No story at all
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Forty · Thursday 17 December
 
@@ -15646,7 +15646,7 @@ She stood up when he came into the room, which she did in March, and she made th
 
 "Yes."
 
-"Thirty-eight weeks, and I counted them for the first nine and then stopped, which I would like on the record, because a woman of eighty-one who counts is a woman who is waiting." She sat down again. "Sit down. You have come to tell me something and it is not good, and I can see that from the door."
+"Thirty-eight weeks, and I counted them for the first nine and then stopped, which I would like on the record, because a woman of eighty-two who counts is a woman who is waiting." She sat down again. "Sit down. You have come to tell me something and it is not good, and I can see that from the door."
 
 He told her in the order he had built it, and it took four minutes.
 
@@ -15808,7 +15808,7 @@ Georgij stopped.
 
 "Yes."
 
-"And I want the other thing said out loud, because I am eighty-one and I have stopped leaving things for later." She was quite steady. "In March you sat in that chair and I asked you a question you did not have to answer, and you answered it in five words, and one of them was a number."
+"And I want the other thing said out loud, because I am eighty-two and I have stopped leaving things for later." She was quite steady. "In March you sat in that chair and I asked you a question you did not have to answer, and you answered it in five words, and one of them was a number."
 
 "Fourteen."
 
