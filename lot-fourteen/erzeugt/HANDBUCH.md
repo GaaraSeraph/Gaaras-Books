@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 312.915 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.023 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17082,6 +17082,15 @@ freigegeben sind.
     in this building four times and every one of them has been at nine**. Damit
     bleibt der separate Nachmittagsbesuch im Gebaeude ausserhalb der vier
     Gespraeche.
+15. **`b2 ch26:350-352`, Vorausblende auf Hwangs Stuehle.** Kapitel 26 spielt
+    am Donnerstag, dem 28. Mai. Die beiden kursiven Saetze behandeln jedoch die
+    Lieferung am Dienstag, dem 2. Juni, und Hwangs Sitzen am 3. Juni bereits als
+    Vergangenheit: *"It went on the Tuesday"* und *"He sat in one of them on
+    the third of June"*. `b2 ch59:150-158` bestaetigt beide spaeteren Daten.
+    Wenn die Stelle als Vorausblende bleiben soll, muss sie auch grammatisch als
+    solche markiert werden: **It will go on the Tuesday** und **He will sit in
+    one of them on the third of June**. Alternativ kann die Vorausblende hier
+    entfallen, weil Kapitel 59 die ganze Einloesung bereits traegt.
 
 ---
 
