@@ -2888,3 +2888,12 @@ freigegeben sind.
     has ever sent him that requires an answer** und spaeter **That letter is
     going to be the first thing that arrives at him and asks him to put himself
     on paper.**
+22. **`b2 ch81:192,254` gegen `b2 ch60:64`, Baeks Berufsjahre.** Kapitel 60
+    legt den Berufsbeginn auf 1994. Die dort und in Kapitel 65 genannten
+    einunddreissig Jahre sind im Oktober/November 2026 moeglich, wenn Baek Ende
+    1994 angefangen hat. Kapitel 81 spielt jedoch am 8. Februar 2027; selbst
+    bei einem Beginn am 31. Dezember 1994 arbeitet er dann seit mehr als
+    zweiunddreissig Jahren. *"I have been arranging other people's silences for
+    thirty-one years"* muss deshalb **thirty-two years** werden. Die im selben
+    Kapitel genannten einunddreissig Jahre Bekanntschaft mit dem Mann von der
+    Law Society sind eine getrennte Spanne und koennen stehenbleiben.
