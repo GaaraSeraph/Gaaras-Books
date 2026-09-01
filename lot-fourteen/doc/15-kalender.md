@@ -82,6 +82,12 @@ alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber a
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 *"Sunday 16 May"*, der Kalender sagt Sonntag.
 
+**Offene Epilogklammer in Band 2, Kapitel 89:** Mr Ims Wirkungskette beginnt im
+Januar 2027 und umfasst zwei Essen im Februar sowie eines im April. Die
+Einleitung *"Between the nineteenth of March and the end of April"* schliesst
+die ersten drei davon aus und muss **Between January and the end of April**
+lauten; festgehalten in `doc/31-plan-band-2.md`.
+
 **Annies Alter ist jetzt eindeutig.** `b2 ch78` sagt: im Fruehjahr 2002
 vierzehn, seit fuenfundzwanzig Jahren am Tisch, mit dreissig verstanden und seit
 neun Jahren gewusst. Mit dem gefuehrten Geburtstag 18. September ist sie im

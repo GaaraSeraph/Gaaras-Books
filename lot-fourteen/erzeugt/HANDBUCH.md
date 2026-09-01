@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 314.491 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 314.742 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1829,6 +1829,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Ahn** | **Ihr Bruder.** Repariert Kleinmotoren | Neununddreissig. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
 | **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
 | **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | Dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 67 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij ist am 4. September zu ihr nach Mapo gegangen und wusste, dass sie telefonieren wuerde |
+| **Mr Im (Mullae)** | **Ehemaliger Firmeninhaber**, arbeitet weiter im leeren Buero ueber einer Druckerei | Siebenundfuenfzig. Seine Firma ging in den zwei Jahren nach Chois Essen vor sechs Jahren unter; den alten Kalender bewahrt er im Schreibtisch auf | B2 75 | **Nicht Mr Im aus Annies Wartungsrota.** Ruft am 30. Dezember seinen seit dreissig Jahren bekannten Bekannten an; bis April folgen vier Essen. Die falsche Epilogklammer ist offen in `doc/31-plan-band-2.md` |
 | **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
 | **Chu Sang-cheol** | **Der Halter.** Fuehrt das Haus in Gangwon-do, in dem beide Frauen gehalten werden - Lease, neun Leute auf einer Rota, vier Wagen. **Nicht Mrs Ryu aus Band 1** | Haelt Moon seit elf Jahren und Ahn seit vier, zu einem Satz aus dem Jahr der Vereinbarung. Verkauft Ahn in sechsundzwanzig Stunden | B2 59 (genannt), B2 63 (handelt) | **Erledigt.** Behaelt die, fuer die bezahlt wird |
 | **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her. Hat vier Jahre Quartalsmappen gelesen, ohne es jemandem zu sagen | B2 24 | **Aktiv. Wird in Band 3 Freund** - festgelegt am 29.08., siehe `doc/32-plan-band-3.md` |
@@ -1946,7 +1947,9 @@ kommt Pyo darum nicht mehr vor. Gesagt wird es einmal, in Kapitel 2. In der Aukt
 **Mrs Ahn** - Kommt sechs Morgen die Woche und macht ausschließlich Wäsche, seit 2009.
 *Kanon, Kapitel 5.*
 
-**Mr Im** - Wartungsrota, vier Tage. Schlüssel zum Garagengang und zu sonst nichts.
+**Mr Im (Haus)** - Wartungsrota, vier Tage. Schluessel zum Garagengang und zu
+sonst nichts. **Nicht der gleichnamige ehemalige Firmeninhaber aus Mullae in
+Band 2, Kapitel 75.**
 *Kanon, Kapitel 5.*
 
 **Die Glasfirma aus Yeongdeungpo** - Zweiter Mittwoch im Monat, Gondel an den Dachankern, vier Mann, von denen einer noch nie zweimal derselbe war. Seit Jahren so. Vier Fremde an Seilen an einer Wand ohne Tür. **Georgij setzt das an die Spitze seiner Liste für Jang, über den Nachtposten.**
@@ -8162,6 +8165,12 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber alle 126 Kapitel geprueft und stimmen:
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 *"Sunday 16 May"*, der Kalender sagt Sonntag.
+
+**Offene Epilogklammer in Band 2, Kapitel 89:** Mr Ims Wirkungskette beginnt im
+Januar 2027 und umfasst zwei Essen im Februar sowie eines im April. Die
+Einleitung *"Between the nineteenth of March and the end of April"* schliesst
+die ersten drei davon aus und muss **Between January and the end of April**
+lauten; festgehalten in `doc/31-plan-band-2.md`.
 
 **Annies Alter ist jetzt eindeutig.** `b2 ch78` sagt: im Fruehjahr 2002
 vierzehn, seit fuenfundzwanzig Jahren am Tisch, mit dreissig verstanden und seit
@@ -17222,6 +17231,16 @@ freigegeben sind.
     Eintraege von vor vier Jahren; **sein Weg zu Hwang tut es nicht.** Die
     kleinsten Korrekturen sind in Kapitel 80 **in January last year** und in
     Kapitel 83 **on the ninth of January last year**.
+24. **`b2 ch89:36-40` gegen `b2 ch75:226-310`, der Zeitraum von Mr Ims
+    Essen.** Der Epilog stellt die folgenden kleinen Wirkungen unter die
+    Zeitklammer *"Between the nineteenth of March and the end of April"*. Die
+    erste aufgezaehlte Kette beginnt aber davor: Mr Im kuendigt am 30. Dezember
+    an, seinen seit dreissig Jahren bekannten Bekannten anzurufen; danach isst
+    er mit ihm und im Februar mit zwei weiteren Maennern. Nur das vierte Essen
+    liegt im April. Die Kette selbst ist stimmig, die einleitende Zeitklammer
+    nicht. Der kleinste Eingriff ist **Between January and the end of April a
+    great many small things happened...**; damit umfasst sie alle vier Essen
+    und auch die uebrigen aufgelisteten Folgen.
 
 ---
 

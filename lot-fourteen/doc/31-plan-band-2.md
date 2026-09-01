@@ -2910,3 +2910,13 @@ freigegeben sind.
     Eintraege von vor vier Jahren; **sein Weg zu Hwang tut es nicht.** Die
     kleinsten Korrekturen sind in Kapitel 80 **in January last year** und in
     Kapitel 83 **on the ninth of January last year**.
+24. **`b2 ch89:36-40` gegen `b2 ch75:226-310`, der Zeitraum von Mr Ims
+    Essen.** Der Epilog stellt die folgenden kleinen Wirkungen unter die
+    Zeitklammer *"Between the nineteenth of March and the end of April"*. Die
+    erste aufgezaehlte Kette beginnt aber davor: Mr Im kuendigt am 30. Dezember
+    an, seinen seit dreissig Jahren bekannten Bekannten anzurufen; danach isst
+    er mit ihm und im Februar mit zwei weiteren Maennern. Nur das vierte Essen
+    liegt im April. Die Kette selbst ist stimmig, die einleitende Zeitklammer
+    nicht. Der kleinste Eingriff ist **Between January and the end of April a
+    great many small things happened...**; damit umfasst sie alle vier Essen
+    und auch die uebrigen aufgelisteten Folgen.
