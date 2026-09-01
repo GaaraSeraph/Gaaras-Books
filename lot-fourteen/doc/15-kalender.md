@@ -724,7 +724,7 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
 | **Mr Ok** | 56 | 2. August | Kapitel 16 |
 | **Mrs Jeon Mi-ja** | 51 | **15. November** (war 24. Juli) | Kapitel 30; in Kapitel 6 aus Georgijs Blick *"somewhere near fifty"*. Dreiundzwanzig Jahre am Schalter |
-| **Mr Hwang** | 50 | 11. September | Kapitel 21: *"He is about fifty."* Die Untergrenze steht fest, seit er sagt, Mrs Sunwoo kaufe dort, seit er ein Junge war |
+| **Mr Hwang** | 54 bis 10. September 2026, danach **55** | 11. September | Kapitel 21 schaetzt *"He is about fifty"*; Kapitel 83 legt es aus seinem eigenen Mund fest: *"I am fifty-five and I have been the man who keeps everything since I was thirty"* |
 | **Mr Hong** | 61 | 6. August | Band 1, Kapitel 7. Neunzehn Jahre am selben Tisch |
 | **Cho** | 40 | 17. Juli | Kapitel 13 und 15 |
 | **Kwons Partner** | 63 | 29. Juli | Kapitel 14 |
@@ -740,6 +740,10 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Mr Kwon** | 54 | **30. September** | **frueheres Kapitel 69, aus seinem eigenen Mund:** *"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive."* Neun Lastwagen auf einer Spur aus Ulsan, eine der fuenf Firmen |
 | **Sim** | 63 | **1. Oktober** | **frueheres Kapitel 68, aus seinem eigenen Mund:** *"I am sixty-three. I have got one instrument and I have just found out what it was for."* Dazu im selben Kapitel *"a man of sixty-odd"*. Dreissig Jahre im Dienst |
 | **Mrs Ha** | **in ihren Sechzigern** | **offen** | Kapitel 72 und 89: *"Mrs Ha is in her sixties"* bzw. *"A woman in her sixties"*. Dreissig Jahre |
+| **Ahn Jung-hee** | **35 im November 2026** | **offen** | Kapitel 53, 57, 59, 61 und 64. Bei ihrem Weggang vor vier Jahren einunddreissig |
+| **Mr Ahn** | **39 im Oktober 2026** | **offen** | Kapitel 62: *"a man of thirty-nine who mends small motors"*. Vier Jahre aelter als Ahn Jung-hee |
+| **Moon Hae-sook** | **52 am 19. Januar 2027** | **offen** | Kapitel 80: *"She is fifty-two."* |
+| **Mr Im (Mullae)** | **57 am 30. Dezember 2026** | **offen** | Kapitel 75, aus seinem eigenen Mund: *"a man of fifty-seven"*. Nicht Mr Im aus Annies Wartungsrota |
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
 | **Jang** | **58** | **offen** | Kapitel 72, am 21. Dezember aus seinem eigenen Mund im Wagen: *"I have got a street and a coffee and I am fifty-eight"*. Dreissig Jahre im Gewerbe (12, 13, 40) |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |

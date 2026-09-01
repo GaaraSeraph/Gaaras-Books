@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 314.806 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 314.952 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1827,13 +1827,13 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 |---|---|---|---|---|
 | **Ahn Jung-hee** | **Die vierte Zeile im Katalog.** Wird in einem Haushalt in Gangwon-do gehalten | Fuenfunddreissig. Im Haus heisst sie **Do Kyung-ae** und fuehrt den Haushalt, in dem sie gehalten wird | B2 56 | **Der Angelpunkt.** Hat am 27. August zum ersten Mal gesprochen |
 | **Mr Ahn** | **Ihr Bruder.** Repariert Kleinmotoren | Neununddreissig. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
-| **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
+| **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Zweiundfuenfzig. Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
 | **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | In ihren Sechzigern, dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 67 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij ist am 4. September zu ihr nach Mapo gegangen und wusste, dass sie telefonieren wuerde |
 | **Mr Im (Mullae)** | **Ehemaliger Firmeninhaber**, arbeitet weiter im leeren Buero ueber einer Druckerei | Siebenundfuenfzig. Seine Firma ging in den zwei Jahren nach Chois Essen vor sechs Jahren unter; den alten Kalender bewahrt er im Schreibtisch auf | B2 75 | **Nicht Mr Im aus Annies Wartungsrota.** Ruft am 30. Dezember seinen seit dreissig Jahren bekannten Bekannten an; bis April folgen vier Essen. Die falsche Epilogklammer ist offen in `doc/31-plan-band-2.md` |
 | **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
 | **Chu Sang-cheol** | **Der Halter.** Fuehrt das Haus in Gangwon-do, in dem beide Frauen gehalten werden - Lease, neun Leute auf einer Rota, vier Wagen. **Nicht Mrs Ryu aus Band 1** | Haelt Moon seit elf Jahren und Ahn seit vier, zu einem Satz aus dem Jahr der Vereinbarung. Verkauft Ahn in sechsundzwanzig Stunden | B2 59 (genannt), B2 63 (handelt) | **Erledigt.** Behaelt die, fuer die bezahlt wird |
 | **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her. Hat vier Jahre Quartalsmappen gelesen, ohne es jemandem zu sagen | B2 24 | **Aktiv. Wird in Band 3 Freund** - festgelegt am 29.08., siehe `doc/32-plan-band-3.md` |
-| **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuehrt es seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
+| **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuenfundfuenfzig im Februar 2027; seit seinem dreissigsten Lebensjahr der Mann, der alles verwahrt. Fuehrt das Haus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
 | **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig Zahlungen in elf Jahren, ohne Namen, mit seiner Unterschrift; die letzte nach der Verlegung an das Haus am Fluss. Im Februar 2027 sind seine Berufsjahre 32, nicht mehr 31; offen in `doc/31-plan-band-2.md` |
 | **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
@@ -2488,9 +2488,11 @@ Honorar aus der eigenen Tasche im Umschlag gegeben. *"Yeom sold and got out."*
 Er liest inzwischen vier Jahre Quartalsmappen.
 *Kanon, Band 2 Kapitel 24, 25, 34, 41, 53, 54, 55.*
 
-**Mr Hwang** - Der Sanierer. Hat das Auktionshaus seit dem Jahr, in dem sein
-Vater starb, zu einem ordentlich geführten Geschäft gemacht, und **ist nie
-hinunter auf die Fläche gegangen**. Fand es in der zweiten Dezemberwoche in den
+**Mr Hwang** - Der Sanierer. **Fuenfundfuenfzig im Februar 2027**, seit seinem
+dreissigsten Lebensjahr der Mann, der alles verwahrt. Hat das Auktionshaus seit
+dem Jahr, in dem sein Vater starb, zu einem ordentlich geführten Geschäft
+gemacht, und **ist nie hinunter auf die Fläche gegangen**. Fand es in der
+zweiten Dezemberwoche in den
 Abrechnungsbüchern und brauchte dafür eine Stunde. *"They paid for a service. The
 service was not performed."* Zwölf Fälle an einem Nachmittag, aus einer Tabelle.
 
@@ -8808,7 +8810,7 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
 | **Mr Ok** | 56 | 2. August | Kapitel 16 |
 | **Mrs Jeon Mi-ja** | 51 | **15. November** (war 24. Juli) | Kapitel 30; in Kapitel 6 aus Georgijs Blick *"somewhere near fifty"*. Dreiundzwanzig Jahre am Schalter |
-| **Mr Hwang** | 50 | 11. September | Kapitel 21: *"He is about fifty."* Die Untergrenze steht fest, seit er sagt, Mrs Sunwoo kaufe dort, seit er ein Junge war |
+| **Mr Hwang** | 54 bis 10. September 2026, danach **55** | 11. September | Kapitel 21 schaetzt *"He is about fifty"*; Kapitel 83 legt es aus seinem eigenen Mund fest: *"I am fifty-five and I have been the man who keeps everything since I was thirty"* |
 | **Mr Hong** | 61 | 6. August | Band 1, Kapitel 7. Neunzehn Jahre am selben Tisch |
 | **Cho** | 40 | 17. Juli | Kapitel 13 und 15 |
 | **Kwons Partner** | 63 | 29. Juli | Kapitel 14 |
@@ -8824,6 +8826,10 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Mr Kwon** | 54 | **30. September** | **frueheres Kapitel 69, aus seinem eigenen Mund:** *"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive."* Neun Lastwagen auf einer Spur aus Ulsan, eine der fuenf Firmen |
 | **Sim** | 63 | **1. Oktober** | **frueheres Kapitel 68, aus seinem eigenen Mund:** *"I am sixty-three. I have got one instrument and I have just found out what it was for."* Dazu im selben Kapitel *"a man of sixty-odd"*. Dreissig Jahre im Dienst |
 | **Mrs Ha** | **in ihren Sechzigern** | **offen** | Kapitel 72 und 89: *"Mrs Ha is in her sixties"* bzw. *"A woman in her sixties"*. Dreissig Jahre |
+| **Ahn Jung-hee** | **35 im November 2026** | **offen** | Kapitel 53, 57, 59, 61 und 64. Bei ihrem Weggang vor vier Jahren einunddreissig |
+| **Mr Ahn** | **39 im Oktober 2026** | **offen** | Kapitel 62: *"a man of thirty-nine who mends small motors"*. Vier Jahre aelter als Ahn Jung-hee |
+| **Moon Hae-sook** | **52 am 19. Januar 2027** | **offen** | Kapitel 80: *"She is fifty-two."* |
+| **Mr Im (Mullae)** | **57 am 30. Dezember 2026** | **offen** | Kapitel 75, aus seinem eigenen Mund: *"a man of fifty-seven"*. Nicht Mr Im aus Annies Wartungsrota |
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
 | **Jang** | **58** | **offen** | Kapitel 72, am 21. Dezember aus seinem eigenen Mund im Wagen: *"I have got a street and a coffee and I am fifty-eight"*. Dreissig Jahre im Gewerbe (12, 13, 40) |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |
