@@ -2920,3 +2920,25 @@ freigegeben sind.
     nicht. Der kleinste Eingriff ist **Between January and the end of April a
     great many small things happened...**; damit umfasst sie alle vier Essen
     und auch die uebrigen aufgelisteten Folgen.
+25. **`b2 ch87:428-444`, die fuenf Wissenden und die siebzehn uebrigen
+    Kaeufer.** Die Fuenferliste selbst ist stimmig: Chairman Woo und Mrs
+    Sunwoo sind die beiden Genannten, die am 4. Oktober zugleich unter den
+    neunzehn Kaeufern waren (`b1 ch01`, `b1 ch07`); Sang-hoon, Mr Yeom und Hana
+    erfahren Annies Anteil spaeter. Hwang, Mrs Jeon und Sim kennen dagegen nur
+    Teilstuecke oder Folgen. Die anschliessende Rechnung ist jedoch um eins zu
+    gross. Annie war selbst eine der neunzehn. Neben ihr und den zwei
+    Fuenferlisten-Kaeufern bleiben deshalb nur **sechzehn** weitere Zeugen, die
+    mit ihr im Raum sassen und ihr Gebot sahen: 19 - 1 - 2 = 16. In
+    **The other seventeen sat with you** und **Not one of the seventeen can put
+    a piece of paper next to it** muss **seventeen** jeweils **sixteen** werden.
+
+### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
+
+Die Aussage **Five people know what you did** zaehlt nicht jeden Menschen, der
+Chois Methode, Annies Kauf oder einzelne Folgen kennt. Sie zaehlt die Menschen,
+die Annies Anteil an der ganzen Gegenoperation zuordnen koennen. Diese Grenze
+traegt ueber beide Baende: Woo und Sunwoo kennen Auktion und Umsetzung,
+Sang-hoon kennt Georgijs Konstruktion, Yeom kennt Lot vierzehn und den Zweck,
+Hana kennt Annies Rolle aus dem Haus. Hwang, Mrs Jeon und Sim bleiben bewusst
+unterhalb dieser Kenntnistiefe. Die **fuenf** sind deshalb kein
+Kontinuitaetsfehler; nur die daraus abgeleiteten **siebzehn** sind einer.
