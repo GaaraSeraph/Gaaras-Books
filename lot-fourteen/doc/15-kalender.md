@@ -493,7 +493,7 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   Sang-hoon setzt die Aufgabe: **klaeren, ob die Frau, die Jang beobachtet
   hat, dieselbe ist, fuer die der Trust vor elf Jahren gebaut wurde**
 - Tag 273, Fr 3. Juli: **Sang-hoons vier Entscheidungen, zwei mehr datiert.**
-  S (Maerz, vor vier Jahren) und H (Oktober, drei Jahre danach, sechs Wochen
+  S (Maerz, vor vier Jahren) und H (Ende August, drei Jahre danach, sechs Wochen
   vor Hwangs Ankunft) haben jetzt Daten ohne Namen. K bleibt offen - Annie
   weist auf Orte ohne Rechnung: Golfplatz, Badehaus (Band 2, Kapitel 35)
 - Tag 276, Mo 6. Juli: **Brandschutz-Meldung und Jangs Gasflaschen-Lieferwagen
@@ -955,7 +955,7 @@ nicht ins Archiv.
 64. **Die Lieferabstaende ueber vier Jahre: dreissig, vierundzwanzig, sechzehn, neun** - mit **einer Luecke von einundfuenfzig Tagen im zweiten Herbst**, mitten in einer Strecke von Vierundzwanzigern.
 65. **Die Blumen:** **6. April** zwoelf weisse Stiele, Pyeongchang-dong mit Wohnungsnummer und Stock, Kaertchen ***"From an old friend."*** **27. April** dieselbe Bestellung, **andere Adresse ausserhalb der Stadt, kein Kaertchen** - und der Laden fragt immer. Dazwischen, auf derselben Zeile, **der Wagen vom 26.**
 66. **Los sechs:** Fruehjahrsauktion vor vier Jahren, im Buch vom Januar davor bis zum September danach, vier abgerechnete Posten gegen dieselbe Fundstelle: **Blumen zweimal, ein Fahrer, ein Arzt im Juli.**
-67. **K ist datiert: 24., 25. oder 26. Februar, vier Jahre zurueck.** S steht auf dem 20. Maerz. **Zweiundzwanzig bis vierundzwanzig Tage**, nicht drei Jahre. **H: Oktober, drei Jahre nach S, sechs Wochen bevor Hwang ins Haus kam.**
+67. **K ist datiert: 24., 25. oder 26. Februar, vier Jahre zurueck.** S steht auf dem 20. Maerz. **Zweiundzwanzig bis vierundzwanzig Tage**, nicht drei Jahre. **H: Ende August, drei Jahre nach S, sechs Wochen bevor Hwang Anfang Oktober ins Haus kam.**
 68. **Georgij hat vor elf Jahren einen Verlierer gehabt:** ein Zimmer, eine Hochzeit, die nicht stattfand, vier Jahre Ausland danach, zwei unabhaengige Zeugen mit dem Wort *"unrecognisable"*. **Kein Name.**
 69. **Neun Mahlzeiten seit Oktober, ueber vierhundert Begegnungen.** Annie sagte **met**, er hoerte **eaten with**.
 

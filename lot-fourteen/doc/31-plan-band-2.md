@@ -1721,7 +1721,8 @@ Fassung.**
   Erscheinung, kennt Kochnamen.** Faellig: wer das ist.
 
   **Kapitel 43:** S (Maerz, vor vier Jahren, derselbe Fruehling wie Los sechs)
-  und H (Oktober, drei Jahre danach - sechs Wochen vor Hwangs Ankunft) haben
+  und H (Ende August, drei Jahre danach - sechs Wochen vor Hwangs Ankunft
+  Anfang Oktober) haben
   Datum und Sang-hoons eigenes Gestaendnis (eine Ladung ohne Rechnung ueber
   seinen Namen bewegt), aber keinen Namen fuer die Gegenseite am Tisch. **K hat
   gar nichts** - kein Treffer in vier Jahren Reservierungsbuch. Annie weist auf
