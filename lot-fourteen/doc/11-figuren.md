@@ -1214,6 +1214,13 @@ bricht diese Regel sichtbar und absichtlich: Vier Jahre Warten haben Mr Ahn in
 Georgijs erstem Blick um sechs Jahre altern lassen. Die Gegenprobe steht auch in
 `doc/12-stimmen.md` und `doc/31-plan-band-2.md`.
 
+**Seine beiden Uhren am 6. Januar 2027 sind getrennt zu fuehren.** Georgij
+kennt ihn seit dem 14. August 2026, also seit knapp fuenf Monaten. Der Laden
+steht dagegen seit 2019 monatlich zur Miete, zu diesem Zeitpunkt also seit
+mindestens sieben Jahren. Die drei abweichenden Angaben mit jeweils sechs
+Monaten beziehungsweise sechs Jahren in `b2 ch76` sind offen in
+`doc/31-plan-band-2.md`, Punkt 48.
+
 **Und der Zug, den Georgij bei ihm nicht macht:** es gibt einen Satz, der ihn
 entlasten würde, und Georgij hat ihn nach zwanzig Sekunden und sagt ihn nicht.
 Die Begründung trägt; ihre anschließende Zeitangabe ist jedoch offen:

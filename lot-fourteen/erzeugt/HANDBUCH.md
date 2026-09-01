@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.642 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.890 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2469,6 +2469,13 @@ um mehr als ein Jahr. Der unmittelbar folgende Einwortabsatz **Thirty-nine**
 bricht diese Regel sichtbar und absichtlich: Vier Jahre Warten haben Mr Ahn in
 Georgijs erstem Blick um sechs Jahre altern lassen. Die Gegenprobe steht auch in
 `doc/12-stimmen.md` und `doc/31-plan-band-2.md`.
+
+**Seine beiden Uhren am 6. Januar 2027 sind getrennt zu fuehren.** Georgij
+kennt ihn seit dem 14. August 2026, also seit knapp fuenf Monaten. Der Laden
+steht dagegen seit 2019 monatlich zur Miete, zu diesem Zeitpunkt also seit
+mindestens sieben Jahren. Die drei abweichenden Angaben mit jeweils sechs
+Monaten beziehungsweise sechs Jahren in `b2 ch76` sind offen in
+`doc/31-plan-band-2.md`, Punkt 48.
 
 **Und der Zug, den Georgij bei ihm nicht macht:** es gibt einen Satz, der ihn
 entlasten würde, und Georgij hat ihn nach zwanzig Sekunden und sagt ihn nicht.
@@ -9004,6 +9011,11 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   November fragt sie Mrs Jeon erneut, diesmal nach einer Unterschrift. Kapitel
   64 nennt diese zweite belegte Frage faelschlich ihre erste in elf Jahren und
   uebernimmt damit Moon Hae-sooks Dauer; offen in `doc/31-plan-band-2.md`.
+- **Mr Ahns zwei Zeitspannen am 6. Januar 2027 sind nicht beide sechs.**
+  Georgij kennt ihn seit dem 14. August 2026, also seit knapp fuenf Monaten.
+  Der Laden steht seit 2019 monatlich zur Miete, damit seit mindestens sieben
+  Jahren. Die drei kleinsten Manuskriptersetzungen sind in
+  `doc/31-plan-band-2.md` offen.
 - **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
   Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
   wouldn't protect you."* - gesagt hatte er es nirgends. Statt den
@@ -17562,6 +17574,18 @@ freigegeben sind.
     Sim falsch. Der kleinste belastbare Ersatz bindet die Premiere an den
     vollzogenen Ausgang: **It is the first question she has asked since she
     walked out of the house.**
+48. **`b2 ch76:14,30-46,268` gegen `b2 ch53:4`, Mr Ahns zwei
+    Zeitspannen.** Kapitel 76 spielt am 6. Januar 2027. Georgij kennt Mr Ahn
+    seit dem 14. August 2026, also seit vier Monaten und dreiundzwanzig Tagen;
+    der Rueckblick darf gerundet fuenf, nicht sechs Monate nennen. Davon
+    getrennt steht Mr Ahns Laden seit 2019 monatlich zur Miete. Selbst bei
+    einem Beginn am letzten Tag des Jahres sind das am 6. Januar 2027 mehr als
+    sieben Jahre; die drei Angaben *since 2019* tragen, die beiden *six years*
+    nicht. Die drei kleinsten Ersetzungen sind: **which he has not done once
+    in five months.** / **I have been reliable for seven years and it has
+    never been worth anything before.** / **A man who has been month to month
+    for seven years is offered five years at the same rent, by an agent who
+    suggested it himself.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

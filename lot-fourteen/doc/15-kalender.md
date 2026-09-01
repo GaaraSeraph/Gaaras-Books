@@ -895,6 +895,11 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   November fragt sie Mrs Jeon erneut, diesmal nach einer Unterschrift. Kapitel
   64 nennt diese zweite belegte Frage faelschlich ihre erste in elf Jahren und
   uebernimmt damit Moon Hae-sooks Dauer; offen in `doc/31-plan-band-2.md`.
+- **Mr Ahns zwei Zeitspannen am 6. Januar 2027 sind nicht beide sechs.**
+  Georgij kennt ihn seit dem 14. August 2026, also seit knapp fuenf Monaten.
+  Der Laden steht seit 2019 monatlich zur Miete, damit seit mindestens sieben
+  Jahren. Die drei kleinsten Manuskriptersetzungen sind in
+  `doc/31-plan-band-2.md` offen.
 - **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
   Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
   wouldn't protect you."* - gesagt hatte er es nirgends. Statt den

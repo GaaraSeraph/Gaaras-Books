@@ -3190,6 +3190,18 @@ freigegeben sind.
     Sim falsch. Der kleinste belastbare Ersatz bindet die Premiere an den
     vollzogenen Ausgang: **It is the first question she has asked since she
     walked out of the house.**
+48. **`b2 ch76:14,30-46,268` gegen `b2 ch53:4`, Mr Ahns zwei
+    Zeitspannen.** Kapitel 76 spielt am 6. Januar 2027. Georgij kennt Mr Ahn
+    seit dem 14. August 2026, also seit vier Monaten und dreiundzwanzig Tagen;
+    der Rueckblick darf gerundet fuenf, nicht sechs Monate nennen. Davon
+    getrennt steht Mr Ahns Laden seit 2019 monatlich zur Miete. Selbst bei
+    einem Beginn am letzten Tag des Jahres sind das am 6. Januar 2027 mehr als
+    sieben Jahre; die drei Angaben *since 2019* tragen, die beiden *six years*
+    nicht. Die drei kleinsten Ersetzungen sind: **which he has not done once
+    in five months.** / **I have been reliable for seven years and it has
+    never been worth anything before.** / **A man who has been month to month
+    for seven years is offered five years at the same rent, by an agent who
+    suggested it himself.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
