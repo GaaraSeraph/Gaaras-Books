@@ -2813,3 +2813,19 @@ freigegeben sind.
     solche markiert werden: **It will go on the Tuesday** und **He will sit in
     one of them on the third of June**. Alternativ kann die Vorausblende hier
     entfallen, weil Kapitel 59 die ganze Einloesung bereits traegt.
+16. **`b2 ch35:196-292` und `b2 ch87:356` gegen `b2 ch61`, Mrs Jeons
+    Arbeitsbeginn in Gwangyang.** Kapitel 35 setzt ihren ersten Arbeitstag
+    ausdruecklich auf Montag, den 15. Juni: Brief und Poststempel tragen diesen
+    Tag, der Erzaehler nennt ihn *"Her first morning at a desk"*, Georgij sagt
+    *"She started today"*, und Annie berichtet vom selben ersten Vormittag.
+    Kapitel 87 bestaetigt spaeter, sie fuehre die Settlement-Funktion **since
+    June**. Kapitel 61 baut dagegen die gesamte Szene am 23. Oktober auf einen
+    Beginn am 1. Oktober: Schild seit dem 9. Oktober in ihrer zweiten Woche,
+    dreiundzwanzig Tage im Betrieb, Fund in der dritten Woche, ein Betrieb mit
+    drei Wochen Settlement, *"In October I came"*, die Zusage in der vierten
+    Woche und selbst der Kapiteltitel *Twenty-three days*. Beide Fassungen
+    koennen nicht zugleich gelten. **Die Entscheidung darf deshalb nicht als
+    einzelner Monatsersatz behandelt werden:** Juni verlangt einen Umbau der
+    Zeit- und Preisarchitektur in Kapitel 61; Oktober verlangt den Umbau der
+    zweiten Haelfte von Kapitel 35 sowie **since June** in Kapitel 87. Der
+    Kalender markiert beide Daten bis zur Manuskriptfreigabe als offen.

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.023 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.256 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -8189,8 +8189,8 @@ erledigt verbucht worden, ohne dass sie je im Text ankam:**
 
    **Nicht angefasst, weil richtig:** Mrs Jeons dreiundzwanzig Jahre hinter dem
    Glas (sechzehn Stellen), Mr Chaes dreiundzwanzig Jahre Urkunden, der Neffe von
-   dreiundzwanzig, die dreiundzwanzig Tage in Gwangyang, die dreiundzwanzig
-   uebrigen Namen in 30 und 78 - und **Chois dreiundzwanzig Jahre Kaeufe in dem
+   dreiundzwanzig, die dreiundzwanzig uebrigen Namen in 30 und 78 - und
+   **Chois dreiundzwanzig Jahre Kaeufe in dem
    Haus** (`ch80:274`), weil das eine eigene Spanne ab 2004 ist und nicht an 2002
    haengt. Dass in derselben Replik *"twenty-five"* und *"twenty-three"*
    nebeneinander stehen, ist kein Fehler, sondern die Aussage: er war der Mann,
@@ -8477,13 +8477,21 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
   liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
   dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 30)
-- Tag 251, Do 11. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang, und ein
+- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang, und ein
   Brief kommt mit Gwangyang-Poststempel an: das Blatt, das sie Hwang schuldig
   war, datiert auf denselben Morgen.** *"He was correct about the desk. He was
   wrong about the book."* Georgij haendigt es Hwang **nicht** aus - es sollte
   existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
   seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
   aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 31)
+
+  **OFFEN seit dem Kontinuitaetsdurchgang vom 01.09.:** Dieser Arbeitsbeginn
+  steht gegen `b2 ch61`, das Mrs Jeons gesamte Szene am 23. Oktober auf einen
+  Beginn am 1. Oktober und genau dreiundzwanzig Tage im Betrieb baut. `b2 ch87`
+  bestaetigt dagegen nochmals, sie fuehre die Settlement-Funktion seit Juni.
+  Bis der Manuskriptentscheid gefallen ist, sind weder Juni noch Oktober als
+  widerspruchsfrei bezahlt zu behandeln; die vollstaendige Gegenueberstellung
+  steht in `doc/31-plan-band-2.md`.
 - Tag 257, Mi 17. Juni: **Annie waehlt "Y", die juengste der vier Initialen,
   zuerst.** Sang-hoon nennt Yeom - und Georgij faengt den eigenen Fehler ab,
   bevor er ihn ausspricht: Yeom war laut Kapitel 25 selbst Empfaenger des
@@ -17091,6 +17099,22 @@ freigegeben sind.
     solche markiert werden: **It will go on the Tuesday** und **He will sit in
     one of them on the third of June**. Alternativ kann die Vorausblende hier
     entfallen, weil Kapitel 59 die ganze Einloesung bereits traegt.
+16. **`b2 ch35:196-292` und `b2 ch87:356` gegen `b2 ch61`, Mrs Jeons
+    Arbeitsbeginn in Gwangyang.** Kapitel 35 setzt ihren ersten Arbeitstag
+    ausdruecklich auf Montag, den 15. Juni: Brief und Poststempel tragen diesen
+    Tag, der Erzaehler nennt ihn *"Her first morning at a desk"*, Georgij sagt
+    *"She started today"*, und Annie berichtet vom selben ersten Vormittag.
+    Kapitel 87 bestaetigt spaeter, sie fuehre die Settlement-Funktion **since
+    June**. Kapitel 61 baut dagegen die gesamte Szene am 23. Oktober auf einen
+    Beginn am 1. Oktober: Schild seit dem 9. Oktober in ihrer zweiten Woche,
+    dreiundzwanzig Tage im Betrieb, Fund in der dritten Woche, ein Betrieb mit
+    drei Wochen Settlement, *"In October I came"*, die Zusage in der vierten
+    Woche und selbst der Kapiteltitel *Twenty-three days*. Beide Fassungen
+    koennen nicht zugleich gelten. **Die Entscheidung darf deshalb nicht als
+    einzelner Monatsersatz behandelt werden:** Juni verlangt einen Umbau der
+    Zeit- und Preisarchitektur in Kapitel 61; Oktober verlangt den Umbau der
+    zweiten Haelfte von Kapitel 35 sowie **since June** in Kapitel 87. Der
+    Kalender markiert beide Daten bis zur Manuskriptfreigabe als offen.
 
 ---
 
