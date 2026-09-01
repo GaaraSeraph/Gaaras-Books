@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 317.361 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 317.388 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17327,22 +17327,24 @@ freigegeben sind.
     machen. Der einzelne Monatsname in Kapitel 89 muss deshalb **He wrote in
     February about the suspension** lauten.
 
-31. **`b2 ch85:264-348`, `b2 ch86:14-42,436-456` und `b2
+31. **`b2 ch85:264-348`, `b2 ch86:14-42,214,436-456` und `b2
     ch87:14-178`, die Uhr im kleinen Zimmer.** Mrs Seo holt Choi um 21:30 Uhr
     vom Tisch. Georgij betritt das kleine Zimmer um 21:35 Uhr; Kapitel 86 setzt
     das Hinsetzen beider Maenner auf 21:40 Uhr und behauptet danach noch eine
-    halbe Stunde, in der keiner den gedeckten Tisch anspricht. Kapitel 87 zeigt
-    Georgij jedoch schon um genau 21:40 Uhr wieder im Speisesaal, schickt Mrs
-    Seo um 21:50 Uhr zurueck und laesst Choi um 21:56 Uhr abfahren. Das ist
-    bereits als reine Uhrfolge unmoeglich; die 1.916 Woerter direkter Rede in
-    Kapitel 86 koennen zudem nicht zwischen Eintritt und gleichzeitiger
-    Rueckkehr liegen. **Hier reicht kein einzelner Zeitersatz.** Der kleinste
-    geschlossene Takt behaelt Eintritt und Hinsetzen in Kapitel 86, macht aus
-    *the next half hour* **the next ten minutes** und verschiebt in Kapitel 87
-    die Rueckkehr auf 21:50 Uhr, den Datensatz am Tisch auf etwa 21:55 Uhr, Mrs
-    Seos Gang auf 22:00 Uhr und Chois Abfahrt auf 22:06 Uhr. Die ausdruecklich
-    gesetzten elf Minuten bleiben damit erhalten; Mr Kohs Abgang um 22:10 Uhr
-    ist weiterhin moeglich.
+    halbe Stunde, in der keiner den gedeckten Tisch anspricht. Spaeter im selben
+    Kapitel soll der Tisch jedoch erst seit einer Viertelstunde gedeckt sein.
+    Kapitel 87 zeigt Georgij ausserdem schon um genau 21:40 Uhr wieder im
+    Speisesaal, schickt Mrs Seo um 21:50 Uhr zurueck und laesst Choi um 21:56
+    Uhr abfahren. Das ist bereits als reine Uhrfolge unmoeglich; die 1.916
+    Woerter direkter Rede in Kapitel 86 koennen zudem nicht zwischen Eintritt
+    und gleichzeitiger Rueckkehr liegen. **Hier reicht kein einzelner
+    Zeitersatz.** Der kleinste geschlossene Takt behaelt Eintritt und Hinsetzen
+    in Kapitel 86, macht aus *the next half hour* **the next ten minutes** und
+    verschiebt in Kapitel 87 die Rueckkehr auf 21:50 Uhr, den Datensatz am Tisch
+    auf etwa 21:55 Uhr, Mrs Seos Gang auf 22:00 Uhr und Chois Abfahrt auf 22:06
+    Uhr. Damit ist der Tisch an der spaeteren Stelle seit genau einer
+    Viertelstunde gedeckt. Die ausdruecklich gesetzten elf Minuten bleiben
+    ebenfalls erhalten; Mr Kohs Abgang um 22:10 Uhr ist weiterhin moeglich.
 32. **`b2 ch86:404` gegen `b2 ch85:214-246` und `b2 ch87:14-124`, der
     Erkenntnisstand der sechsundzwanzig.** Georgij behauptet im kleinen Zimmer,
     bereits um etwa 21:15 Uhr habe jeder der sechsundzwanzig verstanden, was
