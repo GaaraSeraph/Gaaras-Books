@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """zusagen.py - haelt fest, was im Text versprochen wurde, und was davon offen ist.
 
-Zwei Zusagen sind in dieser Sitzung als ueberfaellig gefunden worden, beide
-von Hand, beide Monate zu spaet: die fuenf Firmen aus Kapitel 12 (vier Monate
-erzaehlte Zeit) und Annies "You will in about a month" aus Kapitel 5 (sechs
-Monate). Beide standen im Text und in keiner Liste.
+Die Vollpruefung vom 01.09. hat gezeigt, dass nicht nur fehlende Eintraege,
+sondern auch Einloesungen aus geloeschten Fassungen driften koennen. Darum
+wertet das Werkzeug nur den aktiven Teil des Schuldbuchs aus; die darunter
+erhaltene Altversionsablage ist Gedaechtnis und kein Kanonstand.
 
 **Das Prinzip ist dasselbe wie ueberall hier: was geprueft wird, stimmt.
 Was nicht geprueft wird, driftet.** Also wird es geprueft.
@@ -27,12 +27,11 @@ geprueft und als Nichtzusage befunden wurde, steht mit Begruendung im Buch und
 kommt nicht wieder.
 
 **Und die Warnung, die am 27.08. dazugekommen ist, weil der Fall eingetreten
-ist:** eine ueberfaellige Zusage ist ein **Befund und keine Anweisung**. Am
-25.08. wurde die Zusage ueber die fuenf Firmen aus B2 12 als ueberfaellig
-gemeldet, und bezahlt wurde sie, indem Szenen geschrieben wurden, in denen der
-Anspruch erlassen wird. Der Kauf, den B2 20 mit Datum ankuendigt, ist nie
-erzaehlt worden. **Wer eine Zeile gruen macht, indem er das Vermoegen
-abschreibt, hat das Werkzeug gegen das Buch benutzt.** Siehe `doc/31-plan-band-2.md`.
+ist:** eine ueberfaellige Zusage ist ein **Befund und keine Anweisung**. Der
+Kauf der fuenf Firmen wird nicht als eigene Szene erzaehlt, ist im heutigen
+Kanon aber in B2 79 und B2 87 rueckblickend bestaetigt. Das Schuldbuch darf
+diese Bestaetigung verbuchen; es darf keine fehlende Szene erfinden, nur um
+eine Zeile gruen zu machen. Siehe `doc/31-plan-band-2.md`.
 
 Das Buch ist `doc/13-zusagen.md` und wird von Hand gefuehrt. Das Skript
 entscheidet **nicht**, ob etwas eine Zusage ist - das ist Urteil. Es rechnet
@@ -128,6 +127,11 @@ def lies_buch():
     im_block = False
     with open(BUCH, encoding="utf-8") as f:
         for i, zeile in enumerate(f, 1):
+            # Alles unter diesem Kopf gehoert zu geloeschten Fassungen. Es
+            # bleibt als Gedaechtnis stehen, darf den aktuellen Stand aber
+            # weder bezahlen noch neue Fundstellen unterdruecken.
+            if zeile.startswith("## Aus einer Fassung, die es nicht mehr gibt"):
+                break
             # Das Formatbeispiel steht in einem Codeblock und ist keine Zusage.
             if zeile.startswith("```"):
                 im_block = not im_block

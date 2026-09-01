@@ -659,127 +659,24 @@ Geburtstag und nicht der Text.
 
 | Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
 |---|---|---|---|---|
-| Baek Jun-ho | dreiundsechzig | b2 K60, 15. Oktober | 26. September | **10. November** |
+| Baek Jun-ho | dreiundsechzig | b2 K89, 16. Mai 2027 | 26. September | **10. November** |
 | Mrs Jeon Mi-ja | einundfuenfzig | b2 K64, 1. November | 24. Juli | **15. November** |
-| Mrs Sunwoo | einundachtzig | b2 K67, 11. November | 29. September | **17. November** |
-| Choi Dae-ho | neunundfuenfzig | b2 K86, 6. November | 8. September | **18. November** |
+| Mrs Sunwoo | einundachtzig | b2 K89, 16. Mai 2027 | 29. September | **17. November** |
+| Choi Dae-ho | sechzig | b2 K87, 18. Maerz 2027 | 8. September | **18. November** |
 
 **Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
-Georgijs Geburtstag ist der 28. Juni.** Der Widerspruch selbst ist damit
-allerdings noch nicht weg, siehe die zwei Wege unten - ein Geburtstag sagt,
-**wann** er ein Jahr aelter wird, aber nicht, **mit welcher Zahl** er anfaengt.
+Georgijs Geburtstag ist der 28. Juni.** Der Autor hat zugleich entschieden,
+dass der Auktionskatalog gilt. Damit ist er an Tag 1 sechsundzwanzig und wird
+am 28. Juni des zweiten Erzaehljahres siebenundzwanzig. Die heutigen
+Schlusskapitel nennen sein Alter nicht mehr; das oeffnet die Entscheidung
+nicht wieder.
 
-**Georgij ist an beiden Enden des Buches sechsundzwanzig:**
-
-  - **NEU am 26.08.: die neun Anrufe, und sie sind seine.** Zwischen dem 9. und
-    dem 19. November telefoniert **Georgij** neunmal, aus dem Gang hinter der
-    Kueche, nachmittags, und sagt ihr am Vorabend jeweils, wer als naechstes
-    dran ist. Er erzaehlt jedem Einzelnen, **was ihm angetan wurde**, und
-    verlangt nichts dafuer. Sang-hoon zuerst, wegen der vier Entscheidungen an
-    Chois Tischen, die er nie hat erklaeren koennen; dann Woo, Mr Yeom,
-    Mr Hwang, Baek Jun-ho und vier, die im Buch nicht vorkommen, zwei davon im
-    Ministerium.
-  - **Regel 2 steht dem nicht entgegen.** Sie sagt, dass er nichts besitzt,
-    nicht dass er nichts tun kann. Der Apparat im Gang gehoert ihm nicht und
-    muss es auch nicht; er benutzt ihn seit Band 1, Kapitel 21.
-  - **Das Verfahren ist sein eigenes aus Kapitel 36**, wo es seit Mai unbenutzt
-    stand: *"I go to them one at a time and I tell them what was done to them.
-    I do not accuse him of anything, because he has never once claimed
-    anything."* **Damit ist es zugleich die groesste Heft-Entnahme des Buches**
-    - ein Plan, im Mai abgelegt und im November geholt.
-  - **DAS VERSPRECHEN VOM 23. APRIL IST GEHALTEN.** In b2 K86 dreht er die
-    Bedeutung von *nehmen*: Choi besitzt nichts, also ist ihm nichts
-    **abzunehmen**, und Annies Einwand bleibt richtig. **Wegzunehmen** sind ihm
-    die neun Leute, die nicht wissen, was er ihnen angetan hat. Auf ihre Frage
-    am 20. November: *"I have had him."* Der Eintrag in `doc/13` steht auf
-    **BEZAHLT**, und das Buch hat damit **keine gebrochene Zusage mehr**.
-  - **Choi erfaehrt in keinem Gespraech, wer davon weiss.** Seine einzige Szene
-    ist der 6. November, die Anrufe fangen am neunten an. *"He will not know
-    that there is a where."* Ausdrueckliche Vorgabe des Autors.
-  - **Und Annie nennt es beim Namen:** *"That is the cruellest thing anybody in
-    this house has done this year, and I want it said out loud in this room
-    that both of us know it is."*
-  - **Die Wiedererkennung am Schluss:** es ist derselbe Zug wie am 4. Oktober
-    des Vorjahres auf der Rampe. *"The only difference is that in October I did
-    not know I was doing it."*
-  - **Mr Byun, und die Regel dahinter** (`doc/04`): vier Zahlungen, drei
-    Kaeufer, und **Annie ist eine der drei**. Sie hat zweimal fuer das
-    Streichen zweier Zeilen bezahlt und er hat beide Male genommen und nichts
-    gestrichen. Seit Mai nimmt sie saemtliche ehemaligen Angestellten des
-    Hauses auf, **ausser einem**, und Byun ist seit Mai nicht gesehen worden.
-    **Der Text sagt nicht, was geschehen ist**, und der Satz, der es fuer den
-    Leser schliesst, ist die einzige Stelle im Buch, an der das Heft mit
-    Absicht leer bleibt.
-  - **Mr Hwangs Angebot im Oktober** loest den Satz aus B2 21 vom 4. Mai ein:
-    *"You are going to be given work by somebody eventually and it is going to
-    be beneath you."* Er hat nicht geantwortet und es ist nicht zurueckgezogen.
-  - **Offener Faden, mit Absicht:** Annie hat **zwei** Lose in dem Haus gekauft.
-    Das erste ist Georgij. Das zweite wird nirgends genannt. Siehe `doc/07`.
-
-- **Tag 1**, der Katalog: *"Lot fourteen. Male, twenty-six."*
-- ~~**Tag 367**, Woo: *"You are twenty-six."*~~ - **am 26.08. aus dem Text
-  gefallen**, siehe unten.
-- **Tag 415**, er selbst, im letzten Kapitel: seit 26.08. *"I am **twenty-seven**
-  and it has taken me eight months."*
-
-**Dazwischen liegen dreizehn Monate.** Ein Mensch kann nicht an beiden Enden
-sechsundzwanzig sein, und **kein Geburtstagsdatum rettet das**, weil jedes
-Datum in diese Spanne faellt. Der Geburtstag am 12. September ist damit nicht
-falsch, sondern **unbrauchbar**.
-
-**Zwei Wege, und beide sind Autorenentscheidungen:**
-
-1. **Er wird siebenundzwanzig.** Seit dem 26.08. aendert sich **ein** Wort und
-   nicht zwei, naemlich nur in alt K90. Der Schlusssatz des Buches hiesse dann
-   *"I am twenty-seven and it has taken me eight months."*
-2. **Der Katalog irrt sich um ein Jahr.** Er ist bei der Auktion
-   fuenfundzwanzig, wird waehrend des Buches sechsundzwanzig, und der Katalog
-   hat ihn falsch gefuehrt. **Das ist das Thema des Buches** - der aufgeraeumte
-   Katalog, die Loeschung, die nie ausgefuehrt wurde -, und es macht aus einem
-   Rechenfehler eine Pointe. Kostet aber eine Stelle, an der es jemand bemerkt.
-
-**ENTSCHIEDEN am 26.08.** Der Autor: *"am Anfang so wie es in der Auktion
-gesagt wird."* Damit gilt **Weg 1**: der Katalog stimmt, er ist sechsundzwanzig
-an Tag 1, und er wird am 28. Juni des zweiten Erzaehljahres siebenundzwanzig.
-**Kapitel 90 ist auf *twenty-seven* geaendert** - ein Wort, und es war das
-einzige, weil Woos *"You are twenty-six"* am selben Tag aus dem Text gefallen
-ist. Der Fall ist geschlossen; was darunter steht, ist die Herleitung.
-
-**Der 28. Juni entscheidet die Frage nicht allein, er schaerft sie.** Er faellt in
-beide Erzaehljahre hinein, also wird Georgij waehrend des Buches genau einmal
-ein Jahr aelter, am 28. Juni des zweiten Jahres, zwischen Tag 268 und Tag 269.
-Was offen bleibt, ist die Anfangszahl:
-
-- **Weg 1:** der Katalog stimmt, er ist 26 bei der Auktion und wird am
-  28. Juni siebenundzwanzig. **Dann ist alt K90 falsch und ein Wort aendert sich.**
-- **Weg 2:** der Katalog hat ihn falsch gefuehrt, er ist 25 bei der Auktion und
-  wird am 28. Juni sechsundzwanzig. **Dann ist alt K90 richtig und Band 1 Kapitel 1
-  ist die Luege**, was das Thema des Buches ist.
-
-**In beiden Faellen ist der 28. Juni derselbe Tag, und in beiden Faellen liegt
-er im Buch.** Es steht bisher an keiner Stelle, dass er Geburtstag hat.
-
-**Nachtrag 26.08., und er verschiebt die Rechnung.** Beim Zusammenlegen von 78
-und 79 ist ein Drittel von Woos Belehrung gefallen, und darin stand
-*"You do not know it in the way you are going to know it. **You are
-twenty-six.**"* Gestrichen wurde es wegen `doc/08` - Kapitel 73 ist die letzte
-Stelle, an der jemand eine Lesart von Georgij umdreht -, und **dass die Zeile
-hier verbucht war, wusste ich beim Streichen nicht.**
-
-Folgen, beide Wege betreffend:
-
-- **Der Widerspruch bleibt bestehen.** Er lag nie zwischen Tag 367 und Tag 415,
-  sondern zwischen dem Katalog an Tag 1 und dem Schlusskapitel an Tag 415.
-  Dreizehn Monate, zweimal sechsundzwanzig.
-- **Weg 1 ist billiger geworden:** ein Wort statt zwei.
-- **Weg 2 hat seinen Preis schon bezahlt, ungewollt.** Der Einwand gegen ihn
-  war, er koste *"eine Stelle, an der es jemand bemerkt"*. Woos Satz **war**
-  diese Stelle, und zwar die einzige im ganzen Buch, an der ein anderer Mensch
-  Georgijs Alter in einer Szene ausspricht. Sie ist jetzt weg. Wer Weg 2 nimmt,
-  zahlt nichts mehr dafuer.
-- **Rueckholbar.** Die Altershaelfte des Satzes laesst sich ohne die
-  Belehrungshaelfte wieder einsetzen, wenn der Autor die Beobachtung behalten
-  will. Das ist eine Zeile Arbeit und kein Eingriff in den Bau.
+**Der fruehere Schlussstand mit neun November-Anrufen ist ebenfalls kein Kanon
+mehr.** Im heutigen Schluss stirbt Choi am 8. April; B2 89 erzaehlt die Folgen
+und B2 90 laesst Georgij Mord und Kollateralschaden gegenueber Annie
+aussprechen. Der groessere Inhalt seiner Drohung ist Wirklichkeit geworden,
+die zugesagte Jahresfrist aber nicht. Weil der Text den Fristbruch nicht
+benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
@@ -1186,9 +1083,11 @@ Kapitel in Tagesreihenfolge stehen, und das steht seit dem 28.08. auch in
 seiner Gegenprobe: geprueft wird jetzt die Reihenfolgepruefung selbst, die
 Aufloesung nach Naehe und die Erkennung ausdruecklicher Jahresabstaende.
 
-`werkzeug/wochentag.py` bindet Wochentage an Daten. **Drei Stellen im ganzen
-Buch tun das**, alle drei stimmen. Eine kleine Zahl ist hier kein Mangel: es
-ist die einzige Zeitangabe, die ohne Urteil entscheidbar ist.
+`werkzeug/wochentag.py` bindet Wochentage an Daten. **Vier Stellen im ganzen
+Buch tun das**, alle vier stimmen. Die vierte ist B3 Kapitel 1: Mittwoch, der
+26. Mai, und sie loest im dynamisch berechneten Handlungsfenster auf 2027 auf.
+Eine kleine Zahl ist hier kein Mangel: es ist die einzige Zeitangabe, die ohne
+Urteil entscheidbar ist.
 
 `werkzeug/spanne.py` rechnet Spannen nach, **aber nur, wenn beide Enden im
 selben Satz stehen**. Das sind zwei. Die weite Fassung meldete

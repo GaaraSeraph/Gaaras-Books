@@ -4,8 +4,9 @@ u"""Jedes ausdrueckliche Datum im Fliesstext gegen das Tagesregister.
 **WARNUNG, am 28.08. durch die Gegenprobe aufgedeckt.** Die urspruengliche
 Frage dieses Skripts war: blickt ein Kapitel auf ein Datum zurueck, das ein
 **spaeteres** Kapitel erzaehlt? Diese Pruefung ist **nicht ausloesbar**,
-solange die Kapitel in Tagesreihenfolge stehen, und das tun sie: alle 117,
-ohne Ausnahme. Ein Rueckblick loest immer auf ein frueheres Kapitel auf. Eine
+solange die Kapitel in Tagesreihenfolge stehen, und das tun alle
+Kanonkapitel ohne Ausnahme. Ein Rueckblick loest immer auf ein frueheres
+Kapitel auf. Eine
 Null aus dieser Richtung beweist nichts.
 
 Was das Skript darum **wirklich** leistet:
@@ -86,7 +87,19 @@ JAHRE_HER = re.compile(r'\b(%s|\d+)\s+years?\s+ago\b'
 VORLETZTES = re.compile(r'\bthe year before last\b', re.I)
 LETZTES = re.compile(r'\blast (?:year|spring|summer|autumn|winter)\b', re.I)
 
-FENSTER_BIS = TAG1 + datetime.timedelta(days=589)
+def handlungsfenster_bis():
+    u"""Letztes Datum aus den kanonischen Kapitelkoepfen."""
+    tage = []
+    for _band, _kapitel, pfad, _name in REG.kanon():
+        with io.open(pfad, encoding='utf-8') as f:
+            zeilen = f.readlines()
+        for eintrag in REG.kopfzeilen(zeilen):
+            if eintrag[0]:
+                tage.extend(eintrag[0])
+    return REG.datum(max(tage)) if tage else TAG1
+
+
+FENSTER_BIS = handlungsfenster_bis()
 
 
 def jahresversatz(zeile):

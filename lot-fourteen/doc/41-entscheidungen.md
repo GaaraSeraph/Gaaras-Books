@@ -1077,35 +1077,27 @@ dafuer sorgen, dass sie in meiner Schuld stehen und ihn sehr ungerne
 ungestraft am Leben lassen wuerden."* Und dazu: *"er hat Sang-Hoon
 manipuliert. Alleine der sorgt schon fuer ein bye bye bye."*
 
-**Ausgefuehrt in B2 90 als neun Anrufe von Annie.** Drei Dinge daran sind
-Regeln und keine Szene:
+**Endfassung nach der Neuschreibung des Schlusses am 31.08.:** Die neun Anrufe
+gehoeren zu einer geloeschten Fassung. Im heutigen Kanon nimmt Georgij Choi
+ueber elf Monate alles, Choi stirbt am 8. April durch eine unbekannte Hand, und
+B2 90 laesst Georgij den kausalen Satz selbst sagen: *"I killed him."*
 
-1. **Er nimmt ihm nicht etwas ab, er nimmt ihm etwas weg**, und das ist nicht
-   dasselbe Wort. Choi besitzt nichts, unterschreibt nichts und verlangt
-   nichts. Was er angehaeuft hat, sind neun Leute, die nicht wissen, was er
-   ihnen angetan hat. **Wer diesen Unterschied einebnet, macht den ganzen
-   Schluss unmoeglich**, weil Annies Einwand in 88 richtig bleibt: abzunehmen
-   ist ihm nichts.
-2. **KORRIGIERT am selben Abend, und die Korrektur ist die Entscheidung.**
-   Der Autor: *"Natuerlich gehoert er mir. Ich habe ihm alles genommen... genau
-   wie in Band 1 Kapitel 1 habe ich das Ende des Lebens eines Mannes
-   eingeleitet, ohne selber einen Mord zu begehen."* **Und der Beleg steht
-   wirklich in Kapitel 1:** er steht mit einer Nummer an sich auf einer Rampe
-   und sagt einem Saal einen wahren Satz ueber den Mann in der zweiten Reihe.
-   Er fasst ihn nicht an, er luegt nicht, der Saal erledigt den Rest.
-   **Kapitel 88 ist umgeschrieben, das Versprechen vom 23. April ist gehalten,
-   und der Eintrag in `doc/13` steht auf BEZAHLT.** Georgij telefoniert selbst;
-   Regel 2 sagt, dass er nichts besitzt, nicht dass er nichts tun kann.
-3. **Choi erfaehrt nie, wer davon weiss.** Seine einzige Szene liegt am
-   6. November, die Anrufe fangen am neunten an. *"He will not know that there
-   is a where."* Das ist ausdrueckliche Vorgabe des Autors und keine
-   Kunstfertigkeit.
+Drei Entscheidungen bleiben bindend:
 
-**Und das Verfahren ist nicht neu.** Es steht seit Kapitel 36 im Buch und ist
-seither nie benutzt worden: *"I go to them one at a time and I tell them what
-was done to them. I do not accuse him of anything, because he has never once
-claimed anything."* **Damit ist es zugleich die groesste Heft-Entnahme des
-Buches** - ein Plan, der im Mai abgelegt und im November geholt wird.
+1. **Choi erfaehrt nicht, wer von seinen Tischen weiss.** Der Text gibt ihm
+   keine letzte Aufklaerungsszene und keinen Gegner, den er noch bearbeiten
+   koennte.
+2. **Georgij legt nicht selbst Hand an ihn, spricht sich aber nicht frei.** Die
+   unbekannte Hand aendert nichts daran, dass er Chois Ende bewusst eingeleitet
+   hat. Der Mord bricht etwas in ihm; der Kollateralschaden haelt ihn wach.
+3. **Dass er es fuer Annie wieder tun wuerde, hebt den Mord nicht auf.** Es
+   beruhigt ihn, weil es die Wahrheit seiner Entscheidung benennt, nicht weil
+   es ihn freispricht.
+
+**Das Versprechen vom 23. April ist inhaltlich erfuellt, aber nicht fristgerecht.**
+Die Zusage lautete *before the end of the year*; Choi stirbt im April. Weil der
+Text diese verfehlte Frist nicht bemerkt, fuehrt `doc/13-zusagen.md` sie auf
+**OFFEN** und nicht auf BEZAHLT oder VERFALLEN.
 
 
 ## Band 3 bis Band 6

@@ -1372,12 +1372,13 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Faelliges mit Datum
 
-- **DIE ZEILE AM ENDE DES BANDES**, ein Vorschlag und noch nicht im Text. **Vom Autor gesetzt am 23.08., und sie ist der
-  Zielpunkt, auf den Band 2 zulaeuft.**
+- **DIE ZEILE AM ENDE DES BANDES steht im Kanon**, in B2 Kapitel 90. **Vom
+  Autor gesetzt am 23.08., und sie ist der Zielpunkt, auf den Band 2
+  zulaeuft.**
 
-  **Unter Erschoepfung, ungeplant, in einem Zug** - der Vorschlag, noch nicht im Text: *"You are such a beautiful,
-  strong woman. Thank you for buying me."* Sinngemaess und in seinem Register,
-  nicht woertlich - aber **die zweite Haelfte muss so dastehen.**
+  **Unter Erschoepfung, ungeplant, in einem Zug:** *"You are such a beautiful,
+  strong woman. Thank you for buying me."* Der Wortlaut steht jetzt genau so
+  im Text.
 
   **Warum sie traegt:** es ist das Einzige, was er in zwei Baenden nicht
   ausgesprochen hat, es ist vollstaendig wahr, und er wuerde es **nie mit
@@ -1404,20 +1405,18 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 eine Zeile hier stehen laesst und das Datum ueberschreitet, hat ein Versprechen
 gebrochen, das im Text steht.
 
-**Abgerechnet am 25.08., Band 2 steht bei Kapitel 57, Tag 318, dem 17. August.**
-Fuenf Zeilen sind bezahlt und unten gestrichen. **Drei sind offen und
-ueberfaellig**, und zwei davon haben ein Datum aus dem April:
+**Historischer Arbeitsstand vom 25.08.: Band 2 stand bei Kapitel 57, Tag 318,
+dem 17. August.** Die damals drei offenen Zeilen sind im heutigen Kanon
+bezahlt: Georgij beantwortet Annies zweite Bedingung in B2 19; B2 79 und B2 87
+bestaetigen den Kauf der fuenf Firmen; B2 69 loest *"You will in about a
+month"* ein.
 
-1. **Annies zweite Bedingung: ob es ihm gefallen hat.** Zugesagt am 3. April
-   (Kapitel 12), faellig, sobald die Sache erledigt ist - erledigt ist sie seit
-   dem 23. April. Am 9. Juni, in Kapitel 36, **verspricht er es noch einmal**,
-   woertlich, statt es einzuloesen. Ein zweites Versprechen ist keine Zahlung.
-2. **Alle fuenf Firmen in Annies Eigentum.** Woos Papier haben sie Ende April
-   gezeichnet, aber **die fuenf Verkaeufe an sie stehen nirgends im Text.** Die
-   Spur bricht nach Kapitel 24 ab; seither sind dreiunddreissig Kapitel
-   vergangen. Genau das, wovor die Zeile selbst warnt: *als Absicht verdunstet.*
-3. **"You will in about a month."** Faellig Anfang April, gesagt am 11. Maerz.
-   Der Band steht im August, und der Text hat es nie aufgeloest.
+**Vollpruefung vom 01.09.:** Drei andere Schulden waren durch Verweise auf
+geloeschte Fassungen faelschlich als bezahlt gefuehrt. Chois Jahresfrist ist
+verfehlt, ohne dass der Text den Fristbruch benennt. Mrs Jeons angekuendigte
+Annahme vom Sohn kommt nicht mehr vor. Von Annies Auftrag, allen fuenf Firmen
+die Schuld zu erlassen, wird nur Mr Kwon nachweislich unterrichtet. Der genaue
+Kanonstand steht in `doc/13-zusagen.md`.
 
 **Stand nach der Neufassung von Kapitel 9 bis 11 am 23.08.** Zwei alte Zeilen
 sind ersatzlos entfallen, weil die Kapitel, die sie gesetzt haben, nicht mehr
@@ -2258,19 +2257,18 @@ nicht mehr wahr, und er weiss es. Das schwaecht ihn nicht, es macht ihn genauer 
 und es gibt Kapitel 21 einen zweiten Boden, weil der Mann, der die Praxis
 abgestellt hat, danebenstand, waehrend sie ein letztes Mal benutzt wurde.
 
-**2. Drei angekuendigte Rechnungen, die nie kommen.** Alle drei sind keine
-Textfehler, sie brauchen eine Szene oder eine Streichung:
+**2. Drei angekuendigte Rechnungen im Arbeitsstand vom 25.08.** Die
+Vollpruefung vom 01.09. trennt sie wie folgt:
 
 - **Kapitel 5:** *"You do not yet. You will in about a month."* Der Preis fuer den
-  Nachmittag am Kondolenzbuch, dreizehn Maenner in Hoerweite. Keiner der dreizehn
-  taucht je wieder auf; Yeom findet ihn ueber das Registerformular. Faellig
-  Anfang April, am 30. Juni immer noch offen.
-- **Kapitel 18:** *"You will get there in about four days and it will be yours."*
-  Gemeint sind die zwei Maenner, die Choi haben essen sehen. Bis Kapitel 42 nie
-  benannt - und der Faden laeuft stattdessen ueber Sang-hoon, der ihn **nie** hat
-  essen sehen und also keiner der fuenf ist.
+  Nachmittag am Kondolenzbuch. **Bezahlt in B2 69.** Die alte Behauptung, der
+  Satz bleibe offen, war ueberholt.
+- **Altes Kapitel 18:** *"You will get there in about four days and it will be
+  yours."* Der Satz steht in keiner heutigen Kanonfassung mehr und erzeugt
+  deshalb keine Schuld.
 - **Kapitel 2:** *"two of them will be gone by June."* Shin kommt nach Kapitel 2
-  in keinem Kapitel mehr vor. Es ist der 30. Juni.
+  in keinem Kapitel mehr vor. **Das ist eine Vorhersage ueber Dritte und keine
+  Zusage**, bleibt aber als ungepruefte Kontinuitaetsbehauptung bestehen.
 
 **3. Wissen, das aufhoert benutzt zu werden.**
 

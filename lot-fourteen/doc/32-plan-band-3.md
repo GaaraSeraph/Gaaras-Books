@@ -1355,10 +1355,11 @@ es zu wissen.
 **Sie hat recht.**
 
 **2. Die achtundfuenfzig Hochzeitsgaeste.** Moon Hae-sooks einziger Wunsch
-(`b2 ch67:238`) ist als **OFFEN** im Schuldbuch verzeichnet, faellig bei jedem
-Einzelnen. **Und die Zeile, mit der das Schuldbuch das belegt, steht im Kanon
-nicht** - *the other fifty-eight are in the back of the book* kommt nirgends
-vor. Entweder fehlt sie, oder der Beleg gehoert korrigiert.
+(`b2 ch67:248`) ist als **OFFEN** im Schuldbuch verzeichnet, faellig bei jedem
+Einzelnen: *"I will use your words and not mine."* B2 83 setzt Mr Hwang an die
+achtundfuenfzig; B2 89 verbucht vier Funde. Der fruehere Beleg *the other
+fifty-eight are in the back of the book* stand nur in einer geloeschten
+Fassung und ist aus dem aktiven Schuldbuch entfernt.
 
 **3. Chairman Woos versiegelter Umschlag.** Vier Antworten in seiner
 Handschrift, beim Anwalt, *and not one hour before* - **faellig bei seinem
@@ -4380,10 +4381,17 @@ je gegeben hat** - und in Band 5 stimmt er.
 
 ---
 
-# Das Schuldbuch: wo die drei offenen Zusagen eingeloest werden
+# Das Schuldbuch: Orte fuer drei der offenen Zusagen
 
-**Vom Autor am 29.08. angefordert.** `doc/13-zusagen.md` fuehrt drei Posten
-als **[OFFEN]**, und alle drei haben jetzt einen Ort.
+**Vom Autor am 29.08. angefordert.** Dieser Abschnitt verteilt Singapur, die
+achtundfuenfzig und die zweite Korrektur. **Er ist keine vollstaendige Zaehlung
+des heutigen Schuldbuchs.**
+
+**Nachpruefung vom 01.09.:** Drei durch Altversionsbelege verdeckte Schulden
+sind wieder offen: Chois verfehlte Jahresfrist, Mrs Jeons angekuendigte Annahme
+vom Sohn und Georgijs vier noch fehlende Mitteilungen an die fuenf Firmen. Fuer
+sie ist hier noch keine Band-3-Szene festgelegt. Mrs Seos Jahresfrist bleibt
+ebenfalls offen, hat aber bereits ihren eigenen spaeteren Ort im Plan.
 
 ## 1. Singapur: *"What he actually owns behind the lawyers in Singapore"*
 
@@ -4406,8 +4414,8 @@ halb eingeloest wird, wird benannt und nicht stillschweigend abgehakt.
 ## 2. Die achtundfuenfzig: was aus den Eingeladenen geworden ist
 
 **Georgij an Moon Hae-sook, Tag 409, faellig bei jedem einzelnen von
-achtundfuenfzig.** Der Text weiss es und sagt es selbst: *The other fifty-eight
-are in the back of the book and I am going to be at this for years.*
+achtundfuenfzig.** Der Text weiss es: B2 83 nennt achtundfuenfzig offene Namen,
+und B2 89 sagt, dass Hwang vier davon gefunden hat.
 
 **Das ist kein Posten, der eingeloest wird, sondern einer, der laeuft.**
 

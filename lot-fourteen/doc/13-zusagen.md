@@ -41,55 +41,21 @@ gemessen wird, driftet.**
 
 ---
 
-## [BELEG?] und [ZITAT?] - was die Markierungen heissen
+## Kanonstand nach der Vollpruefung vom 01.09.
 
-**Endstand vom 28.08.** Am Anfang des Tages liessen sich einundzwanzig
-Adressen gegen ihr woertliches Zitat belegen. Am Ende sind es
-**sechsundvierzig**, und alle stimmen.
+Die acht verbliebenen `[BELEG?]`- und `[ZITAT?]`-Markierungen sind gegen die
+jeweils hoechste Kapitelfassung geprueft und aufgeloest. **Keine Markierung
+bleibt im aktiven Schuldbuch.**
 
-**Einen einheitlichen Versatz gab es nicht** - `B2 58` gehoerte nach ch50,
-`B2 86` nach ch60, `B2 76` nach ch78, weil die Nummern aus drei Generationen
-uebereinander stammen. Wer sie mit einer Rechnung nachgezogen haette, haette
-die richtigen mit kaputtgemacht.
+Der Fehler lag nicht in einem einheitlichen Kapitelversatz. Mehrere Zeilen
+hatten Einloesungen aus geloeschten Fassungen geerbt. Dadurch standen unter
+anderem *"I have had him"* und *"The other fifty-eight are in the back of the
+book"* als Belege da, obwohl beide Saetze im heutigen Kanon nicht vorkommen.
 
-**Die Verdopplung kam nicht von einem besseren Verfahren, sondern von drei
-Zeichen.** Das Buch zerteilt Zitate mit einem Redebegleitsatz, und zwar an
-drei Stellen, die ein Textvergleich nacheinander verfehlt:
-
-* am Satzende - *"Monday," she said. "Named, capped..."*
-* am Komma mitten im Satz - *"I will telephone you with the day," he said,
-  "and it will be the day I have it..."*
-* **und am letzten Zeichen.** `ch78:288` steht als *"He is going to write them
-  tonight," she said.* Das Schuldbuch fuehrt einen Punkt, das Buch hat dort
-  ein Komma. **Ein Zeichen, und der Satz war vier Laeufe lang unauffindbar,
-  obwohl er woertlich dastand.**
-
-### [ZITAT?] - sechs Posten
-
-**Der Wortlaut in dieser Zeile steht so nicht im Buch.** Meist harmlos: das
-Schuldbuch fuehrt sie sinngemaess, und die Zusage ist da. `b2 ch66:168` sagt
-*"She has asked for the eleventh and not the tenth, and she gave a reason"*,
-das Schuldbuch fuehrt *"You will send somebody on the eleventh and they will
-bring her."* Dieselbe Zusage, andere Worte, richtige Adresse.
-
-### [BELEG?] - sechs Posten, und die sind teuer
-
-**Die Zusage steht auf einem erzaehlten Tag. Die Szene, die sie bezahlt hat,
-steht nicht mehr im Buch.**
-
-Alle sechs verweisen auf Kapitel bis `B2 90` und auf Tage zwischen dem
-9. und dem 20. November, aus der Fassung, in der Band 2 neunzig Kapitel hatte
-und am Tag 415 endete. Zwei Belege sind woertlich nachgeschlagen worden und
-kommen im heutigen Kanon nicht vor: *"I have had him"* und *"The other
-fifty-eight are in the back of the book."*
-
-**Die Folge, und sie ist unangenehm: diese sechs stehen als BEZAHLT da, und
-niemand kann sagen, ob sie es sind.** Sie koennen offen sein. Das entscheidet
-nur, wer die betreffenden Kapitel liest, und keine Rechnung.
-
-**Vier weitere haben sich am 28.08. ueber das Datum in ihrer eigenen Zeile
-aufloesen lassen** - `B2 89` nach ch63, `B2 86` nach ch60, `B2 87` nach ch61 -
-und tragen die Markierung nicht mehr.
+**Ab jetzt gilt:** Eine Zusage ist nur bezahlt, wenn die Einloesung in der
+hoechsten Fassung eines Kanonkapitels steht. Alte Fassungen bleiben unten als
+Gedaechtnis erhalten, werden von `zusagen.py` aber nicht mehr als aktueller
+Stand gelesen.
 
 ## Wie man es führt
 
@@ -133,7 +99,7 @@ Es endet mit Rückgabewert 1, solange etwas überfällig ist.
 
 **Und `--neu` findet nur Zusagen mit einer Frist im selben Satz.** *„I am going to
 have him before the end of the year"* wird gefunden. *„I will not tell him"* nicht.
-Fristlose Zusagen kommen von Hand hier hinein, mit `faellig offen`.
+Fristlose Zusagen kommen von Hand hier hinein, mit `faellig bei <Ereignis>`.
 
 Das ist Absicht und folgt Regel 8 aus `doc/22-pruefen.md`: ein Detektor, der jeden
 Satz mit *I will* meldet, ist so wertlos wie einer, der nichts meldet. **Diese
@@ -144,60 +110,59 @@ wird.**
 
 ## Offen
 
-- [BEZAHLT] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "Who else has been at that man's table." · B2 30, am fuenften Tag, und geliefert hat es **Sang-hoon** und nicht sie: *"I have been at that man's table for eight years."*
-- [BEZAHLT] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "Whether anybody has ever once seen him lose." · B2 32, vier Tage spaet: einmal, vor elf Jahren, **und es hat ihn nicht beendet.** Annie stellt die zweite Lesart daneben und laesst beide stehen. **Die eigentliche Antwort steht am Bandende** - sechsundzwanzig Leute sehen elf Meter zu
-- [OFFEN] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 35, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
-
-- [KEINE] **B2 54** Annie an Georgij · gesagt Tag 319 · faellig bei nichts · "I will have to buy a consignment from a house that is going to be finished by Christmas" · Dieselbe Zusage steht weiter unten als BEZAHLT. `--neu` meldet sie noch einmal, weil sie im Kapitel mit einem Komma endet und der Wortlaut im Buch ohne eines steht
-- [KEINE] **B2 61** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei nichts · "I will have a day when the placing party has the form" · Keine Zusage, sondern eine Auskunft ueber den Stand eines fremden Verfahrens. Der Termin selbst steht als eigener Posten im Buch
-
-
-- [BEZAHLT] **B2 18** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · **B2 88 und B2 90, und der Weg dahin ist die ganze Frage.** Am 6. November im Wagen dreht er die Bedeutung von *nehmen*: Choi besitzt nichts, also ist ihm nichts **abzunehmen** - aber er hat neun Leute angehaeuft, die nicht wissen, was er ihnen angetan hat, und die sind ihm **wegzunehmen**. *"I am going to have him."* Bezahlt zwischen dem 9. und dem 19. November mit neun Telefonaten aus dem Gang hinter der Kueche. **Am 20. November, auf ihre Frage: *"I have had him."*** **[BELEG?]**
-- [BEZAHLT] **B2 66** Choi Dae-ho an Annie · gesagt Tag 399 · faellig Tag 404 · "You will send somebody on the eleventh and they will bring her." · B2 63, am Mittwoch, und es hat den ganzen Tag gedauert **[ZITAT?]**
-- [OFFEN] **B2 67** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · Was aus den Eingeladenen geworden ist. **Am Bandende offen, und der Text weiss es** - B2 90, in seiner eigenen Rechnung am Schluss: *"The other fifty-eight are in the back of the book and I am going to be at this for years."* **[BELEG?]** **[ZITAT?]**
-- [BEZAHLT] **B2 54** Annie an Georgij · gesagt Tag 319 · faellig Tag 322 · "Put it in front of me on Friday. Not today." · B2 60: *"He put all of it in front of Annie at seven on the Friday evening"* - am Tag. **Stand bis zum 25.08. falsch als offen und mit falschem Kapitel und Tag im Buch.**
-- [BEZAHLT] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
-- [BEZAHLT] **B2 54** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
-- [KEINE] **B2 58** Georgij an Annie · gesagt Tag 371 · faellig bei einer Absage von Mr Hwang · "If he refuses after that, we do not go back." · **Der Ausloeser ist nie eingetreten:** Hwang hat in B2 81 in etwa vierzig Sekunden zugesagt. Die Selbstbindung steht damit ungeprueft im Buch, und das ist ihr Zustand und kein Versaeumnis
-- [BEZAHLT] **B2 58** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Donnerstag neun Uhr bei Mr Hwang, und **er geht allein** · B2 81, zwei Minuten vor neun
-- [BEZAHLT] **B2 58** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Mr Hwang wird **in derselben Stunde** auch nach Moon Hae-sook gefragt · B2 81, im Stehen, bevor er geht. **Die Antwort ist: nichts.** Kein Los, keine Nummer, kein Eintrag im ganzen Haus
-- [BEZAHLT] **B2 27** Mr Hwang an Georgij · gesagt Tag 238 · faellig bei dem Tag, an dem die Seite existiert · Er moechte, dass irgendwo auf der Welt ein Blatt existiert, das sagt, dass sie das Buch hingehalten hat und er es nicht genommen hat · B2 81: **Georgij sagt ihm, dass es existiert, und weigert sich, ihm eine Zeile daraus vorzulesen**, weil Mrs Jeon es an die Bedingung geknuepft hat, es nicht zu benutzen
-- [BEZAHLT] **B2 59** Georgij an Mr Hwang · gesagt Tag 377 · faellig Tag 384 · "Come back with an answer about the series and do not take longer than a week about it." · B2 82, am Donnerstag um zwanzig nach acht, sieben Tage nach der Frage. **Die Antwort ist ja, in einem Wort und ungeschmueckt**
-- [BEZAHLT] **B2 59** Mr Hwang an Georgij · gesagt Tag 377 · faellig bei dem Tag, an dem das Formular kommt · Er unterschreibt die Abtretung, sobald Weisung, Preis und vier Seiten da sind · B2 86: gegengezeichnet am Freitag, dem 30. Oktober, an seinem eigenen Schreibtisch, mit niemandem im Gebaeude **[BELEG?]**
-- [BEZAHLT] **B2 61** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei dem Tag, an dem er den Tag hat · "I will telephone you with the day, and it will be the day I have it and not the day after." · B2 85, vierzig Minuten nach der Bestaetigung. **Sie sagt, sie habe diesen Satz seit 1998 etwa vierhundertmal gehoert und zweimal gehalten bekommen**
-- [BEZAHLT] **B2 63** Georgij an Mrs Jeon · gesagt Tag 391 · faellig Tag 394 · Die vier Seiten am Sonntagabend, in einem Raum mit Licht, zwei Stunden, niemand in der Tuer · B2 60, um sieben abgegeben, und um zehn nach neun ruft sie an: zwei Woerter im dritten Absatz, die man im Lesen falsch nehmen kann
-- [BEZAHLT] **B2 62** Mr Ahn an Georgij · gesagt Tag 388 · faellig bei dem Tag, an dem sie geholt wird · "whoever is in the car has about four minutes... and it had better not be a man" · B2 86: Mrs Jeon spricht als Erste und Georgij steigt nicht aus **[BELEG?]**
-- [BEZAHLT] **B2 56** Georgij an Mr Ahn · gesagt Tag 326 · faellig bei der Raeumung des Hauses · "Somebody is going to stand underneath her before anybody takes the floor away." · B2 60, am 2. November, elf Uhr, und die Raeumung hatte am Donnerstag angefangen
-- [BEZAHLT] **B2 64** Mrs Jeon an Ahn Jung-hee · gesagt Tag 395 · faellig Tag 397 · "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." · B2 61, am Mittwoch um zehn, fuenfzig Minuten, und der dritte Absatz zweimal
-- [BEZAHLT] **B2 54** Georgij an Annie · gesagt Tag 319 · faellig bei der ersten Stunde nach der Uebergabe · "she is told that in the first hour by somebody who is not you and not me" · B2 87: zwei Menschen im Raum, Annie eine Etage hoeher mit offener Tuer, Georgij am Ende des Gangs ausser Hoerweite **[BELEG?]**
-- [BEZAHLT] **B2 60** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters erst danach · B2 87: am Tag danach angerufen, und Baek kommt am Mittwoch um zwei persoenlich **[BELEG?]**
+- [OFFEN] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 39, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
+- [OFFEN] **B2 18** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · Choi stirbt erst im April. B2 89 und B2 90 sprechen ueber Tat und Folge, aber nirgends ueber die verfehlte Jahresfrist. Deshalb offen und nicht verfallen
+- [OFFEN] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · Angebot und Annahme kommen nach B2 30 in keiner kanonischen Fassung mehr vor
+- [OFFEN] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig bei der Mitteilung an alle fuenf · "Go back and tell all five that they do not owe me anything." · B2 69 bezahlt Mr Kwon. Fuer die anderen vier gibt es im heutigen Kanon weder Gespraech noch Brief
+- [OFFEN] **B2 67** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · "I will use your words and not mine." · B2 83 setzt Hwang an die Suche; B2 89 verbucht vier von achtundfuenfzig. Der Posten laeuft weiter
 - [OFFEN] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **Am Bandende offen, und der Text weiss es**
 - [OFFEN] **B2 85** Mrs Seo an Georgij · gesagt Tag 531 · faellig Tag 897 · "In about a year I am going to tell you what it was." · **Sie setzt die Frist, damit sie nie faellig wird**: *you are going to have forgotten this conversation and I am not.* Tag 897 ist Samstag, der 18. Maerz 2028 - 2028 ist ein Schaltjahr, deshalb 366 und nicht 365 Tage. **Die Szene steht ganz in `doc/32-plan-band-3.md`, und er kommt auf den Tag**
-- [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst: der Satz **ist** die Einloesung, er sagt es im selben Atemzug an alle sechs. **Stand bis zum 25.08. als aeltester offener Posten im Buch und war nie einer.**
 
 ## Bezahlt
 
-- [BEZAHLT] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig offen · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 71: geschrieben am 14. Juni, neunundachtzig Tage in der Schublade, weil sie nicht postet, was ueber einen Tisch gehoert
-- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
-- [BEZAHLT] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · **Einer in B2 69 (Kwon, und nur weil er selbst vorfuhr), die anderen vier in B2 75, einhunderteinundvierzig Tage spaet und nicht von ihm.** **Und in B2 76 kommt einer der vier zurueck:** Mr Pyeon schickt ihn am Tag des Empfangs ungeoeffnet-wieder-gefaltet zurueck, weil ein unterschriebenes Blatt aus diesem Haus in seinem Hof keine Quittung ist, sondern eine Beziehung. **Die Zusage bleibt bezahlt - die Form war der Fehler und nicht die Bezahlung.** Sie schreibt vier Briefe von Hand, unterschrieben und datiert, ohne Briefkopf; Mrs Seo verschickt sie aus vier verschiedenen Orten und erfaehrt nicht, was drinsteht
+- [BEZAHLT] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "Who else has been at that man's table." · B2 33 liefert elf Namen; B2 34 erweitert die Antwort auf einunddreissig
+- [BEZAHLT] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "Whether anybody has ever once seen him lose." · B2 34: einmal, vor elf Jahren, und es hat ihn nicht beendet
+- [BEZAHLT] **B2 54** Annie an Georgij · gesagt Tag 319 · faellig Tag 322 · "Put it in front of me on Friday. Not today." · B2 55, am Freitag um sieben
+- [BEZAHLT] **B2 54** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 56: Mr Ahn zwingt ihn, seine eigene Rolle in der Sache anzusehen
+- [BEZAHLT] **B2 58** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Donnerstag neun Uhr bei Mr Hwang, und er geht allein · B2 59, zwei Minuten vor neun
+- [BEZAHLT] **B2 58** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Mr Hwang wird in derselben Stunde auch nach Moon Hae-sook gefragt · B2 59, bevor Georgij geht
+- [BEZAHLT] **B2 27** Mr Hwang an Georgij · gesagt Tag 238 · faellig bei dem Tag, an dem die Seite existiert · Ein Blatt soll festhalten, dass Mrs Jeon das Buch hingehalten und Hwang es nicht genommen hat · B2 59: Georgij bestaetigt ihm, dass das Blatt existiert
+- [BEZAHLT] **B2 59** Georgij an Mr Hwang · gesagt Tag 377 · faellig Tag 384 · "Come back with an answer about the series and do not take longer than a week about it." · B2 60, am Donnerstag; die Antwort ist ja
+- [BEZAHLT] **B2 59** Mr Hwang an Georgij · gesagt Tag 377 · faellig bei dem Tag, an dem das Formular kommt · Er unterschreibt die Abtretung, sobald Weisung, Preis und vier Seiten da sind · B2 64: am Freitag am eigenen Schreibtisch gegengezeichnet
+- [BEZAHLT] **B2 61** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei dem Tag, an dem er den Tag hat · "I will telephone you with the day, and it will be the day I have it and not the day after." · B2 63, vierzig Minuten nach der Bestaetigung
+- [BEZAHLT] **B2 63** Georgij an Mrs Jeon · gesagt Tag 391 · faellig Tag 394 · Die vier Seiten am Sonntagabend, in einem Raum mit Licht, zwei Stunden, niemand in der Tuer · B2 64, um sieben abgegeben und um zehn nach zehn beantwortet
+- [BEZAHLT] **B2 62** Mr Ahn an Georgij · gesagt Tag 388 · faellig bei dem Tag, an dem sie geholt wird · "whoever is in the car has about four minutes... and it had better not be a man" · B2 64: Mrs Jeon spricht als Erste und Georgij bleibt im Wagen
+- [BEZAHLT] **B2 56** Georgij an Mr Ahn · gesagt Tag 326 · faellig bei der Raeumung des Hauses · "Somebody is going to stand underneath her before anybody takes the floor away." · B2 64: Mrs Jeon steht unter ihr, bevor jemand den Boden nimmt
+- [BEZAHLT] **B2 64** Mrs Jeon an Ahn Jung-hee · gesagt Tag 395 · faellig Tag 397 · "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." · B2 65, am Mittwoch um zehn; der dritte Absatz zweimal
+- [BEZAHLT] **B2 54** Georgij an Annie · gesagt Tag 319 · faellig bei der ersten Stunde nach der Uebergabe · "she is told that in the first hour by somebody who is not you and not me" · B2 65: Mrs Jeon sagt es; Annie ist eine Etage hoeher und Georgij ausser Hoerweite
+- [BEZAHLT] **B2 60** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters erst danach · B2 65: Anruf am Folgetag, persoenliche Antwort am Mittwoch
+- [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst; der Satz ist die Einloesung
+- [BEZAHLT] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig bei dem Tag, an dem die Seite existiert · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 59 bestaetigt Seite, Unterschrift und Datum
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 79 bestaetigt den Registerkauf; B2 87 datiert ihn auf November
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
 - [BEZAHLT] **B1 31** Annie an Georgij · gesagt Tag 74 · faellig Tag 164 · "I will ask you again in March, and you will not be able to say it is not the moment, because in March it will be." · B2 06, am 16. Maerz, auf den Tag drei Monate. **Stand bis zum 25.08. ueberhaupt nicht im Schuldbuch und war neun Erzaehlmonate unbezahlt** - gefunden bei der Suche nach fristlosen Zusagen, weil `--neu` sie nicht sieht
-- [KEINE] **B2 06** Annie an Georgij · gesagt Tag 164 · faellig bei nichts · "You are mine... It has no end on it. Build on this one." · **Kein Posten mit Faelligkeit, sondern ein Zustand.** Sie kann ihn nicht erfuellen, nur brechen; ein Bruch waere VERFALLEN und keine Ueberfaelligkeit. Steht hier, damit er nicht als vergessener Faden wiederkommt **[ZITAT?]**
 - [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
 - [BEZAHLT] **B1 09** Hana an Georgij · gesagt Tag 22 · faellig Tag 52 · "In about a month she and I are going to need each other rather badly" · B1 20, neunzehn Tage spaeter, und Georgij zaehlt sie im Text nach
 - [BEZAHLT] **B1 24** Annie an Georgij · gesagt Tag 55 · faellig Tag 58 · "Monday. Named, capped, and it dies on the first of March." · B1 25
-- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 203 · "I want her. Not the letter, not the lane, not an apology, and not a settlement." · B2 19 und 20, Nam Byung-hee am 23. April
-- [BEZAHLT] **B2 09** Georgij an Annie · gesagt Tag 168 · faellig Tag 217 · "Mrs Jeon at the settlement desk, who is out in seven weeks anyway and who I am going to be able to do something about" · B2 32, sie gibt das Buch her und behaelt die Entscheidung
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 203 · "I want her. Not the letter, not the lane, not an apology, and not a settlement." · B2 18 und B2 19, Nam Byung-hee am 23. April
+- [BEZAHLT] **B2 09** Georgij an Annie · gesagt Tag 168 · faellig Tag 217 · "Mrs Jeon at the settlement desk, who is out in seven weeks anyway and who I am going to be able to do something about" · B2 30: Sie gibt das Buch her und behaelt die Entscheidung
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig bei dem Ende der Ulsan-Sache · "When it is finished I will tell you whether I enjoyed it, and it will be the true answer and not the one that is easier to say in this room." · B2 19: "Yes. Once. For about a second and a half, at a gate."
 
 ---
 
 ## Geprüft und keine Zusage
 
 **Das ist der wichtigste Abschnitt der Datei.** Ohne ihn meldet `--neu` dieselben
-dreizehn Fundstellen bis in alle Ewigkeit, und nach der zweiten Woche sieht
-niemand mehr hin. Wer eine Fundstelle hier ablegt, schreibt dazu, warum sie keine
-Zusage ist.
+geprueften Fundstellen immer wieder, und nach der zweiten Woche sieht niemand
+mehr hin. Wer eine Fundstelle hier ablegt, schreibt dazu, warum sie keine Zusage
+ist.
 
+- [KEINE] **B2 02** Annie an Georgij · gesagt Tag 152 · faellig bei nichts · "You will find that they are all four of them worth having, and that two of them will be gone by June." · Vorhersage ueber Dritte, keine Zusage. Ob sie eingetroffen ist, bleibt als Kontinuitaetsfrage in `doc/31-plan-band-2.md`
+- [KEINE] **B2 06** Annie an Georgij · gesagt Tag 164 · faellig bei nichts · "You are mine. It has no end on it and there is no Tuesday in it. Build on this one." · Kein Posten mit Faelligkeit, sondern ein Zustand. Sie kann ihn nicht erfuellen, nur brechen
+- [KEINE] **B2 54** Annie an Georgij · gesagt Tag 319 · faellig bei nichts · "I will have to buy a consignment from a house that is going to be finished by Christmas" · Dieselbe Fundstelle steht mit der tatsaechlichen Verpflichtung unter BEZAHLT; der zweite Treffer entsteht nur durch Zeichensetzung
+- [KEINE] **B2 58** Georgij an Annie · gesagt Tag 371 · faellig bei einer Absage von Mr Hwang · "If he refuses after that, we do not go back." · Der Ausloeser tritt nicht ein: Hwang sagt in B2 59 zu
+- [KEINE] **B2 61** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei nichts · "I will have a day when the placing party has the form" · Auskunft ueber den Stand eines fremden Verfahrens, keine Zusage
+- [KEINE] **B2 66** Mrs Seo an Annie · gesagt Tag 399 · faellig bei nichts · "The woman is coming on Wednesday. She has asked for the eleventh and not the tenth" · Bericht ueber Ahns und Moons verabredete Ankunft, keine eigene Zusage. B2 67 erzaehlt die Ankunft am Mittwoch
 - [KEINE] **B1 03** Mrs Seo an Georgij · gesagt Tag 1 · faellig offen · "Your room is on the first floor, east end. Ji-won will take you up. Breakfast is from seven" · Hausordnung, keine Zusage
 - [KEINE] **B1 21** Hana an Georgij · gesagt Tag 49 · faellig offen · "Not the second week, because everybody gives theirs in the second week and Ye-rin will already have said no" · Lagebeschreibung ueber Dritte
 - [KEINE] **B1 25** Georgij an Annie · gesagt Tag 59 · faellig offen · "It expires on the first of March at midnight. Not the second. There is no grace period" · Beschreibung eines Instruments, keine Zusage. Die Zusage dazu steht bei B1 24
@@ -210,36 +175,30 @@ Zusage ist.
 
 ---
 
-## Was das Werkzeug beim ersten Lauf gefunden hat, das niemand hatte
+## Was der erste Lauf fand und was davon heute gilt
 
-**Zwei, und beide sind offen.** Sie stehen oben in der Liste und hier steht,
-warum sie zaehlen.
+**Mrs Jeon, B2 Kapitel 30 (2. Juni):** *"I have four months of money and a son
+who is going to offer next month, and I am going to take it."* Das Angebot und
+seine Annahme stehen in keiner spaeteren Kanonfassung. **Der Posten ist weiter
+offen und laengst ueberfaellig.**
 
-**Mrs Jeon, Kapitel 32 (2. Juni):** *"I have four months of money and a son who is
-going to offer next month, and I am going to take it."* Vier Monate Geld ab Juni,
-das Angebot des Sohnes im Juli. **Faellig etwa Tag 273 und seit siebzig Tagen
-offen.** Sie ist die Figur, die Georgij ausdruecklich als sein Spiegelbild im
-Kleinen gefuehrt wird (`doc/11-figuren.md`), und der Text hat sie nach dem 2. Juni
-fallen lassen.
-
-**Annie, Kapitel 59 (18. August):** *"in about a week you will have found a way to
-make it about you and I would like to have said this first."* **Faellig Tag 326.**
-Sie sagt eine Sache voraus, die er tun wird, und sie hat sich bisher nicht
-gezeigt - was entweder heisst, dass sie unrecht hatte, oder dass es niemand
-aufgegriffen hat. Bei dieser Figur ist das erste unwahrscheinlich.
+**Annies Satz aus B2 Kapitel 54:** *"in about a week you will have found a way
+to make it about you and I would like to have said this first."* Der alte Stand
+uebersah B2 Kapitel 56. Dort zwingt Mr Ahn Georgij genau zu dieser Verschiebung.
+**Der Posten ist bezahlt.**
 
 ---
 
-## Zwei Beobachtungen aus der ersten Fuellung
+## Zwei Beobachtungen nach der Vollpruefung
 
-**Erstens: Georgij macht kaum Zusagen mit Frist.** Das ist Figur und kein Mangel -
-er sagt, was er tut, während er es tut. Die drei, die er gemacht hat, sind alle
-gegenüber Annie, und **zwei davon hat er nicht gehalten.**
+**Erstens: Georgij macht wenige ausdruecklich datierte Zusagen.** Gerade deshalb
+ist die verfehlte Jahresfrist gegen Choi keine Kleinigkeit. Der heutige Text
+erfuellt den groesseren Inhalt, bemerkt aber die gebrochene Frist nicht.
 
-**Zweitens: Annie macht Zusagen und hält sie ausnahmslos**, und sie datiert sie
-beim Sagen. Das ist dieselbe Maschine wie in `doc/12-stimmen.md`: ihr Beweismittel
-ist ein Datum. **Sie ist die einzige Figur im Buch, deren Zusagen sich mit einer
-Uhr prüfen lassen**, und das gehört zu ihr wie das Halsband zu ihm.
+**Zweitens: Annie datiert Auftraege und Vorhersagen auffaellig oft.** Das bleibt
+Teil ihrer Stimme. Es ist aber kein Beweis, dass jeder von ihr gesetzte Termin
+im Text bezahlt wird: Singapur bleibt offen, und die Juni-Vorhersage aus B2 02
+ist bis zum Bandende weder bestaetigt noch widerlegt.
 
 ---
 

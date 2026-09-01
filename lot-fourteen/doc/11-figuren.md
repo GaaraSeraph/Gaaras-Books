@@ -564,7 +564,7 @@ die beim Planen zaehlt.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig bei Georgijs Eintrag am 27. Mai 2026, sechzig ab 18. November und bei seinem Tod; im April 2002 fuenfunddreissig. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 bis 90: neun Anrufe, und er ueberlebt das Ende nicht. Die historische Altersfolge ist im Roman korrigiert |
+| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig bei Georgijs Eintrag am 27. Mai 2026, sechzig ab 18. November und bei seinem Tod; im April 2002 fuenfunddreissig. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 89 bestaetigt seinen Tod am 8. April; B2 90 laesst Georgij die eigene Verantwortung und den Kollateralschaden aussprechen. Die historische Altersfolge ist im Roman korrigiert |
 | **Nam Byung-hee** | **Spediteurin aus Ulsan** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
 | **Kang Ji-hoon** | **Beamter im Ministerium fuer Land und Infrastruktur**, mittlere Ebene | | B1 10 | Ruht |
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
