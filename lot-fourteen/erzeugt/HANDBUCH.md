@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 312.801 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 312.802 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17031,10 +17031,10 @@ freigegeben sind.
    mehr stehen: Zwei wurden am 23. und 24. April verkauft, die letzten beiden
    bis Mitte Mai (`b2 ch18`, `b2 ch20`, `b2 ch21`, spaeter bestaetigt in
    `b2 ch79`). Der Hof muss an allen drei Stellen leer sein.
-8. **`b2 ch18:150`, Chois Jahresfrist.** Georgij verspricht Nam am 23. April,
+8. **`b2 ch18:150`, Chois Jahresfrist.** Georgij verspricht Nam am 30. April,
    Choi *"before the end of the year"* zu haben. Choi stirbt erst im folgenden
    April. `b2 ch89` und `b2 ch90` behandeln Tat und Folge, aber der Text bemerkt
-   die um vier Monate verfehlte Frist nicht. Entweder muss die urspruengliche
+   die um gut drei Monate verfehlte Frist nicht. Entweder muss die urspruengliche
    Frist anders lauten oder der spaetere Text den Fristbruch ausdruecklich
    mittragen; still als bezahlt darf die Zusage nicht gelten.
 9. **`b2 ch23:76-86` gegen `b2 ch87:348`, Kauf der fuenf Firmen.** Kapitel 23
@@ -25160,7 +25160,7 @@ Drei Entscheidungen bleiben bindend:
    beruhigt ihn, weil es die Wahrheit seiner Entscheidung benennt, nicht weil
    es ihn freispricht.
 
-**Das Versprechen vom 23. April ist inhaltlich erfuellt, aber nicht fristgerecht.**
+**Das Versprechen vom 30. April ist inhaltlich erfuellt, aber nicht fristgerecht.**
 Die Zusage lautete *before the end of the year*; Choi stirbt im April. Weil der
 Text diese verfehlte Frist nicht bemerkt, fuehrt `doc/13-zusagen.md` sie auf
 **OFFEN** und nicht auf BEZAHLT oder VERFALLEN.

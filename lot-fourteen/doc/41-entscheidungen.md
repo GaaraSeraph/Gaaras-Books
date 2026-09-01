@@ -1094,7 +1094,7 @@ Drei Entscheidungen bleiben bindend:
    beruhigt ihn, weil es die Wahrheit seiner Entscheidung benennt, nicht weil
    es ihn freispricht.
 
-**Das Versprechen vom 23. April ist inhaltlich erfuellt, aber nicht fristgerecht.**
+**Das Versprechen vom 30. April ist inhaltlich erfuellt, aber nicht fristgerecht.**
 Die Zusage lautete *before the end of the year*; Choi stirbt im April. Weil der
 Text diese verfehlte Frist nicht bemerkt, fuehrt `doc/13-zusagen.md` sie auf
 **OFFEN** und nicht auf BEZAHLT oder VERFALLEN.

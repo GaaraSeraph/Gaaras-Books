@@ -2753,10 +2753,10 @@ freigegeben sind.
    mehr stehen: Zwei wurden am 23. und 24. April verkauft, die letzten beiden
    bis Mitte Mai (`b2 ch18`, `b2 ch20`, `b2 ch21`, spaeter bestaetigt in
    `b2 ch79`). Der Hof muss an allen drei Stellen leer sein.
-8. **`b2 ch18:150`, Chois Jahresfrist.** Georgij verspricht Nam am 23. April,
+8. **`b2 ch18:150`, Chois Jahresfrist.** Georgij verspricht Nam am 30. April,
    Choi *"before the end of the year"* zu haben. Choi stirbt erst im folgenden
    April. `b2 ch89` und `b2 ch90` behandeln Tat und Folge, aber der Text bemerkt
-   die um vier Monate verfehlte Frist nicht. Entweder muss die urspruengliche
+   die um gut drei Monate verfehlte Frist nicht. Entweder muss die urspruengliche
    Frist anders lauten oder der spaetere Text den Fristbruch ausdruecklich
    mittragen; still als bezahlt darf die Zusage nicht gelten.
 9. **`b2 ch23:76-86` gegen `b2 ch87:348`, Kauf der fuenf Firmen.** Kapitel 23
