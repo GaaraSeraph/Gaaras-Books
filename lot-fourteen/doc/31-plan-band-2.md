@@ -2931,6 +2931,17 @@ freigegeben sind.
     mit ihr im Raum sassen und ihr Gebot sahen: 19 - 1 - 2 = 16. In
     **The other seventeen sat with you** und **Not one of the seventeen can put
     a piece of paper next to it** muss **seventeen** jeweils **sixteen** werden.
+26. **`b2 ch87:182-194`, die angeblich anderthalb Stunden bleibenden
+    sechsundzwanzig Gaeste.** Choi steigt um 21:56 Uhr in sein Auto. Danach
+    behauptet der Erzaehler, alle sechsundzwanzig anderen Gaeste seien noch
+    anderthalb Stunden geblieben. Der unmittelbar folgende Absatz nennt Mr
+    Koh jedoch als ersten Abgang um 22:10 Uhr; Woo geht um 22:30 Uhr, weitere
+    folgen um 23:00 und 23:15 Uhr, nur Nam bleibt bis 23:20 Uhr. Auch das Ende
+    um 23:20 Uhr liegt nur ungefaehr, nicht voll, anderthalb Stunden nach Chois
+    Abfahrt. Die Szene braucht die kollektive Fortsetzung des Essens, nicht
+    identische Abfahrtszeiten. Der kleinste praezise Ersatz ist deshalb:
+    **Twenty-six people stayed. The last of them left about an hour and a half
+    after he had gone, and they were given coffee.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
