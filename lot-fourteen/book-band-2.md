@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.548 Woerter.
+Book Two, 90 Kapitel, 232.569 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 86 | v3.24 | 3.901 |
 | 87 | v3.22 | 4.129 |
 | 88 | v3.7 | 3.368 |
-| 89 | v4.0 | 1.974 |
+| 89 | v4.1 | 1.995 |
 | 90 | v4.1 | 1.558 |
 
 ---
@@ -20478,7 +20478,7 @@ He stopped on the bridge and wrote the last of it standing up.
 ---
 
 # Book Two · Chapter 89: What became of them
-*Lot Fourteen* · Version 4.0 · EN
+*Lot Fourteen* · Version 4.1 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20490,7 +20490,7 @@ He did not hide at all. He knew he could not hide.
 
 Baek Jun-ho found it out the way everything in this business is found out, which is that a piece of paper came back.
 
-He wrote in March about the suspension and had no answer, and he wrote again on the second of April because a trustee who has had no instructions has to be able to show that he asked twice.
+He wrote in February about the suspension and had no answer, and he wrote again on the second of April because a trustee who has had no instructions has to be able to show that he asked twice.
 
 The second one came back on the twentieth marked *gone away*, in a hand belonging to a clerk in a solicitor's office in Jung-gu who has forwarded four things in eleven years.
 
@@ -20506,11 +20506,13 @@ Nobody has found out whose hand it was, and nobody has looked.
 
 * * *
 
-Between the nineteenth of March and the end of April a great many small things happened and none of them was arranged by anybody in this house.
+Between January and the end of April a great many small things happened and none of them was arranged by anybody in this house.
 
 A man in Mullae had dinner with a man he has known for thirty years, and then with two more in February, and then in April with a fourth who telephoned him.
 
 A firm in Ulsan that moves grain wrote to a shipping insurer about a contract that went in 2021 and did not say why it was writing.
+
+The five men on the Ulsan lane still believe they owe her. On the thirtieth of April Georgij said it would keep, and it has.
 
 Two men in the ministry whose names do not matter had a conversation about a case that was closed in 2002. It did not go anywhere. Both of them remember it.
 
@@ -20548,7 +20550,7 @@ The machine runs for four minutes in every hour and the account behind it has be
 
 A cup goes in at eleven and at four. It is the same two hours it has been for four years.
 
-What is in it comes out of the woman who carries it, and she has been free since the second of November, and she has not missed one.
+What is in it comes out of the woman who carries it. She has been free since the second of November and brings it anyway.
 
 The rest of her day is the rest of the house.
 
@@ -20572,7 +20574,7 @@ It is in the room at the back now, because it is May.
 
 Mrs Jeon telephones on Sundays and asks for Ahn Jung-hee and not for anybody else in the building.
 
-The nephew has stopped believing he owes her for the levy. She said in November that it would happen in January and it happened in November, and she reported it in one sentence and did not seem to mind.
+The nephew has stopped believing he owes her for the levy. She said in October that it would happen in January and it happened in November, and she reported it in one sentence and did not seem to mind.
 
 Mr Hwang has been at the fifty-eight since the fifteenth of March.
 
@@ -20580,7 +20582,7 @@ He has four of them. Two are dead and one has been in Melbourne since 2015 and o
 
 * * *
 
-Mrs Ha telephoned this house in March, and it is the second time she has used the number, and she asked for a car and not for an address.
+Mrs Ha telephoned this house in March, and it is the third time she has used the number, and she asked for a car and not for an address.
 
 Jang went to Mapo on the Thursday and was handed a green school exercise book at the top of an outside stair by a woman who did not come down.
 
@@ -20588,7 +20590,7 @@ In February she told Georgij that she was not going to give it to him, and she h
 
 Nobody in this house has read it. It went into the room at the back on the Friday and it has not come out.
 
-Moon Hae-sook asked in November what became of sixty-two people, and she also asked that it be said she had never asked anybody about the ribbon. The second of the two is the one she has been answered on.
+Moon Hae-sook asked in November what became of sixty-two people, and she also asked that it be said she had never asked anybody about the ribbon. The second of the two is the only one she has been answered on completely.
 
 * * *
 
@@ -20632,7 +20634,7 @@ A woman in her sixties who put flowers and linen into halls for thirty years has
 
 Four separate people have told her that somebody recommended her, and not one of them can remember who.
 
-In April she needed porcelain and did not know where to start. Somebody put her next to a woman of eighty-one who has been buying it for forty-one years, at a table, for about six minutes, and then went and stood somewhere else.
+In April she needed porcelain and did not know where to start. Somebody put her next to a woman of eighty-two who has been buying it for forty-one years, at a table, for about six minutes, and then went and stood somewhere else.
 
 They have spoken on the telephone eleven times since. The older one has been asked her opinion about a thing she knows more about than anybody alive, by somebody who needed the answer and was not being kind.
 
