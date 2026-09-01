@@ -119,13 +119,13 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 73** *The fourth time* (v3.5) · Tag 445, Di 22. Dezember · 2.281 W
 - **B2 74** *What he was for* (v3.1) · Tag 451, Mo 28. Dezember · 2.398 W
 - **B2 75** *Over the dessert* (v3.6) · Tag 453, Mi 30. Dezember · 2.564 W
-- **B2 76** *Three pieces of good news* (v3.3) · Tag 460, Mi 6. Januar · Tag 461, Do 7. Januar · Tag 462, Fr 8. Januar · Tag 463, Sa 9. Januar · 2.827 W
+- **B2 76** *Three pieces of good news* (v3.4) · Tag 460, Mi 6. Januar · Tag 461, Do 7. Januar · Tag 462, Fr 8. Januar · Tag 463, Sa 9. Januar · 2.827 W
 - **B2 77** *The doorway* (v3.2) · Tag 464, So 10. Januar · 2.331 W
 - **B2 78** *At thirty* (v3.2) · Tag 464, So 10. Januar · 2.566 W
 - **B2 79** *Not four* (v3.3) · Tag 465, Mo 11. Januar · Tag 466, Di 12. Januar · 2.864 W
-- **B2 80** *Nine boxes* (v3.3) · Tag 472, Mo 18. Januar · Tag 473, Di 19. Januar · Tag 489, Do 4. Februar · 2.846 W
+- **B2 80** *Nine boxes* (v3.4) · Tag 472, Mo 18. Januar · Tag 473, Di 19. Januar · Tag 489, Do 4. Februar · 2.845 W
 - **B2 81** *I require your instructions* (v3.5) · Tag 493, Mo 8. Februar · 2.386 W
-- **B2 82** *The only line out* (v1.4) · Tag 497, Fr 12. Februar · Tag 500, Mo 15. Februar · 2.814 W
+- **B2 82** *The only line out* (v1.5) · Tag 497, Fr 12. Februar · Tag 500, Mo 15. Februar · 2.808 W
 - **B2 83** *Nobody asked* (v3.6) · Tag 510, Do 25. Februar · Tag 514, Mo 1. Maerz · 2.936 W
 - **B2 84** *No occasion* (v3.5) · Tag 517, Do 4. Maerz · Tag 522, Di 9. Maerz · 2.147 W
 - **B2 85** *Twenty-seven* (v3.3) · Tag 531, Do 18. Maerz · 2.593 W

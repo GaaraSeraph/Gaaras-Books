@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.615 Woerter.
+Book Two, 90 Kapitel, 232.608 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -86,13 +86,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 73 | v3.5 | 2.281 |
 | 74 | v3.1 | 2.398 |
 | 75 | v3.6 | 2.564 |
-| 76 | v3.3 | 2.827 |
+| 76 | v3.4 | 2.827 |
 | 77 | v3.2 | 2.331 |
 | 78 | v3.2 | 2.566 |
 | 79 | v3.3 | 2.864 |
-| 80 | v3.3 | 2.846 |
+| 80 | v3.4 | 2.845 |
 | 81 | v3.5 | 2.386 |
-| 82 | v1.4 | 2.814 |
+| 82 | v1.5 | 2.808 |
 | 83 | v3.6 | 2.936 |
 | 84 | v3.5 | 2.147 |
 | 85 | v3.3 | 2.593 |
@@ -16809,7 +16809,7 @@ Then the second page, because that is where this one goes.
 ---
 
 # Book Two · Chapter 76: Three pieces of good news
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Four Hundred and Sixty · Wednesday 6 January
 
@@ -16819,7 +16819,7 @@ The fan is running in the corner.
 
 "You will want to hear something and it is good," said Mr Ahn.
 
-He said it before Georgij was properly through the door, which he has not done once in six months.
+He said it before Georgij was properly through the door, which he has not done once in five months.
 
 "Then say it."
 
@@ -16833,7 +16833,7 @@ Georgij stood inside the door and did not let anything happen on his face.
 
 "And this one."
 
-"This one is two pages and it says five years at what I am paying now, and there is a line in it about the length of my tenancy and one about reliability." He turned the cloth over. "I have been reliable for six years and it has never been worth anything before."
+"This one is two pages and it says five years at what I am paying now, and there is a line in it about the length of my tenancy and one about reliability." He turned the cloth over. "I have been reliable for seven years and it has never been worth anything before."
 
 The compressor came on behind the wall and ran and stopped.
 
@@ -16843,7 +16843,7 @@ The compressor came on behind the wall and ran and stopped.
 
 Georgij took his coat off, because there was a bracket on the floor that wanted two people, and because he needed forty seconds.
 
-*A man who has been month to month for six years is offered five years at the same rent, by an agent who suggested it himself.*
+*A man who has been month to month for seven years is offered five years at the same rent, by an agent who suggested it himself.*
 
 *On a Monday in January, in a shop four streets from a flat in Seodaemun.*
 
@@ -17797,7 +17797,7 @@ Then the other half.
 ---
 
 # Book Two · Chapter 80: Nine boxes
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Four Hundred and Seventy-Two · Monday 18 January
 
@@ -17987,7 +17987,7 @@ Mrs Ha did not say anything at all for a while after that.
 
 They came at nine and they were gone by twenty past eleven, and there were two of them and a van, and they were perfectly pleasant.
 
-They carried nine boxes down an outside stair in January and did not complain about it once, and one of them said that his mother had been married out of a hall in Jung-gu in 1994.
+They carried nine boxes down an outside stair in February and did not complain about it once, and one of them said that his mother had been married out of a hall in Jung-gu in 1994.
 
 Mrs Ha telephoned at four o'clock.
 
@@ -18047,7 +18047,7 @@ He looked at that for a while.
 
 *The first one is a copy in my own hand, in a locked drawer in this house, and it has forty lines in it over twenty-three years.*
 
-*A woman carried the original up three floors in January four years ago and held it out to a man who would not take it.*
+*A woman carried the original up three floors in January last year and held it out to a man who would not take it.*
 
 *Neither of them was asked. Neither of them was paid. Both of them cost the woman who wrote it the price of the book.*
 
@@ -18269,7 +18269,7 @@ He sat with that for a while.
 ---
 
 # Book Two · Chapter 82: The only line out
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Four Hundred and Ninety-Seven · Friday 12 February
 
@@ -18285,7 +18285,7 @@ Georgij put the folder down.
 
 "There is a version where you do not go," said Georgij. "You send the letter and it is correct and nobody could fault it. I am not recommending it. I am putting it on the table because if I do not, you will decide in an hour that you thought of it and dismissed it, and you will not have."
 
-"That is the second time this month you have done that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. He came across a city on a Sunday in January so that a name would be said properly once, and I am not going to answer that with paper."
+"You have started doing that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. He came across a city on a Sunday in January so that a name would be said properly once, and I am not going to answer that with paper."
 
 "There is a thing you have not said," said Georgij, "and I am going to say it badly, and you can correct the wording."
 

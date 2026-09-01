@@ -882,7 +882,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch78:274 | "There is one more thing," said Annie, "and it is the only part of this that is genuinel.. |
 | 464 | b2ch78:308 | "I have not changed my mind," said Annie. "I want you to have heard me say that on the d.. |
 | 497 | b2ch82:8 | "Chairman Woo," said Annie. |
-| 497 | b2ch82:20 | "That is the second time this month you have done that to me and I want it to go on happ.. |
+| 497 | b2ch82:20 | "You have started doing that to me and I want it to go on happening." Annie picked up th.. |
 | 497 | b2ch82:32 | Annie looked at him for a moment longer than she usually does. |
 | 497 | b2ch82:48 | "Two reasons and you will only like the first one." Annie stayed at the glass. "The firs.. |
 | 497 | b2ch82:82 | Annie stood in the passage with the sheet in her hand. |

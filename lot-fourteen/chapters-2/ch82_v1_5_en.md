@@ -1,7 +1,7 @@
-Book Two · Chapter 82: The only line out
-Lot Fourteen · Version 1.4 · EN
+# Chapter 82: The only line out
+*Lot Fourteen* · Version 1.5 · EN
 
-Day Four Hundred and Ninety-Seven · Friday 12 February
+## Day Four Hundred and Ninety-Seven · Friday 12 February
 
 She said it at nine in the morning in the small room and she said it standing up, which is how she does the ones she has decided about overnight.
 
@@ -13,9 +13,13 @@ Georgij put the folder down.
 
 "I was going to ask him. I have had it written down since Tuesday and I have read it about nine times." She had both hands flat on the desk. "He sat at my father's table for nineteen years, and there are four questions I could put to him that nobody else alive can answer, and I am not going to put any of them. I am going out there on Monday to tell him so to his face, because he is owed that and a letter is not it."
 
+---
+
 "There is a version where you do not go," said Georgij. "You send the letter and it is correct and nobody could fault it. I am not recommending it. I am putting it on the table because if I do not, you will decide in an hour that you thought of it and dismissed it, and you will not have."
 
-"That is the second time this month you have done that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. He came across a city on a Sunday in January so that a name would be said properly once, and I am not going to answer that with paper."
+"You have started doing that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. He came across a city on a Sunday in January so that a name would be said properly once, and I am not going to answer that with paper."
+
+---
 
 "There is a thing you have not said," said Georgij, "and I am going to say it badly, and you can correct the wording."
 
@@ -23,13 +27,19 @@ Georgij put the folder down.
 
 "You are not going out there to spare him. You are going out there because if you sat in this house and simply did not ask, you would never be certain that was the reason." He kept his hands at his sides. "You want it done in front of somebody so that it is a decision and not a thing you failed to get round to."
 
+---
+
 Annie looked at him for a moment longer than she usually does.
 
 "Yes," she said.
 
 She went to the window.
 
+---
+
 "Monday, at ten. He is seventy-eight and he does not do afternoons well, and I am going to him and he is not coming here." She did not turn round. "And you are going to be in the room."
+
+---
 
 Georgij stood very still.
 
@@ -43,9 +53,11 @@ Georgij stood very still.
 
 "It is noted, Mistress."
 
+---
+
 "Then go and find out which of those four questions can be answered by somebody who is not him, and do not be kind about it, and have it on my desk by six."
 
-———
+* * *
 
 It took him until half past four, and the four questions do not sort into four answers.
 
@@ -53,9 +65,11 @@ They sort into three kinds. There is what is written down somewhere and can be g
 
 He put the third kind at the top, because that is the one that is true.
 
+---
+
 The sheet went on the blotter at ten to six, and he did not stay in the room while she read it.
 
-———
+* * *
 
 She came out at about seven and found him at the far end of the passage doing nothing.
 
@@ -63,11 +77,13 @@ She came out at about seven and found him at the far end of the passage doing no
 
 "It is the one that is true, Mistress. The other two are what you can have without him, and neither of them is what you actually wanted to know."
 
+---
+
 Annie stood in the passage with the sheet in her hand.
 
 "You have got better at that than I would like," she said, and went upstairs, and that was the end of the week.
 
-Day Five Hundred · Monday 15 February
+## Day Five Hundred · Monday 15 February
 
 She did not take anything with her.
 
@@ -75,7 +91,7 @@ No folder, no plan, and not the sheet with the three kinds on it, which she had 
 
 Mr Ku had them there at four minutes to ten.
 
-———
+* * *
 
 The house is older than the road it stands on and has been added to twice, both times badly, and Chairman Woo has lived in it since 1979.
 
@@ -89,7 +105,11 @@ He looked at Georgij for slightly longer than a host looks at anybody.
 
 "Then you are not here to ask me anything."
 
+---
+
 "I am here to tell you why I am not going to," said Annie. "And there is a thing before that which is worse, and you have worked that out in the hall, and I want to do the rest of it sitting down."
+
+---
 
 The room he uses has four chairs in it and one of them is his, and there is a table with nothing on it.
 
@@ -97,11 +117,15 @@ He waited until she was in a chair and then sat down himself, slowly, and put bo
 
 "I am at my best for about an hour," he said, "and then I am not."
 
+---
+
 "On the tenth of January you came to my house on a Sunday and asked me to leave my own study," said Annie. "You were in there for fifty minutes with a man who belongs to me. By seven that evening I had the whole of it, in your order, with nothing improved."
 
 Woo did not move at all.
 
 "That was five weeks ago on Sunday." She had both hands flat on the arms of the chair. "You have not known in one single day of those five weeks whether it had reached me. I am not going to sit in your house and ask you for a favour while that is true."
+
+---
 
 The room did what an old room does at ten in the morning.
 
@@ -113,6 +137,8 @@ The room did what an old room does at ten in the morning.
 
 "He gave me all of it, and he gave it to me on the day, and he did not wait to be asked twice."
 
+---
+
 Woo looked at the table for a while.
 
 "I took four days to decide whether I was entitled to be wrong about your father out loud in your own house," he said. "I have been fairly pleased with that decision for five weeks. It cost me four days to make and I have described it to myself twice as the last decent thing I am likely to do."
@@ -121,9 +147,13 @@ Woo looked at the table for a while.
 
 "It was a decision about a room." He was entirely level. "And what has actually happened since is that you have had it since seven o'clock that same evening, and I have had five weeks of not knowing that, and every week of it was one of mine."
 
+---
+
 Nobody said anything.
 
 "You are less than half my age," said Woo. "Five weeks is a different length of thing at this end of it than it is at yours, and you did not do that arithmetic, and it would have taken you about four seconds."
+
+---
 
 Annie did not defend it.
 
@@ -133,7 +163,11 @@ Annie did not defend it.
 
 "I did." She did not look at Georgij and she did not pause anywhere. "He answered a question I put to him at six o'clock on the tenth of January and he answered the whole of it. He has raised it with me four times since and I have put it down four times. There is nobody else in this."
 
+---
+
 Woo turned his head and looked at Georgij for a moment, and then looked back at her, and that was the whole of it.
+
+---
 
 "It has a name," he said.
 
@@ -145,6 +179,8 @@ Woo turned his head and looked at Georgij for a moment, and then looked back at 
 
 "Then I will say the useful part and we will get on to what you came for. You did not do a wrong thing." He put one hand flat. "You did a thing that is only distinguishable from the wrong one by whether the person finds out from you or from somebody else, and I am finding out from you, in a chair, at ten in the morning."
 
+---
+
 Annie let a moment go past.
 
 "Now the other thing," she said.
@@ -153,11 +189,15 @@ Woo put one hand flat.
 
 "I came out here with four questions, and you are the only man alive who can answer any of them." She did not take her eyes off him. "I am not going to ask them. I am telling you that in your own room because I am not going to have you find out in six months that I was here and did not."
 
+---
+
 The room was very quiet.
 
 "Why," said Woo.
 
 "Because you would answer them."
+
+---
 
 Woo looked at her properly for the first time since the hall.
 
@@ -169,11 +209,17 @@ Woo looked at her properly for the first time since the hall.
 
 "No. It is not." She did not move. "I have made it anyway and I am not going to pretend that is different from what it is."
 
+---
+
 "And you knew that in the drive and you came anyway, and you brought him so that there would be a witness to it." Woo said it without any cruelty in it at all. "That is the first thing this morning that your father would not have done."
+
+---
 
 Annie did not answer that.
 
 Georgij, at the window, watched an old man decide something and did not move.
+
+---
 
 "You have taken something off me," said Woo.
 
@@ -185,6 +231,8 @@ Georgij, at the window, watched an old man decide something and did not move.
 
 "It is meant to be."
 
+---
+
 He got up, which took him a moment, and went to the window and stood next to Georgij and looked out at the same nothing.
 
 "I have been waiting to be asked since the tenth of January," he said, to the glass. "I went to that house on a Sunday and sat in her study with you for fifty minutes. Every week since, I have thought she would come out here and put it to me straight. I have had the four of them lined up in the order I would want them in. I am not a man who is asked things any more, and that was going to be the last time."
@@ -192,6 +240,8 @@ He got up, which took him a moment, and went to the window and stood next to Geo
 He turned round.
 
 "That is what it was for and now you know, and I would have told you afterwards in one sentence and been pleased with myself about it."
+
+---
 
 At the door, with the car already turned round, he did the thing he has done every time since October.
 
@@ -201,13 +251,15 @@ At the door, with the car already turned round, he did the thing he has done eve
 
 "You will decide in about three weeks that you were wrong this morning, and you will not come back, because you will have made it into a principle by then." He had one hand on the frame. "So I am going to write them down. All four, in my hand, and my solicitor will hold the envelope, and it goes to you on the day I am dead and not one hour before."
 
+---
+
 Annie stood in the hall.
 
 "Why would you do that," she said.
 
 "I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-five years. They are not going into a box at a crematorium because a woman half my age decided in February that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
 
-———
+* * *
 
 They were in the car by twenty to eleven.
 
@@ -215,21 +267,29 @@ She did not say anything for the first eleven kilometres, which is the same elev
 
 "Say what he did in the hall," said Annie.
 
+---
+
 "He took the decision back off you and left you the part you can live with, and he did it eight minutes after you told him he was to take the whole of it to his grave."
 
 "Say why."
 
 "Because you decided what an old man could carry without asking him," said Georgij, "and a man of seventy-eight who has been right about most things since 2002 would sooner name his own date than have one chosen for him by somebody being kind."
 
+---
+
 "That is not the whole of it."
 
 "No, Mistress. The rest of it is that he did it in the hall and not in the room." He did not soften it. "That way it could not be part of the conversation about your father, and neither of us can put it on the same page as the other thing."
+
+---
 
 Annie looked out of the window for a while.
 
 "He is going to write them tonight," she said. "He has had them in order since January and he will not sleep until they are on paper."
 
 "Yes, Mistress."
+
+---
 
 "And Georgij."
 
