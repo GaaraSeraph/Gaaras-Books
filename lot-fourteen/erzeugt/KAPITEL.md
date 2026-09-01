@@ -133,6 +133,6 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 87** *The length of the room* (v3.22) · Tag 531, Do 18. Maerz · 4.129 W
 - **B2 88** *Not the comfortable part* (v3.7) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 3.368 W
 - **B2 89** *What became of them* (v4.1) · Tag 590, So 16. Mai · 1.995 W
-- **B2 90** *The weapon* (v4.1) · Tag 590, So 16. Mai · 1.558 W
+- **B2 90** *The weapon* (v4.2) · Tag 590, So 16. Mai · 1.564 W
 - **B3 1** *The first thing that arrives* (v1.5) · Tag 592, Di 18. Mai · 2.098 W
 - **B3 2** *Thank you for coming* (v1.8) · Tag 600, Mi 26. Mai · 2.136 W

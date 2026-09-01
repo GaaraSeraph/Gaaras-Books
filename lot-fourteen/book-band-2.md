@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.569 Woerter.
+Book Two, 90 Kapitel, 232.575 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -100,7 +100,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 87 | v3.22 | 4.129 |
 | 88 | v3.7 | 3.368 |
 | 89 | v4.1 | 1.995 |
-| 90 | v4.1 | 1.558 |
+| 90 | v4.2 | 1.564 |
 
 ---
 
@@ -20651,7 +20651,7 @@ In a workshop on a hill in Seodaemun there is a corner where a fan stood from th
 ---
 
 # Book Two · Chapter 90: The weapon
-*Lot Fourteen* · Version 4.1 · EN
+*Lot Fourteen* · Version 4.2 · EN
 
 ## Day Five Hundred and Ninety · Sunday 16 May
 
@@ -20687,7 +20687,7 @@ At some point in the middle of it her hand came down into his hair, at the back,
 
 He sat with that for a while.
 
-"On the thirtieth of April last year I told a woman in Ulsan that I was going to have him," he said. "I said afterwards that I was not going to lay a hand on him. I meant it, and I did not."
+"On the thirtieth of April last year I told a woman in Ulsan that I was going to have him before the end of the year," he said. "I was eleven weeks late. I said afterwards that I was not going to lay a hand on him. I meant it, and I did not."
 
 Annie waited.
 
@@ -20701,7 +20701,7 @@ He did not look at her.
 
 "Yes."
 
-"I have known that since the ninth of April at about eleven in the morning."
+"I have known that since the twentieth of April."
 
 "And you slept in April."
 
@@ -20717,7 +20717,7 @@ Annie let him have the whole of it.
 
 "I went to give them an account and I gave it, and every word of it was true, and I got into the car afterwards each time and read a page of my own."
 
-"There is a woman in Ulsan with four trucks. There is a house that stood on that river for thirty years. There is a man who spent twenty-five years deciding which men in this country ate together, and there is a man nobody in that trade has seen since May of last year."
+"There was a woman in Ulsan with four trucks. There was an auction house on that river with thirty years of records. There is a man who spent twenty-five years deciding which men in this country ate together, and there is a man nobody in that trade has seen since May of last year."
 
 He said it at the speed he says a schedule.
 
