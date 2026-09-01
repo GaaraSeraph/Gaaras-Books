@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.603 Woerter.
+Book Two, 90 Kapitel, 232.605 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -22,7 +22,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 09 | v2.8 | 2.523 |
 | 10 | v2.5 | 2.206 |
 | 11 | v2.7 | 2.511 |
-| 12 | v1.11 | 2.903 |
+| 12 | v1.12 | 2.905 |
 | 13 | v1.9 | 2.174 |
 | 14 | v1.8 | 2.355 |
 | 15 | v1.5 | 2.001 |
@@ -62,8 +62,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 49 | v2.4 | 3.224 |
 | 50 | v1.5 | 2.498 |
 | 51 | v1.6 | 2.778 |
-| 52 | v1.3 | 2.042 |
-| 53 | v1.9 | 2.679 |
+| 52 | v1.4 | 2.042 |
+| 53 | v1.10 | 2.679 |
 | 54 | v1.14 | 4.420 |
 | 55 | v1.6 | 2.143 |
 | 56 | v1.11 | 2.125 |
@@ -2590,7 +2590,7 @@ By the time she did, the house on the river had stopped taking new consignments,
 ---
 
 # Book Two · Chapter 12: Sixteen days
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day One Hundred and Eighty-Two · Friday 3 April
 
@@ -2642,7 +2642,7 @@ Georgij put both hands on his knees and did not move them.
 
 "Say it."
 
-"She thought about it for four days." He said it perfectly evenly. "That is in her own writing, in the third paragraph, and she put it there because she wanted me to know she had not done it in temper. Four days. Then she took a sheet of association letterhead, which is not hers, and she wrote to you by name, and she signed it Chair, and she posted it registered so that there would be a record of it."
+"She thought about it for four days." He said it perfectly evenly. "That is in her own writing, in the third paragraph, and she put it there because she wanted me to know she had not done it in temper. Four days. Then she took a sheet of association letterhead, which is not hers, and she wrote to you by name, and she signed it Chair. She sent it by courier that morning against a signature, so there would be a record."
 
 Annie did not move.
 
@@ -11377,7 +11377,7 @@ And then, on the second page, because the second page gets everything:
 ---
 
 # Book Two · Chapter 52: Consigned by
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Thirteen · Wednesday 12 August
 
@@ -11433,7 +11433,7 @@ The statement runs to eleven lines.
 
 It gives the lot reference and the date of entry into the old series, which is the twelfth of February, four years ago. Georgij sat down when he read it, because he has been carrying the spring in his head since May.
 
-She was in that book from February. Not from the spring. She was catalogued, and held, and open, for seven weeks before the sale at which she was not sold.
+She was in that book from February. Not from the spring. She was catalogued, and held, and open, for six weeks before the sale at which she was not sold.
 
 It gives the date of removal from the old series.
 
@@ -11556,7 +11556,7 @@ And underneath, on its own, because he sat and looked at the page for a while be
 ---
 
 # Book Two · Chapter 53: Four streets
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Three Hundred and Fifteen · Friday 14 August
 
@@ -11742,7 +11742,7 @@ He has taken six people's explanations off them since June and every one of them
 
 *If I say that to him, he will believe it, because it is true and because he is looking at me the way people look at somebody who has come a long way with a piece of paper. And he will believe it because I said it, and not because he found it.*
 
-*He has had four years and eleven months on his own with this. He gets to find it.*
+*He has had four years and six months on his own with this. He gets to find it.*
 
 "There is one thing you have not asked me," said Georgij, at the door.
 

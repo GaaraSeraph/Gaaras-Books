@@ -55,7 +55,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 9** *What you paid for* (v2.8) · Tag 168, Fr 20. Maerz · 2.523 W
 - **B2 10** *The third line down* (v2.5) · Tag 172, Di 24. Maerz · 2.206 W
 - **B2 11** *What she cannot prove* (v2.7) · Tag 180, Mi 1. April · 2.511 W
-- **B2 12** *Sixteen days* (v1.11) · Tag 182, Fr 3. April · 2.903 W
+- **B2 12** *Sixteen days* (v1.12) · Tag 182, Fr 3. April · 2.905 W
 - **B2 13** *What it costs him* (v1.9) · Tag 188, Do 9. April · 2.174 W
 - **B2 14** *Ask her* (v1.8) · Tag 193, Di 14. April · 2.355 W
 - **B2 15** *One word, and it was true* (v1.5) · Tag 202, Do 23. April · 2.001 W
@@ -95,8 +95,8 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 49** *Against her return* (v2.4) · Tag 302, Sa 1. August · 3.224 W
 - **B2 50** *The one I did not say in May* (v1.5) · Tag 305, Di 4. August · 2.498 W
 - **B2 51** *Clause eleven* (v1.6) · Tag 307, Do 6. August · 2.778 W
-- **B2 52** *Consigned by* (v1.3) · Tag 313, Mi 12. August · 2.042 W
-- **B2 53** *Four streets* (v1.9) · Tag 315, Fr 14. August · 2.679 W
+- **B2 52** *Consigned by* (v1.4) · Tag 313, Mi 12. August · 2.042 W
+- **B2 53** *Four streets* (v1.10) · Tag 315, Fr 14. August · 2.679 W
 - **B2 54** *Buy her* (v1.14) · Tag 319, Di 18. August · 4.420 W
 - **B2 55** *Somebody's daughter* (v1.6) · Tag 322, Fr 21. August · 2.143 W
 - **B2 56** *One sentence* (v1.11) · Tag 326, Di 25. August · 2.125 W
