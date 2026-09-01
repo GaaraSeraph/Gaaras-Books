@@ -103,13 +103,13 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 57** *The one who orders* (v1.9) · Tag 328, Do 27. August · 2.279 W
 - **B2 58** *The only door* (v1.6) · Tag 362, Mi 30. September · Tag 371, Fr 9. Oktober · 2.481 W
 - **B2 59** *The permanent series* (v1.14) · Tag 377, Do 15. Oktober · 3.509 W
-- **B2 60** *Eleven years of paying for it* (v1.7) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.675 W
+- **B2 60** *Eleven years of paying for it* (v1.8) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.676 W
 - **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
 - **B2 62** *The consignor of record* (v1.3) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.103 W
 - **B2 63** *They did not argue about it* (v1.15) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 3.575 W
 - **B2 64** *The second of November* (v1.3) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.121 W
-- **B2 65** *The first hour* (v1.7) · Tag 396, Di 3. November · Tag 397, Mi 4. November · 1.977 W
-- **B2 66** *She went back* (v1.3) · Tag 398, Do 5. November · Tag 399, Fr 6. November · Tag 400, Sa 7. November · 2.411 W
+- **B2 65** *The first hour* (v1.8) · Tag 396, Di 3. November · Tag 397, Mi 4. November · 1.991 W
+- **B2 66** *She went back* (v1.4) · Tag 398, Do 5. November · Tag 399, Fr 6. November · Tag 400, Sa 7. November · 2.404 W
 - **B2 67** *The draught under the door* (v2.6) · Tag 404, Mi 11. November · Tag 409, Mo 16. November · 2.074 W
 - **B2 68** *The second Tuesday* (v3.2) · Tag 431, Di 8. Dezember · 2.071 W
 - **B2 69** *Nobody paid* (v3.5) · Tag 434, Fr 11. Dezember · 2.729 W

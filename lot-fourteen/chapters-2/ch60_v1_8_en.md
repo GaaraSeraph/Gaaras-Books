@@ -1,7 +1,7 @@
-Book Two · Chapter 60: Eleven years of paying for it
-Lot Fourteen · Version 1.7 · EN
+# Chapter 60: Eleven years of paying for it
+*Lot Fourteen* · Version 1.8 · EN
 
-Day Three Hundred and Seventy-Seven · Thursday 15 October
+## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
 He was back at the house by half past eleven and he gave it to her standing.
 
@@ -19,7 +19,7 @@ She heard the whole of it without saying anything, which she does perhaps twice 
 
 Georgij did not need to be told the name.
 
-Day Three Hundred and Eighty-Two · Tuesday 20 October
+## Day Three Hundred and Eighty-Two · Tuesday 20 October
 
 Baek Jun-ho gave him fifty minutes on the Tuesday and had read the question before he arrived, because Georgij had put it in writing on the Friday and had put the clause in with it.
 
@@ -31,6 +31,8 @@ He is sixty-three and he has eleven trusts and he has had four of them for longe
 
 "There is no application to seal an entry in that series and none to withdraw one. I have read the terms twice since Friday, and there is no general power in the deed that a court would read as one either." He had the terms in front of him and one finger on the page. "The man who drafted it in 2011 was thorough in a way that people were not being thorough in 2011, and I would like to be exact about the size of my professional admiration. It is considerable and it is entirely unhelpful to you."
 
+---
+
 "And the second part," said Georgij.
 
 "An agent is out and he has told you that himself. A company is worse than an agent." Baek turned the page over. "A corporate buyer goes into the series as a corporate buyer. One with a registered office and a single director is a thing any competent person unwinds in about four hours, and the unwinding then sits on a record of its own. You would be swapping one entry for two, and the second one would look like concealment, and concealment reads differently in nine years than a name does."
@@ -39,6 +41,8 @@ He is sixty-three and he has eleven trusts and he has had four of them for longe
 
 "A name in a sequence is a fact and a reader has to decide what to do with it. A structure in a sequence is a decision, and a reader does not have to decide anything about a decision, because it has already told him what somebody thought about it at the time." He put both hands on the desk. "In thirty-one years I have never once seen a nominee arrangement improve how a thing looks afterwards. Not once, and I have been asked to build eleven of them."
 
+---
+
 Neither of them said anything.
 
 Out in the outer office a telephone rang twice and stopped.
@@ -46,6 +50,8 @@ Out in the outer office a telephone rang twice and stopped.
 "Then the third part," said Georgij.
 
 "The third part is that the form requires the buyer to be a natural person who is named. It does not say whose." Baek said it in exactly the voice he had used for the other two. "There is a natural person sitting in this room who is not on any of it."
+
+---
 
 Georgij did not move at all.
 
@@ -61,6 +67,8 @@ Baek waited about four seconds and then did the thing that a man of sixty-three 
 
 "I am aware that it did. That is the part I mind."
 
+---
+
 Georgij put both hands on his knees.
 
 "It also fails," he said, "and it fails before it gets to any of that, and I would rather it failed on the mechanics than on the other thing."
@@ -73,6 +81,8 @@ Baek Jun-ho looked at him for a moment.
 
 "That is the correct order to have said those two things in," he said, "and I noticed the order, and I am going to leave it there."
 
+---
+
 Georgij took the second thing out then, because he had decided on the Friday that it would go in this hour and not in a fortnight.
 
 "There is a woman in that building who has been there eleven years and is on oxygen," he said. "Her name is Moon Hae-sook. I asked the administrator of the house on Thursday what the house holds on her, and the answer is nothing. No lot, no reference, no entry, no slip, no commission. He has read the whole series three times."
@@ -80,6 +90,8 @@ Georgij took the second thing out then, because he had decided on the Friday tha
 Baek Jun-ho did not say anything.
 
 "What you know," said Georgij.
+
+---
 
 "I am going to need a minute," said Baek.
 
@@ -89,13 +101,17 @@ Then he came back and sat down and put nothing on the desk at all.
 
 "The administrator looked in the wrong building," he said.
 
+---
+
 "The wrong building."
 
 "Since the second week of March eleven years ago, a standing instruction on one of my trusts has paid two sums against one address in Gangwon-do. A quarterly one to a supplier of medical gas and a monthly one to a private practice." Baek had both hands flat. "There is no name on either instruction. There has never been a name. There is an address, a reference of my own devising, and my signature four times a year for eleven years."
 
 "Forty-four."
 
-"Forty-four, and the first four I signed without asking anything, and the next forty I signed having decided not to." He did not look away. "I would like to be exact about the size of that. I have never once believed the arrangement was clean. I believed for about nine years that it was somebody's dependent relative and that the discretion was a family matter. I have known better since the second of June, and I have signed four more since the second of June."
+"Forty-four, and the first four I signed without asking anything, and the next forty I signed having decided not to." He did not look away. "I would like to be exact about the size of that. I have never once believed the arrangement was clean. I believed for about nine years that it was somebody's dependent relative and that the discretion was a family matter. I have known better since the second of June, and I have signed two more since the second of June."
+
+---
 
 Georgij sat very still.
 
@@ -107,6 +123,8 @@ Georgij sat very still.
 
 "It is the opposite of a lot number." He put one finger on the desk. "A lot number is a house saying that a person is a thing it holds. This is a solicitor saying that somebody at an address has needed oxygen every quarter for eleven years, and that somebody has paid for it without ever writing down who they are."
 
+---
+
 Neither of them said anything for some time.
 
 "Who instructed it," said Georgij.
@@ -117,6 +135,8 @@ Neither of them said anything for some time.
 
 "When you tell me what you are going to do with the other woman, and when it has happened." He straightened nothing, because there was nothing on the desk. "I have watched a man come into this office in March and tell me a thing about my own file that I should have found in 2016. I am not going to hand you the rest of it and find out in December that I gave a good reason to somebody at the wrong moment. That is a rule I made this month, and you are the first person it applies to."
 
+---
+
 "That is the correct rule," said Georgij.
 
 "You are not going to argue."
@@ -125,7 +145,7 @@ Neither of them said anything for some time.
 
 "The day after she is out of that building, whichever way it goes, and I want to hear it from you and not from the newspaper." Baek got up as well, which he had not done in March. "And if it goes the other way, I want to hear that too, and I would like it on the same day."
 
-Day Three Hundred and Eighty-Four · Thursday 22 October
+## Day Three Hundred and Eighty-Four · Thursday 22 October
 
 She had the whole of it by Tuesday evening and she did not say anything about it on the Wednesday.
 
@@ -137,6 +157,8 @@ On the Thursday morning she came down to the small office at twenty past eight, 
 
 "And you gave me his answer about what that is worth, and you did not improve it." Annie did not come into the room. "So it is worth nothing this morning, and I am not signing my name against a thing a man means to do."
 
+---
+
 "Say the sentence back to me," said Annie.
 
 "An assignment out of a wind-up goes into the permanent series at its own entry, with the date and the two parties, and it cannot be sealed or withdrawn."
@@ -147,7 +169,11 @@ On the Thursday morning she came down to the small office at twenty past eight, 
 
 "So it will say his name and it will say mine, on one line, with a number between them." She had not raised her voice. "And in about nine years a person I will never meet will read that line and know exactly what I did. I will be forty-seven, and there will be no version of it in which I can explain myself to them."
 
+---
+
 "It will not be nine years, Mistress."
+
+---
 
 Annie put the terms of business down on the edge of the desk.
 
@@ -155,21 +181,27 @@ Annie put the terms of business down on the edge of the desk.
 
 "It will not be nine years." Georgij did not move at all. "The fund has decided. This house holds nothing after the twenty-fifth of February, and Hwang telephoned me himself at twenty past seven, because I asked him in that room to be the first call and not the six hundred and fortieth envelope."
 
+---
+
 "Why did you not say that before I said all of that."
 
 "Because I do not interrupt you, Mistress."
+
+---
 
 Annie looked at him for a moment longer than the answer needed.
 
 "No," she said. "You do not."
 
-———
+* * *
 
 "Four months."
 
 "About four months, and I cannot make it exact until the entry is made, and I will make it exact when it is." He kept his hands where she could see them. "And it does not take anything off what you have just said. You decided it as a permanent thing. That is what you decided, and a date I was given this morning does not reach back and change it."
 
 "Yes, Mistress."
+
+---
 
 She stood in the doorway for a moment.
 
@@ -182,6 +214,8 @@ Georgij did not move yet.
 "Say it."
 
 "On the ninth of October you stood in that room and said out loud what the money was for, with the date in it, so that you could not decide in November that it had been something else." He held her eye. "You have spent seven days looking for the way round and there was not one, and you have taken thirteen days between the two and you have not moved once. I would like that noticed by somebody in this house other than you, and there is nobody else, so it is me."
+
+---
 
 Annie looked at him for slightly longer than she needed to.
 
@@ -197,14 +231,16 @@ Annie looked at him for slightly longer than she needed to.
 
 She went upstairs.
 
-———
+* * *
 
 He wrote it in the book at nine, before he went, and it took one attempt.
 
-She looked for seven days and would have taken it. She says so herself and nobody made her.
+*She looked for seven days and would have taken it. She says so herself and nobody made her.*
 
-A man in an office in Yeouido has signed forty-four payments in eleven years and stopped believing it was clean about nine years ago, and he says that himself as well.
+*A man in an office in Yeouido has signed forty-four quarterly authorisations in eleven years and stopped believing it was clean about nine years ago, and he says that himself as well.*
 
-Two people this month have told me the worst version of their own conduct without being asked, and both of them did it before I could find it.
+*Two people this month have told me the worst version of their own conduct without being asked, and both of them did it before I could find it.*
 
-I have not once managed that. Every time it has been said about me in this house, it has been said by somebody else first.
+---
+
+*I have not once managed that. Every time it has been said about me in this house, it has been said by somebody else first.*

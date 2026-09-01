@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.539 Woerter.
+Book Two, 90 Kapitel, 232.547 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -70,13 +70,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 57 | v1.9 | 2.279 |
 | 58 | v1.6 | 2.481 |
 | 59 | v1.14 | 3.509 |
-| 60 | v1.7 | 2.675 |
+| 60 | v1.8 | 2.676 |
 | 61 | v1.3 | 2.402 |
 | 62 | v1.3 | 2.103 |
 | 63 | v1.15 | 3.575 |
 | 64 | v1.3 | 2.121 |
-| 65 | v1.7 | 1.977 |
-| 66 | v1.3 | 2.411 |
+| 65 | v1.8 | 1.991 |
+| 66 | v1.4 | 2.404 |
 | 67 | v2.6 | 2.074 |
 | 68 | v3.2 | 2.071 |
 | 69 | v3.5 | 2.729 |
@@ -13271,7 +13271,7 @@ He wrote four lines in the car and did not start the engine while he wrote them.
 ---
 
 # Book Two · Chapter 60: Eleven years of paying for it
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -13367,7 +13367,7 @@ Then he came back and sat down and put nothing on the desk at all.
 
 "Forty-four."
 
-"Forty-four, and the first four I signed without asking anything, and the next forty I signed having decided not to." He did not look away. "I would like to be exact about the size of that. I have never once believed the arrangement was clean. I believed for about nine years that it was somebody's dependent relative and that the discretion was a family matter. I have known better since the second of June, and I have signed four more since the second of June."
+"Forty-four, and the first four I signed without asking anything, and the next forty I signed having decided not to." He did not look away. "I would like to be exact about the size of that. I have never once believed the arrangement was clean. I believed for about nine years that it was somebody's dependent relative and that the discretion was a family matter. I have known better since the second of June, and I have signed two more since the second of June."
 
 Georgij sat very still.
 
@@ -13475,7 +13475,7 @@ He wrote it in the book at nine, before he went, and it took one attempt.
 
 *She looked for seven days and would have taken it. She says so herself and nobody made her.*
 
-*A man in an office in Yeouido has signed forty-four payments in eleven years and stopped believing it was clean about nine years ago, and he says that himself as well.*
+*A man in an office in Yeouido has signed forty-four quarterly authorisations in eleven years and stopped believing it was clean about nine years ago, and he says that himself as well.*
 
 *Two people this month have told me the worst version of their own conduct without being asked, and both of them did it before I could find it.*
 
@@ -14356,7 +14356,7 @@ Annie did not say anything for a moment.
 ---
 
 # Book Two · Chapter 65: The first hour
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Ninety-Six · Tuesday 3 November
 
@@ -14448,7 +14448,7 @@ Then he put the case on the table and did not open it.
 
 "You have brought it."
 
-"I have brought it. I am going to tell you the name and then I am going to give you the file, and I want the order said out loud, because the order is the whole of my position." Baek put one hand flat on the case. "I am not giving you the name because you got her out. I am giving it to you because I signed forty-four payments and stopped asking about them in 2016, and there is no version of the next ten years in which I go on holding it."
+"I have brought it. I am going to tell you the name and then I am going to open the file for you, and I want the order said out loud, because the order is the whole of my position." Baek put one hand flat on the case. "I am not giving you the name because you got her out. I am giving it to you because I signed forty-four quarterly authorisations and stopped asking about them in 2016, and there is no version of the next ten years in which I go on holding it alone."
 
 "Then both."
 
@@ -14491,6 +14491,8 @@ Georgij put one hand flat on the table.
 "Yes."
 
 "So the woman on the oxygen was somewhere else until then."
+
+Baek closed the file and put it back in the case.
 
 "The woman on the oxygen was somewhere else until then, and I have had that fact in a drawer for four years, and it is the single worst thing in this file." Baek Jun-ho stood up. "She was moved into that building in the same month as the other one. Somebody put them under one roof to save on a heating bill."
 
@@ -14535,7 +14537,7 @@ Annie stood at the window for a moment.
 ---
 
 # Book Two · Chapter 66: She went back
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Ninety-Eight · Thursday 5 November
 
@@ -14567,7 +14569,7 @@ Annie put her head round the door about a minute later.
 
 He sat down and gave it to her in under a minute, because he had had it since the passage.
 
-"Mrs Jeon," he said. "She has done it once, four days ago, in that room downstairs, and she did it correctly. She has a form of words and she has no interest in the answer and she is not from this house." He did not hurry it. "She goes up on Monday with the instrument in a case and reads it out loud and reads the third paragraph twice, and the woman has the same hour that Ahn Jung-hee had."
+"Mrs Jeon," he said. "She did it yesterday, in that room downstairs, and she did it correctly. She has a form of words and she has no interest in the answer and she is not from this house." He did not hurry it. "She goes up on Monday with the instrument in a case and reads it out loud and reads the third paragraph twice, and the woman has the same hour that Ahn Jung-hee had."
 
 "That is clean."
 
@@ -14623,7 +14625,7 @@ Annie did not tell him that was wrong.
 
 ## Day Three Hundred and Ninety-Nine · Friday 6 November
 
-They left at seven and Jang had the car back on the drive at twenty to five.
+They left at nine and Jang had the car back on the drive at twenty to five.
 
 He came and found Georgij in the small room without being asked to, and stood in the door with his cap still in his hand, which he does not do.
 
@@ -14643,7 +14645,7 @@ Georgij did not say anything.
 
 "And on the way back," said Georgij.
 
-"She talked for about forty minutes and she talked about the roads." Jang did not move from the door. "She knows that coast. She has been up and down it in other people's cars for four years and she has an opinion about the tunnel at Hongcheon. It is a good opinion. I have been driving that road for eleven years and I had not thought of it."
+"She talked for about forty minutes and she talked about the roads." Jang did not move from the door. "She knows that route. She has been up and down it in other people's cars for four years and she has an opinion about the tunnel at Hongcheon. It is a good opinion. I have been driving that road for eleven years and I had not thought of it."
 
 "She did not say anything about the house."
 
@@ -14685,7 +14687,7 @@ Annie almost smiled at that and did not quite.
 
 Georgij wrote it that evening and it took three attempts and he kept the third.
 
-*A woman who has been free for six days got into a car at seven in the morning and went back through a gate she was carried out of. She asked another woman a question that could be answered with no.*
+*A woman who has been free for four days got into a car at nine in the morning and went back through a gate she was carried out of. She asked another woman a question that could be answered with no.*
 
 *Nobody arranged it. Nobody drafted it. There was no paper in the car.*
 
@@ -14717,7 +14719,7 @@ He did not say anything at all. He had not come up in order to say anything and 
 
 Annie put the pen down at about half past nine.
 
-"You were not useful on Thursday and you were not useful on Friday," she said. "It was decided in a passage by a housekeeper and a woman who has been out of that house for six days, and neither of them needed you. I have watched you find that out over two days and I have not helped you with it."
+"You were not useful on Thursday and you were not useful on Friday," she said. "It was decided in a passage by a housekeeper and a woman who has been out of that house for five days, and neither of them needed you. I have watched you find that out over two days and I have not helped you with it."
 
 "No, Mistress."
 
@@ -14725,7 +14727,7 @@ Annie put the pen down at about half past nine.
 
 Georgij did not move at all.
 
-"On the second of November there was a woman in a car in a yard in Incheon," she said, "and a man in another car who did not get out of it."
+"On the second of November there was a woman in a yard outside Wonju," she said, "and a man in a car who did not get out of it."
 
 "Mistress."
 

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 320.689 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 320.691 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -26190,7 +26190,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 91 | 22 (b1ch07-b3ch02) | 22 | 600 |
-| Baek Jun-ho | 84 | 12 (b2ch39-b3ch01) | 270 | 592 |
+| Baek Jun-ho | 85 | 12 (b2ch39-b3ch01) | 270 | 592 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -26984,8 +26984,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 397 | b2ch65:24 | Annie was in her own study on the first floor with the door open and a page in front of .. |
 | 397 | b2ch65:76 | Annie came down at noon and did not go into the small room. |
 | 397 | b2ch65:86 | "Then it is a request." Annie did not raise her voice anywhere. "Tell her that it can be.. |
-| 397 | b2ch65:162 | Annie heard the settlor's name and did not react to it, and heard the two corrections an.. |
-| 397 | b2ch65:192 | Annie stood at the window for a moment. |
+| 397 | b2ch65:164 | Annie heard the settlor's name and did not react to it, and heard the two corrections an.. |
+| 397 | b2ch65:194 | Annie stood at the window for a moment. |
 | 398 | b2ch66:16 | Annie put the pen down. |
 | 398 | b2ch66:24 | Annie did not answer that straight away. |
 | 398 | b2ch66:36 | Annie put her head round the door about a minute later. |
@@ -27322,7 +27322,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch63:280` (Tag 390) - four hundred and eighty-one million
 - `b2ch64:200` (Tag 395) - one
 - `b2ch65:24` (Tag 397) - fifty, ten, twenty
-- `b2ch65:162` (Tag 397) - two
+- `b2ch65:164` (Tag 397) - two
 - `b2ch66:78` (Tag 398) - eleven, one, two
 - `b2ch66:86` (Tag 398) - eight
 - `b2ch66:188` (Tag 399) - two
@@ -28599,7 +28599,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 395 | b2ch64:146 | She got out and stood at the edge of it with her arms at her sides and looked at nothing.. |
 | 395 | b2ch64:152 | At the second petrol station Jang went in and telephoned a repair shop and said four wor.. |
 | 398 | b2ch66:92 | "Jang drives her tomorrow and he sits in the car and does not get out of it," she said. .. |
-| 399 | b2ch66:120 | They left at seven and Jang had the car back on the drive at twenty to five. |
+| 399 | b2ch66:120 | They left at nine and Jang had the car back on the drive at twenty to five. |
 | 399 | b2ch66:132 | "The gate was open and there was nobody on it. There has been nobody on it since about S.. |
 | 399 | b2ch66:148 | "She talked for about forty minutes and she talked about the roads." Jang did not move f.. |
 | 399 | b2ch66:156 | Jang looked at the floor for a second. |
@@ -28691,7 +28691,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch64:140` (Tag 395) - four
 - `b2ch64:146` (Tag 395) - four, two
 - `b2ch64:152` (Tag 395) - four
-- `b2ch66:120` (Tag 399) - five, seven, twenty
+- `b2ch66:120` (Tag 399) - five, nine, twenty
 - `b2ch66:148` (Tag 399) - eleven, forty, four
 - `b2ch72:132` (Tag 441) - twenty
 - `b2ch72:194` (Tag 444) - forty, two
@@ -29495,7 +29495,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 397 | b2ch65:64 | "There is a second thing and it is not from the hour," said Mrs Jeon. "It is from the co.. |
 | 397 | b2ch65:72 | "That I did not know what he found and that he had not told me, and that he sat in a car.. |
 | 397 | b2ch65:78 | She stood in the hall with Mrs Jeon for about four minutes and asked her three things ab.. |
-| 398 | b2ch66:46 | "Mrs Jeon," he said. "She has done it once, four days ago, in that room downstairs, and .. |
+| 398 | b2ch66:46 | "Mrs Jeon," he said. "She did it yesterday, in that room downstairs, and she did it corr.. |
 | 398 | b2ch66:62 | "A woman who has spent eleven years being decided about will say yes to a stranger with .. |
 | 399 | b2ch66:210 | *I had a version ready inside four minutes. It was the correct one and it would have wor.. |
 | 400 | b2ch66:266 | "Mrs Jeon told me about the eleven minutes on the fourth, and I had not asked her for it.. |
@@ -29538,7 +29538,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch65:64` (Tag 397) - eleven
 - `b2ch65:72` (Tag 397) - eleven, three
 - `b2ch65:78` (Tag 397) - four, three
-- `b2ch66:46` (Tag 398) - four
 - `b2ch66:62` (Tag 398) - eleven, four
 - `b2ch66:210` (Tag 399) - four, one
 - `b2ch66:266` (Tag 400) - eleven
@@ -29691,7 +29690,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Baek Jun-ho
 
-84 Nennungen in 12 Kapiteln.
+85 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -29739,12 +29738,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 382 | b2ch60:146 | "The day after she is out of that building, whichever way it goes, and I want to hear it.. |
 | 396 | b2ch65:14 | Baek Jun-ho did not say anything for a moment. |
 | 397 | b2ch65:90 | Baek Jun-ho came at two. |
-| 397 | b2ch65:104 | "I have brought it. I am going to tell you the name and then I am going to give you the .. |
+| 397 | b2ch65:104 | "I have brought it. I am going to tell you the name and then I am going to open the file.. |
 | 397 | b2ch65:110 | "The trust was settled in the second week of March eleven years ago," said Baek Jun-ho. .. |
 | 397 | b2ch65:124 | Baek Jun-ho looked at the case. |
 | 397 | b2ch65:134 | "By him. Not by his estate, not by a successor, not by a person acting under a power. Hi.. |
 | 397 | b2ch65:138 | "I have been asked that question about a document perhaps four hundred times in thirty-o.. |
-| 397 | b2ch65:156 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
+| 397 | b2ch65:156 | Baek closed the file and put it back in the case. |
+| 397 | b2ch65:158 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
 | 431 | b2ch68:92 | Baek Jun-ho telephoned at eleven. |
 | 431 | b2ch68:112 | "The other time was the second week of February, four years ago. I made the change mysel.. |
 | 431 | b2ch68:116 | "There is a thing I am going to say and then I am going to go and have a difficult after.. |
@@ -29810,7 +29810,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch65:110` (Tag 397) - eleven, one, twenty, two
 - `b2ch65:134` (Tag 397) - eleven, twenty
 - `b2ch65:138` (Tag 397) - eleven, four hundred, one, thirty-one
-- `b2ch65:156` (Tag 397) - four, one
+- `b2ch65:158` (Tag 397) - four, one
 - `b2ch68:92` (Tag 431) - eleven
 - `b2ch68:112` (Tag 431) - four
 - `b2ch81:6` (Tag 493) - fifty
@@ -30676,7 +30676,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 397 | b2ch65:38 | It gives Ahn Jung-hee everything that was bought on the second of November, without cond.. |
 | 397 | b2ch65:44 | And the third paragraph says that nothing in the document creates any obligation on Ahn .. |
 | 397 | b2ch65:150 | "February four years ago is the month Ahn Jung-hee went into that house," he said. |
-| 398 | b2ch66:46 | "Mrs Jeon," he said. "She has done it once, four days ago, in that room downstairs, and .. |
+| 398 | b2ch66:46 | "Mrs Jeon," he said. "She did it yesterday, in that room downstairs, and she did it corr.. |
 | 404 | b2ch67:10 | Ahn Jung-hee went with them. |
 | 404 | b2ch67:42 | Jang carried it in and put it where he was told to and did not look at it twice. Ahn Jun.. |
 | 404 | b2ch67:82 | That took about two minutes and nobody helped her and nobody offered to, because Ahn Jun.. |
@@ -30708,7 +30708,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch64:104` (Tag 395) - four, one
 - `b2ch64:114` (Tag 395) - eleven, four
 - `b2ch65:150` (Tag 397) - four
-- `b2ch66:46` (Tag 398) - four
 - `b2ch67:82` (Tag 404) - two
 - `b2ch67:100` (Tag 404) - eight
 - `b2ch68:228` (Tag 431) - four
