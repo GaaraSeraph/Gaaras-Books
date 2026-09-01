@@ -630,15 +630,15 @@ Mengenangabe.**
 
 185. **"He collects"** hat einen Zwilling: *"An absence in a ledger is a question. A payment in a ledger is a Tuesday."*
 186. **Der Satz fuer Ahn Jung-hee:** *"The one by the door is doing better this year."* Es ist ein Topf vor der Werkstatttuer, der nicht Mr Ahn gehoert und jeden Winter eingeht. Jung-hee hat vor elf Jahren gesagt, **es sei nicht dieselbe Pflanze, es sei derselbe Topf.**
-187. **Ihre Antwort, und es ist das erste Mal, dass sie im Buch spricht:** *"The shed roof should be done properly or not at all."* **Viermal, auf vier verschiedene Arten, ueber neunzehn Minuten**, und es ist das Einzige, was sie sagt. Familienbegruendung: *"She always said one thing four ways when she couldn't say it once."*
-188. **Und der Bruder liest es richtig:** *"A person who's finished doesn't tell you when... That's not a goodbye. She's told you when the van comes."* **"Sie hat nicht gesagt, dass sie fertig ist. Sie hat gesagt, dass das Haus fertig ist."**
+187. **Ihre Antwort, und es ist das erste Mal, dass ihre Stimme das Buch erreicht:** *"The shed roof should be done properly or not at all."* **Viermal, auf vier verschiedene Arten, ueber neunzehn Minuten**, und es ist das Einzige, was sie sagt. Die fruehere Familienbegruendung durch den Bruder steht in keiner heutigen Fassung mehr.
+188. **Der Bruder erkennt sie an der Arbeit:** *"She'd have taken it over. Somebody's got to and nobody was, so she would."* Und dann die Korrektur an Georgij: *"You haven't found anything clever. You've found her."*
 189. **"You did not add a doctor to a household. You added a doctor to her."**
-190. **"Nothing was arranged for the five of you. You were arranged for."**
-191. **"You do the same thing to people."** Annies Liste: Byun, Mrs Jeon, Hwang, die Frau mit der Giesskanne, fuenf Spediteure, ein Mann mit vier Anrufen. **Und Georgijs Korrektur daran:** *"A line through a person leaves them alone. What I did to those four is the opposite. I left something running in them."*
-192. **"A promise you keep until it is expensive is not one."** Dazu die Anweisung, die er ausdruecklich verlangt: *"None of the five. Not asked, not telephoned, not driven past."*
+190. **Aus dem heutigen Kanon gefallen:** Die fruehere Formel ueber die fuenf Spediteure stand nur in einer verworfenen Fassung und ist nicht bindend.
+191. **Aus dem heutigen Kanon gefallen:** Annies fruehere Liste der Menschen, durch die Georgij eine Linie gezogen habe, und seine Antwort darauf stehen nur im Archiv.
+192. **Aus dem heutigen Kanon gefallen:** Die fruehere Formel ueber eine erst im teuren Moment gehaltene Zusage und die anschliessende Fuenfer-Anweisung stehen nur im Archiv.
 193. **"Nichts, was ein Mensch ist, verschiebt sich."**
-194. **Mrs Jeons neun Zeilen lagen neunundachtzig Tage in einer Schublade:** *"A page like that is handed across a table. There has to be somebody on the other side of the table, and for eighty-nine days there was not."* Die neunte Zeile: *I am not writing this so that anybody is forgiven. I am writing it because it happened and because I was in the room.*
-195. **Mrs Jeons Bedingung, und sie ist die Umkehrung des ganzen Buches:** *"You will tell me her name before I am in the room with her. Not the reference. The name, and how it is written, and which part of it her mother used."*
+194. **Mrs Jeons neun Zeilen bleiben in der verschlossenen Wissenskette:** geschrieben am 14. Juni, unterschrieben und datiert, in einer Schublade im Haus am Fluss. Georgij hat sie gelesen und ist ausser Mrs Jeon der Einzige; in `b2 ch83` verweigert er Hwang weiterhin jede einzelne Zeile.
+195. **Mrs Jeons Genauigkeit vor der ersten Stunde:** In `b2 ch61` verlangt sie erst *"How it is written"* und dann *"which part of it her mother used."* Georgij gibt ihr beides aus Mr Ahns Auskunft, bevor sie Ahn Jung-hee gegenuebertritt.
 196. **"She is not a consignment out here. She is out here."**
 197. **DIE WUNDE DES TAGES:** sie nehmen eine aus einem Haus, das ausgeraeumt wird, und lassen eine darin. *"The kettle is on the second shelf and a man has written it on a folder."*
 198. **Ahn Jung-hees erster freier Satz nach vier Jahren ist eine erledigte Sache ueber jemand anderen:** *"The kettle is on the second shelf. I moved it on Thursday because they took the counter."* **Drei ihrer vier Aeusserungen an dem Tag handeln von Moon Hae-sook**, und die vierte ist ihre erste Frage im ganzen Buch.
@@ -646,11 +646,11 @@ Mengenangabe.**
 200. **Sims einzige Frage seines Lebens:** *"Was I good at it."* - *"You were the best I have ever seen."* - **"No. It is the bill."**
 201. **Mrs Sunwoo:** *"You have not told me the part where you did something clever."* - *"There is not one."* - *"No. There is not, and I have been waiting for it for fifty minutes, and I want you to notice that I had to wait."*
 202. **"Every person in this arrangement who is not being paid has now given up something they had. The two who are being paid have given up nothing at all."**
-203. **DIE ZWEI KALTEN LAECHELN, und es gibt kein drittes.** Das erste faellt **mit** der Bitte in b2 K86, nicht mit der Begruendung davor; das zweite zwei Stunden spaeter am Schreibtisch, **waehrend er sich entschuldigt**: *"I enjoyed telling you this very much."* Auf die Frage, welcher Satz wahr ist: **"Both of them, Mistress. That is why I brought them together."** **Wer ein drittes einbaut, verbraucht eines von zweien.**
-204. **DER TODESSTOSS IST EINE BITTE:** *"Please guide me. Who should I be careful of?"* Bei Woo und Sang-hoon war die Frage **Entnahme**; hier holt sie nichts und kann nichts holen. **Dieselben Worte, umgekehrte Funktion.** Chois Urteil darauf ist das haerteste Lob des Bandes: *"That was very well done."*
-205. **DIE SCHLUSSZEILE DES BANDES:** *"You are such a beautiful, strong woman. Thank you for buying me."* Sie ist der Zwilling des ersten kalten Laechelns - **zweimal verliert er die Fassung, einmal kalt, einmal warm.**
-206. **"If the world points anything at you at all, I will burn the world down"** steht **seit dem 26.08. im Text**, in alt K90, unter Erschoepfung. **Damit ist Eintrag 101 dieser Liste erledigt.**
-207. **Der letzte Absatz des Bandes ist ein Ventilator**, der seit dem 15. September laeuft und den niemand abgestellt hat.
+203. **DAS EINE KALTE LAECHELN:** In `b2 ch86` kommt nach Chois Antwort Georgijs breites, eine Viertelsekunde verspaetetes Laecheln. *"He has never once used it cold."* Die fruehere zweite Szene am Schreibtisch ist gestrichen; es gibt im heutigen Kanon kein zweites kaltes Laecheln.
+204. **DER TODESSTOSS IST EINE BITTE:** *"You are the expert in this room, and I am only the man who arranged it. Please guide me. How does a man with nothing left escape a thing he cannot see coming?"* Die Form bietet Choi eine letzte Expertenrolle an und macht zugleich klar, dass Georgij das Ergebnis bereits arrangiert hat.
+205. **DIE LETZTE GESPROCHENE ZEILE DES BANDES:** *"You are such a beautiful, strong woman. Thank you for buying me."* Sie ist der warme Gegenpol zum kalten Laecheln in `b2 ch86`.
+206. **"If the world pointed anything at you, I would burn the world down."** Der Satz steht in `b2 ch90` nach der korrigierten Bruchrechnung und nicht mehr in einer alten Kapitelnummer.
+207. **Der Band endet nicht mehr auf dem Ventilator.** Die Maschine laeuft waehrend des Gespraechs und gibt der Szene ihre vier Minuten; der letzte Absatz ist Georgijs Schlaf: *"He slept about nine hours, which he has not done since April."*
 
 ---
 
