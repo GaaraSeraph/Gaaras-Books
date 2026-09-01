@@ -28,25 +28,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 91 | 22 (b1ch07-b3ch02) | 22 | 600 |
+| Baek Jun-ho | 84 | 12 (b2ch39-b3ch01) | 270 | 592 |
+| Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
-| Mr Baek | 62 | 14 (b1ch05-b3ch01) | 6 | 592 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
 | Mr Yeo | 57 | 11 (b1ch05-b2ch89) | 6 | 590 |
-| Mr Yeom | 53 | 9 (b2ch23-b2ch89) | 224 | 590 |
+| Mr Ok | 53 | 9 (b2ch16-b2ch89) | 206 | 590 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 31 | 145 |
 | Mrs Ha | 44 | 4 (b2ch72-b2ch89) | 441 | 590 |
 | Nam Byung-hee | 43 | 13 (b2ch03-b2ch87) | 155 | 531 |
+| Mr Byun | 41 | 14 (b2ch21-b2ch89) | 215 | 590 |
 | Ahn Jung-hee | 37 | 15 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch34) | 22 | 249 |
 | Mr Ku | 35 | 23 (b1ch05-b2ch87) | 6 | 531 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
-| Baek Jun-ho | 31 | 10 (b2ch39-b3ch01) | 270 | 592 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 31 | 87 |
-| Mr Kwon | 30 | 6 (b2ch14-b2ch73) | 193 | 445 |
+| Mr Kwon | 31 | 6 (b2ch14-b2ch73) | 193 | 445 |
 | Mrs Bae | 29 | 8 (b2ch38-b2ch88) | 262 | 578 |
 | Mr Im | 28 | 5 (b1ch05-b2ch87) | 6 | 531 |
 | Mr Koh | 25 | 7 (b2ch35-b2ch87) | 251 | 531 |
-| Mr Byun | 21 | 3 (b2ch21-b2ch89) | 215 | 590 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
@@ -54,10 +54,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Gong Doo-hyun | 8 | 2 (b3ch01-b3ch02) | 592 | 600 |
+| Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
-| Mrs Jeon Mi-ja | 5 | 4 (b2ch26-b2ch64) | 237 | 395 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
@@ -65,7 +65,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
 | Cha Tae-seong | **0** | - | - | - |
-| Mr Ok | **0** | - | - | - |
 | Mr Pyeon | **0** | - | - | - |
 
 ---
@@ -3528,6 +3527,273 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Baek Jun-ho
+
+84 Nennungen in 12 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 270 | b2ch39:176 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
+| 270 | b2ch39:180 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
+| 270 | b2ch39:244 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
+| 290 | b2ch45:128 | "You do the thing you are the only person who can do, and it is not the house." Georgij .. |
+| 298 | b2ch47:20 | "This is Baek Jun-ho," said Sang-hoon. |
+| 298 | b2ch47:38 | Baek Jun-ho did not move at all. |
+| 298 | b2ch47:78 | Baek Jun-ho has administered eleven trusts for a firm in Yeouido for most of his working.. |
+| 298 | b2ch47:84 | "It is a set of instructions and a bank account, and nothing else. My job is to do what .. |
+| 298 | b2ch47:92 | "In eleven years I have never met anybody connected with it, been to the property, or sp.. |
+| 298 | b2ch47:102 | Baek thought about that. |
+| 298 | b2ch47:106 | "Four years ago the instructions were amended," said Baek. "That is the part Mr Park ask.. |
+| 298 | b2ch47:114 | "I wrote once, in the ordinary way. I received a very courteous letter explaining that t.. |
+| 298 | b2ch47:136 | Baek Jun-ho did not move. |
+| 298 | b2ch47:146 | "You have not asked me a question yet," said Baek. |
+| 298 | b2ch47:160 | Baek Jun-ho put both hands on the document case beside his chair, which had been there t.. |
+| 298 | b2ch47:170 | "I paid it because it was properly rendered and inside the instructions," said Baek, "an.. |
+| 298 | b2ch47:180 | "You want it," said Baek. |
+| 298 | b2ch47:194 | Baek looked at him for a long moment. |
+| 298 | b2ch47:202 | Baek Jun-ho opened the case. |
+| 298 | b2ch47:226 | "It is not a name, a hospital number or an insurance number," said Baek. "I have looked .. |
+| 298 | b2ch47:236 | Baek Jun-ho sat very still. |
+| 298 | b2ch47:246 | "I would like to sit for a moment," said Baek. |
+| 298 | b2ch47:258 | "The flat in Seodaemun is hers. Not the woman who is being cared for. The other one." Ba.. |
+| 298 | b2ch47:266 | "Do not do that." Baek said it quite sharply, and it was the first time his voice had do.. |
+| 298 | b2ch47:276 | There was one more thing, and it was Baek who raised it, standing, with the case under h.. |
+| 298 | b2ch47:282 | "Then you know something I have wondered about for eleven years, and I am going to ask i.. |
+| 298 | b2ch47:296 | Baek Jun-ho nodded once, the way a man does when something he has half known has been sa.. |
+| 300 | b2ch48:136 | "And Baek Jun-ho does not find out that a copy left this house until after Saturday, bec.. |
+| 319 | b2ch54:266 | Baek pays and cannot be touched until she is safe. The house can be finished and finishi.. |
+| 319 | b2ch54:494 | "Not until Baek is finished and not until the house is. If she goes first, the man in Se.. |
+| 322 | b2ch55:214 | Baek and the trust cannot be touched first, because the money is the oxygen. The house c.. |
+| 382 | b2ch60:24 | Baek Jun-ho gave him fifty minutes on the Tuesday and had read the question before he ar.. |
+| 382 | b2ch60:38 | "An agent is out and he has told you that himself. A company is worse than an agent." Ba.. |
+| 382 | b2ch60:52 | "The third part is that the form requires the buyer to be a natural person who is named... |
+| 382 | b2ch60:58 | Baek waited about four seconds and then did the thing that a man of sixty-three does whe.. |
+| 382 | b2ch60:80 | Baek Jun-ho looked at him for a moment. |
+| 382 | b2ch60:90 | Baek Jun-ho did not say anything. |
+| 382 | b2ch60:96 | "I am going to need a minute," said Baek. |
+| 382 | b2ch60:108 | "Since the second week of March eleven years ago, a standing instruction on one of my tr.. |
+| 382 | b2ch60:120 | "It is a record." Baek said it without any relief in it at all. "You have told me that t.. |
+| 382 | b2ch60:132 | "The settlor of the trust instructed it in the second week of March eleven years ago, in.. |
+| 382 | b2ch60:146 | "The day after she is out of that building, whichever way it goes, and I want to hear it.. |
+| 396 | b2ch65:14 | Baek Jun-ho did not say anything for a moment. |
+| 397 | b2ch65:90 | Baek Jun-ho came at two. |
+| 397 | b2ch65:104 | "I have brought it. I am going to tell you the name and then I am going to give you the .. |
+| 397 | b2ch65:110 | "The trust was settled in the second week of March eleven years ago," said Baek Jun-ho. .. |
+| 397 | b2ch65:124 | Baek Jun-ho looked at the case. |
+| 397 | b2ch65:134 | "By him. Not by his estate, not by a successor, not by a person acting under a power. Hi.. |
+| 397 | b2ch65:138 | "I have been asked that question about a document perhaps four hundred times in thirty-o.. |
+| 397 | b2ch65:156 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
+| 431 | b2ch68:92 | Baek Jun-ho telephoned at eleven. |
+| 431 | b2ch68:112 | "The other time was the second week of February, four years ago. I made the change mysel.. |
+| 431 | b2ch68:116 | "There is a thing I am going to say and then I am going to go and have a difficult after.. |
+| 493 | b2ch81:6 | Baek Jun-ho asked for the Monday morning and said on the telephone that it would take fi.. |
+| 493 | b2ch81:16 | "I am going to do this in three parts," said Baek, "and the first two are mine and you a.. |
+| 493 | b2ch81:26 | "I stopped believing it on the fourteenth of January at about four in the afternoon, in .. |
+| 493 | b2ch81:34 | "The deed says what the money is for and it says it in one line," said Baek. "*The opera.. |
+| 493 | b2ch81:44 | "There is no residence," said Baek. |
+| 493 | b2ch81:52 | "The staff were paid off in November. The house was surveyed on the twenty-second of Sep.. |
+| 493 | b2ch81:64 | "I have been administering nothing since about the first week of November," said Baek. ".. |
+| 493 | b2ch81:68 | "I am telling you that I have been in breach since the first of December and that I sign.. |
+| 493 | b2ch81:76 | "There is, and that is the first thing I looked at on the fourth of November, and I want.. |
+| 493 | b2ch81:82 | Baek Jun-ho sat back for the first time that morning. |
+| 493 | b2ch81:90 | "Good," said Baek. "That is the only thing in this that I would have refused over, and I.. |
+| 493 | b2ch81:116 | "I have crossed out *regretfully* and I have crossed out *unfortunately*, and I did it a.. |
+| 493 | b2ch81:130 | Baek looked up. |
+| 493 | b2ch81:142 | Baek Jun-ho got up and went to the cabinet behind his desk and did not open it. |
+| 493 | b2ch81:168 | Baek stood with his hand on the cabinet door. |
+| 493 | b2ch81:180 | "Then I am going to tell you the third part," said Baek, "and this is the one where you .. |
+| 493 | b2ch81:192 | "The December signature. In writing, to the Law Society, with the deed and the schedule .. |
+| 493 | b2ch81:196 | "By somebody who was right." Baek did not move. "It is still true." |
+| 493 | b2ch81:206 | "You are not going to argue," said Baek. |
+| 493 | b2ch81:216 | Baek Jun-ho looked at him for a long moment. |
+| 493 | b2ch81:232 | "I did not do it in 2016," said Baek. |
+| 493 | b2ch81:242 | "The second of March is nine years late and it is the only appointment available." Baek .. |
+| 493 | b2ch81:250 | "It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on .. |
+| 493 | b2ch81:254 | "In the meantime a man in this city has to write me a letter about a woman he has never .. |
+| 493 | b2ch81:274 | *He did not build it so that the payments could not be suspended. He built it so that he.. |
+| 590 | b2ch89:14 | Baek Jun-ho found it out the way everything in this business is found out, which is that.. |
+| 590 | b2ch89:170 | Baek Jun-ho sat down on the second of March with a man he has known for thirty-one years.. |
+| 592 | b3ch01:84 | He telephoned Baek Jun-ho at half past eleven and asked one question. |
+| 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
+| 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
+| 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
+
+### Zahlen in der Naehe von Baek Jun-ho
+
+- `b2ch39:176` (Tag 270) - one
+- `b2ch39:180` (Tag 270) - nineteen
+- `b2ch39:244` (Tag 270) - eleven
+- `b2ch45:128` (Tag 290) - eleven
+- `b2ch47:78` (Tag 298) - eleven, one
+- `b2ch47:92` (Tag 298) - eleven
+- `b2ch47:106` (Tag 298) - four
+- `b2ch47:114` (Tag 298) - four
+- `b2ch47:170` (Tag 298) - eleven
+- `b2ch47:226` (Tag 298) - thirty, three
+- `b2ch47:258` (Tag 298) - one
+- `b2ch47:266` (Tag 298) - four
+- `b2ch47:276` (Tag 298) - one
+- `b2ch47:282` (Tag 298) - eleven
+- `b2ch54:266` (Tag 319) - one
+- `b2ch54:494` (Tag 319) - eleven, one
+- `b2ch60:24` (Tag 382) - fifty
+- `b2ch60:38` (Tag 382) - four, nine, one, two
+- `b2ch60:52` (Tag 382) - two
+- `b2ch60:58` (Tag 382) - four, sixty-three
+- `b2ch60:108` (Tag 382) - eleven, four, one, two
+- `b2ch60:120` (Tag 382) - eleven, forty-four, one, two
+- `b2ch60:132` (Tag 382) - eleven, five, twenty
+- `b2ch65:90` (Tag 397) - two
+- `b2ch65:104` (Tag 397) - forty-four, one, ten
+- `b2ch65:110` (Tag 397) - eleven, one, twenty, two
+- `b2ch65:134` (Tag 397) - eleven, twenty
+- `b2ch65:138` (Tag 397) - eleven, four hundred, one, thirty-one
+- `b2ch65:156` (Tag 397) - four, one
+- `b2ch68:92` (Tag 431) - eleven
+- `b2ch68:112` (Tag 431) - four
+- `b2ch81:6` (Tag 493) - fifty
+- `b2ch81:16` (Tag 493) - one, three, two
+- `b2ch81:26` (Tag 493) - eleven, forty-five, four
+- `b2ch81:34` (Tag 493) - one
+- `b2ch81:52` (Tag 493) - twenty
+- `b2ch81:64` (Tag 493) - two
+- `b2ch81:68` (Tag 493) - four, two
+- `b2ch81:116` (Tag 493) - eleven, nine, one, two
+- `b2ch81:180` (Tag 493) - one
+- `b2ch81:192` (Tag 493) - thirty-one, two
+- `b2ch81:242` (Tag 493) - four, nine, one
+- `b2ch81:250` (Tag 493) - fifty
+- `b2ch81:254` (Tag 493) - thirty-one
+- `b2ch89:170` (Tag 590) - thirty-one
+- `b3ch01:84` (Tag 592) - eleven, one
+- `b3ch01:90` (Tag 592) - four, two
+
+---
+
+## Mr Yeom
+
+76 Nennungen in 13 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 223 | b2ch22:140 | "The house had one owner from 2011 until the winter," he said. "A man called Yeom. He is.. |
+| 224 | b2ch23:120 | "My name is Yeom," he said. "You put a form in on Friday morning about an address in Jun.. |
+| 224 | b2ch23:130 | "You are not going to ask me how I know it was you," said Mr Yeom. |
+| 224 | b2ch23:142 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
+| 224 | b2ch23:152 | Mr Yeom laughed at that. |
+| 224 | b2ch23:180 | "Good," said Mr Yeom, and put the telephone down. |
+| 224 | b2ch23:190 | Mr Yeom knows he was in that building at the beginning of May. There was nobody at the d.. |
+| 224 | b2ch23:234 | He does not know whether Mr Yeom is that man, or one of that man's, or somebody who has .. |
+| 230 | b2ch24:10 | Mr Yeom's table is the fourth from the door on the left and it has a reserved card on it.. |
+| 230 | b2ch24:26 | Mr Yeom ate it. |
+| 230 | b2ch24:38 | "You are not eating," said Mr Yeom. |
+| 230 | b2ch24:52 | "Now," said Mr Yeom. "I sold that house in December to people who had been asking me for.. |
+| 230 | b2ch24:62 | Mr Yeom picked his chopsticks back up. |
+| 230 | b2ch24:92 | Mr Yeom stopped with his chopsticks halfway. |
+| 230 | b2ch24:106 | "He came to me in February of last year," said Mr Yeom. "He was frightened. He said a bu.. |
+| 230 | b2ch24:110 | "That is the whole of why I let it go. A man who tells you a thing you would never have .. |
+| 230 | b2ch24:120 | Mr Yeom did not say anything at all for about six seconds. |
+| 230 | b2ch24:134 | "Somebody asked me for a favour four years ago," said Mr Yeom. "A lot going out with no .. |
+| 230 | b2ch24:142 | "No," said Mr Yeom, and he said it without any embarrassment at all, "and I would like y.. |
+| 230 | b2ch24:150 | "It paid in December," said Mr Yeom. "Somebody had been asking me for that house for two.. |
+| 230 | b2ch24:158 | "I have never known and I have never wanted to, and I have spent four years being extrem.. |
+| 230 | b2ch24:164 | Mr Yeom's face changed by about a millimetre. |
+| 230 | b2ch24:182 | Mr Yeom thought about that properly, which took about twenty seconds, and Georgij let it. |
+| 230 | b2ch24:184 | "He said he was glad we had met," said Mr Yeom. |
+| 230 | b2ch24:198 | At the door Mr Yeom shook his hand and did not make anything of it. |
+| 230 | b2ch24:246 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
+| 239 | b2ch29:84 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
+| 239 | b2ch29:322 | *Yeom, four years ago, on the telephone: glad we had met. Two people who have never spok.. |
+| 243 | b2ch31:68 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
+| 244 | b2ch32:14 | *Yeom, four years ago, on the telephone: glad we had met. Two people who have never spok.. |
+| 244 | b2ch32:58 | Yeom: given a position that paid more than the house was worth, in a winter when somebod.. |
+| 244 | b2ch32:80 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
+| 257 | b2ch36:28 | "Yeom," said Sang-hoon. "The man who used to own the auction house on the river. You hav.. |
+| 257 | b2ch36:34 | "He cannot be your Y," he said. "Yeom told me himself that a man rang him four years ago.. |
+| 257 | b2ch36:42 | "I will find out whether Yeom was in that room, or near it, on any date close to yours. .. |
+| 257 | b2ch36:56 | "Not Yeom," he said, before she could ask. "The voice that rang the florist rang Yeom hi.. |
+| 257 | b2ch36:92 | "Then apply it before you go and confirm the restaurant book, and not after. A man who w.. |
+| 257 | b2ch36:104 | Yeom is on it, four lines from the bottom, with last year against it. |
+| 257 | b2ch36:128 | Yeom knows the name of the man who telephoned him for the fund. He said so in his own di.. |
+| 257 | b2ch36:134 | He can go and tell Yeom what was done to him at that table. That is a gift, it costs Yeo.. |
+| 257 | b2ch36:138 | Put them in the same afternoon and the first one stops being a gift. It becomes the thin.. |
+| 257 | b2ch36:148 | *Yeom gets told. Not this week, and not by a man who wants something in his coat while h.. |
+| 259 | b2ch36:220 | "No. Two men the whole evening, and I would have noticed a third, because a private room.. |
+| 259 | b2ch36:224 | Yeom was never in that room, and Georgij had it in a kitchen with no sign, from a man wh.. |
+| 259 | b2ch36:256 | "Yeom was never in the room. Two men only, the whole evening," said Georgij. "And somebo.. |
+| 259 | b2ch36:264 | "Yeom is clear. Fully, this time, and not the way I ruled him out on Wednesday." |
+| 259 | b2ch36:298 | "Either way he sent somebody back to a kitchen in April to make sure nothing survived," .. |
+| 263 | b2ch38:126 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
+| 305 | b2ch50:6 | On the seventeenth of June he had written down that Mr Yeom would be told. Not that week.. |
+| 305 | b2ch50:14 | And the thing that had made the whole of it impossible in June has gone, because there i.. |
+| 305 | b2ch50:22 | Mr Yeom was in the same room as in May, with the same table, and he did not look surpris.. |
+| 305 | b2ch50:42 | Mr Yeom put down what he was holding. |
+| 305 | b2ch50:56 | "That is not what I expected you to say," said Mr Yeom. |
+| 305 | b2ch50:66 | Mr Yeom sat with both hands flat on either side of his plate for a while. |
+| 305 | b2ch50:82 | Mr Yeom did not move at all. |
+| 305 | b2ch50:94 | Mr Yeom looked at the table for a long moment. |
+| 305 | b2ch50:114 | Mr Yeom did not answer that, and then he pushed his plate an inch away from himself, whi.. |
+| 305 | b2ch50:126 | Mr Yeom looked at him. |
+| 305 | b2ch50:132 | "There was a third thing," said Mr Yeom, after a while. "You said three." |
+| 305 | b2ch50:150 | Mr Yeom went very still. |
+| 305 | b2ch50:162 | Mr Yeom did not say anything for a long time, and when he did his voice was not what it .. |
+| 305 | b2ch50:174 | Mr Yeom stood up. |
+| 305 | b2ch50:194 | Mr Yeom put one hand on the window frame. |
+| 305 | b2ch50:212 | "So I am going to do the other thing." Mr Yeom put both hands on the table. "I took a po.. |
+| 305 | b2ch50:218 | "I did not ask why they wanted the house," said Mr Yeom. "I have told you that already a.. |
+| 305 | b2ch50:228 | Mr Yeom looked at him. |
+| 305 | b2ch50:234 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
+| 305 | b2ch50:244 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
+| 305 | b2ch50:252 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
+| 307 | b2ch51:198 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
+| 307 | b2ch51:212 | "Change *supply* to *furnish*," said Mr Yeom. |
+| 307 | b2ch51:328 | *Requested today. Yeom posts it in the morning from a box away from his house. He change.. |
+| 313 | b2ch52:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
+| 313 | b2ch52:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
+| 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
+| 590 | b2ch89:146 | Mr Yeom read the folders. |
+
+### Zahlen in der Naehe von Mr Yeom
+
+- `b2ch22:140` (Tag 223) - one, sixty-three
+- `b2ch23:120` (Tag 224) - four hundred thousand
+- `b2ch23:190` (Tag 224) - one, three
+- `b2ch23:234` (Tag 224) - one
+- `b2ch24:52` (Tag 230) - two
+- `b2ch24:106` (Tag 230) - one, ten, twenty-six
+- `b2ch24:110` (Tag 230) - one
+- `b2ch24:120` (Tag 230) - six
+- `b2ch24:134` (Tag 230) - four, one
+- `b2ch24:150` (Tag 230) - two
+- `b2ch24:158` (Tag 230) - four
+- `b2ch24:182` (Tag 230) - twenty
+- `b2ch24:246` (Tag 230) - ten, three
+- `b2ch29:322` (Tag 239) - four, one, two
+- `b2ch32:14` (Tag 244) - four, one, two
+- `b2ch32:58` (Tag 244) - two
+- `b2ch32:80` (Tag 244) - thirty
+- `b2ch36:34` (Tag 257) - four, one
+- `b2ch36:56` (Tag 257) - four, one
+- `b2ch36:104` (Tag 257) - four
+- `b2ch36:128` (Tag 257) - one, seven
+- `b2ch36:134` (Tag 257) - one
+- `b2ch36:138` (Tag 257) - four, one
+- `b2ch36:220` (Tag 259) - two
+- `b2ch36:256` (Tag 259) - two
+- `b2ch38:126` (Tag 263) - four
+- `b2ch50:14` (Tag 305) - four
+- `b2ch50:132` (Tag 305) - three
+- `b2ch50:194` (Tag 305) - one
+- `b2ch50:212` (Tag 305) - one, two
+- `b2ch50:218` (Tag 305) - four
+- `b2ch51:198` (Tag 307) - four, nine
+- `b2ch51:328` (Tag 307) - one
+- `b2ch52:6` (Tag 313) - three, two
+- `b2ch52:136` (Tag 313) - four, seven
+- `b2ch87:428` (Tag 531) - five, one, three
+
+---
+
 ## Mr Ahn
 
 62 Nennungen in 9 Kapiteln.
@@ -3628,120 +3894,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch76:334` (Tag 463) - four
 - `b2ch76:360` (Tag 463) - eleven
 - `b2ch89:112` (Tag 590) - one
-
----
-
-## Mr Baek
-
-62 Nennungen in 14 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | b1ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
-| 270 | b2ch39:176 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 298 | b2ch47:84 | "It is a set of instructions and a bank account, and nothing else. My job is to do what .. |
-| 298 | b2ch47:92 | "In eleven years I have never met anybody connected with it, been to the property, or sp.. |
-| 298 | b2ch47:102 | Baek thought about that. |
-| 298 | b2ch47:106 | "Four years ago the instructions were amended," said Baek. "That is the part Mr Park ask.. |
-| 298 | b2ch47:114 | "I wrote once, in the ordinary way. I received a very courteous letter explaining that t.. |
-| 298 | b2ch47:146 | "You have not asked me a question yet," said Baek. |
-| 298 | b2ch47:170 | "I paid it because it was properly rendered and inside the instructions," said Baek, "an.. |
-| 298 | b2ch47:180 | "You want it," said Baek. |
-| 298 | b2ch47:194 | Baek looked at him for a long moment. |
-| 298 | b2ch47:226 | "It is not a name, a hospital number or an insurance number," said Baek. "I have looked .. |
-| 298 | b2ch47:246 | "I would like to sit for a moment," said Baek. |
-| 298 | b2ch47:258 | "The flat in Seodaemun is hers. Not the woman who is being cared for. The other one." Ba.. |
-| 298 | b2ch47:266 | "Do not do that." Baek said it quite sharply, and it was the first time his voice had do.. |
-| 298 | b2ch47:276 | There was one more thing, and it was Baek who raised it, standing, with the case under h.. |
-| 298 | b2ch47:282 | "Then you know something I have wondered about for eleven years, and I am going to ask i.. |
-| 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
-| 319 | b2ch54:266 | Baek pays and cannot be touched until she is safe. The house can be finished and finishi.. |
-| 319 | b2ch54:494 | "Not until Baek is finished and not until the house is. If she goes first, the man in Se.. |
-| 322 | b2ch55:214 | Baek and the trust cannot be touched first, because the money is the oxygen. The house c.. |
-| 382 | b2ch60:38 | "An agent is out and he has told you that himself. A company is worse than an agent." Ba.. |
-| 382 | b2ch60:52 | "The third part is that the form requires the buyer to be a natural person who is named... |
-| 382 | b2ch60:58 | Baek waited about four seconds and then did the thing that a man of sixty-three does whe.. |
-| 382 | b2ch60:96 | "I am going to need a minute," said Baek. |
-| 382 | b2ch60:108 | "Since the second week of March eleven years ago, a standing instruction on one of my tr.. |
-| 382 | b2ch60:120 | "It is a record." Baek said it without any relief in it at all. "You have told me that t.. |
-| 382 | b2ch60:132 | "The settlor of the trust instructed it in the second week of March eleven years ago, in.. |
-| 382 | b2ch60:146 | "The day after she is out of that building, whichever way it goes, and I want to hear it.. |
-| 397 | b2ch65:104 | "I have brought it. I am going to tell you the name and then I am going to give you the .. |
-| 397 | b2ch65:110 | "The trust was settled in the second week of March eleven years ago," said Baek Jun-ho. .. |
-| 397 | b2ch65:134 | "By him. Not by his estate, not by a successor, not by a person acting under a power. Hi.. |
-| 397 | b2ch65:138 | "I have been asked that question about a document perhaps four hundred times in thirty-o.. |
-| 431 | b2ch68:112 | "The other time was the second week of February, four years ago. I made the change mysel.. |
-| 431 | b2ch68:116 | "There is a thing I am going to say and then I am going to go and have a difficult after.. |
-| 493 | b2ch81:16 | "I am going to do this in three parts," said Baek, "and the first two are mine and you a.. |
-| 493 | b2ch81:26 | "I stopped believing it on the fourteenth of January at about four in the afternoon, in .. |
-| 493 | b2ch81:34 | "The deed says what the money is for and it says it in one line," said Baek. "*The opera.. |
-| 493 | b2ch81:44 | "There is no residence," said Baek. |
-| 493 | b2ch81:52 | "The staff were paid off in November. The house was surveyed on the twenty-second of Sep.. |
-| 493 | b2ch81:64 | "I have been administering nothing since about the first week of November," said Baek. ".. |
-| 493 | b2ch81:68 | "I am telling you that I have been in breach since the first of December and that I sign.. |
-| 493 | b2ch81:76 | "There is, and that is the first thing I looked at on the fourth of November, and I want.. |
-| 493 | b2ch81:90 | "Good," said Baek. "That is the only thing in this that I would have refused over, and I.. |
-| 493 | b2ch81:116 | "I have crossed out *regretfully* and I have crossed out *unfortunately*, and I did it a.. |
-| 493 | b2ch81:130 | Baek looked up. |
-| 493 | b2ch81:168 | Baek stood with his hand on the cabinet door. |
-| 493 | b2ch81:180 | "Then I am going to tell you the third part," said Baek, "and this is the one where you .. |
-| 493 | b2ch81:192 | "The December signature. In writing, to the Law Society, with the deed and the schedule .. |
-| 493 | b2ch81:196 | "By somebody who was right." Baek did not move. "It is still true." |
-| 493 | b2ch81:206 | "You are not going to argue," said Baek. |
-| 493 | b2ch81:232 | "I did not do it in 2016," said Baek. |
-| 493 | b2ch81:242 | "The second of March is nine years late and it is the only appointment available." Baek .. |
-| 493 | b2ch81:250 | "It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on .. |
-| 493 | b2ch81:274 | *He did not build it so that the payments could not be suspended. He built it so that he.. |
-| 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
-| 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
-
-### Zahlen in der Naehe von Mr Baek
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b1ch24:46` (Tag 55) - eight, one
-- `b2ch01:18` (Tag 150) - four, six
-- `b2ch39:176` (Tag 270) - one
-- `b2ch47:92` (Tag 298) - eleven
-- `b2ch47:106` (Tag 298) - four
-- `b2ch47:114` (Tag 298) - four
-- `b2ch47:170` (Tag 298) - eleven
-- `b2ch47:226` (Tag 298) - thirty, three
-- `b2ch47:258` (Tag 298) - one
-- `b2ch47:266` (Tag 298) - four
-- `b2ch47:276` (Tag 298) - one
-- `b2ch47:282` (Tag 298) - eleven
-- `b2ch54:66` (Tag 319) - eight, one
-- `b2ch54:266` (Tag 319) - one
-- `b2ch54:494` (Tag 319) - eleven, one
-- `b2ch60:38` (Tag 382) - four, nine, one, two
-- `b2ch60:52` (Tag 382) - two
-- `b2ch60:58` (Tag 382) - four, sixty-three
-- `b2ch60:108` (Tag 382) - eleven, four, one, two
-- `b2ch60:120` (Tag 382) - eleven, forty-four, one, two
-- `b2ch60:132` (Tag 382) - eleven, five, twenty
-- `b2ch65:104` (Tag 397) - forty-four, one, ten
-- `b2ch65:110` (Tag 397) - eleven, one, twenty, two
-- `b2ch65:134` (Tag 397) - eleven, twenty
-- `b2ch65:138` (Tag 397) - eleven, four hundred, one, thirty-one
-- `b2ch68:112` (Tag 431) - four
-- `b2ch81:16` (Tag 493) - one, three, two
-- `b2ch81:26` (Tag 493) - eleven, forty-five, four
-- `b2ch81:34` (Tag 493) - one
-- `b2ch81:52` (Tag 493) - twenty
-- `b2ch81:64` (Tag 493) - two
-- `b2ch81:68` (Tag 493) - four, two
-- `b2ch81:116` (Tag 493) - eleven, nine, one, two
-- `b2ch81:180` (Tag 493) - one
-- `b2ch81:192` (Tag 493) - thirty-one, two
-- `b2ch81:242` (Tag 493) - four, nine, one
-- `b2ch81:250` (Tag 493) - fifty
-- `b3ch01:90` (Tag 592) - four, two
 
 ---
 
@@ -3943,90 +4095,89 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mr Yeom
+## Mr Ok
 
 53 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 224 | b2ch23:130 | "You are not going to ask me how I know it was you," said Mr Yeom. |
-| 224 | b2ch23:142 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
-| 224 | b2ch23:152 | Mr Yeom laughed at that. |
-| 224 | b2ch23:180 | "Good," said Mr Yeom, and put the telephone down. |
-| 224 | b2ch23:190 | Mr Yeom knows he was in that building at the beginning of May. There was nobody at the d.. |
-| 224 | b2ch23:234 | He does not know whether Mr Yeom is that man, or one of that man's, or somebody who has .. |
-| 230 | b2ch24:10 | Mr Yeom's table is the fourth from the door on the left and it has a reserved card on it.. |
-| 230 | b2ch24:26 | Mr Yeom ate it. |
-| 230 | b2ch24:38 | "You are not eating," said Mr Yeom. |
-| 230 | b2ch24:52 | "Now," said Mr Yeom. "I sold that house in December to people who had been asking me for.. |
-| 230 | b2ch24:62 | Mr Yeom picked his chopsticks back up. |
-| 230 | b2ch24:92 | Mr Yeom stopped with his chopsticks halfway. |
-| 230 | b2ch24:106 | "He came to me in February of last year," said Mr Yeom. "He was frightened. He said a bu.. |
-| 230 | b2ch24:110 | "That is the whole of why I let it go. A man who tells you a thing you would never have .. |
-| 230 | b2ch24:120 | Mr Yeom did not say anything at all for about six seconds. |
-| 230 | b2ch24:134 | "Somebody asked me for a favour four years ago," said Mr Yeom. "A lot going out with no .. |
-| 230 | b2ch24:142 | "No," said Mr Yeom, and he said it without any embarrassment at all, "and I would like y.. |
-| 230 | b2ch24:150 | "It paid in December," said Mr Yeom. "Somebody had been asking me for that house for two.. |
-| 230 | b2ch24:158 | "I have never known and I have never wanted to, and I have spent four years being extrem.. |
-| 230 | b2ch24:164 | Mr Yeom's face changed by about a millimetre. |
-| 230 | b2ch24:182 | Mr Yeom thought about that properly, which took about twenty seconds, and Georgij let it. |
-| 230 | b2ch24:184 | "He said he was glad we had met," said Mr Yeom. |
-| 230 | b2ch24:198 | At the door Mr Yeom shook his hand and did not make anything of it. |
-| 230 | b2ch24:246 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
-| 244 | b2ch32:80 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
-| 263 | b2ch38:126 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
-| 305 | b2ch50:6 | On the seventeenth of June he had written down that Mr Yeom would be told. Not that week.. |
-| 305 | b2ch50:14 | And the thing that had made the whole of it impossible in June has gone, because there i.. |
-| 305 | b2ch50:22 | Mr Yeom was in the same room as in May, with the same table, and he did not look surpris.. |
-| 305 | b2ch50:42 | Mr Yeom put down what he was holding. |
-| 305 | b2ch50:56 | "That is not what I expected you to say," said Mr Yeom. |
-| 305 | b2ch50:66 | Mr Yeom sat with both hands flat on either side of his plate for a while. |
-| 305 | b2ch50:82 | Mr Yeom did not move at all. |
-| 305 | b2ch50:94 | Mr Yeom looked at the table for a long moment. |
-| 305 | b2ch50:114 | Mr Yeom did not answer that, and then he pushed his plate an inch away from himself, whi.. |
-| 305 | b2ch50:126 | Mr Yeom looked at him. |
-| 305 | b2ch50:132 | "There was a third thing," said Mr Yeom, after a while. "You said three." |
-| 305 | b2ch50:150 | Mr Yeom went very still. |
-| 305 | b2ch50:162 | Mr Yeom did not say anything for a long time, and when he did his voice was not what it .. |
-| 305 | b2ch50:174 | Mr Yeom stood up. |
-| 305 | b2ch50:194 | Mr Yeom put one hand on the window frame. |
-| 305 | b2ch50:212 | "So I am going to do the other thing." Mr Yeom put both hands on the table. "I took a po.. |
-| 305 | b2ch50:218 | "I did not ask why they wanted the house," said Mr Yeom. "I have told you that already a.. |
-| 305 | b2ch50:228 | Mr Yeom looked at him. |
-| 305 | b2ch50:234 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
-| 305 | b2ch50:244 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
-| 305 | b2ch50:252 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
-| 307 | b2ch51:198 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
-| 307 | b2ch51:212 | "Change *supply* to *furnish*," said Mr Yeom. |
-| 313 | b2ch52:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
-| 313 | b2ch52:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
-| 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 590 | b2ch89:146 | Mr Yeom read the folders. |
+| 206 | b2ch16:6 | Mr Ok leaves his building at twenty past six and walks to the corner and waits for a car.. |
+| 206 | b2ch16:12 | The first is that there is no calendar in that office. Mr Ok did not choose the week and.. |
+| 206 | b2ch16:20 | "Mr Ok." |
+| 206 | b2ch16:28 | Mr Ok looked at him the way a man of that sort looks at a stranger who knows his name, w.. |
+| 206 | b2ch16:36 | There is a low wall outside that building with a hedge behind it, and they stood at it. .. |
+| 206 | b2ch16:42 | Mr Ok did not say anything. |
+| 206 | b2ch16:52 | Mr Ok picked his case back up. |
+| 206 | b2ch16:68 | "That has nothing to do with me," said Mr Ok. |
+| 206 | b2ch16:78 | Mr Ok put the case down again. |
+| 206 | b2ch16:90 | Mr Ok looked at him for a long moment. |
+| 206 | b2ch16:110 | Mr Ok did not answer for about six seconds. |
+| 206 | b2ch16:128 | "He gave me the name. I said I did not know her and that everybody says she is honest an.. |
+| 206 | b2ch16:136 | "He asked for two. He said one to send and one for the file." Mr Ok's voice did somethin.. |
+| 206 | b2ch16:150 | "Ordinary," said Mr Ok. "Sixty, perhaps a little less. Not tall. He did not eat anything.. |
+| 206 | b2ch16:164 | "Mr Ok." |
+| 206 | b2ch16:174 | "Is there anything I should do?" said Mr Ok. |
+| 206 | b2ch16:184 | Mr Ok stood with his hand on the door of his car. |
+| 206 | b2ch16:196 | Mr Ok got into the car and did not close the door for a moment. |
+| 206 | b2ch17:20 | "At the end of the lunch he stood up and shook Mr Ok's hand and said that he was glad th.. |
+| 206 | b2ch17:152 | "It means that Mr Ok was being worked on at a lunch in January and did not know it." |
+| 209 | b2ch19:36 | Mr Ok is a hand and was frightened on Monday and nothing else has happened to him or wil.. |
+| 209 | b2ch19:188 | "No. Not one minute of it. Kwon's yard, no. The telephone call on the twenty-third, no, .. |
+| 400 | b2ch66:220 | The Yeouido file was read. The registry work does not move until Monday. Sim is not to b.. |
+| 439 | b2ch70:116 | Mr Ok leaves his building at twenty past six and walks to the corner and waits for a car.. |
+| 439 | b2ch70:124 | "April," said Mr Ok. |
+| 439 | b2ch70:136 | "The fourth of November. That was the Wednesday." Mr Ok turned round at last. "You are g.. |
+| 439 | b2ch70:140 | "He telephoned," said Mr Ok. "It is the same voice and I would know it in a room with fo.. |
+| 439 | b2ch70:150 | "He said we had met at the lunch, which we had, and he asked whether I still received th.. |
+| 439 | b2ch70:162 | "I did exactly what you told me in April and I want that said in those words, because I .. |
+| 439 | b2ch70:168 | "I telephoned the administrator's office on the Friday and a girl read it to me off a sc.. |
+| 439 | b2ch70:176 | "I have had it since the sixth and he has not rung again, and I have spent five weeks si.. |
+| 439 | b2ch70:196 | Mr Ok turned the envelope over once. |
+| 439 | b2ch70:210 | Mr Ok looked at the envelope. |
+| 439 | b2ch70:214 | "Then he has one date in his hand that he did not have in November, and a date is a thin.. |
+| 439 | b2ch70:218 | "There is a part of that which is about him and a part which is about me," said Mr Ok, ".. |
+| 439 | b2ch70:242 | Mr Ok put the envelope back in his inside pocket. |
+| 439 | b2ch70:252 | Mr Ok got into it and did not close the door for a moment. |
+| 439 | b2ch70:262 | "Good," said Mr Ok, and closed the door. |
+| 439 | b2ch70:282 | *The fourth of November is thirty-six days before the tenth of December. He went to Mr O.. |
+| 517 | b2ch84:20 | "Mr Koh. Mr Im. Mr Ok. Chairman Woo. And Park Sang-hoon." |
+| 531 | b2ch85:50 | Mr Ok came first and came alone and did not know why he was there, and said so in the ha.. |
+| 578 | b2ch88:272 | Mr Ok leaves his building at twenty past six and walks to the corner and waits for a car.. |
+| 578 | b2ch88:290 | Mr Ok put his case on the wall. |
+| 578 | b2ch88:304 | Mr Ok stood at his own wall in May and did not say anything for about four seconds. |
+| 578 | b2ch88:316 | Mr Ok's case was on the wall between them. |
+| 578 | b2ch88:324 | Mr Ok did not move. |
+| 578 | b2ch88:336 | "He knew that because of my envelope," said Mr Ok. |
+| 578 | b2ch88:346 | "Four minutes of somebody's time," said Mr Ok. |
+| 578 | b2ch88:358 | Mr Ok looked at the road for a while. |
+| 578 | b2ch88:376 | Mr Ok picked his case up off the wall and did not get in. |
+| 578 | b2ch88:390 | Mr Ok stood with the door open. |
+| 578 | b2ch88:410 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 590 | b2ch89:196 | The last of it was Mr Ok, on the fourth of May, at a corner, for eleven minutes. |
 
-### Zahlen in der Naehe von Mr Yeom
+### Zahlen in der Naehe von Mr Ok
 
-- `b2ch23:190` (Tag 224) - one, three
-- `b2ch23:234` (Tag 224) - one
-- `b2ch24:52` (Tag 230) - two
-- `b2ch24:106` (Tag 230) - one, ten, twenty-six
-- `b2ch24:110` (Tag 230) - one
-- `b2ch24:120` (Tag 230) - six
-- `b2ch24:134` (Tag 230) - four, one
-- `b2ch24:150` (Tag 230) - two
-- `b2ch24:158` (Tag 230) - four
-- `b2ch24:182` (Tag 230) - twenty
-- `b2ch24:246` (Tag 230) - ten, three
-- `b2ch32:80` (Tag 244) - thirty
-- `b2ch38:126` (Tag 263) - four
-- `b2ch50:14` (Tag 305) - four
-- `b2ch50:132` (Tag 305) - three
-- `b2ch50:194` (Tag 305) - one
-- `b2ch50:212` (Tag 305) - one, two
-- `b2ch50:218` (Tag 305) - four
-- `b2ch51:198` (Tag 307) - four, nine
-- `b2ch52:6` (Tag 313) - three, two
-- `b2ch52:136` (Tag 313) - four, seven
-- `b2ch87:428` (Tag 531) - five, one, three
+- `b2ch16:6` (Tag 206) - eight, four, six, twenty
+- `b2ch16:12` (Tag 206) - four, two
+- `b2ch16:110` (Tag 206) - six
+- `b2ch16:136` (Tag 206) - one, two
+- `b2ch16:150` (Tag 206) - one, sixty
+- `b2ch19:36` (Tag 209) - twenty
+- `b2ch19:188` (Tag 209) - one, twenty
+- `b2ch70:116` (Tag 439) - eight, six, twenty
+- `b2ch70:140` (Tag 439) - forty
+- `b2ch70:150` (Tag 439) - one
+- `b2ch70:162` (Tag 439) - four, one
+- `b2ch70:168` (Tag 439) - nine, ninety, one
+- `b2ch70:176` (Tag 439) - five, two
+- `b2ch70:214` (Tag 439) - one
+- `b2ch70:282` (Tag 439) - thirty-six
+- `b2ch85:50` (Tag 531) - eleven, one
+- `b2ch88:272` (Tag 578) - eight, six, twenty
+- `b2ch88:304` (Tag 578) - four
+- `b2ch88:346` (Tag 578) - four
+- `b2ch88:410` (Tag 578) - one
+- `b2ch89:196` (Tag 590) - eleven
 
 ---
 
@@ -4251,6 +4402,83 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch85:56` (Tag 531) - eight, four, two
 - `b2ch87:88` (Tag 531) - four
 - `b2ch87:236` (Tag 531) - eleven, twenty
+
+---
+
+## Mr Byun
+
+41 Nennungen in 14 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 215 | b2ch21:6 | Mr Byun kept the register of that house for twenty-six years and left it at the end of F.. |
+| 215 | b2ch21:16 | "You are from the fund," said Mr Byun. "You are the fourth one and I have told the other.. |
+| 215 | b2ch21:34 | Mr Byun sat down on his own sofa and looked at him. |
+| 215 | b2ch21:44 | "The February one," said Mr Byun eventually. "That was a woman. Very direct. She came fo.. |
+| 215 | b2ch21:64 | "I took money for a service that this house had been selling since before I sat down in .. |
+| 215 | b2ch21:68 | "Nobody was hurt," said Mr Byun. |
+| 215 | b2ch21:78 | Mr Byun looked politely interested. |
+| 215 | b2ch21:92 | Mr Byun did not move for about four seconds. |
+| 215 | b2ch21:112 | Mr Byun stood there. |
+| 215 | b2ch21:128 | Mr Byun went and stood at the window. |
+| 215 | b2ch21:136 | "He is not like the others," said Mr Byun. "I want that considered. I want it taken into.. |
+| 215 | b2ch21:142 | Mr Byun said it anyway. |
+| 215 | b2ch21:162 | "He said there was a lot going out that evening and there would be no invoice for it. I .. |
+| 215 | b2ch21:166 | "He gave me the money. In the room. From his own pocket, in an envelope that had already.. |
+| 215 | b2ch21:174 | It is the one part of that minute Mr Byun never understood, and it is the part Georgij c.. |
+| 215 | b2ch21:184 | Mr Byun went into another room and was gone for about two minutes, and came back with a .. |
+| 215 | b2ch21:200 | Mr Byun stood in the middle of his sitting room. |
+| 215 | b2ch21:210 | "Twenty-six years," said Mr Byun, behind him. "Do you know what that building was like w.. |
+| 215 | b2ch21:220 | "Mr Byun." |
+| 222 | b2ch22:16 | That is not a technicality and he is not going to let himself have it as one. He said a .. |
+| 222 | b2ch22:28 | "His name is Byun," said Georgij. "He kept the register for twenty-six years and he left.. |
+| 223 | b2ch22:168 | "I was right to. It was the correct thing and I have not changed my mind about one part .. |
+| 224 | b2ch23:142 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
+| 230 | b2ch24:88 | "I work for the woman who owns the two entries," said Georgij. "October and February. Sh.. |
+| 230 | b2ch24:134 | "Somebody asked me for a favour four years ago," said Mr Yeom. "A lot going out with no .. |
+| 236 | b2ch25:468 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 239 | b2ch29:84 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
+| 243 | b2ch31:10 | Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied p.. |
+| 243 | b2ch31:68 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
+| 244 | b2ch32:56 | Byun: paid from a pocket, in an envelope already made up, so that the money would be in .. |
+| 244 | b2ch32:166 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 255 | b2ch35:334 | He read the four letters again, this time with the flower slips and the Byun ledger fres.. |
+| 273 | b2ch40:10 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
+| 273 | b2ch40:30 | Byun's sheet was the reason he trusted the second line at all. A single word on it, half.. |
+| 273 | b2ch40:212 | He did not take that as a reason to stop. He took it as a description of the work still .. |
+| 305 | b2ch50:190 | "The boy," said Georgij. "Lot eleven, in October. Byun came to you in February about tha.. |
+| 307 | b2ch51:94 | Clause nine is the one about the register, and the strike-through, and the fee, and it i.. |
+| 307 | b2ch51:162 | It names the lot by its reference in the permanent series, which he has, because Byun so.. |
+| 531 | b2ch86:380 | "There is a man called Byun," said Georgij. |
+| 531 | b2ch86:384 | "I know who Byun is. He was in that register for twenty-six years and I have bought in t.. |
+| 590 | b2ch89:60 | Mr Byun has not been seen in that trade since May of last year. |
+
+### Zahlen in der Naehe von Mr Byun
+
+- `b2ch21:6` (Tag 215) - ten, twenty-six
+- `b2ch21:16` (Tag 215) - one, three
+- `b2ch21:44` (Tag 215) - four, one
+- `b2ch21:92` (Tag 215) - four
+- `b2ch21:166` (Tag 215) - one, twenty-six
+- `b2ch21:174` (Tag 215) - one
+- `b2ch21:184` (Tag 215) - two
+- `b2ch21:210` (Tag 215) - twenty-six
+- `b2ch22:16` (Tag 222) - one, three
+- `b2ch22:28` (Tag 222) - three, twenty-six
+- `b2ch22:168` (Tag 223) - one
+- `b2ch24:88` (Tag 230) - four, seven, two
+- `b2ch24:134` (Tag 230) - four, one
+- `b2ch25:468` (Tag 236) - four
+- `b2ch31:10` (Tag 243) - two
+- `b2ch32:166` (Tag 244) - one
+- `b2ch35:334` (Tag 255) - four
+- `b2ch40:10` (Tag 273) - three, two
+- `b2ch40:30` (Tag 273) - two
+- `b2ch40:212` (Tag 273) - one, three, two
+- `b2ch50:190` (Tag 305) - eleven, one, seven
+- `b2ch51:94` (Tag 307) - nine, one, three
+- `b2ch51:162` (Tag 307) - four, one, thirty
+- `b2ch86:384` (Tag 531) - twenty-six, twenty-three
 
 ---
 
@@ -4521,63 +4749,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Baek Jun-ho
-
-31 Nennungen in 10 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 270 | b2ch39:176 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 270 | b2ch39:180 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
-| 270 | b2ch39:244 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
-| 290 | b2ch45:128 | "You do the thing you are the only person who can do, and it is not the house." Georgij .. |
-| 298 | b2ch47:20 | "This is Baek Jun-ho," said Sang-hoon. |
-| 298 | b2ch47:38 | Baek Jun-ho did not move at all. |
-| 298 | b2ch47:78 | Baek Jun-ho has administered eleven trusts for a firm in Yeouido for most of his working.. |
-| 298 | b2ch47:136 | Baek Jun-ho did not move. |
-| 298 | b2ch47:160 | Baek Jun-ho put both hands on the document case beside his chair, which had been there t.. |
-| 298 | b2ch47:202 | Baek Jun-ho opened the case. |
-| 298 | b2ch47:236 | Baek Jun-ho sat very still. |
-| 298 | b2ch47:296 | Baek Jun-ho nodded once, the way a man does when something he has half known has been sa.. |
-| 300 | b2ch48:136 | "And Baek Jun-ho does not find out that a copy left this house until after Saturday, bec.. |
-| 382 | b2ch60:24 | Baek Jun-ho gave him fifty minutes on the Tuesday and had read the question before he ar.. |
-| 382 | b2ch60:80 | Baek Jun-ho looked at him for a moment. |
-| 382 | b2ch60:90 | Baek Jun-ho did not say anything. |
-| 396 | b2ch65:14 | Baek Jun-ho did not say anything for a moment. |
-| 397 | b2ch65:90 | Baek Jun-ho came at two. |
-| 397 | b2ch65:110 | "The trust was settled in the second week of March eleven years ago," said Baek Jun-ho. .. |
-| 397 | b2ch65:124 | Baek Jun-ho looked at the case. |
-| 397 | b2ch65:156 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
-| 431 | b2ch68:92 | Baek Jun-ho telephoned at eleven. |
-| 493 | b2ch81:6 | Baek Jun-ho asked for the Monday morning and said on the telephone that it would take fi.. |
-| 493 | b2ch81:82 | Baek Jun-ho sat back for the first time that morning. |
-| 493 | b2ch81:142 | Baek Jun-ho got up and went to the cabinet behind his desk and did not open it. |
-| 493 | b2ch81:216 | Baek Jun-ho looked at him for a long moment. |
-| 493 | b2ch81:254 | "In the meantime a man in this city has to write me a letter about a woman he has never .. |
-| 590 | b2ch89:14 | Baek Jun-ho found it out the way everything in this business is found out, which is that.. |
-| 590 | b2ch89:170 | Baek Jun-ho sat down on the second of March with a man he has known for thirty-one years.. |
-| 592 | b3ch01:84 | He telephoned Baek Jun-ho at half past eleven and asked one question. |
-| 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
-
-### Zahlen in der Naehe von Baek Jun-ho
-
-- `b2ch39:176` (Tag 270) - one
-- `b2ch39:180` (Tag 270) - nineteen
-- `b2ch39:244` (Tag 270) - eleven
-- `b2ch45:128` (Tag 290) - eleven
-- `b2ch47:78` (Tag 298) - eleven, one
-- `b2ch60:24` (Tag 382) - fifty
-- `b2ch65:90` (Tag 397) - two
-- `b2ch65:110` (Tag 397) - eleven, one, twenty, two
-- `b2ch65:156` (Tag 397) - four, one
-- `b2ch68:92` (Tag 431) - eleven
-- `b2ch81:6` (Tag 493) - fifty
-- `b2ch81:254` (Tag 493) - thirty-one
-- `b2ch89:170` (Tag 590) - thirty-one
-- `b3ch01:84` (Tag 592) - eleven, one
-
----
-
 ## Kim Do-yun
 
 31 Nennungen in 9 Kapiteln.
@@ -4633,7 +4804,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Kwon
 
-30 Nennungen in 6 Kapiteln.
+31 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4664,6 +4835,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 202 | b2ch15:166 | "She stayed and helped stack the chairs. It is what she has done after every meeting for.. |
 | 209 | b2ch18:126 | "Your nephew started at Mr Kwon's on the twentieth of April. He is on the nine-truck rot.. |
 | 209 | b2ch19:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. All five ha.. |
+| 209 | b2ch19:188 | "No. Not one minute of it. Kwon's yard, no. The telephone call on the twenty-third, no, .. |
 | 224 | b2ch23:78 | Mr Kwon's partner, sixty-three, sold his half at a price that was arrived at in one meet.. |
 | 224 | b2ch23:80 | He is going to live about forty minutes from his daughter. Mr Kwon telephoned Georgij ab.. |
 | 445 | b2ch73:62 | "Your nephew is on the nine-truck rota at Mr Kwon's, and he has been since the twentieth.. |
@@ -4684,6 +4856,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch15:166` (Tag 202) - twenty
 - `b2ch18:126` (Tag 209) - nine, ten
 - `b2ch19:32` (Tag 209) - five, seven, twenty, two
+- `b2ch19:188` (Tag 209) - one, twenty
 - `b2ch23:78` (Tag 224) - one, sixty-three
 - `b2ch23:80` (Tag 224) - forty
 - `b2ch73:62` (Tag 445) - nine
@@ -4841,48 +5014,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:310` (Tag 453) - two
 - `b2ch85:52` (Tag 531) - eight, one
 - `b2ch87:192` (Tag 531) - ten
-
----
-
-## Mr Byun
-
-21 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 215 | b2ch21:6 | Mr Byun kept the register of that house for twenty-six years and left it at the end of F.. |
-| 215 | b2ch21:16 | "You are from the fund," said Mr Byun. "You are the fourth one and I have told the other.. |
-| 215 | b2ch21:34 | Mr Byun sat down on his own sofa and looked at him. |
-| 215 | b2ch21:44 | "The February one," said Mr Byun eventually. "That was a woman. Very direct. She came fo.. |
-| 215 | b2ch21:64 | "I took money for a service that this house had been selling since before I sat down in .. |
-| 215 | b2ch21:68 | "Nobody was hurt," said Mr Byun. |
-| 215 | b2ch21:78 | Mr Byun looked politely interested. |
-| 215 | b2ch21:92 | Mr Byun did not move for about four seconds. |
-| 215 | b2ch21:112 | Mr Byun stood there. |
-| 215 | b2ch21:128 | Mr Byun went and stood at the window. |
-| 215 | b2ch21:136 | "He is not like the others," said Mr Byun. "I want that considered. I want it taken into.. |
-| 215 | b2ch21:142 | Mr Byun said it anyway. |
-| 215 | b2ch21:162 | "He said there was a lot going out that evening and there would be no invoice for it. I .. |
-| 215 | b2ch21:166 | "He gave me the money. In the room. From his own pocket, in an envelope that had already.. |
-| 215 | b2ch21:174 | It is the one part of that minute Mr Byun never understood, and it is the part Georgij c.. |
-| 215 | b2ch21:184 | Mr Byun went into another room and was gone for about two minutes, and came back with a .. |
-| 215 | b2ch21:200 | Mr Byun stood in the middle of his sitting room. |
-| 215 | b2ch21:210 | "Twenty-six years," said Mr Byun, behind him. "Do you know what that building was like w.. |
-| 215 | b2ch21:220 | "Mr Byun." |
-| 222 | b2ch22:16 | That is not a technicality and he is not going to let himself have it as one. He said a .. |
-| 590 | b2ch89:60 | Mr Byun has not been seen in that trade since May of last year. |
-
-### Zahlen in der Naehe von Mr Byun
-
-- `b2ch21:6` (Tag 215) - ten, twenty-six
-- `b2ch21:16` (Tag 215) - one, three
-- `b2ch21:44` (Tag 215) - four, one
-- `b2ch21:92` (Tag 215) - four
-- `b2ch21:166` (Tag 215) - one, twenty-six
-- `b2ch21:174` (Tag 215) - one
-- `b2ch21:184` (Tag 215) - two
-- `b2ch21:210` (Tag 215) - twenty-six
-- `b2ch22:16` (Tag 222) - one, three
 
 ---
 
@@ -5129,6 +5260,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Baek
+
+7 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | b1ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
+
+### Zahlen in der Naehe von Mr Baek
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch24:46` (Tag 55) - eight, one
+- `b2ch01:18` (Tag 150) - four, six
+- `b2ch54:66` (Tag 319) - eight, one
+
+---
+
 ## Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -5191,26 +5346,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch05:24` (Tag 4) - eight, four, two
 - `b1ch05:148` (Tag 6) - fourteen, one, three, two
 - `b1ch05:170` (Tag 6) - one, twenty-six
-
----
-
-## Mrs Jeon Mi-ja
-
-5 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 237 | b2ch26:60 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
-| 237 | b2ch26:306 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
-| 238 | b2ch28:24 | "Jeon Mi-ja. Fifty-one. Twenty-three years in the settlement office of that house, out o.. |
-| 255 | b2ch35:228 | *Jeon Mi-ja* |
-| 395 | b2ch64:94 | "My name is Jeon Mi-ja," she said. "I have come from a firm four hundred kilometres from.. |
-
-### Zahlen in der Naehe von Mrs Jeon Mi-ja
-
-- `b2ch26:60` (Tag 237) - four, twenty-three
-- `b2ch28:24` (Tag 238) - fifty-one, twenty-three
-- `b2ch64:94` (Tag 395) - fifty-one, four hundred, twenty
 
 ---
 
@@ -5307,12 +5442,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ---
 
 ## Cha Tae-seong
-
-**Kommt im Text nicht vor.** Steht nur in `doc/`.
-
----
-
-## Mr Ok
 
 **Kommt im Text nicht vor.** Steht nur in `doc/`.
 

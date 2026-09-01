@@ -238,7 +238,7 @@ FIGURES = {
     "Ji-won": [r"Ji-won"],
     "Bae": [r"(?<!Mrs )\bBae\b(?! Jun-ho)"],  # B1 K3, der Wachmann
     "Eun-ju": [r"Eun-ju"],
-    "Mr Baek": [r"Mr Baek", r"\bBaek\b(?! Jun-ho)"],  # der Koch, B1. Nicht Baek Jun-ho
+    "Mr Baek": [r"Mr Baek\b(?! Jun-ho)"],  # der Koch, B1. Nicht Baek Jun-ho
     "Mr Yeo": [r"Mr Yeo", r"\bYeo\b"],
     "Tae-min": [r"Tae-min"],
     "Mr Ku": [r"Mr Ku"],
@@ -259,13 +259,13 @@ FIGURES = {
     "Mrs Sunwoo": [r"Sunwoo"],
     "Nam Byung-hee": [r"Nam Byung-hee", r"Byung-hee"],
     "Shin": [r"\bShin\b"],
-    "Mrs Jeon": [r"Mrs Jeon", r"\bJeon\b"],
+    "Mrs Jeon": [r"Mrs Jeon", r"\bJeon\b", r"\bMi-ja\b"],
     "Mr Hwang": [r"Mr Hwang", r"Hwang"],
-    "Mr Kwon": [r"Mr Kwon", r"Kwon"],
-    "Mr Ok": [r"Mr Ok"],
+    "Mr Kwon": [r"Mr Kwon", r"(?<!Mrs )\bKwon\b"],
+    "Mr Ok": [r"Mr Ok\b"],
     "Mrs Uhm": [r"Mrs Uhm"],
-    "Mr Byun": [r"Mr Byun", r"Byun"],
-    "Mr Yeom": [r"Mr Yeom", r"Yeom"],
+    "Mr Byun": [r"Mr Byun", r"\bByun\b"],
+    "Mr Yeom": [r"Mr Yeom", r"\bYeom\b"],
     "Mrs Ryu": [r"Mrs Ryu"],  # B1 K7. Nicht Mr Ryu aus B2 K37
     "Chef Bang": [r"\bBang\b"],
     # Band 2, nachgetragen am 25.08. Standen bis dahin in keiner Liste.
@@ -276,15 +276,14 @@ FIGURES = {
     "Mr Koh": [r"Mr Koh", r"\bKoh\b"],
     "Mrs Gwak": [r"Mrs Gwak", r"\bGwak\b"],
     "Mr Sohn": [r"Mr Sohn", r"\bSohn\b"],
-    "Baek Jun-ho": [r"Baek Jun-ho", r"Jun-ho"],
-    "Mrs Jeon Mi-ja": [r"Jeon Mi-ja", r"Mi-ja"],
+    "Baek Jun-ho": [r"Baek Jun-ho", r"Jun-ho", r"(?<!Mr )\bBaek\b"],
     # Band 3. Null Kollisionen im ganzen Kanon geprueft am 30.08.
     "Gong Doo-hyun": [r"Gong Doo-hyun", r"\bGong\b", r"Doo-hyun"],
     "Moon Hae-sook": [r"Moon Hae-sook", r"Hae-sook"],
     "Mrs Ha": [r"Mrs Ha"],
     # Cha steht neben Mr Chae im Buch, deshalb die Wortgrenze.
     "Cha Tae-seong": [r"Cha Tae-seong"],
-    "Mr Pyeon": [r"Mr Pyeon", r"Pyeon"],
+    "Mr Pyeon": [r"Mr Pyeon", r"\bPyeon\b"],
 }
 
 DATELINE = re.compile(r"Days? ([A-Za-z0-9\- ]+?) ·")
