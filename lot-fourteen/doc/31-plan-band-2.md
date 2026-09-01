@@ -3028,6 +3028,17 @@ freigegeben sind.
     **Georgij was eleven feet away and watched a man of sixty walk past a woman
     he chose in January, in a room full of people, because she was described to
     him as honest.**
+34. **`b2 ch90:52` gegen `b2 ch89:14-22`, Georgijs Kenntnis von Chois Tod.**
+    Georgij sagt Annie, er wisse seit dem 9. April gegen elf Uhr, dass er Choi
+    getoetet habe. Zu diesem Zeitpunkt hat im erzaehlten Ablauf jedoch noch
+    niemand Chois Tod festgestellt. Baeks zweite Aufforderung kommt erst am
+    **20. April** mit dem Vermerk *gone away* zurueck; erst sein anschliessender
+    Anruf bei der weiterleitenden Kanzlei ergibt, dass Choi am 8. April
+    gestorben ist. Ein unabhaengiger Erkenntnisweg am 9. April wird nirgends
+    gezeigt oder spaeter genannt. Die psychologische Folge der Szene bleibt
+    mit dem belegten Kenntnistag unveraendert: **I have known that since the
+    twentieth of April.** Er schlaeft danach noch im April und bricht erst in
+    der ersten Maiwoche ein, genau wie der anschliessende Dialog es verlangt.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
@@ -3070,3 +3081,26 @@ first of March**, dem folgenden Montag, in der Innentasche. Kapitel 85 und 86
 zeigen es dort am 18. Maerz, Kapitel 88 nennt Existenz und Aufbewahrungsort. Die
 drei Formulierungen beschreiben aufeinanderfolgende Stationen und keinen
 Datumswiderspruch.
+
+### Verifizierte Gegenprobe: die sechs Tage der Abrechnungen
+
+`b2 ch88:6-10` nennt vier geschuldete Abrechnungen, von denen Mrs Bae Georgij
+ausdruecklich verboten hat, noch einmal zu ihr zu kommen. Er kann deshalb nur
+drei Raeume betreten. Diese drei Besuche liegen am Donnerstag, dem 29. April,
+am Samstag, dem 1. Mai, und am Dienstag, dem 4. Mai. Vom ersten bis zum letzten
+Besuch sind das einschliesslich beider Endtage genau **sechs Tage**. Die vier
+Namen auf dem Montagsblatt, die drei gestrichenen Namen am Schluss und der eine
+unberuehrte Name Mrs Bae stimmen damit ueberein; *did them in six days* zaehlt
+den Besuchsblock und nicht die Spanne seit dem Aufschreiben.
+
+### Verifizierte Gegenprobe: Originale und Uebergaben im Schluss
+
+Die drei empfindlichen Originale bleiben getrennt. Mrs Sunwoos vierzeilige
+Antwort liegt ungesehen in ihrem eigenen Haus; Georgij kennt nur das Datum.
+Mrs Has gruenes Schulheft geht ueber Jang ungelesen in Moon Hae-sooks Zimmer
+und wird Georgij gerade nicht gegeben. Sims Blatt mit elf Namen wechselt in
+`b2 ch88:216-250` sichtbar von Georgijs Mantel ueber den Tisch in Sims
+Innentasche. Baeks Begruendung bleibt im Original bei ihm und geht nur als
+Kopie in die Aufsichtsakte. Keine dieser vier Ketten tauscht Original und Kopie
+oder gibt einer Figur Wissen, das sie aus dem gezeigten Gegenstand nicht haben
+kann.
