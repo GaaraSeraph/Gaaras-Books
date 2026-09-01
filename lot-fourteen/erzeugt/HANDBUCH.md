@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 316.797 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 316.955 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1839,7 +1839,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Chu Sang-cheol** | **Der Halter.** Fuehrt das Haus in Gangwon-do, in dem beide Frauen gehalten werden - Lease, neun Leute auf einer Rota, vier Wagen. **Nicht Mrs Ryu aus Band 1** | Haelt Moon seit elf Jahren und Ahn seit vier, zu einem Satz aus dem Jahr der Vereinbarung. Verkauft Ahn in sechsundzwanzig Stunden | B2 59 (genannt), B2 63 (handelt) | **Erledigt.** Behaelt die, fuer die bezahlt wird |
 | **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her. Hat vier Jahre Quartalsmappen gelesen, ohne es jemandem zu sagen | B2 24 | **Aktiv. Wird in Band 3 Freund** - festgelegt am 29.08., siehe `doc/32-plan-band-3.md` |
 | **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuenfundfuenfzig im Februar 2027; seit seinem dreissigsten Lebensjahr der Mann, der alles verwahrt. Fuehrt das Haus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
-| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig Zahlungen in elf Jahren, ohne Namen, mit seiner Unterschrift; die letzte nach der Verlegung an das Haus am Fluss. Im Februar 2027 sind seine Berufsjahre 32, nicht mehr 31; offen in `doc/31-plan-band-2.md` |
+| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig Zahlungen in elf Jahren, ohne Namen, mit seiner Unterschrift; die letzte nach der Verlegung an das Haus am Fluss. Er liest die Trusturkunde am 14. Januar 2027 zum ersten Mal seit 2016. Im Februar 2027 sind seine Berufsjahre 32, nicht mehr 31; beide spaeteren Absolutsaetze sind offen in `doc/31-plan-band-2.md` |
 | **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | **Wachmann im Haus in Gangwon-do**, der erste neue in vier Jahren | Seit Ende August dort | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
@@ -17377,6 +17377,19 @@ freigegeben sind.
     mit dem belegten Kenntnistag unveraendert: **I have known that since the
     twentieth of April.** Er schlaeft danach noch im April und bricht erst in
     der ersten Maiwoche ein, genau wie der anschliessende Dialog es verlangt.
+35. **`b2 ch81:26,282-286`, wer die Trusturkunde gelesen hat.** Baek sagt zu
+    Beginn des Kapitels ausdruecklich, er habe die Urkunde am 14. Januar offen
+    vor sich gehabt und zum ersten Mal seit 2016 gelesen. Am Ende schreibt
+    Georgij trotzdem absolut: *nobody in eleven years has read the deed*, und
+    nennt gerade Baek als ersten Beleg dafuer. Der folgende Satz verschiebt
+    zudem Baeks Unterschrift vom richtigen Gegenstand: Er unterschrieb
+    fuenfundvierzig **Zahlungen unter der Urkunde**, nicht die Urkunde
+    fuenfundvierzigmal. Der Gedanke traegt, sobald die lange ungelesene Spanne
+    statt der Gegenwart behauptet wird: **For nearly eleven years nobody read
+    the deed. Not the solicitor who signed forty-five payments under it. Not
+    the man who had read the draft and given the two corrections in
+    twenty minutes in March, because he was not building a document, he was
+    building a room he never had to enter.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

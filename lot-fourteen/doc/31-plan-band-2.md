@@ -3039,6 +3039,19 @@ freigegeben sind.
     mit dem belegten Kenntnistag unveraendert: **I have known that since the
     twentieth of April.** Er schlaeft danach noch im April und bricht erst in
     der ersten Maiwoche ein, genau wie der anschliessende Dialog es verlangt.
+35. **`b2 ch81:26,282-286`, wer die Trusturkunde gelesen hat.** Baek sagt zu
+    Beginn des Kapitels ausdruecklich, er habe die Urkunde am 14. Januar offen
+    vor sich gehabt und zum ersten Mal seit 2016 gelesen. Am Ende schreibt
+    Georgij trotzdem absolut: *nobody in eleven years has read the deed*, und
+    nennt gerade Baek als ersten Beleg dafuer. Der folgende Satz verschiebt
+    zudem Baeks Unterschrift vom richtigen Gegenstand: Er unterschrieb
+    fuenfundvierzig **Zahlungen unter der Urkunde**, nicht die Urkunde
+    fuenfundvierzigmal. Der Gedanke traegt, sobald die lange ungelesene Spanne
+    statt der Gegenwart behauptet wird: **For nearly eleven years nobody read
+    the deed. Not the solicitor who signed forty-five payments under it. Not
+    the man who had read the draft and given the two corrections in
+    twenty minutes in March, because he was not building a document, he was
+    building a room he never had to enter.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
