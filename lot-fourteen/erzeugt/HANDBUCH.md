@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 315.764 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 316.076 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17319,6 +17319,35 @@ freigegeben sind.
     Maerzbrief ist nirgends angelegt und wuerde aus dem Aprilbrief die dritte
     machen. Der einzelne Monatsname in Kapitel 89 muss deshalb **He wrote in
     February about the suspension** lauten.
+
+31. **`b2 ch85:264-348`, `b2 ch86:14-42,436-456` und `b2
+    ch87:14-178`, die Uhr im kleinen Zimmer.** Mrs Seo holt Choi um 21:30 Uhr
+    vom Tisch. Georgij betritt das kleine Zimmer um 21:35 Uhr; Kapitel 86 setzt
+    das Hinsetzen beider Maenner auf 21:40 Uhr und behauptet danach noch eine
+    halbe Stunde, in der keiner den gedeckten Tisch anspricht. Kapitel 87 zeigt
+    Georgij jedoch schon um genau 21:40 Uhr wieder im Speisesaal, schickt Mrs
+    Seo um 21:50 Uhr zurueck und laesst Choi um 21:56 Uhr abfahren. Das ist
+    bereits als reine Uhrfolge unmoeglich; die 1.916 Woerter direkter Rede in
+    Kapitel 86 koennen zudem nicht zwischen Eintritt und gleichzeitiger
+    Rueckkehr liegen. **Hier reicht kein einzelner Zeitersatz.** Der kleinste
+    geschlossene Takt behaelt Eintritt und Hinsetzen in Kapitel 86, macht aus
+    *the next half hour* **the next ten minutes** und verschiebt in Kapitel 87
+    die Rueckkehr auf 21:50 Uhr, den Datensatz am Tisch auf etwa 21:55 Uhr, Mrs
+    Seos Gang auf 22:00 Uhr und Chois Abfahrt auf 22:06 Uhr. Die ausdruecklich
+    gesetzten elf Minuten bleiben damit erhalten; Mr Kohs Abgang um 22:10 Uhr
+    ist weiterhin moeglich.
+32. **`b2 ch86:404` gegen `b2 ch85:214-246` und `b2 ch87:14-124`, der
+    Erkenntnisstand der sechsundzwanzig.** Georgij behauptet im kleinen Zimmer,
+    bereits um etwa 21:15 Uhr habe jeder der sechsundzwanzig verstanden, was
+    die anderen fuenfundzwanzig mit ihm gemeinsam haben. Der erste Satz ueber
+    Chois Nichtessen faellt aber erst um 21:11 Uhr und erreicht in Kapitel 85
+    zunaechst nur einen Teil des Tisches. Kapitel 87 zaehlt spaeter
+    zweiundzwanzig, die aufgehoert haben zu essen; vier spaet Gekommene haben
+    noch nichts bemerkt und sind selbst bei Chois Gang erst drei Viertel weit.
+    Der Satz muss deshalb den in der Szene bereits gezaehlten Stand tragen,
+    etwa: **There are twenty-six people at that table, and most of them have
+    worked out what the other twenty-five have in common. Four are still
+    getting there. Nobody has said your name. Nobody is going to.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
