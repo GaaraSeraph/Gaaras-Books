@@ -871,7 +871,9 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   das ist Mr Nohs Zahl aus `doc/11-figuren.md` und vermutlich von dort gerutscht.
 - **Mrs Seo: neun Jahre** im Haus. Kapitel 24 sagte zweimal elf.
 - **Mrs Jeon geht am 12. Mai.** Am 16. Maerz kuendigt sie selbst acht Wochen an,
-  und sie behaelt recht. Kapitel 9 machte vier Tage spaeter sechs daraus.
+  und sie behaelt recht. Kapitel 9 machte vier Tage spaeter sechs daraus. Ihr
+  Rueckblick in Kapitel 61 verschiebt dieselbe Mitteilung faelschlich in den
+  Januar; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
 - **Hongs Bildungsfrage faellt bei zwoelf Minuten**, nicht bei vierzehn
   (Band 1, Kapitel 7).
 - **Die vierte Gebuehr wurde am Abend des Loses bezahlt**, aus Yeoms eigener

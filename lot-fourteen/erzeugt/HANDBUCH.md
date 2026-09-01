@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.120 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.255 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1851,7 +1851,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | **Wachmann im Haus in Gangwon-do**, der erste neue in vier Jahren | Seit Ende August dort | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
-| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Am 9. Januar 2026 trug sie ihr Heft zu Hwang hinauf.** Ihr Arbeitsbeginn in Gwangyang ist zwischen dem 15. Juni (`b2 ch35`, `b2 ch87`) und dem 1. Oktober (`b2 ch61`) offen; am 4. November liest sie Ahn Jung-hee die erste Stunde vor. Die spaeteren Rueckblicke mit *four years ago* sind ebenfalls offen in `doc/31-plan-band-2.md` |
+| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Am 9. Januar 2026 trug sie ihr Heft zu Hwang hinauf.** Die Achtwochenfrist beginnt dagegen am 16. Maerz; der Rueckblick in `b2 ch61` setzt sie faelschlich in den Januar, offen in `doc/31-plan-band-2.md`. Ihr Arbeitsbeginn in Gwangyang ist zwischen dem 15. Juni (`b2 ch35`, `b2 ch87`) und dem 1. Oktober (`b2 ch61`) offen; am 4. November liest sie Ahn Jung-hee die erste Stunde vor. Die spaeteren Rueckblicke mit *four years ago* sind ebenfalls offen in `doc/31-plan-band-2.md` |
 | **Mr Byun** | **Fuehrte sechsundzwanzig Jahre das Register des Auktionshauses** | *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
 | **Mrs Bae** | **Empfangsdame**, fuehrt das Buchungsbuch mit Bleistift. **Nicht Bae aus Band 1** | Zweiundzwanzig Jahre am Empfang | B2 41 | Gegeben, was sie hatte |
 | **Mr Sohn** | **Koch.** Kocht ohne Schild fuer Stammgaeste | Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
@@ -8978,7 +8978,9 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   das ist Mr Nohs Zahl aus `doc/11-figuren.md` und vermutlich von dort gerutscht.
 - **Mrs Seo: neun Jahre** im Haus. Kapitel 24 sagte zweimal elf.
 - **Mrs Jeon geht am 12. Mai.** Am 16. Maerz kuendigt sie selbst acht Wochen an,
-  und sie behaelt recht. Kapitel 9 machte vier Tage spaeter sechs daraus.
+  und sie behaelt recht. Kapitel 9 machte vier Tage spaeter sechs daraus. Ihr
+  Rueckblick in Kapitel 61 verschiebt dieselbe Mitteilung faelschlich in den
+  Januar; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
 - **Hongs Bildungsfrage faellt bei zwoelf Minuten**, nicht bei vierzehn
   (Band 1, Kapitel 7).
 - **Die vierte Gebuehr wurde am Abend des Loses bezahlt**, aus Yeoms eigener
@@ -17522,6 +17524,15 @@ freigegeben sind.
     die Ueberlappung benennt: **Four years and eight months, the last eleven
     weeks with me in it, and the whole of it turned on a man who has been forty
     feet from a signature the entire time.**
+45. **`b2 ch61:142` gegen `b2 ch06:4,88,118-198` und `b2 ch26:60`,
+    Mrs Jeons Achtwochenfrist.** Kapitel 6 setzt die Mitteilung auf Montag, den
+    16. Maerz: Georgijs Besuch macht an diesem Morgen aus ihrem bestehenden
+    Arbeitsplatz dreiundzwanzig Jahre und noch etwa zwei Monate; Mrs Jeon selbst
+    nennt acht Wochen. Kapitel 26 datiert ihren letzten Tag auf den 12. Mai,
+    acht Wochen und einen Tag spaeter. Ihr Oktober-Rueckblick verschiebt diese
+    Mitteilung faelschlich in den Januar; Januar plus acht Wochen koennte zudem
+    nicht bis Mai reichen. Der kleinste Ersatz ist: **In March I was told I had
+    twenty-three years and eight weeks.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

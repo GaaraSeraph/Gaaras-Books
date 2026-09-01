@@ -3162,6 +3162,15 @@ freigegeben sind.
     die Ueberlappung benennt: **Four years and eight months, the last eleven
     weeks with me in it, and the whole of it turned on a man who has been forty
     feet from a signature the entire time.**
+45. **`b2 ch61:142` gegen `b2 ch06:4,88,118-198` und `b2 ch26:60`,
+    Mrs Jeons Achtwochenfrist.** Kapitel 6 setzt die Mitteilung auf Montag, den
+    16. Maerz: Georgijs Besuch macht an diesem Morgen aus ihrem bestehenden
+    Arbeitsplatz dreiundzwanzig Jahre und noch etwa zwei Monate; Mrs Jeon selbst
+    nennt acht Wochen. Kapitel 26 datiert ihren letzten Tag auf den 12. Mai,
+    acht Wochen und einen Tag spaeter. Ihr Oktober-Rueckblick verschiebt diese
+    Mitteilung faelschlich in den Januar; Januar plus acht Wochen koennte zudem
+    nicht bis Mai reichen. Der kleinste Ersatz ist: **In March I was told I had
+    twenty-three years and eight weeks.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
