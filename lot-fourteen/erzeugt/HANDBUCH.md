@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 316.955 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 317.117 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -322,7 +322,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Verifizierte Gegenprobe: Einladungsliste und Gedecke](#verifizierte-gegenprobe-einladungsliste-und-gedecke)
   - [Verifizierte Gegenprobe: Zertifikat der Vernichtung](#verifizierte-gegenprobe-zertifikat-der-vernichtung)
   - [Verifizierte Gegenprobe: die sechs Tage der Abrechnungen](#verifizierte-gegenprobe-die-sechs-tage-der-abrechnungen)
-  - [Verifizierte Gegenprobe: Originale und Uebergaben im Schluss](#verifizierte-gegenprobe-originale-und-uebergaben-im-schluss)
+  - [Verifizierte Gegenprobe: drei Originale und Uebergaben im Schluss](#verifizierte-gegenprobe-drei-originale-und-uebergaben-im-schluss)
 - [Plan, Band 3](#plan-band-3)  ·  `doc/32-plan-band-3.md`
   - [GANZ neue Gesichter, und der Saal ist schon gebaut](#ganz-neue-gesichter-und-der-saal-ist-schon-gebaut)
   - [Der Text](#der-text)
@@ -1839,7 +1839,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Chu Sang-cheol** | **Der Halter.** Fuehrt das Haus in Gangwon-do, in dem beide Frauen gehalten werden - Lease, neun Leute auf einer Rota, vier Wagen. **Nicht Mrs Ryu aus Band 1** | Haelt Moon seit elf Jahren und Ahn seit vier, zu einem Satz aus dem Jahr der Vereinbarung. Verkauft Ahn in sechsundzwanzig Stunden | B2 59 (genannt), B2 63 (handelt) | **Erledigt.** Behaelt die, fuer die bezahlt wird |
 | **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her. Hat vier Jahre Quartalsmappen gelesen, ohne es jemandem zu sagen | B2 24 | **Aktiv. Wird in Band 3 Freund** - festgelegt am 29.08., siehe `doc/32-plan-band-3.md` |
 | **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuenfundfuenfzig im Februar 2027; seit seinem dreissigsten Lebensjahr der Mann, der alles verwahrt. Fuehrt das Haus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
-| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig Zahlungen in elf Jahren, ohne Namen, mit seiner Unterschrift; die letzte nach der Verlegung an das Haus am Fluss. Er liest die Trusturkunde am 14. Januar 2027 zum ersten Mal seit 2016. Im Februar 2027 sind seine Berufsjahre 32, nicht mehr 31; beide spaeteren Absolutsaetze sind offen in `doc/31-plan-band-2.md` |
+| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig vierteljaehrliche Freigaben in elf Jahren, ohne Namen, mit seiner Unterschrift; darunter laufen eine quartalsweise und eine monatliche Zahlung. Er liest die Trusturkunde am 14. Januar 2027 zum ersten Mal seit 2016. Im Februar 2027 sind seine Berufsjahre 32, nicht mehr 31; die spaeteren Absolutsaetze zu Berufsjahren, Freigaben und Urkundenlektüre sind offen in `doc/31-plan-band-2.md` |
 | **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | **Wachmann im Haus in Gangwon-do**, der erste neue in vier Jahren | Seit Ende August dort | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
@@ -12982,7 +12982,7 @@ gegengeprüft.*
 | **79** | - | **AUSGEFÜHRT 26.08.: in 78 aufgegangen.** Nummer bleibt frei | ERSETZT |
 | **80** | *The only door* | Das Geld, Mr Hwang als einzige Tür, die Regel des Bandes | STRAFFEN |
 | **81** | *The permanent series* | **Tragend.** Hwangs Zusage, der Preis in der permanenten Reihe, und die Antwort auf Moon Hae-sook: nichts | HALTEN |
-| **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig Zahlungen, Annies Ja nach sieben Tagen Suche | HALTEN |
+| **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig vierteljaehrlichen Freigaben, Annies Ja nach sieben Tagen Suche | HALTEN |
 | **83** | *Twenty-three days* | **Tragend.** Zwei Zusagen aus 71 bezahlt, der Name in drei Teilen, und der Preis, den Mrs Jeon dafuer zahlt | HALTEN |
 | **84** | *The consignor of record* | **Tragend.** Mr Ahn ist der Einzige, der unterschreiben kann, und tut es auf der Rueckseite seiner eigenen Unterschrift von vor vier Jahren | HALTEN |
 | **85** | *They did not argue about it* | **Tragend.** Die Annahme in unter einem Tag, das Fahrangebot und seine Ablehnung, der Termin | HALTEN |
@@ -17014,7 +17014,8 @@ vollständig andere Spur, und die Reihenfolge trägt vier Kapitel.
 
 **Alles, was für Moon Hae-sook beschafft wird, läuft auf ihrer eigenen Linie
 und wird vom Trust bezahlt** - der Sauerstoff, der Arzt, die Wohnung.
-Vierundvierzig Zahlungen in elf Jahren, ohne Namen, mit Baeks Unterschrift.
+Vierundvierzig vierteljaehrliche Freigaben in elf Jahren, ohne Namen, mit Baeks
+Unterschrift; darunter laufen eine quartalsweise und eine monatliche Zahlung.
 **Das Essen hat dieselbe Form: es kommt mit der medizinischen Lieferung, auf
 demselben Konto, im selben Takt wie der Sauerstoff** - alle elf Tage eine
 Anlieferung, eine Rechnung, ein Zahler.
@@ -17386,10 +17387,24 @@ freigegeben sind.
     fuenfundvierzig **Zahlungen unter der Urkunde**, nicht die Urkunde
     fuenfundvierzigmal. Der Gedanke traegt, sobald die lange ungelesene Spanne
     statt der Gegenwart behauptet wird: **For nearly eleven years nobody read
-    the deed. Not the solicitor who signed forty-five payments under it. Not
-    the man who had read the draft and given the two corrections in
+    the deed. Not the solicitor who signed forty-five quarterly authorisations
+    under it. Not the man who had read the draft and given the two corrections in
     twenty minutes in March, because he was not building a document, he was
     building a room he never had to enter.**
+36. **`b2 ch60:108-112,240`, `b2 ch65:104` und `b2 ch81:26`, Zahlungen gegen
+    Freigaben im Trust.** Kapitel 60 definiert zwei laufende Zahlungsreihen:
+    eine quartalsweise an den Sauerstofflieferanten und eine monatliche an die
+    Praxis. Ueber elf Jahre koennen deren tatsaechliche Zahlungen deshalb nicht
+    insgesamt vierundvierzig betragen. Vierundvierzig ist die unmittelbar
+    davor hergeleitete Zahl von Baeks **vierteljaehrlichen Unterschriften**;
+    nach der Dezemberfreigabe sind es in Kapitel 81 folgerichtig
+    fuenfundvierzig. Der Ablauf und die Rechnung sind damit richtig, aber der
+    Text nennt die Freigaben spaeter faelschlich *payments*. In Kapitel 60 und
+    65 muss **signed forty-four payments** zu **signed forty-four quarterly
+    authorisations** werden; in Kapitel 81 muss **forty-five payments** zu
+    **forty-five quarterly authorisations** werden. Die zwei *standing
+    payments* in Kapitel 81 bleiben bestehen: Das sind die zwei laufenden
+    Zahlungsanweisungen, nicht die Zahl ihrer Ausfuehrungen.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
@@ -17444,17 +17459,19 @@ Namen auf dem Montagsblatt, die drei gestrichenen Namen am Schluss und der eine
 unberuehrte Name Mrs Bae stimmen damit ueberein; *did them in six days* zaehlt
 den Besuchsblock und nicht die Spanne seit dem Aufschreiben.
 
-### Verifizierte Gegenprobe: Originale und Uebergaben im Schluss
+### Verifizierte Gegenprobe: drei Originale und Uebergaben im Schluss
 
-Die drei empfindlichen Originale bleiben getrennt. Mrs Sunwoos vierzeilige
+Die drei hier geprueften empfindlichen Originale bleiben getrennt. Mrs Sunwoos vierzeilige
 Antwort liegt ungesehen in ihrem eigenen Haus; Georgij kennt nur das Datum.
 Mrs Has gruenes Schulheft geht ueber Jang ungelesen in Moon Hae-sooks Zimmer
 und wird Georgij gerade nicht gegeben. Sims Blatt mit elf Namen wechselt in
 `b2 ch88:216-250` sichtbar von Georgijs Mantel ueber den Tisch in Sims
-Innentasche. Baeks Begruendung bleibt im Original bei ihm und geht nur als
-Kopie in die Aufsichtsakte. Keine dieser vier Ketten tauscht Original und Kopie
-oder gibt einer Figur Wissen, das sie aus dem gezeigten Gegenstand nicht haben
-kann.
+Innentasche. Keine dieser drei Ketten tauscht Original und Kopie oder gibt
+einer Figur Wissen, das sie aus dem gezeigten Gegenstand nicht haben kann.
+Baeks Trustakte gehoert ausdruecklich **nicht** in diese Gegenprobe: Ihre
+angekuendigte Uebergabe und ungezeigte Rueckkehr in seinen Schrank bleibt als
+Punkt 2 offen. Erst die spaetere Aufsichtskopie in Kapitel 89 ist wieder klar
+bezeichnet.
 
 ---
 
