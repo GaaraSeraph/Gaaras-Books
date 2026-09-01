@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 315.297 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 315.493 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17275,6 +17275,23 @@ freigegeben sind.
     identische Abfahrtszeiten. Der kleinste praezise Ersatz ist deshalb:
     **Twenty-six people stayed. The last of them left about an hour and a half
     after he had gone, and they were given coffee.**
+27. **`b2 ch88:114-214,298-300,442-444` gegen `b2 ch89:6-24` und `b2
+    ch90:42-52`, Georgijs Wissen um Chois Tod.** Georgij sagt am Ende von
+    Kapitel 88 selbst, er koenne nun beweisen, dass Choi nicht mehr lebt. Der
+    Beleg ist Baeks zurueckgekommener Brief: Choi starb am 8. April. Kapitel 90
+    geht noch weiter und laesst Georgij sagen, er habe seit dem 9. April um
+    elf Uhr gewusst, dass er ihn getoetet habe. Trotzdem gibt er Sim am 1. Mai
+    nach einem angeblich vollstaendigen Bericht nur **he has not been seen
+    since the eighth of April** und sagt Mr Ok am 4. Mai sogar **I do not know
+    where he is**. Als technische Aussagen ueber Sichtung und Aufenthaltsort
+    lassen sich beide Saetze retten; als Abschlussabrechnung eines Mannes, der
+    nichts auslaesst und nichts Unwahres sagt, sind sie bewusst irrefuehrend.
+    Die kleinste saubere Loesung nennt Sim und Ok den belegten Tod, behaelt aber
+    die fuer Annies Szene entscheidende Trennung: Nur Annie hoert **I killed
+    him**. Gegenueber Sim kann die offene Frage lauten, ob die zwei verpassten
+    Anrufe und **his death** dieselbe Ursache haben; gegenueber Ok genuegt **He
+    died on the eighth of April. I do not know whose hand it was and nobody has
+    looked.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
