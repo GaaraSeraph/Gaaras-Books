@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.438 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.635 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -8303,6 +8303,12 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   gibt Mrs Jeon den Rest heraus, **Mr Hwang** bekommt einen Namen. Nachmittags
   der Brief: eine Stunde, die sechs im Raum, Frist **26. Maerz**, danach
   schreibt sie **am ersten April** wie immer (Band 2, Kapitel 7)
+  **Offener Postweg:** Derselbe in Ulsan geschriebene und eingeschrieben
+  versandte Brief liegt bei Georgijs Rueckkehr um 14:10 Uhr schon in Seoul.
+  Das geht per Einschreiben nicht am selben Tag. Die Daten bleiben besser
+  unangetastet, weil der 18. Maerz die spaeteren Formeln *sixteen days* und
+  *a year ago today* traegt. Der kleinste Eingriff ist ein Kurierbrief gegen
+  Empfangsnachweis statt Einschreiben; das bewahrt auch die Belegbarkeit.
 - Tag 168, Fr 20. Maerz: **Ulsan.** Mit dem Zug, ohne Wagen, unangekuendigt.
   Annie weigert sich ausdruecklich, ihn zu schicken. Er erklaert Nam das Veto
   und bekommt Aufschub bis zum **1. April**. Sie laesst sich seinen Namen
@@ -17131,6 +17137,18 @@ freigegeben sind.
     und Mrs Seos Wochentag mitgezogen; beide spaeteren Rueckblicke werden
     **fifteenth of June**. Kapitel 36 beginnt erst am Mittwoch, dem 17., die
     Korrektur erzeugt also keine Kapitelueberschneidung.
+18. **`b2 ch07:76-98`, Nams Einschreibebrief aus Ulsan.** Kapitel 7 spielt am
+    Mittwoch, dem 18. Maerz. Der Brief ist auf denselben Tag datiert, sagt
+    ausdruecklich *"I am writing to you on the eighteenth"* und wird laut
+    `b2 ch12:62` sowie `b2 ch87:336` eingeschrieben versandt. Trotzdem liegt er
+    bei Georgijs Rueckkehr um 14:10 Uhr schon in Seoul auf Annies Tisch. Ein am
+    selben Morgen in Ulsan geschriebener Einschreibebrief kann dort nicht am
+    selben Nachmittag angekommen sein. **Die Daten sollten nicht verschoben
+    werden:** Der 18. Maerz traegt in Kapitel 12 den Titel und die genaue Formel
+    *sixteen days* und in Kapitel 87 *a year ago today*. Der kleinste Eingriff
+    ist deshalb der Transportweg: In Kapitel 12 und 87 wird aus dem
+    Einschreiben ein am Morgen aufgegebener Kurierbrief gegen Empfangsnachweis.
+    Damit bleiben Schriftstueck, Belegbarkeit und alle drei Datumsanker erhalten.
 
 ---
 

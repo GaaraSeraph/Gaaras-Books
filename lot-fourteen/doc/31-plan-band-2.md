@@ -2841,3 +2841,15 @@ freigegeben sind.
     und Mrs Seos Wochentag mitgezogen; beide spaeteren Rueckblicke werden
     **fifteenth of June**. Kapitel 36 beginnt erst am Mittwoch, dem 17., die
     Korrektur erzeugt also keine Kapitelueberschneidung.
+18. **`b2 ch07:76-98`, Nams Einschreibebrief aus Ulsan.** Kapitel 7 spielt am
+    Mittwoch, dem 18. Maerz. Der Brief ist auf denselben Tag datiert, sagt
+    ausdruecklich *"I am writing to you on the eighteenth"* und wird laut
+    `b2 ch12:62` sowie `b2 ch87:336` eingeschrieben versandt. Trotzdem liegt er
+    bei Georgijs Rueckkehr um 14:10 Uhr schon in Seoul auf Annies Tisch. Ein am
+    selben Morgen in Ulsan geschriebener Einschreibebrief kann dort nicht am
+    selben Nachmittag angekommen sein. **Die Daten sollten nicht verschoben
+    werden:** Der 18. Maerz traegt in Kapitel 12 den Titel und die genaue Formel
+    *sixteen days* und in Kapitel 87 *a year ago today*. Der kleinste Eingriff
+    ist deshalb der Transportweg: In Kapitel 12 und 87 wird aus dem
+    Einschreiben ein am Morgen aufgegebener Kurierbrief gegen Empfangsnachweis.
+    Damit bleiben Schriftstueck, Belegbarkeit und alle drei Datumsanker erhalten.
