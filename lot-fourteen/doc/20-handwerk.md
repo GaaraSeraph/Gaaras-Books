@@ -383,12 +383,12 @@ Bandwurmsaetzen in direkter Rede.
 Antworten, und die dritte ist am 28.08. teuer bezahlt worden:
 
 1. **Der Ort wechselt.**
-2. **Die Zeit springt um Stunden.** Minutenschritte nicht: in `b2 ch83` laeuft
+2. **Die Zeit springt um Stunden.** Minutenschritte nicht: in `b2 ch85` laeuft
    der Abend von zwanzig vor acht bis halb zehn in Schritten von zehn bis
    fuenfundzwanzig Minuten, und das ist der Takt des Kapitels und nicht sein Bau.
 3. **Das Thema wechselt.** In einer Bilanz oder einer Uebersicht steht am
    Trenner ein anderer Mensch, ein anderer Faden, eine andere Sache, ohne dass
-   sich Ort oder Uhrzeit ruehren. `b2 ch87` ist der Fall: an einem einzigen Tag
+   sich Ort oder Uhrzeit ruehren. `b2 ch89` ist der Fall: an einem einzigen Tag
    stehen dort Baeks Papierspur, Sang-hoon und Woo, der Zeitraum, der Raum in
    Cheongdam, jeweils durch `* * *` getrennt, und `---` sind die Beats
    **innerhalb** jedes Fadens.
