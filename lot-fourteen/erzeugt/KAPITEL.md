@@ -124,7 +124,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 78** *At thirty* (v3.2) · Tag 464, So 10. Januar · 2.566 W
 - **B2 79** *Not four* (v3.3) · Tag 465, Mo 11. Januar · Tag 466, Di 12. Januar · 2.864 W
 - **B2 80** *Nine boxes* (v3.3) · Tag 472, Mo 18. Januar · Tag 473, Di 19. Januar · Tag 489, Do 4. Februar · 2.846 W
-- **B2 81** *I require your instructions* (v3.4) · Tag 493, Mo 8. Februar · 2.369 W
+- **B2 81** *I require your instructions* (v3.5) · Tag 493, Mo 8. Februar · 2.386 W
 - **B2 82** *The only line out* (v1.4) · Tag 497, Fr 12. Februar · Tag 500, Mo 15. Februar · 2.814 W
 - **B2 83** *Nobody asked* (v3.6) · Tag 510, Do 25. Februar · Tag 514, Mo 1. Maerz · 2.936 W
 - **B2 84** *No occasion* (v3.5) · Tag 517, Do 4. Maerz · Tag 522, Di 9. Maerz · 2.147 W

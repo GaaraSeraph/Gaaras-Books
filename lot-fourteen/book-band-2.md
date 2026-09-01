@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.575 Woerter.
+Book Two, 90 Kapitel, 232.592 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -91,7 +91,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 78 | v3.2 | 2.566 |
 | 79 | v3.3 | 2.864 |
 | 80 | v3.3 | 2.846 |
-| 81 | v3.4 | 2.369 |
+| 81 | v3.5 | 2.386 |
 | 82 | v1.4 | 2.814 |
 | 83 | v3.6 | 2.936 |
 | 84 | v3.5 | 2.147 |
@@ -18056,7 +18056,7 @@ He looked at that for a while.
 ---
 
 # Book Two · Chapter 81: I require your instructions
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Four Hundred and Ninety-Three · Monday 8 February
 
@@ -18076,7 +18076,7 @@ There is one page on the desk when Georgij comes in, face up, and it is a draft,
 
 "You have stopped believing it."
 
-"I stopped believing it on the fourteenth of January at about four in the afternoon, in this chair, with the deed open in front of me for the first time since 2016." Baek had both hands flat. "I would like to say the size of that out loud. Eleven years, forty-five payments, and I had not read the instrument since before that woman was in that house."
+"I stopped believing it on the fourteenth of January at about four in the afternoon, in this chair, with the deed open in front of me for the first time since 2016." Baek had both hands flat. "I would like to say the size of that out loud. Eleven years, forty-five quarterly authorisations, and I had not read the instrument since before that woman was in that house."
 
 Georgij sat down and did not say anything.
 
@@ -18098,7 +18098,7 @@ The office in Yeouido did what an office does at ten in the morning.
 
 "And the flat in Seodaemun."
 
-"Is let to a young woman with a bicycle since the middle of November, and I am still paying the rates on it. I have been paying the rates on a flat with a tenant in it for eleven weeks."
+"Is let to a young woman with a bicycle since the middle of November, and I am still paying the rates on it. I have been paying the rates on a flat with a tenant in it for twelve weeks."
 
 "Then say the second part," said Georgij.
 
@@ -18144,13 +18144,13 @@ Georgij read it twice and did not touch the page.
 
 "The settlor. In person, at the correspondence address, which is a solicitor's office in Jung-gu that forwards, and it has forwarded four things in eleven years and all four were mine."
 
-"That is the first letter anybody has ever sent him," said Georgij.
+"That is the first letter anybody has ever sent him that requires an answer," said Georgij.
 
 Baek looked up.
 
 "Say that again."
 
-"I have been reading paper about that man since March," said Georgij. "Registers, filings, a fire safety schedule, a reservation book, sixteen call-offs off a screen in Bundang. Every single piece of it is paper that somebody else made and he stayed out of. There is nothing in the world with his name on it except what he signed himself. That letter is going to be the first thing that arrives *at* him."
+"I have been reading paper about that man since March," said Georgij. "Registers, filings, a fire safety schedule, a reservation book, sixteen call-offs off a screen in Bundang. Every single piece of it is paper that somebody else made and he stayed out of. There is nothing in the world with his name on it except what he signed himself. That letter is going to be the first thing that arrives at him and asks him to put himself on paper."
 
 "That had not occurred to me and I have been at this since the fourteenth."
 
@@ -18242,7 +18242,7 @@ At the door Georgij stopped, because there was one thing left.
 
 "And in the meantime."
 
-"In the meantime a man in this city has to write me a letter about a woman he has never claimed to know, or watch a file grow in an office he has been in exactly once." Baek Jun-ho put the draft in a folder. "I have been arranging other people's silences for thirty-one years. I have never once been on the end that asks the question."
+"In the meantime a man in this city has to write me a letter about a woman he has never claimed to know, or watch a file grow in an office he has been in exactly once." Baek Jun-ho put the draft in a folder. "I have been arranging other people's silences for thirty-two years. I have never once been on the end that asks the question."
 
 * * *
 
@@ -18260,9 +18260,9 @@ He wrote it that evening. There was no second version of it.
 
 He sat with that for a while.
 
-*And nobody in eleven years has read the deed.*
+*For nearly eleven years nobody read the deed.*
 
-*Not the solicitor who signed it forty-five times. Not the man who wrote the two corrections into it in twenty minutes in March, because he was not building a document, he was building a room he never had to enter.*
+*Not the solicitor who signed forty-five quarterly authorisations under it. Not the man who had read the draft and given the two corrections in twenty minutes in March, because he was not building a document, he was building a room he never had to enter.*
 
 *I have been looking for a mistake since March. There is not one. There is a deed that says residence, and a residence that is not there any more, and a man of sixty-three who opened a drawer on the fourteenth of January.*
 
