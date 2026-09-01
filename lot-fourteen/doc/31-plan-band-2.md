@@ -3015,6 +3015,20 @@ freigegeben sind.
     worked out what the other twenty-five have in common. Four are still
     getting there. Nobody has said your name. Nobody is going to.**
 
+33. **`b2 ch87:58` gegen `b2 ch87:102`, die Menschen im Speisesaal.** Auf
+    demselben elf Meter langen Gang zur Halle nennt der Erzaehler zuerst
+    ausdruecklich **twenty-six people** im Speisesaal. Vierundvierzig Zeilen
+    spaeter geht Choi an Nam in einem Raum mit **forty people** vorbei. Es ist
+    weiterhin derselbe Gang, niemand kommt hinzu, und selbst die gesamte
+    sichtbare Besetzung aus sechsundzwanzig Betroffenen, Annie, Choi, Georgij
+    und Mrs Seo ergäbe nur dreissig. Die Vierzig ist deshalb weder die
+    Einladungsliste noch plausibel eingerechnetes Personal, sondern ein
+    unmittelbarer Binnenwiderspruch. Weil der Absatz Nam und nicht die
+    Raumzaehlung traegt, ist der sicherste Ersatz ohne neue Grenzziehung:
+    **Georgij was eleven feet away and watched a man of sixty walk past a woman
+    he chose in January, in a room full of people, because she was described to
+    him as honest.**
+
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
 Die Aussage **Five people know what you did** zaehlt nicht jeden Menschen, der
@@ -3046,3 +3060,13 @@ Hana kennt seine Rolle ebenfalls, ist an diesem Abend aber nicht im Raum. Koh
 kennt sein Gesicht und seine Auskunft, nicht seine Stellung im Haus; die
 uebrigen Eingeladenen kennen nur Annies Einladung. Auch diese **sechs** sind
 deshalb kein Kontinuitaetsfehler.
+
+### Verifizierte Gegenprobe: Zertifikat der Vernichtung
+
+Die Datumsfolge in `b2 ch87:388-396` ist geschlossen. Die permanente Serie geht
+am Donnerstag, dem 25. Februar 2027, ueber die Waage; das Zertifikat kommt **on
+the Friday**, also am 26. Februar, mit der Post; Georgij traegt es **since the
+first of March**, dem folgenden Montag, in der Innentasche. Kapitel 85 und 86
+zeigen es dort am 18. Maerz, Kapitel 88 nennt Existenz und Aufbewahrungsort. Die
+drei Formulierungen beschreiben aufeinanderfolgende Stationen und keinen
+Datumswiderspruch.
