@@ -586,21 +586,21 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Ahn** | **Ihr Bruder.** Repariert Kleinmotoren | Neununddreissig. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
 | **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Zweiundfuenfzig. Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
 | **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | In ihren Sechzigern, dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 72 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij geht am 21. Dezember zu ihr nach Mapo und laesst ihr die Entscheidung, Choi anzurufen, ausdruecklich selbst |
-| **Mr Im (Mullae)** | **Ehemaliger Firmeninhaber**, arbeitet weiter im leeren Buero ueber einer Druckerei | Siebenundfuenfzig. Seine Firma ging in den zwei Jahren nach Chois Essen vor sechs Jahren unter; den alten Kalender bewahrt er im Schreibtisch auf | B2 75 | **Nicht Mr Im aus Annies Wartungsrota.** Ruft am 30. Dezember seinen seit dreissig Jahren bekannten Bekannten an; bis April folgen vier Essen. Die falsche Epilogklammer ist offen in `doc/31-plan-band-2.md` |
-| **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Erfaehrt den Zweck des Dachsatzes am 27. August und ruft am 14. September wieder an; der falsche 7. September in `b2 ch59` ist offen in `doc/31-plan-band-2.md` |
+| **Mr Im (Mullae)** | **Ehemaliger Firmeninhaber**, arbeitet weiter im leeren Buero ueber einer Druckerei | Siebenundfuenfzig. Seine Firma ging in den zwei Jahren nach Chois Essen vor sechs Jahren unter; den alten Kalender bewahrt er im Schreibtisch auf | B2 75 | **Nicht Mr Im aus Annies Wartungsrota.** Ruft am 30. Dezember seinen seit dreissig Jahren bekannten Bekannten an; von Januar bis zum 9. April folgen vier Essen |
+| **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Erfaehrt den Zweck des Dachsatzes am 27. August, fuehrt den Anruf noch am selben Abend aus und ruft am 14. September wieder an |
 | **Chu Sang-cheol** | **Der Halter.** Fuehrt das Haus in Gangwon-do, in dem beide Frauen gehalten werden - Lease, neun Leute auf einer Rota, vier Wagen. **Nicht Mrs Ryu aus Band 1** | Haelt Moon seit elf Jahren und Ahn seit vier, zu einem Satz aus dem Jahr der Vereinbarung. Verkauft Ahn in sechsundzwanzig Stunden | B2 59 (genannt), B2 63 (handelt) | **Erledigt.** Behaelt die, fuer die bezahlt wird |
 | **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her. Hat vier Jahre Quartalsmappen gelesen, ohne es jemandem zu sagen | B2 24 | **Aktiv. Wird in Band 3 Freund** - festgelegt am 29.08., siehe `doc/32-plan-band-3.md` |
 | **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuenfundfuenfzig im Februar 2027; seit seinem dreissigsten Lebensjahr der Mann, der alles verwahrt. Fuehrt das Haus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
-| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig vierteljaehrliche Freigaben in elf Jahren, ohne Namen, mit seiner Unterschrift; darunter laufen eine quartalsweise und eine monatliche Zahlung. Er liest die Trusturkunde am 14. Januar 2027 zum ersten Mal seit 2016. Im Februar 2027 sind seine Berufsjahre 32, nicht mehr 31; die spaeteren Absolutsaetze zu Berufsjahren, Freigaben und Urkundenlektüre sind offen in `doc/31-plan-band-2.md` |
+| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig vierteljaehrliche Freigaben in elf Jahren, ohne Namen, mit seiner Unterschrift; darunter laufen eine quartalsweise und eine monatliche Zahlung. Er liest die Trusturkunde am 14. Januar 2027 zum ersten Mal seit 2016. Im Februar 2027 sind seine Berufsjahre 32. Seine Forderung ist der erste Brief, der Choi zu einer Antwort und einer eigenen Begruendung auf Papier verpflichtet |
 | **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | **Wachmann im Haus in Gangwon-do**, der erste neue in vier Jahren | Seit Ende August dort | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
-| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Am 9. Januar 2026 trug sie ihr Heft zu Hwang hinauf.** Die Achtwochenfrist beginnt dagegen am 16. Maerz; der Rueckblick in `b2 ch61` setzt sie faelschlich in den Januar, offen in `doc/31-plan-band-2.md`. Ihr Arbeitsbeginn in Gwangyang ist zwischen dem 15. Juni (`b2 ch35`, `b2 ch87`) und dem 1. Oktober (`b2 ch61`) offen; am 4. November liest sie Ahn Jung-hee die erste Stunde vor. Die spaeteren Rueckblicke mit *four years ago* sind ebenfalls offen in `doc/31-plan-band-2.md` |
+| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Am 9. Januar 2026 trug sie ihr Heft zu Hwang hinauf.** Die Achtwochenfrist beginnt am 16. Maerz. Seit dem 15. Juni fuehrt sie die Settlement-Funktion in Gwangyang; bis zum 23. Oktober hat sie dort vier Monate und acht Tage gearbeitet. Am 4. November liest sie Ahn Jung-hee die erste Stunde vor |
 | **Mr Byun** | **Fuehrte sechsundzwanzig Jahre das Register des Auktionshauses** | *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
 | **Mrs Bae** | **Empfangsdame**, fuehrt das Buchungsbuch mit Bleistift. **Nicht Bae aus Band 1** | Zweiundzwanzig Jahre am Empfang | B2 41 | Gegeben, was sie hatte |
 | **Mr Sohn** | **Koch.** Kocht ohne Schild fuer Stammgaeste | Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
 | **Mrs Gwak** | **Blumenladen in Hyoja-dong** | Fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
-| **Mrs Sunwoo** | **Kaeuferin in dem Auktionshaus**, einundvierzig Jahre. Eine der vier Zeilen | Einundachtzig | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
+| **Mrs Sunwoo** | **Kaeuferin in dem Auktionshaus**, einundvierzig Jahre. Eine der vier Zeilen | 81 bis 16. November 2026, danach 82 | B1 1 / B2 3 | **Abgerechnet.** Bewahrt die vierzeilige Originalantwort ungesehen im eigenen Haus; Georgij kennt nur das Datum |
 | **Mr Ok** | **Chois Opfer, nur eine Hand.** *Ok. A hand. Nothing before the twelfth. Frightened only.* Kein Kalender im Buero, faehrt jeden Abend mit einem Wagen, der acht Minuten zu spaet kommt | Etwa fuenfzig | B2 1 | Steht auf der Liste in `doc/32` |
 | **Mrs Uhm** | **Macht Yeoms Ablage**, seit 2004 |  | B2 17 | Wird von niemandem behelligt werden |
 
@@ -1217,17 +1217,14 @@ Georgijs erstem Blick um sechs Jahre altern lassen. Die Gegenprobe steht auch in
 **Seine beiden Uhren am 6. Januar 2027 sind getrennt zu fuehren.** Georgij
 kennt ihn seit dem 14. August 2026, also seit knapp fuenf Monaten. Der Laden
 steht dagegen seit 2019 monatlich zur Miete, zu diesem Zeitpunkt also seit
-mindestens sieben Jahren. Die drei abweichenden Angaben mit jeweils sechs
-Monaten beziehungsweise sechs Jahren in `b2 ch76` sind offen in
-`doc/31-plan-band-2.md`, Punkt 48.
+mindestens sieben Jahren. `b2 ch76` fuehrt beide Uhren jetzt getrennt: fuenf
+Monate Bekanntschaft und sieben Jahre Monatsmiete.
 
 **Und der Zug, den Georgij bei ihm nicht macht:** es gibt einen Satz, der ihn
 entlasten würde, und Georgij hat ihn nach zwanzig Sekunden und sagt ihn nicht.
-Die Begründung trägt; ihre anschließende Zeitangabe ist jedoch offen:
-*"He has had four years and eleven months on his own with this. He gets to find
-it."* Vom 12. Februar vor vier Jahren bis zum 14. August sind es gut vier Jahre
-und sechs Monate, nicht elf. Die vorgeschlagene Manuskriptkorrektur steht in
-`doc/31-plan-band-2.md`, Punkt 43.
+Die Begründung trägt, und die Zeitangabe ist auf vier Jahre und sechs Monate
+gestellt: *"He has had four years and six months on his own with this. He gets
+to find it."*
 *Szene: Band 2 Kapitel 53.*
 
 **Sim** - **Chois Hände, und sein Instrument ist die Freundlichkeit.** Dreißig
@@ -1638,13 +1635,9 @@ und niemand muss ihn zitieren.
 122. **In dreissig Jahren ist Sim nie irgendwohin geschickt worden, um unangenehm zu sein.** Vierhundertmal geschickt worden, um gemocht zu werden. **Und er ist nie belogen worden:** *"He has never once needed to lie to me."*
 123. **Mr Ahn** ist **neununddreissig**, nicht fuenfundvierzig. Georgij hat ihn auf fuenfundvierzig gelesen und **irrt sich nie um mehr als ein Jahr** - das ist ein Takt und kein Fehler.
 124. **Ahn Jung-hee**, fuenfunddreissig, Schwester von Mr Ahn (vier Jahre juenger). Sie hiess **Jung-hee-ya bis etwa elf**; nach ihrem Weggang benutzte die Mutter es wieder am Telefon und nie in einem Raum. **Sie fuehrt den Haushalt in Gangwon-do seit etwa dreieinhalb Jahren.**
-    **Offener Kontinuitaetspunkt in `b2 ch64`:** Ihr Satz im Hof ist nicht das
-    erste Wort an einen Aussenstehenden seit vier Jahren. Sie hat viermal im
-    Jahr mit Sim telefoniert und in `b2 ch57` selbst geantwortet und gefragt.
-    Die Premiere gilt nur fuer die Zeit seit ihrem Gang aus dem Haus; siehe
-    `doc/31-plan-band-2.md`. Dasselbe Kapitel nennt ihre spaetere Frage an Mrs
-    Jeon faelschlich die erste in elf Jahren, obwohl die Frage an Sim bereits am
-    27. August fiel; das ist als eigener Punkt 47 dort offen.
+    `b2 ch64` bindet ihre ersten Worte und ihre erste Frage im Freien jetzt an
+    den vollzogenen Gang aus dem Haus. Die vier Telefonate im Jahr mit Sim und
+    ihre Frage vom 27. August bleiben dadurch erhalten.
 125. **Do Kyung-ae ist Ahn Jung-hee.** Der fehlende Papierbestand beweist keinen falschen Namen, sondern dass die Person nie aufgeschrieben wurde - **dieselbe Lage, in der Georgij siebzehn Jahre war.**
 126. **Moon Hae-sook.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft. **Die Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, **und Sim weiss es bis heute nicht.**
 127. **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft, **vierhundertelf Hochzeiten in dreissig Jahren**, seit vier Jahren zu. *"Thirty years, and the useful thing about me is that I've got nothing left."*
@@ -1652,7 +1645,7 @@ und niemand muss ihn zitieren.
 129. **Mr Pyeon**, einer der fuenf, Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen. **Er spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in `12-stimmen`.
 130. **Mr Tak**, seit Ende August im Haus in Gangwon-do; er gibt seinen Nachnamen ungefragt und nennt sie zweimal *"the lady"*.
 131. **Woos Finanzier aus b1 K13** (*"what would happen to the terminal if I died on the Tuesday"*) **ist nicht Choi** und darf nie mit ihm verwechselt werden. Der Text benennt sie ausdruecklich als zwei Maenner.
-132. **Baek Jun-ho** hat **einunddreissig Jahre** im Fach und **elf Treuhandschaften gebaut**, und in keiner davon sah eine Treuhaenderloesung hinterher besser aus.
+132. **Baek Jun-ho** hat im Februar 2027 **zweiunddreissig Jahre** im Fach und **elf Treuhandschaften gebaut**, und in keiner davon sah eine Treuhaenderloesung hinterher besser aus.
 
 133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist am 27. Mai 2026 neunundfuenfzig und ab dem 18. November sechzig; mit dem gefuehrten Geburtstag war er im April 2002 also **fuenfunddreissig**. Die exakten Altersnennungen im Roman sind darauf korrigiert; Woos damalige Schaetzung *"Thirty-five or thirty-six"* bleibt als Schaetzung stehen.
 134. **Woo war nicht das Gekaufte. Er war die Tuer.** *"You give him one thing to do that he cannot undo, and then he leaves on his own, and he never once says why."* **Choi hat einen Fall geschlossen, den er bereits gewonnen hatte.**
@@ -1678,8 +1671,7 @@ und niemand muss ihn zitieren.
 149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
 150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
 151. **Choi hat im ganzen Buch keine Replik ausser in b2 K86** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**
-152. **Offen in `b2 ch81`: Baeks Forderung ist nicht der erste Brief, der Choi
-    erreicht.** Dieselbe Szene nennt vier fruehere, von Baek stammende
-    Weiterleitungen; `b2 ch47` bestaetigt den Schriftverkehr. Neu ist, dass der
-    Brief eine Antwort und Chois eigene Begruendung auf Papier verlangt. Siehe
-    `doc/31-plan-band-2.md`.
+152. **Baeks Forderung in `b2 ch81` ist der erste Brief, der eine Antwort
+    verlangt.** Vier fruehere, von Baek stammende Weiterleitungen und der in
+    `b2 ch47` bestaetigte Schriftverkehr bleiben bestehen. Neu ist, dass Choi
+    seine eigene Begruendung auf Papier setzen muss.

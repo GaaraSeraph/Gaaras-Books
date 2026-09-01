@@ -421,29 +421,23 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
   liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
   dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 30)
-- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang laut
-  Kapitel 35.** Das Blatt,
-  das sie Hwang schuldig war, ist auf denselben Morgen datiert: *"He was correct
-  about the desk. He was wrong about the book."* Kapitel 35 laesst den Brief mit
-  Gwangyang-Poststempel jedoch schon an diesem Morgen um neun in Seoul ankommen;
-  Kapitel 59 und 83 nennen sein Datum abweichend den 14. Juni. **Diese Kette ist
-  offen.** Der kleinste widerspruchsfreie Ablauf ist: Schreiben am 15., Ankunft
-  am Dienstag, dem 16., und beide spaeteren Rueckblicke ebenfalls auf den 15.
-  **Auch die Leserzahl in beiden Rueckblicken ist offen:** Annie liest die Seite
-  hier vollstaendig und zitiert sie. Georgij ist deshalb nicht neben Mrs Jeon
-  der einzige Leser; korrekt sind Mrs Jeon, Georgij und Annie.
-  Georgij haendigt das Blatt Hwang **nicht** aus - es sollte
-  existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
-  seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
-  aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 31)
+- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang.** Sie
+  schreibt an diesem Morgen das Blatt fuer Hwang und datiert es auf den 15.:
+  *"He was correct about the desk. He was wrong about the book."* Der Sohn,
+  der im Juli anbieten wollte, hat noch nicht angeboten; sie wartet nicht auf
+  ihn (Band 2, Kapitel 35)
+- Tag 256, Di 16. Juni: **Das Blatt kommt mit Gwangyang-Poststempel in Seoul
+  an.** Georgij und Annie lesen es; beide spaeteren Rueckblicke nennen ebenfalls
+  den 15. Juni und dieselbe Wissenskette aus Mrs Jeon, Georgij und Annie.
+  Georgij haendigt das Blatt Hwang **nicht** aus - es sollte existieren, nicht
+  gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal seit dem Regentag
+  Sang-hoons vier Entscheidungen wieder vor** - vier Initialen aus Sang-hoons
+  eigenem Kalender, noch keine Namen (Band 2, Kapitel 35)
 
-  **OFFEN seit dem Kontinuitaetsdurchgang vom 01.09.:** Dieser Arbeitsbeginn
-  steht gegen `b2 ch61`, das Mrs Jeons gesamte Szene am 23. Oktober auf einen
-  Beginn am 1. Oktober und genau dreiundzwanzig Tage im Betrieb baut. `b2 ch87`
-  bestaetigt dagegen nochmals, sie fuehre die Settlement-Funktion seit Juni.
-  Bis der Manuskriptentscheid gefallen ist, sind weder Juni noch Oktober als
-  widerspruchsfrei bezahlt zu behandeln; die vollstaendige Gegenueberstellung
-  steht in `doc/31-plan-band-2.md`.
+  **Der Juni-Kanon ist geschlossen:** `b2 ch61` fuehrt Mrs Jeon am 23. Oktober
+  seit vier Monaten und acht Tagen in Gwangyang. Den ersten falschen Levy-Eintrag
+  findet sie in Woche drei; den Gesamtbetrag beweist sie erst im Oktober.
+  `b2 ch87` bestaetigt die Settlement-Funktion seit Juni.
 - Tag 257, Mi 17. Juni: **Annie waehlt "Y", die juengste der vier Initialen,
   zuerst.** Sang-hoon nennt Yeom - und Georgij faengt den eigenen Fehler ab,
   bevor er ihn ausspricht: Yeom war laut Kapitel 25 selbst Empfaenger des
@@ -690,16 +684,15 @@ geglaubt statt geprueft.*
 wie im August:** der Geburtstag ist erfunden und steht in keinem Satz
 (nachgeprueft, die drei Daten kommen im Text nicht vor), also weicht der
 Geburtstag und nicht der Text. **Mrs Sunwoo war dabei faelschlich als vierter
-Fall gefuehrt worden.** Bei ihr liegen ausdrueckliche Nennungen desselben Alters
-am 7. Maerz 2026 und am 16. Mai 2027 insgesamt 435 Tage auseinander. Kein
-Geburtstag kann das aufloesen; die notwendige Manuskriptkorrektur steht offen
-in `doc/31-plan-band-2.md`, Punkt 52.
+Fall gefuehrt worden.** Bei ihr liegen ausdrueckliche Nennungen ueber 435 Tage
+auseinander. Der Geburtstag bleibt am 17. November; die spaeten Nennungen in
+Kapitel 71 und 89 stehen deshalb jetzt auf zweiundachtzig.
 
 | Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
 |---|---|---|---|---|
 | Baek Jun-ho | dreiundsechzig | b2 K89, 16. Mai 2027 | 26. September | **10. November** |
 | Mrs Jeon Mi-ja | einundfuenfzig | b2 K64, 1. November | 24. Juli | **15. November** |
-| Mrs Sunwoo | einundachtzig von b2 K03 bis K89 (**Widerspruch**) | 7. Maerz 2026 und 16. Mai 2027 | 29. September | **kein moegliches Datum; siehe Punkt 52** |
+| Mrs Sunwoo | 81 bis 16. November 2026, danach 82 | b2 K89, 16. Mai 2027 | 29. September | **17. November** |
 | Choi Dae-ho | sechzig | b2 K87, 18. Maerz 2027 | 8. September | **18. November** |
 
 **Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
@@ -713,8 +706,9 @@ nicht wieder.
 mehr.** Im heutigen Schluss stirbt Choi am 8. April; B2 89 erzaehlt die Folgen
 und B2 90 laesst Georgij Mord und Kollateralschaden gegenueber Annie
 aussprechen. Der groessere Inhalt seiner Drohung ist Wirklichkeit geworden,
-die zugesagte Jahresfrist aber nicht. Weil der Text den Fristbruch nicht
-benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
+die zugesagte Jahresfrist aber nicht. Kapitel 90 nennt die um elf Wochen
+verfehlte Frist ausdruecklich; der Posten steht in `doc/13-zusagen.md` deshalb
+auf **VERFALLEN**.
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
@@ -723,7 +717,7 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 35 im April 2002; 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*; historische Nennungen auf 35 korrigiert |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
-| **Mrs Sunwoo** | **offen:** 81 vom 7. Maerz 2026 bis 16. Mai 2027 | **17. November** (war 29. September, davor 4. Juli) | Der Geburtstag verlangt ab 17. November 2026 das Alter 82; siehe `doc/31-plan-band-2.md`, Punkt 52. Kauft seit einundvierzig Jahren in dem Haus |
+| **Mrs Sunwoo** | 81 bis 16.11.2026, **danach 82** | **17. November** (war 29. September, davor 4. Juli) | `b2 ch03` nennt sie im Maerz 81; `b2 ch71` und `b2 ch89` nennen sie nach dem Geburtstag 82. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
 | **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
@@ -864,8 +858,9 @@ sie im Lauf sieht, hat nichts gefunden.**
 
 Drei Durchgaenge ueber Band 2: Zahlen und Zeitachse, Wissens- und Zusagenkette,
 Punkt oder Fragezeichen. Die Begruendungen stehen in
-`doc/41-entscheidungen.md`, was
-offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
+`doc/41-entscheidungen.md`; der am 01.09. abgeschlossene Kontinuitaetsdurchgang
+liegt in `doc/protokoll/2026-09-01-kontinuitaet-band-2.md`. Die Zahlen und
+Tatsachen, die ab jetzt gelten:
 
 - **Chairman Woo: achtundsiebzig, im Gewerbe seit siebenundzwanzig.** Band 2,
   Kapitel 13 sagte zweimal fuenfundsiebzig und *"since I was twenty-four"*.
@@ -876,8 +871,7 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
 - **Mrs Seo: neun Jahre** im Haus. Kapitel 24 sagte zweimal elf.
 - **Mrs Jeon geht am 12. Mai.** Am 16. Maerz kuendigt sie selbst acht Wochen an,
   und sie behaelt recht. Kapitel 9 machte vier Tage spaeter sechs daraus. Ihr
-  Rueckblick in Kapitel 61 verschiebt dieselbe Mitteilung faelschlich in den
-  Januar; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
+  Rueckblick in Kapitel 61 nennt die Mitteilung jetzt ebenfalls im Maerz.
 - **Hongs Bildungsfrage faellt bei zwoelf Minuten**, nicht bei vierzehn
   (Band 1, Kapitel 7).
 - **Die vierte Gebuehr wurde am Abend des Loses bezahlt**, aus Yeoms eigener
@@ -893,17 +887,15 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
 - **Sim weiss am 27. August, wofuer er telefoniert.** Georgij erklaert ihm an
   diesem Tag beide Frauen und den Dachsatz; Sim fuehrt den Anruf noch am selben
-  Abend aus. Kapitel 59 verschiebt diese Erkenntnis faelschlich auf den 7.
-  September; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
+  Abend aus. Kapitel 59 fuehrt deshalb ebenfalls den 27. August.
 - **Ahn Jung-hee stellt am 27. August ihre erste Frage in vier Jahren.** Am 2.
   November fragt sie Mrs Jeon erneut, diesmal nach einer Unterschrift. Kapitel
-  64 nennt diese zweite belegte Frage faelschlich ihre erste in elf Jahren und
-  uebernimmt damit Moon Hae-sooks Dauer; offen in `doc/31-plan-band-2.md`.
+  64 bindet die spaetere Premiere jetzt an den Gang aus dem Haus und erhaelt
+  damit beide Fragen.
 - **Mr Ahns zwei Zeitspannen am 6. Januar 2027 sind nicht beide sechs.**
   Georgij kennt ihn seit dem 14. August 2026, also seit knapp fuenf Monaten.
   Der Laden steht seit 2019 monatlich zur Miete, damit seit mindestens sieben
-  Jahren. Die drei kleinsten Manuskriptersetzungen sind in
-  `doc/31-plan-band-2.md` offen.
+  Jahren. Kapitel 76 fuehrt entsprechend fuenf Monate und sieben Jahre.
 - **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
   Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
   wouldn't protect you."* - gesagt hatte er es nirgends. Statt den

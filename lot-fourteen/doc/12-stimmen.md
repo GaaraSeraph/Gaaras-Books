@@ -2918,7 +2918,7 @@ you say about it."*
 gestellt hat. **Und er hat Georgij die drei Namen gegeben, denen man ausweichen
 sollte** - Woo, Sunwoo und Choi.
 
-### Mrs Sunwoo (81 Jahre)
+### Mrs Sunwoo (81 Jahre bis 16. November 2026, danach 82)
 
 **Achtung bei der Zahl in der Überschrift.** `stimmen.py` kennt sie **gar nicht
 als Sprecherin** - ihre drei Szenen (b1 K07, b2 K10, b2 K22, b2 K71) sind

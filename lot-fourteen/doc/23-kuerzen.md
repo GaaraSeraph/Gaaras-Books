@@ -330,7 +330,7 @@ gegengeprüft.*
 | **68** *(jetzt zweite Haelfte von 67)* | *What he was for* | **Tragend.** Sims Wende, sein Ausstieg, der 14. September | HALTEN |
 | **69** | *The call he did not take* | **Tragend.** Zwei überfällige Zusagen bezahlt, Kwon in der Auffahrt, Annies Diagnose | HALTEN |
 | **70** | *Nothing to bring* | **Tragend.** Mr Ahn liest den Satz, die Zusage aus 59 bezahlt, der Ventilator angelegt | HALTEN |
-| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die signierte Seite vom 15. Juni; Annie liest sie. Zwei spaetere Rueckblicke sagen noch 14. Juni und nennen Georgij faelschlich den einzigen weiteren Leser, siehe `doc/31-plan-band-2.md` | STRAFFEN |
+| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die signierte Seite vom 15. Juni; Annie liest sie. Die spaeteren Rueckblicke fuehren dasselbe Datum und Mrs Jeon, Georgij und Annie als Wissenskette | STRAFFEN |
 | **72** | *The fourteenth* | **Tragend.** November, der Namensdank, Register B 8 | HALTEN |
 | **73** | *What the month is for* | Die Umkehrung der Lesart, die vier Tatsachen, der Auftrag an Sim | STRAFFEN |
 | **74** | *Forty-one seconds* | **Tragend.** Sims Zählung, die Entlastung, die zweite Frau, und sie fragt | STRAFFEN |
@@ -342,7 +342,7 @@ gegengeprüft.*
 | **80** | *The only door* | Das Geld, Mr Hwang als einzige Tür, die Regel des Bandes | STRAFFEN |
 | **81** | *The permanent series* | **Tragend.** Hwangs Zusage, der Preis in der permanenten Reihe, und die Antwort auf Moon Hae-sook: nichts | HALTEN |
 | **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig vierteljaehrlichen Freigaben, Annies Ja nach sieben Tagen Suche | HALTEN |
-| **83** | *Twenty-three days* | **Tragend.** Zwei Zusagen aus 71 bezahlt, der Name in drei Teilen, und der Preis, den Mrs Jeon dafuer zahlt | HALTEN |
+| **83** | *The fourth thing* | **Tragend.** Zwei Zusagen aus 71 bezahlt, der Name in drei Teilen, und der Preis: Mrs Jeon macht ihre gerade erst messbare Anerkennung fuer eine Weile wieder unsicher | HALTEN |
 | **84** | *The consignor of record* | **Tragend.** Mr Ahn ist der Einzige, der unterschreiben kann, und tut es auf der Rueckseite seiner eigenen Unterschrift von vor vier Jahren | HALTEN |
 | **85** | *They did not argue about it* | **Tragend.** Die Annahme in unter einem Tag, das Fahrangebot und seine Ablehnung, der Termin | HALTEN |
 | **86** | *The second of November* | **Tragend. Der Tag.** Ahn Jung-hee spricht zum ersten Mal frei, und Moon Hae-sook bleibt im Haus | HALTEN |

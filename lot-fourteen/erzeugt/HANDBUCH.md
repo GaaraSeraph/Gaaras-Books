@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 320.757 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.433 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -96,7 +96,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Ku (Fahrer)](#mr-ku-fahrer)
   - [Mr Kwon (63 Repliken über den Wechsel, b2 K14, K15, alt K69)](#mr-kwon-63-repliken-ber-den-wechsel-b2-k14-k15-alt-k69)
   - [Mr Hong (7 zugeordnete Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)](#mr-hong-7-zugeordnete-repliken-61-jahre-neunzehn-jahre-derselbe-tisch)
-  - [Mrs Sunwoo (81 Jahre)](#mrs-sunwoo-81-jahre)
+  - [Mrs Sunwoo (81 Jahre bis 16. November 2026, danach 82)](#mrs-sunwoo-81-jahre-bis-16-november-2026-danach-82)
   - [Mr Byun (11 Repliken)](#mr-byun-11-repliken)
   - [Kang Ji-hoon, Kim Do-yun (12 und 8 Repliken)](#kang-ji-hoon-kim-do-yun-12-und-8-repliken)
   - [Shin (4 Repliken)](#shin-4-repliken)
@@ -318,19 +318,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Zahlen werden trotzdem nicht geändert](#die-zahlen-werden-trotzdem-nicht-ge-ndert)
   - [Die Auflösung: sie wird nicht aus dem Haushalt verpflegt](#die-aufl-sung-sie-wird-nicht-aus-dem-haushalt-verpflegt)
   - [Eingebaut in `b2 ch59` v1.10](#eingebaut-in-b2-ch59-v1-10)
-  - [Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87](#verifizierte-gegenprobe-der-wissenskreis-in-kapitel-87)
-  - [Verifizierte Gegenprobe: Einladungsliste und Gedecke](#verifizierte-gegenprobe-einladungsliste-und-gedecke)
-  - [Verifizierte Gegenprobe: Zertifikat der Vernichtung](#verifizierte-gegenprobe-zertifikat-der-vernichtung)
-  - [Verifizierte Gegenprobe: die sechs Tage der Abrechnungen](#verifizierte-gegenprobe-die-sechs-tage-der-abrechnungen)
-  - [Verifizierte Gegenprobe: drei Originale und Uebergaben im Schluss](#verifizierte-gegenprobe-drei-originale-und-uebergaben-im-schluss)
-  - [Verifizierte Gegenprobe: Tagesuebergaenge in Kapitel 83 und 84](#verifizierte-gegenprobe-tagesuebergaenge-in-kapitel-83-und-84)
-  - [Verifizierte Gegenprobe: Ahn Jung-hees Unterschriften](#verifizierte-gegenprobe-ahn-jung-hees-unterschriften)
-  - [Verifizierte Gegenprobe: 411 und 460 Hochzeiten](#verifizierte-gegenprobe-411-und-460-hochzeiten)
-  - [Verifizierte Gegenprobe: vierundzwanzig und fuenfundzwanzig Jahre](#verifizierte-gegenprobe-vierundzwanzig-und-fuenfundzwanzig-jahre)
-  - [Verifizierte Gegenprobe: relative Zeitangaben im Schlussblock](#verifizierte-gegenprobe-relative-zeitangaben-im-schlussblock)
-  - [Verifizierte Gegenprobe: Sims dritte unbequeme Antwort](#verifizierte-gegenprobe-sims-dritte-unbequeme-antwort)
-  - [Verifizierte Gegenprobe: siebenundzwanzig Gaeste, achtundzwanzig Gedecke](#verifizierte-gegenprobe-siebenundzwanzig-gaeste-achtundzwanzig-gedecke)
-  - [Verifizierte Gegenprobe: Mr Ahns Alter](#verifizierte-gegenprobe-mr-ahns-alter)
 - [Plan, Band 3](#plan-band-3)  ·  `doc/32-plan-band-3.md`
   - [GANZ neue Gesichter, und der Saal ist schon gebaut](#ganz-neue-gesichter-und-der-saal-ist-schon-gebaut)
   - [Der Text](#der-text)
@@ -663,7 +650,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **20 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**126 Kapitel, 337.571 Woerter.**
+**126 Kapitel, 337.713 Woerter.**
 
 ---
 
@@ -1842,21 +1829,21 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Ahn** | **Ihr Bruder.** Repariert Kleinmotoren | Neununddreissig. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
 | **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Zweiundfuenfzig. Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
 | **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | In ihren Sechzigern, dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 72 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij geht am 21. Dezember zu ihr nach Mapo und laesst ihr die Entscheidung, Choi anzurufen, ausdruecklich selbst |
-| **Mr Im (Mullae)** | **Ehemaliger Firmeninhaber**, arbeitet weiter im leeren Buero ueber einer Druckerei | Siebenundfuenfzig. Seine Firma ging in den zwei Jahren nach Chois Essen vor sechs Jahren unter; den alten Kalender bewahrt er im Schreibtisch auf | B2 75 | **Nicht Mr Im aus Annies Wartungsrota.** Ruft am 30. Dezember seinen seit dreissig Jahren bekannten Bekannten an; bis April folgen vier Essen. Die falsche Epilogklammer ist offen in `doc/31-plan-band-2.md` |
-| **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Erfaehrt den Zweck des Dachsatzes am 27. August und ruft am 14. September wieder an; der falsche 7. September in `b2 ch59` ist offen in `doc/31-plan-band-2.md` |
+| **Mr Im (Mullae)** | **Ehemaliger Firmeninhaber**, arbeitet weiter im leeren Buero ueber einer Druckerei | Siebenundfuenfzig. Seine Firma ging in den zwei Jahren nach Chois Essen vor sechs Jahren unter; den alten Kalender bewahrt er im Schreibtisch auf | B2 75 | **Nicht Mr Im aus Annies Wartungsrota.** Ruft am 30. Dezember seinen seit dreissig Jahren bekannten Bekannten an; von Januar bis zum 9. April folgen vier Essen |
+| **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Erfaehrt den Zweck des Dachsatzes am 27. August, fuehrt den Anruf noch am selben Abend aus und ruft am 14. September wieder an |
 | **Chu Sang-cheol** | **Der Halter.** Fuehrt das Haus in Gangwon-do, in dem beide Frauen gehalten werden - Lease, neun Leute auf einer Rota, vier Wagen. **Nicht Mrs Ryu aus Band 1** | Haelt Moon seit elf Jahren und Ahn seit vier, zu einem Satz aus dem Jahr der Vereinbarung. Verkauft Ahn in sechsundzwanzig Stunden | B2 59 (genannt), B2 63 (handelt) | **Erledigt.** Behaelt die, fuer die bezahlt wird |
 | **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her. Hat vier Jahre Quartalsmappen gelesen, ohne es jemandem zu sagen | B2 24 | **Aktiv. Wird in Band 3 Freund** - festgelegt am 29.08., siehe `doc/32-plan-band-3.md` |
 | **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuenfundfuenfzig im Februar 2027; seit seinem dreissigsten Lebensjahr der Mann, der alles verwahrt. Fuehrt das Haus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
-| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig vierteljaehrliche Freigaben in elf Jahren, ohne Namen, mit seiner Unterschrift; darunter laufen eine quartalsweise und eine monatliche Zahlung. Er liest die Trusturkunde am 14. Januar 2027 zum ersten Mal seit 2016. Im Februar 2027 sind seine Berufsjahre 32, nicht mehr 31; die spaeteren Absolutsaetze zu Berufsjahren, Freigaben und Urkundenlektüre sind offen in `doc/31-plan-band-2.md` |
+| **Baek Jun-ho** | **Solicitor in Yeouido**, dreiundsechzig | Elf Treuhandschaften, verwaltet diese seit elf Jahren; im Beruf seit Ende 1994 | B2 42 | **Eingeloest in B2 81: das Geld IST der Sauerstoff.** Fuenfundvierzig vierteljaehrliche Freigaben in elf Jahren, ohne Namen, mit seiner Unterschrift; darunter laufen eine quartalsweise und eine monatliche Zahlung. Er liest die Trusturkunde am 14. Januar 2027 zum ersten Mal seit 2016. Im Februar 2027 sind seine Berufsjahre 32. Seine Forderung ist der erste Brief, der Choi zu einer Antwort und einer eigenen Begruendung auf Papier verpflichtet |
 | **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | **Wachmann im Haus in Gangwon-do**, der erste neue in vier Jahren | Seit Ende August dort | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
-| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Am 9. Januar 2026 trug sie ihr Heft zu Hwang hinauf.** Die Achtwochenfrist beginnt dagegen am 16. Maerz; der Rueckblick in `b2 ch61` setzt sie faelschlich in den Januar, offen in `doc/31-plan-band-2.md`. Ihr Arbeitsbeginn in Gwangyang ist zwischen dem 15. Juni (`b2 ch35`, `b2 ch87`) und dem 1. Oktober (`b2 ch61`) offen; am 4. November liest sie Ahn Jung-hee die erste Stunde vor. Die spaeteren Rueckblicke mit *four years ago* sind ebenfalls offen in `doc/31-plan-band-2.md` |
+| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Am 9. Januar 2026 trug sie ihr Heft zu Hwang hinauf.** Die Achtwochenfrist beginnt am 16. Maerz. Seit dem 15. Juni fuehrt sie die Settlement-Funktion in Gwangyang; bis zum 23. Oktober hat sie dort vier Monate und acht Tage gearbeitet. Am 4. November liest sie Ahn Jung-hee die erste Stunde vor |
 | **Mr Byun** | **Fuehrte sechsundzwanzig Jahre das Register des Auktionshauses** | *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
 | **Mrs Bae** | **Empfangsdame**, fuehrt das Buchungsbuch mit Bleistift. **Nicht Bae aus Band 1** | Zweiundzwanzig Jahre am Empfang | B2 41 | Gegeben, was sie hatte |
 | **Mr Sohn** | **Koch.** Kocht ohne Schild fuer Stammgaeste | Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
 | **Mrs Gwak** | **Blumenladen in Hyoja-dong** | Fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
-| **Mrs Sunwoo** | **Kaeuferin in dem Auktionshaus**, einundvierzig Jahre. Eine der vier Zeilen | Einundachtzig | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
+| **Mrs Sunwoo** | **Kaeuferin in dem Auktionshaus**, einundvierzig Jahre. Eine der vier Zeilen | 81 bis 16. November 2026, danach 82 | B1 1 / B2 3 | **Abgerechnet.** Bewahrt die vierzeilige Originalantwort ungesehen im eigenen Haus; Georgij kennt nur das Datum |
 | **Mr Ok** | **Chois Opfer, nur eine Hand.** *Ok. A hand. Nothing before the twelfth. Frightened only.* Kein Kalender im Buero, faehrt jeden Abend mit einem Wagen, der acht Minuten zu spaet kommt | Etwa fuenfzig | B2 1 | Steht auf der Liste in `doc/32` |
 | **Mrs Uhm** | **Macht Yeoms Ablage**, seit 2004 |  | B2 17 | Wird von niemandem behelligt werden |
 
@@ -2473,17 +2460,14 @@ Georgijs erstem Blick um sechs Jahre altern lassen. Die Gegenprobe steht auch in
 **Seine beiden Uhren am 6. Januar 2027 sind getrennt zu fuehren.** Georgij
 kennt ihn seit dem 14. August 2026, also seit knapp fuenf Monaten. Der Laden
 steht dagegen seit 2019 monatlich zur Miete, zu diesem Zeitpunkt also seit
-mindestens sieben Jahren. Die drei abweichenden Angaben mit jeweils sechs
-Monaten beziehungsweise sechs Jahren in `b2 ch76` sind offen in
-`doc/31-plan-band-2.md`, Punkt 48.
+mindestens sieben Jahren. `b2 ch76` fuehrt beide Uhren jetzt getrennt: fuenf
+Monate Bekanntschaft und sieben Jahre Monatsmiete.
 
 **Und der Zug, den Georgij bei ihm nicht macht:** es gibt einen Satz, der ihn
 entlasten würde, und Georgij hat ihn nach zwanzig Sekunden und sagt ihn nicht.
-Die Begründung trägt; ihre anschließende Zeitangabe ist jedoch offen:
-*"He has had four years and eleven months on his own with this. He gets to find
-it."* Vom 12. Februar vor vier Jahren bis zum 14. August sind es gut vier Jahre
-und sechs Monate, nicht elf. Die vorgeschlagene Manuskriptkorrektur steht in
-`doc/31-plan-band-2.md`, Punkt 43.
+Die Begründung trägt, und die Zeitangabe ist auf vier Jahre und sechs Monate
+gestellt: *"He has had four years and six months on his own with this. He gets
+to find it."*
 *Szene: Band 2 Kapitel 53.*
 
 **Sim** - **Chois Hände, und sein Instrument ist die Freundlichkeit.** Dreißig
@@ -2894,13 +2878,9 @@ und niemand muss ihn zitieren.
 122. **In dreissig Jahren ist Sim nie irgendwohin geschickt worden, um unangenehm zu sein.** Vierhundertmal geschickt worden, um gemocht zu werden. **Und er ist nie belogen worden:** *"He has never once needed to lie to me."*
 123. **Mr Ahn** ist **neununddreissig**, nicht fuenfundvierzig. Georgij hat ihn auf fuenfundvierzig gelesen und **irrt sich nie um mehr als ein Jahr** - das ist ein Takt und kein Fehler.
 124. **Ahn Jung-hee**, fuenfunddreissig, Schwester von Mr Ahn (vier Jahre juenger). Sie hiess **Jung-hee-ya bis etwa elf**; nach ihrem Weggang benutzte die Mutter es wieder am Telefon und nie in einem Raum. **Sie fuehrt den Haushalt in Gangwon-do seit etwa dreieinhalb Jahren.**
-    **Offener Kontinuitaetspunkt in `b2 ch64`:** Ihr Satz im Hof ist nicht das
-    erste Wort an einen Aussenstehenden seit vier Jahren. Sie hat viermal im
-    Jahr mit Sim telefoniert und in `b2 ch57` selbst geantwortet und gefragt.
-    Die Premiere gilt nur fuer die Zeit seit ihrem Gang aus dem Haus; siehe
-    `doc/31-plan-band-2.md`. Dasselbe Kapitel nennt ihre spaetere Frage an Mrs
-    Jeon faelschlich die erste in elf Jahren, obwohl die Frage an Sim bereits am
-    27. August fiel; das ist als eigener Punkt 47 dort offen.
+    `b2 ch64` bindet ihre ersten Worte und ihre erste Frage im Freien jetzt an
+    den vollzogenen Gang aus dem Haus. Die vier Telefonate im Jahr mit Sim und
+    ihre Frage vom 27. August bleiben dadurch erhalten.
 125. **Do Kyung-ae ist Ahn Jung-hee.** Der fehlende Papierbestand beweist keinen falschen Namen, sondern dass die Person nie aufgeschrieben wurde - **dieselbe Lage, in der Georgij siebzehn Jahre war.**
 126. **Moon Hae-sook.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft. **Die Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, **und Sim weiss es bis heute nicht.**
 127. **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft, **vierhundertelf Hochzeiten in dreissig Jahren**, seit vier Jahren zu. *"Thirty years, and the useful thing about me is that I've got nothing left."*
@@ -2908,7 +2888,7 @@ und niemand muss ihn zitieren.
 129. **Mr Pyeon**, einer der fuenf, Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen. **Er spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in `12-stimmen`.
 130. **Mr Tak**, seit Ende August im Haus in Gangwon-do; er gibt seinen Nachnamen ungefragt und nennt sie zweimal *"the lady"*.
 131. **Woos Finanzier aus b1 K13** (*"what would happen to the terminal if I died on the Tuesday"*) **ist nicht Choi** und darf nie mit ihm verwechselt werden. Der Text benennt sie ausdruecklich als zwei Maenner.
-132. **Baek Jun-ho** hat **einunddreissig Jahre** im Fach und **elf Treuhandschaften gebaut**, und in keiner davon sah eine Treuhaenderloesung hinterher besser aus.
+132. **Baek Jun-ho** hat im Februar 2027 **zweiunddreissig Jahre** im Fach und **elf Treuhandschaften gebaut**, und in keiner davon sah eine Treuhaenderloesung hinterher besser aus.
 
 133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist am 27. Mai 2026 neunundfuenfzig und ab dem 18. November sechzig; mit dem gefuehrten Geburtstag war er im April 2002 also **fuenfunddreissig**. Die exakten Altersnennungen im Roman sind darauf korrigiert; Woos damalige Schaetzung *"Thirty-five or thirty-six"* bleibt als Schaetzung stehen.
 134. **Woo war nicht das Gekaufte. Er war die Tuer.** *"You give him one thing to do that he cannot undo, and then he leaves on his own, and he never once says why."* **Choi hat einen Fall geschlossen, den er bereits gewonnen hatte.**
@@ -2934,11 +2914,10 @@ und niemand muss ihn zitieren.
 149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
 150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
 151. **Choi hat im ganzen Buch keine Replik ausser in b2 K86** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**
-152. **Offen in `b2 ch81`: Baeks Forderung ist nicht der erste Brief, der Choi
-    erreicht.** Dieselbe Szene nennt vier fruehere, von Baek stammende
-    Weiterleitungen; `b2 ch47` bestaetigt den Schriftverkehr. Neu ist, dass der
-    Brief eine Antwort und Chois eigene Begruendung auf Papier verlangt. Siehe
-    `doc/31-plan-band-2.md`.
+152. **Baeks Forderung in `b2 ch81` ist der erste Brief, der eine Antwort
+    verlangt.** Vier fruehere, von Baek stammende Weiterleitungen und der in
+    `b2 ch47` bestaetigte Schriftverkehr bleiben bestehen. Neu ist, dass Choi
+    seine eigene Begruendung auf Papier setzen muss.
 
 ---
 
@@ -5862,7 +5841,7 @@ you say about it."*
 gestellt hat. **Und er hat Georgij die drei Namen gegeben, denen man ausweichen
 sollte** - Woo, Sunwoo und Choi.
 
-### Mrs Sunwoo (81 Jahre)
+### Mrs Sunwoo (81 Jahre bis 16. November 2026, danach 82)
 
 **Achtung bei der Zahl in der Überschrift.** `stimmen.py` kennt sie **gar nicht
 als Sprecherin** - ihre drei Szenen (b1 K07, b2 K10, b2 K22, b2 K71) sind
@@ -6659,12 +6638,15 @@ wird.**
 ## Offen
 
 - [OFFEN] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 39, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
-- [OFFEN] **B2 18** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · Choi stirbt erst im April. B2 89 und B2 90 sprechen ueber Tat und Folge, aber nirgends ueber die verfehlte Jahresfrist. Deshalb offen und nicht verfallen
-- [OFFEN] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · Nicht nur Angebot und Annahme fehlen: B2 35 laesst sie schon am 15. Juni die Gwangyang-Stelle beginnen, die sie laut B2 87 seit Juni weiterfuehrt. Der kleinste Band-2-Anschluss steht als Manuskriptvorschlag in `doc/31-plan-band-2.md`: Der Sohn hat im Juli noch nicht angeboten; sie hat nicht auf ihn gewartet
 - [OFFEN] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig bei der Mitteilung an alle fuenf · "Go back and tell all five that they do not owe me anything." · Im heutigen Kanon wird keiner der fuenf unterrichtet. Die fruehere Kwon-Szene und vier Briefe existieren nur in geloeschten Fassungen
 - [OFFEN] **B2 67** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · "I will use your words and not mine." · B2 83 setzt Hwang an die Suche; B2 89 verbucht vier von achtundfuenfzig. Der Posten laeuft weiter
 - [OFFEN] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **Am Bandende offen, und der Text weiss es**
 - [OFFEN] **B2 85** Mrs Seo an Georgij · gesagt Tag 531 · faellig Tag 897 · "In about a year I am going to tell you what it was." · **Sie setzt die Frist, damit sie nie faellig wird**: *you are going to have forgotten this conversation and I am not.* Tag 897 ist Samstag, der 18. Maerz 2028 - 2028 ist ein Schaltjahr, deshalb 366 und nicht 365 Tage. **Die Szene steht ganz in `doc/32-plan-band-3.md`, und er kommt auf den Tag**
+
+## Verfallen
+
+- [VERFALLEN] **B2 18** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · Choi stirbt erst am 8. April. B2 90 nennt die um elf Wochen verfehlte Frist ausdruecklich; der Text weiss, dass der Termin gebrochen ist
+- [VERFALLEN] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 35: Am 15. Juni beginnt sie in Gwangyang; der Sohn hat noch nicht angeboten und sie wartet nicht auf ihn. B2 61 macht daraus ihre eigene geaenderte Entscheidung
 
 ## Bezahlt
 
@@ -6686,7 +6668,7 @@ wird.**
 - [BEZAHLT] **B2 60** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters erst danach · B2 65: Anruf am Folgetag, persoenliche Antwort am Mittwoch
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst; der Satz ist die Einloesung
 - [BEZAHLT] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig bei dem Tag, an dem die Seite existiert · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 59 bestaetigt Seite, Unterschrift und Datum
-- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 23 zeigt den ersten Kauf am 18. Mai; B2 79 bestaetigt den Kauf aller fuenf. **Offener Datumswiderspruch:** B2 87 behauptet, alle fuenf seien im November gekauft worden
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 23 zeigt den ersten Kauf am 18. Mai; B2 79 bestaetigt den Kauf aller fuenf; B2 87 fuehrt den Zeitraum von Mitte Mai bis Mitte Juni
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
 - [BEZAHLT] **B1 31** Annie an Georgij · gesagt Tag 74 · faellig Tag 164 · "I will ask you again in March, and you will not be able to say it is not the moment, because in March it will be." · B2 06, am 16. Maerz, auf den Tag drei Monate. **Stand bis zum 25.08. ueberhaupt nicht im Schuldbuch und war neun Erzaehlmonate unbezahlt** - gefunden bei der Suche nach fristlosen Zusagen, weil `--neu` sie nicht sieht
 - [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
@@ -6727,10 +6709,10 @@ ist.
 
 **Mrs Jeon, B2 Kapitel 30 (2. Juni):** *"I have four months of money and a son
 who is going to offer next month, and I am going to take it."* Das Angebot und
-seine Annahme stehen in keiner spaeteren Kanonfassung. Stattdessen beginnt sie
-am 15. Juni die Gwangyang-Stelle und fuehrt sie seitdem weiter. **Der Posten ist
-weiter offen und laengst ueberfaellig; `doc/31-plan-band-2.md` traegt den
-kleinsten Anschluss als Manuskriptvorschlag.**
+seine Annahme finden nicht statt. Stattdessen beginnt sie am 15. Juni die
+Gwangyang-Stelle und fuehrt sie seitdem weiter. **B2 35 sagt ausdruecklich, dass
+der Sohn noch nicht angeboten hat und sie nicht auf ihn wartet.** Der Posten ist
+damit verfallen, und der Text traegt ihre geaenderte Entscheidung.
 
 **Annies Satz aus B2 Kapitel 54:** *"in about a week you will have found a way
 to make it about you and I would like to have said this first."* Der alte Stand
@@ -6743,7 +6725,8 @@ uebersah B2 Kapitel 56. Dort zwingt Mr Ahn Georgij genau zu dieser Verschiebung.
 
 **Erstens: Georgij macht wenige ausdruecklich datierte Zusagen.** Gerade deshalb
 ist die verfehlte Jahresfrist gegen Choi keine Kleinigkeit. Der heutige Text
-erfuellt den groesseren Inhalt, bemerkt aber die gebrochene Frist nicht.
+erfuellt den groesseren Inhalt und nennt die um elf Wochen gebrochene Frist in
+B2 90 ausdruecklich.
 
 **Zweitens: Annie datiert Auftraege und Vorhersagen auffaellig oft.** Das bleibt
 Teil ihrer Stimme. Es ist aber kein Beweis, dass jeder von ihr gesetzte Termin
@@ -8537,29 +8520,23 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
   liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
   dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 30)
-- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang laut
-  Kapitel 35.** Das Blatt,
-  das sie Hwang schuldig war, ist auf denselben Morgen datiert: *"He was correct
-  about the desk. He was wrong about the book."* Kapitel 35 laesst den Brief mit
-  Gwangyang-Poststempel jedoch schon an diesem Morgen um neun in Seoul ankommen;
-  Kapitel 59 und 83 nennen sein Datum abweichend den 14. Juni. **Diese Kette ist
-  offen.** Der kleinste widerspruchsfreie Ablauf ist: Schreiben am 15., Ankunft
-  am Dienstag, dem 16., und beide spaeteren Rueckblicke ebenfalls auf den 15.
-  **Auch die Leserzahl in beiden Rueckblicken ist offen:** Annie liest die Seite
-  hier vollstaendig und zitiert sie. Georgij ist deshalb nicht neben Mrs Jeon
-  der einzige Leser; korrekt sind Mrs Jeon, Georgij und Annie.
-  Georgij haendigt das Blatt Hwang **nicht** aus - es sollte
-  existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
-  seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
-  aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 31)
+- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang.** Sie
+  schreibt an diesem Morgen das Blatt fuer Hwang und datiert es auf den 15.:
+  *"He was correct about the desk. He was wrong about the book."* Der Sohn,
+  der im Juli anbieten wollte, hat noch nicht angeboten; sie wartet nicht auf
+  ihn (Band 2, Kapitel 35)
+- Tag 256, Di 16. Juni: **Das Blatt kommt mit Gwangyang-Poststempel in Seoul
+  an.** Georgij und Annie lesen es; beide spaeteren Rueckblicke nennen ebenfalls
+  den 15. Juni und dieselbe Wissenskette aus Mrs Jeon, Georgij und Annie.
+  Georgij haendigt das Blatt Hwang **nicht** aus - es sollte existieren, nicht
+  gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal seit dem Regentag
+  Sang-hoons vier Entscheidungen wieder vor** - vier Initialen aus Sang-hoons
+  eigenem Kalender, noch keine Namen (Band 2, Kapitel 35)
 
-  **OFFEN seit dem Kontinuitaetsdurchgang vom 01.09.:** Dieser Arbeitsbeginn
-  steht gegen `b2 ch61`, das Mrs Jeons gesamte Szene am 23. Oktober auf einen
-  Beginn am 1. Oktober und genau dreiundzwanzig Tage im Betrieb baut. `b2 ch87`
-  bestaetigt dagegen nochmals, sie fuehre die Settlement-Funktion seit Juni.
-  Bis der Manuskriptentscheid gefallen ist, sind weder Juni noch Oktober als
-  widerspruchsfrei bezahlt zu behandeln; die vollstaendige Gegenueberstellung
-  steht in `doc/31-plan-band-2.md`.
+  **Der Juni-Kanon ist geschlossen:** `b2 ch61` fuehrt Mrs Jeon am 23. Oktober
+  seit vier Monaten und acht Tagen in Gwangyang. Den ersten falschen Levy-Eintrag
+  findet sie in Woche drei; den Gesamtbetrag beweist sie erst im Oktober.
+  `b2 ch87` bestaetigt die Settlement-Funktion seit Juni.
 - Tag 257, Mi 17. Juni: **Annie waehlt "Y", die juengste der vier Initialen,
   zuerst.** Sang-hoon nennt Yeom - und Georgij faengt den eigenen Fehler ab,
   bevor er ihn ausspricht: Yeom war laut Kapitel 25 selbst Empfaenger des
@@ -8806,16 +8783,15 @@ geglaubt statt geprueft.*
 wie im August:** der Geburtstag ist erfunden und steht in keinem Satz
 (nachgeprueft, die drei Daten kommen im Text nicht vor), also weicht der
 Geburtstag und nicht der Text. **Mrs Sunwoo war dabei faelschlich als vierter
-Fall gefuehrt worden.** Bei ihr liegen ausdrueckliche Nennungen desselben Alters
-am 7. Maerz 2026 und am 16. Mai 2027 insgesamt 435 Tage auseinander. Kein
-Geburtstag kann das aufloesen; die notwendige Manuskriptkorrektur steht offen
-in `doc/31-plan-band-2.md`, Punkt 52.
+Fall gefuehrt worden.** Bei ihr liegen ausdrueckliche Nennungen ueber 435 Tage
+auseinander. Der Geburtstag bleibt am 17. November; die spaeten Nennungen in
+Kapitel 71 und 89 stehen deshalb jetzt auf zweiundachtzig.
 
 | Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
 |---|---|---|---|---|
 | Baek Jun-ho | dreiundsechzig | b2 K89, 16. Mai 2027 | 26. September | **10. November** |
 | Mrs Jeon Mi-ja | einundfuenfzig | b2 K64, 1. November | 24. Juli | **15. November** |
-| Mrs Sunwoo | einundachtzig von b2 K03 bis K89 (**Widerspruch**) | 7. Maerz 2026 und 16. Mai 2027 | 29. September | **kein moegliches Datum; siehe Punkt 52** |
+| Mrs Sunwoo | 81 bis 16. November 2026, danach 82 | b2 K89, 16. Mai 2027 | 29. September | **17. November** |
 | Choi Dae-ho | sechzig | b2 K87, 18. Maerz 2027 | 8. September | **18. November** |
 
 **Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
@@ -8829,8 +8805,9 @@ nicht wieder.
 mehr.** Im heutigen Schluss stirbt Choi am 8. April; B2 89 erzaehlt die Folgen
 und B2 90 laesst Georgij Mord und Kollateralschaden gegenueber Annie
 aussprechen. Der groessere Inhalt seiner Drohung ist Wirklichkeit geworden,
-die zugesagte Jahresfrist aber nicht. Weil der Text den Fristbruch nicht
-benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
+die zugesagte Jahresfrist aber nicht. Kapitel 90 nennt die um elf Wochen
+verfehlte Frist ausdruecklich; der Posten steht in `doc/13-zusagen.md` deshalb
+auf **VERFALLEN**.
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
@@ -8839,7 +8816,7 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 35 im April 2002; 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*; historische Nennungen auf 35 korrigiert |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
-| **Mrs Sunwoo** | **offen:** 81 vom 7. Maerz 2026 bis 16. Mai 2027 | **17. November** (war 29. September, davor 4. Juli) | Der Geburtstag verlangt ab 17. November 2026 das Alter 82; siehe `doc/31-plan-band-2.md`, Punkt 52. Kauft seit einundvierzig Jahren in dem Haus |
+| **Mrs Sunwoo** | 81 bis 16.11.2026, **danach 82** | **17. November** (war 29. September, davor 4. Juli) | `b2 ch03` nennt sie im Maerz 81; `b2 ch71` und `b2 ch89` nennen sie nach dem Geburtstag 82. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
 | **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
@@ -8980,8 +8957,9 @@ sie im Lauf sieht, hat nichts gefunden.**
 
 Drei Durchgaenge ueber Band 2: Zahlen und Zeitachse, Wissens- und Zusagenkette,
 Punkt oder Fragezeichen. Die Begruendungen stehen in
-`doc/41-entscheidungen.md`, was
-offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
+`doc/41-entscheidungen.md`; der am 01.09. abgeschlossene Kontinuitaetsdurchgang
+liegt in `doc/protokoll/2026-09-01-kontinuitaet-band-2.md`. Die Zahlen und
+Tatsachen, die ab jetzt gelten:
 
 - **Chairman Woo: achtundsiebzig, im Gewerbe seit siebenundzwanzig.** Band 2,
   Kapitel 13 sagte zweimal fuenfundsiebzig und *"since I was twenty-four"*.
@@ -8992,8 +8970,7 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
 - **Mrs Seo: neun Jahre** im Haus. Kapitel 24 sagte zweimal elf.
 - **Mrs Jeon geht am 12. Mai.** Am 16. Maerz kuendigt sie selbst acht Wochen an,
   und sie behaelt recht. Kapitel 9 machte vier Tage spaeter sechs daraus. Ihr
-  Rueckblick in Kapitel 61 verschiebt dieselbe Mitteilung faelschlich in den
-  Januar; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
+  Rueckblick in Kapitel 61 nennt die Mitteilung jetzt ebenfalls im Maerz.
 - **Hongs Bildungsfrage faellt bei zwoelf Minuten**, nicht bei vierzehn
   (Band 1, Kapitel 7).
 - **Die vierte Gebuehr wurde am Abend des Loses bezahlt**, aus Yeoms eigener
@@ -9009,17 +8986,15 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
 - **Sim weiss am 27. August, wofuer er telefoniert.** Georgij erklaert ihm an
   diesem Tag beide Frauen und den Dachsatz; Sim fuehrt den Anruf noch am selben
-  Abend aus. Kapitel 59 verschiebt diese Erkenntnis faelschlich auf den 7.
-  September; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
+  Abend aus. Kapitel 59 fuehrt deshalb ebenfalls den 27. August.
 - **Ahn Jung-hee stellt am 27. August ihre erste Frage in vier Jahren.** Am 2.
   November fragt sie Mrs Jeon erneut, diesmal nach einer Unterschrift. Kapitel
-  64 nennt diese zweite belegte Frage faelschlich ihre erste in elf Jahren und
-  uebernimmt damit Moon Hae-sooks Dauer; offen in `doc/31-plan-band-2.md`.
+  64 bindet die spaetere Premiere jetzt an den Gang aus dem Haus und erhaelt
+  damit beide Fragen.
 - **Mr Ahns zwei Zeitspannen am 6. Januar 2027 sind nicht beide sechs.**
   Georgij kennt ihn seit dem 14. August 2026, also seit knapp fuenf Monaten.
   Der Laden steht seit 2019 monatlich zur Miete, damit seit mindestens sieben
-  Jahren. Die drei kleinsten Manuskriptersetzungen sind in
-  `doc/31-plan-band-2.md` offen.
+  Jahren. Kapitel 76 fuehrt entsprechend fuenf Monate und sieben Jahre.
 - **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
   Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
   wouldn't protect you."* - gesagt hatte er es nirgends. Statt den
@@ -10022,11 +9997,11 @@ Mengenangabe.**
 191. **Aus dem heutigen Kanon gefallen:** Annies fruehere Liste der Menschen, durch die Georgij eine Linie gezogen habe, und seine Antwort darauf stehen nur im Archiv.
 192. **Aus dem heutigen Kanon gefallen:** Die fruehere Formel ueber eine erst im teuren Moment gehaltene Zusage und die anschliessende Fuenfer-Anweisung stehen nur im Archiv.
 193. **"Nichts, was ein Mensch ist, verschiebt sich."**
-194. **Mrs Jeons neun Zeilen bleiben in der verschlossenen Wissenskette:** geschrieben am 14. Juni, unterschrieben und datiert, in einer Schublade im Haus am Fluss. Georgij hat sie gelesen und ist ausser Mrs Jeon der Einzige; in `b2 ch83` verweigert er Hwang weiterhin jede einzelne Zeile.
+194. **Mrs Jeons neun Zeilen bleiben in der verschlossenen Wissenskette:** geschrieben am 15. Juni, unterschrieben und datiert, in einer Schublade im Haus am Fluss. Mrs Jeon, Georgij und Annie haben sie gelesen; in `b2 ch83` verweigert Georgij Hwang weiterhin jede einzelne Zeile.
 195. **Mrs Jeons Genauigkeit vor der ersten Stunde:** In `b2 ch61` verlangt sie erst *"How it is written"* und dann *"which part of it her mother used."* Georgij gibt ihr beides aus Mr Ahns Auskunft, bevor sie Ahn Jung-hee gegenuebertritt.
 196. **"She is not a consignment out here. She is out here."**
 197. **DIE WUNDE DES TAGES:** sie nehmen eine aus einem Haus, das ausgeraeumt wird, und lassen eine darin. *"The kettle is on the second shelf and a man has written it on a folder."*
-198. **Ahn Jung-hees erster freier Satz nach vier Jahren ist eine erledigte Sache ueber jemand anderen:** *"The kettle is on the second shelf. I moved it on Thursday because they took the counter."* **Drei ihrer vier Aeusserungen an dem Tag handeln von Moon Hae-sook**, und die vierte ist ihre erste Frage seit dem Gang aus dem Haus. Ihre erste Frage im Buch fiel bereits am 27. August an Sim; der falsche Absolutsatz in `b2 ch64` ist offen in `doc/31-plan-band-2.md`.
+198. **Ahn Jung-hees erster freier Satz nach dem Gang aus dem Haus ist eine erledigte Sache ueber jemand anderen:** *"The kettle is on the second shelf. I moved it on Thursday because they took the counter."* **Drei ihrer vier Aeusserungen an dem Tag handeln von Moon Hae-sook**, und die vierte ist ihre erste Frage seit dem Gang aus dem Haus. Ihre fruehere Frage an Sim am 27. August bleibt bestehen.
 199. **Moon Hae-sooks erster Satz in dem Haus ist eine Zugluft:** *"There is a draught under this door. It is cold on the left ankle and not the right one."* Und der Grund fuer ihr Nichtfragen: *"Eleven years have taught her that a question produces a lie."*
 200. **Sims einzige Frage seines Lebens:** *"Was I good at it."* - *"You were the best I have ever seen."* - **"No. It is the bill."**
 201. **Mrs Sunwoo:** *"You have not told me the part where you did something clever."* - *"There is not one."* - *"No. There is not, and I have been waiting for it for fifty minutes, and I want you to notice that I had to wait."*
@@ -13023,7 +12998,7 @@ gegengeprüft.*
 | **68** *(jetzt zweite Haelfte von 67)* | *What he was for* | **Tragend.** Sims Wende, sein Ausstieg, der 14. September | HALTEN |
 | **69** | *The call he did not take* | **Tragend.** Zwei überfällige Zusagen bezahlt, Kwon in der Auffahrt, Annies Diagnose | HALTEN |
 | **70** | *Nothing to bring* | **Tragend.** Mr Ahn liest den Satz, die Zusage aus 59 bezahlt, der Ventilator angelegt | HALTEN |
-| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die signierte Seite vom 15. Juni; Annie liest sie. Zwei spaetere Rueckblicke sagen noch 14. Juni und nennen Georgij faelschlich den einzigen weiteren Leser, siehe `doc/31-plan-band-2.md` | STRAFFEN |
+| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die signierte Seite vom 15. Juni; Annie liest sie. Die spaeteren Rueckblicke fuehren dasselbe Datum und Mrs Jeon, Georgij und Annie als Wissenskette | STRAFFEN |
 | **72** | *The fourteenth* | **Tragend.** November, der Namensdank, Register B 8 | HALTEN |
 | **73** | *What the month is for* | Die Umkehrung der Lesart, die vier Tatsachen, der Auftrag an Sim | STRAFFEN |
 | **74** | *Forty-one seconds* | **Tragend.** Sims Zählung, die Entlastung, die zweite Frau, und sie fragt | STRAFFEN |
@@ -13035,7 +13010,7 @@ gegengeprüft.*
 | **80** | *The only door* | Das Geld, Mr Hwang als einzige Tür, die Regel des Bandes | STRAFFEN |
 | **81** | *The permanent series* | **Tragend.** Hwangs Zusage, der Preis in der permanenten Reihe, und die Antwort auf Moon Hae-sook: nichts | HALTEN |
 | **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig vierteljaehrlichen Freigaben, Annies Ja nach sieben Tagen Suche | HALTEN |
-| **83** | *Twenty-three days* | **Tragend.** Zwei Zusagen aus 71 bezahlt, der Name in drei Teilen, und der Preis, den Mrs Jeon dafuer zahlt | HALTEN |
+| **83** | *The fourth thing* | **Tragend.** Zwei Zusagen aus 71 bezahlt, der Name in drei Teilen, und der Preis: Mrs Jeon macht ihre gerade erst messbare Anerkennung fuer eine Weile wieder unsicher | HALTEN |
 | **84** | *The consignor of record* | **Tragend.** Mr Ahn ist der Einzige, der unterschreiben kann, und tut es auf der Rueckseite seiner eigenen Unterschrift von vor vier Jahren | HALTEN |
 | **85** | *They did not argue about it* | **Tragend.** Die Annahme in unter einem Tag, das Fahrangebot und seine Ablehnung, der Termin | HALTEN |
 | **86** | *The second of November* | **Tragend. Der Tag.** Ahn Jung-hee spricht zum ersten Mal frei, und Moon Hae-sook bleibt im Haus | HALTEN |
@@ -17108,703 +17083,6 @@ not a headcount. Kitchens over-order."* **Er hat die Schwäche seiner eigenen
 Zahl gekannt und trotzdem nicht weit genug gefragt.**
 
 ---
-
-## Offen nach dem Kontinuitaetsdurchgang vom 01.09.2026
-
-**Der Manuskripttext ist an diesen Stellen noch unveraendert.** Die Funde sind
-hier festgehalten, bis die ausformulierten Aenderungen vorgelegt und vom Autor
-freigegeben sind.
-
-1. **`b2 ch60:112`, Baeks Unterschriften seit dem 2. Juni.** Bei
-   vierteljaehrlicher Sauerstoffzahlung liegen zwischen dem 2. Juni und dem
-   15. Oktober nur die Termine im Juni und September. *"I have signed four more
-   since the second of June"* muss deshalb auf **zwei** spaetere Unterschriften
-   gestellt werden; die Gesamtzahl vierundvierzig bleibt richtig.
-2. **`b2 ch65:104-156`, Besitz des Trust-Files.** Baek kuendigt an, Georgij die
-   Akte zu geben und nicht weiter selbst zu halten. Er legt sie auf den Tisch,
-   schiebt sie aber nicht hin, und die Szene endet ohne Uebergabe oder
-   Ruecknahme. In `b2 ch81` liegt dieselbe Akte wieder in Baeks Schrank. Der
-   sauberste Anschluss ist: Akte nur zur Einsicht oeffnen, *holding it alone*
-   beenden und vor dem Aufstehen ausdruecklich wieder in den Koffer legen.
-3. **`b2 ch66:46`, erste Stunde.** Am Donnerstag, dem 5. November, liegt Mrs
-   Jeons Vorlesen des Instruments nicht vier Tage, sondern **einen Tag** zurueck
-   (`b2 ch65`, Mittwoch, 4. November). *"four days ago"* muss *"yesterday"*
-   werden.
-4. **`b2 ch66:120-204`, Fahrt am 6. November.** Abfahrt um sieben erzeugt bei
-   Rueckkehr um 16:40 und knapp zwei Stunden im Haus eine nicht beabsichtigte
-   Hinfahrt von mehr als fuenf Stunden. Abfahrt um **neun** stellt die im Text
-   vorausgesetzte Strecke wieder her. Dazu gehoert in `:148` **route** statt
-   **coast** und in `:204` **four days** statt **six days**; Ahn Jung-hee kam am
-   Montag, dem 2. November, frei.
-5. **`b2 ch66:248`, Samstag, 7. November.** Seit Montag ist Ahn Jung-hee
-   **fuenf**, nicht sechs Tage aus dem Haus.
-6. **`b2 ch66:262`, Ort und Fahrzeuge am 2. November.** Die Szene spielt im Hof
-   ausserhalb von Wonju. Ahn Jung-hee steht im Hof; Georgij sitzt im einzigen
-   Wagen und steigt nicht aus. Incheon, die Frau im Wagen und der zweite Wagen
-   gehoeren nicht zu `b2 ch64`.
-7. **`b2 ch73:6,66,178`, Nams Hof.** Im Dezember kann dort kein eigener Lastwagen
-   mehr stehen: Zwei wurden am 23. und 24. April verkauft, die letzten beiden
-   bis Mitte Mai (`b2 ch18`, `b2 ch20`, `b2 ch21`, spaeter bestaetigt in
-   `b2 ch79`). Der Hof muss an allen drei Stellen leer sein.
-8. **`b2 ch18:150`, Chois Jahresfrist.** Georgij verspricht Nam am 30. April,
-   Choi *"before the end of the year"* zu haben. Choi stirbt erst im folgenden
-   April. `b2 ch89` und `b2 ch90` behandeln Tat und Folge, aber der Text bemerkt
-   die um gut drei Monate verfehlte Frist nicht. Entweder muss die urspruengliche
-   Frist anders lauten oder der spaetere Text den Fristbruch ausdruecklich
-   mittragen; still als bezahlt darf die Zusage nicht gelten.
-9. **`b2 ch23:76-86` gegen `b2 ch87:348`, Kauf der fuenf Firmen.** Kapitel 23
-   zeigt die erste Unterschrift am Montag, dem 18. Mai; Kapitel 19 hat das
-   Marktfenster zuvor auf Mitte Mai bis Mitte Juni gelegt. Kapitel 87 behauptet
-   dagegen, Annie habe alle fuenf im November gekauft. B2 79 bestaetigt nur den
-   vollstaendigen Registerkauf, nicht dessen Monat. Der kleinste Eingriff ist,
-   in B2 87 **in November** durch eine Rueckschau auf den Mai-Juni-Abschluss zu
-   ersetzen.
-10. **`b2 ch89:92` gegen `b2 ch89:110`, Ahns Tassen.** Sie kann nicht seit dem
-    2. November persoenlich jede Tasse um elf und vier gebracht haben und im
-    April zugleich drei Tage bei ihrem Bruder geblieben sein. B2 80 hat die
-    tragende, genaue Fassung bereits: *"the woman who brings it in has been free
-    since the second of November and brings it anyway"*. Kapitel 89 sollte
-    **and she has not missed one** auf **and brings it anyway** zurueckstellen.
-11. **`b2 ch89:120` gegen `b2 ch61:166`, Mrs Jeons Prognose.** Sie sagt am
-    Freitag, dem 23. Oktober, der Neffe werde im Januar nicht mehr glauben, er
-    schulde ihr etwas fuer die Abgabe. Kapitel 89 behauptet faelschlich, sie
-    habe das im November gesagt. Dass es schon im November statt im Januar
-    eintritt, ist als fruehe Einloesung ausdruecklich erzaehlt und kein Fehler;
-    nur **She said in November** muss **She said in October** heissen.
-12. **`b2 ch89:142` gegen `b2 ch80:238` und `b2 ch83:238`, Moons zwei Bitten.**
-    Von den zweiundsechzig Hochzeitsgaesten sind vier bereits geklaert und
-    achtundfuenfzig offen. *"The second of the two is the one she has been
-    answered on"* behauptet zu absolut, nur die Bitte wegen des Bandes sei
-    beantwortet. **the only one she has been answered on completely** behaelt
-    den Unterschied zwischen abgeschlossener und teilweise bezahlter Bitte.
-13. **`b2 ch90:68`, die vier Kollateralschaeden.** Zwei Praesensbehauptungen
-    stehen gegen den eigenen Kanon. Nam hat ihre vier Lastwagen bis Mitte Mai
-    des Vorjahres verkauft (`b2 ch18`, `b2 ch20`, `b2 ch79`), und die
-    **dreissig Jahre** bezeichnen durchgehend Hwangs permanente Serie, nicht das
-    Alter des Auktionshauses (`b2 ch07`, `b2 ch10`, `b2 ch87`). Das Haus
-    existierte nachweislich schon 1988. Der sauberste Ersatz fuer die ersten
-    beiden Saetze der Aufzaehlung ist: *"There was a woman in Ulsan with four
-    trucks. There was an auction house on that river with thirty years of
-    records."* Das stellt Nam in den historischen Moment und haengt die Zahl an
-    den richtigen Gegenstand.
-14. **`b2 ch83:16` gegen `b2 ch59:14`, Hwangs Besuchszaehlung.** Hwang sagt im
-    Oktober selbst, Georgij sei zuletzt am 11. Juni um 14:20 Uhr in dem Gebaeude
-    gewesen. Im Februar kann er deshalb nicht behaupten, Georgij sei viermal in
-    dem Gebaeude gewesen und jedes Mal um neun gekommen. Die anschliessende
-    Rechnung traegt dagegen: `b2 ch83:224` nennt den 1. Maerz den fuenften
-    direkten Besuch bei Hwang. Der kleinste Eingriff ist **You have come to see
-    me four times and every one of them has been at nine** statt **You have been
-    in this building four times and every one of them has been at nine**. Damit
-    bleibt der separate Nachmittagsbesuch im Gebaeude ausserhalb der vier
-    Gespraeche.
-15. **`b2 ch26:350-352`, Vorausblende auf Hwangs Stuehle.** Kapitel 26 spielt
-    am Donnerstag, dem 28. Mai. Die beiden kursiven Saetze behandeln jedoch die
-    Lieferung am Dienstag, dem 2. Juni, und Hwangs Sitzen am 3. Juni bereits als
-    Vergangenheit: *"It went on the Tuesday"* und *"He sat in one of them on
-    the third of June"*. `b2 ch59:150-158` bestaetigt beide spaeteren Daten.
-    Wenn die Stelle als Vorausblende bleiben soll, muss sie auch grammatisch als
-    solche markiert werden: **It will go on the Tuesday** und **He will sit in
-    one of them on the third of June**. Alternativ kann die Vorausblende hier
-    entfallen, weil Kapitel 59 die ganze Einloesung bereits traegt.
-16. **`b2 ch35:196-292` und `b2 ch87:356` gegen `b2 ch61`, Mrs Jeons
-    Arbeitsbeginn in Gwangyang.** Kapitel 35 setzt ihren ersten Arbeitstag
-    ausdruecklich auf Montag, den 15. Juni: Brief und Poststempel tragen diesen
-    Tag, der Erzaehler nennt ihn *"Her first morning at a desk"*, Georgij sagt
-    *"She started today"*, und Annie berichtet vom selben ersten Vormittag.
-    Kapitel 87 bestaetigt spaeter, sie fuehre die Settlement-Funktion **since
-    June**. Kapitel 61 baut dagegen die gesamte Szene am 23. Oktober auf einen
-    Beginn am 1. Oktober: Schild seit dem 9. Oktober in ihrer zweiten Woche,
-    dreiundzwanzig Tage im Betrieb, Fund in der dritten Woche, ein Betrieb mit
-    drei Wochen Settlement, *"In October I came"*, die Zusage in der vierten
-    Woche und selbst der Kapiteltitel *Twenty-three days*. Beide Fassungen
-    koennen nicht zugleich gelten. **Die Entscheidung darf deshalb nicht als
-    einzelner Monatsersatz behandelt werden:** Juni verlangt einen Umbau der
-    Zeit- und Preisarchitektur in Kapitel 61; Oktober verlangt den Umbau der
-    zweiten Haelfte von Kapitel 35 sowie **since June** in Kapitel 87. Der
-    Kalender markiert beide Daten bis zur Manuskriptfreigabe als offen.
-17. **`b2 ch35:196-252` gegen `b2 ch59:260` und `b2 ch83:292`, Mrs Jeons
-    Brief an Hwang.** Die signierte Seite selbst traegt **15 June**. Kapitel 35
-    nennt den 15. Juni ihren ersten Arbeitstag, sagt, sie habe das Blatt an
-    diesem Morgen geschrieben, und laesst denselben Brief mit
-    Gwangyang-Poststempel schon um neun Uhr in Seoul in Mrs Seos Morgenpost
-    liegen. Das ist raeumlich nicht moeglich. Kapitel 59 und 83 nennen das
-    Datum zudem zweimal den **fourteenth of June**. Der kleinste saubere Ablauf
-    erhaelt die eigenhaendige Datierung: Mrs Jeon schreibt am Montag, dem 15.;
-    der zweite Tageskopf in Kapitel 35 wird auf Dienstag, den 16. Juni, gestellt
-    und Mrs Seos Wochentag mitgezogen; beide spaeteren Rueckblicke werden
-    **fifteenth of June**. Kapitel 36 beginnt erst am Mittwoch, dem 17., die
-    Korrektur erzeugt also keine Kapitelueberschneidung.
-18. **`b2 ch07:76-98`, Nams Einschreibebrief aus Ulsan.** Kapitel 7 spielt am
-    Mittwoch, dem 18. Maerz. Der Brief ist auf denselben Tag datiert, sagt
-    ausdruecklich *"I am writing to you on the eighteenth"* und wird laut
-    `b2 ch12:62` sowie `b2 ch87:336` eingeschrieben versandt. Trotzdem liegt er
-    bei Georgijs Rueckkehr um 14:10 Uhr schon in Seoul auf Annies Tisch. Ein am
-    selben Morgen in Ulsan geschriebener Einschreibebrief kann dort nicht am
-    selben Nachmittag angekommen sein. **Die Daten sollten nicht verschoben
-    werden:** Der 18. Maerz traegt in Kapitel 12 den Titel und die genaue Formel
-    *sixteen days* und in Kapitel 87 *a year ago today*. Der kleinste Eingriff
-    ist deshalb der Transportweg: In Kapitel 12 und 87 wird aus dem
-    Einschreiben ein am Morgen aufgegebener Kurierbrief gegen Empfangsnachweis.
-    Damit bleiben Schriftstueck, Belegbarkeit und alle drei Datumsanker erhalten.
-19. **`b2 ch59:260` und `b2 ch83:292` gegen `b2 ch35:258-280`, die Leser von
-    Mrs Jeons Seite.** Georgij legt Annie das Blatt ausdruecklich vor. Sie liest
-    es vollstaendig, zitiert *"He was correct about the desk. He was wrong about
-    the book"* und deutet beide Saetze. Trotzdem sagt Georgij spaeter zweimal,
-    er sei ausser Mrs Jeon der einzige Mensch, der es gelesen habe. Das ist
-    falsch; Hwang ist der einzige, dem der Inhalt vorenthalten wird. An beiden
-    spaeteren Stellen muss die Exklusivitaet deshalb enger gefasst werden, etwa:
-    **Annie and I are the only people other than the woman who wrote it who
-    have read it.** Datum und Leserzahl sind getrennte Fehler und muessen bei
-    der spaeteren Manuskriptkorrektur beide mitgenommen werden.
-20. **`b2 ch64:104` gegen `b2 ch56:70,132,270` und `b2 ch57:116-120,256-286`,
-    Ahn Jung-hees erste Worte.** Beim Verlassen des Hauses nennt der Erzaehler
-    ihren Satz im Hof *"the first thing she has said to anybody outside that
-    house in four years"*. Sie hat in diesen vier Jahren jedoch regelmaessig
-    mit Sim telefoniert: viermal jaehrlich ueber Heizung und Reparaturen. Im
-    letzten dieser Gespraeche antwortet sie mehrfach und fragt selbst, ob er
-    wegen des Dachs wieder anrufen werde. Der spaetere Absolutsatz loescht
-    diese fuer ihre Handlungsfaehigkeit wichtige Verbindung. Der kleinste
-    Ersatz bindet die Premiere nur an den gerade vollzogenen Ausgang:
-    **Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the
-    other, which took about a second, and said the first thing she had said
-    since she walked out of the house.**
-21. **`b2 ch81:122-138` gegen `b2 ch47:92`, Chois angeblich erster Brief.**
-    Baek sagt zuerst, die Weiterleitungsadresse habe in elf Jahren vier Dinge
-    an Choi weitergeleitet und alle vier seien von ihm gewesen. Die fruehere
-    Trust-Szene bestaetigt, dass Baek mit Chois Vertreter schriftlich verkehrt
-    hat. Unmittelbar danach nennt Georgij den neuen Brief trotzdem *"the first
-    letter anybody has ever sent him"* und *"the first thing that arrives at
-    him"*. Beides kann nach den vier frueheren Sendungen nicht stimmen. Das
-    Neue und fuer die Szene Tragende ist die verlangte Antwort: Zum ersten Mal
-    soll Choi selbst eine Anweisung und damit seine Begruendung auf Papier
-    setzen. Der kleinste Eingriff ist deshalb **That is the first letter anybody
-    has ever sent him that requires an answer** und spaeter **That letter is
-    going to be the first thing that arrives at him and asks him to put himself
-    on paper.**
-22. **`b2 ch81:192,254` gegen `b2 ch60:64`, Baeks Berufsjahre.** Kapitel 60
-    legt den Berufsbeginn auf 1994. Die dort und in Kapitel 65 genannten
-    einunddreissig Jahre sind im Oktober/November 2026 moeglich, wenn Baek Ende
-    1994 angefangen hat. Kapitel 81 spielt jedoch am 8. Februar 2027; selbst
-    bei einem Beginn am 31. Dezember 1994 arbeitet er dann seit mehr als
-    zweiunddreissig Jahren. *"I have been arranging other people's silences for
-    thirty-one years"* muss deshalb **thirty-two years** werden. Die im selben
-    Kapitel genannten einunddreissig Jahre Bekanntschaft mit dem Mann von der
-    Law Society sind eine getrennte Spanne und koennen stehenbleiben.
-23. **`b2 ch80:338` und `b2 ch83:310` gegen `b2 ch26:98` und `b2 ch35:224`,
-    Mrs Jeons Gang in den dritten Stock.** Mrs Jeon brachte Mr Hwang ihr Heft
-    am 9. Januar 2026. Kapitel 26 erzaehlt den Vorgang am 28. Mai desselben
-    Jahres als etwas, ueber das sie seither jeden Tag nachgedacht hat; Kapitel
-    35 haelt den 9. Januar in ihrer eigenen unterschriebenen Darstellung fest.
-    Kapitel 80 spielt am 4. Februar 2027 und nennt den Gang trotzdem *"in
-    January four years ago"*; Kapitel 83 wiederholt am 25. Februar bzw. 1.
-    Maerz 2027 *"on the ninth of January four years ago"*. Damit wird ein
-    dreizehn bis vierzehn Monate alter Vorgang irrtuemlich nach Januar 2023
-    verschoben. Das Heft selbst reicht dreiundzwanzig Jahre zurueck und enthaelt
-    Eintraege von vor vier Jahren; **sein Weg zu Hwang tut es nicht.** Die
-    kleinsten Korrekturen sind in Kapitel 80 **in January last year** und in
-    Kapitel 83 **on the ninth of January last year**.
-24. **`b2 ch89:36-40` gegen `b2 ch75:226-310`, der Zeitraum von Mr Ims
-    Essen.** Der Epilog stellt die folgenden kleinen Wirkungen unter die
-    Zeitklammer *"Between the nineteenth of March and the end of April"*. Die
-    erste aufgezaehlte Kette beginnt aber davor: Mr Im kuendigt am 30. Dezember
-    an, seinen seit dreissig Jahren bekannten Bekannten anzurufen; danach isst
-    er mit ihm und im Februar mit zwei weiteren Maennern. Nur das vierte Essen
-    liegt im April. Die Kette selbst ist stimmig, die einleitende Zeitklammer
-    nicht. Der kleinste Eingriff ist **Between January and the end of April a
-    great many small things happened...**; damit umfasst sie alle vier Essen
-    und auch die uebrigen aufgelisteten Folgen.
-25. **`b2 ch87:428-444`, die fuenf Wissenden und die siebzehn uebrigen
-    Kaeufer.** Die Fuenferliste selbst ist stimmig: Chairman Woo und Mrs
-    Sunwoo sind die beiden Genannten, die am 4. Oktober zugleich unter den
-    neunzehn Kaeufern waren (`b1 ch01`, `b1 ch07`); Sang-hoon, Mr Yeom und Hana
-    erfahren Annies Anteil spaeter. Hwang, Mrs Jeon und Sim kennen dagegen nur
-    Teilstuecke oder Folgen. Die anschliessende Rechnung ist jedoch um eins zu
-    gross. Annie war selbst eine der neunzehn. Neben ihr und den zwei
-    Fuenferlisten-Kaeufern bleiben deshalb nur **sechzehn** weitere Zeugen, die
-    mit ihr im Raum sassen und ihr Gebot sahen: 19 - 1 - 2 = 16. In
-    **The other seventeen sat with you** und **Not one of the seventeen can put
-    a piece of paper next to it** muss **seventeen** jeweils **sixteen** werden.
-26. **`b2 ch87:182-194`, die angeblich anderthalb Stunden bleibenden
-    sechsundzwanzig Gaeste.** Choi steigt um 21:56 Uhr in sein Auto. Danach
-    behauptet der Erzaehler, alle sechsundzwanzig anderen Gaeste seien noch
-    anderthalb Stunden geblieben. Der unmittelbar folgende Absatz nennt Mr
-    Koh jedoch als ersten Abgang um 22:10 Uhr; Woo geht um 22:30 Uhr, weitere
-    folgen um 23:00 und 23:15 Uhr, nur Nam bleibt bis 23:20 Uhr. Auch das Ende
-    um 23:20 Uhr liegt nur ungefaehr, nicht voll, anderthalb Stunden nach Chois
-    Abfahrt. Die Szene braucht die kollektive Fortsetzung des Essens, nicht
-    identische Abfahrtszeiten. Der kleinste praezise Ersatz ist deshalb:
-    **Twenty-six people stayed. The last of them left about an hour and a half
-    after he had gone, and they were given coffee.**
-27. **`b2 ch88:114-214,298-300,442-444` gegen `b2 ch89:6-24` und `b2
-    ch90:42-52`, Georgijs Wissen um Chois Tod.** Georgij sagt am Ende von
-    Kapitel 88 selbst, er koenne nun beweisen, dass Choi nicht mehr lebt. Der
-    Beleg ist Baeks zurueckgekommener Brief: Choi starb am 8. April. Kapitel 90
-    geht noch weiter und laesst Georgij sagen, er habe seit dem 9. April um
-    elf Uhr gewusst, dass er ihn getoetet habe. Trotzdem gibt er Sim am 1. Mai
-    nach einem angeblich vollstaendigen Bericht nur **he has not been seen
-    since the eighth of April** und sagt Mr Ok am 4. Mai sogar **I do not know
-    where he is**. Als technische Aussagen ueber Sichtung und Aufenthaltsort
-    lassen sich beide Saetze retten; als Abschlussabrechnung eines Mannes, der
-    nichts auslaesst und nichts Unwahres sagt, sind sie bewusst irrefuehrend.
-    Die kleinste saubere Loesung nennt Sim und Ok den belegten Tod, behaelt aber
-    die fuer Annies Szene entscheidende Trennung: Nur Annie hoert **I killed
-    him**. Gegenueber Sim kann die offene Frage lauten, ob die zwei verpassten
-    Anrufe und **his death** dieselbe Ursache haben; gegenueber Ok genuegt **He
-    died on the eighth of April. I do not know whose hand it was and nobody has
-    looked.**
-
-28. **`b2 ch80:252-256,320`, die Abholung von Mrs Has neun Kisten.** Der
-    Tageskopf setzt die Abholung auf Donnerstag, den 4. Februar 2027; die
-    spaetere Notiz bestaetigt ausdruecklich **the fourth of February**. Der
-    dazwischenstehende Satz behauptet jedoch, die Maenner haetten die Kisten
-    **in January** die Aussentreppe hinuntergetragen. Die Abholung fand nicht
-    im Januar statt. Der einzelne Monatsname muss **in February** werden.
-29. **`b2 ch89:130` gegen `b2 ch80:4-18,252-264`, Mrs Has Anrufzaehlung.** Am
-    18. Januar ruft sie erstmals die Nummer an, die Georgij ihr im Dezember
-    hinterlassen hat. Am 4. Februar ruft sie nach der Abholung erneut im Haus
-    an; Georgij nimmt den Anruf im Gang hinter der Kueche entgegen. Der Anruf
-    im Maerz kann deshalb nicht *the second time she has used the number* sein,
-    sondern ist mindestens der dritte. Da beide frueheren Anrufe im Text
-    einzeln belegt sind, ist der kleinste Ersatz **it is the third time she has
-    used the number**.
-
-30. **`b2 ch89:18` gegen `b2 ch81:4,258`, Baeks erste Aufforderung an
-    Choi.** Kapitel 81 setzt das Gespraech mit Baek auf Montag, den 8. Februar,
-    und laesst den Brief am folgenden Mittwoch, dem 10. Februar, per Hand an
-    Chois Weiterleitungsadresse gehen. Kapitel 89 behauptet dagegen, Baek habe
-    erstmals **in March** wegen der Aussetzung geschrieben und am 2. April nur
-    deshalb erneut geschrieben, um zwei unbeantwortete Aufforderungen belegen
-    zu koennen. Beides beschreibt dieselbe erste Aufforderung; ein zusaetzlicher
-    Maerzbrief ist nirgends angelegt und wuerde aus dem Aprilbrief die dritte
-    machen. Der einzelne Monatsname in Kapitel 89 muss deshalb **He wrote in
-    February about the suspension** lauten.
-
-31. **`b2 ch85:264-348`, `b2 ch86:14-42,214,436-456` und `b2
-    ch87:14-178`, die Uhr im kleinen Zimmer.** Mrs Seo holt Choi um 21:30 Uhr
-    vom Tisch. Georgij betritt das kleine Zimmer um 21:35 Uhr; Kapitel 86 setzt
-    das Hinsetzen beider Maenner auf 21:40 Uhr und behauptet danach noch eine
-    halbe Stunde, in der keiner den gedeckten Tisch anspricht. Spaeter im selben
-    Kapitel soll der Tisch jedoch erst seit einer Viertelstunde gedeckt sein.
-    Kapitel 87 zeigt Georgij ausserdem schon um genau 21:40 Uhr wieder im
-    Speisesaal, schickt Mrs Seo um 21:50 Uhr zurueck und laesst Choi um 21:56
-    Uhr abfahren. Das ist bereits als reine Uhrfolge unmoeglich; die 1.916
-    Woerter direkter Rede in Kapitel 86 koennen zudem nicht zwischen Eintritt
-    und gleichzeitiger Rueckkehr liegen. **Hier reicht kein einzelner
-    Zeitersatz.** Der kleinste geschlossene Takt behaelt Eintritt und Hinsetzen
-    in Kapitel 86, macht aus *the next half hour* **the next ten minutes** und
-    verschiebt in Kapitel 87 die Rueckkehr auf 21:50 Uhr, den Datensatz am Tisch
-    auf etwa 21:55 Uhr, Mrs Seos Gang auf 22:00 Uhr und Chois Abfahrt auf 22:06
-    Uhr. Damit ist der Tisch an der spaeteren Stelle seit genau einer
-    Viertelstunde gedeckt. Die ausdruecklich gesetzten elf Minuten bleiben
-    ebenfalls erhalten; Mr Kohs Abgang um 22:10 Uhr ist weiterhin moeglich.
-32. **`b2 ch86:404` gegen `b2 ch85:214-246` und `b2 ch87:14-124`, der
-    Erkenntnisstand der sechsundzwanzig.** Georgij behauptet im kleinen Zimmer,
-    bereits um etwa 21:15 Uhr habe jeder der sechsundzwanzig verstanden, was
-    die anderen fuenfundzwanzig mit ihm gemeinsam haben. Der erste Satz ueber
-    Chois Nichtessen faellt aber erst um 21:11 Uhr und erreicht in Kapitel 85
-    zunaechst nur einen Teil des Tisches. Kapitel 87 zaehlt spaeter
-    zweiundzwanzig, die aufgehoert haben zu essen; vier spaet Gekommene haben
-    noch nichts bemerkt und sind selbst bei Chois Gang erst drei Viertel weit.
-    Der Satz muss deshalb den in der Szene bereits gezaehlten Stand tragen,
-    etwa: **There are twenty-six people at that table, and most of them have
-    worked out what the other twenty-five have in common. Four are still
-    getting there. Nobody has said your name. Nobody is going to.**
-
-33. **`b2 ch87:58` gegen `b2 ch87:102`, die Menschen im Speisesaal.** Auf
-    demselben elf Meter langen Gang zur Halle nennt der Erzaehler zuerst
-    ausdruecklich **twenty-six people** im Speisesaal. Vierundvierzig Zeilen
-    spaeter geht Choi an Nam in einem Raum mit **forty people** vorbei. Es ist
-    weiterhin derselbe Gang, niemand kommt hinzu, und selbst die gesamte
-    sichtbare Besetzung aus sechsundzwanzig Betroffenen, Annie, Choi, Georgij
-    und Mrs Seo ergäbe nur dreissig. Die Vierzig ist deshalb weder die
-    Einladungsliste noch plausibel eingerechnetes Personal, sondern ein
-    unmittelbarer Binnenwiderspruch. Weil der Absatz Nam und nicht die
-    Raumzaehlung traegt, ist der sicherste Ersatz ohne neue Grenzziehung:
-    **Georgij was eleven feet away and watched a man of sixty walk past a woman
-    he chose in January, in a room full of people, because she was described to
-    him as honest.**
-34. **`b2 ch90:52` gegen `b2 ch89:14-22`, Georgijs Kenntnis von Chois Tod.**
-    Georgij sagt Annie, er wisse seit dem 9. April gegen elf Uhr, dass er Choi
-    getoetet habe. Zu diesem Zeitpunkt hat im erzaehlten Ablauf jedoch noch
-    niemand Chois Tod festgestellt. Baeks zweite Aufforderung kommt erst am
-    **20. April** mit dem Vermerk *gone away* zurueck; erst sein anschliessender
-    Anruf bei der weiterleitenden Kanzlei ergibt, dass Choi am 8. April
-    gestorben ist. Ein unabhaengiger Erkenntnisweg am 9. April wird nirgends
-    gezeigt oder spaeter genannt. Die psychologische Folge der Szene bleibt
-    mit dem belegten Kenntnistag unveraendert: **I have known that since the
-    twentieth of April.** Er schlaeft danach noch im April und bricht erst in
-    der ersten Maiwoche ein, genau wie der anschliessende Dialog es verlangt.
-35. **`b2 ch81:26,282-286`, wer die Trusturkunde gelesen hat.** Baek sagt zu
-    Beginn des Kapitels ausdruecklich, er habe die Urkunde am 14. Januar offen
-    vor sich gehabt und zum ersten Mal seit 2016 gelesen. Am Ende schreibt
-    Georgij trotzdem absolut: *nobody in eleven years has read the deed*, und
-    nennt gerade Baek als ersten Beleg dafuer. Der folgende Satz verschiebt
-    zudem Baeks Unterschrift vom richtigen Gegenstand: Er unterschrieb
-    fuenfundvierzig **Zahlungen unter der Urkunde**, nicht die Urkunde
-    fuenfundvierzigmal. Der Gedanke traegt, sobald die lange ungelesene Spanne
-    statt der Gegenwart behauptet wird: **For nearly eleven years nobody read
-    the deed. Not the solicitor who signed forty-five quarterly authorisations
-    under it. Not the man who had read the draft and given the two corrections in
-    twenty minutes in March, because he was not building a document, he was
-    building a room he never had to enter.**
-36. **`b2 ch60:108-112,240`, `b2 ch65:104` und `b2 ch81:26`, Zahlungen gegen
-    Freigaben im Trust.** Kapitel 60 definiert zwei laufende Zahlungsreihen:
-    eine quartalsweise an den Sauerstofflieferanten und eine monatliche an die
-    Praxis. Ueber elf Jahre koennen deren tatsaechliche Zahlungen deshalb nicht
-    insgesamt vierundvierzig betragen. Vierundvierzig ist die unmittelbar
-    davor hergeleitete Zahl von Baeks **vierteljaehrlichen Unterschriften**;
-    nach der Dezemberfreigabe sind es in Kapitel 81 folgerichtig
-    fuenfundvierzig. Der Ablauf und die Rechnung sind damit richtig, aber der
-    Text nennt die Freigaben spaeter faelschlich *payments*. In Kapitel 60 und
-    65 muss **signed forty-four payments** zu **signed forty-four quarterly
-    authorisations** werden; in Kapitel 81 muss **forty-five payments** zu
-    **forty-five quarterly authorisations** werden. Die zwei *standing
-    payments* in Kapitel 81 bleiben bestehen: Das sind die zwei laufenden
-    Zahlungsanweisungen, nicht die Zahl ihrer Ausfuehrungen.
-37. **`b2 ch41:187-225`, `b2 ch55:172` und `b2 ch59:200` gegen `b2
-    ch64:162` und `b2 ch68:94,196`, der Liefertakt des Sauerstoffs.** Die vier
-    Jahre Bestellungen sind in Kapitel 41 einzeln datiert: anfangs liegen rund
-    dreissig Tage dazwischen, zuletzt neun bis zwoelf. Jede Bestellung beginnt
-    damit, dass jemand den Tank prueft und anruft. Kapitel 55 nennt daraus
-    gerundet Sauerstoff alle elf Tage; Hwang bestaetigt in Kapitel 59 den
-    Rueckgang von dreissig auf elf Tage. Kapitel 64 macht daraus ploetzlich eine
-    Lieferung am zweiten Dienstag, und Kapitel 68 erklaert den zweiten Dienstag
-    sogar ausdruecklich zum monatlichen Dauertermin. Beide Takte koennen nicht
-    zugleich gelten. Der schrumpfende Bedarf ist als Ermittlungsspur und als
-    Zeichen von Moon Hae-sooks Zustand gebaut und muss deshalb fuehrend bleiben.
-    Die kleinste geschlossene Korrektur laesst den 8. Dezember als konkretes
-    Datum und den Kapiteltitel stehen, aendert aber drei Saetze:
-    **the medical gas was due again in nine days** in Kapitel 64; **the change I
-    signed took effect with today's delivery** statt *because it is the second
-    Tuesday* in Kapitel 68; und **it will go on arriving whenever the tanks run
-    low until one of them is dead** statt des monatlichen zweiten Dienstags.
-    *The second Tuesday in December* am Kapitelschluss bezeichnet danach weiter
-    den Tag, nicht den Rhythmus. Quartalsfreigabe und monatliche Praxiszahlung
-    des Trusts sind davon getrennte Geldtakte und bleiben unberuehrt.
-38. **`b2 ch30:138` gegen `b2 ch35:240-300` und `b2 ch87:356`, Mrs Jeons
-    angekuendigte Annahme vom Sohn.** Am 2. Juni sagt Mrs Jeon bestimmt, ihr Sohn
-    werde ihr im Juli ein Angebot machen und sie werde es annehmen. Zwei Wochen
-    spaeter beginnt sie stattdessen die Settlement-Stelle in Gwangyang; Kapitel
-    87 bestaetigt, dass sie diese Funktion seit Juni weiterfuehrt. Das ist nicht
-    nur eine ausgelassene Annahmeszene: Die spaetere Berufsentscheidung ersetzt
-    die Zukunft, die sie selbst angekuendigt hat, ohne dass der Text den Wechsel
-    bemerkt. Der Satz in Kapitel 30 soll bleiben, weil er zeigt, wie wenig Wahl
-    sie in diesem Moment bei sich sieht. Die kleinste Einloesung steht deshalb
-    in Kapitel 35 unmittelbar nach **She started today**: **The son who was
-    going to offer in July had not offered yet. She had not waited for him.**
-    Damit wird Gwangyang zu ihrer geaenderten Entscheidung und nicht zur stillen
-    Tilgung ihres eigenen Satzes.
-39. **`b2 ch19:116-148` und der heutige Kanon danach, Annies fuenf
-    Schuldentlassungen.** Annie weist Georgij an, allen fuenf Maennern zu sagen,
-    sie schuldeten ihr nichts. Georgij vertagt es mit *It will keep*, und Annie
-    nimmt genau diese Vertagung auf. In den kanonischen Kapiteln wird spaeter
-    keiner der fuenf unterrichtet. Die fruehere Kwon-Szene und vier Briefe
-    existieren nur in geloeschten Fassungen und duerfen nicht als Einloesung
-    gelten. Der Faden kann Band 3 tragen, aber Band 2 muss wissen, dass er offen
-    ist. Der kleinste Anschluss gehoert in das Folgenregister von Kapitel 89:
-    **The five men on the Ulsan lane still believe they owe her. On the
-    thirtieth of April Georgij said it would keep, and it has.** Damit wird
-    Annies Auftrag nicht falsch bezahlt, sondern Georgijs liegen gelassene
-    Schuld ehrlich im Text gehalten.
-40. **`b2 ch82:18-20` gegen `b2 ch80-81`, Annies zweites Mal im Februar.**
-    Am 12. Februar sagt Annie, Georgij habe ihr *that* zum zweiten Mal in
-    diesem Monat angetan: Er legt eine korrekte Alternative auf den Tisch, die
-    er nicht empfiehlt, damit sie nicht spaeter glaubt, sie selbst verworfen zu
-    haben. Seit Monatsbeginn gibt es davor jedoch keine Szene der beiden. Am 4.
-    Februar telefoniert Georgij mit Mrs Ha und schreibt abends allein; am 8.
-    Februar sitzt er bei Baek. Der Satz stammt bereits aus der frueheren
-    Oktoberfassung der Szene und hatte auch dort keinen sichtbaren ersten Fall.
-    Die Figurenaenderung traegt ohne unbelegte Zahl: **You have started doing
-    that to me and I want it to go on happening.**
-41. **`b2 ch87:498-518` gegen `b2 ch08:126`, Annies zwei gezaehlte
-    Glaubenssaetze.** Georgij sagt Nam Byung-hee am 20. Maerz 2026 *I believe
-    you* und Choi Dae-ho am 18. Maerz 2027 denselben Satz. Annies Zaehlung von
-    zwei ist damit genau und liegt sogar nur 363 Tage auseinander. Ihre
-    Formulierung *the second time you have done that this year* setzt beide
-    Faelle jedoch in dasselbe Kalenderjahr; Nams Szene liegt im Vorjahr. Die
-    kleinste Korrektur behaelt Zahl und nahezu jahresgenauen Rueckruf:
-    **That is the second time in a year you have done that. I have counted
-    both.**
-42. **`b2 ch81:52-56`, Baeks Wochenrechnung fuer die Wohnung in
-    Seodaemun.** Die Szene spielt am Montag, dem 8. Februar 2027. Baek sagt,
-    die Wohnung sei seit Mitte November an die junge Frau mit dem Fahrrad
-    vermietet, und er zahle die Nebenkosten einer bewohnten Wohnung seit elf
-    Wochen. Der 16. November 2026 bis zum 8. Februar 2027 sind jedoch exakt
-    vierundachtzig Tage, also **zwoelf Wochen**; selbst der 17. November liegt
-    nur einen Tag darunter. Da Kapitel 76 die Neuvermietung ebenfalls im
-    November bestaetigt und keinen spaeteren Mietbeginn setzt, muss der letzte
-    Satz lauten: **I have been paying the rates on a flat with a tenant in it
-    for twelve weeks.**
-43. **`b2 ch53:92,268`, die Dauer von Mr Ahns Alleinsein.** Das
-    Konsignationsformular datiert auf den 12. Februar vor vier Jahren; die
-    Werkstattszene spielt am 14. August. Mr Ahn traegt den Vorgang damit seit
-    vier Jahren, sechs Monaten und zwei Tagen allein, nicht seit *four years
-    and eleven months*. Die elf Monate wuerden den Beginn in den September vor
-    fuenf Jahren verschieben und passen zu keinem Ereignis der Kette. Der
-    kleinste Ersatz ist: **He has had four years and six months on his own with
-    this. He gets to find it.**
-44. **`b2 ch62:24,210` gegen `b2 ch53:4`, Gesamtzeit und Georgijs
-    Ermittlungszeit bei Mr Ahn.** Am 26. Oktober sind seit dem Formular gut vier
-    Jahre und acht Monate vergangen. Seit Georgijs erstem Werkstattbesuch am
-    14. August sind es dagegen zehn Wochen und drei Tage, im Text gerundet elf
-    Wochen. *Four years and eleven weeks* addiert diese beiden ueberlappenden
-    Uhren scheinbar zu einer einzigen Dauer und verliert dabei die sechs Monate
-    zwischen Februar und August. Beide Werte bleiben erhalten, wenn der Satz
-    die Ueberlappung benennt: **Four years and eight months, the last eleven
-    weeks with me in it, and the whole of it turned on a man who has been forty
-    feet from a signature the entire time.**
-45. **`b2 ch61:142` gegen `b2 ch06:4,88,118-198` und `b2 ch26:60`,
-    Mrs Jeons Achtwochenfrist.** Kapitel 6 setzt die Mitteilung auf Montag, den
-    16. Maerz: Georgijs Besuch macht an diesem Morgen aus ihrem bestehenden
-    Arbeitsplatz dreiundzwanzig Jahre und noch etwa zwei Monate; Mrs Jeon selbst
-    nennt acht Wochen. Kapitel 26 datiert ihren letzten Tag auf den 12. Mai,
-    acht Wochen und einen Tag spaeter. Ihr Oktober-Rueckblick verschiebt diese
-    Mitteilung faelschlich in den Januar; Januar plus acht Wochen koennte zudem
-    nicht bis Mai reichen. Der kleinste Ersatz ist: **In March I was told I had
-    twenty-three years and eight weeks.**
-46. **`b2 ch59:56` gegen `b2 ch57:4,72-290`, Sims Wissen um den
-    Dachsatz.** Kapitel 57 spielt am 27. August. Georgij erklaert Sim dort den
-    ganzen Zusammenhang, nennt beide Namen und bleibt im Raum, waehrend Sim den
-    Satz noch am selben Abend an Ahn Jung-hee weitergibt. Kapitel 59 datiert den
-    Augenblick, ab dem Sim wusste, wofuer seine Anrufe dienten, ohne weiteres
-    Ereignis auf den 7. September. Sein naechster Kontakt ist erst der in
-    Kapitel 57 angekuendigte 14. September. Der kleinste Ersatz ist: **A man who
-    telephoned that house four times a year about a shed roof and did not know
-    what he was for until the twenty-seventh of August.**
-47. **`b2 ch64:164-166` gegen `b2 ch57:274-290`, Ahn Jung-hees angeblich
-    erste Frage in elf Jahren.** Am 27. August fragt Ahn Jung-hee Sim, ob er
-    wegen des Dachs wieder anrufen werde; der Erzaehler bezeichnet das dort
-    ausdruecklich als ihre erste Frage in vier Jahren. Am 2. November fragt sie
-    Mrs Jeon, ob sie etwas unterschreiben muesse. Der folgende Satz macht daraus
-    faelschlich ihre erste Frage in elf Jahren und uebernimmt damit Moon
-    Hae-sooks Dauer. Auch *four years* waere an dieser Stelle wegen der Frage an
-    Sim falsch. Der kleinste belastbare Ersatz bindet die Premiere an den
-    vollzogenen Ausgang: **It is the first question she has asked since she
-    walked out of the house.**
-48. **`b2 ch76:14,30-46,268` gegen `b2 ch53:4`, Mr Ahns zwei
-    Zeitspannen.** Kapitel 76 spielt am 6. Januar 2027. Georgij kennt Mr Ahn
-    seit dem 14. August 2026, also seit vier Monaten und dreiundzwanzig Tagen;
-    der Rueckblick darf gerundet fuenf, nicht sechs Monate nennen. Davon
-    getrennt steht Mr Ahns Laden seit 2019 monatlich zur Miete. Selbst bei
-    einem Beginn am letzten Tag des Jahres sind das am 6. Januar 2027 mehr als
-    sieben Jahre; die drei Angaben *since 2019* tragen, die beiden *six years*
-    nicht. Die drei kleinsten Ersetzungen sind: **which he has not done once
-    in five months.** / **I have been reliable for seven years and it has
-    never been worth anything before.** / **A man who has been month to month
-    for seven years is offered five years at the same rent, by an agent who
-    suggested it himself.**
-49. **`b2 ch52:92-100` gegen `b2 ch52:136,266` und `b2 ch79:98`,
-    Los sechs vor und nach der Auktion.** Das Los geht am 12. Februar in das
-    Buch; die Auktion ist am 28. Maerz. Dazwischen liegen vierundvierzig Tage,
-    also sechs Wochen und zwei Tage. Die drei Angaben, das Los habe insgesamt
-    sieben Wochen im Buch gestanden, koennen trotzdem tragen: sieben Wochen
-    nach dem 12. Februar enden am 2. April, und die Entfernung wird nur als
-    *in the spring* datiert. Nur Kapitel 52 bindet dieselbe Dauer
-    ausdruecklich an die Zeit **vor** der Auktion. Der kleinste Ersatz trennt
-    die beiden Spannen: **She was catalogued, and held, and open, for six
-    weeks before the sale at which she was not sold.**
-50. **`b2 ch55:152-158` gegen `b2 ch32:88-120`, Georgijs erstes
-    nichtfinanzielles *we* in Annies Arbeitszimmer.** Kapitel 55 nennt
-    Georgijs Satz *until we have decided something* den ersten Gebrauch von
-    *we* in diesem Raum, der nicht Geld betrifft. Bereits am 4. Juni geht er
-    jedoch aus dem kleinen Raum nach oben zu Annie, legt das Notizbuch auf
-    ihren Schreibtisch und sagt dort *It gets us two witnesses outside this
-    house* sowie *It gets us two addresses and a doctor*. Der weitere Verlauf
-    bezeichnet denselben Ort als *her own room* und rueckblickend als *the
-    study*; Kapitel 55 benennt ihn ausdruecklich als *her own study*. Auch die
-    fruehere Aussage betrifft Beweise, Personen und Ermittlungswege, nicht
-    Geld. Die emotionale Beobachtung in Kapitel 55 kann bleiben, wenn sie enger
-    auf den neuen Unterschied gefasst wird, etwa: **That is the first time you
-    have used the word we in this room about deciding for a person.**
-51. **`b2 ch83:176`, vierzehn Jahre seit Hwangs Klausel von 2011.** Am 15.
-    Oktober 2026 kann Hwangs Formulierung *I wrote it in 2011 and I was proud
-    of it for fourteen years* noch aufgehen: Wenn die Klausel nach dem 15.
-    Oktober 2011 geschrieben wurde, sind zu diesem Zeitpunkt erst vierzehn
-    volle Jahre vergangen, und der Stolz endet in diesem Gespraech. Am 25.
-    Februar 2027 sagt er jedoch im Praesens ueber dieselbe Klausel: *It has
-    done exactly one thing in fourteen years that I intended.* Seit jedem
-    moeglichen Datum im Jahr 2011 sind da mindestens fuenfzehn volle Jahre
-    vergangen; aus der Oktoberaussage folgt sogar zwingend ein Klauseldatum
-    zwischen Mitte Oktober und Jahresende 2011 und damit eine Spanne von gut
-    fuenfzehn Jahren. Nur die gegenwartsbezogene Zahl in Kapitel 83 muss
-    mitwandern: **It has done exactly one thing in fifteen years that I
-    intended.** Die beiden historischen Aussagen ueber vierzehn Jahre Stolz
-    bleiben unveraendert.
-52. **`b2 ch03:52-90`, `b2 ch71:12,174` und `b2 ch89:156`, Mrs Sunwoos
-    unveraendertes Alter ueber mehr als ein Jahr.** Am 7. Maerz 2026 wird sie
-    mehrfach als einundachtzig bezeichnet; am 17. Dezember 2026 sagt sie es
-    noch zweimal selbst, und am 16. Mai 2027 nennt der Erzaehler sie weiterhin
-    einundachtzig. Zwischen der ersten und der letzten ausdruecklichen Nennung
-    liegen **435 Tage**. Kein Geburtstag kann dieselbe ganze Alterszahl ueber
-    diese Spanne tragen. `doc/15-kalender.md` hatte ihren erfundenen Geburtstag
-    deshalb auf den 17. November verschoben, aber gerade dieser Tag verlangt
-    ab dem 17. November 2026 das naechste Alter. Die fruehen Nennungen bis Mai
-    bleiben unveraendert; die drei spaeten Ersetzungen sind: **a woman of
-    eighty-two who counts is a woman who is waiting** und **because I am
-    eighty-two and I have stopped leaving things for later** in Kapitel 71
-    sowie **a woman of eighty-two who has been buying it for forty-one years**
-    in Kapitel 89.
-
-### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
-
-Die Aussage **Five people know what you did** zaehlt nicht jeden Menschen, der
-Chois Methode, Annies Kauf oder einzelne Folgen kennt. Sie zaehlt die Menschen,
-die Annies Anteil an der ganzen Gegenoperation zuordnen koennen. Diese Grenze
-traegt ueber beide Baende: Woo und Sunwoo kennen Auktion und Umsetzung,
-Sang-hoon kennt Georgijs Konstruktion, Yeom kennt Lot vierzehn und den Zweck,
-Hana kennt Annies Rolle aus dem Haus. Hwang, Mrs Jeon und Sim bleiben bewusst
-unterhalb dieser Kenntnistiefe. Die **fuenf** sind deshalb kein
-Kontinuitaetsfehler; nur die daraus abgeleiteten **siebzehn** sind einer.
-
-### Verifizierte Gegenprobe: Einladungsliste und Gedecke
-
-Die scheinbar fehlende Person in `b2 ch84:10-38` entsteht nur, wenn Nams
-ungeschriebene Zeile zu frueh mit der Liste verrechnet wird. Von den
-einunddreissig Namen fallen acht aus: ein Toter, Vancouver, drei nicht
-reisefaehige Menschen und drei Absagen. Es bleiben dreiundzwanzig. Von den fuenf
-Namen am unteren Rand stehen Koh, Im und Sang-hoon bereits in der urspruenglichen
-Tischmenge; Ok und Woo sind die zwei wirklichen Ergaenzungen. Das ergibt
-fuenfundzwanzig. Nam ist die nicht notierte Sechste und macht
-**sechsundzwanzig**; Choi ist Einladung **siebenundzwanzig**; Annie selbst macht
-in `b2 ch85:6-14` das achtundzwanzigste Gedeck. Die Zahlenfolge
-**23 + 2 + 1 + 1 + 1 = 28** ist damit geschlossen und braucht keine
-Textkorrektur.
-
-Auch `b2 ch85:154-160` zaehlt sauber. Die sechs Menschen im Speisesaal, die
-wissen, wer Georgij ist, sind Annie, Nam, Sang-hoon, Woo, Yeom und Mrs Sunwoo.
-Hana kennt seine Rolle ebenfalls, ist an diesem Abend aber nicht im Raum. Koh
-kennt sein Gesicht und seine Auskunft, nicht seine Stellung im Haus; die
-uebrigen Eingeladenen kennen nur Annies Einladung. Auch diese **sechs** sind
-deshalb kein Kontinuitaetsfehler.
-
-### Verifizierte Gegenprobe: Zertifikat der Vernichtung
-
-Die Datumsfolge in `b2 ch87:388-396` ist geschlossen. Die permanente Serie geht
-am Donnerstag, dem 25. Februar 2027, ueber die Waage; das Zertifikat kommt **on
-the Friday**, also am 26. Februar, mit der Post; Georgij traegt es **since the
-first of March**, dem folgenden Montag, in der Innentasche. Kapitel 85 und 86
-zeigen es dort am 18. Maerz, Kapitel 88 nennt Existenz und Aufbewahrungsort. Die
-drei Formulierungen beschreiben aufeinanderfolgende Stationen und keinen
-Datumswiderspruch.
-
-### Verifizierte Gegenprobe: die sechs Tage der Abrechnungen
-
-`b2 ch88:6-10` nennt vier geschuldete Abrechnungen, von denen Mrs Bae Georgij
-ausdruecklich verboten hat, noch einmal zu ihr zu kommen. Er kann deshalb nur
-drei Raeume betreten. Diese drei Besuche liegen am Donnerstag, dem 29. April,
-am Samstag, dem 1. Mai, und am Dienstag, dem 4. Mai. Vom ersten bis zum letzten
-Besuch sind das einschliesslich beider Endtage genau **sechs Tage**. Die vier
-Namen auf dem Montagsblatt, die drei gestrichenen Namen am Schluss und der eine
-unberuehrte Name Mrs Bae stimmen damit ueberein; *did them in six days* zaehlt
-den Besuchsblock und nicht die Spanne seit dem Aufschreiben.
-
-### Verifizierte Gegenprobe: drei Originale und Uebergaben im Schluss
-
-Die drei hier geprueften empfindlichen Originale bleiben getrennt. Mrs Sunwoos vierzeilige
-Antwort liegt ungesehen in ihrem eigenen Haus; Georgij kennt nur das Datum.
-Mrs Has gruenes Schulheft geht ueber Jang ungelesen in Moon Hae-sooks Zimmer
-und wird Georgij gerade nicht gegeben. Sims Blatt mit elf Namen wechselt in
-`b2 ch88:216-250` sichtbar von Georgijs Mantel ueber den Tisch in Sims
-Innentasche. Keine dieser drei Ketten tauscht Original und Kopie oder gibt
-einer Figur Wissen, das sie aus dem gezeigten Gegenstand nicht haben kann.
-Baeks Trustakte gehoert ausdruecklich **nicht** in diese Gegenprobe: Ihre
-angekuendigte Uebergabe und ungezeigte Rueckkehr in seinen Schrank bleibt als
-Punkt 2 offen. Erst die spaetere Aufsichtskopie in Kapitel 89 ist wieder klar
-bezeichnet.
-
-### Verifizierte Gegenprobe: Tagesuebergaenge in Kapitel 83 und 84
-
-Die Szenengrenzen tragen die Tage, auch wo der naechste Tageskopf erst nach
-einer kurzen Raffung steht. `b2 ch83:210-224` geht ausdruecklich vom Zertifikat
-am Freitag ueber Hwangs Kurier und Georgijs Innentasche am Montag zum Besuch am
-Montag, dem 1. Maerz; der Tageskopf setzt dort keinen zweiten Montag an, sondern
-markiert den Beginn der naechsten ausgebauten Szene. `b2 ch84:122-174` fuehrt
-ebenso lueckenlos von Annies Entwurf am Donnerstag ueber den Druck am Freitag
-und den Versand am Montag, dem 8. Maerz, zu Mrs Seos Gespraech am Dienstag, dem
-9. Maerz. Die scheinbar unter dem alten Tageskopf stehenden Zwischenereignisse
-sind jeweils im Wortlaut datiert und erzeugen keinen Zeit- oder Szenenbruch.
-
-### Verifizierte Gegenprobe: Ahn Jung-hees Unterschriften
-
-`b2 ch64:164` und `b2 ch68:26-54` widersprechen einander nicht. Ahn sagt am 2.
-November, sie habe seit dem Formular im Februar vor vier Jahren nichts
-unterschrieben. Am 8. Dezember liest sie den Gaslieferschein wie ein Blatt, das
-sie schon rund vierzigmal gelesen hat; daraus folgt nicht, dass sie die
-frueheren Exemplare unterschrieben hat. Erst jetzt nimmt sie das Klemmbrett,
-unterschreibt sichtbar selbst und laesst den Defekt auf dem bleibenden Beleg
-vermerken. Die Szene baut gerade auf dem Unterschied zwischen jahrelanger
-Kenntnis des Vorgangs und der ersten eigenen Entscheidung nach ihrer Befreiung.
-Die Haupturkunde bleibt davon getrennt: Mrs Jeon liest sie am 4. November
-vollstaendig vor, Ahn haelt die Seiten neun Minuten und unterschreibt danach.
-Eine spaetere widerspruechliche Weitergabe des unterschriebenen Originals wird
-nicht behauptet.
-
-### Verifizierte Gegenprobe: 411 und 460 Hochzeiten
-
-Die beiden Summen haben verschiedene Grundgesamtheiten. Die **411** in `b2
-ch80:6-18` sind Mrs Has eigene Auftraege aus dreissig Berufsjahren; Kapitel 72,
-74, 80 und 86 halten diese Zahl fuer ihr persoenliches Arbeitsarchiv stabil.
-Die **460** in `b2 ch83:318` sind dagegen alle Hochzeiten, die in elf Jahren
-durch den betreffenden Saal gingen. Mrs Ha war nicht fuer jede davon
-verantwortlich und arbeitete zudem laenger als dieser Elfjahreszeitraum. Die
-Zahlen beschreiben deshalb weder denselben Bestand noch denselben Zeitraum und
-sind kein Kontinuitaetsfehler.
-
-### Verifizierte Gegenprobe: vierundzwanzig und fuenfundzwanzig Jahre
-
-Die wechselnde Dauer von Chois Stellung folgt der im Manuskript verwendeten
-Kalenderjahreszaehlung. Szenen im Dezember 2026 rechnen von 2002 bis 2026 mit
-**vierundzwanzig Jahren**; ab Januar 2027 lautet dieselbe gerundete Spanne
-konsequent **fuenfundzwanzig Jahre**. Alle Vorkommen nach dem Jahreswechsel
-halten diese Zahl, auch wenn der genaue Fruehlingstermin noch nicht erreicht
-ist. Es liegt kein innerhalb desselben Zaehlprinzips widerspruechlicher Wert
-vor.
-
-### Verifizierte Gegenprobe: relative Zeitangaben im Schlussblock
-
-Die auffaelligen Angaben **this week**, **this year** und **last year** in den
-Kapiteln 78 bis 88 halten ihren jeweiligen Szenentag. Annie prueft Woos
-Abwaegung am Freitag, dem 12. Februar, und erneut bei ihm am Montag, dem 15.
-Februar; *twice this week* in Kapitel 82 zaehlt diese beiden Pruefungen. Mrs
-Seos zwei ungefragte Bemerkungen zur Tischgroesse koennen zwischen Annies
-Platzierung am Montag und dem Dinner am Donnerstag gefallen und setzen kein
-frueheres sichtbares Ereignis voraus. Der Umschlag in Kapitel 88 wurde am 17.
-Dezember 2026 abgesandt und ist am 4. Mai 2027 richtig **last year**. Kapitel
-84 grenzt Georgijs **first thing this year** auf seine eigenmaechtige
-Entscheidung ueber die Bewohnerinnen des Hauses ein; die frueheren
-Januar- und Februarentscheidungen betreffen Ermittlungswege und fremde Akten,
-nicht ihre Stellung im Haus.
-
-### Verifizierte Gegenprobe: Sims dritte unbequeme Antwort
-
-Sims **That is the third time** in `b2 ch88:160-164` ist kein unbelegter
-Rueckzaehler. Bereits `b2 ch57:148` bezeichnet Georgijs damalige Antwort
-ausdruecklich als die zweite Verweigerung einer bequemen Auskunft und sagt,
-dass Sim beide gezaehlt hat. Kapitel 88 nimmt dieselbe private Zaehlung wieder
-auf und macht die nicht weiter verfolgte Arztfrage zur dritten. Die Zahl ist
-damit ueber elf Kapitel hinweg geschlossen.
-
-### Verifizierte Gegenprobe: siebenundzwanzig Gaeste, achtundzwanzig Gedecke
-
-`b2 ch88:38` zaehlt mit **twenty-seven people** denselben eingeladenen
-Gaestekreis wie die unmittelbar angeschlossenen **twenty-seven cards**. In `b2
-ch84:158-166` gehen genau siebenundzwanzig Einladungen hinaus: sechsundzwanzig
-Betroffene und Choi. Annie erhaelt als Gastgeberin keine Einladung, sitzt aber
-mit ihnen am Tisch und ist deshalb in `b2 ch85:6-42` das achtundzwanzigste
-Gedeck. Die beiden Zahlen beschreiben Gaeste und Tischbesetzung und
-widersprechen einander nicht.
-
-### Verifizierte Gegenprobe: Mr Ahns Alter
-
-`b2 ch53:26,78-82` setzt Georgijs erste Schaetzung von **about forty-five**
-bewusst gegen den isolierten Erzaehlerabsatz **Thirty-nine**. Dazwischen steht
-ausdruecklich, Georgij liege bei solchen Schaetzungen sonst nie mehr als ein
-Jahr daneben. Die sechs Jahre sind deshalb nicht versehentlich ueber zwei
-Kapitel verteilt, sondern innerhalb von vier Zeilen sichtbar gemacht. `b2
-ch62:24` bestaetigt spaeter die Neununddreissig; Ahn Jung-hee ist
-fuenfunddreissig und ihr Bruder vier Jahre aelter. Der Bruch zeigt, was vier
-Jahre Warten mit seinem ersten Eindruck gemacht haben, und braucht keine
-Textkorrektur.
 
 ---
 

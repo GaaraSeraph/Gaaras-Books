@@ -111,12 +111,15 @@ wird.**
 ## Offen
 
 - [OFFEN] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 39, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
-- [OFFEN] **B2 18** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · Choi stirbt erst im April. B2 89 und B2 90 sprechen ueber Tat und Folge, aber nirgends ueber die verfehlte Jahresfrist. Deshalb offen und nicht verfallen
-- [OFFEN] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · Nicht nur Angebot und Annahme fehlen: B2 35 laesst sie schon am 15. Juni die Gwangyang-Stelle beginnen, die sie laut B2 87 seit Juni weiterfuehrt. Der kleinste Band-2-Anschluss steht als Manuskriptvorschlag in `doc/31-plan-band-2.md`: Der Sohn hat im Juli noch nicht angeboten; sie hat nicht auf ihn gewartet
 - [OFFEN] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig bei der Mitteilung an alle fuenf · "Go back and tell all five that they do not owe me anything." · Im heutigen Kanon wird keiner der fuenf unterrichtet. Die fruehere Kwon-Szene und vier Briefe existieren nur in geloeschten Fassungen
 - [OFFEN] **B2 67** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · "I will use your words and not mine." · B2 83 setzt Hwang an die Suche; B2 89 verbucht vier von achtundfuenfzig. Der Posten laeuft weiter
 - [OFFEN] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **Am Bandende offen, und der Text weiss es**
 - [OFFEN] **B2 85** Mrs Seo an Georgij · gesagt Tag 531 · faellig Tag 897 · "In about a year I am going to tell you what it was." · **Sie setzt die Frist, damit sie nie faellig wird**: *you are going to have forgotten this conversation and I am not.* Tag 897 ist Samstag, der 18. Maerz 2028 - 2028 ist ein Schaltjahr, deshalb 366 und nicht 365 Tage. **Die Szene steht ganz in `doc/32-plan-band-3.md`, und er kommt auf den Tag**
+
+## Verfallen
+
+- [VERFALLEN] **B2 18** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · Choi stirbt erst am 8. April. B2 90 nennt die um elf Wochen verfehlte Frist ausdruecklich; der Text weiss, dass der Termin gebrochen ist
+- [VERFALLEN] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 35: Am 15. Juni beginnt sie in Gwangyang; der Sohn hat noch nicht angeboten und sie wartet nicht auf ihn. B2 61 macht daraus ihre eigene geaenderte Entscheidung
 
 ## Bezahlt
 
@@ -138,7 +141,7 @@ wird.**
 - [BEZAHLT] **B2 60** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters erst danach · B2 65: Anruf am Folgetag, persoenliche Antwort am Mittwoch
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst; der Satz ist die Einloesung
 - [BEZAHLT] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig bei dem Tag, an dem die Seite existiert · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 59 bestaetigt Seite, Unterschrift und Datum
-- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 23 zeigt den ersten Kauf am 18. Mai; B2 79 bestaetigt den Kauf aller fuenf. **Offener Datumswiderspruch:** B2 87 behauptet, alle fuenf seien im November gekauft worden
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 23 zeigt den ersten Kauf am 18. Mai; B2 79 bestaetigt den Kauf aller fuenf; B2 87 fuehrt den Zeitraum von Mitte Mai bis Mitte Juni
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
 - [BEZAHLT] **B1 31** Annie an Georgij · gesagt Tag 74 · faellig Tag 164 · "I will ask you again in March, and you will not be able to say it is not the moment, because in March it will be." · B2 06, am 16. Maerz, auf den Tag drei Monate. **Stand bis zum 25.08. ueberhaupt nicht im Schuldbuch und war neun Erzaehlmonate unbezahlt** - gefunden bei der Suche nach fristlosen Zusagen, weil `--neu` sie nicht sieht
 - [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
@@ -179,10 +182,10 @@ ist.
 
 **Mrs Jeon, B2 Kapitel 30 (2. Juni):** *"I have four months of money and a son
 who is going to offer next month, and I am going to take it."* Das Angebot und
-seine Annahme stehen in keiner spaeteren Kanonfassung. Stattdessen beginnt sie
-am 15. Juni die Gwangyang-Stelle und fuehrt sie seitdem weiter. **Der Posten ist
-weiter offen und laengst ueberfaellig; `doc/31-plan-band-2.md` traegt den
-kleinsten Anschluss als Manuskriptvorschlag.**
+seine Annahme finden nicht statt. Stattdessen beginnt sie am 15. Juni die
+Gwangyang-Stelle und fuehrt sie seitdem weiter. **B2 35 sagt ausdruecklich, dass
+der Sohn noch nicht angeboten hat und sie nicht auf ihn wartet.** Der Posten ist
+damit verfallen, und der Text traegt ihre geaenderte Entscheidung.
 
 **Annies Satz aus B2 Kapitel 54:** *"in about a week you will have found a way
 to make it about you and I would like to have said this first."* Der alte Stand
@@ -195,7 +198,8 @@ uebersah B2 Kapitel 56. Dort zwingt Mr Ahn Georgij genau zu dieser Verschiebung.
 
 **Erstens: Georgij macht wenige ausdruecklich datierte Zusagen.** Gerade deshalb
 ist die verfehlte Jahresfrist gegen Choi keine Kleinigkeit. Der heutige Text
-erfuellt den groesseren Inhalt, bemerkt aber die gebrochene Frist nicht.
+erfuellt den groesseren Inhalt und nennt die um elf Wochen gebrochene Frist in
+B2 90 ausdruecklich.
 
 **Zweitens: Annie datiert Auftraege und Vorhersagen auffaellig oft.** Das bleibt
 Teil ihrer Stimme. Es ist aber kein Beweis, dass jeder von ihr gesetzte Termin
