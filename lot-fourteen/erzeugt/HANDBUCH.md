@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.426 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.642 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2891,7 +2891,9 @@ und niemand muss ihn zitieren.
     erste Wort an einen Aussenstehenden seit vier Jahren. Sie hat viermal im
     Jahr mit Sim telefoniert und in `b2 ch57` selbst geantwortet und gefragt.
     Die Premiere gilt nur fuer die Zeit seit ihrem Gang aus dem Haus; siehe
-    `doc/31-plan-band-2.md`.
+    `doc/31-plan-band-2.md`. Dasselbe Kapitel nennt ihre spaetere Frage an Mrs
+    Jeon faelschlich die erste in elf Jahren, obwohl die Frage an Sim bereits am
+    27. August fiel; das ist als eigener Punkt 47 dort offen.
 125. **Do Kyung-ae ist Ahn Jung-hee.** Der fehlende Papierbestand beweist keinen falschen Namen, sondern dass die Person nie aufgeschrieben wurde - **dieselbe Lage, in der Georgij siebzehn Jahre war.**
 126. **Moon Hae-sook.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft. **Die Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, **und Sim weiss es bis heute nicht.**
 127. **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft, **vierhundertelf Hochzeiten in dreissig Jahren**, seit vier Jahren zu. *"Thirty years, and the useful thing about me is that I've got nothing left."*
@@ -8998,6 +9000,10 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   diesem Tag beide Frauen und den Dachsatz; Sim fuehrt den Anruf noch am selben
   Abend aus. Kapitel 59 verschiebt diese Erkenntnis faelschlich auf den 7.
   September; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
+- **Ahn Jung-hee stellt am 27. August ihre erste Frage in vier Jahren.** Am 2.
+  November fragt sie Mrs Jeon erneut, diesmal nach einer Unterschrift. Kapitel
+  64 nennt diese zweite belegte Frage faelschlich ihre erste in elf Jahren und
+  uebernimmt damit Moon Hae-sooks Dauer; offen in `doc/31-plan-band-2.md`.
 - **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
   Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
   wouldn't protect you."* - gesagt hatte er es nirgends. Statt den
@@ -10002,7 +10008,7 @@ Mengenangabe.**
 195. **Mrs Jeons Genauigkeit vor der ersten Stunde:** In `b2 ch61` verlangt sie erst *"How it is written"* und dann *"which part of it her mother used."* Georgij gibt ihr beides aus Mr Ahns Auskunft, bevor sie Ahn Jung-hee gegenuebertritt.
 196. **"She is not a consignment out here. She is out here."**
 197. **DIE WUNDE DES TAGES:** sie nehmen eine aus einem Haus, das ausgeraeumt wird, und lassen eine darin. *"The kettle is on the second shelf and a man has written it on a folder."*
-198. **Ahn Jung-hees erster freier Satz nach vier Jahren ist eine erledigte Sache ueber jemand anderen:** *"The kettle is on the second shelf. I moved it on Thursday because they took the counter."* **Drei ihrer vier Aeusserungen an dem Tag handeln von Moon Hae-sook**, und die vierte ist ihre erste Frage im ganzen Buch.
+198. **Ahn Jung-hees erster freier Satz nach vier Jahren ist eine erledigte Sache ueber jemand anderen:** *"The kettle is on the second shelf. I moved it on Thursday because they took the counter."* **Drei ihrer vier Aeusserungen an dem Tag handeln von Moon Hae-sook**, und die vierte ist ihre erste Frage seit dem Gang aus dem Haus. Ihre erste Frage im Buch fiel bereits am 27. August an Sim; der falsche Absolutsatz in `b2 ch64` ist offen in `doc/31-plan-band-2.md`.
 199. **Moon Hae-sooks erster Satz in dem Haus ist eine Zugluft:** *"There is a draught under this door. It is cold on the left ankle and not the right one."* Und der Grund fuer ihr Nichtfragen: *"Eleven years have taught her that a question produces a lie."*
 200. **Sims einzige Frage seines Lebens:** *"Was I good at it."* - *"You were the best I have ever seen."* - **"No. It is the bill."**
 201. **Mrs Sunwoo:** *"You have not told me the part where you did something clever."* - *"There is not one."* - *"No. There is not, and I have been waiting for it for fifty minutes, and I want you to notice that I had to wait."*
@@ -17546,6 +17552,16 @@ freigegeben sind.
     Kapitel 57 angekuendigte 14. September. Der kleinste Ersatz ist: **A man who
     telephoned that house four times a year about a shed roof and did not know
     what he was for until the twenty-seventh of August.**
+47. **`b2 ch64:164-166` gegen `b2 ch57:274-290`, Ahn Jung-hees angeblich
+    erste Frage in elf Jahren.** Am 27. August fragt Ahn Jung-hee Sim, ob er
+    wegen des Dachs wieder anrufen werde; der Erzaehler bezeichnet das dort
+    ausdruecklich als ihre erste Frage in vier Jahren. Am 2. November fragt sie
+    Mrs Jeon, ob sie etwas unterschreiben muesse. Der folgende Satz macht daraus
+    faelschlich ihre erste Frage in elf Jahren und uebernimmt damit Moon
+    Hae-sooks Dauer. Auch *four years* waere an dieser Stelle wegen der Frage an
+    Sim falsch. Der kleinste belastbare Ersatz bindet die Premiere an den
+    vollzogenen Ausgang: **It is the first question she has asked since she
+    walked out of the house.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

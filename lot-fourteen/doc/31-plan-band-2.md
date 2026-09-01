@@ -3180,6 +3180,16 @@ freigegeben sind.
     Kapitel 57 angekuendigte 14. September. Der kleinste Ersatz ist: **A man who
     telephoned that house four times a year about a shed roof and did not know
     what he was for until the twenty-seventh of August.**
+47. **`b2 ch64:164-166` gegen `b2 ch57:274-290`, Ahn Jung-hees angeblich
+    erste Frage in elf Jahren.** Am 27. August fragt Ahn Jung-hee Sim, ob er
+    wegen des Dachs wieder anrufen werde; der Erzaehler bezeichnet das dort
+    ausdruecklich als ihre erste Frage in vier Jahren. Am 2. November fragt sie
+    Mrs Jeon, ob sie etwas unterschreiben muesse. Der folgende Satz macht daraus
+    faelschlich ihre erste Frage in elf Jahren und uebernimmt damit Moon
+    Hae-sooks Dauer. Auch *four years* waere an dieser Stelle wegen der Frage an
+    Sim falsch. Der kleinste belastbare Ersatz bindet die Premiere an den
+    vollzogenen Ausgang: **It is the first question she has asked since she
+    walked out of the house.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

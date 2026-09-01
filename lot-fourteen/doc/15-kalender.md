@@ -891,6 +891,10 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   diesem Tag beide Frauen und den Dachsatz; Sim fuehrt den Anruf noch am selben
   Abend aus. Kapitel 59 verschiebt diese Erkenntnis faelschlich auf den 7.
   September; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
+- **Ahn Jung-hee stellt am 27. August ihre erste Frage in vier Jahren.** Am 2.
+  November fragt sie Mrs Jeon erneut, diesmal nach einer Unterschrift. Kapitel
+  64 nennt diese zweite belegte Frage faelschlich ihre erste in elf Jahren und
+  uebernimmt damit Moon Hae-sooks Dauer; offen in `doc/31-plan-band-2.md`.
 - **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
   Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
   wouldn't protect you."* - gesagt hatte er es nirgends. Statt den

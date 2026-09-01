@@ -1635,7 +1635,9 @@ und niemand muss ihn zitieren.
     erste Wort an einen Aussenstehenden seit vier Jahren. Sie hat viermal im
     Jahr mit Sim telefoniert und in `b2 ch57` selbst geantwortet und gefragt.
     Die Premiere gilt nur fuer die Zeit seit ihrem Gang aus dem Haus; siehe
-    `doc/31-plan-band-2.md`.
+    `doc/31-plan-band-2.md`. Dasselbe Kapitel nennt ihre spaetere Frage an Mrs
+    Jeon faelschlich die erste in elf Jahren, obwohl die Frage an Sim bereits am
+    27. August fiel; das ist als eigener Punkt 47 dort offen.
 125. **Do Kyung-ae ist Ahn Jung-hee.** Der fehlende Papierbestand beweist keinen falschen Namen, sondern dass die Person nie aufgeschrieben wurde - **dieselbe Lage, in der Georgij siebzehn Jahre war.**
 126. **Moon Hae-sook.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft. **Die Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, **und Sim weiss es bis heute nicht.**
 127. **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft, **vierhundertelf Hochzeiten in dreissig Jahren**, seit vier Jahren zu. *"Thirty years, and the useful thing about me is that I've got nothing left."*
