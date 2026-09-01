@@ -1189,7 +1189,7 @@ Adresse und einer fertigen Abmachung zurück. **Vier Tage, und sie hat ihn nicht
 gefragt.** Dass die Person, die hineingeht, nicht selbst unterschreiben darf, hat
 sie ihm erst im Korridor gesagt.
 
-**Und ab Kapitel 58 ist sie zugleich der Besteller.** Im Haus heißt sie **Do
+**Und ab Kapitel 57 ist sie zugleich der Besteller.** Im Haus heißt sie **Do
 Kyung-ae**. Sie führt den Haushalt seit etwa drei einhalb Jahren, bestellt den
 Sauerstoff für die Frau, für die sie dort ist, telefoniert mit Sim über die
 Heizung und darüber, ob das zweite Bad sich lohnt, und geht nach dem Tank sehen.
@@ -1201,7 +1201,7 @@ siebzehn Jahre war**, und der Grund, warum er es als Einziger erkennt.
 
 **Der Satz ihres Bruders, und er ist ihre Beschreibung:** *"She is the sort who
 fixes the thing in front of her. And the thing in front of her was me."*
-*Kanon, Band 2 Kapitel 56 und 58.*
+*Kanon, Band 2 Kapitel 53 und 57.*
 
 **Mr Ahn** - Neununddreißig, repariert Kleinmotoren an einer Ecke in einem Laden
 mit zwei Zimmern dahinter. Ihr Bruder, vier Jahre älter. **Er hat die Konsignation
@@ -1209,13 +1209,19 @@ unterschrieben** und trägt das seit vier Jahren. *"Anybody who ever looks at it
 for the rest of time, sees a man who walked his sister into a building."*
 
 **Georgij liest ihn beim Hereinkommen als fünfundvierzig** und irrt sich darin nie
-um mehr als ein Jahr. Die Zahl steht in Kapitel 56 als eigener Takt.
+um mehr als ein Jahr. Der unmittelbar folgende Einwortabsatz **Thirty-nine**
+bricht diese Regel sichtbar und absichtlich: Vier Jahre Warten haben Mr Ahn in
+Georgijs erstem Blick um sechs Jahre altern lassen. Die Gegenprobe steht auch in
+`doc/12-stimmen.md` und `doc/31-plan-band-2.md`.
 
 **Und der Zug, den Georgij bei ihm nicht macht:** es gibt einen Satz, der ihn
 entlasten würde, und Georgij hat ihn nach zwanzig Sekunden und sagt ihn nicht.
+Die Begründung trägt; ihre anschließende Zeitangabe ist jedoch offen:
 *"He has had four years and eleven months on his own with this. He gets to find
-it."*
-*Kanon, Band 2 Kapitel 56.*
+it."* Vom 12. Februar vor vier Jahren bis zum 14. August sind es gut vier Jahre
+und sechs Monate, nicht elf. Die vorgeschlagene Manuskriptkorrektur steht in
+`doc/31-plan-band-2.md`, Punkt 43.
+*Szene: Band 2 Kapitel 53.*
 
 **Sim** - **Chois Hände, und sein Instrument ist die Freundlichkeit.** Dreißig
 Jahre Fixer. Bestellt die Blumen seit elf Jahren, zweimal im Jahr, April und

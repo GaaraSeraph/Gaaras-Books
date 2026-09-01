@@ -3134,6 +3134,34 @@ freigegeben sind.
     kleinste Korrektur behaelt Zahl und nahezu jahresgenauen Rueckruf:
     **That is the second time in a year you have done that. I have counted
     both.**
+42. **`b2 ch81:52-56`, Baeks Wochenrechnung fuer die Wohnung in
+    Seodaemun.** Die Szene spielt am Montag, dem 8. Februar 2027. Baek sagt,
+    die Wohnung sei seit Mitte November an die junge Frau mit dem Fahrrad
+    vermietet, und er zahle die Nebenkosten einer bewohnten Wohnung seit elf
+    Wochen. Der 16. November 2026 bis zum 8. Februar 2027 sind jedoch exakt
+    vierundachtzig Tage, also **zwoelf Wochen**; selbst der 17. November liegt
+    nur einen Tag darunter. Da Kapitel 76 die Neuvermietung ebenfalls im
+    November bestaetigt und keinen spaeteren Mietbeginn setzt, muss der letzte
+    Satz lauten: **I have been paying the rates on a flat with a tenant in it
+    for twelve weeks.**
+43. **`b2 ch53:92,268`, die Dauer von Mr Ahns Alleinsein.** Das
+    Konsignationsformular datiert auf den 12. Februar vor vier Jahren; die
+    Werkstattszene spielt am 14. August. Mr Ahn traegt den Vorgang damit seit
+    vier Jahren, sechs Monaten und zwei Tagen allein, nicht seit *four years
+    and eleven months*. Die elf Monate wuerden den Beginn in den September vor
+    fuenf Jahren verschieben und passen zu keinem Ereignis der Kette. Der
+    kleinste Ersatz ist: **He has had four years and six months on his own with
+    this. He gets to find it.**
+44. **`b2 ch62:24,210` gegen `b2 ch53:4`, Gesamtzeit und Georgijs
+    Ermittlungszeit bei Mr Ahn.** Am 26. Oktober sind seit dem Formular gut vier
+    Jahre und acht Monate vergangen. Seit Georgijs erstem Werkstattbesuch am
+    14. August sind es dagegen zehn Wochen und drei Tage, im Text gerundet elf
+    Wochen. *Four years and eleven weeks* addiert diese beiden ueberlappenden
+    Uhren scheinbar zu einer einzigen Dauer und verliert dabei die sechs Monate
+    zwischen Februar und August. Beide Werte bleiben erhalten, wenn der Satz
+    die Ueberlappung benennt: **Four years and eight months, the last eleven
+    weeks with me in it, and the whole of it turned on a man who has been forty
+    feet from a signature the entire time.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
@@ -3273,3 +3301,25 @@ ausdruecklich als die zweite Verweigerung einer bequemen Auskunft und sagt,
 dass Sim beide gezaehlt hat. Kapitel 88 nimmt dieselbe private Zaehlung wieder
 auf und macht die nicht weiter verfolgte Arztfrage zur dritten. Die Zahl ist
 damit ueber elf Kapitel hinweg geschlossen.
+
+### Verifizierte Gegenprobe: siebenundzwanzig Gaeste, achtundzwanzig Gedecke
+
+`b2 ch88:38` zaehlt mit **twenty-seven people** denselben eingeladenen
+Gaestekreis wie die unmittelbar angeschlossenen **twenty-seven cards**. In `b2
+ch84:158-166` gehen genau siebenundzwanzig Einladungen hinaus: sechsundzwanzig
+Betroffene und Choi. Annie erhaelt als Gastgeberin keine Einladung, sitzt aber
+mit ihnen am Tisch und ist deshalb in `b2 ch85:6-42` das achtundzwanzigste
+Gedeck. Die beiden Zahlen beschreiben Gaeste und Tischbesetzung und
+widersprechen einander nicht.
+
+### Verifizierte Gegenprobe: Mr Ahns Alter
+
+`b2 ch53:26,78-82` setzt Georgijs erste Schaetzung von **about forty-five**
+bewusst gegen den isolierten Erzaehlerabsatz **Thirty-nine**. Dazwischen steht
+ausdruecklich, Georgij liege bei solchen Schaetzungen sonst nie mehr als ein
+Jahr daneben. Die sechs Jahre sind deshalb nicht versehentlich ueber zwei
+Kapitel verteilt, sondern innerhalb von vier Zeilen sichtbar gemacht. `b2
+ch62:24` bestaetigt spaeter die Neununddreissig; Ahn Jung-hee ist
+fuenfunddreissig und ihr Bruder vier Jahre aelter. Der Bruch zeigt, was vier
+Jahre Warten mit seinem ersten Eindruck gemacht haben, und braucht keine
+Textkorrektur.

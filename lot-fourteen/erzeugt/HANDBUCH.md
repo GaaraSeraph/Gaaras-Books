@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 318.593 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.120 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -329,6 +329,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Verifizierte Gegenprobe: vierundzwanzig und fuenfundzwanzig Jahre](#verifizierte-gegenprobe-vierundzwanzig-und-fuenfundzwanzig-jahre)
   - [Verifizierte Gegenprobe: relative Zeitangaben im Schlussblock](#verifizierte-gegenprobe-relative-zeitangaben-im-schlussblock)
   - [Verifizierte Gegenprobe: Sims dritte unbequeme Antwort](#verifizierte-gegenprobe-sims-dritte-unbequeme-antwort)
+  - [Verifizierte Gegenprobe: siebenundzwanzig Gaeste, achtundzwanzig Gedecke](#verifizierte-gegenprobe-siebenundzwanzig-gaeste-achtundzwanzig-gedecke)
+  - [Verifizierte Gegenprobe: Mr Ahns Alter](#verifizierte-gegenprobe-mr-ahns-alter)
 - [Plan, Band 3](#plan-band-3)  ·  `doc/32-plan-band-3.md`
   - [GANZ neue Gesichter, und der Saal ist schon gebaut](#ganz-neue-gesichter-und-der-saal-ist-schon-gebaut)
   - [Der Text](#der-text)
@@ -2443,7 +2445,7 @@ Adresse und einer fertigen Abmachung zurück. **Vier Tage, und sie hat ihn nicht
 gefragt.** Dass die Person, die hineingeht, nicht selbst unterschreiben darf, hat
 sie ihm erst im Korridor gesagt.
 
-**Und ab Kapitel 58 ist sie zugleich der Besteller.** Im Haus heißt sie **Do
+**Und ab Kapitel 57 ist sie zugleich der Besteller.** Im Haus heißt sie **Do
 Kyung-ae**. Sie führt den Haushalt seit etwa drei einhalb Jahren, bestellt den
 Sauerstoff für die Frau, für die sie dort ist, telefoniert mit Sim über die
 Heizung und darüber, ob das zweite Bad sich lohnt, und geht nach dem Tank sehen.
@@ -2455,7 +2457,7 @@ siebzehn Jahre war**, und der Grund, warum er es als Einziger erkennt.
 
 **Der Satz ihres Bruders, und er ist ihre Beschreibung:** *"She is the sort who
 fixes the thing in front of her. And the thing in front of her was me."*
-*Kanon, Band 2 Kapitel 56 und 58.*
+*Kanon, Band 2 Kapitel 53 und 57.*
 
 **Mr Ahn** - Neununddreißig, repariert Kleinmotoren an einer Ecke in einem Laden
 mit zwei Zimmern dahinter. Ihr Bruder, vier Jahre älter. **Er hat die Konsignation
@@ -2463,13 +2465,19 @@ unterschrieben** und trägt das seit vier Jahren. *"Anybody who ever looks at it
 for the rest of time, sees a man who walked his sister into a building."*
 
 **Georgij liest ihn beim Hereinkommen als fünfundvierzig** und irrt sich darin nie
-um mehr als ein Jahr. Die Zahl steht in Kapitel 56 als eigener Takt.
+um mehr als ein Jahr. Der unmittelbar folgende Einwortabsatz **Thirty-nine**
+bricht diese Regel sichtbar und absichtlich: Vier Jahre Warten haben Mr Ahn in
+Georgijs erstem Blick um sechs Jahre altern lassen. Die Gegenprobe steht auch in
+`doc/12-stimmen.md` und `doc/31-plan-band-2.md`.
 
 **Und der Zug, den Georgij bei ihm nicht macht:** es gibt einen Satz, der ihn
 entlasten würde, und Georgij hat ihn nach zwanzig Sekunden und sagt ihn nicht.
+Die Begründung trägt; ihre anschließende Zeitangabe ist jedoch offen:
 *"He has had four years and eleven months on his own with this. He gets to find
-it."*
-*Kanon, Band 2 Kapitel 56.*
+it."* Vom 12. Februar vor vier Jahren bis zum 14. August sind es gut vier Jahre
+und sechs Monate, nicht elf. Die vorgeschlagene Manuskriptkorrektur steht in
+`doc/31-plan-band-2.md`, Punkt 43.
+*Szene: Band 2 Kapitel 53.*
 
 **Sim** - **Chois Hände, und sein Instrument ist die Freundlichkeit.** Dreißig
 Jahre Fixer. Bestellt die Blumen seit elf Jahren, zweimal im Jahr, April und
@@ -17486,6 +17494,34 @@ freigegeben sind.
     kleinste Korrektur behaelt Zahl und nahezu jahresgenauen Rueckruf:
     **That is the second time in a year you have done that. I have counted
     both.**
+42. **`b2 ch81:52-56`, Baeks Wochenrechnung fuer die Wohnung in
+    Seodaemun.** Die Szene spielt am Montag, dem 8. Februar 2027. Baek sagt,
+    die Wohnung sei seit Mitte November an die junge Frau mit dem Fahrrad
+    vermietet, und er zahle die Nebenkosten einer bewohnten Wohnung seit elf
+    Wochen. Der 16. November 2026 bis zum 8. Februar 2027 sind jedoch exakt
+    vierundachtzig Tage, also **zwoelf Wochen**; selbst der 17. November liegt
+    nur einen Tag darunter. Da Kapitel 76 die Neuvermietung ebenfalls im
+    November bestaetigt und keinen spaeteren Mietbeginn setzt, muss der letzte
+    Satz lauten: **I have been paying the rates on a flat with a tenant in it
+    for twelve weeks.**
+43. **`b2 ch53:92,268`, die Dauer von Mr Ahns Alleinsein.** Das
+    Konsignationsformular datiert auf den 12. Februar vor vier Jahren; die
+    Werkstattszene spielt am 14. August. Mr Ahn traegt den Vorgang damit seit
+    vier Jahren, sechs Monaten und zwei Tagen allein, nicht seit *four years
+    and eleven months*. Die elf Monate wuerden den Beginn in den September vor
+    fuenf Jahren verschieben und passen zu keinem Ereignis der Kette. Der
+    kleinste Ersatz ist: **He has had four years and six months on his own with
+    this. He gets to find it.**
+44. **`b2 ch62:24,210` gegen `b2 ch53:4`, Gesamtzeit und Georgijs
+    Ermittlungszeit bei Mr Ahn.** Am 26. Oktober sind seit dem Formular gut vier
+    Jahre und acht Monate vergangen. Seit Georgijs erstem Werkstattbesuch am
+    14. August sind es dagegen zehn Wochen und drei Tage, im Text gerundet elf
+    Wochen. *Four years and eleven weeks* addiert diese beiden ueberlappenden
+    Uhren scheinbar zu einer einzigen Dauer und verliert dabei die sechs Monate
+    zwischen Februar und August. Beide Werte bleiben erhalten, wenn der Satz
+    die Ueberlappung benennt: **Four years and eight months, the last eleven
+    weeks with me in it, and the whole of it turned on a man who has been forty
+    feet from a signature the entire time.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
@@ -17625,6 +17661,28 @@ ausdruecklich als die zweite Verweigerung einer bequemen Auskunft und sagt,
 dass Sim beide gezaehlt hat. Kapitel 88 nimmt dieselbe private Zaehlung wieder
 auf und macht die nicht weiter verfolgte Arztfrage zur dritten. Die Zahl ist
 damit ueber elf Kapitel hinweg geschlossen.
+
+### Verifizierte Gegenprobe: siebenundzwanzig Gaeste, achtundzwanzig Gedecke
+
+`b2 ch88:38` zaehlt mit **twenty-seven people** denselben eingeladenen
+Gaestekreis wie die unmittelbar angeschlossenen **twenty-seven cards**. In `b2
+ch84:158-166` gehen genau siebenundzwanzig Einladungen hinaus: sechsundzwanzig
+Betroffene und Choi. Annie erhaelt als Gastgeberin keine Einladung, sitzt aber
+mit ihnen am Tisch und ist deshalb in `b2 ch85:6-42` das achtundzwanzigste
+Gedeck. Die beiden Zahlen beschreiben Gaeste und Tischbesetzung und
+widersprechen einander nicht.
+
+### Verifizierte Gegenprobe: Mr Ahns Alter
+
+`b2 ch53:26,78-82` setzt Georgijs erste Schaetzung von **about forty-five**
+bewusst gegen den isolierten Erzaehlerabsatz **Thirty-nine**. Dazwischen steht
+ausdruecklich, Georgij liege bei solchen Schaetzungen sonst nie mehr als ein
+Jahr daneben. Die sechs Jahre sind deshalb nicht versehentlich ueber zwei
+Kapitel verteilt, sondern innerhalb von vier Zeilen sichtbar gemacht. `b2
+ch62:24` bestaetigt spaeter die Neununddreissig; Ahn Jung-hee ist
+fuenfunddreissig und ihr Bruder vier Jahre aelter. Der Bruch zeigt, was vier
+Jahre Warten mit seinem ersten Eindruck gemacht haben, und braucht keine
+Textkorrektur.
 
 ---
 
