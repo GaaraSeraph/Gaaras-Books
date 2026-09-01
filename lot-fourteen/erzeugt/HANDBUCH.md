@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 315.662 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 315.764 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17308,6 +17308,17 @@ freigegeben sind.
     sondern ist mindestens der dritte. Da beide frueheren Anrufe im Text
     einzeln belegt sind, ist der kleinste Ersatz **it is the third time she has
     used the number**.
+
+30. **`b2 ch89:18` gegen `b2 ch81:4,258`, Baeks erste Aufforderung an
+    Choi.** Kapitel 81 setzt das Gespraech mit Baek auf Montag, den 8. Februar,
+    und laesst den Brief am folgenden Mittwoch, dem 10. Februar, per Hand an
+    Chois Weiterleitungsadresse gehen. Kapitel 89 behauptet dagegen, Baek habe
+    erstmals **in March** wegen der Aussetzung geschrieben und am 2. April nur
+    deshalb erneut geschrieben, um zwei unbeantwortete Aufforderungen belegen
+    zu koennen. Beides beschreibt dieselbe erste Aufforderung; ein zusaetzlicher
+    Maerzbrief ist nirgends angelegt und wuerde aus dem Aprilbrief die dritte
+    machen. Der einzelne Monatsname in Kapitel 89 muss deshalb **He wrote in
+    February about the suspension** lauten.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
