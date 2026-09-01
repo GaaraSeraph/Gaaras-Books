@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.797 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.978 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2863,6 +2863,11 @@ und niemand muss ihn zitieren.
 122. **In dreissig Jahren ist Sim nie irgendwohin geschickt worden, um unangenehm zu sein.** Vierhundertmal geschickt worden, um gemocht zu werden. **Und er ist nie belogen worden:** *"He has never once needed to lie to me."*
 123. **Mr Ahn** ist **neununddreissig**, nicht fuenfundvierzig. Georgij hat ihn auf fuenfundvierzig gelesen und **irrt sich nie um mehr als ein Jahr** - das ist ein Takt und kein Fehler.
 124. **Ahn Jung-hee**, fuenfunddreissig, Schwester von Mr Ahn (vier Jahre juenger). Sie hiess **Jung-hee-ya bis etwa elf**; nach ihrem Weggang benutzte die Mutter es wieder am Telefon und nie in einem Raum. **Sie fuehrt den Haushalt in Gangwon-do seit etwa dreieinhalb Jahren.**
+    **Offener Kontinuitaetspunkt in `b2 ch64`:** Ihr Satz im Hof ist nicht das
+    erste Wort an einen Aussenstehenden seit vier Jahren. Sie hat viermal im
+    Jahr mit Sim telefoniert und in `b2 ch57` selbst geantwortet und gefragt.
+    Die Premiere gilt nur fuer die Zeit seit ihrem Gang aus dem Haus; siehe
+    `doc/31-plan-band-2.md`.
 125. **Do Kyung-ae ist Ahn Jung-hee.** Der fehlende Papierbestand beweist keinen falschen Namen, sondern dass die Person nie aufgeschrieben wurde - **dieselbe Lage, in der Georgij siebzehn Jahre war.**
 126. **Moon Hae-sook.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft. **Die Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, **und Sim weiss es bis heute nicht.**
 127. **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft, **vierhundertelf Hochzeiten in dreissig Jahren**, seit vier Jahren zu. *"Thirty years, and the useful thing about me is that I've got nothing left."*
@@ -17162,6 +17167,18 @@ freigegeben sind.
     **Annie and I are the only people other than the woman who wrote it who
     have read it.** Datum und Leserzahl sind getrennte Fehler und muessen bei
     der spaeteren Manuskriptkorrektur beide mitgenommen werden.
+20. **`b2 ch64:104` gegen `b2 ch56:70,132,270` und `b2 ch57:116-120,256-286`,
+    Ahn Jung-hees erste Worte.** Beim Verlassen des Hauses nennt der Erzaehler
+    ihren Satz im Hof *"the first thing she has said to anybody outside that
+    house in four years"*. Sie hat in diesen vier Jahren jedoch regelmaessig
+    mit Sim telefoniert: viermal jaehrlich ueber Heizung und Reparaturen. Im
+    letzten dieser Gespraeche antwortet sie mehrfach und fragt selbst, ob er
+    wegen des Dachs wieder anrufen werde. Der spaetere Absolutsatz loescht
+    diese fuer ihre Handlungsfaehigkeit wichtige Verbindung. Der kleinste
+    Ersatz bindet die Premiere nur an den gerade vollzogenen Ausgang:
+    **Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the
+    other, which took about a second, and said the first thing she had said
+    since she walked out of the house.**
 
 ---
 

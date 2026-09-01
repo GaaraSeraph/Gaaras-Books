@@ -2863,3 +2863,15 @@ freigegeben sind.
     **Annie and I are the only people other than the woman who wrote it who
     have read it.** Datum und Leserzahl sind getrennte Fehler und muessen bei
     der spaeteren Manuskriptkorrektur beide mitgenommen werden.
+20. **`b2 ch64:104` gegen `b2 ch56:70,132,270` und `b2 ch57:116-120,256-286`,
+    Ahn Jung-hees erste Worte.** Beim Verlassen des Hauses nennt der Erzaehler
+    ihren Satz im Hof *"the first thing she has said to anybody outside that
+    house in four years"*. Sie hat in diesen vier Jahren jedoch regelmaessig
+    mit Sim telefoniert: viermal jaehrlich ueber Heizung und Reparaturen. Im
+    letzten dieser Gespraeche antwortet sie mehrfach und fragt selbst, ob er
+    wegen des Dachs wieder anrufen werde. Der spaetere Absolutsatz loescht
+    diese fuer ihre Handlungsfaehigkeit wichtige Verbindung. Der kleinste
+    Ersatz bindet die Premiere nur an den gerade vollzogenen Ausgang:
+    **Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the
+    other, which took about a second, and said the first thing she had said
+    since she walked out of the house.**
