@@ -2687,3 +2687,43 @@ eigener Fehler und nicht als Erklärung des Erzählers:
 `b2 ch54:120` hat die Zahl schon einmal angezweifelt - *"A grocer's order is
 not a headcount. Kitchens over-order."* **Er hat die Schwäche seiner eigenen
 Zahl gekannt und trotzdem nicht weit genug gefragt.**
+
+---
+
+## Offen nach dem Kontinuitaetsdurchgang vom 01.09.2026
+
+**Der Manuskripttext ist an diesen Stellen noch unveraendert.** Die Funde sind
+hier festgehalten, bis die ausformulierten Aenderungen vorgelegt und vom Autor
+freigegeben sind.
+
+1. **`b2 ch60:112`, Baeks Unterschriften seit dem 2. Juni.** Bei
+   vierteljaehrlicher Sauerstoffzahlung liegen zwischen dem 2. Juni und dem
+   15. Oktober nur die Termine im Juni und September. *"I have signed four more
+   since the second of June"* muss deshalb auf **zwei** spaetere Unterschriften
+   gestellt werden; die Gesamtzahl vierundvierzig bleibt richtig.
+2. **`b2 ch65:104-156`, Besitz des Trust-Files.** Baek kuendigt an, Georgij die
+   Akte zu geben und nicht weiter selbst zu halten. Er legt sie auf den Tisch,
+   schiebt sie aber nicht hin, und die Szene endet ohne Uebergabe oder
+   Ruecknahme. In `b2 ch81` liegt dieselbe Akte wieder in Baeks Schrank. Der
+   sauberste Anschluss ist: Akte nur zur Einsicht oeffnen, *holding it alone*
+   beenden und vor dem Aufstehen ausdruecklich wieder in den Koffer legen.
+3. **`b2 ch66:46`, erste Stunde.** Am Donnerstag, dem 5. November, liegt Mrs
+   Jeons Vorlesen des Instruments nicht vier Tage, sondern **einen Tag** zurueck
+   (`b2 ch65`, Mittwoch, 4. November). *"four days ago"* muss *"yesterday"*
+   werden.
+4. **`b2 ch66:120-204`, Fahrt am 6. November.** Abfahrt um sieben erzeugt bei
+   Rueckkehr um 16:40 und knapp zwei Stunden im Haus eine nicht beabsichtigte
+   Hinfahrt von mehr als fuenf Stunden. Abfahrt um **neun** stellt die im Text
+   vorausgesetzte Strecke wieder her. Dazu gehoert in `:148` **route** statt
+   **coast** und in `:204` **four days** statt **six days**; Ahn Jung-hee kam am
+   Montag, dem 2. November, frei.
+5. **`b2 ch66:248`, Samstag, 7. November.** Seit Montag ist Ahn Jung-hee
+   **fuenf**, nicht sechs Tage aus dem Haus.
+6. **`b2 ch66:262`, Ort und Fahrzeuge am 2. November.** Die Szene spielt im Hof
+   ausserhalb von Wonju. Ahn Jung-hee steht im Hof; Georgij sitzt im einzigen
+   Wagen und steigt nicht aus. Incheon, die Frau im Wagen und der zweite Wagen
+   gehoeren nicht zu `b2 ch64`.
+7. **`b2 ch73:6,66,178`, Nams Hof.** Im Dezember kann dort kein eigener Lastwagen
+   mehr stehen: Zwei wurden am 23. und 24. April verkauft, die letzten beiden
+   bis Mitte Mai (`b2 ch18`, `b2 ch20`, `b2 ch21`, spaeter bestaetigt in
+   `b2 ch79`). Der Hof muss an allen drei Stellen leer sein.
