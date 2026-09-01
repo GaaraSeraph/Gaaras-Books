@@ -3115,6 +3115,25 @@ freigegeben sind.
     thirtieth of April Georgij said it would keep, and it has.** Damit wird
     Annies Auftrag nicht falsch bezahlt, sondern Georgijs liegen gelassene
     Schuld ehrlich im Text gehalten.
+40. **`b2 ch82:18-20` gegen `b2 ch80-81`, Annies zweites Mal im Februar.**
+    Am 12. Februar sagt Annie, Georgij habe ihr *that* zum zweiten Mal in
+    diesem Monat angetan: Er legt eine korrekte Alternative auf den Tisch, die
+    er nicht empfiehlt, damit sie nicht spaeter glaubt, sie selbst verworfen zu
+    haben. Seit Monatsbeginn gibt es davor jedoch keine Szene der beiden. Am 4.
+    Februar telefoniert Georgij mit Mrs Ha und schreibt abends allein; am 8.
+    Februar sitzt er bei Baek. Der Satz stammt bereits aus der frueheren
+    Oktoberfassung der Szene und hatte auch dort keinen sichtbaren ersten Fall.
+    Die Figurenaenderung traegt ohne unbelegte Zahl: **You have started doing
+    that to me and I want it to go on happening.**
+41. **`b2 ch87:498-518` gegen `b2 ch08:126`, Annies zwei gezaehlte
+    Glaubenssaetze.** Georgij sagt Nam Byung-hee am 20. Maerz 2026 *I believe
+    you* und Choi Dae-ho am 18. Maerz 2027 denselben Satz. Annies Zaehlung von
+    zwei ist damit genau und liegt sogar nur 363 Tage auseinander. Ihre
+    Formulierung *the second time you have done that this year* setzt beide
+    Faelle jedoch in dasselbe Kalenderjahr; Nams Szene liegt im Vorjahr. Die
+    kleinste Korrektur behaelt Zahl und nahezu jahresgenauen Rueckruf:
+    **That is the second time in a year you have done that. I have counted
+    both.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
