@@ -564,7 +564,7 @@ die beim Planen zaehlt.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 und 90: neun Anrufe, und er ueberlebt das Ende nicht |
+| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig bei Georgijs Eintrag am 27. Mai 2026, sechzig ab 18. November und bei seinem Tod. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 bis 90: neun Anrufe, und er ueberlebt das Ende nicht. **Offener Zahlenfehler:** 2002 war er nach dieser Altersfolge 35, waehrend der Roman 36 sagt |
 | **Nam Byung-hee** | **Spediteurin aus Ulsan** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
 | **Kang Ji-hoon** | **Beamter im Ministerium fuer Land und Infrastruktur**, mittlere Ebene | | B1 10 | Ruht |
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
@@ -744,35 +744,38 @@ Die Mechanik dahinter steht in `doc/14-welt.md` unter "Das Geschaeft".
 
 ### Annies Seite
 
-**Annies Vater** - tot, seit dreiundzwanzig Jahren, und er ist der Grund, aus dem
+**Annies Vater** - tot, seit fuenfundzwanzig Jahren, und er ist der Grund, aus dem
 dieser Band überhaupt läuft. **Er steht seit dem 25.08. hier, weil er im Buch
 stand und in keinem Figurendokument.** Kein Name im Text.
 
-- **Er hat Choi Dae-ho ins Haus gebracht.** Georgij, Kapitel 62: *"your father
+- **Er hat Choi Dae-ho ins Haus gebracht.** Georgij, `b2 ch78`: *"your father
   brought Choi Dae-ho into your house"*, und zuvor: *"Your father brought a man
-  to a table twenty-three years ago and was pleased with himself about it, and
-  he has been dead for twenty-three years."* **Beides im selben Jahr** - er hat
+  to a table twenty-five years ago and was pleased with himself about it, and
+  he has been dead for twenty-five years."* **Beides im selben Jahr** - er hat
   den Mann geholt und ist gestorben, ohne zu sehen, was daraus wurde.
-- **Annie war vierzehn.** Kapitel 27, aus ihrem Mund: *"I was fourteen. He was
-  at my father's table before I was allowed at it."* Kapitel 62 setzt nach:
+- **Annie war vierzehn.** `b2 ch25`, aus ihrem Mund: *"I was fourteen. He was
+  at my father's table before I was allowed at it."* `b2 ch78` setzt nach:
   *"What I have never said is that he had not been there the summer before."*
-- **Woher er kam.** Kapitel 62: *"He had two lorries and a shed and he could
+- **Woher er kam.** `b2 ch78`: *"He had two lorries and a shed and he could
   not read a contract, and by the end he had four hundred people."*
 - **Was das mit der Familie gemacht hat:** *"nobody in that house ever asked my
   father about anything"*, und *"That family has spent thirty years agreeing
   that he was right about everything."*
-- **Woo möchte ihn.** Kapitel 62: *"a man of seventy-eight who liked my
-  father"*; Kapitel 61: Woo hat in Annies Esszimmer gesessen, die Fotografien
+- **Woo mochte ihn.** `b2 ch78`: *"a man of seventy-eight who liked my
+  father"*; `b2 ch77`: Woo hat in Annies Esszimmer gesessen, die Fotografien
   ihres Vaters angesehen und ihr gesagt, sie seien schrecklich. Und der Vater
   zu Woo, ohne einen Namen zu nennen: *"he had spent forty years being right
   about people in four seconds and had found a man who could do it in one."*
 
-**Die Rechnung, die daran hängt, und sie geht auf.** Sie hat es mit vierzehn
-bemerkt, mit dreißig verstanden, und Kapitel 61 sagt: *"She has known for seven
-years that there was a man at her father's table who was wrong."* Sie ist
-siebenunddreißig - vierzehn plus dreiundzwanzig, dreißig plus sieben.
+**Die Rechnung, die daran haengt, geht im aktuellen Text nicht auf.** `b2 ch78`
+setzt vierzehn plus fuenfundzwanzig, also neununddreissig. Dasselbe Kapitel
+setzt dreissig plus sieben, also siebenunddreissig. Dazu sagt `b1 ch30`, Annie
+habe etwas seit ihrem einundvierzigsten Lebensjahr gewusst. **Diese drei Zahlen
+haben keine gemeinsame Loesung.** Der Romantext bleibt bis zur
+Autorenentscheidung unangetastet; der Fehler ist in `doc/15-kalender.md`
+vollstaendig verbucht.
 
-**Und die Regel, die Georgij daraus zieht** (Kapitel 62): *"Everything that man
+**Und die Regel, die Georgij daraus zieht** (`b2 ch78`): *"Everything that man
 has done since is his own... none of it is a debt that came down to you."* Wer
 den Vater als Entschuldigung für Annie schreibt, schreibt gegen diese Szene.
 
@@ -1624,13 +1627,18 @@ und niemand muss ihn zitieren.
 131. **Woos Finanzier aus b1 K13** (*"what would happen to the terminal if I died on the Tuesday"*) **ist nicht Choi** und darf nie mit ihm verwechselt werden. Der Text benennt sie ausdruecklich als zwei Maenner.
 132. **Baek Jun-ho** hat **einunddreissig Jahre** im Fach und **elf Treuhandschaften gebaut**, und in keiner davon sah eine Treuhaenderloesung hinterher besser aus.
 
-133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist 59, war also 36.
+133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist am 27. Mai 2026 neunundfuenfzig und ab dem 18. November sechzig; mit dem gefuehrten Geburtstag war er im April 2002 also **fuenfunddreissig**. Der Roman nennt ihn dort wiederholt sechsunddreissig. **Offener Kontinuitaetsfehler, Romantext nicht ohne Autorenfreigabe aendern.**
 134. **Woo war nicht das Gekaufte. Er war die Tuer.** *"You give him one thing to do that he cannot undo, and then he leaves on his own, and he never once says why."* **Choi hat einen Fall geschlossen, den er bereits gewonnen hatte.**
 135. **Der Staatsanwalt kam allein in den Hof, ass das Mittagessen nicht an und stellte eine Frage:** *"who I would telephone if it went badly."* Woo nannte drei Namen. Sechs Wochen spaeter war die Akte zu. **Niemand hat bezahlt.**
 136. **DER NAME: Annies Vater hat ihn ins Haus geholt.** Ein Mann aus Incheon, von unten hochgekommen, **konnte keinen Vertrag lesen** (die Mutter las sie ihm nach dem Essen vor, b1 K30) und urteilte in vier Sekunden richtig ueber Menschen. **Wer keinen Vertrag lesen kann, braucht jemanden, der ihm sagt, wem er ja sagen soll.**
 137. **Die Beleglage ist ausdruecklich dreigeteilt und muss es bleiben:** vier Woerter eines Schreibers auf einem Korridor, ein Satz bei einem Mittagessen 2002, und dazwischen das Urteil eines Achtundsiebzigjaehrigen. **Georgij sagt selbst, wie duenn das ist.**
 138. **Offen gelassen und ausdruecklich benannt:** *"There is also nothing in it which requires him not to have known."*
-139. **Der unfreundlichste Satz des Buches, und Annie verlangt ihn:** ihr Vater wurde nicht getaeuscht. *"He looked at a prosecutor of thirty-six who had just ended himself, and he knew exactly what he was looking at. **He was pleased with it.**"*
+139. **Was der Roman ueber Annies Vater gerade nicht behauptet:** dass er
+  wusste, was er aus Choi machte. `b2 ch77` setzt die Grenze ausdruecklich:
+  *"There is nothing in any of that which requires him to have known what he
+  was making."* Sicher ist nur, dass er den Mann nahm und mit der eigenen
+  Menschenkenntnis zufrieden war. Der fruehere Satz, er habe genau gewusst,
+  was er sah, war unbelegt und zu hart.
 140. **Warum die Form elf Jahre erklaert:** *"A man who bought his position guards it. A man who was given it does not, because he has never once been asked to account for it."*
 141. **DIE WAND, DIE DEN BAND TRAEGT:** *"a thing that was given has no price, and a man who has no price cannot be bought out, and I have been building the wrong instrument since March."*
 142. **Was Annie mit dreissig verstanden hat, ist nicht, dass Choi gefaehrlich war, sondern dass er angekommen ist** - dass er nicht immer da war, und dass nie jemand gefragt hat, wie.

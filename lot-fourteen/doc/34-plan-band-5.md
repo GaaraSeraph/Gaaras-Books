@@ -690,13 +690,20 @@ nie erklaeren, warum.
 Annie, echt gemeint** - dasselbe Wort, mit allem darin, und diesmal, weil er
 die Antwort braucht.
 
-## Was es kostet, und es ist nicht Reue
+## Was es kostet: keine Reue ueber den Ausgang, aber ein Bruch
 
-**Reue waere falsch.** `b2 ch89:74` gibt den Ton: *He is not sorry about it
-and he has stopped waiting to become sorry about it.*
+**Die alte Fassung *es ist nicht Reue* war zu flach.** `b2 ch90` trennt die
+beiden Dinge exakt: *"I am not sorry that he is dead. I am sorry that is
+true."* Georgij bereut Chois Tod als Ergebnis nicht und wuerde die Entscheidung
+fuer Annie wieder treffen. **Aber der Mord hat etwas in ihm gebrochen, und die
+Menschen hinter Choi sind kein Nebensatz mehr.**
 
-**Der Preis ist strukturell, und er ist genau der, den Band 5 ohnehin
-aufgemacht hat.**
+**Dass er es wieder tun wuerde, beruhigt ihn; es spricht ihn nicht frei.** Der
+Text sagt beides: *"The second did not acquit him of the first. Saying it did
+not mend the thing the first had broken. His shoulders came down anyway."*
+
+**Der Preis ist moralisch und strukturell, und der strukturelle Teil ist genau
+der, den Band 5 ohnehin aufgemacht hat.**
 
 **1. Es kann nicht abgelegt werden.** Seine ganze Macht ist die staendige
 Reihe - *it cannot be sealed and it cannot be withdrawn*. **Hwang loescht

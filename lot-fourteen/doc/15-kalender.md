@@ -14,10 +14,10 @@ Kalender, Kapitelstand, wiederkehrende Bilder, woertlich festgelegte Zeilen. Die
 
 ---
 
-## ⚠ Kapitelnummern in Band 2: zwei Verschiebungen, keine nachgezogen
+## Kapitelnummern in Band 2: mehrere Verschiebungen, alte Verweise bleiben markiert
 
-**Band 2 hat neunundachtzig Kapitel** (gezaehlt am 29.08. ueber
-`chapters-2/`; die Zahl fuenfundachtzig stand hier und war ueberholt).
+**Band 2 hat neunzig Kapitel** (aktueller Stand ueber `chapters-2/`; die
+Zahlen fuenfundachtzig und neunundachtzig waren Zwischenstaende).
 
 **Es hat drei Nummerierungsgenerationen gegeben** - vor dem 27.08., die
 Umnummerierung vom 27.08. (`archiv/UMNUMMERIERUNG.md`), und die Teilung vom
@@ -77,15 +77,19 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
-89 spielen im Jahr 2027 - Kapitel 76 faengt an Tag 460, dem 6. Januar, an. Bis zum Umbau endete der Band im November 2026, und
-alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber alle 123 Kapitel geprueft und stimmen:
+90 spielen im Jahr 2027 - Kapitel 76 faengt an Tag 460, dem 6. Januar, an. Bis zum Umbau endete der Band im November 2026, und
+alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber alle 126 Kapitel geprueft und stimmen:
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 *"Sunday 16 May"*, der Kalender sagt Sonntag.
 
-**Annie ist damit achtunddreissig.** Woo sagt in Band 2, Kapitel 73, dass sie
-2002 vierzehn war; das ergibt Geburtsjahr 1987 oder 1988. Passt zu `doc/11-figuren.md`
-("Ende dreissig") und zu Kapitel 62, in dem sie seit ihrem dreissigsten
-Lebensjahr Geschaefte macht.
+**Annies Alter ist damit nicht mehr eindeutig, sondern ein offener
+Kontinuitaetsfehler.** `b2 ch78` sagt zugleich: im Fruehjahr 2002 vierzehn,
+seit fuenfundzwanzig Jahren am Tisch, mit dreissig verstanden und seit sieben
+Jahren gewusst. Mit dem gefuehrten Geburtstag 18. September ergeben die ersten
+beiden Angaben **39** im Januar 2027; die letzten beiden ergeben **37**. `b1
+ch30` setzt mit *"since I was forty-one"* noch eine dritte unvereinbare
+Untergrenze. **Keine dieser Romanstellen wird ohne Autorenentscheidung
+geaendert.**
 
 **ZWEI JAHRESANGABEN WIDERSPRACHEN DEM KALENDER, und die erste ist am 26.08. als
 erledigt verbucht worden, ohne dass sie je im Text ankam:**
@@ -110,6 +114,12 @@ erledigt verbucht worden, ohne dass sie je im Text ankam:**
    | 2026 | **vierundzwanzig** | 17, 29, 63 (fuenfmal), 64, 67 (zweimal) |
    | 2027 | **fuenfundzwanzig** | 71 (zweimal), 72 (dreimal), 75, 76, 77 (zweimal), 79, 80 (dreimal) |
 
+   **Der Lauf ist trotzdem nicht sauber:** Im aktuellen `b2 ch69`, am 11.
+   Dezember 2026, steht einmal *"Twenty-three years ago there was a customs
+   matter"* und wenige Zeilen spaeter mehrfach *"twenty-four years"*. Das ist
+   ein Widerspruch innerhalb derselben Szene. Der Romantext bleibt bis zur
+   Autorenfreigabe stehen.
+
    **Nicht angefasst, weil richtig:** Mrs Jeons dreiundzwanzig Jahre hinter dem
    Glas (sechzehn Stellen), Mr Chaes dreiundzwanzig Jahre Urkunden, der Neffe von
    dreiundzwanzig, die dreiundzwanzig Tage in Gwangyang, die dreiundzwanzig
@@ -132,11 +142,13 @@ kommt ueber dreissigmal vor (Kapitel 6, 7, 27 bis 34, 71, 78, 83) und hat mit
 2002 nichts zu tun. **Wer hier je wieder sucht, muss die beiden Bestaende
 trennen, bevor er ersetzt.**
 
-**OFFEN GEBLIEBEN, weil es an Annies Alter haengt und nicht am Kalender:**
-Kapitel 61 und 62 sagen, sie habe *"seven years"* gewusst, dass ein Mann am
-Tisch ihres Vaters falsch war, und sie habe es **mit dreissig** verstanden. Bei
-Geburtsjahr 1987/88 waere das 2017/18 und damit **acht** Jahre. Nicht geaendert,
-weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
+**OFFEN GEBLIEBEN, weil es eine Autorenentscheidung im Romantext braucht:**
+`b2 ch77` und `b2 ch78` sagen viermal *"seven years"*, obwohl das Kapitel
+zugleich 2002, vierzehn, dreissig und fuenfundzwanzig Jahre festlegt. Seit der
+Verlaengerung bis Mai 2027 ist *seven* keine tragfaehige Rundung mehr: aus dem
+gefuehrten Geburtstag folgt **neun Jahre seit dreissig**. Die fruehere
+Autorenentscheidung fuer *seven* ist damit durch den spaeteren Zeitstrahl
+eingeholt worden.
 
 ### Kalender
 
@@ -627,9 +639,15 @@ Band 2 an das Jahresende gerutscht, und die Zahl ist mitgereist. Der einzige
 Ort, an dem das auffaellt, ist eine Liste, die jede Altersangabe neben den Tag
 stellt, an dem sie faellt - und die gab es bis zum 28.08. nicht.
 
-**Chois Alter ist bei derselben Probe geprueft worden und stimmt.** `b2 ch25`
-nennt ihn am 27. Mai 2026 neunundfuenfzig, und fuenf Stellen am 18. Maerz 2027
-nennen ihn *a man of sixty*. Sein Geburtstag, der 18. November, liegt dazwischen.
+**Chois Alter in der Gegenwart stimmt.** `b2 ch25` nennt ihn am 27. Mai 2026
+neunundfuenfzig, und fuenf Stellen am 18. Maerz 2027 nennen ihn *a man of
+sixty*. Sein Geburtstag, der 18. November, liegt dazwischen.
+
+**Sein historisches Alter stimmt dagegen nicht.** Mit diesem Geburtstag war er
+am 11. April 2002 fuenfunddreissig. `b2 ch69`, `ch77`, `ch78`, `ch82`, `ch84`,
+`ch86` und `b3 ch02` nennen ihn dort sechsunddreissig. Auch `b3 ch02` sagt
+vierundzwanzig Jahre Dienstende, obwohl vom 22. April 2002 bis zum 26. Mai 2027
+fuenfundzwanzig Jahre vergangen sind. **Romantext offen.**
 
 **Das Fenster gibt es nicht mehr, und der Band ist fertig.** Band 2 endet auf
 **Tag 590, Sonntag dem 16. Mai 2027**. Zwischen Tag 1 und Tag 590 liegen
@@ -775,9 +793,9 @@ Folgen, beide Wege betreffend:
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
 | **Georgij** | 26 bei der Auktion, **27 ab dem 28. Juni des zweiten Jahres** | **28. Juni**, vom Autor am 26.08. gesetzt, und der Katalog gilt | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
-| **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 73 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
+| **Annie** | **offen: 37 oder 39; `b1 ch30` setzt sogar mindestens 41** | **18. September** (war 3. August) | `b2 ch78` enthaelt zwei unvereinbare Rechnungen: vierzehn plus fuenfundzwanzig und dreissig plus sieben. Romantext offen |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
-| **Choi Dae-ho** | 59 | **18. November** (war 8. September) | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
+| **Choi Dae-ho** | 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*. Historisches Alter 2002 ist im Roman um ein Jahr zu hoch |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
 | **Mrs Sunwoo** | 81 | **17. November** (war 29. September, davor 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
@@ -1220,11 +1238,14 @@ unbemerkt abgeschaltet haette. Nach jeder Aenderung an einem dieser Skripte
 gilt derselbe Satz wie fuer den Text: einmal absichtlich kaputtmachen und
 nachsehen, ob es feuert.
 
-## Band 2 wird 89 Kapitel: ch26 und ch29 sind je drei geworden
+## Historischer Umbau: Band 2 wurde zunaechst 89 Kapitel
 
 **Am 28.08. ausgefuehrt.** Gegen einen Median von **2.512 Woertern** stand
 ch29 bei **7.395** und ch26 bei **6.716**. ch35 ist am selben Tag bei 7.940
 geteilt worden; diese zwei waren die letzten daneben.
+
+**Spaeter wurde das damalige Schlusskapitel noch einmal geteilt; der aktuelle
+Band hat neunzig Kapitel.**
 
 **ch26 war der auffaelligere Fall:** sechstausendsiebenhundert Woerter ueber
 zwei Tage mit **einem einzigen Szenentrenner**.

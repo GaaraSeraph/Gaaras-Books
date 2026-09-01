@@ -162,7 +162,7 @@ def live(d):
 
 def eichung(root):
     """Der Detektor muss den bekannten Fund finden, sonst meldet er nichts."""
-    probe = os.path.join(root, "chapters-2", "ch38_v2_0_en.md")
+    probe = os.path.join(root, "archiv", "band-2-vor-umbau", "ch38_v2_0_en.md")
     if not os.path.exists(probe):
         print("  EICHUNG UEBERSPRUNGEN: das Belegexemplar %s ist nicht mehr da." % probe)
         print("  Ohne Eichung ist jedes Ergebnis dieses Skripts wertlos.")

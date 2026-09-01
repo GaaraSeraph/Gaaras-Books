@@ -3437,6 +3437,12 @@ Figuren benutzen denselben Befehl.** Das ist genau der Fehler, den dieses
 Dokument bei Nebenfiguren sonst jagt: eine Figur, die redet wie Georgij mit
 einem anderen Namen davor.
 
+**Das ist ein historischer Ausgangsstand, kein aktueller Zaehler.** Am 01.09.
+meldet dasselbe Skript ueber 126 Kapitel 371 Stellen: 213 bei Annie und
+Sang-hoon, 62 bei Sprechern, die sie nach der Regel nicht behalten, und 96
+nicht sicher zugeordnete. Diese Zahlen ersetzen die damalige Messung nicht;
+sie beschreiben den heutigen Restbestand.
+
 **Entscheidung des Autors, 26.08.: *"Annie und Sang-hoon behalten ihn, mach den
 Rest."*** Bei diesen beiden trägt die Machtlage den Befehl - sie fordern, und
 der andere liefert. Bei allen anderen wird er ersetzt.
@@ -3593,4 +3599,3 @@ Zeile mit genau *"There is a rest of it"* antwortet.
 Nominalphrase, weil der andere gerade selbst gesagt hat, was kommt. Sim sagt
 *"You will not like the last of it"* - Georgij antwortet *"The last of it."*
 Kürzer als ein Beat, und es zeigt, dass er zuhört.
-

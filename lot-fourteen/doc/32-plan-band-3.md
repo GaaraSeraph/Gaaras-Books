@@ -476,12 +476,12 @@ Georgij Chois Tod vor.
 **Choi ist tot, und das ist am 28.08. eindeutig gemacht worden.** Das
 Kapitel liess es offen - *has not been seen*, *nobody knows where he is* -,
 und das war nicht die Absicht: sie steht seit dem 26.08. im Buch, *Choi
-ueberlebt das Ende nicht, und Georgij hat ihn trotzdem nicht gehabt.*
+ueberlebt das Ende nicht.*
 
 `b2 ch89` sagt jetzt:
 
 > *Choi Dae-ho has been dead since the eighth of April.*
-> *Nobody in this book knows whose hand it was, and nobody has looked.*
+> *Nobody has found out whose hand it was, and nobody has looked.*
 
 **Die Mechanik war schon gebaut.** `b2 ch65:134` sagt ueber den Trust: *By
 him. Not by his estate, not by a successor, not by a person acting under a
@@ -490,23 +490,27 @@ Errichter stirbt, erfaehrt es, und das Kapitel erfaehrt ohnehin alles so: ein
 Blatt kommt zurueck. Baek bekommt es aus einer Kanzlei in Jung-gu, von einer
 Sachbearbeiterin, die keine Ahnung hat, was sie gerade sagt.
 
-**Was sich nicht geaendert hat und nicht aendern darf:** niemand in diesem
-Haus hat es getan, niemand hat es bestellt, und niemand sieht nach.
-Georgijs Zeile lautet jetzt *"A man went out of a gate on the eighteenth of
-March and was dead three weeks later, and it was not me, and I do not know
-whose it was."* Achtzehnter Maerz bis achter April sind genau einundzwanzig
+**Was sich nicht geaendert hat:** niemand in diesem Haus hat die Hand
+bestellt, und niemand sieht ihr nach. **Was `b2 ch90` geaendert hat, ist die
+Verantwortung.** Georgijs Zeile lautet jetzt: *"A man went out of a gate on
+the eighteenth of March with nothing left, because I had taken all of it off
+him myself over eleven months. He was dead three weeks later. I do not know
+whose hand it was."* Annie trennt die Hand von der Tat, und er sagt: *"I
+killed him."* Achtzehnter Maerz bis achter April sind genau einundzwanzig
 Tage.
 
 **Damit ist die Anklage des Freundes schwerer als eine richtige.** Der Tod
-steht fest. Georgij kann wahrheitsgemaess sagen, dass er ihn nicht getoetet
-hat - und er kann **nicht sagen, wer es war, weil er es nicht weiss und weil
-er sich darum gebracht hat, es zu wissen.** Das Muster steht im Buch: bei
-Byun sagt er *"it was not us who did that and I arranged not to know how"*.
+steht fest. Georgij kann wahrheitsgemaess sagen, dass er weder die Hand war
+noch einen Auftrag gegeben hat. **Er kann nicht bestreiten, Choi getoetet zu
+haben**, und er kann nicht sagen, wer den letzten Schritt tat, weil er es nicht
+weiss und weil er sich darum gebracht hat, es zu wissen. Das Muster steht im
+Buch: bei Byun sagt er *"it was not us who did that and I arranged not to know
+how"*.
 
 **Ein Mann, der nie luegt, hat auf den schwersten Vorwurf seines Lebens genau
 eine Antwort, und sie klingt wie eine Ausrede.**
 
-### Wie er Kontakt aufnimmt: eine Einladung zur Beisetzung
+### Wie er Kontakt aufnimmt: eine Einladung zum Ritus am neunundvierzigsten Tag
 
 **Vom Autor am 28.08.** Er laedt **Georgij** ein. Ausdruecklich ihn - nicht
 Annie, und niemanden sonst aus dem Raum. **Damit ist es bestaetigt.**
@@ -514,8 +518,8 @@ Annie, und niemanden sonst aus dem Raum. **Damit ist es bestaetigt.**
 **Bestaetigt ist dabei dreierlei auf einmal**, und keines davon steht auf dem
 Blatt:
 
-* **dass Choi tot ist.** Zu einer Beisetzung wird nicht eingeladen, wenn
-  jemand verschwunden ist.
+* **dass Choi tot ist.** Einen Ritus am neunundvierzigsten Tag gibt es nicht
+  fuer einen Verschwundenen.
 * **dass jemand weiss, wer Georgij ist** und was er getan hat, und zwar genau
   genug, um ihn von den anderen sechsundzwanzig zu trennen.
 * **dass es eine Vorladung ist und keine Hoeflichkeit.** Wer den Mann einlaedt,
@@ -1664,11 +1668,12 @@ telephone call."** Georgij hat der Kaeuferin gesagt, was in ihrem Exemplar des
 Katalogs nicht gestrichen war (`b2 ch16:44`). **Der Fonds war der zweite
 Stein, nicht der erste.**
 
-**Was trotzdem nicht stehenbleiben kann, ist *I have burnt them all to the
-ground*** - wegen Choi. Georgij hat ihn ausdruecklich nicht getoetet, und
-`b2 ch89:70` sagt, was er stattdessen getan hat: *Georgij worked out what that
-meant on the afternoon he heard about it, and it took him about four seconds,
-and it is the one thing this year that he has not written down.*
+**Die fruehere Berichtigung zu *I have burnt them all to the ground* ist durch
+`b2 ch90` ueberholt.** Georgij sagt dort ausdruecklich *"I killed him."* Er ist
+nicht froh ueber die Tat und nicht freigesprochen: *"I am not sorry that he is
+dead. I am sorry that is true."* Zugleich wuerde er es fuer Annie wieder tun.
+**Damit darf Choi in der Burnt-Zeile stehen; gerade er gibt ihr den Preis, den
+die anderen Faelle nicht hatten.**
 
 **Die wahre Fassung ist schlimmer als die Prahlerei**, und sie ist jetzt
 schmaler begruendet und dadurch schaerfer.
@@ -3889,10 +3894,13 @@ irgendjemand von dem Vormittag behalten haette. **Also unterschreibt er, und
 damit steht sein Name zum ersten Mal in seiner eigenen Handschrift in einem
 Dokument** - beim Ritus fuer den Mann, den er auseinandergenommen hat.
 
-**Das Bild vorn ist der Sechsunddreissigjaehrige.** Jemand hatte
-vierundzwanzig Jahre Fotografien zur Auswahl und ist an allen vorbei
-zurueckgegangen. Georgij sieht es an, bevor Gong den Satz sagt, und der Satz
-lautet:
+**Das Bild vorn ist im geschriebenen Kapitel der
+Sechsunddreissigjaehrige.** Jemand hatte dort vierundzwanzig Jahre Fotografien
+zur Auswahl und ist an allen vorbei zurueckgegangen. **Beide Zahlen
+widersprechen inzwischen dem Kalender:** mit dem gefuehrten Geburtstag war
+Choi im April 2002 fuenfunddreissig, und bis Mai 2027 sind fuenfundzwanzig
+Jahre vergangen. Der folgende Wortlaut ist aktueller Romantext und bleibt bis
+zur Autorenfreigabe stehen:
 
 > "He was thirty-six and he was the best man in that building at the thing he
 > did. ... The fifth one he did not take apart."
@@ -4085,11 +4093,11 @@ sie.**
 
 1. **Die Karte kommt ins Haus**, an Georgij, mit Namen. Mrs Seo nimmt sie an.
    **Geschrieben: `b3 ch01`, Tag 592.**
-2. **Chois Beisetzung.** Georgij als Einziger, der nicht trauert und es nicht
-   vorgibt. Erste Begegnung mit dem Oberstaatsanwalt.
+2. **Der Ritus am neunundvierzigsten Tag.** Georgij als Einziger, der nicht
+   trauert und es nicht vorgibt. Erste Begegnung mit dem Oberstaatsanwalt.
    **Geschrieben: `b3 ch02`, Tag 600, der neunundvierzigste Tag.**
 3. **Die Anklage:** *"I am interested in what you are going to be at
-   fifty-nine."*
+   sixty."*
 4. **Lot elf kommt an** - frueh im Band, damit er da ist und lernt, waehrend
    alles Uebrige passiert.
 5. **Der Feldzug beginnt:** die Geschwister, die Anteile, die ersten Kaeufe.
@@ -4422,8 +4430,8 @@ herausgibt. Am Bandende offen, und der Text weiss es.**
 halbe Seite.**
 
 **Warum frueh:** es ist eine Bringschuld aus Band 2, und ein Band, der mit
-einer Beisetzungskarte anfaengt, soll nicht auch noch mit einem alten
-Versprechen anfangen. **Ausserdem ist es die letzte Sache, die den Ahn-Faden
+einer Karte zum Ritus am neunundvierzigsten Tag anfaengt, soll nicht auch noch
+mit einem alten Versprechen anfangen. **Ausserdem ist es die letzte Sache, die den Ahn-Faden
 schliesst** - und Band 3 braucht den Tisch frei.
 
 **Und der Ton ist der von `b2 ch65`: ohne Umschreibung.** Datum, Wortlaut,
@@ -4842,12 +4850,13 @@ Staatsanwalt herausgeholt hat.**
 
 **Damit steht folgendes fest und ist nicht mehr verhandelbar:**
 
-* **Choi war ein guter Staatsanwalt.** Sechsunddreissig, hatte den Fall
-  gewonnen, haette in neun Jahren oben gestanden.
+* **Choi war ein guter Staatsanwalt.** Der aktuelle Roman sagt
+  sechsunddreissig; der Kalender ergibt fuenfunddreissig. Er hatte den Fall
+  gewonnen und waere oben angekommen.
 * **Annies Vater hat ihn kaputtgemacht**, indem er ihm eine Sache zu tun gab,
   die er nicht rueckgaengig machen konnte.
 * **Choi ist nicht schlecht geboren worden. Dieses Haus hat ihn hergestellt.**
-* **Und vierundzwanzig Jahre spaeter hat der Mann dieses Hauses ihn
+* **Und fuenfundzwanzig Jahre spaeter hat der Mann dieses Hauses ihn
   auseinandergenommen, und drei Wochen danach war er tot** (achtzehnter Maerz
   bis achter April, einundzwanzig Tage).
 
@@ -4861,25 +4870,30 @@ bekommt das, was ihm gefehlt hat: **einen Grund, der nicht Trauer heisst.**
 **Er hasst ihn, und der Hass ist begruendet**, und das ist etwas anderes als
 ein Freund, der traurig ist.
 
-### Die Anklage, und Georgij hat darauf keine Antwort
+### Die Anklage: Georgij kann die Tat zugeben, aber sich nicht freisprechen
 
-**Sie lautet nicht *du hast ihn getoetet*.** Das waere leicht, denn es ist
-nicht wahr, und Georgij kann es wahrheitsgemaess bestreiten.
+**Sie darf lauten *du hast ihn getoetet*, denn `b2 ch90` macht das wahr.**
+Allein reicht sie trotzdem nicht: Georgij hat sie bereits selbst ausgesprochen
+und wuerde dieselbe Entscheidung wieder treffen. Die Anklage muss deshalb von
+der Tat auf das fuehren, was aus ihm wird.
 
 **Sie lautet: dieses Haus hat ihn gemacht, und dieses Haus hat ihn wieder
 weggeraeumt, und du bist der Zweite.**
 
 **Entwurf, damit die Achse steht:**
 
-"I am not accusing you of killing him. You would enjoy that, because you could answer it."
+"I know you killed him. That is not the question I brought you here to answer."
 
-"Then say the other one."
+"Then say the question."
 
-"A man in that house bought him at thirty-six. A man in that house finished him at fifty-nine." He did not raise his voice anywhere in it. "He spent twenty-four years being what one afternoon in April made him. You have had two."
+"A man in that house bought him at thirty-five. A man in that house finished him at sixty." He did not raise his voice anywhere in it. "He spent twenty-five years being what one afternoon in April made him. You have had two."
 
 Georgij did not move from where he was standing.
 
-"I am not interested in what you have done. I have read all of it and none of it is a crime." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at fifty-nine."
+"I am not interested in whether you can justify what you did." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at sixty."
+
+**Die Alterszahlen in diesem Entwurf sind die rechnerische Sollfassung.** Der
+Romantext in Band 2 und `b3 ch02` wird erst nach Autorenfreigabe nachgezogen.
 
 **Das ist der Satz, den er nicht beantworten kann**, weil er ueber die Zukunft
 geht und er ueber die Zukunft keine Belege hat. **Und weil er nie etwas

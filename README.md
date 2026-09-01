@@ -4,7 +4,8 @@ Manuskripte in Arbeit, Englisch geschrieben. Ein Ordner je Buch.
 
 ## Lot Fourteen
 
-[`lot-fourteen/`](lot-fourteen/) · Kapitel 1 bis 17, ca. 50.000 Woerter
+[`lot-fourteen/`](lot-fourteen/) · Band 1 und 2 abgeschlossen (124 Kapitel),
+Band 3 begonnen · derzeit ca. 338.000 Woerter
 
 Literarischer Roman, Suedkorea in der Gegenwart, Chaebol-Milieu. Auf einer
 illegalen Schulduebernahme-Auktion wird ein Mann, seit seinem neunten Jahr
