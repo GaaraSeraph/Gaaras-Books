@@ -2766,3 +2766,31 @@ freigegeben sind.
    vollstaendigen Registerkauf, nicht dessen Monat. Der kleinste Eingriff ist,
    in B2 87 **in November** durch eine Rueckschau auf den Mai-Juni-Abschluss zu
    ersetzen.
+10. **`b2 ch89:92` gegen `b2 ch89:110`, Ahns Tassen.** Sie kann nicht seit dem
+    2. November persoenlich jede Tasse um elf und vier gebracht haben und im
+    April zugleich drei Tage bei ihrem Bruder geblieben sein. B2 80 hat die
+    tragende, genaue Fassung bereits: *"the woman who brings it in has been free
+    since the second of November and brings it anyway"*. Kapitel 89 sollte
+    **and she has not missed one** auf **and brings it anyway** zurueckstellen.
+11. **`b2 ch89:120` gegen `b2 ch61:166`, Mrs Jeons Prognose.** Sie sagt am
+    Freitag, dem 23. Oktober, der Neffe werde im Januar nicht mehr glauben, er
+    schulde ihr etwas fuer die Abgabe. Kapitel 89 behauptet faelschlich, sie
+    habe das im November gesagt. Dass es schon im November statt im Januar
+    eintritt, ist als fruehe Einloesung ausdruecklich erzaehlt und kein Fehler;
+    nur **She said in November** muss **She said in October** heissen.
+12. **`b2 ch89:142` gegen `b2 ch80:238` und `b2 ch83:238`, Moons zwei Bitten.**
+    Von den zweiundsechzig Hochzeitsgaesten sind vier bereits geklaert und
+    achtundfuenfzig offen. *"The second of the two is the one she has been
+    answered on"* behauptet zu absolut, nur die Bitte wegen des Bandes sei
+    beantwortet. **the only one she has been answered on completely** behaelt
+    den Unterschied zwischen abgeschlossener und teilweise bezahlter Bitte.
+13. **`b2 ch90:68`, die vier Kollateralschaeden.** Zwei Praesensbehauptungen
+    stehen gegen den eigenen Kanon. Nam hat ihre vier Lastwagen bis Mitte Mai
+    des Vorjahres verkauft (`b2 ch18`, `b2 ch20`, `b2 ch79`), und die
+    **dreissig Jahre** bezeichnen durchgehend Hwangs permanente Serie, nicht das
+    Alter des Auktionshauses (`b2 ch07`, `b2 ch10`, `b2 ch87`). Das Haus
+    existierte nachweislich schon 1988. Der sauberste Ersatz fuer die ersten
+    beiden Saetze der Aufzaehlung ist: *"There was a woman in Ulsan with four
+    trucks. There was an auction house on that river with thirty years of
+    records."* Das stellt Nam in den historischen Moment und haengt die Zahl an
+    den richtigen Gegenstand.

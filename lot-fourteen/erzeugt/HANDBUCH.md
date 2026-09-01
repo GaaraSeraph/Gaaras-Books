@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 311.979 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 312.801 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17044,6 +17044,34 @@ freigegeben sind.
    vollstaendigen Registerkauf, nicht dessen Monat. Der kleinste Eingriff ist,
    in B2 87 **in November** durch eine Rueckschau auf den Mai-Juni-Abschluss zu
    ersetzen.
+10. **`b2 ch89:92` gegen `b2 ch89:110`, Ahns Tassen.** Sie kann nicht seit dem
+    2. November persoenlich jede Tasse um elf und vier gebracht haben und im
+    April zugleich drei Tage bei ihrem Bruder geblieben sein. B2 80 hat die
+    tragende, genaue Fassung bereits: *"the woman who brings it in has been free
+    since the second of November and brings it anyway"*. Kapitel 89 sollte
+    **and she has not missed one** auf **and brings it anyway** zurueckstellen.
+11. **`b2 ch89:120` gegen `b2 ch61:166`, Mrs Jeons Prognose.** Sie sagt am
+    Freitag, dem 23. Oktober, der Neffe werde im Januar nicht mehr glauben, er
+    schulde ihr etwas fuer die Abgabe. Kapitel 89 behauptet faelschlich, sie
+    habe das im November gesagt. Dass es schon im November statt im Januar
+    eintritt, ist als fruehe Einloesung ausdruecklich erzaehlt und kein Fehler;
+    nur **She said in November** muss **She said in October** heissen.
+12. **`b2 ch89:142` gegen `b2 ch80:238` und `b2 ch83:238`, Moons zwei Bitten.**
+    Von den zweiundsechzig Hochzeitsgaesten sind vier bereits geklaert und
+    achtundfuenfzig offen. *"The second of the two is the one she has been
+    answered on"* behauptet zu absolut, nur die Bitte wegen des Bandes sei
+    beantwortet. **the only one she has been answered on completely** behaelt
+    den Unterschied zwischen abgeschlossener und teilweise bezahlter Bitte.
+13. **`b2 ch90:68`, die vier Kollateralschaeden.** Zwei Praesensbehauptungen
+    stehen gegen den eigenen Kanon. Nam hat ihre vier Lastwagen bis Mitte Mai
+    des Vorjahres verkauft (`b2 ch18`, `b2 ch20`, `b2 ch79`), und die
+    **dreissig Jahre** bezeichnen durchgehend Hwangs permanente Serie, nicht das
+    Alter des Auktionshauses (`b2 ch07`, `b2 ch10`, `b2 ch87`). Das Haus
+    existierte nachweislich schon 1988. Der sauberste Ersatz fuer die ersten
+    beiden Saetze der Aufzaehlung ist: *"There was a woman in Ulsan with four
+    trucks. There was an auction house on that river with thirty years of
+    records."* Das stellt Nam in den historischen Moment und haengt die Zahl an
+    den richtigen Gegenstand.
 
 ---
 
@@ -20887,12 +20915,19 @@ eine spaetere Entnahme.** Sie wird im Saal eingeloest und nicht spaeter.
 **Was das Kapitel sonst festlegt:**
 
 * **Mrs Seo kommt zum zweiten Mal in zehn Jahren nach oben**, und das erste
-  Mal war `b2 ch23`, wegen Yeoms Anruf. Sie misst und fragt nicht, wie immer,
-  und ihr letzter Satz ist der schlimmste: *he was not looking at the house
-  the way a man looks at a house he has not seen before.*
+  Mal war `b2 ch23`, wegen Yeoms Anruf: **Dienstag, der 19. Mai**, nicht der
+  Freitag, an dem Georgij das Register bestellt hatte. `b3 ch01:16` zieht den
+  Freitag derzeit faelschlich auf Mrs Seos Gang nach oben; der offene Befund
+  steht unten. Sie misst und fragt nicht, wie immer, und ihr letzter Satz ist
+  der schlimmste: *he was not looking at the house the way a man looks at a
+  house he has not seen before.*
 * **Baek Jun-ho hat die Antwort seit dem 20. April in der eigenen Handschrift
   und hat sie nicht gesehen.** Er hat nicht gefragt, wer der Kanzlei den Tod
-  gemeldet hat. *"I had every reason and I did not have the wit."*
+  gemeldet hat. *"I had every reason and I did not have the wit."* Seine vier
+  Schreiben laufen vom alten Schreiben ueber den 8. Februar und den Maerz bis
+  zum 2. April; deshalb kann sich **the last ... that letter** nicht auf etwas
+  beziehen, ueber das er schon seit Februar zufrieden war. Auch dieser
+  Zeitbezug steht unten offen.
 * **Sang-hoon wird nicht angerufen**, und der Text sagt warum: er hat im April
   in drei Haeusern gefragt und nichts gehoert, ein zweiter Anlauf wuerde ihm
   sagen, dass etwas angekommen ist.
@@ -20937,12 +20972,16 @@ statt es zu behaupten:**
   Beantworten ist. *The other man did not want anything out of him today, and
   there is no version of that which is good.*
 
-**Das Buch an der Tuer ist neu und gehoert zum Faden aus Kapitel 1.** Es gibt
-kein Papier in diesem Land mit seinem Namen darauf, das er selbst
-hingeschrieben hat. Nicht zu unterschreiben waere das Einzige gewesen, was
-irgendjemand von dem Vormittag behalten haette. **Also unterschreibt er, und
-damit steht sein Name zum ersten Mal in seiner eigenen Handschrift in einem
-Dokument** - beim Ritus fuer den Mann, den er auseinandergenommen hat.
+**Das Buch an der Tuer gehoert zum Faden aus Kapitel 1, aber der derzeitige
+Absolutsatz ist falsch.** Georgij schrieb seinen Namen bereits am 11. Maerz in
+das Trauerbuch (`b2 ch04:44`) und am 4. Mai in Hwangs Besucherbuch
+(`b2 ch20:10`); beim Hinausgehen schrieb er dort auch die Zeit selbst ein
+(`b2 ch20:268`). Kapitel 20 nennt das ausdruecklich **das dritte Mal in acht
+Wochen**, dass er seinen Namen in ein Buch an einer Tuer schrieb. Nicht zu
+unterschreiben waere im Tempel trotzdem das Einzige gewesen, was jemand von
+dem Vormittag behalten haette. **Die Szene traegt als erneute bewusste Spur,
+nicht als erste eigene Handschrift.** `b3 ch01:72` und `b3 ch02:32` muessen
+darauf zurueckgestellt werden; der offene Befund steht unten.
 
 **Das Bild vorn ist im geschriebenen Kapitel der Fuenfunddreissigjaehrige.**
 Jemand hatte dort fuenfundzwanzig Jahre Fotografien zur Auswahl und ist an
@@ -20966,15 +21005,53 @@ somebody who was not sorry."* Antwort: *"That will be most of the people you
 talk to."*
 
 **Der Mann hinter dem Pfeiler** ist einer der vier, die am 18. Maerz gegessen
-haben (`b2 ch87`: zweiundzwanzig hatten aufgehoert). Georgij hat sechs Seiten
-ueber ihn und weiss alles ausser dem Einzigen, was heute zaehlt. **Er
-erscheint nicht wieder, wenn nichts mit ihm vorgesehen ist** - dann ist er
-das, was er im Kapitel ist.
+haben (`b2 ch87`: zweiundzwanzig hatten aufgehoert). `b3 ch02:42` behauptet
+derzeit ueber denselben Mann das Gegenteil, bevor `:122` ihn korrekt als einen
+der vier Esser identifiziert. Georgij hat sechs Seiten ueber ihn und weiss
+alles ausser dem Einzigen, was heute zaehlt. **Er erscheint nicht wieder, wenn
+nichts mit ihm vorgesehen ist** - dann ist er das, was er im Kapitel ist.
 
 **Und das Kapitel endet auf dem Satz, den Annie ihm nicht abnimmt:**
 
 > "I did not know until this afternoon that all of it rested on the other man
 > being dirty."
+
+## Offen nach der Uebergangsprobe B2 -> B3 vom 01.09.2026
+
+**Der Manuskripttext ist an diesen Stellen noch unveraendert.** Die Befunde
+werden erst nach Vorlage und Freigabe in den Roman geschrieben.
+
+1. **`b3 ch01:16`, Mrs Seos frueherer Gang nach oben.** `b2 ch23:94-110`
+   datiert den Anruf und ihren Gang eindeutig auf **Dienstag, den 19. Mai**.
+   Der Freitag war nur der Tag der Registerbestellung. *"on a Friday in May of
+   the year before"* muss deshalb **on a Tuesday in May of the year before**
+   heissen.
+2. **`b3 ch01:104`, Baeks vier Schreiben.** Das letzte Schreiben ging am
+   2. April hinaus und kam am 20. April zurueck (`b2 ch89:18-20`). Der Satz
+   kann dieses letzte Schreiben nicht zugleich seit Februar meinen. Der
+   kleinste klare Ersatz ist: *"I wrote to Choi Dae-ho four times and every one
+   of them went through that office, and the last came back marked in a clerk's
+   hand, and I have been quietly pleased with myself for writing to him since
+   February."*
+3. **`b3 ch01:72` und `b3 ch02:32`, Georgijs Name auf Papier.** Die Behauptung,
+   sein Name existiere nur auf einem Stueck Papier und auf keinem, das er selbst
+   beschriftet habe, widerspricht mindestens `b2 ch04:44-46` und
+   `b2 ch20:8-12,268`. Kapitel 20 nennt den Eintrag vom 4. Mai sogar den
+   dritten in acht Wochen. Kapitel 1 muss die Seltenheit auf **keine oeffentliche
+   Verbindung zwischen Name und Haus** begrenzen; Kapitel 2 muss den
+   Tempelbucheintrag als weitere bewusst gesetzte Spur behandeln, nicht als die
+   erste.
+4. **`b3 ch02:42` gegen `b3 ch02:122`, der Mann hinter dem Pfeiler.** Derselbe
+   Mann kann am 18. Maerz nicht zugleich nicht gegessen haben und einer der vier
+   Esser gewesen sein. Plan und spaetere Entnahme legen den Esser fest. In
+   `:42` muss deshalb **and did not eat** entfallen; `:122` bezahlt die
+   Information spaeter genau.
+5. **`b3 ch02:68` gegen `b3 ch02:108-112`, wer Chois Tod nicht bedauert.** Der
+   Erzähler nennt Georgij den einzigen Mann im Saal, der Chois Tod nicht
+   bedauert. Wenig spaeter bestaetigt Gong ueber sich selbst, dass auch er es
+   nicht tut. Der tragende Unterschied ist die sichtbare Maske. Der kleinste
+   Ersatz lautet: *"He is not sorry Choi Dae-ho is dead, and he is the only man
+   in that hall who did not arrange his face to look as if he were."*
 
 ## 3. Lot elf: warum sie ihn gekauft hat, und was er gelernt hat
 
