@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 318.237 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 318.593 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -325,6 +325,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Verifizierte Gegenprobe: drei Originale und Uebergaben im Schluss](#verifizierte-gegenprobe-drei-originale-und-uebergaben-im-schluss)
   - [Verifizierte Gegenprobe: Tagesuebergaenge in Kapitel 83 und 84](#verifizierte-gegenprobe-tagesuebergaenge-in-kapitel-83-und-84)
   - [Verifizierte Gegenprobe: Ahn Jung-hees Unterschriften](#verifizierte-gegenprobe-ahn-jung-hees-unterschriften)
+  - [Verifizierte Gegenprobe: 411 und 460 Hochzeiten](#verifizierte-gegenprobe-411-und-460-hochzeiten)
+  - [Verifizierte Gegenprobe: vierundzwanzig und fuenfundzwanzig Jahre](#verifizierte-gegenprobe-vierundzwanzig-und-fuenfundzwanzig-jahre)
+  - [Verifizierte Gegenprobe: relative Zeitangaben im Schlussblock](#verifizierte-gegenprobe-relative-zeitangaben-im-schlussblock)
+  - [Verifizierte Gegenprobe: Sims dritte unbequeme Antwort](#verifizierte-gegenprobe-sims-dritte-unbequeme-antwort)
 - [Plan, Band 3](#plan-band-3)  ·  `doc/32-plan-band-3.md`
   - [GANZ neue Gesichter, und der Saal ist schon gebaut](#ganz-neue-gesichter-und-der-saal-ist-schon-gebaut)
   - [Der Text](#der-text)
@@ -17576,6 +17580,51 @@ Die Haupturkunde bleibt davon getrennt: Mrs Jeon liest sie am 4. November
 vollstaendig vor, Ahn haelt die Seiten neun Minuten und unterschreibt danach.
 Eine spaetere widerspruechliche Weitergabe des unterschriebenen Originals wird
 nicht behauptet.
+
+### Verifizierte Gegenprobe: 411 und 460 Hochzeiten
+
+Die beiden Summen haben verschiedene Grundgesamtheiten. Die **411** in `b2
+ch80:6-18` sind Mrs Has eigene Auftraege aus dreissig Berufsjahren; Kapitel 72,
+74, 80 und 86 halten diese Zahl fuer ihr persoenliches Arbeitsarchiv stabil.
+Die **460** in `b2 ch83:318` sind dagegen alle Hochzeiten, die in elf Jahren
+durch den betreffenden Saal gingen. Mrs Ha war nicht fuer jede davon
+verantwortlich und arbeitete zudem laenger als dieser Elfjahreszeitraum. Die
+Zahlen beschreiben deshalb weder denselben Bestand noch denselben Zeitraum und
+sind kein Kontinuitaetsfehler.
+
+### Verifizierte Gegenprobe: vierundzwanzig und fuenfundzwanzig Jahre
+
+Die wechselnde Dauer von Chois Stellung folgt der im Manuskript verwendeten
+Kalenderjahreszaehlung. Szenen im Dezember 2026 rechnen von 2002 bis 2026 mit
+**vierundzwanzig Jahren**; ab Januar 2027 lautet dieselbe gerundete Spanne
+konsequent **fuenfundzwanzig Jahre**. Alle Vorkommen nach dem Jahreswechsel
+halten diese Zahl, auch wenn der genaue Fruehlingstermin noch nicht erreicht
+ist. Es liegt kein innerhalb desselben Zaehlprinzips widerspruechlicher Wert
+vor.
+
+### Verifizierte Gegenprobe: relative Zeitangaben im Schlussblock
+
+Die auffaelligen Angaben **this week**, **this year** und **last year** in den
+Kapiteln 78 bis 88 halten ihren jeweiligen Szenentag. Annie prueft Woos
+Abwaegung am Freitag, dem 12. Februar, und erneut bei ihm am Montag, dem 15.
+Februar; *twice this week* in Kapitel 82 zaehlt diese beiden Pruefungen. Mrs
+Seos zwei ungefragte Bemerkungen zur Tischgroesse koennen zwischen Annies
+Platzierung am Montag und dem Dinner am Donnerstag gefallen und setzen kein
+frueheres sichtbares Ereignis voraus. Der Umschlag in Kapitel 88 wurde am 17.
+Dezember 2026 abgesandt und ist am 4. Mai 2027 richtig **last year**. Kapitel
+84 grenzt Georgijs **first thing this year** auf seine eigenmaechtige
+Entscheidung ueber die Bewohnerinnen des Hauses ein; die frueheren
+Januar- und Februarentscheidungen betreffen Ermittlungswege und fremde Akten,
+nicht ihre Stellung im Haus.
+
+### Verifizierte Gegenprobe: Sims dritte unbequeme Antwort
+
+Sims **That is the third time** in `b2 ch88:160-164` ist kein unbelegter
+Rueckzaehler. Bereits `b2 ch57:148` bezeichnet Georgijs damalige Antwort
+ausdruecklich als die zweite Verweigerung einer bequemen Auskunft und sagt,
+dass Sim beide gezaehlt hat. Kapitel 88 nimmt dieselbe private Zaehlung wieder
+auf und macht die nicht weiter verfolgte Arztfrage zur dritten. Die Zahl ist
+damit ueber elf Kapitel hinweg geschlossen.
 
 ---
 
