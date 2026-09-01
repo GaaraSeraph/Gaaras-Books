@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 311.393 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 311.493 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -12,7 +12,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 - [Nähe: das Register](#n-he-das-register)  ·  `doc/10-naehe.md`
   - [B1 24 · Do 27. November · Die Brücke](#b1-24-do-27-november-die-br-cke)
   - [B1 34 · So 1. März · Der Boden neben ihr](#b1-34-so-1-m-rz-der-boden-neben-ihr)
-  - [B2 35 · Do 4. Juni · Die Nacht mit leeren Händen](#b2-35-do-4-juni-die-nacht-mit-leeren-h-nden)
+  - [B2 32 · Do 4. Juni · Die Nacht mit leeren Händen](#b2-32-do-4-juni-die-nacht-mit-leeren-h-nden)
   - [Und dazwischen faellt er aus, festgelegt am 29.08.](#und-dazwischen-faellt-er-aus-festgelegt-am-29-08)
   - [Die Reihenfolge, und mein erster Versuch hatte sie verdreht](#die-reihenfolge-und-mein-erster-versuch-hatte-sie-verdreht)
   - [Und hier stand ein Widerspruch, aufgeloest am 29.08. und danach noch einmal umgestellt](#und-hier-stand-ein-widerspruch-aufgeloest-am-29-08-und-danach-noch-einmal-umgestellt)
@@ -689,29 +689,29 @@ gegen den dieses Dokument geschrieben wurde:
 
 - **Der zweite Satz ueber den Stuhl gibt es nicht.** Zitiert war *"You were in a
   chair. I have thought about the chair a great deal more than I have thought
-  about the window."* Kapitel 35 endet nach *"You were in a chair."* Der zweite
+  about the window."* Das damalige Kapitel 35 endet nach *"You were in a chair."* Der zweite
   Satz stand nur hier. **Er ist gut und er ist ungeschrieben** - wer ihn haben
   will, schreibt ihn ins Kapitel und traegt ihn dann hier ein, in dieser
   Reihenfolge und nicht umgekehrt.
-- **Register A 7** stand auf B2 23 / 13. Mai. Die Zeile steht in **B2 26**,
-  Mittwoch, dem 27. Mai. Kapitel 23 enthaelt sie nicht.
+- **Register A 7** stand auf B2 23 / 13. Mai. Die Zeile steht in der heutigen
+  Nummerierung in **B2 25**, Mittwoch, dem 27. Mai. Kapitel 23 enthaelt sie nicht.
 - **Register A 5** fuehrte *"which is where he sits"* fuer 15, 16, 20 **und 30**.
   In 30 steht es nicht.
 - **Register C fehlten die zwei Band-1-Beruehrungen** vor dem Februar-Eintrag:
   B1 33 (die Seite des Gesichts, 29. Dezember) und B1 34 (der Hinterkopf, am
-  Fenster, 1. Maerz). Ohne die erste geht der Zaehler in B2 18 nicht auf.
+  Fenster, 1. Maerz). Ohne die erste geht der Zaehler im heutigen B2 17 nicht auf.
 - **Register C** nannte eines der zwei Februar-Male *auf der Seite*. Beide sind
   im Nacken; die Seite ist der 29. Dezember.
 - **Register D** zaehlte *"Go to bed, Georgij."* dreimal. Zweimal mit Namen
   (B1 5, B1 28); B1 31 hat die kurze Form ohne ihn.
 
-**Was gehalten hat:** alle Tagesangaben gegen die Datumszeilen der Kapitel. Der
-Zaehler der Hand im Haar (9, 20, 27, 30, 35, 55) gegen *"three times since
-March"* in 30 und *"four times since March"* in 35. Dass Annie vor dem 4. Juni
-**nie** auf dem Boden war, in beiden Baenden. Und die wichtigste Zeile des
-Dokuments: **sie fasst in Band 1 nie das Halsband an.** Die zwei Finger unter der
-Vorderkante in B1 5 sind der Schneider, und unter dem Halsband ist im ganzen Buch
-genau eine Stelle, B2 35.
+**Was in der Schlussfassung haelt:** alle Tagesangaben gegen die Datumszeilen der
+Kapitel. Der Zaehler der Hand im Haar steht heute in Register B: vier Vorkommen
+bis Ende Mai, zwei am 4. Juni, zwei im August und das neunte am Bandende. Dass
+Annie vor dem 4. Juni **nie** auf dem Boden war, in beiden Baenden. Und die
+wichtigste Zeile des Dokuments: **sie fasst in Band 1 nie das Halsband an.** Die
+zwei Finger unter der Vorderkante in B1 5 sind der Schneider, und unter dem
+Halsband ist im ganzen Buch genau eine Stelle, B2 32.
 
 ---
 
@@ -720,12 +720,12 @@ genau eine Stelle, B2 35.
 Der Autor am 25.08.: **alle zwanzig Kapitel eine wirklich romantische Szene,
 dazwischen kleine Dinge von ihr, die tatsächlich vorkommen.**
 
-Die großen Szenen bisher: **B1 24** (die Brücke, ihr Name), **B1 34** (der Boden
-neben ihr), **B2 35** (die Nacht vom 4. Juni). Das ist ein Abstand von zehn
-Kapiteln, dann von einem, und dann von vierunddreißig. Die nächste ist um
-**Kapitel 57 bis 60** fällig und darf nicht in die Landung rutschen.
+Die großen Szenen der aktuellen Fassung: **B1 24** (die Brücke, ihr Name),
+**B1 34** (der Boden neben ihr), **B2 32** (die Nacht vom 4. Juni) und **B2 90**
+(die Fingerspitzen). Die frueher um Kapitel 57 bis 60 vorgemerkte weitere Szene
+wurde nicht geschrieben; die kleinen Dinge tragen den Abstand bis zur Landung.
 
-Die kleinen Dinge sind der Unterschied zwischen einer Beziehung und drei Szenen.
+Die kleinen Dinge sind der Unterschied zwischen einer Beziehung und vier Szenen.
 Sie stehen unten in ihrem eigenen Register und sind bisher zu dünn gesät.
 
 **Der Anlauf auf die Schlusszeile läuft über Erschöpfung, nie über Ruhe.**
@@ -741,15 +741,15 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 1 | B1 34 | So 1. März | **Er geht zu ihr runter.** *"He went down onto the floor beside her, which took about two seconds and which nobody in that room had asked for, and sat back on his heels with his shoulder against her leg."* |
 | 2 | B2 1 | Mo 2. März | Der Abend am Fenster. *"He spent the end of that Sunday on the floor at a window, against her legs, and it did not once occur to him that he was free to go and look at somebody."* Sie sitzt im Sessel. |
 | 3 | B2 5 | Mi 11. März | **Der Anfang der Gewohnheit.** *"He went round the desk. She did not have to say the rest of it, and he went down onto the carpet at her feet, which has stopped needing a word between them."* |
-| 3b | **B2 6** | **Mo 16. März** | **Die einzige Stelle, an der er absichtlich NICHT runtergeht.** Er bittet im Stehen, weil *"a man who asks for a thing from the floor is not asking for it"*, und geht erst hinunter, nachdem sie geantwortet hat: *"Now come here."* Die Umkehrung von Register A 9, wo **sie** vor der Antwort heruntergeht. Was danach passiert, steht in Register F. |
+| 3b | **B2 6** | **Mo 16. März** | **Die einzige Stelle, an der er absichtlich NICHT runtergeht.** Er bittet im Stehen, weil *"a man who asks for a thing from the floor is not asking for it"*, und geht erst hinunter, nachdem sie geantwortet hat: *"Now come here."* Die Umkehrung von Register A 9b, wo **sie** vor der Antwort heruntergeht. Was danach passiert, steht in Register F. |
 | 4 | B2 9 | Fr 20. März | Der Platz bekommt seinen Namen. *"he ended up on the floor at the side of the desk with his back against it, which is where he sits."* |
-| 5 | B2 15, 16, 20 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
-| 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
-| 7 | B2 26 | Mi 27. Mai | Sie schickt ihn hoch (und im selben Kapitel ist er wieder unten, Register B 3): *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
-| 8 | B2 29 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
-| 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
-| 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
-| 11 | B2 70/71 | Do 10. Sept | **Sie schickt ihn zum ersten Mal ausdruecklich runter**, und das ist die Umkehrung von 7. *"Sit down," said Annie. He looked at the chair. "Not there."* Er fragt nicht, wofuer, und sie benennt genau das: *"Six weeks ago you would have wanted to know what it was for."* |
+| 5 | B2 15, 19, 54, 58, 90 | | *"which is where he sits"* wiederholt sich wörtlich. In 19: *"She sat on the arm of the reading chair, which is not sitting."* |
+| 6 | B2 17 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
+| 7 | B2 25 | Mi 27. Mai | Sie schickt ihn hoch (und im selben Kapitel ist er wieder unten, Register B 3): *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
+| 8 | B2 28 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
+| 9a | **B2 32** | **Do 4. Juni** | **Sie schickt ihn zum ersten Mal ausdruecklich runter.** *"Sit down," said Annie. He looked at the chair. "Not there."* Er setzt sich auf ihrer Seite des Zimmers auf den Boden. |
+| 9b | **B2 32** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
+| 10 | **B2 90** | **So 16. Mai** | Nach dem Weltsatz haelt sie ihm die Hand hin. Er steht bereits vor ihr und geht fuer die Fingerspitzen wieder hinunter: *"He went down at the side of the desk and he did not take hold of it."* |
 
 **Feststehend:** Vor dem 4. Juni war sie nie auf dem Boden. Er war es seit dem
 11. März fast täglich. Keine Zeile darf das umdrehen.
@@ -763,21 +763,21 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | | Kapitel | Tag | Zeile |
 |---|---|---|---|
 | 1 | B2 9 | Fr 20. März | *"Somewhere in the middle of it she put her hand down without looking away from the page and left it in his hair."* |
-| 2 | B2 20 | Do 30. April | *"She put her hand down without looking away from the window and left it in his hair, and after a while his shoulders came down about an inch, and he had known this time that they were up."* |
-| 3 | B2 26 | Mi 27. Mai | *"At some point in the middle of it she put her hand down into his hair and left it there, and he put his head back against the side of the desk."* |
-| 4 | B2 29 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
-| 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
-| 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |
-| 10 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
-| 9 | B2 76 | Do 24. Sept | Abends, sie sitzt ohne Lampe am Fenster und arbeitet nicht. *"After about ten minutes she put her hand down into his hair without looking away from the window and left it there."* Der Text zählt mit und er nicht: *"That is the ninth time since March, and he has not counted one of them since July, and he did not count this one either."* |
-| 8 | B2 72 | Mo 14. Sept | **Der Beleg dafuer, dass er wirklich aufgehoert hat mitzuzaehlen.** *"Annie put her hand down into his hair and left it there, and he could not have said afterwards at what point in it she had done that."* Nach Sims Anruf, waehrend keiner von beiden redet. |
-| 7 | B2 58 | Di 18. Aug | Sechs Tage spaeter, ohne Anlass, waehrend sie liest. *"She put her hand down into his hair without looking away from the page, at the back, and left it there."* Und: **er hat aufgehoert mitzuzaehlen.** *"He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
+| 2 | B2 19 | Do 30. April | *"She put her hand down without looking away from the window and left it in his hair, and after a while his shoulders came down about an inch, and he had known this time that they were up."* |
+| 3 | B2 25 | Mi 27. Mai | *"At some point in the middle of it she put her hand down into his hair and left it there, and he put his head back against the side of the desk."* |
+| 4 | B2 28 | Fr 29. Mai | *"At about half past nine Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
+| 5 | **B2 32** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
+| 6 | **B2 32** | **Do 4. Juni** | Spaeter in derselben Nacht, nach ihrer Antwort auf das Halsband: *"She put her hand into his hair and left it there, and neither of them said anything for a long time."* |
+| 7 | B2 52 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* Dann: *"She put one hand into his hair, at the back, the way she used to in the spring when a day had been long and neither of them said anything about it."* |
+| 8 | B2 54 | Di 18. Aug | Sechs Tage spaeter, waehrend sie liest. *"Then she put her hand down into his hair without looking away from the page, at the back, and left it there."* Danach steht fest: *"He has stopped counting them. He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
+| 9 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
 
-**Der Zähler:** 9, 20, 27, 30 sind vier. 35 ist das fünfte, 55 das sechste,
-59 das siebte, 72 das achte, 76 das neunte, **90 das zehnte und letzte des
-Bandes**. Wer eine neue schreibt, zählt hier weiter und schreibt keine Zahl
-aus dem Kopf. **Ab 59 zählt Georgij selbst nicht mehr mit**, und das ist eine
-Figurenentwicklung und keine Erlaubnis, die Kette zu vergessen.
+**Der Zähler:** 9, 19, 25 und 28 sind vier. In 32 folgen am selben Abend das
+fünfte und sechste Mal. 52 ist das siebte, 54 das achte, **90 das neunte und
+letzte des Bandes**. Wer eine neue schreibt, zählt hier weiter und schreibt
+keine Zahl aus dem Kopf. **In 54 steht fest, dass Georgij selbst schon im Juli
+aufgehoert hat mitzuzählen**, und das ist eine Figurenentwicklung und keine
+Erlaubnis, die Kette zu vergessen.
 
 ---
 
@@ -794,11 +794,13 @@ Halsband an und nie an das Halsband selbst.**
 | 3b | **B2 6** | **Mo 16. März** | **Die Dezembergeste zum zweiten und bisher letzten Mal**, nach *"Build on this one"*. **Achtung auf die Stellung:** sie steht, und er geht deshalb **nicht** an die Seite des Schreibtischs, sondern vor sie hin - *"which is a different place and which he has never done"*. Die Wendung *"down onto the carpet at her feet"* gehoert der sitzenden Annie und darf hier nicht stehen; in v1.6 stand sie da und war ein Fehler. *"Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone."* Wörtlich der 29. Dezember, und der Text zählt es selbst: *"She has done that once before in her life... and neither of them has ever mentioned it since."* Er dreht den Kopf um etwa einen Zoll hinein, mehr nicht. |
 | 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* - **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
 | 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
-| 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
-| 7 | B2 29 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
-| 8 | **B2 35** | **Do 4. Juni** | *"After a while she reached over and put two fingers **under** the collar, at the side, where the skin is."* Und der Text sagt es selbst: *"She has never done that."* |
+| 6 | B2 17 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
+| 7 | B2 28 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
+| 8 | **B2 32** | **Do 4. Juni** | *"After a while she reached over and put two fingers **under** the collar, at the side, where the skin is."* Und der Text sagt es selbst: *"She has never done that."* Spaeter gehen die Finger zurueck an den Nacken, wieder ueber das Halsband. |
+| 9 | B2 66 | Do 5. Nov | Kurz und waehrend sie weiterliest: *"At about ten she put her hand down onto the back of his head, briefly, and took it away again, and did not stop reading."* |
+| 10 | B2 90 | So 16. Mai | Nach dem Kuss auf ihre Fingerspitzen: *"After a while she put her other hand on the back of his head and left it there."* |
 
-**Die drei, die B2 18 zaehlt.** *"which she has done perhaps three times since
+**Die drei, die B2 17 zaehlt.** *"which she has done perhaps three times since
 October"* geht genau auf, wenn man B1 33 und die zwei Februar-Male aus B1 34
 zusammennimmt. **Ohne B1 33 stimmt der Zaehler im Buch nicht** - das ist der
 Beleg dafuer, dass die Zeile hier hingehoert.
@@ -821,7 +823,7 @@ Beleg dafuer, dass die Zeile hier hingehoert.
   gelesen.**
 - Was das Halsband stattdessen ist, sagt er am 1. Maerz: *"It is not what holds
   me and it never was. … It is what holds you."* **Wenn sie es beruehrt,
-  beruehrt sie das, was sie haelt.** Genau das tut sie in 35, zum ersten und
+  beruehrt sie das, was sie haelt.** Genau das tut sie in 32, zum ersten und
   bisher einzigen Mal, und das Gespraech danach handelt von diesem Satz und von
   nichts anderem.
 
@@ -836,12 +838,15 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 | B1 6 | *"Eat something before you go. … a man who has not eaten agrees to things at eleven o'clock that he would not agree to at eight."* |
 | B1 5, 28 | *"Go to bed, Georgij."* **Zweimal** mit Namen. In B1 31 steht die kurze Form *"Go to bed."* ohne ihn, was etwas anderes ist. |
 | B1 23 / 24 | *"Have you eaten?"* - die Frage, die dem Kapitel den Titel gibt. |
-| B2 18 | *"Go to bed,"* mit der Hand an seinem Hals, im falschen Zimmer dafür. |
-| B2 29 | Sie merkt an seiner Atmung, dass er eingeschlafen ist, und liest weiter. |
-| B2 31 | *"a coat over him that is not his."* Sie sagt nie, dass sie es war. |
-| B2 35 | *"Go and eat something. You have been running on coffee since one o'clock this morning."* |
-| B2 55 | *"You have not slept properly since the eighteenth of July."* Sie führt dieses Datum mit. |
-| B2 71 | **Sie bestellt sein Essen, ohne zu fragen**, und sagt nie, dass sie es war - wie der Mantel in B2 31. *"food on the side in the kitchen, still warm, from the place on the road that does the soup he eats and not the one he says he likes."* Der Unterschied zwischen den beiden Laeden ist das ganze Eintragsgewicht. |
+| B2 17 | *"Go to bed,"* mit der Hand an seinem Hals, im falschen Zimmer dafür. |
+| B2 19 | *"You have not slept properly since the eighteenth of March."* Sie fuehrt nicht nur ihn, sondern auch die drei anderen im Haus an, die es bemerkt haben. |
+| B2 28 | Sie merkt an seiner Atmung, dass er eingeschlafen ist, und liest weiter. |
+| B2 29 | *"a coat over him that is not his."* Sie sagt nie, dass sie es war. |
+| B2 33 | *"Go and eat something. You have been running on coffee since one o'clock this morning."* |
+| B2 52 | *"You have not slept properly since the eighteenth of July."* Sie führt dieses Datum mit. |
+| B2 54 | *"You have not eaten since yesterday."* Sie weiss von Mrs Seos Teller und schickt ihn essen, aber danach wieder zu sich hinauf. |
+| B2 78 | *"Go and eat something," she said. "Mrs Seo has held it once and she does not hold anything twice."* |
+| B2 87 | *"There is soup," she said. "You have not eaten since one and I counted."* |
 
 **Noch nicht benutzt und verfügbar:** dass sie sein Essen bestellt, ohne zu
 fragen. Dass sie einen Termin verschiebt und ihm nicht sagt, warum. Dass sie
@@ -870,8 +875,8 @@ von B2 6 nahm er ihre Hand vom Sessel. Der Autor hat das gestrichen: **er fasst
 sie nicht an, sie fasst ihn an.** Was er tut, ist hineindrehen - einen Zoll, und
 nicht mehr (Register C 3b).
 
-**Wer je eine zweite schreibt, schreibt die zweite in zwei Bänden**, und sie muss
-so viel wiegen wie der 1. März.
+**Die zweite steht im folgenden Band**, und sie wiegt so viel wie der
+1. März, weil sie kein Werkzeug und keine oeffentliche Geste ist.
 
 ---
 
@@ -891,7 +896,7 @@ Und sie gibt ihm ihren Namen. *"That is my name," said Annie. "It is on nothing.
 mother used it and my brother used it and both of them are dead."* - **Hye-jin.** Er sagt es
 nie laut, in diesem Kapitel nicht und später nicht: *"He had a place to put a
 thing like that … Hye-jin went in there and stayed, and he did not take it out
-again for a very long time."* **Eingelöst in B2 35, am 4. Juni, sechs Monate und
+again for a very long time."* **Eingelöst in B2 32, am 4. Juni, sechs Monate und
 eine Woche später.** Das ist die einzige Stelle, an der er ihn ausspricht, und
 das war die ganze Zeit die Zahlung, die noch offen stand.
 
@@ -900,7 +905,7 @@ das war die ganze Zeit die Zahlung, die noch offen stand.
 Er geht runter, ohne dass jemand darum gebeten hat, und sitzt auf den Fersen mit
 der Schulter an ihrem Bein. Das ist die Szene, aus der die Gewohnheit wird.
 
-### B2 35 · Do 4. Juni · Die Nacht mit leeren Händen
+### B2 32 · Do 4. Juni · Die Nacht mit leeren Händen
 
 Der Aufbau: er kommt mit nichts nach oben, und **sie** verbietet den Bericht.
 *"You have brought me something every evening for eleven days and I have taken
@@ -958,21 +963,22 @@ in diesem Dokument. Er ist ungeschrieben und verfuegbar.
 
 ---
 
-## Die Schlussgeste, vorgemerkt und noch nicht geschrieben
+## Die Schlussgeste, geschrieben in B2 90
 
 **Am Ende des Bandes küsst er ihr die Fingerspitzen.** Festgelegt vom Autor am
-25.08. Die Ausführung und die Abgrenzung stehen in `doc/31-plan-band-2.md`.
+25.08. und in der Schlussfassung von B2 90 geschrieben. Die Ausführung und die
+Abgrenzung stehen in `doc/31-plan-band-2.md`.
 
 **Die eine Sache, die hier stehen muss:** das ist **nicht** die Geste aus Band 1,
 Kapitel 11. Dort hat er **Hana** die Hand geküsst, *"over the fingers, in the
-European way, in front of four or five people"*, und es war ein Werkzeug. Es ist
-der einzige Handkuss im ganzen Buch und er gehört einer anderen Frau, in der
-Öffentlichkeit, aus Berechnung.
+European way, in front of four or five people"*, und es war ein Werkzeug. Bis
+B2 90 ist das der einzige Handkuss im Buch: eine andere Frau, Öffentlichkeit,
+Berechnung.
 
 **Fingerspitzen, allein, zu nichts.** Wenn ein Leser bei der Schlussszene an die
 Gala denkt, ist sie misslungen.
 
-Wird hier in Register A bis C nachgetragen, sobald sie im Text steht.
+Sie steht in Register A, B, C und F.
 
 ---
 
@@ -985,7 +991,7 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
    Sitzung, alle durch "ich glaube, es war zweimal".
 3. **Über dem Halsband oder daran?** Es gibt genau eine Stelle im ganzen Buch, an
    der jemand außer einem Schneider das Halsband selbst berührt, und das ist
-   Kapitel 35.
+   Kapitel 32.
 
 ---
 
@@ -11334,7 +11340,7 @@ wiederhergestellt (b2 K20, b2 K05).
 98. **Die Machtlage entscheidet die Satzzeichen, nicht der Rang.** Zweimal belegt: b2 K26 (geteilt) gibt Hwang Fragezeichen, weil er in diesem Raum die Macht hat; b2 K26 (geteilt) laesst Mrs Jeons Frage hochgehen, und der Text sagt es ausdruecklich dazu.
 99. **Ein Kapitel, in dem nur die Kostenseite ausbuchstabiert ist, sieht aus wie ein Verlust.** (Aus der Rueckfahrt in b2 K8.)
 100. **Eine Zahl allein wird nicht geprueft, eine Zahl neben ihrem Datum schon.** (Aus Schritt 3a, gilt fuer jedes erzeugte Verzeichnis.)
-101. **Ein geplanter Satz in einem Kanondokument ist der Stand, gegen den eine Schreibsitzung schreibt.** Korrigiert am 26.08.: *"If the world points anything at you at all, I will burn the world down"* stand als bestehender Satz da und **ist bis heute nicht geschrieben.**
+101. **Ein geplanter Satz in einem Kanondokument ist der Stand, gegen den eine Schreibsitzung schreibt.** Am 26.08. war *"If the world points anything at you at all, I will burn the world down"* noch ein ungeschriebener Entwurf. **Inzwischen ist der Satz in der freigegebenen Buchsprache in B2 90 eingelöst:** *"If the world pointed anything at you, I would burn the world down."*
 
 208. **Die Messung vom 25.08., und sie ist die schaerfste Selbstdiagnose im Dokument:** die Kapitel 68 bis 75 lagen bei **60 bis 77 Prozent Dialog** und bis zu **42 Szenentrennern**, waehrend B2 1 bis 50 bei 54 Prozent und 2,0 Szenen liegen. ***"Das Buch war zu einer Folge von Verhoeren in Raeumen geworden."*** Kapitel 76 antwortet darauf mit **28 Prozent Dialog**, keiner Szene mit zwei Leuten und einer Frage, und einem abgedruckten Dokument. b2 K64 liegt bei 32 Prozent, b2 K61 bei 57.
 209. **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** vor einem Ergebnis drei Erwartungen aufschreiben, datiert und unterschrieben. *"Inside four seconds you will have a version of yourself that expected it. It is the cheapest thing you do and it is the only one you do not know about."*
