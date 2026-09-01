@@ -3134,3 +3134,30 @@ Baeks Trustakte gehoert ausdruecklich **nicht** in diese Gegenprobe: Ihre
 angekuendigte Uebergabe und ungezeigte Rueckkehr in seinen Schrank bleibt als
 Punkt 2 offen. Erst die spaetere Aufsichtskopie in Kapitel 89 ist wieder klar
 bezeichnet.
+
+### Verifizierte Gegenprobe: Tagesuebergaenge in Kapitel 83 und 84
+
+Die Szenengrenzen tragen die Tage, auch wo der naechste Tageskopf erst nach
+einer kurzen Raffung steht. `b2 ch83:210-224` geht ausdruecklich vom Zertifikat
+am Freitag ueber Hwangs Kurier und Georgijs Innentasche am Montag zum Besuch am
+Montag, dem 1. Maerz; der Tageskopf setzt dort keinen zweiten Montag an, sondern
+markiert den Beginn der naechsten ausgebauten Szene. `b2 ch84:122-174` fuehrt
+ebenso lueckenlos von Annies Entwurf am Donnerstag ueber den Druck am Freitag
+und den Versand am Montag, dem 8. Maerz, zu Mrs Seos Gespraech am Dienstag, dem
+9. Maerz. Die scheinbar unter dem alten Tageskopf stehenden Zwischenereignisse
+sind jeweils im Wortlaut datiert und erzeugen keinen Zeit- oder Szenenbruch.
+
+### Verifizierte Gegenprobe: Ahn Jung-hees Unterschriften
+
+`b2 ch64:164` und `b2 ch68:26-54` widersprechen einander nicht. Ahn sagt am 2.
+November, sie habe seit dem Formular im Februar vor vier Jahren nichts
+unterschrieben. Am 8. Dezember liest sie den Gaslieferschein wie ein Blatt, das
+sie schon rund vierzigmal gelesen hat; daraus folgt nicht, dass sie die
+frueheren Exemplare unterschrieben hat. Erst jetzt nimmt sie das Klemmbrett,
+unterschreibt sichtbar selbst und laesst den Defekt auf dem bleibenden Beleg
+vermerken. Die Szene baut gerade auf dem Unterschied zwischen jahrelanger
+Kenntnis des Vorgangs und der ersten eigenen Entscheidung nach ihrer Befreiung.
+Die Haupturkunde bleibt davon getrennt: Mrs Jeon liest sie am 4. November
+vollstaendig vor, Ahn haelt die Seiten neun Minuten und unterschreibt danach.
+Eine spaetere widerspruechliche Weitergabe des unterschriebenen Originals wird
+nicht behauptet.
