@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 311.562 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 311.979 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -309,8 +309,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was NICHT vorher entschieden ist](#was-nicht-vorher-entschieden-ist)
   - [Faelliges mit Datum](#faelliges-mit-datum)
   - [Bekannte Baustellen - angelegt nach Kapitel 17, seither weitergepflegt](#bekannte-baustellen-angelegt-nach-kapitel-17-seither-weitergepflegt)
-  - [Wie es dazu kam, und die Lehre ist wichtiger als der Fall](#wie-es-dazu-kam-und-die-lehre-ist-wichtiger-als-der-fall)
-  - [Der Vorschlag, falls der Autor ihn will](#der-vorschlag-falls-der-autor-ihn-will)
+  - [Wie es dazu kam](#wie-es-dazu-kam)
+  - [Umsetzung im spaeteren Schlusskanon](#umsetzung-im-spaeteren-schlusskanon)
   - [Der Platz dafuer ist bereits gebaut](#der-platz-dafuer-ist-bereits-gebaut)
   - [Der Text](#der-text)
   - [Warum die Antwort mehr sagt als eine Summe](#warum-die-antwort-mehr-sagt-als-eine-summe)
@@ -6643,7 +6643,7 @@ wird.**
 - [BEZAHLT] **B2 60** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters erst danach · B2 65: Anruf am Folgetag, persoenliche Antwort am Mittwoch
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst; der Satz ist die Einloesung
 - [BEZAHLT] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig bei dem Tag, an dem die Seite existiert · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 59 bestaetigt Seite, Unterschrift und Datum
-- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 79 bestaetigt den Registerkauf; B2 87 datiert ihn auf November
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 23 zeigt den ersten Kauf am 18. Mai; B2 79 bestaetigt den Kauf aller fuenf. **Offener Datumswiderspruch:** B2 87 behauptet, alle fuenf seien im November gekauft worden
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
 - [BEZAHLT] **B1 31** Annie an Georgij · gesagt Tag 74 · faellig Tag 164 · "I will ask you again in March, and you will not be able to say it is not the moment, because in March it will be." · B2 06, am 16. Maerz, auf den Tag drei Monate. **Stand bis zum 25.08. ueberhaupt nicht im Schuldbuch und war neun Erzaehlmonate unbezahlt** - gefunden bei der Suche nach fristlosen Zusagen, weil `--neu` sie nicht sieht
 - [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
@@ -8393,6 +8393,9 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   und seinem Namen darauf (Band 2, Kapitel 23)
 - Tag 227, Mo 18. Mai: **die erste der fuenf Haelften wird unterschrieben**,
   Kwons Teilhaber (Band 2, Kapitel 23)
+  **Offener Widerspruch:** Band 2, Kapitel 87 datiert spaeter den Kauf aller
+  fuenf auf November. Kapitel 23 und die Marktprognose in Kapitel 19 tragen
+  dagegen den Mai-Juni-Zeitraum.
 - Tag 228, Di 19. Mai, zwanzig vor drei: **Mr Yeom ruft im Haus an und verlangt
   Georgij mit Namen.** Einladung zum Mittagessen am Donnerstag
   (Band 2, Kapitel 23)
@@ -8839,6 +8842,13 @@ Teilhaber-Haelften, ein anderer Vorgang), Mr Hwangs erste Maiwoche in Kapitel 56
 (die Abrechnungsbuecher), und Georgijs *"I have known that since about the first
 week of May"* in 69 - er hat es ein paar Tage nach den Unterschriften begriffen,
 und das stimmt weiter.
+
+**Neuer Stand vom 01.09.:** Der damalige Abgleich war fuer Kapitel 19, 20, 23
+und 69 richtig. Die spaeter hinzugekommene Schlussfassung von Kapitel 87 sagt
+jedoch *"you bought five of them in November"*. Das widerspricht der ersten
+Unterschrift am 18. Mai und dem ausdruecklich angesagten Mai-Juni-Fenster. Der
+Kalender behaelt die belegte Mai-Zeile; der Manuskriptfund steht offen in
+`doc/31-plan-band-2.md`.
 
 **Die beiden Wege, die zur Wahl standen:**
 
@@ -11910,7 +11920,9 @@ blieb).
 der Pruefer zwei ueberfaellige Zusagen gefunden hatte, die beide im Text standen
 und in keiner Liste: die fuenf Firmen aus Kapitel 12 (vier Monate erzaehlte Zeit)
 und Annies *"You will in about a month"* aus Kapitel 5 (sechs Monate). Beide sind
-in Kapitel 69 bezahlt.
+heute bezahlt: Annies Satz in Kapitel 69, die fuenf Firmen nach einem ersten
+Kauf in Kapitel 23 rueckblickend in Kapitel 79. **Das Kaufdatum ist noch offen
+widerspruechlich**, weil Kapitel 87 alle fuenf auf November datiert.
 
 **Der Ablauf ist ab jetzt:** wer ein Kapitel schreibt, laeuft danach
 `python3 werkzeug/zusagen.py --neu` und traegt ein, was neu versprochen wurde.
@@ -15036,11 +15048,13 @@ Wege kommt darin vor.**
 *Historisch. Stand hier bis zum 27.08. mitten in der Choi-Saga und ist
 beides erledigt.*
 
-## ~~Zwei Zusagen, die auf dem Weg dorthin bezahlt werden muessen~~ - beide bezahlt in Kapitel 69
+## ~~Zwei Zusagen, die auf dem Weg dorthin bezahlt werden muessen~~ - heute beide bezahlt
 
-> **Bezahlt am 25.08. in frueheres Kapitel 69** (Mi 9. September), und nicht so,
+> **Am 25.08. in frueheres Kapitel 69 gelegt** (Mi 9. September), und nicht so,
 > wie dieser Abschnitt es erwartet hat: **nicht durch Liefern, sondern durch
-> Benennen.**
+> Benennen.** Annies Monatsansage wird dort aufgeloest; Georgij benennt dort,
+> dass er die fuenf Firmen nicht geliefert hat. Der Kauf selbst ist erst im
+> spaeteren Schlusskanon bestaetigt (B2 23 und B2 79).
 >
 > - **Die fuenf Firmen.** Georgij sagt selbst, dass er sie nicht geliefert hat:
 >   *"On the third of April I stood in a room and told her that when it was over
@@ -15675,7 +15689,8 @@ gebrochen, das im Text steht.
 dem 17. August.** Die damals drei offenen Zeilen sind im heutigen Kanon
 bezahlt: Georgij beantwortet Annies zweite Bedingung in B2 19; B2 79 und B2 87
 bestaetigen den Kauf der fuenf Firmen; B2 69 loest *"You will in about a
-month"* ein.
+month"* ein. **Das Kaufdatum ist dabei noch widerspruechlich:** B2 23 zeigt die
+erste Unterschrift am 18. Mai, B2 87 legt alle fuenf Kaeufe in den November.
 
 **Vollpruefung vom 01.09.:** Drei andere Schulden waren durch Verweise auf
 geloeschte Fassungen faelschlich als bezahlt gefuehrt. Chois Jahresfrist ist
@@ -16680,28 +16695,50 @@ ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
 
 ---
 
-## Offen: die fuenf Haelften sind nie gekauft worden
+## Erfuellt, aber mit Datumswiderspruch: die fuenf Haelften
 
 **Befund vom 27.08., vom Autor ausgeloest.** Er hat beim Lesen bemerkt, dass
 Annie am Ulsan-Strang nichts bekommt, und den Verdacht geaeussert, das sei
-nachtraeglich erfunden. **Nachgeprueft ist es schlimmer als das: der Faden ist
-nicht verschenkt, er ist nie eingesammelt worden.**
+nachtraeglich erfunden. **Der Befund war fuer den damaligen Textstand richtig:**
+Der Faden war nicht eingesammelt worden. Die spaetere Schlussfassung hat den
+Kauf nachgetragen, aber dabei zwei verschiedene Zeitpunkte stehen gelassen.
 
 **B2 12, 3. April.** Georgij an Annie:
 
 > *"When it is over the other five will be yours, completely, not as customers
 > and not as an arrangement."*
 
-**B2 20, 30. April.** Der Aufbau, mit Datum und Kaeuferin:
+**B2 19, 30. April.** Der Aufbau, mit Datum und Kaeuferin:
 
 > *The five halves come onto the market between the middle of May and the
 > middle of June, five separate afternoons, and there is one buyer on that
 > coast with money in her hand and it is not a metaphor.*
 
-**Der Kauf findet nie statt.** *"The five halves"* kommt im ganzen Buch **genau
-einmal** vor, naemlich in dieser Zeile. Zwischen Mai und Juni wird keiner der
-fuenf Nachmittage erzaehlt. Was stattdessen dasteht, ist B2 69, aus Georgijs
-Heft:
+**B2 23 zeigt den ersten Kauf am 18. Mai:**
+
+> *Something else did. On the Monday the first of the five was signed.*
+>
+> *Mr Kwon's partner, sixty-three, sold his half at a price that was arrived at
+> in one meeting and did not have to be argued about.*
+
+**B2 79 bestaetigt rueckblickend den vollstaendigen Kauf:**
+
+> *"Your employer has bought five of them. It is in the register and I read the
+> register."*
+
+**B2 87 bestaetigt denselben Kauf, datiert aber alle fuenf auf November:**
+
+> *"There were six firms on that lane, and you bought five of them in
+> November."*
+
+**Damit ist die Zusage bezahlt, aber der Kalender gebrochen.** Der erste Kauf
+kann nicht zugleich am 18. Mai stattfinden und Teil von fuenf Kaeufen im
+November sein. Kapitel 19 sagt zudem ausdruecklich, die fuenf Haelften kaemen
+zwischen Mitte Mai und Mitte Juni auf den Markt. Vier der fuenf Nachmittage
+bleiben ausserhalb der Szene; das ist kein Kontinuitaetsfehler. Der
+Monatswiderspruch ist einer.
+
+Der damalige Gegenbeleg war B2 69, aus Georgijs Heft:
 
 > *The five firms have been Woo's customers since the end of April. I have been
 > out on that island twice since, taking his help, and it has never once
@@ -16710,12 +16747,12 @@ Heft:
 Sieben Jahre Ankerladung, arrangiert mit Annies Gewicht, **und die Vertraege
 gehoeren Woo.**
 
-### Wie es dazu kam, und die Lehre ist wichtiger als der Fall
+### Wie es dazu kam
 
 Die Zusage wurde am **25.08. als ueberfaellig gefunden** - sie stand im
 Verzeichnis, und der Verband kam vierundvierzig Kapitel lang nicht mehr vor.
-Um sie auf BEZAHLT zu bringen, sind Szenen geschrieben worden, in denen die
-Schuld **erlassen** wird.
+Um sie auf BEZAHLT zu bringen, sind zuerst Szenen geschrieben worden, in denen
+die Schuld **erlassen** wird.
 
 **Das ist das Verzeichnis, das die Erzaehlung steuert, statt umgekehrt.** Eine
 Schuld wird beglichen, indem das Vermoegen abgeschrieben wird. Genau davor soll
@@ -16725,22 +16762,23 @@ Schuld wird beglichen, indem das Vermoegen abgeschrieben wird. Genau davor soll
 ueberfaellige Zusage ist ein Befund und keine Anweisung. Wer sie bezahlt, indem
 er den Anspruch streicht, hat das Buch aermer gemacht und die Zeile gruen.
 
-### Der Vorschlag, falls der Autor ihn will
+### Umsetzung im spaeteren Schlusskanon
 
-**Die fuenf Haelften werden gekauft, wie B2 20 es ansagt.** Fuenf Nachmittage
-zwischen Mitte Mai und Mitte Juni, Annie als Kaeuferin. Das ist keine
-Erfindung, es steht mit Datum da.
-
-Kostet **einen Absatz** in einem Mai- oder Junikapitel und tut drei Dinge:
+**Die fuenf Haelften werden gekauft.** B2 23 zeigt den ersten Abschluss; B2 79
+und B2 87 bestaetigen alle fuenf im Register. Der nachgetragene Absatz erreicht
+die drei inhaltlichen Ziele der damaligen Empfehlung:
 
 1. Die Zusage ist bezahlt statt erlassen.
 2. **Georgijs Erkenntnis in B2 69 wird schaerfer statt schwaecher:** die Firmen
    gehoeren ihr, und die Ladung gehoert trotzdem Woo. Er hat ihr die Huellen
    besorgt und einem anderen den Inhalt.
-3. Der Satz aus B2 20 ist kein Erzaehlerversprechen mehr, das niemand einloest.
+3. Der Satz aus B2 19 ist kein Erzaehlerversprechen mehr, das niemand einloest.
 
-**Nicht ausgefuehrt.** Der Autor klaert den Fall zuerst mit dem Chat, der die
-Kapitel geschrieben hat.
+**Noch offen ist nur die Monatsangabe im Manuskript.** Die kleinste Korrektur
+liegt in B2 87: Der Satz muss den bereits geschriebenen Mai-Juni-Kauf
+rueckblickend bestaetigen, statt alle fuenf Kaeufe in den November zu legen.
+Der Manuskripttext bleibt bis zur Freigabe unveraendert; der Fund steht unten
+in der offenen Liste.
 
 ---
 
@@ -16999,6 +17037,13 @@ freigegeben sind.
    die um vier Monate verfehlte Frist nicht. Entweder muss die urspruengliche
    Frist anders lauten oder der spaetere Text den Fristbruch ausdruecklich
    mittragen; still als bezahlt darf die Zusage nicht gelten.
+9. **`b2 ch23:76-86` gegen `b2 ch87:348`, Kauf der fuenf Firmen.** Kapitel 23
+   zeigt die erste Unterschrift am Montag, dem 18. Mai; Kapitel 19 hat das
+   Marktfenster zuvor auf Mitte Mai bis Mitte Juni gelegt. Kapitel 87 behauptet
+   dagegen, Annie habe alle fuenf im November gekauft. B2 79 bestaetigt nur den
+   vollstaendigen Registerkauf, nicht dessen Monat. Der kleinste Eingriff ist,
+   in B2 87 **in November** durch eine Rueckschau auf den Mai-Juni-Abschluss zu
+   ersetzen.
 
 ---
 

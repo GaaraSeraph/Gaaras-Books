@@ -322,6 +322,9 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   und seinem Namen darauf (Band 2, Kapitel 23)
 - Tag 227, Mo 18. Mai: **die erste der fuenf Haelften wird unterschrieben**,
   Kwons Teilhaber (Band 2, Kapitel 23)
+  **Offener Widerspruch:** Band 2, Kapitel 87 datiert spaeter den Kauf aller
+  fuenf auf November. Kapitel 23 und die Marktprognose in Kapitel 19 tragen
+  dagegen den Mai-Juni-Zeitraum.
 - Tag 228, Di 19. Mai, zwanzig vor drei: **Mr Yeom ruft im Haus an und verlangt
   Georgij mit Namen.** Einladung zum Mittagessen am Donnerstag
   (Band 2, Kapitel 23)
@@ -768,6 +771,13 @@ Teilhaber-Haelften, ein anderer Vorgang), Mr Hwangs erste Maiwoche in Kapitel 56
 (die Abrechnungsbuecher), und Georgijs *"I have known that since about the first
 week of May"* in 69 - er hat es ein paar Tage nach den Unterschriften begriffen,
 und das stimmt weiter.
+
+**Neuer Stand vom 01.09.:** Der damalige Abgleich war fuer Kapitel 19, 20, 23
+und 69 richtig. Die spaeter hinzugekommene Schlussfassung von Kapitel 87 sagt
+jedoch *"you bought five of them in November"*. Das widerspricht der ersten
+Unterschrift am 18. Mai und dem ausdruecklich angesagten Mai-Juni-Fenster. Der
+Kalender behaelt die belegte Mai-Zeile; der Manuskriptfund steht offen in
+`doc/31-plan-band-2.md`.
 
 **Die beiden Wege, die zur Wahl standen:**
 

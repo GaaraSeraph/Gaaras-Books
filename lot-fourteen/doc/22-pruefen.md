@@ -310,7 +310,9 @@ blieb).
 der Pruefer zwei ueberfaellige Zusagen gefunden hatte, die beide im Text standen
 und in keiner Liste: die fuenf Firmen aus Kapitel 12 (vier Monate erzaehlte Zeit)
 und Annies *"You will in about a month"* aus Kapitel 5 (sechs Monate). Beide sind
-in Kapitel 69 bezahlt.
+heute bezahlt: Annies Satz in Kapitel 69, die fuenf Firmen nach einem ersten
+Kauf in Kapitel 23 rueckblickend in Kapitel 79. **Das Kaufdatum ist noch offen
+widerspruechlich**, weil Kapitel 87 alle fuenf auf November datiert.
 
 **Der Ablauf ist ab jetzt:** wer ein Kapitel schreibt, laeuft danach
 `python3 werkzeug/zusagen.py --neu` und traegt ein, was neu versprochen wurde.

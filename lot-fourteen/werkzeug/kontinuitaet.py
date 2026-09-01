@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Kontinuitaetspruefungen ueber beide Baende, die check.py nicht macht.
+"""Kontinuitaetspruefungen ueber alle Baende, die check.py nicht macht.
 
 check.py sieht ein Kapitel auf einmal. Das hier legt die Kapitel nebeneinander.
 
@@ -22,14 +22,15 @@ import collections
 
 DAY1 = datetime.date(2025, 10, 4)
 NAME = re.compile(r'ch(\d+)_v(\d+)_(\d+)_en\.md$')
+WURZEL = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def kapitel():
-    """Alle Kapitel beider Baende, jeweils die hoechste Fassung."""
+    """Alle Kapitel aller Baende, jeweils die hoechste Fassung."""
     out = []
     for band, d in ((1, 'chapters'), (2, 'chapters-2'), (3, 'chapters-3')):
         best = {}
-        for p in glob.glob(os.path.join(d, 'ch*_en.md')):
+        for p in glob.glob(os.path.join(WURZEL, d, 'ch*_en.md')):
             m = NAME.search(os.path.basename(p))
             if not m:
                 continue
@@ -139,6 +140,7 @@ WOCHENTAG = re.compile(
 UMGEKEHRT = re.compile(
     r'\bthe (' + '|'.join(TAGWORT) + r') of (' + '|'.join(MONATE) + r')\b[^.]{0,20}?'
     r'\b(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b')
+ZEITABSTAND = re.compile(r'\b(?:after|before|from|since|until)\b', re.IGNORECASE)
 
 
 def d_wochentage(kap):
@@ -151,6 +153,8 @@ def d_wochentage(kap):
     for band, k, t in kap:
         for pat, gruppen in ((WOCHENTAG, (1, 2, 3)), (UMGEKEHRT, (3, 1, 2))):
             for m in pat.finditer(t):
+                if ZEITABSTAND.search(m.group(0)):
+                    continue
                 tag_name = m.group(gruppen[0])
                 tag = TAGWORT[m.group(gruppen[1])]
                 monat = MONATE[m.group(gruppen[2])]
@@ -172,7 +176,8 @@ def d_wochentage(kap):
 if __name__ == '__main__':
     was = (sys.argv[1] if len(sys.argv) > 1 else 'a').lower()
     kap = kapitel()
-    print('%d Kapitel geladen (Band 1: %d, Band 2: %d)\n'
+    print('%d Kapitel geladen (Band 1: %d, Band 2: %d, Band 3: %d)\n'
           % (len(kap), sum(1 for b, _, _ in kap if b == 1),
-             sum(1 for b, _, _ in kap if b == 2)))
+             sum(1 for b, _, _ in kap if b == 2),
+             sum(1 for b, _, _ in kap if b == 3)))
     {'a': a_doppelt, 'b': b_konstanten, 'c': c_alter, 'd': d_wochentage}[was](kap)
