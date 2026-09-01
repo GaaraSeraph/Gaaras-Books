@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.608 Woerter.
+Book Two, 90 Kapitel, 232.605 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -98,7 +98,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 85 | v3.3 | 2.593 |
 | 86 | v3.25 | 3.900 |
 | 87 | v3.23 | 4.141 |
-| 88 | v3.7 | 3.368 |
+| 88 | v3.8 | 3.365 |
 | 89 | v4.1 | 1.995 |
 | 90 | v4.2 | 1.564 |
 
@@ -20153,7 +20153,7 @@ Downstairs the chairs stopped.
 ---
 
 # Book Two · Chapter 88: Not the comfortable part
-*Lot Fourteen* · Version 3.7 · EN
+*Lot Fourteen* · Version 3.8 · EN
 
 ## Day Five Hundred and Seventy-One · Tuesday 27 April
 
@@ -20287,7 +20287,7 @@ He picked the pot up and poured, because it was the right temperature and becaus
 
 "Then it should still be said."
 
-"He telephoned you on the tenth of December and on the eleventh, and you did not pick it up, and he has not been seen since the eighth of April." The four small things on the plate had not been touched. "You are going to spend some part of the rest of your life wanting to know whether those two things are the same thing."
+"He telephoned you on the tenth of December and on the eleventh, and you did not pick it up, and he died on the eighth of April." The four small things on the plate had not been touched. "You are going to spend some part of the rest of your life wanting to know whether those two calls and his death have the same cause."
 
 Sim straightened his cuff.
 
@@ -20369,7 +20369,7 @@ Mr Ok put his case on the wall.
 
 "Then he is finished."
 
-"He has not been seen since the eighth of April and I do not know where he is and nobody has looked."
+"He died on the eighth of April. I do not know whose hand it was and nobody has looked."
 
 Mr Ok stood at his own wall in May and did not say anything for about four seconds.
 
