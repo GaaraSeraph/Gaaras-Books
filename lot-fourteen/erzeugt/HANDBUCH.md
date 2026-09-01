@@ -4330,7 +4330,7 @@ bekommen. **Georgij herausnehmen ist die halbe Arbeit.**
 |---|---|
 | **Wofür das Instrument da war** | *"I have been sent to be liked, **four hundred times**, by a man who has understood since before I met him that being liked is the only thing that goes into a house and stays there."* (alt K68) |
 | **Wie es endet** | *"I am sixty-three. **I have got one instrument and I have just found out what it was for.** I would rather have nothing than go on being it, and it turns out that a man can arrive at that in one afternoon after thirty years."* (alt K68) |
-| **Woher er kommt** | **Hier stand *"mit sechsunddreißig aus einem Dienst herausgeholt (alt K75)"*. Falsch: Sim kommt in alt K75 null Mal vor.** Der Mann von sechsunddreißig ist der Staatsanwalt - **Choi**, von Annies Vater gemacht. `b2 ch58:170`, und es ist **Georgij** selbst: *"Somebody gets made by being handed a good reason at the wrong moment... **Choi did it to a man who telephones about drainpipes for eleven years.**"* **Der Satz über Annies Vater stand hier als wörtliches Zitat und steht so nicht im Kapitel; nachgeprüft am 29.08.** Ihr Vater und der Staatsanwalt von sechsunddreißig stehen in `b2 ch77:66/90/94` und `b2 ch82:134`, nicht hier. Der Mann mit den Regenrohren ist Sim, und **das** ist seine Herkunft: von Choi gemacht, auf dieselbe Weise |
+| **Woher er kommt** | **Hier stand *"mit sechsunddreißig aus einem Dienst herausgeholt (alt K75)"*. Falsch: Sim kommt in alt K75 null Mal vor.** Der Mann von fuenfunddreissig ist der Staatsanwalt - **Choi**, von Annies Vater gemacht. `b2 ch58:170`, und es ist **Georgij** selbst: *"Somebody gets made by being handed a good reason at the wrong moment... **Choi did it to a man who telephones about drainpipes for eleven years.**"* **Der Satz über Annies Vater stand hier als wörtliches Zitat und steht so nicht im Kapitel; nachgeprüft am 29.08.** Ihr Vater und der Staatsanwalt von fuenfunddreissig stehen in `b2 ch77:66/90/94` und `b2 ch82:134`, nicht hier. Der Mann mit den Regenrohren ist Sim, und **das** ist seine Herkunft: von Choi gemacht, auf dieselbe Weise |
 | **Was er nicht ist** | *"I have never been sent anywhere to be unpleasant to anybody." … "Not a raised voice, not a threat, not a bill produced on a table."* (alt K68) |
 
 ### Jang (58, acht Familien, dreißig Jahre)
@@ -22917,7 +22917,7 @@ ever will be."***
 **Am 30.08. nachgetragen, weil der Autor Mrs Ha und Mrs Sunwoo vermisst hat:**
 
 * **`b2 ch89`** - die Frau, die dreissig Jahre Blumen und Waesche in Saele
-  gestellt hat, hat seit Mitte Maerz einunddreissig Buchungen und ist in vier
+  gestellt hat, hat seit Mitte Maerz einunddreissig Buchungen und ist in fuenf
   Saelen, in denen sie vor Choi nie war. **Vier Leute haben ihr gesagt, jemand
   habe sie empfohlen, und keiner erinnert sich, wer.**
 * **`b2 ch89`** - im April brauchte sie Porzellan. Jemand hat sie sechs

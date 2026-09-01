@@ -5139,7 +5139,7 @@ ever will be."***
 **Am 30.08. nachgetragen, weil der Autor Mrs Ha und Mrs Sunwoo vermisst hat:**
 
 * **`b2 ch89`** - die Frau, die dreissig Jahre Blumen und Waesche in Saele
-  gestellt hat, hat seit Mitte Maerz einunddreissig Buchungen und ist in vier
+  gestellt hat, hat seit Mitte Maerz einunddreissig Buchungen und ist in fuenf
   Saelen, in denen sie vor Choi nie war. **Vier Leute haben ihr gesagt, jemand
   habe sie empfohlen, und keiner erinnert sich, wer.**
 * **`b2 ch89`** - im April brauchte sie Porzellan. Jemand hat sie sechs
