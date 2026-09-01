@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 317.388 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 317.605 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17409,6 +17409,26 @@ freigegeben sind.
     **forty-five quarterly authorisations** werden. Die zwei *standing
     payments* in Kapitel 81 bleiben bestehen: Das sind die zwei laufenden
     Zahlungsanweisungen, nicht die Zahl ihrer Ausfuehrungen.
+37. **`b2 ch41:187-225`, `b2 ch55:172` und `b2 ch59:200` gegen `b2
+    ch64:162` und `b2 ch68:94,196`, der Liefertakt des Sauerstoffs.** Die vier
+    Jahre Bestellungen sind in Kapitel 41 einzeln datiert: anfangs liegen rund
+    dreissig Tage dazwischen, zuletzt neun bis zwoelf. Jede Bestellung beginnt
+    damit, dass jemand den Tank prueft und anruft. Kapitel 55 nennt daraus
+    gerundet Sauerstoff alle elf Tage; Hwang bestaetigt in Kapitel 59 den
+    Rueckgang von dreissig auf elf Tage. Kapitel 64 macht daraus ploetzlich eine
+    Lieferung am zweiten Dienstag, und Kapitel 68 erklaert den zweiten Dienstag
+    sogar ausdruecklich zum monatlichen Dauertermin. Beide Takte koennen nicht
+    zugleich gelten. Der schrumpfende Bedarf ist als Ermittlungsspur und als
+    Zeichen von Moon Hae-sooks Zustand gebaut und muss deshalb fuehrend bleiben.
+    Die kleinste geschlossene Korrektur laesst den 8. Dezember als konkretes
+    Datum und den Kapiteltitel stehen, aendert aber drei Saetze:
+    **the medical gas was due again in nine days** in Kapitel 64; **the change I
+    signed took effect with today's delivery** statt *because it is the second
+    Tuesday* in Kapitel 68; und **it will go on arriving whenever the tanks run
+    low until one of them is dead** statt des monatlichen zweiten Dienstags.
+    *The second Tuesday in December* am Kapitelschluss bezeichnet danach weiter
+    den Tag, nicht den Rhythmus. Quartalsfreigabe und monatliche Praxiszahlung
+    des Trusts sind davon getrennte Geldtakte und bleiben unberuehrt.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
