@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 315.493 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 315.643 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17292,6 +17292,21 @@ freigegeben sind.
     Anrufe und **his death** dieselbe Ursache haben; gegenueber Ok genuegt **He
     died on the eighth of April. I do not know whose hand it was and nobody has
     looked.**
+
+28. **`b2 ch80:252-256,320`, die Abholung von Mrs Has neun Kisten.** Der
+    Tageskopf setzt die Abholung auf Donnerstag, den 4. Februar 2027; die
+    spaetere Notiz bestaetigt ausdruecklich **the fourth of February**. Der
+    dazwischenstehende Satz behauptet jedoch, die Maenner haetten die Kisten
+    **in January** die Aussentreppe hinuntergetragen. Die Abholung fand nicht
+    im Januar statt. Der einzelne Monatsname muss **in February** werden.
+29. **`b2 ch89:130` gegen `b2 ch80:4-18,252-264`, Mrs Has Anrufzaehlung.** Am
+    18. Januar ruft sie erstmals die Nummer an, die Georgij ihr im Dezember
+    hinterlassen hat. Am 4. Februar ruft sie nach der Abholung erneut im Haus
+    an; Georgij nimmt den Anruf im Gang hinter der Kueche entgegen. Der Anruf
+    im Maerz kann deshalb nicht *the second time she has used the number* sein,
+    sondern ist mindestens der dritte. Da beide frueheren Anrufe im Text
+    einzeln belegt sind, ist der kleinste Ersatz **it is the third time she has
+    used the number**.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
