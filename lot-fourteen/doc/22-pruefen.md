@@ -138,7 +138,7 @@ Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
 
 | Klasse | Woran man sie erkennt | Exemplar |
 |---|---|---|
-| **Falsche Person** | eine Tat, ein Gefühl oder ein Satz an der falschen Figur | B2 38 (die Karten), B2 42 (Annies Satz in Sang-hoons Mund), B2 40 (Jang von Georgij eingestellt) |
+| **Falsche Person** | eine Tat, ein Gefühl oder ein Satz an der falschen Figur | B2 38 (die Karten), B2 42 (Annies Satz in Sang-hoons Mund), B2 40 (Jang von Georgij eingestellt), `doc/15` (Jangs Alter Mrs Ha zugeschrieben) |
 | **Falsches Datum an einer Person** | wer wann wovon wußte, wer wann wo war | B2 11 (Hana seit Dezember), B2 26/35 (der 2. statt 1. März), B2 47 (der 23. statt 22. Juni) |
 | **Unmögliches Wissen** | die Erzählung ist nah an Georgij und darf nichts sagen, was er später erfährt | B2 8 (Mrs Sunwoos Schublade, vier Tage zu früh) |
 | **Falsches „erstes Mal"** | *the first time*, *never*, *only* über eine Person | B2 38 (er habe noch nie jemanden gemocht), B1 17 (zwei eigene Lächeln statt sechs) |

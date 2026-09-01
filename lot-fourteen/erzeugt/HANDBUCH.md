@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 314.742 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 314.806 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1828,7 +1828,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Ahn Jung-hee** | **Die vierte Zeile im Katalog.** Wird in einem Haushalt in Gangwon-do gehalten | Fuenfunddreissig. Im Haus heisst sie **Do Kyung-ae** und fuehrt den Haushalt, in dem sie gehalten wird | B2 56 | **Der Angelpunkt.** Hat am 27. August zum ersten Mal gesprochen |
 | **Mr Ahn** | **Ihr Bruder.** Repariert Kleinmotoren | Neununddreissig. Hat die Konsignation unterschrieben | B2 56 | **Aktiv.** Hat den Satz geliefert |
 | **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
-| **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | Dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 67 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij ist am 4. September zu ihr nach Mapo gegangen und wusste, dass sie telefonieren wuerde |
+| **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | In ihren Sechzigern, dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 67 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij ist am 4. September zu ihr nach Mapo gegangen und wusste, dass sie telefonieren wuerde |
 | **Mr Im (Mullae)** | **Ehemaliger Firmeninhaber**, arbeitet weiter im leeren Buero ueber einer Druckerei | Siebenundfuenfzig. Seine Firma ging in den zwei Jahren nach Chois Essen vor sechs Jahren unter; den alten Kalender bewahrt er im Schreibtisch auf | B2 75 | **Nicht Mr Im aus Annies Wartungsrota.** Ruft am 30. Dezember seinen seit dreissig Jahren bekannten Bekannten an; bis April folgen vier Essen. Die falsche Epilogklammer ist offen in `doc/31-plan-band-2.md` |
 | **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
 | **Chu Sang-cheol** | **Der Halter.** Fuehrt das Haus in Gangwon-do, in dem beide Frauen gehalten werden - Lease, neun Leute auf einer Rota, vier Wagen. **Nicht Mrs Ryu aus Band 1** | Haelt Moon seit elf Jahren und Ahn seit vier, zu einem Satz aus dem Jahr der Vereinbarung. Verkauft Ahn in sechsundzwanzig Stunden | B2 59 (genannt), B2 63 (handelt) | **Erledigt.** Behaelt die, fuer die bezahlt wird |
@@ -2847,7 +2847,7 @@ und niemand muss ihn zitieren.
 26. **Mrs Sunwoo**, einundachtzig, **Stammkundin**, ihr eigener Eintrag ist drei Jahre alt und hat mit dem 4. Oktober nichts zu tun. Ihr *"We haven't met"* in b1 K7 war **eine Pruefung** und keine Hoeflichkeit.
 27. **Nam Byung-hee**, achtundfuenfzig, schreibt **am Ersten jedes Monats** an sechs Firmen, auch wenn es nichts zu schreiben gibt. **Zwanzig Jahre, vier Antworten, alle vier von demselben Mann, und der ist tot.** Sie luegt nicht, und genau das ist die Waffe gegen sie.
 28. **Mrs Seo**, neun Jahre im Haus, fuehrt Personal, Konten und Fremdfirmen. *"I am not clever, I am organised."*
-29. **Jang** ist **Interimschef der Sicherheit**, dreissig Jahre, nie bei einer Firma, die etwas herstellt. **Die Fahrer sind Ku und Pyo, nicht er** (Fassung 1.1 hatte ihn falsch an den Garagen).
+29. **Jang** ist **achtundfuenfzig** und **Interimschef der Sicherheit**, dreissig Jahre, nie bei einer Firma, die etwas herstellt. **Die Fahrer sind Ku und Pyo, nicht er** (Fassung 1.1 hatte ihn falsch an den Garagen).
 30. **Yun**, Kuechenjunge seit der ersten Januarwoche.
 31. **Mrs Gwak**, etwa siebzig, Blumen in Hyoja-dong, Doppelbuecher mit Durchschlag. **Mr Han**, Fahrer, achtzehn Jahre, schreibt auf alles. **Min-a**, Aushilfe.
 32. **Baek Jun-ho**, Solicitor in Yeouido, verwaltet den Trust **seit elf Jahren**.
@@ -8823,10 +8823,15 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Mr Chae** | 58 | 3. September | Band 1, Kapitel 25, aus seinem eigenen Mund |
 | **Mr Kwon** | 54 | **30. September** | **frueheres Kapitel 69, aus seinem eigenen Mund:** *"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive."* Neun Lastwagen auf einer Spur aus Ulsan, eine der fuenf Firmen |
 | **Sim** | 63 | **1. Oktober** | **frueheres Kapitel 68, aus seinem eigenen Mund:** *"I am sixty-three. I have got one instrument and I have just found out what it was for."* Dazu im selben Kapitel *"a man of sixty-odd"*. Dreissig Jahre im Dienst |
-| **Mrs Ha** | 58 | **2. Oktober** | **frueheres Kapitel 67, aus ihrem eigenen Mund:** *"I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."* Dreissig Jahre |
+| **Mrs Ha** | **in ihren Sechzigern** | **offen** | Kapitel 72 und 89: *"Mrs Ha is in her sixties"* bzw. *"A woman in her sixties"*. Dreissig Jahre |
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
-| **Jang** | **offen** | **offen** | Dreissig Jahre im Gewerbe (12, 13, 40), kein Alter im Text |
+| **Jang** | **58** | **offen** | Kapitel 72, am 21. Dezember aus seinem eigenen Mund im Wagen: *"I have got a street and a coffee and I am fifty-eight"*. Dreissig Jahre im Gewerbe (12, 13, 40) |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |
+
+**Zuschreibung korrigiert am 1. September:** Der Satz mit der Strasse, dem Kaffee
+und den achtundfuenfzig Jahren gehoert Jang. Mrs Ha erscheint erst im Absatz
+danach und wird dort bereits als *in her sixties* eingefuehrt. Der fruehere
+2.-Oktober-Geburtstag fuer Mrs Ha hatte deshalb keine Textgrundlage.
 
 **Die Regel dazu.** Wer eine Altersangabe schreibt, holt sie hier. Wer eine
 aendert, aendert sie hier zuerst. Wer eine Figur neu einfuehrt und ihr eine Zahl
@@ -11791,7 +11796,7 @@ Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
 
 | Klasse | Woran man sie erkennt | Exemplar |
 |---|---|---|
-| **Falsche Person** | eine Tat, ein Gefühl oder ein Satz an der falschen Figur | B2 38 (die Karten), B2 42 (Annies Satz in Sang-hoons Mund), B2 40 (Jang von Georgij eingestellt) |
+| **Falsche Person** | eine Tat, ein Gefühl oder ein Satz an der falschen Figur | B2 38 (die Karten), B2 42 (Annies Satz in Sang-hoons Mund), B2 40 (Jang von Georgij eingestellt), `doc/15` (Jangs Alter Mrs Ha zugeschrieben) |
 | **Falsches Datum an einer Person** | wer wann wovon wußte, wer wann wo war | B2 11 (Hana seit Dezember), B2 26/35 (der 2. statt 1. März), B2 47 (der 23. statt 22. Juni) |
 | **Unmögliches Wissen** | die Erzählung ist nah an Georgij und darf nichts sagen, was er später erfährt | B2 8 (Mrs Sunwoos Schublade, vier Tage zu früh) |
 | **Falsches „erstes Mal"** | *the first time*, *never*, *only* über eine Person | B2 38 (er habe noch nie jemanden gemocht), B1 17 (zwei eigene Lächeln statt sechs) |

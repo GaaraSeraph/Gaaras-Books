@@ -739,10 +739,15 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Mr Chae** | 58 | 3. September | Band 1, Kapitel 25, aus seinem eigenen Mund |
 | **Mr Kwon** | 54 | **30. September** | **frueheres Kapitel 69, aus seinem eigenen Mund:** *"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive."* Neun Lastwagen auf einer Spur aus Ulsan, eine der fuenf Firmen |
 | **Sim** | 63 | **1. Oktober** | **frueheres Kapitel 68, aus seinem eigenen Mund:** *"I am sixty-three. I have got one instrument and I have just found out what it was for."* Dazu im selben Kapitel *"a man of sixty-odd"*. Dreissig Jahre im Dienst |
-| **Mrs Ha** | 58 | **2. Oktober** | **frueheres Kapitel 67, aus ihrem eigenen Mund:** *"I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."* Dreissig Jahre |
+| **Mrs Ha** | **in ihren Sechzigern** | **offen** | Kapitel 72 und 89: *"Mrs Ha is in her sixties"* bzw. *"A woman in her sixties"*. Dreissig Jahre |
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
-| **Jang** | **offen** | **offen** | Dreissig Jahre im Gewerbe (12, 13, 40), kein Alter im Text |
+| **Jang** | **58** | **offen** | Kapitel 72, am 21. Dezember aus seinem eigenen Mund im Wagen: *"I have got a street and a coffee and I am fifty-eight"*. Dreissig Jahre im Gewerbe (12, 13, 40) |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |
+
+**Zuschreibung korrigiert am 1. September:** Der Satz mit der Strasse, dem Kaffee
+und den achtundfuenfzig Jahren gehoert Jang. Mrs Ha erscheint erst im Absatz
+danach und wird dort bereits als *in her sixties* eingefuehrt. Der fruehere
+2.-Oktober-Geburtstag fuer Mrs Ha hatte deshalb keine Textgrundlage.
 
 **Die Regel dazu.** Wer eine Altersangabe schreibt, holt sie hier. Wer eine
 aendert, aendert sie hier zuerst. Wer eine Figur neu einfuehrt und ihr eine Zahl
