@@ -2539,12 +2539,17 @@ Was hier steht, ist ab jetzt Plan: das Ziel, der Feldzug, die offenen Faeden.
 183. **Choi benennt es selbst:** *"That is what your employer's father did to me."* Georgijs Antwort: *"Except that he did it to get you, and I am doing it to be finished with you... I do not know. I have decided to do it anyway."*
 184. **Achtundfuenfzig Namen stehen hinten im Buch, und das wird Jahre dauern.** (Band 3.)
 
-Alle drei stehen weiter im Roman; der Kontinuitaetslauf vom 01.09. hat sie
-gegen den aktuellen Bandstand erneut bestaetigt.
+Alle drei Befunde sind am 01.09. im Roman korrigiert und gegen den aktuellen
+Bandstand nachgemessen.
 
-1. **b1 K30: *"I have known that since I was forty-one."*** Das macht Annie mindestens einundvierzig. `b2 ch78` rechnet sie je nach Satz auf siebenunddreissig oder neununddreissig. **Keine der beiden Rechnungen erreicht einundvierzig.** Dasselbe Kapitel ist voll von *"forty-one per cent"*. **Verdacht auf Zahlenkontamination aus dem Anteilssatz.**
-2. **Annies Vater stirbt im selben Jahr, in dem er Choi an den Tisch bringt.** Das legt `b2 ch78` inzwischen mit zweimal fuenfundzwanzig Jahren fest. b1 K15 sagt zugleich *"She has done it since the father died"*. Damit haette Annie die Familienfinanzen seit ihrem vierzehnten Lebensjahr gefuehrt. **Der fruehere offene Todestermin ist geschlossen; der sachliche Widerspruch ist es nicht.**
-3. **b2 K13: *"I still have the three hours. I am seventy-eight and I would rather be owed than paid."*** Woo ist an dieser Stelle der **Schuldner**, aber *to be owed* ist die Position des Glaeubigers. Entweder ein Dreher, oder dem Satz fehlt ein Wort.
+1. **b1 K30 v1.16:** *"I have known that since I was thirty-one."* Die
+   Zahlenkontamination aus dem Anteilssatz ist entfernt.
+2. **b1 K15 v2.19:** Annie fuehrt die Familienfinanzen *"since 2009"*. Der Tod
+   des Vaters im Jahr 2002 macht sie damit nicht mehr zur Vierzehnjaehrigen mit
+   dieser Verantwortung.
+3. **b2 K13 v1.9:** Woo sagt nun *"I would rather keep a debt than settle it"*.
+   Damit spricht er aus der Position des Schuldners und behaelt den Gedanken,
+   dass die unbezahlte Schuld die Verbindung bewahrt.
 
 ---
 

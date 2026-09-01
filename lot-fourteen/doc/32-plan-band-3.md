@@ -3894,15 +3894,12 @@ irgendjemand von dem Vormittag behalten haette. **Also unterschreibt er, und
 damit steht sein Name zum ersten Mal in seiner eigenen Handschrift in einem
 Dokument** - beim Ritus fuer den Mann, den er auseinandergenommen hat.
 
-**Das Bild vorn ist im geschriebenen Kapitel der
-Sechsunddreissigjaehrige.** Jemand hatte dort vierundzwanzig Jahre Fotografien
-zur Auswahl und ist an allen vorbei zurueckgegangen. **Beide Zahlen
-widersprechen inzwischen dem Kalender:** mit dem gefuehrten Geburtstag war
-Choi im April 2002 fuenfunddreissig, und bis Mai 2027 sind fuenfundzwanzig
-Jahre vergangen. Der folgende Wortlaut ist aktueller Romantext und bleibt bis
-zur Autorenfreigabe stehen:
+**Das Bild vorn ist im geschriebenen Kapitel der Fuenfunddreissigjaehrige.**
+Jemand hatte dort fuenfundzwanzig Jahre Fotografien zur Auswahl und ist an
+allen vorbei zurueckgegangen. Beide Zahlen sind in `b3 ch02 v1.8` auf den
+gefuehrten Geburtstag und den Mai 2027 korrigiert:
 
-> "He was thirty-six and he was the best man in that building at the thing he
+> "He was thirty-five and he was the best man in that building at the thing he
 > did. ... The fifth one he did not take apart."
 >
 > "That is what I wanted to say to you today, and I am not going to finish it
@@ -3914,7 +3911,7 @@ am not going to finish it here* ist die Vorladung fuer die naechste Szene und
 keine Bitte.
 
 **Und Georgij gibt nichts her.** Seine einzige Replik ist wahr und
-unbrauchbar: *"I have been told twice what he was at thirty-six. Both times by
+unbrauchbar: *"I have been told twice what he was at thirty-five. Both times by
 somebody who was not sorry."* Antwort: *"That will be most of the people you
 talk to."*
 
@@ -4810,14 +4807,14 @@ beide**, weil er auf einem Sachfehler stand.
 Dienst entfernt.* Das ist falsch.** `b2 ch84:192` liest sich andersherum, und
 die Nebensaetze haengen an dem **anderen** Mann:
 
-> *A prosecutor of thirty-six who was got out of a service in 2002 **by a man
+> *A prosecutor of thirty-five who was got out of a service in 2002 **by a man
 > who could not read a contract**, and whose photographs are in the dining
 > room, and who is her father.*
 
 **Der Mann, der nicht lesen konnte, ist ihr Vater. Er ist derjenige, der den
 Staatsanwalt herausgeholt hat.**
 
-### Und der Staatsanwalt von sechsunddreissig ist Choi Dae-ho
+### Und der Staatsanwalt von fuenfunddreissig ist Choi Dae-ho
 
 **Das steht woertlich im Buch und ich hatte es nicht zusammengesetzt.**
 
@@ -4844,15 +4841,15 @@ Staatsanwalt herausgeholt hat.**
 
 `b2 ch82:134`, Annie, die es selbst ausspricht:
 
-> *"Two thousand and two. A prosecutor of thirty-six who closed your case.
+> *"Two thousand and two. A prosecutor of thirty-five who closed your case.
 > Eleven days later in a good coat with nothing to sell. **My father at a
 > lunch, saying he had found somebody who could do it in one**."*
 
 **Damit steht folgendes fest und ist nicht mehr verhandelbar:**
 
-* **Choi war ein guter Staatsanwalt.** Der aktuelle Roman sagt
-  sechsunddreissig; der Kalender ergibt fuenfunddreissig. Er hatte den Fall
-  gewonnen und waere oben angekommen.
+* **Choi war ein guter Staatsanwalt.** Der Roman und der Kalender setzen ihn
+  im April 2002 auf fuenfunddreissig. Er hatte den Fall gewonnen und waere oben
+  angekommen.
 * **Annies Vater hat ihn kaputtgemacht**, indem er ihm eine Sache zu tun gab,
   die er nicht rueckgaengig machen konnte.
 * **Choi ist nicht schlecht geboren worden. Dieses Haus hat ihn hergestellt.**
@@ -4892,8 +4889,9 @@ Georgij did not move from where he was standing.
 
 "I am not interested in whether you can justify what you did." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at sixty."
 
-**Die Alterszahlen in diesem Entwurf sind die rechnerische Sollfassung.** Der
-Romantext in Band 2 und `b3 ch02` wird erst nach Autorenfreigabe nachgezogen.
+**Die Alterszahlen dieses Entwurfs sind jetzt im Roman durchgezogen.** Band 2
+und `b3 ch02 v1.8` setzen Choi 2002 auf fuenfunddreissig, bei seinem Tod auf
+sechzig und die Spanne dazwischen auf fuenfundzwanzig Jahre.
 
 **Das ist der Satz, den er nicht beantworten kann**, weil er ueber die Zukunft
 geht und er ueber die Zukunft keine Belege hat. **Und weil er nie etwas

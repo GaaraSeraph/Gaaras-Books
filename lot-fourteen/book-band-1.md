@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 100.734 Woerter.
+Book One, 34 Kapitel, 100.732 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -25,7 +25,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 12 | v1.14 | 2.456 |
 | 13 | v2.11 | 2.822 |
 | 14 | v7.11 | 2.602 |
-| 15 | v2.18 | 4.154 |
+| 15 | v2.19 | 4.152 |
 | 16 | v1.23 | 3.232 |
 | 17 | v12.20 | 2.680 |
 | 18 | v2.14 | 2.928 |
@@ -40,7 +40,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 27 | v3.12 | 3.127 |
 | 28 | v1.11 | 2.706 |
 | 29 | v1.5 | 1.992 |
-| 30 | v1.15 | 3.555 |
+| 30 | v1.16 | 3.555 |
 | 31 | v1.12 | 3.200 |
 | 32 | v1.5 | 2.581 |
 | 33 | v1.16 | 3.341 |
@@ -3931,7 +3931,7 @@ Annie looked at him for a moment.
 ---
 
 # Book One · Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.18 · EN
+*Lot Fourteen* · Version 2.19 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -3977,7 +3977,7 @@ Hana laughed out loud.
 
 "Forty-one across six people."
 
-"Forty-one. Forty-two point four with hers, and not one of those six has voted against her since 2009." She turned her glass. "She does the family money. She has done it since the father died. Every one of them has been carried by her at some point, and none of them can read a set of accounts, and every single one of them telephones her before they sign anything at all."
+"Forty-one. Forty-two point four with hers, and not one of those six has voted against her since 2009." She turned her glass. "She does the family money. She has done it since 2009. Every one of them has been carried by her at some point, and none of them can read a set of accounts, and every single one of them telephones her before they sign anything at all."
 
 "So she never has to sign."
 
@@ -8366,7 +8366,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Book One · Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.15 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8520,7 +8520,7 @@ The room went on behind the glass. Somebody laughed near the fireplace. Her brot
 
 It came out flat and immediate, the way a thing comes out when it has been sitting fully formed for a very long time.
 
-"There is no one. My brother will chair a meeting." She had her hands on the rail. "My cousin telephones his lawyer, the lawyer telephones somebody in Yeouido, and within a year they have sold the thing my father built to whoever was kindest on the telephone. I have known that since I was forty-one."
+"There is no one. My brother will chair a meeting." She had her hands on the rail. "My cousin telephones his lawyer, the lawyer telephones somebody in Yeouido, and within a year they have sold the thing my father built to whoever was kindest on the telephone. I have known that since I was thirty-one."
 
 "And you have not done anything about it."
 

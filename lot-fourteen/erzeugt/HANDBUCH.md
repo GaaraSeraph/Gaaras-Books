@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.670 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.501 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -456,7 +456,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Und Georgijs Verfahren greift zum ersten Mal ins Leere](#und-georgijs-verfahren-greift-zum-ersten-mal-ins-leere)
   - [Also ist die Aufloesung keine Zerstoerung](#also-ist-die-aufloesung-keine-zerstoerung)
   - [Zuerst der Fehler, weil alles Weitere daran haengt](#zuerst-der-fehler-weil-alles-weitere-daran-haengt)
-  - [Und der Staatsanwalt von sechsunddreissig ist Choi Dae-ho](#und-der-staatsanwalt-von-sechsunddreissig-ist-choi-dae-ho)
+  - [Und der Staatsanwalt von fuenfunddreissig ist Choi Dae-ho](#und-der-staatsanwalt-von-fuenfunddreissig-ist-choi-dae-ho)
   - [Also gibt es keinen dritten Gegner, sondern einen richtigen ersten](#also-gibt-es-keinen-dritten-gegner-sondern-einen-richtigen-ersten)
   - [Die Anklage: Georgij kann die Tat zugeben, aber sich nicht freisprechen](#die-anklage-georgij-kann-die-tat-zugeben-aber-sich-nicht-freisprechen)
   - [Und der Schlussstein ist, dass er es selbst schon gesagt hat](#und-der-schlussstein-ist-dass-er-es-selbst-schon-gesagt-hat)
@@ -1804,7 +1804,7 @@ die beim Planen zaehlt.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig bei Georgijs Eintrag am 27. Mai 2026, sechzig ab 18. November und bei seinem Tod. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 bis 90: neun Anrufe, und er ueberlebt das Ende nicht. **Offener Zahlenfehler:** 2002 war er nach dieser Altersfolge 35, waehrend der Roman 36 sagt |
+| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig bei Georgijs Eintrag am 27. Mai 2026, sechzig ab 18. November und bei seinem Tod; im April 2002 fuenfunddreissig. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 bis 90: neun Anrufe, und er ueberlebt das Ende nicht. Die historische Altersfolge ist im Roman korrigiert |
 | **Nam Byung-hee** | **Spediteurin aus Ulsan** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
 | **Kang Ji-hoon** | **Beamter im Ministerium fuer Land und Infrastruktur**, mittlere Ebene | | B1 10 | Ruht |
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
@@ -2007,13 +2007,11 @@ stand und in keinem Figurendokument.** Kein Name im Text.
   zu Woo, ohne einen Namen zu nennen: *"he had spent forty years being right
   about people in four seconds and had found a man who could do it in one."*
 
-**Die Rechnung, die daran haengt, geht im aktuellen Text nicht auf.** `b2 ch78`
-setzt vierzehn plus fuenfundzwanzig, also neununddreissig. Dasselbe Kapitel
-setzt dreissig plus sieben, also siebenunddreissig. Dazu sagt `b1 ch30`, Annie
-habe etwas seit ihrem einundvierzigsten Lebensjahr gewusst. **Diese drei Zahlen
-haben keine gemeinsame Loesung.** Der Romantext bleibt bis zur
-Autorenentscheidung unangetastet; der Fehler ist in `doc/15-kalender.md`
-vollstaendig verbucht.
+**Die Rechnung ist im Roman durchgezogen.** `b2 ch78` setzt vierzehn plus
+fuenfundzwanzig, also neununddreissig. Mit dreissig hat Annie verstanden, was
+Choi war, und seit neun Jahren weiss sie es. `b1 ch30` sagt jetzt, dass sie
+die Zukunft der Firma seit ihrem einunddreissigsten Lebensjahr kannte; das ist
+eine andere Erkenntnis und kein Altersanker fuer die Choi-Rechnung.
 
 **Und die Regel, die Georgij daraus zieht** (`b2 ch78`): *"Everything that man
 has done since is his own... none of it is a debt that came down to you."* Wer
@@ -2867,7 +2865,7 @@ und niemand muss ihn zitieren.
 131. **Woos Finanzier aus b1 K13** (*"what would happen to the terminal if I died on the Tuesday"*) **ist nicht Choi** und darf nie mit ihm verwechselt werden. Der Text benennt sie ausdruecklich als zwei Maenner.
 132. **Baek Jun-ho** hat **einunddreissig Jahre** im Fach und **elf Treuhandschaften gebaut**, und in keiner davon sah eine Treuhaenderloesung hinterher besser aus.
 
-133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist am 27. Mai 2026 neunundfuenfzig und ab dem 18. November sechzig; mit dem gefuehrten Geburtstag war er im April 2002 also **fuenfunddreissig**. Der Roman nennt ihn dort wiederholt sechsunddreissig. **Offener Kontinuitaetsfehler, Romantext nicht ohne Autorenfreigabe aendern.**
+133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist am 27. Mai 2026 neunundfuenfzig und ab dem 18. November sechzig; mit dem gefuehrten Geburtstag war er im April 2002 also **fuenfunddreissig**. Die exakten Altersnennungen im Roman sind darauf korrigiert; Woos damalige Schaetzung *"Thirty-five or thirty-six"* bleibt als Schaetzung stehen.
 134. **Woo war nicht das Gekaufte. Er war die Tuer.** *"You give him one thing to do that he cannot undo, and then he leaves on his own, and he never once says why."* **Choi hat einen Fall geschlossen, den er bereits gewonnen hatte.**
 135. **Der Staatsanwalt kam allein in den Hof, ass das Mittagessen nicht an und stellte eine Frage:** *"who I would telephone if it went badly."* Woo nannte drei Namen. Sechs Wochen spaeter war die Akte zu. **Niemand hat bezahlt.**
 136. **DER NAME: Annies Vater hat ihn ins Haus geholt.** Ein Mann aus Incheon, von unten hochgekommen, **konnte keinen Vertrag lesen** (die Mutter las sie ihm nach dem Essen vor, b1 K30) und urteilte in vier Sekunden richtig ueber Menschen. **Wer keinen Vertrag lesen kann, braucht jemanden, der ihm sagt, wem er ja sagen soll.**
@@ -8189,14 +8187,11 @@ alle Jahresspannen im Text waren auf 2026 gerechnet. Die Wochentage sind ueber a
 Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 *"Sunday 16 May"*, der Kalender sagt Sonntag.
 
-**Annies Alter ist damit nicht mehr eindeutig, sondern ein offener
-Kontinuitaetsfehler.** `b2 ch78` sagt zugleich: im Fruehjahr 2002 vierzehn,
-seit fuenfundzwanzig Jahren am Tisch, mit dreissig verstanden und seit sieben
-Jahren gewusst. Mit dem gefuehrten Geburtstag 18. September ergeben die ersten
-beiden Angaben **39** im Januar 2027; die letzten beiden ergeben **37**. `b1
-ch30` setzt mit *"since I was forty-one"* noch eine dritte unvereinbare
-Untergrenze. **Keine dieser Romanstellen wird ohne Autorenentscheidung
-geaendert.**
+**Annies Alter ist jetzt eindeutig.** `b2 ch78` sagt: im Fruehjahr 2002
+vierzehn, seit fuenfundzwanzig Jahren am Tisch, mit dreissig verstanden und seit
+neun Jahren gewusst. Mit dem gefuehrten Geburtstag 18. September ist sie im
+Januar 2027 **39**. `b1 ch30` sagt nun *"since I was thirty-one"*; die
+Familienfinanzen fuehrt sie laut `b1 ch15` seit 2009.
 
 **ZWEI JAHRESANGABEN WIDERSPRACHEN DEM KALENDER, und die erste ist am 26.08. als
 erledigt verbucht worden, ohne dass sie je im Text ankam:**
@@ -8221,11 +8216,10 @@ erledigt verbucht worden, ohne dass sie je im Text ankam:**
    | 2026 | **vierundzwanzig** | 17, 29, 63 (fuenfmal), 64, 67 (zweimal) |
    | 2027 | **fuenfundzwanzig** | 71 (zweimal), 72 (dreimal), 75, 76, 77 (zweimal), 79, 80 (dreimal) |
 
-   **Der Lauf ist trotzdem nicht sauber:** Im aktuellen `b2 ch69`, am 11.
-   Dezember 2026, steht einmal *"Twenty-three years ago there was a customs
-   matter"* und wenige Zeilen spaeter mehrfach *"twenty-four years"*. Das ist
-   ein Widerspruch innerhalb derselben Szene. Der Romantext bleibt bis zur
-   Autorenfreigabe stehen.
+   **Der letzte Ausreisser ist korrigiert:** `b2 ch69 v3.5`, am 11. Dezember
+   2026, sagt nun auch am Szenenanfang *"Twenty-four years ago there was a
+   customs matter"*. Die spaeteren Nennungen derselben Szene stimmen damit
+   ueberein.
 
    **Nicht angefasst, weil richtig:** Mrs Jeons dreiundzwanzig Jahre hinter dem
    Glas (sechzehn Stellen), Mr Chaes dreiundzwanzig Jahre Urkunden, der Neffe von
@@ -8249,13 +8243,9 @@ kommt ueber dreissigmal vor (Kapitel 6, 7, 27 bis 34, 71, 78, 83) und hat mit
 2002 nichts zu tun. **Wer hier je wieder sucht, muss die beiden Bestaende
 trennen, bevor er ersetzt.**
 
-**OFFEN GEBLIEBEN, weil es eine Autorenentscheidung im Romantext braucht:**
-`b2 ch77` und `b2 ch78` sagen viermal *"seven years"*, obwohl das Kapitel
-zugleich 2002, vierzehn, dreissig und fuenfundzwanzig Jahre festlegt. Seit der
-Verlaengerung bis Mai 2027 ist *seven* keine tragfaehige Rundung mehr: aus dem
-gefuehrten Geburtstag folgt **neun Jahre seit dreissig**. Die fruehere
-Autorenentscheidung fuer *seven* ist damit durch den spaeteren Zeitstrahl
-eingeholt worden.
+**AM 01.09. IM ROMANTEXT KORRIGIERT:** `b2 ch77 v3.2` und `b2 ch78 v3.2`
+sagen jetzt *"nine years"*. Das entspricht 2002, vierzehn, dreissig und
+fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
 
 ### Kalender
 
@@ -8750,11 +8740,10 @@ stellt, an dem sie faellt - und die gab es bis zum 28.08. nicht.
 neunundfuenfzig, und fuenf Stellen am 18. Maerz 2027 nennen ihn *a man of
 sixty*. Sein Geburtstag, der 18. November, liegt dazwischen.
 
-**Sein historisches Alter stimmt dagegen nicht.** Mit diesem Geburtstag war er
-am 11. April 2002 fuenfunddreissig. `b2 ch69`, `ch77`, `ch78`, `ch82`, `ch84`,
-`ch86` und `b3 ch02` nennen ihn dort sechsunddreissig. Auch `b3 ch02` sagt
-vierundzwanzig Jahre Dienstende, obwohl vom 22. April 2002 bis zum 26. Mai 2027
-fuenfundzwanzig Jahre vergangen sind. **Romantext offen.**
+**Sein historisches Alter ist ebenfalls korrigiert.** Mit diesem Geburtstag war
+er am 11. April 2002 fuenfunddreissig. `b2 ch69`, `ch77`, `ch78`, `ch82`,
+`ch84`, `ch86` und `b3 ch02` nennen ihn jetzt dort fuenfunddreissig.
+`b3 ch02` setzt entsprechend fuenfundzwanzig Jahre seit dem Dienstende an.
 
 **Das Fenster gibt es nicht mehr, und der Band ist fertig.** Band 2 endet auf
 **Tag 590, Sonntag dem 16. Mai 2027**. Zwischen Tag 1 und Tag 590 liegen
@@ -8900,9 +8889,9 @@ Folgen, beide Wege betreffend:
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
 | **Georgij** | 26 bei der Auktion, **27 ab dem 28. Juni des zweiten Jahres** | **28. Juni**, vom Autor am 26.08. gesetzt, und der Katalog gilt | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
-| **Annie** | **offen: 37 oder 39; `b1 ch30` setzt sogar mindestens 41** | **18. September** (war 3. August) | `b2 ch78` enthaelt zwei unvereinbare Rechnungen: vierzehn plus fuenfundzwanzig und dreissig plus sieben. Romantext offen |
+| **Annie** | **39 im Januar 2027** | **18. September** (war 3. August) | `b2 ch78`: vierzehn plus fuenfundzwanzig; mit dreissig verstanden und seit neun Jahren gewusst |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
-| **Choi Dae-ho** | 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*. Historisches Alter 2002 ist im Roman um ein Jahr zu hoch |
+| **Choi Dae-ho** | 35 im April 2002; 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*; historische Nennungen auf 35 korrigiert |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
 | **Mrs Sunwoo** | 81 | **17. November** (war 29. September, davor 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
@@ -16944,12 +16933,17 @@ Was hier steht, ist ab jetzt Plan: das Ziel, der Feldzug, die offenen Faeden.
 183. **Choi benennt es selbst:** *"That is what your employer's father did to me."* Georgijs Antwort: *"Except that he did it to get you, and I am doing it to be finished with you... I do not know. I have decided to do it anyway."*
 184. **Achtundfuenfzig Namen stehen hinten im Buch, und das wird Jahre dauern.** (Band 3.)
 
-Alle drei stehen weiter im Roman; der Kontinuitaetslauf vom 01.09. hat sie
-gegen den aktuellen Bandstand erneut bestaetigt.
+Alle drei Befunde sind am 01.09. im Roman korrigiert und gegen den aktuellen
+Bandstand nachgemessen.
 
-1. **b1 K30: *"I have known that since I was forty-one."*** Das macht Annie mindestens einundvierzig. `b2 ch78` rechnet sie je nach Satz auf siebenunddreissig oder neununddreissig. **Keine der beiden Rechnungen erreicht einundvierzig.** Dasselbe Kapitel ist voll von *"forty-one per cent"*. **Verdacht auf Zahlenkontamination aus dem Anteilssatz.**
-2. **Annies Vater stirbt im selben Jahr, in dem er Choi an den Tisch bringt.** Das legt `b2 ch78` inzwischen mit zweimal fuenfundzwanzig Jahren fest. b1 K15 sagt zugleich *"She has done it since the father died"*. Damit haette Annie die Familienfinanzen seit ihrem vierzehnten Lebensjahr gefuehrt. **Der fruehere offene Todestermin ist geschlossen; der sachliche Widerspruch ist es nicht.**
-3. **b2 K13: *"I still have the three hours. I am seventy-eight and I would rather be owed than paid."*** Woo ist an dieser Stelle der **Schuldner**, aber *to be owed* ist die Position des Glaeubigers. Entweder ein Dreher, oder dem Satz fehlt ein Wort.
+1. **b1 K30 v1.16:** *"I have known that since I was thirty-one."* Die
+   Zahlenkontamination aus dem Anteilssatz ist entfernt.
+2. **b1 K15 v2.19:** Annie fuehrt die Familienfinanzen *"since 2009"*. Der Tod
+   des Vaters im Jahr 2002 macht sie damit nicht mehr zur Vierzehnjaehrigen mit
+   dieser Verantwortung.
+3. **b2 K13 v1.9:** Woo sagt nun *"I would rather keep a debt than settle it"*.
+   Damit spricht er aus der Position des Schuldners und behaelt den Gedanken,
+   dass die unbezahlte Schuld die Verbindung bewahrt.
 
 ---
 
@@ -20988,15 +20982,12 @@ irgendjemand von dem Vormittag behalten haette. **Also unterschreibt er, und
 damit steht sein Name zum ersten Mal in seiner eigenen Handschrift in einem
 Dokument** - beim Ritus fuer den Mann, den er auseinandergenommen hat.
 
-**Das Bild vorn ist im geschriebenen Kapitel der
-Sechsunddreissigjaehrige.** Jemand hatte dort vierundzwanzig Jahre Fotografien
-zur Auswahl und ist an allen vorbei zurueckgegangen. **Beide Zahlen
-widersprechen inzwischen dem Kalender:** mit dem gefuehrten Geburtstag war
-Choi im April 2002 fuenfunddreissig, und bis Mai 2027 sind fuenfundzwanzig
-Jahre vergangen. Der folgende Wortlaut ist aktueller Romantext und bleibt bis
-zur Autorenfreigabe stehen:
+**Das Bild vorn ist im geschriebenen Kapitel der Fuenfunddreissigjaehrige.**
+Jemand hatte dort fuenfundzwanzig Jahre Fotografien zur Auswahl und ist an
+allen vorbei zurueckgegangen. Beide Zahlen sind in `b3 ch02 v1.8` auf den
+gefuehrten Geburtstag und den Mai 2027 korrigiert:
 
-> "He was thirty-six and he was the best man in that building at the thing he
+> "He was thirty-five and he was the best man in that building at the thing he
 > did. ... The fifth one he did not take apart."
 >
 > "That is what I wanted to say to you today, and I am not going to finish it
@@ -21008,7 +20999,7 @@ am not going to finish it here* ist die Vorladung fuer die naechste Szene und
 keine Bitte.
 
 **Und Georgij gibt nichts her.** Seine einzige Replik ist wahr und
-unbrauchbar: *"I have been told twice what he was at thirty-six. Both times by
+unbrauchbar: *"I have been told twice what he was at thirty-five. Both times by
 somebody who was not sorry."* Antwort: *"That will be most of the people you
 talk to."*
 
@@ -21904,14 +21895,14 @@ beide**, weil er auf einem Sachfehler stand.
 Dienst entfernt.* Das ist falsch.** `b2 ch84:192` liest sich andersherum, und
 die Nebensaetze haengen an dem **anderen** Mann:
 
-> *A prosecutor of thirty-six who was got out of a service in 2002 **by a man
+> *A prosecutor of thirty-five who was got out of a service in 2002 **by a man
 > who could not read a contract**, and whose photographs are in the dining
 > room, and who is her father.*
 
 **Der Mann, der nicht lesen konnte, ist ihr Vater. Er ist derjenige, der den
 Staatsanwalt herausgeholt hat.**
 
-### Und der Staatsanwalt von sechsunddreissig ist Choi Dae-ho
+### Und der Staatsanwalt von fuenfunddreissig ist Choi Dae-ho
 
 **Das steht woertlich im Buch und ich hatte es nicht zusammengesetzt.**
 
@@ -21938,15 +21929,15 @@ Staatsanwalt herausgeholt hat.**
 
 `b2 ch82:134`, Annie, die es selbst ausspricht:
 
-> *"Two thousand and two. A prosecutor of thirty-six who closed your case.
+> *"Two thousand and two. A prosecutor of thirty-five who closed your case.
 > Eleven days later in a good coat with nothing to sell. **My father at a
 > lunch, saying he had found somebody who could do it in one**."*
 
 **Damit steht folgendes fest und ist nicht mehr verhandelbar:**
 
-* **Choi war ein guter Staatsanwalt.** Der aktuelle Roman sagt
-  sechsunddreissig; der Kalender ergibt fuenfunddreissig. Er hatte den Fall
-  gewonnen und waere oben angekommen.
+* **Choi war ein guter Staatsanwalt.** Der Roman und der Kalender setzen ihn
+  im April 2002 auf fuenfunddreissig. Er hatte den Fall gewonnen und waere oben
+  angekommen.
 * **Annies Vater hat ihn kaputtgemacht**, indem er ihm eine Sache zu tun gab,
   die er nicht rueckgaengig machen konnte.
 * **Choi ist nicht schlecht geboren worden. Dieses Haus hat ihn hergestellt.**
@@ -21986,8 +21977,9 @@ Georgij did not move from where he was standing.
 
 "I am not interested in whether you can justify what you did." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at sixty."
 
-**Die Alterszahlen in diesem Entwurf sind die rechnerische Sollfassung.** Der
-Romantext in Band 2 und `b3 ch02` wird erst nach Autorenfreigabe nachgezogen.
+**Die Alterszahlen dieses Entwurfs sind jetzt im Roman durchgezogen.** Band 2
+und `b3 ch02 v1.8` setzen Choi 2002 auf fuenfunddreissig, bei seinem Tod auf
+sechzig und die Spanne dazwischen auf fuenfundzwanzig Jahre.
 
 **Das ist der Satz, den er nicht beantworten kann**, weil er ueber die Zukunft
 geht und er ueber die Zukunft keine Belege hat. **Und weil er nie etwas
@@ -26548,7 +26540,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:120` (Tag 464) - thirty
 - `b2ch78:128` (Tag 464) - four hundred, thirty, two
 - `b2ch78:218` (Tag 464) - one
-- `b2ch78:234` (Tag 464) - fourteen, one, seven, ten, twenty-five
+- `b2ch78:234` (Tag 464) - fourteen, nine, one, ten, twenty-five
 - `b2ch78:274` (Tag 464) - one
 - `b2ch82:48` (Tag 497) - fifty, one, two
 - `b2ch82:122` (Tag 500) - fifty, seven
@@ -27226,7 +27218,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch77:72 | "That is the part you already had," said Woo, "and I could have said it on a telephone, .. |
 | 464 | b2ch77:74 | "I have believed for twenty-five years that somebody paid for me," said Woo. |
 | 464 | b2ch77:82 | "I was not the thing that was being bought." Woo looked at him properly. "I was the door." |
-| 464 | b2ch77:90 | "A prosecutor of thirty-six who has read a file and gone out to a yard and asked a quest.. |
+| 464 | b2ch77:90 | "A prosecutor of thirty-five who has read a file and gone out to a yard and asked a ques.. |
 | 464 | b2ch77:94 | "He closed my case. He had it. He would have had a third of what was coming and he had e.. |
 | 464 | b2ch77:102 | He did it out loud, because Woo had earned that. |
 | 464 | b2ch77:110 | "Now you have it," said Woo. "That took me two days and it has taken you about a minute .. |
@@ -27381,11 +27373,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:66` (Tag 464) - eleven, one, two thousand and two
 - `b2ch77:72` (Tag 464) - four
 - `b2ch77:74` (Tag 464) - twenty-five
-- `b2ch77:90` (Tag 464) - nine, one, thirty-six
+- `b2ch77:90` (Tag 464) - nine, one, thirty-five
 - `b2ch77:94` (Tag 464) - eleven
 - `b2ch77:110` (Tag 464) - two
 - `b2ch77:122` (Tag 464) - four
-- `b2ch77:130` (Tag 464) - one, thirty-six
+- `b2ch77:130` (Tag 464) - one, thirty-five
 - `b2ch77:146` (Tag 464) - seventy-eight
 - `b2ch77:154` (Tag 464) - four, three
 - `b2ch77:158` (Tag 464) - forty, four, nine, one, ten, thirty-one, two thousand and two
@@ -27394,7 +27386,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:222` (Tag 464) - fourteen, one, thirty, twenty-five, two thousand and two
 - `b2ch77:234` (Tag 464) - one
 - `b2ch78:14` (Tag 464) - one, two
-- `b2ch78:54` (Tag 464) - eleven, fifty, seventy-four, thirty-six, two thousand and two
+- `b2ch78:54` (Tag 464) - eleven, fifty, seventy-four, thirty-five, two thousand and two
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch82:154` (Tag 500) - five, four
 - `b2ch82:176` (Tag 500) - fifty-one, one
@@ -28853,7 +28845,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:202 | Choi Dae-ho was dead on the eighth of April. |
 | 600 | b3ch02:68 | He is the only man in that hall who is not sorry Choi Dae-ho is dead, and he did not arr.. |
 | 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
-| 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-four years and out of the trade sinc.. |
+| 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -28896,7 +28888,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:38` (Tag 592) - forty
 - `b3ch01:104` (Tag 592) - four, one
 - `b3ch01:140` (Tag 592) - three
-- `b3ch02:154` (Tag 600) - twenty-four
+- `b3ch02:154` (Tag 600) - twenty-five
 
 ---
 
@@ -30488,7 +30480,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
 | 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
 | 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
-| 600 | b3ch02:94 | "He was thirty-six and he was the best man in that building at the thing he did." Gong D.. |
+| 600 | b3ch02:94 | "He was thirty-five and he was the best man in that building at the thing he did." Gong .. |
 | 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
 | 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
 
@@ -30496,7 +30488,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b3ch02:70` (Tag 600) - eleven, one, twenty
 - `b3ch02:88` (Tag 600) - one, three
-- `b3ch02:94` (Tag 600) - four, one, thirty-six
+- `b3ch02:94` (Tag 600) - four, one, thirty-five
 - `b3ch02:110` (Tag 600) - two
 
 ---

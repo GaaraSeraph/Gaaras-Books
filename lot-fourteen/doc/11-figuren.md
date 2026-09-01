@@ -564,7 +564,7 @@ die beim Planen zaehlt.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig bei Georgijs Eintrag am 27. Mai 2026, sechzig ab 18. November und bei seinem Tod. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 bis 90: neun Anrufe, und er ueberlebt das Ende nicht. **Offener Zahlenfehler:** 2002 war er nach dieser Altersfolge 35, waehrend der Roman 36 sagt |
+| **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig bei Georgijs Eintrag am 27. Mai 2026, sechzig ab 18. November und bei seinem Tod; im April 2002 fuenfunddreissig. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 bis 90: neun Anrufe, und er ueberlebt das Ende nicht. Die historische Altersfolge ist im Roman korrigiert |
 | **Nam Byung-hee** | **Spediteurin aus Ulsan** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
 | **Kang Ji-hoon** | **Beamter im Ministerium fuer Land und Infrastruktur**, mittlere Ebene | | B1 10 | Ruht |
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
@@ -767,13 +767,11 @@ stand und in keinem Figurendokument.** Kein Name im Text.
   zu Woo, ohne einen Namen zu nennen: *"he had spent forty years being right
   about people in four seconds and had found a man who could do it in one."*
 
-**Die Rechnung, die daran haengt, geht im aktuellen Text nicht auf.** `b2 ch78`
-setzt vierzehn plus fuenfundzwanzig, also neununddreissig. Dasselbe Kapitel
-setzt dreissig plus sieben, also siebenunddreissig. Dazu sagt `b1 ch30`, Annie
-habe etwas seit ihrem einundvierzigsten Lebensjahr gewusst. **Diese drei Zahlen
-haben keine gemeinsame Loesung.** Der Romantext bleibt bis zur
-Autorenentscheidung unangetastet; der Fehler ist in `doc/15-kalender.md`
-vollstaendig verbucht.
+**Die Rechnung ist im Roman durchgezogen.** `b2 ch78` setzt vierzehn plus
+fuenfundzwanzig, also neununddreissig. Mit dreissig hat Annie verstanden, was
+Choi war, und seit neun Jahren weiss sie es. `b1 ch30` sagt jetzt, dass sie
+die Zukunft der Firma seit ihrem einunddreissigsten Lebensjahr kannte; das ist
+eine andere Erkenntnis und kein Altersanker fuer die Choi-Rechnung.
 
 **Und die Regel, die Georgij daraus zieht** (`b2 ch78`): *"Everything that man
 has done since is his own... none of it is a debt that came down to you."* Wer
@@ -1627,7 +1625,7 @@ und niemand muss ihn zitieren.
 131. **Woos Finanzier aus b1 K13** (*"what would happen to the terminal if I died on the Tuesday"*) **ist nicht Choi** und darf nie mit ihm verwechselt werden. Der Text benennt sie ausdruecklich als zwei Maenner.
 132. **Baek Jun-ho** hat **einunddreissig Jahre** im Fach und **elf Treuhandschaften gebaut**, und in keiner davon sah eine Treuhaenderloesung hinterher besser aus.
 
-133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist am 27. Mai 2026 neunundfuenfzig und ab dem 18. November sechzig; mit dem gefuehrten Geburtstag war er im April 2002 also **fuenfunddreissig**. Der Roman nennt ihn dort wiederholt sechsunddreissig. **Offener Kontinuitaetsfehler, Romantext nicht ohne Autorenfreigabe aendern.**
+133. **Woos Zollakte wurde am 11. April 2002 geschlossen, ohne Begruendung. Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist am 27. Mai 2026 neunundfuenfzig und ab dem 18. November sechzig; mit dem gefuehrten Geburtstag war er im April 2002 also **fuenfunddreissig**. Die exakten Altersnennungen im Roman sind darauf korrigiert; Woos damalige Schaetzung *"Thirty-five or thirty-six"* bleibt als Schaetzung stehen.
 134. **Woo war nicht das Gekaufte. Er war die Tuer.** *"You give him one thing to do that he cannot undo, and then he leaves on his own, and he never once says why."* **Choi hat einen Fall geschlossen, den er bereits gewonnen hatte.**
 135. **Der Staatsanwalt kam allein in den Hof, ass das Mittagessen nicht an und stellte eine Frage:** *"who I would telephone if it went badly."* Woo nannte drei Namen. Sechs Wochen spaeter war die Akte zu. **Niemand hat bezahlt.**
 136. **DER NAME: Annies Vater hat ihn ins Haus geholt.** Ein Mann aus Incheon, von unten hochgekommen, **konnte keinen Vertrag lesen** (die Mutter las sie ihm nach dem Essen vor, b1 K30) und urteilte in vier Sekunden richtig ueber Menschen. **Wer keinen Vertrag lesen kann, braucht jemanden, der ihm sagt, wem er ja sagen soll.**

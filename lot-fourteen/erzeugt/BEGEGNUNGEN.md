@@ -1176,7 +1176,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:120` (Tag 464) - thirty
 - `b2ch78:128` (Tag 464) - four hundred, thirty, two
 - `b2ch78:218` (Tag 464) - one
-- `b2ch78:234` (Tag 464) - fourteen, one, seven, ten, twenty-five
+- `b2ch78:234` (Tag 464) - fourteen, nine, one, ten, twenty-five
 - `b2ch78:274` (Tag 464) - one
 - `b2ch82:48` (Tag 497) - fifty, one, two
 - `b2ch82:122` (Tag 500) - fifty, seven
@@ -1854,7 +1854,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch77:72 | "That is the part you already had," said Woo, "and I could have said it on a telephone, .. |
 | 464 | b2ch77:74 | "I have believed for twenty-five years that somebody paid for me," said Woo. |
 | 464 | b2ch77:82 | "I was not the thing that was being bought." Woo looked at him properly. "I was the door." |
-| 464 | b2ch77:90 | "A prosecutor of thirty-six who has read a file and gone out to a yard and asked a quest.. |
+| 464 | b2ch77:90 | "A prosecutor of thirty-five who has read a file and gone out to a yard and asked a ques.. |
 | 464 | b2ch77:94 | "He closed my case. He had it. He would have had a third of what was coming and he had e.. |
 | 464 | b2ch77:102 | He did it out loud, because Woo had earned that. |
 | 464 | b2ch77:110 | "Now you have it," said Woo. "That took me two days and it has taken you about a minute .. |
@@ -2009,11 +2009,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:66` (Tag 464) - eleven, one, two thousand and two
 - `b2ch77:72` (Tag 464) - four
 - `b2ch77:74` (Tag 464) - twenty-five
-- `b2ch77:90` (Tag 464) - nine, one, thirty-six
+- `b2ch77:90` (Tag 464) - nine, one, thirty-five
 - `b2ch77:94` (Tag 464) - eleven
 - `b2ch77:110` (Tag 464) - two
 - `b2ch77:122` (Tag 464) - four
-- `b2ch77:130` (Tag 464) - one, thirty-six
+- `b2ch77:130` (Tag 464) - one, thirty-five
 - `b2ch77:146` (Tag 464) - seventy-eight
 - `b2ch77:154` (Tag 464) - four, three
 - `b2ch77:158` (Tag 464) - forty, four, nine, one, ten, thirty-one, two thousand and two
@@ -2022,7 +2022,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:222` (Tag 464) - fourteen, one, thirty, twenty-five, two thousand and two
 - `b2ch77:234` (Tag 464) - one
 - `b2ch78:14` (Tag 464) - one, two
-- `b2ch78:54` (Tag 464) - eleven, fifty, seventy-four, thirty-six, two thousand and two
+- `b2ch78:54` (Tag 464) - eleven, fifty, seventy-four, thirty-five, two thousand and two
 - `b2ch78:132` (Tag 464) - nineteen, one
 - `b2ch82:154` (Tag 500) - five, four
 - `b2ch82:176` (Tag 500) - fifty-one, one
@@ -3481,7 +3481,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:202 | Choi Dae-ho was dead on the eighth of April. |
 | 600 | b3ch02:68 | He is the only man in that hall who is not sorry Choi Dae-ho is dead, and he did not arr.. |
 | 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
-| 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-four years and out of the trade sinc.. |
+| 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -3524,7 +3524,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:38` (Tag 592) - forty
 - `b3ch01:104` (Tag 592) - four, one
 - `b3ch01:140` (Tag 592) - three
-- `b3ch02:154` (Tag 600) - twenty-four
+- `b3ch02:154` (Tag 600) - twenty-five
 
 ---
 
@@ -5116,7 +5116,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
 | 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
 | 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
-| 600 | b3ch02:94 | "He was thirty-six and he was the best man in that building at the thing he did." Gong D.. |
+| 600 | b3ch02:94 | "He was thirty-five and he was the best man in that building at the thing he did." Gong .. |
 | 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
 | 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
 
@@ -5124,7 +5124,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b3ch02:70` (Tag 600) - eleven, one, twenty
 - `b3ch02:88` (Tag 600) - one, three
-- `b3ch02:94` (Tag 600) - four, one, thirty-six
+- `b3ch02:94` (Tag 600) - four, one, thirty-five
 - `b3ch02:110` (Tag 600) - two
 
 ---

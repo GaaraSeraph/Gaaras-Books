@@ -12,7 +12,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.5 | 2.098 |
-| 02 | v1.7 | 2.136 |
+| 02 | v1.8 | 2.136 |
 
 ---
 
@@ -224,7 +224,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -280,7 +280,7 @@ He is wearing the sort of suit a man wears who has not yet worked out that he ca
 
 He is about thirty-five.
 
-Somebody had a choice of twenty-four years of photographs of that man and went back past all of them.
+Somebody had a choice of twenty-five years of photographs of that man and went back past all of them.
 
 The monk began at eleven exactly and it went on for a long time, and the chanting is not for the people in the room and does not care whether they follow it.
 
@@ -316,7 +316,7 @@ Georgij bowed the way the man in front of him had.
 
 Georgij did not put anything in front of it.
 
-"He was thirty-six and he was the best man in that building at the thing he did." Gong Doo-hyun said it with no weight on it anywhere. "He took four companies apart on paper and he was right about all four of them, and there was not one of the four that anybody in that service could have done in the time he did it."
+"He was thirty-five and he was the best man in that building at the thing he did." Gong Doo-hyun said it with no weight on it anywhere. "He took four companies apart on paper and he was right about all four of them, and there was not one of the four that anybody in that service could have done in the time he did it."
 
 Georgij did not move at all.
 
@@ -330,7 +330,7 @@ The monk was putting things away at the front and there was a woman folding clot
 
 "You may say anything you like." Gong Doo-hyun did not step back and did not look at the door. "I am going to remember all of it, and you know that, and you have decided to say it anyway, and I would like to hear what a man says under that condition."
 
-"I have been told twice what he was at thirty-six," said Georgij. "Both times by somebody who was not sorry."
+"I have been told twice what he was at thirty-five," said Georgij. "Both times by somebody who was not sorry."
 
 Gong Doo-hyun looked at him for about two seconds.
 
@@ -376,7 +376,7 @@ There is nobody in that hall who owed Choi Dae-ho anything by the end of it.
 
 There is nobody in it who gained by coming, and there are eleven who are in a service that keeps a note of who was seen where.
 
-Choi Dae-ho has been out of that service for twenty-four years and out of the trade since March and dead since April, and there is no version of standing in that hall that pays.
+Choi Dae-ho has been out of that service for twenty-five years and out of the trade since March and dead since April, and there is no version of standing in that hall that pays.
 
 They came because they were asked, and the man who asked them is the one man in the Republic of Korea who is not able to give any of them anything.
 

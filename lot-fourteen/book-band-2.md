@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.538 Woerter.
+Book Two, 90 Kapitel, 232.539 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -23,7 +23,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 10 | v2.5 | 2.206 |
 | 11 | v2.7 | 2.511 |
 | 12 | v1.11 | 2.903 |
-| 13 | v1.8 | 2.173 |
+| 13 | v1.9 | 2.174 |
 | 14 | v1.8 | 2.355 |
 | 15 | v1.5 | 2.001 |
 | 16 | v1.6 | 2.034 |
@@ -79,7 +79,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 66 | v1.3 | 2.411 |
 | 67 | v2.6 | 2.074 |
 | 68 | v3.2 | 2.071 |
-| 69 | v3.4 | 2.729 |
+| 69 | v3.5 | 2.729 |
 | 70 | v3.3 | 2.249 |
 | 71 | v3.1 | 2.228 |
 | 72 | v3.2 | 3.672 |
@@ -87,16 +87,16 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 74 | v3.1 | 2.398 |
 | 75 | v3.6 | 2.564 |
 | 76 | v3.3 | 2.827 |
-| 77 | v3.1 | 2.331 |
-| 78 | v3.1 | 2.566 |
+| 77 | v3.2 | 2.331 |
+| 78 | v3.2 | 2.566 |
 | 79 | v3.3 | 2.864 |
 | 80 | v3.3 | 2.846 |
 | 81 | v3.3 | 2.369 |
-| 82 | v1.3 | 2.814 |
+| 82 | v1.4 | 2.814 |
 | 83 | v3.5 | 2.934 |
-| 84 | v3.4 | 2.147 |
+| 84 | v3.5 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.23 | 3.901 |
+| 86 | v3.24 | 3.901 |
 | 87 | v3.22 | 4.129 |
 | 88 | v3.7 | 3.368 |
 | 89 | v4.0 | 1.974 |
@@ -2867,7 +2867,7 @@ Jang thought about that for a moment and did not appear to enjoy it.
 ---
 
 # Book Two · Chapter 13: What it costs him
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day One Hundred and Eighty-Eight · Thursday 9 April
 
@@ -3011,7 +3011,7 @@ Georgij did not say anything for a moment.
 
 "Then you still have the three hours," he said.
 
-"I still have the three hours. I am seventy-eight and I would rather be owed than paid, and now we are two men who both think that, and one of us learned it from the other in November."
+"I still have the three hours. I am seventy-eight and I would rather keep a debt than settle it, and now we are two men who think that, and one of us learned it from the other in November."
 
 At the car, at the end, Woo did the thing he did in October, which is to give away something nobody has asked him for.
 
@@ -15164,7 +15164,7 @@ Nobody in that room will be told, and that is the whole of what was decided in a
 ---
 
 # Book Two · Chapter 69: Nobody paid
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Four Hundred and Thirty-Four · Friday 11 December
 
@@ -15242,7 +15242,7 @@ Georgij stood absolutely still.
 
 "I have never told anybody about the other one," said Woo.
 
-Twenty-three years ago there was a customs matter.
+Twenty-four years ago there was a customs matter.
 
 Two containers, a declaration that had been made by a man who no longer worked for him, and a set of dates that did not sit together. Woo described the paperwork for slightly longer than the story needed, in the way of a man who has decided to be accurate because the rest of it is going to be difficult.
 
@@ -15386,7 +15386,7 @@ He sat with that for four kilometres.
 
 He did not write the last part down until the car was on the ramp, and then he wrote it in four words and closed the book on it.
 
-*He was thirty-six.*
+*He was thirty-five.*
 
 * * *
 
@@ -17092,7 +17092,7 @@ The fan ran in the corner the whole time.
 ---
 
 # Book Two · Chapter 77: The doorway
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
 
@@ -17166,7 +17166,7 @@ The small room did what a room does at half past eleven on a Sunday.
 
 "So that I can use it, Chairman."
 
-"A prosecutor of thirty-six who has read a file and gone out to a yard and asked a question nobody thought to ask is a man who is going to be a very senior person in about nine years. You do not get a man like that out of a service by offering him money." Woo did not hurry any of it. "He will not take it and he will remember that you asked. You get him out by giving him one thing to do that he cannot undo, and then he leaves on his own and he never once says why."
+"A prosecutor of thirty-five who has read a file and gone out to a yard and asked a question nobody thought to ask is a man who is going to be a very senior person in about nine years. You do not get a man like that out of a service by offering him money." Woo did not hurry any of it. "He will not take it and he will remember that you asked. You get him out by giving him one thing to do that he cannot undo, and then he leaves on his own and he never once says why."
 
 "He closed a case he had already won."
 
@@ -17180,7 +17180,7 @@ He did it out loud, because Woo had earned that.
 
 "Yes."
 
-"And they had to have something ready for him to walk into, because a man of thirty-six with a marker and no plan goes to a law firm in Seoul and is a partner by forty." He was not asking. "Somebody had a table for him to sit at before he resigned."
+"And they had to have something ready for him to walk into, because a man of thirty-five with a marker and no plan goes to a law firm in Seoul and is a partner by forty." He was not asking. "Somebody had a table for him to sit at before he resigned."
 
 "Now you have it," said Woo. "That took me two days and it has taken you about a minute and a half, and I am too old to mind."
 
@@ -17198,7 +17198,7 @@ Georgij felt the whole of it arrive before the last sentence.
 
 "Chairman."
 
-"A man who cannot read a contract needs somebody to tell him which people to say yes to." Woo said it without any cruelty in it at all. "He did not need a lawyer. Lawyers read the paper. He needed a man who could read the room, and he found one at thirty-six, and he had him taken out of a service and put at his own table."
+"A man who cannot read a contract needs somebody to tell him which people to say yes to." Woo said it without any cruelty in it at all. "He did not need a lawyer. Lawyers read the paper. He needed a man who could read the room, and he found one at thirty-five, and he had him taken out of a service and put at his own table."
 
 "The name."
 
@@ -17278,7 +17278,7 @@ At the door, in the hall, with the car already turned round, Woo did the thing h
 
 Georgij stayed where he was.
 
-"She has known for seven years that there was a man at her father's table who was wrong." He looked out at the drive. "She has never once asked how he got there. Not to me, and I would have been asked. A woman who asks four questions a minute has left one alone for seven years."
+"She has known for nine years that there was a man at her father's table who was wrong." He looked out at the drive. "She has never once asked how he got there. Not to me, and I would have been asked. A woman who asks four questions a minute has left one alone for nine years."
 
 Georgij stood in the hall.
 
@@ -17297,7 +17297,7 @@ Upstairs, a door did not open.
 ---
 
 # Book Two · Chapter 78: At thirty
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
 
@@ -17333,7 +17333,7 @@ He sat down.
 
 Georgij put both hands on his knees.
 
-He gave it to her the way Woo had given it to him. The clerk of seventy-four and the shed at Gimpo and the fifty minutes. The eleventh of April in two thousand and two. Eleven days. The way you get a man of thirty-six out of that service, which is not with money.
+He gave it to her the way Woo had given it to him. The clerk of seventy-four and the shed at Gimpo and the fifty minutes. The eleventh of April in two thousand and two. Eleven days. The way you get a man of thirty-five out of that service, which is not with money.
 
 He did not stop at the end of that part and did not look for permission to go on, because looking for it would have been a way of making her say it.
 
@@ -17427,7 +17427,7 @@ Annie held his eye for a long moment.
 
 Annie put both hands flat on the desk.
 
-"And that is the precise thing my father did to a man of thirty-six," she said. "He gave him something he had not asked for and could not hand back. He chose the morning for it and he was very kind about it, and the man was never able to say afterwards what had been done to him."
+"And that is the precise thing my father did to a man of thirty-five," she said. "He gave him something he had not asked for and could not hand back. He chose the morning for it and he was very kind about it, and the man was never able to say afterwards what had been done to him."
 
 "That is not the same."
 
@@ -17471,7 +17471,7 @@ Georgij looked at the edge of the desk.
 
 She stopped there and did not go straight on.
 
-"I have sat at that table since I was fourteen," said Annie, "in the same room, with the same people, and I have spent seven of those years knowing that one of them was wrong and not knowing how he got there." Her voice was where it had been all evening. "You found it out in ten months. I had twenty-five years and a chair at it."
+"I have sat at that table since I was fourteen," said Annie, "in the same room, with the same people, and I have spent nine of those years knowing that one of them was wrong and not knowing how he got there." Her voice was where it had been all evening. "You found it out in ten months. I had twenty-five years and a chair at it."
 
 Somewhere below them a door was shut, and it was the second time that evening.
 
@@ -17487,7 +17487,7 @@ Annie looked at him.
 
 "And the part I am not going to like."
 
-"You have believed for seven years that it is. It is the only reason a woman who has never once needed a reason for anything gave a man she bought at an auction four decisions and no explanation. You were not investigating him. You were paying something."
+"You have believed for nine years that it is. It is the only reason a woman who has never once needed a reason for anything gave a man she bought at an auction four decisions and no explanation. You were not investigating him. You were paying something."
 
 He had told the woman who owns him what she was doing, from a chair she had put him in so that she could see the whole of him while he did it.
 
@@ -18267,7 +18267,7 @@ He sat with that for a while.
 ---
 
 # Book Two · Chapter 82: The only line out
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Four Hundred and Ninety-Seven · Friday 12 February
 
@@ -18375,7 +18375,7 @@ The room did what an old room does at ten in the morning.
 
 "How much of it," said Woo.
 
-"Two thousand and two. A prosecutor of thirty-six who closed your case. Eleven days later in a good coat with nothing to sell. My father at a lunch, saying he had found somebody who could do it in one." She did not stop anywhere. "And the clerk with four words in a corridor, and your thirty-one years, and that everything between the two is you putting two things next to each other. He gave me the joins as well as the pieces."
+"Two thousand and two. A prosecutor of thirty-five who closed your case. Eleven days later in a good coat with nothing to sell. My father at a lunch, saying he had found somebody who could do it in one." She did not stop anywhere. "And the clerk with four words in a corridor, and your thirty-one years, and that everything between the two is you putting two things next to each other. He gave me the joins as well as the pieces."
 
 "Then he gave you all of it."
 
@@ -18771,7 +18771,7 @@ Then the rest, and he took longer over it.
 ---
 
 # Book Two · Chapter 84: No occasion
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Five Hundred and Seventeen · Thursday 4 March
 
@@ -18907,7 +18907,7 @@ Annie told her.
 
 It took eleven minutes and she did not leave any of it out, and Georgij stood at the window and did not say one word for the whole of it.
 
-The thirty-one names and how they were collected in nine days in June. The four who were made to be quiet about a wedding eleven years ago and the one who lost her business. A prosecutor of thirty-six who was got out of a service in 2002 by a man who could not read a contract, and whose photographs are in the dining room, and who is her father.
+The thirty-one names and how they were collected in nine days in June. The four who were made to be quiet about a wedding eleven years ago and the one who lost her business. A prosecutor of thirty-five who was got out of a service in 2002 by a man who could not read a contract, and whose photographs are in the dining room, and who is her father.
 
 And that twenty-seven people are coming to a dinner and none of them knows that the others exist.
 
@@ -19263,7 +19263,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.23 · EN
+*Lot Fourteen* · Version 3.24 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19611,7 +19611,7 @@ Choi Dae-ho put his hand back on the sill.
 
 Georgij said it to the back of the man’s head.
 
-"You were at that table in the spring of two thousand and two and you were thirty-six, and you had not been at it the spring before." He did not raise his voice anywhere in it. "Nobody in that house ever asked where you had come from, because the man who brought you was pleased with himself, and nobody asked him anything."
+"You were at that table in the spring of two thousand and two and you were thirty-five, and you had not been at it the spring before." He did not raise his voice anywhere in it. "Nobody in that house ever asked where you had come from, because the man who brought you was pleased with himself, and nobody asked him anything."
 
 "No," said Choi Dae-ho. "They did not."
 
