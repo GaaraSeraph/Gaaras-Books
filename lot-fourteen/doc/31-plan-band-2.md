@@ -3213,6 +3213,19 @@ freigegeben sind.
     ausdruecklich an die Zeit **vor** der Auktion. Der kleinste Ersatz trennt
     die beiden Spannen: **She was catalogued, and held, and open, for six
     weeks before the sale at which she was not sold.**
+50. **`b2 ch55:152-158` gegen `b2 ch32:88-120`, Georgijs erstes
+    nichtfinanzielles *we* in Annies Arbeitszimmer.** Kapitel 55 nennt
+    Georgijs Satz *until we have decided something* den ersten Gebrauch von
+    *we* in diesem Raum, der nicht Geld betrifft. Bereits am 4. Juni geht er
+    jedoch aus dem kleinen Raum nach oben zu Annie, legt das Notizbuch auf
+    ihren Schreibtisch und sagt dort *It gets us two witnesses outside this
+    house* sowie *It gets us two addresses and a doctor*. Der weitere Verlauf
+    bezeichnet denselben Ort als *her own room* und rueckblickend als *the
+    study*; Kapitel 55 benennt ihn ausdruecklich als *her own study*. Auch die
+    fruehere Aussage betrifft Beweise, Personen und Ermittlungswege, nicht
+    Geld. Die emotionale Beobachtung in Kapitel 55 kann bleiben, wenn sie enger
+    auf den neuen Unterschied gefasst wird, etwa: **That is the first time you
+    have used the word we in this room about deciding for a person.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
