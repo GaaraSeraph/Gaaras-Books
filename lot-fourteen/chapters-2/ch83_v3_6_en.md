@@ -1,47 +1,61 @@
-Book Two · Chapter 83: Nobody asked
-Lot Fourteen · Version 3.5 · EN
+# Chapter 83: Nobody asked
+*Lot Fourteen* · Version 3.6 · EN
 
-Day Five Hundred and Ten · Thursday 25 February
+## Day Five Hundred and Ten · Thursday 25 February
 
 The house on the river has three rooms left with anything in them and one of the three is a corridor.
 
+---
+
 The plate by the entrance came down in October and the four screw holes are still there, and somebody has painted round them rather than over them, which will annoy Mr Hwang for the rest of his life.
 
-———
+* * *
 
 He was behind the desk at two minutes to nine with a sheet of paper in his hand.
 
-"The fifteenth of October," he said. "Nineteen weeks. You have been in this building four times and every one of them has been at nine, and I have been in it since eight every day for six years and I have never once been telephoned before ten."
+"The fifteenth of October," he said. "Nineteen weeks. You have come to see me four times and every one of them has been at nine. I have been in this building since eight every day for six years and I have never once been telephoned before ten."
 
 "That is why I come at nine."
 
 "I know why you come at nine. I have known since the second time." He put the sheet down and squared it. "Sit down. This is the last morning there is anything to sit down for."
 
+---
+
 The van comes at eleven.
+
+---
 
 Two men and a lorry, and nobody has pretended it is an archive. It is a firm in Siheung that does this for a living, against a schedule, with a weighbridge and a certificate, and Mr Hwang chose them in October out of four quotations and took the second cheapest.
 
 "The cheapest did not offer a certificate," he said. "I telephoned them to ask and the man said that nobody ever wants one."
 
+---
+
 "Say why it is not an archive."
 
 "Because a retention period runs from the date on the deposit form, and nobody opens a box to find out whether the paper inside it is that year." Mr Hwang did not look up from the sheet. "Opening it is a week of somebody's time. The form is free."
+
+---
 
 "So a box goes when its form says it goes."
 
 "A box goes when its form says it goes. A box with the wrong year written on it goes early, and nobody has done anything, and there is nobody to have done it to." He squared the sheet, which did not need it. "And a box that nobody wrote anything on at all sits in that room until the building comes down."
 
+---
+
 "That is carelessness."
 
 "That is the ordinary kind, and it is the only kind there is, and it is why I am not sending thirty years of this house to a room where a stranger reads a form." Mr Hwang put one hand flat. "A weighbridge does not read anything."
 
-———
+* * *
 
 "Say the schedule back to me," said Georgij.
 
 "You have read it."
 
 "I have read it and I would like it from you, because you wrote it and you are the only man alive who knows what it does not cover."
+
+---
 
 Mr Hwang put both hands on the desk.
 
@@ -51,9 +65,13 @@ Mr Hwang put both hands on the desk.
 
 "I have told you that once, in this building, in May, and I am going to go on telling it to people until it stops being useful." He turned the sheet over. "Class three, correspondence. Class four, the personnel files, which go last and which go on the fourth of March, because there are people in them who are alive."
 
+---
+
 Georgij sat in a chair in a room with two crates in it.
 
 "And nobody has asked for anything," he said.
+
+---
 
 Mr Hwang did not answer straight away.
 
@@ -63,7 +81,11 @@ Mr Hwang did not answer straight away.
 
 "Then you may have it in the order it happened, and it is going to take about forty seconds, and I have been holding it since the fourth of February because you would have found it out today anyway."
 
+---
+
 "Two," said Mr Hwang.
+
+---
 
 The room did what a half emptied room does at ten past nine.
 
@@ -73,6 +95,8 @@ The room did what a half emptied room does at ten past nine.
 
 "That it goes to an archive, because that is what happens, and because I have said otherwise to one man in eleven months and he is sitting in front of me." He squared the sheet, which did not need it. "It goes on a lorry."
 
+---
+
 Georgij sat with that for a moment.
 
 "Two requests under clause eleven," said Mr Hwang. "One in December and one in January. One of them was yours in August, which makes it three, and I am counting the two because you already know about yours."
@@ -81,11 +105,15 @@ Georgij sat with that for a moment.
 
 "A woman who has bought in this house for forty-one years, on the twenty-first of December, about her own lot." Mr Hwang did not soften it. "And a man in Busan on the eleventh of January, about a bronze his father bought in 1994, because he is selling it and the buyer wants provenance. That is the whole of it."
 
+---
+
 Georgij sat very still.
 
 "Six hundred and forty buyers," he said.
 
 "Six hundred and forty buyers, a clause I wrote in 2011 and was proud of for fourteen years, and a printed date." Mr Hwang put one hand flat on the sheet. "Two people in nineteen weeks. One of them was told about it by a man who came to her house and did not want anything, and the other one wanted to sell a bronze."
+
+---
 
 Neither of them said anything for a while.
 
@@ -93,7 +121,11 @@ Neither of them said anything for a while.
 
 "No. I am doing the arithmetic on somebody who did not ask."
 
+---
+
 "Then do it out loud, because I did it on the fourth of February and I have not been able to make it come out any other way."
+
+---
 
 The sheet was still square on the desk where he had put it.
 
@@ -103,15 +135,23 @@ The sheet was still square on the desk where he had put it.
 
 "Then he has had nineteen weeks with a printed date on his own hall table, and there is one entry in that series that is worth more to him than anything else in this country." Georgij did not hurry it. "And he has not asked for it."
 
+---
+
 Mr Hwang did not move.
 
 "Say why not."
 
+---
+
 "Because of the first eleven words of your own clause."
+
+---
 
 He said it and then he did not go on, and Mr Hwang, who has been reading his own drafting since 2011, got there in about four seconds and went white around the mouth.
 
-"Where a bona fide interest is asserted in respect of any lot."
+---
+
+"*Where a bona fide interest is asserted in respect of any lot.*"
 
 "Yes."
 
@@ -119,9 +159,13 @@ He said it and then he did not go on, and Mr Hwang, who has been reading his own
 
 "No."
 
+---
+
 "So to get a copy of a line that has a woman's name on one side and a woman's name on the other," said Mr Hwang, "he would have to put his own name in a sentence about her."
 
 "That is the price of the copy."
+
+---
 
 The corridor outside had men in it moving something, and one of them said a number to the other.
 
@@ -129,7 +173,9 @@ The corridor outside had men in it moving something, and one of them said a numb
 
 "No."
 
-"I built it so that a house could not hide behind silence. I wrote the last sentence about a nil return and I was pleased with myself for a fortnight." He had not taken his hand off the sheet. "It has done exactly one thing in fourteen years that I intended, and that was your letter in August, and it has done this, and I did not intend this and I could not have."
+"I built it so that a house could not hide behind silence. I wrote the last sentence about a nil return and I was pleased with myself for a fortnight." He had not taken his hand off the sheet. "It has done exactly one thing in fifteen years that I intended, and that was your letter in August, and it has done this, and I did not intend this and I could not have."
+
+---
 
 Georgij did not offer him anything.
 
@@ -137,9 +183,11 @@ Georgij did not offer him anything.
 
 "No," said Georgij. "I am going to tell you that a man who has spent twenty-five years never writing anything down has spent ten weeks looking at a printed date. And that he decided he would rather lose it than be in a sentence."
 
-———
+* * *
 
 The van came at eleven and it was on time.
+
+---
 
 Nineteen boxes went out of the front of a house on the river between eleven and twenty past, past the four screw holes and the plywood where the settlement slot was. The two men were perfectly ordinary and neither of them asked what any of it was.
 
@@ -147,27 +195,35 @@ Mr Hwang went out to the lorry and watched them load it and did not help, becaus
 
 Nineteen.
 
+---
+
 "There is a thing I am going to do and I would like you to be in the building for it and not in this room," he said.
 
 "Then I will be in the corridor."
 
+---
+
 He signed the manifest at the desk with the door open, and it took him about four seconds, and Georgij stood eleven feet away in a corridor and did not watch him do it.
 
-———
+* * *
 
 The certificate came on the Friday by post, addressed to the administrator, and it is one page.
 
 It gives the date, the class, the weight in kilogrammes, the method, and a reference number. It does not give a lot, a buyer, a price or a name, because a certificate of destruction is a document about paper and not about what was on it.
 
+---
+
 Mr Hwang had it couriered to the house on the river on the Monday morning with a compliments slip and nothing written on the slip.
 
-———
+* * *
 
 Georgij put it in his inside pocket on the Monday afternoon and it has been there since.
 
-Day Five Hundred and Fourteen · Monday 1 March
+## Day Five Hundred and Fourteen · Monday 1 March
 
 He went back on the Monday and it is the fifth time and the building has two rooms.
+
+---
 
 "You have come to offer me something," said Mr Hwang. "You have had it in your coat for four months and you have not offered it, and I have known since about November that you were not going to until this week."
 
@@ -175,13 +231,19 @@ He went back on the Monday and it is the fifth time and the building has two roo
 
 "Then say it standing up, because I have been sitting behind desks in this building for six years and I am finished with it on the fourth."
 
+---
+
 Georgij stood.
 
 "There is a woman in a house on the river who was going to be married in April eleven years ago," he said. "Sixty-two people were invited. She has asked what became of them. She has four and there are fifty-eight."
 
+---
+
 Mr Hwang did not say anything.
 
 "It is a records job and it is going to take years, and most of it is halls, registers, business filings and death notices, and about a third of it will come to nothing. There is a desk and a telephone and whatever it costs to be on trains. There is nobody to manage and nothing to run and no building. It is a long way beneath you and you would be doing it on your own."
+
+---
 
 "Who is paying," said Mr Hwang.
 
@@ -189,7 +251,11 @@ Mr Hwang did not say anything.
 
 "Say her name out loud in this room, because it is on a form I countersigned in October and I would like it said rather than understood."
 
+---
+
 Georgij said it.
+
+---
 
 Mr Hwang stood up behind his own desk.
 
@@ -199,9 +265,13 @@ Mr Hwang stood up behind his own desk.
 
 "You said in the same conversation that the man who took me on would be getting somebody who had learned the only thing I did not know in the autumn." He had both hands on the desk. "I have had nine months of finding out what that sentence meant and I have got about half of it."
 
+---
+
 "Say the half you have."
 
 "That a schedule is not a decision."
+
+---
 
 "In April I put twelve posts through in an afternoon out of a spreadsheet and I did not go down to the floor," said Mr Hwang. "That is the half. I have had it since June and I have not been able to get any further with it, and I have known since about October that there was more."
 
@@ -209,17 +279,25 @@ Mr Hwang stood up behind his own desk.
 
 "Then whose."
 
+---
+
 "A woman in Gwangyang who is running a settlement function three hundred kilometres from here," said Georgij, "and she is not going to give it to you either, and she has told me so in her own words. She said that it would exist and that you do not get to have it."
+
+---
 
 Mr Hwang stood very still.
 
 "She wrote it."
 
-"She wrote it on the fourteenth of June. It is nine lines and it is signed and dated, and it is in a drawer in a house on the river. I have read it and I am the only person other than her who has." Georgij did not look away. "I told you that in October in this room and I would not read you a line out of it, and I am not going to today either."
+"She wrote it on the fifteenth of June. It is nine lines and it is signed and dated, and it is in a drawer in a house on the river. Annie and I are the only people other than the woman who wrote it who have read it." Georgij did not look away. "I told you that in October in this room and I would not read you a line out of it, and I am not going to today either."
 
 "No," said Mr Hwang. "I did not think you would."
 
+---
+
 He came round the desk.
+
+---
 
 "Then I will take the work," he said.
 
@@ -229,7 +307,9 @@ He came round the desk.
 
 "Say the two."
 
-"A clause in 2011 that a stranger used correctly in August." He picked the sheet up off the desk and put it in the crate. "And a woman who came up three floors on the ninth of January four years ago with a school exercise book, because she had heard that I was proud of it."
+"A clause in 2011 that a stranger used correctly in August." He picked the sheet up off the desk and put it in the crate. "And a woman who came up three floors on the ninth of January last year with a school exercise book, because she had heard that I was proud of it."
+
+---
 
 At the door Georgij stopped.
 
@@ -237,24 +317,32 @@ At the door Georgij stopped.
 
 "Fifty-eight names, eleven years old, out of a hall book with no addresses in it." Mr Hwang did not look up from the crate. "Four hundred and sixty weddings went through that hall between then and the day it changed hands. I will need the diary for that year and I will need it in a fortnight."
 
+---
+
 Georgij stood in the doorway of a room with two crates in it.
 
 "It went out of a room in Mapo on the fourth of February," he said, "in a box with eight others, and the firm that paid for the van is not an archive, and I cannot get at it."
 
 "Then I will start with the hall."
 
-———
+* * *
 
 He wrote it that evening and it took two lines.
 
-Nineteen boxes, three hundred and ninety kilogrammes, one page with a reference number on it, and no name anywhere on any part of it.
+---
 
-Two requests in nineteen weeks, and neither of them was his, and he had the date printed on a piece of paper in December.
+*Nineteen boxes, three hundred and ninety kilogrammes, one page with a reference number on it, and no name anywhere on any part of it.*
+
+*Two requests in nineteen weeks, and neither of them was his, and he had the date printed on a piece of paper in December.*
+
+---
 
 Then the rest, and he took longer over it.
 
-He read eleven words of a clause a man wrote in 2011 and worked out that the price of one copy was one sentence with his name in it.
+---
 
-And then he did the thing he has done for twenty-five years, which is nothing, and it cost him the only paper in this country that would have been worth having.
+*He read eleven words of a clause a man wrote in 2011 and worked out that the price of one copy was one sentence with his name in it.*
 
-I have been calling that a habit since June. It is not a habit. It is the whole of him, and it has never once failed him until this winter, and it is going to go on not failing him right up until the evening.
+*And then he did the thing he has done for twenty-five years, which is nothing, and it cost him the only paper in this country that would have been worth having.*
+
+*I have been calling that a habit since June. It is not a habit. It is the whole of him, and it has never once failed him until this winter, and it is going to go on not failing him right up until the evening.*

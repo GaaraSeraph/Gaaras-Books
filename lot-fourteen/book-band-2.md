@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.547 Woerter.
+Book Two, 90 Kapitel, 232.548 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -36,7 +36,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 23 | v1.6 | 2.033 |
 | 24 | v1.5 | 2.099 |
 | 25 | v1.9 | 3.966 |
-| 26 | v4.2 | 2.786 |
+| 26 | v4.3 | 2.790 |
 | 27 | v4.0 | 2.472 |
 | 28 | v4.0 | 1.968 |
 | 29 | v1.3 | 2.317 |
@@ -83,7 +83,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 70 | v3.3 | 2.249 |
 | 71 | v3.1 | 2.228 |
 | 72 | v3.2 | 3.672 |
-| 73 | v3.4 | 2.286 |
+| 73 | v3.5 | 2.281 |
 | 74 | v3.1 | 2.398 |
 | 75 | v3.6 | 2.564 |
 | 76 | v3.3 | 2.827 |
@@ -93,7 +93,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 80 | v3.3 | 2.846 |
 | 81 | v3.4 | 2.369 |
 | 82 | v1.4 | 2.814 |
-| 83 | v3.5 | 2.934 |
+| 83 | v3.6 | 2.936 |
 | 84 | v3.5 | 2.147 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.24 | 3.901 |
@@ -5688,7 +5688,7 @@ That is the whole of what happened in that room on the twenty-seventh of May.
 ---
 
 # Book Two · Chapter 26: The same sort of man
-*Lot Fourteen* · Version 4.2 · EN
+*Lot Fourteen* · Version 4.3 · EN
 
 ## Day Two Hundred and Thirty-Seven · Thursday 28 May
 
@@ -5950,9 +5950,9 @@ Georgij did not move from where he was standing.
 
 "It makes it a chair that went before I wanted anything."
 
-*It went on the Tuesday with no note in it. The delivery man had a docket and the docket had this house on it, because a docket with nothing on it is worse.*
+*It will go on the Tuesday with no note in it. The delivery man will have a docket and the docket will have this house on it, because a docket with nothing on it is worse.*
 
-*He has not mentioned it. He sat in one of them on the third of June and did not say where it came from, and neither did I.*
+*He has not mentioned it. He will sit in one of them on the third of June and will not say where it came from, and neither will I.*
 
 ---
 
@@ -16146,11 +16146,11 @@ Mrs Ha looked at him for a long moment.
 ---
 
 # Book Two · Chapter 73: The fourth time
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Four Hundred and Forty-Five · Tuesday 22 December
 
-The yard has one truck in it and room for nine.
+The yard is empty and has room for nine.
 
 She came out before he was through the gate, the way she did in March and in April, and she stopped four metres short of him and put her hands in her coat.
 
@@ -16196,7 +16196,7 @@ Nam Byung-hee did not move at all.
 
 "Your nephew is on the nine-truck rota at Mr Kwon's, and he has been since the twentieth of April, and that has not changed. As of the ninth of November the firm he works for belongs to her."
 
-The gulls did whatever gulls do over a yard with one truck in it.
+The gulls did whatever gulls do over an empty yard.
 
 "You have come four hundred kilometres to tell me that my brother's son works for the woman I wrote to," she said.
 
@@ -16282,7 +16282,7 @@ The calendar on the wall was still on a month with nothing written in it.
 
 "There are thirty-one names on a page in my coat and they were collected by a woman in Seoul over nine days in June." The page was still in the coat and he did not take it out. "You are not on that page. You would be the thirty-second and you would be on it because the same man did the same thing to you, in the same way, and you are the most recent."
 
-Nam Byung-hee looked out of the window at one truck.
+Nam Byung-hee looked out of the window at the empty yard.
 
 "Thirty-one people who were used," she said. "And you are going to put me on the end of it, and I am the only one of the thirty-two who used it back."
 
@@ -18510,7 +18510,7 @@ Annie looked out of the window for a while.
 ---
 
 # Book Two · Chapter 83: Nobody asked
-*Lot Fourteen* · Version 3.5 · EN
+*Lot Fourteen* · Version 3.6 · EN
 
 ## Day Five Hundred and Ten · Thursday 25 February
 
@@ -18522,7 +18522,7 @@ The plate by the entrance came down in October and the four screw holes are stil
 
 He was behind the desk at two minutes to nine with a sheet of paper in his hand.
 
-"The fifteenth of October," he said. "Nineteen weeks. You have been in this building four times and every one of them has been at nine, and I have been in it since eight every day for six years and I have never once been telephoned before ten."
+"The fifteenth of October," he said. "Nineteen weeks. You have come to see me four times and every one of them has been at nine. I have been in this building since eight every day for six years and I have never once been telephoned before ten."
 
 "That is why I come at nine."
 
@@ -18640,7 +18640,7 @@ The corridor outside had men in it moving something, and one of them said a numb
 
 "No."
 
-"I built it so that a house could not hide behind silence. I wrote the last sentence about a nil return and I was pleased with myself for a fortnight." He had not taken his hand off the sheet. "It has done exactly one thing in fourteen years that I intended, and that was your letter in August, and it has done this, and I did not intend this and I could not have."
+"I built it so that a house could not hide behind silence. I wrote the last sentence about a nil return and I was pleased with myself for a fortnight." He had not taken his hand off the sheet. "It has done exactly one thing in fifteen years that I intended, and that was your letter in August, and it has done this, and I did not intend this and I could not have."
 
 Georgij did not offer him anything.
 
@@ -18726,7 +18726,7 @@ Mr Hwang stood very still.
 
 "She wrote it."
 
-"She wrote it on the fourteenth of June. It is nine lines and it is signed and dated, and it is in a drawer in a house on the river. I have read it and I am the only person other than her who has." Georgij did not look away. "I told you that in October in this room and I would not read you a line out of it, and I am not going to today either."
+"She wrote it on the fifteenth of June. It is nine lines and it is signed and dated, and it is in a drawer in a house on the river. Annie and I are the only people other than the woman who wrote it who have read it." Georgij did not look away. "I told you that in October in this room and I would not read you a line out of it, and I am not going to today either."
 
 "No," said Mr Hwang. "I did not think you would."
 
@@ -18740,7 +18740,7 @@ He came round the desk.
 
 "Say the two."
 
-"A clause in 2011 that a stranger used correctly in August." He picked the sheet up off the desk and put it in the crate. "And a woman who came up three floors on the ninth of January four years ago with a school exercise book, because she had heard that I was proud of it."
+"A clause in 2011 that a stranger used correctly in August." He picked the sheet up off the desk and put it in the crate. "And a woman who came up three floors on the ninth of January last year with a school exercise book, because she had heard that I was proud of it."
 
 At the door Georgij stopped.
 

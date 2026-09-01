@@ -69,7 +69,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 23** *Ten minutes on a Friday* (v1.6) · Tag 224, Fr 15. Mai · 2.033 W
 - **B2 24** *Four people who could see us* (v1.5) · Tag 230, Do 21. Mai · 2.099 W
 - **B2 25** *What he collects* (v1.9) · Tag 236, Mi 27. Mai · 3.966 W
-- **B2 26** *The same sort of man* (v4.2) · Tag 237, Do 28. Mai · 2.786 W
+- **B2 26** *The same sort of man* (v4.3) · Tag 237, Do 28. Mai · 2.790 W
 - **B2 27** *She has a list* (v4.0) · Tag 238, Fr 29. Mai · 2.472 W
 - **B2 28** *A practice keeps records* (v4.0) · Tag 238, Fr 29. Mai · 1.968 W
 - **B2 29** *Nobody hides flowers* (v1.3) · Tag 239, Sa 30. Mai · 2.317 W
@@ -116,7 +116,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 70** *A man who answers* (v3.3) · Tag 437, Mo 14. Dezember · Tag 439, Mi 16. Dezember · 2.249 W
 - **B2 71** *No story at all* (v3.1) · Tag 440, Do 17. Dezember · 2.228 W
 - **B2 72** *What silence costs* (v3.2) · Tag 441, Fr 18. Dezember · Tag 442, Sa 19. Dezember · Tag 444, Mo 21. Dezember · 3.672 W
-- **B2 73** *The fourth time* (v3.4) · Tag 445, Di 22. Dezember · 2.286 W
+- **B2 73** *The fourth time* (v3.5) · Tag 445, Di 22. Dezember · 2.281 W
 - **B2 74** *What he was for* (v3.1) · Tag 451, Mo 28. Dezember · 2.398 W
 - **B2 75** *Over the dessert* (v3.6) · Tag 453, Mi 30. Dezember · 2.564 W
 - **B2 76** *Three pieces of good news* (v3.3) · Tag 460, Mi 6. Januar · Tag 461, Do 7. Januar · Tag 462, Fr 8. Januar · Tag 463, Sa 9. Januar · 2.827 W
@@ -126,7 +126,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 80** *Nine boxes* (v3.3) · Tag 472, Mo 18. Januar · Tag 473, Di 19. Januar · Tag 489, Do 4. Februar · 2.846 W
 - **B2 81** *I require your instructions* (v3.4) · Tag 493, Mo 8. Februar · 2.369 W
 - **B2 82** *The only line out* (v1.4) · Tag 497, Fr 12. Februar · Tag 500, Mo 15. Februar · 2.814 W
-- **B2 83** *Nobody asked* (v3.5) · Tag 510, Do 25. Februar · Tag 514, Mo 1. Maerz · 2.934 W
+- **B2 83** *Nobody asked* (v3.6) · Tag 510, Do 25. Februar · Tag 514, Mo 1. Maerz · 2.936 W
 - **B2 84** *No occasion* (v3.5) · Tag 517, Do 4. Maerz · Tag 522, Di 9. Maerz · 2.147 W
 - **B2 85** *Twenty-seven* (v3.3) · Tag 531, Do 18. Maerz · 2.593 W
 - **B2 86** *Please guide me* (v3.24) · Tag 531, Do 18. Maerz · 3.901 W

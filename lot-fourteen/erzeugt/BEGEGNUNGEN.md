@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 878 | 95 (b1ch01-b3ch02) | 1 | 600 |
+| Annie | 879 | 96 (b1ch01-b3ch02) | 1 | 600 |
 | Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
@@ -71,7 +71,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-878 Nennungen in 95 Kapiteln.
+879 Nennungen in 96 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -894,6 +894,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 500 | b2ch82:256 | Annie stood in the hall. |
 | 500 | b2ch82:268 | "Say what he did in the hall," said Annie. |
 | 500 | b2ch82:286 | Annie looked out of the window for a while. |
+| 514 | b2ch83:292 | "She wrote it on the fifteenth of June. It is nine lines and it is signed and dated, and.. |
 | 517 | b2ch84:6 | Annie put the list on the desk at eight in the morning, face up, and did not turn it rou.. |
 | 517 | b2ch84:24 | Annie put one finger on the bottom of the sheet. |
 | 517 | b2ch84:38 | Annie wrote the name at the bottom of the page herself. |
@@ -1180,6 +1181,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch82:48` (Tag 497) - fifty, one, two
 - `b2ch82:122` (Tag 500) - fifty, seven
 - `b2ch82:206` (Tag 500) - four, one, seventy-eight
+- `b2ch83:292` (Tag 514) - nine
 - `b2ch84:6` (Tag 517) - eight
 - `b2ch84:24` (Tag 517) - one
 - `b2ch84:122` (Tag 517) - four
@@ -4367,7 +4369,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 445 | b2ch73:106 | "Then I will hold both of them," said Nam Byung-hee. "I have been holding worse arrangem.. |
 | 445 | b2ch73:130 | Nam Byung-hee did not say anything for a moment. |
 | 445 | b2ch73:150 | "Now the fourth thing," said Nam Byung-hee. |
-| 445 | b2ch73:178 | Nam Byung-hee looked out of the window at one truck. |
+| 445 | b2ch73:178 | Nam Byung-hee looked out of the window at the empty yard. |
 | 445 | b2ch73:190 | Nam Byung-hee sat with that for a long time. |
 | 445 | b2ch73:228 | "Then there is one more and it is mine," said Nam Byung-hee. |
 | 445 | b2ch73:244 | "Good," said Nam Byung-hee. "Then somebody does." |
@@ -4396,7 +4398,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch73:12` (Tag 445) - one
 - `b2ch73:32` (Tag 445) - three
 - `b2ch73:90` (Tag 445) - one
-- `b2ch73:178` (Tag 445) - one
 - `b2ch73:228` (Tag 445) - one
 - `b2ch84:30` (Tag 517) - nine, one
 - `b2ch85:56` (Tag 531) - eight, four, two
