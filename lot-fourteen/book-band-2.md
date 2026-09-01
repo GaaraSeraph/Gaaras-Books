@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.605 Woerter.
+Book Two, 90 Kapitel, 232.747 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 32 | v6.0 | 4.084 |
 | 33 | v6.0 | 1.955 |
 | 34 | v2.6 | 3.283 |
-| 35 | v3.2 | 3.526 |
+| 35 | v3.3 | 3.545 |
 | 36 | v4.0 | 4.077 |
 | 37 | v3.0 | 2.764 |
 | 38 | v3.1 | 3.452 |
@@ -71,7 +71,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 58 | v1.6 | 2.481 |
 | 59 | v1.15 | 3.508 |
 | 60 | v1.8 | 2.676 |
-| 61 | v1.3 | 2.402 |
+| 61 | v2.0 | 2.525 |
 | 62 | v1.4 | 2.111 |
 | 63 | v1.15 | 3.575 |
 | 64 | v1.4 | 2.123 |
@@ -7846,7 +7846,7 @@ He put the book away without any pleasure in it. For ten months he has been writ
 ---
 
 # Book Two · Chapter 35: The one who asked a question
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
@@ -7988,7 +7988,7 @@ He wrote the name on the second page when he got back, under the four that were 
 
 *Mr Koh, since eleven o'clock this morning. And he is the first one who knows what the asking is for.*
 
-## Day Two Hundred and Fifty-Five · Monday 15 June
+## Day Two Hundred and Fifty-Six · Tuesday 16 June
 
 Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the corner of the tray. It is not a thing she does unless she has already looked at the hand it is written in.
 
@@ -7996,9 +7996,9 @@ Mrs Seo brought the post in at nine and put one envelope apart from the rest, on
 
 Georgij looked at it. His own name, block letters, no return address, a Gwangyang postmark, and the ink still slightly uneven where the pen had needed a second start.
 
-"Today is the fifteenth," he said.
+"Today is the sixteenth," he said.
 
-"Yes," said Mrs Seo. "It is also a Monday, if that means anything to you."
+"Yes," said Mrs Seo. "It is also a Tuesday, if that means anything to you."
 
 It meant a great deal to him, more than the date alone could account for, and he did not say so.
 
@@ -8026,7 +8026,9 @@ Georgij put the letter in the drawer that does not lock, because it was not the 
 
 She was at the desk with the ledgers from the Gwangyang firm's first week already in front of her, which meant somebody there had sent them the moment there was anything to send.
 
-"She started today," he said.
+"She started yesterday," he said.
+
+The son who was going to offer in July had not offered yet. She had not waited for him.
 
 "I am aware."
 
@@ -8056,7 +8058,7 @@ She turned back to the ledgers, and then stopped, and looked at him again.
 
 "I am not going to ask you to tell me."
 
-"I know you are not," said Annie. "That is why I am telling you anyway. The nephew who ran it out of a shoebox for three years handed her the keys to a cabinet at half past nine and by eleven she had found four things in it he had never noticed were missing. Nobody there yet knows why she was hired. They only know that the woman who arrived this morning has apparently been doing this since before some of them were born, and that she does not raise her voice."
+"I know you are not," said Annie. "That is why I am telling you anyway. The nephew who ran it out of a shoebox for three years handed her the keys to a cabinet at half past nine and by eleven she had found four things in it he had never noticed were missing. Nobody there yet knows why she was hired. They only know that the woman who arrived yesterday morning has apparently been doing this since before some of them were born, and that she does not raise her voice."
 
 Georgij stood very still for a moment.
 
@@ -13483,8 +13485,8 @@ He wrote it in the book at nine, before he went, and it took one attempt.
 
 ---
 
-# Book Two · Chapter 61: Twenty-three days
-*Lot Fourteen* · Version 1.3 · EN
+# Book Two · Chapter 61: The fourth thing
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Three Hundred and Eighty-Five · Friday 23 October
 
@@ -13504,7 +13506,7 @@ The stair is new. The rail on it is not.
 
 The plate by the door says the firm and underneath it, on a strip of white card cut with scissors and taped on straight, it says *Settlement*.
 
-It has been there since the ninth of October, which is her second week.
+It has been there since the ninth of July, which was her fourth week.
 
 She came down the outside stair to fetch him herself, because the office has no bell and the nephew who runs it has been meaning to see about that since 2022.
 
@@ -13520,7 +13522,7 @@ The office is one room with four desks in it and three of them face the window.
 
 Hers does not. Hers faces the wall, and on the wall there is a run of shelving the whole length of it. On the shelving there are ninety or a hundred box files with years on the spines, and the years are not in order.
 
-"They were in order when I came," she said. "That is the first thing I did and it took eleven days and it is not finished."
+"They were not in order when I came," she said. "That is the first thing I started. It took eleven days to get the current years straight and it is not finished."
 
 "What you found."
 
@@ -13538,7 +13540,7 @@ The two thirds came to this. There is a category of short haul in which the firm
 
 "How much," said Georgij.
 
-"I am not going to tell you the number, because it is theirs and not mine and you are not from here." She said it without any heat in it at all. "It is a number that changes what that man can do with the next five years. I found it in my third week, and I found it because I put the boxes in order."
+"I am not going to tell you the number, because it is theirs and not mine and you are not from here." She said it without any heat in it at all. "It is a number that changes what that man can do with the next five years. I found the first wrong line in my third week, because I put the boxes in order. It took until Tuesday to prove what all of them came to."
 
 "Have you told him?"
 
@@ -13548,7 +13550,7 @@ Neither of them said anything for a moment.
 
 Out of the window on the far side of the room there is a crane and a piece of the water.
 
-"That is the whole of the last three weeks," she said, "and I have said it out loud once and it was to you, and now we are going to do the reason you came, because you did not come four hundred kilometres for a levy."
+"That is the part that matters from the last four months and eight days," she said, "and I have said it out loud once and it was to you, and now we are going to do the reason you came, because you did not come four hundred kilometres for a levy."
 
 Georgij put both hands on the desk.
 
@@ -13588,29 +13590,37 @@ November. The room at the back being cleared. A man in a roof space with a torch
 
 Mrs Jeon did not say anything.
 
-"You have been here twenty-three days," said Georgij.
+"You have been here four months and eight days," said Georgij.
 
-"I have been here twenty-three days."
+"I have been here four months and eight days."
 
 She got up and went to the shelving and put one hand on a box file and did not take it down.
 
 "There is a rest of it," she said, "and you have not got and you have not got to it."
 
-"There is no version in which you are in that room in November and also here in November."
+"There is no version in which you are in that room in November and also at this desk for that week."
 
 "No."
 
-"And a firm that has had a settlement desk for three weeks does not hold a settlement desk open for a woman who leaves in her fourth week to do a thing she cannot describe." He kept his hands where she could see them. "I am not going to tell you it will be all right, and I am not going to offer to arrange it. Arranging it would mean a person on this coast being told something about you by somebody from a house on a river."
+"And a firm that has had a settlement desk for four months can hold it open for a week. That is not the price."
+
+"Then say the price."
+
+"You proved a thing this week that changes five years for the man who owns it, and he asked what you thought he should do." Georgij kept his hands where she could see them. "On Monday you ask him to carry it without you, at short notice, for a reason you cannot describe. He will say yes. For however long he thinks he owes you for the levy, you will not know whether he held the desk open because he needs your work or because of what you found."
+
+Mrs Jeon did not disagree.
+
+"I am not going to tell you it will be all right, and I am not going to offer to arrange it. Arranging it would mean a person on this coast being told something about you by somebody from a house on a river."
 
 "That is correct and I would have refused it."
 
 She stood at the shelving with her back to him.
 
-"I have had four things happen to me this year," said Mrs Jeon. "In January I was told I had twenty-three years and eight weeks. In May I went out of that door. In June a firm four hundred kilometres away offered me a desk and I did not go for three months because I could not take a thing that arrived on its own. In October I came, and in three weeks I have found a levy from 2011 and been asked what I think."
+"I have had four things happen to me this year," said Mrs Jeon. "In March I was told I had twenty-three years and eight weeks. In May I went out of that door. In June a firm four hundred kilometres away offered me a desk and I came before my son had offered me anything at all. In October I proved a levy from 2011 and was asked what I think."
 
 "Yes."
 
-"And now a man has come down on the first train to tell me that the fifth thing is in November and that it will cost me the fourth." She turned round. "I want you to know that I have understood that completely, and that you have not tricked me, and that I am about to say yes."
+"And now a man has come down on the first train to tell me that the fifth thing is in November and that saying yes will make the fourth impossible to measure for a while." She turned round. "I want you to know that I have understood that completely, and that you have not tricked me, and that I am about to say yes."
 
 Georgij did not say anything at all.
 
@@ -13626,17 +13636,17 @@ Georgij did not say anything at all.
 
 She came back to the desk and sat down.
 
-"I will tell the nephew on Monday that I may have to go for about a week at short notice in November, and I will not say what for." She turned the cup a quarter turn. "He will say yes, because it is three weeks and he still thinks he owes me for the levy." She turned the cup back the other way. "And in January, when he has stopped thinking that, we will find out what I am actually worth here. That is the correct order and I would not want it the other way round."
+"I will tell the nephew on Monday that I may have to go for about a week at short notice in November, and I will not say what for." She turned the cup a quarter turn. "He will say yes, because it has been four months and he needs the desk, and because he still thinks he owes me for the levy." She turned the cup back the other way. "And in January, when he has stopped thinking that, we will find out what I am actually worth here. That is the correct order and I would not want it the other way round."
 
 "That is a very cold way to describe it."
 
-"It is not cold. It is a schedule." She looked at the shelving. "I have had twenty-three years of being liked by a house that put me out in eight weeks. I would sooner be needed here for a levy than liked here for a fortnight."
+"It is not cold. It is a schedule." She looked at the shelving. "I have had twenty-three years of being liked by a house that put me out in eight weeks. I would sooner know I am needed here for the work than wonder whether I am being kept for a levy."
 
 He was there until twenty past one and did not do anything useful for the last fifty minutes of it.
 
-She talked about the nephew, who is thirty-four and frightened of the port and hides it by being early to everything. She talked about the woman on the second desk, who has been there eleven years and spent the first fortnight waiting to be told that the new person had come to replace her. Nobody told her. Nobody in that office is unkind and nobody had thought to say it, and she found out by accident on the ninth.
+She talked about the nephew, who is thirty-four and frightened of the port and hides it by being early to everything. She talked about the woman on the second desk, who has been there eleven years and spent the first fortnight waiting to be told that the new person had come to replace her. Nobody told her. Nobody in that office is unkind and nobody had thought to say it, and she found out by accident on the twenty-sixth.
 
-"I said it to her on the ninth," said Mrs Jeon. "In the corridor, badly, on a Friday, with something else as the reason. Twenty-three years and that is still the only way it comes out of me."
+"I said it to her on the twenty-sixth," said Mrs Jeon. "In the corridor, badly, on a Friday, with something else as the reason. Twenty-three years and that is still the only way it comes out of me."
 
 Georgij put his cup down.
 
@@ -13650,7 +13660,7 @@ At the top of the outside stair she said one more thing.
 
 "You told me to."
 
-"I told you that on the eleventh of September, about a flat in Incheon, and it was a different instruction and you know it was." Mrs Jeon had one hand on the rail that is not new. "You have come four hundred kilometres to say a name properly, and to tell me a date that costs me a job, and to say a condition back to me that I could have recited myself. That is not nothing. I am fifty-one and I can tell the difference."
+"I told you that on the eleventh of September, about a flat in Incheon, and it was a different instruction and you know it was." Mrs Jeon had one hand on the rail that is not new. "You have come four hundred kilometres to say a name properly. You have told me a date that will make this desk impossible to measure for a while, and said a condition back to me that I could have recited myself. That is not nothing. I am fifty-one and I can tell the difference."
 
 Georgij stood on the stair.
 
@@ -13664,11 +13674,11 @@ There is a wait at Iksan and it is eight minutes.
 
 He stood on the platform in the eight minutes and did not open the notebook, and then got on the train and opened it at about Cheonan and wrote three lines.
 
-*She has been there twenty-three days and she has found a thing that changes five years for a man of thirty-four, and she said the number was not hers to give me.*
+*She has been there four months and eight days and she has proved a thing that changes five years for a man of thirty-four, and she said the number was not hers to give me.*
 
 *Nobody has ever asked her what she thinks. She is fifty-one.*
 
-*And I have come down here and taken the fourth thing off her in order to give her the fifth, and she saw the whole of it before I finished the sentence and said yes anyway.*
+*And I have come down here and asked her to risk the fourth thing in order to give her the fifth, and she saw the whole of it before I finished the sentence and said yes anyway.*
 
 He looked at the three lines for a while and then wrote one more underneath.
 

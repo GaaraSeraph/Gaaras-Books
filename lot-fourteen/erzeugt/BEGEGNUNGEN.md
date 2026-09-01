@@ -26,7 +26,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
 | Mrs Seo | 144 | 51 (b1ch03-b3ch01) | 1 | 592 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
-| Mrs Jeon | 93 | 22 (b2ch06-b2ch89) | 164 | 590 |
+| Mrs Jeon | 94 | 22 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 91 | 22 (b1ch07-b3ch02) | 22 | 600 |
 | Baek Jun-ho | 85 | 12 (b2ch39-b3ch01) | 270 | 592 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
@@ -656,17 +656,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 249 | b2ch34:272 | Annie opened the folder then, and shut it again without taking anything out, which is a .. |
 | 249 | b2ch34:282 | "And the second one is still open from April," said Annie. |
 | 249 | b2ch34:316 | *Annie, thirty-one times, and every one of them believes it was a woman being polite abo.. |
-| 255 | b2ch35:234 | He read it twice, the second time slower, the way Annie reads things that matter, becaus.. |
-| 255 | b2ch35:246 | Georgij put the letter in the drawer that does not lock, because it was not the sort of .. |
-| 255 | b2ch35:262 | Annie read it without picking it up. |
-| 255 | b2ch35:270 | Annie looked at the letter for a moment longer. |
-| 255 | b2ch35:278 | Something in Annie's face settled, the way it does when an answer has met whatever she w.. |
-| 255 | b2ch35:280 | "He was correct about the desk. He was wrong about the book," said Annie. "That is the e.. |
-| 255 | b2ch35:292 | "I know you are not," said Annie. "That is why I am telling you anyway. The nephew who r.. |
-| 255 | b2ch35:300 | "She was always going to be very good at this," said Annie. "The only thing that was eve.. |
-| 255 | b2ch35:306 | "Georgij," said Annie, before he could say it. |
-| 255 | b2ch35:328 | It was the same desk he had sat against, on the floor, on the night he had told Annie ev.. |
-| 255 | b2ch35:378 | It was not the morning Annie had meant when she sent him away from the desk. |
+| 256 | b2ch35:234 | He read it twice, the second time slower, the way Annie reads things that matter, becaus.. |
+| 256 | b2ch35:246 | Georgij put the letter in the drawer that does not lock, because it was not the sort of .. |
+| 256 | b2ch35:264 | Annie read it without picking it up. |
+| 256 | b2ch35:272 | Annie looked at the letter for a moment longer. |
+| 256 | b2ch35:280 | Something in Annie's face settled, the way it does when an answer has met whatever she w.. |
+| 256 | b2ch35:282 | "He was correct about the desk. He was wrong about the book," said Annie. "That is the e.. |
+| 256 | b2ch35:294 | "I know you are not," said Annie. "That is why I am telling you anyway. The nephew who r.. |
+| 256 | b2ch35:302 | "She was always going to be very good at this," said Annie. "The only thing that was eve.. |
+| 256 | b2ch35:308 | "Georgij," said Annie, before he could say it. |
+| 256 | b2ch35:330 | It was the same desk he had sat against, on the floor, on the night he had told Annie ev.. |
+| 256 | b2ch35:380 | It was not the morning Annie had meant when she sent him away from the desk. |
 | 257 | b2ch36:6 | Annie had picked the most recent one, and she had given her reason before he asked for it. |
 | 257 | b2ch36:54 | He found Annie in the garden, which is not a place she is often in before evening, stand.. |
 | 257 | b2ch36:60 | Annie unfolded her arms and put one hand flat on the wall beside her. |
@@ -1113,8 +1113,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:96` (Tag 249) - three
 - `b2ch34:282` (Tag 249) - one
 - `b2ch34:316` (Tag 249) - one, thirty-one
-- `b2ch35:280` (Tag 255) - two
-- `b2ch35:292` (Tag 255) - eleven, four, nine, three
+- `b2ch35:282` (Tag 256) - two
+- `b2ch35:294` (Tag 256) - eleven, four, nine, three
 - `b2ch36:6` (Tag 257) - one
 - `b2ch36:60` (Tag 257) - one
 - `b2ch36:282` (Tag 259) - two
@@ -1364,13 +1364,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 249 | b2ch34:154 | "I do not know yet," said Sang-hoon. "But I have been at that man's table for eight year.. |
 | 249 | b2ch34:162 | Sang-hoon stood without finishing anything on the table in front of him. |
 | 249 | b2ch34:172 | A waiter came in to clear the table Sang-hoon had not eaten from, and stopped in the doo.. |
-| 255 | b2ch35:322 | He had not opened the file on Sang-hoon's four decisions since the day in the rain. The .. |
-| 255 | b2ch35:330 | Eight years of dinners. No guest list survives any of them, because a man who gives dinn.. |
-| 255 | b2ch35:342 | *K. Late.* No year at all, which meant Sang-hoon himself had not thought it worth dating.. |
-| 255 | b2ch35:348 | Four letters. Four decisions Sang-hoon has never been able to account for. |
-| 255 | b2ch35:356 | What he had instead was four evenings, and four moods attached to them in Sang-hoon's ow.. |
-| 255 | b2ch35:360 | *7:30* is early, which for Sang-hoon means important enough to arrive rested for. |
-| 255 | b2ch35:374 | *S, H, K, Y. Not enough letters to be a coincidence and not enough to be an answer eithe.. |
+| 256 | b2ch35:324 | He had not opened the file on Sang-hoon's four decisions since the day in the rain. The .. |
+| 256 | b2ch35:332 | Eight years of dinners. No guest list survives any of them, because a man who gives dinn.. |
+| 256 | b2ch35:344 | *K. Late.* No year at all, which meant Sang-hoon himself had not thought it worth dating.. |
+| 256 | b2ch35:350 | Four letters. Four decisions Sang-hoon has never been able to account for. |
+| 256 | b2ch35:358 | What he had instead was four evenings, and four moods attached to them in Sang-hoon's ow.. |
+| 256 | b2ch35:362 | *7:30* is early, which for Sang-hoon means important enough to arrive rested for. |
+| 256 | b2ch35:376 | *S, H, K, Y. Not enough letters to be a coincidence and not enough to be an answer eithe.. |
 | 257 | b2ch36:16 | He telephoned Sang-hoon on the Wednesday and did not dress the question up. |
 | 257 | b2ch36:22 | Sang-hoon made a sound that was almost a laugh. |
 | 257 | b2ch36:28 | "Yeom," said Sang-hoon. "The man who used to own the auction house on the river. You hav.. |
@@ -1585,10 +1585,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:142` (Tag 249) - four, one
 - `b2ch34:154` (Tag 249) - eight, one
 - `b2ch34:172` (Tag 249) - one, two
-- `b2ch35:322` (Tag 255) - four, three
-- `b2ch35:330` (Tag 255) - eight, four, one
-- `b2ch35:348` (Tag 255) - four
-- `b2ch35:356` (Tag 255) - four
+- `b2ch35:324` (Tag 256) - four, three
+- `b2ch35:332` (Tag 256) - eight, four, one
+- `b2ch35:350` (Tag 256) - four
+- `b2ch35:358` (Tag 256) - four
 - `b2ch36:40` (Tag 257) - one
 - `b2ch36:56` (Tag 257) - four, one
 - `b2ch36:66` (Tag 257) - one
@@ -2608,9 +2608,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 243 | b2ch31:68 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
 | 243 | b2ch31:138 | "And the page from Mrs Jeon. The one for Hwang." |
 | 244 | b2ch32:166 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
-| 255 | b2ch35:216 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
-| 255 | b2ch35:264 | "You are not going to give this to Hwang," she said. It was not a question. |
-| 255 | b2ch35:340 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
+| 256 | b2ch35:216 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
+| 256 | b2ch35:266 | "You are not going to give this to Hwang," she said. It was not a question. |
+| 256 | b2ch35:342 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
 | 273 | b2ch40:144 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
 | 273 | b2ch40:152 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
 | 273 | b2ch40:160 | "You did not know Hwang was coming." |
@@ -2737,7 +2737,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch31:10` (Tag 243) - two
 - `b2ch31:138` (Tag 243) - one
 - `b2ch32:166` (Tag 244) - one
-- `b2ch35:340` (Tag 255) - six, three
+- `b2ch35:342` (Tag 256) - six, three
 - `b2ch40:144` (Tag 273) - seven, six, three
 - `b2ch40:152` (Tag 273) - one, six
 - `b2ch51:162` (Tag 307) - four, one, thirty
@@ -2872,8 +2872,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 244 | b2ch32:186 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
 | 244 | b2ch32:192 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
 | 245 | b2ch33:88 | Mrs Seo passed with a tray and did not stop. |
-| 255 | b2ch35:198 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
-| 255 | b2ch35:208 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
+| 256 | b2ch35:198 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
+| 256 | b2ch35:208 | "Yes," said Mrs Seo. "It is also a Tuesday, if that means anything to you." |
 | 279 | b2ch42:164 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
 | 283 | b2ch43:164 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
 | 288 | b2ch44:6 | Mrs Seo brought them into the small room at ten past nine in the morning, holding them s.. |
@@ -2989,7 +2989,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch23:94` (Tag 224) - six, three, twenty
 - `b2ch23:106` (Tag 224) - nine
 - `b2ch23:246` (Tag 224) - nine
-- `b2ch35:198` (Tag 255) - nine, one
+- `b2ch35:198` (Tag 256) - nine, one
 - `b2ch42:164` (Tag 279) - nine
 - `b2ch44:6` (Tag 288) - nine, ten
 - `b2ch44:22` (Tag 288) - nineteen
@@ -3246,7 +3246,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Jeon
 
-93 Nennungen in 22 Kapiteln.
+94 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3300,7 +3300,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 244 | b2ch32:166 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
 | 249 | b2ch34:42 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
 | 249 | b2ch34:50 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
-| 255 | b2ch35:228 | *Jeon Mi-ja* |
+| 256 | b2ch35:228 | *Jeon Mi-ja* |
 | 263 | b2ch38:218 | He wrote all eleven down before he began, and the reason beside each one as it went, bec.. |
 | 270 | b2ch39:240 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 273 | b2ch40:26 | He got the second at about four in the afternoon, and then he sat back and read them tog.. |
@@ -3312,10 +3312,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 385 | b2ch61:84 | Mrs Jeon did not write anything down and did not reach for anything. |
 | 385 | b2ch61:96 | Mrs Jeon sat with that for a while. |
 | 385 | b2ch61:118 | Mrs Jeon did not say anything. |
-| 385 | b2ch61:142 | "I have had four things happen to me this year," said Mrs Jeon. "In January I was told I.. |
-| 385 | b2ch61:162 | "Then yes," said Mrs Jeon. |
-| 385 | b2ch61:178 | "I said it to her on the ninth," said Mrs Jeon. "In the corridor, badly, on a Friday, wi.. |
-| 385 | b2ch61:194 | "I told you that on the eleventh of September, about a flat in Incheon, and it was a dif.. |
+| 385 | b2ch61:140 | Mrs Jeon did not disagree. |
+| 385 | b2ch61:150 | "I have had four things happen to me this year," said Mrs Jeon. "In March I was told I h.. |
+| 385 | b2ch61:170 | "Then yes," said Mrs Jeon. |
+| 385 | b2ch61:186 | "I said it to her on the twenty-sixth," said Mrs Jeon. "In the corridor, badly, on a Fri.. |
+| 385 | b2ch61:202 | "I told you that on the eleventh of September, about a flat in Incheon, and it was a dif.. |
 | 391 | b2ch63:296 | "The day of the week," said Mrs Jeon. |
 | 394 | b2ch64:14 | Mrs Jeon came up from Gwangyang on the Sunday afternoon and did not stay in the house. |
 | 395 | b2ch64:28 | Jang drove. Mrs Jeon sat in the front, because she said so and because nobody argued. Ge.. |
@@ -3370,9 +3371,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch41:42` (Tag 276) - one
 - `b2ch58:62` (Tag 362) - four, one, six
 - `b2ch61:30` (Tag 385) - eleven, three
-- `b2ch61:142` (Tag 385) - eight, four, four hundred, three, twenty-three
-- `b2ch61:178` (Tag 385) - twenty-three
-- `b2ch61:194` (Tag 385) - fifty-one, four hundred, one
+- `b2ch61:150` (Tag 385) - eight, four, four hundred, twenty-three
+- `b2ch61:186` (Tag 385) - twenty, twenty-three
+- `b2ch61:202` (Tag 385) - fifty-one, four hundred, one
 - `b2ch64:94` (Tag 395) - fifty-one, four hundred, twenty
 - `b2ch64:146` (Tag 395) - four, two
 - `b2ch64:168` (Tag 395) - one
@@ -4445,7 +4446,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 243 | b2ch31:68 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
 | 244 | b2ch32:56 | Byun: paid from a pocket, in an envelope already made up, so that the money would be in .. |
 | 244 | b2ch32:166 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
-| 255 | b2ch35:334 | He read the four letters again, this time with the flower slips and the Byun ledger fres.. |
+| 256 | b2ch35:336 | He read the four letters again, this time with the flower slips and the Byun ledger fres.. |
 | 273 | b2ch40:10 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
 | 273 | b2ch40:30 | Byun's sheet was the reason he trusted the second line at all. A single word on it, half.. |
 | 273 | b2ch40:212 | He did not take that as a reason to stop. He took it as a description of the work still .. |
@@ -4474,7 +4475,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch25:468` (Tag 236) - four
 - `b2ch31:10` (Tag 243) - two
 - `b2ch32:166` (Tag 244) - one
-- `b2ch35:334` (Tag 255) - four
+- `b2ch35:336` (Tag 256) - four
 - `b2ch40:10` (Tag 273) - three, two
 - `b2ch40:30` (Tag 273) - two
 - `b2ch40:212` (Tag 273) - one, three, two

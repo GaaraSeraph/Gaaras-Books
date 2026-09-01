@@ -78,7 +78,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 32** *Two witnesses* (v6.0) · Tag 244, Do 4. Juni · 4.084 W
 - **B2 33** *Whose four days* (v6.0) · Tag 245, Fr 5. Juni · 1.955 W
 - **B2 34** *An empty table* (v2.6) · Tag 249, Di 9. Juni · 3.283 W
-- **B2 35** *The one who asked a question* (v3.2) · Tag 251, Do 11. Juni · Tag 255, Mo 15. Juni · 3.526 W
+- **B2 35** *The one who asked a question* (v3.3) · Tag 251, Do 11. Juni · Tag 256, Di 16. Juni · 3.545 W
 - **B2 36** *The man kitchens talk to* (v4.0) · Tag 257, Mi 17. Juni · Tag 259, Fr 19. Juni · 4.077 W
 - **B2 37** *Somebody who did not arrive in a car* (v3.0) · Tag 261, So 21. Juni · 2.764 W
 - **B2 38** *The name he books under* (v3.1) · Tag 262, Mo 22. Juni · Tag 263, Di 23. Juni · 3.452 W
@@ -104,7 +104,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 58** *The only door* (v1.6) · Tag 362, Mi 30. September · Tag 371, Fr 9. Oktober · 2.481 W
 - **B2 59** *The permanent series* (v1.15) · Tag 377, Do 15. Oktober · 3.508 W
 - **B2 60** *Eleven years of paying for it* (v1.8) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.676 W
-- **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
+- **B2 61** *The fourth thing* (v2.0) · Tag 385, Fr 23. Oktober · 2.525 W
 - **B2 62** *The consignor of record* (v1.4) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.111 W
 - **B2 63** *They did not argue about it* (v1.15) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 3.575 W
 - **B2 64** *The second of November* (v1.4) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.123 W
