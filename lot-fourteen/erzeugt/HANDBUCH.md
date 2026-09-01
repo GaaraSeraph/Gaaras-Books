@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 317.838 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 318.028 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -6640,7 +6640,7 @@ wird.**
 - [OFFEN] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 39, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
 - [OFFEN] **B2 18** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · Choi stirbt erst im April. B2 89 und B2 90 sprechen ueber Tat und Folge, aber nirgends ueber die verfehlte Jahresfrist. Deshalb offen und nicht verfallen
 - [OFFEN] **B2 30** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · Nicht nur Angebot und Annahme fehlen: B2 35 laesst sie schon am 15. Juni die Gwangyang-Stelle beginnen, die sie laut B2 87 seit Juni weiterfuehrt. Der kleinste Band-2-Anschluss steht als Manuskriptvorschlag in `doc/31-plan-band-2.md`: Der Sohn hat im Juli noch nicht angeboten; sie hat nicht auf ihn gewartet
-- [OFFEN] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig bei der Mitteilung an alle fuenf · "Go back and tell all five that they do not owe me anything." · B2 69 bezahlt Mr Kwon. Fuer die anderen vier gibt es im heutigen Kanon weder Gespraech noch Brief
+- [OFFEN] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig bei der Mitteilung an alle fuenf · "Go back and tell all five that they do not owe me anything." · Im heutigen Kanon wird keiner der fuenf unterrichtet. Die fruehere Kwon-Szene und vier Briefe existieren nur in geloeschten Fassungen
 - [OFFEN] **B2 67** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · "I will use your words and not mine." · B2 83 setzt Hwang an die Suche; B2 89 verbucht vier von achtundfuenfzig. Der Posten laeuft weiter
 - [OFFEN] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **Am Bandende offen, und der Text weiss es**
 - [OFFEN] **B2 85** Mrs Seo an Georgij · gesagt Tag 531 · faellig Tag 897 · "In about a year I am going to tell you what it was." · **Sie setzt die Frist, damit sie nie faellig wird**: *you are going to have forgotten this conversation and I am not.* Tag 897 ist Samstag, der 18. Maerz 2028 - 2028 ist ein Schaltjahr, deshalb 366 und nicht 365 Tage. **Die Szene steht ganz in `doc/32-plan-band-3.md`, und er kommt auf den Tag**
@@ -8913,6 +8913,12 @@ jedoch *"you bought five of them in November"*. Das widerspricht der ersten
 Unterschrift am 18. Mai und dem ausdruecklich angesagten Mai-Juni-Fenster. Der
 Kalender behaelt die belegte Mai-Zeile; der Manuskriptfund steht offen in
 `doc/31-plan-band-2.md`.
+
+**Weiterer Gegencheck vom 01.09.:** Auch der damalige Vermerk *nur Kwon ist
+unterrichtet* ist im heutigen Kanon ueberholt. Die Kwon-Szene und die vier
+Briefe existieren nur in geloeschten Fassungen; aktuell ist keiner der fuenf
+unterrichtet. Die folgenden zwei Wege dokumentieren die damalige Entscheidung
+und sind kein heutiger Kanonstand.
 
 **Die beiden Wege, die zur Wahl standen:**
 
@@ -15760,8 +15766,9 @@ erste Unterschrift am 18. Mai, B2 87 legt alle fuenf Kaeufe in den November.
 geloeschte Fassungen faelschlich als bezahlt gefuehrt. Chois Jahresfrist ist
 verfehlt, ohne dass der Text den Fristbruch benennt. Mrs Jeons angekuendigte
 Annahme vom Sohn kommt nicht mehr vor. Von Annies Auftrag, allen fuenf Firmen
-die Schuld zu erlassen, wird nur Mr Kwon nachweislich unterrichtet. Der genaue
-Kanonstand steht in `doc/13-zusagen.md`.
+die Schuld zu erlassen, wird im heutigen Kanon niemand unterrichtet. Die
+fruehere Kwon-Szene und vier Briefe existieren nur in geloeschten Fassungen.
+Der genaue Kanonstand steht in `doc/13-zusagen.md`.
 
 **Stand nach der Neufassung von Kapitel 9 bis 11 am 23.08.** Zwei alte Zeilen
 sind ersatzlos entfallen, weil die Kapitel, die sie gesetzt haben, nicht mehr
@@ -17444,6 +17451,18 @@ freigegeben sind.
     going to offer in July had not offered yet. She had not waited for him.**
     Damit wird Gwangyang zu ihrer geaenderten Entscheidung und nicht zur stillen
     Tilgung ihres eigenen Satzes.
+39. **`b2 ch19:116-148` und der heutige Kanon danach, Annies fuenf
+    Schuldentlassungen.** Annie weist Georgij an, allen fuenf Maennern zu sagen,
+    sie schuldeten ihr nichts. Georgij vertagt es mit *It will keep*, und Annie
+    nimmt genau diese Vertagung auf. In den kanonischen Kapiteln wird spaeter
+    keiner der fuenf unterrichtet. Die fruehere Kwon-Szene und vier Briefe
+    existieren nur in geloeschten Fassungen und duerfen nicht als Einloesung
+    gelten. Der Faden kann Band 3 tragen, aber Band 2 muss wissen, dass er offen
+    ist. Der kleinste Anschluss gehoert in das Folgenregister von Kapitel 89:
+    **The five men on the Ulsan lane still believe they owe her. On the
+    thirtieth of April Georgij said it would keep, and it has.** Damit wird
+    Annies Auftrag nicht falsch bezahlt, sondern Georgijs liegen gelassene
+    Schuld ehrlich im Text gehalten.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
@@ -21981,8 +22000,8 @@ des heutigen Schuldbuchs.**
 
 **Nachpruefung vom 01.09.:** Drei durch Altversionsbelege verdeckte Schulden
 sind wieder offen: Chois verfehlte Jahresfrist, Mrs Jeons angekuendigte Annahme
-vom Sohn und Georgijs vier noch fehlende Mitteilungen an die fuenf Firmen. Fuer
-Chois Fristbruch und die vier Mitteilungen ist hier noch keine Band-3-Szene
+vom Sohn und Georgijs fuenf noch fehlende Mitteilungen an die fuenf Firmen. Fuer
+Chois Fristbruch und die fuenf Mitteilungen ist hier noch keine Band-3-Szene
 festgelegt. Mrs Jeons Posten ist dagegen als kleine Band-2-Kontinuitaetsbruecke
 in `doc/31-plan-band-2.md` vorbereitet: Sie wartet nicht auf das Juliangebot des
 Sohnes, sondern beginnt am 15. Juni in Gwangyang. Mrs Seos Jahresfrist bleibt

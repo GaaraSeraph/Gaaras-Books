@@ -1418,8 +1418,9 @@ erste Unterschrift am 18. Mai, B2 87 legt alle fuenf Kaeufe in den November.
 geloeschte Fassungen faelschlich als bezahlt gefuehrt. Chois Jahresfrist ist
 verfehlt, ohne dass der Text den Fristbruch benennt. Mrs Jeons angekuendigte
 Annahme vom Sohn kommt nicht mehr vor. Von Annies Auftrag, allen fuenf Firmen
-die Schuld zu erlassen, wird nur Mr Kwon nachweislich unterrichtet. Der genaue
-Kanonstand steht in `doc/13-zusagen.md`.
+die Schuld zu erlassen, wird im heutigen Kanon niemand unterrichtet. Die
+fruehere Kwon-Szene und vier Briefe existieren nur in geloeschten Fassungen.
+Der genaue Kanonstand steht in `doc/13-zusagen.md`.
 
 **Stand nach der Neufassung von Kapitel 9 bis 11 am 23.08.** Zwei alte Zeilen
 sind ersatzlos entfallen, weil die Kapitel, die sie gesetzt haben, nicht mehr
@@ -3102,6 +3103,18 @@ freigegeben sind.
     going to offer in July had not offered yet. She had not waited for him.**
     Damit wird Gwangyang zu ihrer geaenderten Entscheidung und nicht zur stillen
     Tilgung ihres eigenen Satzes.
+39. **`b2 ch19:116-148` und der heutige Kanon danach, Annies fuenf
+    Schuldentlassungen.** Annie weist Georgij an, allen fuenf Maennern zu sagen,
+    sie schuldeten ihr nichts. Georgij vertagt es mit *It will keep*, und Annie
+    nimmt genau diese Vertagung auf. In den kanonischen Kapiteln wird spaeter
+    keiner der fuenf unterrichtet. Die fruehere Kwon-Szene und vier Briefe
+    existieren nur in geloeschten Fassungen und duerfen nicht als Einloesung
+    gelten. Der Faden kann Band 3 tragen, aber Band 2 muss wissen, dass er offen
+    ist. Der kleinste Anschluss gehoert in das Folgenregister von Kapitel 89:
+    **The five men on the Ulsan lane still believe they owe her. On the
+    thirtieth of April Georgij said it would keep, and it has.** Damit wird
+    Annies Auftrag nicht falsch bezahlt, sondern Georgijs liegen gelassene
+    Schuld ehrlich im Text gehalten.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

@@ -4438,8 +4438,8 @@ des heutigen Schuldbuchs.**
 
 **Nachpruefung vom 01.09.:** Drei durch Altversionsbelege verdeckte Schulden
 sind wieder offen: Chois verfehlte Jahresfrist, Mrs Jeons angekuendigte Annahme
-vom Sohn und Georgijs vier noch fehlende Mitteilungen an die fuenf Firmen. Fuer
-Chois Fristbruch und die vier Mitteilungen ist hier noch keine Band-3-Szene
+vom Sohn und Georgijs fuenf noch fehlende Mitteilungen an die fuenf Firmen. Fuer
+Chois Fristbruch und die fuenf Mitteilungen ist hier noch keine Band-3-Szene
 festgelegt. Mrs Jeons Posten ist dagegen als kleine Band-2-Kontinuitaetsbruecke
 in `doc/31-plan-band-2.md` vorbereitet: Sie wartet nicht auf das Juliangebot des
 Sohnes, sondern beginnt am 15. Juni in Gwangyang. Mrs Seos Jahresfrist bleibt

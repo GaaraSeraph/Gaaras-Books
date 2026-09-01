@@ -819,6 +819,12 @@ Unterschrift am 18. Mai und dem ausdruecklich angesagten Mai-Juni-Fenster. Der
 Kalender behaelt die belegte Mai-Zeile; der Manuskriptfund steht offen in
 `doc/31-plan-band-2.md`.
 
+**Weiterer Gegencheck vom 01.09.:** Auch der damalige Vermerk *nur Kwon ist
+unterrichtet* ist im heutigen Kanon ueberholt. Die Kwon-Szene und die vier
+Briefe existieren nur in geloeschten Fassungen; aktuell ist keiner der fuenf
+unterrichtet. Die folgenden zwei Wege dokumentieren die damalige Entscheidung
+und sind kein heutiger Kanonstand.
+
 **Die beiden Wege, die zur Wahl standen:**
 
 1. **Die Zahl an den Kalender anpassen** - nur Kwon ist unterrichtet, die
