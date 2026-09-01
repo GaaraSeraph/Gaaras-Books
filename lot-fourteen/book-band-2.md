@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.592 Woerter.
+Book Two, 90 Kapitel, 232.604 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v3.5 | 2.147 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.24 | 3.901 |
-| 87 | v3.22 | 4.129 |
+| 87 | v3.23 | 4.141 |
 | 88 | v3.7 | 3.368 |
 | 89 | v4.1 | 1.995 |
 | 90 | v4.2 | 1.564 |
@@ -19726,7 +19726,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.22 · EN
+*Lot Fourteen* · Version 3.23 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19736,7 +19736,7 @@ They were so that twenty-six people would have eleven minutes in a room with the
 
 * * *
 
-Georgij came back into the dining room at twenty to ten by the door at the near end and stood where he had stood before.
+Georgij came back into the dining room at ten to ten by the door at the near end and stood where he had stood before.
 
 Twenty-two people at that table had stopped eating and not one of them had decided to.
 
@@ -19744,13 +19744,13 @@ The four who came late were on the far side and had been talking about a berth a
 
 * * *
 
-There is a way a table sounds at twenty to ten with a chair empty in it.
+There is a way a table sounds at ten to ten with a chair empty in it.
 
-It is not quiet. Nobody at that table stopped talking and nobody said one word about the empty chair. If a stranger had come into that room at twenty to ten he would have said it was a good evening, and he would have been right.
+It is not quiet. Nobody at that table stopped talking and nobody said one word about the empty chair. If a stranger had come into that room at ten to ten he would have said it was a good evening, and he would have been right.
 
 The difference is that eleven people were talking to somebody they had not come with, and one of them was crying and being extremely well handled about it by a woman from Busan.
 
-At about a quarter to ten Georgij heard a man on the near side say a date to another man. It was the second of June, four years ago, and the other man said that he had been at that one as well.
+At about five to ten Georgij heard a man on the near side say a date to another man. It was the second of June, four years ago, and the other man said that he had been at that one as well.
 
 Neither of them said anything for about four seconds.
 
@@ -19760,7 +19760,7 @@ And then the two of them sat and looked at each other, which is worse.
 
 * * *
 
-At ten to ten Mrs Seo went down the passage.
+At ten o'clock Mrs Seo went down the passage.
 
 She was gone about forty seconds and she came back into the room ahead of him, and that is the only thing about the whole of it that had been arranged, and Georgij had not arranged it either.
 
@@ -19804,7 +19804,7 @@ She did not stand up and she did not say anything, and she looked at him from ab
 
 He did not know who she was.
 
-Georgij was eleven feet away and watched a man of sixty walk past a woman he chose in January, in a room with forty people in it, because she was described to him as honest. He did not know her face. There is no reason on earth why he should have.
+Georgij was eleven feet away and watched a man of sixty walk past a woman he chose in January, in a room full of people, because she was described to him as honest. He did not know her face. There is no reason on earth why he should have.
 
 * * *
 
@@ -19860,7 +19860,7 @@ Georgij was in the passage and did not hear it.
 
 The car was on the drive and it was the third of the four.
 
-He got into it at four minutes to ten and it went down the drive and out through the gate, and it did not stop at the gate. Nobody in that house watched it go except the man at the passage window.
+He got into it at six minutes past ten and it went down the drive and out through the gate, and it did not stop at the gate. Nobody in that house watched it go except the man at the passage window.
 
 * * *
 
@@ -19868,7 +19868,7 @@ The dinner went on until twenty past eleven.
 
 That is the part nobody would believe and it is the part that matters.
 
-Twenty-six people stayed for an hour and a half after he had gone, and they were given coffee. Four of them went out into the hall at different times to make a call, and not one of the four made it from the table. Mrs Seo put a second pot out at half past ten because they were still there.
+Twenty-six people stayed. The last of them left about an hour and a half after he had gone, and they were given coffee. Four of them went out into the hall at different times to make a call, and not one of the four made it from the table. Mrs Seo put a second pot out at half past ten because they were still there.
 
 * * *
 
@@ -19986,7 +19986,7 @@ Annie looked at him for a moment.
 
 "Say it."
 
-"A year ago today a woman wrote to you by name, on a sheet of association letterhead that was not hers, and signed it Chair, and sent it registered so that there would be a record." His hands were behind his back. "Every word in it was true. She thought about it for four days before she posted it, and she put that in the letter so that you would know it was not temper. The thing she picked up and pointed at you was me."
+"A year ago today a woman wrote to you by name on association letterhead that was not hers and signed it Chair. She sent it by courier that morning against a signature, so there would be a record." His hands were behind his back. "Every word in it was true. She thought about it for four days before she sent it, and she put that in the letter so that you would know it was not temper. The thing she picked up and pointed at you was me."
 
 "I know what it was."
 
@@ -19998,7 +19998,7 @@ Annie looked at him for a moment.
 
 "And the letterhead."
 
-"It has its standing from one lane, and there were six firms on that lane, and you bought five of them in November." He did not decorate it. "Openly, in the register, at a price. Anybody in this country may go and read it, and everybody on that coast has."
+"It has its standing from one lane, and there were six firms on that lane, and you bought five of them between the middle of May and the middle of June." He did not decorate it. "Openly, in the register, at a price. Anybody in this country may go and read it, and everybody on that coast has."
 
 "And the house."
 
@@ -20070,11 +20070,11 @@ Annie did not say anything for a moment.
 
 "And the room."
 
-"Nineteen buyers on the fourth of October, and you were one of them." He did not decorate it. "Two of the nineteen are on the list I have just read you. The other seventeen sat with you for two hours and watched you put your hand up once. Six hundred and forty have a tidied catalogue in a drawer."
+"Nineteen buyers on the fourth of October, and you were one of them." He did not decorate it. "Two of the nineteen are on the list I have just read you. The other sixteen sat with you for two hours and watched you put your hand up once. Six hundred and forty have a tidied catalogue in a drawer."
 
 "And none of them."
 
-"None of them. Not one of the seventeen can put a piece of paper next to it, and neither can the six hundred and forty." A pause. "The only place any of it was ever written down went over a weighbridge in Siheung."
+"None of them. Not one of the sixteen can put a piece of paper next to it, and neither can the six hundred and forty." A pause. "The only place any of it was ever written down went over a weighbridge in Siheung."
 
 Annie sat with that.
 
@@ -20134,7 +20134,7 @@ Georgij looked at the leg of the desk.
 
 She let that stand where it was.
 
-"That is the second time you have done that this year," said Annie. "I have counted both."
+"That is the second time in a year you have done that," said Annie. "I have counted both."
 
 * * *
 

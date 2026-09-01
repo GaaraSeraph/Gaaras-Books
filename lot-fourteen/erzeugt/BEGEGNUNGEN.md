@@ -935,7 +935,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:456 | Annie did not say anything. |
 | 531 | b2ch87:474 | Annie did not take any time over it. |
 | 531 | b2ch87:498 | "There is one line in what you gave me about that room and you put nothing round it." An.. |
-| 531 | b2ch87:518 | "That is the second time you have done that this year," said Annie. "I have counted both." |
+| 531 | b2ch87:518 | "That is the second time in a year you have done that," said Annie. "I have counted both." |
 | 590 | b2ch89:90 | The machine runs for four minutes in every hour and the account behind it has been Annie.. |
 | 590 | b2ch90:16 | Annie noticed on about the fourth day and said nothing for a week. |
 | 590 | b2ch90:30 | "You have not had a whole night since the first week of May," said Annie. |
@@ -2935,10 +2935,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch85:338 | "No," said Mrs Seo. "I am going to go and see about the second sitting, and in about a y.. |
 | 531 | b2ch86:12 | It was not what had gone down the long table at eight. Georgij had asked Mrs Seo in the .. |
 | 531 | b2ch86:456 | Behind him, in a small room at the end of it, a man of sixty stood at a window and looke.. |
-| 531 | b2ch87:44 | At ten to ten Mrs Seo went down the passage. |
+| 531 | b2ch87:44 | At ten o'clock Mrs Seo went down the passage. |
 | 531 | b2ch87:154 | In the hall Mrs Seo had his coat over her arm before he was through the door. |
 | 531 | b2ch87:160 | "I am glad, sir," said Mrs Seo. |
-| 531 | b2ch87:188 | Twenty-six people stayed for an hour and a half after he had gone, and they were given c.. |
+| 531 | b2ch87:188 | Twenty-six people stayed. The last of them left about an hour and a half after he had go.. |
 | 531 | b2ch87:240 | She came out into the hall on her own and Mrs Seo brought her coat, and she put it on an.. |
 | 531 | b2ch87:310 | Mrs Seo came through with a tray and did not stop. |
 | 590 | b2ch89:100 | She asked in November whether there was anything else she could do, because nobody had t.. |
