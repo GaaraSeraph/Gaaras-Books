@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.605 Woerter.
+Book Two, 90 Kapitel, 232.611 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -65,14 +65,14 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 52 | v1.4 | 2.042 |
 | 53 | v1.10 | 2.679 |
 | 54 | v1.14 | 4.420 |
-| 55 | v1.6 | 2.143 |
+| 55 | v1.7 | 2.142 |
 | 56 | v1.11 | 2.125 |
 | 57 | v1.9 | 2.279 |
 | 58 | v1.6 | 2.481 |
-| 59 | v1.14 | 3.509 |
+| 59 | v1.15 | 3.508 |
 | 60 | v1.8 | 2.676 |
 | 61 | v1.3 | 2.402 |
-| 62 | v1.3 | 2.103 |
+| 62 | v1.4 | 2.111 |
 | 63 | v1.15 | 3.575 |
 | 64 | v1.3 | 2.121 |
 | 65 | v1.8 | 1.991 |
@@ -12184,7 +12184,7 @@ He has stopped counting them. He noticed at some point in July that he had stopp
 ---
 
 # Book Two · Chapter 55: Somebody's daughter
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Twenty-Two · Friday 21 August
 
@@ -12278,7 +12278,7 @@ He put all of it in front of Annie at seven on the Friday evening, and he did no
 
 Annie did not say anything for a moment.
 
-"That is the first time you have used the word we in this room about anything that was not money," she said.
+"That is the first time you have used the word we in this room about deciding for a person," she said.
 
 "There is a second half," said Georgij, "and it is worse, and I would like to get it out in one go."
 
@@ -13002,7 +13002,7 @@ He sat with the pen and then wrote one more line.
 ---
 
 # Book Two · Chapter 59: The permanent series
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -13048,7 +13048,7 @@ He gave it to him and it took eleven minutes, and he read most of it off the pag
 
 He has never opened that book in front of anybody. He opened it on that table, at the January pages, and went forward, and about a third of what he read out had been written down before he knew what it was for.
 
-The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four years in a house near Wonju under the name Do Kyung-ae. A brother four streets from her flat who repairs small motors and who signed. A man who telephoned that house four times a year about a shed roof and did not know what he was for until the seventh of September.
+The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four years in a house near Wonju under the name Do Kyung-ae. A brother four streets from her flat who repairs small motors and who signed. A man who telephoned that house four times a year about a shed roof and did not know what he was for until the twenty-seventh of August.
 
 The room at the back is being cleared. A man was in the roof space on the twenty-second with a torch for half an hour. The line was cut on the thirtieth of September at some point before five in the afternoon, and there is no second number.
 
@@ -13214,7 +13214,7 @@ At the door there was one more thing and it was Georgij's.
 
 Mr Hwang did not move at all.
 
-"It exists," said Georgij. "One page. It is signed and it is dated the fourteenth of June and it is nine lines long. I have read it and I am the only person other than the woman who wrote it who has."
+"It exists," said Georgij. "One page. It is signed and it is dated the fifteenth of June and it is nine lines long. Annie and I are the only people other than the woman who wrote it who have read it."
 
 The room was very quiet.
 
@@ -13677,7 +13677,7 @@ He looked at the three lines for a while and then wrote one more underneath.
 ---
 
 # Book Two · Chapter 62: The consignor of record
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Eighty-Six · Saturday 24 October
 
@@ -13859,7 +13859,7 @@ Mr Ahn nodded once.
 
 He came down the hill and it took eight minutes and he did the arithmetic in the car with the engine off.
 
-*Four years and eleven weeks, and the whole of it turned on a man who has been forty feet from a signature the entire time.*
+*Four years and eight months, the last eleven weeks with me in it, and the whole of it turned on a man who has been forty feet from a signature the entire time.*
 
 *He did not sign it because he was persuaded.*
 

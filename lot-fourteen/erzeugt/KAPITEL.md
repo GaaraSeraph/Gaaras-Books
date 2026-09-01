@@ -98,14 +98,14 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 52** *Consigned by* (v1.4) · Tag 313, Mi 12. August · 2.042 W
 - **B2 53** *Four streets* (v1.10) · Tag 315, Fr 14. August · 2.679 W
 - **B2 54** *Buy her* (v1.14) · Tag 319, Di 18. August · 4.420 W
-- **B2 55** *Somebody's daughter* (v1.6) · Tag 322, Fr 21. August · 2.143 W
+- **B2 55** *Somebody's daughter* (v1.7) · Tag 322, Fr 21. August · 2.142 W
 - **B2 56** *One sentence* (v1.11) · Tag 326, Di 25. August · 2.125 W
 - **B2 57** *The one who orders* (v1.9) · Tag 328, Do 27. August · 2.279 W
 - **B2 58** *The only door* (v1.6) · Tag 362, Mi 30. September · Tag 371, Fr 9. Oktober · 2.481 W
-- **B2 59** *The permanent series* (v1.14) · Tag 377, Do 15. Oktober · 3.509 W
+- **B2 59** *The permanent series* (v1.15) · Tag 377, Do 15. Oktober · 3.508 W
 - **B2 60** *Eleven years of paying for it* (v1.8) · Tag 377, Do 15. Oktober · Tag 382, Di 20. Oktober · Tag 384, Do 22. Oktober · 2.676 W
 - **B2 61** *Twenty-three days* (v1.3) · Tag 385, Fr 23. Oktober · 2.402 W
-- **B2 62** *The consignor of record* (v1.3) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.103 W
+- **B2 62** *The consignor of record* (v1.4) · Tag 386, Sa 24. Oktober · Tag 388, Mo 26. Oktober · 2.111 W
 - **B2 63** *They did not argue about it* (v1.15) · Tag 389, Di 27. Oktober · Tag 390, Mi 28. Oktober · Tag 391, Do 29. Oktober · 3.575 W
 - **B2 64** *The second of November* (v1.3) · Tag 394, So 1. November · Tag 395, Mo 2. November · 2.121 W
 - **B2 65** *The first hour* (v1.8) · Tag 396, Di 3. November · Tag 397, Mi 4. November · 1.991 W

@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 879 | 96 (b1ch01-b3ch02) | 1 | 600 |
+| Annie | 880 | 97 (b1ch01-b3ch02) | 1 | 600 |
 | Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
 | Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
@@ -71,7 +71,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-879 Nennungen in 96 Kapiteln.
+880 Nennungen in 97 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -802,6 +802,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 371 | b2ch58:188 | "It is the whole of it and it is what he is owed, and it is also the only difference bet.. |
 | 371 | b2ch58:204 | "On the twenty-second there will be four hundred and eighty-one million won in an accoun.. |
 | 371 | b2ch58:234 | Annie stood at the window for a while. |
+| 377 | b2ch59:260 | "It exists," said Georgij. "One page. It is signed and it is dated the fifteenth of June.. |
 | 377 | b2ch60:10 | "Find me the way round it," said Annie. |
 | 384 | b2ch60:158 | "And you gave me his answer about what that is worth, and you did not improve it." Annie.. |
 | 384 | b2ch60:162 | "Say the sentence back to me," said Annie. |
@@ -1157,6 +1158,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch55:168` (Tag 322) - eleven, four
 - `b2ch58:162` (Tag 371) - eight
 - `b2ch58:204` (Tag 371) - four hundred and eighty-one million, one, three, twenty
+- `b2ch59:260` (Tag 377) - nine, one
 - `b2ch63:8` (Tag 389) - eight, one
 - `b2ch63:280` (Tag 390) - four hundred and eighty-one million
 - `b2ch64:200` (Tag 395) - one
@@ -4540,7 +4542,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch56:184` (Tag 326) - eleven, one
 - `b2ch57:90` (Tag 328) - four, nine, thirty-five
 - `b2ch58:226` (Tag 371) - eleven, six
-- `b2ch59:56` (Tag 377) - four, nine, thirty-five
+- `b2ch59:56` (Tag 377) - four, nine, thirty-five, twenty
 - `b2ch59:314` (Tag 377) - eleven, nine, six, ten
 - `b2ch61:82` (Tag 385) - four, thirty-five
 - `b2ch61:92` (Tag 385) - eleven, forty
