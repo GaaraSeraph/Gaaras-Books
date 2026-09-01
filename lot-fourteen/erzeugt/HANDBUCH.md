@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 312.802 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 312.915 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17072,6 +17072,16 @@ freigegeben sind.
     trucks. There was an auction house on that river with thirty years of
     records."* Das stellt Nam in den historischen Moment und haengt die Zahl an
     den richtigen Gegenstand.
+14. **`b2 ch83:16` gegen `b2 ch59:14`, Hwangs Besuchszaehlung.** Hwang sagt im
+    Oktober selbst, Georgij sei zuletzt am 11. Juni um 14:20 Uhr in dem Gebaeude
+    gewesen. Im Februar kann er deshalb nicht behaupten, Georgij sei viermal in
+    dem Gebaeude gewesen und jedes Mal um neun gekommen. Die anschliessende
+    Rechnung traegt dagegen: `b2 ch83:224` nennt den 1. Maerz den fuenften
+    direkten Besuch bei Hwang. Der kleinste Eingriff ist **You have come to see
+    me four times and every one of them has been at nine** statt **You have been
+    in this building four times and every one of them has been at nine**. Damit
+    bleibt der separate Nachmittagsbesuch im Gebaeude ausserhalb der vier
+    Gespraeche.
 
 ---
 
