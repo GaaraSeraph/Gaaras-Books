@@ -421,7 +421,8 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
   liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
   dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 30)
-- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang.** Das Blatt,
+- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang laut
+  Kapitel 35.** Das Blatt,
   das sie Hwang schuldig war, ist auf denselben Morgen datiert: *"He was correct
   about the desk. He was wrong about the book."* Kapitel 35 laesst den Brief mit
   Gwangyang-Poststempel jedoch schon an diesem Morgen um neun in Seoul ankommen;
