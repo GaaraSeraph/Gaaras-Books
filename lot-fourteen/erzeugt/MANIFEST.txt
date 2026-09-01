@@ -114,7 +114,7 @@ b2  ch77  v3.2       2331 Woerter  ch77_v3_2_en.md
 b2  ch78  v3.2       2566 Woerter  ch78_v3_2_en.md
 b2  ch79  v3.3       2864 Woerter  ch79_v3_3_en.md
 b2  ch80  v3.3       2846 Woerter  ch80_v3_3_en.md
-b2  ch81  v3.3       2369 Woerter  ch81_v3_3_en.md
+b2  ch81  v3.4       2369 Woerter  ch81_v3_4_en.md
 b2  ch82  v1.4       2814 Woerter  ch82_v1_4_en.md
 b2  ch83  v3.5       2934 Woerter  ch83_v3_5_en.md
 b2  ch84  v3.5       2147 Woerter  ch84_v3_5_en.md

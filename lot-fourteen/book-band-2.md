@@ -91,7 +91,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 78 | v3.2 | 2.566 |
 | 79 | v3.3 | 2.864 |
 | 80 | v3.3 | 2.846 |
-| 81 | v3.3 | 2.369 |
+| 81 | v3.4 | 2.369 |
 | 82 | v1.4 | 2.814 |
 | 83 | v3.5 | 2.934 |
 | 84 | v3.5 | 2.147 |
@@ -18054,7 +18054,7 @@ He looked at that for a while.
 ---
 
 # Book Two · Chapter 81: I require your instructions
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Four Hundred and Ninety-Three · Monday 8 February
 
@@ -18222,15 +18222,15 @@ Georgij put both hands flat on his knees.
 
 "Then say it."
 
-"I did not do it in 2016," said Baek.
+"I did not do it in 2022," said Baek.
 
 He said it flatly and it cost him more than the rest of the morning.
 
-"In 2016 I looked at that flat for the first time and I wrote one letter and I got a courteous answer and I stopped. That was the day. Not the fourteenth of January and not the first of December." He had both hands on the desk. "I have had nine years of being a man who queried it once, and I have used that sentence on myself about a thousand times."
+"In 2022 I looked at that flat for the first time and I wrote one letter and I got a courteous answer and I stopped. That was the day. Not the fourteenth of January and not the first of December." He had both hands on the desk. "I have had four years of being a man who queried it once, and I have used that sentence on myself about a thousand times."
 
 "And the second of March."
 
-"The second of March is nine years late and it is the only appointment available." Baek straightened the draft with one finger. "You do not argue a man out of that. You let him keep it or you take it off him, and I have watched you refuse to take a thing off somebody four times now and I have only understood it this morning."
+"The second of March is four years late and it is the only appointment available." Baek straightened the draft with one finger. "You do not argue a man out of that. You let him keep it or you take it off him, and I have watched you refuse to take a thing off somebody four times now and I have only understood it this morning."
 
 At the door Georgij stopped, because there was one thing left.
 

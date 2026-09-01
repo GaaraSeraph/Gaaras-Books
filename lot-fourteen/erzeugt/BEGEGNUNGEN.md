@@ -3606,8 +3606,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 493 | b2ch81:196 | "By somebody who was right." Baek did not move. "It is still true." |
 | 493 | b2ch81:206 | "You are not going to argue," said Baek. |
 | 493 | b2ch81:216 | Baek Jun-ho looked at him for a long moment. |
-| 493 | b2ch81:232 | "I did not do it in 2016," said Baek. |
-| 493 | b2ch81:242 | "The second of March is nine years late and it is the only appointment available." Baek .. |
+| 493 | b2ch81:232 | "I did not do it in 2022," said Baek. |
+| 493 | b2ch81:242 | "The second of March is four years late and it is the only appointment available." Baek .. |
 | 493 | b2ch81:250 | "It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on .. |
 | 493 | b2ch81:254 | "In the meantime a man in this city has to write me a letter about a woman he has never .. |
 | 493 | b2ch81:274 | *He did not build it so that the payments could not be suspended. He built it so that he.. |
@@ -3661,7 +3661,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch81:116` (Tag 493) - eleven, nine, one, two
 - `b2ch81:180` (Tag 493) - one
 - `b2ch81:192` (Tag 493) - thirty-one, two
-- `b2ch81:242` (Tag 493) - four, nine, one
+- `b2ch81:242` (Tag 493) - four, one
 - `b2ch81:250` (Tag 493) - fifty
 - `b2ch81:254` (Tag 493) - thirty-one
 - `b2ch89:170` (Tag 590) - thirty-one

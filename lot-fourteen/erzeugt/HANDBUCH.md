@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.873 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.941 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -9119,10 +9119,17 @@ Abstand, dieselbe Formel:
 | `ch61`, November 2026 | 10 Jahre 8 Monate | elf |
 | `ch82`, `ch84`, Maerz 2027 | 11 Jahre | elf |
 
-**Die harte Jahreszahl widerspricht nicht.** 2016 steht viermal, in `ch77`
-und `ch85`, und betrifft **Baeks ersten Blick auf die Wohnung** - nicht die
-Errichtung. Ein Treuhaender, der ein Jahr braucht, bis er die Immobilie
-ansieht, ist keine Ungereimtheit, sondern der Punkt der Figur.
+**Die harte Jahreszahl 2016 widerspricht an den Stellen zum urspruenglichen
+Trust nicht.** Sie bezeichnet das Instrument, die ersten vier
+Sauerstoffzahlungen und Baeks Entscheidung, danach nicht mehr zu fragen.
+
+**Die Wohnung gehoert nicht in dieses Jahr.** In `b2 ch47` ist sie seit vier
+Jahren Teil des Schedules, und in `b2 ch49` sagt Sim, sie sei sieben Jahre
+nach Moon Hae-sooks Unterbringung hinzugefuegt worden. Baeks erster Blick auf
+die Wohnung liegt deshalb 2022. `b2 ch81` trennt nun die zwei Versaeumnisse:
+2016 liest er den Trust nicht gruendlich; 2022 fragt er wegen der neuen
+Wohnung einmal nach und akzeptiert die bequeme Antwort. Der Termin am
+2. Maerz ist entsprechend vier und nicht neun Jahre spaet.
 
 **Entschieden: bleibt.** *Eleven years* ist im Buch keine Rechnung, sondern
 der **Name** der ganzen Sache - so wie *lot fourteen* keine Losnummer mehr
@@ -28823,8 +28830,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 493 | b2ch81:196 | "By somebody who was right." Baek did not move. "It is still true." |
 | 493 | b2ch81:206 | "You are not going to argue," said Baek. |
 | 493 | b2ch81:216 | Baek Jun-ho looked at him for a long moment. |
-| 493 | b2ch81:232 | "I did not do it in 2016," said Baek. |
-| 493 | b2ch81:242 | "The second of March is nine years late and it is the only appointment available." Baek .. |
+| 493 | b2ch81:232 | "I did not do it in 2022," said Baek. |
+| 493 | b2ch81:242 | "The second of March is four years late and it is the only appointment available." Baek .. |
 | 493 | b2ch81:250 | "It sits." Baek did not get up. "There is a capital sum and it is not small. It goes on .. |
 | 493 | b2ch81:254 | "In the meantime a man in this city has to write me a letter about a woman he has never .. |
 | 493 | b2ch81:274 | *He did not build it so that the payments could not be suspended. He built it so that he.. |
@@ -28878,7 +28885,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch81:116` (Tag 493) - eleven, nine, one, two
 - `b2ch81:180` (Tag 493) - one
 - `b2ch81:192` (Tag 493) - thirty-one, two
-- `b2ch81:242` (Tag 493) - four, nine, one
+- `b2ch81:242` (Tag 493) - four, one
 - `b2ch81:250` (Tag 493) - fifty
 - `b2ch81:254` (Tag 493) - thirty-one
 - `b2ch89:170` (Tag 590) - thirty-one
