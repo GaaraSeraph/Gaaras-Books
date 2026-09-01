@@ -3240,6 +3240,20 @@ freigegeben sind.
     mitwandern: **It has done exactly one thing in fifteen years that I
     intended.** Die beiden historischen Aussagen ueber vierzehn Jahre Stolz
     bleiben unveraendert.
+52. **`b2 ch03:52-90`, `b2 ch71:12,174` und `b2 ch89:156`, Mrs Sunwoos
+    unveraendertes Alter ueber mehr als ein Jahr.** Am 7. Maerz 2026 wird sie
+    mehrfach als einundachtzig bezeichnet; am 17. Dezember 2026 sagt sie es
+    noch zweimal selbst, und am 16. Mai 2027 nennt der Erzaehler sie weiterhin
+    einundachtzig. Zwischen der ersten und der letzten ausdruecklichen Nennung
+    liegen **435 Tage**. Kein Geburtstag kann dieselbe ganze Alterszahl ueber
+    diese Spanne tragen. `doc/15-kalender.md` hatte ihren erfundenen Geburtstag
+    deshalb auf den 17. November verschoben, aber gerade dieser Tag verlangt
+    ab dem 17. November 2026 das naechste Alter. Die fruehen Nennungen bis Mai
+    bleiben unveraendert; die drei spaeten Ersetzungen sind: **a woman of
+    eighty-two who counts is a woman who is waiting** und **because I am
+    eighty-two and I have stopped leaving things for later** in Kapitel 71
+    sowie **a woman of eighty-two who has been buying it for forty-one years**
+    in Kapitel 89.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

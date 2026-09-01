@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 320.179 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 320.689 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -8802,16 +8802,20 @@ trotzdem, weil eine laengere Strecke die kuerzere enthaelt - aber ein Satz,
 der sich selbst nicht mehr nachrechnen laesst, wird beim naechsten Mal
 geglaubt statt geprueft.*
 
-**Am 26.08. sind vier Alter nachgezogen worden, alle nach demselben Verfahren
+**Am 26.08. sind drei Alter nachgezogen worden, alle nach demselben Verfahren
 wie im August:** der Geburtstag ist erfunden und steht in keinem Satz
-(nachgeprueft, alle vier Daten kommen im Text nicht vor), also weicht der
-Geburtstag und nicht der Text.
+(nachgeprueft, die drei Daten kommen im Text nicht vor), also weicht der
+Geburtstag und nicht der Text. **Mrs Sunwoo war dabei faelschlich als vierter
+Fall gefuehrt worden.** Bei ihr liegen ausdrueckliche Nennungen desselben Alters
+am 7. Maerz 2026 und am 16. Mai 2027 insgesamt 435 Tage auseinander. Kein
+Geburtstag kann das aufloesen; die notwendige Manuskriptkorrektur steht offen
+in `doc/31-plan-band-2.md`, Punkt 52.
 
 | Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
 |---|---|---|---|---|
 | Baek Jun-ho | dreiundsechzig | b2 K89, 16. Mai 2027 | 26. September | **10. November** |
 | Mrs Jeon Mi-ja | einundfuenfzig | b2 K64, 1. November | 24. Juli | **15. November** |
-| Mrs Sunwoo | einundachtzig | b2 K89, 16. Mai 2027 | 29. September | **17. November** |
+| Mrs Sunwoo | einundachtzig von b2 K03 bis K89 (**Widerspruch**) | 7. Maerz 2026 und 16. Mai 2027 | 29. September | **kein moegliches Datum; siehe Punkt 52** |
 | Choi Dae-ho | sechzig | b2 K87, 18. Maerz 2027 | 8. September | **18. November** |
 
 **Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
@@ -8835,7 +8839,7 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 35 im April 2002; 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*; historische Nennungen auf 35 korrigiert |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
-| **Mrs Sunwoo** | 81 | **17. November** (war 29. September, davor 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
+| **Mrs Sunwoo** | **offen:** 81 vom 7. Maerz 2026 bis 16. Mai 2027 | **17. November** (war 29. September, davor 4. Juli) | Der Geburtstag verlangt ab 17. November 2026 das Alter 82; siehe `doc/31-plan-band-2.md`, Punkt 52. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
 | **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
@@ -17612,6 +17616,34 @@ freigegeben sind.
     Geld. Die emotionale Beobachtung in Kapitel 55 kann bleiben, wenn sie enger
     auf den neuen Unterschied gefasst wird, etwa: **That is the first time you
     have used the word we in this room about deciding for a person.**
+51. **`b2 ch83:176`, vierzehn Jahre seit Hwangs Klausel von 2011.** Am 15.
+    Oktober 2026 kann Hwangs Formulierung *I wrote it in 2011 and I was proud
+    of it for fourteen years* noch aufgehen: Wenn die Klausel nach dem 15.
+    Oktober 2011 geschrieben wurde, sind zu diesem Zeitpunkt erst vierzehn
+    volle Jahre vergangen, und der Stolz endet in diesem Gespraech. Am 25.
+    Februar 2027 sagt er jedoch im Praesens ueber dieselbe Klausel: *It has
+    done exactly one thing in fourteen years that I intended.* Seit jedem
+    moeglichen Datum im Jahr 2011 sind da mindestens fuenfzehn volle Jahre
+    vergangen; aus der Oktoberaussage folgt sogar zwingend ein Klauseldatum
+    zwischen Mitte Oktober und Jahresende 2011 und damit eine Spanne von gut
+    fuenfzehn Jahren. Nur die gegenwartsbezogene Zahl in Kapitel 83 muss
+    mitwandern: **It has done exactly one thing in fifteen years that I
+    intended.** Die beiden historischen Aussagen ueber vierzehn Jahre Stolz
+    bleiben unveraendert.
+52. **`b2 ch03:52-90`, `b2 ch71:12,174` und `b2 ch89:156`, Mrs Sunwoos
+    unveraendertes Alter ueber mehr als ein Jahr.** Am 7. Maerz 2026 wird sie
+    mehrfach als einundachtzig bezeichnet; am 17. Dezember 2026 sagt sie es
+    noch zweimal selbst, und am 16. Mai 2027 nennt der Erzaehler sie weiterhin
+    einundachtzig. Zwischen der ersten und der letzten ausdruecklichen Nennung
+    liegen **435 Tage**. Kein Geburtstag kann dieselbe ganze Alterszahl ueber
+    diese Spanne tragen. `doc/15-kalender.md` hatte ihren erfundenen Geburtstag
+    deshalb auf den 17. November verschoben, aber gerade dieser Tag verlangt
+    ab dem 17. November 2026 das naechste Alter. Die fruehen Nennungen bis Mai
+    bleiben unveraendert; die drei spaeten Ersetzungen sind: **a woman of
+    eighty-two who counts is a woman who is waiting** und **because I am
+    eighty-two and I have stopped leaving things for later** in Kapitel 71
+    sowie **a woman of eighty-two who has been buying it for forty-one years**
+    in Kapitel 89.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
@@ -22726,6 +22758,30 @@ weggeraeumt, und du bist der Zweite.**
 Georgij did not move from where he was standing.
 
 "I am not interested in whether you can justify what you did." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at sixty."
+
+**Festgelegt am 01.09.: Georgij beantwortet diesen Satz nicht mit der grossen
+Burn-down-Wahrheit.** Die Wahrheit gehoert in den Raum, aber nicht als
+souveraene, fertige Antwort an Gong; sonst gewinnt Georgij die Szene zu
+schnell. Die Antwort kommt als Zweistufe:
+
+> "As long as I am by her side," said Georgij, "the question is badly put."
+
+Gong erkennt, dass das keine Antwort ist:
+
+> "No. That is why it is correctly put."
+
+Wenn Georgij dann einen Millimeter zu viel preisgibt, darf die haertere
+Wahrheit fallen:
+
+> "I know what I will do if somebody points anything at her."
+
+Gongs Schluss darf knapp sein:
+
+> "So did Choi," said Gong.
+
+**Damit bleibt Gongs Treffer stehen.** Er widerlegt Georgij nicht, sondern
+stellt ihn neben Choi. Georgij sagt nichts Unwahres, aber er liefert genau den
+Beweis, dass die Frage berechtigt ist.
 
 **Die Alterszahlen dieses Entwurfs sind jetzt im Roman durchgezogen.** Band 2
 und `b3 ch02 v1.8` setzen Choi 2002 auf fuenfunddreissig, bei seinem Tod auf

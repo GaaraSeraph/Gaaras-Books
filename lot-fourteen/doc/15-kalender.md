@@ -686,16 +686,20 @@ trotzdem, weil eine laengere Strecke die kuerzere enthaelt - aber ein Satz,
 der sich selbst nicht mehr nachrechnen laesst, wird beim naechsten Mal
 geglaubt statt geprueft.*
 
-**Am 26.08. sind vier Alter nachgezogen worden, alle nach demselben Verfahren
+**Am 26.08. sind drei Alter nachgezogen worden, alle nach demselben Verfahren
 wie im August:** der Geburtstag ist erfunden und steht in keinem Satz
-(nachgeprueft, alle vier Daten kommen im Text nicht vor), also weicht der
-Geburtstag und nicht der Text.
+(nachgeprueft, die drei Daten kommen im Text nicht vor), also weicht der
+Geburtstag und nicht der Text. **Mrs Sunwoo war dabei faelschlich als vierter
+Fall gefuehrt worden.** Bei ihr liegen ausdrueckliche Nennungen desselben Alters
+am 7. Maerz 2026 und am 16. Mai 2027 insgesamt 435 Tage auseinander. Kein
+Geburtstag kann das aufloesen; die notwendige Manuskriptkorrektur steht offen
+in `doc/31-plan-band-2.md`, Punkt 52.
 
 | Figur | Alter im Text | zuletzt genannt | Geburtstag stand auf | jetzt |
 |---|---|---|---|---|
 | Baek Jun-ho | dreiundsechzig | b2 K89, 16. Mai 2027 | 26. September | **10. November** |
 | Mrs Jeon Mi-ja | einundfuenfzig | b2 K64, 1. November | 24. Juli | **15. November** |
-| Mrs Sunwoo | einundachtzig | b2 K89, 16. Mai 2027 | 29. September | **17. November** |
+| Mrs Sunwoo | einundachtzig von b2 K03 bis K89 (**Widerspruch**) | 7. Maerz 2026 und 16. Mai 2027 | 29. September | **kein moegliches Datum; siehe Punkt 52** |
 | Choi Dae-ho | sechzig | b2 K87, 18. Maerz 2027 | 8. September | **18. November** |
 
 **Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
@@ -719,7 +723,7 @@ benennt, steht der Posten in `doc/13-zusagen.md` auf **OFFEN**.
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 35 im April 2002; 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*; historische Nennungen auf 35 korrigiert |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
-| **Mrs Sunwoo** | 81 | **17. November** (war 29. September, davor 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
+| **Mrs Sunwoo** | **offen:** 81 vom 7. Maerz 2026 bis 16. Mai 2027 | **17. November** (war 29. September, davor 4. Juli) | Der Geburtstag verlangt ab 17. November 2026 das Alter 82; siehe `doc/31-plan-band-2.md`, Punkt 52. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
 | **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
