@@ -3226,6 +3226,20 @@ freigegeben sind.
     Geld. Die emotionale Beobachtung in Kapitel 55 kann bleiben, wenn sie enger
     auf den neuen Unterschied gefasst wird, etwa: **That is the first time you
     have used the word we in this room about deciding for a person.**
+51. **`b2 ch83:176`, vierzehn Jahre seit Hwangs Klausel von 2011.** Am 15.
+    Oktober 2026 kann Hwangs Formulierung *I wrote it in 2011 and I was proud
+    of it for fourteen years* noch aufgehen: Wenn die Klausel nach dem 15.
+    Oktober 2011 geschrieben wurde, sind zu diesem Zeitpunkt erst vierzehn
+    volle Jahre vergangen, und der Stolz endet in diesem Gespraech. Am 25.
+    Februar 2027 sagt er jedoch im Praesens ueber dieselbe Klausel: *It has
+    done exactly one thing in fourteen years that I intended.* Seit jedem
+    moeglichen Datum im Jahr 2011 sind da mindestens fuenfzehn volle Jahre
+    vergangen; aus der Oktoberaussage folgt sogar zwingend ein Klauseldatum
+    zwischen Mitte Oktober und Jahresende 2011 und damit eine Spanne von gut
+    fuenfzehn Jahren. Nur die gegenwartsbezogene Zahl in Kapitel 83 muss
+    mitwandern: **It has done exactly one thing in fifteen years that I
+    intended.** Die beiden historischen Aussagen ueber vierzehn Jahre Stolz
+    bleiben unveraendert.
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
