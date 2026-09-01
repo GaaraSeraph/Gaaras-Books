@@ -1101,15 +1101,17 @@ November is thirty-six days before the tenth of December."* Zeile 286
 behaelt *five weeks*: das ist die zusammenfassende Erzaehlung danach und
 keine Gleichsetzung. Kapitel 66 steht auf v3.3.
 
-**Und eine Spanne bleibt gemeldet, ohne ein Fehler zu sein.** `spanne.py`
-zeigt `b2 ch79:98`: Los sechs geht am 12. Februar ins Buch, die Auktion ist
-am 28. Maerz, und der Satz sagt *open for seven weeks* - das sind
-vierundvierzig Tage gegen neunundvierzig. Es geht auf, weil die sieben
-Wochen nicht bis zur Auktion laufen, sondern bis zum Ausscheiden aus dem
-Buch: das Los **hat nicht zugeschlagen** und stand danach weiter drin.
-`b2 ch52:266` sagt dasselbe unabhaengig - *stayed in it for seven weeks*.
-Wer diese Meldung wegmachen will, muesste einen der beiden Saetze
-faelschen.
+**Die Siebenwochen-Spanne hat zwei verschiedene Enden, und eine Stelle
+vermischt sie.** `spanne.py` zeigt `b2 ch79:98`: Los sechs geht am 12.
+Februar ins Buch, die Auktion ist am 28. Maerz, und der Satz sagt *open for
+seven weeks* - das sind vierundvierzig Tage gegen neunundvierzig. Die sieben
+Wochen insgesamt koennen tragen, weil das Los **nicht zugeschlagen hat** und
+erst danach aus dem Buch genommen wurde: sieben Wochen nach dem 12. Februar
+enden am 2. April, weiterhin *in the spring*. `b2 ch52:136,266` bestaetigt
+diese Gesamtdauer. `b2 ch52:96` sagt dagegen ausdruecklich *for seven weeks
+before the sale* und ist damit falsch; vor der Auktion liegen sechs Wochen
+und zwei Tage. Der kleinste Manuskriptersatz steht offen in
+`doc/31-plan-band-2.md`.
 
 ## Elf Jahre: gemessen am 28.08., und bewusst stehengelassen
 

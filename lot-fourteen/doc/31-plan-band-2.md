@@ -3202,6 +3202,16 @@ freigegeben sind.
     never been worth anything before.** / **A man who has been month to month
     for seven years is offered five years at the same rent, by an agent who
     suggested it himself.**
+49. **`b2 ch52:92-100` gegen `b2 ch52:136,266` und `b2 ch79:98`,
+    Los sechs vor und nach der Auktion.** Das Los geht am 12. Februar in das
+    Buch; die Auktion ist am 28. Maerz. Dazwischen liegen vierundvierzig Tage,
+    also sechs Wochen und zwei Tage. Die drei Angaben, das Los habe insgesamt
+    sieben Wochen im Buch gestanden, koennen trotzdem tragen: sieben Wochen
+    nach dem 12. Februar enden am 2. April, und die Entfernung wird nur als
+    *in the spring* datiert. Nur Kapitel 52 bindet dieselbe Dauer
+    ausdruecklich an die Zeit **vor** der Auktion. Der kleinste Ersatz trennt
+    die beiden Spannen: **She was catalogued, and held, and open, for six
+    weeks before the sale at which she was not sold.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 
