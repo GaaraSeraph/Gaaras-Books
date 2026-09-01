@@ -3171,6 +3171,15 @@ freigegeben sind.
     Mitteilung faelschlich in den Januar; Januar plus acht Wochen koennte zudem
     nicht bis Mai reichen. Der kleinste Ersatz ist: **In March I was told I had
     twenty-three years and eight weeks.**
+46. **`b2 ch59:56` gegen `b2 ch57:4,72-290`, Sims Wissen um den
+    Dachsatz.** Kapitel 57 spielt am 27. August. Georgij erklaert Sim dort den
+    ganzen Zusammenhang, nennt beide Namen und bleibt im Raum, waehrend Sim den
+    Satz noch am selben Abend an Ahn Jung-hee weitergibt. Kapitel 59 datiert den
+    Augenblick, ab dem Sim wusste, wofuer seine Anrufe dienten, ohne weiteres
+    Ereignis auf den 7. September. Sein naechster Kontakt ist erst der in
+    Kapitel 57 angekuendigte 14. September. Der kleinste Ersatz ist: **A man who
+    telephoned that house four times a year about a shed roof and did not know
+    what he was for until the twenty-seventh of August.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

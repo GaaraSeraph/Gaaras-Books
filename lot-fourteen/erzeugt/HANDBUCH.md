@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.255 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 319.426 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1843,7 +1843,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Moon Hae-sook** | **Die zweite Frau in demselben Haus, ohne Losnummer** | Zweiundfuenfzig. Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft; Mutter starb im Oktober. Hochzeit in der zweiten Aprilwoche, zurueckgezogen in der zweiten Maerzwoche vor elf Jahren, per Karte, elf Woerter | B2 43 (als *die Frau am Sauerstoff*), Name in B2 66 | **Elf Jahre, Sauerstofftank, ein Arzt, der nie fuer sie abgerechnet hat.** Sie wurde nie verkauft, sie wird gehalten - also ist sie nicht kaufbar (B2 74) |
 | **Mrs Ha** | **Floristin und Waeschelieferantin fuer Hochzeitssaele** | In ihren Sechzigern, dreissig Jahre im Gewerbe, hat diese Hochzeit gemacht. **Hiess beim Schreiben zuerst Mrs Im** (es gibt einen Mr Im im Haushalt) | B2 72 | Eine der vier, die seit elf Jahren schweigen - **und die einzige, die nichts mehr hat.** Georgij geht am 21. Dezember zu ihr nach Mapo und laesst ihr die Entscheidung, Choi anzurufen, ausdruecklich selbst |
 | **Mr Im (Mullae)** | **Ehemaliger Firmeninhaber**, arbeitet weiter im leeren Buero ueber einer Druckerei | Siebenundfuenfzig. Seine Firma ging in den zwei Jahren nach Chois Essen vor sechs Jahren unter; den alten Kalender bewahrt er im Schreibtisch auf | B2 75 | **Nicht Mr Im aus Annies Wartungsrota.** Ruft am 30. Dezember seinen seit dreissig Jahren bekannten Bekannten an; bis April folgen vier Essen. Die falsche Epilogklammer ist offen in `doc/31-plan-band-2.md` |
-| **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
+| **Sim** | **Chois Haende.** Dreissig Jahre Fixer | Dreiundsechzig. Sein Instrument ist die Freundlichkeit, und er weiss es seit dem 1. August | B2 31 | **Gedreht, nicht umgedreht.** Erfaehrt den Zweck des Dachsatzes am 27. August und ruft am 14. September wieder an; der falsche 7. September in `b2 ch59` ist offen in `doc/31-plan-band-2.md` |
 | **Chu Sang-cheol** | **Der Halter.** Fuehrt das Haus in Gangwon-do, in dem beide Frauen gehalten werden - Lease, neun Leute auf einer Rota, vier Wagen. **Nicht Mrs Ryu aus Band 1** | Haelt Moon seit elf Jahren und Ahn seit vier, zu einem Satz aus dem Jahr der Vereinbarung. Verkauft Ahn in sechsundzwanzig Stunden | B2 59 (genannt), B2 63 (handelt) | **Erledigt.** Behaelt die, fuer die bezahlt wird |
 | **Mr Yeom** | **Haelt zehn Firmen ohne Personal**, dritte Etage in Jung-gu | Kennt Sims Namen und gibt ihn nicht her. Hat vier Jahre Quartalsmappen gelesen, ohne es jemandem zu sagen | B2 24 | **Aktiv. Wird in Band 3 Freund** - festgelegt am 29.08., siehe `doc/32-plan-band-3.md` |
 | **Mr Hwang** | **Fuehrt das Auktionshaus.** Der Sanierer | Fuenfundfuenfzig im Februar 2027; seit seinem dreissigsten Lebensjahr der Mann, der alles verwahrt. Fuehrt das Haus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
@@ -8994,6 +8994,10 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   Kauf vom 4. Januar bis 19. Februar selbst abgewickelt - zehn Wochen nachdem
   Hwang die Praxis abgestellt zu haben glaubte. Hwang findet im Dezember drei
   Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
+- **Sim weiss am 27. August, wofuer er telefoniert.** Georgij erklaert ihm an
+  diesem Tag beide Frauen und den Dachsatz; Sim fuehrt den Anruf noch am selben
+  Abend aus. Kapitel 59 verschiebt diese Erkenntnis faelschlich auf den 7.
+  September; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
 - **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
   Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
   wouldn't protect you."* - gesagt hatte er es nirgends. Statt den
@@ -17533,6 +17537,15 @@ freigegeben sind.
     Mitteilung faelschlich in den Januar; Januar plus acht Wochen koennte zudem
     nicht bis Mai reichen. Der kleinste Ersatz ist: **In March I was told I had
     twenty-three years and eight weeks.**
+46. **`b2 ch59:56` gegen `b2 ch57:4,72-290`, Sims Wissen um den
+    Dachsatz.** Kapitel 57 spielt am 27. August. Georgij erklaert Sim dort den
+    ganzen Zusammenhang, nennt beide Namen und bleibt im Raum, waehrend Sim den
+    Satz noch am selben Abend an Ahn Jung-hee weitergibt. Kapitel 59 datiert den
+    Augenblick, ab dem Sim wusste, wofuer seine Anrufe dienten, ohne weiteres
+    Ereignis auf den 7. September. Sein naechster Kontakt ist erst der in
+    Kapitel 57 angekuendigte 14. September. Der kleinste Ersatz ist: **A man who
+    telephoned that house four times a year about a shed roof and did not know
+    what he was for until the twenty-seventh of August.**
 
 ### Verifizierte Gegenprobe: der Wissenskreis in Kapitel 87
 

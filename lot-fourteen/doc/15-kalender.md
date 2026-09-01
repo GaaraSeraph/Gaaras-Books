@@ -887,6 +887,10 @@ offen blieb in `doc/31-plan-band-2.md`. Die Zahlen und Tatsachen, die ab jetzt g
   Kauf vom 4. Januar bis 19. Februar selbst abgewickelt - zehn Wochen nachdem
   Hwang die Praxis abgestellt zu haben glaubte. Hwang findet im Dezember drei
   Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
+- **Sim weiss am 27. August, wofuer er telefoniert.** Georgij erklaert ihm an
+  diesem Tag beide Frauen und den Dachsatz; Sim fuehrt den Anruf noch am selben
+  Abend aus. Kapitel 59 verschiebt diese Erkenntnis faelschlich auf den 7.
+  September; die Manuskriptkorrektur ist in `doc/31-plan-band-2.md` offen.
 - **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
   Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
   wouldn't protect you."* - gesagt hatte er es nirgends. Statt den
