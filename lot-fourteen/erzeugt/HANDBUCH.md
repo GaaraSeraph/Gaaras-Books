@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 311.006 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 311.088 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1387,13 +1387,14 @@ nicht unwahr sein. *"Please guide me"* behauptet nichts; wer sie stellt,
 ohne die Antwort zu wollen, hat nichts Falsches gesagt. Deshalb ueberlebt
 die Marotte ihren eigenen Zweckwechsel, ohne dass die Grundregel bricht.
 
-**Der letzte Gegner bekommt die neue Fassung, zweimal in einem Raum.** In
-`b2 ch86:82` steht sie am Anfang, und ein Mann, der fuenfundzwanzig Jahre
-lang diese Frage ueber jeden in diesem Land beantworten konnte, hat drei
-Sekunden lang **keinen Namen**. Am Ende desselben Kapitels, `ch82:506`,
-steht sie in ihrer offenen Form: *"I would like your guidance, since you
-are the expert in the room and I am only the one who arranged it."* Dort
-fragt niemand mehr etwas. Dort wird abgerechnet.
+**Der letzte Gegner bekommt die neue Fassung zweimal in einem Raum.** In
+`b2 ch86:78` kommt zuerst die alte Frage ohne Einleitung zurueck: *"Who should
+I be careful of?"* Ein Mann, der fuenfundzwanzig Jahre lang diese Frage ueber
+jeden in diesem Land beantworten konnte, hat drei Sekunden lang **keinen
+Namen**. Am Ende desselben Kapitels, `b2 ch86:416`, liegt die offene Fassung:
+*"You are the expert in this room, and I am only the man who arranged it."*
+Dann erst: *"Please guide me. How does a man with nothing left escape a thing
+he cannot see coming?"* Dort fragt niemand mehr etwas. Dort wird abgerechnet.
 
 **Die Probe fuer jede neue Szene mit dieser Frage:**
 
@@ -2851,7 +2852,7 @@ und niemand muss ihn zitieren.
 ---
 
 119. **Sim**, dreiundsechzig, Buero in Jongno seit neunzehn Jahren, **vier Menschen sind je dort gewesen.** Er hat in elf Jahren **keine einzige Rechnung gesehen** und kann keine sehen: *"a receipt is a piece of paper with two names on it."* Sein Kanon aus Mrs Baes Mund: *"He pays first, in an envelope, and he has never once queried a bill or asked for a receipt."*
-120. **Sims Messgeraet, und es ist sein Instrument von innen:** *"A man who is kept waiting fidgets, and a man who fidgets is asking for something, and I have never in my working life asked anybody for anything. So I count. It keeps the face still."*
+120. **Sims Messgeraet, und es ist sein Instrument von innen:** *"It went eleven rings. Nobody in this country lets a telephone go eleven rings, and I sat two metres from it and counted them, because counting is what I do while I am not doing anything."*
 121. **Sim ist nach dem 14. September fertig - festgelegt.** Er macht den Anruf und so viele weitere, wie sie braucht, **und danach laesst er sich von niemandem mehr benutzen, auch nicht von Georgij und auch nicht fuer den besten Grund.**
 122. **In dreissig Jahren ist Sim nie irgendwohin geschickt worden, um unangenehm zu sein.** Vierhundertmal geschickt worden, um gemocht zu werden. **Und er ist nie belogen worden:** *"He has never once needed to lie to me."*
 123. **Mr Ahn** ist **neununddreissig**, nicht fuenfundvierzig. Georgij hat ihn auf fuenfundvierzig gelesen und **irrt sich nie um mehr als ein Jahr** - das ist ein Takt und kein Fehler.
@@ -2877,14 +2878,14 @@ und niemand muss ihn zitieren.
   was making."* Sicher ist nur, dass er den Mann nahm und mit der eigenen
   Menschenkenntnis zufrieden war. Der fruehere Satz, er habe genau gewusst,
   was er sah, war unbelegt und zu hart.
-140. **Warum die Form elf Jahre erklaert:** *"A man who bought his position guards it. A man who was given it does not, because he has never once been asked to account for it."*
-141. **DIE WAND, DIE DEN BAND TRAEGT:** *"a thing that was given has no price, and a man who has no price cannot be bought out, and I have been building the wrong instrument since March."*
+140. **Warum die Form elf Jahre erklaert:** Annies Vater gab Choi *"something he had not asked for and could not hand back"*; danach konnte der Mann nie sagen, was mit ihm gemacht worden war. Das erklaert die Bindung, entschuldigt aber keine seiner spaeteren Entscheidungen.
+141. **DIE WAND, DIE DEN BAND TRAEGT:** *"Everything that man has done since is his own. The room eleven years ago is his. The woman on the oxygen is his. The lot number in the box where the name goes is his, and Ahn Jung-hee is his, and none of it is a debt that came down to you."*
 142. **Was Annie mit dreissig verstanden hat, ist nicht, dass Choi gefaehrlich war, sondern dass er angekommen ist** - dass er nicht immer da war, und dass nie jemand gefragt hat, wie.
 143. **Und der Grund fuer den ganzen Band:** sie hat es Georgij gegeben, weil er der Einzige ist, der es herausfinden kann **und niemanden hat, dem er es sagen koennte.** *"You were not investigating him. You were paying something."*
 144. **Der Trust wurde in der zweiten Maerzwoche vor elf Jahren gestiftet.** Choi kam persoenlich, blieb etwa zwanzig Minuten, **brachte keinen Anwalt und brauchte keinen.**
 145. **Die zwei Klauseln, und sie sind das Zentrum:** der Treuhaender darf **nicht verpflichtet werden, die Beguenstigte zu informieren**, und **die Zahlungen koennen von ihm nicht gestoppt werden** - nicht vom Nachlass, nicht von einem Nachfolger, nicht per Vollmacht. *"Him, personally, in his lifetime."*
 146. **Baeks Urteil, und er faellt es ausdruecklich nicht:** *"It is either the only decent thing that man has ever done, or the most complete thing I have ever seen one person do to another. It is possible that there is no difference."*
-147. **Vierundvierzig Unterschriften in elf Jahren**, vierteljaehrlich an einen Gaselieferanten, monatlich an eine Privatpraxis, gegen **eine** Adresse. **Kein Name, nie einer.** *"Sie hat keine Zeile im Auktionshaus und elf Jahre Zeilen in einer Anwaltsakte."*
+147. **Vierundvierzig Unterschriften bis zum 4. November, fuenfundvierzig bis zum 14. Januar**, vierteljaehrlich fuer den Sauerstoff. Davon getrennt steht genau **eine** Arztrechnung im Juli vor vier Jahren. Die Daueranweisung lief zuerst gegen eine Adresse und wurde am 1. Dezember an das Haus am Fluss verlegt. **Kein Name, nie einer.** *"Sie hat keine Zeile im Auktionshaus und elf Jahre Zeilen in einer Anwaltsakte."*
 148. **Die Adressaenderung: genau einmal, zweite Februarwoche vor vier Jahren - derselbe Monat, in dem Ahn Jung-hee in das Haus kam.** Baek: *"Somebody put them under one roof to save on a heating bill."* Die Sauerstoffmeldung folgte im Juli desselben Jahres.
 149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
 150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
