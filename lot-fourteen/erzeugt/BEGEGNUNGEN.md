@@ -3464,7 +3464,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch86:362 | "There are two places at that table," said Choi Dae-ho. |
 | 531 | b2ch86:378 | Choi Dae-ho stood at the window of a small room in somebody else's house. |
 | 531 | b2ch86:394 | Choi Dae-ho put a hand flat on the glass and took it away again, and the mark stayed on .. |
-| 531 | b2ch86:404 | "There were twenty-six people at that table," said Georgij, "and by about a quarter past.. |
+| 531 | b2ch86:404 | "There are twenty-six people at that table, and most of them have worked out what the ot.. |
 | 531 | b2ch86:406 | "No," said Choi Dae-ho. "There was not." |
 | 531 | b2ch86:412 | Choi Dae-ho looked at the glass and not at anything through it. |
 | 531 | b2ch86:422 | Choi Dae-ho did not have an answer. |
@@ -3516,7 +3516,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch86:252` (Tag 531) - twenty-five
 - `b2ch86:324` (Tag 531) - four
 - `b2ch86:362` (Tag 531) - two
-- `b2ch86:404` (Tag 531) - four, nine, one, twenty-five, twenty-six
+- `b2ch86:404` (Tag 531) - four, one, twenty-five, twenty-six
 - `b2ch86:442` (Tag 531) - one
 - `b2ch87:138` (Tag 531) - eleven
 - `b2ch87:292` (Tag 531) - eight, three

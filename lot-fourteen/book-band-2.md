@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.604 Woerter.
+Book Two, 90 Kapitel, 232.603 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -96,7 +96,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 83 | v3.6 | 2.936 |
 | 84 | v3.5 | 2.147 |
 | 85 | v3.3 | 2.593 |
-| 86 | v3.24 | 3.901 |
+| 86 | v3.25 | 3.900 |
 | 87 | v3.23 | 4.141 |
 | 88 | v3.7 | 3.368 |
 | 89 | v4.1 | 1.995 |
@@ -19265,7 +19265,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.24 · EN
+*Lot Fourteen* · Version 3.25 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19305,7 +19305,7 @@ He had asked for the table in the passage at eight and he had asked for two plac
 
 Choi Dae-ho sat down about four seconds afterwards, because a man of that sort does not go on standing over somebody who has stopped.
 
-It was twenty to ten. Neither of them put a hand on anything on that table at any point, and neither of them said a word about it for the next half hour.
+It was twenty to ten. Neither of them put a hand on anything on that table at any point, and neither of them said a word about it for the next ten minutes.
 
 "Then I will ask you something before you start," he said, "and you may refuse it and I will not ask twice."
 
@@ -19667,7 +19667,7 @@ Georgij did not get up.
 
 The four cars on the drive did not do anything.
 
-"There were twenty-six people at that table," said Georgij, "and by about a quarter past nine every one of them had worked out what the other twenty-five had in common. Nobody said your name. Nobody is going to." Choi Dae-ho went on looking at four cars on a drive. "You are very good at reading a room and I watched you read that one in four minutes, and you got it right, and there was nothing you could do with it."
+"There are twenty-six people at that table, and most of them have worked out what the other twenty-five have in common," said Georgij. "Four are still getting there. Nobody has said your name. Nobody is going to." Choi Dae-ho went on looking at four cars on a drive. "You are very good at reading a room and I watched you read that one in four minutes, and you got it right, and there was nothing you could do with it."
 
 "No," said Choi Dae-ho. "There was not."
 
