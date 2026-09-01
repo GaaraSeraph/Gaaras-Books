@@ -2829,3 +2829,15 @@ freigegeben sind.
     Zeit- und Preisarchitektur in Kapitel 61; Oktober verlangt den Umbau der
     zweiten Haelfte von Kapitel 35 sowie **since June** in Kapitel 87. Der
     Kalender markiert beide Daten bis zur Manuskriptfreigabe als offen.
+17. **`b2 ch35:196-252` gegen `b2 ch59:260` und `b2 ch83:292`, Mrs Jeons
+    Brief an Hwang.** Die signierte Seite selbst traegt **15 June**. Kapitel 35
+    nennt den 15. Juni ihren ersten Arbeitstag, sagt, sie habe das Blatt an
+    diesem Morgen geschrieben, und laesst denselben Brief mit
+    Gwangyang-Poststempel schon um neun Uhr in Seoul in Mrs Seos Morgenpost
+    liegen. Das ist raeumlich nicht moeglich. Kapitel 59 und 83 nennen das
+    Datum zudem zweimal den **fourteenth of June**. Der kleinste saubere Ablauf
+    erhaelt die eigenhaendige Datierung: Mrs Jeon schreibt am Montag, dem 15.;
+    der zweite Tageskopf in Kapitel 35 wird auf Dienstag, den 16. Juni, gestellt
+    und Mrs Seos Wochentag mitgezogen; beide spaeteren Rueckblicke werden
+    **fifteenth of June**. Kapitel 36 beginnt erst am Mittwoch, dem 17., die
+    Korrektur erzeugt also keine Kapitelueberschneidung.

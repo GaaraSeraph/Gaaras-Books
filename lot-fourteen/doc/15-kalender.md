@@ -406,10 +406,14 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
   liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
   dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 30)
-- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang, und ein
-  Brief kommt mit Gwangyang-Poststempel an: das Blatt, das sie Hwang schuldig
-  war, datiert auf denselben Morgen.** *"He was correct about the desk. He was
-  wrong about the book."* Georgij haendigt es Hwang **nicht** aus - es sollte
+- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang.** Das Blatt,
+  das sie Hwang schuldig war, ist auf denselben Morgen datiert: *"He was correct
+  about the desk. He was wrong about the book."* Kapitel 35 laesst den Brief mit
+  Gwangyang-Poststempel jedoch schon an diesem Morgen um neun in Seoul ankommen;
+  Kapitel 59 und 83 nennen sein Datum abweichend den 14. Juni. **Diese Kette ist
+  offen.** Der kleinste widerspruchsfreie Ablauf ist: Schreiben am 15., Ankunft
+  am Dienstag, dem 16., und beide spaeteren Rueckblicke ebenfalls auf den 15.
+  Georgij haendigt das Blatt Hwang **nicht** aus - es sollte
   existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
   seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
   aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 31)

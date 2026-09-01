@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.256 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.438 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -8477,10 +8477,14 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
   liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
   dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 30)
-- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang, und ein
-  Brief kommt mit Gwangyang-Poststempel an: das Blatt, das sie Hwang schuldig
-  war, datiert auf denselben Morgen.** *"He was correct about the desk. He was
-  wrong about the book."* Georgij haendigt es Hwang **nicht** aus - es sollte
+- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang.** Das Blatt,
+  das sie Hwang schuldig war, ist auf denselben Morgen datiert: *"He was correct
+  about the desk. He was wrong about the book."* Kapitel 35 laesst den Brief mit
+  Gwangyang-Poststempel jedoch schon an diesem Morgen um neun in Seoul ankommen;
+  Kapitel 59 und 83 nennen sein Datum abweichend den 14. Juni. **Diese Kette ist
+  offen.** Der kleinste widerspruchsfreie Ablauf ist: Schreiben am 15., Ankunft
+  am Dienstag, dem 16., und beide spaeteren Rueckblicke ebenfalls auf den 15.
+  Georgij haendigt das Blatt Hwang **nicht** aus - es sollte
   existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
   seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
   aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 31)
@@ -12919,7 +12923,7 @@ gegengeprüft.*
 | **68** *(jetzt zweite Haelfte von 67)* | *What he was for* | **Tragend.** Sims Wende, sein Ausstieg, der 14. September | HALTEN |
 | **69** | *The call he did not take* | **Tragend.** Zwei überfällige Zusagen bezahlt, Kwon in der Auffahrt, Annies Diagnose | HALTEN |
 | **70** | *Nothing to bring* | **Tragend.** Mr Ahn liest den Satz, die Zusage aus 59 bezahlt, der Ventilator angelegt | HALTEN |
-| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die Seite vom 14. Juni, die erste Stunde vergeben | STRAFFEN |
+| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die signierte Seite vom 15. Juni; zwei spaetere Rueckblicke sagen noch 14. Juni, siehe `doc/31-plan-band-2.md` | STRAFFEN |
 | **72** | *The fourteenth* | **Tragend.** November, der Namensdank, Register B 8 | HALTEN |
 | **73** | *What the month is for* | Die Umkehrung der Lesart, die vier Tatsachen, der Auftrag an Sim | STRAFFEN |
 | **74** | *Forty-one seconds* | **Tragend.** Sims Zählung, die Entlastung, die zweite Frau, und sie fragt | STRAFFEN |
@@ -17115,6 +17119,18 @@ freigegeben sind.
     Zeit- und Preisarchitektur in Kapitel 61; Oktober verlangt den Umbau der
     zweiten Haelfte von Kapitel 35 sowie **since June** in Kapitel 87. Der
     Kalender markiert beide Daten bis zur Manuskriptfreigabe als offen.
+17. **`b2 ch35:196-252` gegen `b2 ch59:260` und `b2 ch83:292`, Mrs Jeons
+    Brief an Hwang.** Die signierte Seite selbst traegt **15 June**. Kapitel 35
+    nennt den 15. Juni ihren ersten Arbeitstag, sagt, sie habe das Blatt an
+    diesem Morgen geschrieben, und laesst denselben Brief mit
+    Gwangyang-Poststempel schon um neun Uhr in Seoul in Mrs Seos Morgenpost
+    liegen. Das ist raeumlich nicht moeglich. Kapitel 59 und 83 nennen das
+    Datum zudem zweimal den **fourteenth of June**. Der kleinste saubere Ablauf
+    erhaelt die eigenhaendige Datierung: Mrs Jeon schreibt am Montag, dem 15.;
+    der zweite Tageskopf in Kapitel 35 wird auf Dienstag, den 16. Juni, gestellt
+    und Mrs Seos Wochentag mitgezogen; beide spaeteren Rueckblicke werden
+    **fifteenth of June**. Kapitel 36 beginnt erst am Mittwoch, dem 17., die
+    Korrektur erzeugt also keine Kapitelueberschneidung.
 
 ---
 

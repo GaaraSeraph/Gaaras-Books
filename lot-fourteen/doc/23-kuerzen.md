@@ -330,7 +330,7 @@ gegengeprüft.*
 | **68** *(jetzt zweite Haelfte von 67)* | *What he was for* | **Tragend.** Sims Wende, sein Ausstieg, der 14. September | HALTEN |
 | **69** | *The call he did not take* | **Tragend.** Zwei überfällige Zusagen bezahlt, Kwon in der Auffahrt, Annies Diagnose | HALTEN |
 | **70** | *Nothing to bring* | **Tragend.** Mr Ahn liest den Satz, die Zusage aus 59 bezahlt, der Ventilator angelegt | HALTEN |
-| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die Seite vom 14. Juni, die erste Stunde vergeben | STRAFFEN |
+| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die signierte Seite vom 15. Juni; zwei spaetere Rueckblicke sagen noch 14. Juni, siehe `doc/31-plan-band-2.md` | STRAFFEN |
 | **72** | *The fourteenth* | **Tragend.** November, der Namensdank, Register B 8 | HALTEN |
 | **73** | *What the month is for* | Die Umkehrung der Lesart, die vier Tatsachen, der Auftrag an Sim | STRAFFEN |
 | **74** | *Forty-one seconds* | **Tragend.** Sims Zählung, die Entlastung, die zweite Frau, und sie fragt | STRAFFEN |
