@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.941 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 310.995 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1450,8 +1450,10 @@ wenig wie er. Das war der Grund, warum offenblieb, ob Nam Byung-hee ueberlebt.
 Band 2, Kapitel 15, der 23. April: **vier dafuer, eine dagegen, Cho enthaelt
 sich.** Sie verliert den Vorsitz, sie sagt im Raum die Wahrheit, als eine Luege
 sie gerettet haette, und danach stapelt sie die Stuehle. Georgij hat den Ausgang
-vorher an Woo benannt (*"Her nothing."*, Kapitel 13). **Nach Kapitel 22 kommt
-sie in Band 2 nicht mehr vor.** Die Frage steht hier ab jetzt nicht mehr offen.
+vorher an Woo benannt (*"Her nothing."*, Kapitel 13). **In Kapitel 73 kehrt
+Georgij im Dezember zu ihr zurueck; Kapitel 84 verbucht ihre Zusage vom 5.
+Januar, und in Kapitel 85 und 87 sitzt sie in Annies Haus und zieht selbst den
+Schlussstrich. Die Frage steht hier ab jetzt nicht mehr offen.**
 
 **Und der dritte Auslöser, ab Band 2:** dass jemand **Annie** angreift, und
 zwar besonders dann, wenn die Waffe **er selbst** ist. Nam Byung-hee, 18. März.
@@ -1802,7 +1804,7 @@ die beim Planen zaehlt.
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
 | **Choi Dae-ho** | **Der Mann hinter den Abendessen.** Ehemaliger Staatsanwalt, 2002 aus dem Dienst geholt | Neunundfuenfzig bei Georgijs Eintrag am 27. Mai 2026, sechzig ab 18. November und bei seinem Tod; im April 2002 fuenfunddreissig. Sitzt in nichts, besitzt nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 89 bestaetigt seinen Tod am 8. April; B2 90 laesst Georgij die eigene Verantwortung und den Kollateralschaden aussprechen. Die historische Altersfolge ist im Roman korrigiert |
-| **Nam Byung-hee** | **Spediteurin aus Ulsan** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
+| **Nam Byung-hee** | **Spediteurin aus Ulsan** | Vier Lastwagen und ein Neffe | B2 8 | **Abgeschlossen in B2 87.** Sie verliert Firma und Vorsitz, sagt am 5. Januar zu und benennt am 18. Maerz selbst, was sie nicht zurueckbekommt |
 | **Kang Ji-hoon** | **Beamter im Ministerium fuer Land und Infrastruktur**, mittlere Ebene | | B1 10 | Ruht |
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
 | **Minister Min-ho** | **Der Minister.** Ueber Choi mit Sang-hoon verbunden | Der Preis | B1 - | Ruht |
@@ -2215,10 +2217,11 @@ nichts Neues gibt.
 **Der Vorname ist bewusst androgyn.** Im Schriftverkehr wird sie fuer einen Mann
 gehalten, und das ist brauchbar.
 
-**Entschieden, und zwar im Text, nachgetragen am 25.08.** Ihr erster Raum ist
-Band 2, Kapitel 15, der 23. April: vier dafuer, eine dagegen, Cho enthaelt sich.
-Nach Kapitel 22 kommt sie in Band 2 nicht mehr vor. Siehe `doc/11-figuren.md`. Annies Vetorecht ueber Routen erdrosselt
-sie seit Januar. Wer nur eine Lane hat, macht keine Triage, sondern
+**Entschieden, und zwar im Text, nachgetragen am 25.08.** Ihr erster Raum mit
+den sechs Firmen ist Band 2, Kapitel 15, der 23. April: vier dafuer, eine
+dagegen, Cho enthaelt sich. **Ihr eigener erster Auftritt steht in Kapitel 8;
+spaeter kehrt sie in Kapitel 73, 84, 85 und 87 zurueck.** Annies Vetorecht ueber
+Routen erdrosselt sie seit Januar. Wer nur eine Lane hat, macht keine Triage, sondern
 Verzweiflung - **der genaue Gegenentwurf zu Sang-hoon, der Information nie
 ausgibt.** Sie gibt alles am Tag aus, an dem sie es bekommt, und deshalb ist
 nichts, was sie erfaehrt, zurueckkaufbar. **Und sie luegt nicht** - das war der
