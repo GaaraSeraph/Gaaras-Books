@@ -349,7 +349,10 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
 - Tag 237, Do 28. Mai: **das Haus am Fluss, fast leer.** Mr Hwang gibt die
   Adresse her - und ungefragt den 9. Januar: **Mrs Jeon hat ihm ein
   Schulheft hingehalten, und er hat es nicht angefasst.** Ihr letzter Tag war
-  der 12. Mai (Band 2, Kapitel 26)
+  der 12. Mai (Band 2, Kapitel 26). **Der 9. Januar liegt im selben Jahr 2026:**
+  Die Rueckblicke in Kapitel 80 und 83 verschieben diesen Gang mit *four years
+  ago* faelschlich nach Januar 2023. Dort muss **last year** stehen; offen in
+  `doc/31-plan-band-2.md`.
 - Tag 238, Fr 29. Mai: **die Wohnung vier Haltestellen draussen.** Er bezahlt
   ihren Preis vom 16. Maerz mit dem Einzigen, was er hat: **er sagt ihr, dass er
   auf der Seite steht.** Und bekommt Los sechs, die Fruehjahrsauktion vor vier

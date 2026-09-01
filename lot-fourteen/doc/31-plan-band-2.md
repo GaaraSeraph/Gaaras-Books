@@ -2897,3 +2897,16 @@ freigegeben sind.
     thirty-one years"* muss deshalb **thirty-two years** werden. Die im selben
     Kapitel genannten einunddreissig Jahre Bekanntschaft mit dem Mann von der
     Law Society sind eine getrennte Spanne und koennen stehenbleiben.
+23. **`b2 ch80:338` und `b2 ch83:310` gegen `b2 ch26:98` und `b2 ch35:224`,
+    Mrs Jeons Gang in den dritten Stock.** Mrs Jeon brachte Mr Hwang ihr Heft
+    am 9. Januar 2026. Kapitel 26 erzaehlt den Vorgang am 28. Mai desselben
+    Jahres als etwas, ueber das sie seither jeden Tag nachgedacht hat; Kapitel
+    35 haelt den 9. Januar in ihrer eigenen unterschriebenen Darstellung fest.
+    Kapitel 80 spielt am 4. Februar 2027 und nennt den Gang trotzdem *"in
+    January four years ago"*; Kapitel 83 wiederholt am 25. Februar bzw. 1.
+    Maerz 2027 *"on the ninth of January four years ago"*. Damit wird ein
+    dreizehn bis vierzehn Monate alter Vorgang irrtuemlich nach Januar 2023
+    verschoben. Das Heft selbst reicht dreiundzwanzig Jahre zurueck und enthaelt
+    Eintraege von vor vier Jahren; **sein Weg zu Hwang tut es nicht.** Die
+    kleinsten Korrekturen sind in Kapitel 80 **in January last year** und in
+    Kapitel 83 **on the ninth of January last year**.

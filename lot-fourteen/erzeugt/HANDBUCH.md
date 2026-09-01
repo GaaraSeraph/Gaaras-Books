@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 314.281 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 314.491 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1837,7 +1837,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Koh** | **Ladungsbesichtiger.** Geht mit Lampe und Klemmbrett in einen Laderaum und unterschreibt danach, wem das Geld gehoert (`b2 ch35:6`) | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Mr Pyeon** | **Fuhrunternehmer in Yangsan**, drei Pritschenwagen | Einer der fünf. Die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | **Wachmann im Haus in Gangwon-do**, der erste neue in vier Jahren | Seit Ende August dort | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
-| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Ab 1. Oktober in Gwangyang; am 4. November liest sie Ahn Jung-hee die erste Stunde vor (B2 65)** |
+| **Mrs Jeon Mi-ja** | **Abrechnerin**, dreiundzwanzig Jahre, seit dem 12. Mai draussen | Einundfuenfzig | B2 6 | **Am 9. Januar 2026 trug sie ihr Heft zu Hwang hinauf.** Ab 1. Oktober in Gwangyang; am 4. November liest sie Ahn Jung-hee die erste Stunde vor (B2 65). Die spaeteren Rueckblicke mit *four years ago* sind offen in `doc/31-plan-band-2.md` |
 | **Mr Byun** | **Fuehrte sechsundzwanzig Jahre das Register des Auktionshauses** | *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
 | **Mrs Bae** | **Empfangsdame**, fuehrt das Buchungsbuch mit Bleistift. **Nicht Bae aus Band 1** | Zweiundzwanzig Jahre am Empfang | B2 41 | Gegeben, was sie hatte |
 | **Mr Sohn** | **Koch.** Kocht ohne Schild fuer Stammgaeste | Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
@@ -8430,7 +8430,10 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
 - Tag 237, Do 28. Mai: **das Haus am Fluss, fast leer.** Mr Hwang gibt die
   Adresse her - und ungefragt den 9. Januar: **Mrs Jeon hat ihm ein
   Schulheft hingehalten, und er hat es nicht angefasst.** Ihr letzter Tag war
-  der 12. Mai (Band 2, Kapitel 26)
+  der 12. Mai (Band 2, Kapitel 26). **Der 9. Januar liegt im selben Jahr 2026:**
+  Die Rueckblicke in Kapitel 80 und 83 verschieben diesen Gang mit *four years
+  ago* faelschlich nach Januar 2023. Dort muss **last year** stehen; offen in
+  `doc/31-plan-band-2.md`.
 - Tag 238, Fr 29. Mai: **die Wohnung vier Haltestellen draussen.** Er bezahlt
   ihren Preis vom 16. Maerz mit dem Einzigen, was er hat: **er sagt ihr, dass er
   auf der Seite steht.** Und bekommt Los sechs, die Fruehjahrsauktion vor vier
@@ -17206,6 +17209,19 @@ freigegeben sind.
     thirty-one years"* muss deshalb **thirty-two years** werden. Die im selben
     Kapitel genannten einunddreissig Jahre Bekanntschaft mit dem Mann von der
     Law Society sind eine getrennte Spanne und koennen stehenbleiben.
+23. **`b2 ch80:338` und `b2 ch83:310` gegen `b2 ch26:98` und `b2 ch35:224`,
+    Mrs Jeons Gang in den dritten Stock.** Mrs Jeon brachte Mr Hwang ihr Heft
+    am 9. Januar 2026. Kapitel 26 erzaehlt den Vorgang am 28. Mai desselben
+    Jahres als etwas, ueber das sie seither jeden Tag nachgedacht hat; Kapitel
+    35 haelt den 9. Januar in ihrer eigenen unterschriebenen Darstellung fest.
+    Kapitel 80 spielt am 4. Februar 2027 und nennt den Gang trotzdem *"in
+    January four years ago"*; Kapitel 83 wiederholt am 25. Februar bzw. 1.
+    Maerz 2027 *"on the ninth of January four years ago"*. Damit wird ein
+    dreizehn bis vierzehn Monate alter Vorgang irrtuemlich nach Januar 2023
+    verschoben. Das Heft selbst reicht dreiundzwanzig Jahre zurueck und enthaelt
+    Eintraege von vor vier Jahren; **sein Weg zu Hwang tut es nicht.** Die
+    kleinsten Korrekturen sind in Kapitel 80 **in January last year** und in
+    Kapitel 83 **on the ninth of January last year**.
 
 ---
 
