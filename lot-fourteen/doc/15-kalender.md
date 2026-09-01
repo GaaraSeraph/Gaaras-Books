@@ -419,6 +419,9 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   Kapitel 59 und 83 nennen sein Datum abweichend den 14. Juni. **Diese Kette ist
   offen.** Der kleinste widerspruchsfreie Ablauf ist: Schreiben am 15., Ankunft
   am Dienstag, dem 16., und beide spaeteren Rueckblicke ebenfalls auf den 15.
+  **Auch die Leserzahl in beiden Rueckblicken ist offen:** Annie liest die Seite
+  hier vollstaendig und zitiert sie. Georgij ist deshalb nicht neben Mrs Jeon
+  der einzige Leser; korrekt sind Mrs Jeon, Georgij und Annie.
   Georgij haendigt das Blatt Hwang **nicht** aus - es sollte
   existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
   seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen

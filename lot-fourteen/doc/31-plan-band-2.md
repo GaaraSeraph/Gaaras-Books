@@ -2853,3 +2853,13 @@ freigegeben sind.
     ist deshalb der Transportweg: In Kapitel 12 und 87 wird aus dem
     Einschreiben ein am Morgen aufgegebener Kurierbrief gegen Empfangsnachweis.
     Damit bleiben Schriftstueck, Belegbarkeit und alle drei Datumsanker erhalten.
+19. **`b2 ch59:260` und `b2 ch83:292` gegen `b2 ch35:258-280`, die Leser von
+    Mrs Jeons Seite.** Georgij legt Annie das Blatt ausdruecklich vor. Sie liest
+    es vollstaendig, zitiert *"He was correct about the desk. He was wrong about
+    the book"* und deutet beide Saetze. Trotzdem sagt Georgij spaeter zweimal,
+    er sei ausser Mrs Jeon der einzige Mensch, der es gelesen habe. Das ist
+    falsch; Hwang ist der einzige, dem der Inhalt vorenthalten wird. An beiden
+    spaeteren Stellen muss die Exklusivitaet deshalb enger gefasst werden, etwa:
+    **Annie and I are the only people other than the woman who wrote it who
+    have read it.** Datum und Leserzahl sind getrennte Fehler und muessen bei
+    der spaeteren Manuskriptkorrektur beide mitgenommen werden.

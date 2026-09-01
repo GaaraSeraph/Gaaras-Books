@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.635 Woerter.
+Alle 20 Dokumente am Stueck plus das Begegnungsregister. 313.797 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -8490,6 +8490,9 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   Kapitel 59 und 83 nennen sein Datum abweichend den 14. Juni. **Diese Kette ist
   offen.** Der kleinste widerspruchsfreie Ablauf ist: Schreiben am 15., Ankunft
   am Dienstag, dem 16., und beide spaeteren Rueckblicke ebenfalls auf den 15.
+  **Auch die Leserzahl in beiden Rueckblicken ist offen:** Annie liest die Seite
+  hier vollstaendig und zitiert sie. Georgij ist deshalb nicht neben Mrs Jeon
+  der einzige Leser; korrekt sind Mrs Jeon, Georgij und Annie.
   Georgij haendigt das Blatt Hwang **nicht** aus - es sollte
   existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
   seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
@@ -12929,7 +12932,7 @@ gegengeprüft.*
 | **68** *(jetzt zweite Haelfte von 67)* | *What he was for* | **Tragend.** Sims Wende, sein Ausstieg, der 14. September | HALTEN |
 | **69** | *The call he did not take* | **Tragend.** Zwei überfällige Zusagen bezahlt, Kwon in der Auffahrt, Annies Diagnose | HALTEN |
 | **70** | *Nothing to bring* | **Tragend.** Mr Ahn liest den Satz, die Zusage aus 59 bezahlt, der Ventilator angelegt | HALTEN |
-| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die signierte Seite vom 15. Juni; zwei spaetere Rueckblicke sagen noch 14. Juni, siehe `doc/31-plan-band-2.md` | STRAFFEN |
+| **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die signierte Seite vom 15. Juni; Annie liest sie. Zwei spaetere Rueckblicke sagen noch 14. Juni und nennen Georgij faelschlich den einzigen weiteren Leser, siehe `doc/31-plan-band-2.md` | STRAFFEN |
 | **72** | *The fourteenth* | **Tragend.** November, der Namensdank, Register B 8 | HALTEN |
 | **73** | *What the month is for* | Die Umkehrung der Lesart, die vier Tatsachen, der Auftrag an Sim | STRAFFEN |
 | **74** | *Forty-one seconds* | **Tragend.** Sims Zählung, die Entlastung, die zweite Frau, und sie fragt | STRAFFEN |
@@ -17149,6 +17152,16 @@ freigegeben sind.
     ist deshalb der Transportweg: In Kapitel 12 und 87 wird aus dem
     Einschreiben ein am Morgen aufgegebener Kurierbrief gegen Empfangsnachweis.
     Damit bleiben Schriftstueck, Belegbarkeit und alle drei Datumsanker erhalten.
+19. **`b2 ch59:260` und `b2 ch83:292` gegen `b2 ch35:258-280`, die Leser von
+    Mrs Jeons Seite.** Georgij legt Annie das Blatt ausdruecklich vor. Sie liest
+    es vollstaendig, zitiert *"He was correct about the desk. He was wrong about
+    the book"* und deutet beide Saetze. Trotzdem sagt Georgij spaeter zweimal,
+    er sei ausser Mrs Jeon der einzige Mensch, der es gelesen habe. Das ist
+    falsch; Hwang ist der einzige, dem der Inhalt vorenthalten wird. An beiden
+    spaeteren Stellen muss die Exklusivitaet deshalb enger gefasst werden, etwa:
+    **Annie and I are the only people other than the woman who wrote it who
+    have read it.** Datum und Leserzahl sind getrennte Fehler und muessen bei
+    der spaeteren Manuskriptkorrektur beide mitgenommen werden.
 
 ---
 
