@@ -10631,16 +10631,16 @@ three weeks answering. Tonight I stop."*
   2. **Band 1, Kapitel 13** (Do 30. Oktober), ueber Woos Schiffsagenten:
      *"Georgij laughed properly at it, which was not work."* **Echt.** Der
      Zusatz ergibt nur Sinn, weil es den Vergleichsfall fuenf Tage vorher gibt.
-  3. **Band 2, Kapitel 47** (Do 6. August): *"He laughed at something that is
+  3. **Band 2, Kapitel 51** (Do 6. August): *"He laughed at something that is
      not funny to anybody else and would not survive being explained."*
      **Echt**, und der Satz davor setzt eine Frequenz: *"did the thing he does
      about once a year."*
 
   **Die Frequenz geht auf, aber nur wegen der Unterscheidung.** Drei Lacher in
   zehn Monaten waeren nicht *einmal im Jahr*, und zwei davon liegen fuenf Tage
-  auseinander. Die **echten** sind Kapitel 13 und Band 2 Kapitel 54, zwischen
+  auseinander. Die **echten** sind Kapitel 13 und Band 2 Kapitel 51, zwischen
   ihnen liegen **zweihundertachtzig Tage**. Wer den Lacher aus Kapitel 7 als
-  echt schreibt, macht die Zeile in Kapitel 54 falsch.
+  echt schreibt, macht die Zeile in Kapitel 51 falsch.
 
 ### 5. Satzzeichen
 
