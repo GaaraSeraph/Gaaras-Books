@@ -50,8 +50,8 @@ Befunde und die Umsetzung oder bewusste Nichtumsetzung festhaelt.
 | 5 | Raum, Wege, Koerper und Logistik | ERLEDIGT | `protokoll/2026-09-02-raum-logistik-band-2.md` |
 | 6 | Gegenstaende, Dokumente und Besitzketten | ERLEDIGT | `protokoll/2026-09-02-gegenstaende-besitzketten-baende-1-bis-3.md` |
 | 7 | Institutionen, Recht, Wirtschaft und Verfahren | ERLEDIGT | `protokoll/2026-09-02-institutionen-recht-wirtschaft-verfahren-baende-1-bis-3.md` |
-| 8 | Rollen, Vollmachten, Eigentum und Abhaengigkeiten | NAECHSTER | - |
-| 9 | Figurenstimmen und Machtlage im Dialog | OFFEN | - |
+| 8 | Rollen, Vollmachten, Eigentum und Abhaengigkeiten | ERLEDIGT | `protokoll/2026-09-02-rollen-vollmachten-eigentum-abhaengigkeiten-baende-1-bis-3.md` |
+| 9 | Figurenstimmen und Machtlage im Dialog | NAECHSTER | - |
 | 10 | Perspektivnaehe und Erzaehlergewissheit | OFFEN | - |
 | 11 | Szenenfunktion, Kausalbruecken und Redundanz | OFFEN | - |
 | 12 | Zusagen, Motive und spaete Auszahlungen | OFFEN | - |

@@ -1053,10 +1053,11 @@ gemeinsame Unterschreiben weg, und mit ihm der Segen.**
 **Er hat recht, und der Fehler ist bei mir immer derselbe:** ich loese die
 kaufmaennische Frage und uebersehe, wozu die Sache in dem Buch da ist.
 
-#### Also gemeinsam, zur Haelfte, und beide unterschreiben
+#### Arbeitsvorschlag: gemeinsam, zur Haelfte, und beide unterschreiben
 
-**Alles: die Gruppe und das Terminal. Fuenfzig zu fuenfzig. Kein Vorgang ohne
-beide Namen.**
+**Nicht entschieden; kein Kanon.** Der derzeitige Arbeitsvorschlag lautet:
+alles, die Gruppe und das Terminal, fuenfzig zu fuenfzig; kein Vorgang ohne
+beide Namen. Die offene Entscheidung unten geht dieser Ausarbeitung vor.
 
 **Und das Patt ist kein Konstruktionsfehler, sondern die Konstruktion.** So
 sieht ein Segen auf zwei Menschen im Gesellschaftsrecht aus: **keiner kann

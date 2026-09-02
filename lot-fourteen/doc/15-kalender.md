@@ -811,12 +811,13 @@ Teilhaber-Haelften, ein anderer Vorgang), Mr Hwangs erste Maiwoche in Kapitel 56
 week of May"* in 69 - er hat es ein paar Tage nach den Unterschriften begriffen,
 und das stimmt weiter.
 
-**Neuer Stand vom 01.09.:** Der damalige Abgleich war fuer Kapitel 19, 20, 23
-und 69 richtig. Die spaeter hinzugekommene Schlussfassung von Kapitel 87 sagt
-jedoch *"you bought five of them in November"*. Das widerspricht der ersten
-Unterschrift am 18. Mai und dem ausdruecklich angesagten Mai-Juni-Fenster. Der
-Kalender behaelt die belegte Mai-Zeile; der Manuskriptfund steht offen in
-`doc/31-plan-band-2.md`.
+**Gegenpruefung und Korrektur vom 02.09.:** Kapitel 73, 79 und 87 benennen nun
+praezise Annies Partnerhaelften und bestaetigen gemeinsam das gesetzte Fenster
+zwischen Mitte Mai und Mitte Juni. Mr Kwons Partner verkauft seine Haelfte am
+18. Mai; bis Mitte Juni besitzt Annie je eine Haelfte an allen fuenf anderen
+Firmen der Spur. Kapitel 73 rechnet daraus am 20. Dezember sieben Monate
+unbemerkter Eigentuemerstellung statt eines falschen Novemberkaufs. Der
+Monatswiderspruch ist damit behoben.
 
 **Weiterer Gegencheck vom 01.09.:** Auch der damalige Vermerk *nur Kwon ist
 unterrichtet* ist im heutigen Kanon ueberholt. Die Kwon-Szene und die vier

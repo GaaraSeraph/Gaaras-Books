@@ -542,9 +542,9 @@ die beim Planen zaehlt.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Annie** | **Die Eigentuemerin des Hauses.** Kauft ihn am 4. Oktober | Fuehrt die Familienfinanzen, 42,4 % bei sechs Leuten | B1 1 | Traegt den Band |
+| **Annie** | **Die Eigentuemerin des Hauses.** Kauft ihn am 4. Oktober | Fuehrt ihre Gruppe; entscheidet ueber Kapital, Erwerbe und das Haus | B1 1 | Traegt den Band |
 | **Georgij** | **Er.** Los vierzehn, gekauft am selben Abend | Elf Haeuser, siebzehn Jahre, vier Sprachen | B1 1 | Traegt den Band |
-| **Mrs Seo** | **Die Haushaelterin** | Fuehrt das Haus seit neun Jahren: Personal, Konten, Fremdfirmen | B1 3 | Laufend, ab B2 58 mit eigener Stimme |
+| **Mrs Seo** | **Die Haushaelterin** | Fuehrt das Haus seit neun Jahren: Personal, Konten, Fremdfirmen; Annie bestimmt am 2. Maerz, dass sie eine unbefristete Vollmacht erhaelt | B1 3 | Laufend, ab B2 58 mit eigener Stimme |
 | **Jang** | **Der Sicherheitschef** | Achtundfuenfzig, acht Familien, dreissig Jahre | B1 5 | Laufend, sitzt seit Juni in einer Bucht |
 | **Ji-won** | **Hausmaedchen.** Bringt ihn am ersten Abend hinauf (`b1 ch03:40`) | Wohnt ueber der Kueche | B1 3 | Ruht |
 | **Bae** | **Wachmann am Tor.** **Nicht Mrs Bae aus Band 2** | | B1 3 | Ruht |
@@ -560,7 +560,7 @@ die beim Planen zaehlt.
 |---|---|---|---|---|
 | **Chairman Woo Jae-sung** | **Logistiker, und ausdruecklich kein Chaebol.** Georgijs Freund | Achtundsiebzig, einundfuenfzig Jahre im Gewerbe, Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
 | **Hana Seo-yeon** | **Spediteurin mit eigenem Hof.** Annies aelteste Verbindung, fuehrt ihn in den Ballsaal ein | Kennt Annie seit zwanzig Jahren. Drei Prozent Unvorsichtigkeit, und die sind gewaehlt | B1 7 | Ruht seit Mai |
-| **Kim Ye-rin** | **Fuehrt eine Gruppe, in der sechs Leute sie anrufen, bevor sie unterschreiben** | Vetorecht ueber Routen, Name auf Seite eins und elf | B1 30 | Erledigt in B1 |
+| **Kim Ye-rin** | **Fuehrt eine Gruppe, in der sechs Leute sie anrufen, bevor sie unterschreiben** | Eigene 1,4 %; leitet den getrennten 41-%-Block der sechs, Name auf Seite eins und elf | B1 30 | Erledigt in B1 |
 | **Park Sang-hoon** | **Chaebol. Haelt vierzig Prozent an Hanseong Shipping** | Gegner und Handelspartner zugleich. Hat vier Entscheidungen an Chois Tischen getroffen und keine erklaeren koennen | B1 22 | **Aktiv.** Haelt Sims Namen und benutzt ihn nicht |
 
 ### Die Gegenseite
@@ -657,7 +657,16 @@ fallen.
 
 **Mrs Seo** - Führt den Haushalt. Über sechzig. War in der Kaufnacht wach und ist als Einzige zu dem Mann auf dem Kies hinausgegangen. Hat dort telefoniert, unter einer Minute, ohne Adresse zu nennen. Kein Krankenwagen ist gekommen. Sie beantwortet keine Frage, die sie nicht beantworten will, und sie tut es, ohne unhöflich zu werden. Das blutige Tuch wandert in ihre Schürze, nicht in einen Eimer.
 Georgij behandelt sie mit echtem Respekt, weil sie ihn verdient. Sie ist die kompetenteste Person, die er in dieser Nacht trifft.
-*Kanon, Kapitel 3.*
+**Vollmacht und Grenze.** Am 2. Maerz bestimmt Annie, Mrs Seo eine
+unbefristete Vollmacht zu geben: neun Jahre im Haus, Personal, Konten und
+Fremdfirmen. Der Vollzug wird nicht als eigene Szene ausgespielt. Mrs Seos
+spaetere Haushaltsentscheidungen brauchen ihn nicht als Erklaerung, liegen
+aber in genau diesem angekuendigten Umfang. Als sie Georgij in B2 51 den
+Schluessel zu Annies verschlossener Schublade gibt, ist das trotzdem keine
+pauschale Zugriffsberechtigung fuer ihn. Der Text verbucht die Handlung
+ausdruecklich als offene Entscheidung zwischen Vertrauen und neun Jahren
+erlernter Gewohnheit.
+*Kanon, Kapitel 3; B2 1 und 51.*
 
 **Ji-won** - Mädchen im Haushalt, etwa zwanzig, seit vierzehn Monaten da. Schläft über der Küche. Entschuldigt sich, wenn sie Angst hat. Redet aus Erleichterung. Georgij ist freundlich zu ihr, ohne Absicht, und bekommt trotzdem, was er wissen wollte.
 *Kanon, Kapitel 3.*
@@ -815,6 +824,13 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 **Daraus folgt, womit man sie ueberhaupt erreichen kann:** nicht mit Auskunft, sondern mit einer Zusicherung darueber, was ihr nicht passieren wird - und die muss von dem kommen, der sonst der Fragende waere.
 
 **Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41 Prozent bei sechs Leuten (mit ihren eigenen 1,4 haelt die Familie 42,4), die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben.
+
+**Die sieben Unterschriften in Kapitel 32 sind richtig.** Die sechs
+Einbringenden binden genau ihre 41 Prozent: Bruder, zwei Cousins,
+Schwaegerin und zwei Neffen. Ye-rins eigene 1,4 Prozent liegen ausserhalb
+dieses Blocks. Sie unterschreibt auf Seite elf als die im Instrument benannte
+Leiterin des Blocks und nimmt diese Rolle an; sie ist nicht eine siebte
+Einbringende und ihre 1,4 Prozent werden dadurch nicht Teil der 41.
 
 **Hier stand bis zum 23.08.: "Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. Georgij hat sie nie getroffen."** Alle drei Sätze waren zu diesem Zeitpunkt **zwei Kapitel lang überholt** und hätten jede Szene mit ihr falsch aufgesetzt. Was gilt:
 
@@ -1615,7 +1631,7 @@ und niemand muss ihn zitieren.
 25. **Mr Hwang**, der Sanierer. Sein Name steht in b1 K1 in sechs Punkt am Fuss der Seite. **"You have not been running a clean house for five months. You have been running the same house tidily."** Er kann nicht gewarnt werden: *"All of the doors are the same door."*
 26. **Mrs Sunwoo**, einundachtzig, **Stammkundin**, ihr eigener Eintrag ist drei Jahre alt und hat mit dem 4. Oktober nichts zu tun. Ihr *"We haven't met"* in b1 K7 war **eine Pruefung** und keine Hoeflichkeit.
 27. **Nam Byung-hee**, achtundfuenfzig, schreibt **am Ersten jedes Monats** an sechs Firmen, auch wenn es nichts zu schreiben gibt. **Zwanzig Jahre, vier Antworten, alle vier von demselben Mann, und der ist tot.** Sie luegt nicht, und genau das ist die Waffe gegen sie.
-28. **Mrs Seo**, neun Jahre im Haus, fuehrt Personal, Konten und Fremdfirmen. *"I am not clever, I am organised."*
+28. **Mrs Seo**, neun Jahre im Haus, fuehrt Personal, Konten und Fremdfirmen. Annie bestimmt am 2. Maerz, ihr eine unbefristete Vollmacht zu geben. *"I am not clever, I am organised."*
 29. **Jang** ist **achtundfuenfzig** und **Interimschef der Sicherheit**, dreissig Jahre, nie bei einer Firma, die etwas herstellt. **Die Fahrer sind Ku und Pyo, nicht er** (Fassung 1.1 hatte ihn falsch an den Garagen).
 30. **Yun**, Kuechenjunge seit der ersten Januarwoche.
 31. **Mrs Gwak**, etwa siebzig, Blumen in Hyoja-dong, Doppelbuecher mit Durchschlag. **Mr Han**, Fahrer, achtzehn Jahre, schreibt auf alles. **Min-a**, Aushilfe.

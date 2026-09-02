@@ -1446,8 +1446,10 @@ Fassung.**
   going to become that"*, und wenn er merkt, dass er es wird, **hoert er auf,
   ohne zu warten, dass sie es bemerkt.**
 
-- ~~**UEBERFAELLIG.**~~ **BEZAHLT.** Alle fuenf uebrigen Firmen der Spur, vollstaendig, in Annies
-  Eigentum.** Steht seit Kapitel 24 nicht mehr im Text.
+- ~~**UEBERFAELLIG.**~~ **BEZAHLT.** Je eine Partnerhaelfte an allen fuenf
+  uebrigen Firmen der Spur als echte Beteiligung in Annies Eigentum, nicht nur
+  als Kundenbeziehung oder informelle Vereinbarung.** Steht seit Kapitel 24
+  nicht mehr im Text.
   Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
   ihr Monat fuer seine Gefuehle, und er sagt das auch so.
 
@@ -2447,22 +2449,29 @@ Kauf nachgetragen, aber dabei zwei verschiedene Zeitpunkte stehen gelassen.
 > *Mr Kwon's partner, sixty-three, sold his half at a price that was arrived at
 > in one meeting and did not have to be argued about.*
 
-**B2 79 bestaetigt rueckblickend den vollstaendigen Kauf:**
+**B2 79 bestaetigte rueckblickend den vollstaendigen Kauf, bezeichnete die
+Beteiligungen aber zu pauschal:**
 
 > *"Your employer has bought five of them. It is in the register and I read the
 > register."*
 
-**B2 87 bestaetigt denselben Kauf, datiert aber alle fuenf auf November:**
+**B2 73 verlegte denselben Kauf zweimal falsch in den November:**
 
-> *"There were six firms on that lane, and you bought five of them in
-> November."*
+> *"In November a woman on the river bought the five haulage firms on this
+> lane."*
+>
+> *"As of the ninth of November the firm he works for belongs to her."*
 
-**Damit ist die Zusage bezahlt, aber der Kalender gebrochen.** Der erste Kauf
+**Damit war die Zusage bezahlt, aber der Kalender gebrochen.** Der erste Kauf
 kann nicht zugleich am 18. Mai stattfinden und Teil von fuenf Kaeufen im
 November sein. Kapitel 19 sagt zudem ausdruecklich, die fuenf Haelften kaemen
 zwischen Mitte Mai und Mitte Juni auf den Markt. Vier der fuenf Nachmittage
 bleiben ausserhalb der Szene; das ist kein Kontinuitaetsfehler. Der
 Monatswiderspruch ist einer.
+
+**B2 87 trug bereits das richtige Fenster, bezeichnete aber ebenfalls ganze
+Firmen statt der jeweils erworbenen Partnerhaelfte:** *"you bought five of them
+between the middle of May and the middle of June."*
 
 Der damalige Gegenbeleg war B2 69, aus Georgijs Heft:
 
@@ -2495,16 +2504,16 @@ und B2 87 bestaetigen alle fuenf im Register. Der nachgetragene Absatz erreicht
 die drei inhaltlichen Ziele der damaligen Empfehlung:
 
 1. Die Zusage ist bezahlt statt erlassen.
-2. **Georgijs Erkenntnis in B2 69 wird schaerfer statt schwaecher:** die Firmen
-   gehoeren ihr, und die Ladung gehoert trotzdem Woo. Er hat ihr die Huellen
-   besorgt und einem anderen den Inhalt.
+2. **Georgijs Erkenntnis in B2 69 wird schaerfer statt schwaecher:** Sie haelt
+   je eine Partnerhaelfte, und die Ladung gehoert trotzdem Woo. Er hat ihr die
+   Beteiligungen besorgt und einem anderen den Inhalt.
 3. Der Satz aus B2 19 ist kein Erzaehlerversprechen mehr, das niemand einloest.
 
-**Noch offen ist nur die Monatsangabe im Manuskript.** Die kleinste Korrektur
-liegt in B2 87: Der Satz muss den bereits geschriebenen Mai-Juni-Kauf
-rueckblickend bestaetigen, statt alle fuenf Kaeufe in den November zu legen.
-Der Manuskripttext bleibt bis zur Freigabe unveraendert; der Fund steht unten
-in der offenen Liste.
+**Am 02.09. umgesetzt.** B2 73 v3.6 verlegt den Kauf zurueck in das gesetzte
+Mai-Juni-Fenster, nennt Annies halbe Beteiligung an jeder der fuenf Firmen und
+rechnet am 20. Dezember sieben Monate unbemerkter Eigentuemerstellung. B2 79
+v3.4 und B2 87 v3.25 verwenden ebenfalls *a half-interest in five of them*.
+Damit stimmen Kalender, Eigentumsumfang und spaetere Rueckblicke ueberein.
 
 ---
 
