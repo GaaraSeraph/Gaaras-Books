@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 100.773 Woerter.
+Book One, 34 Kapitel, 100.788 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -17,7 +17,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 04 | v1.11 | 2.441 |
 | 05 | v5.16 | 4.281 |
 | 06 | v1.11 | 2.065 |
-| 07 | v6.6 | 3.860 |
+| 07 | v6.7 | 3.867 |
 | 08 | v3.9 | 2.690 |
 | 09 | v3.5 | 3.120 |
 | 10 | v2.7 | 2.888 |
@@ -38,7 +38,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 25 | v1.10 | 2.566 |
 | 26 | v1.10 | 2.407 |
 | 27 | v3.12 | 3.127 |
-| 28 | v1.11 | 2.708 |
+| 28 | v1.12 | 2.716 |
 | 29 | v1.5 | 1.992 |
 | 30 | v1.16 | 3.555 |
 | 31 | v1.12 | 3.200 |
@@ -1655,7 +1655,7 @@ Outside, the car came round onto the gravel and stopped.
 ---
 
 # Book One · Chapter 7: Where were you educated
-*Lot Fourteen* · Version 6.6 · EN
+*Lot Fourteen* · Version 6.7 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1907,7 +1907,7 @@ His eyebrows went up half a millimetre. He glanced at Annie, who was looking at 
 
 "Not one soul." Georgij let his face do what it had been doing all evening, which was to be slightly too pleased to be standing where he was standing. "Which is why I'm about to ask you something I have no business asking a man I met four minutes ago."
 
-"Go on."
+"Four minutes is long enough for a useful question."
 
 "Who should I be careful of?"
 
@@ -7894,7 +7894,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Book One · Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -7998,7 +7998,7 @@ He thought about it for longer than he had thought about anything since the brid
 
 "You know what I am going to say about paper."
 
-"I know exactly what you are going to say about paper. You said it at my expense in November and you were right." Hana did not move. "Say it anyway, because you are going to do it whether you say it or not."
+"I know exactly what you are going to say about paper. You said it at my expense in November and you were right." Hana did not move. "You are going to do it whether you say it or not, and I want the words before I carry them into her garden."
 
 "It will exist," said Georgij. "Somebody will have written it and somebody will have carried it. If the wrong afternoon ever comes, it is a letter from one chaebol's man to a family under customs investigation, four days before they were photographed together."
 
