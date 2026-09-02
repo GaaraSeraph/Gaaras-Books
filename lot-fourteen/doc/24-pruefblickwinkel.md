@@ -27,9 +27,9 @@ Befunde und die Umsetzung oder bewusste Nichtumsetzung festhaelt.
    sich widerlegen lassen koennen.
 4. Belege jeden sicheren Fund mit Kapitel, Wortlaut und Gegenstelle. Trenne
    **SICHER**, **UNSICHER** und **ABSICHTLICH**.
-5. Praesentiere Manuskriptaenderungen vor dem Umschreiben, sofern der Autor im
-   laufenden Chat nicht ausdruecklich die umgekehrte Reihenfolge freigibt.
-   Begleitdokumente duerfen ohne Rueckfrage berichtigt werden.
+5. Praesentiere Manuskriptaenderungen immer vor dem Umschreiben und schreibe
+   erst nach ausdruecklicher Freigabe um. Begleitdokumente duerfen ohne
+   Rueckfrage berichtigt werden.
 6. Fuehre nach jeder Umsetzung `check.py`, `zusagen.py --neu` und `build.py`
    aus. Pruefe danach die eigene Aenderung mit demselben Blickwinkel erneut.
 7. Lege pro Blickwinkel genau ein neues Protokoll an. Aendere kein altes
@@ -52,8 +52,8 @@ Befunde und die Umsetzung oder bewusste Nichtumsetzung festhaelt.
 | 7 | Institutionen, Recht, Wirtschaft und Verfahren | ERLEDIGT | `protokoll/2026-09-02-institutionen-recht-wirtschaft-verfahren-baende-1-bis-3.md` |
 | 8 | Rollen, Vollmachten, Eigentum und Abhaengigkeiten | ERLEDIGT | `protokoll/2026-09-02-rollen-vollmachten-eigentum-abhaengigkeiten-baende-1-bis-3.md` |
 | 9 | Figurenstimmen und Machtlage im Dialog | ERLEDIGT MIT AUTORENSPERRE | `protokoll/2026-09-02-figurenstimmen-machtlage-dialog-baende-1-bis-3.md` |
-| 10 | Perspektivnaehe und Erzaehlergewissheit | NAECHSTER | - |
-| 11 | Szenenfunktion, Kausalbruecken und Redundanz | OFFEN | - |
+| 10 | Perspektivnaehe und Erzaehlergewissheit | ERLEDIGT | `protokoll/2026-09-02-perspektivnaehe-erzaehlergewissheit-baende-1-bis-3.md` |
+| 11 | Szenenfunktion, Kausalbruecken und Redundanz | NAECHSTER | - |
 | 12 | Zusagen, Motive und spaete Auszahlungen | OFFEN | - |
 | 13 | Leserwissen und Fairness der Enthuellungen | OFFEN | - |
 | 14 | Moralische Rahmung und unbeabsichtigte Entlastung | OFFEN | - |
