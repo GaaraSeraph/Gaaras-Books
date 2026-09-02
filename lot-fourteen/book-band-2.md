@@ -14408,7 +14408,7 @@ And the third paragraph says that nothing in the document creates any obligation
 
 That is the paragraph Mrs Jeon read twice.
 
-She signed it at seven minutes past eleven, in the older way, with her father's character.
+She signed it at thirteen minutes to eleven, in the older way, with her father's character.
 
 Then she asked one question, which is the second she has asked in four years, and Mrs Jeon reported it afterwards in the exact words because she had been asked to.
 
@@ -20598,7 +20598,7 @@ Jang went to Mapo on the Thursday and was handed a green school exercise book at
 
 In February she told Georgij that she was not going to give it to him, and she has not. It is not for him.
 
-Nobody in this house has read it. It went into the room at the back on the Friday and it has not come out.
+Nobody outside that room has read it. It went into the room at the back on the Friday and it has not come out.
 
 Moon Hae-sook asked in November what became of sixty-two people, and she also asked that it be said she had never asked anybody about the ribbon. The second of the two is the only one she has been answered on completely.
 

@@ -115,7 +115,7 @@ Georgij told him what had come to the door and what was on it, and read him the 
 
 Baek Jun-ho did not answer for a while.
 
-"I have been in this trade for thirty-eight years," he said. "I have never once been on the same sheet of paper as that man and I never expected to be."
+"I have been in this trade for thirty-two years," he said. "I have never once been on the same sheet of paper as that man and I never expected to be."
 
 "You are not on it. I am."
 

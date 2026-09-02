@@ -137,7 +137,7 @@ Jang went to Mapo on the Thursday and was handed a green school exercise book at
 
 In February she told Georgij that she was not going to give it to him, and she has not. It is not for him.
 
-Nobody in this house has read it. It went into the room at the back on the Friday and it has not come out.
+Nobody outside that room has read it. It went into the room at the back on the Friday and it has not come out.
 
 ---
 

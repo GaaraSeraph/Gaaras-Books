@@ -47,7 +47,7 @@ That is the paragraph Mrs Jeon read twice.
 
 ---
 
-She signed it at seven minutes past eleven, in the older way, with her father's character.
+She signed it at thirteen minutes to eleven, in the older way, with her father's character.
 
 Then she asked one question, which is the second she has asked in four years, and Mrs Jeon reported it afterwards in the exact words because she had been asked to.
 
