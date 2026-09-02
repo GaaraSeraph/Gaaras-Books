@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 2 Kapitel, 4.228 Woerter.
+Book Three, 2 Kapitel, 4.229 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,7 +12,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.5 | 2.092 |
-| 02 | v1.8 | 2.136 |
+| 02 | v1.8 | 2.137 |
 
 ---
 
@@ -230,7 +230,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 
 He was on the road at half past nine for a thing that started at eleven, because he did not know the building and would not go into a room he had not walked round first.
 
-He took nothing with him. There was nothing to take.
+He took nothing into the hall. There was nothing to take.
 
 The coat is the grey one and it was paid for in October of the year before last by somebody else. There are forty men in that service who can read a coat, and it is the first thing about him that any of them will get right.
 

@@ -5,7 +5,7 @@
 
 He was on the road at half past nine for a thing that started at eleven, because he did not know the building and would not go into a room he had not walked round first.
 
-He took nothing with him. There was nothing to take.
+He took nothing into the hall. There was nothing to take.
 
 The coat is the grey one and it was paid for in October of the year before last by somebody else. There are forty men in that service who can read a coat, and it is the first thing about him that any of them will get right.
 

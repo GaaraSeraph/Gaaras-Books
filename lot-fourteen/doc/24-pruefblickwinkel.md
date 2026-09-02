@@ -48,8 +48,8 @@ Befunde und die Umsetzung oder bewusste Nichtumsetzung festhaelt.
 | 3 | Psychologische Folgekosten | ERLEDIGT | `protokoll/2026-09-02-psychologische-folgekosten-band-2.md` |
 | 4 | Entscheidungsfreiheit und kausale Eigenstaendigkeit | ERLEDIGT | `protokoll/2026-09-02-entscheidungsfreiheit-band-2.md` |
 | 5 | Raum, Wege, Koerper und Logistik | ERLEDIGT | `protokoll/2026-09-02-raum-logistik-band-2.md` |
-| 6 | Gegenstaende, Dokumente und Besitzketten | NAECHSTER | - |
-| 7 | Institutionen, Recht, Wirtschaft und Verfahren | OFFEN | - |
+| 6 | Gegenstaende, Dokumente und Besitzketten | ERLEDIGT | `protokoll/2026-09-02-gegenstaende-besitzketten-baende-1-bis-3.md` |
+| 7 | Institutionen, Recht, Wirtschaft und Verfahren | NAECHSTER | - |
 | 8 | Rollen, Vollmachten, Eigentum und Abhaengigkeiten | OFFEN | - |
 | 9 | Figurenstimmen und Machtlage im Dialog | OFFEN | - |
 | 10 | Perspektivnaehe und Erzaehlergewissheit | OFFEN | - |

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 100.732 Woerter.
+Book One, 34 Kapitel, 100.735 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -38,13 +38,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 25 | v1.9 | 2.555 |
 | 26 | v1.10 | 2.407 |
 | 27 | v3.12 | 3.127 |
-| 28 | v1.11 | 2.706 |
+| 28 | v1.11 | 2.708 |
 | 29 | v1.5 | 1.992 |
 | 30 | v1.16 | 3.555 |
 | 31 | v1.12 | 3.200 |
 | 32 | v1.5 | 2.581 |
 | 33 | v1.16 | 3.341 |
-| 34 | v1.12 | 4.341 |
+| 34 | v1.12 | 4.342 |
 
 ---
 
@@ -8088,7 +8088,7 @@ He wrote nine versions.
 
 Six of them were the work of a man selling something, and he could see it in the second line every time.
 
-He put them in the fire in the small room off the long one, because Mrs Seo lays that fire on Saturdays and it was going anyway.
+He put the first eight in the fire in the small room off the long one, because Mrs Seo lays that fire on Saturdays and it was going anyway.
 
 The ninth one said what would not happen to her.
 
@@ -9916,7 +9916,7 @@ She turned the sheet round on the table so that it faced her.
 
 "So we will take it off."
 
-Georgij put the sheet back into the envelope and did not pick the envelope up.
+Georgij put the sheet down beside the envelope and did not pick either of them up.
 
 "No, Mistress."
 

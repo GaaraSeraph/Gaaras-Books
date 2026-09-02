@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.749 Woerter.
+Book Two, 90 Kapitel, 232.766 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -72,7 +72,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 59 | v1.15 | 3.508 |
 | 60 | v1.8 | 2.676 |
 | 61 | v2.0 | 2.525 |
-| 62 | v1.4 | 2.111 |
+| 62 | v1.4 | 2.128 |
 | 63 | v1.15 | 3.575 |
 | 64 | v1.4 | 2.123 |
 | 65 | v1.8 | 1.991 |
@@ -13864,6 +13864,8 @@ Mr Ahn nodded once.
 "Then when it's your turn to go up that road," he said, "you're not going up it for one."
 
 "No."
+
+Georgij crossed the eleven feet, picked up the form and put it back in his inside pocket.
 
 * * *
 
