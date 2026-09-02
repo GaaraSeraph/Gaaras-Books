@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.568 Woerter.
+Book Two, 90 Kapitel, 232.567 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -95,8 +95,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 82 | v1.6 | 2.807 |
 | 83 | v3.8 | 2.951 |
 | 84 | v3.5 | 2.148 |
-| 85 | v3.4 | 2.592 |
-| 86 | v3.26 | 3.885 |
+| 85 | v3.5 | 2.590 |
+| 86 | v3.27 | 3.886 |
 | 87 | v3.26 | 4.147 |
 | 88 | v3.9 | 3.367 |
 | 89 | v4.1 | 1.995 |
@@ -18994,7 +18994,7 @@ Annie folded the list along its own crease and put it in the drawer that locks.
 ---
 
 # Book Two · Chapter 85: Twenty-seven
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19076,7 +19076,7 @@ Georgij came in about ninety seconds behind him and stood where he could see the
 
 He watched a man of sixty read a room.
 
-It is the only thing about Choi Dae-ho that anybody has ever been able to describe. Georgij had it in nine lines in October and had never seen it, and it is not what he had built in his head.
+The nine lines had not given him this. Georgij had written them in October and had never seen the man read a room. What was in front of him was not what he had built in his head.
 
 There is nothing to see. He does not turn round. He takes a glass he does not drink out of and he goes three steps into a room and stops, and he is pleasant to a man who is nearest to him, and he asks him something.
 
@@ -19267,7 +19267,7 @@ Behind him, at the far end of the building, twenty-six people went on with their
 ---
 
 # Book Two · Chapter 86: Please guide me
-*Lot Fourteen* · Version 3.26 · EN
+*Lot Fourteen* · Version 3.27 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19295,7 +19295,7 @@ Georgij had his hands loose at his sides and did not put them anywhere.
 
 "Then I am glad. I have been standing here for four minutes deciding whether it would be her, and I would not have wanted that."
 
-There were two places at that table and Choi Dae-ho did not look at either of them. It is not his room, and he has never in his life offered anybody anything in a room that was not his.
+There were two places at that table and Choi Dae-ho did not look at either of them. It is not his room, and nothing Georgij has learned puts him on the offering side of a table in somebody else's house.
 
 "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been at something for a year and it shows in the way you came up that passage, and I would say the same thing to anybody."
 

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 2 Kapitel, 4.240 Woerter.
+Book Three, 2 Kapitel, 4.206 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,7 +12,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.6 | 2.103 |
-| 02 | v1.9 | 2.137 |
+| 02 | v1.10 | 2.103 |
 
 ---
 
@@ -224,7 +224,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -290,7 +290,7 @@ Georgij went up with the rest and bowed twice and did it correctly. Doing it wro
 
 He did not put his head down for any longer than the form asks for.
 
-He is not sorry Choi Dae-ho is dead, and he is the only man in that hall who did not arrange his face to look as if he were.
+He is not sorry Choi Dae-ho is dead, and he does not arrange his face to look as if he were.
 
 Gong Doo-hyun stood at the front of it from eleven until twenty past one.
 
@@ -378,7 +378,7 @@ There is nobody in it who gained by coming, and there are eleven who are in a se
 
 Choi Dae-ho has been out of that service for twenty-five years and out of the trade since March and dead since April, and there is no version of standing in that hall that pays.
 
-They came because they were asked, and the man who asked them is the one man in the Republic of Korea who is not able to give any of them anything.
+They came when he asked.
 
 The hall was the cheaper of the two. The card was the sort a stationer keeps a box of. Nobody catered it and there was no car for the family, because there is no family.
 
