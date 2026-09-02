@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.766 Woerter.
+Book Two, 90 Kapitel, 232.511 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,7 +14,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.8 | 2.281 |
 | 02 | v1.6 | 2.085 |
 | 03 | v1.5 | 2.016 |
-| 04 | v1.10 | 2.735 |
+| 04 | v1.11 | 2.748 |
 | 05 | v1.11 | 2.834 |
 | 06 | v1.12 | 3.415 |
 | 07 | v1.6 | 2.305 |
@@ -47,19 +47,19 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 34 | v2.6 | 3.283 |
 | 35 | v3.3 | 3.545 |
 | 36 | v4.0 | 4.077 |
-| 37 | v3.0 | 2.764 |
-| 38 | v3.1 | 3.452 |
-| 39 | v4.0 | 3.321 |
+| 37 | v3.1 | 2.792 |
+| 38 | v3.2 | 3.370 |
+| 39 | v4.1 | 3.311 |
 | 40 | v4.0 | 2.415 |
-| 41 | v4.0 | 2.291 |
+| 41 | v4.1 | 2.072 |
 | 42 | v1.6 | 2.164 |
 | 43 | v1.6 | 2.661 |
 | 44 | v1.5 | 1.889 |
-| 45 | v1.2 | 2.296 |
+| 45 | v1.3 | 2.298 |
 | 46 | v1.4 | 2.033 |
-| 47 | v2.7 | 2.914 |
+| 47 | v2.8 | 2.915 |
 | 48 | v1.5 | 2.112 |
-| 49 | v2.4 | 3.224 |
+| 49 | v2.5 | 3.209 |
 | 50 | v1.5 | 2.498 |
 | 51 | v1.6 | 2.778 |
 | 52 | v1.4 | 2.042 |
@@ -75,7 +75,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 62 | v1.4 | 2.128 |
 | 63 | v1.15 | 3.575 |
 | 64 | v1.4 | 2.123 |
-| 65 | v1.8 | 1.991 |
+| 65 | v1.9 | 1.995 |
 | 66 | v1.4 | 2.404 |
 | 67 | v2.6 | 2.074 |
 | 68 | v3.3 | 2.073 |
@@ -91,13 +91,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 78 | v3.2 | 2.566 |
 | 79 | v3.3 | 2.864 |
 | 80 | v3.4 | 2.845 |
-| 81 | v3.5 | 2.386 |
+| 81 | v3.6 | 2.387 |
 | 82 | v1.5 | 2.808 |
-| 83 | v3.6 | 2.936 |
+| 83 | v3.7 | 2.954 |
 | 84 | v3.5 | 2.148 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.25 | 3.900 |
-| 87 | v3.23 | 4.141 |
+| 87 | v3.24 | 4.145 |
 | 88 | v3.8 | 3.365 |
 | 89 | v4.1 | 1.995 |
 | 90 | v4.2 | 1.564 |
@@ -660,7 +660,7 @@ He did not correct it.
 ---
 
 # Book Two · Chapter 4: I have nothing to put in it
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -786,7 +786,7 @@ Georgij had known since Sunday what he had.
 
 "You want to know how it was done."
 
-"I know how it was done. I have had two and a half months and I am not stupid." Sang-hoon's voice did not go up. "I know the report was true. I know the board could not sell, and I asked you about it myself, in the middle of a conversation about a ceiling, and it was not on any page you gave me, and I bought it anyway. I have been over that evening more times than I have been over anything since I was thirty."
+"I know how it was done. I have had two and a half months and I am not stupid." Sang-hoon's voice did not go up. "I know the report was true. I know the board could not authorise a disposal while it was split. I asked you about it myself, in the middle of a conversation about a ceiling, and it was not on any page you gave me, and I bought the shares anyway. I have been over that evening more times than I have been over anything since I was thirty."
 
 He put one finger down on the sill.
 
@@ -800,9 +800,9 @@ The window was open two inches at the top and the corridor was cold at that end 
 
 "No."
 
-"Then take the rest in order." The two men down the corridor gave up and went away. "You would have bought Hanseong Shipping from anybody. Routes, cheap, bleeding, and half a board that wants out will sign inside a fortnight. That is your trade, and it is the only reason the thing could be used at all."
+"Then take the rest in order." The two men down the corridor gave up and went away. "You would have bought your way into Hanseong Shipping from anybody who would sell. Routes, cheap, bleeding, and seven shareholders who want out will sign inside a fortnight. That is your trade, and it is the only reason the thing could be used at all."
 
-"And I would have looked at the other half of that board."
+"And I would have looked at the directors behind the other sixty per cent."
 
 "You would have looked at it for ten minutes and walked away, and I would have had nothing." He did not hurry any of it. "You did not look, because it was never in front of you as a thing to buy."
 
@@ -8410,7 +8410,7 @@ Page two is longer than it was on Tuesday. Page one is not.
 ---
 
 # Book Two · Chapter 37: Somebody who did not arrive in a car
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
 
@@ -8433,6 +8433,8 @@ Annie had a notepad open and had written nothing on it since Jang sat down. It i
 "Sixteen is what I watched," said Jang, to Georgij, because it was Georgij the sixteen days had been for. "The first few days went on finding the lay-by and working out which hours were worth sitting in. I have not counted those."
 
 "The building takes deliveries twice a week," said Jang. "Tuesdays, a laundry service, marked for a facility, no name on the van that I could read from that distance. Fridays, a grocery order large enough for more than a family and small enough that it is not catering for a hotel. I counted the crates going in on three separate Fridays and they did not vary by more than one."
+
+"One other van came once, on the eleventh day. Medical gas. I wrote down the firm and the plate because it was not part of either standing delivery."
 
 "How many people does that feed," said Annie.
 
@@ -8593,7 +8595,7 @@ He wrote that down in the notebook exactly as he had thought it, without tidying
 ---
 
 # Book Two · Chapter 38: The name he books under
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Two Hundred and Sixty-Two · Monday 22 June
 
@@ -8719,7 +8721,7 @@ He gave the evenings to the doctor, because the part of that man that could be f
 
 There was a faster way, and there had been one since March.
 
-Behind the ministry's annual list sits the office that keeps it, and the office that keeps it is four men in Sejong sharing one machine and a password rule nobody has rewritten since the office was set up. Georgij had looked at it in April, for about as long as it takes to be sure, the way a man looks at a door he does not intend to open. He could have had every house-call registration in the country before lunch.
+Behind the public medical-institution directory sat the full administrative history: opening reports, representative doctors, address changes and closure returns. Georgij had looked at the system behind it in April, for about as long as it takes to be sure, the way a man looks at a door he does not intend to open. He could have had every version of every clinic entry in the country before lunch.
 
 The laptop for it had been on the desk in the small room since his first week in the house, put there by Annie herself, and in eight months nobody had ever asked him what he did with it.
 
@@ -8731,45 +8733,43 @@ Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain
 
 A house call four years ago, in July, with the travelling costing about three times the attendance. Annie had already told him what that meant: a piece of paper made by somebody who was not in the trade, and had never needed to learn how to make one disappear.
 
-He started with the licence.
+He started with the service, not a licence.
 
-A doctor who does house calls has to register the practice as one that does house calls, because the insurance is different. The registration is public. The ministry that issues it publishes a list once a year so that patients can check who is allowed to come to their door.
+A private house call did not come with a second licence or a national list in 2016. It was simply a doctor leaving a registered clinic to see a patient who could not come in. The public part was the clinic. The private part was the journey.
 
-Four years ago there were eleven practices in the whole country registered for house calls at a rate that would explain a bill three times the size of the visit itself. Most house-call medicine is cheap, because most of it is old people in the same city who cannot get to a clinic. A bill that size is not a city bill.
+He built the pool from the medical-institution entries that existed in July four years ago, archived advertisements for private attendance, opening dates, specialties and the charges clinics had published for travelling beyond their district. Eleven survived the amount Mrs Jeon remembered, the date and every place the flowers or the car had ever pointed.
 
 He wrote all eleven down before he began, and the reason beside each one as it went, because a list that only shows what survives is worse than one that shows what was ruled out and why. Mrs Jeon had taught him that without meaning to, the first time she opened the exercise book and he saw forty lines that were not accusations, only records.
 
-Nine of them came off the page over the two evenings. Two were paediatric and two were four and five hours from anywhere the flowers or the car had ever pointed. Two had closed inside the year and had not existed long enough before that. One belonged to a hospital group that audits itself for tax reasons, where a stray invoice does not survive four years. The last two did long-distance work for wealthy families who wanted a particular doctor, cheerfully and with nothing whatever to be careful about, and both said so on the telephone without asking him why he wanted to know.
+Nine of them came off the page over the two evenings. Two were paediatric and two were four and five hours from anywhere the flowers or the car had ever pointed. Two had opened after the invoice and had not existed in time to make it. One belonged to a hospital group that audits itself for tax reasons, where a stray invoice does not survive four years. The last two advertised long-distance work for wealthy families who wanted a particular doctor, cheerfully and with nothing whatever to be careful about, and the archived notices said so without his having to telephone anybody.
 
 That left two.
 
-One had a name on it that meant nothing to him. The other did not have a name on it at all. The licence had lapsed three years ago and nobody had filed to close it properly, which is a different thing from closing. It is the kind of gap a careful man leaves when he stops needing a cover rather than stops working.
+One had an ordinary, complete public history. The other had a hole in it. Its website and directory listings disappeared three years after the invoice, but nobody had filed to close the medical-institution entry. The address was a dental office now. It is the kind of gap a careful man leaves when he stops needing a cover rather than stops working.
 
 Georgij sat with that for a while, at the desk, before he wrote it down.
 
-*Lapsed licence, not closed licence. A practice that was allowed to disappear rather than told to. Nobody chose that. It simply happened, and it was allowed to.*
+*A clinic that disappeared without its entry being closed. A practice that was allowed to vanish rather than told to. Nobody chose that. It simply happened, and it was allowed to.*
 
 The other of the two, the one whose name meant nothing to him, took longer to close out, because closing it out properly meant reading rather than guessing.
 
-The medical association keeps a different register from the ministry's, and it keeps what the ministry does not: the date a doctor last renewed, and whether a colleague vouched for the renewal. Most licensing bodies require that and most doctors treat it as a formality nobody reads.
+The public hospital appointments gave him the rest. This doctor had spent twenty years in the same district hospital before doing private work under his own name. The retirement notice was still on the hospital's website, three sentences about an ordinary, slightly dull man leaving to look after a sick wife. Nothing about him bent.
 
-This one had been vouched for every year by two colleagues in the same district hospital, and both of them still worked there. Both remembered an ordinary, slightly dull man who had done twenty years of unremarkable house calls before retiring to look after a sick wife. Nothing about him bent.
-
-He crossed that name off last of all, and it was the crossing off that told him the most, because it meant the shape he was looking for was not two men who fit the same pattern. It was one man, working alone, whose own colleagues had long since stopped being able to vouch for him from close enough to notice anything at all.
+He crossed that name off last of all, and it was the crossing off that told him the most, because it meant the shape he was looking for was not two men who fit the same pattern. It was one man, working alone, whose ordinary work had long since stopped putting him close enough to colleagues for anybody to notice anything at all.
 
 He had, by the end of the afternoon, exactly one name.
 
 He telephoned Annie from the small room instead of going to find her, because it felt like the kind of thing that should stay on a telephone even inside the same house.
 
-"I have a licence that lapsed instead of closing," he said, "three years after a house call that cost three times what it should have, and registered nine years before that, which puts the cover in place ahead of anything it was ever used for. I have not gone anywhere and I have not spoken to anybody who could carry the question back to where it came from."
+"I have a clinic entry that was never closed, attached to a practice that disappeared three years after a house call that cost three times what it should have," he said. "It had existed for nine years before the visit, so the cover was in place before anybody used it for this. I have not gone anywhere and I have not spoken to anybody who could carry the question back to where it came from."
 
 "Say the name that is on it."
 
-"Dr Oh Seung-min. I do not know if that is a real name or a licensed one that somebody borrowed. I am not going to find out by asking, because asking is the one thing on this list that is not free." Georgij kept the notebook open in front of him without looking at it. "The registered address in Jung-gu is a dental office now. I have not been to look at it and I am not going to be the one who does."
+"Dr Oh Seung-min. I do not know if that is a real name or a doctor's licence that somebody borrowed. I am not going to find out by asking, because asking is the one thing on this list that is not free." Georgij kept the notebook open in front of him without looking at it. "The registered address in Jung-gu is a dental office now. I have not been to look at it and I am not going to be the one who does."
 
 "Say his age."
 
-"The professional record gives a birth year that would make him fifty-eight now." Georgij paused there. "If the licence is real and belonged to him the whole time, he would have been fifty-four when he made that visit. Old enough to have been doing this for decades. Young enough to still be doing it now, somewhere, under a name that has not lapsed."
+"An archived hospital biography gives a birth year that would make him fifty-eight now." Georgij paused there. "If the entry is real and the licence belonged to him the whole time, he would have been fifty-four when he made that visit. Old enough to have been doing this for decades. Young enough to still be doing it now, somewhere, under a name that has not disappeared."
 
 Annie was quiet on the line for a moment.
 
@@ -8793,7 +8793,7 @@ Tearing the page out would have said more about the name than keeping it did. He
 
 "What happens to Dr Oh," he said.
 
-"Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that only two people can open." She set the pen down. "He stays there until Sang-hoon's registry work tells us whether the building outside Wonju and the lapsed licence are pointing at the same four owners, or two different ones."
+"Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that only two people can open." She set the pen down. "He stays there until Sang-hoon's registry work tells us whether the building outside Wonju and the clinic entry are pointing at the same four owners, or two different ones."
 
 "And if they are two different owners."
 
@@ -8811,12 +8811,12 @@ He wrote one more line before he put the notebook away for the night.
 
 *That is not a man who thinks he is finished being useful. That is a man keeping a door he might need again.*
 
-*Fifty-four, four years ago. Fifty-eight now, somewhere, if the register has not lied to itself as well as to everyone else.*
+*Fifty-four, four years ago. Fifty-eight now, somewhere, if the entry has not lied to itself as well as to everyone else.*
 
 ---
 
 # Book Two · Chapter 39: Built once, used twice
-*Lot Fourteen* · Version 4.0 · EN
+*Lot Fourteen* · Version 4.1 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
@@ -8944,7 +8944,7 @@ Sang-hoon took that better than Georgij had expected, and worse than he let it s
 
 "And the fourth."
 
-"The fourth is a trust, and a trust is not required to say who benefits from it, which is the entire reason a man builds one instead of a company." Sang-hoon opened the folder at last. "But a trust has to say who administers it, because somebody has to sign the cheques." Sang-hoon tapped the page once. "The person who has signed for this one, every year, for eleven years, is a solicitor in Yeouido who does this for eleven other trusts besides."
+"The fourth is a trust, and the filing tells you who administers it but not what purpose it serves or whose life its payments maintain." Sang-hoon opened the folder at last. "Somebody still has to sign the cheques." Sang-hoon tapped the page once. "The person who has signed for this one, every year, for eleven years, is a solicitor in Yeouido who does this for eleven other trusts besides."
 
 Georgij went very still.
 
@@ -8980,7 +8980,7 @@ Georgij looked at the folder without reaching for it.
 
 "Say that again."
 
-"There is a second address. A lapsed medical licence, a clinic that has been a dental office for eighteen months. I have not told you about it because Annie asked me not to, and I am telling you now because it is faster than making you find it yourself." Georgij kept his hands on the table. "Does the same trust sit behind it."
+"There is a second address. A medical-institution entry that was never closed, for a practice that has been a dental office for eighteen months. I have not told you about it because Annie asked me not to, and I am telling you now because it is faster than making you find it yourself." Georgij kept his hands on the table. "Does the same trust sit behind it."
 
 Sang-hoon looked at him for a long moment before he answered.
 
@@ -8988,7 +8988,7 @@ Sang-hoon looked at him for a long moment before he answered.
 
 The restaurant went on being a restaurant around them.
 
-"Same trust," said Sang-hoon. "Same solicitor. The lapsed clinic's lease, four years ago, was held by the third company down, the one that owns nothing but shares in the company beneath it. Whoever built this built it once and used it twice, which tells you something about how confident he was that nobody would ever check the second time."
+"Same trust," said Sang-hoon. "Same solicitor. The former clinic's lease, four years ago, was held by the third company down, the one that owns nothing but shares in the company beneath it. Whoever built this built it once and used it twice, which tells you something about how confident he was that nobody would ever check the second time."
 
 "Eleven years for the building. Four years for the clinic." Georgij said the two numbers slowly, the way he does when he is checking that he has not made them fit each other by wanting to. "Two different dates. Possibly two different reasons."
 
@@ -9218,7 +9218,7 @@ He did not take that as a reason to stop. He took it as a description of the wor
 ---
 
 # Book Two · Chapter 41: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 4.0 · EN
+*Lot Fourteen* · Version 4.1 · EN
 
 ## Day Two Hundred and Seventy-Six · Monday 6 July
 
@@ -9228,27 +9228,13 @@ Whether the woman was still alive, Jang had already answered in June, from a win
 
 He started with what a building like that would need, not who was inside it.
 
-A house that keeps a person for eleven years is one kind of building. A house that has to start managing a medical condition is a different kind, and the difference shows up first in what has to be filed, not in who is seen coming and going.
+A house that keeps a person for eleven years is one kind of building. A house that has to manage a medical condition is a different kind, and the difference shows up first in what has to be delivered, not in who is seen coming and going.
 
-Any address that stores medical oxygen has to be registered with the local fire safety authority, because oxygen in a private house is the kind of risk an inspector is required to know about. The filing is not secret. It exists so that a fire crew arriving at three in the morning knows what they are walking into.
+Jang's sixteen days had produced one medical-gas van. He had written down the firm and the plate because it was the only delivery that did not belong to the weekly pattern. Georgij took the name from Jang's report and checked the public record behind it.
 
-He found the district's compliance list for the year of the doctor's July visit and searched it against the address Jang had been watching since the beginning of June. The list itself was nothing dramatic, a spreadsheet the fire authority published once a year so that insurers and inspectors could cross-check it against their own records, sorted by street and not by anything more useful than that.
+The firm was licensed to transport and supply compressed medical gas. It had six vans and an address in Wonju. That was where the public road ended.
 
-Nothing.
-
-He checked the year before that as well, and the year before that, going backward until he had covered all eleven years the trust had existed.
-
-The filing appeared exactly once, in July, four years ago. Not before it. Not after it, either, which told him the equipment had never been removed once it arrived.
-
-He sat with that for a while before he wrote anything down, because a single filing, however precisely dated, was still one document, and Mrs Jeon had taught him what one document is worth on its own.
-
-*Fire safety filing, medical oxygen, July four years ago. Never renewed as new. Never cancelled either. One event, not an ongoing arrangement that simply started somewhere further back and was only now on record.*
-
-A filing of that kind has to say who put the equipment in, because the authority wants a name to telephone when something goes wrong at three in the morning. There is a company on the line under the address, three characters, the first of them the word for oxygen.
-
-Georgij read it twice and then sat back from the desk, because the useful part of the morning had just ended and he could feel it end.
-
-An address that stores oxygen is a fact about a building. A company that delivers it is a fact about a trade. Neither of them is a fact about a person, and the person is the entire thing.
+An address that receives oxygen is a fact about a building. A company licensed to deliver it is a fact about a trade. Neither of them is a fact about a person, and the person is the entire thing.
 
 He went at it anyway for another hour, in the way a man does when he already knows the answer and wants to have earned it. At the end of the hour he had nothing he had not already had at ten past nine.
 
@@ -9256,7 +9242,7 @@ Because a company has customers, and a customer has an account, and an account h
 
 Everything worth having was on the other side of a company that had no reason to tell him anything, and there was no paper road there at all.
 
-*I have an address that keeps a tank, a month four years ago, and the name of the firm that fills it. What I do not have is the one thing Sang-hoon actually asked me for, and there is no version of the next four weeks in which I get it from a desk by being patient.*
+*I have an address Jang has watched receive oxygen, and the name of the firm that fills it. What I do not have is the one thing Sang-hoon actually asked me for, and there is no version of the next four weeks in which I get it from a desk by being patient.*
 
 * * *
 
@@ -9276,7 +9262,7 @@ Annie was at the desk with the ledger open and did not close it.
 
 Annie put the pen down across the ledger.
 
-"Then say what has changed tonight, and do not tell me it is the filing, because you have had things like the filing all year and none of them has ever made you break a rule you set yourself."
+"Then say what has changed tonight, and do not tell me it is the supplier's name, because you have had names like that all year and none of them has ever made you break a rule you set yourself."
 
 Georgij took longer over that than he wanted to.
 
@@ -9334,7 +9320,9 @@ Because underneath it was the billing address, and the billing address was not i
 
 Then the orders, which is what he had come for.
 
-Four years of them, in a list, with a date against each one and nothing else. The system exists to tell a driver where to be. It has no interest at all in the person at the other end.
+This supplier's account began in July four years ago, in the month on the doctor's invoice. The first order was for a tank and every order after it was a refill. Nothing in this system predated it. That did not mean the house had contained no oxygen before then. It meant only that this firm had not supplied it.
+
+Four years of orders, in a list, with a date against each one and nothing else. The system exists to tell a driver where to be. It has no interest at all in the person at the other end.
 
 He copied them out by hand in date order and did not tidy them, and then he counted the gaps between them, and that was when the night stopped being work.
 
@@ -9878,7 +9866,7 @@ Both of those are true. There is no arrangement of them in which only one is.
 ---
 
 # Book Two · Chapter 45: The one who does not leave
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Ninety · Monday 20 July
 
@@ -9976,7 +9964,7 @@ Neither of them said anything for a moment.
 
 "Then what do I do," said Sang-hoon, "because I am not going to sit in a restaurant for the rest of the summer being told about a building."
 
-"You do the thing you are the only person who can do, and it is not the house." Georgij took the folded sheet out of his inside pocket at last and put it on the table without opening it. "Baek Jun-ho has administered that trust for eleven years and eleven others besides. He is a solicitor with a practising certificate, which is more than that man has ever had, and it is the only thing in the entire structure that belongs to somebody who could lose it."
+"You do the thing you are the only person who can do, and it is not the house." Georgij took the folded sheet out of his inside pocket at last and put it on the table without opening it. "Baek Jun-ho has administered that trust for eleven years and eleven others besides. He is an attorney registered with the Korean Bar Association, which is more than that man has ever had, and it is the only thing in the entire structure that belongs to somebody who could lose it."
 
 Sang-hoon looked at the folded sheet and did not touch it.
 
@@ -10250,7 +10238,7 @@ And underneath, because he had promised himself in June that the page would hold
 ---
 
 # Book Two · Chapter 47: The one he kept
-*Lot Fourteen* · Version 2.7 · EN
+*Lot Fourteen* · Version 2.8 · EN
 
 ## Day Two Hundred and Ninety-Eight · Tuesday 28 July
 
@@ -10308,7 +10296,7 @@ Baek Jun-ho has administered eleven trusts for a firm in Yeouido for most of his
 
 "All of it, then," said Georgij.
 
-"It is a set of instructions and a bank account, and nothing else. My job is to do what the instructions say and to be able to show that I did." Baek had his hands on his knees. "I do not know who benefits from that trust, and I am not hiding it from you. I have never been told, and there is no legal reason anybody would have to tell me."
+"It is a set of instructions and a bank account, and nothing else. My job is to do what the instructions say and to be able to show that I did." Baek had his hands on his knees. "The deed gives me a purpose and an address. It does not give me a beneficiary's name, because the trust was not drawn around a named beneficiary, and I am not hiding one from you."
 
 "What the instructions cover."
 
@@ -10678,7 +10666,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 49: Against her return
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -10844,7 +10832,7 @@ He wrote it on the back of the envelope afterward, in the car, and he did not wr
 
 Sim did not tell him to stop.
 
-"That house had no oxygen in it until the July on that invoice." He said it without arranging it at all. "A tank in a private house has to be told to the fire authority. The filing is one event. There is nothing before it. It has never been renewed as new and it has never been cancelled."
+"That supplier's account begins in the July on the invoice." He said it without arranging it at all. "There is nothing before it. The first order is a tank and the orders after it are refills, and the account has never been closed."
 
 Sim did not move for a long moment.
 
@@ -14368,7 +14356,7 @@ Annie did not say anything for a moment.
 ---
 
 # Book Two · Chapter 65: The first hour
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Ninety-Six · Tuesday 3 November
 
@@ -14478,7 +14466,7 @@ Georgij sat entirely still and did not write anything down.
 
 Baek Jun-ho looked at the case.
 
-"He wanted it made clear that the trustee could not be required to disclose the beneficiary to the beneficiary." He did not soften it. "And he wanted it made clear that the payments could not be stopped by him."
+"He wanted it made clear that the trustee could not be required to disclose the settlor to any person maintained under the trust." He did not soften it. "And he wanted it made clear that the payments could not be stopped by him."
 
 Neither of them said anything for a while.
 
@@ -18068,7 +18056,7 @@ He looked at that for a while.
 ---
 
 # Book Two · Chapter 81: I require your instructions
-*Lot Fourteen* · Version 3.5 · EN
+*Lot Fourteen* · Version 3.6 · EN
 
 ## Day Four Hundred and Ninety-Three · Monday 8 February
 
@@ -18206,7 +18194,7 @@ He came back and sat down.
 
 Georgij did not move at all.
 
-"The December signature. In writing, to the Law Society, with the deed and the schedule and the instruction attached. I have an appointment on the second of March with a man I have known for thirty-one years, and he is going to have to look at it." Baek said it in exactly the voice he had used for the other two parts. "I have been in this profession since 1994 and I have been investigated once, in 2007, and I was cleared, and I have told you that in this room before."
+"The December signature. In writing, to the Korean Bar Association, with the deed and the schedule and the instruction attached. I have an appointment on the second of March with a man I have known for thirty-one years, and he is going to have to look at it." Baek said it in exactly the voice he had used for the other two parts. "I have been in this profession since 1994 and I have been investigated once, in 2007, and I was cleared, and I have told you that in this room before."
 
 "I was told in June that being investigated is the one thing a man in your line cannot survive twice."
 
@@ -18522,7 +18510,7 @@ Annie looked out of the window for a while.
 ---
 
 # Book Two · Chapter 83: Nobody asked
-*Lot Fourteen* · Version 3.6 · EN
+*Lot Fourteen* · Version 3.7 · EN
 
 ## Day Five Hundred and Ten · Thursday 25 February
 
@@ -18568,11 +18556,11 @@ Two men and a lorry, and nobody has pretended it is an archive. It is a firm in 
 
 Mr Hwang put both hands on the desk.
 
-"Class one, the permanent series, thirty years and the renumbering, in nineteen boxes." He did not look at anything while he said it. "Class two, the settlement books. They went in a van on the twentieth of May last year and they are in a unit belonging to a fund, and I have added them to the same instruction. I could have had them copied in the first week of May and did not think of it."
+"Class one, the private permanent series, thirty years and the renumbering, in nineteen boxes. That is what goes today." He did not look at anything while he said it. "Class two, the settlement books. They went in a van on the twentieth of May last year and they remain in a unit belonging to a fund under the retention schedule. I could have had them copied in the first week of May and did not think of it."
 
 "You have told me that before."
 
-"I have told you that once, in this building, in May, and I am going to go on telling it to people until it stops being useful." He turned the sheet over. "Class three, correspondence. Class four, the personnel files, which go last and which go on the fourth of March, because there are people in them who are alive."
+"I have told you that once, in this building, in May, and I am going to go on telling it to people until it stops being useful." He turned the sheet over. "Class three, correspondence, divided by year and type and held where the schedule requires it. Class four, the personnel files, transferred to the liquidator's custodian for the remainder of their retention period. None of those three classes is on the lorry."
 
 Georgij sat in a chair in a room with two crates in it.
 
@@ -18590,7 +18578,7 @@ Mr Hwang did not answer straight away.
 
 The room did what a half emptied room does at ten past nine.
 
-"In nineteen weeks, with the schedule published, and every buyer this house ever had sent a copy of the wind-up notice in October." He said it flatly. "The second page gives a date and it does not give a method. It says that after the twenty-fifth of February this house holds nothing, and six hundred and forty people have read that sentence and every one of them has read it the same way."
+"In nineteen weeks, with the schedule published, and every buyer this house ever had sent a copy of the wind-up notice in October." He said it flatly. "The second page gives a date and it does not give a method. It says that after the twenty-fifth of February this house holds none of the permanent series, and six hundred and forty people have read that sentence and every one of them has read it the same way."
 
 "That it goes to an archive."
 
@@ -19738,7 +19726,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.23 · EN
+*Lot Fourteen* · Version 3.24 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -20044,7 +20032,7 @@ Annie did not move.
 
 "Then say what it is worth in March."
 
-"It went on the twenty-fifth of February and it took him four seconds to sign for it." His hands had not moved. "Class one, the permanent series, thirty years and the renumbering, nineteen boxes, against a schedule, to a firm in Siheung with a weighbridge. Hwang took the second cheapest of four quotations because the cheapest did not offer a certificate. The personnel files went last, on the fourth of March, because there are people in them who are alive."
+"It went on the twenty-fifth of February and it took him four seconds to sign for it." His hands had not moved. "Class one, the private permanent series, thirty years and the renumbering, nineteen boxes, against a schedule, to a firm in Siheung with a weighbridge. Hwang took the second cheapest of four quotations because the cheapest did not offer a certificate. The settlement books and personnel records did not go. Their custodians hold them by retention class, and neither contains the permanent series."
 
 Annie sat with that for a moment.
 

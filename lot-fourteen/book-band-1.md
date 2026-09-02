@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 100.735 Woerter.
+Book One, 34 Kapitel, 100.773 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -24,18 +24,18 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 11 | v2.14 | 2.643 |
 | 12 | v1.14 | 2.456 |
 | 13 | v2.11 | 2.822 |
-| 14 | v7.11 | 2.602 |
+| 14 | v7.12 | 2.612 |
 | 15 | v2.19 | 4.152 |
 | 16 | v1.23 | 3.232 |
-| 17 | v12.20 | 2.680 |
-| 18 | v2.14 | 2.928 |
+| 17 | v12.21 | 2.684 |
+| 18 | v2.15 | 2.938 |
 | 19 | v1.17 | 3.191 |
 | 20 | v1.13 | 1.910 |
 | 21 | v1.13 | 4.099 |
-| 22 | v1.6 | 2.589 |
+| 22 | v1.7 | 2.592 |
 | 23 | v3.9 | 2.653 |
 | 24 | v1.10 | 2.667 |
-| 25 | v1.9 | 2.555 |
+| 25 | v1.10 | 2.566 |
 | 26 | v1.10 | 2.407 |
 | 27 | v3.12 | 3.127 |
 | 28 | v1.11 | 2.708 |
@@ -3706,7 +3706,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Book One · Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.11 · EN
+*Lot Fourteen* · Version 7.12 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -3790,11 +3790,11 @@ Annie turned the first page over and did not read it.
 
 "Say the rest."
 
-"He will not tell me I am wrong about it. He does not correct people with sentences." Georgij said it flatly and without any decoration anywhere. "He will take the routes. He will take them in the next four to six weeks, because a split board sells cheaply and sells fast. He will have to put real money against them, and he will have to put it in early enough that he still believes it was his own idea."
+"He will not tell me I am wrong about it. He does not correct people with sentences." Georgij said it flatly and without any decoration anywhere. "He will take the first forty per cent. He will take it in the next four to six weeks, because seven holders want out and will sell cheaply and fast. He will have to put real money against four routes, and he will have to put it in early enough that he still believes it was his own idea."
 
 "How much?"
 
-"Between four hundred and six hundred billion for control, and it will not be the purchase that costs him. It will be what comes after." He took his hands out from behind his back. "Four routes with berths he cannot let go idle, in a group with no working board. He will spend the first three months finding out that nobody at Hanseong can sign anything, and while he is finding that out he will be paying slot fees on lanes that are running at sixty per cent."
+"Between four hundred and six hundred billion for the forty per cent, and it will not be the purchase that costs him. It will be what comes after." He took his hands out from behind his back. "Four routes with berths he cannot let go idle, in a company whose board has not worked since March. He will spend the first three months winning it back one director at a time, and while he is doing that he will be paying slot fees on lanes that are running at sixty per cent."
 
 "And Incheon?"
 
@@ -4699,7 +4699,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Book One · Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.20 · EN
+*Lot Fourteen* · Version 12.21 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4745,11 +4745,11 @@ It did not take its time now.
 
 "When does he move?"
 
-"Four to six weeks. Half that board wants out badly enough to sign anything, and will sign cheaply, and that is the half he will sit down with."
+"Four to six weeks. The holders of forty per cent want out badly enough to sign anything, and will sign cheaply, and they are the people he will sit down with."
 
 "And then?"
 
-"Then he is bound. He will have paid for four routes and bought a fight with the half that would not sit in a room." He sat back. "He will win it. It will take him a quarter, and he thinks he has a quarter, because he told me tonight that a family takes two years."
+"Then he is bound. He will have paid for forty per cent of four routes and bought a fight with the directors behind the other sixty." He sat back. "He will win it. It will take him a quarter, and he thinks he has a quarter, because he told me tonight that a family takes two years."
 
 "There is a third thing and he gave it to me without knowing he had it in his hand."
 
@@ -4952,7 +4952,7 @@ He did not turn round and look at the chair.
 ---
 
 # Book One · Chapter 18: On account
-*Lot Fourteen* · Version 2.14 · EN
+*Lot Fourteen* · Version 2.15 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5082,7 +5082,7 @@ Annie looked at him.
 
 "Go on."
 
-"An offer for all of a company is agreed by the people who own it, and the people who own that one have not sat in a room together since March." He did not move. "Your lawyers will do it the way they do everything. It will be careful and ordinary and entirely correct, and it will need both halves of that board to put their names on one sheet of paper."
+"An offer for every share can be made conditional on every holder signing the same agreement, and the two ownership blocs have not sat in a room together since March." He did not move. "Your lawyers will do it the way they do everything. It will be careful and ordinary and entirely correct, and it will make completion conditional on both sides putting their names on it."
 
 "And they will not."
 
@@ -5094,7 +5094,7 @@ Annie looked at him.
 
 "And what does that teach him." Annie had not moved. "He was never going to buy it that way."
 
-"No. He is going to sit down with the half that wants out and buy their shares, and shares are sold by the people who hold them." He had not moved from the corner of the desk. "Nobody needs a resolution for that, and he knew it before I wrote a word."
+"No. He is going to sit down with seven holders who between them own forty per cent and buy their shares, and shares are sold by the people who hold them." He had not moved from the corner of the desk. "Nobody needs a resolution for that, and he knew it before I wrote a word."
 
 "Then you have told him nothing."
 
@@ -5104,7 +5104,7 @@ Annie turned the pen over once.
 
 "And the disposal."
 
-"He asked me because he was measuring it, not because he was in doubt." Georgij put one hand flat. "He buys the half that wants out, cheaply and inside a fortnight. Then he takes the other half apart one at a time, and he is better at that than anybody in this country."
+"He asked me because he was measuring it, not because he was in doubt." Georgij put one hand flat. "He buys the forty per cent that wants out, cheaply and inside a fortnight. Then he takes the directors behind the other sixty apart one at a time, and he is better at that than anybody in this country."
 
 "So it works."
 
@@ -5134,11 +5134,11 @@ Annie sat with that.
 
 "Then you have made a bid you could not complete on a company you did not want, and it cost you legal fees and one afternoon of looking foolish in a small trade." He inclined his head. "That is the whole downside, and you are getting it from me before you find it."
 
-"And if the board meets."
+"And if both sides sign."
 
 There it was.
 
-"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him. It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a ceiling on the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
+"Then you have bought a shipping company with four good routes and inherited a board that has not worked since March, for money, and I will have done to you exactly what I am doing to him. It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a ceiling on the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
 
 "You have thought about this since the envelope arrived."
 
@@ -6154,7 +6154,7 @@ He was still holding his gloves.
 ---
 
 # Book One · Chapter 22: Not shown
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6206,7 +6206,7 @@ They were good minutes. Sang-hoon asked about Hanseong the way a man asks about 
 
 Annie let that stand.
 
-"And it will not be answered," he said, "because you have asked forty per cent of that board to sign something in the same fortnight as the other sixty. They have not been in a room together since March, and you know that. It is on page sixteen of a document I have read."
+"And it will not be answered," he said, "because you have asked the holders of forty per cent to sign the same agreement as the holders of the other sixty. The two sides have not sat in a room together since March, and you know that. It is on page sixteen of a document I have read."
 
 There it was, at the nineteenth minute, and it was not even hostile.
 
@@ -7023,7 +7023,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Book One · Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -7173,7 +7173,7 @@ Mr Chae did not move for a moment.
 
 Then he did something he had not done all morning, which was to take his glasses off.
 
-"In twenty-three years I have drawn two documents for that woman whose purpose I did not know," he said. "One of them went out seven days ago. It was a bid for a company that cannot accept a bid, because the board it needs has not met since March." He did not raise his voice at all. "That is a fact I put in the report she read before she instructed me."
+"In twenty-three years I have drawn two documents for that woman whose purpose I did not know," he said. "One of them went out seven days ago. It was a bid for every share in a company whose two ownership blocs had not sat in a room together since March, and it made completion conditional on both of them signing." He did not raise his voice at all. "That is a fact I put in the report she read before she instructed me."
 
 He folded the glasses.
 
