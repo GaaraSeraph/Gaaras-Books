@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.511 Woerter.
+Book Two, 90 Kapitel, 232.570 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -75,7 +75,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 62 | v1.4 | 2.128 |
 | 63 | v1.15 | 3.575 |
 | 64 | v1.4 | 2.123 |
-| 65 | v1.9 | 1.995 |
+| 65 | v1.10 | 2.017 |
 | 66 | v1.4 | 2.404 |
 | 67 | v2.6 | 2.074 |
 | 68 | v3.3 | 2.073 |
@@ -83,13 +83,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 70 | v3.3 | 2.249 |
 | 71 | v3.2 | 2.228 |
 | 72 | v3.2 | 3.672 |
-| 73 | v3.5 | 2.282 |
+| 73 | v3.6 | 2.313 |
 | 74 | v3.1 | 2.398 |
 | 75 | v3.6 | 2.564 |
 | 76 | v3.4 | 2.827 |
 | 77 | v3.2 | 2.331 |
 | 78 | v3.2 | 2.566 |
-| 79 | v3.3 | 2.864 |
+| 79 | v3.4 | 2.867 |
 | 80 | v3.4 | 2.845 |
 | 81 | v3.6 | 2.387 |
 | 82 | v1.5 | 2.808 |
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v3.5 | 2.148 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.25 | 3.900 |
-| 87 | v3.24 | 4.145 |
+| 87 | v3.25 | 4.148 |
 | 88 | v3.8 | 3.365 |
 | 89 | v4.1 | 1.995 |
 | 90 | v4.2 | 1.564 |
@@ -14356,7 +14356,7 @@ Annie did not say anything for a moment.
 ---
 
 # Book Two · Chapter 65: The first hour
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Three Hundred and Ninety-Six · Tuesday 3 November
 
@@ -14385,6 +14385,8 @@ Mrs Jeon read it to her.
 She read the whole instrument out loud, in order, and she read the third paragraph twice, and she did not summarise anything and did not say at any point what it meant.
 
 Then she gave her the pages and let her hold them for as long as she wanted, which was about nine minutes.
+
+The buyer's signature was already on the last page. Annie had put it there before Mrs Jeon went into the small room.
 
 The instrument does four things.
 
@@ -16146,7 +16148,7 @@ Mrs Ha looked at him for a long moment.
 ---
 
 # Book Two · Chapter 73: The fourth time
-*Lot Fourteen* · Version 3.5 · EN
+*Lot Fourteen* · Version 3.6 · EN
 
 ## Day Four Hundred and Forty-Five · Tuesday 22 December
 
@@ -16188,13 +16190,13 @@ She sat down first and told him to sit.
 
 "Then it should be the first one."
 
-"In November a woman on the river bought the five haulage firms on this lane." He said it to the desk between them. "Openly, in the register, at a price. Anybody in this country may go and read it, and by the end of January everybody on this coast will have."
+"Between the middle of May and the middle of June, a woman on the river bought a half-interest in each of the five other haulage firms on this lane." He said it to the desk between them. "Openly, in the register, at a price. Anybody in this country may go and read it, and by the end of January everybody on this coast will have."
 
 Nam Byung-hee did not move at all.
 
 "Say the second thing."
 
-"Your nephew is on the nine-truck rota at Mr Kwon's, and he has been since the twentieth of April, and that has not changed. As of the ninth of November the firm he works for belongs to her."
+"Your nephew is on the nine-truck rota at Mr Kwon's, and he has been since the twentieth of April, and that has not changed. Since the eighteenth of May, she has owned half of the firm he works for."
 
 The gulls did whatever gulls do over an empty yard.
 
@@ -16204,13 +16206,13 @@ The gulls did whatever gulls do over an empty yard.
 
 "Because I would have found it out in January off a register."
 
-"You would have found it out in January off a register, on your own. By then it would have been four weeks old, and you would have spent four weeks not knowing." He kept his hands where they were. "There is no version of this in which it is good news. There is one in which you hear it from the man who is responsible for it."
+"You would have found it out in January off a register, on your own. By then his firm would have been half hers for nearly eight months. You have already spent seven of them not knowing, and I was not going to leave you the eighth." He kept his hands where they were. "There is no version of this in which it is good news. There is one in which you hear it from the man who is responsible for it."
 
 She sat and looked at the desk for a while, which is what she does.
 
 "Was it arranged for him."
 
-"No. It was arranged for the lane and he came with it, and I did not think about him once until the eleventh of November." Georgij said it flatly. "He is twenty-three. He is on the same rota, at the same wage, doing the same work, and the name on the paper above him changed in an afternoon in Seoul and nobody in that yard noticed."
+"No. It was arranged for the lane and he came with it, and I did not think about him once until the twentieth of May." Georgij said it flatly. "He is twenty-three. He is on the same rota, at the same wage, doing the same work, and one of the names on the paper above him changed in an afternoon in Seoul and nobody in that yard noticed."
 
 "That is the whole of it."
 
@@ -17536,7 +17538,7 @@ He waited.
 ---
 
 # Book Two · Chapter 79: Not four
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Four Hundred and Sixty-Five · Monday 11 January
 
@@ -17706,7 +17708,7 @@ He had written one line in a car in Yeouido fourteen months ago, and he had neve
 
 Georgij did not move at all.
 
-"Your employer has bought five of them. It is in the register and I read the register, and so does everybody else who reads registers, and by the end of the month it will be a thing people say at lunch." Sang-hoon looked at him and not at the food. "So I would like to know about the sixth."
+"Your employer has bought a half-interest in five of them. It is in the register and I read the register, and so does everybody else who reads registers, and by the end of the month it will be a thing people say at lunch." Sang-hoon looked at him and not at the food. "So I would like to know about the sixth."
 
 The room did what a room does at three in the afternoon.
 
@@ -19726,7 +19728,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.24 · EN
+*Lot Fourteen* · Version 3.25 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19998,7 +20000,7 @@ Annie looked at him for a moment.
 
 "And the letterhead."
 
-"It has its standing from one lane, and there were six firms on that lane, and you bought five of them between the middle of May and the middle of June." He did not decorate it. "Openly, in the register, at a price. Anybody in this country may go and read it, and everybody on that coast has."
+"It has its standing from one lane, and there were six firms on that lane, and you bought a half-interest in five of them between the middle of May and the middle of June." He did not decorate it. "Openly, in the register, at a price. Anybody in this country may go and read it, and everybody on that coast has."
 
 "And the house."
 
