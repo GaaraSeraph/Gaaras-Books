@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 2 Kapitel, 4.229 Woerter.
+Book Three, 2 Kapitel, 4.240 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,13 +11,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.5 | 2.092 |
-| 02 | v1.8 | 2.137 |
+| 01 | v1.6 | 2.103 |
+| 02 | v1.9 | 2.137 |
 
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
@@ -109,7 +109,7 @@ There was a pause on the line of about three seconds.
 
 "You had no reason to ask."
 
-"I had every reason and I did not have the wit." He was not making it smaller. "Say what has happened."
+"I had every reason and I did not have the wit." He was not making it smaller. "What has happened. I have asked myself the wrong question four times since the call."
 
 Georgij told him what had come to the door and what was on it, and read him the name at the bottom, and did not say anything about what he thought it meant.
 
@@ -224,7 +224,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -312,7 +312,7 @@ Georgij bowed the way the man in front of him had.
 
 "There are three others who do not, and they are from the hall, the crematorium, and the office that sent out the notices." Gong Doo-hyun had his hands at his sides and did not do anything with them. "I am going to say one thing to you, and then you may go and stand anywhere you like, or leave, and I will not mind either."
 
-"Then say it."
+"The one thing."
 
 Georgij did not put anything in front of it.
 
