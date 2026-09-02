@@ -3438,14 +3438,26 @@ Dokument bei Nebenfiguren sonst jagt: eine Figur, die redet wie Georgij mit
 einem anderen Namen davor.
 
 **Das ist ein historischer Ausgangsstand, kein aktueller Zaehler.** Am 01.09.
-meldet dasselbe Skript ueber 126 Kapitel 371 Stellen: 213 bei Annie und
+meldete dasselbe Skript ueber 126 Kapitel 371 Stellen: 213 bei Annie und
 Sang-hoon, 62 bei Sprechern, die sie nach der Regel nicht behalten, und 96
 nicht sicher zugeordnete. Diese Zahlen ersetzen die damalige Messung nicht;
-sie beschreiben den heutigen Restbestand.
+sie beschreiben einen damaligen Zwischenstand.
+
+**Aktueller Stand nach der Gesamtpruefung am 02.09.: 278 Stellen.** Der
+unmittelbare Ausgangswert dieses Durchgangs lag nach den zwischenzeitlichen
+Kapitelarbeiten bei 372. Davon waren 94 wirkliche Verstosse gegen die Regel
+und wurden in 37 Kapiteln ersetzt: 47 bei Georgij und 47 bei Nebenfiguren.
+Die genaue Gegenprobe und alle Fassungen stehen in
+`protokoll/2026-09-02-figurenstimmen-machtlage-dialog-baende-1-bis-3.md`.
 
 **Entscheidung des Autors, 26.08.: *"Annie und Sang-hoon behalten ihn, mach den
 Rest."*** Bei diesen beiden trägt die Machtlage den Befehl - sie fordern, und
 der andere liefert. Bei allen anderen wird er ersetzt.
+
+Zwei spaetere, ausdrueckliche Ausnahmen gehen der allgemeinen Regel vor:
+Georgijs Geluebdebitte *"Say that I am yours"* in Band 2, Kapitel 6 und Moons
+autorengesperrtes *"Say the rest of it"* in Band 2, Kapitel 67. Beide werden
+nur nach neuer ausdruecklicher Autorenentscheidung geoeffnet.
 
 **Die Regel dahinter, und sie ist die Punkt-oder-Fragezeichen-Regel aus
 `CLAUDE.md` einen Schritt weitergedacht:** wer befehlen darf, befiehlt. Wer
@@ -3513,7 +3525,7 @@ python3 werkzeug/sprechbefehl.py --figur X  jede Stelle dieser Figur
 **Das Skript zählt, es urteilt nicht.** Es kann nicht wissen, ob ein Ersatz die
 Figur trifft. Was es kann, ist melden, dass jemand außer Annie und Sang-hoon
 den Befehl noch benutzt - und **das ist ab dem 26.08. ein Fund und kein
-Hinweis.**
+Hinweis**, sofern nicht eine der beiden ausdruecklichen Ausnahmen greift.
 
 **Der Stand am 26.08.:** 229 Stellen gehören Annie und Sang-hoon und bleiben,
 214 sind zugeordnet und zu ersetzen, 229 sind noch nicht zugeordnet und werden
@@ -3599,3 +3611,31 @@ Zeile mit genau *"There is a rest of it"* antwortet.
 Nominalphrase, weil der andere gerade selbst gesagt hat, was kommt. Sim sagt
 *"You will not like the last of it"* - Georgij antwortet *"The last of it."*
 Kürzer als ein Beat, und es zeigt, dass er zuhört.
+
+### Aktueller Vollzug: Figurenstimme gegen Machtlage
+
+Der erneute Vollzug ueber alle drei Baende hat den mechanischen Bestand von
+372 auf **278** gesenkt. Die 94 Aenderungen verteilen sich gleich: **47 bei
+Georgij, 47 bei anderen Figuren**. Georgij benennt nun Sache, Reihenfolge,
+Grund oder fehlenden Teil; die anderen erhalten ihren eigenen Zugriff auf die
+Auskunft: Frist, Preis des Nichtwissens, Verwendungszweck, Aktenordnung,
+Groessenangabe, Ortsritual oder berufliche Kategorie. Es gibt keinen neuen
+Einheitsersatz.
+
+Nur in Band 2, Kapitel 73 ersetzt ein Beat die ganze Replik: Nam Byung-hee
+wartet nicht auf Erlaubnis. Es wurde kein neuer Szenentrenner gesetzt. Mrs Ha
+erhaelt als einzige Stelle ein echtes Fragezeichen, weil sie dort nicht
+anordnet, sondern die Rueckfrage stellt, die ihre eigene Entscheidung traegt.
+
+Die 278 verbleibenden Werkzeugtreffer sind von Hand gegengelesen:
+
+- 213 ordnet das Skript direkt Annie oder Sang-hoon zu;
+- 53 bleiben technisch offen: 52 gehoeren ebenfalls Annie oder Sang-hoon,
+  einer ist die autorengesperrte Moon-Stelle;
+- 12 ordnet das Skript anderen Namen zu: elf sind Wechsel- oder
+  Szenenkantenfehler der Sprecherzuordnung, einer ist Georgijs bewusste
+  Geluebdeausnahme in Kapitel 6.
+
+Damit bleibt kein freigegebener Sprechbefehl offen. Der aktuelle Nachweis ist
+das Protokoll zu Pruefblickwinkel 9; historische Zaehler in diesem Abschnitt
+bleiben als Entstehungsgeschichte stehen.

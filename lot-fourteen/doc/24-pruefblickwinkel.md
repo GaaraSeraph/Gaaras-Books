@@ -51,8 +51,8 @@ Befunde und die Umsetzung oder bewusste Nichtumsetzung festhaelt.
 | 6 | Gegenstaende, Dokumente und Besitzketten | ERLEDIGT | `protokoll/2026-09-02-gegenstaende-besitzketten-baende-1-bis-3.md` |
 | 7 | Institutionen, Recht, Wirtschaft und Verfahren | ERLEDIGT | `protokoll/2026-09-02-institutionen-recht-wirtschaft-verfahren-baende-1-bis-3.md` |
 | 8 | Rollen, Vollmachten, Eigentum und Abhaengigkeiten | ERLEDIGT | `protokoll/2026-09-02-rollen-vollmachten-eigentum-abhaengigkeiten-baende-1-bis-3.md` |
-| 9 | Figurenstimmen und Machtlage im Dialog | NAECHSTER | - |
-| 10 | Perspektivnaehe und Erzaehlergewissheit | OFFEN | - |
+| 9 | Figurenstimmen und Machtlage im Dialog | ERLEDIGT MIT AUTORENSPERRE | `protokoll/2026-09-02-figurenstimmen-machtlage-dialog-baende-1-bis-3.md` |
+| 10 | Perspektivnaehe und Erzaehlergewissheit | NAECHSTER | - |
 | 11 | Szenenfunktion, Kausalbruecken und Redundanz | OFFEN | - |
 | 12 | Zusagen, Motive und spaete Auszahlungen | OFFEN | - |
 | 13 | Leserwissen und Fairness der Enthuellungen | OFFEN | - |
@@ -64,6 +64,11 @@ Befunde und die Umsetzung oder bewusste Nichtumsetzung festhaelt.
 Moon-Befund nicht erneut. Aendere Moons fruehe Namens- oder Wissenslinie nur,
 wenn der Autor diese Entscheidung ausdruecklich wieder aufnimmt. Die drei
 anderen Befunde dieses Protokolls sind umgesetzt.
+
+**Autorensperre zu Nr. 9:** Band 2, Kapitel 67 behaelt Moons *"Say the rest of
+it"*. Die Stelle wurde im Stimmendurchgang ausdruecklich ausgenommen. Oeffne
+sie nicht als Restfund des Sprechbefehl-Werkzeugs, solange der Autor diese
+Entscheidung nicht ausdruecklich wieder aufnimmt.
 
 ---
 
