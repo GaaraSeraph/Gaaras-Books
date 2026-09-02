@@ -127,8 +127,9 @@ nicht ist. **Regel daraus: jede neue Ablage braucht eine spaetere Entnahme, und
 wer eine schreibt, notiert wo.**
 
 `check.py` prueft alles Mechanische: Satzlaenge, Gedankenstriche, Tics,
-Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book-band-1.md`, `book-band-2.md`,
-`HANDBUCH.md` und `MANIFEST.txt` neu und bricht ab, wenn Dateiname und Kopfzeile
+Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`,
+`book-band-1.md`, `book-band-2.md`, `book-band-3.md`, `HANDBUCH.md` und
+`MANIFEST.txt` neu und bricht ab, wenn Dateiname und Kopfzeile
 auseinanderlaufen.
 
 `read/` ist die Fassung zum Anschauen: `reader.py` setzt jedes Kapitel als
@@ -176,6 +177,7 @@ die Kapitelpruefung warnt nur.
 | `CLAUDE.md` | Diese Datei. Die einzige oben, die von Hand bearbeitet wird |
 | `book-band-1.md` | Lesefassung von Band 1 am Stueck. **Erzeugt** |
 | `book-band-2.md` | Lesefassung von Band 2 am Stueck. **Erzeugt** |
+| `book-band-3.md` | Lesefassung von Band 3 am Stueck. **Erzeugt** |
 | `erzeugt/HANDBUCH.md` | Lesefassung aller Regeln und des Kanons. **Erzeugt** |
 | `erzeugt/BEGEGNUNGEN.md` | Wer wann vorkommt, mit Tag und Fundstelle. **Erzeugt** |
 | `erzeugt/KAPITEL.md` | Eine Zeile je Kapitel: Titel, Fassung, Tag, Datum, Laenge. **Erzeugt** |
