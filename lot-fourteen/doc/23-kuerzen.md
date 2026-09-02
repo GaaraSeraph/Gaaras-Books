@@ -224,7 +224,7 @@ entstehen:
 | 29/8 | auf 300, *"die Jagd bewegt sich nicht"* | Jangs Frage, ob vier Tage verschwendet oder ausgegeben werden - und Annie deckt auf, dass es Georgijs Frage war. Dort faengt die Liste der Tischgaeste an |
 | 32/3 | ganz streichen, *"wiederholt das Gartenurteil"* | *"If I leave out the ones I like, I am not running anything."* Und **die Regel, nach der der Rest des Buches laeuft**: *"Tell him, or ask him. Not both."* |
 | 32/4 | auf 150, *"reine Beinarbeit"* | *"You are the second person to ask me about a private dinner from before my time. The first one asked in April."* Das ist der Fund |
-| 35/5 | auf 200, *"der Schreibtisch gibt nichts her"* | Die Brandschutzmeldung: Juli vor vier Jahren, medizinischer Sauerstoff, einmal eingetragen und nie geloescht, mit dem Namen der Firma. Die Kette, die zu Baek fuehrt |
+| 35/5 | auf 200, *"der Schreibtisch gibt nichts her"* | Jangs beobachteter Gaslieferwagen liefert den Firmennamen; der oeffentliche Weg endet bei der Lieferzulassung, das private Konto beginnt im Juli vor vier Jahren. Die Kette, die zu Baek fuehrt |
 
 ### Die Entscheidung
 
@@ -283,7 +283,7 @@ Ursache da.
 *Ersparnis: etwa 1500 von 4119 Woertern.*
 
 **6. Der zehnte Mensch im Haus wird dreimal gefunden.** 43 findet ihn als
-Essensmenge, 44 als Sauerstoffmeldung, 48 macht daraus *certain*. Drei Kapitel,
+Essensmenge, 44 ueber Lieferwagen und Sauerstoffkonto, 48 macht daraus *certain*. Drei Kapitel,
 ein Befund, zwei Wochen Erzaehlzeit. Kandidat zum Zusammenziehen ist **43 mit
 44**. Kapitel 44 benennt sein eigenes Ergebnis woertlich als nichts: *"That took
 forty minutes and it produced nothing he had not already had at ten past nine."*
@@ -459,7 +459,7 @@ einziger Auftritt); aus K16 muessen zwei Absaetze mit, *"Frightened only"* und
 *"There is no calendar in that office."*
 
 **b2 K39 + alt K44, 5153 Woerter.** Der zehnte Mensch im Haus wird in 43 als
-Essensmenge gefunden, in 44 als Sauerstoffmeldung, in 48 wird daraus *certain*.
+Essensmenge gefunden, in 44 ueber Lieferwagen und Sauerstoffkonto, in 48 wird daraus *certain*.
 Drei Kapitel, ein Befund. alt K44 benennt sein eigenes Ergebnis selbst als nichts:
 *"That took forty minutes and it produced nothing he had not already had at ten
 past nine."*

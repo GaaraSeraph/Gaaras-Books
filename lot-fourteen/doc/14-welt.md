@@ -355,15 +355,64 @@ Ihr Name steht offen in der ersten Abteilung. Sie hat nichts versteckt, und es g
 
 **Ziel ist Sang-hoon.** Er soll Mittel binden, während er zugreift, damit er im entscheidenden Moment nicht flüssig genug ist. Das geht nur über seine eine Eigenschaft: Hat er einmal zugebissen, kann er nicht loslassen.
 
-**Hanseong** verliert seit sechs Monaten Kapital, der Vorstand ist zerstritten, es gibt Unterschlagungsgerüchte, und es besitzt Schifffahrtsrouten. Es gehört einem Chaebol, der **nicht benannt und nicht auf der Gala anwesend** ist. Das bleibt bewusst offen: eine Rechnung ohne Gesicht, die später jemand präsentiert.
+**Hanseong Shipping** verliert seit sechs Monaten Kapital, der Vorstand ist
+zerstritten, es gibt Unterschlagungsgeruechte, und die Gesellschaft besitzt
+Schifffahrtsrouten. Sie gehoert zur Gruppe eines Chaebol, der **nicht benannt
+und nicht auf der Gala anwesend** ist. Das bleibt bewusst offen: eine Rechnung
+ohne Gesicht, die spaeter jemand praesentiert.
 
 **Der Griff.** Beim Abendessen legt Georgij den Bericht hin und bittet nicht um etwas, sondern um Korrektur: ob seine Analyse Unsinn sei, der andere habe mehr Ahnung. Ein Mann wie Sang-hoon korrigiert nicht mit Worten, sondern indem er vorführt, und Vorführen heißt handeln. Georgij muss nie vorschlagen, dass er kaufen soll. Er muss nur falsch genug liegen.
 
-**Wie die Falle zuschnappt.** Der zerstrittene Vorstand ist nicht bloß Farbe, er ist der ganze Mechanismus, und die zwei Hälften des Satzes gehören zusammen. Die eine Hälfte des Vorstands will heraus und unterschreibt schnell und billig, und das ist die Hälfte, mit der Sang-hoon verhandelt. Danach ist er gebunden. Was er gekauft hat, ist eine Gruppe, die anschließend nichts mehr beschließen kann, auch keinen Weiterverkauf, weil die andere Hälfte jede Entscheidung blockiert. Er zahlt Slotgebühren auf Fahrwasser bei sechzig Prozent Auslastung und kommt an sein eigenes Geld nicht heran.
+**Wie die Falle zuschnappt.** Vorstand und Anteilseigner sind zwei verschiedene
+Ketten. Sieben Anteilseigner, die zusammen vierzig Prozent halten, wollen
+heraus und verkaufen schnell. Sang-hoon kauft ihre Aktien; der Vorstand verkauft
+nichts. Danach haelt er ein grosses Minderheitspaket und kauft sich damit einen
+Kampf um die Gesellschaft. Der weiterhin zerstrittene Vorstand macht den
+Betrieb langsam, bis Sang-hoon die Gegenseite Direktor fuer Direktor gewonnen
+hat. Er gewinnt diesen Kampf, aber er braucht dafuer ein Quartal und bindet in
+dieser Zeit Geld in vier Routen mit sechzig Prozent Auslastung.
 
-**Er sieht die Wand vorher.** In Kapitel 16 fragt er von sich aus, ob ein Vorstand, der nicht mehr tagt, eine Veräußerung überhaupt genehmigen kann, Seite vierzehn. Er stellt also genau die Frage, an der er scheitern wird, und beißt trotzdem. Das ist keine Dummheit, sondern seine eine Eigenschaft.
+**Er sieht die Wand vorher.** In Kapitel 16 fragt er von sich aus, ob ein
+Vorstand, der nicht mehr tagt, eine Veraeusserung wesentlicher
+Vermoegenswerte genehmigen kann. Das ist eine geschlossene Vordertuer. Annies
+Scheingebot auf saemtliche Aktien scheitert an einer anderen: Die beiden
+Eigentumsseiten unterschreiben nicht gemeinsam. Sang-hoon geht durch keine von
+beiden. Er kauft nur die Aktien der verkaufswilligen Anteilseigner und nimmt
+den anschliessenden Boardkampf in Kauf. Das ist keine Dummheit, sondern seine
+eine Eigenschaft.
 
 **Der Bericht ist wahr.** Hanseong blutet tatsächlich, der Vorstand ist tatsächlich zerstritten. Die Täuschung liegt nicht im Inhalt, sondern darin, warum er auf dem Tisch liegt. Deshalb kann Georgij es tun, ohne seine Regel zu brechen, und deshalb ist es das Unangenehmste, was er bisher getan hat: Er lügt kein einziges Mal und ruiniert damit einen Mann.
+
+#### Besitz- und Marktlinie fuer Band 3
+
+**Festgeschrieben nach der Verfahrenspruefung am 02.09.** Hanseong Shipping ist
+eine eigenstaendig handelbare Gesellschaft innerhalb der Hanseong-Gruppe.
+Sang-hoon haelt seit Band 1 **vierzig Prozent**, gekauft von sieben
+Anteilseignern. Er hat damit nicht automatisch die Gesellschaft uebernommen;
+seine spaetere betriebliche Wirkung kommt aus dem gewonnenen Boardkampf.
+
+Die uebrigen sechzig Prozent bestehen aus dem Han-kontrollierten Block und
+frei bzw. familiaer gehaltenen Aktien. Die genaue Unterteilung bleibt offen,
+bis eine Szene sie braucht. Fest steht nur die Rechnung: Ohne Sang-hoons Paket
+muss Annie fuer gewoehnliche Kontrolle mehr als fuenfzig Prozent aus diesen
+sechzig erwerben. Darum ist *the other thing* teurer, aber moeglich. Sang-hoon
+behaelt danach vierzig Prozent und kann Entscheidungen blockieren, fuer die
+eine qualifizierte Mehrheit noetig ist.
+
+**Fuer den Boersenzug gilt:** Der private Short-Vorschlag bleibt verworfen und
+erzeugt keinen Gewinn, der den Feldzug finanziert. Oeffentliche Wahrheit ist
+kein Freibrief fuer einen vorher vorbereiteten Eigennutzen. Annie kauft erst
+nach der Veroeffentlichung und unter sichtbaren Erwerbs- und Meldewegen. Der
+Satz *Shipping is yours* darf erst nach Erwerb und Abwicklung der
+Stimmrechtsmehrheit fallen; Server-, Bank- und Lieferantenzugriffe folgen aus
+Vollmachten und Governance-Schritten, nicht automatisch aus einem Kursstand.
+
+**Was Han dadurch in Band 1 verliert, ist ungestoerte Kontrolle, Ruhe und Zeit,
+nicht ein Vermoegenswert der Gruppe.** Die sieben Verkaeufer haben ihre eigenen
+Aktien veraeussert. Han wurde nicht gefragt, weil er nicht Verkaeufer war;
+Georgij hat seiner Gesellschaft einen feindlichen Minderheitsaktionaer und
+einen Boardkampf eingebracht. Das traegt Hans spaeteres Motiv genauer als der
+falsche Satz, Hanseong habe vierzig Prozent einer Tochter verloren.
 
 ---
 
@@ -1161,7 +1210,10 @@ Regel ueberhaupt etwas bedeutet.
 52. **Georgij liest die Meldungen der Kunden, nicht die Vertraege** (Kanon aus `doc/04`, hier zweimal in Betrieb).
 53. **Das Haus am Fluss schliesst am 29. April.** Die Settlement-Buecher gehen **am 20. Mai** gegen ein von Hwang unterschriebenes Verzeichnis in ein Lager eines Fonds, der sie nie aufmachen wird.
 54. **Warum die Seite trotzdem nichts beweist:** *"a page that nobody living will stand behind is a photocopy of an allegation."*
-55. **Der Trust wurde vor elf Jahren gegruendet** und steht **sowohl** hinter dem Pflegeheim bei Wonju **als auch** hinter der erloschenen Arztzulassung. Einmal gebaut, zweimal benutzt.
+55. **Der Trust wurde vor elf Jahren gegruendet** und steht **sowohl** hinter
+    dem Pflegeheim bei Wonju **als auch** hinter der nie geschlossenen
+    medizinischen Einrichtungsakte der verschwundenen Praxis. Einmal gebaut,
+    zweimal benutzt.
 
 ---
 
@@ -1179,7 +1231,7 @@ schliessen, dass nie etwas vernichtet wird.** Es wird.
 | **Do 25. Februar**, Tag 510 | **Neunzehn Kisten.** *He signed the manifest at the desk with the door open, and it took him about four seconds*, und Georgij steht elf Fuss entfernt im Korridor und sieht nicht zu (`b2 ch83:206`) |
 | **Fr 26. Februar** | **Die Bescheinigung kommt mit der Post**, eine Seite: Datum, Klasse, **Gewicht in Kilogramm**, Methode, Referenznummer (`b2 ch83:210`) |
 | **Mo 1. Maerz** | Per Kurier ans Haus am Fluss, **Kompliment-Zettel ohne ein Wort darauf**. Georgij steckt sie am Nachmittag in die Innentasche (`b2 ch83:216`) |
-| **Do 4. Maerz** | **Die Personalakten zuletzt**, *because there are people in them who are alive* (`b2 ch87:354`) |
+| **Gesetzliche Frist** | **Abrechnungs- und Personalunterlagen werden nicht vernichtet.** Sie bleiben beim Fonds bzw. beim Verwahrer des Liquidators nach Aufbewahrungsklasse |
 | **Do 18. Maerz** | **Choi droht mit dem Archiv**, waehrend die Bescheinigung in der Innentasche liegt (`b2 ch86:198`, `b2 ch87:368`) |
 
 **Der Abstand ist drei Wochen, und das ist die Voraussetzung fuer das
@@ -1208,8 +1260,8 @@ not the six hundred and fortieth envelope.*
 
 **Bis `b2 ch83` sagt niemand vernichten.** Alle sagen Archiv, und Hwang sagt
 es auch. Was er am 22. Oktober durchgibt, ist das Ende des Hauses und nicht
-das Schicksal der Akten: *This house holds nothing after the twenty-fifth of
-February.*
+das Schicksal der privaten Reihe: *This house holds none of the permanent
+series after the twenty-fifth of February.*
 
 **Warum das so bleiben muss, und es sind drei Sachen:**
 
@@ -1243,13 +1295,13 @@ doing"* (`b2 ch87:330`).
 
 | Klasse | Was | Wohin, und wann |
 |---|---|---|
-| **eins** | die dauerhafte Reihe, dreissig Jahre und die Umnummerierung | **neunzehn Kisten**, 25. Februar |
-| **zwei** | die Abrechnungsbuecher | **schon weg**: 20. Mai im Vorjahr, in einer Lagereinheit eines Fonds, **nachtraeglich derselben Anweisung unterstellt** |
-| **drei** | Schriftverkehr | nach Plan |
-| **vier** | die Personalakten | **zuletzt, am 4. Maerz**, *"because there are people in them who are alive"* |
+| **eins** | die private dauerhafte Reihe, dreissig Jahre und die Umnummerierung | **neunzehn Kisten**, Vernichtung am 25. Februar |
+| **zwei** | die Abrechnungsbuecher | **schon weg**: 20. Mai im Vorjahr, in einer Lagereinheit eines Fonds; verbleiben dort nach Aufbewahrungsplan |
+| **drei** | Schriftverkehr | nach Jahr und Typ getrennt; Aufbewahrung nach Plan |
+| **vier** | die Personalakten | an den Verwahrer des Liquidators fuer die verbleibende Aufbewahrungsfrist |
 
-**Und was mit einer Akte tatsaechlich geschieht, entscheidet kein Mensch,
-sondern ein Formular** (`b2 ch83:36` bis `44`):
+**Was mit der privaten Reihe in einem gewoehnlichen Archiv geschehen waere,
+entscheidet dort praktisch ein Formular** (`b2 ch83:36` bis `44`):
 
 * **Eine Aufbewahrungsfrist laeuft ab dem Datum auf dem Einlieferungsschein**,
   und **niemand macht eine Kiste auf, um nachzusehen, ob das Papier darin aus
@@ -1261,10 +1313,11 @@ sondern ein Formular** (`b2 ch83:36` bis `44`):
 * **Eine Kiste, auf die gar nichts geschrieben wurde, steht in dem Raum, bis
   das Gebaeude abgerissen wird.**
 
-**Deshalb kein Archiv.** *"That is the ordinary kind of carelessness, and it is
-the only kind there is, and it is why I am not sending thirty years of this
-house to a room where a stranger reads a form... **A weighbridge does not read
-anything.**"*
+**Deshalb kein Archiv fuer die private permanente Reihe.** Die gesetzlichen
+Geschaefts- und Personalunterlagen bleiben davon getrennt. *"That is the
+ordinary kind of carelessness, and it is the only kind there is, and it is why
+I am not sending thirty years of this house to a room where a stranger reads a
+form... **A weighbridge does not read anything.**"*
 
 ### Warum trotzdem sechshundertvierzig Leute Archiv lesen
 

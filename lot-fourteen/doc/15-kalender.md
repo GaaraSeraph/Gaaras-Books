@@ -466,20 +466,21 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   betreten - der naechste Schritt liegt bei Sang-hoons Grundbuchrecherche**
   (Band 2, Kapitel 33)
 - Tag 262, Mo 22. Juni: **der Arzt-Faden, ganz vom Schreibtisch aus.**
-  Elf registrierte Hausbesuch-Praxen landesweit vor vier Jahren, sechs
-  sofort ausgeschlossen (Paediatrie, geschlossen, zu weit weg), eine
-  Klinikgruppe wegen eigener Revision, zwei per Telefon als gewoehnliches
-  Geschaeft bestaetigt. **Bleiben zwei - eine mit erloschener statt
-  geschlossener Zulassung**, die andere von Kollegen gedeckt, die ihn nie
-  aus der Naehe gesehen haben, aber als harmlos entlarvt, sobald Georgij
-  ihre Klinik direkt anruft. **Dr. Oh Seung-min, vierundfuenfzig beim
-  Hausbesuch vor vier Jahren, jetzt achtundfuenfzig.** Der Name geht an
+  Es gab 2016 keine besondere Hausbesuchslizenz. Georgij bildet elf Kandidaten
+  aus historischen medizinischen Einrichtungsakten, Anzeigen fuer private
+  Hausbesuche, Fachgebiet, Oeffnungsdaten und veroeffentlichten Anfahrtskosten.
+  Neun fallen anhand oeffentlicher Unterlagen heraus. **Von den letzten zwei
+  hat eine Praxis ihre Eintraege und Website drei Jahre nach der Rechnung
+  verloren, ohne dass die medizinische Einrichtungsakte geschlossen wurde;**
+  die andere erweist sich ueber Krankenhauslaufbahn und Ruhestandsmitteilung
+  als gewoehnlicher Arzt. **Dr. Oh Seung-min, vierundfuenfzig beim Hausbesuch
+  vor vier Jahren, jetzt achtundfuenfzig.** Der Name geht an
   niemanden ausser Annie - nicht Sang-hoon, nicht Jang, nicht einmal ins
   Notizbuch ein zweites Mal (Band 2, Kapitel 34)
 - Tag 270, Di 30. Juni: **Sang-hoons Grundbuchrecherche liegt vor.** Vier
   Eigentuemer sind vier Firmen tief plus ein Trust, verwaltet seit elf
   Jahren von Solicitor Baek Jun-ho (Yeouido, nicht der Koch). **Derselbe
-  Trust steht hinter der erloschenen Arztzulassung** - einmal gebaut,
+  Trust steht hinter der nie geschlossenen medizinischen Einrichtungsakte** - einmal gebaut,
   zweimal benutzt. Zwei Daten, die nicht zusammenpassen wollen: **Trust
   gegruendet vor elf Jahren, Arztbesuch vor vier.** Georgij bringt eine
   dritte, duesterere Lesart ins Spiel: nicht zwei Gruende, sondern einer,
@@ -490,13 +491,13 @@ fuenfundzwanzig Jahren am Tisch sowie dem gefuehrten Geburtstag.
   S (Maerz, vor vier Jahren) und H (Ende August, drei Jahre danach, sechs Wochen
   vor Hwangs Ankunft) haben jetzt Daten ohne Namen. K bleibt offen - Annie
   weist auf Orte ohne Rechnung: Golfplatz, Badehaus (Band 2, Kapitel 35)
-- Tag 276, Mo 6. Juli: **Brandschutz-Meldung und Jangs Gasflaschen-Lieferwagen
-  bestaetigen sich gegenseitig.** Medizinischer Sauerstoff wurde am
-  Pflegeheim bei Wonju genau einmal gemeldet, im Juli vor vier Jahren, nie
-  storniert. Jang beobachtet seit drei Wochen denselben Lieferwagen, nur an
-  diesem Haus, ohne festen Rhythmus - vermutlich bestellt statt Routine.
-  **Stuetzt Georgijs dritte Lesart** (eine Person, elf Jahre gehalten, vor
-  vier Jahren verschlechtert), **beweist aber keinen Namen.** Annie bremst
+- Tag 276, Mo 6. Juli: **Jangs einmal beobachteter Gaslieferwagen liefert den
+  Namen des Sauerstoffunternehmens.** Dessen oeffentliche Zulassung bestaetigt
+  nur Transport und Lieferung medizinischer Gase; Kunden und Lieferdaten sind
+  privat. Georgij oeffnet das System und findet ein Kundenkonto, das im Juli
+  vor vier Jahren mit einem Tank beginnt, sowie die spaetere Lieferkurve.
+  **Das datiert dieses Lieferantenkonto, nicht den Beginn der elfjaehrigen
+  Sauerstoffversorgung.** Annie bremst
   ausdruecklich. K weiterhin offen, jetzt mit ausgeschlossenem Ansatz
   (Golfclub-Mitgliederlisten nicht zugaenglich) (frueheres Kapitel 44)
   (Band 2, Kapitel 35)
@@ -947,7 +948,10 @@ nicht ins Archiv.
 60. **Die Fernbedienung, vier festgelegte Stellen:** Tag 1 neben die Schluesselschale, Tag 2 noch dort, **Tag 9 weg**, Tag 19 spricht sie ihn darauf an, **Tag 22 legt sie sie vor ihm in die Clutch.** Seither traegt sie sie am Koerper, **und er weiss es jede Minute.** *(Bindend: eine Fassung, in der er in b1 K22 ueberrascht ist, ist falsch.)*
 61. **Nam schreibt am achtzehnten statt am Ersten**, und das Datum ist das Signal: *"I am writing to you on the eighteenth because I no longer have a first to wait for."* Ihr Aufschub geht bis zum **1. April**, nicht bis zum 26. Maerz.
 62. **Die Zeile in Ulsan liegt seit dem 14. Maerz dort** - zwoelf Tage nach dem Paket vom 2. Maerz. *"Das ist nicht die Zeit zum Bemerken, das ist die Zeit zum Benutzen."*
-63. **Der Sauerstoff:** die Adresse steht **genau einmal** in der Brandschutz-Meldeliste, **im Juli vor vier Jahren**, nie storniert.
+63. **Der Sauerstoff:** Das Konto des heutigen Lieferanten beginnt **im Juli
+vor vier Jahren** mit einem Tank; danach folgen nur Nachfuellungen. Es gibt in
+diesem System nichts davor. Das beweist keinen Beginn der Sauerstoffversorgung,
+sondern nur den Beginn dieses Lieferwegs.
 64. **Die Lieferabstaende ueber vier Jahre: dreissig, vierundzwanzig, sechzehn, neun** - mit **einer Luecke von einundfuenfzig Tagen im zweiten Herbst**, mitten in einer Strecke von Vierundzwanzigern.
 65. **Die Blumen:** **6. April** zwoelf weisse Stiele, Pyeongchang-dong mit Wohnungsnummer und Stock, Kaertchen ***"From an old friend."*** **27. April** dieselbe Bestellung, **andere Adresse ausserhalb der Stadt, kein Kaertchen** - und der Laden fragt immer. Dazwischen, auf derselben Zeile, **der Wagen vom 26.**
 66. **Los sechs:** Fruehjahrsauktion vor vier Jahren, im Buch vom Januar davor bis zum September danach, vier abgerechnete Posten gegen dieselbe Fundstelle: **Blumen zweimal, ein Fahrer, ein Arzt im Juli.**
@@ -981,14 +985,14 @@ November bis zum fuenfundzwanzigsten Februar, einhundertfuenfzehn Tage.
 
 ### Der Mechanismus, in drei Saetzen
 
-**Klasse ist Termin.** Hwang sortiert die Papiere des Hauses in vier Klassen,
-und jede Klasse hat einen Tag. Klasse vier geht zuletzt, am vierten Maerz, weil
-Menschen darin vorkommen, die leben.
+**Klasse ist Verwahrung.** Hwang sortiert die Papiere des Hauses in vier
+Klassen. Nur Klasse eins, die private permanente Reihe, geht am 25. Februar zur
+Vernichtung. Abrechnungsbuecher, Schriftverkehr und Personalakten verbleiben
+nach ihren Aufbewahrungsplaenen beim Fonds bzw. beim Verwahrer des Liquidators.
 
 **Index ist Klasse.** Indexieren heisst, festzuhalten, in welche Klasse etwas
-gehoert. Und weil die Klasse den Termin traegt, entscheidet der Index, **wann**
-etwas vernichtet wird. Was in keiner Klasse steht, bekommt keinen Termin und
-liegt fuer immer.
+gehoert. Fuer die private Reihe entscheidet die Klasse, was am 25. Februar auf
+den Lkw kommt; die gesetzlichen Unterlagen stehen nicht auf dieser Anweisung.
 
 **Deshalb ist Nachlaessigkeit in einem Archiv kein Verlust, sondern
 Ueberleben.** Eine Aufbewahrungsfrist laeuft vom Datum auf dem Einlieferungs-
@@ -998,7 +1002,7 @@ dem Jahr ist. Oeffnen ist eine Woche Arbeitszeit, das Formular ist umsonst.
 ### Wer was weiss, und wann
 
 **Die Anzeige nennt ein Datum und keine Methode.** Sie sagt, dass das Haus nach
-dem fuenfundzwanzigsten Februar nichts mehr haelt. Sechshundertvierzig Kaeufer
+dem fuenfundzwanzigsten Februar nichts aus der permanenten Reihe mehr haelt. Sechshundertvierzig Kaeufer
 haben das im Oktober gelesen, und Hwang sagt im Februar voraus, dass jeder von
 ihnen denselben Schluss zieht: **Archiv.** Er hat niemandem etwas anderes
 gesagt, auch dem Fonds nicht.

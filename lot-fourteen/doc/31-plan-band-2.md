@@ -298,7 +298,7 @@ ist, ist, dass niemand seinen Typ gebraucht hat.
 
 **Es gibt davon keine Szene. Nie.** Kein Operationsraum, kein Gestaendnis, keine
 Erklaerung durch einen Boesewicht. Es kommt so, wie in diesem Buch alles kommt -
-eine Losnummer in einem Namensfeld, eine Brandschutzmeldung, ein Gaskonto, **eine
+eine Losnummer in einem Namensfeld, ein beobachteter Lieferwagen, ein Gaskonto, **eine
 Kreuzprobe in einem Laborbuch.** Der Leser setzt es selbst zusammen, und deshalb
 wird ihm schlecht.
 
@@ -1790,7 +1790,8 @@ Fassung.**
 
 - **ARZT- UND PFLEGEHEIM-FADEN SIND BESTAETIGT DERSELBE FADEN (Kapitel 42).**
   Ein Trust, verwaltet seit elf Jahren von Solicitor Baek Jun-ho (Yeouido,
-  nicht der Koch), steht hinter beidem - der erloschenen Arztzulassung
+  nicht der Koch), steht hinter beidem - der nie geschlossenen medizinischen
+  Einrichtungsakte der verschwundenen Praxis
   UND dem Pflegeheim bei Wonju. **Zwei Daten offen: Trust vor elf Jahren
   gegruendet, Arztbesuch vor vier.** Georgijs dritte Lesart (ein Grund,
   der nach elf Jahren versagt hat) ist unbewiesen.
@@ -1801,13 +1802,13 @@ Fassung.**
   Kapitel 40 bereits), sondern ob es dieselbe Person ist. **Zwei
   verschiedene Fragen, noch nicht getrennt beantwortet.**
 
-  **Kapitel 44: starke Indizien, kein Name.** Brandschutz-Meldung fuer
-  medizinischen Sauerstoff (genau einmal, Juli vor vier Jahren) und Jangs
-  unabhaengig beobachteter Gaslieferwagen (drei Wochen, kein fester
-  Rhythmus, nur diese Adresse) stimmen ueberein und stuetzen Georgijs
-  dritte Lesart aus Kapitel 42 (eine Person, elf Jahre gehalten, vor vier
-  Jahren verschlechtert). **Beweist keinen Namen.** Annie bremst
-  ausdruecklich. Neu und noch offen: **jemand beobachtet den Tank taeglich
+  **Kapitel 44: starke Indizien, kein Name.** Jangs unabhaengig beobachteter
+  Gaslieferwagen liefert den Firmennamen. Der oeffentliche Datensatz bestaetigt
+  nur die Zulassung fuer medizinische Gase; Georgijs Zugriff auf das private
+  System zeigt ein Kundenkonto, das im Juli vor vier Jahren mit einem Tank
+  beginnt, und danach die Lieferkurve. **Das datiert den heutigen Lieferweg,
+  nicht den Beginn der Sauerstoffversorgung, und beweist keinen Namen.** Annie
+  bremst ausdruecklich. Neu und noch offen: **jemand beobachtet den Tank taeglich
   genug, um rechtzeitig anzurufen** - entweder lebt jemand mit ihr im Haus,
   oder besucht sie oft genug. **Faellig: wer, ueber die Gasfirma.**
 
@@ -2302,9 +2303,10 @@ Verdachtsfall. Entscheidung gehoert dem Text, nicht dem Skript.
   Ausduennung, die hier fuer Band 1 ab Kapitel 13 schon steht.
 - **Die zweite Blumenadresse und das Heim bei Wonju sind nicht foermlich
   dasselbe.** Kapitel 36 sagt es ausdruecklich: *"I have not confirmed that
-  yet."* Kapitel 44 sucht die Brandschutzmeldung dann an der Adresse, die Jang
-  beobachtet, und findet sie **im selben Juli wie den Arztbesuch**. Das waere die
-  Bestaetigung - sie liegt auf der Seite und wird von niemandem aufgehoben. Ein
+  yet."* Kapitel 44 nimmt den Lieferwagen an der Adresse, die Jang beobachtet,
+  und findet im System des Lieferanten den Kontobeginn **im selben Juli wie den
+  Arztbesuch**. Das waere die Bestaetigung - sie liegt auf der Seite und wird
+  von niemandem aufgehoben. Ein
   Satz von Annie oder im Erzaehltext schliesst die Luecke.
 - **doc/30-plan-band-1.md endet mit Band 1.**
 
@@ -2665,8 +2667,8 @@ wenn Moon aus dem Haushalt verpflegt wird.**
 
 **Weil es die Handlung zerstört.** Georgij schließt aus zehn minus neun auf
 **eine** verborgene Person. Bei elf wären es zwei, und er wüsste es von der
-Krämerzahl an. **Moon wird aber erst viel später gefunden, über die
-Sauerstoff-Meldung bei der Feuerwehrbehörde** (`b2 ch41:22`) - eine
+Krämerzahl an. **Moon wird aber erst viel später über Jangs beobachteten
+Gaslieferwagen und das private Sauerstoffkonto gefunden** (`b2 ch41`) - eine
 vollständig andere Spur, und die Reihenfolge trägt vier Kapitel.
 
 ### Die Auflösung: sie wird nicht aus dem Haushalt verpflegt
@@ -2691,10 +2693,11 @@ Anlieferung, eine Rechnung, ein Zahler.
 * Seit vier Jahren: neun plus Ahn Jung-hee. **Zehn.**
 
 **Und es erklärt, warum Georgij sie über den Sauerstoff findet und über
-nichts sonst:** die Feuerwehrmeldung ist der einzige öffentliche Eintrag, den
-es über sie gibt, **und er existiert nur, weil eine Löschmannschaft um drei
-Uhr morgens wissen muss, was sie erwartet.** Alles andere über sie läuft
-durch einen Kanal, der gebaut ist, um kein Haushaltsbeleg zu sein.
+nichts sonst:** Jangs einmalige Beobachtung liefert den Lieferanten; erst dessen
+privates Konto verbindet Adresse, Rechnungszahler und Lieferkurve. Der
+oeffentliche Datensatz endet bei der Zulassung des Unternehmens. Alles andere
+ueber sie laeuft durch einen Kanal, der gebaut ist, um kein Haushaltsbeleg zu
+sein.
 
 **`b2 ch59:238` sagt es bereits:** *There is no line anywhere on the other
 woman. Not one. That is not an oversight and it is not carelessness.*

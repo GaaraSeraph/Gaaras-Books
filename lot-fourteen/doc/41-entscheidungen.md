@@ -518,27 +518,28 @@ Pruefen hindert, ist zuzusehen, wie jemand anders nach demselben Teller greift.
 **Verworfen: das Gebot unter dem Vorbehalt eines Vorstandsbeschlusses.** Die
 erste Fassung liess Annie so bieten und schloss daraus, Sang-hoon lerne daraus,
 "ueber einen Beschluss hinwegzugehen, den es nicht geben wird". **Das geht
-nicht.** Ohne wirksamen Beschluss ist eine Veraeusserung nichtig, und Sang-hoon
-ist die vorsichtigste Figur des Buches. Ein Beschluss kann ihm nicht egal sein.
+nicht.** Die Veraeusserung der ganzen Gesellschaft oder ihrer wesentlichen
+Vermoegenswerte laesst sich nicht ueber die fehlende Organentscheidung hinweg
+vollziehen, und Sang-hoon ist die vorsichtigste Figur des Buches. Ein Beschluss
+kann ihm nicht egal sein.
 
-Ausserdem widersprach es Kapitel 17, wo der Weg laengst steht: *Half that board
-wants out badly enough to sign anything, and will sign cheaply, and that is the
-half he will sit down with.*
+Ausserdem stand der richtige Weg in Kapitel 17 bereits unter der falschen
+Rollenbezeichnung: Nicht die Haelfte des Boards verkauft. Sieben Anteilseigner
+halten zusammen vierzig Prozent, wollen heraus und verkaufen billig.
 
 **Wie es wirklich laeuft.** Er braucht ueberhaupt keinen Beschluss, um
-hineinzukommen. Er kauft die **Anteile der Haelfte, die raus will**, und Anteile
-verkaufen die, denen sie gehoeren. Seite vierzehn ist nicht sein Hindernis,
-sondern die **Falle danach**: Er haelt dann die Haelfte einer Firma, deren
-Vorstand weiterhin nicht tagen kann, kann sich die Routen nicht uebertragen
-lassen, kann nicht verkaufen, was er nicht will, und kann nichts davon aufloesen,
-weil die Blockade, in die er hineingekauft hat, die Blockade ist. Genau das sagt
-Kapitel 17 bereits.
+hineinzukommen. Er kauft die **vierzig Prozent der sieben Anteilseigner, die
+raus wollen**, und Aktien verkaufen die, denen sie gehoeren. Seite vierzehn ist
+nicht sein Hindernis, sondern der Preis danach: Er haelt ein grosses
+Minderheitspaket in einer Firma, deren Vorstand weiterhin nicht zusammenarbeitet.
+Er gewinnt den Boardkampf, aber erst Direktor fuer Direktor und erst nach einem
+Quartal. Genau diese gebundene Zeit ist die Falle.
 
 **Die richtige Mechanik: Annie bietet fuer das Ganze.** Ein Gebot auf eine ganze
-Firma wird von denen angenommen, denen sie gehoert, und die sitzen seit Maerz
-nicht mehr zusammen in einem Raum. Ihre Anwaelte bauen es sorgfaeltig, ordentlich
-und voellig korrekt, und es braucht beide Haelften auf einem Blatt Papier. Sie
-bekommen es nicht einmal in derselben Woche zu sehen.
+Firma wird von denen angenommen, denen sie gehoert, und die Eigentumsbloecke
+sitzen seit Maerz nicht mehr zusammen in einem Raum. Ihre Anwaelte bauen es
+sorgfaeltig, ordentlich und voellig korrekt, und es braucht beide Seiten auf
+einem Blatt Papier. Sie bekommen es nicht einmal in derselben Woche zu sehen.
 
 **Was Sang-hoon daraus lernt, ist nicht Kuehnheit, sondern dass die Vordertuer
 zu ist.** Ein ernsthafter Kaeufer ist mit Geld hingegangen und wieder abgezogen,
@@ -591,8 +592,10 @@ accident, and I would rather you gave away the right one on purpose.*
 ### Die Frage nach der Veraeusserung steht NICHT im Bericht
 
 **Entschieden am 22.08. vom Autor.** Sang-hoon soll aus Georgijs neunzehn Seiten
-nur erfahren, welche Vorstandshaelfte verkaufen will. Die Frage, ob ein Vorstand,
-der nicht mehr tagt, eine Veraeusserung genehmigen kann, bringt er selbst mit.
+nur erfahren, welche Boardfraktion zu den verkaufswilligen Anteilseignern
+gehoert. Die Frage, ob ein Vorstand, der nicht mehr tagt, eine Veraeusserung der
+ganzen Gesellschaft oder ihrer wesentlichen Vermoegenswerte genehmigen kann,
+bringt er selbst mit.
 
 **Warum das besser ist.** Ein Dokument, das einem Fremden den genauen Mechanismus
 seines eigenen Ruins mitliefert, riecht. Sang-hoon ist die vorsichtigste Figur
@@ -629,11 +632,12 @@ Muehe wert ist, ist der Rest Papierkram.
 **Korrigiert am 22.08.**, auf den Einwand des Autors: Wenn Sang-hoon weiss, dass
 der Vorstand zerstritten ist, warum kauft er dann ueberhaupt?
 
-**Weil er es kann, und weil er recht hat.** Er kauft die Haelfte, die raus will,
-billig und schnell, und nimmt danach die andere Haelfte einzeln auseinander. Genau
-das hat er in Pyeongtaek getan, im Februar gekauft und im Maerz die Direktoren
-einzeln nach Busan bestellt, und darin ist er besser als sonst jemand. **Es
-funktioniert.** Hanseong ist ein gutes Ziel und seine Einschaetzung stimmt.
+**Weil er es kann, und weil er recht hat.** Er kauft die vierzig Prozent, die
+raus wollen, billig und schnell, und nimmt danach die Direktoren der Gegenseite
+einzeln auseinander. Genau das hat er in Pyeongtaek getan, im Februar gekauft
+und im Maerz die Direktoren einzeln nach Busan bestellt, und darin ist er besser
+als sonst jemand. **Es funktioniert.** Hanseong Shipping ist ein gutes Ziel und
+seine Einschaetzung stimmt.
 
 **Es kostet ihn nur ein Quartal**, und dieses Quartal ist das ganze Spiel.
 
@@ -662,11 +666,10 @@ Ruin ist.
 
 **Geaendert:**
 
-- **Kapitel 17** (v12.7): *"Then he is bound. He will have paid for four routes
-  and bought a fight with the half that would not sit in a room. He will win it.
-  He took Pyeongtaek apart one director at a time... It will take him a quarter,
-  and he thinks he has a quarter, because he told me on Tuesday that a family
-  takes two years."*
+- **Kapitel 17**: Die Rollen werden in der naechsten freigegebenen Fassung
+  praezisiert: vierzig Prozent von sieben Anteilseignern; danach der Boardkampf
+  gegen die Direktoren der Gegenseite. Die Aussage bleibt: *"He will win it. It
+  will take him a quarter, and he thinks he has a quarter."*
 - **Kapitel 18** (v2.3): Der ganze Austausch ueber die Falle neu. Kernzeilen:
   *"So it works." / "It works. That is the part I need you to hold on to... I am
   not selling him a bad company. Hanseong is worth having and he is right about
@@ -1331,3 +1334,43 @@ gaebe, sie nicht zu notieren.
 wirkt, weil der Leser weiss, dass es ihn gibt, und nicht, weil er ihn kennt.
 **Und das Wort bleibt im ganzen Werk ungedruckt.** Wer es einmal hinschreibt,
 macht aus dem Einzigen, was nicht aktenkundig ist, eine Akte.
+
+---
+
+## Institutionen, Recht und Verfahren, entschieden am 02.09.
+
+**Hanseong trennt Aktionaere und Vorstand.** Sieben Anteilseigner verkaufen
+zusammen vierzig Prozent an Sang-hoon. Der Vorstand verkauft weder die Aktien
+noch die Routen. Sein Zustand ist der betriebliche Preis nach dem Erwerb:
+Sang-hoon gewinnt den Boardkampf Direktor fuer Direktor, braucht dafuer aber
+das Quartal, das Georgij ihm nehmen will. Annies Scheingebot gilt allen Aktien
+und macht die Abwicklung von beiden Eigentumsbloecken abhaengig.
+
+**Shipping gibt in Band 3 erst nach Kontrolle Auskunft.** Stimmrechtsmehrheit,
+Abwicklung und Vollmachten gehen dem Zugriff auf Kredit-, Jinyang- und
+Singapur-Unterlagen voraus. Ein Aktienkurs, ein Kaufauftrag oder ein noch nicht
+abgewickeltes Paket oeffnet keine Bank-, Server- oder Lieferantendaten.
+
+**Fuer private Hausbesuche 2016 gibt es keine besondere Zulassungsliste.**
+Georgij bildet die Kandidatenmenge aus historischen medizinischen
+Einrichtungsakten, Anzeigen, Fachgebieten, Oeffnungsdaten und Anfahrtskosten.
+Dr Ohs Praxis verschwindet, ohne dass ihre Einrichtungsakte geschlossen wird;
+dieser Unterschied traegt die Spur.
+
+**Sauerstoffkunden sind nicht oeffentlich.** Jangs Beobachtung liefert den
+Lieferanten, dessen oeffentliche Akte nur die Zulassung fuer medizinische Gase
+bestaetigt. Konto, Zahler und Lieferkurve kommen erst aus dem privaten System.
+Der Kontobeginn im Juli vor vier Jahren datiert den heutigen Lieferweg und
+widerlegt nicht die elfjaehrige Sauerstoffversorgung.
+
+**Der Trust ist zweckgebunden und nennt keine Beguenstigte.** Baek kennt Zweck,
+Adresse und Zahlungsanweisungen. Die Schutzklausel verbirgt den Stifter vor
+einer vom Trust unterhaltenen Person; sie behauptet nicht, ein Treuhaender
+duerfe einer rechtlich vorhandenen Beguenstigten ihre eigene Stellung
+verschweigen. Berufsaufsicht ist die Korean Bar Association, nicht eine Law
+Society.
+
+**Vernichtet wird nur die private permanente Auktionsserie.** Die neunzehn
+Kisten gehen ueber die Waage und erhalten eine Bescheinigung. Settlement-
+Buecher, Schriftverkehr und Personalakten bleiben getrennt nach ihren
+Aufbewahrungsfristen beim Fonds bzw. beim Verwahrer des Liquidators.

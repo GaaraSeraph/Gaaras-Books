@@ -1619,8 +1619,12 @@ und niemand muss ihn zitieren.
 29. **Jang** ist **achtundfuenfzig** und **Interimschef der Sicherheit**, dreissig Jahre, nie bei einer Firma, die etwas herstellt. **Die Fahrer sind Ku und Pyo, nicht er** (Fassung 1.1 hatte ihn falsch an den Garagen).
 30. **Yun**, Kuechenjunge seit der ersten Januarwoche.
 31. **Mrs Gwak**, etwa siebzig, Blumen in Hyoja-dong, Doppelbuecher mit Durchschlag. **Mr Han**, Fahrer, achtzehn Jahre, schreibt auf alles. **Min-a**, Aushilfe.
-32. **Baek Jun-ho**, Solicitor in Yeouido, verwaltet den Trust **seit elf Jahren**.
-33. **Dr. Oh Seung-min**, vierundfuenfzig beim Hausbesuch vor vier Jahren, jetzt achtundfuenfzig. **Erloschene, nicht geschlossene Zulassung** - *"A practice that was allowed to disappear rather than told to."*
+32. **Baek Jun-ho**, bei der Korean Bar Association registrierter Anwalt in
+    Yeouido, verwaltet den Trust **seit elf Jahren**.
+33. **Dr. Oh Seung-min**, vierundfuenfzig beim Hausbesuch vor vier Jahren,
+    jetzt achtundfuenfzig. **Die Praxis verschwand, der Klinikeintrag wurde nie
+    geschlossen** - *"A practice that was allowed to vanish rather than told
+    to."*
 34. **Sim** ist der Besteller der Blumen, telefonisch, mit Nummer, beide Male.
 35. **Kim Ye-rin** haelt **1,4 Prozent** und **kann man einmal fragen**. Der Grund, warum sie nirgends hingeht, ist der Motor der Figur: *"A woman in a room can be asked ... She has no title, so nothing protects her from a direct question."*
 36. **Hanas Regel: "Not quickly and not twice. Once."** Sie besitzt die Ostseite seit 2014 und hat sie keinen Tag vermietet.
@@ -1664,10 +1668,20 @@ und niemand muss ihn zitieren.
 142. **Was Annie mit dreissig verstanden hat, ist nicht, dass Choi gefaehrlich war, sondern dass er angekommen ist** - dass er nicht immer da war, und dass nie jemand gefragt hat, wie.
 143. **Und der Grund fuer den ganzen Band:** sie hat es Georgij gegeben, weil er der Einzige ist, der es herausfinden kann **und niemanden hat, dem er es sagen koennte.** *"You were not investigating him. You were paying something."*
 144. **Der Trust wurde in der zweiten Maerzwoche vor elf Jahren gestiftet.** Choi kam persoenlich, blieb etwa zwanzig Minuten, **brachte keinen Anwalt und brauchte keinen.**
-145. **Die zwei Klauseln, und sie sind das Zentrum:** der Treuhaender darf **nicht verpflichtet werden, die Beguenstigte zu informieren**, und **die Zahlungen koennen von ihm nicht gestoppt werden** - nicht vom Nachlass, nicht von einem Nachfolger, nicht per Vollmacht. *"Him, personally, in his lifetime."*
+145. **Die zwei Klauseln, und sie sind das Zentrum:** Der zweckgebundene Trust
+    benennt keine Beguenstigte. Der Treuhaender darf **nicht verpflichtet
+    werden, den Stifter gegenueber einer vom Trust unterhaltenen Person
+    offenzulegen**, und **die Zahlungen koennen vom Stifter nicht gestoppt
+    werden** - nicht vom Nachlass, nicht von einem Nachfolger, nicht per
+    Vollmacht. *"Him, personally, in his lifetime."*
 146. **Baeks Urteil, und er faellt es ausdruecklich nicht:** *"It is either the only decent thing that man has ever done, or the most complete thing I have ever seen one person do to another. It is possible that there is no difference."*
 147. **Vierundvierzig Unterschriften bis zum 4. November, fuenfundvierzig bis zum 14. Januar**, vierteljaehrlich fuer den Sauerstoff. Davon getrennt steht genau **eine** Arztrechnung im Juli vor vier Jahren. Die Daueranweisung lief zuerst gegen eine Adresse und wurde am 1. Dezember an das Haus am Fluss verlegt. **Kein Name, nie einer.** *"Sie hat keine Zeile im Auktionshaus und elf Jahre Zeilen in einer Anwaltsakte."*
-148. **Die Adressaenderung: genau einmal, zweite Februarwoche vor vier Jahren - derselbe Monat, in dem Ahn Jung-hee in das Haus kam.** Baek: *"Somebody put them under one roof to save on a heating bill."* Die Sauerstoffmeldung folgte im Juli desselben Jahres.
+148. **Die Adressaenderung: genau einmal, zweite Februarwoche vor vier Jahren -
+    derselbe Monat, in dem Ahn Jung-hee in das Haus kam.** Baek: *"Somebody put
+    them under one roof to save on a heating bill."* Das Konto des heute
+    liefernden Sauerstoffunternehmens beginnt im Juli desselben Jahres; es
+    beweist einen Lieferantenwechsel oder Neubeginn dieses Kontos, nicht den
+    Beginn der elfjaehrigen Sauerstoffversorgung.
 149. **"No. It makes him legible."** Zum ersten Mal in acht Monaten liegt ein Dokument auf einem Tisch, in dem Chois **Absicht** steht.
 150. **Chois Verfahren in einer Zeile, aus dem Fahrangebot:** *"the helpful thing is arranged before you have thought to ask for it, and then you are the sort of person who was helped."*
 151. **Choi hat im ganzen Buch keine Replik ausser in b2 K86** und ist am Ende von alt K75 zum ersten Mal etwas anderes als ein Gegner: **ein Gegenstand, den jemand gemacht hat.**
