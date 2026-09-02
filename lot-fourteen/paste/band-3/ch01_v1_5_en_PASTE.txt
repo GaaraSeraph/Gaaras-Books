@@ -13,7 +13,7 @@ The card came to the front door at twenty past ten.
 
 Mrs Seo took it in the hall and brought it up herself.
 
-She has done that once before, on a Friday in May of the year before, about a telephone call. She said at the time that she had been answering that telephone for nine years and that nobody had ever asked for him.
+She has done that once before, on a Tuesday in May of the year before, about a telephone call. She said at the time that she had been answering that telephone for nine years and that nobody had ever asked for him.
 
 Georgij put the pen down.
 
@@ -69,7 +69,7 @@ There is a man who says why.
 
 He is going to be standing at the front of a hall in Jongno on Wednesday of next week.
 
-And he has sent a card to a house that is on no list, addressed to a man whose name exists on one piece of paper in the Republic of Korea. That one exists because a compliance officer needed something in the second week of October two years ago.
+And he has sent a card to a house that is on no list, addressed to a man whose name has no public connection to it. The name exists on paper in the Republic of Korea. Not one piece gives anybody this door.
 
 He looked the temple up, because that costs nothing.
 
@@ -101,7 +101,7 @@ Baek Jun-ho did not answer for a while.
 
 "You are not on it. I am."
 
-"You are on it because he wrote you on it." Something had gone out of his voice. "I am going to say this badly. I wrote to Choi Dae-ho four times and every one of them went through that office, and the last came back marked in a clerk's hand, and I have been quietly pleased with myself about that letter since February."
+"You are on it because he wrote you on it." Something had gone out of his voice. "I am going to say this badly. I wrote to Choi Dae-ho four times and every one of them went through that office, and the last came back marked in a clerk's hand. I have been quietly pleased with myself for writing to him since February."
 
 "Yes."
 

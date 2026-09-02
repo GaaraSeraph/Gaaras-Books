@@ -29,7 +29,7 @@ Everybody signs it. That is what it is for.
 
 Georgij stood in front of that table for about four seconds.
 
-There is no paper in the Republic of Korea with his name on it that he put there. What exists, somebody else needed and somebody else made.
+There are papers in the Republic of Korea with his name on them, and there are books at doors in his own hand. Not one of them points to this house.
 
 Not signing it would have been the only thing anybody in that hall remembered about the morning.
 
@@ -39,7 +39,7 @@ There were about ninety people in a hall that takes two hundred.
 
 He counted them in the first six minutes, in fours, the way he was taught to count a room in the fourth house.
 
-Eleven of them he has read about. Four of them he has been in a room with. One of them sat at a table on the eighteenth of March and did not eat.
+Eleven of them he has read about. Four of them he has been in a room with. One of them sat at a table on the eighteenth of March.
 
 He came in at five to eleven. He saw Georgij at the back, and he went and stood on the other side of a pillar, and he did not come out from behind it again.
 
@@ -65,7 +65,7 @@ Georgij went up with the rest and bowed twice and did it correctly. Doing it wro
 
 He did not put his head down for any longer than the form asks for.
 
-He is the only man in that hall who is not sorry Choi Dae-ho is dead, and he did not arrange his face to look as if he were.
+He is not sorry Choi Dae-ho is dead, and he is the only man in that hall who did not arrange his face to look as if he were.
 
 Gong Doo-hyun stood at the front of it from eleven until twenty past one.
 

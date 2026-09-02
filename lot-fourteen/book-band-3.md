@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 2 Kapitel, 4.234 Woerter.
+Book Three, 2 Kapitel, 4.228 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,7 +11,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.5 | 2.098 |
+| 01 | v1.5 | 2.092 |
 | 02 | v1.8 | 2.136 |
 
 ---
@@ -31,7 +31,7 @@ The card came to the front door at twenty past ten.
 
 Mrs Seo took it in the hall and brought it up herself.
 
-She has done that once before, on a Friday in May of the year before, about a telephone call. She said at the time that she had been answering that telephone for nine years and that nobody had ever asked for him.
+She has done that once before, on a Tuesday in May of the year before, about a telephone call. She said at the time that she had been answering that telephone for nine years and that nobody had ever asked for him.
 
 Georgij put the pen down.
 
@@ -87,7 +87,7 @@ There is a man who says why.
 
 He is going to be standing at the front of a hall in Jongno on Wednesday of next week.
 
-And he has sent a card to a house that is on no list, addressed to a man whose name exists on one piece of paper in the Republic of Korea. That one exists because a compliance officer needed something in the second week of October two years ago.
+And he has sent a card to a house that is on no list, addressed to a man whose name has no public connection to it. The name exists on paper in the Republic of Korea. Not one piece gives anybody this door.
 
 He looked the temple up, because that costs nothing.
 
@@ -119,7 +119,7 @@ Baek Jun-ho did not answer for a while.
 
 "You are not on it. I am."
 
-"You are on it because he wrote you on it." Something had gone out of his voice. "I am going to say this badly. I wrote to Choi Dae-ho four times and every one of them went through that office, and the last came back marked in a clerk's hand, and I have been quietly pleased with myself about that letter since February."
+"You are on it because he wrote you on it." Something had gone out of his voice. "I am going to say this badly. I wrote to Choi Dae-ho four times and every one of them went through that office, and the last came back marked in a clerk's hand. I have been quietly pleased with myself for writing to him since February."
 
 "Yes."
 
@@ -254,7 +254,7 @@ Everybody signs it. That is what it is for.
 
 Georgij stood in front of that table for about four seconds.
 
-There is no paper in the Republic of Korea with his name on it that he put there. What exists, somebody else needed and somebody else made.
+There are papers in the Republic of Korea with his name on them, and there are books at doors in his own hand. Not one of them points to this house.
 
 Not signing it would have been the only thing anybody in that hall remembered about the morning.
 
@@ -264,7 +264,7 @@ There were about ninety people in a hall that takes two hundred.
 
 He counted them in the first six minutes, in fours, the way he was taught to count a room in the fourth house.
 
-Eleven of them he has read about. Four of them he has been in a room with. One of them sat at a table on the eighteenth of March and did not eat.
+Eleven of them he has read about. Four of them he has been in a room with. One of them sat at a table on the eighteenth of March.
 
 He came in at five to eleven. He saw Georgij at the back, and he went and stood on the other side of a pillar, and he did not come out from behind it again.
 
@@ -290,7 +290,7 @@ Georgij went up with the rest and bowed twice and did it correctly. Doing it wro
 
 He did not put his head down for any longer than the form asks for.
 
-He is the only man in that hall who is not sorry Choi Dae-ho is dead, and he did not arrange his face to look as if he were.
+He is not sorry Choi Dae-ho is dead, and he is the only man in that hall who did not arrange his face to look as if he were.
 
 Gong Doo-hyun stood at the front of it from eleven until twenty past one.
 
