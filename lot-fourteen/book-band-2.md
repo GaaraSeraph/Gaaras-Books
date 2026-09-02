@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.747 Woerter.
+Book Two, 90 Kapitel, 232.749 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -83,7 +83,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 70 | v3.3 | 2.249 |
 | 71 | v3.2 | 2.228 |
 | 72 | v3.2 | 3.672 |
-| 73 | v3.5 | 2.281 |
+| 73 | v3.5 | 2.282 |
 | 74 | v3.1 | 2.398 |
 | 75 | v3.6 | 2.564 |
 | 76 | v3.4 | 2.827 |
@@ -94,7 +94,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 81 | v3.5 | 2.386 |
 | 82 | v1.5 | 2.808 |
 | 83 | v3.6 | 2.936 |
-| 84 | v3.5 | 2.147 |
+| 84 | v3.5 | 2.148 |
 | 85 | v3.3 | 2.593 |
 | 86 | v3.25 | 3.900 |
 | 87 | v3.23 | 4.141 |
@@ -16244,7 +16244,7 @@ Georgij did not say anything.
 
 "The third thing," she said.
 
-Georgij took a moment over it, because it was the one he had built on the train and taken apart at Iksan.
+Georgij took a moment over it, because it was the one he had built on the train and taken apart before Daejeon.
 
 "In April I told you that the man who chose you would get exactly what you got, and that he would lose it slowly enough to watch it coming." He did not hurry it. "You asked me whether I was telling you that to make you feel better."
 
@@ -16354,13 +16354,13 @@ She went up the outside stair and did not look back, and the light in the office
 
 * * *
 
-He wrote it on the train, somewhere before Iksan, and it took two attempts.
+He wrote it on the train north, somewhere before Daejeon, and it took two attempts.
 
 *She is glad about her nephew and she said so in about four seconds, and it cost her more than the letter did.*
 
 *I went down there with a thing I thought would be the worst of it, and she took it apart in front of me and handed me back the half I had not counted.*
 
-Then the rest of it, at Iksan, in the eight minutes.
+Then the rest of it, in the eight minutes after Daejeon.
 
 *I made the fourth time into a threat in April, in a gate, at the end of an afternoon in which I had been accurate about everything else.*
 
@@ -17017,7 +17017,7 @@ Georgij stood in a doorway in Seodaemun and did the arithmetic, and it came out 
 
 He did not go to the car.
 
-He walked to the end of that road and stood at the corner for about eleven minutes. Then he came back and went up the two flights and did not knock on anybody's door. He looked at the letterboxes in the hall, which are the one part of a building of that kind that belongs to nobody.
+He walked to the end of that road and stood at the corner for about eleven minutes. Then he came back and went into the entrance hall and did not knock on anybody's door. He looked at the letterboxes on the wall, which are the one part of a building of that kind that belongs to nobody.
 
 The fourth on the left has a name in the slot on a strip of new tape.
 
@@ -18851,7 +18851,7 @@ Annie did not move in the chair.
 
 He did not pretend.
 
-"Neither of them comes near it," he said. "Not the room, not the house on that evening, not the corridor. There is a woman in the room at the back who has been in one building for eleven years. There is another who has been free since the second of November. There is not one version of that evening in which either of them is in this house while twenty-six people find out what was done to them."
+"Neither of them comes near it," he said. "Not the dining room, not the hall, not the corridor. There is a woman in the room at the back who has been in one building for eleven years. There is another who has been free since the second of November. There is not one version of that evening in which either of them is at that end of the house while twenty-six people find out what was done to them."
 
 "Where do they go."
 

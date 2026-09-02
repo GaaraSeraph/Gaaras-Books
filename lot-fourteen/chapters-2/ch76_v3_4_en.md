@@ -251,7 +251,7 @@ Georgij stood in a doorway in Seodaemun and did the arithmetic, and it came out 
 
 He did not go to the car.
 
-He walked to the end of that road and stood at the corner for about eleven minutes. Then he came back and went up the two flights and did not knock on anybody's door. He looked at the letterboxes in the hall, which are the one part of a building of that kind that belongs to nobody.
+He walked to the end of that road and stood at the corner for about eleven minutes. Then he came back and went into the entrance hall and did not knock on anybody's door. He looked at the letterboxes on the wall, which are the one part of a building of that kind that belongs to nobody.
 
 ---
 

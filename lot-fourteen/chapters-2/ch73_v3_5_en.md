@@ -111,7 +111,7 @@ Georgij did not say anything.
 
 ---
 
-Georgij took a moment over it, because it was the one he had built on the train and taken apart at Iksan.
+Georgij took a moment over it, because it was the one he had built on the train and taken apart before Daejeon.
 
 "In April I told you that the man who chose you would get exactly what you got, and that he would lose it slowly enough to watch it coming." He did not hurry it. "You asked me whether I was telling you that to make you feel better."
 
@@ -249,7 +249,7 @@ She went up the outside stair and did not look back, and the light in the office
 
 * * *
 
-He wrote it on the train, somewhere before Iksan, and it took two attempts.
+He wrote it on the train north, somewhere before Daejeon, and it took two attempts.
 
 ---
 
@@ -259,7 +259,7 @@ He wrote it on the train, somewhere before Iksan, and it took two attempts.
 
 ---
 
-Then the rest of it, at Iksan, in the eight minutes.
+Then the rest of it, in the eight minutes after Daejeon.
 
 ---
 

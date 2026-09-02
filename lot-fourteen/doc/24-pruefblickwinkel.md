@@ -47,8 +47,8 @@ Befunde und die Umsetzung oder bewusste Nichtumsetzung festhaelt.
 | 2 | Wissensfluss und Vertraulichkeit | ERLEDIGT MIT AUTORENSPERRE | `protokoll/2026-09-01-wissensfluss-band-2.md` |
 | 3 | Psychologische Folgekosten | ERLEDIGT | `protokoll/2026-09-02-psychologische-folgekosten-band-2.md` |
 | 4 | Entscheidungsfreiheit und kausale Eigenstaendigkeit | ERLEDIGT | `protokoll/2026-09-02-entscheidungsfreiheit-band-2.md` |
-| 5 | Raum, Wege, Koerper und Logistik | NAECHSTER | - |
-| 6 | Gegenstaende, Dokumente und Besitzketten | OFFEN | - |
+| 5 | Raum, Wege, Koerper und Logistik | ERLEDIGT | `protokoll/2026-09-02-raum-logistik-band-2.md` |
+| 6 | Gegenstaende, Dokumente und Besitzketten | NAECHSTER | - |
 | 7 | Institutionen, Recht, Wirtschaft und Verfahren | OFFEN | - |
 | 8 | Rollen, Vollmachten, Eigentum und Abhaengigkeiten | OFFEN | - |
 | 9 | Figurenstimmen und Machtlage im Dialog | OFFEN | - |
