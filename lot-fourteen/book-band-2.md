@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 232.567 Woerter.
+Book Two, 90 Kapitel, 232.394 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -25,7 +25,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 12 | v1.12 | 2.905 |
 | 13 | v1.9 | 2.174 |
 | 14 | v1.8 | 2.355 |
-| 15 | v1.6 | 1.998 |
+| 15 | v1.7 | 1.825 |
 | 16 | v1.6 | 2.034 |
 | 17 | v1.6 | 2.033 |
 | 18 | v1.6 | 2.119 |
@@ -3285,7 +3285,7 @@ The fifth was Mr Kwon. He answered the third question in nine words. Then he tel
 ---
 
 # Book Two · Chapter 15: One word, and it was true
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Two Hundred and Two · Thursday 23 April
 
@@ -3299,41 +3299,23 @@ What he did with the afternoon was the other half.
 
 A bound catalogue went out in the first days of March to every buyer that house has. One page of it was photocopied and was on a desk in Ulsan on the fourteenth.
 
-Between those two facts there is a machine that somebody used, and machines leave marks, and the marks are not on the page.
-
-The house uses a mailing bureau in Mapo, because a firm of that size does not put six hundred parcels in the post itself and has not since the nineties.
-
-A bureau of that kind runs on a spreadsheet with an address list in it, and it keeps the list, because the client always comes back next season and nobody wants to key it again.
-
-He had that list at about eleven on the Thursday morning.
-
-It took him a little over two hours and he did not enjoy it as much as he had expected to, which he noted and did not examine.
+Between those two facts there was a machine that somebody used. The house did not post six hundred parcels itself. It used a mailing bureau in Mapo, and by eleven on Thursday Georgij had the list.
 
 Six hundred and forty names.
 
-A hundred and nine of them are companies with no natural person on the line at all, and those he set aside. A man who is careful about four layers of ownership does not have an auction catalogue posted to a shell.
+That was not an answer. It was not even a list of suspects. A man who is careful about four layers of ownership does not have an auction catalogue posted to a shell. The people left after the companies were set aside were still buyers, collectors, dealers, widows, firms with a person on the line.
 
-Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought porcelain there twice a year since 1991 and has never bought anything else.
+One of them was Annie. One was Mrs Sunwoo. One was a woman in Daegu who had bought porcelain there twice a year since 1991 and never bought anything else.
 
-And that is where it stopped, because six hundred names is not a list of suspects, it is a telephone directory.
+He sat with it and understood he had been going at it from the wrong end.
 
-He sat and looked at it and understood that he had been going at it from the wrong end for four days.
+The right end was not who received a catalogue. The right end was who received one and had also sat at a port-authority lunch in the first week of January. Woo had given him five names at a car door on the ninth of April, and he had carried them in a notebook for a fortnight.
 
-The right end is not who received a catalogue.
+At about half past one he put the five names beside the six hundred and forty.
 
-The right end is who received a catalogue and was also at a lunch given by the port authority in the first week of January.
+Three of the five were on the mailing list.
 
-That is a room with six men in it, and Woo gave him five of the names at a car door on the ninth of April, and he has had them in a notebook for a fortnight.
-
-He put the five names next to six hundred and forty at about half past one.
-
-Three of the five are on the mailing list.
-
-Three is not an answer. Three is a shape.
-
-All three of them are exactly the sort of man who would be at that lunch and would also buy at that house, which is another way of saying that nothing has been eliminated. What he has is that the two lists touch, and that they touch in three places and not in none.
-
-He wrote the three on a separate page and put the six hundred and forty in a drawer, and he did not look at either again that day.
+Three was not an answer. Three was a shape, and not a useful enough one for that day. He wrote the three on a separate page and put the six hundred and forty in a drawer, and did not look at either again.
 
 * * *
 
