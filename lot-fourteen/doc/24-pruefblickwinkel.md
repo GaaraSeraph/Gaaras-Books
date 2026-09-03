@@ -53,8 +53,8 @@ Befunde und die Umsetzung oder bewusste Nichtumsetzung festhaelt.
 | 8 | Rollen, Vollmachten, Eigentum und Abhaengigkeiten | ERLEDIGT | `protokoll/2026-09-02-rollen-vollmachten-eigentum-abhaengigkeiten-baende-1-bis-3.md` |
 | 9 | Figurenstimmen und Machtlage im Dialog | ERLEDIGT MIT AUTORENSPERRE | `protokoll/2026-09-02-figurenstimmen-machtlage-dialog-baende-1-bis-3.md` |
 | 10 | Perspektivnaehe und Erzaehlergewissheit | ERLEDIGT | `protokoll/2026-09-02-perspektivnaehe-erzaehlergewissheit-baende-1-bis-3.md` |
-| 11 | Szenenfunktion, Kausalbruecken und Redundanz | NAECHSTER | - |
-| 12 | Zusagen, Motive und spaete Auszahlungen | OFFEN | - |
+| 11 | Szenenfunktion, Kausalbruecken und Redundanz | ERLEDIGT | `protokoll/2026-09-03-szenenfunktion-kausalbruecken-redundanz-baende-1-bis-3.md` |
+| 12 | Zusagen, Motive und spaete Auszahlungen | NAECHSTER | - |
 | 13 | Leserwissen und Fairness der Enthuellungen | OFFEN | - |
 | 14 | Moralische Rahmung und unbeabsichtigte Entlastung | OFFEN | - |
 | 15 | Fehlende Folgen und Handlungen ausserhalb der Szene | OFFEN | - |
