@@ -5723,6 +5723,93 @@ there is a difference, and I have been the wrong side of it before."*
 sondern dass sie nicht das Schloss sein will. **Das steht hier und wird bis
 Band 6 nicht wieder angefasst.**
 
+## Was `b3 ch07` festlegt
+
+**Motors wird ueber die Werkstaetten gefunden, so wie der Plan es verlangt,
+und das Verfahren ist Mr Ahn.** Georgij geht nicht mit einer Frage ueber
+Hanseong hinein, sondern mit einem Wagen, der etwas nicht tut, und wartet, bis
+ein Mann mit beiden Haenden im Motor etwas Wahres ueber die eigene Arbeit
+sagt.
+
+**Der Gegenstand ist eine Kuehlmittelpumpe.**
+
+| | |
+|---|---|
+| Werkstaetten bis zum 10. September | **31** |
+| die es ungefragt ansprechen | 19 |
+| die die Zahl neunzig zuerst sagen | 8 |
+| frueheste Fundstelle | 81.000 km |
+| auf dem Wartungsplan | **nicht** |
+| also gedeckt | nein, der Halter zahlt |
+| Werkstaetten mit neun bis zwanzig auf dem Regal | **26 von 31** |
+
+**Das Regal ist der Fund und die Pumpe nur der Gegenstand.** Ein Ersatzteilregal
+richtet sich danach, was frueher kaputtgegangen ist. Vierzehn Stueck in einer
+Werkstatt sind die Erfahrung eines Mannes; vierzehn in elf Werkstaetten sind
+eine Tatsache ueber ein Unternehmen.
+
+**Und die zweite Haelfte ist die Nummer auf dem Gehaeuse.** Die alte Pumpe in
+der Ecke und die im Juni verbaute tragen dieselbe Nummer mit einer anderen
+Endziffer. **Hanseong hat das Teil in der Produktion geaendert, den Wartungsplan
+nicht, und niemandem etwas gesagt, der das alte schon hatte.**
+
+### Lee Jun findet es, und zwar mit dem, was ihm verboten wurde
+
+**Er zaehlt die Regale**, so wie er in `b3 ch04` in neun Sekunden die Tueren
+gezaehlt hat, und Georgij hat ihm gesagt, er duerfe damit aufhoeren.
+
+> "There were fourteen on the shelf."
+>
+> "Say the rest of it."
+>
+> "There were four of the timing kit and two of the filter housing and one
+> gearbox mount, and fourteen of the pump. He does not order fourteen of a
+> thing that does not go."
+
+**Und der Junge hat den Satz aus dem Juli genau gelesen:** *"Because you told
+me to stop, and I could not tell whether you meant here."*
+
+**Georgijs Antwort ist die haerteste Sache, die er ihm bisher gesagt hat, und
+sie ist keine Entscheidung:**
+
+> "In the house it is a thing that was done to you and you may put it down.
+> Out here it is the only thing I have and it is going to be the only thing you
+> have, and I am not able to tell you today which of those two is the truth."
+
+**Und auf die Nachfrage kommt ein Nein ohne Begruendung.** *"May I keep
+counting in the house as well, sir?" / "No."* **Damit ist die Frage aus
+`b3 ch04` weder beantwortet noch vertagt, sondern in Arbeit.**
+
+### Warum der Behoerdenanruf liegen bleibt
+
+**Er ist der einzige Zug im ganzen Feldzug mit Georgijs Hand darauf**, weil
+jemand ihn machen muss und ein Anruf ein Datum und einen Anrufer hat. Alles
+Uebrige in der Gruppe war vorher schon da.
+
+> The second page is going to be a telephone call to an authority. It is going
+> to have a date on it, and he is going to have made it.
+>
+> He is going to make it anyway.
+
+**Das verbindet Akt I und Akt II ohne eine einzige Erklaerung**: die Akte aus
+`b3 ch03` wartet auf Seite zwei, und Georgij weiss es und macht es trotzdem.
+**Die Frage ist nur, was am Tag des Anrufs danebensteht** - und daran haengt
+die Reihenfolge des ganzen Boersenzugs.
+
+### Und der letzte Satz nimmt die Urheberschaft zurueck
+
+> "That is not a thing you are doing to Hanseong."
+>
+> "No."
+>
+> "Say what it is."
+>
+> "It is a coolant pump that goes at ninety thousand kilometres. The rest of it
+> is what happens afterwards, and I did not arrange the pump."
+
+**Dasselbe Verfahren wie bei Choi, bei Byun und bei den fuenf Verladern**, und
+zum ersten Mal sagt er es selbst laut, ohne dass jemand ihn dazu bringt.
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**

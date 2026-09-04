@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 366.562 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.418 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -463,6 +463,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Das Werkzeug ist ein Versicherungsfragebogen, und es ist seins](#das-werkzeug-ist-ein-versicherungsfragebogen-und-es-ist-seins)
   - [Und die Bringschuld aus Band 2 wird bezahlt](#und-die-bringschuld-aus-band-2-wird-bezahlt)
   - [Und daraus faellt der einzige Satz, der dem Band voraus ist](#und-daraus-faellt-der-einzige-satz-der-dem-band-voraus-ist)
+  - [Lee Jun findet es, und zwar mit dem, was ihm verboten wurde](#lee-jun-findet-es-und-zwar-mit-dem-was-ihm-verboten-wurde)
+  - [Warum der Behoerdenanruf liegen bleibt](#warum-der-behoerdenanruf-liegen-bleibt)
+  - [Und der letzte Satz nimmt die Urheberschaft zurueck](#und-der-letzte-satz-nimmt-die-urheberschaft-zurueck)
   - [Der Spiegelraum: Han bekommt kein Angebot mehr](#der-spiegelraum-han-bekommt-kein-angebot-mehr)
   - [Was eingebaut wird, sechs Sachen](#was-eingebaut-wird-sechs-sachen)
   - [Akt I - Sommer 2027](#akt-i-sommer-2027)
@@ -689,12 +692,12 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Gwak](#mrs-gwak)
   - [Shin](#shin)
   - [Moon Hae-sook](#moon-hae-sook)
+  - [Lee Jun](#lee-jun)
   - [Mr Pyo](#mr-pyo)
   - [Mr Sohn](#mr-sohn)
   - [Mr Baek](#mr-baek)
   - [Bae](#bae)
   - [Eun-ju](#eun-ju)
-  - [Lee Jun](#lee-jun)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
   - [Minister Min-ho](#minister-min-ho)
@@ -752,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**130 Kapitel, 345.367 Woerter.**
+**130 Kapitel, 345.474 Woerter.**
 
 ---
 
@@ -8777,6 +8780,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 4** - Lee Jun kommt an | 645 | Sa **10. Juli 2027** |
 | **Band 3, Kapitel 5** - Hwangs Spalte | 672 | Fr **6. August 2027** |
 | **Band 3, Kapitel 6** - der Makler, und die zweite Korrektur | 686 | Fr **20. August 2027** |
+| **Band 3, Kapitel 7** - die Werkstaetten, Motors | 707 | Fr **10. September 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -23760,6 +23764,93 @@ there is a difference, and I have been the wrong side of it before."*
 sondern dass sie nicht das Schloss sein will. **Das steht hier und wird bis
 Band 6 nicht wieder angefasst.**
 
+## Was `b3 ch07` festlegt
+
+**Motors wird ueber die Werkstaetten gefunden, so wie der Plan es verlangt,
+und das Verfahren ist Mr Ahn.** Georgij geht nicht mit einer Frage ueber
+Hanseong hinein, sondern mit einem Wagen, der etwas nicht tut, und wartet, bis
+ein Mann mit beiden Haenden im Motor etwas Wahres ueber die eigene Arbeit
+sagt.
+
+**Der Gegenstand ist eine Kuehlmittelpumpe.**
+
+| | |
+|---|---|
+| Werkstaetten bis zum 10. September | **31** |
+| die es ungefragt ansprechen | 19 |
+| die die Zahl neunzig zuerst sagen | 8 |
+| frueheste Fundstelle | 81.000 km |
+| auf dem Wartungsplan | **nicht** |
+| also gedeckt | nein, der Halter zahlt |
+| Werkstaetten mit neun bis zwanzig auf dem Regal | **26 von 31** |
+
+**Das Regal ist der Fund und die Pumpe nur der Gegenstand.** Ein Ersatzteilregal
+richtet sich danach, was frueher kaputtgegangen ist. Vierzehn Stueck in einer
+Werkstatt sind die Erfahrung eines Mannes; vierzehn in elf Werkstaetten sind
+eine Tatsache ueber ein Unternehmen.
+
+**Und die zweite Haelfte ist die Nummer auf dem Gehaeuse.** Die alte Pumpe in
+der Ecke und die im Juni verbaute tragen dieselbe Nummer mit einer anderen
+Endziffer. **Hanseong hat das Teil in der Produktion geaendert, den Wartungsplan
+nicht, und niemandem etwas gesagt, der das alte schon hatte.**
+
+### Lee Jun findet es, und zwar mit dem, was ihm verboten wurde
+
+**Er zaehlt die Regale**, so wie er in `b3 ch04` in neun Sekunden die Tueren
+gezaehlt hat, und Georgij hat ihm gesagt, er duerfe damit aufhoeren.
+
+> "There were fourteen on the shelf."
+>
+> "Say the rest of it."
+>
+> "There were four of the timing kit and two of the filter housing and one
+> gearbox mount, and fourteen of the pump. He does not order fourteen of a
+> thing that does not go."
+
+**Und der Junge hat den Satz aus dem Juli genau gelesen:** *"Because you told
+me to stop, and I could not tell whether you meant here."*
+
+**Georgijs Antwort ist die haerteste Sache, die er ihm bisher gesagt hat, und
+sie ist keine Entscheidung:**
+
+> "In the house it is a thing that was done to you and you may put it down.
+> Out here it is the only thing I have and it is going to be the only thing you
+> have, and I am not able to tell you today which of those two is the truth."
+
+**Und auf die Nachfrage kommt ein Nein ohne Begruendung.** *"May I keep
+counting in the house as well, sir?" / "No."* **Damit ist die Frage aus
+`b3 ch04` weder beantwortet noch vertagt, sondern in Arbeit.**
+
+### Warum der Behoerdenanruf liegen bleibt
+
+**Er ist der einzige Zug im ganzen Feldzug mit Georgijs Hand darauf**, weil
+jemand ihn machen muss und ein Anruf ein Datum und einen Anrufer hat. Alles
+Uebrige in der Gruppe war vorher schon da.
+
+> The second page is going to be a telephone call to an authority. It is going
+> to have a date on it, and he is going to have made it.
+>
+> He is going to make it anyway.
+
+**Das verbindet Akt I und Akt II ohne eine einzige Erklaerung**: die Akte aus
+`b3 ch03` wartet auf Seite zwei, und Georgij weiss es und macht es trotzdem.
+**Die Frage ist nur, was am Tag des Anrufs danebensteht** - und daran haengt
+die Reihenfolge des ganzen Boersenzugs.
+
+### Und der letzte Satz nimmt die Urheberschaft zurueck
+
+> "That is not a thing you are doing to Hanseong."
+>
+> "No."
+>
+> "Say what it is."
+>
+> "It is a coolant pump that goes at ninety thousand kilometres. The rest of it
+> is what happens afterwards, and I did not arrange the pump."
+
+**Dasselbe Verfahren wie bei Choi, bei Byun und bei den fuenf Verladern**, und
+zum ersten Mal sagt er es selbst laut, ohne dass jemand ihn dazu bringt.
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -32264,7 +32355,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 898 | 101 (b1ch01-b3ch06) | 1 | 686 |
+| Annie | 901 | 102 (b1ch01-b3ch07) | 1 | 707 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 172 | 26 (b2ch07-b3ch06) | 166 | 686 |
@@ -32276,7 +32367,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
 | Baek Jun-ho | 89 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
-| Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
+| Mr Ahn | 63 | 10 (b2ch53-b3ch07) | 315 | 707 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
 | Mr Yeo | 57 | 11 (b1ch05-b2ch89) | 6 | 590 |
 | Mr Ok | 53 | 9 (b2ch16-b2ch89) | 206 | 590 |
@@ -32298,12 +32389,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
+| Lee Jun | 11 | 2 (b3ch04-b3ch07) | 645 | 707 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Mr Baek | 8 | 7 (b1ch05-b3ch06) | 6 | 686 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
-| Lee Jun | 6 | 1 (b3ch04) | 645 | 645 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
@@ -32318,7 +32409,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-898 Nennungen in 101 Kapiteln.
+901 Nennungen in 102 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -33220,6 +33311,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:282 | Annie put the pen down. |
 | 686 | b3ch06:306 | "Say the thing you are not saying," said Annie. |
 | 686 | b3ch06:316 | Annie turned round then. |
+| 707 | b3ch07:278 | Annie listened to the whole of it and then asked the only question that matters about an.. |
+| 707 | b3ch07:286 | Annie put the pen down. |
+| 707 | b3ch07:304 | Annie looked at him for a moment. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -36118,7 +36212,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ahn
 
-62 Nennungen in 9 Kapiteln.
+63 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -36184,6 +36278,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 463 | b2ch76:350 | Mr Ahn looked at the fan in the corner for a while. |
 | 463 | b2ch76:360 | Georgij held it at the angle it wanted and did not say anything. At some point in the mi.. |
 | 590 | b2ch89:114 | It is the one that was in bits on a bench in July and was mended in September and has be.. |
+| 707 | b3ch07:24 | That is the whole of the method and it took Mr Ahn sixty visits to teach him, and Mr Ahn.. |
 
 ### Zahlen in der Naehe von Mr Ahn
 
@@ -36216,6 +36311,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch76:334` (Tag 463) - four
 - `b2ch76:360` (Tag 463) - eleven
 - `b2ch89:114` (Tag 590) - one
+- `b3ch07:24` (Tag 707) - sixty
 
 ---
 
@@ -37534,6 +37630,31 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Lee Jun
+
+11 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:94 | Lee Jun did not say anything to that. |
+| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 707 | b3ch07:32 | He did not explain why and Lee Jun did not ask. |
+| 707 | b3ch07:46 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
+| 707 | b3ch07:136 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:168 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:184 | Lee Jun did not say anything to that. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:360` (Tag 645) - four
+- `b3ch07:136` (Tag 707) - twenty
+
+---
+
 ### Mr Pyo
 
 11 Nennungen in 8 Kapiteln.
@@ -37660,25 +37781,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b2ch54:48` (Tag 319) - six
 - `b2ch84:220` (Tag 522) - nineteen
-
----
-
-### Lee Jun
-
-6 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
-| 645 | b3ch04:94 | Lee Jun did not say anything to that. |
-| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
-| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
-| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
-
-### Zahlen in der Naehe von Lee Jun
-
-- `b3ch04:360` (Tag 645) - four
 
 ---
 

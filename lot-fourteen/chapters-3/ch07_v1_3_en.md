@@ -1,0 +1,314 @@
+# Chapter 7: The old one
+*Lot Fourteen* · Version 1.3 · EN
+
+## Day Seven Hundred and Seven · Friday 10 September
+
+Hanseong Motors is the profitable one, and it is profitable because of one segment, and in that segment there is nobody else worth naming.
+
+---
+
+That is the part that goes to an authority, and it is true, and it will keep.
+
+The other part is in workshops.
+
+* * *
+
+Georgij has been in thirty-one of them since the last week of August.
+
+---
+
+He does not go in with a question about Hanseong.
+
+He goes in with a car that will not do something, and he waits, and at some point in the twenty minutes a man who has both hands in an engine says a true thing about his own work.
+
+That is the whole of the method and it took Mr Ahn sixty visits to teach him, and Mr Ahn does not know that he taught him anything.
+
+* * *
+
+He took the boy from the fourth one onward.
+
+---
+
+He did not explain why and Lee Jun did not ask.
+
+Georgij told him three things in the car on the way to the fourth and has not added to them since.
+
+---
+
+Stand where you can see the door and the hands.
+
+Do not write anything down while anybody can see you.
+
+If a man says something twice, it is the thing he came in this morning wanting to say to somebody.
+
+* * *
+
+By the eleventh workshop Lee Jun was better in the room than Georgij was.
+
+---
+
+He is sixteen and he has a face that nobody minds, and men who mend cars talk in front of him the way they talk in front of a radio.
+
+He asks nothing. He stands where he was told to stand. Twice he has been handed a torch to hold and has held it.
+
+---
+
+Georgij watched him do it in Guro on the second of September and did not enjoy watching it.
+
+The boy was not being liked. He was being useful in the way a person is useful who has worked out in about four seconds what the room wants and has decided to be it.
+
+He is very good at it and nobody taught him in the last two years.
+
+* * *
+
+The thing itself came out of the twenty-second workshop and it took eleven minutes.
+
+---
+
+It is a coolant pump.
+
+It sits behind the engine on one platform, it is not a wear item on the service schedule, and Hanseong publishes a design life for it that is longer than most people keep the car.
+
+The workshop in Siheung has two bays and a dog.
+
+---
+
+The man is about forty-five and he did not stop working when Georgij came in, which is correct. A man who stops working has decided you are worth the twenty minutes, and then he wants something for them.
+
+He talked about the car for six minutes and about the pump for eleven.
+
+* * *
+
+"You have seen this before."
+
+"Nine this year, and the earliest was at eighty-one thousand." He had both hands in it. "Ninety is when I start telling people. I do not tell them it will go. I tell them it is a thing that goes."
+
+"And on the schedule."
+
+"It is not on the schedule, so it is not covered, so they pay me." He was not pleased about it. "Four hundred and something with the coolant, and they pay it, and they are not angry with me, and I have stopped explaining."
+
+---
+
+He put the old one down on the bench and did not put it in the bin.
+
+"Do the other places see it?"
+
+Georgij did not have anything to decide, because it was true.
+
+"Twenty-six out of thirty-one so far."
+
+---
+
+The man stood up then, and wiped his hands, and looked at the thing on the bench for about four seconds.
+
+"Four years I have been saying that," he said. "My wife thinks I have a thing about it."
+
+---
+
+That is what he wanted, and it is not about the customers, and it took eleven minutes and cost nothing.
+
+Georgij has done that a great many times now and it has never once failed to work, and he has never once got used to it.
+
+* * *
+
+Every one of them knows.
+
+---
+
+Thirty-one workshops and nineteen of them said a version of it without being asked, and eight of the nineteen said the number ninety before Georgij said anything at all.
+
+Not one of them has ever told anybody who could do something about it.
+
+They are not hiding it. There is nobody to tell.
+
+* * *
+
+That is the same finding as an insurer's form and it is the other way round.
+
+---
+
+Nineteen companies each knew one true thing about a contract and nobody put them next to each other.
+
+Thirty-one workshops each know one true thing about a pump.
+
+* * *
+
+Lee Jun said his first unprompted sentence of the month in the car outside the twenty-second.
+
+---
+
+"There were fourteen on the shelf."
+
+Georgij did not answer straight away.
+
+"Say the rest of it."
+
+---
+
+"There were four of the timing kit and two of the filter housing and one gearbox mount, and fourteen of the pump." He was looking out of the window and not at Georgij. "He does not order fourteen of a thing that does not go."
+
+* * *
+
+Georgij told him in July that he could stop counting.
+
+---
+
+He did not stop, and it is the reason there is a chapter of this at all, and both of them know it and neither of them said it in the car.
+
+* * *
+
+"How long have you been doing that in the workshops," said Georgij.
+
+---
+
+"Since the fourth one."
+
+"And why did you not say."
+
+Lee Jun took slightly longer over that than he had taken over anything since he came into the house.
+
+"Because you told me to stop," he said, "and I could not tell whether you meant here."
+
+---
+
+Georgij looked at the road for a while.
+
+"I meant the house."
+
+"Yes, sir."
+
+"I am going to say the rest of it and you are not going to like it." He did not soften any of it. "In the house it is a thing that was done to you and you may put it down. Out here it is the only thing I have and it is going to be the only thing you have, and I am not able to tell you today which of those two is the truth."
+
+* * *
+
+Lee Jun did not say anything to that.
+
+---
+
+He looked out of the window for about a minute and then he said the second unprompted sentence of the month.
+
+"May I keep counting in the house as well, sir?"
+
+"No."
+
+"Yes, sir."
+
+---
+
+Georgij did not explain the no and the boy did not ask for a reason, and that is the whole of the conversation.
+
+* * *
+
+The shelf is the finding and the pump is only the object.
+
+---
+
+A parts shelf is ordered off what has gone wrong before. Fourteen of one part in one workshop in Siheung is one man's experience. Fourteen in eleven workshops is a fact about a company.
+
+Georgij spent the following week asking thirty-one men how many they keep, and the question is a nothing question, and every one of them answered it.
+
+---
+
+The number is between nine and twenty in twenty-six of the thirty-one.
+
+Five keep none, and all five are outside the segment.
+
+* * *
+
+On the Thursday he found the second half, and it was not in a workshop.
+
+---
+
+A pump has a number stamped on the housing.
+
+The one in the corner of the workshop in Siheung, the old one, the one the mechanic keeps because he keeps things, has a number that ends in one digit.
+
+The one he fitted in June has the same number and the digit is different.
+
+---
+
+Hanseong Motors changed the part.
+
+They changed it quietly, in production, at some point that is going to have a date on it, and they did not change the schedule and they did not tell anybody who already had the old one.
+
+* * *
+
+Georgij wrote four lines that night and the fourth one is not a question.
+
+---
+
+*Ninety thousand. Not on the schedule. Four hundred and something, paid by the owner.*
+
+*Twenty-six shelves out of thirty-one.*
+
+*Two part numbers.*
+
+*They knew, and the date they knew is on a drawing.*
+
+* * *
+
+He has not telephoned the competition authority and he is not going to this month.
+
+---
+
+The quasi-monopoly is true and it will still be true in November. It is also the one move in the whole of this with his hand on it, because somebody has to make the call, and a call has a date and a caller.
+
+Everything else in that group was already there before he looked at it.
+
+---
+
+There is a man in an office in Seocho with a file of eleven pages.
+
+The first page of it is a signature Georgij put in a book, because not signing it would have been the only thing anybody remembered.
+
+The second page is going to be a telephone call to an authority. It is going to have a date on it, and he is going to have made it.
+
+---
+
+He is going to make it anyway.
+
+The only question is what is standing next to it on the day, and at the moment there is nothing standing next to it at all.
+
+* * *
+
+He gave it to her on the Friday evening, standing, and it took six minutes.
+
+---
+
+Annie listened to the whole of it and then asked the only question that matters about any of it.
+
+"How many cars."
+
+"In that segment and on that platform, since the year they changed it." Georgij did not put anything round it. "I do not have the number yet. It is public and it is going to be six figures."
+
+---
+
+Annie put the pen down.
+
+"Say what you are going to do with it."
+
+"Nothing for a while."
+
+"Say why."
+
+---
+
+"Because the authority is the first move and the pump is the second, and if they arrive together it is a campaign." He kept his hands where they were. "If the authority goes first and alone, it is a market question and a dull one, and everybody in that building relaxes."
+
+"And the pump."
+
+"The pump is not a market question. The pump is a coolant pump that goes at ninety and a schedule that does not mention it, and a man in Siheung has been telling people for four years and getting nowhere." He did not move. "It does not need me. It needs one person with a desk to be handed it, and it will run on its own for two years."
+
+* * *
+
+Annie looked at him for a moment.
+
+---
+
+"That is not a thing you are doing to Hanseong," she said.
+
+"No."
+
+"Say what it is."
+
+"It is a coolant pump that goes at ninety thousand kilometres." Georgij did not decorate any of it. "The rest of it is what happens afterwards, and I did not arrange the pump."
