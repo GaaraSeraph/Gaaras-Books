@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 5 Kapitel, 10.168 Woerter.
+Book Three, 5 Kapitel, 10.177 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -15,7 +15,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 02 | v1.10 | 2.103 |
 | 03 | v1.6 | 2.009 |
 | 04 | v1.10 | 2.005 |
-| 05 | v1.3 | 1.948 |
+| 05 | v1.4 | 1.957 |
 
 ---
 
@@ -976,7 +976,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1010,7 +1010,7 @@ He keeps the books of a terminal that has one clerk and does not need two, and h
 
 There is a kettle on the second desk and one cup beside it.
 
-He is sixty-seven. He comes at seven and goes at ten, six days a week, and Woo has never once asked him what he does after six.
+He is fifty-five. He comes at seven and goes at ten, six days a week, and Woo has never once asked him what he does after six.
 
 * * *
 
@@ -1020,7 +1020,7 @@ He had four pages out and squared before Georgij was through the door.
 
 "Say what it is."
 
-"It is untidy." He put one finger on the top page. "I have kept a column for thirty-one years and I know what it looks like when it is behaving, and this one has not been behaving since the second week of May."
+"It is untidy." He put one finger on the top page. "I have kept a column since I was thirty and I know what it looks like when it is behaving, and this one has not been behaving since the second week of May."
 
 Georgij did not sit down.
 
@@ -1160,7 +1160,7 @@ At the door Georgij stopped.
 
 Mr Hwang thought about it properly, which took him about four seconds.
 
-"It is a small column and it is honest," he said. "I did thirty-one years of a large one and I do not know how much of that was honest. I am not going to find out now, because the house is gone and there is nobody left to ask."
+"It is a small column and it is honest," he said. "I kept the large one from the year I turned thirty until the twenty-fifth of February, and I do not know how much of that was honest. I am not going to find out now, because the house is gone and there is nobody left to ask."
 
 He put the pen in the tray where it goes.
 

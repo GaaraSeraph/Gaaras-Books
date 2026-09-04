@@ -1922,7 +1922,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:28 | Chairman Woo telephoned once, in April, and asked one question and rang off, and the que.. |
 | 628 | b3ch03:16 | He did not ask Park Sang-hoon and he did not ask Chairman Woo. |
-| 672 | b3ch05:44 | He is sixty-seven. He comes at seven and goes at ten, six days a week, and Woo has never.. |
+| 672 | b3ch05:44 | He is fifty-five. He comes at seven and goes at ten, six days a week, and Woo has never .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -2058,7 +2058,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:360` (Tag 531) - one, thirty, two
 - `b2ch87:428` (Tag 531) - five, one, three
 - `b2ch89:28` (Tag 590) - one
-- `b3ch05:44` (Tag 672) - seven, six, sixty-seven, ten
+- `b3ch05:44` (Tag 672) - fifty-five, seven, six, ten
 
 ---
 

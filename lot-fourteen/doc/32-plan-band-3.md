@@ -5543,7 +5543,15 @@ Band 6.
 ## Was `b3 ch05` festlegt
 
 **Der Feldzug faengt nicht mit Ehrgeiz an, sondern damit, dass ein
-Siebenundsechzigjaehriger sagt, seine Spalte benehme sich nicht.**
+Fuenfundfuenfzigjaehriger sagt, seine Spalte benehme sich nicht.**
+
+**Zum Alter, weil es am 05.09. falsch dastand:** `doc/11-figuren.md` sagt
+**fuenfundfuenfzig im Februar 2027, und der Mann, der alles verwahrt, seit
+seinem dreissigsten Lebensjahr.** In der ersten Fassung stand
+siebenundsechzig und *thirty-one years* - Letzteres ist Baeks Zahl aus
+`b2 ch89`. Der Text nennt jetzt kein Dienstjahr, sondern die zwei Daten,
+die im Kanon stehen: *since I was thirty* und *until the twenty-fifth of
+February*.
 
 > "I want to say first what this is not. It is not a complaint and it is not a
 > finding, and if I were still where I was I would not have written it down."
@@ -5611,9 +5619,10 @@ Hwang zum ersten Mal in einunddreissig Jahren selbst etwas gefunden hat.
 **Es steht nur in seiner Antwort auf die einzige Frage, die Georgij ihm
 stellt, die nichts mit der Sache zu tun hat:**
 
-> "It is a small column and it is honest. I did thirty-one years of a large
-> one and I do not know how much of that was honest. I am not going to find
-> out now, because the house is gone and there is nobody left to ask."
+> "It is a small column and it is honest. I kept the large one from the year
+> I turned thirty until the twenty-fifth of February, and I do not know how
+> much of that was honest. I am not going to find out now, because the house
+> is gone and there is nobody left to ask."
 >
 > "This one I can get to the bottom of by half past four."
 

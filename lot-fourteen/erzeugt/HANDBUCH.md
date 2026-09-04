@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 364.993 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 365.068 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -745,7 +745,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**128 Kapitel, 341.402 Woerter.**
+**129 Kapitel, 343.350 Woerter.**
 
 ---
 
@@ -23572,7 +23572,15 @@ Band 6.
 ## Was `b3 ch05` festlegt
 
 **Der Feldzug faengt nicht mit Ehrgeiz an, sondern damit, dass ein
-Siebenundsechzigjaehriger sagt, seine Spalte benehme sich nicht.**
+Fuenfundfuenfzigjaehriger sagt, seine Spalte benehme sich nicht.**
+
+**Zum Alter, weil es am 05.09. falsch dastand:** `doc/11-figuren.md` sagt
+**fuenfundfuenfzig im Februar 2027, und der Mann, der alles verwahrt, seit
+seinem dreissigsten Lebensjahr.** In der ersten Fassung stand
+siebenundsechzig und *thirty-one years* - Letzteres ist Baeks Zahl aus
+`b2 ch89`. Der Text nennt jetzt kein Dienstjahr, sondern die zwei Daten,
+die im Kanon stehen: *since I was thirty* und *until the twenty-fifth of
+February*.
 
 > "I want to say first what this is not. It is not a complaint and it is not a
 > finding, and if I were still where I was I would not have written it down."
@@ -23640,9 +23648,10 @@ Hwang zum ersten Mal in einunddreissig Jahren selbst etwas gefunden hat.
 **Es steht nur in seiner Antwort auf die einzige Frage, die Georgij ihm
 stellt, die nichts mit der Sache zu tun hat:**
 
-> "It is a small column and it is honest. I did thirty-one years of a large
-> one and I do not know how much of that was honest. I am not going to find
-> out now, because the house is gone and there is nobody left to ask."
+> "It is a small column and it is honest. I kept the large one from the year
+> I turned thirty until the twenty-fifth of February, and I do not know how
+> much of that was honest. I am not going to find out now, because the house
+> is gone and there is nobody left to ask."
 >
 > "This one I can get to the bottom of by half past four."
 
@@ -33998,7 +34007,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:28 | Chairman Woo telephoned once, in April, and asked one question and rang off, and the que.. |
 | 628 | b3ch03:16 | He did not ask Park Sang-hoon and he did not ask Chairman Woo. |
-| 672 | b3ch05:44 | He is sixty-seven. He comes at seven and goes at ten, six days a week, and Woo has never.. |
+| 672 | b3ch05:44 | He is fifty-five. He comes at seven and goes at ten, six days a week, and Woo has never .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -34134,7 +34143,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:360` (Tag 531) - one, thirty, two
 - `b2ch87:428` (Tag 531) - five, one, three
 - `b2ch89:28` (Tag 590) - one
-- `b3ch05:44` (Tag 672) - seven, six, sixty-seven, ten
+- `b3ch05:44` (Tag 672) - fifty-five, seven, six, ten
 
 ---
 
