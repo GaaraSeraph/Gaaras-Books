@@ -1854,3 +1854,151 @@ ist billig. Ein Lastwagen, der irgendwo war, ist teuer.**
 
 **Und ein Satz aus Band 2 wird hier eingeloest:** *A weighbridge does not read
 anything.* **Eine Waage luegt nicht, weil sie nichts versteht.**
+
+---
+
+# Mrs Seos Jahr
+
+**Vom Autor:** *"FESTSCHREIBEN, ich werde mich erinnern und sie bitter
+enttaeuschen."*
+
+## Die Zusage
+
+`b2 ch85:338`, Tag 531, Donnerstag 18. Maerz. Choi ist an dem Abend im Haus
+gewesen, Mrs Seo hat ihm die Tuer geoeffnet, und danach steht sie im Gang und
+sagt, dass sie in neun Jahren viele Tueren geschlossen und noch nie danach
+jemandem etwas sagen wollte.
+
+> "Then say it now."
+>
+> "No," said Mrs Seo. **"I am going to go and see about the second sitting,
+> and in about a year I am going to tell you what it was, and you are going to
+> have forgotten this conversation and I am not."**
+
+**Sie sagt es, um es nie sagen zu muessen.** Ein Jahr ist die Frist, die man
+jemandem gibt, von dem man weiss, dass er nicht wiederkommt.
+
+**`werkzeug/zusagen.py` traegt sie als Posten mit Faelligkeit Tag 896.**
+
+## Der Einlauf: 18. Maerz, auf den Tag
+
+**Kein Hinterhalt und keine Anspielung dazwischen. Er sagt in einem Jahr kein
+Wort davon, und dann kommt er am Tag.**
+
+---
+
+On the eighteenth of March he came into the kitchen at twenty past two, which is an hour when there is nobody in it, and stood where he stands.
+
+"A year ago today," said Georgij.
+
+Mrs Seo did not turn round.
+
+"I said about."
+
+"You said about a year. Then you said that I would have forgotten it." He had his hands behind his back. "I write things down."
+
+"I am aware that you write things down." She put a lid on something with rather more care than it needed. "I did not think you wrote down what a housekeeper says in a passage."
+
+"I wrote down four words of it."
+
+---
+
+Mrs Seo turned round then.
+
+"Which four."
+
+"Not to anybody. In a passage."
+
+* * *
+
+She sat down at that table, which she does not do, and put both hands flat on it.
+
+"I liked him," she said.
+
+---
+
+Georgij did not move.
+
+"I opened the door to a man who had come here to finish us, and he was the pleasantest man who has been in this house in nine years, and I have not been able to put that down since." She was not looking at him. "That is the whole of it and it does not improve on being said out loud. Which is why I did not say it."
+
+---
+
+"Every one of them liked him."
+
+"Do not manage me."
+
+"I am not." Georgij stayed where he was. "There are eleven people on a page in a coat in Mullae who liked him. There are four in this city. There is a woman in Seodaemun who calls him the lovely man to this day, and she says it to me, and I let her." He did not soften any of it. "You are not the odd one. You are the last one."
+
+* * *
+
+Mrs Seo sat with that for a moment.
+
+"I said a year because nobody remembers a year."
+
+"I know."
+
+"Yes," she said. "You would."
+
+---
+
+She got up and went back to what she had been doing.
+
+"The second sitting is at seven," she said, "and you are not going to be here for it, and I am going to leave you something covered."
+
+## Warum es gebaut ist, wie es gebaut ist
+
+**1. Der Witz ist nicht, dass er sich erinnert. Der Witz ist, warum er sich
+erinnert.** *"I write things down."* **Sie hat gegen den einzigen Mann im Land
+gewettet, der ein Buch fuehrt**, und sie weiss es in dem Moment, in dem er es
+sagt. Deshalb kommt ihre Enttaeuschung als Fachurteil und nicht als Gefuehl:
+*"Yes. You would."*
+
+**2. Die vier Woerter sind der Beweis und die Zaertlichkeit in einem.** Er hat
+nicht die Szene aufgeschrieben, sondern *not to anybody, in a passage* -
+**also genau den Teil, in dem sie sich verraten hat.**
+
+**3. Was sie ein Jahr getragen hat, ist der Faden dieses Bandes im Kleinen.**
+Chois Leute sagen alle denselben Satz, und niemand von ihnen darf ihn sagen.
+**Mrs Seo, die ihm am ersten Abend *"I know what you are"* gesagt hat
+(`b1 ch03:40`), hat Choi dreissig Sekunden lang gemocht und sich ein Jahr
+lang dafuer geschaemt.**
+
+**4. Und Georgij ist der Einzige auf der Welt, der ihr das abnehmen kann**,
+weil er das ganze Jahr in Kuechen gesessen hat, in denen dieser Satz gesagt
+wurde. *"You are not the odd one. You are the last one."*
+
+**5. Sie beendet es selbst und laesst sich nichts schenken.** Die letzte
+Replik ist Haushalt: zweite Sitzung um sieben, er ist nicht da, es steht
+etwas Abgedecktes bereit. **Genau der Satz, mit dem sie in `b2 ch54:48` schon
+einmal eine Unterhaltung beendet hat.**
+
+## Wo es steht
+
+**In einem ruhigen Kapitel zwischen zwei Zuegen.** Eine Seite, kein
+Vorlauf, keine Folge. **Es darf ausdruecklich nichts bewirken** - kein
+Hinweis, keine Auskunft, kein Nutzen.
+
+**Aus Band 3 hierher verlegt.** Zwei Gruende, und der erste allein
+genuegt:
+
+**1. In Band 3 gibt es kein ruhiges Kapitel mehr, in das sie passt.** Der
+dritte Akt ist Fall, Rede, Kuss, Tod, drei Briefe, Beisetzung. Eine Szene,
+die nichts bewirken darf, kann dort nicht stehen, ohne dass sie entweder
+zerdrueckt wird oder anfaengt, etwas zu bedeuten.
+
+**2. Der Kalender entscheidet es ohnehin.** Tag 897 ist Samstag, der
+18. Maerz 2028. Band 3 endet mit Woos Beisetzung im Winter 2027.
+
+**Und die neue Stellung gibt der Szene etwas, das sie in Band 3 nicht
+gehabt haette.** Er kommt aus einem Testament heraus: er hat einen Namen,
+der Tueren oeffnet, und zum ersten Mal Besitz. **Und dann steht er in
+einer Kueche und wird an etwas erinnert, das er getan hat, als er noch
+nichts hatte, und das er aufgeschrieben hat.** *I write things down* ist
+derselbe Satz und wiegt schwerer.
+
+**Was dabei nicht passieren darf:** die Szene wird nicht zur Standortprobe
+ueber den neuen Georgij. Sie handelt von Choi und von Mrs Seo, und sonst
+von nichts.
+
+**Wenn diese Szene irgendetwas fuer die Handlung tut, ist sie falsch
+geschrieben.**

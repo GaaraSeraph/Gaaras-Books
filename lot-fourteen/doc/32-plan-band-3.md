@@ -5199,12 +5199,18 @@ Todestag zaehlt als erster, also **Mittwoch der 26. Mai 2027, Tag 600**.
 Damit kommt die Karte acht Tage vorher, und das Datum ist aus dem Todestag
 gerechnet und nirgends erfunden.
 
-**Das Bandende bleibt offen.** Mrs Seos Frist faellt auf **Tag 897, Samstag
-den 18. Maerz 2028** - 2028 ist ein Schaltjahr, deshalb 366 und nicht 365
-Tage, und im Schuldbuch stand bis zum 30.08. Tag 896. Wenn die Szene in
-Band 3 stehen soll, laeuft der Band ueber den Winter hinaus bis ins Fruehjahr
-2028. **Feste Tage werden weiter erst vergeben, wenn ein Kapitel eine
-Kopfzeile braucht.**
+**Das Bandende ist entschieden: Winter 2027, mit Woos Beisetzung.** Der
+Band laeuft nicht ins Fruehjahr 2028 hinein.
+
+**Damit faellt Mrs Seos Frist aus dem Band heraus**, und das ist richtig so.
+Tag 897 ist Samstag, der 18. Maerz 2028 - 2028 ist ein Schaltjahr, deshalb
+366 und nicht 365 Tage. **Die Szene steht jetzt ganz in
+`doc/33-plan-band-4.md`.** Der Grund ist nicht der Kalender allein: sie
+verlangt ein ruhiges Kapitel zwischen zwei Zuegen, und der dritte Akt dieses
+Bandes hat keins.
+
+**Feste Tage werden weiter erst vergeben, wenn ein Kapitel eine Kopfzeile
+braucht.**
 
 ## Was `b3 ch01` festlegt, geschrieben am 30.08.
 
@@ -6019,8 +6025,9 @@ vom Sohn und Georgijs fuenf noch fehlende Mitteilungen an die fuenf Firmen. Fuer
 Chois Fristbruch und die fuenf Mitteilungen ist hier noch keine Band-3-Szene
 festgelegt. Mrs Jeons Posten ist dagegen als kleine Band-2-Kontinuitaetsbruecke
 in `doc/31-plan-band-2.md` vorbereitet: Sie wartet nicht auf das Juliangebot des
-Sohnes, sondern beginnt am 15. Juni in Gwangyang. Mrs Seos Jahresfrist bleibt
-ebenfalls offen, hat aber bereits ihren eigenen spaeteren Ort im Plan.
+Sohnes, sondern beginnt am 15. Juni in Gwangyang. **Mrs Seos Jahresfrist
+faellt auf Tag 897 und liegt damit hinter dem Bandende; die Szene steht
+ganz in `doc/33-plan-band-4.md`.**
 
 ## 1. Singapur: *"What he actually owns behind the lawyers in Singapore"*
 
@@ -6787,129 +6794,3 @@ your office."* **Ein Satz alle paar Kapitel, wie viele es inzwischen sind, und
 was Sim mit seinen elf gemacht hat.**
 
 **Keine Szene mehr. Der Faden ist bezahlt.**
-
----
-
-# Mrs Seos Jahr, festgeschrieben am 30.08.
-
-**Vom Autor:** *"FESTSCHREIBEN, ich werde mich erinnern und sie bitter
-enttaeuschen."*
-
-## Die Zusage
-
-`b2 ch85:338`, Tag 531, Donnerstag 18. Maerz. Choi ist an dem Abend im Haus
-gewesen, Mrs Seo hat ihm die Tuer geoeffnet, und danach steht sie im Gang und
-sagt, dass sie in neun Jahren viele Tueren geschlossen und noch nie danach
-jemandem etwas sagen wollte.
-
-> "Then say it now."
->
-> "No," said Mrs Seo. **"I am going to go and see about the second sitting,
-> and in about a year I am going to tell you what it was, and you are going to
-> have forgotten this conversation and I am not."**
-
-**Sie sagt es, um es nie sagen zu muessen.** Ein Jahr ist die Frist, die man
-jemandem gibt, von dem man weiss, dass er nicht wiederkommt.
-
-**`werkzeug/zusagen.py` traegt sie als Posten mit Faelligkeit Tag 896.**
-
-## Der Einlauf: 18. Maerz, Band 3, auf den Tag
-
-**Kein Hinterhalt und keine Anspielung dazwischen. Er sagt in einem Jahr kein
-Wort davon, und dann kommt er am Tag.**
-
----
-
-On the eighteenth of March he came into the kitchen at twenty past two, which is an hour when there is nobody in it, and stood where he stands.
-
-"A year ago today," said Georgij.
-
-Mrs Seo did not turn round.
-
-"I said about."
-
-"You said about a year. Then you said that I would have forgotten it." He had his hands behind his back. "I write things down."
-
-"I am aware that you write things down." She put a lid on something with rather more care than it needed. "I did not think you wrote down what a housekeeper says in a passage."
-
-"I wrote down four words of it."
-
----
-
-Mrs Seo turned round then.
-
-"Which four."
-
-"Not to anybody. In a passage."
-
-* * *
-
-She sat down at that table, which she does not do, and put both hands flat on it.
-
-"I liked him," she said.
-
----
-
-Georgij did not move.
-
-"I opened the door to a man who had come here to finish us, and he was the pleasantest man who has been in this house in nine years, and I have not been able to put that down since." She was not looking at him. "That is the whole of it and it does not improve on being said out loud. Which is why I did not say it."
-
----
-
-"Every one of them liked him."
-
-"Do not manage me."
-
-"I am not." Georgij stayed where he was. "There are eleven people on a page in a coat in Mullae who liked him. There are four in this city. There is a woman in Seodaemun who calls him the lovely man to this day, and she says it to me, and I let her." He did not soften any of it. "You are not the odd one. You are the last one."
-
-* * *
-
-Mrs Seo sat with that for a moment.
-
-"I said a year because nobody remembers a year."
-
-"I know."
-
-"Yes," she said. "You would."
-
----
-
-She got up and went back to what she had been doing.
-
-"The second sitting is at seven," she said, "and you are not going to be here for it, and I am going to leave you something covered."
-
-## Warum es gebaut ist, wie es gebaut ist
-
-**1. Der Witz ist nicht, dass er sich erinnert. Der Witz ist, warum er sich
-erinnert.** *"I write things down."* **Sie hat gegen den einzigen Mann im Land
-gewettet, der ein Buch fuehrt**, und sie weiss es in dem Moment, in dem er es
-sagt. Deshalb kommt ihre Enttaeuschung als Fachurteil und nicht als Gefuehl:
-*"Yes. You would."*
-
-**2. Die vier Woerter sind der Beweis und die Zaertlichkeit in einem.** Er hat
-nicht die Szene aufgeschrieben, sondern *not to anybody, in a passage* -
-**also genau den Teil, in dem sie sich verraten hat.**
-
-**3. Was sie ein Jahr getragen hat, ist der Faden dieses Bandes im Kleinen.**
-Chois Leute sagen alle denselben Satz, und niemand von ihnen darf ihn sagen.
-**Mrs Seo, die ihm am ersten Abend *"I know what you are"* gesagt hat
-(`b1 ch03:40`), hat Choi dreissig Sekunden lang gemocht und sich ein Jahr
-lang dafuer geschaemt.**
-
-**4. Und Georgij ist der Einzige auf der Welt, der ihr das abnehmen kann**,
-weil er das ganze Jahr in Kuechen gesessen hat, in denen dieser Satz gesagt
-wurde. *"You are not the odd one. You are the last one."*
-
-**5. Sie beendet es selbst und laesst sich nichts schenken.** Die letzte
-Replik ist Haushalt: zweite Sitzung um sieben, er ist nicht da, es steht
-etwas Abgedecktes bereit. **Genau der Satz, mit dem sie in `b2 ch54:48` schon
-einmal eine Unterhaltung beendet hat.**
-
-## Wo es steht
-
-**Akt II oder III, in einem ruhigen Kapitel zwischen zwei Zuegen des
-Feldzugs.** Eine Seite, kein Vorlauf, keine Folge. **Es darf ausdruecklich
-nichts bewirken** - kein Hinweis, keine Auskunft, kein Nutzen.
-
-**Wenn diese Szene irgendetwas fuer die Handlung tut, ist sie falsch
-geschrieben.**
