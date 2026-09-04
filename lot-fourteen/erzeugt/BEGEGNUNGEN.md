@@ -970,10 +970,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:294 | Annie put the pen down. |
 | 672 | b3ch05:308 | Annie looked at the window for a moment, which she does perhaps once a month. |
 | 672 | b3ch05:322 | "I have been paying for that twice a month since May and calling it maintenance," said A.. |
-| 686 | b3ch06:250 | Annie did not say anything for a long time. |
-| 686 | b3ch06:264 | Annie put the pen down. |
-| 686 | b3ch06:288 | "Say the thing you are not saying," said Annie. |
-| 686 | b3ch06:298 | Annie turned round then. |
+| 686 | b3ch06:268 | Annie did not say anything for a long time. |
+| 686 | b3ch06:282 | Annie put the pen down. |
+| 686 | b3ch06:306 | "Say the thing you are not saying," said Annie. |
+| 686 | b3ch06:316 | Annie turned round then. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3686,10 +3686,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
 | 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
 | 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
-| 686 | b3ch06:208 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
-| 686 | b3ch06:212 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Eleve.. |
-| 686 | b3ch06:218 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |
-| 686 | b3ch06:224 | "Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter a.. |
+| 686 | b3ch06:226 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
+| 686 | b3ch06:230 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Eleve.. |
+| 686 | b3ch06:236 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |
+| 686 | b3ch06:242 | "Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter a.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -3741,8 +3741,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:172` (Tag 590) - thirty-one
 - `b3ch01:84` (Tag 592) - eleven, one
 - `b3ch01:90` (Tag 592) - four, two
-- `b3ch06:212` (Tag 686) - eleven
-- `b3ch06:218` (Tag 686) - sixty-three, thirty-eight
+- `b3ch06:230` (Tag 686) - eleven
+- `b3ch06:236` (Tag 686) - sixty-three, thirty-eight
 
 ---
 
@@ -5361,7 +5361,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 | 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
-| 686 | b3ch06:176 | Mr Baek telephoned on the Friday morning, which he does not. |
+| 686 | b3ch06:194 | Mr Baek telephoned on the Friday morning, which he does not. |
 
 ### Zahlen in der Naehe von Mr Baek
 

@@ -1,5 +1,5 @@
 # Chapter 6: Who asked
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -103,11 +103,29 @@ The ninth is the one that says what a late ship costs, and it is the only one th
 
 * * *
 
-An insurer may ask for the terms of a contract that its policy sits behind.
+Eleven of those nineteen cargoes move on Hanseong bottoms.
 
 ---
 
-That is not a courtesy and it is not a favour. It is the basis on which the policy is written, and the counterparty who refuses gets a letter to his underwriter, and the underwriter is the man who decides whether he trades at all next year.
+They move on Hanseong bottoms because Hanseong has the berths, and a precursor that has to be in a reactor on a Thursday goes on the ship that has a slot on the Tuesday.
+
+There is no second ship. That is the whole of why the four routes were worth buying in the first place.
+
+* * *
+
+A carrier is liable when a carrier is late.
+
+---
+
+So a carrier carries insurance against being late.
+
+And the insurer of a carrier may ask the people whose cargo it is what a late ship would cost them, because that is the number it would be paying.
+
+It is the most legitimate question in this trade. It is asked in writing, on a letterhead, with a reference, and the counterparty who will not answer gets a letter to his own underwriter.
+
+---
+
+The form that exists to protect nineteen companies from Hanseong is the one that told Hanseong where to press.
 
 Nineteen companies would each have said yes to that form, one at a time, over four months.
 

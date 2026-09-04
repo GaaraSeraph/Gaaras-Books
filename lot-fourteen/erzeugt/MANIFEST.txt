@@ -129,7 +129,7 @@ b3  ch02  v1.10      2103 Woerter  ch02_v1_10_en.md
 b3  ch03  v1.6       2009 Woerter  ch03_v1_6_en.md
 b3  ch04  v1.10      2005 Woerter  ch04_v1_10_en.md
 b3  ch05  v1.4       1957 Woerter  ch05_v1_4_en.md
-b3  ch06  v1.4       2008 Woerter  ch06_v1_4_en.md
+b3  ch06  v1.6       2115 Woerter  ch06_v1_6_en.md
 
-Gesamt: 3 Baende, 130 Kapitel, 345367 Woerter
+Gesamt: 3 Baende, 130 Kapitel, 345474 Woerter
 Handbuch: 22 Dokumente
