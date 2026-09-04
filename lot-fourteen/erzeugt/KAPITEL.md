@@ -137,4 +137,4 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 1** *The first thing that arrives* (v1.6) · Tag 592, Di 18. Mai · 2.103 W
 - **B3 2** *Thank you for coming* (v1.10) · Tag 600, Mi 26. Mai · 2.103 W
 - **B3 3** *At sixty* (v1.6) · Tag 628, Mi 23. Juni · 2.009 W
-- **B3 4** *Sixteen* (v1.6) · Tag 645, Sa 10. Juli · 2.008 W
+- **B3 4** *Sixteen* (v1.8) · Tag 645, Sa 10. Juli · 2.015 W

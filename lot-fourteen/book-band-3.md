@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 4 Kapitel, 8.223 Woerter.
+Book Three, 4 Kapitel, 8.230 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,7 +14,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.6 | 2.103 |
 | 02 | v1.10 | 2.103 |
 | 03 | v1.6 | 2.009 |
-| 04 | v1.6 | 2.008 |
+| 04 | v1.8 | 2.015 |
 
 ---
 
@@ -692,7 +692,7 @@ Annie picked the pen back up.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -880,7 +880,15 @@ At sixteen he was in the sixth house, or the seventh, and he has never had to wo
 
 He worked it out standing in that passage. It was the seventh.
 
-He did not do anything with it.
+There is a second one and it is older.
+
+On the fourth of October he took a buyer apart with one true sentence, and the boy that buyer had paid for went back into the next month’s catalogue. That is the whole of what he did for him. It was not a good outcome and it was a better one.
+
+A woman four rows away bought him in November.
+
+Georgij has never been able to decide whether that is a thing he did or a thing that happened afterwards, and he has had two years.
+
+He did not do anything with either of them.
 
 * * *
 
@@ -902,29 +910,29 @@ Georgij stood where he stands.
 
 * * *
 
-Annie put the pen down.
+"I have carried that boy for two years," said Georgij.
 
-"Ask it now."
+He did not put anything round it and he did not look away.
 
-"I am not going to ask it now. It is answered." Georgij had his hands behind his back. "I would like to say what I have got instead, and then I am going to go and see about the second sitting, because it is Saturday and Mrs Seo is short."
+"You could have put it down for me on any day of it."
 
-"Say it."
+"Yes."
 
-"You bought a person," said Georgij. "You did it for me, and you did it in November of the first year, before I had said three hundred words to you."
-
-"You did it properly and you have gone on doing it for two years, and there is a boy upstairs with a dentist twice a year."
-
-He did not look away.
-
-"And you did not tell me."
-
-"That is four things and I do not know which of them I am supposed to do something with."
+"Why did you not."
 
 * * *
 
-Annie did not answer for a while.
+Annie put the pen down.
 
-"The first three are mine," she said. "The fourth one is the only one you are entitled to and you have just spent it."
+"Because you would have thanked me," she said.
+
+Georgij did not say anything at all.
+
+"And then it would have been about you."
+
+* * *
+
+In the room at the back a machine ran for four minutes and stopped.
 
 "Yes, Mistress."
 

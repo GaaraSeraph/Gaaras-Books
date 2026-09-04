@@ -5465,20 +5465,38 @@ Weisung, und nirgends ein Name.**
 Schlimmeres:** er kann an nichts davon etwas aussetzen ausser daran, dass sie
 es ihm nicht gesagt hat.
 
-> "You bought a person in November of the first year to do me a favour, and
-> you did it before I had said three hundred words to you. And you did it
-> properly, and you have gone on doing it properly for two years, and you did
-> not tell me, and I do not know which of those four things I am supposed to
-> do something with."
+**Berichtigt am 05.09.: die Vier-Dinge-Aufzaehlung ist gestrichen.** Sie war
+nicht zaehlbar, und sie war ausserdem falsch gebaut - **drei der vier waren
+eine gute Tat, und mit einer guten Tat muss er nichts anfangen.** Die
+Aufzaehlung tat so, als laegen vier Beschwerden auf dem Tisch, und es liegt
+eine da.
+
+**Und die eine ist nicht *du hast es mir nicht gesagt*, sondern:**
+
+> "I have carried that boy for two years. You could have put it down for me
+> on any day of it."
 >
-> "The first three are mine. **The fourth one is the only one you are entitled
-> to and you have just spent it.**"
+> "Yes."
 >
+> "Why did you not."
+>
+> "Because you would have thanked me. **And then it would have been about
+> you.**"
+
+**Das ist ihre Antwort und keine Entschuldigung.** In dem Augenblick, in dem
+er es weiss, hoert der Junge auf, ein Junge zu sein, und wird eine Sache
+zwischen den beiden. **Sie hat ihn nicht gekauft, damit Georgij sich besser
+fuehlt** - und der Satz, der zwei Repliken spaeter kommt, sagt dasselbe noch
+einmal von vorn: *He is not a present and he is not a debt.*
+
 > "Yes, Mistress."
 >
 > "That is not agreement. Say whether it is."
 >
 > "No."
+
+**Er nimmt ihren Grund an und haelt das Zurueckhalten trotzdem fuer falsch.**
+Das bleibt so stehen.
 
 **Und sie loest es nicht auf.** *"Then we are going to leave it where it is,
 and it is going to be there in ten years, and neither of us is going to be
