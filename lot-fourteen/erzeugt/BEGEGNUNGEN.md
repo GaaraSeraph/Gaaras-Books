@@ -18,13 +18,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 885 | 98 (b1ch01-b3ch03) | 1 | 628 |
+| Annie | 890 | 99 (b1ch01-b3ch04) | 1 | 645 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 235 | 40 (b1ch07-b3ch03) | 22 | 628 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 163 | 40 (b1ch05-b3ch03) | 4 | 628 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
-| Mrs Seo | 145 | 52 (b1ch03-b3ch03) | 1 | 628 |
+| Mrs Seo | 152 | 53 (b1ch03-b3ch04) | 1 | 645 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
@@ -57,6 +57,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
+| Lee Jun | 6 | 1 (b3ch04) | 645 | 645 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
@@ -71,7 +72,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-885 Nennungen in 98 Kapiteln.
+890 Nennungen in 99 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -960,6 +961,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 628 | b3ch03:300 | "Then say what he is," said Annie. |
 | 628 | b3ch03:306 | Annie put the pen down. |
 | 628 | b3ch03:322 | Annie picked the pen back up. |
+| 645 | b3ch04:250 | Annie was at the desk at half past two and had been since eleven. |
+| 645 | b3ch04:272 | Annie put the pen down. |
+| 645 | b3ch04:288 | Annie did not answer for a while. |
+| 645 | b3ch04:306 | Annie looked at him. |
+| 645 | b3ch04:324 | Annie did not offer him one. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1205,6 +1211,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:498` (Tag 531) - one
 - `b2ch89:90` (Tag 590) - four
 - `b3ch01:130` (Tag 592) - four, one, two
+- `b3ch04:250` (Tag 645) - eleven, two
+- `b3ch04:324` (Tag 645) - one
 
 ---
 
@@ -2813,7 +2821,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-145 Nennungen in 52 Kapiteln.
+152 Nennungen in 53 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2962,6 +2970,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:28 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
 | 592 | b3ch01:204 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
 | 628 | b3ch03:30 | The telephone rang in the small room at ten past nine on the Monday, and Mrs Seo answere.. |
+| 645 | b3ch04:12 | It was that Mrs Seo was already at the front door before it stopped, which she does not .. |
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:66 | Mrs Seo has never once told him a thing she was not told to tell him, and she has never .. |
+| 645 | b3ch04:230 | "Mrs Seo pays the household and she pays it on the last working day of the month." He sa.. |
+| 645 | b3ch04:278 | "I am not going to ask it now. It is answered." Georgij had his hands behind his back. ".. |
+| 645 | b3ch04:332 | At seven the tray went up the way it has gone up at seven for ten years, and there was a.. |
+| 645 | b3ch04:336 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -3047,6 +3062,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:188` (Tag 531) - four, one, ten, twenty-six
 - `b2ch89:108` (Tag 590) - one
 - `b3ch03:30` (Tag 628) - nine, ten
+- `b3ch04:66` (Tag 645) - one
+- `b3ch04:332` (Tag 645) - seven, ten
+- `b3ch04:336` (Tag 645) - four
 
 ---
 
@@ -5358,6 +5376,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b2ch54:48` (Tag 319) - six
 - `b2ch84:220` (Tag 522) - nineteen
+
+---
+
+## Lee Jun
+
+6 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:94 | Lee Jun did not say anything to that. |
+| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:336 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:336` (Tag 645) - four
 
 ---
 

@@ -5418,6 +5418,97 @@ hat drei Woerter und kein Papier.
 **Damit ist der Sturz von Anfang an herbeigefuehrt und der Leser hat es
 gesehen, ohne dass es dasteht.**
 
+## Was `b3 ch04` festlegt
+
+**Der Tag ist ein Samstag, und niemand sagt warum.** Georgij kam am
+**Samstag, dem 4. Oktober** in dieselbe Halle. Annie ordnet keine Zufaelle
+an, und der Text kommentiert es mit keinem Wort.
+
+**Die neun Sekunden sind die Klammer.** `b1 ch03:12`: *He stood where she had
+left him and did what he always did, **which took about nine seconds and had
+never once been a decision**.* Lee Jun steht in derselben Halle und zaehlt
+die Tueren, und er braucht dieselbe Zeit.
+
+> "You counted the doors."
+>
+> "Yes, sir."
+>
+> "So did I. I did it standing where you are standing, and it took me the same
+> time."
+
+**Der Zug, der ihm nicht schmeichelt** (`doc/21-figurenbau.md`, Regel 0):
+**Lee Jun ist kein Opfer in dieser Halle, er ist ein Berufstaetiger von
+sechzehn.** Er liest den Raum und spielt danach die Fassung von sich, die der
+Raum haben will, und er hat es dreimal in neunzig Sekunden richtig gemacht.
+**Georgij sieht es in vier Sekunden, weil er es erfunden hat.**
+
+**Die einzige Frage, die er den ganzen Tag stellt, ist die richtige:**
+
+> "What am I paid?"
+
+**Und Georgij hat die Antwort nicht.** Er ist nie bezahlt worden und nie
+danach gefragt worden. Er gibt sie an Mrs Seo weiter, in ihrer Stimme und
+nicht in seiner, und das ist die einzige saubere Antwort, die es gibt.
+
+### Die Papierfrage ist der Schlag und nicht der Junge
+
+**`doc/11-figuren.md` (03.09.) verlangt: Lee Jun kommt nicht als lose
+gekaufter Minderjaehriger.** Genau das ist die Waffe der Szene. Die Mappe ist
+vollstaendig - Vormundschaft, Ausbildungsvertrag, Zeugnis, Gesundheitsakte -
+**und in der Zeile fuer den Antragsteller steht eine Kanzlei in Jung-gu auf
+Weisung, und nirgends ein Name.**
+
+> Somebody has spent two years making a person legal, one document at a time,
+> and has done it properly and has not put a name on any of it.
+
+**Damit ist die Abrechnung mit Annie keine Anklage, sondern etwas
+Schlimmeres:** er kann an nichts davon etwas aussetzen ausser daran, dass sie
+es ihm nicht gesagt hat.
+
+> "You bought a person in November of the first year to do me a favour, and
+> you did it before I had said three hundred words to you. And you did it
+> properly, and you have gone on doing it properly for two years, and you did
+> not tell me, and I do not know which of those four things I am supposed to
+> do something with."
+>
+> "The first three are mine. **The fourth one is the only one you are entitled
+> to and you have just spent it.**"
+>
+> "Yes, Mistress."
+>
+> "That is not agreement. Say whether it is."
+>
+> "No."
+
+**Und sie loest es nicht auf.** *"Then we are going to leave it where it is,
+and it is going to be there in ten years, and neither of us is going to be
+surprised when it comes up."* **Die erste offene Rechnung zwischen den
+beiden, und sie wird ausdruecklich nicht bezahlt.**
+
+### Die Frage des Bandes wird einmal gestellt und nicht beantwortet
+
+> "I do not know what I am going to do with him."
+>
+> "No."
+>
+> "I know two things. One of them is this house and the other one is the
+> trade. There is not a third."
+>
+> Annie did not offer him one.
+
+**Das ist die Achse aus dem Plan** - anlernen heisst den Handel weitergeben,
+nicht anlernen heisst einen Sechzehnjaehrigen unbrauchbar lassen. **Sie steht
+im Kapitel als Satz und nicht als Entscheidung**, und sie laeuft von hier bis
+Band 6.
+
+### Zwei Sachen, die dabei stehenbleiben und spaeter zahlen
+
+* **Die Ausbildungsfirma in Yangju hatte den Grundriss dieses Hauses.**
+  *Halfway along the upstairs passage Georgij understood that he was not
+  showing him anything.* Der Text sagt nicht, wer ihn gegeben hat.
+* **Der Junge sagt am Abend vier Woerter, und alle vier gehen an Mrs Seo.**
+  Nicht an Georgij, und nicht an die Frau, der er gehoert.
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -5675,7 +5766,8 @@ sie.**
    sixty."* **Geschrieben: `b3 ch03`, Tag 628, Mittwoch der 23. Juni -
    vier Wochen nach dem Ritus, auf den Tag und auf den Wochentag.**
 4. **Lee Jun kommt an**, frueh im Band, damit er da ist und lernt, waehrend
-   alles Uebrige passiert. Mrs Seo nimmt ihn in Empfang, derselbe Flur,
+   alles Uebrige passiert. **Geschrieben: `b3 ch04`, Tag 645, Samstag der
+   10. Juli - derselbe Wochentag wie der 4. Oktober.** Mrs Seo nimmt ihn in Empfang, derselbe Flur,
    dieselbe Frau, und der, der zuerst so ankam, steht daneben.
    **Er ist kein Punkt, sondern ein Faden**, und er laeuft durch beide
    weiteren Akte: das Anlernen, das Halsband, die Rechnung mit Annie, die

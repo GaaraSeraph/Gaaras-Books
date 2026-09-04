@@ -279,6 +279,8 @@ FIGURES = {
     "Baek Jun-ho": [r"Baek Jun-ho", r"Jun-ho", r"(?<!Mr )\bBaek\b"],
     # Band 3. Null Kollisionen im ganzen Kanon geprueft am 30.08.
     "Gong Doo-hyun": [r"Gong Doo-hyun", r"\bGong\b", r"Doo-hyun"],
+    # Lot 11, Band 3. Das Muster darf Baek Jun-ho nicht treffen: (?!-).
+    "Lee Jun": [r"Lee Jun", r"\bJun\b(?!-)"],
     "Moon Hae-sook": [r"Moon Hae-sook", r"Hae-sook"],
     "Mrs Ha": [r"Mrs Ha"],
     # Cha steht neben Mr Chae im Buch, deshalb die Wortgrenze.

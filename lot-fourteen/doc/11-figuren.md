@@ -603,7 +603,7 @@ diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Lee Jun** | **Ehemals Lot 11.** Im Werk nur Jun | Infrastructure Trainee bei Georgij; lernt Methode, nicht Gehorsam. In Band 5 bei Maeng nicht am Tisch, sondern im zweiten Raum bei Hwangs Reihe: Zeit, Tuer, Fahrzeug, Abweichung | B3 geplant, B4 aktiv | Kommt nicht lose ins Haus: Name, Schutz-/Beschaeftigungs- und Statusstruktur stehen vor Ankunft. Wird fuer spaetere Werke befaehigt; kein Motors-Pruefer, frei fuer Band 5, aber nicht in Blut-/Hinrichtungsraeumen |
+| **Lee Jun** | **Ehemals Lot 11.** Im Werk nur Jun. **Erster Auftritt `b3 ch04`, Tag 645** | Infrastructure Trainee bei Georgij; lernt Methode, nicht Gehorsam. In Band 5 bei Maeng nicht am Tisch, sondern im zweiten Raum bei Hwangs Reihe: Zeit, Tuer, Fahrzeug, Abweichung | B3 geplant, B4 aktiv | Kommt nicht lose ins Haus: Name, Schutz-/Beschaeftigungs- und Statusstruktur stehen vor Ankunft. Wird fuer spaetere Werke befaehigt; kein Motors-Pruefer, frei fuer Band 5, aber nicht in Blut-/Hinrichtungsraeumen |
 | **Choi Eun-kyung** | Teileausgabe im Hanseong Motors Ulsan Main Complex | Trocken, wach, erste starke Stimme unten; sieht, welche Fehler alle kennen | B4 geplant | Teil der ersten Stabilization Cell; echte Macht ueber Teilefreigaben |
 | **Nam Gi-tae** | Tor 4, aelterer Sicherheitsmann | Kennt Nachtlisten, manuelle Overrides und die Tore, durch die Dinge zu bequem gehen | B4 geplant | Teil der ersten Stabilization Cell; Rueckendeckung am Tor |
 | **Park Dae-sik** | Schichtleiter | Hat Freigaben unterschrieben, teils unter Druck, teils nachtraeglich | B4 geplant | Bleibt Schichtkoordinator unter Rueckgrat; belastet, aber nutzbar |

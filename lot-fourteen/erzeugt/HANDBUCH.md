@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 362.617 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 363.753 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -455,6 +455,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Der Boersenzug ist seriell, weil die Kasse seriell ist](#der-boersenzug-ist-seriell-weil-die-kasse-seriell-ist)
   - [Die zweite Klinge: ihre Kunden](#die-zweite-klinge-ihre-kunden)
   - [Die Ablage aus ch03 und wo sie entnommen wird](#die-ablage-aus-ch03-und-wo-sie-entnommen-wird)
+  - [Die Papierfrage ist der Schlag und nicht der Junge](#die-papierfrage-ist-der-schlag-und-nicht-der-junge)
+  - [Die Frage des Bandes wird einmal gestellt und nicht beantwortet](#die-frage-des-bandes-wird-einmal-gestellt-und-nicht-beantwortet)
+  - [Zwei Sachen, die dabei stehenbleiben und spaeter zahlen](#zwei-sachen-die-dabei-stehenbleiben-und-spaeter-zahlen)
   - [Der Spiegelraum: Han bekommt kein Angebot mehr](#der-spiegelraum-han-bekommt-kein-angebot-mehr)
   - [Was eingebaut wird, sechs Sachen](#was-eingebaut-wird-sechs-sachen)
   - [Akt I - Sommer 2027](#akt-i-sommer-2027)
@@ -682,6 +685,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Baek](#mr-baek)
   - [Bae](#bae)
   - [Eun-ju](#eun-ju)
+  - [Lee Jun](#lee-jun)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
   - [Minister Min-ho](#minister-min-ho)
@@ -739,7 +743,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**127 Kapitel, 339.396 Woerter.**
+**128 Kapitel, 341.389 Woerter.**
 
 ---
 
@@ -1976,7 +1980,7 @@ diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Lee Jun** | **Ehemals Lot 11.** Im Werk nur Jun | Infrastructure Trainee bei Georgij; lernt Methode, nicht Gehorsam. In Band 5 bei Maeng nicht am Tisch, sondern im zweiten Raum bei Hwangs Reihe: Zeit, Tuer, Fahrzeug, Abweichung | B3 geplant, B4 aktiv | Kommt nicht lose ins Haus: Name, Schutz-/Beschaeftigungs- und Statusstruktur stehen vor Ankunft. Wird fuer spaetere Werke befaehigt; kein Motors-Pruefer, frei fuer Band 5, aber nicht in Blut-/Hinrichtungsraeumen |
+| **Lee Jun** | **Ehemals Lot 11.** Im Werk nur Jun. **Erster Auftritt `b3 ch04`, Tag 645** | Infrastructure Trainee bei Georgij; lernt Methode, nicht Gehorsam. In Band 5 bei Maeng nicht am Tisch, sondern im zweiten Raum bei Hwangs Reihe: Zeit, Tuer, Fahrzeug, Abweichung | B3 geplant, B4 aktiv | Kommt nicht lose ins Haus: Name, Schutz-/Beschaeftigungs- und Statusstruktur stehen vor Ankunft. Wird fuer spaetere Werke befaehigt; kein Motors-Pruefer, frei fuer Band 5, aber nicht in Blut-/Hinrichtungsraeumen |
 | **Choi Eun-kyung** | Teileausgabe im Hanseong Motors Ulsan Main Complex | Trocken, wach, erste starke Stimme unten; sieht, welche Fehler alle kennen | B4 geplant | Teil der ersten Stabilization Cell; echte Macht ueber Teilefreigaben |
 | **Nam Gi-tae** | Tor 4, aelterer Sicherheitsmann | Kennt Nachtlisten, manuelle Overrides und die Tore, durch die Dinge zu bequem gehen | B4 geplant | Teil der ersten Stabilization Cell; Rueckendeckung am Tor |
 | **Park Dae-sik** | Schichtleiter | Hat Freigaben unterschrieben, teils unter Druck, teils nachtraeglich | B4 geplant | Bleibt Schichtkoordinator unter Rueckgrat; belastet, aber nutzbar |
@@ -8761,6 +8765,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 1** | 592 | Di **18. Mai 2027** |
 | **Band 3, Kapitel 2** - der neunundvierzigste Tag | 600 | Mi **26. Mai 2027** |
 | **Band 3, Kapitel 3** - die Anklage | 628 | Mi **23. Juni 2027** |
+| **Band 3, Kapitel 4** - Lee Jun kommt an | 645 | Sa **10. Juli 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -23439,6 +23444,97 @@ hat drei Woerter und kein Papier.
 **Damit ist der Sturz von Anfang an herbeigefuehrt und der Leser hat es
 gesehen, ohne dass es dasteht.**
 
+## Was `b3 ch04` festlegt
+
+**Der Tag ist ein Samstag, und niemand sagt warum.** Georgij kam am
+**Samstag, dem 4. Oktober** in dieselbe Halle. Annie ordnet keine Zufaelle
+an, und der Text kommentiert es mit keinem Wort.
+
+**Die neun Sekunden sind die Klammer.** `b1 ch03:12`: *He stood where she had
+left him and did what he always did, **which took about nine seconds and had
+never once been a decision**.* Lee Jun steht in derselben Halle und zaehlt
+die Tueren, und er braucht dieselbe Zeit.
+
+> "You counted the doors."
+>
+> "Yes, sir."
+>
+> "So did I. I did it standing where you are standing, and it took me the same
+> time."
+
+**Der Zug, der ihm nicht schmeichelt** (`doc/21-figurenbau.md`, Regel 0):
+**Lee Jun ist kein Opfer in dieser Halle, er ist ein Berufstaetiger von
+sechzehn.** Er liest den Raum und spielt danach die Fassung von sich, die der
+Raum haben will, und er hat es dreimal in neunzig Sekunden richtig gemacht.
+**Georgij sieht es in vier Sekunden, weil er es erfunden hat.**
+
+**Die einzige Frage, die er den ganzen Tag stellt, ist die richtige:**
+
+> "What am I paid?"
+
+**Und Georgij hat die Antwort nicht.** Er ist nie bezahlt worden und nie
+danach gefragt worden. Er gibt sie an Mrs Seo weiter, in ihrer Stimme und
+nicht in seiner, und das ist die einzige saubere Antwort, die es gibt.
+
+### Die Papierfrage ist der Schlag und nicht der Junge
+
+**`doc/11-figuren.md` (03.09.) verlangt: Lee Jun kommt nicht als lose
+gekaufter Minderjaehriger.** Genau das ist die Waffe der Szene. Die Mappe ist
+vollstaendig - Vormundschaft, Ausbildungsvertrag, Zeugnis, Gesundheitsakte -
+**und in der Zeile fuer den Antragsteller steht eine Kanzlei in Jung-gu auf
+Weisung, und nirgends ein Name.**
+
+> Somebody has spent two years making a person legal, one document at a time,
+> and has done it properly and has not put a name on any of it.
+
+**Damit ist die Abrechnung mit Annie keine Anklage, sondern etwas
+Schlimmeres:** er kann an nichts davon etwas aussetzen ausser daran, dass sie
+es ihm nicht gesagt hat.
+
+> "You bought a person in November of the first year to do me a favour, and
+> you did it before I had said three hundred words to you. And you did it
+> properly, and you have gone on doing it properly for two years, and you did
+> not tell me, and I do not know which of those four things I am supposed to
+> do something with."
+>
+> "The first three are mine. **The fourth one is the only one you are entitled
+> to and you have just spent it.**"
+>
+> "Yes, Mistress."
+>
+> "That is not agreement. Say whether it is."
+>
+> "No."
+
+**Und sie loest es nicht auf.** *"Then we are going to leave it where it is,
+and it is going to be there in ten years, and neither of us is going to be
+surprised when it comes up."* **Die erste offene Rechnung zwischen den
+beiden, und sie wird ausdruecklich nicht bezahlt.**
+
+### Die Frage des Bandes wird einmal gestellt und nicht beantwortet
+
+> "I do not know what I am going to do with him."
+>
+> "No."
+>
+> "I know two things. One of them is this house and the other one is the
+> trade. There is not a third."
+>
+> Annie did not offer him one.
+
+**Das ist die Achse aus dem Plan** - anlernen heisst den Handel weitergeben,
+nicht anlernen heisst einen Sechzehnjaehrigen unbrauchbar lassen. **Sie steht
+im Kapitel als Satz und nicht als Entscheidung**, und sie laeuft von hier bis
+Band 6.
+
+### Zwei Sachen, die dabei stehenbleiben und spaeter zahlen
+
+* **Die Ausbildungsfirma in Yangju hatte den Grundriss dieses Hauses.**
+  *Halfway along the upstairs passage Georgij understood that he was not
+  showing him anything.* Der Text sagt nicht, wer ihn gegeben hat.
+* **Der Junge sagt am Abend vier Woerter, und alle vier gehen an Mrs Seo.**
+  Nicht an Georgij, und nicht an die Frau, der er gehoert.
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -23696,7 +23792,8 @@ sie.**
    sixty."* **Geschrieben: `b3 ch03`, Tag 628, Mittwoch der 23. Juni -
    vier Wochen nach dem Ritus, auf den Tag und auf den Wochentag.**
 4. **Lee Jun kommt an**, frueh im Band, damit er da ist und lernt, waehrend
-   alles Uebrige passiert. Mrs Seo nimmt ihn in Empfang, derselbe Flur,
+   alles Uebrige passiert. **Geschrieben: `b3 ch04`, Tag 645, Samstag der
+   10. Juli - derselbe Wochentag wie der 4. Oktober.** Mrs Seo nimmt ihn in Empfang, derselbe Flur,
    dieselbe Frau, und der, der zuerst so ankam, steht daneben.
    **Er ist kein Punkt, sondern ein Faden**, und er laeuft durch beide
    weiteren Akte: das Anlernen, das Halsband, die Rechnung mit Annie, die
@@ -31877,13 +31974,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 885 | 98 (b1ch01-b3ch03) | 1 | 628 |
+| Annie | 890 | 99 (b1ch01-b3ch04) | 1 | 645 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 235 | 40 (b1ch07-b3ch03) | 22 | 628 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 163 | 40 (b1ch05-b3ch03) | 4 | 628 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
-| Mrs Seo | 145 | 52 (b1ch03-b3ch03) | 1 | 628 |
+| Mrs Seo | 152 | 53 (b1ch03-b3ch04) | 1 | 645 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
@@ -31916,6 +32013,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
+| Lee Jun | 6 | 1 (b3ch04) | 645 | 645 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
@@ -31930,7 +32028,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-885 Nennungen in 98 Kapiteln.
+890 Nennungen in 99 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -32819,6 +32917,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 628 | b3ch03:300 | "Then say what he is," said Annie. |
 | 628 | b3ch03:306 | Annie put the pen down. |
 | 628 | b3ch03:322 | Annie picked the pen back up. |
+| 645 | b3ch04:250 | Annie was at the desk at half past two and had been since eleven. |
+| 645 | b3ch04:272 | Annie put the pen down. |
+| 645 | b3ch04:288 | Annie did not answer for a while. |
+| 645 | b3ch04:306 | Annie looked at him. |
+| 645 | b3ch04:324 | Annie did not offer him one. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -33064,6 +33167,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:498` (Tag 531) - one
 - `b2ch89:90` (Tag 590) - four
 - `b3ch01:130` (Tag 592) - four, one, two
+- `b3ch04:250` (Tag 645) - eleven, two
+- `b3ch04:324` (Tag 645) - one
 
 ---
 
@@ -34672,7 +34777,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-145 Nennungen in 52 Kapiteln.
+152 Nennungen in 53 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34821,6 +34926,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:28 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
 | 592 | b3ch01:204 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
 | 628 | b3ch03:30 | The telephone rang in the small room at ten past nine on the Monday, and Mrs Seo answere.. |
+| 645 | b3ch04:12 | It was that Mrs Seo was already at the front door before it stopped, which she does not .. |
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:66 | Mrs Seo has never once told him a thing she was not told to tell him, and she has never .. |
+| 645 | b3ch04:230 | "Mrs Seo pays the household and she pays it on the last working day of the month." He sa.. |
+| 645 | b3ch04:278 | "I am not going to ask it now. It is answered." Georgij had his hands behind his back. ".. |
+| 645 | b3ch04:332 | At seven the tray went up the way it has gone up at seven for ten years, and there was a.. |
+| 645 | b3ch04:336 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -34906,6 +35018,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:188` (Tag 531) - four, one, ten, twenty-six
 - `b2ch89:108` (Tag 590) - one
 - `b3ch03:30` (Tag 628) - nine, ten
+- `b3ch04:66` (Tag 645) - one
+- `b3ch04:332` (Tag 645) - seven, ten
+- `b3ch04:336` (Tag 645) - four
 
 ---
 
@@ -37217,6 +37332,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b2ch54:48` (Tag 319) - six
 - `b2ch84:220` (Tag 522) - nineteen
+
+---
+
+### Lee Jun
+
+6 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:94 | Lee Jun did not say anything to that. |
+| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:336 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:336` (Tag 645) - four
 
 ---
 
