@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 4 Kapitel, 8.207 Woerter.
+Book Three, 4 Kapitel, 8.223 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,7 +14,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.6 | 2.103 |
 | 02 | v1.10 | 2.103 |
 | 03 | v1.6 | 2.009 |
-| 04 | v1.4 | 1.992 |
+| 04 | v1.6 | 2.008 |
 
 ---
 
@@ -692,7 +692,7 @@ Annie picked the pen back up.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -910,7 +910,15 @@ Annie put the pen down.
 
 "Say it."
 
-"You bought a person in November of the first year to do me a favour, and you did it before I had said three hundred words to you." He did not look away. "And you did it properly, and you have gone on doing it properly for two years, and you did not tell me, and I do not know which of those four things I am supposed to do something with."
+"You bought a person," said Georgij. "You did it for me, and you did it in November of the first year, before I had said three hundred words to you."
+
+"You did it properly and you have gone on doing it for two years, and there is a boy upstairs with a dentist twice a year."
+
+He did not look away.
+
+"And you did not tell me."
+
+"That is four things and I do not know which of them I am supposed to do something with."
 
 * * *
 

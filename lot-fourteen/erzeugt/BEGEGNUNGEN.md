@@ -963,9 +963,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 628 | b3ch03:322 | Annie picked the pen back up. |
 | 645 | b3ch04:250 | Annie was at the desk at half past two and had been since eleven. |
 | 645 | b3ch04:272 | Annie put the pen down. |
-| 645 | b3ch04:288 | Annie did not answer for a while. |
-| 645 | b3ch04:306 | Annie looked at him. |
-| 645 | b3ch04:324 | Annie did not offer him one. |
+| 645 | b3ch04:300 | Annie did not answer for a while. |
+| 645 | b3ch04:318 | Annie looked at him. |
+| 645 | b3ch04:336 | Annie did not offer him one. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1212,7 +1212,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:90` (Tag 590) - four
 - `b3ch01:130` (Tag 592) - four, one, two
 - `b3ch04:250` (Tag 645) - eleven, two
-- `b3ch04:324` (Tag 645) - one
+- `b3ch04:336` (Tag 645) - one
 
 ---
 
@@ -2975,8 +2975,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:66 | Mrs Seo has never once told him a thing she was not told to tell him, and she has never .. |
 | 645 | b3ch04:230 | "Mrs Seo pays the household and she pays it on the last working day of the month." He sa.. |
 | 645 | b3ch04:278 | "I am not going to ask it now. It is answered." Georgij had his hands behind his back. ".. |
-| 645 | b3ch04:332 | At seven the tray went up the way it has gone up at seven for ten years, and there was a.. |
-| 645 | b3ch04:336 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 645 | b3ch04:344 | At seven the tray went up the way it has gone up at seven for ten years, and there was a.. |
+| 645 | b3ch04:348 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -3063,8 +3063,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:108` (Tag 590) - one
 - `b3ch03:30` (Tag 628) - nine, ten
 - `b3ch04:66` (Tag 645) - one
-- `b3ch04:332` (Tag 645) - seven, ten
-- `b3ch04:336` (Tag 645) - four
+- `b3ch04:344` (Tag 645) - seven, ten
+- `b3ch04:348` (Tag 645) - four
 
 ---
 
@@ -5390,11 +5390,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
 | 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
 | 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:336 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 645 | b3ch04:348 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 
 ### Zahlen in der Naehe von Lee Jun
 
-- `b3ch04:336` (Tag 645) - four
+- `b3ch04:348` (Tag 645) - four
 
 ---
 
