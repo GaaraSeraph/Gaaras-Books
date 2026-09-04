@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 359.962 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 362.527 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -40,7 +40,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Gegenseite](#die-gegenseite)
   - [Hanseong-Sanierung (Band 4 geplant)](#hanseong-sanierung-band-4-geplant)
   - [Unterwelt (Band 5 geplant)](#unterwelt-band-5-geplant)
-  - [Band-6-Governance](#band-6-governance)
+  - [Band-6-Gegenfront](#band-6-gegenfront)
   - [Der Feldzug in Band 2](#der-feldzug-in-band-2)
   - [Ohne Namen, und das ist Absicht](#ohne-namen-und-das-ist-absicht)
   - [Einmalige, und sie bleiben es](#einmalige-und-sie-bleiben-es)
@@ -454,6 +454,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Ryus Uebergang: Betriebspflicht, kein Verrat](#ryus-uebergang-betriebspflicht-kein-verrat)
   - [Der Boersenzug ist seriell, weil die Kasse seriell ist](#der-boersenzug-ist-seriell-weil-die-kasse-seriell-ist)
   - [Die zweite Klinge: ihre Kunden](#die-zweite-klinge-ihre-kunden)
+  - [Die Ablage aus ch03 und wo sie entnommen wird](#die-ablage-aus-ch03-und-wo-sie-entnommen-wird)
   - [Der Spiegelraum: Han bekommt kein Angebot mehr](#der-spiegelraum-han-bekommt-kein-angebot-mehr)
   - [Was eingebaut wird, sechs Sachen](#was-eingebaut-wird-sechs-sachen)
   - [Akt I - Sommer 2027](#akt-i-sommer-2027)
@@ -605,10 +606,12 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Und der Preis, den es hat](#und-der-preis-den-es-hat)
   - [Wenn doch ein Feind aus dieser Ecke gebraucht wird](#wenn-doch-ein-feind-aus-dieser-ecke-gebraucht-wird)
 - [Plan, Band 6](#plan-band-6)  ·  `doc/35-plan-band-6.md`
-  - [Aufbau in vier Bewegungen](#aufbau-in-vier-bewegungen)
-  - [Wer in diesem Bogen arbeitet](#wer-in-diesem-bogen-arbeitet)
-  - [Georgijs Fehler in der Mitte](#georgijs-fehler-in-der-mitte)
-  - [Zielbild](#zielbild)
+  - [Warum das zu Geburt und Elternregel passt](#warum-das-zu-geburt-und-elternregel-passt)
+  - [Arbeitsrichtung fuer den Gegner](#arbeitsrichtung-fuer-den-gegner)
+  - [Warum er handelt](#warum-er-handelt)
+  - [Die vier Druckarme](#die-vier-druckarme)
+  - [Was Georgij dagegen tun muss](#was-georgij-dagegen-tun-muss)
+  - [Kapitelgeruest: von Geburt zu Fuehrung](#kapitelgeruest-von-geburt-zu-fuehrung)
 - [Verworfen](#verworfen)  ·  `doc/40-verworfen.md`
 - [Entscheidungen](#entscheidungen)  ·  `doc/41-entscheidungen.md`
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -669,13 +672,13 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Bae](#mrs-bae)
   - [Mr Im](#mr-im)
   - [Mr Koh](#mr-koh)
+  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Ji-won](#ji-won)
   - [Mrs Gwak](#mrs-gwak)
   - [Shin](#shin)
   - [Moon Hae-sook](#moon-hae-sook)
   - [Mr Pyo](#mr-pyo)
   - [Mr Sohn](#mr-sohn)
-  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Mr Baek](#mr-baek)
   - [Bae](#bae)
   - [Eun-ju](#eun-ju)
@@ -1963,7 +1966,7 @@ die beim Planen zaehlt.
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
 | **Minister Min-ho** | **Der Minister.** Ueber Choi mit Sang-hoon verbunden | Der Preis | B1 - | Ruht |
 | **Han Il-hwan** | **Der Hanseong-Erbe.** Aeltester Sohn, vier Generationen, hat nie etwas gebaut. **Nicht Mr Han, der Fahrer von Mrs Gwak** | Verliert in Band 3 alles Profitable und bleibt als Titel sitzen | B3 geplant | **Gegner 2 von Band 3** |
-| **Gong Doo-hyun** | **Der Oberstaatsanwalt.** Chois Freund von der Universitaet, geblieben, jetzt oben | Fuehrt aus Hass eine Akte und faellt an ihr | **B3 1 (genannt), B3 2 (erster Auftritt)** | **Gegner 1 von Band 3.** Sein Nachfolger ist Georgijs Mann. **Er stellt keine einzige Frage** - `b3 ch02` |
+| **Gong Doo-hyun** | **Der Oberstaatsanwalt.** Chois Freund von der Universitaet, geblieben, jetzt oben | Fuehrt aus Hass eine Akte und faellt an ihr | **B3 1 (genannt), B3 2 (erster Auftritt), B3 3 (die Anklage)** | **Gegner 1 von Band 3.** Sein Nachfolger ist Georgijs Mann. **Er stellt keine einzige Frage** - `b3 ch02` |
 
 ### Hanseong-Sanierung (Band 4 geplant)
 
@@ -2009,11 +2012,15 @@ werden nicht verhindert; sie werden kontrolliert.
 | **Ko Seok-jin** | **Arbeitsname: Register-/Notariatsreiniger der aktuellen Unterwelt** | Verkauft saubere Zusammenfassungen statt Quellen; macht Menschen zu Unterkunft, Hospitality, Badge, Transport und Dienstleisterzeile | B5 geplant | Erste Papierreaktion auf die Band-4-Sperren; kein alter Choi-/Auktionshausbeweis. Geht am Ende an den Staat, nicht in die 33 |
 | **Maeng Gyu-rok / Mr Maeng** | **Der Warlord der Menschen-/Gewalt-Gruppe** | Fuehrt die schlimmste der drei grossen Gruppen; Frauen, Kinder, Vergewaltigung, Zwangsprostitution, Menschenhandel, Schulden, Einschuechterung. Regiert mit Angst: verletzt Untergebene fuer fehlende Ergebnisse und manchmal auch ohne brauchbaren Anlass. Fuer fast alle wirkt er unlesbar; fuer Georgij ist er logisch, weil seine Grausamkeit Erwartbarkeit zerstoert. Beim Reden grinst er immer; ernst wird er nur, wenn es wirklich ernst ist | B5 geplant | Letzter Gegner des Unterweltbogens; bewegt sich wegen Geschaeftsschaden und luegt wie gedruckt |
 
-### Band-6-Governance
+### Band-6-Gegenfront
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Lim Seong-jae / Mr Lim** | **Alter Governance- und Risiko-Mann in Annies Konzernordnung** | Ende sechzig; seit Annies Vater im System. Nicht korrupt, nicht dumm, nicht Unterwelt. Spricht in Stabilitaet, Fuersorge, Marktvertrauen und Verfahrenssicherheit | B6 geplant | Schlussgegner im technischen Sinn. Nach der Geburt versucht er, grosse Entscheidungen an Annies persoenliche Praesenz oder ein altes Gremium zu binden. Greift damit die Elternregel an und macht Sorge zur Entmachtungsform. Verliert Funktion und Zugriff, nicht sein Leben |
+| **Die alten Haeuser** | **Stiller Kreis alter Chaebol-Haeuser** | Keine einheitliche Organisation, sondern dieselbe Lesart in mehreren Raeumen: Georgij und Annie haben die ungeschriebene Regel gebrochen, dass Haeuser einander nicht vollstaendig zerstoeren | B6 geplant | Externe Hauptgegenfront. Greift nicht mit Gewalt an, sondern ueber Monopol, Regulierung, Banken, Versicherer, Zulassungen, Minderheitenrechte, Presse und die Frage, ob Georgij legitimer Traeger dieser Macht ist |
+| **Arbeitsgesicht offen / neues altes Haus** | **Ein alter Chairman als sichtbares Gesicht** | Muss gross genug sein, um nicht wie ein Lane-Kleingegner zu wirken, und klug genug, Georgij nicht zu unterschaetzen | B6 geplant | Noch nicht fest benannt. Default ist ein groesseres altes Haus. Kyeongil nur, falls es spaeter bewusst mit echter Reichweite aufgebaut wird. Nam darf diese Funktion nicht haben, weil Nam Annie gehoert |
+| **Oeffentliche Ordnung** | **Regulierungs-/Fair-Trade-Seite** | Nicht korrupt und nicht gekauft. Muss nach Konzentration, Kontrollwechsel, Remedies, Shipping-Zugang und bindender Fuehrung fragen | B6 geplant | Gefaehrlich, weil die Fragen legitim sind. Gibt den alten Haeusern Form, ohne ihr Werkzeug zu sein |
+| **Banken/Versicherer/Risk** | **Finanz- und Versicherungsdruck** | Kreditlinien, Covenants, Industrieversicherungen, Shipping-Risiko, Export- und Lieferausfallbewertung | B6 geplant | Erzwingen trennbare Verantwortung, Nachfolgeketten und Nachweise, dass Dokkaebi nicht im legalen Konzern steckt |
+| **Hanseong-Reste** | **Geschwister, Resthalter, Minderheiten, alte Board-Leute** | Keine Armee mehr, aber Beschwerderechte, Altvertraege, Protokolle und Geduld | B6 geplant | Liefern Anlaesse fuer Pruefungen. Sind nicht der Hauptgegner, sondern das Material, das die alten Haeuser in oeffentliche Raeume tragen |
 
 **Erster Maeng-Bruch:** eine umbenannte Servicefahrt, kein grosser Transport.
 Jun findet die zu lange Wartezeit; Hwang macht eine Zeile daraus; Jang liest
@@ -7573,6 +7580,13 @@ Georgij kennt die elf öffentlichen Verträge und, nützlicher, die Meldungen ih
 
 **Und ab Band 2 sind das keine Randnotizen mehr.** Die Nam-Gruppe hat *sonst nichts*, und genau das macht sie zum Mittelstueck: Wer nur eine Lane hat, macht keine Triage, sondern Verzweiflung. Naeheres in `doc/31-plan-band-2.md`.
 
+**Korrigiert am 04.09.: Diese Randnotiz ist nicht der Band-6-Gegner.** Nam
+gehoert spaeter Annie und darf nicht als externer Gegner zurueckkommen.
+Kyeongil und die kleineren bleiben als Branchenumfeld brauchbar, aber nicht als
+Schlussfront. Band 6 braucht groessere Gegner: alte Haeuser,
+Regulierungsdruck, Banken, Versicherer, internationale Zulassungen und die
+Frage, ob Annies neues Haus zu viel Macht in zu wenigen Haenden haelt.
+
 **Was ein Vetorecht über Routen praktisch bedeutet:** Es ist kein Papier über Eigentum. Es entscheidet, welcher Container auf welche Abfahrt geht, wenn eine Abfahrt voll ist, und auf diesen Lanes ist neun Monate im Jahr alles voll.
 
 Sie muss niemanden aussperren und nie erklären, warum jemand zu spät kommt. Sie ist einfach die Gruppe, deren Ladung schon verladen ist. Zwei Wochen Verzug sind in diesem Gewerbe ein gebrochener Vertrag und ein kalter Reaktor.
@@ -8746,6 +8760,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 2, Kapitel 90** - Bandende | 590 | So **16. Mai 2027** |
 | **Band 3, Kapitel 1** | 592 | Di **18. Mai 2027** |
 | **Band 3, Kapitel 2** - der neunundvierzigste Tag | 600 | Mi **26. Mai 2027** |
+| **Band 3, Kapitel 3** - die Anklage | 628 | Mi **23. Juni 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -10622,8 +10637,19 @@ Mengenangabe.**
 238. **ERSTER NORMALFALL NACH MAENG:** Georgij ist nicht in der Szene. Joo, Kwon, Na, Jin, Hwang und Jang stoppen eine Nachtfahrt/Hospitality-Zeile ohne tragenden Namen nach Regel, waehrend ein illegaler, aber nicht verbotener Transport mit Name, Preis, Route, Zeit und Haftung weiterlaeuft. So beweist Dokkaebi Fuehrung ohne Georgijs Alltag.
 239. **HOCHZEIT BAND 5, FUEHRUNG NACH GEBURT:** Die Ehe schliesst in Band 5 die Besitzfrage. Schwangerschaft kommt in den Abspann: einige Monate nach Hochzeit und Unterweltbogen ist Annie schwanger. Kein "deshalb heiraten sie", kein Bauch als Maeng-Gefahr, kein neuer Gegner. Band 6 oeffnet kurz vor der Geburt; dort gehoert der deutlich sichtbare Bauch hin. Die Fuehrung ihres Imperiums beginnt nach der Geburt, weil Elternpraesenz feste Regel ist: Nanny/Kindermaedchen nur als Unterstuetzung, nicht als Erziehung. Georgij fuehrt mehr Raeume, damit das Imperium nicht beide Eltern gleichzeitig aus dem Kind herauszieht; Annie bleibt Macht, nicht Rueckzug.
 240. **BAND 6: GLUECKLICHER VATER, UEBERBEHUTSAMER EHEMANN:** Georgij ist nach der Geburt sichtbar sehr gluecklich als Vater und ueberbehutsam mit Annie. Das ist Zaertlichkeit plus Angstrest, keine Kontrolle. Er sieht Risiken zu frueh, aber er weist Annie nicht an und entscheidet nicht ueber ihren Koerper. Wenn Annie ihn stoppt, korrigiert er.
-241. **BAND 6-GEGNER: LIM SEONG-JAE:** Lim ist kein Maeng und kein korrupter Schattenmann, sondern ein respektabler Governance-/Risiko-Mann aus Annies Konzernordnung. Nach der Geburt legt er ein Stabilitaetsprotokoll vor, das grosse Entscheidungen an Annies persoenliche Praesenz oder ein altes Gremium bindet. Auf dem Papier Fuersorge, in Wirkung Angriff auf die Elternregel.
-242. **GEORGIJS BAND-6-PROBE IST ZUORDNUNG:** Er gewinnt nicht durch Drohung, sondern indem er Raeume richtig trennt: Annie-Raeume, Ausfuehrungsraeume, Elternraeume und Raeume, die nur gebaut wurden, um Annie aus dem Kind herauszuziehen. Sein Mittelfehler ist Ueberbehutsamkeit als zu enge Abschirmung; Annie stoppt das.
+241. **BAND 6: NAM/LIM-ANSATZ VERWORFEN:** Nam darf nicht als externer Gegner zurueckkommen, weil Nam Annie gehoert. Lim als alter Governance-Mann traegt keinen Schlussband; hoechstens Funktionsstimme, kein Gegner und kein Finisher.
+242. **BAND 6-GEGNER: ALTE HAEUSER UND OEFFENTLICHE ORDNUNG:** Der Hauptdruck kommt von alten Chaebol-Haeusern, Regulierung, Banken, Versicherern, internationalen Zulassungen, Minderheiten und Resthaltern. Sie greifen nicht mit Gewalt an, sondern ueber Monopol, Kontrollwechsel, Marktvertrauen und Legitimität.
+243. **WARUM NACH DER GEBURT:** Geburt ist nicht Schwaeche, sondern Dauer. Aus Annie und Georgij wird ein vererbbares Haus. Die alten Haeuser handeln, bevor Georgijs Fuehrung normal wird und bevor das Kind als selbstverstaendlicher Erbe gelesen wird.
+244. **BAND 6 OEFFNET MIT WARTEN:** Kurz vor der Geburt ist Annies Bauch sichtbar, aber nicht als Gefahr. Das Haus ist enger getaktet, Georgij ist gluecklich und zu aufmerksam. Die erste Fuehrungsprobe ist, dass Georgij nicht jeden Raum betritt.
+245. **DIE GEBURT IST ZENTRUM, KEIN THRILLER:** Kein Anschlag, kein Krankenhauskrimi. Annie gehoert der Raum. Georgij ist praesent und nuetzlich, nimmt ihr aber nichts ab, was ihr gehoert. Danach ist Elternpraesenz Tatsache.
+246. **GEORGIJS BAND-6-PROBE IST STRUKTUR:** Er gewinnt nicht durch Drohung, sondern durch Zuständigkeiten, Ringfences, transparente Vollmachten, echte Compliance, operative Ersatzketten und saubere Trennung zwischen legalem Imperium und Dokkaebi.
+247. **DREI RAEUME BEWEISEN BAND 6:** Ein staatlich/regulatorischer Raum, den Georgij sauber besteht; ein Annie-Raum, den nur sie fuehren kann; ein Elternraum, den kein Gremium bekommt. Diese Parallelprobe ersetzt einen langen Managementroman.
+248. **WARUM DER ALTE CHAIRMAN HANDELT:** Nicht Marktanteilskraenkung, sondern Praezedenzfall. Georgij und Annie haben gezeigt, dass ein juengeres Haus ein altes Haus ausnehmen, profitables Gewebe neu zusammensetzen, Unterweltordnung herstellen, Ministeriumswege sauber halten und danach ein Kind in diese Macht setzen kann. Wenn das normal wird, sind alte Haeuser weniger unangreifbar.
+249. **BAND-6-ANGRIFF KLINGT WIE HILFE:** Der alte Chairman bietet Stabilitaet, freiwillige Aufsicht, Industrievereinbarung, externen Governance-Kreis oder Senior Trustee an, bis Annie angeblich wieder jeden Raum selbst halten kann. Das ist die Beleidigung: Georgij wird nicht als Gegner gelesen, sondern als Risiko, das man einrahmt.
+250. **VIER DRUCKARME:** Alte Haeuser streuen Lesart; oeffentliche Ordnung fragt legitim; Banken/Versicherer/Risk verlangen trennbare Verantwortung; Hanseong-Reste liefern Beschwerden und Altmaterial. Keiner davon darf offensichtlich kriminell sein, sonst wird es wieder ein Georgij-Feldzug statt Band-6-Strukturprobe.
+251. **GEORGIJ DARF NICHT DROHEN:** Drohung wuerde die gegnerische Lesart bestaetigen. Die Antwort muss aus Form bestehen: Chae fuer Ehe/Vollmacht/Haftung, Hwang fuer Reihen, Yoon fuer Compliance/Ringfences, Jang fuer koerperliche Sicherheit, Dokkaebi-Funktionstische fuer getrennte Unterweltordnung, Jun/Werkleute fuer Sanierung ohne Daueranwesenheit.
+252. **GEORGIJS MITTELFEHLER:** Er versucht zuerst, zu viele Raeume selbst zu halten, weil Annie geboren hat und weil er das Kind nicht von ihr wegorganisieren will. Annie stoppt ihn. Schutz darf nicht heissen, dass er ihre Macht als seine Last verwaltet.
+253. **BAND-6-LOESUNG IST TAKTUNG:** Manchmal geht Georgij, manchmal Annie, manchmal beide, manchmal keiner von beiden, weil das Kind Vorrang hat und die Struktur den Raum halten muss. Das ist die erwachsene Form von "present when I need you, absent when I don't."
 
 ---
 
@@ -23341,6 +23367,78 @@ nichts mit ihm vorgesehen ist** - dann ist er das, was er im Kapitel ist.
 > "I did not know until this afternoon that all of it rested on the other man
 > being dirty."
 
+## Was `b3 ch03` festlegt
+
+**Die Vorladung ist ein Anruf und keine Karte, und das ist eine Steigerung.**
+`b2 ch23:176` hat dem Leser beigebracht, wie das zu lesen ist - Yeom: *"I
+would like you to notice that I am doing that rather than having somebody
+bring you a card."* Die Karte war die unhoefliche Form. **Gong nimmt die
+hoefliche, und sie ist schlimmer, weil er nichts mehr beweisen muss.**
+
+**Und Mrs Seo kommt nicht nach oben.** Sie schreibt es auf den Block und
+bringt es mit dem Tablett. **Beim dritten Mal ist es Haushalt** - und damit
+ist das Motiv aus `b2 ch23` und `b3 ch01` bezahlt und nicht ausgereizt.
+
+**Die Akte ist elf Seiten und die erste ist der Tempelbucheintrag.** Er hat
+in `b3 ch02` unterschrieben, weil Nichtunterschreiben das Einzige gewesen
+waere, was irgendjemand behalten haette. **Vier Wochen spaeter ist es Seite
+eins.** Der Text sagt es ohne Kommentar; der Leser rechnet selbst.
+
+**Und die elfte Seite ist der Schluessel zu der Figur:**
+
+> *If none of it is an offence, what is it.*
+
+**Ein Mann, der eine Verurteilung wollte, schreibt das nicht auf.** Er haette
+bei Seite neun aufgehoert und eine zehnte gesucht, die hilft. **Gong sucht
+keinen Straftatbestand, sondern ein Wort**, und das ist der Grund, warum er
+nicht aufhoert und nicht gekauft werden kann.
+
+**Was Gong ihm gibt, ist nicht Chois Tugend, sondern die Mechanik des
+Werdens.** Das Jahr 2003: Choi kam ein Jahr lang donnerstags an denselben
+Tisch, redete wie ein Staatsanwalt und hatte recht damit.
+
+> "There was no afternoon where he decided. **It worked, and then it worked
+> again**, and by the third year the man who used to say what a bad
+> indictment looked like did not say it any more, because nobody at that
+> table was writing indictments."
+
+**Das ist Georgijs eigene Lage, zwei Jahre alt, in fremdem Mund.**
+
+**Der Schlagabtausch am Ende steht so, wie er im Plan entworfen ist**, und
+Georgij gewinnt ihn nicht: *"As long as I am by her side, the question is
+badly put." / "No. That is why it is correctly put."* Und danach der
+Millimeter zu viel, und darauf **"So did Choi."**
+
+**Die Erzaehlung sagt einmal, was das ist, und dann nichts mehr:** es ist der
+erste Satz in zwei Jahren, den Georgij nicht auseinandernehmen kann, und er
+hat drei Woerter und kein Papier.
+
+### Die Ablage aus ch03 und wo sie entnommen wird
+
+**Regel aus `heft.py`: wer eine Ablage schreibt, notiert wo sie geholt wird.**
+`b3 ch03` legt drei ab und holt nichts. Das ist Absicht und hier steht wo:
+
+* *There is nothing behind him. Work out what that means before he asks.* -
+  **wird im selben Kapitel nicht beantwortet und bleibt stehen.** Die Antwort
+  faellt, wenn Georgij sich entscheidet: hinter dem Mann steht nichts, also
+  ist er nicht zu erreichen, **also muss er sich selbst aus dem Weg
+  schreiben.**
+* **Und die eine Zeile, die er nicht schreibt**, ist die wichtigste:
+
+  > Georgij worked out on that road what that leaves.
+  >
+  > He did not write it down.
+
+  **Das ist der Praezedenzfall aus `b2 ch90`** - *it is the one thing this
+  year that he has not written down.* Dort war es der Anruf der Kaeuferin.
+  **Hier ist es der Entschluss, Gong loszuwerden**, und er faellt vier Wochen
+  nach dem Ritus und Monate vor der Ausfuehrung. **Entnommen wird er im
+  privaten Nachsatz an Annie nach dem Sturz:** *"He was a loose end. I do not
+  leave loose ends close enough to touch you."*
+
+**Damit ist der Sturz von Anfang an herbeigefuehrt und der Leser hat es
+gesehen, ohne dass es dasteht.**
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -23595,7 +23693,8 @@ sie.**
    trauert und es nicht vorgibt. Erste Begegnung mit dem Oberstaatsanwalt.
    **Geschrieben: `b3 ch02`, Tag 600, der neunundvierzigste Tag.**
 3. **Die Anklage:** *"I am interested in what you are going to be at
-   sixty."*
+   sixty."* **Geschrieben: `b3 ch03`, Tag 628, Mittwoch der 23. Juni -
+   vier Wochen nach dem Ritus, auf den Tag und auf den Wochentag.**
 4. **Lee Jun kommt an**, frueh im Band, damit er da ist und lernt, waehrend
    alles Uebrige passiert. Mrs Seo nimmt ihn in Empfang, derselbe Flur,
    dieselbe Frau, und der, der zuerst so ankam, steht daneben.
@@ -30052,103 +30151,211 @@ ihm Annie oder das Kind wieder in Besitzsprache uebersetzt.
 
 ---
 
-## Hauptbogen: der Governance-Angriff
+## Korrektur: Lim/Nam tragen Band 6 nicht
 
-**Band 6 braucht keinen neuen Maeng.** Der Gegner ist kein Warlord, sondern ein
-respektabler Mann aus Annies Konzernordnung: **Lim Seong-jae / Mr Lim**, Ende
-sechzig, alter Governance- und Risiko-Mann, seit Annies Vater im System. Er ist
-nicht korrupt, nicht dumm und nicht heimlich Unterwelt. Gerade deshalb traegt
-er den letzten Band besser als ein weiterer Verbrecher.
+**Verworfen am 04.09.:** Nam als externer Gegner und Lim als Hauptgegner. Nam
+gehoert nach Band 2 zu Annie. Punkt. Die Gruppe darf nicht als fremde
+Korridorfront zurueckkommen, weil sie kein fremdes Haus mehr ist. Lim als alter
+Governance-Mann erklaert zu wenig und traegt keinen Schlussband. Wenn er
+ueberhaupt auftaucht, dann als Funktionsstimme in einem Raum - nicht als Gegner,
+nicht als Finisher, nicht als Motor.
 
-**Sein Angriff ist als Fuersorge getarnt.** Nach der Geburt legt Lim ein
-Stabilitaetsprotokoll auf den Tisch: fuer einige Monate sollen besonders
-grosse Kapital-, Personal-, Sparten- und Haftungsentscheidungen entweder von
-Annie persoenlich bestaetigt werden oder ueber ein altes Executive-/Risk-Gremium
-laufen. Auf dem Papier schuetzt das Mutter, Kind, Konzern und Maerkte. In der
-Wirkung zwingt es Annie in jeden grossen Raum zurueck oder nimmt Georgij dort
-die Autoritaet.
+**Der Fehler war, eine alte Branchen-Randnotiz als offenen Gegner zu lesen.**
+Band 6 fragt nicht: Wer liegt noch auf derselben Lane? Band 6 fragt: Wer nimmt
+es mit dem neuen Haus auf, nachdem Hochzeit, Kind, Hanseong, Dokkaebi und
+Georgijs Fuehrung nicht mehr voruebergehend aussehen?
 
-**Damit greift Lim nicht Annie an, sondern die Elternregel.** Wenn Annie selbst
-kommt, gewinnt er: Der Konzern hat bewiesen, dass er sie trotz Geburt braucht.
-Wenn Georgij allein kommt und nur Stellung behauptet, gewinnt er ebenfalls:
-Dann ist Georgij der Ehemann ohne tragende Konzernform. Wenn Georgij Gewalt,
-Dokkaebi oder Angst benutzt, bestaetigt er Lims schlimmste Lesart.
+---
 
-**Darum ist dies der richtige Schlussgegner.** Lim zwingt Georgij, nicht noch
-einmal zu beweisen, dass er jemanden zerlegen kann, sondern dass er ein Haus
-fuehren kann, ohne Annie aus dem Kind herauszuziehen und ohne das Kind als
-Grund fuer Annies Entmachtung zu erlauben.
+## Tragende Gegenfront: alte Haeuser und oeffentliche Ordnung
 
-### Aufbau in vier Bewegungen
+**Der Hauptdruck kommt von den alten Haeusern.** Nicht ein einzelner Manager
+und nicht Nam. In Band 3 steht die ungeschriebene Regel: Chaebol zerstoeren
+einander nicht vollstaendig. Georgij und Annie haben diese Regel sichtbar
+gebrochen oder zumindest so aussehen lassen: Hanseong wurde ausgehoehlt, die
+profitablen Einheiten wanderten, die Unterwelt wurde geordnet, und nach der
+Hochzeit gibt es ein Kind. Das ist nicht mehr Affaere, Begleiter oder
+ungewoehnlicher Ehemann. Das ist eine neue Dynastie.
 
-1. **Vor der Geburt:** Das Haus ist anders getaktet. Mrs Seo, Jang, Aerzte,
-   Wege und Termine laufen enger; Georgij ist gluecklich und zu aufmerksam.
-   Ein erstes Konzernsignal kommt herein, aber er laesst es liegen, weil Annie
-   ihn nicht braucht. Das ist wichtig: Fuehrung beginnt auch damit, nicht jeden
-   Raum zu betreten.
-2. **Geburt:** Kein Actionkapitel, kein Krankenhauskrimi. Annie ist Zentrum.
-   Georgij ist praesent, nuetzlich und sichtbar erschuettert, aber er nimmt ihr
-   nicht den Raum. Danach ist Elternpraesenz keine Behauptung mehr, sondern
-   Tatsache.
-3. **Das Protokoll:** Lim legt die saubere Fassung vor. Mr Chae kann nicht
-   einfach sagen, dass sie illegal ist, weil sie es nicht sein muss. Yoon
-   Hae-won liest die Wirkung: Sie schuetzt nicht vor Risiko, sie baut Risiko
-   als Vorwand fuer alte Entscheidungsmacht.
-4. **Die Fuehrungsprobe:** Georgij muss mehrere Raeume trennen: Raeume, die
-   Annie selbst gehoeren; Raeume, die Ausfuehrung brauchen; Raeume, die nur
-   ihre Koerperpraesenz erzwingen wollen; Raeume, die das Kind indirekt als
-   Hebel benutzen. Er gewinnt nicht durch Drohung, sondern durch richtige
-   Zuordnung.
+**Warum sie erst jetzt angreifen:** Vor der Geburt konnte man Georgij noch als
+Ausnahme lesen: Annies Mann, Annies Werkzeug, Annies merkwuerdiger Schatten.
+Nach der Geburt ist er Vater des Erben und fuehrt tatsaechlich Raeume. Damit
+ist das Haus nicht nur gefaehrlich, sondern vererbbar. Die alten Haeuser
+warten nicht, bis diese Form normal wird.
 
-### Wer in diesem Bogen arbeitet
+**Die externen Gegner sind deshalb:**
 
-**Mr Chae baut die Form.** Er ist nicht Georgijs Freund und nicht eingeweiht in
-alles, aber er weiss seit der Eheakte, dass Formen Zwecke haben. Bei Lim ist
-sein Wert, dass er den Unterschied zwischen einem haltbaren
-Stabilitaetsinstrument und einer verkleideten Entmachtung benennen kann.
+* ein stiller Kreis alter Chaebol-Haeuser, die nicht geschlossen auftreten,
+  aber dieselbe Lesart streuen;
+* die Fair-Trade-/Regulierungsseite als oeffentliche Ordnung, nicht als
+  gekaufter Schurke;
+* Banken, Versicherer und Rating-/Risk-Leute, die Konzentration und
+  Kontrollwechsel einpreisen;
+* internationale Kunden und Zulassungsstellen, die bindende Fuehrung sehen
+  wollen;
+* Resthalter, Minderheiten und entmachtete Familienlinien aus Hanseong, die
+  keine Armee mehr haben, aber Akten, Beschwerden und Geduld.
 
-**Yoon Hae-won ist die operative Compliance-Stimme.** Sie kommt aus Band 4 und
-traegt den Konzernteil, weil sie gelernt hat, eine Klausel an Wirkung statt an
-Ueberschrift zu lesen. Sie ist nicht mutig aus Romantik, sondern weil die Akte
-traegt.
+**Das macht den Angriff groesser als Lim.** Die Gegner muessen nicht beweisen,
+dass Annie oder Georgij etwas Falsches getan haben. Sie muessen nur plausibel
+machen, dass ein Haus, das Chemie, Werkstoffe, Motors, Electronics, Shipping,
+Routen, Unterweltordnung und ein neues Kind verbindet, zu viel Macht in zu
+wenigen Haenden haelt. Das ist die erste Gefahr, die Georgij nicht einfach mit
+Wahrheit erledigen kann, weil die Wahrheit selbst gefaehrlich aussieht.
 
-**Hwang bringt Reihen, keine Befehle.** Wenn Lim behauptet, Georgij sei zu
-unklar, liefert Hwang keine Unterwelt, sondern Zeit, Vollmacht, Unterschrift,
-Entscheidung und Ergebnis.
+**Die Waffe ist nicht Gewalt, sondern Form:** Monopolpruefung, Governance-
+Auflagen, Finanzierungsklauseln, Versicherungspruefung, Lieferstopps,
+Board-Minderheiten, internationale Zulassungen, Medienfluestern und die Frage,
+ob Georgij ueberhaupt ein legitimer Traeger dieser Macht ist. Nichts davon
+muss gelogen sein. Genau deshalb traegt es.
 
-**Jang haelt Raeume, ohne sie einzuschuechtern.** Der letzte Band darf nicht so
-aussehen, als wuerde Georgij Corporate Governance mit Tuerenmaennern gewinnen.
-Jang verhindert nur, dass aus der Elternregel ein Sicherheitsleck wird.
+### Warum das zu Geburt und Elternregel passt
 
-**Dokkaebi bleibt Hintergrundordnung.** Eine einzelne Ausnahme darf zeigen,
-dass die Unterwelt nach Band 5 normal weiterlaeuft, aber sie ist nicht die
-Waffe gegen Lim. Sonst waere Lim sachlich im Recht.
+**Geburt ist nicht Schwaeche. Geburt ist Dauer.** Das Kind macht aus Annie und
+Georgij kein Paar mit Skandalwert, sondern ein Haus mit Zukunft. Wer dieses
+Haus brechen will, muss jetzt handeln, bevor Georgijs Fuehrung normal wird und
+bevor das Kind als selbstverstaendlicher Erbe gelesen wird.
 
-### Georgijs Fehler in der Mitte
+**Die Elternregel bleibt der innere Druck.** Annie und Georgij wollen beide
+Eltern sein, nicht nur Eigentuemernamen. Die alten Haeuser nutzen das nicht,
+weil sie das Kind bedrohen, sondern weil jede externe Pruefung Raeume erzeugt:
+Board, Ministerium, Bank, Versicherer, Kunde, Zulassung, Presse. Zwei
+praesente Eltern koennen nicht einfach jeden Raum persoenlich bedienen, ohne
+dass das Kind wieder von Personal erzogen wird.
 
-**Er wird am Anfang zu eng.** Aus Glueck, Angst und Ueberbehutsamkeit versucht
-er, zu viele Raeume selbst zu nehmen oder zu viele Termine von Annie fernzuhalten.
-Das ist lieb gemeint und falsch. Annie stoppt ihn, weil Schutz nicht bedeuten
-darf, dass er ihre Macht verwaltet.
+**Daraus entsteht Georgijs echte Fuehrungsfrage.** Nicht: Darf er fuer Annie
+unterschreiben? Sondern: Kann er eine Struktur bauen, in der Annie nicht in
+jeden Raum gezwungen wird, das Kind nicht als Schwachstelle gilt, und der Staat
+nicht wie ein Feind behandelt werden muss?
 
-**Diese Korrektur ist noetig, damit die Fuehrung echt wird.** Danach sortiert
-er nicht mehr nach *gefaehrlich fuer Annie*, sondern nach *wem gehoert dieser
-Raum*. Manche Raeume gehoeren ihr. Manche gehoeren ihm. Manche gehoeren dem
-Kind, weil Eltern dort keine Stellvertreter schicken. Manche gehoeren niemandem
-mehr, der sie nur gebaut hat, um Annie aus einem anderen Raum zu holen.
+### Arbeitsrichtung fuer den Gegner
 
-### Zielbild
+**Ein Gesicht braucht der Kreis trotzdem.** Arbeitsrichtung: ein alter
+Chairman, der die ungeschriebene Chaebol-Regel verkoerpert und persoenlich
+nicht dumm genug ist, Georgij zu unterschaetzen. Default ist ein neues,
+groesseres Haus. Kyeongil ist nur brauchbar, wenn es spaeter bewusst als
+respektables altes Haus mit echter Reichweite aufgebaut wird; als
+Lane-Randnotiz traegt es den Schluss nicht. Nam ist fuer diese Funktion
+gesperrt, weil Nam Annie gehoert.
 
-**Der finale Sieg ist kein Ruin und keine Hinrichtung.** Lim verliert Funktion,
-Gremium, Zugriff und die Erlaubnis, Sorge als Machtinstrument zu benutzen. Er
-geht nicht in Maengs Kategorie, weil er kein Maeng ist. Gerade das zeigt, dass
-Georgij inzwischen fuehrt und nicht nur beendet.
+**Dieser Mann greift nicht Annie als Mutter an.** Er greift Georgijs
+Legitimität an: Herkunft, Eigentum, Gewaltgeschichte, Unterweltgeruecht,
+Konzentration, Kontrollwechsel. Er will nicht Annie ruinieren. Er will sie
+zwingen, Georgij aus der Fuehrung herauszunehmen oder Teile des neuen Hauses
+unter alte Aufsicht zu stellen.
 
-**Die letzte private Bewegung gehoert Annie.** Georgij fragt sie um Fuehrung
-und meint es diesmal vollstaendig: nicht als Waffe gegen einen alten Mann,
-sondern als Ehemann, Vater und Schatten, der wissen muss, wann er in einen Raum
-geht und wann er draussen bleibt. Damit kommt die Formel aus Kapitel 1 nach
-Hause.
+### Warum er handelt
+
+**Der alte Chairman handelt nicht aus Marktanteilskraenkung.** Das waere zu
+klein. Er handelt, weil Georgij und Annie einen gefaehrlichen Praezedenzfall
+gebaut haben: Ein juengeres Haus kann ein altes Haus nicht nur schlagen,
+sondern ausnehmen, seine profitablen Organe neu zusammensetzen, die Unterwelt
+ordnen, Ministeriumswege sauber halten und danach ein Kind in diese neue Macht
+setzen.
+
+**Fuer die alten Haeuser ist das keine private Ehe mehr.** Es ist eine neue
+Verkehrsordnung. Wenn diese Ordnung normal wird, sind alte Regeln, alte
+Hoeflichkeiten und alte Abschreckung weniger wert. Dann kann jeder Erbe, jede
+Holding, jede stille Sicherheit und jede Familienlinie unter der richtigen
+Wahrheit angreifbar werden.
+
+**Darum klingt der Angriff zunaechst wie Hilfe.** Der alte Chairman bietet
+nicht Krieg an, sondern Stabilitaet: freiwillige Aufsicht, eine
+Industrievereinbarung, eine externe Governance-Gruppe, einen Senior Trustee,
+eine "courtesy", bis Annie nach der Geburt wieder jeden Raum selbst halten
+kann. Das ist die Beleidigung. Er beruhigt sie wie Han in Band 3: Ein altes
+Haus weiss angeblich, wie man junge Macht bremst, ohne sie zu demuetigen.
+
+**Georgij ist in dieser Lesart nicht Feind, sondern Risiko.** Genau das macht
+es schlimmer. Ein Feind kann besiegt werden. Ein Risiko wird eingerahmt,
+versichert, beaufsichtigt, mit Klauseln versehen und aus Raeumen entfernt, in
+denen es angeblich noch nicht tragfaehig ist.
+
+### Die vier Druckarme
+
+1. **Alte Haeuser:** kein offizielles Buendnis, sondern derselbe Satz aus
+   verschiedenen Muendern. Annie hat zu viel Macht in zu kurzer Zeit
+   konzentriert, Georgij hat zu wenig Herkunft fuer zu viel Zugriff, und das
+   Kind macht die Ordnung dauerhaft.
+2. **Oeffentliche Ordnung:** Fair-Trade-/Regulierungsseite prueft
+   Konzentration, Kontrollwechsel, Motors/Electronics-Remedies,
+   Shipping-Zugang, offene Werkstattdaten und die Frage, wer bindend fuehrt.
+   Diese Seite ist nicht gekauft. Sie muss fragen, und genau deshalb ist sie
+   gefaehrlich.
+3. **Banken, Versicherer, Rating/Risk:** Kreditlinien, Covenants,
+   Versicherung fuer Shipping und Industrieanlagen, Export- und
+   Lieferausfallrisiken. Sie verlangen trennbare Verantwortung, Nachfolgeketten
+   und Belege, dass Dokkaebi nicht im legalen Konzern steckt.
+4. **Hanseong-Reste und Minderheiten:** entmachtete Geschwister, Resthalter,
+   alte Board-Leute und kleine Anteilseigner haben keine Macht mehr, aber sie
+   haben Beschwerderechte, Altvertraege, Protokolle und Geduld. Sie liefern
+   den oeffentlichen Raeumen die Anlaesse, ohne selbst der Gegner zu sein.
+
+**Der Angriff funktioniert nur, wenn alle vier Arme sauber aussehen.** Sobald
+ein Arm offensichtlich gekauft oder kriminell ist, kann Georgij ihn wie Choi,
+Han oder Maeng behandeln. Band 6 braucht das Gegenteil: Menschen, die aus
+verstaendlichen Gruenden richtige Fragen stellen und dabei von den alten
+Haeusern in dieselbe Richtung gedreht werden.
+
+### Was Georgij dagegen tun muss
+
+**Er darf nicht einfach drohen.** Das wuerde die gegnerische Lesart beweisen:
+zu viel Macht, zu wenig Form, zu nah an der Unterwelt. Er muss zeigen, dass die
+neue Ordnung gerade deshalb haelt, weil sie lesbar ist.
+
+**Die Antwort kommt aus den frueheren Baenden:**
+
+* Chae baut Ehe, Vollmachten, Haftung und Nachfolgeform;
+* Hwang baut Reihen, Belege, Quellen und Protokoll;
+* Yoon/Compliance bauen Ringfences und Berichtslinien;
+* Jang baut koerperliche Sicherheit ohne Konzernamt;
+* Joo, Kwon, Na und Jin beweisen, dass Dokkaebi Regeln hat, aber nicht Teil des
+  Konzerns ist;
+* Jun und die Band-4-Werkleute beweisen, dass die Sanierungen ohne Georgijs
+  Daueranwesenheit weiterlaufen.
+
+**Sein Mittelfehler:** Er versucht zuerst, jeden dieser Raeume selbst zu halten,
+weil Annie gerade geboren hat und weil er das Kind nicht aus ihrer Gegenwart
+nehmen will. Das ist liebevoll und falsch. Annie stoppt ihn nicht, weil sie
+mehr Arbeit will, sondern weil Schutz nicht bedeuten darf, dass er ihre Macht
+als seine Last verwaltet.
+
+**Die Loesung ist keine Abwesenheit Annies.** Die Loesung ist Taktung:
+manchmal geht er, manchmal geht sie, manchmal gehen beide, und manchmal geht
+niemand von beiden, weil das Kind Vorrang hat und die gebaute Struktur den Raum
+halten muss.
+
+### Kapitelgeruest: von Geburt zu Fuehrung
+
+1. **Kurz vor Geburt:** Das Haus ist enger getaktet. Annie ist sichtbar
+   schwanger, Georgij gluecklich und zu aufmerksam. Ein erstes externes Signal
+   kommt nicht als Angriff, sondern als Bitte um Klarstellung zu Kontrollwechsel
+   und Risikozuordnung.
+2. **Geburt:** Kein Krankenhauskrimi. Annie ist Zentrum. Georgij ist praesent,
+   nuetzlich und erschuettert, nimmt ihr aber den Raum nicht. Danach ist
+   Elternpraesenz Tatsache.
+3. **Erste Nach-Geburt-Woche:** Dokkaebi, Hwang, Jang, Yoon, Mrs Seo und die
+   operativen Leute laufen ohne Dauereingriff. Der Leser sieht: Georgij muss
+   nicht ueberall sein, damit seine Ordnung haelt.
+4. **Externe Verdichtung:** Alte Haeuser streuen dieselbe Frage in verschiedene
+   saubere Kanaele: Monopol, Finanzierung, Versicherung, Zulassung,
+   Minderheitenrechte, Marktrisiko. Die ersten Schreiben lesen sich nicht wie
+   Krieg, sondern wie Sorge um Stabilitaet.
+5. **Georgijs Mittelfehler:** Er schirmt Annie zu eng ab und versucht, zu viele
+   Raeume selbst zu tragen. Annie stoppt ihn. Schutz darf nicht heissen, dass
+   er ihre Macht verwaltet.
+6. **Die neue Fuehrungsform:** Chae, Yoon, Hwang, Jang und die Band-4/5-Leute
+   bauen Nachweis statt Drohung: Zuständigkeiten, Ringfences, transparente
+   Vollmachten, echte Compliance, operative Ersatzketten, saubere Trennung
+   zwischen legalem Imperium und Dokkaebi.
+7. **Drei Raeume beweisen es:** ein staatlich/regulatorischer Raum, den Georgij
+   sauber besteht; ein Annie-Raum, den nur sie fuehren kann; ein Elternraum, den
+   beide hoeher stellen als Konzernhoeflichkeit.
+8. **Schluss:** Die alten Haeuser bekommen keinen Krieg, den sie verstehen.
+   Sie bekommen eine Ordnung, die schwerer anzugreifen ist als Annies alte
+   Alleinstellung. Georgij fragt Annie um Fuehrung, diesmal privat und ernst:
+   wann er in den Raum geht, wann sie geht, und wann keiner von beiden gehen
+   darf, weil das Kind den Raum hat.
 
 ---
 
@@ -30161,6 +30368,18 @@ eine verworfene Idee in vier Wochen als neuer Einfall wiederkommt.***
 **Was entschieden wurde und in Kraft ist, steht in `doc/41-entscheidungen.md`.**
 Am 29.08. getrennt, weil beides in einer Datei stand und die Datei
 *verworfen* heisst.
+
+## Verworfen am 04.09.: Band-6-Gegner Lim/Nam
+
+- **Nam-Gruppe als externer Band-6-Gegner.** Falsch, weil Nam nach Band 2
+  Annie gehoert. Nam darf nicht als fremde Korridorfront zurueckkommen.
+- **Lim Seong-jae als Hauptgegner.** Traegt nicht. Ein alter Governance-Mann
+  kann eine Funktionsstimme in einem Raum sein, aber nicht der Gegner des
+  Schlussbands.
+- **Korridor-Koalition aus Kyeongil/Nam als Band-6-Hauptbogen.** Zu klein und
+  falsch hergeleitet. Band 6 braucht die groessere Gegenfront: alte Haeuser,
+  oeffentliche Ordnung, Regulierungsdruck, Banken, Versicherer,
+  internationale Zulassungen und Legitimität der neuen Dynastie.
 
 ## Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt
 
@@ -31641,16 +31860,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 881 | 97 (b1ch01-b3ch02) | 1 | 600 |
-| Park Sang-hoon | 307 | 47 (b1ch10-b3ch01) | 22 | 592 |
-| Chairman Woo | 234 | 39 (b1ch07-b2ch89) | 22 | 590 |
+| Annie | 885 | 98 (b1ch01-b3ch03) | 1 | 628 |
+| Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
+| Chairman Woo | 235 | 40 (b1ch07-b3ch03) | 22 | 628 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
-| Jang | 162 | 39 (b1ch05-b3ch02) | 4 | 600 |
+| Jang | 163 | 40 (b1ch05-b3ch03) | 4 | 628 |
 | Mr Hwang | 159 | 24 (b2ch07-b2ch89) | 166 | 590 |
-| Mrs Seo | 144 | 51 (b1ch03-b3ch01) | 1 | 592 |
+| Mrs Seo | 145 | 52 (b1ch03-b3ch03) | 1 | 628 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 90 | 22 (b1ch07-b3ch02) | 22 | 600 |
+| Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
 | Baek Jun-ho | 85 | 12 (b2ch39-b3ch01) | 270 | 592 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
@@ -31670,13 +31889,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Bae | 29 | 8 (b2ch38-b2ch88) | 262 | 578 |
 | Mr Im | 28 | 5 (b1ch05-b2ch87) | 6 | 531 |
 | Mr Koh | 25 | 7 (b2ch35-b2ch87) | 251 | 531 |
+| Gong Doo-hyun | 20 | 3 (b3ch01-b3ch03) | 592 | 628 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
-| Gong Doo-hyun | 8 | 2 (b3ch01-b3ch02) | 592 | 600 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
@@ -31694,7 +31913,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-881 Nennungen in 97 Kapiteln.
+885 Nennungen in 98 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -32579,6 +32798,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 600 | b3ch02:172 | "And what did you get," said Annie. |
 | 600 | b3ch02:190 | Annie did not write anything down. |
 | 600 | b3ch02:198 | Annie put the pen down. |
+| 628 | b3ch03:274 | Annie did not interrupt any of it, and she does not. |
+| 628 | b3ch03:286 | "Then say what he is," said Annie. |
+| 628 | b3ch03:292 | Annie put the pen down. |
+| 628 | b3ch03:308 | Annie picked the pen back up. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -32829,7 +33052,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-307 Nennungen in 47 Kapiteln.
+308 Nennungen in 48 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -33140,6 +33363,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:60 | He wrote that in a garden in Hannam-dong with a glass in his other hand, because Park Sa.. |
 | 592 | b3ch01:110 | Georgij did not telephone Park Sang-hoon. |
 | 592 | b3ch01:112 | Sang-hoon asked in three places in April and heard nothing back, and he does not usually.. |
+| 628 | b3ch03:16 | He did not ask Park Sang-hoon and he did not ask Chairman Woo. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -33287,7 +33511,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-234 Nennungen in 39 Kapiteln.
+235 Nennungen in 40 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -33525,6 +33749,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:360 | "Yeongjong. The office at the end of the shed, keeping the books of a terminal that has .. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:28 | Chairman Woo telephoned once, in April, and asked one question and rang off, and the que.. |
+| 628 | b3ch03:16 | He did not ask Park Sang-hoon and he did not ask Chairman Woo. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -33913,7 +34138,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-162 Nennungen in 39 Kapiteln.
+163 Nennungen in 40 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34079,6 +34304,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 444 | b2ch72:200 | "You will come out of there at half past and she will have been perfectly all right abou.. |
 | 590 | b2ch89:134 | Jang went to Mapo on the Thursday and was handed a green school exercise book at the top.. |
 | 600 | b3ch02:128 | Georgij went down the steps past the woman with the bucket and got into the car and did .. |
+| 628 | b3ch03:254 | He was on the expressway at twenty past four and did not say anything to Jang for eleven.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -34165,6 +34391,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:132` (Tag 441) - twenty
 - `b2ch72:194` (Tag 444) - forty, two
 - `b2ch72:200` (Tag 444) - one
+- `b3ch03:254` (Tag 628) - eleven, four, twenty
 
 ---
 
@@ -34428,7 +34655,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-144 Nennungen in 51 Kapiteln.
+145 Nennungen in 52 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34576,6 +34803,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:20 | "There is a card," said Mrs Seo. "It has your name on the front of it and it has it corr.. |
 | 592 | b3ch01:28 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
 | 592 | b3ch01:204 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
+| 628 | b3ch03:30 | The telephone rang in the small room at ten past nine on the Monday, and Mrs Seo answere.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -34660,6 +34888,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:44` (Tag 531) - ten
 - `b2ch87:188` (Tag 531) - four, one, ten, twenty-six
 - `b2ch89:108` (Tag 590) - one
+- `b3ch03:30` (Tag 628) - nine, ten
 
 ---
 
@@ -35018,7 +35247,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Choi Dae-ho
 
-90 Nennungen in 22 Kapiteln.
+92 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -35112,6 +35341,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 600 | b3ch02:68 | He is not sorry Choi Dae-ho is dead, and he does not arrange his face to look as if he w.. |
 | 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
 | 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
+| 628 | b3ch03:220 | "So did Choi," said Gong Doo-hyun. |
+| 628 | b3ch03:278 | "So did Choi." |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -36647,6 +36878,45 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Gong Doo-hyun
+
+20 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
+| 592 | b3ch01:126 | "Gong Doo-hyun." |
+| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
+| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
+| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
+| 600 | b3ch02:94 | "He was thirty-five and he was the best man in that building at the thing he did." Gong .. |
+| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
+| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
+| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
+| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
+| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
+| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
+| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
+| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
+| 628 | b3ch03:196 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
+| 628 | b3ch03:204 | "No." Gong Doo-hyun did not take any time over it. "That is why it is correctly put." |
+| 628 | b3ch03:208 | "You have given me the answer to a different question." Gong Doo-hyun was perfectly even.. |
+| 628 | b3ch03:220 | "So did Choi," said Gong Doo-hyun. |
+| 628 | b3ch03:234 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
+| 628 | b3ch03:248 | Gong Doo-hyun looked at him for about two seconds. |
+
+### Zahlen in der Naehe von Gong Doo-hyun
+
+- `b3ch02:70` (Tag 600) - eleven, one, twenty
+- `b3ch02:88` (Tag 600) - one, three
+- `b3ch02:94` (Tag 600) - four, one, thirty-five
+- `b3ch02:110` (Tag 600) - two
+- `b3ch03:160` (Tag 628) - four
+- `b3ch03:208` (Tag 628) - twenty
+- `b3ch03:248` (Tag 628) - two
+
+---
+
 ### Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -36863,30 +37133,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:380` (Tag 259) - four
 - `b2ch54:66` (Tag 319) - eight, one
 - `b2ch54:70` (Tag 319) - nine
-
----
-
-### Gong Doo-hyun
-
-8 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:126 | "Gong Doo-hyun." |
-| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
-| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
-| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
-| 600 | b3ch02:94 | "He was thirty-five and he was the best man in that building at the thing he did." Gong .. |
-| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
-| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
-
-### Zahlen in der Naehe von Gong Doo-hyun
-
-- `b3ch02:70` (Tag 600) - eleven, one, twenty
-- `b3ch02:88` (Tag 600) - one, three
-- `b3ch02:94` (Tag 600) - four, one, thirty-five
-- `b3ch02:110` (Tag 600) - two
 
 ---
 

@@ -84,100 +84,208 @@ ihm Annie oder das Kind wieder in Besitzsprache uebersetzt.
 
 ---
 
-## Hauptbogen: der Governance-Angriff
+## Korrektur: Lim/Nam tragen Band 6 nicht
 
-**Band 6 braucht keinen neuen Maeng.** Der Gegner ist kein Warlord, sondern ein
-respektabler Mann aus Annies Konzernordnung: **Lim Seong-jae / Mr Lim**, Ende
-sechzig, alter Governance- und Risiko-Mann, seit Annies Vater im System. Er ist
-nicht korrupt, nicht dumm und nicht heimlich Unterwelt. Gerade deshalb traegt
-er den letzten Band besser als ein weiterer Verbrecher.
+**Verworfen am 04.09.:** Nam als externer Gegner und Lim als Hauptgegner. Nam
+gehoert nach Band 2 zu Annie. Punkt. Die Gruppe darf nicht als fremde
+Korridorfront zurueckkommen, weil sie kein fremdes Haus mehr ist. Lim als alter
+Governance-Mann erklaert zu wenig und traegt keinen Schlussband. Wenn er
+ueberhaupt auftaucht, dann als Funktionsstimme in einem Raum - nicht als Gegner,
+nicht als Finisher, nicht als Motor.
 
-**Sein Angriff ist als Fuersorge getarnt.** Nach der Geburt legt Lim ein
-Stabilitaetsprotokoll auf den Tisch: fuer einige Monate sollen besonders
-grosse Kapital-, Personal-, Sparten- und Haftungsentscheidungen entweder von
-Annie persoenlich bestaetigt werden oder ueber ein altes Executive-/Risk-Gremium
-laufen. Auf dem Papier schuetzt das Mutter, Kind, Konzern und Maerkte. In der
-Wirkung zwingt es Annie in jeden grossen Raum zurueck oder nimmt Georgij dort
-die Autoritaet.
+**Der Fehler war, eine alte Branchen-Randnotiz als offenen Gegner zu lesen.**
+Band 6 fragt nicht: Wer liegt noch auf derselben Lane? Band 6 fragt: Wer nimmt
+es mit dem neuen Haus auf, nachdem Hochzeit, Kind, Hanseong, Dokkaebi und
+Georgijs Fuehrung nicht mehr voruebergehend aussehen?
 
-**Damit greift Lim nicht Annie an, sondern die Elternregel.** Wenn Annie selbst
-kommt, gewinnt er: Der Konzern hat bewiesen, dass er sie trotz Geburt braucht.
-Wenn Georgij allein kommt und nur Stellung behauptet, gewinnt er ebenfalls:
-Dann ist Georgij der Ehemann ohne tragende Konzernform. Wenn Georgij Gewalt,
-Dokkaebi oder Angst benutzt, bestaetigt er Lims schlimmste Lesart.
+---
 
-**Darum ist dies der richtige Schlussgegner.** Lim zwingt Georgij, nicht noch
-einmal zu beweisen, dass er jemanden zerlegen kann, sondern dass er ein Haus
-fuehren kann, ohne Annie aus dem Kind herauszuziehen und ohne das Kind als
-Grund fuer Annies Entmachtung zu erlauben.
+## Tragende Gegenfront: alte Haeuser und oeffentliche Ordnung
 
-### Aufbau in vier Bewegungen
+**Der Hauptdruck kommt von den alten Haeusern.** Nicht ein einzelner Manager
+und nicht Nam. In Band 3 steht die ungeschriebene Regel: Chaebol zerstoeren
+einander nicht vollstaendig. Georgij und Annie haben diese Regel sichtbar
+gebrochen oder zumindest so aussehen lassen: Hanseong wurde ausgehoehlt, die
+profitablen Einheiten wanderten, die Unterwelt wurde geordnet, und nach der
+Hochzeit gibt es ein Kind. Das ist nicht mehr Affaere, Begleiter oder
+ungewoehnlicher Ehemann. Das ist eine neue Dynastie.
 
-1. **Vor der Geburt:** Das Haus ist anders getaktet. Mrs Seo, Jang, Aerzte,
-   Wege und Termine laufen enger; Georgij ist gluecklich und zu aufmerksam.
-   Ein erstes Konzernsignal kommt herein, aber er laesst es liegen, weil Annie
-   ihn nicht braucht. Das ist wichtig: Fuehrung beginnt auch damit, nicht jeden
-   Raum zu betreten.
-2. **Geburt:** Kein Actionkapitel, kein Krankenhauskrimi. Annie ist Zentrum.
-   Georgij ist praesent, nuetzlich und sichtbar erschuettert, aber er nimmt ihr
-   nicht den Raum. Danach ist Elternpraesenz keine Behauptung mehr, sondern
-   Tatsache.
-3. **Das Protokoll:** Lim legt die saubere Fassung vor. Mr Chae kann nicht
-   einfach sagen, dass sie illegal ist, weil sie es nicht sein muss. Yoon
-   Hae-won liest die Wirkung: Sie schuetzt nicht vor Risiko, sie baut Risiko
-   als Vorwand fuer alte Entscheidungsmacht.
-4. **Die Fuehrungsprobe:** Georgij muss mehrere Raeume trennen: Raeume, die
-   Annie selbst gehoeren; Raeume, die Ausfuehrung brauchen; Raeume, die nur
-   ihre Koerperpraesenz erzwingen wollen; Raeume, die das Kind indirekt als
-   Hebel benutzen. Er gewinnt nicht durch Drohung, sondern durch richtige
-   Zuordnung.
+**Warum sie erst jetzt angreifen:** Vor der Geburt konnte man Georgij noch als
+Ausnahme lesen: Annies Mann, Annies Werkzeug, Annies merkwuerdiger Schatten.
+Nach der Geburt ist er Vater des Erben und fuehrt tatsaechlich Raeume. Damit
+ist das Haus nicht nur gefaehrlich, sondern vererbbar. Die alten Haeuser
+warten nicht, bis diese Form normal wird.
 
-### Wer in diesem Bogen arbeitet
+**Die externen Gegner sind deshalb:**
 
-**Mr Chae baut die Form.** Er ist nicht Georgijs Freund und nicht eingeweiht in
-alles, aber er weiss seit der Eheakte, dass Formen Zwecke haben. Bei Lim ist
-sein Wert, dass er den Unterschied zwischen einem haltbaren
-Stabilitaetsinstrument und einer verkleideten Entmachtung benennen kann.
+* ein stiller Kreis alter Chaebol-Haeuser, die nicht geschlossen auftreten,
+  aber dieselbe Lesart streuen;
+* die Fair-Trade-/Regulierungsseite als oeffentliche Ordnung, nicht als
+  gekaufter Schurke;
+* Banken, Versicherer und Rating-/Risk-Leute, die Konzentration und
+  Kontrollwechsel einpreisen;
+* internationale Kunden und Zulassungsstellen, die bindende Fuehrung sehen
+  wollen;
+* Resthalter, Minderheiten und entmachtete Familienlinien aus Hanseong, die
+  keine Armee mehr haben, aber Akten, Beschwerden und Geduld.
 
-**Yoon Hae-won ist die operative Compliance-Stimme.** Sie kommt aus Band 4 und
-traegt den Konzernteil, weil sie gelernt hat, eine Klausel an Wirkung statt an
-Ueberschrift zu lesen. Sie ist nicht mutig aus Romantik, sondern weil die Akte
-traegt.
+**Das macht den Angriff groesser als Lim.** Die Gegner muessen nicht beweisen,
+dass Annie oder Georgij etwas Falsches getan haben. Sie muessen nur plausibel
+machen, dass ein Haus, das Chemie, Werkstoffe, Motors, Electronics, Shipping,
+Routen, Unterweltordnung und ein neues Kind verbindet, zu viel Macht in zu
+wenigen Haenden haelt. Das ist die erste Gefahr, die Georgij nicht einfach mit
+Wahrheit erledigen kann, weil die Wahrheit selbst gefaehrlich aussieht.
 
-**Hwang bringt Reihen, keine Befehle.** Wenn Lim behauptet, Georgij sei zu
-unklar, liefert Hwang keine Unterwelt, sondern Zeit, Vollmacht, Unterschrift,
-Entscheidung und Ergebnis.
+**Die Waffe ist nicht Gewalt, sondern Form:** Monopolpruefung, Governance-
+Auflagen, Finanzierungsklauseln, Versicherungspruefung, Lieferstopps,
+Board-Minderheiten, internationale Zulassungen, Medienfluestern und die Frage,
+ob Georgij ueberhaupt ein legitimer Traeger dieser Macht ist. Nichts davon
+muss gelogen sein. Genau deshalb traegt es.
 
-**Jang haelt Raeume, ohne sie einzuschuechtern.** Der letzte Band darf nicht so
-aussehen, als wuerde Georgij Corporate Governance mit Tuerenmaennern gewinnen.
-Jang verhindert nur, dass aus der Elternregel ein Sicherheitsleck wird.
+### Warum das zu Geburt und Elternregel passt
 
-**Dokkaebi bleibt Hintergrundordnung.** Eine einzelne Ausnahme darf zeigen,
-dass die Unterwelt nach Band 5 normal weiterlaeuft, aber sie ist nicht die
-Waffe gegen Lim. Sonst waere Lim sachlich im Recht.
+**Geburt ist nicht Schwaeche. Geburt ist Dauer.** Das Kind macht aus Annie und
+Georgij kein Paar mit Skandalwert, sondern ein Haus mit Zukunft. Wer dieses
+Haus brechen will, muss jetzt handeln, bevor Georgijs Fuehrung normal wird und
+bevor das Kind als selbstverstaendlicher Erbe gelesen wird.
 
-### Georgijs Fehler in der Mitte
+**Die Elternregel bleibt der innere Druck.** Annie und Georgij wollen beide
+Eltern sein, nicht nur Eigentuemernamen. Die alten Haeuser nutzen das nicht,
+weil sie das Kind bedrohen, sondern weil jede externe Pruefung Raeume erzeugt:
+Board, Ministerium, Bank, Versicherer, Kunde, Zulassung, Presse. Zwei
+praesente Eltern koennen nicht einfach jeden Raum persoenlich bedienen, ohne
+dass das Kind wieder von Personal erzogen wird.
 
-**Er wird am Anfang zu eng.** Aus Glueck, Angst und Ueberbehutsamkeit versucht
-er, zu viele Raeume selbst zu nehmen oder zu viele Termine von Annie fernzuhalten.
-Das ist lieb gemeint und falsch. Annie stoppt ihn, weil Schutz nicht bedeuten
-darf, dass er ihre Macht verwaltet.
+**Daraus entsteht Georgijs echte Fuehrungsfrage.** Nicht: Darf er fuer Annie
+unterschreiben? Sondern: Kann er eine Struktur bauen, in der Annie nicht in
+jeden Raum gezwungen wird, das Kind nicht als Schwachstelle gilt, und der Staat
+nicht wie ein Feind behandelt werden muss?
 
-**Diese Korrektur ist noetig, damit die Fuehrung echt wird.** Danach sortiert
-er nicht mehr nach *gefaehrlich fuer Annie*, sondern nach *wem gehoert dieser
-Raum*. Manche Raeume gehoeren ihr. Manche gehoeren ihm. Manche gehoeren dem
-Kind, weil Eltern dort keine Stellvertreter schicken. Manche gehoeren niemandem
-mehr, der sie nur gebaut hat, um Annie aus einem anderen Raum zu holen.
+### Arbeitsrichtung fuer den Gegner
 
-### Zielbild
+**Ein Gesicht braucht der Kreis trotzdem.** Arbeitsrichtung: ein alter
+Chairman, der die ungeschriebene Chaebol-Regel verkoerpert und persoenlich
+nicht dumm genug ist, Georgij zu unterschaetzen. Default ist ein neues,
+groesseres Haus. Kyeongil ist nur brauchbar, wenn es spaeter bewusst als
+respektables altes Haus mit echter Reichweite aufgebaut wird; als
+Lane-Randnotiz traegt es den Schluss nicht. Nam ist fuer diese Funktion
+gesperrt, weil Nam Annie gehoert.
 
-**Der finale Sieg ist kein Ruin und keine Hinrichtung.** Lim verliert Funktion,
-Gremium, Zugriff und die Erlaubnis, Sorge als Machtinstrument zu benutzen. Er
-geht nicht in Maengs Kategorie, weil er kein Maeng ist. Gerade das zeigt, dass
-Georgij inzwischen fuehrt und nicht nur beendet.
+**Dieser Mann greift nicht Annie als Mutter an.** Er greift Georgijs
+Legitimität an: Herkunft, Eigentum, Gewaltgeschichte, Unterweltgeruecht,
+Konzentration, Kontrollwechsel. Er will nicht Annie ruinieren. Er will sie
+zwingen, Georgij aus der Fuehrung herauszunehmen oder Teile des neuen Hauses
+unter alte Aufsicht zu stellen.
 
-**Die letzte private Bewegung gehoert Annie.** Georgij fragt sie um Fuehrung
-und meint es diesmal vollstaendig: nicht als Waffe gegen einen alten Mann,
-sondern als Ehemann, Vater und Schatten, der wissen muss, wann er in einen Raum
-geht und wann er draussen bleibt. Damit kommt die Formel aus Kapitel 1 nach
-Hause.
+### Warum er handelt
+
+**Der alte Chairman handelt nicht aus Marktanteilskraenkung.** Das waere zu
+klein. Er handelt, weil Georgij und Annie einen gefaehrlichen Praezedenzfall
+gebaut haben: Ein juengeres Haus kann ein altes Haus nicht nur schlagen,
+sondern ausnehmen, seine profitablen Organe neu zusammensetzen, die Unterwelt
+ordnen, Ministeriumswege sauber halten und danach ein Kind in diese neue Macht
+setzen.
+
+**Fuer die alten Haeuser ist das keine private Ehe mehr.** Es ist eine neue
+Verkehrsordnung. Wenn diese Ordnung normal wird, sind alte Regeln, alte
+Hoeflichkeiten und alte Abschreckung weniger wert. Dann kann jeder Erbe, jede
+Holding, jede stille Sicherheit und jede Familienlinie unter der richtigen
+Wahrheit angreifbar werden.
+
+**Darum klingt der Angriff zunaechst wie Hilfe.** Der alte Chairman bietet
+nicht Krieg an, sondern Stabilitaet: freiwillige Aufsicht, eine
+Industrievereinbarung, eine externe Governance-Gruppe, einen Senior Trustee,
+eine "courtesy", bis Annie nach der Geburt wieder jeden Raum selbst halten
+kann. Das ist die Beleidigung. Er beruhigt sie wie Han in Band 3: Ein altes
+Haus weiss angeblich, wie man junge Macht bremst, ohne sie zu demuetigen.
+
+**Georgij ist in dieser Lesart nicht Feind, sondern Risiko.** Genau das macht
+es schlimmer. Ein Feind kann besiegt werden. Ein Risiko wird eingerahmt,
+versichert, beaufsichtigt, mit Klauseln versehen und aus Raeumen entfernt, in
+denen es angeblich noch nicht tragfaehig ist.
+
+### Die vier Druckarme
+
+1. **Alte Haeuser:** kein offizielles Buendnis, sondern derselbe Satz aus
+   verschiedenen Muendern. Annie hat zu viel Macht in zu kurzer Zeit
+   konzentriert, Georgij hat zu wenig Herkunft fuer zu viel Zugriff, und das
+   Kind macht die Ordnung dauerhaft.
+2. **Oeffentliche Ordnung:** Fair-Trade-/Regulierungsseite prueft
+   Konzentration, Kontrollwechsel, Motors/Electronics-Remedies,
+   Shipping-Zugang, offene Werkstattdaten und die Frage, wer bindend fuehrt.
+   Diese Seite ist nicht gekauft. Sie muss fragen, und genau deshalb ist sie
+   gefaehrlich.
+3. **Banken, Versicherer, Rating/Risk:** Kreditlinien, Covenants,
+   Versicherung fuer Shipping und Industrieanlagen, Export- und
+   Lieferausfallrisiken. Sie verlangen trennbare Verantwortung, Nachfolgeketten
+   und Belege, dass Dokkaebi nicht im legalen Konzern steckt.
+4. **Hanseong-Reste und Minderheiten:** entmachtete Geschwister, Resthalter,
+   alte Board-Leute und kleine Anteilseigner haben keine Macht mehr, aber sie
+   haben Beschwerderechte, Altvertraege, Protokolle und Geduld. Sie liefern
+   den oeffentlichen Raeumen die Anlaesse, ohne selbst der Gegner zu sein.
+
+**Der Angriff funktioniert nur, wenn alle vier Arme sauber aussehen.** Sobald
+ein Arm offensichtlich gekauft oder kriminell ist, kann Georgij ihn wie Choi,
+Han oder Maeng behandeln. Band 6 braucht das Gegenteil: Menschen, die aus
+verstaendlichen Gruenden richtige Fragen stellen und dabei von den alten
+Haeusern in dieselbe Richtung gedreht werden.
+
+### Was Georgij dagegen tun muss
+
+**Er darf nicht einfach drohen.** Das wuerde die gegnerische Lesart beweisen:
+zu viel Macht, zu wenig Form, zu nah an der Unterwelt. Er muss zeigen, dass die
+neue Ordnung gerade deshalb haelt, weil sie lesbar ist.
+
+**Die Antwort kommt aus den frueheren Baenden:**
+
+* Chae baut Ehe, Vollmachten, Haftung und Nachfolgeform;
+* Hwang baut Reihen, Belege, Quellen und Protokoll;
+* Yoon/Compliance bauen Ringfences und Berichtslinien;
+* Jang baut koerperliche Sicherheit ohne Konzernamt;
+* Joo, Kwon, Na und Jin beweisen, dass Dokkaebi Regeln hat, aber nicht Teil des
+  Konzerns ist;
+* Jun und die Band-4-Werkleute beweisen, dass die Sanierungen ohne Georgijs
+  Daueranwesenheit weiterlaufen.
+
+**Sein Mittelfehler:** Er versucht zuerst, jeden dieser Raeume selbst zu halten,
+weil Annie gerade geboren hat und weil er das Kind nicht aus ihrer Gegenwart
+nehmen will. Das ist liebevoll und falsch. Annie stoppt ihn nicht, weil sie
+mehr Arbeit will, sondern weil Schutz nicht bedeuten darf, dass er ihre Macht
+als seine Last verwaltet.
+
+**Die Loesung ist keine Abwesenheit Annies.** Die Loesung ist Taktung:
+manchmal geht er, manchmal geht sie, manchmal gehen beide, und manchmal geht
+niemand von beiden, weil das Kind Vorrang hat und die gebaute Struktur den Raum
+halten muss.
+
+### Kapitelgeruest: von Geburt zu Fuehrung
+
+1. **Kurz vor Geburt:** Das Haus ist enger getaktet. Annie ist sichtbar
+   schwanger, Georgij gluecklich und zu aufmerksam. Ein erstes externes Signal
+   kommt nicht als Angriff, sondern als Bitte um Klarstellung zu Kontrollwechsel
+   und Risikozuordnung.
+2. **Geburt:** Kein Krankenhauskrimi. Annie ist Zentrum. Georgij ist praesent,
+   nuetzlich und erschuettert, nimmt ihr aber den Raum nicht. Danach ist
+   Elternpraesenz Tatsache.
+3. **Erste Nach-Geburt-Woche:** Dokkaebi, Hwang, Jang, Yoon, Mrs Seo und die
+   operativen Leute laufen ohne Dauereingriff. Der Leser sieht: Georgij muss
+   nicht ueberall sein, damit seine Ordnung haelt.
+4. **Externe Verdichtung:** Alte Haeuser streuen dieselbe Frage in verschiedene
+   saubere Kanaele: Monopol, Finanzierung, Versicherung, Zulassung,
+   Minderheitenrechte, Marktrisiko. Die ersten Schreiben lesen sich nicht wie
+   Krieg, sondern wie Sorge um Stabilitaet.
+5. **Georgijs Mittelfehler:** Er schirmt Annie zu eng ab und versucht, zu viele
+   Raeume selbst zu tragen. Annie stoppt ihn. Schutz darf nicht heissen, dass
+   er ihre Macht verwaltet.
+6. **Die neue Fuehrungsform:** Chae, Yoon, Hwang, Jang und die Band-4/5-Leute
+   bauen Nachweis statt Drohung: Zuständigkeiten, Ringfences, transparente
+   Vollmachten, echte Compliance, operative Ersatzketten, saubere Trennung
+   zwischen legalem Imperium und Dokkaebi.
+7. **Drei Raeume beweisen es:** ein staatlich/regulatorischer Raum, den Georgij
+   sauber besteht; ein Annie-Raum, den nur sie fuehren kann; ein Elternraum, den
+   beide hoeher stellen als Konzernhoeflichkeit.
+8. **Schluss:** Die alten Haeuser bekommen keinen Krieg, den sie verstehen.
+   Sie bekommen eine Ordnung, die schwerer anzugreifen ist als Annies alte
+   Alleinstellung. Georgij fragt Annie um Fuehrung, diesmal privat und ernst:
+   wann er in den Raum geht, wann sie geht, und wann keiner von beiden gehen
+   darf, weil das Kind den Raum hat.

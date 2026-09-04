@@ -8,6 +8,18 @@ eine verworfene Idee in vier Wochen als neuer Einfall wiederkommt.***
 Am 29.08. getrennt, weil beides in einer Datei stand und die Datei
 *verworfen* heisst.
 
+## Verworfen am 04.09.: Band-6-Gegner Lim/Nam
+
+- **Nam-Gruppe als externer Band-6-Gegner.** Falsch, weil Nam nach Band 2
+  Annie gehoert. Nam darf nicht als fremde Korridorfront zurueckkommen.
+- **Lim Seong-jae als Hauptgegner.** Traegt nicht. Ein alter Governance-Mann
+  kann eine Funktionsstimme in einem Raum sein, aber nicht der Gegner des
+  Schlussbands.
+- **Korridor-Koalition aus Kyeongil/Nam als Band-6-Hauptbogen.** Zu klein und
+  falsch hergeleitet. Band 6 braucht die groessere Gegenfront: alte Haeuser,
+  oeffentliche Ordnung, Regulierungsdruck, Banken, Versicherer,
+  internationale Zulassungen und Legitimität der neuen Dynastie.
+
 ## Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt
 
 - **Ein dritter Stromstoß.** Es sind zwei, hier und überall.
@@ -85,5 +97,3 @@ nicht tut.
   Falsch herum gedacht: das entwirft Woos Tod danach, was er ermoeglicht.
 * **"Wer den Hund beschimpft, redet ueber das Haus."** Zu schlau. **Der Mann
   redet ueber Georgij, und es steckt nichts dahinter.**
-
-

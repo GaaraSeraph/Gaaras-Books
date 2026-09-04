@@ -593,7 +593,7 @@ die beim Planen zaehlt.
 | **Kim Do-yun** | **Ein Kim.** Arbeitet fuer einen Mann, dessen Stellung daran haengt, dass seine Familie bleibt, wo sie ist | Gesicht, das nichts tut | B1 31 | Ruht |
 | **Minister Min-ho** | **Der Minister.** Ueber Choi mit Sang-hoon verbunden | Der Preis | B1 - | Ruht |
 | **Han Il-hwan** | **Der Hanseong-Erbe.** Aeltester Sohn, vier Generationen, hat nie etwas gebaut. **Nicht Mr Han, der Fahrer von Mrs Gwak** | Verliert in Band 3 alles Profitable und bleibt als Titel sitzen | B3 geplant | **Gegner 2 von Band 3** |
-| **Gong Doo-hyun** | **Der Oberstaatsanwalt.** Chois Freund von der Universitaet, geblieben, jetzt oben | Fuehrt aus Hass eine Akte und faellt an ihr | **B3 1 (genannt), B3 2 (erster Auftritt)** | **Gegner 1 von Band 3.** Sein Nachfolger ist Georgijs Mann. **Er stellt keine einzige Frage** - `b3 ch02` |
+| **Gong Doo-hyun** | **Der Oberstaatsanwalt.** Chois Freund von der Universitaet, geblieben, jetzt oben | Fuehrt aus Hass eine Akte und faellt an ihr | **B3 1 (genannt), B3 2 (erster Auftritt), B3 3 (die Anklage)** | **Gegner 1 von Band 3.** Sein Nachfolger ist Georgijs Mann. **Er stellt keine einzige Frage** - `b3 ch02` |
 
 ### Hanseong-Sanierung (Band 4 geplant)
 
@@ -639,11 +639,15 @@ werden nicht verhindert; sie werden kontrolliert.
 | **Ko Seok-jin** | **Arbeitsname: Register-/Notariatsreiniger der aktuellen Unterwelt** | Verkauft saubere Zusammenfassungen statt Quellen; macht Menschen zu Unterkunft, Hospitality, Badge, Transport und Dienstleisterzeile | B5 geplant | Erste Papierreaktion auf die Band-4-Sperren; kein alter Choi-/Auktionshausbeweis. Geht am Ende an den Staat, nicht in die 33 |
 | **Maeng Gyu-rok / Mr Maeng** | **Der Warlord der Menschen-/Gewalt-Gruppe** | Fuehrt die schlimmste der drei grossen Gruppen; Frauen, Kinder, Vergewaltigung, Zwangsprostitution, Menschenhandel, Schulden, Einschuechterung. Regiert mit Angst: verletzt Untergebene fuer fehlende Ergebnisse und manchmal auch ohne brauchbaren Anlass. Fuer fast alle wirkt er unlesbar; fuer Georgij ist er logisch, weil seine Grausamkeit Erwartbarkeit zerstoert. Beim Reden grinst er immer; ernst wird er nur, wenn es wirklich ernst ist | B5 geplant | Letzter Gegner des Unterweltbogens; bewegt sich wegen Geschaeftsschaden und luegt wie gedruckt |
 
-### Band-6-Governance
+### Band-6-Gegenfront
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Lim Seong-jae / Mr Lim** | **Alter Governance- und Risiko-Mann in Annies Konzernordnung** | Ende sechzig; seit Annies Vater im System. Nicht korrupt, nicht dumm, nicht Unterwelt. Spricht in Stabilitaet, Fuersorge, Marktvertrauen und Verfahrenssicherheit | B6 geplant | Schlussgegner im technischen Sinn. Nach der Geburt versucht er, grosse Entscheidungen an Annies persoenliche Praesenz oder ein altes Gremium zu binden. Greift damit die Elternregel an und macht Sorge zur Entmachtungsform. Verliert Funktion und Zugriff, nicht sein Leben |
+| **Die alten Haeuser** | **Stiller Kreis alter Chaebol-Haeuser** | Keine einheitliche Organisation, sondern dieselbe Lesart in mehreren Raeumen: Georgij und Annie haben die ungeschriebene Regel gebrochen, dass Haeuser einander nicht vollstaendig zerstoeren | B6 geplant | Externe Hauptgegenfront. Greift nicht mit Gewalt an, sondern ueber Monopol, Regulierung, Banken, Versicherer, Zulassungen, Minderheitenrechte, Presse und die Frage, ob Georgij legitimer Traeger dieser Macht ist |
+| **Arbeitsgesicht offen / neues altes Haus** | **Ein alter Chairman als sichtbares Gesicht** | Muss gross genug sein, um nicht wie ein Lane-Kleingegner zu wirken, und klug genug, Georgij nicht zu unterschaetzen | B6 geplant | Noch nicht fest benannt. Default ist ein groesseres altes Haus. Kyeongil nur, falls es spaeter bewusst mit echter Reichweite aufgebaut wird. Nam darf diese Funktion nicht haben, weil Nam Annie gehoert |
+| **Oeffentliche Ordnung** | **Regulierungs-/Fair-Trade-Seite** | Nicht korrupt und nicht gekauft. Muss nach Konzentration, Kontrollwechsel, Remedies, Shipping-Zugang und bindender Fuehrung fragen | B6 geplant | Gefaehrlich, weil die Fragen legitim sind. Gibt den alten Haeusern Form, ohne ihr Werkzeug zu sein |
+| **Banken/Versicherer/Risk** | **Finanz- und Versicherungsdruck** | Kreditlinien, Covenants, Industrieversicherungen, Shipping-Risiko, Export- und Lieferausfallbewertung | B6 geplant | Erzwingen trennbare Verantwortung, Nachfolgeketten und Nachweise, dass Dokkaebi nicht im legalen Konzern steckt |
+| **Hanseong-Reste** | **Geschwister, Resthalter, Minderheiten, alte Board-Leute** | Keine Armee mehr, aber Beschwerderechte, Altvertraege, Protokolle und Geduld | B6 geplant | Liefern Anlaesse fuer Pruefungen. Sind nicht der Hauptgegner, sondern das Material, das die alten Haeuser in oeffentliche Raeume tragen |
 
 **Erster Maeng-Bruch:** eine umbenannte Servicefahrt, kein grosser Transport.
 Jun findet die zu lange Wartezeit; Hwang macht eine Zeile daraus; Jang liest

@@ -244,6 +244,13 @@ Georgij kennt die elf öffentlichen Verträge und, nützlicher, die Meldungen ih
 
 **Und ab Band 2 sind das keine Randnotizen mehr.** Die Nam-Gruppe hat *sonst nichts*, und genau das macht sie zum Mittelstueck: Wer nur eine Lane hat, macht keine Triage, sondern Verzweiflung. Naeheres in `doc/31-plan-band-2.md`.
 
+**Korrigiert am 04.09.: Diese Randnotiz ist nicht der Band-6-Gegner.** Nam
+gehoert spaeter Annie und darf nicht als externer Gegner zurueckkommen.
+Kyeongil und die kleineren bleiben als Branchenumfeld brauchbar, aber nicht als
+Schlussfront. Band 6 braucht groessere Gegner: alte Haeuser,
+Regulierungsdruck, Banken, Versicherer, internationale Zulassungen und die
+Frage, ob Annies neues Haus zu viel Macht in zu wenigen Haenden haelt.
+
 **Was ein Vetorecht über Routen praktisch bedeutet:** Es ist kein Papier über Eigentum. Es entscheidet, welcher Container auf welche Abfahrt geht, wenn eine Abfahrt voll ist, und auf diesen Lanes ist neun Monate im Jahr alles voll.
 
 Sie muss niemanden aussperren und nie erklären, warum jemand zu spät kommt. Sie ist einfach die Gruppe, deren Ladung schon verladen ist. Zwei Wochen Verzug sind in diesem Gewerbe ein gebrochener Vertrag und ein kalter Reaktor.

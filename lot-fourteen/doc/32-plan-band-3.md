@@ -5346,6 +5346,78 @@ nichts mit ihm vorgesehen ist** - dann ist er das, was er im Kapitel ist.
 > "I did not know until this afternoon that all of it rested on the other man
 > being dirty."
 
+## Was `b3 ch03` festlegt
+
+**Die Vorladung ist ein Anruf und keine Karte, und das ist eine Steigerung.**
+`b2 ch23:176` hat dem Leser beigebracht, wie das zu lesen ist - Yeom: *"I
+would like you to notice that I am doing that rather than having somebody
+bring you a card."* Die Karte war die unhoefliche Form. **Gong nimmt die
+hoefliche, und sie ist schlimmer, weil er nichts mehr beweisen muss.**
+
+**Und Mrs Seo kommt nicht nach oben.** Sie schreibt es auf den Block und
+bringt es mit dem Tablett. **Beim dritten Mal ist es Haushalt** - und damit
+ist das Motiv aus `b2 ch23` und `b3 ch01` bezahlt und nicht ausgereizt.
+
+**Die Akte ist elf Seiten und die erste ist der Tempelbucheintrag.** Er hat
+in `b3 ch02` unterschrieben, weil Nichtunterschreiben das Einzige gewesen
+waere, was irgendjemand behalten haette. **Vier Wochen spaeter ist es Seite
+eins.** Der Text sagt es ohne Kommentar; der Leser rechnet selbst.
+
+**Und die elfte Seite ist der Schluessel zu der Figur:**
+
+> *If none of it is an offence, what is it.*
+
+**Ein Mann, der eine Verurteilung wollte, schreibt das nicht auf.** Er haette
+bei Seite neun aufgehoert und eine zehnte gesucht, die hilft. **Gong sucht
+keinen Straftatbestand, sondern ein Wort**, und das ist der Grund, warum er
+nicht aufhoert und nicht gekauft werden kann.
+
+**Was Gong ihm gibt, ist nicht Chois Tugend, sondern die Mechanik des
+Werdens.** Das Jahr 2003: Choi kam ein Jahr lang donnerstags an denselben
+Tisch, redete wie ein Staatsanwalt und hatte recht damit.
+
+> "There was no afternoon where he decided. **It worked, and then it worked
+> again**, and by the third year the man who used to say what a bad
+> indictment looked like did not say it any more, because nobody at that
+> table was writing indictments."
+
+**Das ist Georgijs eigene Lage, zwei Jahre alt, in fremdem Mund.**
+
+**Der Schlagabtausch am Ende steht so, wie er im Plan entworfen ist**, und
+Georgij gewinnt ihn nicht: *"As long as I am by her side, the question is
+badly put." / "No. That is why it is correctly put."* Und danach der
+Millimeter zu viel, und darauf **"So did Choi."**
+
+**Die Erzaehlung sagt einmal, was das ist, und dann nichts mehr:** es ist der
+erste Satz in zwei Jahren, den Georgij nicht auseinandernehmen kann, und er
+hat drei Woerter und kein Papier.
+
+### Die Ablage aus ch03 und wo sie entnommen wird
+
+**Regel aus `heft.py`: wer eine Ablage schreibt, notiert wo sie geholt wird.**
+`b3 ch03` legt drei ab und holt nichts. Das ist Absicht und hier steht wo:
+
+* *There is nothing behind him. Work out what that means before he asks.* -
+  **wird im selben Kapitel nicht beantwortet und bleibt stehen.** Die Antwort
+  faellt, wenn Georgij sich entscheidet: hinter dem Mann steht nichts, also
+  ist er nicht zu erreichen, **also muss er sich selbst aus dem Weg
+  schreiben.**
+* **Und die eine Zeile, die er nicht schreibt**, ist die wichtigste:
+
+  > Georgij worked out on that road what that leaves.
+  >
+  > He did not write it down.
+
+  **Das ist der Praezedenzfall aus `b2 ch90`** - *it is the one thing this
+  year that he has not written down.* Dort war es der Anruf der Kaeuferin.
+  **Hier ist es der Entschluss, Gong loszuwerden**, und er faellt vier Wochen
+  nach dem Ritus und Monate vor der Ausfuehrung. **Entnommen wird er im
+  privaten Nachsatz an Annie nach dem Sturz:** *"He was a loose end. I do not
+  leave loose ends close enough to touch you."*
+
+**Damit ist der Sturz von Anfang an herbeigefuehrt und der Leser hat es
+gesehen, ohne dass es dasteht.**
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -5600,7 +5672,8 @@ sie.**
    trauert und es nicht vorgibt. Erste Begegnung mit dem Oberstaatsanwalt.
    **Geschrieben: `b3 ch02`, Tag 600, der neunundvierzigste Tag.**
 3. **Die Anklage:** *"I am interested in what you are going to be at
-   sixty."*
+   sixty."* **Geschrieben: `b3 ch03`, Tag 628, Mittwoch der 23. Juni -
+   vier Wochen nach dem Ritus, auf den Tag und auf den Wochentag.**
 4. **Lee Jun kommt an**, frueh im Band, damit er da ist und lernt, waehrend
    alles Uebrige passiert. Mrs Seo nimmt ihn in Empfang, derselbe Flur,
    dieselbe Frau, und der, der zuerst so ankam, steht daneben.
