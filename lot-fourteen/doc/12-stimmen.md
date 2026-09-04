@@ -3639,3 +3639,42 @@ Die 278 verbleibenden Werkzeugtreffer sind von Hand gegengelesen:
 Damit bleibt kein freigegebener Sprechbefehl offen. Der aktuelle Nachweis ist
 das Protokoll zu Pruefblickwinkel 9; historische Zaehler in diesem Abschnitt
 bleiben als Entstehungsgeschichte stehen.
+
+## Mr Maeng: das Grinsen ist die Stimmregel, Band 5
+
+**Maeng Gyu-rok, auf der Seite meistens Mr Maeng, grinst beim Sprechen
+immer.** Es begleitet Angebot, Drohung, Luege, Witz und
+Herablassung. Der Text muss nicht jedes Mal erklaeren, dass er grinst; nach
+der Einfuehrung reicht es, wenn Dialog und kurze Beats daran erinnern.
+
+**Ernst wird er nur, wenn es wirklich ernst ist.** Das ernste Gesicht darf
+nicht inflationaer kommen. Es markiert eine echte Lageaenderung: ein verlorener
+Kanal, ein gebrochener Schutz, eine Antwort Georgijs, die er nicht mehr als
+Spiel behandeln kann, oder den Moment vor dem ersten Blut.
+
+**Erster Auftritt:** Maengs erster Ja-Satz traegt das Grinsen. Er stimmt einer
+Regel zu, die er im selben Atemzug bereits umgehen will. Georgij nennt ihn
+nicht Luegner. Der Text laesst das Grinsen stehen und beweist die Luege erst
+danach ueber den gebrochenen Weg.
+
+**Warum ihn andere nicht lesen koennen:** Seine Stimme bietet keine verlaessliche
+Belohnung an. Er kann drohen, loben, scherzen und verletzen, ohne dass der
+Ton die naechste Handlung sauber vorhersagt. Untergebene hoeren deshalb nicht
+Sinn, sondern Gefahr.
+
+**Warum Georgij ihn lesen kann:** Das Grinsen ist nicht Stimmung, sondern
+Raumbesitz. Maeng zerstoert Erwartbarkeit, weil Erwartbarkeit Untergebenen
+Schutz geben wuerde. Sobald das begriffen ist, wird auch seine scheinbare
+Willkuer verwendbar.
+
+**Referenzfeld fuer die Stimme:** Homelander fuer das performative Grinsen
+von Erhabenheit, Ramsay Bolton fuer die Lust am Abrichten durch Angst, Kefka
+fuer die helle, lachende Zerstoerungslust, Negan fuer Strafe als soziale
+Vorfuehrung, Frieza fuer hoefliche aristokratische Grausamkeit. Keine Kopie,
+kein Genrewechsel: Maeng bleibt ein Mann in Raeumen, Kanaelen und Lieferketten.
+
+**Wenn er verletzt, spricht er nicht anders.** Das ist die Gefahr. Kein
+Stimmbruch, kein Wutschrei, kein Theaterwechsel. Er kann loben, fragen und
+bestrafen, waehrend dasselbe Grinsen im Gesicht bleibt. Ernst wird er erst,
+wenn die verletzte Person nicht verschwindet, sondern in Georgijs/Hwangs Reihe
+auftaucht.

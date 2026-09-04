@@ -421,6 +421,15 @@ Fragezeichen: sie verfuegt.
 behaelt es, weil er es behalten will. **Sie nimmt das Wort zurueck, er nicht
 das Zeichen.**
 
+**3. Danach gibt es keinen simplen Wechsel von `Mistress` zu `Annie`.** Die
+Register teilen sich. `Mistress` ist ab dem Wangenkuss keine automatische
+private Anrede mehr, sondern eine markierte Ausnahme: Uebergabe, Gehorsam,
+Besitzsprache, sexuelle oder rituelle Kante, nur wenn der Text den Preis des
+Wortes hoeren will. `Annie` gehoert zu Oeffentlichkeit, Gleichrangigkeit,
+Entscheidung, Alltag und Person. Beim Antrag in Band 4 greift beides nicht
+genau genug. Dort wird **Hye-jin** zum ersten Mal als gesprochener Name auf die
+Seite gelassen.
+
 ### Und hier stand ein Widerspruch, aufgeloest am 29.08. und danach noch einmal umgestellt
 
 **Oben in dieser Datei steht, der Wangenkuss sei in der Sang-hoon-Szene und
@@ -492,6 +501,19 @@ Baende lang ist keine einzige Beruehrung von irgendjemandem bemerkt worden.
 
 **Danach naehern sie sich auch, wo man es sieht** - und damit ist es zum
 ersten Mal ein Ereignis, weil jeder im Raum weiss, was ein Ring bedeutet.
+
+**Konkretisiert am 03.09.:** Der Antrag selbst bleibt privat. Die
+Oeffentlichkeitsregel endet in der Geste danach: Annie traegt den neuen Ring
+in den naechsten Raum oder durch den Flur, und Georgij umschliesst ihre Hand
+mit seiner. Vor anderen. Niemand muss kommentieren; der Schutz besteht nicht
+mehr darin, dass Raeume nichts sehen.
+
+**Anrede im Antrag:** Nicht `Mistress`, weil die Ehefrage kein Besitzsatz ist.
+`Annie` waere richtig, aber zu allgemein fuer das Ende dieses Bogens. Der
+Antrag darf den Namen drucken, der bisher nur ihr Geschenk und sein verwahrter
+Besitz war:
+
+> "Will you marry me, Hye-jin?"
 
 **Der Schutz faellt hier absichtlich weg.** Er war noetig, solange die Reihe
 eine Steigerung war und kein Vorgang. **Ab dem Ring ist es ein Vorgang**, und
@@ -569,6 +591,25 @@ jemandem, den er nicht kannte.
 there.* Und ab `b2 ch09` ist die Hand im Haar das feste Zeichen.
 
 **Nichts Neues wird erfunden. Es dauert nur zum ersten Mal lange.**
+
+---
+
+## Band 6: Vaterglueck und Ueberbehutsamkeit
+
+**Nach der Geburt ist Naehe nicht mehr nur erotisch, troestend oder oeffentlich
+lesbar.** Es gibt eine dritte Alltagsform: Elternnaehe. Georgij ist sichtbar
+gluecklich, wenn er das Kind haelt, traegt, fuettert, beruhigt oder einfach
+nicht hergibt, weil gerade niemand anderes gebraucht wird.
+
+**Bei Annie wird seine Beruehrung ueberbehutsam.** Schulter, Nacken, Ruecken,
+Hand an ihrer Taille, eine Tuer, die zu frueh offen ist, ein Stuhl, den er zu
+frueh sieht, ein Blick auf ihre Atmung. Das darf zaertlich und etwas zu viel
+sein, aber es darf nicht zur Anweisung werden. Annie bleibt diejenige, die eine
+Grenze setzen kann, ohne dass der Raum erklaert werden muss.
+
+**Der Text spielt das nicht als Witz.** Es ist der sichtbare Rest von Angst in
+einem Mann, der zum ersten Mal ein Zuhause hat, das nicht wieder verkauft
+werden soll. Schoen wird es, wenn er korrigiert, ohne beleidigt zu sein.
 
 ---
 

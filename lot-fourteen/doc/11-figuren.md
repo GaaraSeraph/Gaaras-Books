@@ -79,6 +79,13 @@ Der Katalog aller Sorten steht in `doc/15-kalender.md`, nach Aufgabe geordnet.
 
 **Er besitzt nichts.** Kein Geld, kein Ansehen, keine Beziehungen, kein Konto im wörtlichen oder übertragenen Sinn. **Am 1. Maerz, nach der Streichung des Registereintrags, unveraendert.** Papiere gibt es seit der zweiten Oktoberwoche, weil ihre Compliance sie brauchte, damit er unterschreiben kann; ein Konto gibt es nicht. Eine Zeile in einem privaten Buch zu streichen erzeugt keins von beiden. Einzelheiten in `doc/14-welt.md` unter "Das Register". Das ist wichtig für seine Argumente: Er kann nie sagen, was ihn etwas kostet, sondern nur, dass er selbst die Sicherheit ist. Sein Satz in Kapitel 2: *"I'm what it costs. There's nothing else of mine anywhere in the world."*
 
+**Grenze der Regel, korrigiert am 03.09.:** Als Gegenwartsregel gilt das bis
+zum Ende von Band 3, genauer bis Woos Testament/Geschenk geoeffnet ist. Danach
+ist Regel 2 nicht mehr Zustand, sondern Herkunft: Er hat einen Namen, der
+Tueren oeffnet, Geld, Besitz und die Frau, die er liebt. Ab Band 4 darf niemand
+mehr schreiben, er besitze nichts. Er besitzt - und muss lernen, Besitz nicht
+wie Beute, Entschuldigung oder Fessel zu behandeln.
+
 **Die Grenze seines Verfahrens: Namen ohne Gesichter.** Er hat vierhundertdreißig Namen und einundneunzig durchgearbeitete, mit Schulgeld, Gerichtsakten und Wohnungskäufen. Was Papier ihm nicht gibt, sind Gesichter. Von elf Kims sind zwei fotografiert, die übrigen neun haben ihr Leben in einem Geschäft verbracht, auf das niemand eine Kamera hält. Er steht acht Meter vor der Familie und kann keinen einzigen Namen auf ein Gesicht legen. Geschlossen wird das nur über den Mund eines anderen Menschen.
 
 Dieselbe Lücke hat ihm Hong bei Choi gezeigt: Seine Listen erfassen, wer beim Hineingehen eine Spur hinterlässt, nicht, wer anwesend ist.
@@ -352,6 +359,13 @@ und war seit dem 14. April nicht auf der Seite.
 
 **Was ihn auslöst:** Was Erwachsene mit Kindern vorhaben. Bei Los elf hat er einen Käufer ruiniert, ohne die Stimme zu heben.
 
+**Band 6: Vater und Ehemann.** Nach der Geburt ist Georgij ein sehr
+gluecklicher Vater und ein ueberbehutsamer Ehemann. Vaterglueck macht ihn im
+Haus sichtbarer weich, aber nicht harmloser in Machtzimmern. Ueberbehutsamkeit
+heisst: Er sieht Risiken, Wege, Schlaf, Schmerz, Besucher und Aerzte zu frueh.
+Sie heisst nicht, dass er Annie anweist oder ueber ihren Koerper entscheidet.
+Wenn seine Vorsicht nach Kontrolle klingt, stoppt Annie ihn, und er korrigiert.
+
 **Halsband.** Seit dem zweiten Haus. Sitzt eng unter dem Kiefer. Fernbedienung. Auf Veranstaltungen unter einem hochgeschlossenen Kragen verborgen, die Fernbedienung liegt dann in Annies Handtasche.
 
 **Es wird nicht abgenommen, und das ist keine offene Frage.** Der Autor hat sich am Ende von Band 1 ausdruecklich dagegen gewehrt, und der Text hat die Sache erledigt: **Band 1, Kapitel 34 heisst *"Then take it off"* und endet auf *"Then it stays on." - "Then it stays on," said Georgij.*** Am 1. Maerz, an dem Morgen, an dem seine Zeile gestrichen war und sie ihm nichts mehr verkaufen koennte.
@@ -509,7 +523,13 @@ Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet
 
 **Sie fährt schmal.** Zur Auktion kein zweiter Mann, kein zweiter Wagen, niemand vom Haus auf der Treppe. Der Wachmann fährt selbst. An solchen Abenden soll niemand später etwas beschreiben können.
 
-**Namensregel:** In der Öffentlichkeit "Annie". Sonst nirgends. Privat sagt er "Mistress". Ein Regelbruch in die eine oder andere Richtung hören beide sofort. **Der Grund dafür stand hier falsch** - *„privat ist er Eigentum"* gilt nur bis zum 19. Februar. Danach ist die Anrede eine Entscheidung und keine Tatsache, und **das macht sie schwerer und nicht leichter**.
+**Namens- und Anrederegel:** In der Oeffentlichkeit "Annie". Bis zum
+Wangenkuss in Band 3 ist privat "Mistress" die automatische Anrede. Danach
+faellt der Automatismus: Annie nimmt das Wort zurueck, nicht das Halsband.
+`Mistress` bleibt als markierte Ausnahme fuer Uebergabe, Gehorsam, Besitzsprache
+und rituelle/private Kante. `Annie` gehoert zu Oeffentlichkeit,
+Gleichrangigkeit, Alltag und Entscheidung. Ein Regelbruch in die eine oder
+andere Richtung hoeren beide sofort.
 
 **Ihr Auftrag an ihn** (Kapitel 2, in der Auffahrt ausgesprochen): Blut an den Händen kann jeder, die hat sie mehrfach eingekauft und sie waren billig. Was sie nie hatte, ist einer, der weiß, an welchen Abenden die Hände sauber bleiben müssen, und der es weiß, ohne dass man ihm einen Zettel hinlegt. Der erste Abend war die Hälfte, die jeder kann.
 
@@ -575,6 +595,229 @@ die beim Planen zaehlt.
 | **Han Il-hwan** | **Der Hanseong-Erbe.** Aeltester Sohn, vier Generationen, hat nie etwas gebaut. **Nicht Mr Han, der Fahrer von Mrs Gwak** | Verliert in Band 3 alles Profitable und bleibt als Titel sitzen | B3 geplant | **Gegner 2 von Band 3** |
 | **Gong Doo-hyun** | **Der Oberstaatsanwalt.** Chois Freund von der Universitaet, geblieben, jetzt oben | Fuehrt aus Hass eine Akte und faellt an ihr | **B3 1 (genannt), B3 2 (erster Auftritt)** | **Gegner 1 von Band 3.** Sein Nachfolger ist Georgijs Mann. **Er stellt keine einzige Frage** - `b3 ch02` |
 
+### Hanseong-Sanierung (Band 4 geplant)
+
+Diese Figuren tragen das Werk, ohne alle Hauptfiguren zu werden. Sie geben
+Ulsan Stimmen, Widerstand und Beweiswege. Wer Band 4 schreibt, benutzt lieber
+diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
+
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Lee Jun** | **Ehemals Lot 11.** Im Werk nur Jun | Infrastructure Trainee bei Georgij; lernt Methode, nicht Gehorsam. In Band 5 bei Maeng nicht am Tisch, sondern im zweiten Raum bei Hwangs Reihe: Zeit, Tuer, Fahrzeug, Abweichung | B3 geplant, B4 aktiv | Kommt nicht lose ins Haus: Name, Schutz-/Beschaeftigungs- und Statusstruktur stehen vor Ankunft. Wird fuer spaetere Werke befaehigt; kein Motors-Pruefer, frei fuer Band 5, aber nicht in Blut-/Hinrichtungsraeumen |
+| **Choi Eun-kyung** | Teileausgabe im Hanseong Motors Ulsan Main Complex | Trocken, wach, erste starke Stimme unten; sieht, welche Fehler alle kennen | B4 geplant | Teil der ersten Stabilization Cell; echte Macht ueber Teilefreigaben |
+| **Nam Gi-tae** | Tor 4, aelterer Sicherheitsmann | Kennt Nachtlisten, manuelle Overrides und die Tore, durch die Dinge zu bequem gehen | B4 geplant | Teil der ersten Stabilization Cell; Rueckendeckung am Tor |
+| **Park Dae-sik** | Schichtleiter | Hat Freigaben unterschrieben, teils unter Druck, teils nachtraeglich | B4 geplant | Bleibt Schichtkoordinator unter Rueckgrat; belastet, aber nutzbar |
+| **Lee Min-seo** | Junge OT-Technikerin | Weiss, dass Kamera, Badge und Produktionszeit seit Monaten auseinanderlaufen | B4 geplant | Teil der ersten Stabilization Cell; zieht Systeme sauber |
+| **Oh Se-ra** | Electronics Service Systems, Batterie-/Diagnose- und Warranty-APIs | Misstrauische Fachstimme fuer die technische Reinigung von Electronics; versteht die alten Keys | B4 geplant | Teil der ersten Stabilization Cell; trennt Motors/Electronics-Rueckkanaele |
+| **Han Soo-jin** | HR/Personnel Records | Findet Luecken zwischen Menschen, Schichten, Dormitory, Transport und Kostenstellen | B4 geplant | Teil der ersten Stabilization Cell; macht HR zur Schutzstelle |
+| **Yoon Hae-won** | Lokale Compliance-Juristin | Vorsichtig, nicht korrupt; liest Georgijs Authority und begreift, dass sie traegt | B4 geplant | Fuehrt Compliance-Lane und spaetere Review-Zelle |
+| **Cha Myung-seok** | Plant Director | Hoeflich, glatt; will den Ablauf zurueckholen, ohne Haftung zu unterschreiben | B4 geplant | Verliert die Werksleitung |
+| **Kwon Seung-jae** | Group Operating Executive | Will Produktion, nicht Wahrheit; glaubt an saubere Managementpapiere | B4 geplant | Verliert operative Authority ueber die Sanierung |
+
+### Unterwelt (Band 5 geplant)
+
+Diese Figuren entstehen nicht aus einem neuen Genre und nicht aus einem
+uebersehenen Band-2-Beweis. **Korrigiert am 03.09.:** Die Unterwelt reagiert
+auf laufende Band-4-Sperren: Hanseong, Shipping, Credit, Singapur, Hospitality,
+Badges, Transport, Gate-Logs und Kontakte in Ministerien/Staatsanwaltschaften.
+Mr Chae traegt parallel die Ehe-/Herkunftslinie, loest aber den
+Menschenhandelsplot nicht aus.
+
+**Makrostruktur, 03.09.:** Es gibt drei grosse Gruppen: Tueren/Transport,
+Papier/Geld und Menschen/Gewalt. Georgij uebernimmt eine bestehende Gruppe oder
+einen stehenden Knoten, macht daraus **Dokkaebi**, und Dokkaebi verschlingt
+groessere Gruppen, bis die Grossen unter ihnen vereinigt sind. Kleine Gruppen
+werden nicht verhindert; sie werden kontrolliert.
+
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Dokkaebi** | **Die von Georgij uebernommene erste Unterweltgruppe** | Beginnt als Tueren-Knoten: Fahrer, Gate-Leute, Liegeplaetze, Servicebuchten, Nachtfahrten. Wird durch Hwangs Register und Georgijs Verbote zur Ordnung, die groessere Gruppen verschlingt | B5 geplant | Fuehrt am Ende die vereinten Grossen; kleine Gruppen bleiben moeglich, aber unter Regeln. Am Morgen nach Maeng muss Dokkaebi normal weiterarbeiten: keine Rede, keine Legende, nur Namen, Wege, Preise, Verbote und Haftung. Hat operative Fuehrung, aber keine Maeng-Krone |
+| **Joo Man-sik / Mr Joo** | **Dokkaebi-Operator aus dem ersten Tueren-Knoten** | Ende vierzig; Fahrer, Gate-Zeiten, Nachtbuchten, Servicewege. Kein Boss, sondern unterweltlesbares Gesicht fuer Alltag: Anrufe, Wege, Preise, Ausnahmen nach oben | B5 geplant | Fuehrt Dokkaebi operativ nach Maeng. Haelt nicht aus Treue, sondern weil Georgijs Regeln Geschaeft planbar machen und Maengs Willkuer beenden. Darf Nein sagen, aber nie selbst Ende sagen. "Nach oben" heisst: Hwang Reihe/Akte, Jang Raum/Risiko, Georgij Grenze |
+| **Kwon Mu-jin / Mr Kwon** | **Transporttisch, Ulsan** | Neun Lastwagen, keine Schulden, eigener Hof; vier von fuenf Verbandsleuten wuerden ihm folgen. Nicht Unterweltchef, sondern glaubhafte Transportkante | B2 Spur, B5 geplant | Fuehrt Tueren/Transport als Funktionstisch. Macht Routen, Kosten und Haftung lesbar. Darf keine Ausnahme entscheiden |
+| **Na Hye-rim / Ms Na** | **Papier-/Registertisch** | Mittlere Papierfrau aus Kos Schicht; kennt Abstracts, Kategorien, Korrekturzeiten und fehlende Quellen | B5 geplant | Nicht Ko und nicht sauber. Funktioniert, weil Hwang ihr nicht traut: kein Name ohne Person, keine Kategorie ohne Quelle, keine Korrektur ohne Zeit |
+| **Jin Ho-yeol / Mr Jin** | **Schutz-/Durchsetzungstisch** | Kommt aus Tueren, Clubs und Abholungen, also aus der Grenze zwischen Raum und Gewalt | B5 geplant | Kein Maeng-Erbe. Unter Jang darf er Raeume leeren, Menschen abholen, Eskalationen abbrechen und Rueckwege sichern. Er darf nicht bestrafen |
+| **Ko Seok-jin** | **Arbeitsname: Register-/Notariatsreiniger der aktuellen Unterwelt** | Verkauft saubere Zusammenfassungen statt Quellen; macht Menschen zu Unterkunft, Hospitality, Badge, Transport und Dienstleisterzeile | B5 geplant | Erste Papierreaktion auf die Band-4-Sperren; kein alter Choi-/Auktionshausbeweis. Geht am Ende an den Staat, nicht in die 33 |
+| **Maeng Gyu-rok / Mr Maeng** | **Der Warlord der Menschen-/Gewalt-Gruppe** | Fuehrt die schlimmste der drei grossen Gruppen; Frauen, Kinder, Vergewaltigung, Zwangsprostitution, Menschenhandel, Schulden, Einschuechterung. Regiert mit Angst: verletzt Untergebene fuer fehlende Ergebnisse und manchmal auch ohne brauchbaren Anlass. Fuer fast alle wirkt er unlesbar; fuer Georgij ist er logisch, weil seine Grausamkeit Erwartbarkeit zerstoert. Beim Reden grinst er immer; ernst wird er nur, wenn es wirklich ernst ist | B5 geplant | Letzter Gegner des Unterweltbogens; bewegt sich wegen Geschaeftsschaden und luegt wie gedruckt |
+
+### Band-6-Governance
+
+| Figur | Wer das ist | Was | Auftritt | Stand |
+|---|---|---|---|---|
+| **Lim Seong-jae / Mr Lim** | **Alter Governance- und Risiko-Mann in Annies Konzernordnung** | Ende sechzig; seit Annies Vater im System. Nicht korrupt, nicht dumm, nicht Unterwelt. Spricht in Stabilitaet, Fuersorge, Marktvertrauen und Verfahrenssicherheit | B6 geplant | Schlussgegner im technischen Sinn. Nach der Geburt versucht er, grosse Entscheidungen an Annies persoenliche Praesenz oder ein altes Gremium zu binden. Greift damit die Elternregel an und macht Sorge zur Entmachtungsform. Verliert Funktion und Zugriff, nicht sein Leben |
+
+**Erster Maeng-Bruch:** eine umbenannte Servicefahrt, kein grosser Transport.
+Jun findet die zu lange Wartezeit; Hwang macht eine Zeile daraus; Jang liest
+die Menschenbewegung. Der erste Ueberlauf kommt nicht als Beichte, sondern als
+kleine Funktion, die nach Maengs Strafraum nicht die naechste sein will.
+
+**Routing-Regel fuer Band 5:** Ueberlaeufe kommen spaeter aus allen drei
+grossen Gruppen, nicht nur von Maeng. Dokkaebi ist keine Waschanlage:
+kontrollierbare Funktionstraeger koennen unter Register weiterarbeiten,
+gefaehrdete Zeugen bekommen Schutz, und Taeter mit Menschenhandel,
+Vergewaltigung, Zwangsprostitution, Kindern, Mord, Folter, schwerer Erpressung,
+politischer Korruption oder Geldwaesche gehen ueber die
+Band-3-Staatsanwaltschaftsschiene.
+
+**Naechste Front nach Maengs erstem Ueberlauf:** die Papier-/Geld-Gruppe um Ko
+Seok-jin versucht, Maengs Bruch nachtraeglich sauber zu schreiben. Genau diese
+spaete Reinigung macht sie angreifbar: Jun findet die Zeitabweichung, Hwang
+erkennt Kos Abstract-Muster, Wi bestaetigt Terminal/Zoll, Chu routet die Akte,
+Seol ordnet die alte Schutzformel ein. Kleine Papierfunktionen koennen ins
+Register; wissentliches Reinwaschen von Vergewaltigung, Menschenhandel,
+Kindern, Mord, Folter, schwerer Erpressung, politischer Korruption oder
+Geldwaesche geht zur Staatsanwaltschaft.
+
+**Tueren-Pruefung danach:** Die erste Dokkaebi-Gruppe testet Georgijs Regel mit
+einer kleinen, angeblich harmlosen Fahrt ohne echten Namen. Jun findet die
+Luecke, Hwang verlangt die Person hinter der Kategorie, Jang prueft Wagen und
+Endpunkt. Georgij stoppt die Fahrt nicht wegen bewiesenem Inhalt, sondern weil
+eine namenlose Bewegung schon der Bruch ist. Der verantwortliche Torhalter
+verliert Funktion/Zugriff; schwere Taten gehen zur Staatsanwaltschaft.
+
+**Maengs Angriff auf die Schutzschiene:** Sobald Papier/Geld und Tueren nicht
+mehr sauber funktionieren, greift Maeng Schutzraeume, medizinische Versorgung
+und Zeugenwege an. Keine geschuetzte Person wird als Koeder benutzt: Er erreicht
+eine Adresse, Rechnung, Fahrerzeile oder einen leeren Raum, nicht den Menschen.
+Jun sieht Zugriff, Hwang macht die Reihe, Jang bestaetigt die Bewegung,
+Georgij laesst genug laufen, um die Kette zu sehen, und bricht ab, bevor ein
+Mensch beruehrt wird. Daraus wird eine enge Staatsanwaltschaftsakte.
+
+**Erste Haftwelle und vergiftete Akte:** Die erste Haftwelle trifft nicht
+Maeng, sondern Fahrer, falsche Dienstleister, medizinische Kontakte,
+Papierleute und kleine Amtskontakte mit engen Tatbestaenden. Danach versucht
+Maeng, die Staatsanwaltschaftsschiene mit einem zu guten Beweisstueck zu
+vergiften. Chu sieht den falschen Weg, Seol erkennt die alte Methode, Jun findet
+den technischen Bruch, Hwang legt die Sache neben die Hauptreihe. Der neue
+Oberstaatsanwalt macht daraus eine zweite schmale Akte statt einer
+Pressebombe.
+
+**Gegenzug auf Maengs Befehlsweg:** Georgij jagt Maeng nicht frontal. Er nimmt
+die billigen Wege, ueber die Maeng Befehle weitergibt: Fahrer, Konten, Raeume,
+Badges, Dienstleister, medizinische Abnehmer, Kanzleikontakte. Hwang fuehrt
+Kontaktzeiten/Folgehandlungen/Geld, Jun bestaetigt Zugriffe und Muster, Jang
+sortiert Bote/Druckmacher/Entscheider. Maeng kann weiter befehlen, aber nicht
+mehr billig, schnell und unsichtbar.
+
+**Maengs Blutbad:** Nach Papier, Tueren, Schutz und Befehlsweg wird Maeng nicht
+zahnlos. Er veranstaltet ein privates Blutbad in seiner eigenen Randstruktur:
+Fahrer, Reiniger, Abrechner, Papierkontakt, eventuell eine Tuerenfunktion. Keine
+geschuetzte Person, kein Annie-Ziel, kein zufaelliges Publikum. Zweck ist nicht
+Wahnsinn, sondern Angstordnung: Die Moeglichkeit von Ueberlauf soll selbst teuer
+werden. Georgij liest danach Luecken, Ersatz, Reinigung, Zahlungen und Angst;
+daraus entstehen mehr Ueberlaeufe, mehr enge Haftbefehle und weniger Wege fuer
+Maeng.
+
+**Maengs Gegen-Blutbad an Dokkaebi:** Maeng versucht dieselbe Logik an Georgijs
+Rand: frisch registrierter Fahrer, kleine Tuerenfunktion, Dienstleister,
+Uebergabestelle, Ort zwischen Schutz und Register. Nicht Annie, nicht Jun,
+nicht Hwang, nicht Jang als erster Schlag. Ziel ist die Botschaft, dass
+Georgijs Name keinen Schutz kauft. Georgij antwortet doppelt: Versorgung,
+Angehoerige, juristische Reihe und Zahlung fuer den Getroffenen; danach
+vollstaendiges Schliessen des Wegs, ueber den Maeng zugeschlagen hat.
+
+**Dokkaebi-Haftung wird sichtbar:** Nach Maengs Gegen-Blutbad sehen Tueren,
+Papier, Geld, Dienstleister, medizinische Wege und Fahrer zwei Dinge
+gleichzeitig: Der Getroffene bekommt Versorgung/Angehoerigenschutz/Zahlung und
+der Angriffsweg verliert Fahrer, Vermittler, Raum, Konto, Papier, Zugriff,
+Ersatzroute. Georgijs Arbeitsrichtung: *"His name was on our door."* Der Satz
+macht klar, dass es nicht um Unschuld geht, sondern um lesbaren Status unter
+Dokkaebi.
+
+**Die anderen Gruppen kippen aus Risiko:** Keine Treueszene und keine
+Bekehrung. Tueren, Papier und Geld liefern einzelne pruefbare Reihen, weil
+Maengs Gewalt ihr Geschaeft unberechenbar macht. Georgij verlangt keine
+Loyalitaet, sondern Name, Zeit, Funktion, Risiko, Preis. Maeng verliert
+Neutralitaet; Dokkaebi gewinnt Vorherrschaft, ohne sauber zu werden.
+
+**Maeng zwingt Georgij in einen Raum:** Nach dem Neutralitaetsverlust baut
+Maeng eine Lage, in der Wegbleiben wie Schwaeche aussieht. Ziel ist kein
+sofortiger Mord, sondern Rangprobe: Maeng will Georgij zu einer Ausnahme,
+einem Namen, einer Tuer oder einem Zeugenbruch treiben. Georgij geht mit Jang
+sichtbar, Hwang/Jun in zweiter Reihe und vorbereiteter schmaler Akte. Annie ist
+kein Pfand. Ende: kein Endkampf, sondern Maengs persoenliche
+Fortsetzungsmarke.
+
+**Maengs persoenliche Fortsetzung:** Nach dem Rangraum setzt Maeng eine
+verbotene Nacht in Bewegung: Hospitality als Tarnung, Zwangsprostitution als
+Funktion, Vergewaltigung als drohender Kern. Die Frau stand vorher nicht unter
+Georgijs Schutz; sie ist kein Koeder. Jun sieht Buchung/Zugriff, Jang nimmt den
+Raum vor der Tat, Hwang sichert die Reihe, die Staatsanwaltschaft bekommt, was
+tragbar ist. Maeng verliert die Behauptung, Dokkaebi schuetze nur Menschen, die
+schon im Register stehen.
+
+**Spaltung der Menschen-/Gewaltgruppe:** Nach der verbotenen Nacht verliert
+Maengs Gruppe Namenlosigkeit. Es gibt drei Ausgaenge: Schutz/Aussage fuer
+Ware, Zeuginnen und gefaehrdete Randpersonen; Register fuer kontrollierbare
+Funktionen ohne schwere Kerntat; Haft fuer Vergewaltigung, Menschenhandel,
+Zwangsprostitution, Kinder, Mord, Folter, schwere Erpressung, politische
+Korruption oder Geldwaesche. Maeng behaelt den Kern, also die Leute, die nur
+noch durch ihn ueberleben koennen.
+
+**Maengs Kern bekommt keinen Deal:** Sobald nur noch persoenliche Gewalthelfer,
+Halter verbotener Raeume, Ware-Fuehrer, deckende Mediziner, wissentlich
+mitziehende Papier-/Geldleute und Amtskontakte fuer Kerntaten uebrig sind,
+endet Dokkaebi als Auffangbecken. Keine Registerloesung. Georgij isoliert ueber
+Bewegung, Oberflaeche, Beweisreihen, Wiederverwendung, koerperliche Bergung und
+enge Band-3-Akten. Der letzte Zugriff kommt erst, wenn Maeng seine Opfer nicht
+mehr als letzten Besitz benutzen kann.
+
+**Letzter Zugriff auf Maengs Kern:** Reihenfolge fest: erst gefaehrdete
+Menschen raus, dann Wege zu, dann Kerntaeter greifen. Jang/Dokkaebi sichern
+Koerperwege; Hwang/Jun markieren Fahrzeuge, Raeume, Badges, Zahlungen,
+Dienstleister, Medizin und Rueckrufnummern; die Band-3-Staatsanwaltschaft nimmt
+die engen Akten. Maengs letzter Fehler ist ein Versuch, noch einmal Besitz zu
+beweisen. Der Mensch ist nicht mehr dort; uebrig bleiben Taeter, Weg und
+persoenliche Fortsetzung. Finale Maeng-Variante ist nicht offen: Haft ist
+seine Erwartung, nicht sein Ausgang. Sein Ende ist die Exekutionsfrage nach
+vollstaendiger Aufdeckung, auf den Knien, ohne Deal, ohne Aufnahme, ohne freie
+Legende. Haft bleibt fuer die meisten die richtige Strafe, weil sie im
+koreanischen Rahmen Rueckkehr und Rehabilitation denkt. Bei Maeng ist sie nur
+seine Erwartung. Er kann nicht sinnvoll rehabilitiert werden, weil er jeden
+Rahmen als Besitz- und Angstraum benutzt. Einige Leute sterben mit ihm: nicht
+der ganze Kern, sondern die wenigen Nicht-Rehabilitierbaren - chronische
+Moerder, sadistische Gewalttaeter und soziopathische/psychopathische
+Kerntaeter, die auch im Gefaengnis oder danach weiter Opfer, Boten und Angst
+organisieren wuerden. Die Grenze ist Handlungsmuster, nicht Diagnosewort.
+Hwang, Jun und Annie tragen diese Endliste nicht; Hwang liefert Reihen, Jun
+Muster, Jang Wege, Annie danach Naehe. Die Entscheidung bleibt Georgijs
+erstes Blut. Menge fest: 312 Namen aus den drei grossen Organisationen kommen
+in die Endsortierung; 279 gehen an Staat/Haft/Aussage/Schutz, 33 bleiben fuer
+Ende. Von den 33 kommen 24 aus Menschen/Gewalt einschliesslich Maeng, 5 aus
+Tueren/Transport, 4 aus Papier/Geld. Die 312 wachsen aus Besitz/Firmenzugriff,
+Maengs Bruechen, Tueren/Transport, Papier/Geld, Ueberlaeufen und erst zuletzt
+aus der Endsortierung. Der Leser sieht Methode und Beispiele, nicht die Liste.
+Nach dem Abend sieht der Staat 279 Verfahren, die Unterwelt 33 Luecken, das
+Haus den Mann danach, Annie keine Zahl.
+
+**Morgen danach:** Georgij spricht nicht. Hwang verschickt Reihen, Jang haelt
+Tueren ruhig, Dokkaebi arbeitet normal weiter. Wer die 33 als Einladung zu
+eigener Gewalt liest, verliert sofort Weg, Fahrer, Raum und Schutz. Die 279
+Staatsverfahren bleiben sauber und wissen nichts von der geloeschten Liste.
+
+**Nach Maeng bleibt Fuehrung, aber keine Krone.** Die Unterwelt braucht
+Ansprechpartner, Befehlsketten und Gesichter. **Joo Man-sik / Mr Joo** aus dem
+ersten Tueren-Knoten fuehrt den Alltag. Darunter stehen drei Funktionstische:
+Tueren/Transport, Papier/Register, Schutz/Durchsetzung. Hwang fuehrt Reihen,
+nicht die Unterwelt. Jang haelt Raeume, nicht eine Bande. Annie haelt legale
+Oberflaeche. Georgij fuehrt nur Grenzfaelle und Mordgenehmigungen. Ko
+Seok-jin geht an den Staat; er ist kein Endmann. Die vier Papier-/Geld-Leute
+unter den 33 sind diejenigen, die Haftnaehe, Zeugenbruch und Fortsetzung
+selbst organisiert haetten.
+
+**Erster Normalfall nach Maeng:** Georgij ist nicht in der Szene. Joo bekommt
+eine Nachtfahrt/Hospitality-Zeile ohne tragenden Namen; Kwon prueft Route, Na
+verlangt Quelle, Jin haelt Schutz bereit, Hwang bekommt Reihe. Der verbotene
+Koerperweg stoppt ohne Drama. Daneben laeuft ein illegaler, aber nicht
+verbotener Transport weiter: Name, Preis, Route, Zeit, Haftung. So zeigt der
+Text, dass Dokkaebi fuehrt, ohne Georgij Alltag spielen zu lassen.
+
+**Maeng-Referenzen, nur als Funktionsbild:** Homelander fuer performative
+Erhabenheit und Anspruch auf Angst/Zustimmung; Ramsay Bolton fuer sadistische
+Binnenherrschaft; Kefka fuer lachende Zerstoerungslust; Negan fuer Strafe als
+soziale Vorfuehrung; Frieza fuer hoefliche aristokratische Grausamkeit. Keine
+Kopie und kein Genrewechsel - Maeng bleibt ein Mann in Raeumen, Kanaelen und
+Lieferketten.
+
 ### Der Feldzug in Band 2
 
 **Die Reihenfolge ist erzwungen** und steht in `doc/31-plan-band-2.md`: erst die Haende,
@@ -626,7 +869,7 @@ verschwindet, weil sie nichts erfahren durfte.
 | **Mrs Ryu** | **Die Frau, die in Singapur aus dem Schiedsverfahren gegangen ist.** **Nicht Mr Koh** | Georgij fragt sie, ob die Fassung stimmt, die man sich erzaehlt | B1 7 |
 | **Chef Bang Seung-min** | **Koch.** Los neun auf der Benefizauktion | | B1 8 |
 | **Die junge Frau von der Stiftung** | **Mitarbeiterin einer Stiftung** | Vierundzwanzig, bleibt namenlos, und das ist Absicht | B1 7 |
-| **Mr Kwon** | **Ein Name auf der Spur aus Ulsan** | | B2 - |
+| **Kwon Mu-jin / Mr Kwon** | **Ein Name auf der Spur aus Ulsan** | Neun Lastwagen, keine Schulden; wird in Band 5 Transporttisch | B2 -, B5 |
 
 ---
 
@@ -704,7 +947,21 @@ kommt Pyo darum nicht mehr vor. Gesagt wird es einmal, in Kapitel 2. In der Aukt
 
 **Und er bleibt uneingeweiht bis zum Schluss.** Zum Umschlag mit dem Registerblatt sagt er nur *"That is not this instrument"* und *"Then I have not seen it"* - Einloesung seiner eigenen Warnung aus Kapitel 25, und dazu *"I am at home today. The number is the same one"*, was dort *"on a Sunday"* hiess.
 
-**Der letzte Halbsatz ist der Faden.** Er merkt es. Ein Mann, der ein Gebot fuer ein ganzes Unternehmen aufsetzt, das an einem Vorstand scheitern muss, den er selbst auf Seite sechzehn beschrieben hat - und der drei Wochen spaeter eine gedeckelte Vollmacht fuer einen Angestellten ohne Titel aufsetzen soll, mit Verfallsdatum und ohne Begruendung - **rechnet das zusammen.** Er ist nicht dumm, er ist nur nicht gefragt. Wann ihm das zu viel wird und was er dann tut, ist offen.
+**Der letzte Halbsatz ist der Faden.** Er merkt es. Ein Mann, der ein Gebot fuer ein ganzes Unternehmen aufsetzt, das an einem Vorstand scheitern muss, den er selbst auf Seite sechzehn beschrieben hat - und der drei Wochen spaeter eine gedeckelte Vollmacht fuer einen Angestellten ohne Titel aufsetzen soll, mit Verfallsdatum und ohne Begruendung - **rechnet das zusammen.** Er ist nicht dumm, er ist nur nicht gefragt.
+
+**Einloesung in Band 5, festgelegt am 03.09.:** Der Antrag/Ring zwingt Mr
+Chae in die Wahrheit. Gemeint sind nicht Georgijs Arbeits-/Authority-Papiere
+aus Band 4; die gelten und tragen den Werkplot. Gemeint sind auch keine
+fehlenden Ahn-/Jun-/Georgij-Papiere, die erst jetzt repariert werden. **Diese
+Loecher muessen vorher geschlossen sein.** Chae baut aus vorhandenen Reihen
+eine Eheform: Herkunft, Status, Kauf, Schulduebernahme, alte Losnummer,
+eigenes Konto, eigener Lohn, eigene Unterschrift und die Frage, ob daraus
+spaeter ein Angriff auf Annie gebaut werden kann. Er ist kein Verräter und
+kein Boesewicht; er widerspricht korrekt. Eine schnelle, diskrete Ehe koennte
+er zeichnen. Eine Ehe, die ueberlebt, muss den Auktions-/Registereintrag zu
+Los vierzehn beruehren, ohne aus ihm wieder Besitzsprache zu machen.
+Damit wird er der erste innere Gegner im technischen Sinn: auf Annies Seite,
+aber nicht bereit, fuer sie eine Luege ins Fundament zu schreiben.
 
 **Warum er ueberhaupt existiert.** Georgij sagt in Kapitel 19 zu Woo: *"I have nothing to sign with, and that is not modesty. It is the arrangement."* Damit muss es jemanden geben, der unterschreibt und aufsetzt, und dieser Jemand hat ab Kapitel 24 einen Grund, sich zu wundern. **Er ist die einzige Figur im Buch, die auf Annies Seite steht und trotzdem eine Gefahr ist**, und zwar nicht aus Illoyalitaet, sondern aus Kompetenz.
 
@@ -1102,7 +1359,7 @@ Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 
 ### Auf der Spur aus Ulsan
 
-**Mr Kwon** - Neun Lastwagen, keine Schulden, ein Hof mit einer richtig
+**Kwon Mu-jin / Mr Kwon** - Neun Lastwagen, keine Schulden, ein Hof mit einer richtig
 gegossenen Betonschuerze. **Erster Auftritt Band 2, Kapitel 14.** Vier von fuenf
 Mitgliedern des Verbands wuerden ihm in einen Raum folgen, und das ist Jangs
 eigentlicher Fund - **nicht wen sie moegen, sondern wen sie zuerst ansehen,
@@ -1214,6 +1471,13 @@ Neun Personen stehen auf dem Dienstplan, das Essen reicht für zehn.
 **Sie hat kein Papier.** Kein Mietvertrag, kein Anschluss, kein Fahrzeug, kein
 Arbeitsverhältnis, kein Melderegistereintrag - **dieselbe Lage, in der Georgij
 siebzehn Jahre war**, und der Grund, warum er es als Einziger erkennt.
+
+**Grenze dieser Aussage, festgelegt am 03.09.:** Das ist ihr Zustand im Haus
+in Gangwon-do, nicht ihr Zustand nach Band 2. Wenn Ahn Jung-hee gerettet ist,
+muss diese Luecke geschlossen sein: Identitaet, sichere Adresse, medizinische
+Versorgung, Zugriff auf die notwendige Versorgungslinie und keine offene
+Halter-/Trust-/Haushaltsluecke, mit der jemand Annie spaeter greifen kann. Das
+muss nicht als Triumphszene gross werden, aber es ist Ergebnis der Rettung.
 
 **Der Satz ihres Bruders, und er ist ihre Beschreibung:** *"She is the sort who
 fixes the thing in front of her. And the thing in front of her was me."*
@@ -1571,6 +1835,13 @@ Text** (`doc/31-plan-band-2.md:1196`): **Annie hat den Jungen gekauft**, sie
 hat ihn aus dem Katalog nehmen lassen, **er wird seither irgendwo geschult**,
 und **Georgij hat es nie erfahren.**
 
+**Praezisiert am 03.09.:** Diese zwei Jahre sind nicht nur Ausbildung. Sie
+schliessen die Papierfrage. Lee Jun kommt in Band 3 nicht als lose gekaufter
+Minderjaehriger ins Haus, sondern mit Name, Schutzstruktur, Beschaeftigungs-/
+Ausbildungsstatus und Erwachsenen, die fuer diese Form unterschrieben haben.
+Sonst waere Band 3 dieselbe Nachlaessigkeit, die Band 5 spaeter bestrafen
+wuerde.
+
 ### Der Satz, der dann rueckwaerts explodiert
 
 `b1 ch24:218`, von ihm, freiwillig, in seinem Zahlenton gesagt:
@@ -1595,7 +1866,14 @@ und niemand muss ihn zitieren.
 
 **Annie**
 
-1. Ihr Name ist **Hye-jin**, zwei Silben. **Er wird im Buch nie ausgesprochen.** Annie sagt ihn zweimal in b1 K24, und der Text druckt dabei nicht den Namen, sondern *"something in Korean, two syllables"*; auf seine Bitte hin - **"Again."**, nicht *"Say that again"* - sagt sie ihn noch einmal. Das Wort **Hye-jin** steht **genau einmal im ganzen Buch**, kursiv, in der Erzaehlstimme, in seinem Kopf. Der Text sagt es ausdruecklich dazu: ***"He did not say it out loud, then or later."*** **Korrigiert am 27.08. auf Hinweis des Autors**; `doc/05` sagte *"Sie, zweimal, in dieser Szene"*, was zu der Lesart einlaedt, der Name falle in einer Replik.
+1. Ihr Name ist **Hye-jin**, zwei Silben. Annie sagt ihn in b1 K24, und der
+   Text druckt dabei nicht den Namen, sondern *"something in Korean, two
+   syllables"*; auf seine Bitte hin - **"Again."**, nicht *"Say that again"* -
+   sagt sie ihn noch einmal. In B2 32 sagt Georgij ihn auf ihre Aufforderung,
+   aber auch dort druckt der Text den Namen nicht. Das Wort **Hye-jin** steht
+   bis dahin nur in der Erzaehlstimme/in seinem Kopf. **Band 4, Antrag:** Der
+   Name darf zum ersten Mal als gesprochener Name auf die Seite: *"Will you
+   marry me, Hye-jin?"*
 2. **Sie hat keinen Familiennamen**, an keiner Stelle - *"It is on nothing."* Damit ist sie die einzige Figur ohne vollstaendigen koreanischen Namen. Auch b2 K30 druckt ihn nicht.
 3. **Silbensperrliste**, weil im Buch belegt: `Ji-` (Ji-won, Ji-hoon), `Eun-` (Eun-ju), `Min-` (Min-ho), `Seo` (Mrs Seo), `Tae-` (Tae-min), alles auf `-won` (neben den Won-Betraegen, und Jae-won existiert). Der Name klingt bewusst **nicht** nach *Annie*, weil Annie eine Erfindung ist und keine Uebersetzung.
 4. **Der Name `Yun` gehoert genau einem Menschen im Buch**, dem Kuechenjungen; Do-yun steht immer mit beiden Silben. Die zwei Firmen, die kollidierten, heissen seit dem 23.08. **Kyeongil** und **Nam** (b1 K15 v2.7, b1 K18 v1.1).
@@ -1606,7 +1884,11 @@ und niemand muss ihn zitieren.
 
 **Georgij**
 
-9. **Er besitzt nichts** (Regel 2), und der Satz dafuer ist *"I do not have an account for one to go into."* In b2 K4 wird daraus die Anklage statt der Freiheit.
+9. **Er besitzt nichts** (Regel 2), bis Woos Testament am Ende von Band 3 die
+   Regel bricht. Der Satz dafuer ist *"I do not have an account for one to go
+   into."* In b2 K4 wird daraus die Anklage statt der Freiheit. Ab Band 4 gilt:
+   Er besitzt, aber er darf Besitz nicht als Beute, Entschuldigung oder Fessel
+   behandeln.
 10. **Vor b1 K25 hat er nie in seinem Leben etwas unterschrieben.** Seine Unterschrift entsteht in zwei Sekunden und bleibt: der gedruckte Name, keine Schnoerkel.
 11. **Sein Nachname steht nicht im Text, weil Georgij ihn nicht ablegt.** Die Papiere wurden in der zweiten Oktoberwoche regularisiert.
 12. **Er haelt mit Frist zurueck, Annie ohne** (b2 K3). Das ist der Unterschied zwischen den beiden.
@@ -1661,7 +1943,7 @@ und niemand muss ihn zitieren.
 125. **Do Kyung-ae ist Ahn Jung-hee.** Der fehlende Papierbestand beweist keinen falschen Namen, sondern dass die Person nie aufgeschrieben wurde - **dieselbe Lage, in der Georgij siebzehn Jahre war.**
 126. **Moon Hae-sook.** Vaters Firma machte Schiffsbeschlaege, in den Neunzigern verkauft. **Die Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, **und Sim weiss es bis heute nicht.**
 127. **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft, **vierhundertelf Hochzeiten in dreissig Jahren**, seit vier Jahren zu. *"Thirty years, and the useful thing about me is that I've got nothing left."*
-128. **Mr Kwon**, vierundfuenfzig, macht es seit seinem zweiundzwanzigsten Jahr, also **zweiunddreissig Jahre.**
+128. **Kwon Mu-jin / Mr Kwon**, vierundfuenfzig, macht es seit seinem zweiundzwanzigsten Jahr, also **zweiunddreissig Jahre.**
 129. **Mr Pyeon**, einer der fuenf, Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen. **Er spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in `12-stimmen`.
 130. **Mr Tak**, seit Ende August im Haus in Gangwon-do; er gibt seinen Nachnamen ungefragt und nennt sie zweimal *"the lady"*.
 131. **Woos Finanzier aus b1 K13** (*"what would happen to the terminal if I died on the Tuesday"*) **ist nicht Choi** und darf nie mit ihm verwechselt werden. Der Text benennt sie ausdruecklich als zwei Maenner.

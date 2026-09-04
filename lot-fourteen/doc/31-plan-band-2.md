@@ -328,6 +328,14 @@ Punkt ist, ist ein Gegenstand, um den zwei Maenner streiten. Bindend dagegen:
   sie sagt im Hof, dass Moon Hae-sook keine Hilfe wollen wuerde. **Wer weiss,
   wofuer sie vier Jahre da war, liest beide Stellen ein zweites Mal.**
 
+**Papierschluss, festgelegt am 03.09.:** Ahn Jung-hees Papierlosigkeit darf
+nicht in Band 5 offen sein. Sie ist der Zustand im Haus, nicht das Ergebnis der
+Rettung. Der Band muss sie am Ende nicht mit einer Triumphszene versehen, aber
+die Rettung schliesst praktisch: Identitaet, sichere Adresse, medizinische
+Versorgung, Zugriff auf die Versorgungslinie und keine Halter-/Trust-/
+Haushaltsluecke, mit der Annie spaeter gegriffen werden kann. Alles andere
+waere keine harte Konsequenz, sondern Nachlaessigkeit.
+
 **Und genau dann verliert Choi zum ersten Mal in seinem Leben** - nicht weil sie
 stirbt, sondern weil sie lebt und es nichts mehr mit ihm zu tun hat. Das Konto
 schliesst sich, und er hat es nicht geschlossen.
