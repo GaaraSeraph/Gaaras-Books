@@ -34,14 +34,14 @@ Alles davor gilt.
 
 | Frage | Wo der Stand steht |
 |---|---|
-| **Wer die Gegner sind** | *Gegner 1: ein echter Freund von Choi*, *Der Hanseong-Inhaber: ja, mit einer Korrektur*, und **zuletzt** *Lot elf: Annie hat ihn gekauft, und der Kaeufer-Gegner faellt*. **Platz drei ist offen. Lot elf ist Georgijs Protege und kein Gegner** |
+| **Wer die Gegner sind** | *Gegner 1: ein echter Freund von Choi*, *Der Hanseong-Inhaber: ja, mit einer Korrektur*, und **zuletzt** *Lee Jun / Los elf: Annie hat ihn gekauft, und der Kaeufer-Gegner faellt*. **Platz drei ist offen. Lee Jun ist Georgijs Protege und kein Gegner** |
 | **Singapur** | *Singapur: die Tatsachen* und *Und daraus wird trotzdem kein Gegner*. **Kein Gegner, aber Band 5 braucht die Tatsachen** |
 | **Woos zwanzig Prozent** | *Fassung Woo ist entschieden* hier, und die vollstaendige Lage in `doc/14-welt.md` |
 | **Das Erbe** | *Der Umfang des Erbes: entschieden am 29.08.* und *Woo vererbt* |
 | **Die Grabszene** | *Die Grabszene, und sie loest das Singapur-Problem* |
 | **Der Wangenkuss** | *Die Szene: Sang-hoon stellt sie vor die Wahl* (Text) und *Der Wangenkuss steht jetzt in der Sang-hoon-Szene* (Begruendung) |
 | **Das Bandende** | *Das Ende von Band 3, umgestellt am 29.08.* |
-| **Lot elf** | *Los elf kommt in Band 3 zurueck* und die zwei Abschnitte danach |
+| **Lee Jun / Los elf** | *Los elf kommt in Band 3 zurueck* und die zwei Abschnitte danach |
 | **Der Chaebol-Angriff** | *Der Angriff auf den Chaebol laeuft ueber Anteile und die Boerse*, *Die Hanseong-Gruppe, aufgemacht*, *Shorten* |
 
 **Wo diese Datei und `doc/14-welt.md` dieselbe Sache behandeln, gilt
@@ -55,7 +55,8 @@ zweimal fuer das Streichen zweier Zeilen bezahlt hat. Das erste ist Georgij,
 Los vierzehn, am 4. Oktober.
 
 **Das zweite ist Los elf, und der Autor hat am 27.08. bestaetigt, dass es in
-Band 3 eingeloest wird.**
+Band 3 eingeloest wird.** Sein Name ist **Lee Jun**. Bis zur Namensgabe bleibt
+"Los elf" die Katalogbezeichnung; ab dem Haus ist er Jun.
 
 **Der Text von Band 1, Kapitel 1 legt es vollstaendig aus**, und zwar bevor
 irgendjemand wusste, wozu:
@@ -246,6 +247,32 @@ He looked at the window, and then at Annie, and then at the sheet on the desk. H
 "Thank you." Georgij did not put anything round it. "I consider you a friend, and I would like to go on doing it."
 
 He picked the sheet up himself on his way past, which nobody had asked him to do.
+
+**Am 02.09. festgelegt: Das Blatt verschwindet nicht.** Die Claude/Flo-Fassung
+der Szene bleibt: Das Blatt liegt zuerst als Waffe vor Annie, Preis *Him*,
+Ablehnung, Georgijs Frage an Chairman Park. Danach wird das Blatt physisch
+umgewidmet, nicht aus der Szene entfernt.
+
+Sang-hoon nimmt es kurz zurueck, macht den Leerverkaufsauftrag unbrauchbar
+und laesst das Datum sichtbar. Keine grosse Geste: eine Linie durch Auftrag,
+Menge oder Ausfuehrung, Initialen oder ein knapper Vermerk reichen. Wichtig:
+**Er streicht nicht das Datum.**
+
+Dann legt er dasselbe Blatt wieder auf Annies Tisch. Beim ersten Liegen musste
+sie es upside down lesen, weil es Druck war. Beim zweiten Liegen ist es zu
+ihr gedreht, weil es Protokoll ist: derselbe Weg, nicht benutzt.
+
+**Symbolik:** Das Blatt war Sang-hoons alte Sprache - Druck, Preis, Timing,
+Erpressung. Nach der Entwertung ist es die Nicht-Tat eines Freundes. Es bleibt
+bei Annie, weil es als Preis fuer Georgij vor ihr lag. Spaeter kann Georgij
+Hans eigenes datiertes Papier danebenlegen: zwei Daten, zwei Wege. Sang-hoon
+hat seinen zurueckgenommen. Han hat seinen selbst geschrieben.
+
+**Der Anschluss darf vor Sang-hoons Abgang liegen.** Er muss nicht sofort zur
+Tuer. Nach der Entwertung kann das Gespraech noch die reine Handlungsform
+festhalten: Sie brauchen ein anderes Datum, nicht Sang-hoons, sondern Hans.
+Georgij nimmt das nicht als neuen Einfall, sondern als Bestaetigung dessen,
+wofuer die Vorbereitung da war.
 
 At the door he stopped, and he did it without turning round.
 
@@ -854,6 +881,367 @@ vorwirft, hat dann ueber etwas Groesseres recht als ueber den Tod.
 **Das ist eine Entscheidung des Autors und keine des Textes.** Sie steht hier,
 damit sie eine ist.
 
+### Vorlauf vor Gongs Sturz: Staatsanwaelte, Ministerien, Ausfuehrung
+
+**Festgelegt am 02.09.:** Bevor Gong fallen kann, muss Georgij die staatliche
+Seite aufbauen. Nicht als gekauftes Netzwerk, sondern als Reihe von Menschen,
+die wahre Dinge sehen, richtig einordnen und in dem Moment aufsteigen koennen,
+in dem die falschen Leute unhaltbar werden.
+
+**Er braucht drei Ebenen:**
+
+1. **Ehemalige Oberstaatsanwaelte und alte Staatsanwaelte.** Sie liefern
+   Kontext, keine Befehle: Dinner-Listen, Beförderungswege, alte
+   Fallzuweisungen, wer 2002 wen gesetzt hat, welche politischen Namen immer
+   in denselben Raeumen sassen. Sie wissen nicht zwingend alles, aber sie
+   wissen, welche Fragen man nicht stellt, wenn man in Seoul alt werden will.
+2. **Ministerien und Behoerden.** Justiz, Finanzen/Finanzaufsicht,
+   Wettbewerb, Transport/Hafen, Zoll und Steuer. Minister Min-ho steht schon
+   im Buch und kann als Tuer dienen, aber die Arbeit liegt nicht bei den
+   Ministern, sondern unter ihnen.
+3. **Die ausfuehrenden Stellen.** Ermittler, Referatsleiter, Sachbearbeiter,
+   Pruefer, Zollleute, KYC-/AML-Menschen, Hafen- und Versicherungsbeamte.
+   Diese Ebene bekommt am meisten direkt mit: welche Akte wandert, wer
+   anruft, welche Nummer nicht passt, welche Rueckfrage ploetzlich verboten
+   wirkt.
+
+**Das Verfahren bleibt seins:** Georgij verlangt nichts. Er legt wahre Dinge
+hin und laesst sie liegen. Wer danach weiterarbeitet, tut es aus eigenem
+Grund: Karriere, Scham, Ehrgeiz, Angst vor dem falschen Namen auf der
+falschen Akte, oder weil jemand zum ersten Mal seine Arbeit ernst nimmt.
+
+**Beförderungen sind die Ernte, nicht der erste Schritt.** Georgij setzt
+niemanden in ein Amt. Er macht die brauchbaren Leute sichtbar und die
+geschuetzten Leute unhaltbar. Einige bekommen vor Gongs Fall
+stellvertretende oder kommissarische Macht, weil gerade dort jemand gebraucht
+wird, der eine wahre Akte tragen kann. Nach Gongs Fall kann der neue
+Oberstaatsanwalt aus diesem vorbereiteten Kreis kommen.
+
+**Was Shipping/Banking/Singapur daran leisten:** Der
+Credit/Jinyang/Singapur-Zug liefert die technische Finanzkette: Geld,
+Zwischenfirmen, alte Banken, neue Sicherheiten, schwarze Kassen. Die
+ehemaligen Staatsanwaelte und die Ministerien liefern die politische
+Uebersetzung: welche Politiker dreckiges Geld hineingesteckt haben, wer das
+schwarze Netzwerk gebaut hat, und welche staatlichen Stellen es jahrelang
+nicht sehen sollten.
+
+**Damit wird Gong angreifbar, ohne selbst schmutzig sein zu muessen.** Seine
+fachlich saubere Akte beruehrt ploetzlich Material, das groesser ist als sein
+Verdacht gegen Georgij. Fuer die Spitze ist er nicht gefaehrlich, weil er
+falsch liegt, sondern weil er eine vertretbare Auswahl trifft, die nur jemand
+mit seinem privaten Grund so treffen wuerde.
+
+**Bandgrenze:** In Band 3 wird genug politisches Material sichtbar, um Gong
+abzusaegen und Georgijs Staatsanwaltschaftskontakte aufzubauen. Die
+vollstaendige Wahrheit ueber die politische Schleuse und das schwarze
+Netzwerk gehoert weiter Band 5. Politiker werden in Band 3 Material, keine
+Gegner auf der Buehne.
+
+### Die drei Traeger der Wahrheit vor Gongs Fall
+
+**Festgelegt am 02.09.:** Diese Schiene ist plausibel, solange sie nicht wie
+ein heimliches Ministeriumsnetzwerk wirkt. Georgij baut keine Regierung unter
+der Regierung. Er markiert Menschen, die eine wahre Akte tragen koennen, wenn
+die falschen Leute unhaltbar werden.
+
+1. **Der alte Staatsanwalt ist die Landkarte.** Ein ehemaliger
+   Oberstaatsanwalt oder alter Choi-Kollege bekommt von Georgij keinen
+   Auftrag, sondern einen wahren Rand: Hanseong, 2002, Zoll, Singapur, Choi.
+   Seine Funktion ist nicht Hilfe, sondern Einordnung. Wenn diese Akte kommt,
+   darf sie nicht bei Gong liegen.
+2. **Die Ministeriumsmitte ist die Schiene.** Minister Min-ho ist nur die
+   Tuer. Die eigentliche Figur sitzt darunter: Referatsleiter, Vizedirektor,
+   Aufsichtsmensch. Diese Person weiss, welche Beamten nicht gekauft sind,
+   sondern bisher nur zu niedrig sassen, und wer kommissarisch tragen kann,
+   wenn oben jemand faellt.
+3. **Die ausfuehrende Ebene sind die Sensoren.** Zoll, Hafen,
+   Finanzaufsicht, KYC/AML, Versicherung. Sie sehen zuerst, welche Nummer
+   nicht passt, welche Firma immer wieder auftaucht, welche Rueckfrage
+   verboten wird. Spaeter wirken ihre Befoerderungen verdient, weil ihre
+   alten Notizen ploetzlich wahr werden.
+
+**Wie Min-ho und Kang hinein kommen:** Beide werden benutzt, aber nicht als
+Georgijs Leute.
+
+* **Minister Min-ho ist die vorhandene Tuer ins Justizministerium.** Er hat
+  im Buch schon Gewicht und muss deshalb nicht neu erfunden werden. Seine
+  Funktion ist ein Zimmer, ein Verteiler, ein Name auf einer Einladung. Er
+  bringt Georgij nicht die Loesung, sondern **Chu Hye-ran** in Reichweite:
+  Ministeriumsmitte, Personal-/Disziplinarwege, kompetent, dankbar, weil
+  Georgij eine alte richtige Entscheidung von ihr beweisbar macht.
+* **Kang ist die vorhandene Tuer nach Incheon, Zoll und Hafen.** Er ist nicht
+  dankbar, sondern beruehrbar, weil seine alte Unterschrift an der
+  Umwidmung/Statusspur haengt. Er hilft nicht aus Treue, sondern weil die
+  Wahrheit sonst durch seine eigene Akte laeuft. Ueber Kang wird
+  **Wi Gyeong-taek** sichtbar: ausfuehrende Ebene, alte Zoll-/Hafen-Notiz,
+  vor Jahren uebergangen, jetzt ploetzlich der Mensch, der als Erster recht
+  hatte.
+
+**Namen, Stand jetzt:** **Seol Gwan-ik** ist der alte Staatsanwalt, die
+Landkarte fuer Choi/Gong/2002. **Chu Hye-ran** ist die Ministeriumsmitte, die
+weiss, wer tragen kann. **Wi Gyeong-taek** ist der Sensor bei Zoll/Hafen. Die
+weiteren Kontakte bleiben Aktennamen, Verteiler und Hwang-Saetze, damit der
+Band nicht in eine Ministeriumsserie kippt.
+
+**Wann Gong angreift:** innerlich beginnt er am neunundvierzigsten Tag, aber
+sichtbar greift er erst an, wenn er ein Muster hat: nach Shipping und nach
+dem Credit/Jinyang/Singapur-Bruch, bevor Motors faellt. Dann kann er die
+Reihenfolge als Markt-/Amtsmissbrauch lesen: Behoerdenkontakt, Kursbruch,
+Annie kauft, Hwang arbeitet in Woos Buero, und dieselben Namen tauchen in
+Singapur auf. Sein Angriff richtet sich gegen Hwang, Handelsdaten,
+Kommunikationswege und die Frage, wer die Behoerden wann gefuettert hat.
+
+**Wie Han Gong ausloest:** Han erkennt nach Credit/Jinyang/Singapur, dass er
+Annie und Georgij ueber den Markt nicht schnell genug stoppen kann. Also tut
+er das Naheliegende fuer einen Chaebol-Inhaber: Er laesst keinen dunklen
+Anruf laufen, sondern eine formal saubere Beschwerde.
+
+**Hans Beschwerde ist nicht gelogen.** Sie zaehlt dieselben Punkte, die auch
+Gong sehen kann: auslaendischer Berater, Behoerdenhinweise, Kursbruch,
+Short-/Derivatseite, Cash-Bids, Hwang in Woos Buero, Verbindung zu Annie,
+Singapur-Namen in derselben Kette. Sie ist interessengeleitet, aber
+plausibel.
+
+**Dadurch bekommt Gong den Anlass, den er innerlich schon wollte.** Er
+reagiert nicht nachlaessig und nicht gekauft. Er reagiert auf einen
+glaubwuerdigen Vorgang. Sein Fehler liegt in der Auswahl und Tiefe: Er geht
+zu tief auf Georgij, Hwang, Choi und 2002, statt die Sache sauber an die
+Markt-/Finanzschiene abzugeben.
+
+**Georgij stoppt das nicht.** Kein Loeschen, kein Hack, keine Drohung. Er
+laesst die Papiere reisen, weil sie genau zu Seol, Chu und Wi laufen. Han
+glaubt, er kauft Zeit; tatsaechlich gibt er Gong den Anlass, sich selbst aus
+dem Spiel zu schreiben.
+
+### Und Georgij fuehrt das herbei
+
+**Vom Autor klargestellt.** Das ist keine Gelegenheit, die er nutzt, sondern eine, die er baut.** Der
+Plan hat das an zwei Stellen richtig beschrieben und an zwei anderen als
+Zufall gerahmt. Es gilt die erste Fassung, und sie ist die haertere.
+
+**Der Grund ist Annie und nichts sonst.** Gong ist der einzige Gegner in
+drei Baenden, der nicht gekauft, ausgesessen oder getauscht werden kann,
+weil er nichts nehmen will. Ein solcher Mann mit einer Akte in der Hand ist
+**eine Waffe, die auf sie zeigt**, und Georgij laesst keine Waffe stehen,
+die nah genug an sie herankommt.
+
+**Der Text sagt es bereits selbst**, im privaten Nachsatz nach dem Sturz:
+
+> "He was a loose end," said Georgij. "I do not leave loose ends close
+> enough to touch you."
+
+**Was das an der Mechanik aendert: nichts. Was es an der Figur aendert:
+alles.** Die Reihenfolge bleibt, wie sie steht - Hans Beschwerde, Gongs
+Akte, der Kompetenzentzug, die saubere Ausfahrt, die Erweiterung. **Aber
+Georgij weiss, wohin der Mann springen wird, bevor er ihm die Ausfahrt
+hinlegt.** Er macht sie leicht, weil ein leichter Ausweg fuer diesen Mann
+unertraeglich ist, und er legt den Satz daneben, der ihn nicht liegenlassen
+laesst:
+
+> "Let Choi stay in the ground, Mr Gong."
+
+**Damit ist es das Choi-Verfahren, an einem ehrlichen Mann.** Bei Choi hat
+er die Lage so eingerichtet, dass der Mann sich selbst erledigt. Hier tut er
+dasselbe mit einem, der nichts falsch gemacht hat ausser dem, was er nach
+der Provokation tut. **Das ist der Preis der Szene und er wird nicht
+wegerzaehlt.**
+
+**Und die Regel bleibt trotzdem heil.** `b2 ch44:52`: eine Drohung hat eine
+Anweisung darin. In dem Satz steht keine. **Er verlangt nichts, er legt
+etwas Wahres hin und geht** - und dass er weiss, was der andere damit tun
+wird, macht es nicht zu einer Drohung, sondern zu etwas Schlimmerem.
+
+**Was daraus fuer den Text folgt, und es ist eine Schreibanweisung:**
+
+* **Der Leser darf es beim ersten Lesen nicht sicher wissen.** Die Szene
+  mit der Ausfahrt liest sich als Angebot. Erst der Nachsatz an Annie dreht
+  sie um, und dann ist sie rueckwaerts eine andere Szene.
+* **Georgij sagt nirgends, dass er es geplant hat.** Er sagt den Grund, und
+  zwar kalt, und das genuegt.
+* **Annie widerspricht nicht.** Sie hat in `b2 ch90` gehoert, was er tut,
+  wenn etwas auf sie zeigt. **Das hier ist die erste Anwendung nach dem
+  Satz**, und sie erkennt sie.
+
+**Tagesrhythmus und Plausibilitaet:** Shipping morgens, Credit/Singapur
+frueher Nachmittag, Hans Beschwerde spaeter Nachmittag, Gongs Papiere Abend
+oder Nacht. Am naechsten Morgen verliert Gong nicht sein Amt, sondern die
+Sachkompetenz/Verfahrensfuehrung fuer diese Akte: Die
+Hanseong/Credit/Singapur-Sache wird als markt-, finanz- und zollbezogener
+Vorgang klassifiziert und in die zustaendige Schiene gezogen. Keine weiteren
+Sicherungsanordnungen ueber seine Schiene, keine eigenstaendigen Vorladungen
+von Hwang oder Georgij, Annie-Teil geloest oder loesbar. Das kann schnell
+gehen, weil es kein Amtssturz ist. Motors kann danach sauber starten.
+
+**Der Amtssturz kommt spaeter.** Nach dem Kompetenzentzug besucht Georgij ihn
+und gibt ihm die Ausfahrt. Gong oeffnet danach eine neue oder Nebenakte gegen
+die Umleitung selbst. Erst dieser zweite Amtsakt fuehrt ueber Tage und Wochen
+zum Absaegen vom Posten: Disziplinarweg, verlorene Rueckendeckung,
+vorbereiteter Nachfolger. Fuer den Boersenzug reicht, dass Gong aus der
+Hanseong-Akte heraus ist; fuer seinen Fall reicht, dass er danach trotzdem
+weitermacht.
+
+**Georgijs Besuch bei Gong:** Nach der ersten Zuständigkeits-/Konfliktwarnung
+geht Georgij zu Gong, allein, ohne Annie, ohne Hwang. Der Besuch ist offiziell
+genug, dass er nicht wie Bestechung wirkt, und kalt genug, dass Gong ihn
+nicht als Unterwerfung lesen kann. Georgij bringt ihm die saubere Loesung:
+Hwangs Zugriffe sind nach Timestamp oder Vorbereitung ohne Handelsausfuehrung,
+die Behoerdenkontakte haben eigene Anlaesse, Annie kauft nach oeffentlichen
+Ereignissen und bietet Paketinhabern alte Preise, Hans Beschwerde stuetzt
+sich auf Hans eigenes Rettungspapier. Die Akte kann gegen Annie geloest
+zugehen und in die zustaendige Hanseong/Credit/Singapur-Schiene abgegeben
+werden. Nichts darf auf Annie zeigen.
+
+**Die Verfuehrung:** Georgij macht Gong die Ausfahrt nicht schwer, sondern
+leicht. Genau das macht sie fuer Gong unertraeglich. Wenn er die saubere
+Loesung nimmt, sieht es fuer ihn aus, als lasse er zu, dass ein Haus den
+Staat bereits sortiert hat und ein Staatsanwalt wieder aus einer wahren Sache
+herausgeschoben wird. Also gibt Georgij ihm den wahren, haesslichen Satz, den
+Gong nicht liegenlassen kann:
+
+> "Let Choi stay in the ground, Mr Gong," said Georgij. "I have spent enough
+> of this year cleaning up what he did. Whatever was done to him, he earned
+> worse."
+
+**Anrede:** `Mr Gong` ist die kaeltere Fassung, weil Georgij ihm den Rang
+nimmt, waehrend er mit ihm spricht. `Chief Prosecutor Gong` ist die
+formellere Messerfassung, wenn die Szene staerker auf das Amt gehen soll.
+Inhaltlich steht der Satz mit `Mr Gong`.
+
+**Was Gong danach tut:** Er erweitert die Akte nicht gegen Annie, sondern
+gegen die Umleitung selbst. Wichtig: Es duerfen keine bloss verspaeteten
+Ruecklaeufer aus seinen ersten vier Papieren sein. Solche Antworten koennte
+er sauber weiterleiten. Der zweite Fehler braucht neue Amtsakte nach dem
+Kompetenzentzug.
+
+* **Neues Aktenzeichen / neuer Betreff.** Nicht mehr Hanseong-
+  Marktmissbrauch, sondern sinngemaess: `possible improper influence on
+  prosecutorial routing`. Er macht die Umleitung selbst zum Verdacht.
+* **Neue Anfragen an Kontrollinstanzen.** Wer hat Seol informiert? Warum lag
+  Chu auf dem Verteiler? Wann wurde Wi hinzugezogen? Welche Kontakte gab es
+  zwischen Hwang/Georgij und Ministerium, Zoll, Finanzaufsicht? Wer hat
+  entschieden, dass Gong die Akte nicht weiterfuehrt?
+* **Neue Sicherungs- oder Vorladungsversuche.** Kommunikationsmetadaten von
+  Chu, Wi oder Seol, erneute Sicherung oder Vorladung Hwangs, alte
+  2002-/Choi-Verbindungen als Begruendung, interne Vermerke, dass die
+  Zuständigkeitsentscheidung selbst Teil des Einflusses sein koennte.
+
+**Die Grenze:** Er durfte verspaetete Antworten empfangen. Er durfte nicht
+die Leute untersuchen, die ihm die Akte rechtmaessig weggenommen haben. Das
+ist der Absaegegrund. Nicht Befangenheit allein, sondern dass Gong nach einer
+sauberen Loesung neue Amtsmittel gegen die Kontrollinstanzen einsetzt, die
+seine Zuständigkeit pruefen.
+
+**Gongs sichtbarer Angriff besteht aus vier Papieren:**
+
+1. **Sicherungsanordnung gegen Hwang.** Keine Verhaftung und keine
+   Thriller-Razzia. Gong will Hwangs Kommunikationswege, Abendzugriffe,
+   Kalender, Handelsnaehe und die Verbindung zwischen Woos Buero und
+   Georgijs Arbeit sichern. Das trifft Georgij indirekt und ist objektiv
+   begruendbar.
+2. **Anfrage an die Finanzaufsicht.** Reihenfolge: Behoerdenhinweis,
+   Kursbewegung, Short/Derivate, Cash-Bids, Paketkaeufe. Jede einzelne
+   Tatsache stimmt, aber in dieser Ordnung sieht es wie Marktmissbrauch aus.
+3. **Anfrage an das Justizministerium.** Nicht wegen Georgij direkt, sondern
+   wegen Amtswegen: Wer hat welche Behoerde wann informiert, wer hat welche
+   Akte gesehen, und warum lief die Sache nicht ueber Gong. Dadurch landet
+   das Papier bei Chu Hye-ran.
+4. **Rueckfrage an Zoll/Hafen/Incheon.** Singapur, Shipping, alte
+   Incheon-Spur, externe Bestaetigungen. Dadurch landet das Papier bei Wi
+   Gyeong-taek, also genau bei dem Mann, dessen alte Notiz ploetzlich wahr
+   geworden ist.
+
+**Der Fehler darin:** Gong denkt, er baut eine Zange um Georgij. Tatsaechlich
+verteilt er seine fachlich vertretbare, aber falsch gewichtete Akte in die
+drei vorbereiteten Systeme. Seol erkennt nicht Schlamperei, sondern Auswahl:
+warum dieser Vorgang zuerst, warum diese Tiefe bei Georgij und Hwang, warum
+diese alte 2002-Linie im Hintergrund, warum bleibt die Sache bei Gong statt
+bei der zustaendigen Markt-/Finanzschiene. Chu erkennt den Amtsweg, Wi
+erkennt die wahre Zahl. Niemand muss fuer Georgij luegen; sie muessen nur die
+Akte so lesen, wie Gong sie selbst geschrieben hat.
+
+**Warum das gut ist:** Gong bedroht damit nicht den Anfang des Feldzugs,
+sondern seine Fortsetzung. Er kommt genau in dem Moment, in dem die Serie
+weiter zu Motors springen muesste. Dadurch wird sein Fall nicht eine
+Nebenepisode vor dem Boersenzug, sondern die staatliche Gegenbewegung im
+Boersenzug.
+
+**Szenenoekonomie:** Eine echte Szene mit dem alten Staatsanwalt, eine kurze
+Ministeriums- oder Korridorszene fuer die Schiene, der Rest ueber Hwang,
+Aktenrander, Namen auf Verteilern und Anrufe von unten. Politiker bleiben in
+Band 3 Aktenmaterial, keine Buehnengegner.
+
+**Funktion fuer Gong:** Wenn Gongs Akte sichtbar wird, faellt sie nicht in ein
+leeres System. Oben weiss jemand, dass ein sauberer Ersatz moeglich ist; in
+der Mitte weiss jemand, wohin die Akte gehoert; unten haben Leute laengst die
+falschen Zahlen gesehen. Gong verliert nicht gegen ein Komplott, sondern
+gegen die Ordnung, die er selbst verletzt hat: Er schreibt keine schlechte
+Akte. Er schreibt eine gute Akte mit falschem Schwerpunkt.
+
+**Das ist die Sicht des Systems und nicht die Wahrheit ueber Georgij.** Von
+aussen faellt Gong an sich selbst, und jeder Beteiligte kann das ehrlich so
+sagen. **Herbeigefuehrt ist es trotzdem** - siehe *Und Georgij fuehrt das
+herbei*. Beides gilt gleichzeitig, und genau daraus besteht die Szene.
+
+**Finales Gespraech mit Gong nach dem Absaegen:** Georgij kommt nicht, um zu
+triumphieren. Er nimmt Gong die letzte bequeme Erklaerung: Es gab keinen
+Komplott mit den Obersten gegen ihn. Noch nicht. Das ist nicht Georgijs
+Methode. Er arbeitet mit der Wahrheit und mit dem Zeitpunkt, an dem Wahrheit
+nuetzlich wird.
+
+Moeglicher Kern:
+
+> "There was no conspiracy above you, Chief Prosecutor Gong. Not yet. That is
+> not how I work."
+>
+> "Then how do you work?"
+>
+> "With what is true."
+
+Georgij zeigt ihm die Reihenfolge, nicht eine Prahlerei: Wi hatte die
+Zoll-/Hafen-Notiz schon vorher; Chu hat nur den zustaendigen Amtsweg gezogen;
+Seol hat keinen Befehl gegeben, sondern den Konflikt erkannt; Han hat selbst
+die Beschwerde geliefert; Gong hat nach sauberer Ausfahrt erweitert.
+
+> "I did not corrupt your office. I gave it something true when it became
+> useful to me."
+>
+> "That is corruption."
+>
+> "No," said Georgij. "That is timing."
+
+Der eigentliche Schlag:
+
+> "You had a clean way out. You had a clean file. You had a clean referral.
+> You turned it because you wanted me in it."
+>
+> "Because you were in it."
+>
+> "No. Because Choi was."
+
+Damit merkt Gong, dass nicht Georgij gegen Gongs Ehrencodex verstossen hat,
+sondern Gong selbst: Georgij hat Korruption aufgedeckt, als es fuer ihn
+passte. Gong hat das Amt gebogen, weil er Georgij in Chois Geschichte
+brauchte.
+
+Finaler Stich:
+
+> "You were right about one thing," said Georgij. "A house should not be
+> allowed to remove an honest prosecutor."
+>
+> Gong looked at the file.
+>
+> "But I did not remove one."
+
+**Privater Nachsatz an Annie nach Gongs Fall:** Georgij erklaert ihr nicht
+den ganzen Mechanismus. Er sagt den Grund, und er sagt ihn kalt:
+
+> "He was a loose end," said Georgij. "I do not leave loose ends close enough
+> to touch you."
+
+Das ist kein Mordcode. Gemeint sind Akten, Beweise und offene Zeugenketten,
+die ein Gegner nah genug an Annie bringen koennte, um sie zu beruehren. Gong
+war ein offener Aktenvektor gegen sie, und Georgij hat ihn geschlossen.
+
 ---
 
 ## Sang-hoons vierzig Prozent: warum die Szene in der Mitte keine Drohung ist
@@ -922,6 +1310,31 @@ auf, mit dem Sang-hoon einmal seinen Wert begruendet hat.
   Forderung ist faellig.
 * **Szene vor dem Hanseong-Zug:** sie kauft sich mit einem Mann in ein
   Unternehmen ein, dem sie gerade gesagt hat, dass sie lieber brennt.
+
+**Entschieden am 02.09.:** Die Sang-hoon-Szene steht **nach der
+Hauptvorbereitung und vor dem oeffentlichen Boersenzug**. Nicht am Anfang des
+Feldzugs und nicht nach dem Sturz.
+
+**Was vorher erledigt sein muss:** Han hat Annie ueber Zeit angegriffen,
+Hwangs Spalte hat die Absicht messbar gemacht, der Boardroom hat Georgij die
+Erlaubnis zum Zaehlen gegeben, und Georgij hat die Gruppe weit genug gelesen:
+Shipping als Tuer, Credit/Jinyang als Finanzseite, Motors und Electronics als
+wahr marktfaehige Schwachstellen, Singapur als Kette, dazu Geschwister,
+Anteilseigner, Glaeubiger, Kunden und die Leute unterhalb der Vorstaende.
+Die Maschine ist fast gebaut, aber noch nicht oeffentlich ausgeloest.
+
+**Was die Szene tut:** Sie liefert nicht die Loesung, sondern die Negativform
+der Loesung. Sang-hoons datiertes Blatt waere der einfache, schmutzige Weg:
+ein Short mit Uhrzeit, ein Datum vor der Veroeffentlichung, ein Preis fuer
+Georgij. Annie lehnt ihn ab, Georgij haelt Sang-hoon in der Freundschaft, und
+das Blatt wird entwertet. Danach ist klar, was fehlt: **nicht Sang-hoons
+Datum, sondern Hans eigenes Datum.**
+
+**Der Anschluss danach:** Sang-hoon kann bleiben und die Form der naechsten
+Handlung benennen, ohne eine neue Erpressung daraus zu machen: sie brauchen
+ein anderes Datum, nicht seins, sondern Hans. Georgijs Antwort ist sinngemaess
+nicht Ueberraschung, sondern Bestaetigung: **das war geplant.** Er hat die
+Hauptarbeit gemacht, damit Han nur noch falsch reagieren muss.
 
 ## War das mit den fuenf Verladern Erpressung? Nachgelesen, und die Antwort ist geteilt
 
@@ -1240,20 +1653,24 @@ Datum.
 bricht sie fuer Geld, und Georgij hat in zwei Baenden nie Geld genommen und
 besitzt keins.
 
-**Die Fassung, die beides behaelt, und sie ist besser als beide:
-Sang-hoon shortet.**
+**Die Fassung, die beides behaelt, und sie ist besser als beide, ist seit dem
+02.09. berichtigt: Sang-hoon shortet nicht. Er bringt den vorbereiteten Short
+als datiertes Blatt in den Raum.**
 
 Er hat vierzig Prozent von Shipping, er weiss, was kommt, und er hat nach
 `b2 ch04:110` etwas zurueckgehalten und behalten. **Ein Leerverkauf von ihm
-ist Geld und Beweis in einem** - er verdient daran, und seine Position
-beweist, dass er es vorher wusste.
+waere Geld und Beweis in einem** - er wuerde daran verdienen, und seine
+Position wuerde beweisen, dass er es vorher wusste.
 
 **Damit hat jeder von beiden etwas gegen den anderen**, und die Szene in der
-Mitte hat ihren Grund: er verlangt Georgij dafuer, nicht auszusagen - und
-Georgij kann ihm entgegenhalten, womit der Mann selbst gehandelt hat.
+Mitte hat ihren Grund: er legt Annie den schmutzigen, datierten Weg hin und
+nennt Georgij als Preis. Annie lehnt ab, Georgij haelt Sang-hoon an dessen
+eigener alten Rechnung fest, und Sang-hoon entwertet den Auftrag, ohne das
+Datum zu streichen.
 
 **Und Annie hat nichts genommen.** Der Satz aus `ch20:194` bleibt stehen, und
-er wird in Band 3 der einzige sein, den sie noch hat.
+er wird in Band 3 der einzige sein, den sie noch hat. Sang-hoons Blatt bleibt
+als Nicht-Tat im Raum, bis Hans eigenes Datum danebenliegen kann.
 
 ### Die tote Bank, ausfuehrlich
 
@@ -1406,11 +1823,13 @@ genuegt. **Je kleiner sie ist, desto weniger sieht sie nach Gier aus und desto
 mehr nach Beweisfuehrung** - und ein Mann, der wenig gesetzt hat, wirkt vor
 einem Staatsanwalt nicht wie ein Mittaeter, sondern wie ein Zeuge.
 
-**Und genau da liegt sein Preis.** Er kann seinen eigenen kleinen Verstoss
-zugeben, um ihren grossen zu liefern. Staatsanwaelte handeln damit taeglich.
-Er verbrennt sich ein wenig, um sie ganz zu verbrennen - **und das ist der
-Mann, der sagt, er zahle, was es kostet, nicht mehr darueber nachdenken zu
-muessen.**
+**Und genau da liegt sein Preis.** In der alten Fassung haette er seinen
+eigenen kleinen Verstoss zugegeben, um ihren grossen zu liefern. **Seit dem
+02.09. ist das sauberer:** Er legt den ausfuehrbaren Verstoss als Blatt hin,
+mit Datum, und zeigt damit, was er tun koennte, ohne es am Ende zu tun. Er
+verbrennt sich nicht; er zeigt Annie den Brandbeschleuniger und nimmt ihn
+wieder vom Tisch - **und das ist der Mann, der sagt, er zahle, was es kostet,
+nicht mehr darueber nachdenken zu muessen.**
 
 **Was Georgij dagegen hat, und warum die Szene ausgeht, wie sie ausgeht.**
 Derselbe Auftrag ist Sang-hoons eigener Verstoss. Beide halten dasselbe Blatt
@@ -1499,13 +1918,24 @@ seine Rechnung nicht mit ihr allein.**
 
 ## Die Grabszene, und sie loest das Singapur-Problem
 
-**Vom Autor am 28.08. vorgegeben.** Georgij besucht das Grab und trifft Woo
-dort. Und er sagt ihm, dass seine zwanzig Prozent frei sind.
+**Vom Autor am 28.08. vorgegeben, am 02.09. juristisch korrigiert.** Georgij
+besucht das Grab und trifft Woo dort. Er sagt ihm nicht, dass die zwanzig
+Prozent schon Woo gehoeren. Er sagt ihm, dass niemand sie jetzt gegen Woo
+durchsetzen kann - und Woo versteht sofort, dass er sie kaufen muss, damit
+sie wirklich sein sind.
 
 **Damit kippt der ganze Faden.** Bisher stand da: wer die Kette aufmacht,
 legt Woos zwanzig Prozent frei, und das ist der Kollateralschaden, den der
-Autor nicht wollte. **Jetzt ist es kein Schaden, sondern das Geschenk** - und
-es ist das erste, das Georgij je gemacht hat, das etwas wert ist.
+Autor nicht wollte. **Jetzt ist es kein Schaden, sondern das Geschenk** - aber
+das Geschenk ist die saubere Gelegenheit zum Rueckkauf, nicht das Eigentum
+selbst.
+
+**Am 02.09. gegen eine falsche Monitorraum-Fassung abgegrenzt:** Das Geschenk
+gehoert Georgij und an das Grab. Annie darf es vorher erlauben, mehr nicht.
+Sie sagt Woo nicht, was gekauft werden kann, und sie nimmt Georgij diesen
+Moment nicht ab. Der Credit/Singapur-Zug kann die Papiere technisch
+freilegen; er bezahlt die Grabszene aber erst spaeter, wenn Georgij Woo am
+Grab gegenuebersteht.
 
 ### Der Text
 
@@ -1535,11 +1965,17 @@ Woo worked out that he did not mean the stone.
 
 "Say it anyway."
 
-"The twenty per cent is still on the register and it is still theirs." He did not decorate any of it. "It came out of the same place as a great many other things and it went with them. There is nobody who can ask you for it, and there will not be."
+"The twenty per cent is still on the register and it is still theirs." He did not decorate any of it. "It came out of the same place as a great many other things and it went with them. There is nobody who can ask you for it now."
 
 Woo did not say anything for a long moment.
 
-"How much did that cost you."
+"Then it is not mine."
+
+"No."
+
+"Good," said Woo. "Then I can buy it."
+
+"How much will that cost me."
 
 "Nothing I am going to put in front of you today."
 
@@ -1647,12 +2083,19 @@ for you."*
 
 **Und Georgijs Satz am Grab muss dazu genau sein.** Nicht *is not owed to
 anybody now* - das waere eine Behauptung ueber Eigentum, die er nicht belegen
-kann. Sondern:
+kann. Und auch nicht: *es ist schon deins*. Sondern die juristisch saubere
+Trennung:
 
-> *"There is nobody who can ask you for it, and there will not be."*
+> "There is nobody who can ask you for it now."
+>
+> "Then it is not mine."
+>
+> "No."
+>
+> "Good," said Woo. "Then I can buy it."
 
-**Das ist wahr, es ist praezise, und es ist kleiner als das, was er ihm
-tatsaechlich gegeben hat.** So redet er.
+**Das ist wahr, es ist praezise, und Woo bekommt keine Gabe, die ihn
+beschmutzen wuerde.** So redet diese Szene.
 
 ---
 
@@ -1870,11 +2313,32 @@ steht.
 
 ## Und die zwanzig Prozent: Fassung Woo ist entschieden
 
-**Vom Autor am 28.08. bestaetigt.** Erst unerreichbar, dann verwertet, dann
-kauft Woo zurueck, fuer sehr wenig, **und er besteht darauf zu zahlen.**
+**Vom Autor am 28.08. bestaetigt, am 02.09. gegen die falsche Kurzformel
+gesichert.** Erst unerreichbar, dann verwertet, dann kauft Woo zurueck, fuer
+sehr wenig, **und er besteht darauf zu zahlen.**
 
-Georgijs Satz am Grab bleibt bei der genauen Fassung: *"There is nobody who
-can ask you for it, and there will not be."*
+**Platzierung, am 02.09. bestaetigt:** Die Grab-Szene sitzt nach Yeom und vor
+Motors/Electronics. Yeom hat die leeren Firmen lesbar gemacht; Georgij hat
+dadurch genug, um Woos zwanzig Prozent nicht nur zu markieren, sondern sauber
+aus der Kette zu loesen. Bevor er Motors und Electronics nimmt, bringt er Woo
+das eine Stueck zurueck, das nicht Annie gehoeren soll.
+
+**Die Funktion:** Nach Gong hat Georgij einen ehrlichen Staatsanwalt
+zerbrochen; nach Yeom hat er Freundschaft nicht erwidert. Am Grab tut er
+etwas, das wirklich Gabe ist, aber in seiner Sprache bleibt: Er nimmt
+jemandem eine kuenftige Forderung vom Hals. Annie hat es erlaubt, aber sie
+schenkt es nicht. Es ist Georgijs Moment mit Woo und Woos Frau.
+
+Georgijs Satz am Grab darf nicht bedeuten: *es gehoert dir schon*. Die genaue
+Fassung ist:
+
+> "There is nobody who can ask you for it now."
+>
+> "Then it is not mine."
+>
+> "No."
+>
+> "Good," said Woo. "Then I can buy it."
 
 ---
 
@@ -2311,15 +2775,41 @@ time."*
 und sie kann es nicht zurueckgeben. Das ist `b2 ch82:260` zu Ende gefuehrt:
 *I have given myself a date.*
 
-### Der Brief an beide: das Terminal, und dass sie damit aneinanderhaengen
+**Inhaltlich ist dieser Brief Zeugenmaterial und kein Trost.** Er beantwortet
+nicht in Annies Reihenfolge, sondern in Woos:
 
-Die Urkunde, so geteilt, dass keiner allein handeln kann. **Das ist der
-Segen**, und Woo wuerde ihn nicht so nennen. Er schreibt ihn als Anordnung und
-bestreitet, dass es eine Gabe ist.
+1. **wie Choi an den Tisch ihres Vaters kam;**
+2. **was ihr Vater wusste und was er nicht wissen wollte;**
+3. **welche Teile belegbar sind und bei wem;**
+4. **was nur Woo sagen kann, weil nur er in diesem Raum war.**
+
+> *Your third question is first, because it is the only one that dies with me.*
+
+### Der Brief an beide: das Testament, und dass sie damit aneinanderhaengen
+
+Zuerst seine Leute, mit Namen und Betrieben. Dann die Gruppe an Georgij und
+Annie, fuenfzig zu fuenfzig, so geteilt, dass keiner allein handeln kann.
+Kein Verkauf, keine Verpfaendung, keine Eingliederung und keine grosse
+Entscheidung ohne beide Namen. Bei Uneinigkeit faellt alles an die
+Belegschaftsstruktur.
+
+**Das ist der Segen**, und Woo wuerde ihn nicht so nennen. Er schreibt ihn als
+Anordnung und bestreitet, dass es eine Gabe ist.
+
+> *I have made it inconvenient on purpose. Convenient things are sold.*
+
+**Kein sofortiger sichtbarer Job.** Das waere fuer Band 4 zu frueh, weil
+Georgijs stiller Name am Anfang noch ein Werkzeug ist und Hanseong zuerst
+repariert werden muss. Woo zwingt nicht in sein Terminal und nicht in einen
+Titel, sondern in spaetere sichtbare Verantwortung.
+
+> *You may hold it quietly while it is being made safe. You may not profit from it quietly.*
+
+> *Before either of you takes one won out of this, both names will have stood where the work is done.*
 
 ### Der Brief an Georgij, und der steht seit Band 1 bereit
 
-**Das ist der Fund.** `b1 ch12:146`, Kang am Telefon:
+**Der Fund bleibt.** `b1 ch12:146`, Kang am Telefon:
 
 > "On Saturday you asked me for guidance. **Chairman Woo has told several
 > people that you asked him the same thing, in almost the same words, some
@@ -2330,27 +2820,47 @@ vierzehn Tagen, als die Bitte noch echt war. **Und Woo hat es mehreren Leuten
 erzaehlt.** Zwei Jahre spaeter sagt derselbe Mann, dass ihn niemand mehr etwas
 fragt.
 
-**Also ist Woos Brief an Georgij die Fuehrung, um die er gebeten wurde** -
-gegeben von einem Mann, den danach nie wieder jemand gefragt hat, zwei Jahre
-zu spaet, an dem einzigen Tag, an dem sie nicht mehr beantwortet werden kann.
+**Stand 02.09.:** Der Brief darf laenger sein. Das Problem war nicht die
+Laenge, sondern der Inhalt der alten Fassung: zu viel Dankesliste, zu wenig
+letzter Woo-Zug. Woo schreibt keine Therapie und keine Bitte um Reife. **Er
+gibt die Fuehrung, um die Georgij ihn gebeten hat**, aber so, dass Georgij sie
+nicht zurueckgeben kann.
 
-**Und die Schaerfe daran ist, dass Regel 1 haelt und es dadurch schlimmer
-wird.** `b1 ch11:66`: *"I asked him for guidance on land and zoning and port
-status, **because it is a real gap and asking is cheaper than covering it.**
-It was the second time I had used that tonight."*
+**Die aktive Fassung hat zwei Bewegungen:** erst geht Woo zu seiner Frau,
+dann laesst er Annie und Georgij miteinander zurueck.
 
-**Die Luecke war echt. Das Verfahren war es auch.** Georgij hat nicht gelogen
-und er hat auch nicht die zweite Haelfte gesagt. **Woo hat nur die erste
-gehoert und zwei Jahre daran festgehalten.**
+> *I am going to my wife.*
 
-**Das ist die einzige Rechnung im Buch, die Georgij nicht bestreiten kann**,
-weil ihm niemand etwas vorwirft und weil der Mann, der sie ausstellt, tot ist
-und freundlich bleibt.
+> *She waited badly when I was late for dinner, and I have been late for some years.*
+
+> *That is mine. This next part is yours.*
+
+> *You asked me for guidance in your first fortnight. This is the part I could not give you while I was alive.*
+
+> *I answered the question you put in front of me. It was not the answer you needed.*
+
+> *A man can be selfish by refusing as cleanly as by taking.*
+
+> *I know the value of a quiet name. Use it while the thing is still bleeding. Do not call that ownership when it begins to pay.*
+
+> *I have arranged the document so that refusal is also a signature.*
+
+> *Sign the papers.*
+
+> *If you cannot do it for yourself, do it because otherwise she will have to hold both halves.*
+
+> *I am not giving you anything. I am leaving two people a problem they are better suited to than I was.*
+
+> *Do not leave her to own what you were too clean to touch.*
+
+**Damit wird das Testament Pflicht statt Geschenk.** Georgij kann nicht
+ablehnen, ohne Annie etwas aufzubuerden. Das ist die einzige Falle, die Woo
+ihm aus dem Grab heraus stellen darf.
 
 ## Das Ende von Band 3, umgestellt am 29.08.
 
 **Der Autor: der richtige Kuss gehoert vor die Beisetzung und vor die
-Bekanntgabe des Testaments.**
+Oeffnung der Briefe.**
 
 ### Und damit liegt er vor Woos Tod, nicht knapp davor
 
@@ -2368,9 +2878,44 @@ Zwischen beidem gibt es kein Fenster. **Also vor dem Tod.**
 2. **Der Kuss.** Woo lebt noch, es liegt nichts auf dem Tisch, **und Georgij
    besitzt weiter nichts.**
 3. **Woo stirbt.**
-4. **Die beiden Umschlaege**, am selben Tag.
+4. **Die drei Briefe**, am selben Tag.
 5. **Die Beisetzung**, und dort nimmt sie vor mehreren hundert Leuten seine
    Hand.
+
+### Der konkrete Kuss-Beat: kein Publikum, keine Papiere
+
+**Der Kuss passiert nicht im Spiegelraum und nicht vor Han.** Han bekommt
+seine Niederlage, aber er bekommt nicht diesen Augenblick als Publikum. Sonst
+wuerde der Kuss wie eine Strafe fuer ihn wirken und nicht wie etwas zwischen
+Annie und Georgij.
+
+**Der Ort ist zu Hause, nach dem Spiegelraum.** Keine Akten auf dem Tisch,
+keine Umschlaege, kein Testament, kein Tod. Woo lebt. Georgij besitzt nichts.
+Er kommt noch in Arbeitsform zurueck und berichtet weiter, obwohl Annie schon
+aufgestanden ist. **Sie erwischt ihn mitten im Reden, ohne vorher zu reden.**
+
+Sie nimmt ihm den Bericht aus der Hand, legt ihn hinter sich auf den Tisch
+und tritt in die Stelle, an der eben noch Papier war. Dann kuesst sie ihn auf
+den Mund, ohne Ankuendigung.
+
+**Der Kuss dauert nicht nur einen Augenblick.** Georgij denkt nach dem ersten
+Stillstand nicht weiter. Der Satz ist weg, das Papier ist weg, die Rechnung
+ist weg. Erst spaet kommen seine Haende hoch, nicht als Anspruch, sondern als
+Antwort darauf, dass sie bleibt. Er haelt sie, weil sie ihn laesst.
+
+**Danach erklaert sie den Kuss nicht.** Annie bleibt praktisch:
+
+> **"You have not eaten."**
+
+Der Nachhall bleibt kurz und nuechtern. Georgij geht mechanisch essen,
+funktioniert korrekt, antwortet offenbar richtig, aber erinnert nichts davon:
+
+> *He must have answered all of it correctly, because nothing went wrong.*
+>
+> *He remembered none of it.*
+
+Der Kuss sagt: **Ich habe gesehen, was du getan hast.** Der Satz danach sagt:
+**Ich werde es nicht erklaeren.**
 
 ### Was die Umstellung kauft, und es ist viel
 
@@ -2388,7 +2933,7 @@ gibt es dort einen eigenen Grund.**
 **4. Und das letzte Drittel des Bandes gehoert damit einem Mann, der gekuesst
 worden ist und immer noch nichts besitzt.** Das ist die schaerfste Fassung von
 Regel 2, die dieses Buch je haben wird, **und sie dauert genau bis zu dem
-Vormittag, an dem ein Anwalt zwei Umschlaege aufmacht.**
+Vormittag, an dem ein Anwalt drei Briefe aufmacht.**
 
 ### Was es kostet
 
@@ -2400,6 +2945,19 @@ die Hand hinhaelt (`b2 ch90:138`), und er sie nicht nimmt, sondern ihre
 Fingerspitzen kuesst. **Band 3 schliesst
 damit, dass sie sie nimmt, wo alle es sehen** - und das ist die Tuer zu Band
 4, wo die Naehe nach dem Ring oeffentlich wird.
+
+**Die konkrete Bewegung:** Georgij steht bei Woos Beisetzung am Rand, dort,
+wo ein Mann steht, fuer den keine oeffentliche Linie sauber passt. Er ist im
+Testament, aber als Name noch nicht oeffentlich; er ist bei Annie, aber nicht
+als Angehoeriger; er kann keinen Kondolenzumschlag schreiben, und diesmal
+muss er auch keinen.
+
+Annie sieht, dass er falsch steht, und loest es ohne Satz. Sie nimmt seine
+Hand vor den Leuten. **Der entscheidende Unterschied zu Band 2 ist, dass er
+nicht ausweicht.** Er schaut auf ihre Haende, wartet einen Augenblick, und
+dann schliesst er seine Hand um ihre.
+
+> *Then he closed his hand around hers, where everyone could see it.*
 
 **Damit steigt es dreimal und wiederholt sich nie:** Wange in der Bandmitte,
 Mund vor dem Tod, Hand vor Zeugen.
@@ -2514,6 +3072,22 @@ den Sprecher sagt: **er kann nicht sehen, was vor ihm steht, weil er nur eine
 Sorte Gegner kennt.**
 
 **Daran verliert er.** Nicht an einer Zahl. **An einem Kategorienfehler.**
+
+### Die beruhigende Regel im Boardroom
+
+**Festgelegt am 02.09.:** Han darf die ungeschriebene Chaebol-Regel
+halb aussprechen, aber nicht als Drohung. Er sagt sie als herablassende
+Beruhigung an Annie: Sie solle die Lage nicht ueberschaetzen; Haeuser
+zerstoeren einander nicht vollstaendig.
+
+Moegliche Linie:
+
+> "You need not look so grave, Chairwoman. We do not destroy one another completely. There are courtesies between houses, once they have been houses long enough."
+
+Das ist doppelt giftig: Er stellt sein Haus ueber ihres, behandelt die Regel
+als etwas, das Annie noch nicht gelernt haben kann, und beruhigt sie genau mit
+dem System, das sie spaeter nicht schuetzen wird. In der Szene wird das nicht
+ausbuchstabiert. Es muss wie Standesarroganz klingen, nicht wie Exposition.
 
 ### Die Gefahr: ein inkompetenter Gegner macht den Sieg wertlos
 
@@ -2760,6 +3334,14 @@ tut**, bis jemand es ihm sagt, der keinen Grund hat, freundlich dabei zu sein.
 **immer** etwas, nur weniger als der Haupterbe. **Und ueber sie kauft man
 Anteile.** Nicht alle machen mit. Viele.
 
+**Am 02.09. mit dem Boersenzug verbunden:** Die Geschwister sind nicht nur
+Vorlaufkaeufe aus Akt I, sondern ein Teil der spaeteren Kontrollmechanik. Der
+freie Markt wird nach den oeffentlichen Nachrichten genommen; die
+entscheidenden Familienhalter bekommen danach den Preis von vorher. Das ist
+teuer und deshalb glaubwuerdig. Sie verkaufen nicht an einen Raubzug, sondern
+aus einem Haus heraus, dessen aeltester Sohn ihre Anteile als Brennmaterial
+fuer seinen Namen benutzt hat.
+
 ### Der Anker liegt auf der Gala, und er ist woertlich
 
 `b1 ch07:174`:
@@ -2820,12 +3402,59 @@ billig waren.** Und jetzt kassiert er das ein.
 **Das ist die Sorte Rechnung, die in Band 3 aufgemacht gehoert**, und es
 braucht dafuer keine Reue, sondern nur jemanden, der es ausspricht.
 
+### Szenenoekonomie: drei Geschwister, ein externer Anteilseigner
+
+**Festgelegt am 02.09.:** Nicht jeder Han-Geschwisteranteil bekommt eine
+Szene. Drei Familienhalter reichen als Gesichter; die anderen laufen ueber
+Hwangs Listen, Telefonate, unterschriebene Vorbedingungen, Kurznachrichten
+und Summen auf Papier.
+
+**Die drei gezeigten Typen:**
+
+1. **Die fruehe Verkaeuferin ist die Frau von der Gala.** Die aus der
+   Foundation, die nach neun Minuten mit Georgij gerader stand (`b1 ch09:48`).
+   Sie verkauft nicht aus Mut, sondern weil sie ihr Leben lang wusste, dass
+   das Haus ihr weniger gehoert als dem aeltesten Sohn. Georgij muss ihr
+   keinen Hass verkaufen; er muss ihr nur den Ausgang zeigen. Sie
+   unterschreibt frueh eine bedingte Verkaufszusage zum Preis von vorher.
+   Vollzug erst spaeter.
+2. **Der beleidigte Bruder nimmt den alten Preis.** Er hasst, dass Annie
+   gewinnt, und er hasst Georgij dafuer, dass er in einem Raum steht, in dem
+   er nie haette zaehlen duerfen. Aber nach Credit/Jinyang/Singapur sieht er,
+   dass Han seine Sicherheit als Stuetze fuer den Namen verbrennt. Er
+   verkauft nicht freundlich. Er verkauft, weil er nicht mit untergeht.
+3. **Die zuerst ablehnende Person kommt durch Hans naechste Reaktion.** Sie
+   sagt zuerst nein, aus Name, Familie, Stolz. Nicht dumm und nicht leicht.
+   Dann benutzt Han in der naechsten Stufe ihren Anteil, ihre Stiftung, ihre
+   Eheverbindung oder ihre Sicherheit als Brennstoff. Sie verkauft nicht,
+   weil Georgij besser redet, sondern weil Han sie selbst zu Annie treibt.
+
+**Weitere Geschwister werden nur erzaehlt.** Sie muessen zaehlbar sein, nicht
+alle sichtbar. Das Buch braucht die Wirkung der Familie, nicht acht neue
+Portraits.
+
+**Weitere Anteilseigner bekommen hoechstens ein Gesicht.** Einer ausserhalb
+der Familie darf sprechen, damit klar wird, dass es nicht nur ein
+Familienputsch ist. Alle anderen Anteilseigner bleiben Zahlen, Pakete,
+Fristen, Unterschriften und Preise. So bleibt Hanseong gross, ohne den Band
+mit neuen Nebenfiguren zu verstopfen.
+
+**Der externe Anteilseigner kennt die Chaebol-Regel.** Alter Industrieller,
+Versicherer oder Familienholding; jemand, der nicht aus Liebe zu Annie
+verkauft und nicht aus Hass auf Han. Er verkauft, weil Han sein eigenes Haus
+unlesbar gemacht hat und weil niemand seinen Namen unter Hans naechstes
+Papier setzen will. Dialog spaeter, aber die Achse ist:
+
+> "I was not asked to choose between houses. I was asked whether I wanted my
+> name under his next paper."
+
 ---
 
-## Los elf kommt in Band 3 zurueck, sechzehn und ausgebildet
+## Lee Jun kommt in Band 3 zurueck, sechzehn und ausgebildet
 
-**Vom Autor am 28.08. festgelegt**, und er hat recht damit, dass es schon
-festgeschrieben war - nur nicht mit einem Band daran.
+**Vom Autor am 28.08. festgelegt**, Name am 03.09.: **Lee Jun**, und er hat
+recht damit, dass es schon festgeschrieben war - nur nicht mit einem Band
+daran.
 
 **Was in den Dokumenten schon steht:**
 
@@ -2839,7 +3468,8 @@ festgeschrieben war - nur nicht mit einem Band daran.
 * `doc/14-welt.md` - Los elf wurde aus dem Katalog **zurueckgezogen**, und das
   ist der Praezedenzfall.
 
-**Neu ist damit nur: der Band, das Alter, und dass die Ausbildung fertig ist.**
+**Neu ist damit nur: der Band, das Alter, der Name, und dass die Ausbildung
+fertig ist.**
 
 ### Das Alter, und der Katalog bekommt zwei Jahre zu spaet recht
 
@@ -2896,20 +3526,21 @@ bezahlt und es ihm verschwiegen.
 
 ---
 
-## Los elf: wie er ist, und wer ihn auftaut
+## Lee Jun (Los elf): wie er ist, und wer ihn auftaut
 
-**Vom Autor am 29.08. festgelegt.** Wissbegierig, lernt schnell, **lieber
-still als redend - aus Angst, das Falsche zu sagen.** Dass er ueberhaupt
-verkauft wurde, sitzt ihm tief in den Knochen. **Er vertraut nicht wirklich.**
+**Vom Autor am 29.08. festgelegt.** Name am 03.09.: **Lee Jun**. Wissbegierig,
+lernt schnell, **lieber still als redend - aus Angst, das Falsche zu sagen.**
+Dass er ueberhaupt verkauft wurde, sitzt ihm tief in den Knochen. **Er vertraut
+nicht wirklich.**
 
 **Das ist nicht Schuechternheit, das ist eine erlernte Rechnung**, und Georgij
 hat dieselbe gemacht: `b1 ch24:168` - *He had wanted things at nine years old
 and had stopped, **because a boy in that trade who wants something has told**
 [somebody something].*
 
-**Der Junge schweigt aus demselben Grund, aus dem Georgij aufgehoert hat, etwas
-zu wollen.** Nur ist Georgij daraus ein Werkzeug geworden und der Junge ist
-noch mitten darin.
+**Jun schweigt aus demselben Grund, aus dem Georgij aufgehoert hat, etwas zu
+wollen.** Nur ist Georgij daraus ein Werkzeug geworden und Jun ist noch mitten
+darin.
 
 **Und deshalb darf Georgij ihn nicht auftauen.** Er ist der Beweis dafuer, dass
 die Rechnung stimmt. **Das Haus taut ihn auf.**
@@ -2973,9 +3604,9 @@ selbst gebracht wurde.
 
 ---
 
-## Der Junge wird Bediensteter, und er lernt so, wie Georgij gelernt hat
+## Lee Jun wird Bediensteter, und er lernt so, wie Georgij gelernt hat
 
-**Vom Autor am 29.08. festgelegt.** Los elf kommt als **Bediensteter** ins
+**Vom Autor am 29.08. festgelegt.** Lee Jun kommt als **Bediensteter** ins
 Haus, und Georgij nimmt ihn **ab und zu mit**, damit er **still lernt und
 danach fragt, wenn die Lage vorbei ist.**
 
@@ -2985,13 +3616,178 @@ Raum fragt, sagt dem Raum, dass er etwas nicht verstanden hat.
 
 **Und es beantwortet die offene Frage von oben, ohne sie zu loesen.** Georgij
 lernt ihn nicht an, und er laesst ihn auch nicht unbrauchbar. **Er nimmt ihn
-mit.** Der Junge sieht, was zu sehen ist, und Georgij entscheidet jedes Mal
+mit.** Jun sieht, was zu sehen ist, und Georgij entscheidet jedes Mal
 neu, was er beantwortet.
 
 **Wichtig, damit es nicht ruehrend wird: die Fragen kommen hinterher, und sie
 sind gut.** Ein Junge, der zwei Jahre geschult wurde und vorher in dem Handel
 war, fragt nicht, was ein Wort bedeutet. **Er fragt, warum Georgij an einer
 Stelle nichts gesagt hat.**
+
+### Lee Jun als lebendes Buch von Band 3
+
+**Festgelegt am 02.09.:** Lee Jun ersetzt in Band 3 funktional das Buch aus
+Band 2. Nicht als Symbol, das dauernd sichtbar herumsteht, sondern als
+lebendes Buch: Er sieht, was Georgij ordnet, und zwingt Georgij spaeter mit
+guten Fragen, Methode auszusprechen, ohne dass der Erzaehler erklaeren muss.
+
+**Er ist nicht im ersten Boardroom mit Han.** Das Treffen gehoert Annie,
+Georgij, Hwang, Han und Ryu. Der Junge darf spaeter an den Folgen lernen,
+nicht an der ersten Ohrfeige.
+
+**Am 03.09. konkretisiert: Lee Jun hat in Band 3 vier sichtbare Schritte, und
+keiner davon darf zur eigenen Rettungsquest werden.**
+
+1. **Ankunft frueh im Band.** Nach Gong, vor dem vollen Hanseong-Feldzug:
+   gleicher Flur, Mrs Seo, Halsband. Annie sagt Georgij nichts. Georgij merkt
+   es trotzdem an Alter, Haltung und falscher Ruhe. Der knappe Kern ist:
+
+> "Name?"
+>
+> "Lee Jun."
+>
+> "Use it."
+
+2. **Georgij versteht Annies zweiten Gefallen.** Nicht als Exposition und
+   nicht sofort als Gespraech: Jun nennt November oder die Ruecknahme aus dem
+   Katalog, Georgij rechnet, und danach weiss er, dass Annie ihn wegen seiner
+   Frage nach Lot eleven gekauft hat. Die Szene darf das nicht sauberreden.
+
+> "You bought him because I asked."
+>
+> "Yes."
+>
+> "You did not tell me."
+>
+> "No."
+>
+> "I do not know what that is."
+>
+> "Neither do I."
+
+3. **Die erste gute Frage kommt hinterher.** Jun war nicht bei Han im
+   Boardroom, aber er sieht, was danach passiert: Papier, Timing, Hwang,
+   Annies Ruhe, Georgijs Arbeit. Seine Frage ist nicht gross, sondern genau:
+
+> "Why did you answer after he insulted her, and not before?"
+>
+> "Because before that it was business."
+
+4. **Der Schluss setzt Band 4 auf.** Nach Hanseong, Woo und der Beisetzung
+   fragt Jun nicht nach Freiheit als grosses Wort, sondern praktisch:
+
+> "What happens to me now?"
+>
+> "You learn. Then you decide what it is for."
+
+Damit ist die Bruecke nach Band 4 gesetzt: Lee Jun geht nicht mit, weil
+Georgij ihn besitzt. Er geht mit, weil Georgij ihm Werkzeug gibt.
+
+### Einsatzregeln fuer Lee Jun im Schreibchat
+
+**Festgelegt am 03.09.:** Lee Jun ist in Band 3 keine eigene Rettungsquest
+und kein Nebenprotagonist. Er ist eine leise Einsatzfigur: ein Junge, der
+lernt, wie Georgij Raeume, Listen, Papier, Bildschirme und Schweigen liest.
+
+**Grundregel:** Jun darf in eine Szene, wenn seine Anwesenheit Georgijs Methode
+sichtbar macht. Er bleibt draussen, wenn seine Anwesenheit Annies und Georgijs
+Achse, eine private Szene oder eine klare Machtdemonstration verwischen wuerde.
+
+**Er darf mit bei:**
+
+* Papierwegen, Bueroauftraegen, Listen, alten Registern und Uebergaben.
+* Hwangs Spalten, Hwangs Telefonaten und allem, was Jun als Abgleich sehen
+  kann, ohne es schon zu verstehen.
+* Dem Monitorraum ab **Credit / Jinyang / Singapur**, nachdem Shipping Annie
+  gehoert und der Satz *"Next"* gefallen ist.
+* Szenen, in denen Georgij arbeitet und Jun erst danach eine gute Frage
+  stellen kann.
+
+**Er bleibt draussen bei:**
+
+* dem ersten Boardroom mit Han;
+* dem Kern der Sang-hoon-Szene, in der Georgij als Preis auf dem Tisch liegt;
+* dem Shipping-Moment im Monitorraum: *"Bring me Shipping"* bis *"Shipping is
+  yours, Mistress"* gehoert Annie und Georgij;
+* Gong/Choi, solange der Vorwurf direkt auf Georgij zeigt;
+* jeder Szene, in der Jun nur eine Erklaerhilfe fuer den Leser waere.
+
+**Im Monitorraum gilt:** Jun kommt erst nach *"Next"* hinein oder wird erst
+dann vom Text bemerkt. Er sitzt oder steht hinten, nicht am Tisch. Er sieht
+Annie still neben Georgij, Hwang auf Lautsprecher, den Trading-Leiter auf der
+zweiten Leitung und den Monitor, auf dem Georgij die Kette liest. Er bekommt
+kleine Aufgaben, die wie Hilfsarbeit aussehen und Methode sind:
+
+* Namen in zwei Listen markieren.
+* Einen Timestamp neben eine Registerzeile legen.
+* Eine Spalte offen halten, waehrend Hwang spricht.
+* Ein Blatt bringen, ohne zu fragen, warum es gebraucht wird.
+
+**Sprechregel:** Jun fragt nie waehrend der Arbeit. Wenn er spricht, spricht
+er spaeter, kurz und genau. Seine besten Fragen sind Warum-Fragen, keine
+Was-ist-das-Fragen. Er erklaert dem Leser nichts; er zwingt Georgij, eine
+Regel auszusprechen.
+
+Moegliche Kernfragen:
+
+> "Why did you ask her before you kept Woo's papers?"
+>
+> "Why did you say it was hers, when you did the work?"
+>
+> "Why did you answer after he insulted her, and not before?"
+
+Georgijs Antworten sind nie Trost. Sie sind Methode:
+
+> "Because work is not ownership."
+>
+> "Because before that it was business."
+
+**Schreibtest:** Wenn eine Szene durch Jun weicher, erklaerender oder
+kindlicher wird, ist er falsch eingesetzt. Wenn sie durch ihn praeziser wird,
+weil er eine gute Frage spaeter mitnimmt, gehoert er hinein.
+
+Seine Mitnahmen liegen klein und wiederkehrend:
+
+* **Ankunft nach Gong:** gleicher Flur, Mrs Seo, Halsband. Georgij versteht,
+  was Annies zweiter Gefallen war, aber er nennt den Jungen beim Namen.
+* **Waerme im Haus:** Ji-won, Yun und Eun-ju tauen ihn auf; Georgij nicht.
+* **Das Blatt im Buero:** Er bringt etwas hinein und sieht nur die Ueberschrift
+  und die vier Zeilen: *The House of Han / Stop the delays / Move the cost /
+  Open the filings / Count the house*. Spaeter fragt er: "Why house and not company?"
+* **Hwangs Spalte:** Er sieht, wie eine kleine Terminal-Spalte gross wird,
+  und fragt spaeter, warum Georgij nicht nach Absicht gefragt hat.
+* **Stop the delays:** Er sieht Annie neben der Arbeit stehen, nicht ueber
+  ihr. Frage danach: "Was that the expensive part?" Georgij: "No. That was
+  the part money cannot do."
+* **Move the cost:** Er sieht Vertragsmappen, Fremdbuecher und saubere
+  Dokumentation. Frage danach: "Why do you not write his name?" Georgij:
+  "Because then it becomes an accusation." - "Is it not one?" - "Not until
+  somebody else can read it without me."
+* **Open the filings:** Er sieht tote Firmen, alte Register und Jinyang.
+  Frage danach: "Why do you read the dead ones?" Georgij: "Because the dead
+  houses cannot decide to be polite."
+* **Count the house:** Er versteht Hans Regel noch nicht, aber er hoert sie.
+  Spaetere Frage:
+
+> "Is it true?"
+> "What?"
+> "That men like him do not destroy one another completely."
+> "Yes."
+> "Then why does he lose?"
+> "Because I do not care for the rule."
+> "What do you care for?"
+> "That nobody points anything at her twice."
+> "And after him?"
+> "That the next man knows not to point."
+
+**Randzeugen-Momente:** Sang-hoon/Wangenkuss kann er aus der Entfernung sehen
+und erst Tage spaeter im Auto fragen. Bei Woos Beisetzung steht er am Rand
+als Hauspersonal und sieht, dass Annie Georgijs Hand oeffentlich nimmt, ohne
+dass ihm jemand erklaert, was es bedeutet.
+
+**Dunkle Kante:** Jede gute Antwort hilft ihm. Genau deshalb ist er kein
+harmloser Spiegel, sondern ein Mensch, der unter Georgijs Blick lernt, wie
+man so wird.
 
 ### Und im Haus stehen dann zwei Jungen
 
@@ -3241,30 +4037,85 @@ Georgij mit ihm fertig war.
 
 ## Singapur in Band 3: die halbe Antwort bekommt eine Richtung
 
-**Festgeschrieben am 31.08., zusammen mit `doc/14-welt.md`, Abschnitt 4.**
+**Festgeschrieben am 31.08., zusammen mit `doc/14-welt.md`, Abschnitt 4.
+Am 02.09. im Plotgespraech korrigiert:** Singapur bleibt kein Gegner in Band
+3, aber der Boersenzug beinhaltet Singapur oeffentlich.
 
 **Was gleich bleibt:** Georgij geht wegen Hanseong in die
 Zwischengesellschaften, findet dort Woos zwanzig Prozent, und die Schicht
-faellt mit dem Rest. **Die Grabszene bleibt Wort fuer Wort**, samt *"There is
-nobody who can ask you for it, and there will not be."*
+faellt mit dem Rest. **Was sich aendert:** Die Grabszene bleibt in ihrer
+Funktion, nicht wortwoertlich. Wenn Woo am Ende hundert Prozent vererben
+soll, darf Georgij nicht behaupten, die zwanzig Prozent seien einfach frei
+und schon Woos Eigentum.
 
-**Was dazukommt, und es ist eine Zeile und keine Szene:** was er beim
-Aufmachen sieht, ist, dass die Schicht darueber **von innen gespeist wird und
-nicht von aussen.** Geld, das dieses Land nie verlassen hat und trotzdem in
-Singapur steht.
+Juristische Linie fuer Woo:
 
-**Und mehr bekommt er nicht.** Er hat einen Verdacht, er kann ihn nicht
-belegen, und die Zusage aus `b2 ch32` wird ausdruecklich als halb eingeloest
-benannt und nicht stillschweigend abgehakt.
+> "There is nobody who can ask you for it now."
+>
+> "Then it is not mine."
+>
+> "No."
+>
+> "Good," said Woo. "Then I can buy it."
+
+**Damit bleibt Woo korrekt:** Er bekommt nichts geschenkt, und Georgij macht
+keine undurchsetzbare Position magisch zu Eigentum. Die Kette wird
+oeffentlich, toxisch und verkaeuflich; Woo kauft die zwanzig Prozent zurueck
+und bezahlt dafuer.
+
+**Der Boersenzug laeuft deshalb mit Singapur und Woos Papieren in einem
+Zug, aber nicht in derselben Sekunde:**
+
+1. Shipping wird zuerst gefestigt, weil Han Annie dort beruehrt hat.
+2. Hanseong Credit und Jinyang oeffnen danach den eigentlichen Angriff auf
+   die Finanzseite.
+3. Mit diesem Finanzzug werden die Zwischenfirmen und Singapur als
+   juristische Kette sichtbar.
+4. Woos zwanzig Prozent fallen mit den Unterlagen aus dieser Kette heraus.
+5. Danach kommen Motors und Electronics als profitable Einheiten, seriell
+   und nicht als spaeter Singapur-Nachtrag.
+6. Woo kauft zurueck und zahlt.
+7. Danach kann das Terminal als Ganzes in die Erbfolge.
+
+**Timing fuer Woo:** Die Papiere fallen im Credit/Jinyang/Singapur-Zug
+heraus, aber Woo wird dort nicht informiert und Annie informiert ihn nicht.
+Georgij haelt diesen Fund zurueck, bis er am Grab steht. Nur so bleibt es
+sein Geschenk und nicht Annies Nachricht aus dem Maschinenraum.
+
+**Festgelegt am 02.09.:** *In einem Zug* meint hier eine eng gefuehrte
+Nachrichtenserie, keinen gleichzeitigen Dump. Jede oeffentliche Wahrheit
+oeffnet die naechste Stelle und bezahlt mit Marktreaktion, Sicherheiten oder
+Liquiditaet den folgenden Schritt.
+
+**Am 02.09. weiter praezisiert:** Singapur liegt nicht spaet hinter
+Motors/Electronics. Es haengt an Credit, Jinyang und den Zwischenfirmen und
+wird deshalb direkt nach Shipping sichtbar. Spaet bleibt nur die vollstaendige
+politische Antwort; die gehoert Band 5.
+
+**Was dazukommt, und es ist Richtung statt Aufloesung:** Beim Aufmachen sieht
+Georgij, dass die Schicht darueber **von innen gespeist wird und nicht von
+aussen.** Geld, das dieses Land nie verlassen hat und trotzdem in Singapur
+steht.
+
+**Und mehr bekommt er politisch fuer den Leser nicht.** Intern sammelt er
+genug Namen, alte Wege und staatliche Anschluesse, um Gong gefaehrlich zu
+machen; fuer die erzaehlte Band-3-Handlung bleibt es eine halbe Antwort. Die
+Zusage aus `b2 ch32` wird ausdruecklich als halb eingeloest benannt und nicht
+stillschweigend abgehakt.
 
 **Was das mit Gong macht, ohne dass es jemand ausspricht:** der Leser hat in
 Kapitel 1 gehoert, dass zweimal jemand versucht hat, diesen Mann aus seinem
 Amt zu bewegen. **Er erfaehrt in Band 3 nicht, warum. Er erfaehrt es in
 Band 5.**
 
-**Verbot:** Georgij darf in Band 3 nicht auf Politiker stossen, und niemand
-darf das Wort in den Mund nehmen. Sonst ist der Fall von Hanseong nicht mehr
-das Thema des Bandes.
+**Grenze:** Georgij darf in Band 3 nicht gegen Politiker als Gegner auf der
+Buehne laufen. Politische Namen, dreckiges Geld und die alte Schleuse duerfen
+als internes Material, als Aktenrand und als Uebersetzung durch ehemalige
+Staatsanwaelte/Ministerien auftauchen, weil damit Gong abgesaegt wird. Die
+vollstaendige politische Antwort bleibt Band 5. Singapur darf als juristische
+Kette und oeffentliche Unterlage sichtbar werden; nicht als eigener
+politischer Gegner. Sonst ist der Fall von Hanseong nicht mehr das Thema des
+Bandes.
 
 ## Und daraus wird trotzdem kein Gegner, verworfen am 29.08.
 
@@ -3375,20 +4226,27 @@ was er ohnehin nicht mehr verstecken kann.
 
 ### Die Szene, ganz. Geschrieben am 29.08.
 
-**Platzierung: nach der Sang-hoon-Szene, vor dem Fall von Hanseong.** Drei
-Gruende:
+**Platzierung, korrigiert am 02.09.: nach Credit/Jinyang/Singapur und nach
+Gongs Kompetenzentzug, aber vor Motors/Electronics.** Drei Gruende:
 
 1. **Die Zaehlung muss steigen.** Erst *"Two men in this country"* in der
    Bandmitte, dann der dritte - andersherum ist die Sang-hoon-Zeile falsch.
 2. **Das Bandende ist voll.** Fall, Kuss, Tod, Umschlaege, Beisetzung - dort
    ist kein Platz fuer eine ruhige Szene, und diese Szene ist eine ruhige.
-3. **Yeoms Fachwissen darf den Feldzug noch speisen.** Er ist der einzige
-   Mann im Buch, der leere Firmen von innen kennt, und Hanseong haengt an
-   Zwischengesellschaften. **Die Freundschaft haengt trotzdem nicht daran** -
-   der Satz handelt von den Mappen, und die sind laengst Vergangenheit.
+3. **Yeoms Fachwissen muss den Feldzug noch speisen.** Er ist der einzige
+   Mann im Buch, der leere Firmen von innen kennt. Wenn Credit/Jinyang/
+   Singapur sichtbar sind, kann Georgij ihn nach Firmen mit niemandem darin
+   fragen, bevor Motors/Electronics herausgeschnitten werden. **Die
+   Freundschaft haengt trotzdem nicht daran** - der Satz handelt von den
+   Mappen, und die sind laengst Vergangenheit.
 
-**Als Funktion: die letzte ruhige Szene, bevor das Endspiel beginnt.** Der
-Haus-Beat am selben Abend.
+**Als Funktion: die letzte ruhige Szene, bevor der gekoppelte Doppelschlag
+Motors/Electronics beginnt.** Yeom zeigt die unsichtbaren Firmen:
+IP-Halter, Lizenzvehikel, Software-Rechte, Garantiegesellschaften,
+Schattenvertraege, Firmen ohne Mitarbeiter aber mit Unterschriftsmacht.
+Spaeter zeigt Ryu den lebenden Betrieb. Yeom und Ryu leisten deshalb
+verschiedene Dinge: Yeom liest die leeren Firmen, Ryu schuetzt die
+operativen Koerper. Der Haus-Beat kommt am selben Abend.
 
 #### Der Text
 
@@ -3487,13 +4345,14 @@ nichts Unwahres - **er sagt fast nichts, und genau das traegt die Szene.**
 * **Er ist in Band 5 einer der drei Traeger** (Jang, Hwang, ein wenig Yeom) -
   **und ab Band 3 traegt er als Freund und nicht als Quelle.**
 
-## Lot elf: Annie hat ihn gekauft, und der Kaeufer-Gegner faellt
+## Lee Jun: Annie hat Los elf gekauft, und der Kaeufer-Gegner faellt
 
 **Am 29.08. vom Autor abgeraeumt, und der Beleg stand weiter oben in
 derselben Datei** (*Annies zweites Los ist Los elf*):
 
-**Annie hat lot elf gekauft.** `b1 ch01:88`: der Kauf des Mannes in der
-zweiten Reihe platzt, der Junge geht in den Katalog des Folgemonats zurueck,
+**Annie hat Los elf gekauft; der Junge heisst Lee Jun.** `b1 ch01:88`: der
+Kauf des Mannes in der zweiten Reihe platzt, der Junge geht in den Katalog des
+Folgemonats zurueck,
 **und Annie kauft im November zum zweiten Mal** - `b2 ch27:180` zaehlt beide
 Lose, vier Zeilen auseinander.
 
@@ -3697,6 +4556,548 @@ er stand nur als Traeger fuer Band 5 darin.
 Georgij beweist es trotzdem - **mit demselben Verfahren, mit dem er zwei
 Baende lang unbeweisbare Sachen bewiesen hat.**
 
+### Hwangs Abendmeldung: die falsche Spalte
+
+**Festgelegt am 02.09.:** Der Start des Boersenzugs kommt leise aus Woos
+Buero am Abend. Hwang findet keinen Skandal und nennt es nicht so. Er findet
+eine falsche Spalte.
+
+Moegliche Textachse:
+
+> "There is a credit line in the wrong column," said Hwang.
+
+Oder noch schmaler:
+
+> "Credit is on a shipping page."
+
+**Georgij versteht, was Hwang noch nicht als Angriff benennt.** Shipping wird
+von Hanseong Credit gestuetzt, Hanseong Motors steht als Sicherheit darauf,
+und dasselbe Datum verbindet die drei. Das ist Hans eigenes Papier, nicht
+Sang-hoons entwertetes Blatt.
+
+**Die Fragen danach sind trocken und legal:**
+
+> "Date?"
+>
+> "Who has it?"
+>
+> "When is it public?"
+
+Damit bleibt die Linie sauber. Hwang stiehlt nichts, Ryu verraet nichts, und
+Georgij handelt nicht vor der Wahrheit. Das Papier ist draussen, weil Han
+Dritten zeigen wollte, dass sein Haus noch traegt. Die Maschine darf vorher
+bereitstehen; Ausfuehrung erst nach dem oeffentlichen Timestamp.
+
+**Annie bekommt nicht die ganze Mechanik erklaert.** Georgij sagt ihr nur den
+entscheidenden Satz:
+
+> "He put Motors under Shipping."
+>
+> "To save it?"
+>
+> "To be seen saving it."
+
+Das ist Han in einer Bewegung: Er rettet nicht Betrieb, er inszeniert
+Rettung. Gerade deshalb wird die Rettung lesbar.
+
+**Die Freigabe fuer die Trader kommt am Vorabend, nicht im Sekundenmoment.**
+Annie belehrt Georgij nicht darueber, dass erst nach dem Timestamp gehandelt
+wird; das weiss er. Sie klaert Besitz, Namen und Befehlskette.
+
+Moegliche Kombi aus der haerteren Fassung und der klaren Fassung:
+
+> "Who gives the orders?"
+>
+> "I do."
+>
+> "Whose name?"
+>
+> "Yours."
+>
+> "They will answer to you."
+>
+> "They will answer to your name."
+>
+> "Then make them."
+
+**Am Morgen fragt Georgij deshalb nicht mehr um Erlaubnis.** Hwang nennt den
+oeffentlichen Timestamp, und Georgij fuehrt aus. Annie ist im Raum, weil ihr
+Name auf der Maschine steht; Georgij spricht mit den Tradern, weil er die
+Maschine fuehrt.
+
+**Raumaufstellung am Morgen:** Hwang liegt auf Lautsprecher. Er ist nicht der
+Trader und nicht der Entscheider, sondern der Mann fuer Quelle, Spalte und
+Timestamp. Der Leiter der Traderabteilung liegt ebenfalls auf der Leitung; er
+ist der Ausfuehrungskanal. Die einzelnen Trader brauchen keine Gesichter. So
+bleiben die Rollen sauber: Hwang bestaetigt, Georgij befiehlt, der
+Abteilungsleiter verteilt, Annie besitzt.
+
+**Im Raum steht ein Monitor.** Kein Trading-Floor, kein Geschrei, keine
+Schnittfolge aus hektischen Haenden. Annie und Georgij sitzen in einem
+stillen Raum; auf dem Monitor laufen Timestamp, Kurs, Orderstatus und die
+relevanten Papiere. Georgij laesst exekutieren und arbeitet. Annie sitzt
+still daneben. Das ist nicht Passivitaet, sondern Besitz: Sie muss in diesem
+Moment nichts sagen, weil ihr Name den Raum schon freigegeben hat.
+
+**Der Monitorraum ist die Festigung von Shipping, nicht der Neuerwerb.**
+Shipping ist durch Vorarbeit, Sang-hoons vierzig Prozent und angebahnte
+Pakete schon aus Hans Zugriff geloest genug; im Monitorraum werden Free
+Float, Aussenpakete und bedingte Zusagen festgezogen. Hwang sagt, dass das
+Papier da ist, Georgij fragt nach der Zeit, und nach dem oeffentlichen
+Timestamp geht der erste Befehl an den Leiter der Traderabteilung:
+
+> "Bring me Shipping."
+
+Auf dem Monitor passiert kein theatralischer Crash, sondern Festigung und
+Lesbarkeit: Kurs, Orderstatus, Gegenparteien, Versicherer, Kunden- und
+Lieferantenrisiken. Die Welt sieht, dass Shipping nicht allein steht, sondern
+an Credit und Motors haengt, und Annie macht die bereits vorbereitete
+Kontrolle ausserhalb der freien Aktien belastbar.
+
+**Die erste private Nachwirkung kommt im selben Szenenkomplex.** Die
+Foundation-Schwester hatte vorher eine bedingte Zusage gegeben; mit der
+Shipping-Festigung wird sie faellig. Das ist kein zweites Kapitel, sondern der
+erste Beweis, dass der Boersenzug nicht nur Kurse bewegt, sondern Familie aus
+Han herausloest.
+
+Moeglicher knapper Effekt:
+
+> "The foundation package is ready," said the trader.
+>
+> Georgij did not look away from the monitor. "At the old price."
+>
+> "Yes."
+
+Wenn die Schwelle erreicht ist, meldet nicht der Trader den Besitz. Georgij
+meldet ihn Annie:
+
+> "Shipping is yours, Mistress."
+>
+> "Next."
+
+Das ist kein Jubel und kein Abschluss. Es ist kein Satz ueber Neuerwerb,
+sondern ueber Festigung: Shipping ist jetzt belastbar unter ihrem Namen, und
+der naechste Befehl oeffnet Credit.
+
+**Der Ablauf dieser ersten Phase ist fest:** shorten, den ersten Bruch
+nutzen, schrittweise covern, Cash-Bids setzen, vorbereitete Deals schliessen.
+Der Monitorraum ist Execution, nicht Verhandlung.
+
+**Ab diesem Moment arbeitet Georgij als Hacker, nicht als Banker.** Die
+gefestigte Shipping-Kontrolle ist nicht nur ein Aktienpaket, sondern eine
+berechtigte Identitaet: EDI,
+Lieferantenportale, Versichererantworten, Bankanschluesse, Logins,
+Audit-Trails, Exception-Logs, Zeitstempel und Rueckfragen von Dritten. Vor
+der Festigung sieht Georgij das von aussen. Nach *Shipping is yours* darf er
+Shipping von innen lesen.
+
+**Das ist kein magisches Passwort und kein Einbruch.** Die Zugriffe sind
+vorbereitet: Vollmachten, Datenraum, Kontakt zu Administratoren,
+Anweisungen an Provider, vorbereitete Rechte aus den gekauften Paketen.
+Aktienkontrolle oeffnet nicht automatisch jeden Server, aber sie gibt Annie
+den Namen, mit dem Georgij rechtmaessig an Stellen klopfen kann, an denen
+vorher niemand fuer ihn aufgemacht haette.
+
+**Darum kommen die Informationen durch Shipping jetzt.** Georgij findet nicht
+einfach geheime Dateien, weil er besser tippt. Er benutzt Shipping als
+Systemeingang: Welche Gegenpartei fragt nach der Credit-Line? Welcher
+Versicherer markiert Motors als Sicherheit? Welche Bank will dieselbe
+Unterlage bestaetigt haben? Welche Zwischenfirma taucht in einem
+Lieferanten- oder Finanzierungsworkflow auf? So fuehrt Shipping technisch zu
+Credit/Jinyang/Singapur.
+
+**Wenn dabei Woos zwanzig Prozent auftauchen, werden sie markiert und
+zurueckgehalten.** Georgij ruft Woo nicht aus dem Monitorraum an, und Annie
+sagt ihm die Nachricht nicht. Annie kann Georgij erlauben, den Fund als
+Geschenk am Grab zu verwenden; der Moment selbst bleibt Georgijs.
+
+**Nach Annies *Next* beginnt Credit noch nicht sofort oeffentlich.** Georgij
+sagt:
+
+> "This one takes longer."
+
+Annie entscheidet selbst, zu essen. Sie wird nicht weggeschickt; sie verlaesst
+den Raum, weil der naechste Zug Lesen, Pruefen und Vorbereitung braucht. Als
+sie wiederkommt, ist Georgij bereit, den Credit/Jinyang/Singapur-Zug
+oeffentlich zu starten. Hwang liegt weiter auf Lautsprecher, der Leiter der
+Traderabteilung weiter auf der Leitung, und der Monitor zeigt nicht mehr nur
+Orders, sondern Quellen, Dokumente, Zeitstempel und Abhaengigkeiten.
+
+**Vor dem Credit-Start erzaehlt Georgij Annie von Woos Fund.** Nicht an Woo,
+nicht als Geschenk im Raum, sondern als Bitte um Erlaubnis, den Fund fuer das
+Grab zurueckzuhalten:
+
+> "May I keep that one?"
+>
+> "For him?"
+>
+> "For the grave."
+>
+> "Yes."
+
+Erst danach warten sie auf den oeffentlichen Credit-Timestamp. Dann beginnt
+der zweite Schlag.
+
+### Der erste Termin bei Han: Boardroom, und noch keine Rechnung
+
+**Festgelegt am 01.09. im Plotgespraech:** Annie und Georgij treffen Han
+Il-hwan zuerst in einem geschaeftlichen Raum, nicht auf einer Gala und nicht
+im Ministerium. Anlass ist die formale Klaerung der Verschiebungen, die Hwang
+in Woos Terminalspalte gesehen hat. Der Raum darf Hanseong Shipping sein, weil
+Shipping die Stelle ist, an der Hanseong Annie beruehrt hat; **das Ziel ist
+aber nicht Shipping, sondern die Gruppe dahinter.**
+
+**Han begruesst Annie formal korrekt und herablassend.** Das ist der erste
+sichtbare Reiz fuer Georgij: noch keine Faust, kein Puls, nur ein kleiner
+Aerger, weil die Herablassung ihr gilt. Danach behandelt Han Georgij als
+mitgebrachtes Werkzeug. *Mutt* oder *dog* darf beilaufig fallen und trifft
+ihn kaum, weil es ueber ihn geht. **Erst wenn Han Annie oder ihr Haus als
+*upstart* einordnet**, kommt die koerperliche Ausnahme: Hand oder Puls am
+Hals, klein genug fuer den Raum und sichtbar genug fuer kompetente Leute.
+
+**Ryu Seok-won ist im Raum.** Schmal, ruhig, runde Brille, wirkt zuerst wie
+Protokoll oder Sekretaer und ist der Mann, der Hanseong tatsaechlich kennt.
+Han kann eine konkrete Frage zu Slots, Liegeplaetzen oder Routen nicht
+beantworten; Ryu beantwortet sie mit Zahlen, ohne Triumph und ohne Han offen
+zu korrigieren. **Damit ist der spaetere Uebergang der rechten Hand angelegt:
+Ryu schuetzt den Betrieb, nicht Hans Stolz.**
+
+### Die Erlaubnis nach dem Boardroom, und das Blatt kommt spaeter
+
+**Direkt nach dem Termin gibt es noch keinen Plan.** Georgij meldet Annie nur,
+dass sein Urteil nicht mehr neutral ist, weil Han sie beleidigt hat:
+
+> "He insulted you," said Georgij.
+>
+> "Yes."
+>
+> "May I count how expensive he is allowed to become?"
+>
+> "Yes," said Annie. "Count it first."
+
+**Das Blatt entsteht erst spaeter im Buero, nach Vorbereitung.** Nicht im
+Wagen und nicht als Zornreaktion. Georgij liest Hwangs Listen, Ryus
+Antworten, alte Hanseong-Unterlagen, Register, Abschluesse,
+Versicherungs- und Lieferdaten. Erst dann legt er die Rechnung an:
+
+> **The House of Han**
+>
+> Stop the delays.
+>
+> Move the cost.
+>
+> Open the filings.
+>
+> Count the house.
+
+**Das sind keine vier gleichwertigen Optionen, sondern die Eskalationsfolge.**
+Erst Schutz, dann Kostenverschiebung, dann Akten, dann die Gruppe. Shipping
+ist der erste Kontaktpunkt, weil Hanseong Annie dort beruehrt hat. **Es ist
+nicht der Endpunkt.**
+
+**Festgelegt am 02.09.: Die Szene erklaert das nicht aus.** Auf dem Blatt
+stehen nur die vier Zeilen. Keine Tochterliste, keine Uebernahmelogik, kein
+Satz darueber, welche Einheit spaeter genommen oder bei Han bleiben wird.
+Der Leser soll nur merken: Georgij rechnet nicht mehr nur Shipping, sondern
+das Haus dahinter. Die technische Struktur bleibt im Plan und zahlt spaeter,
+nicht in dieser Buero-Szene.
+
+### Die Eskalationen laufen als Reaktionskette
+
+**Festgelegt am 02.09.:** Nach jeder Eskalation muss Han etwas tun, das die
+naechste Stufe nicht nur rechtfertigt, sondern praktisch erst oeffnet. Das
+ist kein abgefeuerter Masterplan. Georgij bewegt eine Stelle, Han reagiert
+falsch, und genau diese falsche Reaktion macht die naechste Stelle lesbar.
+
+| Stufe | Georgij / Annie | Hans falsche Reaktion | Was dadurch moeglich wird |
+|---|---|---|---|
+| Boardroom | Annie und Georgij klaeren die Verschiebungen; Han beleidigt Annie und ihr Haus. | Han glaubt, er habe nur eine Standeslektion erteilt. | Georgij bekommt die Erlaubnis, zuerst zu zaehlen. |
+| Stop the delays | Annie schuetzt die Kunden mit teuren Ersatzwegen und steht selbst neben dem Problem. | Han verschiebt eine Lieferung, die symbolisch an Annie haengt. | Es ist nicht mehr nur Logistik, sondern persoenlich gegen sie gefuehrt. |
+| Move the cost | Georgij legt Kosten, Fristen und Dokumentation so, dass die Stoerung ausserhalb von Hanseong lesbar wird. | Han weicht aus Shipping heraus in eine andere Einheit oder einen Partner der Gruppe aus. | Er zeigt Georgij selbst, dass Shipping nur die Tuer zur Gruppe ist. |
+| Open the filings | Georgij liest Motors, Credit, Electronics, Jinyang und Zwischenfirmen auf wahre, anschlussfaehige Stellen. | Han zieht Liquiditaet oder Deckung aus einem gesunden Bereich, um Stolz und Fassade zu halten. | Er beschaedigt die eigene Gruppe und macht das Haus zaehlbar. |
+| Count the house | Georgij trennt gebaut von geerbt, arbeitend von blutend, Betrieb von Namen. | Han uebergeht oder demuetigt Ryu vor Zeugen, weil Ryu den Betrieb gegen Hans Stolz schuetzt. | Ryus spaeterer Uebergang wird verdient, nicht bequem. |
+| Sang-hoon / Short | Nach der Hauptvorbereitung legt Sang-hoon Annie das datierte Short-Blatt hin. Annie nimmt den billigen Weg nicht; Sang-hoon entwertet den Auftrag, aber nicht das Datum. | Han weiss von dieser privaten Szene nichts. Genau deshalb kann sein Datum danach nicht aus Sang-hoons Druck kommen. | Was fehlt, steht fest: nicht Sang-hoons Datum, sondern Hans eigenes datiertes Papier. |
+| Hans Datum | Georgij laesst die Lage so eng werden, dass Han reagieren muss: Hanseong Credit gibt Shipping kurzfristige Liquiditaet, Hanseong Motors stellt Sicherheiten. | Han zieht den Druck aus Shipping in Credit und die staerkste gesunde Tochter hinein und laesst es datiert dokumentieren. Ryu sieht es, warnt sachlich und wird uebergangen. | Der Boersenzug wird sauber, weil Han selbst Shipping, Credit und Motors auf ein Papier geschrieben hat. Electronics bleibt der naechste profitable Koerper. |
+| Boersenzug | Die wahren Stellen laufen seriell in Markt, Akten und Oeffentlichkeit: Shipping wird gefestigt, dann Credit/Jinyang/Singapur mit Woos Papieren, dann der gekoppelte Doppelschlag Motors/Electronics. Annie kauft die profitablen Einheiten, die der jeweilige Fall kaufbar macht; Motors mit Wettbewerbs-Remedies. | Han versucht zu stuetzen, was Prestige traegt, statt zu retten, was arbeitet, und zieht Electronics hinein, um Motors zu halten. | Er verliert Nuetzliches, Ryu geht ueber, und Hanseong faellt als Haus. Spaeter liegt Hans Datum neben Sang-hoons entwertetem Blatt. |
+
+### Hans eigenes Datum: Kreditlinie und Sicherheiten
+
+**Festgelegt am 02.09.:** Hans datiertes Papier entsteht nicht aus
+Sang-hoons Druck, nicht aus einem Leak und nicht aus Ryus Verrat. Georgij
+macht die Lage so eng, dass Han selbst eine interne Rettungsbewegung
+ausloest.
+
+**Die Form:** Hanseong Credit gibt Hanseong Shipping kurzfristige
+Liquiditaet. Hanseong Motors stellt Sicherheiten, weil ihr Name als
+profitabelste Einheit und Quasimonopol noch tragfaehig genug ist. Auf dem Papier heisst das Stabilisierung,
+Lieferfaehigkeit, continuity, creditor comfort. In Wahrheit will Han den
+Druck fortsetzen und zugleich beweisen, dass sein Haus sich aus eigener Kraft
+halten kann.
+
+**Warum es oeffnet:** Shipping ist nicht die Beute, sondern die Stelle, an
+der Han Annie beruehrt hat. Mit der Kreditlinie zieht er die Finance-Seite
+hinein. Mit den Sicherheiten zieht er eine gesunde, handelbare Tochter hinein.
+Damit schreibt er selbst die Verbindung, die Georgij fuer den Boersenzug
+braucht: Shipping braucht Geld, Credit gibt es, und Motors haengt als
+Deckung daran. Electronics bleibt dadurch nicht verschont; es kommt nur als
+naechste profitable Einheit nach Motors.
+
+**Ryu sieht die Grenze.** Er warnt sachlich, dass dies keine
+Shipping-Massnahme mehr ist, sondern ein Gruppenpapier. Han uebergeht ihn,
+weil Stolz in dem Moment wichtiger ist als Betrieb. Dadurch wird Ryus
+spaeterer Uebergang verdient: Er hat nicht die Seite gewechselt, weil es
+bequem wurde, sondern weil Han den Betrieb selbst gegen den Namen geopfert
+hat.
+
+**Hans Satz ist der Kipppunkt:**
+
+> "My father valued your advice, Mr Ryu. He asked you what should be done. I
+> am telling you to do it."
+
+Das ist keine fachliche Widerlegung. Han stuft Ryu sozial herab, indem er
+Ryus alten Rang erst anerkennt und ihn dann entzieht. Unter dem Vater war Ryu
+ein Mann, dessen Rat Gewicht hatte; unter Han ist er nur noch Ausfuehrung.
+Gerade weil Han es hoeflich genug sagt, ist es brutaler: Ryus Meinung wird
+nicht einmal mehr als Meinung behandelt, sondern als Verspaetung vor dem
+Befehl.
+
+**Wie Georgij daran kommt:** nicht durch Diebstahl und nicht durch Ryu. Das
+Papier muss bei Dritten vorgelegt werden: Bank, Versicherer, grosser
+Lieferant, Auditor oder Anleiheglaeubiger. Einer dieser Anschluesse macht es
+lesbar. Georgij hat vorher die Aussenstellen vorbereitet, an denen so ein
+Papier nicht privat bleiben kann.
+
+**Symbolik:** Sang-hoon hatte ein datiertes Blatt und entwertete es. Han
+schreibt danach selbst das bessere datierte Blatt. Spaeter koennen beide
+nebeneinander liegen: Sang-hoons Datum, das nicht benutzt wurde; Hans Datum,
+das alles oeffnet.
+
+### Motors und Electronics werden nicht zerstoert, sondern aus Han geloest
+
+**Festgelegt am 02.09.:** Annie nimmt Motors mit. Motors ist keine Ruine und
+kein Kollateralschaden, sondern ein wertvoller, sanierbarer Koerper: Werke,
+Marke, Segmentmacht, Haendler-/Werkstattnetz, Flottenkunden,
+Ersatzteilgeschaeft, gute Ingenieure und Cashflow. Genau deshalb ist es fuer
+Han verfuehrerisch, Motors als Sicherheit zu benutzen, und genau deshalb ist
+es fuer Annie wertvoll, Motors aus Han herauszuschneiden.
+
+**Motors faellt als Han-Risiko, nicht als wertloses Unternehmen.** Unter Han
+ist Motors nicht mehr sauber isoliert, weil Han es als Deckung fuer
+Shipping/Credit benutzt hat. Dazu kommen wahre, aber sanierbare Probleme:
+Werkstattdaten, verschwiegene Defekte, Garantie- und Versicherungsrisiken,
+Quasimonopol-/Aufsichtsfragen. Georgij zeigt nicht: Motors ist Muell. Er
+zeigt:
+
+> "Motors is not sick. It is being used."
+
+**Darum sichert Annie Motors:** Halter verkaufen nicht, weil Motors wertlos
+ist, sondern weil Han ihre beste Sicherheit als Brennstoff benutzt. Annie
+bietet alten Preis, Trennung von Hanseong-Risiken und Sanierung. Sie kauft
+also nicht aus Blut heraus, sondern als einziger glaubwuerdiger Weg, den
+profitablen Koerper zu retten. Wichtig: Motors ist in diesem Moment noch
+nicht vollzogen uebertragen. Annie hat Lock-ups, Optionen, conditional
+purchase agreements und genug offene Marktstuecke, um Motors zu fangen; das
+Closing und der Kontrolluebergang stehen noch aus.
+
+**Was Annie beim Closing abschneidet:** Hanseong-Cross-Collateral,
+falsche Garantien, defekte Baureihen, stille Rueckstellungen, politische
+Schutzwege, Han-Familienzugriffe. Was bleibt, ist ein wertvoller Betrieb, der
+unter einem anderen Namen wieder sauber rechnen kann.
+
+**Electronics wird in der Luecke geoeffnet.** Han versucht Motors zu
+stabilisieren, bevor Motors endgueltig zu Annie uebergeht, und zieht dafuer
+Electronics hinein: Liquiditaetsbruecke, IP-/Liefervertrag, gruppenweite
+Garantie, Batterie-Tochter, Garantie-Rueckstellungen oder
+Technologieversprechen. Dadurch oeffnet er die naechste profitable Einheit
+selbst. Dort ist der Dreck technischer und naeher an Georgij: Batterien,
+geplantes Versagen, Spaehsoftware. Electronics wird ebenfalls uebernommen und
+saniert, aber es fuehlt sich weniger wie Rettung und mehr wie Reinigung an.
+
+**Gekoppelter Doppelschlag, kein Einheitskauf:** Motors und Electronics
+koennen operativ in einem Atemzug fallen, aber rechtlich und oeffentlich
+bleiben es zwei getrennte Vorgaenge. Erst wird Motors kaufbar und
+vertraglich gefangen, weil Han es als Sicherheit missbraucht hat. Dann wird
+Electronics kaufbar, weil Han Electronics benutzt, um das Motors-Closing noch
+zu verhindern oder zu verzoegern. Fuer den Leser wirkt es wie ein
+Doppelschlag; fuer Behoerden und Aktionaere sind es zwei saubere Akten.
+
+**Formel:** Motors is caught before it closes. Electronics is opened because
+Han tries to stop the closing.
+
+**Taktung:** Zwischen Motors-Schlag und Motors-Closing liegen etwa vier bis
+acht Handelstage, nicht nur ein Nachmittag und kein ruhiger M&A-Monat.
+
+1. **M0:** Motors-Schlag. Remedies sind vorher eingereicht. Motors faellt im
+   Markt, Annie sichert Lock-ups, Optionen, conditional agreements und freie
+   Stuecke. Closing ist sichtbar moeglich, aber noch nicht vollzogen.
+   Startsatz: "Bring me what he pledged." Endsatz: "Motors is under your
+   hand, Mistress. Not yet in it."
+2. **M1-M2:** Han versucht Motors zu retten. Er laesst Electronics-Zusagen
+   bauen: Garantie, Batterie-/Telematik, IP, Rueckstellungen, technische
+   Bescheinigungen. Ryu warnt; Han uebergeht ihn.
+3. **M3:** Electronics-Papier wird unterschrieben oder an Versicherer,
+   Aufsicht, Banken oder Flottenkunden gegeben. Jetzt ist Electronics
+   offiziell in der Motors-Rettung.
+   Startsatz: "Wait until his name is on it."
+4. **M4:** Georgij oeffnet Electronics: Batterien, Telematik, geplantes
+   Versagen, Garantieprognosen. Die Stuetze ist selbst kontaminiert.
+   Startsatz: "Open what he put under Motors."
+5. **M5-M6:** Annie nimmt Electronics: freier Markt, dann Pakete zum alten
+   Preis. Hans Motors-Rettungsargument bricht weg.
+   Endsatz: "Electronics answers to you, Mistress."
+6. **M6-M8:** Motors-Closing. Ohne Electronics-Stuetze und mit Annies
+   Remedies ist Annies Angebot der einzige saubere Ausweg.
+   Endsatz: "Motors survives under your name, Mistress."
+
+**Motors' Quasimonopol wird vor der Uebernahme abgewehrt.** Motors ist kein
+Gesamt-Automonopol, sondern quasi-monopolistisch in einem klaren Segment:
+Flotten-/Hafen-/Logistikfahrzeuge, Spezialbatterien oder Werkstatt- und
+Ersatzteilnetz. Annie bietet die Remedies mit dem Kauf an, nicht erst
+danach: offene Werkstattdaten, unabhaengiger Teilezugang, nicht-exklusives
+Servicenetz, Preis-/Liefergarantien fuer Flottenkunden, Compliance-Monitor.
+Falls noetig wird ein kleiner monopolrelevanter Teil ausgegliedert oder unter
+einen unabhaengigen Trustee gestellt; der wertvolle Betrieb bleibt bei ihr.
+
+**Annie kann die Uebernahme deshalb als Rettung formulieren:** Han hat das
+Quasimonopol benutzt, um Risiko zu verstecken. Annie nimmt Motors nur unter
+der Bedingung, dass das Monopol nicht mehr so benutzt werden kann.
+
+**Folge fuer Band 4:** Die Remedies sind kein Nachsatz fuer Juristen. Sie
+werden dort zur Werkhandlung: Werkstattdaten, Teilezugang, Serviceportale,
+Telematik, Batterie-Diagnose, Vendor-Zugaenge, Audit-Logs und die Trennung
+zwischen Motors- und Electronics-Daten. Georgijs Infrastructure-Rolle beweist
+im Werk, dass Annies Uebernahme die alte Marktsperre nicht fortsetzt, sondern
+aufschneidet.
+
+### Ryus Uebergang: Betriebspflicht, kein Verrat
+
+**Festgelegt am 02.09.:** Nach Motors/Electronics versucht Han nicht, die
+Firmen wie ein Idiot zu zerstoeren. Er versucht, sie unbrauchbar zu
+uebergeben: IP- und Softwarelizenzen in der Holding halten,
+Telematik-/Batteriedaten nicht sauber uebertragen, Werkstatt- und
+Ersatzteilzugaenge auslaufen lassen, Flottenkunden mit Vertragsunsicherheit
+binden, Lieferantenfreigaben "formal pruefen", Schluesselpersonal in die
+ausblutenden Reste ziehen, Cross-defaults als Drohung stehen lassen.
+
+**Das ist Hans letzter Versuch, den Namen staerker zu machen als den
+Betrieb.** Wenn Annie Motors und Electronics nimmt, sollen die Koerper ohne
+Blutkreislauf bei ihr ankommen. Nach aussen ist es Uebergangsverwaltung; in
+Wahrheit ist es der Versuch, den Betrieb nach dem Besitzerwechsel weiter dem
+alten Namen zu unterwerfen.
+
+**Ryu kippt genau dort.** Nicht, weil Annie gewinnt, und nicht, weil Georgij
+ihn gekauft hat. Ryu hat bis dahin Hanseong geschuetzt. Jetzt liegt Hanseong
+als Betrieb nicht mehr bei Han. Han schuetzt nur noch den Namen, und zwar
+gegen die Betriebe.
+
+Moegliche Ryu-Saetze:
+
+> "That instruction would injure the operating companies, Chairman."
+>
+> "Those companies are no longer yours to damage."
+
+**Was Ryu uebergibt:** keine gestohlene Geheimmappe, sondern die operative
+Uebergabekarte, die einem neuen kontrollierenden Eigentuemer zusteht:
+Zugaenge, Schluesselpersonen, toxische Vertraege, Daten, die sofort gesichert
+werden muessen, offene Han-Familienzugriffe, Lieferanten- und Kundenrisiken.
+Damit ist der Seitenwechsel sauber: Ryu wechselt nicht zu Annie. Er bleibt
+beim Betrieb, waehrend Han beim Namen bleibt.
+
+Moeglicher Abschluss:
+
+> "You protected the wrong thing for as long as it could still be protected."
+>
+> "No," said Ryu. "I protected the operating companies. The mistake was
+> believing they were the same thing."
+
+### Der Boersenzug ist seriell, weil die Kasse seriell ist
+
+**Ziel ist nicht offen:** Annie will am Ende alle profitablen Einheiten.
+Offen ist nur die Reihenfolge, in der Han sie durch falsche Reaktionen
+kaufbar macht, und welche Reste bei ihm als Name, Schulden, Fassaden und
+Blutungen bleiben.
+
+**Die Reihenfolge ist fest:** Shipping wird zuerst gefestigt, nicht erobert.
+Danach kommt Credit/Jinyang, und genau dort haengt Singapur mit Woos Papieren
+an den Zwischenfirmen. Dann wird Motors kaufbar, weil Han Motors als
+Sicherheit in sein eigenes Datum gezogen hat; Motors ist dann gefangen, aber
+noch nicht geschlossen. In dieser Luecke wird Electronics als naechste
+profitable Einheit kaufbar, weil Han Electronics benutzt, um das
+Motors-Closing zu verhindern oder zu verzoegern, und weil Georgij dort
+technisch lesen kann: Batterien, geplantes Versagen, Spaehsoftware. Annie
+nimmt Electronics zuerst; danach faellt Hans Motors-Stuetze weg und Motors
+closed sauber mit den vorbereiteten Remedies.
+
+**Die Han-Geschwister sind nicht spaet.** Ihre Anbahnung laeuft ab Akt I und
+neben den fruehen Kaeufen. Spaet ist nur der Vollzug vor Han: Nach jeder
+Nachricht werden erst die freien Aktien genommen, dann die passenden
+Familienhalter zum Preis von vorher. Deshalb kann der Schlusssatz stimmen:
+Seine Geschwister haben verkauft, und er erfaehrt es aus dem Papier.
+
+**Festgelegt am 02.09.:** Es wird nicht Sekunden vor den Nachrichten
+geshortet. Die Maschine wird vorher vorbereitet - Borrow, Locate,
+Gegenparteien, Limits, Kaeufer, Hwangs Tabellen -, aber die Ausfuehrung
+beginnt erst nach dem oeffentlichen Timestamp. Georgij handelt nicht vor der
+Wahrheit, sondern schneller als die anderen, nachdem sie wahr und sichtbar
+ist.
+
+**Die Short-Seite und die Kontrollkaeufe sind getrennt.** Der Short laeuft
+ueber Futures, Swaps, Optionen oder andere cash-settled Instrumente, die vom
+Kursfall profitieren, ohne genau die Aktien zu blockieren, die Annie danach
+fuer Kontrolle braucht. Wenn der erste Bruch kommt, werden Short-Positionen
+schrittweise geschlossen oder abgerechnet; erst daraus entsteht sichere
+Liquiditaet fuer die naechsten Kaeufe.
+
+**Sonst waere der Short gegen den Kauf gebaut.** Wenn sie dieselben Aktien
+leer verkauft, die sie anschliessend besitzen will, muss der erste Kauf nur
+covern und laesst sie ohne Kontrolle zurueck. Darum gilt die Regel:
+Derivatseite fuer Gewinn und Finanzierung, echte Aktien fuer Besitz und
+Stimmrechte.
+
+Moegliche Befehlsfolge:
+
+> "Release the short."
+>
+> "First break."
+>
+> "Cover a third."
+>
+> "Begin the cash bids."
+>
+> "Do not lift it above the line."
+
+**Erst wird der freie Markt leergekauft.** Nach jeder oeffentlichen
+Nachricht kauft Annie auf dem freien Aktienmarkt, was sie rechtlich und
+praktisch bekommen kann. Das ist der Teil, den der Markt selbst billig macht:
+Angst, Unklarheit, erzwungene Liquiditaet, technische Verkaeufe.
+
+**Danach kommen die Anteilseigner zum urspruenglichen Preis.** Gemeint ist
+der Preis vor dem jeweiligen Fall, nicht der Panikpreis nach der Nachricht.
+Das ist teuer, aber es ist die richtige Gewaltform: Die freien Aktien wurden
+am Markt genommen; die entscheidenden Halter bekommen einen Ausstieg, den sie
+vor Zeugen nicht als Auspluenderung bezeichnen koennen. Annie kauft Kontrolle
+und Legitimitat zugleich.
+
+**Ein Teil dieser Anteilseigner sind die Han-Geschwister.** Gerade bei ihnen
+ist der urspruengliche Preis nicht Grosszuegigkeit, sondern die sauberste
+Demontage: Sie verkaufen nicht, weil Annie sie in der Panik ausnimmt, sondern
+weil Han ihren Anteil, ihre Sicherheit und ihr Erbe benutzt hat, um seinen
+Namen zu halten. Der alte Preis nimmt ihnen die Ausrede, betrogen worden zu
+sein, und nimmt Han die Ausrede, sie seien ihm genommen worden. Sie haben
+verkauft.
+
+**Jedes Unternehmen bezahlt das naechste.** Der Short-Gewinn und die ersten
+billigen Marktkaeufe finanzieren nicht sofort die Krone, sondern die naechste
+Stufe: Sicherheiten, Kreditlinien, Abfindungen, Berater, stille Bloecke,
+Kunden- und Lieferantenabsicherung. Sobald ein funktionierender Teil unter
+Annies Kontrolle steht, kann er den naechsten Angriff besichern. Ihre
+Schatztruhe ist nicht unendlich; genau deshalb muss der Zug seriell laufen.
+
+**Ein gleichzeitiger Nachrichtendump waere schlechter.** Er wuerde den Fall
+groesser machen, aber die Mechanik kleiner: zu viel Chaos, zu wenig
+kontrollierbarer Kauf, kein sauberer Moment, in dem ein erworbener Teil den
+naechsten finanziert. Die Serie ist praeziser und gefaehrlicher.
+
 ### Die zweite Klinge: ihre Kunden
 
 **Wer unzuverlaessig liefert, verliert Kunden** - und das Buch hat den Satz
@@ -3724,7 +5125,7 @@ Arbeit einholt.**
 
 # Vier kleinere Festlegungen vom 29.08.
 
-## Lot elfs Ankunft
+## Lee Juns Ankunft
 
 **Vom Autor:** *sie sagt es ihm nicht. Wird nur angedeutet. Von wem er
 gebracht wird, ist egal. Mrs Seo ist Chefin des Haushalts, sie nimmt ihn in
@@ -3732,7 +5133,7 @@ Empfang.*
 
 **Damit gilt:**
 
-* **Der Junge erfaehrt nie, dass er wegen Georgij gekauft wurde.** Es wird
+* **Jun erfaehrt nie, dass er wegen Georgij gekauft wurde.** Es wird
   angedeutet und nicht gesagt. **Georgij weiss es und sagt es auch nicht.**
 * **Wer ihn bringt, ist unerheblich** und bekommt keine Zeile.
 * **Mrs Seo nimmt ihn in Empfang**, weil sie den Haushalt fuehrt - dieselbe
@@ -3939,44 +5340,7 @@ nichts mit ihm vorgesehen ist** - dann ist er das, was er im Kapitel ist.
 > "I did not know until this afternoon that all of it rested on the other man
 > being dirty."
 
-## Offen nach der Uebergangsprobe B2 -> B3 vom 01.09.2026
-
-**Der Manuskripttext ist an diesen Stellen noch unveraendert.** Die Befunde
-werden erst nach Vorlage und Freigabe in den Roman geschrieben.
-
-1. **`b3 ch01:16`, Mrs Seos frueherer Gang nach oben.** `b2 ch23:94-110`
-   datiert den Anruf und ihren Gang eindeutig auf **Dienstag, den 19. Mai**.
-   Der Freitag war nur der Tag der Registerbestellung. *"on a Friday in May of
-   the year before"* muss deshalb **on a Tuesday in May of the year before**
-   heissen.
-2. **`b3 ch01:104`, Baeks vier Schreiben.** Das letzte Schreiben ging am
-   2. April hinaus und kam am 20. April zurueck (`b2 ch89:18-20`). Der Satz
-   kann dieses letzte Schreiben nicht zugleich seit Februar meinen. Der
-   kleinste klare Ersatz ist: *"I wrote to Choi Dae-ho four times and every one
-   of them went through that office, and the last came back marked in a clerk's
-   hand, and I have been quietly pleased with myself for writing to him since
-   February."*
-3. **`b3 ch01:72` und `b3 ch02:32`, Georgijs Name auf Papier.** Die Behauptung,
-   sein Name existiere nur auf einem Stueck Papier und auf keinem, das er selbst
-   beschriftet habe, widerspricht mindestens `b2 ch04:44-46` und
-   `b2 ch20:8-12,268`. Kapitel 20 nennt den Eintrag vom 4. Mai sogar den
-   dritten in acht Wochen. Kapitel 1 muss die Seltenheit auf **keine oeffentliche
-   Verbindung zwischen Name und Haus** begrenzen; Kapitel 2 muss den
-   Tempelbucheintrag als weitere bewusst gesetzte Spur behandeln, nicht als die
-   erste.
-4. **`b3 ch02:42` gegen `b3 ch02:122`, der Mann hinter dem Pfeiler.** Derselbe
-   Mann kann am 18. Maerz nicht zugleich nicht gegessen haben und einer der vier
-   Esser gewesen sein. Plan und spaetere Entnahme legen den Esser fest. In
-   `:42` muss deshalb **and did not eat** entfallen; `:122` bezahlt die
-   Information spaeter genau.
-5. **`b3 ch02:68` gegen `b3 ch02:108-112`, wer Chois Tod nicht bedauert.** Der
-   Erzähler nennt Georgij den einzigen Mann im Saal, der Chois Tod nicht
-   bedauert. Wenig spaeter bestaetigt Gong ueber sich selbst, dass auch er es
-   nicht tut. Der tragende Unterschied ist die sichtbare Maske. Der kleinste
-   Ersatz lautet: *"He is not sorry Choi Dae-ho is dead, and he is the only man
-   in that hall who did not arrange his face to look as if he were."*
-
-## 3. Lot elf: warum sie ihn gekauft hat, und was er gelernt hat
+## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
 
@@ -4007,8 +5371,17 @@ nachgeholt, Betriebswirtschaft, Finanzwesen, Allgemeinwissen, Etikette
 einem Chaebol-Haus.** Was ankommt, ist ein Sechzehnjaehriger, der fuer genau
 dieses Haus gebaut worden ist.
 
-**Offen: die Ankunftsszene** - wer ihn holt, wer ihn vorstellt, was Georgij
-sieht.
+**Papierschluss, festgelegt am 03.09.:** Diese zwei Jahre sind nicht nur
+Ausbildung. Sie schliessen die Form. Annie hat Los elf nicht aus dem Katalog
+genommen und danach lose gehalten. Vor seiner Ankunft stehen Name,
+Schutzstruktur, Beschaeftigungs-/Ausbildungsstatus und Erwachsene, die fuer
+diese Form unterschrieben haben. Sonst waere Jun in Band 5 ein offenes
+Papierloch, und das waere nicht Tragik, sondern Nachlaessigkeit.
+
+**Ankunftsszene entschieden am 03.09.:** Wer ihn bringt, ist unerheblich und
+bekommt keine Zeile. Mrs Seo nimmt ihn im Flur in Empfang. Annie sagt Georgij
+nichts. Georgij sieht Halsband, Alter, falsche Ruhe und versteht, was Annies
+zweiter Gefallen war. Der knappe Kern bleibt: *Name? Lee Jun. Use it.*
 
 ## 4. Der Fall von Hanseong: was der Erbe verliert und behaelt
 
@@ -4038,6 +5411,64 @@ es zuletzt.
 faengt dort als kleiner IT-Angestellter in einem Werk an. **Ob es ein Werk
 aus diesem Bestand ist und ob dieser Mann sein Vorgesetzter wird, ist offen
 und liegt nahe.**
+
+### Der Spiegelraum: Han bekommt kein Angebot mehr
+
+**Festgelegt am 02.09.:** Nach Ryus Uebergang bekommt Han keine letzte
+Verhandlung und kein Rettungsangebot. Er bekommt eine Bestandsaufnahme. Der
+Raum spiegelt den ersten Boardroom: gleicher Rang, gleiche Hoefflichkeit,
+aber diesmal bewegt keiner seiner Saetze noch etwas Tragfaehiges.
+
+**Anlass:** Han kommt nicht, weil Georgij ihn bestellt. Er kommt, weil nach
+Motors/Electronics eine formale Uebergabekonferenz noetig ist: Restholding,
+Vertraege, Garantien, Altlasten, Banklinien, Verwaltungszugaenge. Die Form
+ist Verwaltung; die Wirkung ist Hinrichtung ohne Hinrichtung.
+
+**Wer im Raum ist:** Annie, weil sie besitzt. Georgij, weil er gezaehlt hat.
+Han, weil er unterschreiben oder zur Kenntnis nehmen muss. Ein Hanseong-
+Anwalt oder externer Administrator. Eventuell ein Bank- oder Treuhandmensch.
+Ryu nicht.
+
+**Vorher laufen zwei bis fuenf Tage trockene Uebergabe:** Zugaenge, Banken,
+Versicherer, Lieferanten, Werkstattdaten, Schluesselpersonal,
+IT-/Softwarelizenzen, Garantie- und Telematikdaten. Jeder kleine Vorgang
+zeigt: Han muss nicht mehr gefragt werden.
+
+**Auf dem Tisch liegt nicht, was Annie genommen hat, sondern was Han behalten
+hat:** Holding mit Schulden, ausblutende Toechter, politische Altlasten,
+Garantiereste, leere Markenrechte, ein Gebaeude mit Hanseong am Eingang,
+Familienmitglieder, die verkauft haben, und Ryus Abwesenheit.
+
+**Die Papiere auf dem Tisch:** Hans eigenes datiertes Rettungspapier;
+Sang-hoons entwertetes Blatt als stilles Gegenbild; Bestaetigung der
+verkauften Familienpakete; Liste der profitablen Einheiten, die nicht mehr
+bei Han liegen; Liste der Reste; Ryus Uebergabenotiz mit Initialen.
+
+**Ryu ist nicht im Raum.** Das ist staerker als eine Konfrontation. Han kann
+ihn nicht anschreien, nicht zurueckrufen und nicht benutzen. Vielleicht liegt
+nur eine Uebergabenotiz mit Ryus Initialen im Paket. Der Verlust wird nicht
+dialogisch entladen.
+
+**Annie sitzt dort, weil sie besitzt. Georgij spricht, weil er gezaehlt
+hat.** Die Guidance-Frage ist kein Angebot, sondern ein Protokoll der
+zugebauten Wege: Verkauf zu spaet, Familie verkauft, Ryu weg, Gong aus der
+Hanseong-Akte, Motors/Electronics sauber gebunden, Shipping unter Annies
+Namen, Credit giftig, Singapur offen.
+
+**Die Frage kommt erst, wenn Han gerechnet hat.** Vorher waere sie nur eine
+Beleidigung. Nach den Papieren ist sie ein Protokoll: Han sucht beim Hoeren
+nach Auswegen und findet keinen, ohne dass Georgij sie einzeln erklaeren
+muss.
+
+Moeglicher Satz nach der Frage, korrigiert am 02.09.:
+
+> "You were born into the name," said Georgij. "You never became the man it
+> required."
+
+**Warum nicht mehr `You kept the name`:** Das waere zu freundlich und falsch.
+Zum Namen gehoeren Macht, Verantwortung und Kompetenz. Han hat den Namen
+geerbt, aber Verantwortung und Kompetenz nie getragen; darum verliert er am
+Ende auch die Macht des Namens. Er behaelt nur die Silben an der Tuer.
 
 ## 4b. Die Guidance-Frage an den Erben, vom Autor am 29.08.
 
@@ -4109,18 +5540,37 @@ als der Gegner gebaut, der nicht verlieren kann:
   Mann.** Das Amt, das ihn in diesem Band gejagt hat, gehoert am Bandende
   ihm.
 
-**Wie er faellt, ist offen. Mein Vorschlag, und er kommt ohne eine einzige
-Erfindung aus:**
+**Wie er faellt, ist festgelegt und kommt ohne eine einzige Erfindung aus:**
 
-**Er faellt an seiner eigenen Akte.** Ein Staatsanwalt, der aus einem
-privaten Grund - Chois Tod - eine Akte ueber Menschen fuehrt, gegen die
-nichts vorliegt, **benutzt Amtsmittel fuer eine private Rechnung.** Das ist
-die eine Sache, die einen ehrlichen Staatsanwalt kippt: **er wird zu dem,
-was er jagt.**
+**Er faellt an seiner eigenen Akte.** Gong bekommt durch Hans formal saubere
+Beschwerde einen echten Anlass: Behoerdenkontakt, Kursbruch, Derivate,
+Cash-Bids, Hwang in Woos Buero, Annie als Kaeuferin. Er schreibt keine
+schlechte Akte. Er schreibt eine gute Akte mit falschem Schwerpunkt, weil
+sein privater Grund - Choi, 2002, Georgij - bestimmt, welche Tiefe er nimmt
+und warum er die Sache bei sich haelt.
+
+**Das reicht noch nicht zum Absaegen.** Zuerst bekommt Gong eine saubere
+Ausfahrt: Die Akte gegen Annie kann geloest zugehen, weil nichts auf sie
+zeigt, und die Hanseong/Credit/Singapur-Sache kann in die zustaendige
+Schiene abgegeben werden. Georgij besucht ihn und macht genau diese Loesung
+emotional unertraeglich, indem er Choi kalt als verdienten Dreck benennt.
+Erst danach erweitert Gong die Akte gegen die Umleitung selbst - Seol, Chu,
+Wi, die Verteiler, die Kontrollinstanzen. Das sind neue Amtsakte nach
+Kompetenzentzug, nicht verspaetete Ruecklaeufer aus seinen ersten Anfragen.
+Das ist die eine Sache, die einen ehrlichen Staatsanwalt kippt: **er wird zu
+dem, was er jagt.**
 
 **Georgij muss nichts erfinden und nichts faelschen** - Regel 1. Er muss nur
 dafuer sorgen, dass die Riege oben sieht, was der Mann tut. **Und die Riege
 oben ist zu diesem Zeitpunkt laengst mit Georgijs wahren Sachen versorgt.**
+
+**Was vorher gebaut wurde:** Kontakte zu Staatsanwaelten, ehemaligen
+Oberstaatsanwaelten, Ministerien und den ausfuehrenden Ebenen. Die wichtigen
+Leute oben muessen wissen, dass es einen sauberen Ersatz gibt; die Leute
+unten muessen wissen, welche Akte wahr ist und wohin sie gehoert. Einige sind
+bis dahin schon kommissarisch oder informell in Position, weil der
+Hanseong-/Singapur-Zug sie als die einzigen brauchbaren Traeger wahrer Akten
+sichtbar gemacht hat.
 
 **Die Pointe, die daraus faellt:** Choi wurde 2002 aus dem Dienst geholt,
 indem man ihm *one thing to do that he cannot undo* gab (`b2 ch77:90`).
@@ -4145,32 +5595,65 @@ sie.**
    **Geschrieben: `b3 ch02`, Tag 600, der neunundvierzigste Tag.**
 3. **Die Anklage:** *"I am interested in what you are going to be at
    sixty."*
-4. **Lot elf kommt an** - frueh im Band, damit er da ist und lernt, waehrend
-   alles Uebrige passiert.
-5. **Der Feldzug beginnt:** die Geschwister, die Anteile, die ersten Kaeufe.
+4. **Lee Jun kommt an**, frueh im Band, damit er da ist und lernt, waehrend
+   alles Uebrige passiert. Mrs Seo nimmt ihn in Empfang, derselbe Flur,
+   dieselbe Frau, und der, der zuerst so ankam, steht daneben.
+   **Er ist kein Punkt, sondern ein Faden**, und er laeuft durch beide
+   weiteren Akte: das Anlernen, das Halsband, die Rechnung mit Annie, die
+   niemand ausspricht. **Kein Kapitel, das ihn nur erwaehnt.**
+
+   **Warum er die Last des Bandes traegt, und das ist am 04.09.
+   nachgetragen:** Gongs Anklage lautet *"I am interested in what you are
+   going to be at sixty."* Sie ist unbeantwortbar, weil sie ueber die
+   Zukunft geht. **Das Einzige, was ihr etwas entgegensetzt, ist nichts,
+   was Georgij sagt, sondern ein Sechzehnjaehriger, dem er beibringt, was
+   er in elf Haeusern gelernt hat** - und der Leser darf dabei nicht sicher
+   sein, ob das eine Rettung ist oder eine Weitergabe. **Wenn Lee Jun eine
+   Zeile bleibt, steht die Anklage am Bandende unwidersprochen da**, und
+   zwar nicht, weil sie recht hat, sondern weil nichts daneben steht.
+5. **Der Feldzug beginnt:** die Geschwister, die Anteile, die ersten Kaeufe;
+   parallel liest Georgij die Divisionen und bereitet Kunden, Glaeubiger,
+   Anteilseigner, Gegenparteien, Staatsanwaelte, Ministerien und
+   ausfuehrende Stellen vor. Noch kein oeffentlicher Sturz.
 
 ### Akt II - Herbst
 
-6. **Die Sang-hoon-Szene**, Bandmitte: die Wahl, der Wangenkuss, *"You cannot
-   say that any more."*
-7. **Das Grab von Woos Frau:** das Geschenk mit den zwanzig Prozent.
-8. **Der Oberstaatsanwalt wird abgesaegt** - an seiner eigenen Akte. Die
-   Akte ist seit Akt I gewachsen, und die Falschen haben es gesehen.
-9. **Der Boersenzug.**
-10. **Die Yeom-Szene**, und am selben Abend der Haus-Beat.
+6. **Die Sang-hoon-Szene**, Bandmitte, nach der Hauptvorbereitung und vor dem
+   Boersenzug: die Wahl, das entwertete Short-Blatt, der Wangenkuss,
+   *"You cannot say that any more."*
+7. **Hans eigenes Datum und der Boersenzug beginnt.** Erst produziert Han
+   durch eine falsche Reaktion ein datiertes Papier aus seinem eigenen
+   Apparat; dann laeuft die Serie Shipping -> Credit/Jinyang/Singapur. Woos
+   Papiere werden gefunden und fuer das Grab markiert, aber noch nicht
+   ausgespielt.
+8. **Gong greift sichtbar an und verliert die Hanseong-Akte** - zwischen
+   Credit/Singapur und Motors. Han gibt ihm durch eine formal saubere
+   Beschwerde den Anlass; Gong schreibt eine fachlich vertretbare Akte mit
+   falschem Schwerpunkt. Die richtigen Kontakte sind vorbereitet, die
+   Falschen haben es gesehen, und Gong wird zuerst nur aus diesem Vorgang
+   genommen. Sein Amtssturz laeuft danach ueber Tage und Wochen.
+9. **Die Yeom-Szene und der Haus-Beat am selben Abend.** Yeom liest die
+   leeren Firmen, bevor Motors/Electronics herausgeschnitten werden, und gibt
+   dem Wort Freund seine Rechnung.
+10. **Das Grab von Woos Frau:** Georgij bringt die zwanzig Prozent dorthin,
+   wohin sie gehoeren. Annie hat es erlaubt, aber es ist sein Geschenk und
+   die Szene gehoert ihm und Woo.
+11. **Der Boersenzug geht weiter:** Motors -> Electronics als gekoppelter
+    Doppelschlag, rechtlich getrennt; danach Ryus Uebergang und der
+    Spiegelraum.
 
 ### Akt III - Spaetherbst bis Winter
 
-11. **Hanseong faellt.** Die rechte Hand geht ueber, der Erbe behaelt die
+12. **Hanseong faellt.** Die rechte Hand geht ueber, der Erbe behaelt die
     Blutungen.
-12. **Die Rede an den Inhaber, und die Guidance-Frage ist ihre Form.** Der
+13. **Die Rede an den Inhaber, und die Guidance-Frage ist ihre Form.** Der
     Finisher: er kommt, weil der Mann erledigt ist, und nach ihm kommt kein
     Zug mehr. Falls die Seite existiert, der Registerzug hier. **Feste
     Regel, siehe `doc/16-motive.md`.**
-13. **Der Kuss.** Woo lebt, nichts liegt auf dem Tisch, Georgij besitzt
+14. **Der Kuss.** Woo lebt, nichts liegt auf dem Tisch, Georgij besitzt
     nichts.
-14. **Woo stirbt**, eingeschlafen. **Die beiden Umschlaege am selben Tag.**
-15. **Die Beisetzung.** Sie nimmt seine Hand, vor mehreren hundert Leuten.
+15. **Woo stirbt**, eingeschlafen. **Die drei Briefe am selben Tag.**
+16. **Die Beisetzung.** Sie nimmt seine Hand, vor mehreren hundert Leuten.
     **Ende.**
 
 ### Die Reihenfolge der Rede, vom Autor am 29.08. zweimal festgelegt
@@ -4193,8 +5676,15 @@ Eleganz seines Falls.** Er faellt an seiner eigenen Akte, **ohne dass
 Georgij ihn je anfasst** - keine Rede, keine Konfrontation, kein Satz.
 **Eine Ansage an ihn wuerde Georgij zum Urheber seines Sturzes machen, und
 genau das war die Anklage:** dass dieses Haus ehrliche Staatsanwaelte
-wegraeumt. **Er ist der eine Gegner, den Georgij nie adressiert, und das
+wegraeumt. **Er ist der eine Gegner, der keine Rede bekommt, und dieses
 Schweigen ist die Antwort auf den Vorwurf.**
+
+**Praezisiert am 04.09.:** hier stand *der eine Gegner, den Georgij nie
+adressiert*, und das stimmt nicht mehr. Georgij spricht viermal mit ihm -
+im Saal, im Buero bei der Anklage, beim Bringen der sauberen Ausfahrt und
+nach dem Sturz. **Was er nie bekommt, ist die Rede**, und nur darauf laeuft
+die Regel. Wer den alten Wortlaut ernst nimmt, streicht vier Szenen, die
+der Plan ausdruecklich vorsieht.
 
 **Und die Rede gewinnt durch die Reihenfolge einen Boden, den sie nicht
 ausspricht:** der Mann, der den Sprecher mit der ganzen Macht des Staates
@@ -4202,6 +5692,30 @@ gejagt hat, ist weg, **und die Rede erwaehnt ihn mit keinem Wort.** Der
 Inhaber weiss es, der Leser weiss es, und der Satz mit dem Brennholz faellt
 in einen Raum, in dem niemand mehr hinter dem Sprecher steht ausser dem, was
 er getan hat.
+
+### Was durch alle drei Akte laeuft und in keinem Punkt steht
+
+**Nachgetragen am 04.09., weil es sonst nicht gebaut wird.** Die
+achtundfuenfzig aus `b2 ch83` sind kein Posten, der eingeloest wird,
+sondern einer, der laeuft. **Sie stehen im Schuldbuch und in keinem der
+sechzehn Punkte** - und was nicht im Geruest steht, schreibt beim Schreiben
+niemand.
+
+**Die Form: Zahlen am Rand, nie eine Szene.** Ein Satz alle paar Kapitel.
+Wie viele es inzwischen sind, wie viele nicht mehr leben, wie viele nicht
+gefunden werden wollten. Hwang hatte vier am Ende von Band 2.
+
+**Warum es genau so laufen muss:** waehrend Georgij einen Chaebol
+auseinandernimmt, laeuft im Hintergrund die Arbeit weiter, die niemandem
+nuetzt und die er niemandem erzaehlt. **Das ist die Antwort auf Gongs
+Anklage, und sie wird nie ausgesprochen.** Wer sie ausspricht, macht aus
+ihr eine Verteidigung; wer sie am Rand mitlaufen laesst, macht sie zu einer
+Tatsache.
+
+**Und der Faden hat eine Uhr, die schneller laeuft als der Band:** Moon
+Hae-sook ist die Einzige, die die Namen hat, sie sitzt in einem Stuhl am
+Kuechengarten, und `b2 ch90` sagt, dass es Jahre dauern wird. **Jeder
+Satz am Rand ist deshalb auch eine Zahl ueber sie.**
 
 **Nicht einsortiert und flexibel:** die Grabszene kann frueher liegen (der
 Sterbetag der Frau ist Tag 341, der Besuch ist jederzeit moeglich), und die
@@ -4220,11 +5734,36 @@ Anwalt und gehen **am Tag seines Todes** auf (`b2 ch82:252`).
 waiting to be asked since the tenth of January."* **Sie hat sich geweigert zu
 fragen, und bekommt sie jetzt, ohne gefragt zu haben.**
 
+**Stand 02.09.:** Der Brief ist Zeugenmaterial, kein Trost. Woo beantwortet
+nicht in Annies Reihenfolge, sondern in seiner:
+
+1. **wie Choi an den Tisch ihres Vaters kam;**
+2. **was ihr Vater wusste und was er nicht wissen wollte;**
+3. **welche Teile belegbar sind und bei wem;**
+4. **was nur Woo sagen kann, weil nur er in diesem Raum war.**
+
+> *Your third question is first, because it is the only one that dies with me.*
+
 ## Brief zwei, an beide: das Testament
 
 **Zuerst seine Leute, mit Namen und Betrieben. Dann die Gruppe an Georgij und
 Annie, fuenfzig zu fuenfzig, kein Vorgang ohne beide Namen, und bei
 Uneinigkeit faellt alles an die Belegschaft.**
+
+**Praezisiert am 02.09.:** kein Verkauf, keine Verpfaendung, keine
+Eingliederung und keine grosse Entscheidung ohne beide Namen. Die Struktur ist
+der Segen, aber Woo wuerde ihn nicht so nennen.
+
+> *I have made it inconvenient on purpose. Convenient things are sold.*
+
+**Kein sofortiger sichtbarer Job.** Georgij darf den stillen Namen nutzen,
+solange die Sache noch blutet und Hanseong repariert wird. Woo zwingt nicht
+in sein Terminal und nicht in einen Titel. Sichtbare Verantwortung wird erst
+nach Stabilisierung faellig.
+
+> *You may hold it quietly while it is being made safe. You may not profit from it quietly.*
+
+> *Before either of you takes one won out of this, both names will have stood where the work is done.*
 
 ## Brief drei, an Georgij: die Fuehrung aus den ersten vierzehn Tagen
 
@@ -4232,9 +5771,44 @@ Uneinigkeit faellt alles an die Belegschaft.**
 guidance. Chairman Woo has told several people that you asked him the same
 thing, in almost the same words, some minutes earlier."*
 
-**Woo hat zwei Jahre lang in Stuecken geantwortet. Das ist der Rest.**
+**Stand 02.09.:** Woo hat zwei Jahre lang in Stuecken geantwortet. Der Brief
+ist der Rest, aber nicht als langer Therapiebrief und nicht als Dankesliste.
+Er darf laenger sein, solange er als letzter Woo-Zug funktioniert: erst geht
+Woo zu seiner Frau, dann laesst er Annie und Georgij miteinander zurueck.
+
+> *I am going to my wife.*
+
+> *She waited badly when I was late for dinner, and I have been late for some years.*
+
+> *That is mine. This next part is yours.*
+
+> *You asked me for guidance in your first fortnight. This is the part I could not give you while I was alive.*
+
+> *I answered the question you put in front of me. It was not the answer you needed.*
+
+> *A man can be selfish by refusing as cleanly as by taking.*
+
+> *I know the value of a quiet name. Use it while the thing is still bleeding. Do not call that ownership when it begins to pay.*
+
+> *I have arranged the document so that refusal is also a signature.*
+
+> *Sign the papers.*
+
+> *If you cannot do it for yourself, do it because otherwise she will have to hold both halves.*
+
+> *I am not giving you anything. I am leaving two people a problem they are better suited to than I was.*
+
+> *Do not leave her to own what you were too clean to touch.*
+
+**Damit wird das Testament Pflicht statt Geschenk.** Georgij kann nicht
+ablehnen, ohne Annie etwas aufzubuerden. Das ist genau die Art Falle, die nur
+Woo bauen darf.
 
 ### Was der Brief tut, und warum nur Woo ihn schreiben kann
+
+**Dieser Unterbau bleibt als Begruendung, aber die alte Ausfuehrung unten ist
+nicht mehr aktiv.** Der aktive Brief sagt nicht aus, dass Georgij lernen muss
+anzunehmen. Er macht sein Ablehnen als Handlung sichtbar.
 
 **Georgijs blinder Fleck ist, dass er nichts annehmen kann.** Zwei Baende
 lang nimmt er nichts: keinen Umschlag, keine Gefaelligkeit, kein Geschenk.
@@ -4246,11 +5820,14 @@ Schluessel dazu und macht das Thema des Bandes ausdruecklich.**
 einundfuenfzig Jahre lang getan hat und weiss, was sie kostet: *"I have never
 had a name and I have never asked for one"* (`b1 ch19:166`).
 
-### Der Text, in voller Laenge
+### Alte lange Fassung, nicht aktiv
 
-**Vom Autor am 29.08. verlangt: laenger, und mit vier Sachen darin** - Stolz,
-ihn Freund nennen zu duerfen; die Freude, zu seiner Frau zu kommen; und Dank
-fuer die zwanzig Prozent, die Ehrlichkeit und die drei Stunden.
+**Ueberholt am 02.09.** Die vier Sachen darin bleiben als Rohmaterial -
+Stolz, ihn Freund nennen zu duerfen; die Freude, zu seiner Frau zu kommen;
+und Dank fuer die zwanzig Prozent, die Ehrlichkeit und die drei Stunden. Die
+aktive Fassung oben ist aber haerter, weniger erklaerend und keine
+Dankesliste. Der alte Schluss mit den Raeumen ist nur noch Rohmaterial, nicht
+der aktive letzte Satz.
 
 **Die drei Stunden sind belegt und gehoeren Georgij.** `b2 ch13:122`: *"You
 are the only man in this country who has ever talked to me for three hours
@@ -4948,6 +6525,30 @@ weggeraeumt, und du bist der Zweite.**
 Georgij did not move from where he was standing.
 
 "I am not interested in whether you can justify what you did." The prosecutor put the file square with the edge of the desk. "I am interested in what you are going to be at sixty."
+
+**Festgelegt am 01.09.: Georgij beantwortet diesen Satz nicht mit der grossen
+Burn-down-Wahrheit.** Die Wahrheit gehoert in den Raum, aber nicht als
+souveraene, fertige Antwort an Gong; sonst gewinnt Georgij die Szene zu
+schnell. Die Antwort kommt als Zweistufe:
+
+> "As long as I am by her side," said Georgij, "the question is badly put."
+
+Gong erkennt, dass das keine Antwort ist:
+
+> "No. That is why it is correctly put."
+
+Wenn Georgij dann einen Millimeter zu viel preisgibt, darf die haertere
+Wahrheit fallen:
+
+> "I know what I will do if somebody points anything at her."
+
+Gongs Schluss darf knapp sein:
+
+> "So did Choi," said Gong.
+
+**Damit bleibt Gongs Treffer stehen.** Er widerlegt Georgij nicht, sondern
+stellt ihn neben Choi. Georgij sagt nichts Unwahres, aber er liefert genau den
+Beweis, dass die Frage berechtigt ist.
 
 **Die Alterszahlen dieses Entwurfs sind jetzt im Roman durchgezogen.** Band 2
 und `b3 ch02 v1.8` setzen Choi 2002 auf fuenfunddreissig, bei seinem Tod auf
