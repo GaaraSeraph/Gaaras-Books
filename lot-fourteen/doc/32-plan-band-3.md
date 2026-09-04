@@ -5540,6 +5540,90 @@ Band 6.
 * **Der Junge sagt am Abend vier Woerter, und alle vier gehen an Mrs Seo.**
   Nicht an Georgij, und nicht an die Frau, der er gehoert.
 
+## Was `b3 ch05` festlegt
+
+**Der Feldzug faengt nicht mit Ehrgeiz an, sondern damit, dass ein
+Siebenundsechzigjaehriger sagt, seine Spalte benehme sich nicht.**
+
+> "I want to say first what this is not. It is not a complaint and it is not a
+> finding, and if I were still where I was I would not have written it down."
+>
+> "Say what it is."
+>
+> "It is untidy."
+
+**Die drei Messungen aus dem Plan stehen als Zahlen und nicht als
+Verdacht:**
+
+| | |
+|---|---|
+| Anlaeufe am Terminal, 2. Maiwoche bis Ende Juli | **81** |
+| davon um mehr als vier Stunden verschoben | **19** |
+| davon ihre | **14** |
+| ihr Anteil am Verkehr | etwa ein Fuenftel |
+| von den vierzehn mit einer Vertragsstrafe darunter | **11** |
+| ueber acht Stunden | **keine** |
+
+**Acht Stunden ist die Linie**, und das ist der Fund, der die Absicht beweist,
+ohne dass irgendetwas zu beweisen ist: darunter ist es ein Vermerk, darueber
+ein Bericht mit einem Namen darauf, den jemand unterschreiben muss.
+
+> "Weather does not know where a threshold is." He put his hand flat on the
+> page. "And weather does not know which of a woman's ships has a penalty on
+> it and which one has three weeks."
+
+**Und daraus faellt die zweite Frage, die den halben Band traegt.** Wer
+vierzehn aus einundachtzig heraussucht, hat ihre Liefervertraege gelesen.
+Georgij sagt das in dem Zimmer nicht laut. Er schreibt es im Wagen, als
+einzige Zeile mit einem Fragezeichen:
+
+> *Eighty-one. Nineteen. Fourteen. Eleven with a clause.*
+>
+> *None over eight.*
+>
+> *Not weather.*
+>
+> *Who has read her contracts.*
+
+**Annie loest die Frage noch am selben Abend halb auf, und das ist die gute
+Nachricht des Kapitels:** in ihrem Haus haben vier Leute alle Vertraege
+gelesen und alle vier sind ausgeschlossen. **Also steht es in den Ausfertigungen
+der Gegenseite, und davon gibt es neunzehn.** Ein groesserer Raum, aber einer
+mit einer Form darin.
+
+**Und sie zahlt die eigene Rechnung dazu, ohne dass jemand sie fragt:**
+
+> "There is a reactor at Yeosu that has been cold twice since June. I was told
+> both times that it was a valve."
+>
+> "Was it a valve?"
+>
+> "It was a valve both times. A valve fails when a plant runs hot because a
+> charge came in late and somebody made the time up."
+
+**Sie hat es seit Mai zweimal im Monat bezahlt und Wartung dazu gesagt.**
+
+### Was der Text ausdruecklich nicht sagt
+
+**Der Plan verlangt es so:** *Hier faellt es ihm auf, ohne dass jemand ihn
+gefragt hat - und der Text zeigt darauf nicht.* Also steht nirgends, dass
+Hwang zum ersten Mal in einunddreissig Jahren selbst etwas gefunden hat.
+**Es steht nur in seiner Antwort auf die einzige Frage, die Georgij ihm
+stellt, die nichts mit der Sache zu tun hat:**
+
+> "It is a small column and it is honest. I did thirty-one years of a large
+> one and I do not know how much of that was honest. I am not going to find
+> out now, because the house is gone and there is nobody left to ask."
+>
+> "This one I can get to the bottom of by half past four."
+
+### Die Ablage aus ch05
+
+**Vier Zeilen im Wagen, und die vierte ist die Frage.** Entnommen wird sie
+nicht in einer Rechercheszene, sondern dadurch, dass der Feldzug sie
+beantwortet: wer die Vertraege gelesen hat, faellt aus der
+Gegenparteienseite heraus, waehrend Georgij die Gruppe aufmacht.
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -5813,7 +5897,9 @@ sie.**
    sein, ob das eine Rettung ist oder eine Weitergabe. **Wenn Lee Jun eine
    Zeile bleibt, steht die Anklage am Bandende unwidersprochen da**, und
    zwar nicht, weil sie recht hat, sondern weil nichts daneben steht.
-5. **Der Feldzug beginnt:** die Geschwister, die Anteile, die ersten Kaeufe;
+5. **Der Feldzug beginnt, und er faengt als Verteidigung an.** Hwangs Spalte:
+   **geschrieben, `b3 ch05`, Tag 672, Freitag der 6. August.** Danach die
+   Geschwister, die Anteile, die ersten Kaeufe;
    parallel liest Georgij die Divisionen und bereitet Kunden, Glaeubiger,
    Anteilseigner, Gegenparteien, Staatsanwaelte, Ministerien und
    ausfuehrende Stellen vor. Noch kein oeffentlicher Sturz.
