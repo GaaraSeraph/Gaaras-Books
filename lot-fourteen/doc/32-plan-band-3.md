@@ -5495,8 +5495,21 @@ einmal von vorn: *He is not a present and he is not a debt.*
 >
 > "No."
 
-**Er nimmt ihren Grund an und haelt das Zurueckhalten trotzdem fuer falsch.**
-Das bleibt so stehen.
+**Er nimmt ihren Grund an und haelt das Zurueckhalten trotzdem fuer
+falsch.** Und sie antwortet darauf mit einem Wort:
+
+> "Good."
+
+**Berichtigt am 05.09.** Hier stand vorher: *"Then we are going to leave it
+where it is, and it is going to be there in ten years."* **Das ist ein Groll
+mit Terminplan, und dieser Mann haelt gegen sie nichts.** Ihr *Good* meint
+nicht die Sache, sondern die Antwort: **sie nimmt lieber ein ehrliches Nein
+als ein gewohnheitsmaessiges Ja**, und daran haengt die ganze Beziehung.
+
+> She has had a great many people say yes to her, and she can tell the two
+> apart from the other side of a room.
+
+**Damit ist die Sache erledigt und nicht aufgehoben.**
 
 **Und sie loest es nicht auf.** *"Then we are going to leave it where it is,
 and it is going to be there in ten years, and neither of us is going to be

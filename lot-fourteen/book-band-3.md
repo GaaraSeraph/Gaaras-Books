@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 4 Kapitel, 8.230 Woerter.
+Book Three, 4 Kapitel, 8.220 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,7 +14,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.6 | 2.103 |
 | 02 | v1.10 | 2.103 |
 | 03 | v1.6 | 2.009 |
-| 04 | v1.8 | 2.015 |
+| 04 | v1.10 | 2.005 |
 
 ---
 
@@ -692,7 +692,7 @@ Annie picked the pen back up.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -946,9 +946,9 @@ Georgij thought about that for about four seconds, which is a long time for him.
 
 Annie looked at him.
 
-"Good," she said. "Then we are going to leave it where it is, and it is going to be there in ten years, and neither of us is going to be surprised when it comes up."
+"Good."
 
-"Yes."
+She has had a great many people say yes to her, and she can tell the two apart from the other side of a room.
 
 "He is not a present and he is not a debt. He was fourteen and he was for sale twice." She picked the pen back up. "What you do with him from here is yours, and I am not going to have an opinion about it, and you may take that as the whole of what I owe you on this."
 

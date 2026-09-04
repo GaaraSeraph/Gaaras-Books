@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 363.810 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 363.914 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -743,7 +743,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**128 Kapitel, 341.405 Woerter.**
+**128 Kapitel, 341.412 Woerter.**
 
 ---
 
@@ -23521,8 +23521,21 @@ einmal von vorn: *He is not a present and he is not a debt.*
 >
 > "No."
 
-**Er nimmt ihren Grund an und haelt das Zurueckhalten trotzdem fuer falsch.**
-Das bleibt so stehen.
+**Er nimmt ihren Grund an und haelt das Zurueckhalten trotzdem fuer
+falsch.** Und sie antwortet darauf mit einem Wort:
+
+> "Good."
+
+**Berichtigt am 05.09.** Hier stand vorher: *"Then we are going to leave it
+where it is, and it is going to be there in ten years."* **Das ist ein Groll
+mit Terminplan, und dieser Mann haelt gegen sie nichts.** Ihr *Good* meint
+nicht die Sache, sondern die Antwort: **sie nimmt lieber ein ehrliches Nein
+als ein gewohnheitsmaessiges Ja**, und daran haengt die ganze Beziehung.
+
+> She has had a great many people say yes to her, and she can tell the two
+> apart from the other side of a room.
+
+**Damit ist die Sache erledigt und nicht aufgehoben.**
 
 **Und sie loest es nicht auf.** *"Then we are going to leave it where it is,
 and it is going to be there in ten years, and neither of us is going to be
@@ -32938,7 +32951,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:262 | Annie was at the desk at half past two and had been since eleven. |
 | 645 | b3ch04:300 | Annie put the pen down. |
 | 645 | b3ch04:328 | Annie looked at him. |
-| 645 | b3ch04:346 | Annie did not offer him one. |
+| 645 | b3ch04:348 | Annie did not offer him one. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -33185,7 +33198,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:90` (Tag 590) - four
 - `b3ch01:130` (Tag 592) - four, one, two
 - `b3ch04:262` (Tag 645) - eleven, two
-- `b3ch04:346` (Tag 645) - one
+- `b3ch04:348` (Tag 645) - one
 
 ---
 
@@ -34947,8 +34960,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
 | 645 | b3ch04:66 | Mrs Seo has never once told him a thing she was not told to tell him, and she has never .. |
 | 645 | b3ch04:230 | "Mrs Seo pays the household and she pays it on the last working day of the month." He sa.. |
-| 645 | b3ch04:354 | At seven the tray went up the way it has gone up at seven for ten years, and there was a.. |
-| 645 | b3ch04:358 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 645 | b3ch04:356 | At seven the tray went up the way it has gone up at seven for ten years, and there was a.. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -35035,8 +35048,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:108` (Tag 590) - one
 - `b3ch03:30` (Tag 628) - nine, ten
 - `b3ch04:66` (Tag 645) - one
-- `b3ch04:354` (Tag 645) - seven, ten
-- `b3ch04:358` (Tag 645) - four
+- `b3ch04:356` (Tag 645) - seven, ten
+- `b3ch04:360` (Tag 645) - four
 
 ---
 
@@ -37362,11 +37375,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
 | 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
 | 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:358 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 
 ### Zahlen in der Naehe von Lee Jun
 
-- `b3ch04:358` (Tag 645) - four
+- `b3ch04:360` (Tag 645) - four
 
 ---
 
