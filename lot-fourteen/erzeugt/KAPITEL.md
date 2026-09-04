@@ -136,4 +136,4 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 90** *The weapon* (v4.2) · Tag 590, So 16. Mai · 1.564 W
 - **B3 1** *The first thing that arrives* (v1.6) · Tag 592, Di 18. Mai · 2.103 W
 - **B3 2** *Thank you for coming* (v1.10) · Tag 600, Mi 26. Mai · 2.103 W
-- **B3 3** *At sixty* (v1.4) · Tag 628, Mi 23. Juni · 2.008 W
+- **B3 3** *At sixty* (v1.6) · Tag 628, Mi 23. Juni · 2.009 W

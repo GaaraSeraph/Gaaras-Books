@@ -6617,16 +6617,22 @@ dieser Mann debattiert nicht.** Er antwortet, und die Antwort ist selbst
 der Ausweichzug, ohne dass er ihn als solchen meint - **das ist schlimmer,
 weil er ihn nicht bemerkt.**
 
-> "I am going to be next to her," said Georgij.
+**Und kurz, bei beiden.** Der Autor am 04.09.: das Register ist das der
+Endgespraech-Zeilen, nicht deren Inhalt. Keine Rede auf keiner Seite.
 
-Gong zeigt ihm, dass das keine Antwort war:
+> "Next to her," said Georgij.
+>
+> "That is who. I asked what."
+>
+> Georgij did not answer.
+>
+> "Say one thing you will be at sixty that does not have her in it."
+>
+> "I cannot."
 
-> "That is not what I asked you, and you knew that before you said it. I
-> asked what you are going to be. You have told me who you are going to be
-> next to."
-
-> "Those are the same sentence for twenty years and then they are not, and
-> nobody is ever in the room on the day they come apart."
+**Die Ecke erzeugt den Millimeter.** In der langen Fassung kam der Satz
+ueber Annie einfach; hier kommt er, weil ihm nichts anderes mehr
+uebrigbleibt.
 
 Wenn Georgij dann einen Millimeter zu viel preisgibt, darf die haertere
 Wahrheit fallen:

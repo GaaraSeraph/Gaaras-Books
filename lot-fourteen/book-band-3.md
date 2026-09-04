@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 3 Kapitel, 6.214 Woerter.
+Book Three, 3 Kapitel, 6.215 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -13,7 +13,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 |---|---|---|
 | 01 | v1.6 | 2.103 |
 | 02 | v1.10 | 2.103 |
-| 03 | v1.4 | 2.008 |
+| 03 | v1.6 | 2.009 |
 
 ---
 
@@ -436,7 +436,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -586,7 +586,9 @@ Gong Doo-hyun sat back for the first time since Georgij had come in.
 
 "And then?"
 
-"And then he stopped coming, and there was no week in which it happened." He said it without any weight on it. "There was no afternoon where he decided. It worked, and then it worked again, and by the third year the man who used to say what a bad indictment looked like did not say it any more, because nobody at that table was writing indictments."
+"And then he stopped coming, and there was no week in which it happened."
+
+"There was no afternoon where he decided. It worked, and then it worked again." He said it without any weight on it. "By the third year the man who used to say what a bad indictment looked like did not say it any more. Nobody at that table was writing indictments."
 
 Georgij did not say anything for about four seconds.
 
@@ -594,19 +596,21 @@ Georgij did not say anything for about four seconds.
 
 * * *
 
-"I am going to be next to her," said Georgij.
+"Next to her," said Georgij, and it was an answer to a question that had been asked six minutes earlier.
 
-Gong Doo-hyun did not take any time over it.
+"That is who. I asked what."
 
-"That is not what I asked you, and you knew that before you said it." He was perfectly even about it. "I asked what you are going to be. You have told me who you are going to be next to."
+Georgij did not answer.
 
-Georgij looked at the sill behind him, at a photograph of three people, and then back.
-
-"Those are the same sentence for twenty years and then they are not, and nobody is ever in the room on the day they come apart."
-
-* * *
+"Say one thing you will be at sixty that does not have her in it."
 
 Georgij had his hands where the man could see them and had not moved them since he sat down.
+
+"I cannot."
+
+Gong Doo-hyun did not write it down and did not need to.
+
+* * *
 
 "I know what I will do if somebody points anything at her."
 
@@ -619,6 +623,10 @@ Neither of them said anything for a while.
 It is the first time in two years that a sentence has been put in front of Georgij that he could not take apart, and it took the man in the chair three words and no papers at all.
 
 He did not try. Trying would have been an answer and there was not one.
+
+Gong Doo-hyun did not follow it up.
+
+He had brought a man in to find out one thing. He found it out at twenty to four, and there was nothing to put in the rest of the hour, and neither of them got up.
 
 * * *
 
