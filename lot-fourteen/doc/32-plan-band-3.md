@@ -5639,6 +5639,90 @@ nicht in einer Rechercheszene, sondern dadurch, dass der Feldzug sie
 beantwortet: wer die Vertraege gelesen hat, faellt aus der
 Gegenparteienseite heraus, waehrend Georgij die Gruppe aufmacht.
 
+## Was `b3 ch06` festlegt
+
+**Die Frage aus ch05 wird beantwortet, und die Antwort ist, dass niemand
+etwas Unrechtes getan hat.**
+
+**Die neunzehn Gegenparteien werden nicht um Kopien gebeten**, weil ein Mann,
+der um eine Kopie bittet, neunzehn Firmen gesagt hat, dass er eine will. Die
+Frage geht aus ihrem Haus, auf ihrem Papier, ueber den Namen der Frau, die
+diese Vertraege seit neun Jahren verwaltet, und lautet nur, ob im letzten
+Jahr jemand danach gefragt hat.
+
+**Fuenfzehn nein, zwei keine Antwort, zwei erinnern sich** - und beide
+erinnern sich an eine Form und nicht an einen Menschen.
+
+### Das Werkzeug ist ein Versicherungsfragebogen, und es ist seins
+
+**Ein Versicherer darf nach den Bedingungen des Vertrags fragen, hinter dem
+seine Police sitzt.** Das ist keine Gefaelligkeit, sondern die Grundlage der
+Police, und wer sich weigert, bekommt einen Brief an seinen Underwriter.
+
+**Die Form fragt neun Sachen. Acht stehen vorn im Vertrag.** Die neunte sagt,
+was ein verspaetetes Schiff kostet, und sie ist als Einzige in keinen zwei
+der neunzehn gleich.
+
+**Und Georgij kennt das Instrument besser als der Mann, der es benutzt**,
+weil er es zuerst benutzt hat. `b2 ch02:34`: eine Zeile eines Versicherers
+ueber Verladerkonzentration, weitergegeben an eine Frau in Ulsan mit vier
+Lastwagen, vier Minuten und ein gefaltetes Blatt.
+
+> *Nobody has done anything wrong.*
+>
+> *The form is mine.*
+>
+> *He is not better at this than I am. He is doing it to somebody who is.*
+
+**Der Maklername bleibt liegen, und der Text sagt warum.** Ihn zu fragen
+kostet nichts und verraet alles: er wuerde antworten, und bis Montag wuesste
+der Auftraggeber, dass jemand gefragt hat. **Also wartet Georgij, bis der Mann
+es wieder tut.** Das ist dasselbe Verfahren wie bei Byun und bei Choi, und es
+ist der Grund, warum der Band Zeit hat.
+
+### Und die Bringschuld aus Band 2 wird bezahlt
+
+**`b2 ch65:200`, Annie:** *"Get me the date he made the second correction and
+the words he used, and do not paraphrase them, and then go and eat
+something."* **Vierhundertdreissig Erzaehltage offen.**
+
+**Der Anlass ist Chois Tod:** ein Trust kuemmert das nicht, die Akte schon,
+und Baek geht sie mit einem Kollegen zweimal durch, um sie sauber zu
+schliessen. Dabei findet er, was nie in seiner Aktennotiz stand.
+
+> The date is the eleventh of March, and the draft is initialled beside it.
+>
+> *If I ask you to stop it, you will tell me that you cannot.*
+>
+> "He did not write *may not*. He wrote *cannot*, and then he made it true,
+> and he paid me to be the man who says it to him."
+
+**Er war achtunddreissig.** Elf Jahre bevor ein Mann in einem kleinen Zimmer
+ihn gefragt hat, wie viele Leute an seinem Tisch gegessen haben, hatte er
+schon aufgeschrieben, was er werden wuerde.
+
+**Georgij nimmt den Entwurf nicht und bittet um keine Kopie.** Er nimmt das
+Datum und den Wortlaut, weil das verlangt war. **Und er telefoniert nicht** -
+*"You asked for the date and the words and not for a telephone call, and
+there is a difference, and I have been the wrong side of it before."*
+
+### Und daraus faellt der einzige Satz, der dem Band voraus ist
+
+> "There is no drawer in this country with a line of mine in it that would
+> hold against me on a bad day, and I have never once thought about it until
+> this afternoon."
+>
+> "Do not build one."
+>
+> "Why not?"
+>
+> "Because you would build it well. And because the one you would build would
+> have my name in it, and I am not going to be the reason a man cannot stop."
+
+**Sie verbietet ihm Chois Loesung**, und der Grund ist nicht Vertrauen,
+sondern dass sie nicht das Schloss sein will. **Das steht hier und wird bis
+Band 6 nicht wieder angefasst.**
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**

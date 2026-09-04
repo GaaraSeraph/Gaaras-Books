@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 365.634 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 366.562 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -460,6 +460,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Zwei Sachen, die dabei stehenbleiben und spaeter zahlen](#zwei-sachen-die-dabei-stehenbleiben-und-spaeter-zahlen)
   - [Was der Text ausdruecklich nicht sagt](#was-der-text-ausdruecklich-nicht-sagt)
   - [Die Ablage aus ch05](#die-ablage-aus-ch05)
+  - [Das Werkzeug ist ein Versicherungsfragebogen, und es ist seins](#das-werkzeug-ist-ein-versicherungsfragebogen-und-es-ist-seins)
+  - [Und die Bringschuld aus Band 2 wird bezahlt](#und-die-bringschuld-aus-band-2-wird-bezahlt)
+  - [Und daraus faellt der einzige Satz, der dem Band voraus ist](#und-daraus-faellt-der-einzige-satz-der-dem-band-voraus-ist)
   - [Der Spiegelraum: Han bekommt kein Angebot mehr](#der-spiegelraum-han-bekommt-kein-angebot-mehr)
   - [Was eingebaut wird, sechs Sachen](#was-eingebaut-wird-sechs-sachen)
   - [Akt I - Sommer 2027](#akt-i-sommer-2027)
@@ -7176,7 +7179,7 @@ wird.**
 - [OFFEN] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig bei der Mitteilung an alle fuenf · "Go back and tell all five that they do not owe me anything." · Im heutigen Kanon wird keiner der fuenf unterrichtet. Die fruehere Kwon-Szene und vier Briefe existieren nur in geloeschten Fassungen
 - [OFFEN] **B2 88** Georgij an Mrs Sunwoo · gesagt Tag 573 · faellig bei dem Sommer nach Moons erstem Winter im Haus · "I will tell her in the summer." · Moon Hae-sook soll erfahren, dass jemand etwas fuer ihre Hochzeit zu tragen kaufte und es vier Jahre in einem Zimmer hing; Mrs Sunwoos Name darf dabei nicht fallen. Am Erzaehlstand Tag 600 ist der Sommer noch nicht erreicht
 - [OFFEN] **B2 67** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · "I will use your words and not mine." · B2 83 setzt Hwang an die Suche; B2 89 verbucht vier von achtundfuenfzig. Der Posten laeuft weiter
-- [OFFEN] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **Am Bandende offen, und der Text weiss es**
+- [BEZAHLT] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **B3 6, Tag 686.** Baek geht den Bestand durch, weil der Errichter im April gestorben ist, und findet die Zeile im Rand des Entwurfs, in eigener Hand und paraphiert: **11. Maerz, *If I ask you to stop it, you will tell me that you cannot.*** Georgij gibt beides weiter und nichts sonst - vierhundertdreissig Tage zu spaet und ohne eine einzige Umschreibung
 - [OFFEN] **B2 85** Mrs Seo an Georgij · gesagt Tag 531 · faellig Tag 897 · "In about a year I am going to tell you what it was." · **Sie setzt die Frist, damit sie nie faellig wird**: *you are going to have forgotten this conversation and I am not.* Tag 897 ist Samstag, der 18. Maerz 2028 - 2028 ist ein Schaltjahr, deshalb 366 und nicht 365 Tage. **Die Szene steht ganz in `doc/33-plan-band-4.md`, und er kommt auf den Tag.** Sie faellt hinter das Ende von Band 3, und der Plan dort verlangt fuer sie ein ruhiges Kapitel
 
 ## Verfallen
@@ -8773,6 +8776,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 3** - die Anklage | 628 | Mi **23. Juni 2027** |
 | **Band 3, Kapitel 4** - Lee Jun kommt an | 645 | Sa **10. Juli 2027** |
 | **Band 3, Kapitel 5** - Hwangs Spalte | 672 | Fr **6. August 2027** |
+| **Band 3, Kapitel 6** - der Makler, und die zweite Korrektur | 686 | Fr **20. August 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -23672,6 +23676,90 @@ nicht in einer Rechercheszene, sondern dadurch, dass der Feldzug sie
 beantwortet: wer die Vertraege gelesen hat, faellt aus der
 Gegenparteienseite heraus, waehrend Georgij die Gruppe aufmacht.
 
+## Was `b3 ch06` festlegt
+
+**Die Frage aus ch05 wird beantwortet, und die Antwort ist, dass niemand
+etwas Unrechtes getan hat.**
+
+**Die neunzehn Gegenparteien werden nicht um Kopien gebeten**, weil ein Mann,
+der um eine Kopie bittet, neunzehn Firmen gesagt hat, dass er eine will. Die
+Frage geht aus ihrem Haus, auf ihrem Papier, ueber den Namen der Frau, die
+diese Vertraege seit neun Jahren verwaltet, und lautet nur, ob im letzten
+Jahr jemand danach gefragt hat.
+
+**Fuenfzehn nein, zwei keine Antwort, zwei erinnern sich** - und beide
+erinnern sich an eine Form und nicht an einen Menschen.
+
+### Das Werkzeug ist ein Versicherungsfragebogen, und es ist seins
+
+**Ein Versicherer darf nach den Bedingungen des Vertrags fragen, hinter dem
+seine Police sitzt.** Das ist keine Gefaelligkeit, sondern die Grundlage der
+Police, und wer sich weigert, bekommt einen Brief an seinen Underwriter.
+
+**Die Form fragt neun Sachen. Acht stehen vorn im Vertrag.** Die neunte sagt,
+was ein verspaetetes Schiff kostet, und sie ist als Einzige in keinen zwei
+der neunzehn gleich.
+
+**Und Georgij kennt das Instrument besser als der Mann, der es benutzt**,
+weil er es zuerst benutzt hat. `b2 ch02:34`: eine Zeile eines Versicherers
+ueber Verladerkonzentration, weitergegeben an eine Frau in Ulsan mit vier
+Lastwagen, vier Minuten und ein gefaltetes Blatt.
+
+> *Nobody has done anything wrong.*
+>
+> *The form is mine.*
+>
+> *He is not better at this than I am. He is doing it to somebody who is.*
+
+**Der Maklername bleibt liegen, und der Text sagt warum.** Ihn zu fragen
+kostet nichts und verraet alles: er wuerde antworten, und bis Montag wuesste
+der Auftraggeber, dass jemand gefragt hat. **Also wartet Georgij, bis der Mann
+es wieder tut.** Das ist dasselbe Verfahren wie bei Byun und bei Choi, und es
+ist der Grund, warum der Band Zeit hat.
+
+### Und die Bringschuld aus Band 2 wird bezahlt
+
+**`b2 ch65:200`, Annie:** *"Get me the date he made the second correction and
+the words he used, and do not paraphrase them, and then go and eat
+something."* **Vierhundertdreissig Erzaehltage offen.**
+
+**Der Anlass ist Chois Tod:** ein Trust kuemmert das nicht, die Akte schon,
+und Baek geht sie mit einem Kollegen zweimal durch, um sie sauber zu
+schliessen. Dabei findet er, was nie in seiner Aktennotiz stand.
+
+> The date is the eleventh of March, and the draft is initialled beside it.
+>
+> *If I ask you to stop it, you will tell me that you cannot.*
+>
+> "He did not write *may not*. He wrote *cannot*, and then he made it true,
+> and he paid me to be the man who says it to him."
+
+**Er war achtunddreissig.** Elf Jahre bevor ein Mann in einem kleinen Zimmer
+ihn gefragt hat, wie viele Leute an seinem Tisch gegessen haben, hatte er
+schon aufgeschrieben, was er werden wuerde.
+
+**Georgij nimmt den Entwurf nicht und bittet um keine Kopie.** Er nimmt das
+Datum und den Wortlaut, weil das verlangt war. **Und er telefoniert nicht** -
+*"You asked for the date and the words and not for a telephone call, and
+there is a difference, and I have been the wrong side of it before."*
+
+### Und daraus faellt der einzige Satz, der dem Band voraus ist
+
+> "There is no drawer in this country with a line of mine in it that would
+> hold against me on a bad day, and I have never once thought about it until
+> this afternoon."
+>
+> "Do not build one."
+>
+> "Why not?"
+>
+> "Because you would build it well. And because the one you would build would
+> have my name in it, and I am not going to be the reason a man cannot stop."
+
+**Sie verbietet ihm Chois Loesung**, und der Grund ist nicht Vertrauen,
+sondern dass sie nicht das Schloss sein will. **Das steht hier und wird bis
+Band 6 nicht wieder angefasst.**
+
 ## 3. Lee Jun: warum sie Los elf gekauft hat, und was er gelernt hat
 
 **Vom Autor entschieden, und es ist eine Festlegung ueber Annie:**
@@ -32176,17 +32264,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 894 | 100 (b1ch01-b3ch05) | 1 | 672 |
+| Annie | 898 | 101 (b1ch01-b3ch06) | 1 | 686 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
-| Mr Hwang | 171 | 25 (b2ch07-b3ch05) | 166 | 672 |
+| Mr Hwang | 172 | 26 (b2ch07-b3ch06) | 166 | 686 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
 | Mrs Seo | 151 | 53 (b1ch03-b3ch04) | 1 | 645 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
-| Baek Jun-ho | 85 | 12 (b2ch39-b3ch01) | 270 | 592 |
+| Baek Jun-ho | 89 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -32212,7 +32300,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
-| Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
+| Mr Baek | 8 | 7 (b1ch05-b3ch06) | 6 | 686 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Lee Jun | 6 | 1 (b3ch04) | 645 | 645 |
@@ -32230,7 +32318,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-894 Nennungen in 100 Kapiteln.
+898 Nennungen in 101 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -33128,6 +33216,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:294 | Annie put the pen down. |
 | 672 | b3ch05:308 | Annie looked at the window for a moment, which she does perhaps once a month. |
 | 672 | b3ch05:322 | "I have been paying for that twice a month since May and calling it maintenance," said A.. |
+| 686 | b3ch06:250 | Annie did not say anything for a long time. |
+| 686 | b3ch06:264 | Annie put the pen down. |
+| 686 | b3ch06:288 | "Say the thing you are not saying," said Annie. |
+| 686 | b3ch06:298 | Annie turned round then. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34222,7 +34314,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-171 Nennungen in 25 Kapiteln.
+172 Nennungen in 26 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34397,6 +34489,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:202 | "What do you want me to do?" said Mr Hwang. |
 | 672 | b3ch05:214 | Mr Hwang squared the four pages and did not put them away. |
 | 672 | b3ch05:236 | Mr Hwang thought about it properly, which took him about four seconds. |
+| 686 | b3ch06:28 | Mr Hwang did not telephone about either of them. He put them in the column the way he pu.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -35750,7 +35843,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Baek Jun-ho
 
-85 Nennungen in 12 Kapiteln.
+89 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -35839,6 +35932,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
 | 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
 | 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
+| 686 | b3ch06:208 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
+| 686 | b3ch06:212 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Eleve.. |
+| 686 | b3ch06:218 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |
+| 686 | b3ch06:224 | "Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter a.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -35890,6 +35987,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:172` (Tag 590) - thirty-one
 - `b3ch01:84` (Tag 592) - eleven, one
 - `b3ch01:90` (Tag 592) - four, two
+- `b3ch06:212` (Tag 686) - eleven
+- `b3ch06:218` (Tag 686) - sixty-three, thirty-eight
 
 ---
 
@@ -37497,7 +37596,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Baek
 
-7 Nennungen in 6 Kapiteln.
+8 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -37508,6 +37607,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 | 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
+| 686 | b3ch06:176 | Mr Baek telephoned on the Friday morning, which he does not. |
 
 ### Zahlen in der Naehe von Mr Baek
 

@@ -18,17 +18,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 894 | 100 (b1ch01-b3ch05) | 1 | 672 |
+| Annie | 898 | 101 (b1ch01-b3ch06) | 1 | 686 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
-| Mr Hwang | 171 | 25 (b2ch07-b3ch05) | 166 | 672 |
+| Mr Hwang | 172 | 26 (b2ch07-b3ch06) | 166 | 686 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
 | Mrs Seo | 151 | 53 (b1ch03-b3ch04) | 1 | 645 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
-| Baek Jun-ho | 85 | 12 (b2ch39-b3ch01) | 270 | 592 |
+| Baek Jun-ho | 89 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -54,7 +54,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
-| Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
+| Mr Baek | 8 | 7 (b1ch05-b3ch06) | 6 | 686 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Lee Jun | 6 | 1 (b3ch04) | 645 | 645 |
@@ -72,7 +72,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-894 Nennungen in 100 Kapiteln.
+898 Nennungen in 101 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -970,6 +970,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:294 | Annie put the pen down. |
 | 672 | b3ch05:308 | Annie looked at the window for a moment, which she does perhaps once a month. |
 | 672 | b3ch05:322 | "I have been paying for that twice a month since May and calling it maintenance," said A.. |
+| 686 | b3ch06:250 | Annie did not say anything for a long time. |
+| 686 | b3ch06:264 | Annie put the pen down. |
+| 686 | b3ch06:288 | "Say the thing you are not saying," said Annie. |
+| 686 | b3ch06:298 | Annie turned round then. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -2064,7 +2068,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Hwang
 
-171 Nennungen in 25 Kapiteln.
+172 Nennungen in 26 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2239,6 +2243,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:202 | "What do you want me to do?" said Mr Hwang. |
 | 672 | b3ch05:214 | Mr Hwang squared the four pages and did not put them away. |
 | 672 | b3ch05:236 | Mr Hwang thought about it properly, which took him about four seconds. |
+| 686 | b3ch06:28 | Mr Hwang did not telephone about either of them. He put them in the column the way he pu.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -3592,7 +3597,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Baek Jun-ho
 
-85 Nennungen in 12 Kapiteln.
+89 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3681,6 +3686,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
 | 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
 | 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
+| 686 | b3ch06:208 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
+| 686 | b3ch06:212 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Eleve.. |
+| 686 | b3ch06:218 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |
+| 686 | b3ch06:224 | "Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter a.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -3732,6 +3741,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:172` (Tag 590) - thirty-one
 - `b3ch01:84` (Tag 592) - eleven, one
 - `b3ch01:90` (Tag 592) - four, two
+- `b3ch06:212` (Tag 686) - eleven
+- `b3ch06:218` (Tag 686) - sixty-three, thirty-eight
 
 ---
 
@@ -5339,7 +5350,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Baek
 
-7 Nennungen in 6 Kapiteln.
+8 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5350,6 +5361,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 | 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
+| 686 | b3ch06:176 | Mr Baek telephoned on the Friday morning, which he does not. |
 
 ### Zahlen in der Naehe von Mr Baek
 

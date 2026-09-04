@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 5 Kapitel, 10.177 Woerter.
+Book Three, 6 Kapitel, 12.185 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,6 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v1.6 | 2.009 |
 | 04 | v1.10 | 2.005 |
 | 05 | v1.4 | 1.957 |
+| 06 | v1.4 | 2.008 |
 
 ---
 
@@ -1229,3 +1230,246 @@ Annie looked at the window for a moment, which she does perhaps once a month.
 Georgij did not say anything.
 
 "I have been paying for that twice a month since May and calling it maintenance," said Annie. "Go on."
+
+---
+
+# Book Three · Chapter 6: Who asked
+*Lot Fourteen* · Version 1.4 · EN
+
+## Day Six Hundred and Eighty-Six · Friday 20 August
+
+Nineteen contracts have two halves and he had the wrong half.
+
+Her copies are in her building and four people have read them, and all four have been there longer than he has been in the country.
+
+The other nineteen halves are somewhere else, one each, in nineteen filing systems belonging to nineteen companies that have no reason to be careful with them.
+
+He did not ask any of the nineteen for a copy.
+
+A man who asks for a copy is a man who has told nineteen companies that he wants one.
+
+* * *
+
+Two more went while he was doing it.
+
+The twelfth of August and the seventeenth. Both hers, both with a clause under them, and both five and a half hours.
+
+Mr Hwang did not telephone about either of them. He put them in the column the way he puts everything in the column, and Georgij read them on the Wednesday off a copy that came by post.
+
+* * *
+
+He asked them a different question, and it took eleven days.
+
+It did not go out from him, because there is nothing to go out from. It went out of her building, on her paper, over the name of the woman who has administered those contracts for nine years, and it is the sort of thing that office sends four times a year.
+
+Nobody was told anything untrue and nobody was asked for a favour.
+
+The question is whether anybody had asked them anything about that contract in the last year, and it is a question a company answers without thinking, because the answer is usually no and saying no costs nothing.
+
+Fifteen said no.
+
+Two did not answer at all, which is the ordinary rate. He asked both of them a second time eleven days later and got nothing again, and he has written them down as nothing and not as no.
+
+Two remembered.
+
+* * *
+
+The first is a woman of about fifty who keeps the contracts file for a shipper in Busan and has kept it for nineteen years.
+
+She remembered because of the format.
+
+"It came in April and it wanted the schedule as a table," she said. "Nobody wants a schedule as a table. A schedule is a schedule and it is printed the way the contract prints it, and I said so, and they sent it back and asked again with the columns named."
+
+"Who sent it?"
+
+"An insurance broker. They have a proper letterhead and a proper reference and all of it was correct, and I did it." She was not apologising for any of it. "You do it because it is correct, and because if you do not they write to your underwriter, and then it is your problem."
+
+She was annoyed about it eleven weeks later and she was annoyed about it in a way that had nothing to do with anything.
+
+"Twenty-two years I have sent that schedule out the way it is printed," she said. "Now it goes as a table, and once you have sent a table once, they want the table."
+
+* * *
+
+The second is a man in Gwangyang who remembered because he had to go into the basement.
+
+The same broker, the same month, and a request for the amendment history, which is not in the file with the contract because the amendments were done in 2019 by somebody who is dead.
+
+He spent an afternoon on it and he was pleased with himself about the afternoon.
+
+"They sent a proper acknowledgement," he said. "You do not always get one."
+
+* * *
+
+Georgij did not ask either of them what the broker's name was until the end.
+
+It is the same name both times.
+
+* * *
+
+The form is three pages and it asks nine things.
+
+It asks for the term, the tonnage, the ports, the notice period, the delivery schedule, the amendment history, the named carrier, whether the carrier may be substituted, and the liquidated damages provision.
+
+Eight of the nine are on the front of the contract and anybody in the trade could guess them.
+
+The ninth is the one that says what a late ship costs, and it is the only one that is not the same in any two of the nineteen.
+
+* * *
+
+An insurer may ask for the terms of a contract that its policy sits behind.
+
+That is not a courtesy and it is not a favour. It is the basis on which the policy is written, and the counterparty who refuses gets a letter to his underwriter, and the underwriter is the man who decides whether he trades at all next year.
+
+Nineteen companies would each have said yes to that form, one at a time, over four months.
+
+Not one of them would have mentioned it to anybody, because it is the most ordinary piece of paper in this business.
+
+A cargo policy is priced off what a delay costs.
+
+The penalty clauses are the whole of the reason the form exists.
+
+* * *
+
+Georgij sat with that for a while, and it is not because it was hard.
+
+He knows that instrument better than the man using it, and he knows it because he used it first.
+
+In March of the first year he read an insurer's line about carrier concentration and gave it to a woman in Ulsan with four lorries.
+
+It took four minutes and a folded page, and she had spent five weeks believing it was her own fault.
+
+Nobody stole anything. Nobody was bribed and nobody was careless.
+
+Somebody bought a service that is entitled to ask, and asked nineteen times, and got nineteen honest answers.
+
+* * *
+
+He has the broker’s name and he did not do anything with it.
+
+A broker who runs a form is not the man who wanted the answers. He is the man who was paid to want them, and he will have been given a reason, and the reason will have been true.
+
+There are two ways to find out who instructed him.
+
+One is to ask him. He will say, because there is no reason not to, and by Monday the man who instructed him will know that somebody asked.
+
+The other is to wait until the man does it again.
+
+* * *
+
+He wrote three lines in the car outside a shipping office in Gwangyang.
+
+*Nobody has done anything wrong.*
+
+*The form is mine.*
+
+*He is not better at this than I am. He is doing it to somebody who is.*
+
+Then he went back to the page for the sixth of August and wrote under the fourth line, which is the only one on that page with a mark on the end of it.
+
+*An insurer’s requirement form.*
+
+* * *
+
+Mr Baek telephoned on the Friday morning, which he does not.
+
+"I have something and it has been eleven weeks and I want to say why it took eleven weeks," he said. "The settlor died in April and a trust does not care, but the file does. I have been through the whole of it with a colleague, twice, to close it properly."
+
+"And."
+
+"And the second correction is not in my attendance note, because I did not write it in my attendance note." He said it flatly. "It is in the margin of the draft, in his own hand, and I have had that draft in the same box for eleven years and I have not opened it since the day he left my office."
+
+* * *
+
+Georgij was in Yeouido at half past eleven.
+
+It is one line and it is not long.
+
+The date is the eleventh of March, and the draft is initialled beside it, and the initials are the same two letters that are on nine hundred and forty auction dockets in a house that no longer exists.
+
+The words are:
+
+*If I ask you to stop it, you will tell me that you cannot.*
+
+* * *
+
+Neither of them said anything for a moment.
+
+"He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it true, and he paid me to be the man who says it to him."
+
+"And he never came."
+
+"He never came." Baek put the draft back in the sleeve and did not close the box. "Eleven years, and I have thought about that sentence every quarter, and until this April I thought it meant he was waiting."
+
+"Say what you think it means now."
+
+"That he knew what he was going to be and he did not think he would be able to stop himself." Baek Jun-ho is sixty-three and he did not look sixty-three saying it. "He was thirty-eight years old when he wrote that."
+
+"Say what happens to it now."
+
+"Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter and it will go on paying after I am dead."
+
+He did not take his hands off it.
+
+"There is a woman in a room at the back of a house in this city who has never heard that man’s name, and she is not going to."
+
+"No."
+
+"That is the part I have made my peace with." He put the lid down. "The rest of it I have not."
+
+* * *
+
+Georgij did not take the draft and did not ask for a copy.
+
+He asked for the date and the words, because those are what was asked for.
+
+* * *
+
+He gave them to her at eight, standing, and it took four minutes.
+
+"The eleventh of March, in the margin of the draft, in his own hand, and it is initialled." He did not put anything round it. "*If I ask you to stop it, you will tell me that you cannot.*"
+
+Annie did not say anything for a long time.
+
+"You have had that since half past eleven this morning," she said.
+
+"I have."
+
+"And you did not telephone."
+
+"No. You asked for the date and the words and not for a telephone call, and there is a difference, and I have been the wrong side of it before."
+
+* * *
+
+Annie put the pen down.
+
+"Twenty-eight months ago I asked you for two things and told you not to paraphrase them," she said. "I want it said that I had stopped expecting them."
+
+"I know. That is why I did not put anything round it."
+
+She stood at the window for a while.
+
+"He was thirty-eight," she said.
+
+"Yes."
+
+"That is eleven years before a man in a small room asked him how many people had eaten at his table." She did not turn round. "And he had already written down what he was going to be."
+
+* * *
+
+Georgij stood where he stands and let her have it.
+
+"Say the thing you are not saying," said Annie.
+
+"He put it in a drawer where nobody would look, and it held for eleven years, and it held against him."
+
+"Yes."
+
+"I have not put anything anywhere." Georgij did not move. "There is no drawer in this country with a line of mine in it that would hold against me on a bad day, and I have never once thought about it until this afternoon."
+
+Annie turned round then.
+
+"Do not build one," she said.
+
+"Why not?"
+
+"Because you would build it well." She picked the pen back up. "And because the one you would build would have my name in it, and I am not going to be the reason a man cannot stop."
