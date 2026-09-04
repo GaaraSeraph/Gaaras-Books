@@ -3524,6 +3524,12 @@ bezahlt und es ihm verschwiegen.
 
 **Wer daraus Reue macht, macht es kleiner.** Es genuegt, dass es dasteht.
 
+**Und er bleibt nicht der Einzige.** Am 05.09. festgelegt: der Nachwuchs des
+Werkes kommt aus dem Handel, den Georgij in Band 5 beendet. Lee Jun ist der
+Praezedenzfall und die Schwelle - zwei Jahre Papier, bevor ein Mensch legal
+ist. Siehe `doc/34-plan-band-5.md`, *Und aus dem beendeten Handel kommt der
+Nachwuchs*.
+
 ---
 
 ## Lee Jun (Los elf): wie er ist, und wer ihn auftaut

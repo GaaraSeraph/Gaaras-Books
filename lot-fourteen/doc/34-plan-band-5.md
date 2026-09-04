@@ -1887,6 +1887,69 @@ hat.** Die Tabelle erklaert das fuer den Plan. Der Roman erklaert es nicht.
 es mit keinem Wort.** Kein Absatz zieht die Verbindung. **Der Leser hat sie
 seit Band 1.**
 
+## Und aus dem beendeten Handel kommt der Nachwuchs
+
+**Vom Autor am 05.09., aus einem Nebensatz ueber das Alter der Figuren.** Der
+Anlass war eine Zaehlung: Stand 2027 sind Woo neunundsiebzig, Mrs Sunwoo
+zweiundachtzig, Yeom vierundsechzig, Sim und Baek dreiundsechzig, Gong und
+Sang-hoon einundsechzig, Hwang fuenfundfuenfzig. **Zwischen Lee Jun mit
+sechzehn und Georgij mit siebenundzwanzig steht niemand.**
+
+**Die Loesung steht schon im Band und ist nur nie benutzt worden.** Wenn das
+Verbot aus der Liste oben Wirkung hat, kommen Menschen frei. **Die naechste
+Generation dieses Buches ist die, die er aus dem Handel holt, den er
+beendet.**
+
+### Warum es an genau dieser Stelle steht und nirgends sonst
+
+**Er war Los vierzehn. Sie hat Los elf gekauft.** In Band 5 beendet er die
+Sache, die beide hergestellt hat, und die Leute, die dabei herauskommen,
+sind die, die tragen, was danach kommt. **Der Kreis hat keine andere Stelle,
+an der er sich schliessen kann.**
+
+### Und die Falle ist offensichtlich, also wird sie zum Gegenstand gemacht
+
+**Befreien und beschaeftigen sind nicht dasselbe, und wer beides in einem Zug
+tut, hat den Besitz nur umgeschrieben.** Das Buch weiss das bereits genau,
+weil es den Fall schon einmal durchgespielt hat:
+
+**Lee Jun ist der Praezedenzfall, und er hat zwei Jahre gedauert.** `b3 ch04`:
+Vormundschaft, Ausbildungsvertrag, Zeugnis, Gesundheitsakte, und in der
+Antragstellerzeile eine Kanzlei ohne Namen dahinter. *Somebody has spent two
+years making a person legal, one document at a time.*
+
+**Also gilt fuer Band 5 dieselbe Schwelle und keine niedrigere:** Name,
+Papiere, Schutzstruktur, Erwachsene, die unterschreiben, und erst danach die
+Frage, ob jemand kommen will. **Wer schneller ist, ist ein Haendler mit
+besseren Manieren.**
+
+### Drei Sachen, ohne die es eine Rettungsmontage wird
+
+**1. Die meisten kommen nicht.** Wer irgendwohin kann, geht dorthin. Wer
+bleibt, bleibt, weil er nirgends hin kann - **und genau so entstehen elf
+Haeuser.** Der Text muss die Zahl nennen und die kleinere Zahl daneben.
+
+**2. Georgij weiss, was er da tut, und es steht schon geschrieben.** `b3 ch04`:
+*"I do not know what I am going to do with him. I know two things. One of them
+is this house and the other one is the trade. There is not a third."*
+**In Band 5 ist die Frage dieselbe und die Zahl groesser**, und er hat immer
+noch keine dritte Sache.
+
+**3. Und es ist genau das, was Annie mit ihm gemacht hat.** Sie hat ihn
+gekauft und brauchbar gemacht. Er wuerde Leute frei machen und brauchbar
+machen. **Der Unterschied ist die Reihenfolge und die Freiwilligkeit, und das
+ist ein duennerer Unterschied, als es sich anfuehlt.** Wer ihn im Text
+ausspricht, macht ihn kleiner. **Er gehoert in eine Frage, die jemand ihm
+stellt, und nicht in einen Absatz.**
+
+### Was das an Band 6 uebergibt
+
+**Band 6 heisst Kinder, und er fuehrt es.** Bis dahin sind Woo tot, Hwang
+zweiundsechzig, Baek siebzig, Sang-hoon achtundsechzig. **Wer dann in den
+Raeumen steht, ist entweder Lee Jun oder jemand, der in Band 5 aus einem
+Container gekommen ist.** Das ist die Antwort auf die Frage, die Gong in
+Band 3 stellt, und sie wird wieder nicht ausgesprochen.
+
 ## Regel 1 im Umgang mit den Gruppen
 
 **Er verspricht nichts.** Ein Kodex, der als Zusage ausgegeben wird - *haltet
