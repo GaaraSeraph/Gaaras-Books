@@ -5383,9 +5383,9 @@ Tisch, redete wie ein Staatsanwalt und hatte recht damit.
 
 **Das ist Georgijs eigene Lage, zwei Jahre alt, in fremdem Mund.**
 
-**Der Schlagabtausch am Ende steht so, wie er im Plan entworfen ist**, und
-Georgij gewinnt ihn nicht: *"As long as I am by her side, the question is
-badly put." / "No. That is why it is correctly put."* Und danach der
+**Der Schlagabtausch am Ende ist gegen den Entwurf gekuerzt, und Georgij
+gewinnt ihn nicht:** *"I am going to be next to her." / "That is not what I
+asked you, and you knew that before you said it."* Und danach der
 Millimeter zu viel, und darauf **"So did Choi."**
 
 **Die Erzaehlung sagt einmal, was das ist, und dann nichts mehr:** es ist der
@@ -6609,13 +6609,24 @@ Georgij did not move from where he was standing.
 **Festgelegt am 01.09.: Georgij beantwortet diesen Satz nicht mit der grossen
 Burn-down-Wahrheit.** Die Wahrheit gehoert in den Raum, aber nicht als
 souveraene, fertige Antwort an Gong; sonst gewinnt Georgij die Szene zu
-schnell. Die Antwort kommt als Zweistufe:
+schnell. Die Antwort kommt als Zweistufe.
 
-> "As long as I am by her side," said Georgij, "the question is badly put."
+**Berichtigt am 04.09.** Hier stand als erste Stufe *"As long as I am by
+her side, the question is badly put."* **Das ist ein Debattierzug, und
+dieser Mann debattiert nicht.** Er antwortet, und die Antwort ist selbst
+der Ausweichzug, ohne dass er ihn als solchen meint - **das ist schlimmer,
+weil er ihn nicht bemerkt.**
 
-Gong erkennt, dass das keine Antwort ist:
+> "I am going to be next to her," said Georgij.
 
-> "No. That is why it is correctly put."
+Gong zeigt ihm, dass das keine Antwort war:
+
+> "That is not what I asked you, and you knew that before you said it. I
+> asked what you are going to be. You have told me who you are going to be
+> next to."
+
+> "Those are the same sentence for twenty years and then they are not, and
+> nobody is ever in the room on the day they come apart."
 
 Wenn Georgij dann einen Millimeter zu viel preisgibt, darf die haertere
 Wahrheit fallen:

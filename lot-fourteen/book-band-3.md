@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 3 Kapitel, 6.222 Woerter.
+Book Three, 3 Kapitel, 6.214 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -13,7 +13,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 |---|---|---|
 | 01 | v1.6 | 2.103 |
 | 02 | v1.10 | 2.103 |
-| 03 | v1.3 | 2.016 |
+| 03 | v1.4 | 2.008 |
 
 ---
 
@@ -436,7 +436,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -594,13 +594,15 @@ Georgij did not say anything for about four seconds.
 
 * * *
 
-"As long as I am by her side," said Georgij, "the question is badly put."
+"I am going to be next to her," said Georgij.
 
-"No." Gong Doo-hyun did not take any time over it. "That is why it is correctly put."
+Gong Doo-hyun did not take any time over it.
+
+"That is not what I asked you, and you knew that before you said it." He was perfectly even about it. "I asked what you are going to be. You have told me who you are going to be next to."
 
 Georgij looked at the sill behind him, at a photograph of three people, and then back.
 
-"You have given me the answer to a different question." Gong Doo-hyun was perfectly even about it. "I asked what you are going to be. You told me who you are going to be next to. Those are the same sentence for twenty years and then they are not, and nobody is ever in the room on the day they come apart."
+"Those are the same sentence for twenty years and then they are not, and nobody is ever in the room on the day they come apart."
 
 * * *
 

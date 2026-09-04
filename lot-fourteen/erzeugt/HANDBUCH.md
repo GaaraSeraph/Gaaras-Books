@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 362.527 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 362.599 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -672,9 +672,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Bae](#mrs-bae)
   - [Mr Im](#mr-im)
   - [Mr Koh](#mr-koh)
-  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Ji-won](#ji-won)
   - [Mrs Gwak](#mrs-gwak)
+  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Shin](#shin)
   - [Moon Hae-sook](#moon-hae-sook)
   - [Mr Pyo](#mr-pyo)
@@ -739,7 +739,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**126 Kapitel, 337.388 Woerter.**
+**127 Kapitel, 339.396 Woerter.**
 
 ---
 
@@ -23404,9 +23404,9 @@ Tisch, redete wie ein Staatsanwalt und hatte recht damit.
 
 **Das ist Georgijs eigene Lage, zwei Jahre alt, in fremdem Mund.**
 
-**Der Schlagabtausch am Ende steht so, wie er im Plan entworfen ist**, und
-Georgij gewinnt ihn nicht: *"As long as I am by her side, the question is
-badly put." / "No. That is why it is correctly put."* Und danach der
+**Der Schlagabtausch am Ende ist gegen den Entwurf gekuerzt, und Georgij
+gewinnt ihn nicht:** *"I am going to be next to her." / "That is not what I
+asked you, and you knew that before you said it."* Und danach der
 Millimeter zu viel, und darauf **"So did Choi."**
 
 **Die Erzaehlung sagt einmal, was das ist, und dann nichts mehr:** es ist der
@@ -24630,13 +24630,24 @@ Georgij did not move from where he was standing.
 **Festgelegt am 01.09.: Georgij beantwortet diesen Satz nicht mit der grossen
 Burn-down-Wahrheit.** Die Wahrheit gehoert in den Raum, aber nicht als
 souveraene, fertige Antwort an Gong; sonst gewinnt Georgij die Szene zu
-schnell. Die Antwort kommt als Zweistufe:
+schnell. Die Antwort kommt als Zweistufe.
 
-> "As long as I am by her side," said Georgij, "the question is badly put."
+**Berichtigt am 04.09.** Hier stand als erste Stufe *"As long as I am by
+her side, the question is badly put."* **Das ist ein Debattierzug, und
+dieser Mann debattiert nicht.** Er antwortet, und die Antwort ist selbst
+der Ausweichzug, ohne dass er ihn als solchen meint - **das ist schlimmer,
+weil er ihn nicht bemerkt.**
 
-Gong erkennt, dass das keine Antwort ist:
+> "I am going to be next to her," said Georgij.
 
-> "No. That is why it is correctly put."
+Gong zeigt ihm, dass das keine Antwort war:
+
+> "That is not what I asked you, and you knew that before you said it. I
+> asked what you are going to be. You have told me who you are going to be
+> next to."
+
+> "Those are the same sentence for twenty years and then they are not, and
+> nobody is ever in the room on the day they come apart."
 
 Wenn Georgij dann einen Millimeter zu viel preisgibt, darf die haertere
 Wahrheit fallen:
@@ -31889,9 +31900,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Bae | 29 | 8 (b2ch38-b2ch88) | 262 | 578 |
 | Mr Im | 28 | 5 (b1ch05-b2ch87) | 6 | 531 |
 | Mr Koh | 25 | 7 (b2ch35-b2ch87) | 251 | 531 |
-| Gong Doo-hyun | 20 | 3 (b3ch01-b3ch03) | 592 | 628 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
+| Gong Doo-hyun | 19 | 3 (b3ch01-b3ch03) | 592 | 628 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
@@ -32798,10 +32809,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 600 | b3ch02:172 | "And what did you get," said Annie. |
 | 600 | b3ch02:190 | Annie did not write anything down. |
 | 600 | b3ch02:198 | Annie put the pen down. |
-| 628 | b3ch03:274 | Annie did not interrupt any of it, and she does not. |
-| 628 | b3ch03:286 | "Then say what he is," said Annie. |
-| 628 | b3ch03:292 | Annie put the pen down. |
-| 628 | b3ch03:308 | Annie picked the pen back up. |
+| 628 | b3ch03:276 | Annie did not interrupt any of it, and she does not. |
+| 628 | b3ch03:288 | "Then say what he is," said Annie. |
+| 628 | b3ch03:294 | Annie put the pen down. |
+| 628 | b3ch03:310 | Annie picked the pen back up. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34304,7 +34315,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 444 | b2ch72:200 | "You will come out of there at half past and she will have been perfectly all right abou.. |
 | 590 | b2ch89:134 | Jang went to Mapo on the Thursday and was handed a green school exercise book at the top.. |
 | 600 | b3ch02:128 | Georgij went down the steps past the woman with the bucket and got into the car and did .. |
-| 628 | b3ch03:254 | He was on the expressway at twenty past four and did not say anything to Jang for eleven.. |
+| 628 | b3ch03:256 | He was on the expressway at twenty past four and did not say anything to Jang for eleven.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -34391,7 +34402,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:132` (Tag 441) - twenty
 - `b2ch72:194` (Tag 444) - forty, two
 - `b2ch72:200` (Tag 444) - one
-- `b3ch03:254` (Tag 628) - eleven, four, twenty
+- `b3ch03:256` (Tag 628) - eleven, four, twenty
 
 ---
 
@@ -35341,8 +35352,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 600 | b3ch02:68 | He is not sorry Choi Dae-ho is dead, and he does not arrange his face to look as if he w.. |
 | 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
 | 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
-| 628 | b3ch03:220 | "So did Choi," said Gong Doo-hyun. |
-| 628 | b3ch03:278 | "So did Choi." |
+| 628 | b3ch03:222 | "So did Choi," said Gong Doo-hyun. |
+| 628 | b3ch03:280 | "So did Choi." |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -36878,45 +36889,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Gong Doo-hyun
-
-20 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:126 | "Gong Doo-hyun." |
-| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
-| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
-| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
-| 600 | b3ch02:94 | "He was thirty-five and he was the best man in that building at the thing he did." Gong .. |
-| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
-| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
-| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
-| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
-| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
-| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
-| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
-| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
-| 628 | b3ch03:196 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
-| 628 | b3ch03:204 | "No." Gong Doo-hyun did not take any time over it. "That is why it is correctly put." |
-| 628 | b3ch03:208 | "You have given me the answer to a different question." Gong Doo-hyun was perfectly even.. |
-| 628 | b3ch03:220 | "So did Choi," said Gong Doo-hyun. |
-| 628 | b3ch03:234 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
-| 628 | b3ch03:248 | Gong Doo-hyun looked at him for about two seconds. |
-
-### Zahlen in der Naehe von Gong Doo-hyun
-
-- `b3ch02:70` (Tag 600) - eleven, one, twenty
-- `b3ch02:88` (Tag 600) - one, three
-- `b3ch02:94` (Tag 600) - four, one, thirty-five
-- `b3ch02:110` (Tag 600) - two
-- `b3ch03:160` (Tag 628) - four
-- `b3ch03:208` (Tag 628) - twenty
-- `b3ch03:248` (Tag 628) - two
-
----
-
 ### Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -36997,6 +36969,43 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:50` (Tag 249) - eight, eleven, one
 - `b2ch76:104` (Tag 461) - two
 - `b2ch76:146` (Tag 461) - four, three, twelve
+
+---
+
+### Gong Doo-hyun
+
+19 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
+| 592 | b3ch01:126 | "Gong Doo-hyun." |
+| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
+| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
+| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
+| 600 | b3ch02:94 | "He was thirty-five and he was the best man in that building at the thing he did." Gong .. |
+| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
+| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
+| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
+| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
+| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
+| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
+| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
+| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
+| 628 | b3ch03:196 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
+| 628 | b3ch03:204 | Gong Doo-hyun did not take any time over it. |
+| 628 | b3ch03:222 | "So did Choi," said Gong Doo-hyun. |
+| 628 | b3ch03:236 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
+| 628 | b3ch03:250 | Gong Doo-hyun looked at him for about two seconds. |
+
+### Zahlen in der Naehe von Gong Doo-hyun
+
+- `b3ch02:70` (Tag 600) - eleven, one, twenty
+- `b3ch02:88` (Tag 600) - one, three
+- `b3ch02:94` (Tag 600) - four, one, thirty-five
+- `b3ch02:110` (Tag 600) - two
+- `b3ch03:160` (Tag 628) - four
+- `b3ch03:250` (Tag 628) - two
 
 ---
 
