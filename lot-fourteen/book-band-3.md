@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.700 Woerter.
+Book Three, 7 Kapitel, 14.711 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,7 +12,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.10 | 2.089 |
-| 02 | v1.13 | 2.110 |
+| 02 | v1.14 | 2.121 |
 | 03 | v1.9 | 2.017 |
 | 04 | v1.17 | 2.020 |
 | 05 | v1.8 | 2.059 |
@@ -227,7 +227,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -383,7 +383,7 @@ Choi Dae-ho has been out of that service for twenty-five years and out of the tr
 
 They came when he asked.
 
-The hall was the cheaper of the two. The card was the sort a stationer keeps a box of. Nobody catered it and there was no car for the family, because there is no family.
+The hall was the cheaper of the two. The card came out of a box, and there is a shop four hundred metres down that lane that sells the box. Nobody catered it and there was no car for the family, because there is no family.
 
 Georgij went at the money on the way back, because that is what he does, and there is nothing in it.
 

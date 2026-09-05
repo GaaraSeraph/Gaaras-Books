@@ -135,7 +135,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 89** *What became of them* (v4.1) · Tag 590, So 16. Mai · 1.995 W
 - **B2 90** *The weapon* (v4.2) · Tag 590, So 16. Mai · 1.564 W
 - **B3 1** *The first thing that arrives* (v1.10) · Tag 592, Di 18. Mai · 2.089 W
-- **B3 2** *Thank you for coming* (v1.13) · Tag 600, Mi 26. Mai · 2.110 W
+- **B3 2** *Thank you for coming* (v1.14) · Tag 600, Mi 26. Mai · 2.121 W
 - **B3 3** *At sixty* (v1.9) · Tag 628, Mi 23. Juni · 2.017 W
 - **B3 4** *Sixteen* (v1.17) · Tag 645, Sa 10. Juli · 2.020 W
 - **B3 5** *Only hers* (v1.8) · Tag 672, Fr 6. August · 2.059 W
