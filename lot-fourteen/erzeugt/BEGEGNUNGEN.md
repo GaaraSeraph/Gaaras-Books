@@ -28,7 +28,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
-| Baek Jun-ho | 89 | 13 (b2ch39-b3ch06) | 270 | 686 |
+| Baek Jun-ho | 90 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -3600,7 +3600,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Baek Jun-ho
 
-89 Nennungen in 13 Kapiteln.
+90 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3689,6 +3689,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
 | 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
 | 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
+| 686 | b3ch06:234 | Baek Jun-ho let him have it for as long as he wanted it. |
 | 686 | b3ch06:238 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
 | 686 | b3ch06:242 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Twelv.. |
 | 686 | b3ch06:248 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |

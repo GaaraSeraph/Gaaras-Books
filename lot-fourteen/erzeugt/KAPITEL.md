@@ -139,5 +139,5 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 3** *At sixty* (v1.8) · Tag 628, Mi 23. Juni · 2.017 W
 - **B3 4** *Sixteen* (v1.17) · Tag 645, Sa 10. Juli · 2.020 W
 - **B3 5** *Only hers* (v1.8) · Tag 672, Fr 6. August · 2.059 W
-- **B3 6** *Who asked* (v1.9) · Tag 686, Fr 20. August · 2.177 W
+- **B3 6** *Who asked* (v1.10) · Tag 686, Fr 20. August · 2.182 W
 - **B3 7** *The old one* (v1.8) · Tag 707, Fr 10. September · 2.223 W

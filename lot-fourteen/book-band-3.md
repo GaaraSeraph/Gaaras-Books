@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.706 Woerter.
+Book Three, 7 Kapitel, 14.711 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,7 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v1.8 | 2.017 |
 | 04 | v1.17 | 2.020 |
 | 05 | v1.8 | 2.059 |
-| 06 | v1.9 | 2.177 |
+| 06 | v1.10 | 2.182 |
 | 07 | v1.8 | 2.223 |
 
 ---
@@ -1247,7 +1247,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1429,7 +1429,7 @@ The words are:
 
 * * *
 
-Neither of them said anything for a moment.
+Baek Jun-ho let him have it for as long as he wanted it.
 
 "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it true, and he paid me to be the man who says it to him."
 
