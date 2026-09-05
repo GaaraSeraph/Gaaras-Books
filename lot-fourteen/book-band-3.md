@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.664 Woerter.
+Book Three, 7 Kapitel, 14.697 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,12 +12,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.6 | 2.103 |
-| 02 | v1.10 | 2.103 |
-| 03 | v1.6 | 2.009 |
-| 04 | v1.12 | 2.012 |
-| 05 | v1.6 | 2.042 |
+| 02 | v1.11 | 2.108 |
+| 03 | v1.7 | 2.017 |
+| 04 | v1.14 | 2.016 |
+| 05 | v1.7 | 2.053 |
 | 06 | v1.9 | 2.177 |
-| 07 | v1.7 | 2.218 |
+| 07 | v1.8 | 2.223 |
 
 ---
 
@@ -229,7 +229,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -425,7 +425,7 @@ Annie did not write anything down.
 
 "And there is nothing to find, and I have never once been in front of that." He did not soften it. "I did not know until this afternoon that all of it rested on the other man being dirty."
 
-Annie put the pen down.
+Annie stopped writing and did not put the pen down.
 
 "Every one of them was," she said.
 
@@ -440,7 +440,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -680,7 +680,7 @@ Annie did not interrupt any of it, and she does not.
 
 * * *
 
-Annie put the pen down.
+Annie let that stand for longer than it needed.
 
 "That is what he is to you." She had not moved in the chair. "Say what he is to me."
 
@@ -690,12 +690,12 @@ Georgij did not answer for a long time.
 
 "Nothing yet," he said.
 
-Annie picked the pen back up.
+Annie went back to the page she had been on.
 
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -925,7 +925,7 @@ He did not put anything round it and he did not look away.
 
 * * *
 
-Annie put the pen down.
+Annie looked at the window and not at him.
 
 "Because you would have thanked me," she said.
 
@@ -953,7 +953,7 @@ Annie looked at him.
 
 She has had a great many people say yes to her, and she can tell the two apart from the other side of a room.
 
-"He is not a present and he is not a debt. He was fourteen and he was for sale twice." She picked the pen back up. "What you do with him from here is yours, and I am not going to have an opinion about it, and you may take that as the whole of what I owe you on this."
+"He is not a present and he is not a debt. He was fourteen and he was for sale twice." She went back to the page. "What you do with him from here is yours, and I am not going to have an opinion about it, and you may take that as the whole of what I owe you on this."
 
 "I do not know what I am going to do with him."
 
@@ -978,7 +978,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1220,7 +1220,7 @@ Georgij had it and had had it since the bridge.
 
 "They are in the counterparty's copy," he said. "Every one of those contracts exists twice. The other half of it sits with whoever is on the other side, and there are nineteen of those, and not one of them has any reason to keep it quiet."
 
-Annie put the pen down.
+Annie did not write it down, which is how he knew she had already had it.
 
 "That is a much bigger room than the one I was standing in."
 
@@ -1514,7 +1514,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1760,7 +1760,7 @@ Annie listened to the whole of it and then asked the only question that matters 
 
 "In that segment and on that platform, since the year they changed it." Georgij did not put anything round it. "I do not have the number yet. It is public and it is going to be six figures."
 
-Annie put the pen down.
+Annie did not do anything with her hands at all.
 
 "Say what you are going to do with it."
 

@@ -1,5 +1,5 @@
 # Chapter 7: The old one
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -313,7 +313,7 @@ Annie listened to the whole of it and then asked the only question that matters 
 
 ---
 
-Annie put the pen down.
+Annie did not do anything with her hands at all.
 
 "Say what you are going to do with it."
 

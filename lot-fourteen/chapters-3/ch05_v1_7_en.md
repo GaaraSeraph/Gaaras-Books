@@ -1,5 +1,5 @@
 # Chapter 5: Only hers
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -307,7 +307,7 @@ Georgij had it and had had it since the bridge.
 
 "They are in the counterparty's copy," he said. "Every one of those contracts exists twice. The other half of it sits with whoever is on the other side, and there are nineteen of those, and not one of them has any reason to keep it quiet."
 
-Annie put the pen down.
+Annie did not write it down, which is how he knew she had already had it.
 
 "That is a much bigger room than the one I was standing in."
 

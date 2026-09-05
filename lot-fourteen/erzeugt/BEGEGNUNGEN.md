@@ -956,18 +956,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:186 | Annie picked the pen back up, which is what she does when a thing has been decided. |
 | 600 | b3ch02:172 | "And what did you get," said Annie. |
 | 600 | b3ch02:190 | Annie did not write anything down. |
-| 600 | b3ch02:198 | Annie put the pen down. |
+| 600 | b3ch02:198 | Annie stopped writing and did not put the pen down. |
 | 628 | b3ch03:288 | Annie did not interrupt any of it, and she does not. |
 | 628 | b3ch03:300 | "Then say what he is," said Annie. |
-| 628 | b3ch03:306 | Annie put the pen down. |
-| 628 | b3ch03:322 | Annie picked the pen back up. |
+| 628 | b3ch03:306 | Annie let that stand for longer than it needed. |
+| 628 | b3ch03:322 | Annie went back to the page she had been on. |
 | 645 | b3ch04:262 | Annie was at the desk at half past two and had been since eleven. |
-| 645 | b3ch04:300 | Annie put the pen down. |
+| 645 | b3ch04:300 | Annie looked at the window and not at him. |
 | 645 | b3ch04:328 | Annie looked at him. |
 | 645 | b3ch04:348 | Annie did not offer him one. |
 | 672 | b3ch05:280 | Annie was still at the desk at half past ten, which she is not on a Friday. |
 | 672 | b3ch05:290 | "Four people in that building have read all of them," said Annie. "I am one, Mr Chae is .. |
-| 672 | b3ch05:310 | Annie put the pen down. |
+| 672 | b3ch05:310 | Annie did not write it down, which is how he knew she had already had it. |
 | 672 | b3ch05:324 | Annie looked at the window for a moment, which she does perhaps once a month. |
 | 672 | b3ch05:338 | "I have been paying for that twice a month since May and calling it maintenance," said A.. |
 | 686 | b3ch06:280 | Annie did not say anything for a long time. |
@@ -975,7 +975,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:318 | "Say the thing you are not saying," said Annie. |
 | 686 | b3ch06:328 | Annie turned round then. |
 | 707 | b3ch07:308 | Annie listened to the whole of it and then asked the only question that matters about an.. |
-| 707 | b3ch07:316 | Annie put the pen down. |
+| 707 | b3ch07:316 | Annie did not do anything with her hands at all. |
 | 707 | b3ch07:334 | Annie looked at him for a moment. |
 
 ### Zahlen in der Naehe von Annie
