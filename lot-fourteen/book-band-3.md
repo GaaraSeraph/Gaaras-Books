@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.733 Woerter.
+Book Three, 7 Kapitel, 14.732 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,10 +12,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.10 | 2.089 |
-| 02 | v1.16 | 2.127 |
-| 03 | v1.13 | 2.022 |
+| 02 | v1.17 | 2.126 |
+| 03 | v1.14 | 2.020 |
 | 04 | v1.20 | 2.012 |
-| 05 | v1.11 | 2.065 |
+| 05 | v1.13 | 2.067 |
 | 06 | v1.12 | 2.182 |
 | 07 | v1.12 | 2.236 |
 
@@ -227,7 +227,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.16 · EN
+*Lot Fourteen* · Version 1.17 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -361,7 +361,7 @@ Not what he was, not who had sent him, and not what he had to do with any of it.
 
 And not why a man nobody in that hall knew had come up a lane in Jongno on a Wednesday morning.
 
-He has spent two years getting what he needs out of people by asking them something small enough to answer.
+Everything he has ever got out of anybody, he has got by asking them something small enough to answer.
 
 The other man did not want anything out of him today, and there is no version of that which is good.
 
@@ -438,7 +438,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -524,7 +524,7 @@ The fourth name down that page is in a hand Georgij knows better than any other 
 
 Georgij went through it at his own speed and did not hurry for the man watching him.
 
-Six of the nine are dates. Two are companies with nothing wrong on the face of them. One is a list of five people who lost something between March and August of the year before last, with a line against each of them and no line joining them.
+Six of the nine are dates. Two are companies with nothing wrong on the face of them. One is a list of five people who lost something between March and August of last year, with a line against each of them and no line joining them.
 
 There is not one thing in it that could be put in front of anybody.
 
@@ -976,7 +976,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1226,7 +1226,7 @@ Annie did not write it down, which is how he knew she had already had it.
 
 "Say why it is good news."
 
-"Because a man who read one contract could be anybody." Georgij did not move. "A man who read enough of them to pick eleven out of eighty-one has been at this for months, and he has been at it in a way that leaves a shape." He did not move. "I have spent two years reading shapes."
+"Because a man who read one contract could be anybody." Georgij did not move. "A man who read enough of them to pick eleven out of eighty-one has been at this for months, and he has been at it in a way that leaves a shape." The last part he said more slowly. "I have never done anything else."
 
 * * *
 
