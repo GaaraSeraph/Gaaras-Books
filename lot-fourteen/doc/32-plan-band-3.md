@@ -5739,32 +5739,60 @@ sagt.
 | die es ungefragt ansprechen | 19 |
 | die die Zahl neunzig zuerst sagen | 8 |
 | frueheste Fundstelle | 81.000 km |
-| auf dem Wartungsplan | **nicht** |
-| also gedeckt | nein, der Halter zahlt |
-| Werkstaetten mit neun bis zwanzig auf dem Regal | **26 von 31** |
+| auf dem Wartungsplan | **nirgends gelistet** |
+| Werkstaetten, die mehr davon halten als von allem anderen | **26 von 31** |
+| davon mit vier oder mehr | 11 |
 
 **Das Regal ist der Fund und die Pumpe nur der Gegenstand.** Ein Ersatzteilregal
 richtet sich danach, was frueher kaputtgegangen ist. Vierzehn Stueck in einer
 Werkstatt sind die Erfahrung eines Mannes; vierzehn in elf Werkstaetten sind
 eine Tatsache ueber ein Unternehmen.
 
-**Und die zweite Haelfte ist die Nummer auf dem Gehaeuse.** Die alte Pumpe in
-der Ecke und die im Juni verbaute tragen dieselbe Nummer mit einer anderen
-Endziffer. **Hanseong hat das Teil in der Produktion geaendert, den Wartungsplan
-nicht, und niemandem etwas gesagt, der das alte schon hatte.**
+**Berichtigt am 05.09., weil die erste Fassung an drei Stellen nicht trug:**
+
+**1. Gewaehrleistung und Wartungsplan waren vermischt.** Bei neunzigtausend
+ist der Wagen ohnehin draussen, und das ist nicht der Vorwurf. *"At ninety
+thousand the car is out of warranty, and that is not the complaint. The
+complaint is that at ninety thousand it is a surprise."*
+
+**2. Zwei Teilenummern belegen eine Revision und keine Kenntnis.** Hersteller
+aendern Teile jede Woche, wegen Kosten, wegen eines Zulieferers, wegen einer
+Kiste, die besser stapelt. Der Text sagt das jetzt selbst und geht dann
+weiter.
+
+**Was traegt, ist eine Werkstattmitteilung.** Datiert, auf Hanseong-Briefkopf,
+zwei Jahre alt, an jede autorisierte Werkstatt und an die Datenbanken, die
+die freien abonnieren. Sie nennt die revidierte Teilenummer und das
+Baudatum, ab dem sie verbaut wird.
+
+> A bulletin goes to the people who repair the car.
+>
+> There is no document that goes to the people who own it, and there was
+> never going to be, **because a bulletin is not a recall and a company
+> decides itself which is which.**
+
+**Nichts daran ist versteckt**, und das ist die staerkere Fassung: elftausend
+Werkstaetten zahlen fuer die Datenbank, und alle einunddreissig Maenner haben
+die Mitteilung gelesen. **Es hat nur nie jemand nebeneinandergelegt, wer sie
+bekommt und wer nicht.**
+
+**3. Vierzehn Pumpen auf einem Regal waren zu viel gebundenes Kapital** fuer
+eine Werkstatt mit zwei Boxen und einem Teiledienst, der zweimal am Tag
+kommt. Jetzt sind es vier gegen je eins von allem anderen, und der Junge
+zaehlt genau das.
 
 ### Lee Jun findet es, und zwar mit dem, was ihm verboten wurde
 
 **Er zaehlt die Regale**, so wie er in `b3 ch04` in neun Sekunden die Tueren
 gezaehlt hat, und Georgij hat ihm gesagt, er duerfe damit aufhoeren.
 
-> "There were fourteen on the shelf."
+> "There were four of them on the shelf."
 >
 > "Say the rest of it."
 >
-> "There were four of the timing kit and two of the filter housing and one
-> gearbox mount, and fourteen of the pump. He does not order fourteen of a
-> thing that does not go."
+> "There was one of the timing kit and one filter housing and one gearbox
+> mount. He keeps one of everything and four of that, and the man comes twice
+> a day, so he does not have to keep four of anything."
 
 **Und der Junge hat den Satz aus dem Juli genau gelesen:** *"Because you told
 me to stop, and I could not tell whether you meant here."*

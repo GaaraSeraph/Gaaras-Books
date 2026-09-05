@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.418 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.635 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**130 Kapitel, 345.474 Woerter.**
+**131 Kapitel, 347.408 Woerter.**
 
 ---
 
@@ -23780,32 +23780,60 @@ sagt.
 | die es ungefragt ansprechen | 19 |
 | die die Zahl neunzig zuerst sagen | 8 |
 | frueheste Fundstelle | 81.000 km |
-| auf dem Wartungsplan | **nicht** |
-| also gedeckt | nein, der Halter zahlt |
-| Werkstaetten mit neun bis zwanzig auf dem Regal | **26 von 31** |
+| auf dem Wartungsplan | **nirgends gelistet** |
+| Werkstaetten, die mehr davon halten als von allem anderen | **26 von 31** |
+| davon mit vier oder mehr | 11 |
 
 **Das Regal ist der Fund und die Pumpe nur der Gegenstand.** Ein Ersatzteilregal
 richtet sich danach, was frueher kaputtgegangen ist. Vierzehn Stueck in einer
 Werkstatt sind die Erfahrung eines Mannes; vierzehn in elf Werkstaetten sind
 eine Tatsache ueber ein Unternehmen.
 
-**Und die zweite Haelfte ist die Nummer auf dem Gehaeuse.** Die alte Pumpe in
-der Ecke und die im Juni verbaute tragen dieselbe Nummer mit einer anderen
-Endziffer. **Hanseong hat das Teil in der Produktion geaendert, den Wartungsplan
-nicht, und niemandem etwas gesagt, der das alte schon hatte.**
+**Berichtigt am 05.09., weil die erste Fassung an drei Stellen nicht trug:**
+
+**1. Gewaehrleistung und Wartungsplan waren vermischt.** Bei neunzigtausend
+ist der Wagen ohnehin draussen, und das ist nicht der Vorwurf. *"At ninety
+thousand the car is out of warranty, and that is not the complaint. The
+complaint is that at ninety thousand it is a surprise."*
+
+**2. Zwei Teilenummern belegen eine Revision und keine Kenntnis.** Hersteller
+aendern Teile jede Woche, wegen Kosten, wegen eines Zulieferers, wegen einer
+Kiste, die besser stapelt. Der Text sagt das jetzt selbst und geht dann
+weiter.
+
+**Was traegt, ist eine Werkstattmitteilung.** Datiert, auf Hanseong-Briefkopf,
+zwei Jahre alt, an jede autorisierte Werkstatt und an die Datenbanken, die
+die freien abonnieren. Sie nennt die revidierte Teilenummer und das
+Baudatum, ab dem sie verbaut wird.
+
+> A bulletin goes to the people who repair the car.
+>
+> There is no document that goes to the people who own it, and there was
+> never going to be, **because a bulletin is not a recall and a company
+> decides itself which is which.**
+
+**Nichts daran ist versteckt**, und das ist die staerkere Fassung: elftausend
+Werkstaetten zahlen fuer die Datenbank, und alle einunddreissig Maenner haben
+die Mitteilung gelesen. **Es hat nur nie jemand nebeneinandergelegt, wer sie
+bekommt und wer nicht.**
+
+**3. Vierzehn Pumpen auf einem Regal waren zu viel gebundenes Kapital** fuer
+eine Werkstatt mit zwei Boxen und einem Teiledienst, der zweimal am Tag
+kommt. Jetzt sind es vier gegen je eins von allem anderen, und der Junge
+zaehlt genau das.
 
 ### Lee Jun findet es, und zwar mit dem, was ihm verboten wurde
 
 **Er zaehlt die Regale**, so wie er in `b3 ch04` in neun Sekunden die Tueren
 gezaehlt hat, und Georgij hat ihm gesagt, er duerfe damit aufhoeren.
 
-> "There were fourteen on the shelf."
+> "There were four of them on the shelf."
 >
 > "Say the rest of it."
 >
-> "There were four of the timing kit and two of the filter housing and one
-> gearbox mount, and fourteen of the pump. He does not order fourteen of a
-> thing that does not go."
+> "There was one of the timing kit and one filter housing and one gearbox
+> mount. He keeps one of everything and four of that, and the man comes twice
+> a day, so he does not have to keep four of anything."
 
 **Und der Junge hat den Satz aus dem Juli genau gelesen:** *"Because you told
 me to stop, and I could not tell whether you meant here."*
@@ -33311,9 +33339,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:282 | Annie put the pen down. |
 | 686 | b3ch06:306 | "Say the thing you are not saying," said Annie. |
 | 686 | b3ch06:316 | Annie turned round then. |
-| 707 | b3ch07:278 | Annie listened to the whole of it and then asked the only question that matters about an.. |
-| 707 | b3ch07:286 | Annie put the pen down. |
-| 707 | b3ch07:304 | Annie looked at him for a moment. |
+| 707 | b3ch07:296 | Annie listened to the whole of it and then asked the only question that matters about an.. |
+| 707 | b3ch07:304 | Annie put the pen down. |
+| 707 | b3ch07:322 | Annie looked at him for a moment. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -37644,14 +37672,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 | 707 | b3ch07:32 | He did not explain why and Lee Jun did not ask. |
 | 707 | b3ch07:46 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:136 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:168 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:184 | Lee Jun did not say anything to that. |
+| 707 | b3ch07:138 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:170 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:186 | Lee Jun did not say anything to that. |
 
 ### Zahlen in der Naehe von Lee Jun
 
 - `b3ch04:360` (Tag 645) - four
-- `b3ch07:136` (Tag 707) - twenty
+- `b3ch07:138` (Tag 707) - twenty
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.226 Woerter.
+Book Three, 7 Kapitel, 14.438 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -17,7 +17,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 04 | v1.10 | 2.005 |
 | 05 | v1.4 | 1.957 |
 | 06 | v1.6 | 2.115 |
-| 07 | v1.3 | 1.934 |
+| 07 | v1.5 | 2.146 |
 
 ---
 
@@ -1492,7 +1492,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1546,7 +1546,9 @@ The thing itself came out of the twenty-second workshop and it took eleven minut
 
 It is a coolant pump.
 
-It sits behind the engine on one platform, it is not a wear item on the service schedule, and Hanseong publishes a design life for it that is longer than most people keep the car.
+It sits behind the engine on one platform. It is not listed as a wear item anywhere in the service schedule, so nobody is told to expect it and nobody puts money aside for it.
+
+At ninety thousand the car is out of warranty, and that is not the complaint. The complaint is that at ninety thousand it is a surprise.
 
 The workshop in Siheung has two bays and a dog.
 
@@ -1562,7 +1564,7 @@ He talked about the car for six minutes and about the pump for eleven.
 
 "And on the schedule."
 
-"It is not on the schedule, so it is not covered, so they pay me." He was not pleased about it. "Four hundred and something with the coolant, and they pay it, and they are not angry with me, and I have stopped explaining."
+"It is not on the schedule anywhere, so nobody has ever heard of it, so it arrives as bad luck." He was not pleased about it. "Four hundred and something with the coolant, and they pay it, and they are not angry with me, and I have stopped explaining."
 
 He put the old one down on the bench and did not put it in the bin.
 
@@ -1602,13 +1604,13 @@ Thirty-one workshops each know one true thing about a pump.
 
 Lee Jun said his first unprompted sentence of the month in the car outside the twenty-second.
 
-"There were fourteen on the shelf."
+"There were four of them on the shelf."
 
 Georgij did not answer straight away.
 
 "Say the rest of it."
 
-"There were four of the timing kit and two of the filter housing and one gearbox mount, and fourteen of the pump." He was looking out of the window and not at Georgij. "He does not order fourteen of a thing that does not go."
+"There was one of the timing kit and one filter housing and one gearbox mount." He was looking out of the window and not at Georgij. "He keeps one of everything and four of that, and the man comes twice a day, so he does not have to keep four of anything."
 
 * * *
 
@@ -1654,27 +1656,39 @@ Georgij did not explain the no and the boy did not ask for a reason, and that is
 
 The shelf is the finding and the pump is only the object.
 
-A parts shelf is ordered off what has gone wrong before. Fourteen of one part in one workshop in Siheung is one man's experience. Fourteen in eleven workshops is a fact about a company.
+A parts shelf is ordered off what has gone wrong before, and a small workshop keeps one of most things because the factor delivers twice a day.
+
+Four of one part in Siheung is one man's experience. Four in eleven workshops is a fact about a company.
 
 Georgij spent the following week asking thirty-one men how many they keep, and the question is a nothing question, and every one of them answered it.
 
-The number is between nine and twenty in twenty-six of the thirty-one.
+Twenty-six of the thirty-one keep more of that pump than of anything else on the shelf, and eleven of the twenty-six keep four or more.
 
 Five keep none, and all five are outside the segment.
 
 * * *
 
-On the Thursday he found the second half, and it was not in a workshop.
+On the Thursday he found the second half, and it was in the same workshop and had been the whole time.
 
-A pump has a number stamped on the housing.
+A pump has a number stamped on the housing, and the old one in the corner and the one fitted in June have the same number with a different last digit.
 
-The one in the corner of the workshop in Siheung, the old one, the one the mechanic keeps because he keeps things, has a number that ends in one digit.
+That proves a revision and nothing else. Manufacturers revise parts every week of the year, for cost, for a supplier, for a box that stacks better.
 
-The one he fitted in June has the same number and the digit is different.
+What is behind it is a page and a half in a lever arch file under the bench.
 
-Hanseong Motors changed the part.
+It is a workshop bulletin, dated, on Hanseong letterhead, and it goes to every authorised workshop in the country and to the trade databases the independents subscribe to.
 
-They changed it quietly, in production, at some point that is going to have a date on it, and they did not change the schedule and they did not tell anybody who already had the old one.
+It says that on that platform, where there is a coolant loss complaint, the pump is to be inspected first.
+
+It gives the revised part number, and it gives the build date from which the revised part is fitted.
+
+It is two years old.
+
+Nobody is hiding it. It is on a subscription database that eleven thousand workshops pay for, and it has been read by every one of the thirty-one men Georgij has stood next to this month.
+
+A bulletin goes to the people who repair the car.
+
+There is no document that goes to the people who own it, and there was never going to be, because a bulletin is not a recall and a company decides itself which is which.
 
 * * *
 
@@ -1684,9 +1698,9 @@ Georgij wrote four lines that night and the fourth one is not a question.
 
 *Twenty-six shelves out of thirty-one.*
 
-*Two part numbers.*
+*A bulletin, two years old, to workshops.*
 
-*They knew, and the date they knew is on a drawing.*
+*Nothing to owners, and the difference between the two is a word they chose themselves.*
 
 * * *
 

@@ -974,9 +974,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:282 | Annie put the pen down. |
 | 686 | b3ch06:306 | "Say the thing you are not saying," said Annie. |
 | 686 | b3ch06:316 | Annie turned round then. |
-| 707 | b3ch07:278 | Annie listened to the whole of it and then asked the only question that matters about an.. |
-| 707 | b3ch07:286 | Annie put the pen down. |
-| 707 | b3ch07:304 | Annie looked at him for a moment. |
+| 707 | b3ch07:296 | Annie listened to the whole of it and then asked the only question that matters about an.. |
+| 707 | b3ch07:304 | Annie put the pen down. |
+| 707 | b3ch07:322 | Annie looked at him for a moment. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5307,14 +5307,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 | 707 | b3ch07:32 | He did not explain why and Lee Jun did not ask. |
 | 707 | b3ch07:46 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:136 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:168 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:184 | Lee Jun did not say anything to that. |
+| 707 | b3ch07:138 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:170 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:186 | Lee Jun did not say anything to that. |
 
 ### Zahlen in der Naehe von Lee Jun
 
 - `b3ch04:360` (Tag 645) - four
-- `b3ch07:136` (Tag 707) - twenty
+- `b3ch07:138` (Tag 707) - twenty
 
 ---
 
