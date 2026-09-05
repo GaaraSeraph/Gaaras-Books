@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.715 Woerter.
+Book Three, 7 Kapitel, 14.718 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -13,11 +13,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 |---|---|---|
 | 01 | v1.10 | 2.089 |
 | 02 | v1.15 | 2.125 |
-| 03 | v1.10 | 2.017 |
-| 04 | v1.19 | 2.017 |
+| 03 | v1.11 | 2.021 |
+| 04 | v1.20 | 2.012 |
 | 05 | v1.9 | 2.062 |
 | 06 | v1.11 | 2.182 |
-| 07 | v1.9 | 2.223 |
+| 07 | v1.10 | 2.227 |
 
 ---
 
@@ -438,7 +438,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -642,7 +642,7 @@ Georgij stood up.
 
 "You buried a man that nobody else would have buried," said Georgij. "I have been in a great many rooms this year and I have not seen anything like it."
 
-Gong Doo-hyun looked at him for about two seconds.
+Gong Doo-hyun did not stand up with him.
 
 "That is the second time you have said a true thing to me that costs you nothing." He had already picked up the file. "I would like you to notice that I have written both of them down."
 
@@ -680,7 +680,7 @@ Annie did not interrupt any of it, and she does not.
 
 Annie did not take that as the answer.
 
-"That is what he is to you." She had not moved in the chair. "Say what he is to me."
+"That is what he is to you." She was sitting exactly as she had been when he came in. "Say what he is to me."
 
 * * *
 
@@ -693,7 +693,7 @@ Annie wrote one line and did not say what it was.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.19 · EN
+*Lot Fourteen* · Version 1.20 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -781,7 +781,7 @@ There is none of that in it, and that is a decision, and somebody made it before
 
 The folder was on the table in the hall where a folder goes.
 
-Georgij read it standing up, and it took eleven minutes, and neither of them sat down.
+Georgij read the whole of it in the hall, and it took eleven minutes, and neither of them sat down.
 
 It is a name, a registration, and a guardianship order made in the winter of the first year and renewed once.
 
@@ -839,7 +839,7 @@ He had been not looking at it since the hall and he had done it well.
 
 "Yes, sir."
 
-He looked at it for about two seconds, which was as long as he needed, and then he looked at the floor.
+He looked at it for as long as he needed, which was not long, and then he looked at the floor.
 
 In the October before last that boy had a line in a catalogue and a number over it. He has none now.
 
@@ -913,7 +913,7 @@ Georgij stood where he stands.
 
 "I have carried that boy for two years," said Georgij.
 
-He did not put anything round it and he did not look away.
+He did not look away.
 
 "You could have put it down for me on any day of it."
 
@@ -1512,7 +1512,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1756,7 +1756,7 @@ Annie listened to the whole of it and then asked the only question that matters 
 
 "How many cars."
 
-"In that segment and on that platform, since the year they changed it." Georgij did not put anything round it. "I do not have the number yet. It is public and it is going to be six figures."
+"In that segment and on that platform, since the year they changed it." He did not make it sound like more than it was. "I do not have the number yet. It is public and it is going to be six figures."
 
 Annie did not do anything with her hands at all.
 

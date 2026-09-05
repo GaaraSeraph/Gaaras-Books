@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.946 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.939 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**131 Kapitel, 347.900 Woerter.**
+**131 Kapitel, 347.896 Woerter.**
 
 ---
 
@@ -37514,7 +37514,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
 | 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
 | 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
-| 628 | b3ch03:262 | Gong Doo-hyun looked at him for about two seconds. |
+| 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
 
 ### Zahlen in der Naehe von Gong Doo-hyun
 
@@ -37523,7 +37523,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch02:94` (Tag 600) - four, one, thirty-five
 - `b3ch02:110` (Tag 600) - two
 - `b3ch03:160` (Tag 628) - four
-- `b3ch03:262` (Tag 628) - two
 
 ---
 
