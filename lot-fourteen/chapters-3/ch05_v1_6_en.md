@@ -1,9 +1,11 @@
 # Chapter 5: Only hers
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
-Mr Hwang telephoned the house at twenty past seven in the evening, which he has done four times in eleven months, and all four were about a date.
+Mr Hwang telephoned the house at twenty past seven in the evening, which he has done four times in eleven months.
+
+All four of those were about a date. This one was not.
 
 ---
 
@@ -37,11 +39,15 @@ Mr Hwang has been in it since the fifteenth of March and he has not put one thin
 
 ---
 
-He keeps the books of a terminal that has one clerk and does not need two, and he does it in six hours, and after six he does Georgij's work in the same room.
+He keeps the books of a terminal that has one clerk and does not need two, and they take him until about four.
+
+After four he does Georgij's work at the same desk, and Woo has never once asked him what it is.
+
+---
 
 There is a kettle on the second desk and one cup beside it.
 
-He is fifty-five. He comes at seven and goes at ten, six days a week, and Woo has never once asked him what he does after six.
+He is fifty-five. He comes at seven and he is usually still there at ten.
 
 * * *
 

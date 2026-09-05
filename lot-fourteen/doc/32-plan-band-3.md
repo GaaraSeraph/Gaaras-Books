@@ -5695,7 +5695,8 @@ ist der Grund, warum der Band Zeit hat.
 
 **`b2 ch65:200`, Annie:** *"Get me the date he made the second correction and
 the words he used, and do not paraphrase them, and then go and eat
-something."* **Vierhundertdreissig Erzaehltage offen.**
+something."* **Zweihundertneunundachtzig Erzaehltage offen** - Tag 397 bis Tag 686, also
+rund neun Monate. *(Hier stand bis zum 06.09. vierhundertdreissig.)*
 
 **Der Anlass ist Chois Tod:** ein Trust kuemmert das nicht, die Akte schon,
 und Baek geht sie mit einem Kollegen zweimal durch, um sie sauber zu

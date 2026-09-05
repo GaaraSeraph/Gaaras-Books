@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.660 Woerter.
+Book Three, 7 Kapitel, 14.664 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,9 +14,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.6 | 2.103 |
 | 02 | v1.10 | 2.103 |
 | 03 | v1.6 | 2.009 |
-| 04 | v1.11 | 2.009 |
-| 05 | v1.5 | 2.039 |
-| 06 | v1.7 | 2.179 |
+| 04 | v1.12 | 2.012 |
+| 05 | v1.6 | 2.042 |
+| 06 | v1.9 | 2.177 |
 | 07 | v1.7 | 2.218 |
 
 ---
@@ -695,7 +695,7 @@ Annie picked the pen back up.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -887,7 +887,7 @@ There is a second one and it is older.
 
 On the fourth of October he took a buyer apart with one true sentence, and the boy that buyer had paid for went back into the next month’s catalogue. That is the whole of what he did for him. It was not a good outcome and it was a better one.
 
-A woman four rows away bought him in November.
+A woman who had been in that room bought him in November.
 
 Georgij has never been able to decide whether that is a thing he did or a thing that happened afterwards, and he has had two years.
 
@@ -978,11 +978,13 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
-Mr Hwang telephoned the house at twenty past seven in the evening, which he has done four times in eleven months, and all four were about a date.
+Mr Hwang telephoned the house at twenty past seven in the evening, which he has done four times in eleven months.
+
+All four of those were about a date. This one was not.
 
 "There is something out of order in my column," he said. "I do not know what it is and I would rather not say it on a telephone, because I would have to say it twice and the second time it would sound like an accusation."
 
@@ -1008,11 +1010,13 @@ It is one room with a window that faces the wrong way, a desk, a second desk tha
 
 Mr Hwang has been in it since the fifteenth of March and he has not put one thing on the walls.
 
-He keeps the books of a terminal that has one clerk and does not need two, and he does it in six hours, and after six he does Georgij's work in the same room.
+He keeps the books of a terminal that has one clerk and does not need two, and they take him until about four.
+
+After four he does Georgij's work at the same desk, and Woo has never once asked him what it is.
 
 There is a kettle on the second desk and one cup beside it.
 
-He is fifty-five. He comes at seven and goes at ten, six days a week, and Woo has never once asked him what he does after six.
+He is fifty-five. He comes at seven and he is usually still there at ten.
 
 * * *
 
@@ -1243,7 +1247,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1293,7 +1297,7 @@ She remembered because of the format.
 
 "An insurance broker. They have a proper letterhead and a proper reference and all of it was correct, and I did it." She was not apologising for any of it. "You do it because it is correct, and because if you do not they write to your underwriter, and then it is your problem."
 
-She was annoyed about it eleven weeks later and she was annoyed about it in a way that had nothing to do with anything.
+She was annoyed about it four months later, and she was annoyed about it in a way that had nothing to do with anything.
 
 "Twenty-two years I have sent that schedule out the way it is printed," she said. "Now it goes as a table, and once you have sent a table once, they want the table."
 
@@ -1343,7 +1347,7 @@ It is the most legitimate question in this trade. It is asked in writing, on a l
 
 The form that exists to protect nineteen companies from Hanseong is the one that told Hanseong where to press.
 
-Nineteen companies would each have said yes to that form, one at a time, over eleven weeks.
+Nineteen companies would each have said yes to that form, one at a time, over two months.
 
 Not one of them would have mentioned it to anybody, because it is the most ordinary piece of paper in this business.
 
@@ -1403,7 +1407,7 @@ Then he went back to the page for the sixth of August and wrote under the fourth
 
 Mr Baek telephoned on the Friday morning, which he does not.
 
-"I have something and it has been eleven weeks and I want to say why it took eleven weeks," he said. "The settlor died in April and a trust does not care, but the file does. I have been through the whole of it with a colleague, twice, to close it properly."
+"I have something and it has taken me four months, and I want to say why," he said. "The settlor died in April and a trust does not care, but the file does. I have been through the whole of it with a colleague, twice, to close it properly."
 
 "And."
 
@@ -1415,7 +1419,9 @@ Georgij was in Yeouido at half past eleven.
 
 It is one line and it is not long.
 
-The date is the eleventh of March, and the draft is initialled beside it, and the initials are the same two letters that are on nine hundred and forty auction dockets in a house that no longer exists.
+The date is the eleventh of March and the draft is initialled beside it.
+
+The initials are the ones on the engrossment, which has been in the same box since the day the man walked out of that office.
 
 The words are:
 
@@ -1429,7 +1435,7 @@ Neither of them said anything for a moment.
 
 "And he never came."
 
-"He never came." Baek put the draft back in the sleeve and did not close the box. "Eleven years, and I have thought about that sentence every quarter, and until this April I thought it meant he was waiting."
+"He never came." Baek put the draft back in the sleeve and did not close the box. "Twelve years, and I have thought about that sentence every quarter, and until this April I thought it meant he was waiting."
 
 "Say what you think it means now."
 
@@ -1473,7 +1479,7 @@ Annie did not say anything for a long time.
 
 Annie put the pen down.
 
-"Twenty-eight months ago I asked you for two things and told you not to paraphrase them," she said. "I want it said that I had stopped expecting them."
+"Nine months ago I asked you for two things and told you not to paraphrase them," she said. "I want it said that I had stopped expecting them."
 
 "I know. That is why I did not put anything round it."
 
@@ -1491,7 +1497,7 @@ Georgij stood where he stands and let her have it.
 
 "Say the thing you are not saying," said Annie.
 
-"He put it in a drawer where nobody would look, and it held for eleven years, and it held against him."
+"He put it in a drawer where nobody would look, and it held for twelve years, and it held against him."
 
 "Yes."
 
