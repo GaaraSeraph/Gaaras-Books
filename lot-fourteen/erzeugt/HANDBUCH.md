@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.939 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 368.139 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**131 Kapitel, 347.900 Woerter.**
+**131 Kapitel, 347.904 Woerter.**
 
 ---
 
@@ -10066,6 +10066,25 @@ je weniger Boden er unter sich hat, desto weniger fuehrt er auf. Dann gehoert es
 hier hingeschrieben, und die offenen Sorten gehoeren geschlossen statt gefuehrt.
 Es kann auch sein, dass es niemandem aufgefallen ist. **Entschieden hat es
 niemand.**
+
+**Und in Band 3 laechelt niemand.** Sieben Kapitel, 14.722 Woerter, Tag 592 bis
+Tag 707: null Treffer fuer *smile*, *smiled*, *smiling*, null fuer *laugh*. Das
+einzige *almost* im ganzen Band steht in `b3 ch07` und hat mit einem Gesicht
+nichts zu tun (*almost nobody asks him*).
+
+**Das ist mehr als die Fortsetzung der Kurve.** In Band 1 steht ein Laecheln je
+2.056 Woerter, in Band 2 je 11.066, in Band 3 nie. Und der Unterschied zu Band 2
+ist nicht der Grad, sondern die Art: in Band 2 gehoerten die fuenf Treffer
+anderen Figuren, es laechelte also jemand. In Band 3 laechelt **niemand**, auch
+Gong Doo-hyun nicht, auch Mr Hwang nicht, auch der Mann in Siheung nicht, der
+vier Jahre lang etwas sagt und dem endlich einer zuhoert.
+
+**Die Entscheidung ist damit dieselbe wie am 24.08. und faelliger.** Entweder
+der Katalog beschreibt ein Werkzeug, das Georgij abgelegt hat, dann gehoeren die
+offenen Sorten geschlossen und der Bogen von I und II nach IV neu geschrieben.
+Oder er beschreibt eines, das er noch hat und seit 154 Kapiteln nicht benutzt,
+dann muss irgendwo in Band 3 oder 4 die Stelle stehen, an der es wieder
+auftaucht, und sie muss verdient sein.
 
 #### I. Die Fassade - getragen, nicht gezielt
 
@@ -32421,7 +32440,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
-| Baek Jun-ho | 90 | 13 (b2ch39-b3ch06) | 270 | 686 |
+| Baek Jun-ho | 91 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
@@ -32448,7 +32467,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Lee Jun | 10 | 2 (b3ch04-b3ch07) | 645 | 707 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
-| Mr Baek | 8 | 7 (b1ch05-b3ch06) | 6 | 686 |
+| Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -35994,7 +36013,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Baek Jun-ho
 
-90 Nennungen in 13 Kapiteln.
+91 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -36083,6 +36102,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
 | 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
 | 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
+| 686 | b3ch06:204 | Baek Jun-ho telephoned on the Friday morning, which he does not. |
 | 686 | b3ch06:234 | Baek Jun-ho let him have it for as long as he wanted it. |
 | 686 | b3ch06:238 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
 | 686 | b3ch06:242 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Twelv.. |
@@ -37771,7 +37791,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Baek
 
-8 Nennungen in 7 Kapiteln.
+7 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -37782,7 +37802,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 | 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
-| 686 | b3ch06:204 | Mr Baek telephoned on the Friday morning, which he does not. |
 
 ### Zahlen in der Naehe von Mr Baek
 

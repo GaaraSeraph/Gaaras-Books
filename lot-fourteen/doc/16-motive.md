@@ -94,6 +94,25 @@ hier hingeschrieben, und die offenen Sorten gehoeren geschlossen statt gefuehrt.
 Es kann auch sein, dass es niemandem aufgefallen ist. **Entschieden hat es
 niemand.**
 
+**Und in Band 3 laechelt niemand.** Sieben Kapitel, 14.722 Woerter, Tag 592 bis
+Tag 707: null Treffer fuer *smile*, *smiled*, *smiling*, null fuer *laugh*. Das
+einzige *almost* im ganzen Band steht in `b3 ch07` und hat mit einem Gesicht
+nichts zu tun (*almost nobody asks him*).
+
+**Das ist mehr als die Fortsetzung der Kurve.** In Band 1 steht ein Laecheln je
+2.056 Woerter, in Band 2 je 11.066, in Band 3 nie. Und der Unterschied zu Band 2
+ist nicht der Grad, sondern die Art: in Band 2 gehoerten die fuenf Treffer
+anderen Figuren, es laechelte also jemand. In Band 3 laechelt **niemand**, auch
+Gong Doo-hyun nicht, auch Mr Hwang nicht, auch der Mann in Siheung nicht, der
+vier Jahre lang etwas sagt und dem endlich einer zuhoert.
+
+**Die Entscheidung ist damit dieselbe wie am 24.08. und faelliger.** Entweder
+der Katalog beschreibt ein Werkzeug, das Georgij abgelegt hat, dann gehoeren die
+offenen Sorten geschlossen und der Bogen von I und II nach IV neu geschrieben.
+Oder er beschreibt eines, das er noch hat und seit 154 Kapiteln nicht benutzt,
+dann muss irgendwo in Band 3 oder 4 die Stelle stehen, an der es wieder
+auftaucht, und sie muss verdient sein.
+
 #### I. Die Fassade - getragen, nicht gezielt
 
 - **Die entschiedene Miene.** Zwei Tage vorher gebaut, an der Tür aufgesetzt,

@@ -16,7 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v1.11 | 2.021 |
 | 04 | v1.20 | 2.012 |
 | 05 | v1.9 | 2.062 |
-| 06 | v1.11 | 2.182 |
+| 06 | v1.12 | 2.182 |
 | 07 | v1.11 | 2.231 |
 
 ---
@@ -1245,7 +1245,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1403,7 +1403,7 @@ Then he went back to the page for the sixth of August and wrote under the fourth
 
 * * *
 
-Mr Baek telephoned on the Friday morning, which he does not.
+Baek Jun-ho telephoned on the Friday morning, which he does not.
 
 "I have something and it has taken me four months, and I want to say why," he said. "The settlor died in April and a trust does not care, but the file does. I have been through the whole of it with a colleague, twice, to close it properly."
 

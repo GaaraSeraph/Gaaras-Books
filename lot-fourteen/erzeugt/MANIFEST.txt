@@ -129,7 +129,7 @@ b3  ch02  v1.15      2125 Woerter  ch02_v1_15_en.md
 b3  ch03  v1.11      2021 Woerter  ch03_v1_11_en.md
 b3  ch04  v1.20      2012 Woerter  ch04_v1_20_en.md
 b3  ch05  v1.9       2062 Woerter  ch05_v1_9_en.md
-b3  ch06  v1.11      2182 Woerter  ch06_v1_11_en.md
+b3  ch06  v1.12      2182 Woerter  ch06_v1_12_en.md
 b3  ch07  v1.11      2231 Woerter  ch07_v1_11_en.md
 
 Gesamt: 3 Baende, 131 Kapitel, 347904 Woerter
