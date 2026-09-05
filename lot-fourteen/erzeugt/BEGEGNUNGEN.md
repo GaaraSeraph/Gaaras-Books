@@ -953,14 +953,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:142 | Annie waited. |
 | 592 | b3ch01:152 | Annie did not answer for a while. |
 | 592 | b3ch01:174 | Annie looked at him for a moment. |
-| 592 | b3ch01:186 | Annie picked the pen back up, which is what she does when a thing has been decided. |
+| 592 | b3ch01:184 | Annie picked the pen back up, which is what she does when a thing has been decided. |
 | 600 | b3ch02:172 | "And what did you get," said Annie. |
 | 600 | b3ch02:190 | Annie did not write anything down. |
 | 600 | b3ch02:198 | Annie stopped writing and did not put the pen down. |
 | 628 | b3ch03:288 | Annie did not interrupt any of it, and she does not. |
 | 628 | b3ch03:300 | "Then say what he is," said Annie. |
-| 628 | b3ch03:306 | Annie let that stand for longer than it needed. |
-| 628 | b3ch03:322 | Annie went back to the page she had been on. |
+| 628 | b3ch03:306 | Annie did not take that as the answer. |
+| 628 | b3ch03:322 | Annie wrote one line and did not say what it was. |
 | 645 | b3ch04:262 | Annie was at the desk at half past two and had been since eleven. |
 | 645 | b3ch04:300 | Annie looked at the window and not at him. |
 | 645 | b3ch04:328 | Annie looked at him. |
@@ -1222,6 +1222,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:498` (Tag 531) - one
 - `b2ch89:90` (Tag 590) - four
 - `b3ch01:130` (Tag 592) - four, one, two
+- `b3ch03:322` (Tag 628) - one
 - `b3ch04:262` (Tag 645) - eleven, two
 - `b3ch04:348` (Tag 645) - one
 - `b3ch05:280` (Tag 672) - ten
@@ -3003,7 +3004,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:14 | Mrs Seo took it in the hall and brought it up herself. |
 | 592 | b3ch01:20 | "There is a card," said Mrs Seo. "It has your name on the front of it and it has it corr.. |
 | 592 | b3ch01:28 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
-| 592 | b3ch01:204 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
+| 592 | b3ch01:202 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
 | 628 | b3ch03:30 | The telephone rang in the small room at ten past nine on the Monday, and Mrs Seo answere.. |
 | 645 | b3ch04:12 | It was that Mrs Seo was already at the front door before it stopped, which she does not .. |
 | 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
@@ -3547,7 +3548,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:58 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
 | 592 | b3ch01:104 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
 | 592 | b3ch01:140 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
-| 592 | b3ch01:202 | Choi Dae-ho was dead on the eighth of April. |
+| 592 | b3ch01:200 | Choi Dae-ho was dead on the eighth of April. |
 | 600 | b3ch02:68 | He is not sorry Choi Dae-ho is dead, and he does not arrange his face to look as if he w.. |
 | 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
 | 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |

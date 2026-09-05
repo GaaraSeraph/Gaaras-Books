@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.711 Woerter.
+Book Three, 7 Kapitel, 14.700 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,9 +11,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.8 | 2.100 |
+| 01 | v1.10 | 2.089 |
 | 02 | v1.13 | 2.110 |
-| 03 | v1.8 | 2.017 |
+| 03 | v1.9 | 2.017 |
 | 04 | v1.17 | 2.020 |
 | 05 | v1.8 | 2.059 |
 | 06 | v1.10 | 2.182 |
@@ -22,7 +22,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
@@ -203,8 +203,6 @@ Annie looked at him for a moment.
 "Yes."
 
 "Better that he has it in the first four seconds than that he spends a fortnight getting it wrong."
-
-Somewhere below them a door was shut and not shut hard.
 
 Annie picked the pen back up, which is what she does when a thing has been decided.
 
@@ -440,7 +438,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -680,7 +678,7 @@ Annie did not interrupt any of it, and she does not.
 
 * * *
 
-Annie let that stand for longer than it needed.
+Annie did not take that as the answer.
 
 "That is what he is to you." She had not moved in the chair. "Say what he is to me."
 
@@ -690,7 +688,7 @@ Georgij did not answer for a long time.
 
 "Nothing yet," he said.
 
-Annie went back to the page she had been on.
+Annie wrote one line and did not say what it was.
 
 ---
 
