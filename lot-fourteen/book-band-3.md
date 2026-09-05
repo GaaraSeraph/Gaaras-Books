@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.697 Woerter.
+Book Three, 7 Kapitel, 14.703 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,7 +14,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.7 | 2.103 |
 | 02 | v1.12 | 2.108 |
 | 03 | v1.7 | 2.017 |
-| 04 | v1.15 | 2.016 |
+| 04 | v1.16 | 2.022 |
 | 05 | v1.7 | 2.053 |
 | 06 | v1.9 | 2.177 |
 | 07 | v1.8 | 2.223 |
@@ -695,7 +695,7 @@ Annie went back to the page she had been on.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.15 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -775,7 +775,7 @@ There was one bag on the step behind him and the driver had already gone.
 
 It is a good bag and it is not full. There is nothing in this house that came out of it and there is not going to be.
 
-A boy of sixteen who has lived somewhere for two years has photographs, or a ticket stub, or something a person gave him.
+A boy of sixteen who has lived somewhere for the best part of two years has photographs, or a ticket stub, or something a person gave him.
 
 There is none of that in it, and that is a decision, and somebody made it before the car turned in.
 
@@ -797,7 +797,7 @@ Georgij read that page twice.
 
 Everything in it is correct.
 
-Somebody has spent two years making a person legal, one document at a time, and has done it properly and has not put a name on any of it.
+Somebody has spent twenty months making a person legal, one document at a time, and has done it properly and has not put a name on any of it.
 
 * * *
 
@@ -843,7 +843,7 @@ He had been not looking at it for eleven minutes and he had done it well.
 
 He looked at it for about two seconds, which was as long as he needed, and then he looked at the floor.
 
-Two years ago that boy had a line in a catalogue and a number over it. He has none now.
+In the October before last that boy had a line in a catalogue and a number over it. He has none now.
 
 The man showing him the room has neither, and has the collar.
 
@@ -901,13 +901,13 @@ Annie was at the desk at half past two and had been since eleven.
 
 "Yes."
 
-"His folder is in order. All of it. Two years of it."
+"His folder is in order. All of it. Twenty months of it."
 
 "It is."
 
 Georgij stood where he stands.
 
-"On the fourth of October I asked you what had happened to lot eleven. I asked again on the seventh." He said it without any weight on it at all. "You did not answer either time, and I stopped."
+"On the fourth of October I asked you what had happened to lot eleven. I asked again on the fifth." He said it without any weight on it at all. "You did not answer either time, and I stopped."
 
 "You did."
 
