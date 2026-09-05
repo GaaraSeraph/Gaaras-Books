@@ -2246,7 +2246,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:188 | "I would like to say the thing I did not want to say on the telephone," said Mr Hwang. |
 | 672 | b3ch05:218 | "What do you want me to do?" said Mr Hwang. |
 | 672 | b3ch05:230 | Mr Hwang squared the four pages and did not put them away. |
-| 672 | b3ch05:252 | Mr Hwang thought about it properly, which took him about four seconds. |
+| 672 | b3ch05:252 | Mr Hwang thought about it properly, which is not what a man does with that question. |
 | 686 | b3ch06:28 | Mr Hwang did not telephone about either of them. He put them in the column the way he pu.. |
 
 ### Zahlen in der Naehe von Mr Hwang
@@ -2342,7 +2342,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch05:38` (Tag 672) - one
 - `b3ch05:110` (Tag 672) - three
 - `b3ch05:230` (Tag 672) - four
-- `b3ch05:252` (Tag 672) - four
 
 ---
 

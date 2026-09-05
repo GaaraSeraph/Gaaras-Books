@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.722 Woerter.
+Book Three, 7 Kapitel, 14.732 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,12 +12,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.10 | 2.089 |
-| 02 | v1.15 | 2.125 |
-| 03 | v1.11 | 2.021 |
+| 02 | v1.16 | 2.127 |
+| 03 | v1.12 | 2.020 |
 | 04 | v1.20 | 2.012 |
-| 05 | v1.9 | 2.062 |
+| 05 | v1.10 | 2.066 |
 | 06 | v1.12 | 2.182 |
-| 07 | v1.11 | 2.231 |
+| 07 | v1.12 | 2.236 |
 
 ---
 
@@ -227,7 +227,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.15 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -255,7 +255,7 @@ A man of about twenty-five sits behind it. He says nothing to anybody and turns 
 
 Everybody signs it. That is what it is for.
 
-Georgij stood in front of that table for about four seconds.
+Georgij stood in front of that table for longer than anybody else had.
 
 There are papers in the Republic of Korea with his name on them, and there are books at doors in his own hand. Not one of them points to this house.
 
@@ -438,7 +438,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -592,7 +592,7 @@ Gong Doo-hyun sat back for the first time since Georgij had come in.
 
 "There was no afternoon where he decided. It worked, and then it worked again." He said it without any weight on it. "By the third year the man who used to say what a bad indictment looked like did not say it any more. Nobody at that table was writing indictments."
 
-Georgij did not say anything for about four seconds.
+Georgij had nothing to put next to that.
 
 "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it yourself, and I would not have got it in front of you any other way."
 
@@ -976,7 +976,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1170,7 +1170,7 @@ At the door Georgij stopped.
 
 "Do you like it here?"
 
-Mr Hwang thought about it properly, which took him about four seconds.
+Mr Hwang thought about it properly, which is not what a man does with that question.
 
 "It is a small column and it is honest," he said. "I kept the large one from the year I turned thirty until the twenty-fifth of February, and I do not know how much of that was honest. I am not going to find out now, because the house is gone and there is nobody left to ask."
 
@@ -1512,7 +1512,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1564,7 +1564,7 @@ He asks nothing. He stands where he was told to stand. Twice he has been handed 
 
 Georgij watched him do it in Guro on the second of September and did not enjoy watching it.
 
-The boy was not being liked. He was being useful in the way a person is useful who has worked out in about four seconds what the room wants and has decided to be it.
+The boy was not being liked. He was being useful in the way a person is useful who has worked out before he is all the way through the door what the room wants and has decided to be it.
 
 He is very good at it and nobody taught him in the last two years.
 
