@@ -140,4 +140,4 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 4** *Sixteen* (v1.10) · Tag 645, Sa 10. Juli · 2.005 W
 - **B3 5** *Only hers* (v1.4) · Tag 672, Fr 6. August · 1.957 W
 - **B3 6** *Who asked* (v1.6) · Tag 686, Fr 20. August · 2.115 W
-- **B3 7** *The old one* (v1.5) · Tag 707, Fr 10. September · 2.146 W
+- **B3 7** *The old one* (v1.7) · Tag 707, Fr 10. September · 2.218 W

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.635 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.688 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**131 Kapitel, 347.408 Woerter.**
+**131 Kapitel, 347.692 Woerter.**
 
 ---
 
@@ -23767,10 +23767,20 @@ Band 6 nicht wieder angefasst.**
 ## Was `b3 ch07` festlegt
 
 **Motors wird ueber die Werkstaetten gefunden, so wie der Plan es verlangt,
-und das Verfahren ist Mr Ahn.** Georgij geht nicht mit einer Frage ueber
-Hanseong hinein, sondern mit einem Wagen, der etwas nicht tut, und wartet, bis
-ein Mann mit beiden Haenden im Motor etwas Wahres ueber die eigene Arbeit
-sagt.
+und das Verfahren ist Mr Ahn.**
+
+**Und es braucht keinen Vorwand, was am 05.09. berichtigt worden ist.** In
+der ersten Fassung kam er mit einem Wagen, der etwas nicht tut - einunddreissigmal, und er besitzt kein Auto. Jetzt sagt er die Wahrheit:
+
+> He goes in and says that he is looking at a used one and would like to
+> know what goes on them.
+>
+> It is true, and it is the question every man who has ever bought a
+> second-hand car has asked in that doorway.
+
+**Nobody has ever refused to answer it.** Es ist das eine Thema, bei dem der
+Mann die Autoritaet ist und fast niemand ihn fragt. **Damit ist Regel 1
+nicht nur eingehalten, sondern das Werkzeug.**
 
 **Der Gegenstand ist eine Kuehlmittelpumpe.**
 
@@ -32395,7 +32405,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
 | Baek Jun-ho | 89 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
-| Mr Ahn | 63 | 10 (b2ch53-b3ch07) | 315 | 707 |
+| Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
 | Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
 | Mr Yeo | 57 | 11 (b1ch05-b2ch89) | 6 | 590 |
 | Mr Ok | 53 | 9 (b2ch16-b2ch89) | 206 | 590 |
@@ -33339,9 +33349,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:282 | Annie put the pen down. |
 | 686 | b3ch06:306 | "Say the thing you are not saying," said Annie. |
 | 686 | b3ch06:316 | Annie turned round then. |
-| 707 | b3ch07:296 | Annie listened to the whole of it and then asked the only question that matters about an.. |
-| 707 | b3ch07:304 | Annie put the pen down. |
-| 707 | b3ch07:322 | Annie looked at him for a moment. |
+| 707 | b3ch07:308 | Annie listened to the whole of it and then asked the only question that matters about an.. |
+| 707 | b3ch07:316 | Annie put the pen down. |
+| 707 | b3ch07:334 | Annie looked at him for a moment. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -36240,7 +36250,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ahn
 
-63 Nennungen in 10 Kapiteln.
+62 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -36306,7 +36316,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 463 | b2ch76:350 | Mr Ahn looked at the fan in the corner for a while. |
 | 463 | b2ch76:360 | Georgij held it at the angle it wanted and did not say anything. At some point in the mi.. |
 | 590 | b2ch89:114 | It is the one that was in bits on a bench in July and was mended in September and has be.. |
-| 707 | b3ch07:24 | That is the whole of the method and it took Mr Ahn sixty visits to teach him, and Mr Ahn.. |
 
 ### Zahlen in der Naehe von Mr Ahn
 
@@ -36339,7 +36348,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch76:334` (Tag 463) - four
 - `b2ch76:360` (Tag 463) - eleven
 - `b2ch89:114` (Tag 590) - one
-- `b3ch07:24` (Tag 707) - sixty
 
 ---
 
@@ -37670,16 +37678,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
 | 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
 | 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
-| 707 | b3ch07:32 | He did not explain why and Lee Jun did not ask. |
-| 707 | b3ch07:46 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:138 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:170 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:186 | Lee Jun did not say anything to that. |
+| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
+| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
+| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
 
 ### Zahlen in der Naehe von Lee Jun
 
 - `b3ch04:360` (Tag 645) - four
-- `b3ch07:138` (Tag 707) - twenty
+- `b3ch07:150` (Tag 707) - twenty
 
 ---
 

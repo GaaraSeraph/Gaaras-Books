@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.438 Woerter.
+Book Three, 7 Kapitel, 14.510 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -17,7 +17,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 04 | v1.10 | 2.005 |
 | 05 | v1.4 | 1.957 |
 | 06 | v1.6 | 2.115 |
-| 07 | v1.5 | 2.146 |
+| 07 | v1.7 | 2.218 |
 
 ---
 
@@ -1492,7 +1492,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1506,11 +1506,19 @@ The other part is in workshops.
 
 Georgij has been in thirty-one of them since the last week of August.
 
-He does not go in with a question about Hanseong.
+He does not go in with a question about Hanseong and he does not go in with a car.
 
-He goes in with a car that will not do something, and he waits, and at some point in the twenty minutes a man who has both hands in an engine says a true thing about his own work.
+He goes in and says that he is looking at a used one and would like to know what goes on them.
 
-That is the whole of the method and it took Mr Ahn sixty visits to teach him, and Mr Ahn does not know that he taught him anything.
+It is true, and it is the question every man who has ever bought a second-hand car has asked in that doorway.
+
+Nobody has ever refused to answer it.
+
+A man with both hands in an engine will talk for twenty minutes about what goes wrong with the thing in front of him.
+
+It is the one subject on which he is the authority, and almost nobody asks him.
+
+That is the whole of the method, and he learned it from a man who mends small motors on a hill in Seodaemun, and that man does not know that he taught him anything.
 
 * * *
 
@@ -1572,7 +1580,7 @@ He put the old one down on the bench and did not put it in the bin.
 
 Georgij did not have anything to decide, because it was true.
 
-"Twenty-six out of thirty-one so far."
+"Nineteen out of the twenty-two I have been in."
 
 The man stood up then, and wiped his hands, and looked at the thing on the bench for about four seconds.
 

@@ -5726,10 +5726,20 @@ Band 6 nicht wieder angefasst.**
 ## Was `b3 ch07` festlegt
 
 **Motors wird ueber die Werkstaetten gefunden, so wie der Plan es verlangt,
-und das Verfahren ist Mr Ahn.** Georgij geht nicht mit einer Frage ueber
-Hanseong hinein, sondern mit einem Wagen, der etwas nicht tut, und wartet, bis
-ein Mann mit beiden Haenden im Motor etwas Wahres ueber die eigene Arbeit
-sagt.
+und das Verfahren ist Mr Ahn.**
+
+**Und es braucht keinen Vorwand, was am 05.09. berichtigt worden ist.** In
+der ersten Fassung kam er mit einem Wagen, der etwas nicht tut - einunddreissigmal, und er besitzt kein Auto. Jetzt sagt er die Wahrheit:
+
+> He goes in and says that he is looking at a used one and would like to
+> know what goes on them.
+>
+> It is true, and it is the question every man who has ever bought a
+> second-hand car has asked in that doorway.
+
+**Nobody has ever refused to answer it.** Es ist das eine Thema, bei dem der
+Mann die Autoritaet ist und fast niemand ihn fragt. **Damit ist Regel 1
+nicht nur eingehalten, sondern das Werkzeug.**
 
 **Der Gegenstand ist eine Kuehlmittelpumpe.**
 
