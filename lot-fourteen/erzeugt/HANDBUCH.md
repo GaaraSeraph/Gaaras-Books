@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.688 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.846 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**131 Kapitel, 347.692 Woerter.**
+**131 Kapitel, 347.842 Woerter.**
 
 ---
 
@@ -23615,9 +23615,20 @@ Verdacht:**
 | Anlaeufe am Terminal, 2. Maiwoche bis Ende Juli | **81** |
 | davon um mehr als vier Stunden verschoben | **19** |
 | davon ihre | **14** |
-| ihr Anteil am Verkehr | etwa ein Fuenftel |
+| ihr Anteil am Verkehr | **etwa ein Drittel** |
 | von den vierzehn mit einer Vertragsstrafe darunter | **11** |
 | ueber acht Stunden | **keine** |
+
+**Berichtigt am 05.09.: ein Fuenftel war falsch gerechnet.** Bei einem
+Fuenftel haette sie sechzehn Anlaeufe und vierzehn davon verschoben - achtundachtzig Prozent, und das haette ihre eigene Abteilung im Juni
+eskaliert. **Ein Drittel ist ausserdem Kanon** (`b1 ch19:142`, Annie ist ein
+Drittel von Woos Buch) und ergibt zweiundfuenfzig Prozent gegen neun.
+
+**Und ihre Leute haben es zweimal gemeldet**, im Juni und Ende Juli. Beide
+Male hat das Terminal am selben Tag geantwortet und beide Antworten waren
+wahr - ein Kran stand sechs Stunden, ein Lotse war anderswo. **Ein drittes
+Mal schreibt niemand, weil eine Firma, die dreimal wegen vier Stunden
+schreibt, nicht mehr gelesen wird.**
 
 **Acht Stunden ist die Linie**, und das ist der Fund, der die Absicht beweist,
 ohne dass irgendetwas zu beweisen ist: darunter ist es ein Vermerk, darueber
@@ -23738,9 +23749,15 @@ schliessen. Dabei findet er, was nie in seiner Aktennotiz stand.
 > "He did not write *may not*. He wrote *cannot*, and then he made it true,
 > and he paid me to be the man who says it to him."
 
-**Er war achtunddreissig.** Elf Jahre bevor ein Mann in einem kleinen Zimmer
-ihn gefragt hat, wie viele Leute an seinem Tisch gegessen haben, hatte er
-schon aufgeschrieben, was er werden wuerde.
+**Er war achtundvierzig.** Zwoelf Jahre bevor ein Mann in einem kleinen
+Zimmer ihn gefragt hat, wie viele Leute an seinem Tisch gegessen haben,
+hatte er schon aufgeschrieben, was er werden wuerde.
+
+**Berichtigt am 05.09.** Hier stand achtunddreissig und elf Jahre.
+Nachgerechnet: `b2 ch65` faellt auf Tag 397, den 4. November 2026, *elf
+Jahre* davor ist **2015**, und Choi wird im November 2026 sechzig - im Maerz
+2015 war er also achtundvierzig. Und von Maerz 2015 bis zum 18. Maerz 2027
+sind es zwoelf Jahre.
 
 **Georgij nimmt den Entwurf nicht und bittet um keine Kopie.** Er nimmt das
 Datum und den Wortlaut, weil das verlangt war. **Und er telefoniert nicht** -
@@ -33340,15 +33357,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:300 | Annie put the pen down. |
 | 645 | b3ch04:328 | Annie looked at him. |
 | 645 | b3ch04:348 | Annie did not offer him one. |
-| 672 | b3ch05:264 | Annie was still at the desk at half past ten, which she is not on a Friday. |
-| 672 | b3ch05:274 | "Four people in that building have read all of them," said Annie. "I am one, Mr Chae is .. |
-| 672 | b3ch05:294 | Annie put the pen down. |
-| 672 | b3ch05:308 | Annie looked at the window for a moment, which she does perhaps once a month. |
-| 672 | b3ch05:322 | "I have been paying for that twice a month since May and calling it maintenance," said A.. |
-| 686 | b3ch06:268 | Annie did not say anything for a long time. |
-| 686 | b3ch06:282 | Annie put the pen down. |
-| 686 | b3ch06:306 | "Say the thing you are not saying," said Annie. |
-| 686 | b3ch06:316 | Annie turned round then. |
+| 672 | b3ch05:274 | Annie was still at the desk at half past ten, which she is not on a Friday. |
+| 672 | b3ch05:284 | "Four people in that building have read all of them," said Annie. "I am one, Mr Chae is .. |
+| 672 | b3ch05:304 | Annie put the pen down. |
+| 672 | b3ch05:318 | Annie looked at the window for a moment, which she does perhaps once a month. |
+| 672 | b3ch05:332 | "I have been paying for that twice a month since May and calling it maintenance," said A.. |
+| 686 | b3ch06:278 | Annie did not say anything for a long time. |
+| 686 | b3ch06:292 | Annie put the pen down. |
+| 686 | b3ch06:316 | "Say the thing you are not saying," said Annie. |
+| 686 | b3ch06:326 | Annie turned round then. |
 | 707 | b3ch07:308 | Annie listened to the whole of it and then asked the only question that matters about an.. |
 | 707 | b3ch07:316 | Annie put the pen down. |
 | 707 | b3ch07:334 | Annie looked at him for a moment. |
@@ -33599,8 +33616,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:130` (Tag 592) - four, one, two
 - `b3ch04:262` (Tag 645) - eleven, two
 - `b3ch04:348` (Tag 645) - one
-- `b3ch05:264` (Tag 672) - ten
-- `b3ch05:274` (Tag 672) - four, one, two
+- `b3ch05:274` (Tag 672) - ten
+- `b3ch05:284` (Tag 672) - four, one, two
 
 ---
 
@@ -34613,14 +34630,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:36 | Mr Hwang has been in it since the fifteenth of March and he has not put one thing on the.. |
 | 672 | b3ch05:52 | "I want to say first what this is not," said Mr Hwang. "It is not a complaint and it is .. |
 | 672 | b3ch05:70 | Mr Hwang reads it, because it is his column. |
-| 672 | b3ch05:104 | "About a fifth." Mr Hwang did not look up from the page. "That is the part I have been s.. |
-| 672 | b3ch05:120 | The first time he was looking for the pattern, and it is there and Mr Hwang has already .. |
-| 672 | b3ch05:140 | "Mr Hwang." |
-| 672 | b3ch05:154 | Mr Hwang looked up then. |
-| 672 | b3ch05:172 | "I would like to say the thing I did not want to say on the telephone," said Mr Hwang. |
-| 672 | b3ch05:202 | "What do you want me to do?" said Mr Hwang. |
-| 672 | b3ch05:214 | Mr Hwang squared the four pages and did not put them away. |
-| 672 | b3ch05:236 | Mr Hwang thought about it properly, which took him about four seconds. |
+| 672 | b3ch05:104 | "About a third." Mr Hwang did not look up from the page. "That is the part I have been s.. |
+| 672 | b3ch05:130 | The first time he was looking for the pattern, and it is there and Mr Hwang has already .. |
+| 672 | b3ch05:150 | "Mr Hwang." |
+| 672 | b3ch05:164 | Mr Hwang looked up then. |
+| 672 | b3ch05:182 | "I would like to say the thing I did not want to say on the telephone," said Mr Hwang. |
+| 672 | b3ch05:212 | "What do you want me to do?" said Mr Hwang. |
+| 672 | b3ch05:224 | Mr Hwang squared the four pages and did not put them away. |
+| 672 | b3ch05:246 | Mr Hwang thought about it properly, which took him about four seconds. |
 | 686 | b3ch06:28 | Mr Hwang did not telephone about either of them. He put them in the column the way he pu.. |
 
 ### Zahlen in der Naehe von Mr Hwang
@@ -34715,8 +34732,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch05:6` (Tag 672) - eleven, four, seven, twenty
 - `b3ch05:36` (Tag 672) - one
 - `b3ch05:104` (Tag 672) - three
-- `b3ch05:214` (Tag 672) - four
-- `b3ch05:236` (Tag 672) - four
+- `b3ch05:224` (Tag 672) - four
+- `b3ch05:246` (Tag 672) - four
 
 ---
 
@@ -36064,10 +36081,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
 | 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
 | 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
-| 686 | b3ch06:226 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
-| 686 | b3ch06:230 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Eleve.. |
-| 686 | b3ch06:236 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |
-| 686 | b3ch06:242 | "Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter a.. |
+| 686 | b3ch06:236 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
+| 686 | b3ch06:240 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Eleve.. |
+| 686 | b3ch06:246 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |
+| 686 | b3ch06:252 | "Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter a.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -36119,8 +36136,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:172` (Tag 590) - thirty-one
 - `b3ch01:84` (Tag 592) - eleven, one
 - `b3ch01:90` (Tag 592) - four, two
-- `b3ch06:230` (Tag 686) - eleven
-- `b3ch06:236` (Tag 686) - sixty-three, thirty-eight
+- `b3ch06:240` (Tag 686) - eleven
+- `b3ch06:246` (Tag 686) - forty-eight, sixty-three
 
 ---
 
@@ -37764,7 +37781,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 | 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
-| 686 | b3ch06:194 | Mr Baek telephoned on the Friday morning, which he does not. |
+| 686 | b3ch06:204 | Mr Baek telephoned on the Friday morning, which he does not. |
 
 ### Zahlen in der Naehe von Mr Baek
 

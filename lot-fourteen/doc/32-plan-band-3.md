@@ -5574,9 +5574,20 @@ Verdacht:**
 | Anlaeufe am Terminal, 2. Maiwoche bis Ende Juli | **81** |
 | davon um mehr als vier Stunden verschoben | **19** |
 | davon ihre | **14** |
-| ihr Anteil am Verkehr | etwa ein Fuenftel |
+| ihr Anteil am Verkehr | **etwa ein Drittel** |
 | von den vierzehn mit einer Vertragsstrafe darunter | **11** |
 | ueber acht Stunden | **keine** |
+
+**Berichtigt am 05.09.: ein Fuenftel war falsch gerechnet.** Bei einem
+Fuenftel haette sie sechzehn Anlaeufe und vierzehn davon verschoben - achtundachtzig Prozent, und das haette ihre eigene Abteilung im Juni
+eskaliert. **Ein Drittel ist ausserdem Kanon** (`b1 ch19:142`, Annie ist ein
+Drittel von Woos Buch) und ergibt zweiundfuenfzig Prozent gegen neun.
+
+**Und ihre Leute haben es zweimal gemeldet**, im Juni und Ende Juli. Beide
+Male hat das Terminal am selben Tag geantwortet und beide Antworten waren
+wahr - ein Kran stand sechs Stunden, ein Lotse war anderswo. **Ein drittes
+Mal schreibt niemand, weil eine Firma, die dreimal wegen vier Stunden
+schreibt, nicht mehr gelesen wird.**
 
 **Acht Stunden ist die Linie**, und das ist der Fund, der die Absicht beweist,
 ohne dass irgendetwas zu beweisen ist: darunter ist es ein Vermerk, darueber
@@ -5697,9 +5708,15 @@ schliessen. Dabei findet er, was nie in seiner Aktennotiz stand.
 > "He did not write *may not*. He wrote *cannot*, and then he made it true,
 > and he paid me to be the man who says it to him."
 
-**Er war achtunddreissig.** Elf Jahre bevor ein Mann in einem kleinen Zimmer
-ihn gefragt hat, wie viele Leute an seinem Tisch gegessen haben, hatte er
-schon aufgeschrieben, was er werden wuerde.
+**Er war achtundvierzig.** Zwoelf Jahre bevor ein Mann in einem kleinen
+Zimmer ihn gefragt hat, wie viele Leute an seinem Tisch gegessen haben,
+hatte er schon aufgeschrieben, was er werden wuerde.
+
+**Berichtigt am 05.09.** Hier stand achtunddreissig und elf Jahre.
+Nachgerechnet: `b2 ch65` faellt auf Tag 397, den 4. November 2026, *elf
+Jahre* davor ist **2015**, und Choi wird im November 2026 sechzig - im Maerz
+2015 war er also achtundvierzig. Und von Maerz 2015 bis zum 18. Maerz 2027
+sind es zwoelf Jahre.
 
 **Georgij nimmt den Entwurf nicht und bittet um keine Kopie.** Er nimmt das
 Datum und den Wortlaut, weil das verlangt war. **Und er telefoniert nicht** -

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.510 Woerter.
+Book Three, 7 Kapitel, 14.660 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,9 +14,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.6 | 2.103 |
 | 02 | v1.10 | 2.103 |
 | 03 | v1.6 | 2.009 |
-| 04 | v1.10 | 2.005 |
-| 05 | v1.4 | 1.957 |
-| 06 | v1.6 | 2.115 |
+| 04 | v1.11 | 2.009 |
+| 05 | v1.5 | 2.039 |
+| 06 | v1.7 | 2.179 |
 | 07 | v1.7 | 2.218 |
 
 ---
@@ -695,7 +695,7 @@ Annie picked the pen back up.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -785,7 +785,7 @@ The folder was on the table in the hall where a folder goes.
 
 Georgij read it standing up, and it took eleven minutes, and neither of them sat down.
 
-It is a name, a registration, and a guardianship order made two years ago and renewed once.
+It is a name, a registration, and a guardianship order made in the winter of the first year and renewed once.
 
 There is a training contract with a firm in Yangju that trains house staff for people who can afford to have staff trained, and a certificate for the year he finished, seventeen months late and top of nine.
 
@@ -978,7 +978,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1058,13 +1058,21 @@ Georgij put both hands on the back of the chair he had not sat down in.
 
 "Say what share of the eighty-one is hers."
 
-"About a fifth." Mr Hwang did not look up from the page. "That is the part I have been sitting with since Tuesday. A fifth of the traffic and three quarters of the movement, and a quarter is long enough that it is not weather."
+"About a third." Mr Hwang did not look up from the page. "That is the part I have been sitting with since Tuesday. A third of the traffic and three quarters of the movement, and a quarter is long enough that it is not weather."
 
 "It is not weather."
 
 "No. I did not say it was."
 
 He turned the second page round and did not push it across.
+
+* * *
+
+Her own people have raised it twice.
+
+Once in June and once at the end of July, and both times the terminal answered within the day, and both answers were true. A crane was down for six hours on the ninth of June. A pilot was on another job on the twenty-ninth of July.
+
+Nobody wrote to anybody a third time, because a company that writes three times about four hours is a company that people stop reading.
 
 * * *
 
@@ -1235,7 +1243,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1317,7 +1325,7 @@ The ninth is the one that says what a late ship costs, and it is the only one th
 
 * * *
 
-Eleven of those nineteen cargoes move on Hanseong bottoms.
+Thirteen of those nineteen cargoes move on Hanseong bottoms.
 
 They move on Hanseong bottoms because Hanseong has the berths, and a precursor that has to be in a reactor on a Thursday goes on the ship that has a slot on the Tuesday.
 
@@ -1335,7 +1343,7 @@ It is the most legitimate question in this trade. It is asked in writing, on a l
 
 The form that exists to protect nineteen companies from Hanseong is the one that told Hanseong where to press.
 
-Nineteen companies would each have said yes to that form, one at a time, over four months.
+Nineteen companies would each have said yes to that form, one at a time, over eleven weeks.
 
 Not one of them would have mentioned it to anybody, because it is the most ordinary piece of paper in this business.
 
@@ -1356,6 +1364,14 @@ It took four minutes and a folded page, and she had spent five weeks believing i
 Nobody stole anything. Nobody was bribed and nobody was careless.
 
 Somebody bought a service that is entitled to ask, and asked nineteen times, and got nineteen honest answers.
+
+* * *
+
+The requests went out in the second half of March and through April.
+
+The first berth that moved was on the eleventh of May.
+
+Four weeks is how long it takes to read nineteen answers and work out which eleven of them are worth a delay, and Georgij knows that because it is about how long it would take him.
 
 * * *
 
@@ -1417,7 +1433,7 @@ Neither of them said anything for a moment.
 
 "Say what you think it means now."
 
-"That he knew what he was going to be and he did not think he would be able to stop himself." Baek Jun-ho is sixty-three and he did not look sixty-three saying it. "He was thirty-eight years old when he wrote that."
+"That he knew what he was going to be and he did not think he would be able to stop himself." Baek Jun-ho is sixty-three and he did not look sixty-three saying it. "He was forty-eight years old when he wrote that."
 
 "Say what happens to it now."
 
@@ -1463,11 +1479,11 @@ Annie put the pen down.
 
 She stood at the window for a while.
 
-"He was thirty-eight," she said.
+"He was forty-eight," she said.
 
 "Yes."
 
-"That is eleven years before a man in a small room asked him how many people had eaten at his table." She did not turn round. "And he had already written down what he was going to be."
+"That is twelve years before a man in a small room asked him how many people had eaten at his table." She did not turn round. "And he had already written down what he was going to be."
 
 * * *
 
