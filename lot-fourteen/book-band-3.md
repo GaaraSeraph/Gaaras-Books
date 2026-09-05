@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.718 Woerter.
+Book Three, 7 Kapitel, 14.722 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -17,7 +17,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 04 | v1.20 | 2.012 |
 | 05 | v1.9 | 2.062 |
 | 06 | v1.11 | 2.182 |
-| 07 | v1.10 | 2.227 |
+| 07 | v1.11 | 2.231 |
 
 ---
 
@@ -1512,7 +1512,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1750,7 +1750,7 @@ The only question is what is standing next to it on the day, and at the moment t
 
 * * *
 
-He gave it to her on the Friday evening, standing, and it took six minutes.
+On the Friday evening he took her through it from the first workshop to the page under the bench.
 
 Annie listened to the whole of it and then asked the only question that matters about any of it.
 
