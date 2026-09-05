@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.735 Woerter.
+Book Three, 7 Kapitel, 14.725 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,10 +12,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.10 | 2.089 |
-| 02 | v1.19 | 2.129 |
-| 03 | v1.14 | 2.020 |
+| 02 | v1.20 | 2.123 |
+| 03 | v1.15 | 2.017 |
 | 04 | v1.20 | 2.012 |
-| 05 | v1.13 | 2.067 |
+| 05 | v1.14 | 2.066 |
 | 06 | v1.12 | 2.182 |
 | 07 | v1.12 | 2.236 |
 
@@ -227,7 +227,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.19 · EN
+*Lot Fourteen* · Version 1.20 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -255,7 +255,7 @@ A man of about twenty-five sits behind it. He says nothing to anybody and turns 
 
 Everybody signs it. That is what it is for.
 
-Georgij stood in front of that table for longer than anybody else had.
+Georgij stopped in front of that table.
 
 There are papers in the Republic of Korea with his name on them, and there are books at doors in his own hand. Not one of them points to this house.
 
@@ -438,7 +438,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -452,7 +452,7 @@ He did not ask Park Sang-hoon and he did not ask Chairman Woo.
 
 A man who telephones two chaebol about a prosecutor has told the prosecutor something, and it is the one thing about himself that is true.
 
-On the second Thursday he wrote one line in the book and did not put anything under it for a fortnight.
+On the second Thursday he put a sentence in the book and nothing under it for a fortnight.
 
 *There is nothing behind him. Work out what that means before he asks.*
 
@@ -976,7 +976,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1198,7 +1198,7 @@ Then he wrote four lines, and the fourth one is a question, and it is the only o
 
 Annie was still at the desk at half past ten, which she is not on a Friday.
 
-He gave her the whole of it standing, from the telephone call to the four lines in the car.
+He gave her the whole of it, from the telephone call to the four lines in the car.
 
 She let the whole of it come out before she said anything, and then she said the thing he had been waiting eleven minutes for somebody else to say.
 
