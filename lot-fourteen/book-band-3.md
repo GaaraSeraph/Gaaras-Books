@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.711 Woerter.
+Book Three, 7 Kapitel, 14.718 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,12 +12,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.10 | 2.089 |
-| 02 | v1.14 | 2.121 |
-| 03 | v1.9 | 2.017 |
-| 04 | v1.17 | 2.020 |
-| 05 | v1.8 | 2.059 |
-| 06 | v1.10 | 2.182 |
-| 07 | v1.8 | 2.223 |
+| 02 | v1.15 | 2.125 |
+| 03 | v1.10 | 2.017 |
+| 04 | v1.18 | 2.020 |
+| 05 | v1.9 | 2.062 |
+| 06 | v1.11 | 2.182 |
+| 07 | v1.9 | 2.223 |
 
 ---
 
@@ -227,7 +227,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -347,7 +347,7 @@ The man who had stood behind the pillar went out at the same time Georgij did, b
 
 He did not say anything and he did not look up, and at the top of the steps he stopped and put a hand on the rail for a moment and then went on down.
 
-He was at that table on the eighteenth of March and he was one of the four who ate.
+He was at that table on the eighteenth of March and he was one of the four who stopped looking at their plates.
 
 Georgij has read six pages about him. He knows what the man does for a living, what he was sold, what it has cost him since, and the name of the firm that is going to buy the rest of it by the autumn.
 
@@ -438,7 +438,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -628,7 +628,7 @@ He did not try. Trying would have been an answer and there was not one.
 
 Gong Doo-hyun did not follow it up.
 
-He had brought a man in to find out one thing. He found it out at twenty to four, and there was nothing to put in the rest of the hour, and neither of them got up.
+He had brought a man in to find out one thing. He found it out at five to four, and there was nothing to put in the rest of the hour, and neither of them got up.
 
 * * *
 
@@ -693,7 +693,7 @@ Annie wrote one line and did not say what it was.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.17 · EN
+*Lot Fourteen* · Version 1.18 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -833,7 +833,7 @@ Somebody gave a training firm in Yangju the arrangement of this house, and they 
 
 At the door of the room Lee Jun stopped and looked at the collar.
 
-He had been not looking at it for eleven minutes and he had done it well.
+He had been not looking at it since the hall and he had done it well.
 
 "You may look at it."
 
@@ -976,11 +976,11 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
-Mr Hwang telephoned the house at twenty past seven in the evening, which he has done four times in eleven months.
+Mr Hwang telephoned the house at twenty past seven in the evening, which he has done four times since he came to that terminal.
 
 All four of those were about a date. This one was not.
 
@@ -998,7 +998,7 @@ The bridge is twelve minutes if there is nothing on it, and there is always some
 
 The terminal lights come up on the right about four minutes before the exit. There are a great many of them, and every one is a crane or a stack or a gate.
 
-The whole of it belongs to a man of seventy-nine who telephoned once in April, and asked one question, and rang off.
+The whole of it belongs to a man of seventy-eight who telephoned once in April, and asked one question, and rang off.
 
 * * *
 
@@ -1060,7 +1060,7 @@ Georgij put both hands on the back of the chair he had not sat down in.
 
 "Say what share of the eighty-one is hers."
 
-"About a third." Mr Hwang did not look up from the page. "That is the part I have been sitting with since Tuesday. A third of the traffic and three quarters of the movement, and a quarter is long enough that it is not weather."
+"About a third." Mr Hwang did not look up from the page. "That is the part I have been sitting with since Tuesday. A third of the traffic and three quarters of the movement, and three months is long enough that it is not weather."
 
 "It is not weather."
 
@@ -1245,7 +1245,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1279,7 +1279,7 @@ The question is whether anybody had asked them anything about that contract in t
 
 Fifteen said no.
 
-Two did not answer at all, which is the ordinary rate. He asked both of them a second time eleven days later and got nothing again, and he has written them down as nothing and not as no.
+Two did not answer at all, which is the ordinary rate. He asked both of them a second time a week later and got nothing again, and he has written them down as nothing and not as no.
 
 Two remembered.
 
@@ -1409,7 +1409,7 @@ Mr Baek telephoned on the Friday morning, which he does not.
 
 "And."
 
-"And the second correction is not in my attendance note, because I did not write it in my attendance note." He said it flatly. "It is in the margin of the draft, in his own hand, and I have had that draft in the same box for eleven years and I have not opened it since the day he left my office."
+"And the second correction is not in my attendance note, because I did not write it in my attendance note." He said it flatly. "It is in the margin of the draft, in his own hand, and I have had that draft in the same box for twelve years and I have not opened it since the day he left my office."
 
 * * *
 
@@ -1512,7 +1512,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1600,7 +1600,7 @@ He put the old one down on the bench and did not put it in the bin.
 
 Georgij did not have anything to decide, because it was true.
 
-"Nineteen out of the twenty-two I have been in."
+"Thirteen out of the twenty-two I have been in."
 
 The man stood up then, and wiped his hands, and looked at the thing on the bench for about four seconds.
 

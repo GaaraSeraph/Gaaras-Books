@@ -722,7 +722,7 @@ auf **VERFALLEN**.
 | **Annie** | **39 im Januar 2027** | **18. September** (war 3. August) | `b2 ch78`: vierzehn plus fuenfundzwanzig; mit dreissig verstanden und seit neun Jahren gewusst |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 35 im April 2002; 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*; historische Nennungen auf 35 korrigiert |
-| **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
+| **Chairman Woo Jae-sung** | 78 bis 26.09.2027, **danach 79** | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre. **Achtung: die Grenze liegt mitten in Band 3.** `b2 ch82` und `b2 ch87` lassen ihn selbst *"I am seventy-eight"* sagen; `b3 ch05` am 6. August 2027 und `b3 ch07` am 10. September 2027 stehen noch davor, alles ab dem 27. September dahinter |
 | **Mrs Sunwoo** | 81 bis 16.11.2026, **danach 82** | **17. November** (war 29. September, davor 4. Juli) | `b2 ch03` nennt sie im Maerz 81; `b2 ch71` und `b2 ch89` nennen sie nach dem Geburtstag 82. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |

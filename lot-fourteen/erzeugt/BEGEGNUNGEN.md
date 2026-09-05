@@ -2338,7 +2338,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:356` (Tag 531) - eleven, one, twelve
 - `b2ch87:388` (Tag 531) - four, nineteen, one, thirty, twenty
 - `b2ch89:126` (Tag 590) - fifty-eight
-- `b3ch05:6` (Tag 672) - eleven, four, seven, twenty
+- `b3ch05:6` (Tag 672) - four, seven, twenty
 - `b3ch05:38` (Tag 672) - one
 - `b3ch05:110` (Tag 672) - three
 - `b3ch05:230` (Tag 672) - four
