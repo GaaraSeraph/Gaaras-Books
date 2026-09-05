@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.725 Woerter.
+Book Three, 7 Kapitel, 14.705 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,12 +12,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.10 | 2.089 |
-| 02 | v1.20 | 2.123 |
+| 02 | v1.21 | 2.120 |
 | 03 | v1.15 | 2.017 |
 | 04 | v1.20 | 2.012 |
 | 05 | v1.14 | 2.066 |
-| 06 | v1.12 | 2.182 |
-| 07 | v1.12 | 2.236 |
+| 06 | v1.13 | 2.165 |
+| 07 | v1.13 | 2.236 |
 
 ---
 
@@ -227,7 +227,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.20 · EN
+*Lot Fourteen* · Version 1.21 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -361,7 +361,7 @@ Not what he was, not who had sent him, and not what he had to do with any of it.
 
 And not why a man nobody in that hall knew had come up a lane in Jongno on a Wednesday morning.
 
-Everything he has ever got out of anybody, he has got by asking them something small enough to answer.
+What he gets out of people, he gets by asking them something small enough to answer.
 
 The other man did not want anything out of him today, and there is no version of that which is good.
 
@@ -1245,7 +1245,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1419,7 +1419,7 @@ It is one line and it is not long.
 
 The date is the eleventh of March and the draft is initialled beside it.
 
-The initials are the ones on the engrossment, which has been in the same box since the day the man walked out of that office.
+The initials are the ones on the engrossment.
 
 The words are:
 
@@ -1512,7 +1512,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1698,7 +1698,7 @@ Five keep none, and all five are outside the segment.
 
 On the Thursday he found the second half, and it was in the same workshop and had been the whole time.
 
-A pump has a number stamped on the housing, and the old one in the corner and the one fitted in June have the same number with a different last digit.
+A pump has a number stamped on the housing, and the old one in the corner and the four on the shelf have the same number with a different last digit.
 
 That proves a revision and nothing else. Manufacturers revise parts every week of the year, for cost, for a supplier, for a box that stacks better.
 
