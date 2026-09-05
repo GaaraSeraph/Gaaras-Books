@@ -11,10 +11,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.6 | 2.103 |
-| 02 | v1.11 | 2.108 |
+| 01 | v1.7 | 2.103 |
+| 02 | v1.12 | 2.108 |
 | 03 | v1.7 | 2.017 |
-| 04 | v1.14 | 2.016 |
+| 04 | v1.15 | 2.016 |
 | 05 | v1.7 | 2.053 |
 | 06 | v1.9 | 2.177 |
 | 07 | v1.8 | 2.223 |
@@ -22,7 +22,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
@@ -114,7 +114,7 @@ There was a pause on the line of about three seconds.
 
 "You had no reason to ask."
 
-"I had every reason and I did not have the wit." He was not making it smaller. "What has happened. I have asked myself the wrong question four times since the call."
+"I had every reason and I did not have the wit." He was not making it smaller. "Say what has happened. I have been asking myself the wrong question since the call."
 
 Georgij told him what had come to the door and what was on it, and read him the name at the bottom, and did not say anything about what he thought it meant.
 
@@ -229,7 +229,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -317,7 +317,7 @@ Georgij bowed the way the man in front of him had.
 
 "There are three others who do not, and they are from the hall, the crematorium, and the office that sent out the notices." Gong Doo-hyun had his hands at his sides and did not do anything with them. "I am going to say one thing to you, and then you may go and stand anywhere you like, or leave, and I will not mind either."
 
-"The one thing."
+"Then say it."
 
 Georgij did not put anything in front of it.
 
@@ -695,7 +695,7 @@ Annie went back to the page she had been on.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -921,7 +921,7 @@ He did not put anything round it and he did not look away.
 
 "Yes."
 
-"Why did you not."
+"Why did you not?"
 
 * * *
 

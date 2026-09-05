@@ -1,7 +1,7 @@
-Book Three · Chapter 1: The first thing that arrives
-Lot Fourteen · Version 1.6 · EN
+# Chapter 1: The first thing that arrives
+*Lot Fourteen* · Version 1.7 · EN
 
-Day Five Hundred and Ninety-Two · Tuesday 18 May
+## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
 For fourteen days there has been nothing to build.
 
@@ -55,7 +55,7 @@ He keeps them. There are four now, and the first is nearly full of things that c
 
 He found the page for the twenty-seventh of May last year in under a minute, because every page in there has the date at the top of it and because he knew roughly where it would be.
 
-Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.
+*Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.*
 
 He wrote that in a garden in Hannam-dong with a glass in his other hand, because Park Sang-hoon had said it in that order and at that speed.
 
@@ -79,7 +79,7 @@ The card gives the other one. It is behind the large one and it takes about two 
 
 Georgij looked at that for a while and then wrote one line and put the date on it.
 
-Everybody in that room will be somebody he wanted in it.
+*Everybody in that room will be somebody he wanted in it.*
 
 He telephoned Baek Jun-ho at half past eleven and asked one question.
 
@@ -91,7 +91,7 @@ There was a pause on the line of about three seconds.
 
 "You had no reason to ask."
 
-"I had every reason and I did not have the wit." He was not making it smaller. "What has happened. I have asked myself the wrong question four times since the call."
+"I had every reason and I did not have the wit." He was not making it smaller. "Say what has happened. I have been asking myself the wrong question since the call."
 
 Georgij told him what had come to the door and what was on it, and read him the name at the bottom, and did not say anything about what he thought it meant.
 
@@ -113,7 +113,7 @@ Sang-hoon asked in three places in April and heard nothing back, and he does not
 
 There is a day for that, and this is not it.
 
-———
+* * *
 
 The tray went up at seven the way it has gone up at seven for ten years.
 
@@ -191,11 +191,11 @@ Annie picked the pen back up, which is what she does when a thing has been decid
 
 "And Georgij." She was writing again. "You are not to be the last man out of that hall."
 
-———
+* * *
 
 On the eighth of February a letter went out of an office in Yeouido, and Georgij had said in that office what it was.
 
-There is nothing in the world with his name on it except what he signed himself. That letter is going to be the first thing that arrives at him.
+*There is nothing in the world with his name on it except what he signed himself. That letter is going to be the first thing that arrives at him.*
 
 It went to a solicitor's office in Jung-gu that forwards. It was forwarded.
 
