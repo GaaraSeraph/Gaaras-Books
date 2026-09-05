@@ -1,5 +1,5 @@
 # Chapter 3: At sixty
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -281,7 +281,7 @@ He did not write it down.
 
 * * *
 
-He told her all of it in order at about eight, and it took nineteen minutes, and he left nothing out of it.
+He gave her the afternoon at about eight, in the order it had happened, including the part where he had nothing to say.
 
 ---
 

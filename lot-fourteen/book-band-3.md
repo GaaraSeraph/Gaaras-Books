@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.703 Woerter.
+Book Three, 7 Kapitel, 14.706 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,18 +11,18 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.7 | 2.103 |
-| 02 | v1.12 | 2.108 |
-| 03 | v1.7 | 2.017 |
-| 04 | v1.16 | 2.022 |
-| 05 | v1.7 | 2.053 |
+| 01 | v1.8 | 2.100 |
+| 02 | v1.13 | 2.110 |
+| 03 | v1.8 | 2.017 |
+| 04 | v1.17 | 2.020 |
+| 05 | v1.8 | 2.059 |
 | 06 | v1.9 | 2.177 |
 | 07 | v1.8 | 2.223 |
 
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
@@ -204,7 +204,7 @@ Annie looked at him for a moment.
 
 "Better that he has it in the first four seconds than that he spends a fortnight getting it wrong."
 
-The machine in the room at the back ran for four minutes and stopped.
+Somewhere below them a door was shut and not shut hard.
 
 Annie picked the pen back up, which is what she does when a thing has been decided.
 
@@ -229,7 +229,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -397,7 +397,7 @@ The only extravagant thing in the whole arrangement is his own name at the botto
 
 * * *
 
-He told her all of it in order at about seven, and it took eleven minutes, and he left nothing out of it.
+He was back at half past six and he gave it to her before he had taken the coat off, which he does not do.
 
 "And what did you get," said Annie.
 
@@ -440,7 +440,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -662,7 +662,7 @@ He did not write it down.
 
 * * *
 
-He told her all of it in order at about eight, and it took nineteen minutes, and he left nothing out of it.
+He gave her the afternoon at about eight, in the order it had happened, including the part where he had nothing to say.
 
 Annie did not interrupt any of it, and she does not.
 
@@ -695,7 +695,7 @@ Annie went back to the page she had been on.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.16 · EN
+*Lot Fourteen* · Version 1.17 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -765,7 +765,7 @@ It was correct, and it was the third thing he had got right in a minute and a ha
 
 "So did I. I did it standing where you are standing, and it took me the same time." Georgij did not soften any of it. "You may stop doing it in this house. It will take you about four months to stop, and nobody is going to mind while you are still doing it."
 
-Lee Jun did not say anything to that.
+The boy did not answer that.
 
 He had been given a piece of information he had no use for, and he could not tell whether it was a test, and he did what he has learned to do, which is nothing.
 
@@ -978,7 +978,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1200,7 +1200,7 @@ Then he wrote four lines, and the fourth one is a question, and it is the only o
 
 Annie was still at the desk at half past ten, which she is not on a Friday.
 
-He told her all of it in order and it took eleven minutes.
+He gave her the whole of it standing, from the telephone call to the four lines in the car.
 
 She let the whole of it come out before she said anything, and then she said the thing he had been waiting eleven minutes for somebody else to say.
 

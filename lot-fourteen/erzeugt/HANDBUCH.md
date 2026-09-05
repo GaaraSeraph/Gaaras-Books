@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.890 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 367.876 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -692,8 +692,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Gwak](#mrs-gwak)
   - [Shin](#shin)
   - [Moon Hae-sook](#moon-hae-sook)
-  - [Lee Jun](#lee-jun)
   - [Mr Pyo](#mr-pyo)
+  - [Lee Jun](#lee-jun)
   - [Mr Sohn](#mr-sohn)
   - [Mr Baek](#mr-baek)
   - [Bae](#bae)
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**131 Kapitel, 347.879 Woerter.**
+**131 Kapitel, 347.885 Woerter.**
 
 ---
 
@@ -32445,8 +32445,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
-| Lee Jun | 11 | 2 (b3ch04-b3ch07) | 645 | 707 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
+| Lee Jun | 10 | 2 (b3ch04-b3ch07) | 645 | 707 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Mr Baek | 8 | 7 (b1ch05-b3ch06) | 6 | 686 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
@@ -37684,31 +37684,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Lee Jun
-
-11 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
-| 645 | b3ch04:94 | Lee Jun did not say anything to that. |
-| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
-| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
-| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
-| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
-| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
-
-### Zahlen in der Naehe von Lee Jun
-
-- `b3ch04:360` (Tag 645) - four
-- `b3ch07:150` (Tag 707) - twenty
-
----
-
 ### Mr Pyo
 
 11 Nennungen in 8 Kapiteln.
@@ -37737,6 +37712,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
 - `b2ch02:10` (Tag 152) - two
+
+---
+
+### Lee Jun
+
+10 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
+| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
+| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:360` (Tag 645) - four
+- `b3ch07:150` (Tag 707) - twenty
 
 ---
 
