@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.732 Woerter.
+Book Three, 7 Kapitel, 14.733 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -13,9 +13,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 |---|---|---|
 | 01 | v1.10 | 2.089 |
 | 02 | v1.16 | 2.127 |
-| 03 | v1.12 | 2.020 |
+| 03 | v1.13 | 2.022 |
 | 04 | v1.20 | 2.012 |
-| 05 | v1.10 | 2.066 |
+| 05 | v1.11 | 2.065 |
 | 06 | v1.12 | 2.182 |
 | 07 | v1.12 | 2.236 |
 
@@ -438,7 +438,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -592,7 +592,7 @@ Gong Doo-hyun sat back for the first time since Georgij had come in.
 
 "There was no afternoon where he decided. It worked, and then it worked again." He said it without any weight on it. "By the third year the man who used to say what a bad indictment looked like did not say it any more. Nobody at that table was writing indictments."
 
-Georgij had nothing to put next to that.
+Georgij looked past him at the photograph on the sill.
 
 "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it yourself, and I would not have got it in front of you any other way."
 
@@ -976,11 +976,11 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
-Mr Hwang telephoned the house at twenty past seven in the evening, which he has done four times since he came to that terminal.
+Mr Hwang telephoned the house at twenty past seven in the evening, which he has done four times since he took the job.
 
 All four of those were about a date. This one was not.
 
