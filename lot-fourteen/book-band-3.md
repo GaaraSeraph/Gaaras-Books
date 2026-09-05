@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.718 Woerter.
+Book Three, 7 Kapitel, 14.715 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,7 +14,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.10 | 2.089 |
 | 02 | v1.15 | 2.125 |
 | 03 | v1.10 | 2.017 |
-| 04 | v1.18 | 2.020 |
+| 04 | v1.19 | 2.017 |
 | 05 | v1.9 | 2.062 |
 | 06 | v1.11 | 2.182 |
 | 07 | v1.9 | 2.223 |
@@ -693,7 +693,7 @@ Annie wrote one line and did not say what it was.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.18 · EN
+*Lot Fourteen* · Version 1.19 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -905,7 +905,7 @@ Annie was at the desk at half past two and had been since eleven.
 
 Georgij stood where he stands.
 
-"On the fourth of October I asked you what had happened to lot eleven. I asked again on the fifth." He said it without any weight on it at all. "You did not answer either time, and I stopped."
+"On the fourth of October I asked you what had happened to lot eleven. I asked again on the fifth." It was two dates and nothing else. "You did not answer either time, and I stopped."
 
 "You did."
 
