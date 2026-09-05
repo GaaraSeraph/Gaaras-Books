@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.732 Woerter.
+Book Three, 7 Kapitel, 14.735 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,7 +12,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.10 | 2.089 |
-| 02 | v1.17 | 2.126 |
+| 02 | v1.19 | 2.129 |
 | 03 | v1.14 | 2.020 |
 | 04 | v1.20 | 2.012 |
 | 05 | v1.13 | 2.067 |
@@ -227,7 +227,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.17 · EN
+*Lot Fourteen* · Version 1.19 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -319,7 +319,7 @@ Georgij bowed the way the man in front of him had.
 
 Georgij did not put anything in front of it.
 
-"He was thirty-five and he was the best man in that building at the thing he did." Gong Doo-hyun said it with no weight on it anywhere. "He took four companies apart on paper and he was right about all four of them, and there was not one of the four that anybody in that service could have done in the time he did it."
+"He was thirty-five and he was the best man in that building at the thing he did." He said it as a fact about a man he had worked with. "He took four companies apart on paper and he was right about all four of them, and there was not one of the four that anybody in that service could have done in the time he did it."
 
 Georgij did not move at all.
 

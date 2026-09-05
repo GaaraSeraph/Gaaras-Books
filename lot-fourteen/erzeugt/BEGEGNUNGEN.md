@@ -47,9 +47,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Bae | 29 | 8 (b2ch38-b2ch88) | 262 | 578 |
 | Mr Im | 28 | 5 (b1ch05-b2ch87) | 6 | 531 |
 | Mr Koh | 25 | 7 (b2ch35-b2ch87) | 251 | 531 |
-| Gong Doo-hyun | 20 | 3 (b3ch01-b3ch03) | 592 | 628 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
+| Gong Doo-hyun | 19 | 3 (b3ch01-b3ch03) | 592 | 628 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
@@ -5096,43 +5096,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Gong Doo-hyun
-
-20 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:126 | "Gong Doo-hyun." |
-| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
-| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
-| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
-| 600 | b3ch02:94 | "He was thirty-five and he was the best man in that building at the thing he did." Gong .. |
-| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
-| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
-| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
-| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
-| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
-| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
-| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
-| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
-| 628 | b3ch03:198 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
-| 628 | b3ch03:220 | Gong Doo-hyun did not write it down and did not need to. |
-| 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
-| 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
-| 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
-| 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
-
-### Zahlen in der Naehe von Gong Doo-hyun
-
-- `b3ch02:70` (Tag 600) - eleven, one, twenty
-- `b3ch02:88` (Tag 600) - one, three
-- `b3ch02:94` (Tag 600) - four, one, thirty-five
-- `b3ch02:110` (Tag 600) - two
-- `b3ch03:160` (Tag 628) - four
-
----
-
 ## Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -5213,6 +5176,41 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:50` (Tag 249) - eight, eleven, one
 - `b2ch76:104` (Tag 461) - two
 - `b2ch76:146` (Tag 461) - four, three, twelve
+
+---
+
+## Gong Doo-hyun
+
+19 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
+| 592 | b3ch01:126 | "Gong Doo-hyun." |
+| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
+| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
+| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
+| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
+| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
+| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
+| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
+| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
+| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
+| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
+| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
+| 628 | b3ch03:198 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
+| 628 | b3ch03:220 | Gong Doo-hyun did not write it down and did not need to. |
+| 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
+| 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
+| 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
+| 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
+
+### Zahlen in der Naehe von Gong Doo-hyun
+
+- `b3ch02:70` (Tag 600) - eleven, one, twenty
+- `b3ch02:88` (Tag 600) - one, three
+- `b3ch02:110` (Tag 600) - two
+- `b3ch03:160` (Tag 628) - four
 
 ---
 
