@@ -85,6 +85,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 11** - die Maschine steht, und nichts ist geschehen. **Ende Akt I** | 753 | Di **26. Oktober 2027** |
 | **Band 3, Kapitel 12** - die Charter, der Brief an elf Kunden, Mr Namgung. **Anfang Akt II** | 762 | Do **4. November 2027** |
 | **Band 3, Kapitel 13** - das Ventil auf dem Stapel, Mr Bok sagt Seoul zweimal, und Lee Jun hoert es | 774 | Di **16. November 2027** |
+| **Band 3, Kapitel 14** - die Forderung, die zwei Briefe, und Zeile neunzehn kommt an die Tuer | 788 | Di **30. November 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 13 Kapitel, 27.477 Woerter.
+Book Three, 14 Kapitel, 29.498 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -24,6 +24,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 11 | v1.11 | 2.126 |
 | 12 | v1.11 | 2.029 |
 | 13 | v1.10 | 2.075 |
+| 14 | v1.10 | 2.021 |
 
 ---
 
@@ -3297,3 +3298,272 @@ Lee Jun wrote nothing down in that office and nothing in the car.
 He wrote it at the top of the back stairs, on a sheet out of the pad he was given for the workshops, and he put the date at the top of the page.
 
 Nobody has told him to do that.
+
+---
+
+# Book Three · Chapter 14: Who answers
+*Lot Fourteen* · Version 1.10 · EN
+
+## Day Seven Hundred and Eighty-Eight · Tuesday 30 November
+
+The claim went in on the seventeenth of November and it is the most ordinary document in this business.
+
+A carrier that is late is liable, and a carrier that is liable carries cover against it, and a shipper who has paid for a substitute claims the difference.
+
+That is what the cover is for. It is why the premium is what it is.
+
+The November claim is one billion four hundred million won. It is eleven sailings at four times the berth, and the air freight from the eighth, and nothing else at all.
+
+Nobody has claimed a loss of profit, a reputational item or a penalty she has not paid.
+
+* * *
+
+A claim of that kind is not a letter. It is a bundle.
+
+Eleven booking confirmations against eleven allocations that were changed after the booking. The port authority record of the changes, which is public and which nobody has had a reason to print out before.
+
+Eleven charter invoices with the dates on them, and one air waybill from the eighth.
+
+And the four lines that went to the customers on the first of November, because a claimant who kept her customers whole has to show that she kept them whole.
+
+Mr Chae put it together in five days and did not enjoy one of them.
+
+* * *
+
+A shipper who claims against her carrier has ended something.
+
+Not the contract, which runs to the end of next year, and not the traffic, which is contracted and will move.
+
+What ends is the part that was never written down.
+
+The telephone call that puts a box on a ship which is already full. The allowance at the end of a quarter. The man at the terminal who knows whose cargo it is.
+
+She has had that with Hanseong for nine years and she spent all of it on the seventeenth of November.
+
+She signed it at nine in the morning and did not read it twice.
+
+* * *
+
+She could not afford to leave it.
+
+A shipper who charters round her own carrier for a month and does not claim the difference has told her auditor that she did not think she would get it.
+
+An auditor who is told that asks why, and the answer is the second thing she has been not saying since May.
+
+The claim is the cheap end of it. The expensive end was already paid in November.
+
+* * *
+
+Mrs Chun was appointed by the underwriter on the nineteenth.
+
+She works for their side and she came anyway, which is the whole of what an adjuster is.
+
+She writes on a paper form that goes into a system afterwards, and she has not stopped doing that in eight years, and nobody has asked her to.
+
+She asked three things and wrote the answers in the boxes.
+
+"Who told you the windows had moved."
+
+"The terminal, in the ordinary way, on the day."
+
+"Who did you tell."
+
+"The customers. On the first of November, in four lines."
+
+"Do you have the four lines."
+
+"Yes."
+
+* * *
+
+She read them where she sat and did not comment on them.
+
+"That is the file," she said. "I will have it back to the underwriter inside six working days. I have not been over six in this office."
+
+That is the only boast in her and she makes it once a file, and it is the only thing anybody in that room said that afternoon about themselves.
+
+* * *
+
+Mrs Chun sent the file to the underwriter on the twenty-fifth, which is five working days and not six.
+
+She telephoned to say so.
+
+* * *
+
+The claim is a document, and a document makes other documents.
+
+The underwriter opens a file. The adjuster opens a file. The broker who placed the cover opens a file, because a claim of that size against that policy is a thing the broker's own people will be asked about at renewal.
+
+Three companies that are not Hanseong now hold paper with the words *allocation* and *November* on it.
+
+Not one of them has been told anything untrue and not one of them has been asked for a favour.
+
+* * *
+
+The underwriter has not answered and will not answer this side of January.
+
+That is normal and it is not a delay. A file of that size goes to somebody who has forty of them.
+
+The answer, when it comes, will be an offer or a question, and either one will be in writing.
+
+* * *
+
+Hanseong Shipping answered in writing on the twenty-sixth.
+
+It is the first thing anybody in that group has put on paper about any of this since May.
+
+It is two pages. It does not admit the allocations and it does not deny them. It says that berth sequencing is operational and made on the day, and it reserves everything.
+
+The word *operational* is in it four times.
+
+Georgij read it standing up and did not need it twice.
+
+* * *
+
+That letter says nothing, and it is worth keeping for exactly that reason.
+
+A man who writes that word four times in two pages has been told what he may not write.
+
+* * *
+
+Three days later the second letter came, and it is the one that matters.
+
+It is a notice of subcontracting. From the first of December, the space under her contract is to be performed by a partner carrier, and the partner is named, and the notice gives its registration number because a notice of that kind has to.
+
+Hanseong Shipping remains the contracting carrier and remains liable. That is on the front of it and it is true.
+
+What it does is take the operating record off Hanseong Shipping and put it somewhere else.
+
+The next twelve months of berth decisions belong to a different company. So do the next twelve months of claims, if anybody keeps making them.
+
+* * *
+
+Georgij put the registration number next to Mr Hwang's sixth table at about half past nine.
+
+It is row nineteen.
+
+* * *
+
+Row nineteen is the company that is on that table twice, under a name it stopped using in 2019 and the name it uses now.
+
+It is neither profitable nor interesting. It holds a piece of Hanseong Shipping and a piece of Hanseong Credit, and nobody outside a filing office has looked at it in a decade.
+
+Annie holds a block of it, bought in four pieces in September, under every line at which anybody has to be told.
+
+Han has just made it the carrier.
+
+* * *
+
+Mr Hwang was in the house when the notice came, because it came on a Monday.
+
+He did not put his coat down to read it.
+
+"That is the one I put on twice."
+
+"It is."
+
+"I put it on twice so that it would not look tidier than it is." He set it back down on the sixth table and left it there. "It did not occur to me that anybody would hand it to us."
+
+* * *
+
+The partner has four ships and none of them is new.
+
+Two are on the Busan feeder run and two are chartered out. It has one office above a ship chandler and a managing director who is also the managing director of two other things.
+
+It has no legal department, because a company with four ships does not have one and could not use one.
+
+Hanseong Shipping has a legal department, and a legal department wrote that answer.
+
+From the first of December the questions about allocation go to that office.
+
+The man there will answer them briefly and in his own words, because that is how one man with one office answers anything.
+
+That is the part Han has not looked at, and it is not the small part.
+
+* * *
+
+Nobody is going to write to the partner.
+
+A letter to a four-ship company from anybody in this house is a letter that gets shown to somebody, and the somebody is in Seoul.
+
+The notice will be acknowledged in the ordinary way by the ordinary person. The first of December will happen. The first allocation under the new arrangement will be made by a man who has never made one for her before.
+
+That is the thing to wait for, and waiting for it costs nothing.
+
+* * *
+
+December is twelve charters and not eleven.
+
+Nothing in the notice changes that. A four-ship company with two of the four chartered out is not going to find her a window in the week before Christmas, and she is not going to ask it to.
+
+The cost goes on. It goes on into February, and it goes on being on the front of the quarter under its own name.
+
+* * *
+
+Georgij went down at eight and gave her the two letters in the order they had come.
+
+"Read the second one again," said Annie.
+
+He read it again.
+
+"He has taken the claims off Shipping."
+
+"He has taken the claims off Shipping and put a company on a document," said Georgij. "The company is on the table twice and we own a piece of it."
+
+* * *
+
+Annie did not say anything for a moment.
+
+"Say the part I am not going to like."
+
+"You are now claiming against a carrier you hold a piece of, and you did not know you were going to be doing that when you bought it." Georgij had his hands behind his back. "Nobody can prove otherwise. Nobody has to."
+
+"No."
+
+"A man who puts those two facts on one page has a paragraph. He does not have a case and he will never have one, and the paragraph will be enough for the sort of room that reads paragraphs."
+
+* * *
+
+Annie went on reading the notice while he said it.
+
+"Then I claim," she said.
+
+"Yes."
+
+"A woman who stops claiming in December is a woman who found something out in December, and that is worse than the paragraph and it is also true."
+
+She put the notice down square with the edge of the desk.
+
+"Put the block in the claim file."
+
+* * *
+
+Georgij did not do that for the reason she thinks.
+
+He did it because a thing that is written down before anybody asks is a fact. A thing produced afterwards is an answer. The two are not worth the same in any room in this country.
+
+He wrote the block, the date, the four purchases and the amount on one sheet and put it at the front of the file, above the claim.
+
+That is the fourth time this year he has written something down in order to be able to hand it over.
+
+* * *
+
+None of that was ever going to arrive by post.
+
+The cross-holdings existed and sat in a filing office. Anybody who spent four months on them could have had them, and Mr Hwang spent four months on them. The two pages in the drawer name what they name because of it.
+
+Everything this house knows about that company, it went and got.
+
+Except this.
+
+* * *
+
+Three things went in the book that night.
+
+*The claim moved the money. He moved the company.*
+
+*Nine hundred boxes and one instruction, and now a registration number in a notice.*
+
+*Row nineteen came to the door.*
+
+He looked at the third one for a while and did not add the name of the boy who found it, because that page is not for that.

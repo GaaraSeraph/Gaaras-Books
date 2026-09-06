@@ -3419,11 +3419,51 @@ gemeinsame Grund liegt darunter und ist handwerklich: **Akt I und der Anfang
 von Akt II sind Auskunftsszenen**, und wer eine Auskunft schreibt, laesst die
 Figur erklaeren.
 
-**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** Nicht
+**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** **Eingeloest in `b3 ch14`:** Mrs Chun steht bei 10,5, und ihr Blatt sagt, woran das liegt. Nicht
 weil kurz besser ist, sondern weil vier Vielredner hintereinander keine
 Figuren mehr sind, sondern eine Angewohnheit des Schreibenden. Wer eine
 laengere braucht, schreibt vorher hierher, warum ausgerechnet diese es sein
 muss.
+
+---
+
+### Mrs Chun (Schadenregulierin, acht Jahre im Fach)
+
+**4 Repliken, 42 Woerter, 10,5 Woerter je Replik.** Von Hand gezaehlt.
+
+**Sie ist der Gegenbeweis zu dem Abschnitt darueber.** Die Regel vom 06.09.
+verlangt, dass die naechste neue Nebenfigur unter zwoelf liegt. Sie liegt bei
+10,5 und damit als erste Band-3-Figur unter dem Median der Baende 1 und 2.
+
+**Warum das geht, obwohl ihre Szene eine Auskunftsszene ist:** sie holt die
+Auskunft, sie gibt keine. Drei Fragen, jede unter acht Woertern, und die
+Antworten schreibt sie in Kaesten. **Wer eine Figur schreibt, die fragt statt
+zu erklaeren, bekommt die Kuerze geschenkt.**
+
+**Ihre Fragen bekommen den Punkt.** *"Who told you the windows had moved."*
+*"Who did you tell."* *"Do you have the four lines."* Sie entscheidet ueber
+die Forderung, und die andere Seite muss liefern. Dass sie fuer den
+Versicherer arbeitet und trotzdem kommt, ist die Machtlage und nicht die
+Hoeflichkeit.
+
+**Ihre Masseinheit sind Arbeitstage.**
+
+**Der Zug, der ihr nicht schmeichelt, ist klein und ganz ihrer:** sie ist
+eitel auf ihre Bearbeitungszeit. Sie sagt ungefragt, dass sie in diesem Buero
+nie ueber sechs Arbeitstagen war, und sie ruft spaeter an, um zu sagen, dass
+es diesmal fuenf waren. **Es ist das Einzige, was in dem Zimmer ueber sie
+selbst gesagt wird.**
+
+**Sie schreibt auf einen Papierbogen**, der danach in ein System eingegeben
+wird, und tut das seit acht Jahren, und niemand hat sie darum gebeten.
+
+**Verbote.**
+
+* **Sie ist nicht auf ihrer Seite und nicht auf der anderen.** Keine Zeile, in
+  der sie andeutet, was sie von der Sache haelt.
+* **Sie kommt nicht wieder.** Der Vorgang laeuft weiter, sie nicht.
+* **Sie erklaert nichts.** Wer ihr einen erklaerenden Satz gibt, macht aus
+  ihr die vierte Vielrednerin.
 
 ---
 

@@ -18,10 +18,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 929 | 108 (b1ch01-b3ch13) | 1 | 774 |
+| Annie | 933 | 109 (b1ch01-b3ch14) | 1 | 788 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
-| Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
+| Mr Hwang | 187 | 31 (b2ch07-b3ch14) | 166 | 788 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
 | Mrs Seo | 151 | 53 (b1ch03-b3ch04) | 1 | 645 |
@@ -66,6 +66,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 4 | 2 (b1ch09-b3ch10) | 22 | 742 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
+| Mrs Chun | 2 | 1 (b3ch14) | 788 | 788 |
 | Mrs Uhm | 2 | 1 (b2ch16) | 206 | 206 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
@@ -76,7 +77,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-929 Nennungen in 108 Kapiteln.
+933 Nennungen in 109 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1009,6 +1010,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 774 | b3ch13:248 | Annie looked up from what she was doing, which she had not done when he came in. |
 | 774 | b3ch13:258 | Annie took her hand off the page. |
 | 774 | b3ch13:268 | Annie went back to the page and did not look up for the rest of it. |
+| 788 | b3ch14:196 | Annie holds a block of it, bought in four pieces in September, under every line at which.. |
+| 788 | b3ch14:270 | "Read the second one again," said Annie. |
+| 788 | b3ch14:280 | Annie did not say anything for a moment. |
+| 788 | b3ch14:296 | Annie went on reading the notice while he said it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1271,6 +1276,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:228` (Tag 753) - one
 - `b3ch12:230` (Tag 762) - six
 - `b3ch12:264` (Tag 762) - one
+- `b3ch14:196` (Tag 788) - four
+- `b3ch14:270` (Tag 788) - one
 
 ---
 
@@ -2117,7 +2124,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Hwang
 
-184 Nennungen in 30 Kapiteln.
+187 Nennungen in 31 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2305,6 +2312,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:198 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
 | 753 | b3ch11:208 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
 | 753 | b3ch11:224 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
+| 788 | b3ch14:182 | Georgij put the registration number next to Mr Hwang's sixth table at about half past ni.. |
+| 788 | b3ch14:204 | Mr Hwang was in the house when the notice came, because it came on a Monday. |
+| 788 | b3ch14:332 | The cross-holdings existed and sat in a filing office. Anybody who spent four months on .. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -2407,6 +2417,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:168` (Tag 753) - five
 - `b3ch11:198` (Tag 753) - four, one, three
 - `b3ch11:224` (Tag 753) - two
+- `b3ch14:182` (Tag 788) - nine
+- `b3ch14:332` (Tag 788) - four, two
 
 ---
 
@@ -5706,6 +5718,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch25:20` (Tag 59) - four, fourteen, three, twenty-two, two
+
+---
+
+## Mrs Chun
+
+2 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 788 | b3ch14:70 | Mrs Chun was appointed by the underwriter on the nineteenth. |
+| 788 | b3ch14:110 | Mrs Chun sent the file to the underwriter on the twenty-fifth, which is five working day.. |
+
+### Zahlen in der Naehe von Mrs Chun
+
+- `b3ch14:110` (Tag 788) - five, six, twenty
 
 ---
 

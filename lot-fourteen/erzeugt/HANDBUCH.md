@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 379.337 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 380.068 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -110,6 +110,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Gong Doo-hyun (der Oberstaatsanwalt, um die sechzig)](#gong-doo-hyun-der-oberstaatsanwalt-um-die-sechzig)
   - [Lee Jun (sechzehn, ehemals Lot 11)](#lee-jun-sechzehn-ehemals-lot-11)
   - [Die Nebenfiguren von Band 3 reden zu lang, gemessen am 06.09.](#die-nebenfiguren-von-band-3-reden-zu-lang-gemessen-am-06-09)
+  - [Mrs Chun (Schadenregulierin, acht Jahre im Fach)](#mrs-chun-schadenregulierin-acht-jahre-im-fach)
   - [Mr Bok (Operations, Busan, sechzehn Jahre an dem Tisch)](#mr-bok-operations-busan-sechzehn-jahre-an-dem-tisch)
   - [Mr Namgung (etwa sechzig, Kunde seit neunzehn Jahren)](#mr-namgung-etwa-sechzig-kunde-seit-neunzehn-jahren)
   - [Han Bo-ram (sechsundzwanzig, Stiftung, Berichterstattung)](#han-bo-ram-sechsundzwanzig-stiftung-berichterstattung)
@@ -716,6 +717,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Chef Bang](#chef-bang)
   - [Minister Min-ho](#minister-min-ho)
   - [Mrs Ahn](#mrs-ahn)
+  - [Mrs Chun](#mrs-chun)
   - [Mrs Uhm](#mrs-uhm)
   - [Tae-min](#tae-min)
   - [Mrs Ryu](#mrs-ryu)
@@ -769,7 +771,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**137 Kapitel, 360.659 Woerter.**
+**138 Kapitel, 362.680 Woerter.**
 
 ---
 
@@ -2015,6 +2017,7 @@ diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
+| **Mrs Chun** | **Schadenregulierin, vom Versicherer bestellt.** Sitzt auf deren Seite und kommt trotzdem | Acht Jahre im Fach. Nimmt in `b3 ch14` die Novemberforderung auf, stellt drei Fragen und schreibt die Antworten in Kaesten | B3 14 | **Die erste Band-3-Nebenfigur unter dem Median**, 10,5 Woerter je Replik. Ihre einzige Eitelkeit ist die Bearbeitungszeit: sie war nie ueber sechs Arbeitstage und ruft an, um zu sagen, dass es diesmal fuenf waren |
 | **Mr Bok** | **Operations bei einem Spediteur in Busan.** Sechzehn Jahre an demselben Schreibtisch | Der Aelteste von vier an dem Tisch, und die anderen drei legen ihm Dinge hin, ohne aufzusehen. Sagt in `b3 ch13` zweimal, dass die Anweisung aus Seoul kam | B3 13 | **Er ist uebergangen worden und hat es niemandem sagen koennen.** Das erste Seoul ist die Auskunft, das zweite die Beschwerde. Dazu ein Anliegen, das mit der Sache nichts zu tun hat: sie haben den Parkplatz auf die andere Seite verlegt. **Er weiss nicht, wem er das gerade gegeben hat, und wird es nie erfahren** |
 | **Mr Namgung** | **Kunde, und zwar seit neunzehn Jahren.** Kauft das Vorprodukt, auf dem seine Anlage laeuft | Etwa sechzig. Neunzehn Jahre bei der Gruppe, acht bei ihr. Kommt in `b3 ch12` allein, um sich zu bedanken, und kuendigt im selben Atemzug die zweite Quelle an | B3 12 | **Er hoert sich nicht zu, und das ist sein Zug.** Er erzaehlt die elf Wochen von 2016 zum wiederholten Mal, ist mit dem Erzaehlen zufrieden, und sagt danach in derselben Stimme den Satz, der ihr das Geschaeft kostet. Er geht zufrieden hinaus und glaubt, er habe sich bedankt |
 | **Han Bo-ram** | **Die juengste Han, und die einzige, die arbeitet.** Stiftungsberichterstattung, vierter Stock | Sechsundzwanzig. Haelt Anteile an drei gelisteten Gesellschaften, unterschreibt in `b3 ch09` die bedingte Verkaufszusage zum Preis von vorher. Vierundzwanzig, als Georgij sie auf der Gala ansprach | B3 9 | **Sie ist die Frau von `b1 ch07:182`**, die am Rand einer Gruppe an der Bar stand und der er ausdruecklich nicht zulaechelte (`b1 ch07:186`), weil ein fremdes Laecheln quer durch den Raum etwas ist, worueber eine Frau in ihrer Lage entscheiden muss. **Die neun Minuten stehen in `b1 ch08:56`**, und in der neunten sagt sie etwas ueber die zweite Bestellung eines Direktors, das sie in der ersten nicht gesagt haette. Er fragt danach absichtlich etwas anderes, damit ihr letzter Satz harmlos ist. Vollzug ihrer Zusage in Akt II, mit der Shipping-Festigung |
@@ -6831,11 +6834,51 @@ gemeinsame Grund liegt darunter und ist handwerklich: **Akt I und der Anfang
 von Akt II sind Auskunftsszenen**, und wer eine Auskunft schreibt, laesst die
 Figur erklaeren.
 
-**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** Nicht
+**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** **Eingeloest in `b3 ch14`:** Mrs Chun steht bei 10,5, und ihr Blatt sagt, woran das liegt. Nicht
 weil kurz besser ist, sondern weil vier Vielredner hintereinander keine
 Figuren mehr sind, sondern eine Angewohnheit des Schreibenden. Wer eine
 laengere braucht, schreibt vorher hierher, warum ausgerechnet diese es sein
 muss.
+
+---
+
+### Mrs Chun (Schadenregulierin, acht Jahre im Fach)
+
+**4 Repliken, 42 Woerter, 10,5 Woerter je Replik.** Von Hand gezaehlt.
+
+**Sie ist der Gegenbeweis zu dem Abschnitt darueber.** Die Regel vom 06.09.
+verlangt, dass die naechste neue Nebenfigur unter zwoelf liegt. Sie liegt bei
+10,5 und damit als erste Band-3-Figur unter dem Median der Baende 1 und 2.
+
+**Warum das geht, obwohl ihre Szene eine Auskunftsszene ist:** sie holt die
+Auskunft, sie gibt keine. Drei Fragen, jede unter acht Woertern, und die
+Antworten schreibt sie in Kaesten. **Wer eine Figur schreibt, die fragt statt
+zu erklaeren, bekommt die Kuerze geschenkt.**
+
+**Ihre Fragen bekommen den Punkt.** *"Who told you the windows had moved."*
+*"Who did you tell."* *"Do you have the four lines."* Sie entscheidet ueber
+die Forderung, und die andere Seite muss liefern. Dass sie fuer den
+Versicherer arbeitet und trotzdem kommt, ist die Machtlage und nicht die
+Hoeflichkeit.
+
+**Ihre Masseinheit sind Arbeitstage.**
+
+**Der Zug, der ihr nicht schmeichelt, ist klein und ganz ihrer:** sie ist
+eitel auf ihre Bearbeitungszeit. Sie sagt ungefragt, dass sie in diesem Buero
+nie ueber sechs Arbeitstagen war, und sie ruft spaeter an, um zu sagen, dass
+es diesmal fuenf waren. **Es ist das Einzige, was in dem Zimmer ueber sie
+selbst gesagt wird.**
+
+**Sie schreibt auf einen Papierbogen**, der danach in ein System eingegeben
+wird, und tut das seit acht Jahren, und niemand hat sie darum gebeten.
+
+**Verbote.**
+
+* **Sie ist nicht auf ihrer Seite und nicht auf der anderen.** Keine Zeile, in
+  der sie andeutet, was sie von der Sache haelt.
+* **Sie kommt nicht wieder.** Der Vorgang laeuft weiter, sie nicht.
+* **Sie erklaert nichts.** Wer ihr einen erklaerenden Satz gibt, macht aus
+  ihr die vierte Vielrednerin.
 
 ---
 
@@ -7680,6 +7723,7 @@ ist.
 - [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
 - [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
+- [BEZAHLT] **B3 13** Mrs Chun an Annies Haus · gesagt Tag 788, rueckwirkend am 19. November · faellig sechs Arbeitstage spaeter · "I will have it back to the underwriter inside six working days." · **Die kleinste Zusage im Buch und die einzige, die vorzeitig eingeloest wird.** Die Akte ging am 25. November heraus, also nach fuenf, und sie hat angerufen, um es zu sagen. Der Posten steht hier, weil er die einzige Frist in Band 3 ist, die jemand **unterbietet**, und weil das ihr ganzes Blatt ist.
 - [OFFEN] **B3 11** Mr Namgung an Annie · gesagt Tag 762 · faellig im Januar 2028, also zwischen Tag 822 und Tag 850 · "I am going to have to put a second source in front of my board in January." · **Der Preis der Charter, angesagt von dem Mann, der sich gerade bedankt hat.** Neunzehn Jahre Kunde, acht bei ihr. Faellt in Akt II und kostet sie Geschaeft, das nicht zurueckkommt. `zusagen.py --neu` findet es nicht, weil FRIST Monatsnamen nicht kennt; von Hand eingetragen am 06.09.
 - [OFFEN] **B3 12** Annies Gruppe an elf Kunden · gesagt Tag 762 · faellig bei der Rueckkehr auf den Fahrplan · "We will write again when it returns to the scheduled service." · **Der Brief, der niemanden nennt.** Vier Zeilen an alle elf. Solange kein zweiter Brief geht, laeuft die Charter, und jeder der elf weiss das. `zusagen.py --neu` findet es nicht, weil die Zusage in einem Brief steht und nicht in einer Replik; von Hand eingetragen am 06.09.
 - [BEZAHLT] **B3 10** Annie an Georgij · gesagt Tag 742 · faellig Tag 748 · "Mr Chae is going to write down why I am unhappy with Hanseong." · **Der datierte Grund, der aelter ist als die Reihenfolge.** Der Donnerstag ist der 21. Oktober 2027. Eingeloest und belegt in `b3 ch11`, Tag 753: zweieinhalb Seiten in Mr Chaes Hand, ihre Unterschrift darunter. **Es kostet sie etwas Echtes**, und `b3 ch10` sagt was: sie muss aufhoeren, es Instandhaltung zu nennen, und dann steht auf Papier, dass sie fuenf Monate lang bezahlt hat, was ihr angetan wurde. `zusagen.py --neu` hat den Posten nicht gefunden, weil FRIST *by Thursday* kennt und nicht *on Thursday*; von Hand eingetragen am 06.09.
@@ -9236,6 +9280,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 11** - die Maschine steht, und nichts ist geschehen. **Ende Akt I** | 753 | Di **26. Oktober 2027** |
 | **Band 3, Kapitel 12** - die Charter, der Brief an elf Kunden, Mr Namgung. **Anfang Akt II** | 762 | Do **4. November 2027** |
 | **Band 3, Kapitel 13** - das Ventil auf dem Stapel, Mr Bok sagt Seoul zweimal, und Lee Jun hoert es | 774 | Di **16. November 2027** |
+| **Band 3, Kapitel 14** - die Forderung, die zwei Briefe, und Zeile neunzehn kommt an die Tuer | 788 | Di **30. November 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -33197,10 +33242,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 929 | 108 (b1ch01-b3ch13) | 1 | 774 |
+| Annie | 933 | 109 (b1ch01-b3ch14) | 1 | 788 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
-| Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
+| Mr Hwang | 187 | 31 (b2ch07-b3ch14) | 166 | 788 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
 | Mrs Seo | 151 | 53 (b1ch03-b3ch04) | 1 | 645 |
@@ -33245,6 +33290,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 4 | 2 (b1ch09-b3ch10) | 22 | 742 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
+| Mrs Chun | 2 | 1 (b3ch14) | 788 | 788 |
 | Mrs Uhm | 2 | 1 (b2ch16) | 206 | 206 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
@@ -33255,7 +33301,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-929 Nennungen in 108 Kapiteln.
+933 Nennungen in 109 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34188,6 +34234,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 774 | b3ch13:248 | Annie looked up from what she was doing, which she had not done when he came in. |
 | 774 | b3ch13:258 | Annie took her hand off the page. |
 | 774 | b3ch13:268 | Annie went back to the page and did not look up for the rest of it. |
+| 788 | b3ch14:196 | Annie holds a block of it, bought in four pieces in September, under every line at which.. |
+| 788 | b3ch14:270 | "Read the second one again," said Annie. |
+| 788 | b3ch14:280 | Annie did not say anything for a moment. |
+| 788 | b3ch14:296 | Annie went on reading the notice while he said it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34450,6 +34500,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:228` (Tag 753) - one
 - `b3ch12:230` (Tag 762) - six
 - `b3ch12:264` (Tag 762) - one
+- `b3ch14:196` (Tag 788) - four
+- `b3ch14:270` (Tag 788) - one
 
 ---
 
@@ -35296,7 +35348,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-184 Nennungen in 30 Kapiteln.
+187 Nennungen in 31 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -35484,6 +35536,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:198 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
 | 753 | b3ch11:208 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
 | 753 | b3ch11:224 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
+| 788 | b3ch14:182 | Georgij put the registration number next to Mr Hwang's sixth table at about half past ni.. |
+| 788 | b3ch14:204 | Mr Hwang was in the house when the notice came, because it came on a Monday. |
+| 788 | b3ch14:332 | The cross-holdings existed and sat in a filing office. Anybody who spent four months on .. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -35586,6 +35641,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:168` (Tag 753) - five
 - `b3ch11:198` (Tag 753) - four, one, three
 - `b3ch11:224` (Tag 753) - two
+- `b3ch14:182` (Tag 788) - nine
+- `b3ch14:332` (Tag 788) - four, two
 
 ---
 
@@ -38885,6 +38942,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch25:20` (Tag 59) - four, fourteen, three, twenty-two, two
+
+---
+
+### Mrs Chun
+
+2 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 788 | b3ch14:70 | Mrs Chun was appointed by the underwriter on the nineteenth. |
+| 788 | b3ch14:110 | Mrs Chun sent the file to the underwriter on the twenty-fifth, which is five working day.. |
+
+### Zahlen in der Naehe von Mrs Chun
+
+- `b3ch14:110` (Tag 788) - five, six, twenty
 
 ---
 
