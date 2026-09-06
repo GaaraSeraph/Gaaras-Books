@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 368.508 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 368.732 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**131 Kapitel, 347.883 Woerter.**
+**131 Kapitel, 347.879 Woerter.**
 
 ---
 
@@ -23411,9 +23411,19 @@ somebody who was not sorry."* Antwort: *"That will be most of the people you
 talk to."*
 
 **Der Mann hinter dem Pfeiler** ist einer der vier, die am 18. Maerz gegessen
-haben (`b2 ch87`: zweiundzwanzig hatten aufgehoert). `b3 ch02:42` behauptet
-derzeit ueber denselben Mann das Gegenteil, bevor `:122` ihn korrekt als einen
-der vier Esser identifiziert. Georgij hat sechs Seiten ueber ihn und weiss
+haben. `b2 ch87:18` und `:20` im Wortlaut: *Twenty-two people at that table
+had stopped eating and not one of them had decided to. The four who came late
+were on the far side and had been talking about a berth all evening. They went
+on with their food and noticed nothing, and they are the only four who were in
+that room and were not in it.* **Das ist eine andere Vierergruppe als die in
+`b2 ch85:232`**, die aufhoerte, auf ihre Teller zu sehen, und die Verwechslung
+ist leicht: **im elften Pruefdurchgang am 06.09. ist `:122` genau deshalb
+falsch berichtigt worden**, auf *one of the four who stopped looking at their
+plates*, weil die Gegenprobe bei `b2 ch85` aufgehoert hat. Am 06.09. im
+neunundzwanzigsten Durchgang zurueckgenommen. Er gehoert zu denen, die nichts
+begriffen haben, `b2 ch87:226` laesst ihn Annie fuer einen sehr guten Abend
+danken, und genau deshalb traegt die Szene: *None of that says why he came
+today, and there is nowhere to look it up.* Georgij hat sechs Seiten ueber ihn und weiss
 alles ausser dem Einzigen, was heute zaehlt. **Er erscheint nicht wieder, wenn
 nichts mit ihm vorgesehen ist** - dann ist er das, was er im Kapitel ist.
 
@@ -23471,7 +23481,14 @@ hat drei Woerter und kein Papier.
 ### Die Ablage aus ch03 und wo sie entnommen wird
 
 **Regel aus `heft.py`: wer eine Ablage schreibt, notiert wo sie geholt wird.**
-`b3 ch03` legt drei ab und holt nichts. Das ist Absicht und hier steht wo:
+`b3 ch03` legt **einmal** ab und holt nichts. Das ist Absicht und hier steht
+wo. **Am 06.09. berichtigt: hier stand "drei", und darunter standen zwei
+Punkte, von denen einer ausdruecklich keine Ablage ist.** `heft.py` meldet
+fuer das Kapitel vier, und drei davon sind fremde Hefte: Mrs Seo schreibt auf
+den Block am Telefon, Gong sagt *you wrote it yourself* ueber das Buch an der
+Tuer, und Annie schreibt ihre eigene Zeile. **Das Werkzeug kann nicht sehen,
+wem das Heft gehoert**, und zaehlt in allen drei Baenden gleich, weshalb sein
+Verhaeltnis als Verlauf taugt und als Absolutzahl nicht:
 
 * *There is nothing behind him. Work out what that means before he asks.* -
   **wird im selben Kapitel nicht beantwortet und bleibt stehen.** Die Antwort

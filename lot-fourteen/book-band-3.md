@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.701 Woerter.
+Book Three, 7 Kapitel, 14.697 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,7 +12,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.11 | 2.092 |
-| 02 | v1.21 | 2.120 |
+| 02 | v1.22 | 2.116 |
 | 03 | v1.15 | 2.017 |
 | 04 | v1.20 | 2.012 |
 | 05 | v1.15 | 2.069 |
@@ -227,7 +227,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.21 · EN
+*Lot Fourteen* · Version 1.22 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -347,7 +347,7 @@ The man who had stood behind the pillar went out at the same time Georgij did, b
 
 He did not say anything and he did not look up, and at the top of the steps he stopped and put a hand on the rail for a moment and then went on down.
 
-He was at that table on the eighteenth of March and he was one of the four who stopped looking at their plates.
+He was at that table on the eighteenth of March and he was one of the four who ate.
 
 Georgij has read six pages about him. He knows what the man does for a living, what he was sold, what it has cost him since, and the name of the firm that is going to buy the rest of it by the autumn.
 
