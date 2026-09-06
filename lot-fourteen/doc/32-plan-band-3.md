@@ -184,6 +184,12 @@ entscheidet, sondern ob der andere nein sagen kann, ohne den Raum zu verlassen
 
 ### Der Text
 
+**Geschrieben am 06.09. als `b3 ch15` "Him", Tag 802, Dienstag der 14. Dezember 2027, 2173 Woerter.** Der Block unten bleibt stehen, weil er vom Autor ist, aber **er hat die Reihenfolge des Kusses falsch herum**: bei ihm steht *"You cannot say that any more."* vor der Fehlfunktion. `doc/10-naehe.md` legt die andere fest und nennt diese hier ausdruecklich den verworfenen ersten Versuch. **Kanon vor Plan; das Kapitel folgt `doc/10`.**
+
+**Was das Kapitel zu dem Block hinzugefuegt hat, und warum.** Der Block ist die Szene und nicht das Kapitel: er sagt nicht, woher Sang-hoon es weiss, worauf das Blatt lautet, und was ihre Weigerung kostet. Alle drei stehen jetzt im Buch. Er weiss es aus drei Sachen, die er einzeln seit Monaten hat und am achten Dezember in einem Auto nebeneinanderlegt: keine Leihe mehr in zwei Namen, eine ruhende Gesellschaft aus Jeju im Register seiner eigenen Reederei, und die Forderung ueber eine Milliarde vierhundert gegen deren Deckung. Das Blatt lautet auf die Kreditsparte, also auf die eine, die die anderen traegt (`b3 ch11`), und **dass er die richtige nimmt und nicht die anderen, ist der ganze Beweis.** Die Sechs aus der Einheitentabelle steht im Text nicht, weil Heavy und Construction in Band 3 nicht vorkommen. Und *"Do the other thing."* kostet sie sieben Monate Arbeit, falls er es tut.
+
+**Der Anlass steht in `b3 ch14` und ist Hans falsche Reaktion.** Am ersten Dezember gibt Hanseong Shipping den Verkehr seines zweitgroessten Kunden an eine Gesellschaft mit vier Schiffen. Die Anzeige geht als Betriebssache hinaus, und eine Betriebssache geht nicht an Anteilseigner. **Han hat den Mann mit den vierzig Prozent umgangen, und deshalb kommt der Mann.**
+
 Park Sang-hoon telephoned at eleven to say that he would come at four, which he does not do.
 
 Georgij spent the five hours not preparing anything, because a man who announces himself has decided already and wants the deciding to be seen.

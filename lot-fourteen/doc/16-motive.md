@@ -136,6 +136,10 @@ auftaucht, und sie muss verdient sein.
 Tag 46 nicht benutzt worden, und die Stelle, an der es wieder auftaucht, steht
 seit dem 06.09. im Buch: `b3 ch05`, Tag 672, Mr Hwang an der Tuer.
 
+**Das zweite steht seit dem 06.09. in `b3 ch15:340`, Tag 802**, und es haelt die drei Regeln von selbst. Es ist Abschnitt IV, es liegen zehn Kapitel dazwischen statt der geforderten zwei, und die Probe faellt richtig aus: **er holt damit nichts, er verhindert es nicht einmal.** *"A small smile got out. He was holding a much larger one down and he was not managing all of it."* Damit stehen in Band 3 zwei Laecheln in fuenfzehn Kapiteln, und beide gehoeren ihm.
+
+**Und die Formel aus `doc/10` ist an derselben Stelle eingeloest.** *something went across his face and did not stay* steht dreimal im Buch, in `b1 ch33`, `b2 ch49` und `b2 ch64`. In `b3 ch15` steht **es blieb**, und das ist das einzige Mal.
+
 **Und daraus folgen drei Regeln, die ab hier binden.**
 
 1. **Nur Abschnitt IV.** Die Werkzeuge aus I bis III braucht er bei den
@@ -473,6 +477,8 @@ Abend, an dem Georgij 2026 auf den Teppich geht (`b2 ch05`, Tag 159, belegt
 in `b2 ch32:286`), fallen beide auf den elften Maerz, elf Jahre auseinander. **Zufall, vom Autor am 06.09. gesehen und
 stehengelassen.** Kein Bild, das ausgespielt wird, und kein Fehler, der
 berichtigt wird. Die Begruendung steht in `doc/41`.
+
+**Am 06.09. ist ein Drittes dazugekommen, und es steht im Buch.** `b3 ch15` sagt, dass Georgij Sang-hoons Satz ueber den Preis auf einer Seite vom elften Maerz stehen hat, *four lines under something else*. **Der Korridor bei der Beisetzung (`b2 ch04`) und der Teppichabend (`b2 ch05`) sind derselbe Erzaehltag, Tag 159.** Das *something else* ist also nicht erfunden, sondern die andere Haelfte desselben Abends, und der Text zeigt nirgends darauf. **Wer die Stelle spaeter anfasst, hat drei Sachen an einem Datum und nicht zwei.**
 
 ## Festgelegte Zeilen
 

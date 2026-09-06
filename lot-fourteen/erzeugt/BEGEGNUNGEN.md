@@ -18,13 +18,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 933 | 109 (b1ch01-b3ch14) | 1 | 788 |
-| Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
+| Annie | 941 | 110 (b1ch01-b3ch15) | 1 | 802 |
+| Park Sang-hoon | 318 | 49 (b1ch10-b3ch15) | 22 | 802 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 187 | 31 (b2ch07-b3ch14) | 166 | 788 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
-| Mrs Seo | 151 | 53 (b1ch03-b3ch04) | 1 | 645 |
+| Mrs Seo | 153 | 54 (b1ch03-b3ch15) | 1 | 802 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 93 | 24 (b1ch07-b3ch10) | 22 | 742 |
@@ -77,7 +77,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-933 Nennungen in 109 Kapiteln.
+941 Nennungen in 110 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1014,6 +1014,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 788 | b3ch14:284 | "Read the second one again," said Annie. |
 | 788 | b3ch14:294 | Annie did not say anything for a moment. |
 | 788 | b3ch14:310 | Annie went on reading the notice while he said it. |
+| 802 | b3ch15:68 | Annie put the cap back on the pen. |
+| 802 | b3ch15:106 | "That is three," said Annie. |
+| 802 | b3ch15:150 | Annie read it where it lay and did not put a hand on it. |
+| 802 | b3ch15:166 | "There is no line anywhere in this country that binds him to me," said Annie. "It was st.. |
+| 802 | b3ch15:232 | He looked at the window, and then at Annie, and then at the sheet on the desk. He did al.. |
+| 802 | b3ch15:324 | Annie put down the page she had not been reading, and stood up, and started across the r.. |
+| 802 | b3ch15:336 | Annie kissed him on the cheek. |
+| 802 | b3ch15:380 | Then Annie put it in the drawer with the two pages that have no date on them. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1278,12 +1286,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch12:264` (Tag 762) - one
 - `b3ch14:210` (Tag 788) - four
 - `b3ch14:284` (Tag 788) - one
+- `b3ch15:106` (Tag 802) - three
+- `b3ch15:232` (Tag 802) - three
+- `b3ch15:380` (Tag 802) - two
 
 ---
 
 ## Park Sang-hoon
 
-308 Nennungen in 48 Kapiteln.
+318 Nennungen in 49 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1595,6 +1606,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:110 | Georgij did not telephone Park Sang-hoon. |
 | 592 | b3ch01:112 | Sang-hoon asked in three places in April and heard nothing back, and he does not usually.. |
 | 628 | b3ch03:16 | He did not ask Park Sang-hoon and he did not ask Chairman Woo. |
+| 802 | b3ch15:6 | Park Sang-hoon telephoned at eleven to say that he would come at four, which he does not.. |
+| 802 | b3ch15:26 | What happened on the first of December was ordinary and it happened to Park Sang-hoon. |
+| 802 | b3ch15:32 | Park Sang-hoon holds forty per cent of that company. |
+| 802 | b3ch15:148 | "That is what I have," said Park Sang-hoon. "I am not going to make it smaller than it i.. |
+| 802 | b3ch15:190 | Park Sang-hoon did not look pleased and did not look sorry, and he has never in his life.. |
+| 802 | b3ch15:206 | "I do not like it when you call me Chairman." Sang-hoon did not turn round. "And I like .. |
+| 802 | b3ch15:228 | Sang-hoon did not answer for longer than the question needed. |
+| 802 | b3ch15:234 | "No," said Park Sang-hoon. |
+| 802 | b3ch15:296 | Sang-hoon looked at him then. |
+| 802 | b3ch15:362 | Mrs Seo had come in for the coffee that Sang-hoon had not drunk, and could not get out a.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1738,6 +1759,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:26` (Tag 590) - three
 - `b3ch01:60` (Tag 592) - hundred and forty
 - `b3ch01:112` (Tag 592) - one, three, two
+- `b3ch15:6` (Tag 802) - eleven, four
+- `b3ch15:32` (Tag 802) - forty
 
 ---
 
@@ -2933,7 +2956,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-151 Nennungen in 53 Kapiteln.
+153 Nennungen in 54 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3088,6 +3111,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:230 | "Mrs Seo pays the household and she pays it on the last working day of the month." He sa.. |
 | 645 | b3ch04:356 | At seven the tray went up the way it has gone up at seven for ten years, and there was a.. |
 | 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 802 | b3ch15:78 | Mrs Seo brought it because Mrs Seo brings it, and he thanked her properly, and the cup s.. |
+| 802 | b3ch15:362 | Mrs Seo had come in for the coffee that Sang-hoon had not drunk, and could not get out a.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 

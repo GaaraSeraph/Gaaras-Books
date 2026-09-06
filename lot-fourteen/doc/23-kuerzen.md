@@ -428,6 +428,17 @@ vier Kriterien vier sind und nicht fuenf. Ein Kapitel kann eine Festlegung aus
 `doc/16` tragen, und keines der vier fragt danach. Wer hier kuerzt, sieht in
 `doc/16` nach, bevor er dem Werkzeug glaubt.
 
+## Band 3, Akt II, Kapitel 12 bis 15
+
+| Kapitel | Zusage | Naehe | Stimme | Erstauftritt |
+|---|---|---|---|---|
+| 12 Das andere Wort | **ja** B3 11, B3 12 | | ja | Mr Namgung |
+| 13 Zweimal | | | ja | Mr Bok |
+| 14 Wer antwortet | **ja** B3 13 | | ja | Mrs Chun |
+| 15 Him | **ja** B3 14 | **ja** | ja | |
+
+**Kein Kandidat, und `ch15` ist der Grund, warum die vier Kriterien vier sind.** Es traegt den elften Eintrag im Naehe-Register, das zweite Laecheln von Band 3, Sang-hoons gemessenes Blatt und den einzigen Posten im Schuldbuch ohne Frist. **Drei davon fragt kein Kriterium ab**, und das vierte nur, weil der Posten von Hand eingetragen wurde.
+
 ## Welche Kapitel man zusammenlegen kann
 
 *Nachgetragen am 26.08. auf Frage des Autors. **Die Probe ist nicht der

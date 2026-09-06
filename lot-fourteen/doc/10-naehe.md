@@ -123,10 +123,12 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 8 | B2 54 | Di 18. Aug | Sechs Tage spaeter, waehrend sie liest. *"Then she put her hand down into his hair without looking away from the page, at the back, and left it there."* Danach steht fest: *"He has stopped counting them. He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
 | 9 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
 | 10 | **B3 3** | **Mi 23. Juni** | **Die erste in Band 3, achtunddreissig Tage nach der letzten.** *"Annie put her hand down into his hair, at the back, and left it there."* Der Erzaehler zaehlt den Abstand und sagt ausdruecklich, dass Georgij ihn nicht kennt: *"He does not know that. He stopped counting them last summer and has not started again."* Danach nimmt sie die Hand zurueck und schreibt die eine Zeile, die das Kapitel beendet |
+| 11 | **B3 15** | **Di 14. Dez** | **Der Wangenkuss, Bandmitte, mit Zeugin.** Sie steht vor ihrer Rede auf, geht durch den Raum und kommt am Satzende neben ihm an: *"She finished it standing beside him, and looked at the side of his face."* Dann *"Yes, Mistress."*, dann *"Annie kissed him on the cheek."*, dann die Fehlfunktion, dann *"You cannot say that any more."* **Kein Haar-Eintrag**, also zaehlt der Zaehler darunter nicht weiter |
 
 **Der Zähler:** 9, 19, 25 und 28 sind vier. In 32 folgen am selben Abend das
 fünfte und sechste Mal. 52 ist das siebte, 54 das achte, **90 das neunte und
-letzte des Bandes**, und **`b3 ch03` das zehnte**. Wer eine neue schreibt, zählt hier weiter und schreibt
+letzte des Bandes**, und **`b3 ch03` das zehnte**. **Eintrag 11 ist der Wangenkuss und keine
+Hand im Haar; der Zaehler steht weiter bei zehn.** Wer eine neue schreibt, zählt hier weiter und schreibt
 keine Zahl aus dem Kopf. **In 54 steht fest, dass Georgij selbst schon im Juli
 aufgehoert hat mitzuzählen**, und das ist eine Figurenentwicklung und keine
 Erlaubnis, die Kette zu vergessen.
@@ -350,6 +352,8 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
 
 ## Der Wangenkuss, festgelegt am 28.08.
 
+**Geschrieben am 06.09. als `b3 ch15` "Him", Tag 802, Dienstag der 14. Dezember 2027.** Die Reihenfolge unten ist die, die im Buch steht. **Der Prosablock in `doc/32-plan-band-3.md` hat die andere**, in der ihr Satz vor der Fehlfunktion steht, und das ist der dort selbst als verworfen bezeichnete erste Versuch. Kanon geht vor Plan.
+
 **Er steht in Band 3, in der Szene, in der Sang-hoon sie vor die Wahl
 stellt** - nicht am Bandende. Die Reihenfolge:
 
@@ -431,8 +435,8 @@ behaelt es, weil er es behalten will. **Sie nimmt das Wort zurueck, er nicht
 das Zeichen.**
 
 **3. Danach gibt es keinen simplen Wechsel von `Mistress` zu `Annie`.** Die
-Register teilen sich. `Mistress` ist ab dem Wangenkuss keine automatische
-private Anrede mehr, sondern eine markierte Ausnahme: Uebergabe, Gehorsam,
+Register teilen sich. **Ab `b3 ch15` scharf.** `Mistress` ist ab dem Wangenkuss keine
+automatische private Anrede mehr, sondern eine markierte Ausnahme: Uebergabe, Gehorsam,
 Besitzsprache, sexuelle oder rituelle Kante, nur wenn der Text den Preis des
 Wortes hoeren will. `Annie` gehoert zu Oeffentlichkeit, Gleichrangigkeit,
 Entscheidung, Alltag und Person. Beim Antrag in Band 4 greift beides nicht

@@ -2299,6 +2299,10 @@ sortiert.**
 **Dazu gemessen, und die Warnung zum which-Satz gehoert dringend dazu:**
 
 **116 Repliken, 1849 Wörter, Ø 11,6 - die größte Nebenstimme des Buchs.**
+
+**Fortgeschrieben am 06.09. nach `b3 ch15`: 142 Repliken, 2277 Wörter, Ø 16,0.** Ein Kapitel hebt den Buchschnitt um viereinhalb Wörter, und das ist erklärungsbedürftig. **Der Grund ist nicht `ch15`, sondern die 11,6:** sie kommt aus vierzehn kleinen Auftritten und einer großen Szene. Gegen seine anderen beiden großen gemessen ist `ch15` das **redearmste** der drei: `b1 ch33` besteht zu 50 Prozent aus wörtlicher Rede, `b2 ch04` zu 55, `b3 ch15` zu 34.
+
+**Der erste Entwurf hatte ihn trotzdem zu lang, und zwar messbar.** Die Repliken, die der Autor in `doc/32` selbst geschrieben hat, liegen in dieser Szene bei Ø 14,3; meine lagen bei **41,9**, also dreimal so hoch, an der größten Nebenstimme des Buchs. **Die Reparatur war nicht Telegrammstil, sondern Teilen:** die langen Repliken wurden zerlegt und zwischen die Hälften kam der Körper, den dieses Blatt für ihn festlegt. Danach 18,1 bei mir und 16,8 im ganzen Kapitel. **Wer eine neue Sang-hoon-Szene schreibt, misst sie, bevor er sie für kurz hält.**
 Zählt Personen 8,6 und Jahre 8,1.
 
 **Die Maschine: er benotet die Äußerung, bevor er auf sie antwortet.**

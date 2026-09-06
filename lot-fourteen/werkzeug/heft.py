@@ -17,6 +17,14 @@ die Arbeit nutzlos an, obwohl sie es nicht ist.
     python3 heft.py            das Verhaeltnis je Kapitel
     python3 heft.py --stellen  jede Fundstelle mit Zeile
 
+**Die zweite Blindstelle, gefunden am 06.09. an `b3 ch15`:** eine Entnahme,
+die im Kopf stattfindet und als Zitat herauskommt, hat kein Verb, an dem ein
+Muster greifen koennte. In `b3 ch15` zitiert Georgij eine Zeile aus dem
+Maerz zweitausendsechsundzwanzig zurueck, und die ganze Szene dreht daran.
+Das Werkzeug meldet fuer das Kapitel eine Ablage und null Entnahmen.
+**Wer die Spalte HOLEN fuer die Zahl der Entnahmen haelt, unterzaehlt die
+wichtigsten.**
+
 **Die Grenze:** das Skript liest Formulierungen und nicht Absichten. Ein
 *"he wrote it down"* ist sicher ein Ablegen; ein *"he read it again"* kann ein
 Holen sein oder nur ein Blick. Die Spalte HOLEN ist deshalb eine Kandidatenliste

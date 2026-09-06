@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 380.208 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 381.678 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -771,7 +771,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**138 Kapitel, 362.774 Woerter.**
+**139 Kapitel, 365.048 Woerter.**
 
 ---
 
@@ -900,10 +900,12 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 8 | B2 54 | Di 18. Aug | Sechs Tage spaeter, waehrend sie liest. *"Then she put her hand down into his hair without looking away from the page, at the back, and left it there."* Danach steht fest: *"He has stopped counting them. He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
 | 9 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
 | 10 | **B3 3** | **Mi 23. Juni** | **Die erste in Band 3, achtunddreissig Tage nach der letzten.** *"Annie put her hand down into his hair, at the back, and left it there."* Der Erzaehler zaehlt den Abstand und sagt ausdruecklich, dass Georgij ihn nicht kennt: *"He does not know that. He stopped counting them last summer and has not started again."* Danach nimmt sie die Hand zurueck und schreibt die eine Zeile, die das Kapitel beendet |
+| 11 | **B3 15** | **Di 14. Dez** | **Der Wangenkuss, Bandmitte, mit Zeugin.** Sie steht vor ihrer Rede auf, geht durch den Raum und kommt am Satzende neben ihm an: *"She finished it standing beside him, and looked at the side of his face."* Dann *"Yes, Mistress."*, dann *"Annie kissed him on the cheek."*, dann die Fehlfunktion, dann *"You cannot say that any more."* **Kein Haar-Eintrag**, also zaehlt der Zaehler darunter nicht weiter |
 
 **Der Zähler:** 9, 19, 25 und 28 sind vier. In 32 folgen am selben Abend das
 fünfte und sechste Mal. 52 ist das siebte, 54 das achte, **90 das neunte und
-letzte des Bandes**, und **`b3 ch03` das zehnte**. Wer eine neue schreibt, zählt hier weiter und schreibt
+letzte des Bandes**, und **`b3 ch03` das zehnte**. **Eintrag 11 ist der Wangenkuss und keine
+Hand im Haar; der Zaehler steht weiter bei zehn.** Wer eine neue schreibt, zählt hier weiter und schreibt
 keine Zahl aus dem Kopf. **In 54 steht fest, dass Georgij selbst schon im Juli
 aufgehoert hat mitzuzählen**, und das ist eine Figurenentwicklung und keine
 Erlaubnis, die Kette zu vergessen.
@@ -1127,6 +1129,8 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
 
 ## Der Wangenkuss, festgelegt am 28.08.
 
+**Geschrieben am 06.09. als `b3 ch15` "Him", Tag 802, Dienstag der 14. Dezember 2027.** Die Reihenfolge unten ist die, die im Buch steht. **Der Prosablock in `doc/32-plan-band-3.md` hat die andere**, in der ihr Satz vor der Fehlfunktion steht, und das ist der dort selbst als verworfen bezeichnete erste Versuch. Kanon geht vor Plan.
+
 **Er steht in Band 3, in der Szene, in der Sang-hoon sie vor die Wahl
 stellt** - nicht am Bandende. Die Reihenfolge:
 
@@ -1208,8 +1212,8 @@ behaelt es, weil er es behalten will. **Sie nimmt das Wort zurueck, er nicht
 das Zeichen.**
 
 **3. Danach gibt es keinen simplen Wechsel von `Mistress` zu `Annie`.** Die
-Register teilen sich. `Mistress` ist ab dem Wangenkuss keine automatische
-private Anrede mehr, sondern eine markierte Ausnahme: Uebergabe, Gehorsam,
+Register teilen sich. **Ab `b3 ch15` scharf.** `Mistress` ist ab dem Wangenkuss keine
+automatische private Anrede mehr, sondern eine markierte Ausnahme: Uebergabe, Gehorsam,
 Besitzsprache, sexuelle oder rituelle Kante, nur wenn der Text den Preis des
 Wortes hoeren will. `Annie` gehoert zu Oeffentlichkeit, Gleichrangigkeit,
 Entscheidung, Alltag und Person. Beim Antrag in Band 4 greift beides nicht
@@ -5714,6 +5718,10 @@ sortiert.**
 **Dazu gemessen, und die Warnung zum which-Satz gehoert dringend dazu:**
 
 **116 Repliken, 1849 Wörter, Ø 11,6 - die größte Nebenstimme des Buchs.**
+
+**Fortgeschrieben am 06.09. nach `b3 ch15`: 142 Repliken, 2277 Wörter, Ø 16,0.** Ein Kapitel hebt den Buchschnitt um viereinhalb Wörter, und das ist erklärungsbedürftig. **Der Grund ist nicht `ch15`, sondern die 11,6:** sie kommt aus vierzehn kleinen Auftritten und einer großen Szene. Gegen seine anderen beiden großen gemessen ist `ch15` das **redearmste** der drei: `b1 ch33` besteht zu 50 Prozent aus wörtlicher Rede, `b2 ch04` zu 55, `b3 ch15` zu 34.
+
+**Der erste Entwurf hatte ihn trotzdem zu lang, und zwar messbar.** Die Repliken, die der Autor in `doc/32` selbst geschrieben hat, liegen in dieser Szene bei Ø 14,3; meine lagen bei **41,9**, also dreimal so hoch, an der größten Nebenstimme des Buchs. **Die Reparatur war nicht Telegrammstil, sondern Teilen:** die langen Repliken wurden zerlegt und zwischen die Hälften kam der Körper, den dieses Blatt für ihn festlegt. Danach 18,1 bei mir und 16,8 im ganzen Kapitel. **Wer eine neue Sang-hoon-Szene schreibt, misst sie, bevor er sie für kurz hält.**
 Zählt Personen 8,6 und Jahre 8,1.
 
 **Die Maschine: er benotet die Äußerung, bevor er auf sie antwortet.**
@@ -7723,6 +7731,7 @@ ist.
 - [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
 - [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
+- [OFFEN] **B3 14** Park Sang-hoon an niemanden · gesagt Tag 802 · **keine Frist, und das ist der Eintrag.** Er streicht Menge und Ausführung, lässt das Datum stehen und legt das Blatt zurück auf ihren Tisch. **Nichts daran bindet ihn.** Er kann morgen ein zweites schreiben, und das Einzige, was dagegen steht, ist Georgijs Satz an der Tür. Der Posten steht hier, weil das Schuldbuch sonst die gefährlichste offene Sache des Bandes nicht führt, und `zusagen.py` ihn nie finden wird: **eine Zusage ohne Frist und ohne Satz ist für das Werkzeug keine.**
 - [BEZAHLT] **B3 13** Mrs Chun an Annies Haus · gesagt Tag 788, rueckwirkend am 19. November · faellig sechs Arbeitstage spaeter · "I will have it back to the underwriter inside six working days." · **Die kleinste Zusage im Buch und die einzige, die vorzeitig eingeloest wird.** Die Akte ging am 25. November heraus, also nach fuenf, und sie hat angerufen, um es zu sagen. Der Posten steht hier, weil er die einzige Frist in Band 3 ist, die jemand **unterbietet**, und weil das ihr ganzes Blatt ist.
 - [OFFEN] **B3 11** Mr Namgung an Annie · gesagt Tag 762 · faellig im Januar 2028, also zwischen Tag 822 und Tag 850 · "I am going to have to put a second source in front of my board in January." · **Der Preis der Charter, angesagt von dem Mann, der sich gerade bedankt hat.** Neunzehn Jahre Kunde, acht bei ihr. Faellt in Akt II und kostet sie Geschaeft, das nicht zurueckkommt. `zusagen.py --neu` findet es nicht, weil FRIST Monatsnamen nicht kennt; von Hand eingetragen am 06.09.
 - [OFFEN] **B3 12** Annies Gruppe an elf Kunden · gesagt Tag 762 · faellig bei der Rueckkehr auf den Fahrplan · "We will write again when it returns to the scheduled service." · **Der Brief, der niemanden nennt.** Vier Zeilen an alle elf. Solange kein zweiter Brief geht, laeuft die Charter, und jeder der elf weiss das. `zusagen.py --neu` findet es nicht, weil die Zusage in einem Brief steht und nicht in einer Replik; von Hand eingetragen am 06.09.
@@ -9281,6 +9290,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 12** - die Charter, der Brief an elf Kunden, Mr Namgung. **Anfang Akt II** | 762 | Do **4. November 2027** |
 | **Band 3, Kapitel 13** - das Ventil auf dem Stapel, Mr Bok sagt Seoul zweimal, und Lee Jun hoert es | 774 | Di **16. November 2027** |
 | **Band 3, Kapitel 14** - die Forderung, die zwei Briefe, und Zeile neunzehn kommt an die Tuer | 788 | Di **30. November 2027** |
+| **Band 3, Kapitel 15** - Sang-hoon stellt sie vor die Wahl, das entwertete Blatt, der Wangenkuss. **Bandmitte** | 802 | Di **14. Dezember 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -10611,6 +10621,10 @@ auftaucht, und sie muss verdient sein.
 Tag 46 nicht benutzt worden, und die Stelle, an der es wieder auftaucht, steht
 seit dem 06.09. im Buch: `b3 ch05`, Tag 672, Mr Hwang an der Tuer.
 
+**Das zweite steht seit dem 06.09. in `b3 ch15:340`, Tag 802**, und es haelt die drei Regeln von selbst. Es ist Abschnitt IV, es liegen zehn Kapitel dazwischen statt der geforderten zwei, und die Probe faellt richtig aus: **er holt damit nichts, er verhindert es nicht einmal.** *"A small smile got out. He was holding a much larger one down and he was not managing all of it."* Damit stehen in Band 3 zwei Laecheln in fuenfzehn Kapiteln, und beide gehoeren ihm.
+
+**Und die Formel aus `doc/10` ist an derselben Stelle eingeloest.** *something went across his face and did not stay* steht dreimal im Buch, in `b1 ch33`, `b2 ch49` und `b2 ch64`. In `b3 ch15` steht **es blieb**, und das ist das einzige Mal.
+
 **Und daraus folgen drei Regeln, die ab hier binden.**
 
 1. **Nur Abschnitt IV.** Die Werkzeuge aus I bis III braucht er bei den
@@ -10948,6 +10962,8 @@ Abend, an dem Georgij 2026 auf den Teppich geht (`b2 ch05`, Tag 159, belegt
 in `b2 ch32:286`), fallen beide auf den elften Maerz, elf Jahre auseinander. **Zufall, vom Autor am 06.09. gesehen und
 stehengelassen.** Kein Bild, das ausgespielt wird, und kein Fehler, der
 berichtigt wird. Die Begruendung steht in `doc/41`.
+
+**Am 06.09. ist ein Drittes dazugekommen, und es steht im Buch.** `b3 ch15` sagt, dass Georgij Sang-hoons Satz ueber den Preis auf einer Seite vom elften Maerz stehen hat, *four lines under something else*. **Der Korridor bei der Beisetzung (`b2 ch04`) und der Teppichabend (`b2 ch05`) sind derselbe Erzaehltag, Tag 159.** Das *something else* ist also nicht erfunden, sondern die andere Haelfte desselben Abends, und der Text zeigt nirgends darauf. **Wer die Stelle spaeter anfasst, hat drei Sachen an einem Datum und nicht zwei.**
 
 ## Festgelegte Zeilen
 
@@ -14359,6 +14375,17 @@ gebraucht werden.
 vier Kriterien vier sind und nicht fuenf. Ein Kapitel kann eine Festlegung aus
 `doc/16` tragen, und keines der vier fragt danach. Wer hier kuerzt, sieht in
 `doc/16` nach, bevor er dem Werkzeug glaubt.
+
+## Band 3, Akt II, Kapitel 12 bis 15
+
+| Kapitel | Zusage | Naehe | Stimme | Erstauftritt |
+|---|---|---|---|---|
+| 12 Das andere Wort | **ja** B3 11, B3 12 | | ja | Mr Namgung |
+| 13 Zweimal | | | ja | Mr Bok |
+| 14 Wer antwortet | **ja** B3 13 | | ja | Mrs Chun |
+| 15 Him | **ja** B3 14 | **ja** | ja | |
+
+**Kein Kandidat, und `ch15` ist der Grund, warum die vier Kriterien vier sind.** Es traegt den elften Eintrag im Naehe-Register, das zweite Laecheln von Band 3, Sang-hoons gemessenes Blatt und den einzigen Posten im Schuldbuch ohne Frist. **Drei davon fragt kein Kriterium ab**, und das vierte nur, weil der Posten von Hand eingetragen wurde.
 
 ## Welche Kapitel man zusammenlegen kann
 
@@ -18871,6 +18898,12 @@ entscheidet, sondern ob der andere nein sagen kann, ohne den Raum zu verlassen
 - und er kann, und er tut es. **Georgij nimmt einem Chaebol nie den Punkt weg.**
 
 ### Der Text
+
+**Geschrieben am 06.09. als `b3 ch15` "Him", Tag 802, Dienstag der 14. Dezember 2027, 2173 Woerter.** Der Block unten bleibt stehen, weil er vom Autor ist, aber **er hat die Reihenfolge des Kusses falsch herum**: bei ihm steht *"You cannot say that any more."* vor der Fehlfunktion. `doc/10-naehe.md` legt die andere fest und nennt diese hier ausdruecklich den verworfenen ersten Versuch. **Kanon vor Plan; das Kapitel folgt `doc/10`.**
+
+**Was das Kapitel zu dem Block hinzugefuegt hat, und warum.** Der Block ist die Szene und nicht das Kapitel: er sagt nicht, woher Sang-hoon es weiss, worauf das Blatt lautet, und was ihre Weigerung kostet. Alle drei stehen jetzt im Buch. Er weiss es aus drei Sachen, die er einzeln seit Monaten hat und am achten Dezember in einem Auto nebeneinanderlegt: keine Leihe mehr in zwei Namen, eine ruhende Gesellschaft aus Jeju im Register seiner eigenen Reederei, und die Forderung ueber eine Milliarde vierhundert gegen deren Deckung. Das Blatt lautet auf die Kreditsparte, also auf die eine, die die anderen traegt (`b3 ch11`), und **dass er die richtige nimmt und nicht die anderen, ist der ganze Beweis.** Die Sechs aus der Einheitentabelle steht im Text nicht, weil Heavy und Construction in Band 3 nicht vorkommen. Und *"Do the other thing."* kostet sie sieben Monate Arbeit, falls er es tut.
+
+**Der Anlass steht in `b3 ch14` und ist Hans falsche Reaktion.** Am ersten Dezember gibt Hanseong Shipping den Verkehr seines zweitgroessten Kunden an eine Gesellschaft mit vier Schiffen. Die Anzeige geht als Betriebssache hinaus, und eine Betriebssache geht nicht an Anteilseigner. **Han hat den Mann mit den vierzig Prozent umgangen, und deshalb kommt der Mann.**
 
 Park Sang-hoon telephoned at eleven to say that he would come at four, which he does not do.
 
@@ -33247,13 +33280,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 933 | 109 (b1ch01-b3ch14) | 1 | 788 |
-| Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
+| Annie | 941 | 110 (b1ch01-b3ch15) | 1 | 802 |
+| Park Sang-hoon | 318 | 49 (b1ch10-b3ch15) | 22 | 802 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 187 | 31 (b2ch07-b3ch14) | 166 | 788 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
-| Mrs Seo | 151 | 53 (b1ch03-b3ch04) | 1 | 645 |
+| Mrs Seo | 153 | 54 (b1ch03-b3ch15) | 1 | 802 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
 | Choi Dae-ho | 93 | 24 (b1ch07-b3ch10) | 22 | 742 |
@@ -33306,7 +33339,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-933 Nennungen in 109 Kapiteln.
+941 Nennungen in 110 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34243,6 +34276,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 788 | b3ch14:284 | "Read the second one again," said Annie. |
 | 788 | b3ch14:294 | Annie did not say anything for a moment. |
 | 788 | b3ch14:310 | Annie went on reading the notice while he said it. |
+| 802 | b3ch15:68 | Annie put the cap back on the pen. |
+| 802 | b3ch15:106 | "That is three," said Annie. |
+| 802 | b3ch15:150 | Annie read it where it lay and did not put a hand on it. |
+| 802 | b3ch15:166 | "There is no line anywhere in this country that binds him to me," said Annie. "It was st.. |
+| 802 | b3ch15:232 | He looked at the window, and then at Annie, and then at the sheet on the desk. He did al.. |
+| 802 | b3ch15:324 | Annie put down the page she had not been reading, and stood up, and started across the r.. |
+| 802 | b3ch15:336 | Annie kissed him on the cheek. |
+| 802 | b3ch15:380 | Then Annie put it in the drawer with the two pages that have no date on them. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34507,12 +34548,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch12:264` (Tag 762) - one
 - `b3ch14:210` (Tag 788) - four
 - `b3ch14:284` (Tag 788) - one
+- `b3ch15:106` (Tag 802) - three
+- `b3ch15:232` (Tag 802) - three
+- `b3ch15:380` (Tag 802) - two
 
 ---
 
 ### Park Sang-hoon
 
-308 Nennungen in 48 Kapiteln.
+318 Nennungen in 49 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34824,6 +34868,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:110 | Georgij did not telephone Park Sang-hoon. |
 | 592 | b3ch01:112 | Sang-hoon asked in three places in April and heard nothing back, and he does not usually.. |
 | 628 | b3ch03:16 | He did not ask Park Sang-hoon and he did not ask Chairman Woo. |
+| 802 | b3ch15:6 | Park Sang-hoon telephoned at eleven to say that he would come at four, which he does not.. |
+| 802 | b3ch15:26 | What happened on the first of December was ordinary and it happened to Park Sang-hoon. |
+| 802 | b3ch15:32 | Park Sang-hoon holds forty per cent of that company. |
+| 802 | b3ch15:148 | "That is what I have," said Park Sang-hoon. "I am not going to make it smaller than it i.. |
+| 802 | b3ch15:190 | Park Sang-hoon did not look pleased and did not look sorry, and he has never in his life.. |
+| 802 | b3ch15:206 | "I do not like it when you call me Chairman." Sang-hoon did not turn round. "And I like .. |
+| 802 | b3ch15:228 | Sang-hoon did not answer for longer than the question needed. |
+| 802 | b3ch15:234 | "No," said Park Sang-hoon. |
+| 802 | b3ch15:296 | Sang-hoon looked at him then. |
+| 802 | b3ch15:362 | Mrs Seo had come in for the coffee that Sang-hoon had not drunk, and could not get out a.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -34967,6 +35021,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:26` (Tag 590) - three
 - `b3ch01:60` (Tag 592) - hundred and forty
 - `b3ch01:112` (Tag 592) - one, three, two
+- `b3ch15:6` (Tag 802) - eleven, four
+- `b3ch15:32` (Tag 802) - forty
 
 ---
 
@@ -36162,7 +36218,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-151 Nennungen in 53 Kapiteln.
+153 Nennungen in 54 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -36317,6 +36373,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:230 | "Mrs Seo pays the household and she pays it on the last working day of the month." He sa.. |
 | 645 | b3ch04:356 | At seven the tray went up the way it has gone up at seven for ten years, and there was a.. |
 | 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 802 | b3ch15:78 | Mrs Seo brought it because Mrs Seo brings it, and he thanked her properly, and the cup s.. |
+| 802 | b3ch15:362 | Mrs Seo had come in for the coffee that Sang-hoon had not drunk, and could not get out a.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
