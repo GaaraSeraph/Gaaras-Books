@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 11 Kapitel, 23.311 Woerter.
+Book Three, 11 Kapitel, 23.373 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -21,7 +21,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 08 | v1.14 | 2.047 |
 | 09 | v1.12 | 2.097 |
 | 10 | v1.20 | 2.230 |
-| 11 | v1.9 | 2.064 |
+| 11 | v1.11 | 2.126 |
 
 ---
 
@@ -2548,7 +2548,7 @@ He has never once told her a thing that was not true and he was not going to sta
 ---
 
 # Book Three · Chapter 11: Nothing has happened
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Seven Hundred and Fifty-Three · Tuesday 26 October
 
@@ -2559,6 +2559,10 @@ It is not one thing and it does not look like anything.
 It is four brokers in three countries who have each been given a small ordinary piece of work and none of whom has the shape. It is a borrow arranged in August against a fee that is being paid monthly for nothing. It is a list of counterparties with limits against each name in Mr Hwang's hand.
 
 It is two pages signed by a woman of twenty-six in a foundation office, in a drawer, with no date on them.
+
+There is one document in that house with a date on it, and it is the only paper anywhere near this that anybody is meant to read.
+
+Mr Chae wrote two and a half pages on the Thursday about why Annie is unhappy with Hanseong, and she put her signature under it, and every line of it was true before Seodaemun.
 
 Nothing on any of it is unusual and nothing on any of it is illegal, and a person who was shown all of it at once would need about four minutes.
 

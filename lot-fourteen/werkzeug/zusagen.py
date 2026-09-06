@@ -49,6 +49,14 @@ Replik stehen und nicht im selben Satz. In `b3 ch09` sagt Georgij "the whole
 of it lapses", sie fragt "How long.", und erst dann faellt "Fourteen
 months." Dazwischen liegt eine fremde Replik, also greift FRIST nicht.
 B3 09 steht deshalb von Hand im Buch.
+
+**Die dritte Luecke, gefunden am 06.09.:** FRIST kennt *by Thursday* und
+nicht *on Thursday*. In `b3 ch10` sagt Annie *"on Thursday I am going to
+have to call it the other thing and put my name under it"*, und das ist
+eine Frist mit Wochentag, die sechs Tage spaeter faellt. B3 10 steht
+deshalb ebenfalls von Hand im Buch. **Wer das Muster erweitert, testet es
+gegen Band 1 und 2 auf Regression**, denn *on Monday* steht dort oft und
+meint meistens keine Zusage.
 """
 import os
 import re

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 377.013 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 377.160 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -764,7 +764,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**135 Kapitel, 356.493 Woerter.**
+**135 Kapitel, 356.555 Woerter.**
 
 ---
 
@@ -7554,6 +7554,7 @@ ist.
 - [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
 - [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
+- [BEZAHLT] **B3 10** Annie an Georgij · gesagt Tag 742 · faellig Tag 748 · "Mr Chae is going to write down why I am unhappy with Hanseong." · **Der datierte Grund, der aelter ist als die Reihenfolge.** Der Donnerstag ist der 21. Oktober 2027. Eingeloest und belegt in `b3 ch11`, Tag 753: zweieinhalb Seiten in Mr Chaes Hand, ihre Unterschrift darunter. **Es kostet sie etwas Echtes**, und `b3 ch10` sagt was: sie muss aufhoeren, es Instandhaltung zu nennen, und dann steht auf Papier, dass sie fuenf Monate lang bezahlt hat, was ihr angetan wurde. `zusagen.py --neu` hat den Posten nicht gefunden, weil FRIST *by Thursday* kennt und nicht *on Thursday*; von Hand eingetragen am 06.09.
 - [OFFEN] **B3 09** Georgij an Han Bo-ram · gesagt Tag 732 · faellig Tag 1159 · "If nothing has happened by then, the whole of it lapses." · **Die Verfallsfrist der bedingten Verkaufszusage.** Vierzehn Monate nach Tag 732 ist Dienstag, der 5. Dezember 2028. Laeuft die Frist ab, ohne dass etwas geschehen ist, behaelt sie ihre Anteile und schuldet niemandem etwas. **Sie ist der Grund, warum ihre Unterschrift keine Kapitulation ist**, und ohne sie waere Annies Satz, es gebe keine Fassung, in der die Frau schlechter dasteht, unwahr. `zusagen.py --neu` findet sie nicht, weil Zusage und Frist in zwei Repliken stehen; von Hand eingetragen am 06.09.
 - [KEINE] **B3 03** Gong Doo-hyun an Georgij · gesagt Tag 628 · faellig bei nichts · "There is a file and I am going to show it to you, because you are going to spend the next year guessing at it otherwise" · Keine Zusage mit Frist, sondern die Ankuendigung des naechsten Satzes: er schiebt die Akte in derselben Szene ueber den Tisch. Steht hier, damit `--neu` sie nicht jedes Mal wieder meldet
 - [KEINE] **B2 82** Chairman Woo an Annie · gesagt Tag 500 · faellig offen · "You will decide in about three weeks that you were wrong this morning, and you will not come back, because you will have made it into a principle by then" · **Vorhersage ueber eine dritte Person, keine Zusage.** Woo sagt nicht zu, etwas zu tun, sondern sagt voraus, was Annie tun wird. Sie kommt tatsaechlich nicht zurueck; der Text bestaetigt es durch Abwesenheit und einmal ausdruecklich in B2 83: *"Chairman Woo telephoned once, in April, and asked one question and rang off."* Steht hier, damit `--neu` sie nicht jedes Mal wieder meldet
@@ -33066,7 +33067,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 917 | 106 (b1ch01-b3ch11) | 1 | 753 |
+| Annie | 918 | 106 (b1ch01-b3ch11) | 1 | 753 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
@@ -33122,7 +33123,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-917 Nennungen in 106 Kapiteln.
+918 Nennungen in 106 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34038,11 +34039,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 742 | b3ch10:272 | "I have left out the fourteen and I am going to go on leaving it out." Annie did not mak.. |
 | 742 | b3ch10:284 | "A man who wants to say I bought because you went to Seodaemun has to get past a paper t.. |
 | 742 | b3ch10:296 | "I have called it maintenance since May, and on Thursday I am going to have to call it t.. |
-| 753 | b3ch11:60 | Annie put that in one sentence in September and has not repeated it since. |
-| 753 | b3ch11:66 | And the other rule costs the most, and it is Annie's. |
-| 753 | b3ch11:90 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
-| 753 | b3ch11:222 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
-| 753 | b3ch11:240 | "Yes," said Annie. "I wanted to hear you say it." |
+| 753 | b3ch11:20 | Mr Chae wrote two and a half pages on the Thursday about why Annie is unhappy with Hanse.. |
+| 753 | b3ch11:66 | Annie put that in one sentence in September and has not repeated it since. |
+| 753 | b3ch11:72 | And the other rule costs the most, and it is Annie's. |
+| 753 | b3ch11:96 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
+| 753 | b3ch11:228 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
+| 753 | b3ch11:246 | "Yes," said Annie. "I wanted to hear you say it." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34299,9 +34301,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch10:272` (Tag 742) - four, fourteen
 - `b3ch10:284` (Tag 742) - one
 - `b3ch10:296` (Tag 742) - five
-- `b3ch11:60` (Tag 753) - one
-- `b3ch11:90` (Tag 753) - two
-- `b3ch11:222` (Tag 753) - one
+- `b3ch11:20` (Tag 753) - two
+- `b3ch11:66` (Tag 753) - one
+- `b3ch11:96` (Tag 753) - two
+- `b3ch11:228` (Tag 753) - one
 
 ---
 
@@ -35329,13 +35332,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 732 | b3ch09:312 | Three are left. Mr Hwang has all three and none of them is a Han. |
 | 742 | b3ch10:200 | **Mr Hwang keeps both pages** and they say what the people did and not what they might do. |
 | 753 | b3ch11:12 | It is four brokers in three countries who have each been given a small ordinary piece of.. |
-| 753 | b3ch11:94 | Mr Hwang's tables came up on the Monday by hand and not by post. |
-| 753 | b3ch11:142 | "It is supposed to be like that and it is also the whole of the point," he said. "Somebo.. |
-| 753 | b3ch11:154 | Georgij telephoned Mr Hwang at four and told him about the transposition and about row n.. |
-| 753 | b3ch11:162 | "He found it in five hours," said Mr Hwang, "and I have been looking at that table since.. |
-| 753 | b3ch11:192 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
-| 753 | b3ch11:202 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
-| 753 | b3ch11:218 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
+| 753 | b3ch11:100 | Mr Hwang's tables came up on the Monday by hand and not by post. |
+| 753 | b3ch11:148 | "It is supposed to be like that and it is also the whole of the point," he said. "Somebo.. |
+| 753 | b3ch11:160 | Georgij telephoned Mr Hwang at four and told him about the transposition and about row n.. |
+| 753 | b3ch11:168 | "He found it in five hours," said Mr Hwang, "and I have been looking at that table since.. |
+| 753 | b3ch11:198 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
+| 753 | b3ch11:208 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
+| 753 | b3ch11:224 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -35433,11 +35436,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch08:320` (Tag 718) - fifty-five, four
 - `b3ch09:312` (Tag 732) - three
 - `b3ch11:12` (Tag 753) - four, three
-- `b3ch11:142` (Tag 753) - one, two
-- `b3ch11:154` (Tag 753) - four, nineteen
-- `b3ch11:162` (Tag 753) - five
-- `b3ch11:192` (Tag 753) - four, one, three
-- `b3ch11:218` (Tag 753) - two
+- `b3ch11:148` (Tag 753) - one, two
+- `b3ch11:160` (Tag 753) - four, nineteen
+- `b3ch11:168` (Tag 753) - five
+- `b3ch11:198` (Tag 753) - four, one, three
+- `b3ch11:224` (Tag 753) - two
 
 ---
 
@@ -38233,7 +38236,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
 | 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
 | 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
-| 753 | b3ch11:238 | "Gong Doo-hyun." |
+| 753 | b3ch11:244 | "Gong Doo-hyun." |
 
 ### Zahlen in der Naehe von Gong Doo-hyun
 
@@ -38420,17 +38423,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
 | 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
 | 707 | b3ch07:198 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:112 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
-| 753 | b3ch11:130 | "There is a company on here twice," said Lee Jun. |
-| 753 | b3ch11:150 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:260 | Lee Jun came back at six with the sheet still in his hand. |
+| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
+| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
+| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
 
 ### Zahlen in der Naehe von Lee Jun
 
 - `b3ch04:360` (Tag 645) - four
 - `b3ch07:150` (Tag 707) - twenty
-- `b3ch11:112` (Tag 753) - five
-- `b3ch11:260` (Tag 753) - six
+- `b3ch11:118` (Tag 753) - five
+- `b3ch11:266` (Tag 753) - six
 
 ---
 
