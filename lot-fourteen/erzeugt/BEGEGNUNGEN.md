@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 926 | 107 (b1ch01-b3ch12) | 1 | 762 |
+| Annie | 929 | 108 (b1ch01-b3ch13) | 1 | 774 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
@@ -50,12 +50,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Gong Doo-hyun | 20 | 4 (b3ch01-b3ch11) | 592 | 753 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
+| Lee Jun | 18 | 4 (b3ch04-b3ch13) | 645 | 774 |
 | Moon Hae-sook | 18 | 10 (b2ch58-b3ch08) | 371 | 718 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
-| Lee Jun | 13 | 3 (b3ch04-b3ch11) | 645 | 753 |
-| Seol Gwan-ik | 12 | 1 (b3ch10) | 742 | 742 |
+| Seol Gwan-ik | 13 | 2 (b3ch10-b3ch13) | 742 | 774 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
+| Mr Bok | 9 | 1 (b3ch13) | 774 | 774 |
 | Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Mr Namgung | 7 | 1 (b3ch12) | 762 | 762 |
@@ -75,7 +76,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-926 Nennungen in 107 Kapiteln.
+929 Nennungen in 108 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1005,6 +1006,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 762 | b3ch12:264 | "Interference," said Annie. "That is his word and it is a good one. An insurer uses it, .. |
 | 762 | b3ch12:270 | Annie put the pen across the page and left it there. |
 | 762 | b3ch12:280 | Annie turned the quarter face down. |
+| 774 | b3ch13:248 | Annie looked up from what she was doing, which she had not done when he came in. |
+| 774 | b3ch13:258 | Annie took her hand off the page. |
+| 774 | b3ch13:268 | Annie went back to the page and did not look up for the rest of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5292,6 +5296,41 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Lee Jun
+
+18 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
+| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
+| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
+| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
+| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
+| 774 | b3ch13:84 | Lee Jun stood where he could see the door and the hands and did not sit down when he was.. |
+| 774 | b3ch13:194 | Lee Jun did not say thank you, which is correct, and did not look pleased, which is not .. |
+| 774 | b3ch13:210 | Lee Jun looked out of his side of the window for about two minutes. |
+| 774 | b3ch13:246 | "Lee Jun." |
+| 774 | b3ch13:340 | Lee Jun wrote nothing down in that office and nothing in the car. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:360` (Tag 645) - four
+- `b3ch07:150` (Tag 707) - twenty
+- `b3ch11:118` (Tag 753) - five
+- `b3ch11:266` (Tag 753) - six
+- `b3ch13:210` (Tag 774) - two
+
+---
+
 ## Moon Hae-sook
 
 18 Nennungen in 10 Kapiteln.
@@ -5370,38 +5409,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Lee Jun
-
-13 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
-| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
-| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
-| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
-| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
-| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
-| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
-
-### Zahlen in der Naehe von Lee Jun
-
-- `b3ch04:360` (Tag 645) - four
-- `b3ch07:150` (Tag 707) - twenty
-- `b3ch11:118` (Tag 753) - five
-- `b3ch11:266` (Tag 753) - six
-
----
-
 ## Seol Gwan-ik
 
-12 Nennungen in 1 Kapiteln.
+13 Nennungen in 2 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5417,6 +5427,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 742 | b3ch10:170 | Seol Gwan-ik had come out of the doorway with him. |
 | 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
 | 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
+| 774 | b3ch13:288 | Seol Gwan-ik said in a borrowed room in October that the order would read as caused. |
 
 ### Zahlen in der Naehe von Seol Gwan-ik
 
@@ -5485,6 +5496,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:380` (Tag 259) - four
 - `b2ch54:66` (Tag 319) - eight, one
 - `b2ch54:70` (Tag 319) - nine
+
+---
+
+## Mr Bok
+
+9 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 774 | b3ch13:72 | Mr Bok has the operations desk and has had it for sixteen years. |
+| 774 | b3ch13:78 | Mr Bok is the fourth and the oldest, and the other three put things in front of him with.. |
+| 774 | b3ch13:88 | "It is on the nineteenth," said Mr Bok. |
+| 774 | b3ch13:106 | He asked him what the movement had been booked as, and then what it was booked as now, a.. |
+| 774 | b3ch13:110 | Then Mr Bok said the part he had been carrying since the ninth. |
+| 774 | b3ch13:120 | "Nine hundred boxes off that berth this month and not one came down from Seoul." Mr Bok .. |
+| 774 | b3ch13:124 | Mr Bok came round the desk to the door with them, which he did not have to do. |
+| 774 | b3ch13:202 | "You found the telling. Mr Bok gave it to you twice and I had it once." |
+| 774 | b3ch13:254 | "Mr Bok said Seoul twice. The second time was not an answer to anything, and the boy hea.. |
+
+### Zahlen in der Naehe von Mr Bok
+
+- `b3ch13:72` (Tag 774) - sixteen
+- `b3ch13:78` (Tag 774) - three
+- `b3ch13:120` (Tag 774) - nine hundred, one
 
 ---
 

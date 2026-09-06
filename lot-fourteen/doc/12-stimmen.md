@@ -3305,7 +3305,7 @@ Absage, der Abschied. Dazwischen sagt er *Sit down.* und
 
 ### Lee Jun (sechzehn, ehemals Lot 11)
 
-**22 Repliken, 179 Woerter, 8,1 Woerter je Replik.** Von Hand gezaehlt, weil
+**28 Repliken, 212 Woerter, 7,6 Woerter je Replik.** Von Hand gezaehlt, weil
 `stimmen.py` ihn fast nicht zuordnen kann: **zwanzig seiner zweiundzwanzig
 Repliken stehen ganz ohne Begleitsatz**, eine hat ein namenloses *he said*
 mitten darin, und genau eine nennt ihn, `b3 ch11:130`. Er spricht nur in
@@ -3313,11 +3313,16 @@ Zweipersonenszenen, und dort laeuft der Dialog ohne Zuordnung. Das ist kein
 Werkzeugfehler, sondern sein Blatt: **er redet nur, wenn genau einer
 zuhoert.**
 
-**Nachgemessen am 06.09., und die Zahl ist gestiegen.** Bis `ch07` stand das
-Blatt auf sechzehn Repliken, hundertsieben Woertern und 6,7 je Replik, und das
-war das kuerzeste Register im Buch. Nach `ch11` sind es 8,1, und damit steht
-er hinter Mr Ahns 7,5 und Mr Kohs 7,9 und gleichauf mit Nam Byung-hees 8,1.
+**Zweimal nachgemessen am 06.09., und die Zahl geht auf und ab.** Bis `ch07`
+stand das Blatt auf sechzehn Repliken und 6,7 je Replik, und das war das
+kuerzeste Register im Buch. Nach `ch11` waren es 8,1. Nach `ch13` sind es
+**7,6**, und damit steht er wieder knapp vor Mr Kohs 7,9 und hinter Mr Ahns 7,5.
 Georgij steht auf 11,4 und Annie auf 10,0.
+
+**Die Bewegung ist die Figur.** Die Zahl steigt, wenn er gefragt wird, und faellt,
+wenn er antwortet. In `ch11` traegt er einen Befund vor und fragt nach einem
+Grund. In `ch13` bringt er **einen** Satz von sich aus und sagt danach dreimal
+*Yes, sir*. **Wer ihm eine gleichmaessige Kurve gibt, hat ihn nicht verstanden.**
 
 **Die Zahl ist nicht verrutscht, sondern die Figur.** In `ch04` antwortet er
 in zwei Woertern und fragt einmal, was er bezahlt bekommt. In `ch11` traegt er
@@ -3326,9 +3331,9 @@ Grund, und er bekommt keinen. **Wer das Blatt wieder auf sechs Komma sieben
 bringen will, muss ihm das Fragen nehmen**, und das Fragen ist die Zusage
 `B3 04`.
 
-**Fuenfundvierzig Prozent seiner Repliken haben drei Woerter oder weniger, und
-neunundfuenfzig Prozent enthalten *sir*.** Beide Anteile sind gefallen, aus
-demselben Grund.
+**Sechsundvierzig Prozent seiner Repliken haben drei Woerter oder weniger, und
+einundsechzig Prozent enthalten *sir*.** Beide Anteile fielen nach `ch11` und
+sind nach `ch13` wieder gestiegen, aus demselben Grund wie die Satzlaenge.
 
 **Und dann die Ausnahme, und sie steht jetzt in zwei Szenen.** Ueber zehn
 Woerter kommt er viermal: zweimal im Wagen vor der zweiundzwanzigsten
@@ -3391,14 +3396,84 @@ einem Jungen, der nicht von selbst spricht.**
 
 ---
 
+### Die Nebenfiguren von Band 3 reden zu lang, gemessen am 06.09.
+
+**Der laengste Nebenfigurenwert der Baende 1 und 2 ist Baek Jun-hos 14,7
+Woerter je Replik**, und der Median aller Figuren mit mehr als neunzig
+Woertern eigener Rede liegt bei etwa 10,5.
+
+**Band 3 hat in fuenf Kapiteln drei Figuren darueber:**
+
+| Figur | Kapitel | Woerter je Replik |
+|---|---|---|
+| **Mr Bok** | `b3 ch13` | **22,0** |
+| **Han Bo-ram** | `b3 ch09` | **20,1** |
+| **Mr Namgung** | `b3 ch12` | **19,5** |
+| Seol Gwan-ik | `b3 ch10` | 11,9 |
+| Gong Doo-hyun | `b3 ch03` | 11,2 |
+
+**Jede der drei hat einen Grund, und drei Gruende sind eine Ausrede.** Bo-ram
+hat zwoelf Quartale Rueckstau, Namgung geniesst seine Geschichte, Bok ist
+uebergangen worden und konnte es niemandem sagen. Alle drei stimmen. Der
+gemeinsame Grund liegt darunter und ist handwerklich: **Akt I und der Anfang
+von Akt II sind Auskunftsszenen**, und wer eine Auskunft schreibt, laesst die
+Figur erklaeren.
+
+**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** Nicht
+weil kurz besser ist, sondern weil vier Vielredner hintereinander keine
+Figuren mehr sind, sondern eine Angewohnheit des Schreibenden. Wer eine
+laengere braucht, schreibt vorher hierher, warum ausgerechnet diese es sein
+muss.
+
+---
+
+### Mr Bok (Operations, Busan, sechzehn Jahre an dem Tisch)
+
+**5 Repliken, 110 Woerter, 22,0 Woerter je Replik, kein einziges *sir*, keine
+Replik unter vier Woertern.** Von Hand gezaehlt.
+
+**Er ist der laengste im Buch, und das ist eine Entscheidung und kein
+Versehen.** Siehe den Abschnitt darueber: er ist der dritte in Folge, und der
+naechste ist es nicht mehr.
+
+**Sein Anliegen ist nicht die Kiste.** Es ist, dass ihm etwas ueber den Kopf
+hinweg befohlen worden ist und er es seit einer Woche mit sich herumtraegt.
+Deshalb sagt er Seoul zweimal: **das erste Mal ist die Auskunft, das zweite
+Mal ist die Beschwerde**, und die zweite ist an niemanden gerichtet, der im
+Zimmer steht.
+
+**Seine Masseinheit sind Kisten und Jahre.** Neunhundert Kisten in dem Monat,
+sechzehn Jahre an dem Tisch, dreihundert Meter zum Parkplatz.
+
+**Der Zug, der ihm nicht schmeichelt, ist doppelt.** Er ist ungerecht zu einer
+Abwesenden, die nichts dafuer kann (*"The girl who took the call wrote it on a
+slip and went home. Twenty-three years old."*), und er sagt an der Tuer
+ungefragt etwas ueber den Parkplatz, das mit nichts zu tun hat und das
+Einzige ist, was er wirklich sagen wollte.
+
+**Sein Haustic:** ein Finger auf dem Bildschirm, der mitwandert. Er nimmt ihn
+genau einmal weg, und zwar fuer *"That one did."*
+
+**Verbote.**
+
+* **Er weiss nicht, wem er das gibt.** Keine Zeile, in der er ahnt, dass die
+  zwei Maenner vor ihm etwas damit anfangen. Er kommt nicht wieder.
+* **Er wird nicht gelobt und nicht bezahlt.** Georgij sagt in dem Buero nichts
+  ueber ihn und nichts zu ihm ausser zwei Fragen.
+* **Er ist kein Verraeter.** Er gibt nichts preis, was nicht auf seinem
+  Bildschirm steht und was er nicht jedem sagen wuerde, der fragt.
+
+---
+
 ### Mr Namgung (etwa sechzig, Kunde seit neunzehn Jahren)
 
 **6 Repliken, 117 Woerter, 19,5 Woerter je Replik.** Von Hand gezaehlt, weil
 `b3 ch12` in seiner Szene eine Zweipersonenszene ist und der Dialog ohne
 Begleitsaetze laeuft.
 
-**Damit steht er auf Platz zwei hinter Han Bo-rams 20,1**, und das ist der
-Befund und kein Zufall: **die zwei laengsten Register des Buches gehoeren der
+**Damit stand er am 06.09. auf Platz zwei hinter Han Bo-rams 20,1, und
+seit Mr Boks 22,0 aus `b3 ch13` auf Platz drei.** Der Befund von damals
+gilt weiter und ist kein Zufall: **die zwei laengsten Register des Buches gehoeren der
 Frau, der niemand zugehoert hat, und dem Mann, dem alle zugehoert haben.** Bei
 ihr ist die Laenge zwoelf Quartale Rueckstau. Bei ihm ist sie Genuss.
 
@@ -3438,8 +3513,8 @@ Undank.
 Woerter, laengste Replik 71 Woerter.** Von Hand gezaehlt: `stimmen.py` ordnet
 ihr drei zu, weil `b3 ch09` ein Zweipersonenstueck ist.
 
-**Und die Zahl ist das Blatt.** 20,1 ist das laengste Register im Buch, seit dem
-06.09. aber nicht mehr mit Abstand: Mr Namgung steht in `b3 ch12` bei 19,5.
+**Und die Zahl ist das Blatt.** 20,1 war das laengste Register im Buch und ist es
+seit `b3 ch13` nicht mehr: Mr Bok steht bei 22,0 und Mr Namgung bei 19,5.
 **Die zwei laengsten gehoeren der Frau, der niemand zugehoert hat, und dem Mann,
 dem alle zugehoert haben**, und das ist die nuetzlichste Nachbarschaft im ganzen
 Dokument. Baek Jun-ho steht auf 14,7, Georgij auf 11,4, Annie auf 10,1, Moon

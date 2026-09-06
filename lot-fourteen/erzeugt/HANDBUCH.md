@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 378.180 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 379.337 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -109,6 +109,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Tak (seit Ende August im Haus, Gangwon-do)](#mr-tak-seit-ende-august-im-haus-gangwon-do)
   - [Gong Doo-hyun (der Oberstaatsanwalt, um die sechzig)](#gong-doo-hyun-der-oberstaatsanwalt-um-die-sechzig)
   - [Lee Jun (sechzehn, ehemals Lot 11)](#lee-jun-sechzehn-ehemals-lot-11)
+  - [Die Nebenfiguren von Band 3 reden zu lang, gemessen am 06.09.](#die-nebenfiguren-von-band-3-reden-zu-lang-gemessen-am-06-09)
+  - [Mr Bok (Operations, Busan, sechzehn Jahre an dem Tisch)](#mr-bok-operations-busan-sechzehn-jahre-an-dem-tisch)
   - [Mr Namgung (etwa sechzig, Kunde seit neunzehn Jahren)](#mr-namgung-etwa-sechzig-kunde-seit-neunzehn-jahren)
   - [Han Bo-ram (sechsundzwanzig, Stiftung, Berichterstattung)](#han-bo-ram-sechsundzwanzig-stiftung-berichterstattung)
   - [Seol Gwan-ik (einundsiebzig, seit 2011 ausser Dienst)](#seol-gwan-ik-einundsiebzig-seit-2011-ausser-dienst)
@@ -698,12 +700,13 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Gong Doo-hyun](#gong-doo-hyun)
   - [Ji-won](#ji-won)
   - [Mrs Gwak](#mrs-gwak)
+  - [Lee Jun](#lee-jun)
   - [Moon Hae-sook](#moon-hae-sook)
   - [Shin](#shin)
-  - [Lee Jun](#lee-jun)
   - [Seol Gwan-ik](#seol-gwan-ik)
   - [Mr Pyo](#mr-pyo)
   - [Mr Sohn](#mr-sohn)
+  - [Mr Bok](#mr-bok)
   - [Han Bo-ram](#han-bo-ram)
   - [Mr Baek](#mr-baek)
   - [Mr Namgung](#mr-namgung)
@@ -766,7 +769,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**136 Kapitel, 358.584 Woerter.**
+**137 Kapitel, 360.659 Woerter.**
 
 ---
 
@@ -2012,6 +2015,7 @@ diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
+| **Mr Bok** | **Operations bei einem Spediteur in Busan.** Sechzehn Jahre an demselben Schreibtisch | Der Aelteste von vier an dem Tisch, und die anderen drei legen ihm Dinge hin, ohne aufzusehen. Sagt in `b3 ch13` zweimal, dass die Anweisung aus Seoul kam | B3 13 | **Er ist uebergangen worden und hat es niemandem sagen koennen.** Das erste Seoul ist die Auskunft, das zweite die Beschwerde. Dazu ein Anliegen, das mit der Sache nichts zu tun hat: sie haben den Parkplatz auf die andere Seite verlegt. **Er weiss nicht, wem er das gerade gegeben hat, und wird es nie erfahren** |
 | **Mr Namgung** | **Kunde, und zwar seit neunzehn Jahren.** Kauft das Vorprodukt, auf dem seine Anlage laeuft | Etwa sechzig. Neunzehn Jahre bei der Gruppe, acht bei ihr. Kommt in `b3 ch12` allein, um sich zu bedanken, und kuendigt im selben Atemzug die zweite Quelle an | B3 12 | **Er hoert sich nicht zu, und das ist sein Zug.** Er erzaehlt die elf Wochen von 2016 zum wiederholten Mal, ist mit dem Erzaehlen zufrieden, und sagt danach in derselben Stimme den Satz, der ihr das Geschaeft kostet. Er geht zufrieden hinaus und glaubt, er habe sich bedankt |
 | **Han Bo-ram** | **Die juengste Han, und die einzige, die arbeitet.** Stiftungsberichterstattung, vierter Stock | Sechsundzwanzig. Haelt Anteile an drei gelisteten Gesellschaften, unterschreibt in `b3 ch09` die bedingte Verkaufszusage zum Preis von vorher. Vierundzwanzig, als Georgij sie auf der Gala ansprach | B3 9 | **Sie ist die Frau von `b1 ch07:182`**, die am Rand einer Gruppe an der Bar stand und der er ausdruecklich nicht zulaechelte (`b1 ch07:186`), weil ein fremdes Laecheln quer durch den Raum etwas ist, worueber eine Frau in ihrer Lage entscheiden muss. **Die neun Minuten stehen in `b1 ch08:56`**, und in der neunten sagt sie etwas ueber die zweite Bestellung eines Direktors, das sie in der ersten nicht gesagt haette. Er fragt danach absichtlich etwas anderes, damit ihr letzter Satz harmlos ist. Vollzug ihrer Zusage in Akt II, mit der Shipping-Festigung |
 | **Seol Gwan-ik** | **Der alte Staatsanwalt. Die Landkarte.** Ein Zimmer in einer juristischen Fakultaet in Seodaemun, ein Seminar im Semester | Einundsiebzig, seit 2011 ausser Dienst, war 2002 elf Jahre ueber Choi. Gibt in `b3 ch10` die Reihenfolge und sagt, wie die Sache von aussen aussieht | B3 10 | **Bekommt keinen Auftrag, sondern einen wahren Rand.** Er ordnet ein, er hilft nicht. Er hat Georgij den Satz gesagt, mit dem Gong ihn spaeter angreift, Monate bevor Gong ihn hat |
@@ -6713,7 +6717,7 @@ Absage, der Abschied. Dazwischen sagt er *Sit down.* und
 
 ### Lee Jun (sechzehn, ehemals Lot 11)
 
-**22 Repliken, 179 Woerter, 8,1 Woerter je Replik.** Von Hand gezaehlt, weil
+**28 Repliken, 212 Woerter, 7,6 Woerter je Replik.** Von Hand gezaehlt, weil
 `stimmen.py` ihn fast nicht zuordnen kann: **zwanzig seiner zweiundzwanzig
 Repliken stehen ganz ohne Begleitsatz**, eine hat ein namenloses *he said*
 mitten darin, und genau eine nennt ihn, `b3 ch11:130`. Er spricht nur in
@@ -6721,11 +6725,16 @@ Zweipersonenszenen, und dort laeuft der Dialog ohne Zuordnung. Das ist kein
 Werkzeugfehler, sondern sein Blatt: **er redet nur, wenn genau einer
 zuhoert.**
 
-**Nachgemessen am 06.09., und die Zahl ist gestiegen.** Bis `ch07` stand das
-Blatt auf sechzehn Repliken, hundertsieben Woertern und 6,7 je Replik, und das
-war das kuerzeste Register im Buch. Nach `ch11` sind es 8,1, und damit steht
-er hinter Mr Ahns 7,5 und Mr Kohs 7,9 und gleichauf mit Nam Byung-hees 8,1.
+**Zweimal nachgemessen am 06.09., und die Zahl geht auf und ab.** Bis `ch07`
+stand das Blatt auf sechzehn Repliken und 6,7 je Replik, und das war das
+kuerzeste Register im Buch. Nach `ch11` waren es 8,1. Nach `ch13` sind es
+**7,6**, und damit steht er wieder knapp vor Mr Kohs 7,9 und hinter Mr Ahns 7,5.
 Georgij steht auf 11,4 und Annie auf 10,0.
+
+**Die Bewegung ist die Figur.** Die Zahl steigt, wenn er gefragt wird, und faellt,
+wenn er antwortet. In `ch11` traegt er einen Befund vor und fragt nach einem
+Grund. In `ch13` bringt er **einen** Satz von sich aus und sagt danach dreimal
+*Yes, sir*. **Wer ihm eine gleichmaessige Kurve gibt, hat ihn nicht verstanden.**
 
 **Die Zahl ist nicht verrutscht, sondern die Figur.** In `ch04` antwortet er
 in zwei Woertern und fragt einmal, was er bezahlt bekommt. In `ch11` traegt er
@@ -6734,9 +6743,9 @@ Grund, und er bekommt keinen. **Wer das Blatt wieder auf sechs Komma sieben
 bringen will, muss ihm das Fragen nehmen**, und das Fragen ist die Zusage
 `B3 04`.
 
-**Fuenfundvierzig Prozent seiner Repliken haben drei Woerter oder weniger, und
-neunundfuenfzig Prozent enthalten *sir*.** Beide Anteile sind gefallen, aus
-demselben Grund.
+**Sechsundvierzig Prozent seiner Repliken haben drei Woerter oder weniger, und
+einundsechzig Prozent enthalten *sir*.** Beide Anteile fielen nach `ch11` und
+sind nach `ch13` wieder gestiegen, aus demselben Grund wie die Satzlaenge.
 
 **Und dann die Ausnahme, und sie steht jetzt in zwei Szenen.** Ueber zehn
 Woerter kommt er viermal: zweimal im Wagen vor der zweiundzwanzigsten
@@ -6799,14 +6808,84 @@ einem Jungen, der nicht von selbst spricht.**
 
 ---
 
+### Die Nebenfiguren von Band 3 reden zu lang, gemessen am 06.09.
+
+**Der laengste Nebenfigurenwert der Baende 1 und 2 ist Baek Jun-hos 14,7
+Woerter je Replik**, und der Median aller Figuren mit mehr als neunzig
+Woertern eigener Rede liegt bei etwa 10,5.
+
+**Band 3 hat in fuenf Kapiteln drei Figuren darueber:**
+
+| Figur | Kapitel | Woerter je Replik |
+|---|---|---|
+| **Mr Bok** | `b3 ch13` | **22,0** |
+| **Han Bo-ram** | `b3 ch09` | **20,1** |
+| **Mr Namgung** | `b3 ch12` | **19,5** |
+| Seol Gwan-ik | `b3 ch10` | 11,9 |
+| Gong Doo-hyun | `b3 ch03` | 11,2 |
+
+**Jede der drei hat einen Grund, und drei Gruende sind eine Ausrede.** Bo-ram
+hat zwoelf Quartale Rueckstau, Namgung geniesst seine Geschichte, Bok ist
+uebergangen worden und konnte es niemandem sagen. Alle drei stimmen. Der
+gemeinsame Grund liegt darunter und ist handwerklich: **Akt I und der Anfang
+von Akt II sind Auskunftsszenen**, und wer eine Auskunft schreibt, laesst die
+Figur erklaeren.
+
+**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** Nicht
+weil kurz besser ist, sondern weil vier Vielredner hintereinander keine
+Figuren mehr sind, sondern eine Angewohnheit des Schreibenden. Wer eine
+laengere braucht, schreibt vorher hierher, warum ausgerechnet diese es sein
+muss.
+
+---
+
+### Mr Bok (Operations, Busan, sechzehn Jahre an dem Tisch)
+
+**5 Repliken, 110 Woerter, 22,0 Woerter je Replik, kein einziges *sir*, keine
+Replik unter vier Woertern.** Von Hand gezaehlt.
+
+**Er ist der laengste im Buch, und das ist eine Entscheidung und kein
+Versehen.** Siehe den Abschnitt darueber: er ist der dritte in Folge, und der
+naechste ist es nicht mehr.
+
+**Sein Anliegen ist nicht die Kiste.** Es ist, dass ihm etwas ueber den Kopf
+hinweg befohlen worden ist und er es seit einer Woche mit sich herumtraegt.
+Deshalb sagt er Seoul zweimal: **das erste Mal ist die Auskunft, das zweite
+Mal ist die Beschwerde**, und die zweite ist an niemanden gerichtet, der im
+Zimmer steht.
+
+**Seine Masseinheit sind Kisten und Jahre.** Neunhundert Kisten in dem Monat,
+sechzehn Jahre an dem Tisch, dreihundert Meter zum Parkplatz.
+
+**Der Zug, der ihm nicht schmeichelt, ist doppelt.** Er ist ungerecht zu einer
+Abwesenden, die nichts dafuer kann (*"The girl who took the call wrote it on a
+slip and went home. Twenty-three years old."*), und er sagt an der Tuer
+ungefragt etwas ueber den Parkplatz, das mit nichts zu tun hat und das
+Einzige ist, was er wirklich sagen wollte.
+
+**Sein Haustic:** ein Finger auf dem Bildschirm, der mitwandert. Er nimmt ihn
+genau einmal weg, und zwar fuer *"That one did."*
+
+**Verbote.**
+
+* **Er weiss nicht, wem er das gibt.** Keine Zeile, in der er ahnt, dass die
+  zwei Maenner vor ihm etwas damit anfangen. Er kommt nicht wieder.
+* **Er wird nicht gelobt und nicht bezahlt.** Georgij sagt in dem Buero nichts
+  ueber ihn und nichts zu ihm ausser zwei Fragen.
+* **Er ist kein Verraeter.** Er gibt nichts preis, was nicht auf seinem
+  Bildschirm steht und was er nicht jedem sagen wuerde, der fragt.
+
+---
+
 ### Mr Namgung (etwa sechzig, Kunde seit neunzehn Jahren)
 
 **6 Repliken, 117 Woerter, 19,5 Woerter je Replik.** Von Hand gezaehlt, weil
 `b3 ch12` in seiner Szene eine Zweipersonenszene ist und der Dialog ohne
 Begleitsaetze laeuft.
 
-**Damit steht er auf Platz zwei hinter Han Bo-rams 20,1**, und das ist der
-Befund und kein Zufall: **die zwei laengsten Register des Buches gehoeren der
+**Damit stand er am 06.09. auf Platz zwei hinter Han Bo-rams 20,1, und
+seit Mr Boks 22,0 aus `b3 ch13` auf Platz drei.** Der Befund von damals
+gilt weiter und ist kein Zufall: **die zwei laengsten Register des Buches gehoeren der
 Frau, der niemand zugehoert hat, und dem Mann, dem alle zugehoert haben.** Bei
 ihr ist die Laenge zwoelf Quartale Rueckstau. Bei ihm ist sie Genuss.
 
@@ -6846,8 +6925,8 @@ Undank.
 Woerter, laengste Replik 71 Woerter.** Von Hand gezaehlt: `stimmen.py` ordnet
 ihr drei zu, weil `b3 ch09` ein Zweipersonenstueck ist.
 
-**Und die Zahl ist das Blatt.** 20,1 ist das laengste Register im Buch, seit dem
-06.09. aber nicht mehr mit Abstand: Mr Namgung steht in `b3 ch12` bei 19,5.
+**Und die Zahl ist das Blatt.** 20,1 war das laengste Register im Buch und ist es
+seit `b3 ch13` nicht mehr: Mr Bok steht bei 22,0 und Mr Namgung bei 19,5.
 **Die zwei laengsten gehoeren der Frau, der niemand zugehoert hat, und dem Mann,
 dem alle zugehoert haben**, und das ist die nuetzlichste Nachbarschaft im ganzen
 Dokument. Baek Jun-ho steht auf 14,7, Georgij auf 11,4, Annie auf 10,1, Moon
@@ -9156,6 +9235,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 10** - Seol Gwan-ik, die Reihenfolge, und Mr Chaes datierter Grund | 742 | Fr **15. Oktober 2027** |
 | **Band 3, Kapitel 11** - die Maschine steht, und nichts ist geschehen. **Ende Akt I** | 753 | Di **26. Oktober 2027** |
 | **Band 3, Kapitel 12** - die Charter, der Brief an elf Kunden, Mr Namgung. **Anfang Akt II** | 762 | Do **4. November 2027** |
+| **Band 3, Kapitel 13** - das Ventil auf dem Stapel, Mr Bok sagt Seoul zweimal, und Lee Jun hoert es | 774 | Di **16. November 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -33117,7 +33197,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 926 | 107 (b1ch01-b3ch12) | 1 | 762 |
+| Annie | 929 | 108 (b1ch01-b3ch13) | 1 | 774 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
@@ -33149,12 +33229,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Gong Doo-hyun | 20 | 4 (b3ch01-b3ch11) | 592 | 753 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
+| Lee Jun | 18 | 4 (b3ch04-b3ch13) | 645 | 774 |
 | Moon Hae-sook | 18 | 10 (b2ch58-b3ch08) | 371 | 718 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
-| Lee Jun | 13 | 3 (b3ch04-b3ch11) | 645 | 753 |
-| Seol Gwan-ik | 12 | 1 (b3ch10) | 742 | 742 |
+| Seol Gwan-ik | 13 | 2 (b3ch10-b3ch13) | 742 | 774 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
+| Mr Bok | 9 | 1 (b3ch13) | 774 | 774 |
 | Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Mr Namgung | 7 | 1 (b3ch12) | 762 | 762 |
@@ -33174,7 +33255,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-926 Nennungen in 107 Kapiteln.
+929 Nennungen in 108 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34104,6 +34185,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 762 | b3ch12:264 | "Interference," said Annie. "That is his word and it is a good one. An insurer uses it, .. |
 | 762 | b3ch12:270 | Annie put the pen across the page and left it there. |
 | 762 | b3ch12:280 | Annie turned the quarter face down. |
+| 774 | b3ch13:248 | Annie looked up from what she was doing, which she had not done when he came in. |
+| 774 | b3ch13:258 | Annie took her hand off the page. |
+| 774 | b3ch13:268 | Annie went back to the page and did not look up for the rest of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -38391,6 +38475,41 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Lee Jun
+
+18 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
+| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
+| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
+| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
+| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
+| 774 | b3ch13:84 | Lee Jun stood where he could see the door and the hands and did not sit down when he was.. |
+| 774 | b3ch13:194 | Lee Jun did not say thank you, which is correct, and did not look pleased, which is not .. |
+| 774 | b3ch13:210 | Lee Jun looked out of his side of the window for about two minutes. |
+| 774 | b3ch13:246 | "Lee Jun." |
+| 774 | b3ch13:340 | Lee Jun wrote nothing down in that office and nothing in the car. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:360` (Tag 645) - four
+- `b3ch07:150` (Tag 707) - twenty
+- `b3ch11:118` (Tag 753) - five
+- `b3ch11:266` (Tag 753) - six
+- `b3ch13:210` (Tag 774) - two
+
+---
+
 ### Moon Hae-sook
 
 18 Nennungen in 10 Kapiteln.
@@ -38469,38 +38588,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Lee Jun
-
-13 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
-| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
-| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
-| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
-| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
-| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
-| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
-
-### Zahlen in der Naehe von Lee Jun
-
-- `b3ch04:360` (Tag 645) - four
-- `b3ch07:150` (Tag 707) - twenty
-- `b3ch11:118` (Tag 753) - five
-- `b3ch11:266` (Tag 753) - six
-
----
-
 ### Seol Gwan-ik
 
-12 Nennungen in 1 Kapiteln.
+13 Nennungen in 2 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -38516,6 +38606,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 742 | b3ch10:170 | Seol Gwan-ik had come out of the doorway with him. |
 | 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
 | 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
+| 774 | b3ch13:288 | Seol Gwan-ik said in a borrowed room in October that the order would read as caused. |
 
 ### Zahlen in der Naehe von Seol Gwan-ik
 
@@ -38584,6 +38675,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:380` (Tag 259) - four
 - `b2ch54:66` (Tag 319) - eight, one
 - `b2ch54:70` (Tag 319) - nine
+
+---
+
+### Mr Bok
+
+9 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 774 | b3ch13:72 | Mr Bok has the operations desk and has had it for sixteen years. |
+| 774 | b3ch13:78 | Mr Bok is the fourth and the oldest, and the other three put things in front of him with.. |
+| 774 | b3ch13:88 | "It is on the nineteenth," said Mr Bok. |
+| 774 | b3ch13:106 | He asked him what the movement had been booked as, and then what it was booked as now, a.. |
+| 774 | b3ch13:110 | Then Mr Bok said the part he had been carrying since the ninth. |
+| 774 | b3ch13:120 | "Nine hundred boxes off that berth this month and not one came down from Seoul." Mr Bok .. |
+| 774 | b3ch13:124 | Mr Bok came round the desk to the door with them, which he did not have to do. |
+| 774 | b3ch13:202 | "You found the telling. Mr Bok gave it to you twice and I had it once." |
+| 774 | b3ch13:254 | "Mr Bok said Seoul twice. The second time was not an answer to anything, and the boy hea.. |
+
+### Zahlen in der Naehe von Mr Bok
+
+- `b3ch13:72` (Tag 774) - sixteen
+- `b3ch13:78` (Tag 774) - three
+- `b3ch13:120` (Tag 774) - nine hundred, one
 
 ---
 
