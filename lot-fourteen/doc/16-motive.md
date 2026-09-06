@@ -104,21 +104,24 @@ hier hingeschrieben, und die offenen Sorten gehoeren geschlossen statt gefuehrt.
 Es kann auch sein, dass es niemandem aufgefallen ist. **Entschieden hat es
 niemand.**
 
-**Und in Band 3 laechelt niemand.** Sieben Kapitel, 14.722 Woerter, Tag 592 bis
-Tag 707: null Treffer fuer *smile*, *smiled*, *smiling*, null fuer *laugh*. Das
-einzige *almost* im ganzen Band steht in `b3 ch07` und hat mit einem Gesicht
-nichts zu tun (*almost nobody asks him*).
+**In Akt I von Band 3 laechelt genau einer, und es ist er.** Elf Kapitel,
+23.130 Woerter, Tag 592 bis Tag 753: **ein** Treffer fuer *smile*, *smiled*,
+*smiling*, keiner fuer *laugh*, und er steht in `b3 ch05:262`. Das einzige
+*almost* im ganzen Akt steht in `b3 ch07` und hat mit einem Gesicht nichts zu
+tun (*almost nobody asks him*).
 
-**Das ist mehr als die Fortsetzung der Kurve.** In Band 1 steht ein Laecheln je
-2.056 Woerter, in Band 2 je 11.066, in Band 3 nie. Und der Unterschied zu Band 2
-ist nicht der Grad, sondern die Art: in Band 2 gehoeren neunzehn der
-einundzwanzig Treffer anderen Figuren, es laechelte also jemand. In Band 3
-laechelt **niemand**, auch Gong Doo-hyun nicht, auch Mr Hwang nicht, auch der
-Mann in Siheung nicht, der vier Jahre lang etwas sagt und dem endlich einer
-zuhoert.
+**Die Kurve ist nicht gebrochen, sie ist umgedreht.** In Band 1 steht ein
+Laecheln je 2.056 Woerter, in Band 2 je 11.066, in Akt I je 23.130. Der
+Abstand waechst weiter. Aber der Unterschied zu Band 2 ist nicht der Grad,
+sondern **wem es gehoert**: in Band 2 gehoeren neunzehn der einundzwanzig
+Treffer anderen Figuren, es laechelte also dauernd jemand, nur nicht er. In
+Akt I laechelt **kein anderer Mensch**, nicht Gong Doo-hyun, nicht Mr Hwang,
+nicht Han Bo-ram, nicht der Mann in Siheung, der vier Jahre lang etwas sagt
+und dem endlich einer zuhoert. Der einzige Treffer im ganzen Akt ist seiner.
 
-**Der Absatz beschreibt den Stand bis zum 06.09.** Seither steht in `b3 ch05`
-ein Laecheln, und der Abschnitt darunter sagt, welches und warum.
+**Das war bis zum 06.09. anders herum gemeint.** Bis dahin stand hier, in
+Band 3 laechle niemand, und daraus wurde die Frage gebaut, ob das Werkzeug
+abgelegt ist. Der Abschnitt darunter beantwortet sie.
 
 **Die Entscheidung ist damit dieselbe wie am 24.08. und faelliger.** Entweder
 der Katalog beschreibt ein Werkzeug, das Georgij abgelegt hat, dann gehoeren die

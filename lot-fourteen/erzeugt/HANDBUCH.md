@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 374.924 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 375.032 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -699,8 +699,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Moon Hae-sook](#moon-hae-sook)
   - [Shin](#shin)
   - [Lee Jun](#lee-jun)
-  - [Mr Pyo](#mr-pyo)
   - [Seol Gwan-ik](#seol-gwan-ik)
+  - [Mr Pyo](#mr-pyo)
   - [Mr Sohn](#mr-sohn)
   - [Han Bo-ram](#han-bo-ram)
   - [Mr Baek](#mr-baek)
@@ -763,7 +763,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**135 Kapitel, 356.325 Woerter.**
+**135 Kapitel, 356.345 Woerter.**
 
 ---
 
@@ -2000,7 +2000,7 @@ diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Han Bo-ram** | **Die juengste Han, und die einzige, die arbeitet.** Stiftungsberichterstattung, vierter Stock | Sechsundzwanzig. Haelt Anteile an drei gelisteten Gesellschaften, unterschreibt in `b3 ch09` die bedingte Verkaufszusage zum Preis von vorher. Vierundzwanzig, als Georgij sie auf der Gala ansprach | B3 9 | **Sie ist die Frau von `b1 ch07:182`**, die am Rand einer Gruppe an der Bar stand und der er ausdruecklich nicht zulaechelte, und die nach neun Minuten gerader stand (`b1 ch09:48`). Vollzug ihrer Zusage in Akt II, mit der Shipping-Festigung |
+| **Han Bo-ram** | **Die juengste Han, und die einzige, die arbeitet.** Stiftungsberichterstattung, vierter Stock | Sechsundzwanzig. Haelt Anteile an drei gelisteten Gesellschaften, unterschreibt in `b3 ch09` die bedingte Verkaufszusage zum Preis von vorher. Vierundzwanzig, als Georgij sie auf der Gala ansprach | B3 9 | **Sie ist die Frau von `b1 ch07:182`**, die am Rand einer Gruppe an der Bar stand und der er ausdruecklich nicht zulaechelte (`b1 ch07:186`), weil ein fremdes Laecheln quer durch den Raum etwas ist, worueber eine Frau in ihrer Lage entscheiden muss. **Die neun Minuten stehen in `b1 ch08:56`**, und in der neunten sagt sie etwas ueber die zweite Bestellung eines Direktors, das sie in der ersten nicht gesagt haette. Er fragt danach absichtlich etwas anderes, damit ihr letzter Satz harmlos ist. Vollzug ihrer Zusage in Akt II, mit der Shipping-Festigung |
 | **Seol Gwan-ik** | **Der alte Staatsanwalt. Die Landkarte.** Ein Zimmer in einer juristischen Fakultaet in Seodaemun, ein Seminar im Semester | Einundsiebzig, seit 2011 ausser Dienst, war 2002 elf Jahre ueber Choi. Gibt in `b3 ch10` die Reihenfolge und sagt, wie die Sache von aussen aussieht | B3 10 | **Bekommt keinen Auftrag, sondern einen wahren Rand.** Er ordnet ein, er hilft nicht. Er hat Georgij den Satz gesagt, mit dem Gong ihn spaeter angreift, Monate bevor Gong ihn hat |
 | **Lee Jun** | **Ehemals Lot 11.** Im Werk nur Jun. **Erster Auftritt `b3 ch04`, Tag 645** | Infrastructure Trainee bei Georgij; lernt Methode, nicht Gehorsam. In Band 5 bei Maeng nicht am Tisch, sondern im zweiten Raum bei Hwangs Reihe: Zeit, Tuer, Fahrzeug, Abweichung | B3 geplant, B4 aktiv | Kommt nicht lose ins Haus: Name, Schutz-/Beschaeftigungs- und Statusstruktur stehen vor Ankunft. Wird fuer spaetere Werke befaehigt; kein Motors-Pruefer, frei fuer Band 5, aber nicht in Blut-/Hinrichtungsraeumen |
 | **Choi Eun-kyung** | Teileausgabe im Hanseong Motors Ulsan Main Complex | Trocken, wach, erste starke Stimme unten; sieht, welche Fehler alle kennen | B4 geplant | Teil der ersten Stabilization Cell; echte Macht ueber Teilefreigaben |
@@ -10391,21 +10391,24 @@ hier hingeschrieben, und die offenen Sorten gehoeren geschlossen statt gefuehrt.
 Es kann auch sein, dass es niemandem aufgefallen ist. **Entschieden hat es
 niemand.**
 
-**Und in Band 3 laechelt niemand.** Sieben Kapitel, 14.722 Woerter, Tag 592 bis
-Tag 707: null Treffer fuer *smile*, *smiled*, *smiling*, null fuer *laugh*. Das
-einzige *almost* im ganzen Band steht in `b3 ch07` und hat mit einem Gesicht
-nichts zu tun (*almost nobody asks him*).
+**In Akt I von Band 3 laechelt genau einer, und es ist er.** Elf Kapitel,
+23.130 Woerter, Tag 592 bis Tag 753: **ein** Treffer fuer *smile*, *smiled*,
+*smiling*, keiner fuer *laugh*, und er steht in `b3 ch05:262`. Das einzige
+*almost* im ganzen Akt steht in `b3 ch07` und hat mit einem Gesicht nichts zu
+tun (*almost nobody asks him*).
 
-**Das ist mehr als die Fortsetzung der Kurve.** In Band 1 steht ein Laecheln je
-2.056 Woerter, in Band 2 je 11.066, in Band 3 nie. Und der Unterschied zu Band 2
-ist nicht der Grad, sondern die Art: in Band 2 gehoeren neunzehn der
-einundzwanzig Treffer anderen Figuren, es laechelte also jemand. In Band 3
-laechelt **niemand**, auch Gong Doo-hyun nicht, auch Mr Hwang nicht, auch der
-Mann in Siheung nicht, der vier Jahre lang etwas sagt und dem endlich einer
-zuhoert.
+**Die Kurve ist nicht gebrochen, sie ist umgedreht.** In Band 1 steht ein
+Laecheln je 2.056 Woerter, in Band 2 je 11.066, in Akt I je 23.130. Der
+Abstand waechst weiter. Aber der Unterschied zu Band 2 ist nicht der Grad,
+sondern **wem es gehoert**: in Band 2 gehoeren neunzehn der einundzwanzig
+Treffer anderen Figuren, es laechelte also dauernd jemand, nur nicht er. In
+Akt I laechelt **kein anderer Mensch**, nicht Gong Doo-hyun, nicht Mr Hwang,
+nicht Han Bo-ram, nicht der Mann in Siheung, der vier Jahre lang etwas sagt
+und dem endlich einer zuhoert. Der einzige Treffer im ganzen Akt ist seiner.
 
-**Der Absatz beschreibt den Stand bis zum 06.09.** Seither steht in `b3 ch05`
-ein Laecheln, und der Abschnitt darunter sagt, welches und warum.
+**Das war bis zum 06.09. anders herum gemeint.** Bis dahin stand hier, in
+Band 3 laechle niemand, und daraus wurde die Frage gebaut, ob das Werkzeug
+abgelegt ist. Der Abschnitt darunter beantwortet sie.
 
 **Die Entscheidung ist damit dieselbe wie am 24.08. und faelliger.** Entweder
 der Katalog beschreibt ein Werkzeug, das Georgij abgelegt hat, dann gehoeren die
@@ -32961,8 +32964,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Moon Hae-sook | 18 | 10 (b2ch58-b3ch08) | 371 | 718 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Lee Jun | 14 | 3 (b3ch04-b3ch11) | 645 | 753 |
+| Seol Gwan-ik | 12 | 1 (b3ch10) | 742 | 742 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
-| Seol Gwan-ik | 11 | 1 (b3ch10) | 742 | 742 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
@@ -33865,7 +33868,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:174 | Annie looked at him for a moment. |
 | 592 | b3ch01:184 | Annie picked the pen back up, which is what she does when a thing has been decided. |
 | 600 | b3ch02:172 | "And what did you get," said Annie. |
-| 600 | b3ch02:190 | Annie did not write anything down. |
+| 600 | b3ch02:190 | Annie went on writing. |
 | 600 | b3ch02:198 | Annie stopped writing and did not put the pen down. |
 | 628 | b3ch03:288 | Annie did not interrupt any of it, and she does not. |
 | 628 | b3ch03:300 | "Then say what he is," said Annie. |
@@ -36907,7 +36910,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 718 | b3ch08:122 | "That is her wording and not yours," said Mrs Sunwoo. |
 | 718 | b3ch08:138 | Mrs Sunwoo looked at him for a long moment. |
 | 718 | b3ch08:152 | "Then that is a second thing you have not said to her." Mrs Sunwoo did not make anything.. |
-| 718 | b3ch08:168 | "You may ask me for anything you like in this house and you have never once done it." Mr.. |
+| 718 | b3ch08:168 | "There is nothing in this house you are not allowed to ask me, and you have never once d.. |
 | 718 | b3ch08:174 | Mrs Sunwoo was quiet for a while, and it was not the quiet of a woman deciding. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
@@ -38296,6 +38299,35 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Seol Gwan-ik
+
+12 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 742 | b3ch10:6 | Seol Gwan-ik left the service in 2011 and has kept one room since. |
+| 742 | b3ch10:28 | "You are the one who was at the forty-ninth day," said Seol Gwan-ik. |
+| 742 | b3ch10:48 | Seol Gwan-ik sat back. |
+| 742 | b3ch10:74 | Seol Gwan-ik did not write anything down. |
+| 742 | b3ch10:98 | "Customs, ports and the terminal go to a section that does not exist as a section," said.. |
+| 742 | b3ch10:108 | "And the eleventh of March goes nowhere." Seol Gwan-ik put his cup down. "It is a man te.. |
+| 742 | b3ch10:114 | "Then say the thing you actually came about," said Seol Gwan-ik. |
+| 742 | b3ch10:126 | "That is not a favour," said Seol Gwan-ik. "That is a lecture, and I give one of those a.. |
+| 742 | b3ch10:144 | At the door Seol Gwan-ik said the part he had not been asked for either. |
+| 742 | b3ch10:170 | Seol Gwan-ik had come out of the doorway with him. |
+| 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
+| 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
+
+### Zahlen in der Naehe von Seol Gwan-ik
+
+- `b3ch10:6` (Tag 742) - one
+- `b3ch10:28` (Tag 742) - forty, one
+- `b3ch10:98` (Tag 742) - four, one, three
+- `b3ch10:126` (Tag 742) - one
+- `b3ch10:184` (Tag 742) - four, one
+
+---
+
 ### Mr Pyo
 
 11 Nennungen in 8 Kapiteln.
@@ -38324,34 +38356,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
 - `b2ch02:10` (Tag 152) - two
-
----
-
-### Seol Gwan-ik
-
-11 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 742 | b3ch10:6 | Seol Gwan-ik left the service in 2011 and has kept one room since. |
-| 742 | b3ch10:28 | "You are the one who was at the forty-ninth day," said Seol Gwan-ik. |
-| 742 | b3ch10:48 | Seol Gwan-ik sat back. |
-| 742 | b3ch10:74 | Seol Gwan-ik did not write anything down. |
-| 742 | b3ch10:98 | "Customs, ports and the terminal go to a section that does not exist as a section," said.. |
-| 742 | b3ch10:108 | "And the eleventh of March goes nowhere." Seol Gwan-ik put his cup down. "It is a man te.. |
-| 742 | b3ch10:114 | "Then say the thing you actually came about," said Seol Gwan-ik. |
-| 742 | b3ch10:126 | "That is not a favour," said Seol Gwan-ik. "That is a lecture, and I give one of those a.. |
-| 742 | b3ch10:144 | At the door Seol Gwan-ik said the part he had not been asked for either. |
-| 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
-| 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
-
-### Zahlen in der Naehe von Seol Gwan-ik
-
-- `b3ch10:6` (Tag 742) - one
-- `b3ch10:28` (Tag 742) - forty, one
-- `b3ch10:98` (Tag 742) - four, one, three
-- `b3ch10:126` (Tag 742) - one
-- `b3ch10:184` (Tag 742) - four, one
 
 ---
 

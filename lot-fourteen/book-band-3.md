@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 11 Kapitel, 23.143 Woerter.
+Book Three, 11 Kapitel, 23.163 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,15 +12,15 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.12 | 2.092 |
-| 02 | v1.24 | 2.116 |
-| 03 | v1.16 | 2.018 |
+| 02 | v1.25 | 2.114 |
+| 03 | v1.17 | 2.018 |
 | 04 | v1.21 | 2.016 |
-| 05 | v1.17 | 2.099 |
-| 06 | v1.15 | 2.155 |
+| 05 | v1.18 | 2.104 |
+| 06 | v1.16 | 2.155 |
 | 07 | v1.16 | 2.238 |
-| 08 | v1.11 | 2.046 |
-| 09 | v1.9 | 2.099 |
-| 10 | v1.17 | 2.214 |
+| 08 | v1.13 | 2.049 |
+| 09 | v1.10 | 2.097 |
+| 10 | v1.20 | 2.230 |
 | 11 | v1.7 | 2.050 |
 
 ---
@@ -231,7 +231,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.24 · EN
+*Lot Fourteen* · Version 1.25 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -419,7 +419,7 @@ She let that stand for a moment.
 
 "I have spent nineteen months finding out what men have done," said Georgij. "It has worked every time, and it worked because there has always been something."
 
-Annie did not write anything down.
+Annie went on writing.
 
 "I went at that man for four hours today. The hall is cheap and the card is cheap and the money is his own." He did not move anywhere. "And every single thing he did in that building, he did under his own name in front of ninety people."
 
@@ -442,7 +442,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.16 · EN
+*Lot Fourteen* · Version 1.17 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -642,7 +642,7 @@ Georgij stood up.
 
 "I would like to say one thing to you, and then I will go."
 
-"Say it."
+"Go on."
 
 "You buried a man that nobody else would have buried," said Georgij. "I have been in a great many rooms this year and I have not seen anything like it."
 
@@ -980,7 +980,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.17 · EN
+*Lot Fourteen* · Version 1.18 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1128,7 +1128,7 @@ Somewhere down the shed a machine that lifts things put something down.
 
 "I would like to say the thing I did not want to say on the telephone," said Mr Hwang.
 
-"Say it."
+"Then this is the place for it."
 
 "Weather does not know where a threshold is." He put his hand flat on the page. "And weather does not know which of a woman's ships has a penalty on it and which one has three weeks."
 
@@ -1253,7 +1253,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.15 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1293,7 +1293,7 @@ Two remembered.
 
 * * *
 
-The first is a woman of about fifty who keeps the contracts file for a shipper in Busan and has kept it for nineteen years.
+The first is a woman of about fifty who keeps the contracts file for a shipper in Busan and has kept it for twenty-two years.
 
 She remembered because of the format.
 
@@ -1795,7 +1795,7 @@ Annie looked at him for a moment.
 ---
 
 # Book Three · Chapter 8: A day with nothing in it
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Seven Hundred and Eighteen · Tuesday 21 September
 
@@ -1851,7 +1851,7 @@ Annie did not ask what for, and she does not.
 
 "You are paying for that search," said Georgij, "and it is going to be years, and I would like you to know what it bought this morning."
 
-"Say it."
+"Then tell me."
 
 "It bought me the name of a printer who has been dead since February of the year before last." He kept his hands where they were. "And it made me read my own page from December."
 
@@ -1923,7 +1923,7 @@ He asked her for the name at the door, standing, because asking it sitting down 
 
 "May I say why I am asking?"
 
-"You may ask me for anything you like in this house and you have never once done it." Mrs Sunwoo had both hands on the arms of the chair. "Ask."
+"There is nothing in this house you are not allowed to ask me, and you have never once done it." Mrs Sunwoo had both hands on the arms of the chair. "Ask."
 
 "She has had eleven years of people saying nothing to her, and I am about to bring her one more thing that has nobody's name on it."
 
@@ -2040,7 +2040,7 @@ He did not write down what any of that comes to.
 ---
 
 # Book Three · Chapter 9: Nobody counts
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Seven Hundred and Thirty-Two · Tuesday 5 October
 
@@ -2212,7 +2212,7 @@ Han Bo-ram put the two pages down square in front of her.
 
 Georgij did not take the chair.
 
-"There were seven people under thirty in that ballroom and I found all seven inside a quarter of an hour, and I found them because they were the easiest people in the building to find." He had one hand on the back of the chair he had not taken. "Nobody watches what they say in front of somebody nobody is counting. I was not being kind to you. I was doing the cheapest thing in the room."
+"There were seven people under thirty in that ballroom and I found all seven inside a quarter of an hour, and I found them because they were the easiest people in the building to find." He moved back from the desk before he said the next part. "Nobody watches what they say in front of somebody nobody is counting. I was not being kind to you. I was doing the cheapest thing in the room."
 
 She did not say anything for a while.
 
@@ -2295,7 +2295,7 @@ He looked at the third line for a while and did not change it.
 ---
 
 # Book Three · Chapter 10: Where it would go
-*Lot Fourteen* · Version 1.17 · EN
+*Lot Fourteen* · Version 1.20 · EN
 
 ## Day Seven Hundred and Forty-Two · Friday 15 October
 
@@ -2411,7 +2411,7 @@ At the door Seol Gwan-ik said the part he had not been asked for either.
 
 "I am going to tell you what this looks like from outside, and you are not going to like it, and you are going to do it anyway, because people who bring me true things for nothing always do."
 
-"Say it."
+Georgij put his coat over his arm and did not put it on.
 
 "A foreign national with no standing goes to a retired prosecutor in October." He had one hand on the doorframe and he was not leaning on it. "Then some people in offices ask some questions. Then a share price does something. Then a woman with a great deal of money buys a great deal of something. In that order, and the order is the whole of it."
 
@@ -2423,9 +2423,9 @@ At the door Seol Gwan-ik said the part he had not been asked for either.
 
 Georgij stood in the corridor of a faculty building in Seodaemun.
 
-"May I ask you one thing that is not about any of this?"
+"One more, and it is not about any of this."
 
-"You may."
+Seol Gwan-ik had come out of the doorway with him.
 
 "You were in that building in 2002."
 

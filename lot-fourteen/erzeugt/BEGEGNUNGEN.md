@@ -53,8 +53,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Moon Hae-sook | 18 | 10 (b2ch58-b3ch08) | 371 | 718 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Lee Jun | 14 | 3 (b3ch04-b3ch11) | 645 | 753 |
+| Seol Gwan-ik | 12 | 1 (b3ch10) | 742 | 742 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
-| Seol Gwan-ik | 11 | 1 (b3ch10) | 742 | 742 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
@@ -957,7 +957,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:174 | Annie looked at him for a moment. |
 | 592 | b3ch01:184 | Annie picked the pen back up, which is what she does when a thing has been decided. |
 | 600 | b3ch02:172 | "And what did you get," said Annie. |
-| 600 | b3ch02:190 | Annie did not write anything down. |
+| 600 | b3ch02:190 | Annie went on writing. |
 | 600 | b3ch02:198 | Annie stopped writing and did not put the pen down. |
 | 628 | b3ch03:288 | Annie did not interrupt any of it, and she does not. |
 | 628 | b3ch03:300 | "Then say what he is," said Annie. |
@@ -3999,7 +3999,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 718 | b3ch08:122 | "That is her wording and not yours," said Mrs Sunwoo. |
 | 718 | b3ch08:138 | Mrs Sunwoo looked at him for a long moment. |
 | 718 | b3ch08:152 | "Then that is a second thing you have not said to her." Mrs Sunwoo did not make anything.. |
-| 718 | b3ch08:168 | "You may ask me for anything you like in this house and you have never once done it." Mr.. |
+| 718 | b3ch08:168 | "There is nothing in this house you are not allowed to ask me, and you have never once d.. |
 | 718 | b3ch08:174 | Mrs Sunwoo was quiet for a while, and it was not the quiet of a woman deciding. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
@@ -5388,6 +5388,35 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Seol Gwan-ik
+
+12 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 742 | b3ch10:6 | Seol Gwan-ik left the service in 2011 and has kept one room since. |
+| 742 | b3ch10:28 | "You are the one who was at the forty-ninth day," said Seol Gwan-ik. |
+| 742 | b3ch10:48 | Seol Gwan-ik sat back. |
+| 742 | b3ch10:74 | Seol Gwan-ik did not write anything down. |
+| 742 | b3ch10:98 | "Customs, ports and the terminal go to a section that does not exist as a section," said.. |
+| 742 | b3ch10:108 | "And the eleventh of March goes nowhere." Seol Gwan-ik put his cup down. "It is a man te.. |
+| 742 | b3ch10:114 | "Then say the thing you actually came about," said Seol Gwan-ik. |
+| 742 | b3ch10:126 | "That is not a favour," said Seol Gwan-ik. "That is a lecture, and I give one of those a.. |
+| 742 | b3ch10:144 | At the door Seol Gwan-ik said the part he had not been asked for either. |
+| 742 | b3ch10:170 | Seol Gwan-ik had come out of the doorway with him. |
+| 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
+| 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
+
+### Zahlen in der Naehe von Seol Gwan-ik
+
+- `b3ch10:6` (Tag 742) - one
+- `b3ch10:28` (Tag 742) - forty, one
+- `b3ch10:98` (Tag 742) - four, one, three
+- `b3ch10:126` (Tag 742) - one
+- `b3ch10:184` (Tag 742) - four, one
+
+---
+
 ## Mr Pyo
 
 11 Nennungen in 8 Kapiteln.
@@ -5416,34 +5445,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
 - `b2ch02:10` (Tag 152) - two
-
----
-
-## Seol Gwan-ik
-
-11 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 742 | b3ch10:6 | Seol Gwan-ik left the service in 2011 and has kept one room since. |
-| 742 | b3ch10:28 | "You are the one who was at the forty-ninth day," said Seol Gwan-ik. |
-| 742 | b3ch10:48 | Seol Gwan-ik sat back. |
-| 742 | b3ch10:74 | Seol Gwan-ik did not write anything down. |
-| 742 | b3ch10:98 | "Customs, ports and the terminal go to a section that does not exist as a section," said.. |
-| 742 | b3ch10:108 | "And the eleventh of March goes nowhere." Seol Gwan-ik put his cup down. "It is a man te.. |
-| 742 | b3ch10:114 | "Then say the thing you actually came about," said Seol Gwan-ik. |
-| 742 | b3ch10:126 | "That is not a favour," said Seol Gwan-ik. "That is a lecture, and I give one of those a.. |
-| 742 | b3ch10:144 | At the door Seol Gwan-ik said the part he had not been asked for either. |
-| 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
-| 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
-
-### Zahlen in der Naehe von Seol Gwan-ik
-
-- `b3ch10:6` (Tag 742) - one
-- `b3ch10:28` (Tag 742) - forty, one
-- `b3ch10:98` (Tag 742) - four, one, three
-- `b3ch10:126` (Tag 742) - one
-- `b3ch10:184` (Tag 742) - four, one
 
 ---
 
