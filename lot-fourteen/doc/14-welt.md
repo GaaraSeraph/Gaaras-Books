@@ -251,6 +251,13 @@ Schlussfront. Band 6 braucht groessere Gegner: alte Haeuser,
 Regulierungsdruck, Banken, Versicherer, internationale Zulassungen und die
 Frage, ob Annies neues Haus zu viel Macht in zu wenigen Haenden haelt.
 
+**Band 6 meint damit nicht Chaebol gegen Annie.** Annie ist Chaebol. Gemeint
+ist die Verkehrsordnung zwischen alten Haeusern: Man nimmt einander Stuecke,
+aber man laesst ein Haus stehen und ruft den Staat nicht so tief hinein, dass
+die Methoden aller sichtbar werden. Annie und Georgij brechen diese Regel von
+innen, indem Hanseong nicht nur verliert, sondern entkernt und neu
+zusammengesetzt wird.
+
 **Was ein Vetorecht über Routen praktisch bedeutet:** Es ist kein Papier über Eigentum. Es entscheidet, welcher Container auf welche Abfahrt geht, wenn eine Abfahrt voll ist, und auf diesen Lanes ist neun Monate im Jahr alles voll.
 
 Sie muss niemanden aussperren und nie erklären, warum jemand zu spät kommt. Sie ist einfach die Gruppe, deren Ladung schon verladen ist. Zwei Wochen Verzug sind in diesem Gewerbe ein gebrochener Vertrag und ein kalter Reaktor.

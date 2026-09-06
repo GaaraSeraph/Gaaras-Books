@@ -1,0 +1,324 @@
+# Chapter 8: A day with nothing in it
+*Lot Fourteen* · Version 1.9 · EN
+
+## Day Seven Hundred and Eighteen · Tuesday 21 September
+
+Mr Hwang's page came by post on the Monday and there is a fifth name on it.
+
+---
+
+He found the man by reading six years of a trade sheet that four hundred people take, and what he found was a death notice.
+
+That is five out of fifty-eight in six months, and three of the five are dead.
+
+* * *
+
+To write the fifth name Georgij opened the current book. Then he got last winter's book out of the drawer, because that is where the list starts.
+
+---
+
+The page is the seventeenth of December and it runs to four sides. He had gone to Mrs Sunwoo that morning to ask her for a favour, and he came away with the only account of that wedding that anybody has.
+
+The family. The mother, who is dead. The hall, the month, the number of tables. Four people asked in the first month and four subjects changed.
+
+And above all of it, in his own hand, four words, because she said them before she said anything else.
+
+*I was invited to that.*
+
+---
+
+That page has been open on his desk more often than any other in the four books, and every time it was a page about a wedding.
+
+It is also a page about somebody who was invited to one.
+
+* * *
+
+On the eighteenth of January he drove to Mapo and said the sentence to a woman who had done the flowers.
+
+---
+
+*She wanted you told that she asked what became of you, and that she asked in November.*
+
+He has said it once in eight months.
+
+He had it in his hand on the seventeenth of December and he used it on the second one he found and not on the first, because that morning he was not looking for the sixty-two. He was looking for somebody who knew about them.
+
+---
+
+That is the whole of the mistake and it does not get better for being small.
+
+* * *
+
+Annie was at the desk at half past eight and he did not sit down.
+
+---
+
+"I need a day with nothing in it."
+
+"When."
+
+"Today."
+
+---
+
+Annie did not ask what for, and she does not.
+
+"Then you have one." She turned a page over and did not look at what was under it. "Mr Chae wanted forty minutes and he can want them on Thursday."
+
+"Thank you."
+
+---
+
+"You are paying for that search," said Georgij, "and it is going to be years, and I would like you to know what it bought this morning."
+
+"Say it."
+
+"It bought me the name of a printer who has been dead since February of the year before last." He kept his hands where they were. "And it made me read my own page from December."
+
+* * *
+
+She stood up when he came into the room and made the same slow business of it that she has made since March.
+
+---
+
+"Twenty weeks," said Mrs Sunwoo.
+
+"Yes."
+
+"Twenty weeks and five days, and I counted the first six and then stopped, which I have told you I do." She sat down again. "You have come about the folder."
+
+"No."
+
+---
+
+Mrs Sunwoo put one hand flat on the arm of the chair.
+
+"Then sit down and say it in the order you built it, because you do that, and I have got used to it and I would not thank you for changing now."
+
+* * *
+
+Georgij sat down on the near side of the low table.
+
+---
+
+"On the seventeenth of December you told me that you were invited to that wedding," he said. "You said it before you said anything else and I wrote it down before I wrote anything else."
+
+"I remember what I said."
+
+"She asked me in November, three weeks before that, to tell anybody I found that she had asked, and that she had asked in November." He did not soften any of it. "You were the first one I found. I have told one person and it was not you, and it was a month later, and I have had the sentence the whole time."
+
+---
+
+Mrs Sunwoo did not move at all.
+
+"Say the sentence."
+
+"She wanted you told that she asked what became of you, and that she asked in November."
+
+---
+
+The room did what a room does at eleven in the morning.
+
+"That is her wording and not yours," said Mrs Sunwoo.
+
+"It is hers. That was the whole of what she wanted."
+
+---
+
+"Nine months and four days." She said it the way she says a duration, which is first and then flat. "I am eighty-two and I would like it on the record that I know what nine months is."
+
+"Yes."
+
+"You are not going to tell me why it took that long."
+
+"I am going to tell you exactly why. On the seventeenth of December I put you down as a person who knew about the sixty-two." Georgij did not look away. "It did not occur to me for nine months that you were one of them, and you had said so in the first minute, and it is written down in my hand."
+
+---
+
+Mrs Sunwoo looked at him for a long moment.
+
+"That is the worst version of it," she said, "and you have given me that one on purpose, and I am going to take it."
+
+---
+
+Then she asked the thing he had not built an answer for, which is what happens in that chair.
+
+"Does she know what you are spending on it."
+
+---
+
+"No."
+
+"Then that is a second thing you have not said to her." Mrs Sunwoo did not make anything of it. "I am not telling you to say it. I am telling you that I noticed."
+
+* * *
+
+He asked her for the name at the door, standing, because asking it sitting down would have made it a negotiation.
+
+---
+
+"You told me in April to say that somebody bought something to wear," said Georgij. "I am going to her this afternoon. I would like to say who."
+
+"No."
+
+"May I say why I am asking?"
+
+---
+
+"You may ask me for anything you like in this house and you have never once done it." Mrs Sunwoo had both hands on the arms of the chair. "Ask."
+
+"She has had eleven years of people saying nothing to her, and I am about to bring her one more thing that has nobody's name on it."
+
+---
+
+Mrs Sunwoo was quiet for a while, and it was not the quiet of a woman deciding.
+
+"That is a good reason and it is not good enough." She did not raise her voice anywhere in it. "I asked four people, and every one of them changed the subject, and then I stopped. I have carried the stopping for eleven years and it is mine. If you give her my name she gets the four and the stopping with it, and she will have that inside a week, because she is not a stupid woman and she has had a great deal of time."
+
+---
+
+"Yes."
+
+"You would rather have brought her a person." She put the flat voice back where it had been. "Take her the sentence."
+
+* * *
+
+The room at the back on the ground floor has a door onto the kitchen garden and the door was open, because it was that sort of afternoon and because of the stairs.
+
+---
+
+Moon Hae-sook was in the chair with her feet on a stool and a rug she had not pulled up.
+
+There is a wall at the end of the kitchen garden, and a man from the firm that does the garden was cutting something back along it, and he had been at it since the morning.
+
+Georgij stood where she could see him without turning her head.
+
+* * *
+
+"There is a thing I owe you and I am late with it," he said.
+
+---
+
+"Sit down, then."
+
+"Not for this part."
+
+---
+
+She turned her hand over in her lap, which is what she does instead of nodding.
+
+"In April somebody told me something and asked me to pass it to you in the summer." Georgij did not decorate any of it. "The summer ended three weeks ago on Tuesday and I am telling you today, and there is no reason for that except that there was always something else going on."
+
+"There always is."
+
+"That is not an excuse and I am not offering it as one."
+
+---
+
+She did not say anything to that.
+
+* * *
+
+"Somebody who was invited to your wedding bought something to wear to it," said Georgij.
+
+---
+
+"It hung in a room for four years."
+
+---
+
+The man at the wall went on with what he was doing and the sound of it did not change.
+
+Moon Hae-sook looked at the wall and not at him, which is where she looks.
+
+---
+
+"That man has done the same six feet of it twice." Her voice does not go up anywhere and it did not go up here. "He will do them a third time before he goes, because the light has come round and he cannot see what he has already cut, and nobody has told him to start at the other end."
+
+---
+
+Then she started a second thing about the strap on the tank and stopped in the middle of it and did not start it again.
+
+* * *
+
+"Say it again," she said.
+
+---
+
+Georgij said it again in the same words, because they were not his words and he had been asked once before in this house to use somebody else's and not his own.
+
+---
+
+She was quiet for long enough that the man at the wall moved along it twice.
+
+* * *
+
+"Is she alive."
+
+---
+
+"Yes."
+
+---
+
+She put her head back against the chair, and she did it slowly, and she did not close her eyes.
+
+"Then that is the first one," she said.
+
+---
+
+Georgij did not ask what she meant, because she had stopped in the middle and she was not going to start it again.
+
+* * *
+
+"One more thing came this morning and it is not the good sort," said Georgij.
+
+---
+
+"Then that as well."
+
+"A printer in Yeongdeungpo." He gave it in the order it had reached him. "He died in February of the year before last."
+
+---
+
+Her feet had not moved off the stool.
+
+"He did the invitations," she said.
+
+---
+
+She did not say it as a correction and he did not take it as one.
+
+It is the first thing about any of the sixty-two that has come from her side of the wall.
+
+* * *
+
+He stood in the doorway of a room on the ground floor for about a minute after she had finished.
+
+---
+
+She did not ask him who it was.
+
+She did not ask what it was made of, or what colour it was, or whether it had been expensive. He had gone in with three answers ready. She had not wanted a thing described to her.
+
+---
+
+*She did not ask me to find them. She asked me to tell them that she had asked.*
+
+He wrote that on the eleventh of November last year and he has been reading it as an instruction ever since.
+
+It is also a description of what she is like, and he has had it for ten months and used the first half of it.
+
+* * *
+
+He wrote the printer's name in the book that evening and put the date on it.
+
+---
+
+Fifty-three left, and a woman of eighty-two, and a woman in a chair by a wall.
+
+Mr Hwang is fifty-five and works the list after four in the afternoon.
+
+---
+
+He did not write down what any of that comes to.

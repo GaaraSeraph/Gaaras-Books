@@ -18,10 +18,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 901 | 102 (b1ch01-b3ch07) | 1 | 707 |
+| Annie | 903 | 103 (b1ch01-b3ch08) | 1 | 718 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
-| Mr Hwang | 172 | 26 (b2ch07-b3ch06) | 166 | 686 |
+| Mr Hwang | 174 | 27 (b2ch07-b3ch08) | 166 | 718 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
 | Mrs Seo | 151 | 53 (b1ch03-b3ch04) | 1 | 645 |
@@ -30,8 +30,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
 | Baek Jun-ho | 91 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
+| Mrs Sunwoo | 69 | 19 (b1ch07-b3ch08) | 22 | 718 |
 | Mr Ahn | 62 | 9 (b2ch53-b2ch89) | 315 | 590 |
-| Mrs Sunwoo | 60 | 18 (b1ch07-b2ch88) | 22 | 578 |
 | Mr Yeo | 57 | 11 (b1ch05-b2ch89) | 6 | 590 |
 | Mr Ok | 53 | 9 (b2ch16-b2ch89) | 206 | 590 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 31 | 145 |
@@ -50,8 +50,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
 | Gong Doo-hyun | 19 | 3 (b3ch01-b3ch03) | 592 | 628 |
+| Moon Hae-sook | 18 | 10 (b2ch58-b3ch08) | 371 | 718 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
-| Moon Hae-sook | 16 | 9 (b2ch58-b2ch89) | 371 | 590 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Lee Jun | 10 | 2 (b3ch04-b3ch07) | 645 | 707 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
@@ -72,7 +72,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-901 Nennungen in 102 Kapiteln.
+903 Nennungen in 103 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -977,6 +977,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 707 | b3ch07:308 | Annie listened to the whole of it and then asked the only question that matters about an.. |
 | 707 | b3ch07:316 | Annie did not do anything with her hands at all. |
 | 707 | b3ch07:334 | Annie looked at him for a moment. |
+| 718 | b3ch08:52 | Annie was at the desk at half past eight and he did not sit down. |
+| 718 | b3ch08:64 | Annie did not ask what for, and she does not. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1227,6 +1229,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch04:348` (Tag 645) - one
 - `b3ch05:280` (Tag 672) - ten
 - `b3ch05:290` (Tag 672) - four, one, two
+- `b3ch08:52` (Tag 718) - eight
 
 ---
 
@@ -2073,7 +2076,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Hwang
 
-172 Nennungen in 26 Kapiteln.
+174 Nennungen in 27 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2249,6 +2252,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:230 | Mr Hwang squared the four pages and did not put them away. |
 | 672 | b3ch05:252 | Mr Hwang thought about it properly, which is not what a man does with that question. |
 | 686 | b3ch06:28 | Mr Hwang did not telephone about either of them. He put them in the column the way he pu.. |
+| 718 | b3ch08:6 | Mr Hwang's page came by post on the Monday and there is a fifth name on it. |
+| 718 | b3ch08:320 | Mr Hwang is fifty-five and works the list after four in the afternoon. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -2343,6 +2348,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch05:38` (Tag 672) - one
 - `b3ch05:110` (Tag 672) - three
 - `b3ch05:230` (Tag 672) - four
+- `b3ch08:320` (Tag 718) - fifty-five, four
 
 ---
 
@@ -3876,6 +3882,121 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mrs Sunwoo
+
+69 Nennungen in 19 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 159 | b2ch05:30 | "Sunwoo," said Annie. |
+| 168 | b2ch09:186 | "Sunwoo." |
+| 168 | b2ch09:188 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
+| 168 | b2ch09:252 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 172 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
+| 172 | b2ch10:68 | Mrs Sunwoo did not move. |
+| 172 | b2ch10:78 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
+| 172 | b2ch10:94 | "Forty-one years," said Mrs Sunwoo. |
+| 172 | b2ch10:108 | Mrs Sunwoo looked at the closed catalogue. |
+| 172 | b2ch10:128 | Mrs Sunwoo did not say anything for a moment. |
+| 172 | b2ch10:164 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
+| 172 | b2ch10:194 | Mrs Sunwoo picked up the bell and did not ring it. |
+| 172 | b2ch10:242 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
+| 180 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
+| 182 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
+| 202 | b2ch15:28 | One of them was Annie. One was Mrs Sunwoo. One was a woman in Daegu who had bought porce.. |
+| 209 | b2ch18:32 | Mrs Sunwoo has three more lunches in the diary for May. |
+| 209 | b2ch19:30 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
+| 215 | b2ch21:50 | "One of them was Mrs Sunwoo." |
+| 215 | b2ch21:88 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
+| 215 | b2ch21:114 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
+| 215 | b2ch21:224 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
+| 222 | b2ch22:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
+| 222 | b2ch22:32 | Mrs Sunwoo sat very still. |
+| 222 | b2ch22:58 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
+| 222 | b2ch22:78 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
+| 223 | b2ch22:92 | He told Annie in the small room, standing, in the same form he had used with Mrs Sunwoo. |
+| 223 | b2ch22:104 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
+| 236 | b2ch25:160 | Woo. Sunwoo. Choi Dae-ho. |
+| 307 | b2ch51:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
+| 313 | b2ch52:62 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
+| 440 | b2ch71:8 | "Nine months," said Mrs Sunwoo. |
+| 440 | b2ch71:26 | Mrs Sunwoo did not move at all. |
+| 440 | b2ch71:36 | "You have not come about a clause," said Mrs Sunwoo. |
+| 440 | b2ch71:50 | Mrs Sunwoo sat with that for a while. |
+| 440 | b2ch71:66 | Mrs Sunwoo picked up the bell that is on the table and did not ring it. |
+| 440 | b2ch71:82 | "Now my turn," said Mrs Sunwoo. |
+| 440 | b2ch71:110 | Mrs Sunwoo did not move. |
+| 440 | b2ch71:116 | Mrs Sunwoo went perfectly still, in the way of a person who has just heard the thing the.. |
+| 440 | b2ch71:134 | Mrs Sunwoo put one hand flat on the arm of the chair and left it there, and did not ask .. |
+| 440 | b2ch71:146 | "There was no story," said Mrs Sunwoo. |
+| 440 | b2ch71:162 | "All four, and two of them were women who have never changed a subject in their lives." .. |
+| 440 | b2ch71:202 | Mrs Sunwoo looked at him for a long moment. |
+| 440 | b2ch71:224 | "I have not said it to a living soul and I am not going to." Mrs Sunwoo put her hand fla.. |
+| 441 | b2ch72:34 | Her father's firm made fittings for ships and sold up in the nineties. Her mother was at.. |
+| 441 | b2ch72:54 | Eleven tables. Mrs Sunwoo has the number because she was asked whether she would sit at .. |
+| 441 | b2ch72:62 | They were withdrawn in the second week of March, by a card. It gave no reason and did no.. |
+| 441 | b2ch72:88 | The first was a man of her own age who has since died, and who changed the subject by lo.. |
+| 441 | b2ch72:96 | *She was at the fitting. Mrs Sunwoo has written the word fitting and then written it aga.. |
+| 441 | b2ch72:112 | Mrs Sunwoo did not know that when she wrote the pages, because the pages are nine years .. |
+| 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
+| 573 | b2ch88:14 | Mrs Sunwoo was in the same chair, and there is a folder on the low table that was not th.. |
+| 573 | b2ch88:42 | Mrs Sunwoo listened to the whole of it with her hands on the arms of the chair and did n.. |
+| 573 | b2ch88:50 | "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, .. |
+| 573 | b2ch88:68 | "I have not shown it to anybody and I am not going to show it to you." Mrs Sunwoo put bo.. |
+| 573 | b2ch88:90 | "Not before. She has had a winter." Mrs Sunwoo looked at the window. "And when you do it.. |
+| 578 | b2ch88:410 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
+| 718 | b3ch08:20 | The page is the seventeenth of December and it runs to four sides. He had gone to Mrs Su.. |
+| 718 | b3ch08:84 | "Twenty weeks," said Mrs Sunwoo. |
+| 718 | b3ch08:94 | Mrs Sunwoo put one hand flat on the arm of the chair. |
+| 718 | b3ch08:112 | Mrs Sunwoo did not move at all. |
+| 718 | b3ch08:122 | "That is her wording and not yours," said Mrs Sunwoo. |
+| 718 | b3ch08:138 | Mrs Sunwoo looked at him for a long moment. |
+| 718 | b3ch08:152 | "Then that is a second thing you have not said to her." Mrs Sunwoo did not make anything.. |
+| 718 | b3ch08:168 | "You may ask me for anything you like in this house and you have never once done it." Mr.. |
+| 718 | b3ch08:174 | Mrs Sunwoo was quiet for a while, and it was not the quiet of a woman deciding. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b2ch09:188` (Tag 168) - eighty-one, one, three
+- `b2ch10:52` (Tag 172) - eighty-one
+- `b2ch10:78` (Tag 172) - one
+- `b2ch10:94` (Tag 172) - forty-one
+- `b2ch10:164` (Tag 172) - one
+- `b2ch10:242` (Tag 172) - one
+- `b2ch15:28` (Tag 202) - one
+- `b2ch18:32` (Tag 209) - three
+- `b2ch19:30` (Tag 209) - three
+- `b2ch21:50` (Tag 215) - one
+- `b2ch21:88` (Tag 215) - four, one
+- `b2ch21:114` (Tag 215) - eleven
+- `b2ch21:224` (Tag 215) - eighty-one, one, three
+- `b2ch22:78` (Tag 222) - three
+- `b2ch22:104` (Tag 223) - four, two
+- `b2ch51:42` (Tag 307) - four, nineteen, one, thirty
+- `b2ch52:62` (Tag 313) - forty
+- `b2ch71:8` (Tag 440) - nine
+- `b2ch71:134` (Tag 440) - one
+- `b2ch71:162` (Tag 440) - forty-one, four, one, two
+- `b2ch72:34` (Tag 441) - thirty
+- `b2ch72:54` (Tag 441) - eleven, one
+- `b2ch72:62` (Tag 441) - eleven
+- `b2ch72:96` (Tag 441) - nine
+- `b2ch72:112` (Tag 441) - nine, twenty
+- `b2ch87:428` (Tag 531) - five, one, three
+- `b2ch88:50` (Tag 573) - fifty
+- `b2ch88:410` (Tag 578) - one
+- `b3ch08:20` (Tag 718) - four
+- `b3ch08:84` (Tag 718) - twenty
+- `b3ch08:94` (Tag 718) - one
+
+---
+
 ## Mr Ahn
 
 62 Nennungen in 9 Kapiteln.
@@ -3976,109 +4097,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch76:334` (Tag 463) - four
 - `b2ch76:360` (Tag 463) - eleven
 - `b2ch89:114` (Tag 590) - one
-
----
-
-## Mrs Sunwoo
-
-60 Nennungen in 18 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 159 | b2ch05:30 | "Sunwoo," said Annie. |
-| 168 | b2ch09:186 | "Sunwoo." |
-| 168 | b2ch09:188 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
-| 168 | b2ch09:252 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
-| 172 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
-| 172 | b2ch10:68 | Mrs Sunwoo did not move. |
-| 172 | b2ch10:78 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
-| 172 | b2ch10:94 | "Forty-one years," said Mrs Sunwoo. |
-| 172 | b2ch10:108 | Mrs Sunwoo looked at the closed catalogue. |
-| 172 | b2ch10:128 | Mrs Sunwoo did not say anything for a moment. |
-| 172 | b2ch10:164 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
-| 172 | b2ch10:194 | Mrs Sunwoo picked up the bell and did not ring it. |
-| 172 | b2ch10:242 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
-| 180 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
-| 182 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
-| 202 | b2ch15:28 | One of them was Annie. One was Mrs Sunwoo. One was a woman in Daegu who had bought porce.. |
-| 209 | b2ch18:32 | Mrs Sunwoo has three more lunches in the diary for May. |
-| 209 | b2ch19:30 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
-| 215 | b2ch21:50 | "One of them was Mrs Sunwoo." |
-| 215 | b2ch21:88 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
-| 215 | b2ch21:114 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
-| 215 | b2ch21:224 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
-| 222 | b2ch22:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
-| 222 | b2ch22:32 | Mrs Sunwoo sat very still. |
-| 222 | b2ch22:58 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
-| 222 | b2ch22:78 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
-| 223 | b2ch22:92 | He told Annie in the small room, standing, in the same form he had used with Mrs Sunwoo. |
-| 223 | b2ch22:104 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
-| 236 | b2ch25:160 | Woo. Sunwoo. Choi Dae-ho. |
-| 307 | b2ch51:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
-| 313 | b2ch52:62 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
-| 440 | b2ch71:8 | "Nine months," said Mrs Sunwoo. |
-| 440 | b2ch71:26 | Mrs Sunwoo did not move at all. |
-| 440 | b2ch71:36 | "You have not come about a clause," said Mrs Sunwoo. |
-| 440 | b2ch71:50 | Mrs Sunwoo sat with that for a while. |
-| 440 | b2ch71:66 | Mrs Sunwoo picked up the bell that is on the table and did not ring it. |
-| 440 | b2ch71:82 | "Now my turn," said Mrs Sunwoo. |
-| 440 | b2ch71:110 | Mrs Sunwoo did not move. |
-| 440 | b2ch71:116 | Mrs Sunwoo went perfectly still, in the way of a person who has just heard the thing the.. |
-| 440 | b2ch71:134 | Mrs Sunwoo put one hand flat on the arm of the chair and left it there, and did not ask .. |
-| 440 | b2ch71:146 | "There was no story," said Mrs Sunwoo. |
-| 440 | b2ch71:162 | "All four, and two of them were women who have never changed a subject in their lives." .. |
-| 440 | b2ch71:202 | Mrs Sunwoo looked at him for a long moment. |
-| 440 | b2ch71:224 | "I have not said it to a living soul and I am not going to." Mrs Sunwoo put her hand fla.. |
-| 441 | b2ch72:34 | Her father's firm made fittings for ships and sold up in the nineties. Her mother was at.. |
-| 441 | b2ch72:54 | Eleven tables. Mrs Sunwoo has the number because she was asked whether she would sit at .. |
-| 441 | b2ch72:62 | They were withdrawn in the second week of March, by a card. It gave no reason and did no.. |
-| 441 | b2ch72:88 | The first was a man of her own age who has since died, and who changed the subject by lo.. |
-| 441 | b2ch72:96 | *She was at the fitting. Mrs Sunwoo has written the word fitting and then written it aga.. |
-| 441 | b2ch72:112 | Mrs Sunwoo did not know that when she wrote the pages, because the pages are nine years .. |
-| 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
-| 573 | b2ch88:14 | Mrs Sunwoo was in the same chair, and there is a folder on the low table that was not th.. |
-| 573 | b2ch88:42 | Mrs Sunwoo listened to the whole of it with her hands on the arms of the chair and did n.. |
-| 573 | b2ch88:50 | "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, .. |
-| 573 | b2ch88:68 | "I have not shown it to anybody and I am not going to show it to you." Mrs Sunwoo put bo.. |
-| 573 | b2ch88:90 | "Not before. She has had a winter." Mrs Sunwoo looked at the window. "And when you do it.. |
-| 578 | b2ch88:410 | *Mrs Sunwoo asked me for the clever part and there was not one. Sim asked me whether he .. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-- `b2ch09:188` (Tag 168) - eighty-one, one, three
-- `b2ch10:52` (Tag 172) - eighty-one
-- `b2ch10:78` (Tag 172) - one
-- `b2ch10:94` (Tag 172) - forty-one
-- `b2ch10:164` (Tag 172) - one
-- `b2ch10:242` (Tag 172) - one
-- `b2ch15:28` (Tag 202) - one
-- `b2ch18:32` (Tag 209) - three
-- `b2ch19:30` (Tag 209) - three
-- `b2ch21:50` (Tag 215) - one
-- `b2ch21:88` (Tag 215) - four, one
-- `b2ch21:114` (Tag 215) - eleven
-- `b2ch21:224` (Tag 215) - eighty-one, one, three
-- `b2ch22:78` (Tag 222) - three
-- `b2ch22:104` (Tag 223) - four, two
-- `b2ch51:42` (Tag 307) - four, nineteen, one, thirty
-- `b2ch52:62` (Tag 313) - forty
-- `b2ch71:8` (Tag 440) - nine
-- `b2ch71:134` (Tag 440) - one
-- `b2ch71:162` (Tag 440) - forty-one, four, one, two
-- `b2ch72:34` (Tag 441) - thirty
-- `b2ch72:54` (Tag 441) - eleven, one
-- `b2ch72:62` (Tag 441) - eleven
-- `b2ch72:96` (Tag 441) - nine
-- `b2ch72:112` (Tag 441) - nine, twenty
-- `b2ch87:428` (Tag 531) - five, one, three
-- `b2ch88:50` (Tag 573) - fifty
-- `b2ch88:410` (Tag 578) - one
 
 ---
 
@@ -5215,6 +5233,46 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Moon Hae-sook
+
+18 Nennungen in 10 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 371 | b2ch58:222 | "Moon Hae-sook." |
+| 371 | b2ch58:224 | "Moon Hae-sook. Say it in one sentence and use the word." |
+| 377 | b2ch59:226 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
+| 382 | b2ch60:88 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
+| 390 | b2ch63:174 | *The hole is that somebody who has every reason to talk has known everything about Moon .. |
+| 404 | b2ch67:74 | Nobody has told Moon Hae-sook that they are there. |
+| 404 | b2ch67:86 | Moon Hae-sook is fifty-two. |
+| 404 | b2ch67:162 | Nobody told Moon Hae-sook that it had been done. She noticed on the Sunday and did not s.. |
+| 409 | b2ch67:218 | Moon Hae-sook looked at the wall of the kitchen garden. |
+| 409 | b2ch67:238 | "There is one thing I want and it is not a name," said Moon Hae-sook. |
+| 441 | b2ch72:30 | Moon Hae-sook. |
+| 451 | b2ch74:44 | Moon Hae-sook coming up an outside staircase on her own on the Monday to apologise to a .. |
+| 451 | b2ch74:220 | "You did not do it to her." He did not soften it. "You went to four people and you were .. |
+| 473 | b2ch80:214 | He told her about Moon Hae-sook for about forty minutes. |
+| 590 | b2ch89:88 | Moon Hae-sook has the room at the back on the ground floor because of the stairs, and th.. |
+| 590 | b2ch89:144 | Moon Hae-sook asked in November what became of sixty-two people, and she also asked that.. |
+| 718 | b3ch08:190 | Moon Hae-sook was in the chair with her feet on a stool and a rug she had not pulled up. |
+| 718 | b3ch08:232 | Moon Hae-sook looked at the wall and not at him, which is where she looks. |
+
+### Zahlen in der Naehe von Moon Hae-sook
+
+- `b2ch58:224` (Tag 371) - one
+- `b2ch59:226` (Tag 377) - eleven, four
+- `b2ch60:88` (Tag 382) - eleven, three
+- `b2ch63:174` (Tag 390) - three
+- `b2ch67:86` (Tag 404) - fifty-two
+- `b2ch67:238` (Tag 409) - one
+- `b2ch74:220` (Tag 451) - eleven, four, one
+- `b2ch80:214` (Tag 473) - forty
+- `b2ch89:88` (Tag 590) - four
+- `b2ch89:144` (Tag 590) - one, sixty-two, two
+
+---
+
 ## Shin
 
 18 Nennungen in 1 Kapiteln.
@@ -5250,44 +5308,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch02:84` (Tag 152) - eight, one, six, two
 - `b2ch02:152` (Tag 152) - eight, five, one, two
 - `b2ch02:156` (Tag 152) - four, one, three
-
----
-
-## Moon Hae-sook
-
-16 Nennungen in 9 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 371 | b2ch58:222 | "Moon Hae-sook." |
-| 371 | b2ch58:224 | "Moon Hae-sook. Say it in one sentence and use the word." |
-| 377 | b2ch59:226 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
-| 382 | b2ch60:88 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
-| 390 | b2ch63:174 | *The hole is that somebody who has every reason to talk has known everything about Moon .. |
-| 404 | b2ch67:74 | Nobody has told Moon Hae-sook that they are there. |
-| 404 | b2ch67:86 | Moon Hae-sook is fifty-two. |
-| 404 | b2ch67:162 | Nobody told Moon Hae-sook that it had been done. She noticed on the Sunday and did not s.. |
-| 409 | b2ch67:218 | Moon Hae-sook looked at the wall of the kitchen garden. |
-| 409 | b2ch67:238 | "There is one thing I want and it is not a name," said Moon Hae-sook. |
-| 441 | b2ch72:30 | Moon Hae-sook. |
-| 451 | b2ch74:44 | Moon Hae-sook coming up an outside staircase on her own on the Monday to apologise to a .. |
-| 451 | b2ch74:220 | "You did not do it to her." He did not soften it. "You went to four people and you were .. |
-| 473 | b2ch80:214 | He told her about Moon Hae-sook for about forty minutes. |
-| 590 | b2ch89:88 | Moon Hae-sook has the room at the back on the ground floor because of the stairs, and th.. |
-| 590 | b2ch89:144 | Moon Hae-sook asked in November what became of sixty-two people, and she also asked that.. |
-
-### Zahlen in der Naehe von Moon Hae-sook
-
-- `b2ch58:224` (Tag 371) - one
-- `b2ch59:226` (Tag 377) - eleven, four
-- `b2ch60:88` (Tag 382) - eleven, three
-- `b2ch63:174` (Tag 390) - three
-- `b2ch67:86` (Tag 404) - fifty-two
-- `b2ch67:238` (Tag 409) - one
-- `b2ch74:220` (Tag 451) - eleven, four, one
-- `b2ch80:214` (Tag 473) - forty
-- `b2ch89:88` (Tag 590) - four
-- `b2ch89:144` (Tag 590) - one, sixty-two, two
 
 ---
 

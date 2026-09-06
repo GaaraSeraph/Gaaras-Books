@@ -110,6 +110,29 @@ profitablen Einheiten wanderten, die Unterwelt wurde geordnet, und nach der
 Hochzeit gibt es ein Kind. Das ist nicht mehr Affaere, Begleiter oder
 ungewoehnlicher Ehemann. Das ist eine neue Dynastie.
 
+### Die Chaebol-Verkehrsordnung
+
+**Das ist nicht Chaebol gegen Annie. Annie ist Chaebol.** Genau deshalb traegt
+der Konflikt. Die ungeschriebene Ordnung zwischen grossen Haeusern lautet:
+Man konkurriert hart, nimmt Maerkte, Leute, Auftraege, Banken, Ministerien,
+Toechter, Schwaegersoehne und Routen weg; man demuetigt ein Haus auch. Aber
+man zerstoert ein altes Haus nicht vollstaendig, laesst ihm Name, Fassade,
+Restbesitz oder Rueckkehrmoeglichkeit und ruft den Staat nicht so tief hinein,
+dass die Methoden aller sichtbar werden.
+
+**Das ist keine Moral, sondern Standesselbstschutz.** Jedes alte Haus lebt von
+dem Glauben, dass eine Niederlage nicht automatisch Ausloeschung bedeutet.
+Wenn Annie und Georgij Hanseong bis auf den Namen entkernen und dabei Wahrheit,
+Staatsanwaltschaft, Boerse, Banken, Shipping, Motors, Electronics, Singapur und
+Unterweltkanaele sauber ineinandergreifen lassen, ist das nicht nur ein Sieg.
+Es ist ein Praezedenzfall.
+
+**Annie bricht die Regel von innen.** Eine Aussenseiterin koennte man als
+Skandal, Kriminelle oder voruebergehende Gefahr behandeln. Annie kann man das
+nicht so leicht anhaengen, weil sie selbst ein Haus fuehrt. Darum ist Georgij
+der Angriffspunkt: Er ist die Methode, die in Annies Haus sitzt, aber nicht aus
+der alten Verkehrsordnung stammt.
+
 **Warum sie erst jetzt angreifen:** Vor der Geburt konnte man Georgij noch als
 Ausnahme lesen: Annies Mann, Annies Werkzeug, Annies merkwuerdiger Schatten.
 Nach der Geburt ist er Vater des Erben und fuehrt tatsaechlich Raeume. Damit

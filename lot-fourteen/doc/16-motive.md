@@ -716,6 +716,8 @@ Mengenangabe.**
 251. **GEORGIJ DARF NICHT DROHEN:** Drohung wuerde die gegnerische Lesart bestaetigen. Die Antwort muss aus Form bestehen: Chae fuer Ehe/Vollmacht/Haftung, Hwang fuer Reihen, Yoon fuer Compliance/Ringfences, Jang fuer koerperliche Sicherheit, Dokkaebi-Funktionstische fuer getrennte Unterweltordnung, Jun/Werkleute fuer Sanierung ohne Daueranwesenheit.
 252. **GEORGIJS MITTELFEHLER:** Er versucht zuerst, zu viele Raeume selbst zu halten, weil Annie geboren hat und weil er das Kind nicht von ihr wegorganisieren will. Annie stoppt ihn. Schutz darf nicht heissen, dass er ihre Macht als seine Last verwaltet.
 253. **BAND-6-LOESUNG IST TAKTUNG:** Manchmal geht Georgij, manchmal Annie, manchmal beide, manchmal keiner von beiden, weil das Kind Vorrang hat und die Struktur den Raum halten muss. Das ist die erwachsene Form von "present when I need you, absent when I don't."
+254. **CHAEBOL-VERKEHRSORDNUNG:** Nicht Chaebol gegen Annie. Annie ist Chaebol. Der Konflikt entsteht, weil sie die alte Regel von innen bricht: Haeuser duerfen einander Maerkte, Leute, Banken, Routen und Ehre nehmen, aber sie lassen ein altes Haus stehen und rufen den Staat nicht so tief hinein, dass die Methoden aller sichtbar werden.
+255. **GEORGIJ IST DER ANGRIFFSPUNKT DER ALTEN HAEUSER:** Eine Aussenseiterin koennte man als Skandal behandeln; Annie nicht, weil sie selbst ein Haus fuehrt. Georgij ist die Methode in Annies Haus, die nicht aus der alten Verkehrsordnung stammt: Wahrheit, Beweis, Boerse, Staat, Unterweltordnung und keine automatische Schonung alter Namen.
 
 ---
 

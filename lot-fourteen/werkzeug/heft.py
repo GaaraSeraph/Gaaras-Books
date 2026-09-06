@@ -50,6 +50,17 @@ HOLEN = re.compile(
     # Formulierungen findet, misst den Autor und nicht das Buch.
     r'|\bopen(ed)? (the |that |his )?(note)?book\b(?!.{0,20}\b(and wrote|to write)\b)'
     r'|\bat the January pages\b'
+    # Am 06.09. ergaenzt. Das Muster kannte nur "got out the book".
+    # Englisch stellt die Partikel bei bestimmtem Objekt hinter das
+    # Objekt: "got the book out", "took the notebook down". b3 ch08 ist
+    # so geschrieben, und das Werkzeug meldete fuer ein Kapitel, das auf
+    # einer Entnahme steht, null Entnahmen.
+    r'|\b(got|took|pulled) (the|his|that|an|last)[^.]{0,24}?(note)?books? (out|down)\b'
+    # Der Waechter wie am opened-Zweig: das Heft herausholen ist erst
+    # dann eine Entnahme, wenn danach gelesen wird. Ohne ihn zaehlte
+    # der Zweig b1 ch26 und b2 ch26 mit, wo geschrieben wird, und
+    # b2 ch22 und b2 ch57, wo das Heft ausdruecklich zubleibt.
+    r'(?!.{0,40}\b(and wrote|to write|and did not open|and she did not|did not open it)\b)'
     # Am 30.08. ergaenzt, weil b3 ch01 eine Entnahme enthaelt, die keines
     # der bisherigen Muster gesehen hat: er holt ein altes Heft und
     # schlaegt eine datierte Seite auf. Ein Detektor, der nur die
