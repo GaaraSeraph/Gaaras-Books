@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 368.389 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 368.398 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**131 Kapitel, 347.880 Woerter.**
+**131 Kapitel, 347.883 Woerter.**
 
 ---
 
@@ -33954,7 +33954,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 531 | b2ch87:222 | "Do not say anything," said Sang-hoon. "I have had ten months of you not saying things a.. |
 | 531 | b2ch87:428 | "Five people know what you did," said Georgij. "Sang-hoon. Chairman Woo. Mr Yeom. Hana. .. |
 | 590 | b2ch89:26 | Park Sang-hoon has heard nothing in the trade, and he has asked in three places and he d.. |
-| 592 | b3ch01:60 | He wrote that in a garden in Hannam-dong with a glass in his other hand, because Park Sa.. |
+| 592 | b3ch01:60 | Park Sang-hoon had said it in that order and at that speed, in a shed with a hundred and.. |
 | 592 | b3ch01:110 | Georgij did not telephone Park Sang-hoon. |
 | 592 | b3ch01:112 | Sang-hoon asked in three places in April and heard nothing back, and he does not usually.. |
 | 628 | b3ch03:16 | He did not ask Park Sang-hoon and he did not ask Chairman Woo. |
@@ -34099,6 +34099,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:222` (Tag 531) - ten
 - `b2ch87:428` (Tag 531) - five, one, three
 - `b2ch89:26` (Tag 590) - three
+- `b3ch01:60` (Tag 592) - hundred and forty
 - `b3ch01:112` (Tag 592) - one, three, two
 
 ---

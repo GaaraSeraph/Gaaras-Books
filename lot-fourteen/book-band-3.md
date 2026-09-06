@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.698 Woerter.
+Book Three, 7 Kapitel, 14.701 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,18 +11,18 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.10 | 2.089 |
+| 01 | v1.11 | 2.092 |
 | 02 | v1.21 | 2.120 |
 | 03 | v1.15 | 2.017 |
 | 04 | v1.20 | 2.012 |
 | 05 | v1.15 | 2.069 |
-| 06 | v1.14 | 2.155 |
+| 06 | v1.15 | 2.155 |
 | 07 | v1.13 | 2.236 |
 
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
@@ -80,7 +80,7 @@ He found the page for the twenty-seventh of May last year in under a minute, bec
 
 *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.*
 
-He wrote that in a garden in Hannam-dong with a glass in his other hand, because Park Sang-hoon had said it in that order and at that speed.
+Park Sang-hoon had said it in that order and at that speed, in a shed with a hundred and forty people in it, and Georgij wrote it down the same evening.
 
 He has been back to that page a great many times since.
 
@@ -1245,7 +1245,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1359,7 +1359,7 @@ Georgij sat with that for a while, and it is not because it was hard.
 
 He knows that instrument better than the man using it, and he knows it because he used it first.
 
-In March of the first year he read an insurer's line about carrier concentration and gave it to a woman in Ulsan with four lorries.
+In March of the first year he read an insurer's line about carrier concentration and gave it to a woman in Ulsan with four trucks.
 
 It took four minutes and a folded page, and she had spent five weeks believing it was her own fault.
 
