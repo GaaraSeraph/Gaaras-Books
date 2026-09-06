@@ -5231,8 +5231,10 @@ kennt den Namen, und die Arbeit des Kapitels ist deshalb nicht *wer ist das*,
 sondern **was war dieser Mann fuer Choi**.
 
 **Und die halbe Antwort stand seit zwei Jahren in Georgijs eigenem Heft.**
-`b2 ch25:152`, Sang-hoon im Garten in Hannam-dong: *Former prosecutor, out
-early and nobody says why.* Georgij hat die Seite oft gelesen und **nie
+`b2 ch25:152`, Sang-hoon bei einem Stapellauf, vier Stunden in einer Halle
+mit hundertvierzig Leuten: *Former prosecutor, out early and nobody says
+why.* **Am 06.09. berichtigt: hier stand ein Garten in Hannam-dong, den es
+im Kanon nicht gibt, und `b3 ch01` hatte ihn uebernommen.** Georgij hat die Seite oft gelesen und **nie
 wegen dieser Zeile**. Der Satz des Kapitels ist:
 
 > There is a man who says why.
@@ -5251,19 +5253,23 @@ eine spaetere Entnahme.** Sie wird im Saal eingeloest und nicht spaeter.
 **Was das Kapitel sonst festlegt:**
 
 * **Mrs Seo kommt zum zweiten Mal in zehn Jahren nach oben**, und das erste
-  Mal war `b2 ch23`, wegen Yeoms Anruf: **Dienstag, der 19. Mai**, nicht der
-  Freitag, an dem Georgij das Register bestellt hatte. `b3 ch01:16` zieht den
-  Freitag derzeit faelschlich auf Mrs Seos Gang nach oben; der offene Befund
-  steht unten. Sie misst und fragt nicht, wie immer, und ihr letzter Satz ist
+  Mal war `b2 ch23`, wegen Yeoms Anruf. **Am 06.09. berichtigt: hier stand
+  Dienstag der 19. Mai.** `b2 ch23` traegt die Datumszeile *Day Two Hundred
+  and Twenty-Four, Friday 15 May*, und die Szene steht *at twenty to three on
+  the Tuesday afternoon*; der Dienstag davor ist der **12. Mai**, und der 19.
+  laege hinter der Datumszeile des Kapitels. `b3 ch01:16` sagt heute *on a
+  Tuesday in May of the year before* und zieht keinen Freitag mehr darauf.
+  Sie misst und fragt nicht, wie immer, und ihr letzter Satz ist
   der schlimmste: *he was not looking at the house the way a man looks at a
   house he has not seen before.*
 * **Baek Jun-ho hat die Antwort seit dem 20. April in der eigenen Handschrift
   und hat sie nicht gesehen.** Er hat nicht gefragt, wer der Kanzlei den Tod
   gemeldet hat. *"I had every reason and I did not have the wit."* Seine vier
   Schreiben laufen vom alten Schreiben ueber den 8. Februar und den Maerz bis
-  zum 2. April; deshalb kann sich **the last ... that letter** nicht auf etwas
-  beziehen, ueber das er schon seit Februar zufrieden war. Auch dieser
-  Zeitbezug steht unten offen.
+  zum 2. April. **Am 06.09. geprueft und erledigt:** der Text trennt beides,
+  *the last came back marked in a clerk’s hand* ist das Schreiben vom
+  2. April, *pleased with myself for writing to him since February* der Brief
+  vom 8. Februar, und `b3 ch01:194` datiert diesen Brief selbst.
 * **Sang-hoon wird nicht angerufen**, und der Text sagt warum: er hat im April
   in drei Haeusern gefragt und nichts gehoert, ein zweiter Anlauf wuerde ihm
   sagen, dass etwas angekommen ist.
@@ -5316,8 +5322,10 @@ das Trauerbuch (`b2 ch04:44`) und am 4. Mai in Hwangs Besucherbuch
 Wochen**, dass er seinen Namen in ein Buch an einer Tuer schrieb. Nicht zu
 unterschreiben waere im Tempel trotzdem das Einzige gewesen, was jemand von
 dem Vormittag behalten haette. **Die Szene traegt als erneute bewusste Spur,
-nicht als erste eigene Handschrift.** `b3 ch01:72` und `b3 ch02:32` muessen
-darauf zurueckgestellt werden; der offene Befund steht unten.
+nicht als erste eigene Handschrift.** **Am 06.09. geprueft und erledigt:**
+`b3 ch02` sagt *there are papers in the Republic of Korea with his name on
+them, and there are books at doors in his own hand*, und `b3 ch01` behauptet
+keine erste eigene Handschrift mehr.
 
 **Das Bild vorn ist im geschriebenen Kapitel der Fuenfunddreissigjaehrige.**
 Jemand hatte dort fuenfundzwanzig Jahre Fotografien zur Auswahl und ist an
