@@ -12,8 +12,11 @@ import io, os, re, sys, glob
 NAME = re.compile(r'ch(\d+)_v(\d+)_(\d+)_en\.md$')
 
 def kapitel():
+    # --band N waehlt das Verzeichnis. Vorgabe 2, wie bisher.
+    _d = {'1': 'chapters', '2': 'chapters-2', '3': 'chapters-3'}[
+        sys.argv[sys.argv.index('--band') + 1] if '--band' in sys.argv else '2']
     best = {}
-    for p in glob.glob('chapters-2/ch*_en.md'):
+    for p in glob.glob(_d + '/ch*_en.md'):
         m = NAME.search(os.path.basename(p))
         k = int(m.group(1)); v = (int(m.group(2)), int(m.group(3)))
         if k not in best or v > best[k][0]: best[k] = (v, p)
@@ -41,5 +44,11 @@ def geruest(n, p):
 
 if __name__ == '__main__':
     kap = kapitel()
-    for a in sys.argv[1:]:
+    _roh = sys.argv[1:]
+    if '--band' in _roh:
+        _i = _roh.index('--band')
+        _roh = _roh[:_i] + _roh[_i + 2:]
+    if '--alle' in _roh:
+        _roh = [str(k) for k in sorted(kap)]
+    for a in _roh:
         geruest(int(a), kap[int(a)])

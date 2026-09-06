@@ -106,8 +106,20 @@ def pruefe(n, pfad):
     print()
 
 
+def _ordner():
+    """--band N waehlt das Verzeichnis. Vorgabe 2, wie bisher."""
+    if '--band' in sys.argv:
+        n = sys.argv[sys.argv.index('--band') + 1]
+        return {'1': 'chapters', '2': 'chapters-2', '3': 'chapters-3'}[n]
+    return 'chapters-2'
+
+
 if __name__ == '__main__':
-    kap = kapitel('chapters-2')
-    ziel = sorted(kap) if '--alle' in sys.argv else [int(a) for a in sys.argv[1:] if a.isdigit()]
+    kap = kapitel(_ordner())
+    _roh = sys.argv[1:]
+    if '--band' in _roh:
+        _i = _roh.index('--band')
+        _roh = _roh[:_i] + _roh[_i + 2:]
+    ziel = sorted(kap) if '--alle' in sys.argv else [int(a) for a in _roh if a.isdigit()]
     for n in ziel:
         pruefe(n, kap[n])

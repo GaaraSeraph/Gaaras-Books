@@ -102,13 +102,24 @@ def zeile(n, pfad):
             s.replace('\n', ' ')[:96])
 
 
+def _ordner():
+    """--band N waehlt das Verzeichnis. Vorgabe 2, wie bisher."""
+    if '--band' in sys.argv:
+        n = sys.argv[sys.argv.index('--band') + 1]
+        return {'1': 'chapters', '2': 'chapters-2', '3': 'chapters-3'}[n]
+    return 'chapters-2'
+
+
 if __name__ == '__main__':
-    kap = kapitel('chapters-2')
+    kap = kapitel(_ordner())
     zeilen = [z for z in (zeile(n, p) for n, p in sorted(kap.items())) if z]
     zeilen.sort(key=lambda x: (x[0], -x[1]))
     print('%-5s %-6s %-6s %-7s %-5s  %s'
           % ('Kap', 'neu', 'Woerter', 'Urteil', 'Jagd', 'Schluss'))
-    grenze = float(sys.argv[1]) if len(sys.argv) > 1 else 0.45
+    _roh = [a for a in sys.argv[1:] if a not in ('--band',)]
+    if '--band' in sys.argv:
+        _roh.remove(sys.argv[sys.argv.index('--band') + 1])
+    grenze = float(_roh[0]) if _roh else 0.45
     n_kand = 0
     for neu, w, n, urteil, jagd, txt in zeilen:
         if neu > grenze:

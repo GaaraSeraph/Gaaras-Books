@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.708 Woerter.
+Book Three, 7 Kapitel, 14.698 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,7 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v1.15 | 2.017 |
 | 04 | v1.20 | 2.012 |
 | 05 | v1.15 | 2.069 |
-| 06 | v1.13 | 2.165 |
+| 06 | v1.14 | 2.155 |
 | 07 | v1.13 | 2.236 |
 
 ---
@@ -1245,7 +1245,7 @@ Georgij did not say anything.
 ---
 
 # Book Three · Chapter 6: Who asked
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Six Hundred and Eighty-Six · Friday 20 August
 
@@ -1341,7 +1341,7 @@ So a carrier carries insurance against being late.
 
 And the insurer of a carrier may ask the people whose cargo it is what a late ship would cost them, because that is the number it would be paying.
 
-It is the most legitimate question in this trade. It is asked in writing, on a letterhead, with a reference, and the counterparty who will not answer gets a letter to his own underwriter.
+It is the most legitimate question in this trade, and the woman in Busan gave the reason nobody refuses it before Georgij could ask.
 
 The form that exists to protect nineteen companies from Hanseong is the one that told Hanseong where to press.
 
