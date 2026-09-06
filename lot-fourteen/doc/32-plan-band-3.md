@@ -4810,6 +4810,11 @@ nicht in dieser Buero-Szene.
 
 ### Die Eskalationen laufen als Reaktionskette
 
+**Berichtigt am 06.09.: die Tabelle listet die Stufen in einer Reihenfolge, die das Buch nicht hat, und das Buch hat recht.** Geschrieben ist *Open the filings* und *Count the house* in Akt I, `b3 ch06` bis `b3 ch11`, und zwar als **Lesen ohne Handlung**: das Kapitel endet ausdruecklich auf *"Nothing has happened."* Erst danach kommen *Stop the delays* (`b3 ch12`, die Charter) und *Move the cost* (`b3 ch14`, die Forderung), und dazwischen liegt Hans erste falsche Reaktion in `b3 ch13`.
+
+**Das ist keine Abweichung, sondern die Bedingung.** Wenn zuerst gehandelt wird und danach gelesen, ist die Reihenfolge dieselbe, die Seol Gwan-ik in `b3 ch10` als *verursacht* beschreibt. Weil zuerst fuenf Monate lang gelesen und nichts getan wird, ist jeder Zug in Akt II eine Antwort und kein Anfang. **Wer die Tabellenreihenfolge fuer verbindlich haelt, nimmt dem Band seine einzige Verteidigung.**
+
+
 **Festgelegt am 02.09.:** Nach jeder Eskalation muss Han etwas tun, das die
 naechste Stufe nicht nur rechtfertigt, sondern praktisch erst oeffnet. Das
 ist kein abgefeuerter Masterplan. Georgij bewegt eine Stelle, Han reagiert

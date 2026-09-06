@@ -147,4 +147,4 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 11** *Nothing has happened* (v1.11) · Tag 753, Di 26. Oktober · 2.126 W
 - **B3 12** *The other word* (v1.11) · Tag 762, Do 4. November · 2.029 W
 - **B3 13** *Twice* (v1.10) · Tag 774, Di 16. November · 2.075 W
-- **B3 14** *Who answers* (v1.10) · Tag 788, Di 30. November · 2.021 W
+- **B3 14** *Who answers* (v1.13) · Tag 788, Di 30. November · 2.115 W

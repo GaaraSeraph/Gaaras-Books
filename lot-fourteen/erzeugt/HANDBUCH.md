@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 380.068 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 380.208 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -771,7 +771,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**138 Kapitel, 362.680 Woerter.**
+**138 Kapitel, 362.774 Woerter.**
 
 ---
 
@@ -23498,6 +23498,11 @@ nicht in dieser Buero-Szene.
 
 ### Die Eskalationen laufen als Reaktionskette
 
+**Berichtigt am 06.09.: die Tabelle listet die Stufen in einer Reihenfolge, die das Buch nicht hat, und das Buch hat recht.** Geschrieben ist *Open the filings* und *Count the house* in Akt I, `b3 ch06` bis `b3 ch11`, und zwar als **Lesen ohne Handlung**: das Kapitel endet ausdruecklich auf *"Nothing has happened."* Erst danach kommen *Stop the delays* (`b3 ch12`, die Charter) und *Move the cost* (`b3 ch14`, die Forderung), und dazwischen liegt Hans erste falsche Reaktion in `b3 ch13`.
+
+**Das ist keine Abweichung, sondern die Bedingung.** Wenn zuerst gehandelt wird und danach gelesen, ist die Reihenfolge dieselbe, die Seol Gwan-ik in `b3 ch10` als *verursacht* beschreibt. Weil zuerst fuenf Monate lang gelesen und nichts getan wird, ist jeder Zug in Akt II eine Antwort und kein Anfang. **Wer die Tabellenreihenfolge fuer verbindlich haelt, nimmt dem Band seine einzige Verteidigung.**
+
+
 **Festgelegt am 02.09.:** Nach jeder Eskalation muss Han etwas tun, das die
 naechste Stufe nicht nur rechtfertigt, sondern praktisch erst oeffnet. Das
 ist kein abgefeuerter Masterplan. Georgij bewegt eine Stelle, Han reagiert
@@ -34234,10 +34239,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 774 | b3ch13:248 | Annie looked up from what she was doing, which she had not done when he came in. |
 | 774 | b3ch13:258 | Annie took her hand off the page. |
 | 774 | b3ch13:268 | Annie went back to the page and did not look up for the rest of it. |
-| 788 | b3ch14:196 | Annie holds a block of it, bought in four pieces in September, under every line at which.. |
-| 788 | b3ch14:270 | "Read the second one again," said Annie. |
-| 788 | b3ch14:280 | Annie did not say anything for a moment. |
-| 788 | b3ch14:296 | Annie went on reading the notice while he said it. |
+| 788 | b3ch14:210 | Annie holds a block of it, bought in four pieces in September, under every line at which.. |
+| 788 | b3ch14:284 | "Read the second one again," said Annie. |
+| 788 | b3ch14:294 | Annie did not say anything for a moment. |
+| 788 | b3ch14:310 | Annie went on reading the notice while he said it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34500,8 +34505,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:228` (Tag 753) - one
 - `b3ch12:230` (Tag 762) - six
 - `b3ch12:264` (Tag 762) - one
-- `b3ch14:196` (Tag 788) - four
-- `b3ch14:270` (Tag 788) - one
+- `b3ch14:210` (Tag 788) - four
+- `b3ch14:284` (Tag 788) - one
 
 ---
 
@@ -35536,9 +35541,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:198 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
 | 753 | b3ch11:208 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
 | 753 | b3ch11:224 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
-| 788 | b3ch14:182 | Georgij put the registration number next to Mr Hwang's sixth table at about half past ni.. |
-| 788 | b3ch14:204 | Mr Hwang was in the house when the notice came, because it came on a Monday. |
-| 788 | b3ch14:332 | The cross-holdings existed and sat in a filing office. Anybody who spent four months on .. |
+| 788 | b3ch14:196 | Georgij put the registration number next to Mr Hwang's sixth table at about half past ni.. |
+| 788 | b3ch14:218 | Mr Hwang was in the house when the notice came, because it came on a Monday. |
+| 788 | b3ch14:346 | The cross-holdings existed and sat in a filing office. Anybody who spent four months on .. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -35641,8 +35646,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:168` (Tag 753) - five
 - `b3ch11:198` (Tag 753) - four, one, three
 - `b3ch11:224` (Tag 753) - two
-- `b3ch14:182` (Tag 788) - nine
-- `b3ch14:332` (Tag 788) - four, two
+- `b3ch14:196` (Tag 788) - nine
+- `b3ch14:346` (Tag 788) - four, two
 
 ---
 
@@ -38951,12 +38956,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 788 | b3ch14:70 | Mrs Chun was appointed by the underwriter on the nineteenth. |
-| 788 | b3ch14:110 | Mrs Chun sent the file to the underwriter on the twenty-fifth, which is five working day.. |
+| 788 | b3ch14:80 | Mrs Chun was appointed by the underwriter on the nineteenth. |
+| 788 | b3ch14:124 | Mrs Chun sent the file to the underwriter on the twenty-fifth, which is five working day.. |
 
 ### Zahlen in der Naehe von Mrs Chun
 
-- `b3ch14:110` (Tag 788) - five, six, twenty
+- `b3ch14:124` (Tag 788) - five, six, twenty
 
 ---
 

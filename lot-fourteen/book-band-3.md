@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 14 Kapitel, 29.498 Woerter.
+Book Three, 14 Kapitel, 29.592 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -24,7 +24,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 11 | v1.11 | 2.126 |
 | 12 | v1.11 | 2.029 |
 | 13 | v1.10 | 2.075 |
-| 14 | v1.10 | 2.021 |
+| 14 | v1.13 | 2.115 |
 
 ---
 
@@ -3302,7 +3302,7 @@ Nobody has told him to do that.
 ---
 
 # Book Three · Chapter 14: Who answers
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Seven Hundred and Eighty-Eight · Tuesday 30 November
 
@@ -3312,9 +3312,17 @@ A carrier that is late is liable, and a carrier that is liable carries cover aga
 
 That is what the cover is for. It is why the premium is what it is.
 
-The November claim is one billion four hundred million won. It is eleven sailings at four times the berth, and the air freight from the eighth, and nothing else at all.
+The November claim is one billion four hundred million won. It is the difference on eleven sailings, and the air freight on the one they could not place, and nothing else at all.
 
 Nobody has claimed a loss of profit, a reputational item or a penalty she has not paid.
+
+* * *
+
+The form that went out in April existed for that reason and no other.
+
+A broker asked nineteen companies what a late ship would cost them. Nineteen answered. Somebody then knew which eleven of her cargoes had a number under them.
+
+The claim is the same fact from the other end, and it is being put by the same sort of person.
 
 * * *
 
@@ -3322,7 +3330,7 @@ A claim of that kind is not a letter. It is a bundle.
 
 Eleven booking confirmations against eleven allocations that were changed after the booking. The port authority record of the changes, which is public and which nobody has had a reason to print out before.
 
-Eleven charter invoices with the dates on them, and one air waybill from the eighth.
+Eleven charter invoices with the dates on them, and the one air waybill.
 
 And the four lines that went to the customers on the first of November, because a claimant who kept her customers whole has to show that she kept them whole.
 
@@ -3359,6 +3367,8 @@ Mrs Chun was appointed by the underwriter on the nineteenth.
 She works for their side and she came anyway, which is the whole of what an adjuster is.
 
 She writes on a paper form that goes into a system afterwards, and she has not stopped doing that in eight years, and nobody has asked her to.
+
+Mr Chae sat with her and answered, because it is his bundle and because a claimant who answers her own adjuster is a claimant who is worried.
 
 She asked three things and wrote the answers in the boxes.
 
@@ -3508,7 +3518,7 @@ He read it again.
 
 "He has taken the claims off Shipping."
 
-"He has taken the claims off Shipping and put a company on a document," said Georgij. "The company is on the table twice and we own a piece of it."
+"He has taken the claims off Shipping and put a company on a document," said Georgij. "The company is on the table twice and you own a piece of it."
 
 * * *
 
