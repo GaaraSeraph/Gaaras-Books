@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 11 Kapitel, 22.841 Woerter.
+Book Three, 11 Kapitel, 22.901 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -17,10 +17,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 04 | v1.20 | 2.012 |
 | 05 | v1.17 | 2.099 |
 | 06 | v1.15 | 2.155 |
-| 07 | v1.13 | 2.236 |
+| 07 | v1.14 | 2.238 |
 | 08 | v1.9 | 2.039 |
-| 09 | v1.3 | 2.013 |
-| 10 | v1.3 | 2.043 |
+| 09 | v1.6 | 2.091 |
+| 10 | v1.10 | 2.023 |
 | 11 | v1.3 | 2.019 |
 
 ---
@@ -1520,7 +1520,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1686,7 +1686,7 @@ He looked out of the window for about a minute and then he said the second unpro
 
 "Yes, sir."
 
-Georgij did not explain the no and the boy did not ask for a reason, and that is the whole of the conversation.
+Georgij did not explain the no and the boy did not ask for a reason, and there was nothing else in the car after that.
 
 * * *
 
@@ -2040,7 +2040,7 @@ He did not write down what any of that comes to.
 ---
 
 # Book Three · Chapter 9: Nobody counts
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Seven Hundred and Thirty-Two · Tuesday 5 October
 
@@ -2164,7 +2164,21 @@ It does not say when. It does not say what happens between now and then. It has 
 
 "That is a lot of paper for a thing that has no date on it."
 
-"It has no date on it because I do not have one."
+"It has no date for the sale because I do not have one."
+
+She turned back to the second page and put one finger on the last line of it.
+
+"There is one at the bottom of this one."
+
+"There is."
+
+"Say what it does."
+
+"If nothing has happened by then, the whole of it lapses." Georgij did not move. "You keep what you hold, you owe nobody anything, and there is no version of it where you are still standing in this in three years."
+
+"How long."
+
+"Fourteen months."
 
 * * *
 
@@ -2196,7 +2210,7 @@ Han Bo-ram put the two pages down square in front of her.
 
 "That is not an answer and you know that it is not."
 
-Georgij stood where he stands.
+Georgij did not take the chair.
 
 "There were seven people under thirty in that ballroom and I found all seven inside a quarter of an hour, and I found them because they were the easiest people in the building to find." He did not put anything round it. "Nobody watches what they say in front of somebody nobody is counting. I was not being kind to you. I was doing the cheapest thing in the room."
 
@@ -2238,7 +2252,7 @@ She was not asking him to do anything about it.
 
 * * *
 
-She signed it and put the date on it and turned it round.
+She signed it and dated it and turned it round.
 
 Then she asked the one that was not about the paper.
 
@@ -2281,7 +2295,7 @@ He looked at the third line for a while and did not change it.
 ---
 
 # Book Three · Chapter 10: Where it would go
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Seven Hundred and Forty-Two · Friday 15 October
 
@@ -2291,7 +2305,7 @@ It is in a law faculty building in Seodaemun and it is not his, and he has it be
 
 There are two chairs and a kettle and eleven boxes.
 
-He is seventy-four.
+He is seventy-one.
 
 * * *
 
@@ -2315,7 +2329,7 @@ Georgij put nothing on the table.
 
 He had brought nothing to put on it.
 
-"I am not going to ask you for anything," he said, "and I would like to say that at the start rather than at the end, because at the end it would not be believable."
+"I am not going to ask you to do anything," he said, "and I would like to say that at the start rather than at the end, because at the end it would not be believable."
 
 Seol Gwan-ik sat back.
 
@@ -2325,9 +2339,9 @@ Seol Gwan-ik sat back.
 
 Georgij gave him five things and none of them was a request.
 
-That there is a chain of lawyers in Singapore behind a directorship, and that the chain has been running since 2003, and that nobody at the end of it has ever made an investment.
+That there is a chain of lawyers in Singapore behind a directorship, and that nobody at the end of it has ever made an investment.
 
-That twenty per cent of a terminal is not a position but a door, and that the door decides berth, order and which boxes get looked at.
+That a terminal decides which ship waits and which does not, and that the deciding is never written down anywhere as a decision.
 
 That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was the best in that building at taking companies apart, and that the fifth one he did not take apart.
 
@@ -2361,7 +2375,7 @@ Then he did the thing he had been kept for, and he did it without being asked.
 
 "Yes."
 
-"The Singapore chain does not go to prosecutors at all. It goes to the financial supervisory service first, and it goes there as a KYC failure and not as a crime, because that is the only door that opens without a name on it."
+"The Singapore chain does not go to prosecutors at all, and it does not go anywhere as a crime. It goes as a failure to know who somebody is, and that is a different word and a different building, and nobody in it has to accuse anybody of anything to open the file."
 
 Georgij did not say anything.
 
@@ -2441,9 +2455,9 @@ Neither of them has met Georgij and neither of them is going to this year.
 
 He went down the stairs and out past a noticeboard with three things pinned to it.
 
-There are two men in this country who have looked at what he does and wanted nothing for it.
+There is a third one now.
 
-There is a third now, and he is the only one of the three who has said out loud what it will look like from the other side.
+He is the only one of the three who has said out loud what it will look like to somebody standing outside it.
 
 He did not put that in the book.
 
@@ -2481,7 +2495,7 @@ He gave her the whole of it at half past seven and he gave her the last part fir
 
 * * *
 
-Georgij stood where he stands.
+Georgij did not move at all.
 
 "From tonight you do not tell me which offices and you do not tell me when," said Annie. "Not the names, not the dates, not who wrote to whom. You tell me that it is done and you tell me nothing else about that part."
 

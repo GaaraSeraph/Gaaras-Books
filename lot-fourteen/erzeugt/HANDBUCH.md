@@ -761,7 +761,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**135 Kapitel, 356.023 Woerter.**
+**135 Kapitel, 356.083 Woerter.**
 
 ---
 
@@ -33830,7 +33830,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 718 | b3ch08:64 | Annie did not ask what for, and she does not. |
 | 732 | b3ch09:36 | Annie priced it on the Friday and it took her four minutes. |
 | 732 | b3ch09:50 | "Then she has made a decision, and she will say so for the rest of her life." Annie put .. |
-| 732 | b3ch09:278 | Georgij went down in the lift with two pages in an envelope that Annie's office had made.. |
+| 732 | b3ch09:296 | Georgij went down in the lift with two pages in an envelope that Annie's office had made.. |
 | 742 | b3ch10:230 | "Say his sentence again," said Annie. |
 | 742 | b3ch10:240 | "And then a price moves, and then I buy." Annie did not write it down. "In that order." |
 | 742 | b3ch10:262 | "From tonight you do not tell me which offices and you do not tell me when," said Annie... |
@@ -34092,7 +34092,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch05:296` (Tag 672) - four, one, two
 - `b3ch08:52` (Tag 718) - eight
 - `b3ch09:36` (Tag 732) - four
-- `b3ch09:278` (Tag 732) - two
+- `b3ch09:296` (Tag 732) - two
 - `b3ch10:272` (Tag 742) - one
 - `b3ch11:60` (Tag 753) - one
 - `b3ch11:66` (Tag 753) - one
@@ -35122,7 +35122,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:28 | Mr Hwang did not telephone about either of them. He put them in the column the way he pu.. |
 | 718 | b3ch08:6 | Mr Hwang's page came by post on the Monday and there is a fifth name on it. |
 | 718 | b3ch08:320 | Mr Hwang is fifty-five and works the list after four in the afternoon. |
-| 732 | b3ch09:294 | Three are left. Mr Hwang has all three and none of them is a Han. |
+| 732 | b3ch09:312 | Three are left. Mr Hwang has all three and none of them is a Han. |
 | 742 | b3ch10:202 | **Mr Hwang keeps both pages** and they say what the people did and not what they might do. |
 | 753 | b3ch11:12 | It is four brokers in three countries who have each been given a small ordinary piece of.. |
 | 753 | b3ch11:88 | Mr Hwang's tables came up on the Monday by hand and not by post. |
@@ -35227,7 +35227,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch05:110` (Tag 672) - three
 - `b3ch05:230` (Tag 672) - four
 - `b3ch08:320` (Tag 718) - fifty-five, four
-- `b3ch09:294` (Tag 732) - three
+- `b3ch09:312` (Tag 732) - three
 - `b3ch11:12` (Tag 753) - four, three
 - `b3ch11:134` (Tag 753) - one, two
 - `b3ch11:146` (Tag 753) - four, nineteen
