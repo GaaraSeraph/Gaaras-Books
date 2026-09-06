@@ -45,6 +45,7 @@ FIGUREN = ["Georgij", "Annie", "Sang-hoon", "Hana", "Jang", "Woo", "Mrs Seo",
            "Ye-rin", "Sim", "Byun", "Chae", "Yeom", "Hwang", "Mrs Jeon", "Mrs Bae",
            "Mrs Gwak", "Mrs Ha", "Kwon", "Moon", "Sohn", "Ahn", "Koh", "Ji-won", "Do-yun", "Sung-ho", "Hong",
            "Kang", "Pyo", "Ku", "Bae",
+           "Gong", "Lee Jun",
            "Nam Byung-hee", "Baek", "Ok", "Shin", "Sunwoo", "Eun-ju", "Yeo", "Uhm", "Heo"]
 
 EINHEITEN = {

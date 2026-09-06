@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 368.732 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 370.219 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -107,6 +107,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die kleinen Rollen](#die-kleinen-rollen)
   - [Moon Hae-sook (Sauerstoff, elf Jahre, kein Los)](#moon-hae-sook-sauerstoff-elf-jahre-kein-los)
   - [Mr Tak (seit Ende August im Haus, Gangwon-do)](#mr-tak-seit-ende-august-im-haus-gangwon-do)
+  - [Gong Doo-hyun (der Oberstaatsanwalt, um die sechzig)](#gong-doo-hyun-der-oberstaatsanwalt-um-die-sechzig)
+  - [Lee Jun (sechzehn, ehemals Lot 11)](#lee-jun-sechzehn-ehemals-lot-11)
   - [Und er ist nicht der einzige Stumme](#und-er-ist-nicht-der-einzige-stumme)
   - [Wer nur genannt wird und nie spricht](#wer-nur-genannt-wird-und-nie-spricht)
   - [Was die Messung beim Schreiben tatsaechlich gefangen hat](#was-die-messung-beim-schreiben-tatsaechlich-gefangen-hat)
@@ -6602,6 +6604,168 @@ Buch seinen Hebel.
 
 **Die Probe für das Endgespräch:** kein Satz von ihm darf eine Rechtfertigung
 sein. Er hat nie eine gebraucht und wird an dem Abend nicht damit anfangen.
+
+### Gong Doo-hyun (der Oberstaatsanwalt, um die sechzig)
+
+**11 Repliken, 134 Woerter, 11,2 Woerter je Satz, 17 Prozent ueber 25 Woerter.**
+Angelegt am 06.09., nachdem der vierzehnte Pruefdurchgang gefunden hatte, dass
+er keins hat.
+
+**Und die Messung gibt sofort den Befund, um den herum das Blatt gebaut ist:
+er zaehlt nichts.** In 134 Woertern kein Jahr, kein Tag, keine Woche, kein
+Monat, keine Minute, kein Betrag, keine Personenzahl. Jede andere Figur in
+diesem Buch zaehlt etwas, und `stimmen.py` misst es: Hwang Daten 17,0, Mrs
+Sunwoo Daten 28,6, Mr Ahn Personen 14,1, Baek Jahre 11,8. **Gong hat eine
+einzige Zahl in seiner ganzen Rede, und sie ist ueber ihn selbst:** *I have
+read it four times.*
+
+**Wer nachmisst, bekommt bei `stimmen.py` eine Datumsangabe fuer ihn und muss
+sie wegwerfen.** Es ist ein Fehltreffer des Monatsregex auf *May* in *You may
+go*. Er nennt keinen Monat.
+
+**Das ist keine Sparsamkeit, sondern seine Lage.** Ein Mann mit einer Akte, die
+nichts beweist, hat nichts zu zaehlen. Er hat neun Seiten, die alle wahr sind,
+und eine Frage. Wer die Zahl nicht hat, nennt sie nicht.
+
+**Was er will und was mit Georgijs Sache nichts zu tun hat.** Er hat einen Mann
+beerdigt, den sonst niemand beerdigt haette, aus der eigenen Tasche, in dem
+billigeren der zwei Saele, mit dem eigenen Namen unter neunzig Karten und
+keinem Amt darunter. Er will nicht, dass Choi Dae-ho verschwindet. **Das ist
+das Einzige an ihm, was Georgij nicht auseinandernehmen kann**, und Georgij
+sagt es ihm ins Gesicht, weil es wahr ist und nichts kostet.
+
+**Der Zug, der ihm nicht schmeichelt, und das Blatt faengt damit an, weil er
+sonst zu gut wegkommt.** Er kann nicht aufhoeren, Staatsanwalt zu sein, auch
+nicht bei einer Freundlichkeit, die er selbst bezahlt hat. Er nimmt Georgijs
+zwei wahre Saetze entgegen und sagt dazu:
+
+> *"That is the second time you have said a true thing to me that costs you
+> nothing." He had already picked up the file. "I would like you to notice that
+> I have written both of them down."*
+
+**Er macht aus einer Hoeflichkeit einen Aktenvermerk und teilt es mit.** Und
+der zweite Zug derselben Sorte: er hat den Mann kommen lassen, um eine Sache
+herauszufinden, hat sie um fuenf vor vier heraus, und **steht nicht auf**. Er
+sitzt den Rest der Stunde ab, mit einem Menschen, an den er keine Frage mehr
+hat. Das ist nicht Geduld. Er kann nicht loslassen.
+
+**Wie er von A nach B kommt: gar nicht.** Er sammelt nicht, er baut nicht auf,
+er stellt keine zweite Frage auf der ersten. In `b3 ch02` fragt er Georgij in
+einem ganzen Saal **nichts**, und der Text macht daraus den Fund des Kapitels:
+
+> *He worked out in the car that the man had not asked him one question. Not
+> what he was, not who had sent him, and not what he had to do with any of it.*
+
+**Ein Mann, der nichts will, ist gegen Georgijs Verfahren immun**, weil dieses
+Verfahren jemandem etwas Kleines abkauft und dann darauf aufbaut. Es gibt bei
+ihm nichts Kleines zu kaufen.
+
+**Sein Register:** kurze flache Hauptsaetze, und dann genau einer, der alles
+traegt. Die 17 Prozent ueber 25 Woerter sind die zweithoechste Quote im Buch, hinter
+Mr Oks 23. **Zweimal nachgemessen am 06.09., weil hier zuerst "die hoechste
+Quote im Buch" stand und danach, ebenso falsch, Ok habe seine Repliken alle in
+einem Kapitel; er spricht in `b2 K16`, `K70` und `K88`.** Die langen Saetze
+stehen fast alle an den drei Stellen, an denen er den Zug abgibt: die Akte, die
+Absage, der Abschied. Dazwischen sagt er *Sit down.* und
+*Say it.* und *So did Choi.*
+
+**Verbote.**
+
+* **Er nennt keine Zahl, die nicht ueber ihn selbst geht.** Kein Datum, keine
+  Summe, keine Anzahl von Leuten. Wer ihm eine gibt, macht ihn zu Hwang.
+* **Er droht nie und warnt nie**, und der Text sagt es aus seinem Mund: *I am
+  not going to ask you anything and I am not going to tell you not to do
+  anything.*
+* **Er wird nie lauter.** `b3 ch03`: *He did not raise his voice anywhere in
+  it*, und das steht an der Stelle, an der er sagt, dass er weiss, wer Choi
+  getoetet hat.
+* **Er redet nie ueber sich.** Die Fotografie von Frau und zwei erwachsenen
+  Kindern steht auf der Fensterbank hinter ihm, und er erwaehnt sie nicht.
+* **Er hat keinen Haustic**, und das ist gewollt. Was wiederkommt, ist eine
+  Verneinung: er tritt nicht zurueck, er sieht nicht zur Tuer, er tut nichts
+  mit den Haenden, er schreibt es nicht auf und muss nicht, er folgt nicht
+  nach, er steht nicht mit auf. **Ein Mann, der durch das gekennzeichnet ist,
+  was er nicht tut.** In `b3 ch02` steht es zweimal, bevor er den ersten Satz
+  sagt.
+
+---
+
+### Lee Jun (sechzehn, ehemals Lot 11)
+
+**16 Repliken, 107 Woerter, 6,7 Woerter je Replik.** Von Hand gezaehlt, weil
+`stimmen.py` ihn nicht findet und nicht finden kann: **keine einzige seiner
+sechzehn Repliken nennt ihn im Begleitsatz.** Fuenfzehn stehen ganz ohne, und
+die sechzehnte hat ein namenloses *he said* mitten darin. Er spricht nur in
+Zweipersonenszenen, und dort laeuft der Dialog ohne Zuordnung. Das ist kein Werkzeugfehler, sondern
+sein Blatt: **er redet nur, wenn genau einer zuhoert.**
+
+**Das kuerzeste Register im Buch, und wie bei Hwang gehoert die Schwelle
+dazu.** Unter allen Figuren mit mehr als 90 Woertern eigener Rede steht er mit
+6,7 Woertern je Replik auf Platz eins, vor Mr Ahns 7,5 und Mr Kohs 7,9, gegen
+Georgijs 11,4 und Annies 10,1. **Ohne Schwelle stuenden Kim Ye-rin mit 4,8 und
+Kang mit 5,0 davor, und beide haben weniger als drei Dutzend Woerter im ganzen
+Buch.** **Sechsundfuenfzig Prozent seiner Repliken haben drei
+Woerter oder weniger, und neunundsechzig Prozent enthalten *sir*.**
+
+**Und dann die Ausnahme, und es sind vier Repliken von sechzehn.** Alle vier
+stehen in derselben Szene, im Wagen vor der zweiundzwanzigsten Werkstatt, und
+die laengste hat einundvierzig Woerter, das Sechsfache seines Schnitts. Der
+Text zaehlt sie selbst: *his first unprompted sentence of the month*
+und, achtzig Zeilen spaeter, *the second unprompted sentence of the month.*
+**Er antwortet in zwei Woertern und liefert zweimal im Monat einen Absatz.**
+
+**Was er will und was mit Georgijs Sache nichts zu tun hat.** Er will nicht
+beschenkt, sondern bezahlt werden. Seine einzige Frage am ersten Tag, flach und
+ohne Entschuldigung, und die einzige ohne *sir* am Ende:
+
+> *"What am I paid?"*
+
+**Ein Junge, der zweimal verkauft worden ist, muss nicht erfahren, was er wert
+ist. Er muss erfahren, was ihm zusteht, und das sind nicht dieselben Zahlen.**
+Er will ausserdem weiterzaehlen duerfen, und er fragt danach, und er bekommt
+ein Nein ohne Begruendung und nimmt es an.
+
+**Der Zug, der ihm nicht schmeichelt.** Er ist sehr gut darin, das zu sein, was
+ein Raum haben will, und niemand hat ihn darum gebeten. `b3 ch07` benennt es,
+und Georgij sieht dabei zu und mag es nicht:
+
+> *The boy was not being liked. He was being useful in the way a person is
+> useful who has worked out before he is all the way through the door what the
+> room wants and has decided to be it.*
+>
+> *He is very good at it and nobody taught him in the last two years.*
+
+**Der zweite Zug derselben Sorte, und er ist schlimmer, weil er wie Fleiss
+aussieht.** Ihm ist gesagt worden, er solle aufhoeren zu zaehlen. Er hat
+draussen weitergezaehlt und nichts davon gesagt, und auf die Frage warum:
+
+> *"Because you told me to stop," he said, "and I could not tell whether you
+> meant here."*
+
+**Das ist kein Eigensinn, sondern ein Junge, der gelernt hat, dass Fragen
+teurer ist als ein Schweigen, das sich hinterher verteidigen laesst.**
+
+**Wie er von A nach B kommt: er zaehlt und wartet, bis jemand fragt.** Er
+bringt nichts von sich aus vor. Die Regale in der zweiundzwanzigsten Werkstatt
+hat er gezaehlt, bevor irgendwer wusste, wofuer, und er haette es nicht gesagt,
+wenn Georgij nicht gewartet haette. **Der ganze Fund des Kapitels haengt an
+einem Jungen, der nicht von selbst spricht.**
+
+**Verbote.**
+
+* **Er stellt nie eine zweite Frage.** Eine je Szene, und dann nicht mehr.
+* **Er begruendet nichts unaufgefordert.** Auf *Say the rest of it* liefert er
+  den ganzen Absatz; ohne diese Aufforderung bleibt es bei einem Satz.
+* **Er sagt nie, was er will.** Zweimal in zwei Kapiteln hat er etwas gewollt,
+  und beide Male war es eine Frage und keine Bitte.
+* **Er wird nicht warm und er wird nicht dankbar.** Als Georgij ihn beim
+  Selbstentscheiden ertappt, geht ueber sein Gesicht ausdruecklich **nicht**
+  Dankbarkeit, sondern die Erkenntnis, ertappt worden zu sein.
+* **Sein Haustic ist die Tuer.** `b3 ch04` schliesst darauf: *He has not once
+  been in a room without knowing where the door is.* Georgij gibt ihm im Wagen
+  dieselbe Regel als erste von dreien, und der Junge hatte sie schon.
+
+---
 
 ### Und er ist nicht der einzige Stumme
 
