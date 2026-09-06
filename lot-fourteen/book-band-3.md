@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 11 Kapitel, 23.070 Woerter.
+Book Three, 11 Kapitel, 23.143 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,22 +11,22 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.11 | 2.092 |
-| 02 | v1.22 | 2.116 |
-| 03 | v1.15 | 2.017 |
-| 04 | v1.20 | 2.012 |
+| 01 | v1.12 | 2.092 |
+| 02 | v1.24 | 2.116 |
+| 03 | v1.16 | 2.018 |
+| 04 | v1.21 | 2.016 |
 | 05 | v1.17 | 2.099 |
 | 06 | v1.15 | 2.155 |
-| 07 | v1.14 | 2.238 |
-| 08 | v1.9 | 2.039 |
-| 09 | v1.6 | 2.091 |
-| 10 | v1.14 | 2.192 |
-| 11 | v1.3 | 2.019 |
+| 07 | v1.16 | 2.238 |
+| 08 | v1.11 | 2.046 |
+| 09 | v1.9 | 2.099 |
+| 10 | v1.17 | 2.214 |
+| 11 | v1.7 | 2.050 |
 
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
@@ -40,7 +40,7 @@ The card came to the front door at twenty past ten.
 
 Mrs Seo took it in the hall and brought it up herself.
 
-She has done that once before, on a Tuesday in May of the year before, about a telephone call. She said at the time that she had been answering that telephone for nine years and that nobody had ever asked for him.
+She has done that once before, on a Friday in May of the year before, about a telephone call. She said at the time that she had been answering that telephone for nine years and that nobody had ever asked for him.
 
 Georgij put the pen down.
 
@@ -231,7 +231,7 @@ The card is on the corner of the desk where Mrs Seo put it, and it has his own n
 ---
 
 # Book Three · Chapter 2: Thank you for coming
-*Lot Fourteen* · Version 1.22 · EN
+*Lot Fourteen* · Version 1.24 · EN
 
 ## Day Six Hundred · Wednesday 26 May
 
@@ -271,7 +271,7 @@ There were about ninety people in a hall that takes two hundred.
 
 He counted them in the first six minutes, in fours, the way he was taught to count a room in the fourth house.
 
-Eleven of them he has read about. Four of them he has been in a room with. One of them sat at a table on the eighteenth of March.
+Seventeen of them he has read about. Four of them he has been in a room with. One of them sat at a table on the eighteenth of March.
 
 He came in at five to eleven. He saw Georgij at the back, and he went and stood on the other side of a pillar, and he did not come out from behind it again.
 
@@ -417,7 +417,7 @@ She let that stand for a moment.
 
 "Then say it."
 
-"I have spent two years finding out what men have done," said Georgij. "It has worked every time, and it worked because there has always been something."
+"I have spent nineteen months finding out what men have done," said Georgij. "It has worked every time, and it worked because there has always been something."
 
 Annie did not write anything down.
 
@@ -442,7 +442,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.15 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -496,7 +496,7 @@ The office is on a corner and it is not large. There is a desk, two chairs on th
 
 There is nothing on the walls at all.
 
-Georgij reads a room off what is in it. It has worked in every room he has walked into for two years, and in most of them it took under a minute.
+Georgij reads a room off what is in it. It has worked in every room he has walked into since that first October, and in most of them it took under a minute.
 
 He read this one in about six seconds and got nothing.
 
@@ -626,7 +626,7 @@ Gong Doo-hyun did not write it down and did not need to.
 
 Neither of them said anything for a while.
 
-It is the first time in two years that a sentence has been put in front of Georgij that he could not take apart, and it took the man in the chair three words and no papers at all.
+It is the first time in twenty months that a sentence has been put in front of Georgij that he could not take apart, and it took the man in the chair three words and no papers at all.
 
 He did not try. Trying would have been an answer and there was not one.
 
@@ -697,7 +697,7 @@ Annie wrote one line and did not say what it was.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.20 · EN
+*Lot Fourteen* · Version 1.21 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -891,7 +891,7 @@ On the fourth of October he took a buyer apart with one true sentence, and the b
 
 A woman who had been in that room bought him in November.
 
-Georgij has never been able to decide whether that is a thing he did or a thing that happened afterwards, and he has had two years.
+Georgij has never been able to decide whether that is a thing he did or a thing that happened afterwards, and he has had every month since to do it.
 
 He did not do anything with either of them.
 
@@ -915,7 +915,7 @@ Georgij stood where he stands.
 
 * * *
 
-"I have carried that boy for two years," said Georgij.
+"I have carried that boy for twenty-one months," said Georgij.
 
 He did not look away.
 
@@ -1520,7 +1520,7 @@ Annie turned round then.
 ---
 
 # Book Three · Chapter 7: The old one
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 ## Day Seven Hundred and Seven · Friday 10 September
 
@@ -1574,7 +1574,7 @@ Georgij watched him do it in Guro on the second of September and did not enjoy w
 
 The boy was not being liked. He was being useful in the way a person is useful who has worked out before he is all the way through the door what the room wants and has decided to be it.
 
-He is very good at it and nobody taught him in the last two years.
+He is very good at it and nobody in that house taught him any of it.
 
 * * *
 
@@ -1790,12 +1790,12 @@ Annie looked at him for a moment.
 
 "Say what it is."
 
-"It is a coolant pump that goes at ninety thousand kilometres." Georgij did not decorate any of it. "The rest of it is what happens afterwards, and I did not arrange the pump."
+"It is a coolant pump that goes at ninety thousand kilometres." Georgij was still on his feet. "The rest of it is what happens afterwards, and I did not arrange the pump."
 
 ---
 
 # Book Three · Chapter 8: A day with nothing in it
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Seven Hundred and Eighteen · Tuesday 21 September
 
@@ -1879,7 +1879,7 @@ Georgij sat down on the near side of the low table.
 
 "I remember what I said."
 
-"She asked me in November, three weeks before that, to tell anybody I found that she had asked, and that she had asked in November." He did not soften any of it. "You were the first one I found. I have told one person and it was not you, and it was a month later, and I have had the sentence the whole time."
+"She asked me in November, a month before that, to tell anybody I found that she had asked, and that she had asked in November." He did not soften any of it. "You were the first one I found. I have told one person and it was not you, and it was a month later, and I have had the sentence the whole time."
 
 Mrs Sunwoo did not move at all.
 
@@ -1955,7 +1955,7 @@ Georgij stood where she could see him without turning her head.
 
 She turned her hand over in her lap, which is what she does instead of nodding.
 
-"In April somebody told me something and asked me to pass it to you in the summer." Georgij did not decorate any of it. "The summer ended three weeks ago on Tuesday and I am telling you today, and there is no reason for that except that there was always something else going on."
+"In April somebody told me something and asked me to pass it to you in the summer." He said it from where he was standing and did not come any closer. "The summer ended three weeks ago on Tuesday and I am telling you today, and there is no reason for that except that there was always something else going on."
 
 "There always is."
 
@@ -2023,7 +2023,7 @@ She did not ask what it was made of, or what colour it was, or whether it had be
 
 *She did not ask me to find them. She asked me to tell them that she had asked.*
 
-He wrote that on the eleventh of November last year and he has been reading it as an instruction ever since.
+He wrote that on the sixteenth of November last year and he has been reading it as an instruction ever since.
 
 It is also a description of what she is like, and he has had it for ten months and used the first half of it.
 
@@ -2040,7 +2040,7 @@ He did not write down what any of that comes to.
 ---
 
 # Book Three · Chapter 9: Nobody counts
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Seven Hundred and Thirty-Two · Tuesday 5 October
 
@@ -2048,7 +2048,7 @@ The way in was twelve quarters of somebody else's reporting.
 
 The Hanseong foundation publishes what it is required to publish and puts it where it is required to put it. That is a page on the corporate site, with a link at the bottom of the link at the bottom.
 
-Twelve quarters are up there. Four hundred and some pages.
+Twelve quarters are up there. Something over four hundred pages.
 
 Georgij read all twelve in the last two weeks of August, in the evenings, after the workshops.
 
@@ -2132,7 +2132,7 @@ She has an office and it has a window, and there is a second desk in it with nob
 
 Han Bo-ram sat down behind the desk, and then remembered the chair on the near side and offered it.
 
-"Because a family is what somebody puts on a form and a household is what is in the room." She said it the way she had written it. "We were counting four hundred and some families, and a good many of them were the same address twice, and there were addresses with two families in them that we counted once."
+"Because a family is what somebody puts on a form and a household is what is in the room." She said it the way she had written it. "We were counting four hundred and twelve families, and a good many of them were the same address twice, and there were addresses with two families in them that we counted once."
 
 "And the number went down."
 
@@ -2148,7 +2148,7 @@ It is two pages.
 
 It says that on a date not yet fixed she will sell what she holds in three of the listed companies, at the price on the day she signs, to a buyer named in the second page.
 
-It does not say when. It does not say what happens between now and then. It has one condition and the condition is not hers.
+It does not say when. It does not say what happens between now and then. It has one condition and she has not got to it yet.
 
 "These are not the three I would have picked," said Han Bo-ram.
 
@@ -2212,7 +2212,7 @@ Han Bo-ram put the two pages down square in front of her.
 
 Georgij did not take the chair.
 
-"There were seven people under thirty in that ballroom and I found all seven inside a quarter of an hour, and I found them because they were the easiest people in the building to find." He did not put anything round it. "Nobody watches what they say in front of somebody nobody is counting. I was not being kind to you. I was doing the cheapest thing in the room."
+"There were seven people under thirty in that ballroom and I found all seven inside a quarter of an hour, and I found them because they were the easiest people in the building to find." He had one hand on the back of the chair he had not taken. "Nobody watches what they say in front of somebody nobody is counting. I was not being kind to you. I was doing the cheapest thing in the room."
 
 She did not say anything for a while.
 
@@ -2248,7 +2248,7 @@ She was not asking him to do anything about it.
 
 "No."
 
-"I am signing it because my brother has never once asked me what is in them, and he is the one who has to."
+"I am signing it because my brother has never once asked me what is in them, and it is his job to ask."
 
 * * *
 
@@ -2295,7 +2295,7 @@ He looked at the third line for a while and did not change it.
 ---
 
 # Book Three · Chapter 10: Where it would go
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.17 · EN
 
 ## Day Seven Hundred and Forty-Two · Friday 15 October
 
@@ -2405,8 +2405,6 @@ The financial supervisory service first, because they can ask a question that no
 
 Georgij did not write it down while the man was talking, because that is his own rule.
 
-He wrote it in the car and it took him four minutes and he had all of it.
-
 * * *
 
 At the door Seol Gwan-ik said the part he had not been asked for either.
@@ -2455,13 +2453,15 @@ Neither of them has met Georgij and neither of them is going to this year.
 
 He went down the stairs and out past a noticeboard with three things pinned to it.
 
-There is a third one now.
+That makes three men in this country who have looked at what he does and wanted nothing for it.
 
 He is the only one of the three who has said out loud what it will look like to somebody standing outside it.
 
 He did not put that in the book.
 
-He put the four names in, and the sequence, and the two things that must never be in the same envelope.
+In the car it took him four minutes. The four names went in with a number against each, and the order along the bottom of the page.
+
+The chaebol and the foreign national he wrote at opposite ends of it, which is not how he writes anything else.
 
 Then he sat with the pen not moving for a while and wrote one more line under it.
 
@@ -2523,9 +2523,9 @@ She stopped there for a moment, which she does not.
 
 "And say what it costs me."
 
-"You have called it maintenance since June."
+"You have called it maintenance since May."
 
-"I have called it maintenance since June, and on Thursday I am going to have to call it the other thing and put my name under it." Annie was not asking him to make it smaller. "And then it is on a piece of paper. People read pieces of paper, and what they will read is that a woman in this position let somebody do that to her for five months and paid the invoices."
+"I have called it maintenance since May, and on Thursday I am going to have to call it the other thing and put my name under it." Annie was not asking him to make it smaller. "And then it is on a piece of paper. People read pieces of paper, and what they will read is that a woman in this position let somebody do that to her for five months and paid the invoices."
 
 Georgij did not tell her that nobody would read it that way.
 
@@ -2534,7 +2534,7 @@ He has never once told her a thing that was not true and he was not going to sta
 ---
 
 # Book Three · Chapter 11: Nothing has happened
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Seven Hundred and Fifty-Three · Tuesday 26 October
 
@@ -2584,11 +2584,15 @@ Annie put that in one sentence in September and has not repeated it since.
 
 * * *
 
-And the other rule is the one that costs the most and it is Annie's.
+And the other rule costs the most, and it is Annie's.
 
-Nothing executes before the news is public.
+Nothing that is part of it executes before the news is public.
 
 Not a minute before. Not a broker warmed up on the morning of. The machine is built, tested, funded and pointed, and the first order goes after the timestamp that anybody in the world can read.
+
+The three holdings in Jeju are not part of it and were never meant to be.
+
+They went in slowly, at prices nobody was moving, and buying shares in a company and keeping them is the oldest ordinary thing there is.
 
 "That is going to cost us the best part of it," said Georgij, in September, when it was set.
 
@@ -2608,7 +2612,9 @@ The first time he did it he said it was because he had been in Seoul anyway. Tha
 
 There are six tables and the sixth is new.
 
-The sixth is the cross-holdings, and it is the one that took him from the middle of August until now, and it is the reason the two pages in the drawer name the companies they name.
+The sixth is the cross-holdings, and it has taken him from the middle of August until now.
+
+It was far enough on at the beginning of October to be the reason the two pages in the drawer name the companies they name.
 
 * * *
 
@@ -2660,13 +2666,13 @@ There was a pause on the line of about two seconds.
 
 The divisions themselves have been read since the summer and there is nothing left in them that Georgij does not have.
 
-Shipping is the one that breaks first because it is the one that is already broken and nobody outside has been told.
+Shipping breaks first, because it is already broken and nobody outside has been told.
 
-Credit is the one that holds the others up.
+Credit holds the others up.
 
-Motors is the profitable one and the one that will take the longest, and it is the one with a coolant pump in it and a bulletin that is two years old.
+Motors is the profitable one and it will take the longest, and there is a coolant pump in it with a bulletin two years old.
 
-Electronics is the one Han will use to defend Motors, and that is what makes it buyable.
+Electronics is what Han will use to defend Motors, and that is what makes it buyable.
 
 The customers are read and so are the creditors. Shipping has two customers that matter and one of the two is her. Credit has nine banks in a syndicate and a covenant that is tested again in March.
 
@@ -2698,7 +2704,7 @@ Annie asked one question about the whole of it on the Tuesday evening and it was
 
 "Who is the first person outside this house who will be able to see it."
 
-"An examiner at the financial supervisory service, and only if somebody asks her a question in the right order." Georgij did not put anything round it. "After that it is a week before anybody could put a name to it, and by then it will be a market event and not a plan."
+"An examiner at the financial supervisory service, and only if somebody asks her a question in the right order." Georgij had his hands behind his back. "After that it is a week before anybody could put a name to it, and by then it will be a market event and not a plan."
 
 "And the person who will see it first and understand it."
 
@@ -2710,7 +2716,7 @@ Annie asked one question about the whole of it on the Tuesday evening and it was
 
 Nothing has happened.
 
-No share has been bought and no position has been opened and no authority has been telephoned. Nobody has been asked for a favour and nobody has been paid for one, and there is not one person outside that house who has been told what any of it is for.
+Not one order has gone in on the short side and no authority has been telephoned. Nobody has been asked for a favour and nobody has been paid for one, and there is not one person outside that house who has been told what any of it is for.
 
 A woman in a foundation office knows that something is coming and does not know what.
 
@@ -2726,7 +2732,7 @@ Lee Jun came back at six with the sheet still in his hand.
 
 "You were."
 
-"Then may I ask what row nineteen is for, sir." He was standing where he stands, which is where he can see the door. "Not what the company is. What the row is for."
+"Then may I ask what row nineteen is for, sir?" He had not come all the way into the room, which is how he asks for things. "Not what the company is. What the row is for."
 
 "No."
 

@@ -43,6 +43,12 @@ Zusagen mit einer Zeitangabe im selben Satz. Eine Zusage ohne Frist
 ("I will have him") faellt durch und muss von Hand eingetragen werden. Ein
 Detektor, der jeden Satz mit "I will" meldet, ist nach Regel 8 aus
 doc/22-pruefen.md wertlos, und diese Fassung meldet lieber zu wenig.
+
+**Die zweite Luecke, gefunden am 06.09.:** die Frist kann in der naechsten
+Replik stehen und nicht im selben Satz. In `b3 ch09` sagt Georgij "the whole
+of it lapses", sie fragt "How long.", und erst dann faellt "Fourteen
+months." Dazwischen liegt eine fremde Replik, also greift FRIST nicht.
+B3 09 steht deshalb von Hand im Buch.
 """
 import os
 import re

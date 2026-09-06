@@ -1,5 +1,5 @@
 # Chapter 9: Nobody counts
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Seven Hundred and Thirty-Two · Tuesday 5 October
 
@@ -9,7 +9,7 @@ The way in was twelve quarters of somebody else's reporting.
 
 The Hanseong foundation publishes what it is required to publish and puts it where it is required to put it. That is a page on the corporate site, with a link at the bottom of the link at the bottom.
 
-Twelve quarters are up there. Four hundred and some pages.
+Twelve quarters are up there. Something over four hundred pages.
 
 Georgij read all twelve in the last two weeks of August, in the evenings, after the workshops.
 
@@ -119,7 +119,7 @@ She has an office and it has a window, and there is a second desk in it with nob
 
 Han Bo-ram sat down behind the desk, and then remembered the chair on the near side and offered it.
 
-"Because a family is what somebody puts on a form and a household is what is in the room." She said it the way she had written it. "We were counting four hundred and some families, and a good many of them were the same address twice, and there were addresses with two families in them that we counted once."
+"Because a family is what somebody puts on a form and a household is what is in the room." She said it the way she had written it. "We were counting four hundred and twelve families, and a good many of them were the same address twice, and there were addresses with two families in them that we counted once."
 
 ---
 
@@ -141,7 +141,7 @@ It is two pages.
 
 It says that on a date not yet fixed she will sell what she holds in three of the listed companies, at the price on the day she signs, to a buyer named in the second page.
 
-It does not say when. It does not say what happens between now and then. It has one condition and the condition is not hers.
+It does not say when. It does not say what happens between now and then. It has one condition and she has not got to it yet.
 
 ---
 
@@ -225,7 +225,7 @@ Han Bo-ram put the two pages down square in front of her.
 
 Georgij did not take the chair.
 
-"There were seven people under thirty in that ballroom and I found all seven inside a quarter of an hour, and I found them because they were the easiest people in the building to find." He did not put anything round it. "Nobody watches what they say in front of somebody nobody is counting. I was not being kind to you. I was doing the cheapest thing in the room."
+"There were seven people under thirty in that ballroom and I found all seven inside a quarter of an hour, and I found them because they were the easiest people in the building to find." He had one hand on the back of the chair he had not taken. "Nobody watches what they say in front of somebody nobody is counting. I was not being kind to you. I was doing the cheapest thing in the room."
 
 ---
 
@@ -273,7 +273,7 @@ She was not asking him to do anything about it.
 
 "No."
 
-"I am signing it because my brother has never once asked me what is in them, and he is the one who has to."
+"I am signing it because my brother has never once asked me what is in them, and it is his job to ask."
 
 * * *
 

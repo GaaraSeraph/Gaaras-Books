@@ -3305,27 +3305,38 @@ Absage, der Abschied. Dazwischen sagt er *Sit down.* und
 
 ### Lee Jun (sechzehn, ehemals Lot 11)
 
-**16 Repliken, 107 Woerter, 6,7 Woerter je Replik.** Von Hand gezaehlt, weil
-`stimmen.py` ihn nicht findet und nicht finden kann: **keine einzige seiner
-sechzehn Repliken nennt ihn im Begleitsatz.** Fuenfzehn stehen ganz ohne, und
-die sechzehnte hat ein namenloses *he said* mitten darin. Er spricht nur in
-Zweipersonenszenen, und dort laeuft der Dialog ohne Zuordnung. Das ist kein Werkzeugfehler, sondern
-sein Blatt: **er redet nur, wenn genau einer zuhoert.**
+**22 Repliken, 179 Woerter, 8,1 Woerter je Replik.** Von Hand gezaehlt, weil
+`stimmen.py` ihn fast nicht zuordnen kann: **zwanzig seiner zweiundzwanzig
+Repliken stehen ganz ohne Begleitsatz**, eine hat ein namenloses *he said*
+mitten darin, und genau eine nennt ihn, `b3 ch11:130`. Er spricht nur in
+Zweipersonenszenen, und dort laeuft der Dialog ohne Zuordnung. Das ist kein
+Werkzeugfehler, sondern sein Blatt: **er redet nur, wenn genau einer
+zuhoert.**
 
-**Das kuerzeste Register im Buch, und wie bei Hwang gehoert die Schwelle
-dazu.** Unter allen Figuren mit mehr als 90 Woertern eigener Rede steht er mit
-6,7 Woertern je Replik auf Platz eins, vor Mr Ahns 7,5 und Mr Kohs 7,9, gegen
-Georgijs 11,4 und Annies 10,1. **Ohne Schwelle stuenden Kim Ye-rin mit 4,8 und
-Kang mit 5,0 davor, und beide haben weniger als drei Dutzend Woerter im ganzen
-Buch.** **Sechsundfuenfzig Prozent seiner Repliken haben drei
-Woerter oder weniger, und neunundsechzig Prozent enthalten *sir*.**
+**Nachgemessen am 06.09., und die Zahl ist gestiegen.** Bis `ch07` stand das
+Blatt auf sechzehn Repliken, hundertsieben Woertern und 6,7 je Replik, und das
+war das kuerzeste Register im Buch. Nach `ch11` sind es 8,1, und damit steht
+er hinter Mr Ahns 7,5 und Mr Kohs 7,9 und gleichauf mit Nam Byung-hees 8,1.
+Georgij steht auf 11,4 und Annie auf 10,0.
 
-**Und dann die Ausnahme, und es sind vier Repliken von sechzehn.** Alle vier
-stehen in derselben Szene, im Wagen vor der zweiundzwanzigsten Werkstatt, und
-die laengste hat einundvierzig Woerter, das Sechsfache seines Schnitts. Der
-Text zaehlt sie selbst: *his first unprompted sentence of the month*
-und, achtzig Zeilen spaeter, *the second unprompted sentence of the month.*
-**Er antwortet in zwei Woertern und liefert zweimal im Monat einen Absatz.**
+**Die Zahl ist nicht verrutscht, sondern die Figur.** In `ch04` antwortet er
+in zwei Woertern und fragt einmal, was er bezahlt bekommt. In `ch11` traegt er
+einen Befund in achtundzwanzig Woertern vor und fragt in zwanzig nach einem
+Grund, und er bekommt keinen. **Wer das Blatt wieder auf sechs Komma sieben
+bringen will, muss ihm das Fragen nehmen**, und das Fragen ist die Zusage
+`B3 04`.
+
+**Fuenfundvierzig Prozent seiner Repliken haben drei Woerter oder weniger, und
+neunundfuenfzig Prozent enthalten *sir*.** Beide Anteile sind gefallen, aus
+demselben Grund.
+
+**Und dann die Ausnahme, und sie steht jetzt in zwei Szenen.** Ueber zehn
+Woerter kommt er viermal: zweimal im Wagen vor der zweiundzwanzigsten
+Werkstatt, wo die laengste einundvierzig Woerter hat, und zweimal an dem
+Abend, an dem er Zeile neunzehn gefunden hat. Der Text zaehlt die erste Szene
+selbst: *his first unprompted sentence of the month* und, achtzig Zeilen
+spaeter, *the second unprompted sentence of the month.* **Er antwortet in
+zwei Woertern und liefert dann einen Absatz.**
 
 **Was er will und was mit Georgijs Sache nichts zu tun hat.** Er will nicht
 beschenkt, sondern bezahlt werden. Seine einzige Frage am ersten Tag, flach und
@@ -3446,7 +3457,7 @@ are not buying a company."*
 
 ---
 
-### Seol Gwan-ik (vierundsiebzig, seit 2011 ausser Dienst)
+### Seol Gwan-ik (einundsiebzig, seit 2011 ausser Dienst)
 
 **8 zugeordnete Repliken, 95 Woerter, 11,9 je Satz, 12 Prozent ueber 25
 Woerter.** Sein laengster Zug, die sechs Minuten mit den vier Namen und der

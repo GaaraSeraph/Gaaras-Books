@@ -72,7 +72,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **frueheres Kapitel 90** | 415 | So 22. November 2026 |
 | **Band 2, Kapitel 89** | 590 | So **16. Mai 2027** |
 | **Band 2, Kapitel 90** - Bandende | 590 | So **16. Mai 2027** |
-| **Band 3, Kapitel 1** | 592 | Di **18. Mai 2027** |
+| **Band 3, Kapitel 1** - die Karte von Gong Doo-hyun | 592 | Di **18. Mai 2027** |
 | **Band 3, Kapitel 2** - der neunundvierzigste Tag | 600 | Mi **26. Mai 2027** |
 | **Band 3, Kapitel 3** - die Anklage | 628 | Mi **23. Juni 2027** |
 | **Band 3, Kapitel 4** - Lee Jun kommt an | 645 | Sa **10. Juli 2027** |
@@ -81,7 +81,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 7** - die Werkstaetten, Motors | 707 | Fr **10. September 2027** |
 | **Band 3, Kapitel 8** - die Zusage an Mrs Sunwoo, und der Posten von 278 Tagen | 718 | Di **21. September 2027** |
 | **Band 3, Kapitel 9** - Han Bo-ram, die bedingte Zusage zum Preis von vorher | 732 | Di **5. Oktober 2027** |
-| **Band 3, Kapitel 10** - Seol Gwan-ik, die Reihenfolge, und Annie nimmt einen Posten von der Liste | 742 | Fr **15. Oktober 2027** |
+| **Band 3, Kapitel 10** - Seol Gwan-ik, die Reihenfolge, und Mr Chaes datierter Grund | 742 | Fr **15. Oktober 2027** |
 | **Band 3, Kapitel 11** - die Maschine steht, und nichts ist geschehen. **Ende Akt I** | 753 | Di **26. Oktober 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz

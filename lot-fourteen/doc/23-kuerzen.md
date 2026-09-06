@@ -386,6 +386,51 @@ Die Punkte 2 und 4 oben gelten für 78 unverändert weiter. Was von dem Vorbehal
 
 ---
 
+## Band 3, Akt I, Kapitel 1 bis 11
+
+Gefuehrt ab dem 06.09., als `kuerzen.py` Band 3 zum ersten Mal lesen konnte.
+Bis dahin stand in seiner Kapitelnummernsuche `[Bb]([12])`, und damit waren
+alle drei dokumentgestuetzten Kriterien fuer Band 3 tot. Es meldete neun von
+elf Kapiteln als Kandidaten, darunter das, das an einem Tag zwei Zusagen
+bezahlt.
+
+| Kapitel | Zusage | Naehe | Stimme | Erstauftritt |
+|---|---|---|---|---|
+| 01 Der erste Gegenstand | | | | Gong Doo-hyun |
+| 02 Der neunundvierzigste Tag | | | ja | |
+| 03 Mit sechzig | | | ja | |
+| 04 Das Halsband | | | ja | Lee Jun |
+| 05 Die Spalte | | | | |
+| 06 Der Rand des Entwurfs | **ja** B2 65 | | | |
+| 07 Die Werkstaetten | | | ja | |
+| 08 Ein Tag ohne Inhalt | **ja** B2 88 | | | |
+| 09 Niemand zaehlt | | | ja | Han Bo-ram |
+| 10 Wohin es ginge | | | ja | Seol Gwan-ik |
+| 11 Nichts ist geschehen | | | | |
+
+**Zwei Kandidaten, und beide bleiben.**
+
+**`ch05` traegt zwei Dinge, die kein Kriterium abfragt.** Erstens das
+Laecheln: die dritte Respektvolle Fundstelle des Buches und die erste seit
+zwanzig Monaten, festgelegt in `doc/16`. Zweitens Annies Satz *"I have been
+paying for that twice a month since May and calling it maintenance"*, aus dem
+`ch10` den datierten Grund baut, der aelter ist als Seodaemun. Ohne `ch05`
+hat Mr Chaes Memorandum nichts, worauf es sich stuetzt.
+
+Dazu die Spalte selbst, achtzehn Zeilen lang: einundachtzig, neunzehn,
+vierzehn, elf mit Klausel. Vier Zahlen, die in `ch10` und `ch11` wieder
+gebraucht werden.
+
+**`ch11` ist das Ende von Akt I und traegt den Zustand.** Annies zwei Regeln,
+die drei Vorlaufkaeufe, die vier Makler, die Leihe, die zwei Seiten in der
+Schublade. Und Lee Juns zweite Absage ohne Begruendung, ohne die die Zusage
+**B3 04** in Akt II nichts zu bezahlen hat.
+
+**Die Lehre daraus ist nicht ueber diese zwei Kapitel.** Sie ist, dass die
+vier Kriterien vier sind und nicht fuenf. Ein Kapitel kann eine Festlegung aus
+`doc/16` tragen, und keines der vier fragt danach. Wer hier kuerzt, sieht in
+`doc/16` nach, bevor er dem Werkzeug glaubt.
+
 ## Welche Kapitel man zusammenlegen kann
 
 *Nachgetragen am 26.08. auf Frage des Autors. **Die Probe ist nicht der
@@ -793,7 +838,7 @@ die erste der beiden Fassungen, ueberall dort, wo sie ausgebreitet war:
 
 Sie standen alle im zweiten Durchgang und in keinem im ersten:
 
-1. *"He is on the wrong end of that sentence"* — **Annie war nicht am Telefon.**
+1. *"He is on the wrong end of that sentence"*: **Annie war nicht am Telefon.**
    Der Satz war ohne Bezug, sobald der Anruf gekuerzt war.
 2. Warum sie es an dem Abend nicht erfaehrt, stand im gestrichenen Teil und war
    die Naht zum Freitag. Wieder eingesetzt, in zwei Saetzen.

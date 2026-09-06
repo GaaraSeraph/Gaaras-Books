@@ -60,7 +60,7 @@ sys.path.insert(0, os.path.join(WURZEL, "werkzeug"))
 # ganzes Dokument - doc/12-stimmen.md benutzt fast nur die dritte, und in der
 # ersten Fassung dieses Skripts stand K62 deshalb als Kandidat da, obwohl es
 # Annies einzigen Registerbruch traegt.
-KAPITEL_REF = re.compile(r"\b[Bb]([12])\s*(?:ch|K)?\s*(\d{1,2})\b")
+KAPITEL_REF = re.compile(r"\b[Bb]([123])\s*(?:ch|K)?\s*(\d{1,2})\b")
 
 
 def neuste_kapitel():

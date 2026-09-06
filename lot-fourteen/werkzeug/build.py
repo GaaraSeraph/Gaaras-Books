@@ -281,6 +281,12 @@ FIGURES = {
     "Gong Doo-hyun": [r"Gong Doo-hyun", r"\bGong\b", r"Doo-hyun"],
     # Lot 11, Band 3. Das Muster darf Baek Jun-ho nicht treffen: (?!-).
     "Lee Jun": [r"Lee Jun", r"\bJun\b(?!-)"],
+    # Beide tragen je ein Kapitel in Band 3 und fehlten bis
+    # zum 06.09. im Register. "Bo-ram" kommt im ganzen Buch
+    # nur in b3 ch09 vor, "\bSeol\b" nur in b3 ch10; die
+    # Wortgrenze haelt Seodaemun und Seoul heraus.
+    "Han Bo-ram": [r"Han Bo-ram", r"Bo-ram"],
+    "Seol Gwan-ik": [r"Seol Gwan-ik", r"\bSeol\b"],
     "Moon Hae-sook": [r"Moon Hae-sook", r"Hae-sook"],
     "Mrs Ha": [r"Mrs Ha"],
     # Cha steht neben Mr Chae im Buch, deshalb die Wortgrenze.

@@ -54,7 +54,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Lee Jun | 14 | 3 (b3ch04-b3ch11) | 645 | 753 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
+| Seol Gwan-ik | 11 | 1 (b3ch10) | 742 | 742 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
+| Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
@@ -987,12 +989,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 742 | b3ch10:262 | "Mr Chae is going to write down why I am unhappy with Hanseong," said Annie. "Dated, dul.. |
 | 742 | b3ch10:272 | "I have left out the fourteen and I am going to go on leaving it out." Annie did not mak.. |
 | 742 | b3ch10:284 | "A man who wants to say I bought because you went to Seodaemun has to get past a paper t.. |
-| 742 | b3ch10:296 | "I have called it maintenance since June, and on Thursday I am going to have to call it .. |
+| 742 | b3ch10:296 | "I have called it maintenance since May, and on Thursday I am going to have to call it t.. |
 | 753 | b3ch11:60 | Annie put that in one sentence in September and has not repeated it since. |
-| 753 | b3ch11:66 | And the other rule is the one that costs the most and it is Annie's. |
-| 753 | b3ch11:84 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
-| 753 | b3ch11:214 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
-| 753 | b3ch11:228 | "Yes," said Annie. "I wanted to hear you say it." |
+| 753 | b3ch11:66 | And the other rule costs the most, and it is Annie's. |
+| 753 | b3ch11:90 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
+| 753 | b3ch11:222 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
+| 753 | b3ch11:236 | "Yes," said Annie. "I wanted to hear you say it." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1251,9 +1253,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch10:284` (Tag 742) - one
 - `b3ch10:296` (Tag 742) - five
 - `b3ch11:60` (Tag 753) - one
-- `b3ch11:66` (Tag 753) - one
-- `b3ch11:84` (Tag 753) - two
-- `b3ch11:214` (Tag 753) - one
+- `b3ch11:90` (Tag 753) - two
+- `b3ch11:222` (Tag 753) - one
 
 ---
 
@@ -2279,15 +2280,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 718 | b3ch08:6 | Mr Hwang's page came by post on the Monday and there is a fifth name on it. |
 | 718 | b3ch08:320 | Mr Hwang is fifty-five and works the list after four in the afternoon. |
 | 732 | b3ch09:312 | Three are left. Mr Hwang has all three and none of them is a Han. |
-| 742 | b3ch10:202 | **Mr Hwang keeps both pages** and they say what the people did and not what they might do. |
+| 742 | b3ch10:200 | **Mr Hwang keeps both pages** and they say what the people did and not what they might do. |
 | 753 | b3ch11:12 | It is four brokers in three countries who have each been given a small ordinary piece of.. |
-| 753 | b3ch11:88 | Mr Hwang's tables came up on the Monday by hand and not by post. |
-| 753 | b3ch11:134 | "It is supposed to be like that and it is also the whole of the point," he said. "Somebo.. |
-| 753 | b3ch11:146 | Georgij telephoned Mr Hwang at four and told him about the transposition and about row n.. |
-| 753 | b3ch11:154 | "He found it in five hours," said Mr Hwang, "and I have been looking at that table since.. |
-| 753 | b3ch11:184 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
-| 753 | b3ch11:194 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
-| 753 | b3ch11:210 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
+| 753 | b3ch11:94 | Mr Hwang's tables came up on the Monday by hand and not by post. |
+| 753 | b3ch11:142 | "It is supposed to be like that and it is also the whole of the point," he said. "Somebo.. |
+| 753 | b3ch11:154 | Georgij telephoned Mr Hwang at four and told him about the transposition and about row n.. |
+| 753 | b3ch11:162 | "He found it in five hours," said Mr Hwang, "and I have been looking at that table since.. |
+| 753 | b3ch11:192 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
+| 753 | b3ch11:202 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
+| 753 | b3ch11:218 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -2385,11 +2386,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch08:320` (Tag 718) - fifty-five, four
 - `b3ch09:312` (Tag 732) - three
 - `b3ch11:12` (Tag 753) - four, three
-- `b3ch11:134` (Tag 753) - one, two
-- `b3ch11:146` (Tag 753) - four, nineteen
-- `b3ch11:154` (Tag 753) - five
-- `b3ch11:184` (Tag 753) - four, one, three
-- `b3ch11:210` (Tag 753) - two
+- `b3ch11:142` (Tag 753) - one, two
+- `b3ch11:154` (Tag 753) - four, nineteen
+- `b3ch11:162` (Tag 753) - five
+- `b3ch11:192` (Tag 753) - four, one, three
+- `b3ch11:218` (Tag 753) - two
 
 ---
 
@@ -4870,7 +4871,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
 | 74 | b1ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
 | 74 | b1ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
-| 742 | b3ch10:196 | Wi Gyeong-taek wrote a note at the port in 2016 about a company that kept coming back. H.. |
+| 742 | b3ch10:194 | Wi Gyeong-taek wrote a note at the port in 2016 about a company that kept coming back. H.. |
 
 ### Zahlen in der Naehe von Kang Ji-hoon
 
@@ -4888,7 +4889,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:24` (Tag 74) - four, twenty-nine
 - `b1ch31:28` (Tag 74) - four, three
 - `b1ch31:34` (Tag 74) - four, one, three
-- `b3ch10:196` (Tag 742) - four
+- `b3ch10:194` (Tag 742) - four
 
 ---
 
@@ -5185,7 +5186,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
 | 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
 | 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
-| 753 | b3ch11:226 | "Gong Doo-hyun." |
+| 753 | b3ch11:234 | "Gong Doo-hyun." |
 
 ### Zahlen in der Naehe von Gong Doo-hyun
 
@@ -5373,17 +5374,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
 | 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
 | 707 | b3ch07:198 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:104 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
-| 753 | b3ch11:122 | "There is a company on here twice," said Lee Jun. |
-| 753 | b3ch11:142 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:248 | Lee Jun came back at six with the sheet still in his hand. |
+| 753 | b3ch11:112 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
+| 753 | b3ch11:130 | "There is a company on here twice," said Lee Jun. |
+| 753 | b3ch11:150 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:256 | Lee Jun came back at six with the sheet still in his hand. |
 
 ### Zahlen in der Naehe von Lee Jun
 
 - `b3ch04:360` (Tag 645) - four
 - `b3ch07:150` (Tag 707) - twenty
-- `b3ch11:104` (Tag 753) - five
-- `b3ch11:248` (Tag 753) - six
+- `b3ch11:112` (Tag 753) - five
+- `b3ch11:256` (Tag 753) - six
 
 ---
 
@@ -5418,6 +5419,34 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Seol Gwan-ik
+
+11 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 742 | b3ch10:6 | Seol Gwan-ik left the service in 2011 and has kept one room since. |
+| 742 | b3ch10:28 | "You are the one who was at the forty-ninth day," said Seol Gwan-ik. |
+| 742 | b3ch10:48 | Seol Gwan-ik sat back. |
+| 742 | b3ch10:74 | Seol Gwan-ik did not write anything down. |
+| 742 | b3ch10:98 | "Customs, ports and the terminal go to a section that does not exist as a section," said.. |
+| 742 | b3ch10:108 | "And the eleventh of March goes nowhere." Seol Gwan-ik put his cup down. "It is a man te.. |
+| 742 | b3ch10:114 | "Then say the thing you actually came about," said Seol Gwan-ik. |
+| 742 | b3ch10:126 | "That is not a favour," said Seol Gwan-ik. "That is a lecture, and I give one of those a.. |
+| 742 | b3ch10:144 | At the door Seol Gwan-ik said the part he had not been asked for either. |
+| 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
+| 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
+
+### Zahlen in der Naehe von Seol Gwan-ik
+
+- `b3ch10:6` (Tag 742) - one
+- `b3ch10:28` (Tag 742) - forty, one
+- `b3ch10:98` (Tag 742) - four, one, three
+- `b3ch10:126` (Tag 742) - one
+- `b3ch10:184` (Tag 742) - four, one
+
+---
+
 ## Mr Sohn
 
 10 Nennungen in 2 Kapiteln.
@@ -5444,6 +5473,29 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:380` (Tag 259) - four
 - `b2ch54:66` (Tag 319) - eight, one
 - `b2ch54:70` (Tag 319) - nine
+
+---
+
+## Han Bo-ram
+
+8 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 732 | b3ch09:60 | Han Bo-ram came out to the landing to meet him, which people at the fourth floor of that.. |
+| 732 | b3ch09:88 | "That is what happened, and the way I tell it, he had been looking for me." Han Bo-ram p.. |
+| 732 | b3ch09:120 | Han Bo-ram sat down behind the desk, and then remembered the chair on the near side and .. |
+| 732 | b3ch09:148 | "These are not the three I would have picked," said Han Bo-ram. |
+| 732 | b3ch09:214 | Han Bo-ram put the two pages down square in front of her. |
+| 732 | b3ch09:236 | "Say the rest of it," said Han Bo-ram. |
+| 732 | b3ch09:254 | Han Bo-ram looked at the second desk, the one with nobody at it. |
+| 732 | b3ch09:292 | "Then that is the part I am buying," said Han Bo-ram. |
+
+### Zahlen in der Naehe von Han Bo-ram
+
+- `b3ch09:148` (Tag 732) - three
+- `b3ch09:214` (Tag 732) - two
+- `b3ch09:254` (Tag 732) - one
 
 ---
 
@@ -5563,7 +5615,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch09:60 | Minister Min-ho was at the far end of the terrace with his back to the parapet, in an ov.. |
 | 22 | b1ch09:72 | Min-ho said almost nothing. He asked two questions, both short, both about other people... |
 | 22 | b1ch09:84 | He got that Min-ho already knew about the approach and had known before she told him, wh.. |
-| 742 | b3ch10:194 | Chu Hye-ran is a deputy director at the ministry and Minister Min-ho put her name on a d.. |
+| 742 | b3ch10:192 | Chu Hye-ran is a deputy director at the ministry and Minister Min-ho put her name on a d.. |
 
 ### Zahlen in der Naehe von Minister Min-ho
 
