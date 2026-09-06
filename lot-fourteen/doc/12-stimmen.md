@@ -3391,14 +3391,58 @@ einem Jungen, der nicht von selbst spricht.**
 
 ---
 
+### Mr Namgung (etwa sechzig, Kunde seit neunzehn Jahren)
+
+**6 Repliken, 117 Woerter, 19,5 Woerter je Replik.** Von Hand gezaehlt, weil
+`b3 ch12` in seiner Szene eine Zweipersonenszene ist und der Dialog ohne
+Begleitsaetze laeuft.
+
+**Damit steht er auf Platz zwei hinter Han Bo-rams 20,1**, und das ist der
+Befund und kein Zufall: **die zwei laengsten Register des Buches gehoeren der
+Frau, der niemand zugehoert hat, und dem Mann, dem alle zugehoert haben.** Bei
+ihr ist die Laenge zwoelf Quartale Rueckstau. Bei ihm ist sie Genuss.
+
+**Seine Masseinheit sind Chargen.** Nicht Geld, nicht Tonnen, nicht Monate.
+Die elf Wochen von 2016 sind fuer ihn *"Fifty-one charges"*, und der Text sagt
+dazu, dass er das seit seinem dreissigsten Lebensjahr tut und nicht weiss, dass
+er es tut.
+
+**Der Zug, der ihm nicht schmeichelt, ist der einzige, den er hat, und er
+traegt die ganze Szene: er hoert sich nicht zu.** Er erzaehlt eine Geschichte,
+die er oft erzaehlt hat, und sagt selbst dazu *"I made sure of it"*. Unmittelbar
+danach, in derselben Stimme und ohne eine Naht dazwischen, sagt er den Satz mit
+der zweiten Quelle. Er sieht keinen Zusammenhang zwischen den beiden, und der
+Text zeigt ihn nicht dabei, wie er einen sieht.
+
+**Er ist nicht undankbar, und das ist der Punkt.** Er ist wirklich dankbar, er
+sagt es zweimal, er sagt es an der Tuer noch einmal kuerzer, und er geht
+zufrieden. **Die Dankbarkeit aendert nichts**, und deshalb ist sie schlimmer als
+Undank.
+
+**Verbote.**
+
+* **Er merkt es nicht.** Keine Zeile, in der er innehaelt, sich korrigiert
+  oder sich entschuldigt. Wer ihm Einsicht gibt, nimmt der Szene ihren Preis.
+* **Er wird nicht zurechtgewiesen.** Weder Annie noch Georgij sagt ihm etwas
+  dazu. Georgij sagt in dem ganzen Zimmer kein Wort.
+* **Er ist kein Gegner und kein Werkzeug.** Er kommt in `b3 ch12` vor und
+  danach hoechstens als Zahl. Eine Szene, in der er sich entscheidet, ist
+  verboten; seine Entscheidung faellt in einem Sitzungssaal, in dem niemand
+  aus diesem Buch sitzt.
+
+---
+
 ### Han Bo-ram (sechsundzwanzig, Stiftung, Berichterstattung)
 
 **30 Repliken, 603 Woerter, 20,1 Woerter je Replik, 27 Prozent ueber 25
 Woerter, laengste Replik 71 Woerter.** Von Hand gezaehlt: `stimmen.py` ordnet
 ihr drei zu, weil `b3 ch09` ein Zweipersonenstueck ist.
 
-**Und die Zahl ist das Blatt.** 20,1 ist mit Abstand das laengste Register im
-Buch. Baek Jun-ho steht auf 14,7, Georgij auf 11,4, Annie auf 10,1, Moon
+**Und die Zahl ist das Blatt.** 20,1 ist das laengste Register im Buch, seit dem
+06.09. aber nicht mehr mit Abstand: Mr Namgung steht in `b3 ch12` bei 19,5.
+**Die zwei laengsten gehoeren der Frau, der niemand zugehoert hat, und dem Mann,
+dem alle zugehoert haben**, und das ist die nuetzlichste Nachbarschaft im ganzen
+Dokument. Baek Jun-ho steht auf 14,7, Georgij auf 11,4, Annie auf 10,1, Moon
 Hae-sook auf 6,7. **Die 27 Prozent ueber 25 Woerter sind ebenfalls Platz eins**,
 vor Mr Oks 23 und Gongs 17.
 

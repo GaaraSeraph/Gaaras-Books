@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 377.160 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 378.180 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -109,6 +109,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Tak (seit Ende August im Haus, Gangwon-do)](#mr-tak-seit-ende-august-im-haus-gangwon-do)
   - [Gong Doo-hyun (der Oberstaatsanwalt, um die sechzig)](#gong-doo-hyun-der-oberstaatsanwalt-um-die-sechzig)
   - [Lee Jun (sechzehn, ehemals Lot 11)](#lee-jun-sechzehn-ehemals-lot-11)
+  - [Mr Namgung (etwa sechzig, Kunde seit neunzehn Jahren)](#mr-namgung-etwa-sechzig-kunde-seit-neunzehn-jahren)
   - [Han Bo-ram (sechsundzwanzig, Stiftung, Berichterstattung)](#han-bo-ram-sechsundzwanzig-stiftung-berichterstattung)
   - [Seol Gwan-ik (einundsiebzig, seit 2011 ausser Dienst)](#seol-gwan-ik-einundsiebzig-seit-2011-ausser-dienst)
   - [Und er ist nicht der einzige Stumme](#und-er-ist-nicht-der-einzige-stumme)
@@ -705,6 +706,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Sohn](#mr-sohn)
   - [Han Bo-ram](#han-bo-ram)
   - [Mr Baek](#mr-baek)
+  - [Mr Namgung](#mr-namgung)
   - [Bae](#bae)
   - [Eun-ju](#eun-ju)
   - [Mr Noh](#mr-noh)
@@ -764,7 +766,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**135 Kapitel, 356.555 Woerter.**
+**136 Kapitel, 358.584 Woerter.**
 
 ---
 
@@ -2010,6 +2012,7 @@ diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
+| **Mr Namgung** | **Kunde, und zwar seit neunzehn Jahren.** Kauft das Vorprodukt, auf dem seine Anlage laeuft | Etwa sechzig. Neunzehn Jahre bei der Gruppe, acht bei ihr. Kommt in `b3 ch12` allein, um sich zu bedanken, und kuendigt im selben Atemzug die zweite Quelle an | B3 12 | **Er hoert sich nicht zu, und das ist sein Zug.** Er erzaehlt die elf Wochen von 2016 zum wiederholten Mal, ist mit dem Erzaehlen zufrieden, und sagt danach in derselben Stimme den Satz, der ihr das Geschaeft kostet. Er geht zufrieden hinaus und glaubt, er habe sich bedankt |
 | **Han Bo-ram** | **Die juengste Han, und die einzige, die arbeitet.** Stiftungsberichterstattung, vierter Stock | Sechsundzwanzig. Haelt Anteile an drei gelisteten Gesellschaften, unterschreibt in `b3 ch09` die bedingte Verkaufszusage zum Preis von vorher. Vierundzwanzig, als Georgij sie auf der Gala ansprach | B3 9 | **Sie ist die Frau von `b1 ch07:182`**, die am Rand einer Gruppe an der Bar stand und der er ausdruecklich nicht zulaechelte (`b1 ch07:186`), weil ein fremdes Laecheln quer durch den Raum etwas ist, worueber eine Frau in ihrer Lage entscheiden muss. **Die neun Minuten stehen in `b1 ch08:56`**, und in der neunten sagt sie etwas ueber die zweite Bestellung eines Direktors, das sie in der ersten nicht gesagt haette. Er fragt danach absichtlich etwas anderes, damit ihr letzter Satz harmlos ist. Vollzug ihrer Zusage in Akt II, mit der Shipping-Festigung |
 | **Seol Gwan-ik** | **Der alte Staatsanwalt. Die Landkarte.** Ein Zimmer in einer juristischen Fakultaet in Seodaemun, ein Seminar im Semester | Einundsiebzig, seit 2011 ausser Dienst, war 2002 elf Jahre ueber Choi. Gibt in `b3 ch10` die Reihenfolge und sagt, wie die Sache von aussen aussieht | B3 10 | **Bekommt keinen Auftrag, sondern einen wahren Rand.** Er ordnet ein, er hilft nicht. Er hat Georgij den Satz gesagt, mit dem Gong ihn spaeter angreift, Monate bevor Gong ihn hat |
 | **Lee Jun** | **Ehemals Lot 11.** Im Werk nur Jun. **Erster Auftritt `b3 ch04`, Tag 645** | Infrastructure Trainee bei Georgij; lernt Methode, nicht Gehorsam. In Band 5 bei Maeng nicht am Tisch, sondern im zweiten Raum bei Hwangs Reihe: Zeit, Tuer, Fahrzeug, Abweichung | B3 geplant, B4 aktiv | Kommt nicht lose ins Haus: Name, Schutz-/Beschaeftigungs- und Statusstruktur stehen vor Ankunft. Wird fuer spaetere Werke befaehigt; kein Motors-Pruefer, frei fuer Band 5, aber nicht in Blut-/Hinrichtungsraeumen |
@@ -6796,14 +6799,58 @@ einem Jungen, der nicht von selbst spricht.**
 
 ---
 
+### Mr Namgung (etwa sechzig, Kunde seit neunzehn Jahren)
+
+**6 Repliken, 117 Woerter, 19,5 Woerter je Replik.** Von Hand gezaehlt, weil
+`b3 ch12` in seiner Szene eine Zweipersonenszene ist und der Dialog ohne
+Begleitsaetze laeuft.
+
+**Damit steht er auf Platz zwei hinter Han Bo-rams 20,1**, und das ist der
+Befund und kein Zufall: **die zwei laengsten Register des Buches gehoeren der
+Frau, der niemand zugehoert hat, und dem Mann, dem alle zugehoert haben.** Bei
+ihr ist die Laenge zwoelf Quartale Rueckstau. Bei ihm ist sie Genuss.
+
+**Seine Masseinheit sind Chargen.** Nicht Geld, nicht Tonnen, nicht Monate.
+Die elf Wochen von 2016 sind fuer ihn *"Fifty-one charges"*, und der Text sagt
+dazu, dass er das seit seinem dreissigsten Lebensjahr tut und nicht weiss, dass
+er es tut.
+
+**Der Zug, der ihm nicht schmeichelt, ist der einzige, den er hat, und er
+traegt die ganze Szene: er hoert sich nicht zu.** Er erzaehlt eine Geschichte,
+die er oft erzaehlt hat, und sagt selbst dazu *"I made sure of it"*. Unmittelbar
+danach, in derselben Stimme und ohne eine Naht dazwischen, sagt er den Satz mit
+der zweiten Quelle. Er sieht keinen Zusammenhang zwischen den beiden, und der
+Text zeigt ihn nicht dabei, wie er einen sieht.
+
+**Er ist nicht undankbar, und das ist der Punkt.** Er ist wirklich dankbar, er
+sagt es zweimal, er sagt es an der Tuer noch einmal kuerzer, und er geht
+zufrieden. **Die Dankbarkeit aendert nichts**, und deshalb ist sie schlimmer als
+Undank.
+
+**Verbote.**
+
+* **Er merkt es nicht.** Keine Zeile, in der er innehaelt, sich korrigiert
+  oder sich entschuldigt. Wer ihm Einsicht gibt, nimmt der Szene ihren Preis.
+* **Er wird nicht zurechtgewiesen.** Weder Annie noch Georgij sagt ihm etwas
+  dazu. Georgij sagt in dem ganzen Zimmer kein Wort.
+* **Er ist kein Gegner und kein Werkzeug.** Er kommt in `b3 ch12` vor und
+  danach hoechstens als Zahl. Eine Szene, in der er sich entscheidet, ist
+  verboten; seine Entscheidung faellt in einem Sitzungssaal, in dem niemand
+  aus diesem Buch sitzt.
+
+---
+
 ### Han Bo-ram (sechsundzwanzig, Stiftung, Berichterstattung)
 
 **30 Repliken, 603 Woerter, 20,1 Woerter je Replik, 27 Prozent ueber 25
 Woerter, laengste Replik 71 Woerter.** Von Hand gezaehlt: `stimmen.py` ordnet
 ihr drei zu, weil `b3 ch09` ein Zweipersonenstueck ist.
 
-**Und die Zahl ist das Blatt.** 20,1 ist mit Abstand das laengste Register im
-Buch. Baek Jun-ho steht auf 14,7, Georgij auf 11,4, Annie auf 10,1, Moon
+**Und die Zahl ist das Blatt.** 20,1 ist das laengste Register im Buch, seit dem
+06.09. aber nicht mehr mit Abstand: Mr Namgung steht in `b3 ch12` bei 19,5.
+**Die zwei laengsten gehoeren der Frau, der niemand zugehoert hat, und dem Mann,
+dem alle zugehoert haben**, und das ist die nuetzlichste Nachbarschaft im ganzen
+Dokument. Baek Jun-ho steht auf 14,7, Georgij auf 11,4, Annie auf 10,1, Moon
 Hae-sook auf 6,7. **Die 27 Prozent ueber 25 Woerter sind ebenfalls Platz eins**,
 vor Mr Oks 23 und Gongs 17.
 
@@ -7554,6 +7601,8 @@ ist.
 - [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
 - [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
+- [OFFEN] **B3 11** Mr Namgung an Annie · gesagt Tag 762 · faellig im Januar 2028, also zwischen Tag 822 und Tag 850 · "I am going to have to put a second source in front of my board in January." · **Der Preis der Charter, angesagt von dem Mann, der sich gerade bedankt hat.** Neunzehn Jahre Kunde, acht bei ihr. Faellt in Akt II und kostet sie Geschaeft, das nicht zurueckkommt. `zusagen.py --neu` findet es nicht, weil FRIST Monatsnamen nicht kennt; von Hand eingetragen am 06.09.
+- [OFFEN] **B3 12** Annies Gruppe an elf Kunden · gesagt Tag 762 · faellig bei der Rueckkehr auf den Fahrplan · "We will write again when it returns to the scheduled service." · **Der Brief, der niemanden nennt.** Vier Zeilen an alle elf. Solange kein zweiter Brief geht, laeuft die Charter, und jeder der elf weiss das. `zusagen.py --neu` findet es nicht, weil die Zusage in einem Brief steht und nicht in einer Replik; von Hand eingetragen am 06.09.
 - [BEZAHLT] **B3 10** Annie an Georgij · gesagt Tag 742 · faellig Tag 748 · "Mr Chae is going to write down why I am unhappy with Hanseong." · **Der datierte Grund, der aelter ist als die Reihenfolge.** Der Donnerstag ist der 21. Oktober 2027. Eingeloest und belegt in `b3 ch11`, Tag 753: zweieinhalb Seiten in Mr Chaes Hand, ihre Unterschrift darunter. **Es kostet sie etwas Echtes**, und `b3 ch10` sagt was: sie muss aufhoeren, es Instandhaltung zu nennen, und dann steht auf Papier, dass sie fuenf Monate lang bezahlt hat, was ihr angetan wurde. `zusagen.py --neu` hat den Posten nicht gefunden, weil FRIST *by Thursday* kennt und nicht *on Thursday*; von Hand eingetragen am 06.09.
 - [OFFEN] **B3 09** Georgij an Han Bo-ram · gesagt Tag 732 · faellig Tag 1159 · "If nothing has happened by then, the whole of it lapses." · **Die Verfallsfrist der bedingten Verkaufszusage.** Vierzehn Monate nach Tag 732 ist Dienstag, der 5. Dezember 2028. Laeuft die Frist ab, ohne dass etwas geschehen ist, behaelt sie ihre Anteile und schuldet niemandem etwas. **Sie ist der Grund, warum ihre Unterschrift keine Kapitulation ist**, und ohne sie waere Annies Satz, es gebe keine Fassung, in der die Frau schlechter dasteht, unwahr. `zusagen.py --neu` findet sie nicht, weil Zusage und Frist in zwei Repliken stehen; von Hand eingetragen am 06.09.
 - [KEINE] **B3 03** Gong Doo-hyun an Georgij · gesagt Tag 628 · faellig bei nichts · "There is a file and I am going to show it to you, because you are going to spend the next year guessing at it otherwise" · Keine Zusage mit Frist, sondern die Ankuendigung des naechsten Satzes: er schiebt die Akte in derselben Szene ueber den Tisch. Steht hier, damit `--neu` sie nicht jedes Mal wieder meldet
@@ -9106,6 +9155,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 9** - Han Bo-ram, die bedingte Zusage zum Preis von vorher | 732 | Di **5. Oktober 2027** |
 | **Band 3, Kapitel 10** - Seol Gwan-ik, die Reihenfolge, und Mr Chaes datierter Grund | 742 | Fr **15. Oktober 2027** |
 | **Band 3, Kapitel 11** - die Maschine steht, und nichts ist geschehen. **Ende Akt I** | 753 | Di **26. Oktober 2027** |
+| **Band 3, Kapitel 12** - die Charter, der Brief an elf Kunden, Mr Namgung. **Anfang Akt II** | 762 | Do **4. November 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -33067,7 +33117,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 918 | 106 (b1ch01-b3ch11) | 1 | 753 |
+| Annie | 926 | 107 (b1ch01-b3ch12) | 1 | 762 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
@@ -33107,6 +33157,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
+| Mr Namgung | 7 | 1 (b3ch12) | 762 | 762 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -33123,7 +33174,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-918 Nennungen in 106 Kapiteln.
+926 Nennungen in 107 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34045,6 +34096,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:96 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
 | 753 | b3ch11:228 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
 | 753 | b3ch11:246 | "Yes," said Annie. "I wanted to hear you say it." |
+| 762 | b3ch12:58 | Annie copied the second number onto the top sheet. |
+| 762 | b3ch12:100 | Annie had the quarter in front of her and had not turned the page. |
+| 762 | b3ch12:132 | "Not while the charters are the only thing on the table," said Annie. |
+| 762 | b3ch12:188 | Annie did not move at all. |
+| 762 | b3ch12:230 | Annie was at the desk at half past six. |
+| 762 | b3ch12:264 | "Interference," said Annie. "That is his word and it is a good one. An insurer uses it, .. |
+| 762 | b3ch12:270 | Annie put the pen across the page and left it there. |
+| 762 | b3ch12:280 | Annie turned the quarter face down. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34305,6 +34364,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:66` (Tag 753) - one
 - `b3ch11:96` (Tag 753) - two
 - `b3ch11:228` (Tag 753) - one
+- `b3ch12:230` (Tag 762) - six
+- `b3ch12:264` (Tag 762) - one
 
 ---
 
@@ -38570,6 +38631,28 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch24:46` (Tag 55) - eight, one
 - `b2ch01:18` (Tag 150) - four, six
 - `b2ch54:66` (Tag 319) - eight, one
+
+---
+
+### Mr Namgung
+
+7 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 762 | b3ch12:138 | Mr Namgung telephoned on the Tuesday and came on the Thursday. |
+| 762 | b3ch12:166 | Mr Namgung took the glasses off and folded them and put them on the arm of the chair. |
+| 762 | b3ch12:174 | "Everybody knows the eleven weeks. Fifty-one charges." Mr Namgung has counted his life i.. |
+| 762 | b3ch12:190 | "That is not about you," said Mr Namgung. "You will understand that better than anybody .. |
+| 762 | b3ch12:198 | He was there because Mr Namgung has met him twice and does not find him strange, and bec.. |
+| 762 | b3ch12:204 | At the door Mr Namgung said the eleven weeks again. |
+| 762 | b3ch12:236 | "Four times the berth on eleven sailings, and it will be twelve next quarter." Georgij h.. |
+
+### Zahlen in der Naehe von Mr Namgung
+
+- `b3ch12:174` (Tag 762) - eleven, fifty-one, one, thirty
+- `b3ch12:204` (Tag 762) - eleven
+- `b3ch12:236` (Tag 762) - eleven, four, twelve, two
 
 ---
 

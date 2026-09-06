@@ -83,6 +83,7 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 9** - Han Bo-ram, die bedingte Zusage zum Preis von vorher | 732 | Di **5. Oktober 2027** |
 | **Band 3, Kapitel 10** - Seol Gwan-ik, die Reihenfolge, und Mr Chaes datierter Grund | 742 | Fr **15. Oktober 2027** |
 | **Band 3, Kapitel 11** - die Maschine steht, und nichts ist geschehen. **Ende Akt I** | 753 | Di **26. Oktober 2027** |
+| **Band 3, Kapitel 12** - die Charter, der Brief an elf Kunden, Mr Namgung. **Anfang Akt II** | 762 | Do **4. November 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis

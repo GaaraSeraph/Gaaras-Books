@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 918 | 106 (b1ch01-b3ch11) | 1 | 753 |
+| Annie | 926 | 107 (b1ch01-b3ch12) | 1 | 762 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
@@ -58,6 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
+| Mr Namgung | 7 | 1 (b3ch12) | 762 | 762 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -74,7 +75,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-918 Nennungen in 106 Kapiteln.
+926 Nennungen in 107 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -996,6 +997,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:96 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
 | 753 | b3ch11:228 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
 | 753 | b3ch11:246 | "Yes," said Annie. "I wanted to hear you say it." |
+| 762 | b3ch12:58 | Annie copied the second number onto the top sheet. |
+| 762 | b3ch12:100 | Annie had the quarter in front of her and had not turned the page. |
+| 762 | b3ch12:132 | "Not while the charters are the only thing on the table," said Annie. |
+| 762 | b3ch12:188 | Annie did not move at all. |
+| 762 | b3ch12:230 | Annie was at the desk at half past six. |
+| 762 | b3ch12:264 | "Interference," said Annie. "That is his word and it is a good one. An insurer uses it, .. |
+| 762 | b3ch12:270 | Annie put the pen across the page and left it there. |
+| 762 | b3ch12:280 | Annie turned the quarter face down. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1256,6 +1265,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:66` (Tag 753) - one
 - `b3ch11:96` (Tag 753) - two
 - `b3ch11:228` (Tag 753) - one
+- `b3ch12:230` (Tag 762) - six
+- `b3ch12:264` (Tag 762) - one
 
 ---
 
@@ -5521,6 +5532,28 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch24:46` (Tag 55) - eight, one
 - `b2ch01:18` (Tag 150) - four, six
 - `b2ch54:66` (Tag 319) - eight, one
+
+---
+
+## Mr Namgung
+
+7 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 762 | b3ch12:138 | Mr Namgung telephoned on the Tuesday and came on the Thursday. |
+| 762 | b3ch12:166 | Mr Namgung took the glasses off and folded them and put them on the arm of the chair. |
+| 762 | b3ch12:174 | "Everybody knows the eleven weeks. Fifty-one charges." Mr Namgung has counted his life i.. |
+| 762 | b3ch12:190 | "That is not about you," said Mr Namgung. "You will understand that better than anybody .. |
+| 762 | b3ch12:198 | He was there because Mr Namgung has met him twice and does not find him strange, and bec.. |
+| 762 | b3ch12:204 | At the door Mr Namgung said the eleven weeks again. |
+| 762 | b3ch12:236 | "Four times the berth on eleven sailings, and it will be twelve next quarter." Georgij h.. |
+
+### Zahlen in der Naehe von Mr Namgung
+
+- `b3ch12:174` (Tag 762) - eleven, fifty-one, one, thirty
+- `b3ch12:204` (Tag 762) - eleven
+- `b3ch12:236` (Tag 762) - eleven, four, twelve, two
 
 ---
 
