@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 376.074 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 377.013 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -627,6 +627,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wenn doch ein Feind aus dieser Ecke gebraucht wird](#wenn-doch-ein-feind-aus-dieser-ecke-gebraucht-wird)
 - [Plan, Band 6](#plan-band-6)  ·  `doc/35-plan-band-6.md`
   - [Die Chaebol-Verkehrsordnung](#die-chaebol-verkehrsordnung)
+  - [Startfolge: der erste sichtbare Stoss](#startfolge-der-erste-sichtbare-stoss)
   - [Warum das zu Geburt und Elternregel passt](#warum-das-zu-geburt-und-elternregel-passt)
   - [Arbeitsrichtung fuer den Gegner](#arbeitsrichtung-fuer-den-gegner)
   - [Warum er handelt](#warum-er-handelt)
@@ -763,7 +764,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**135 Kapitel, 356.329 Woerter.**
+**135 Kapitel, 356.493 Woerter.**
 
 ---
 
@@ -843,6 +844,10 @@ Sie stehen unten in ihrem eigenen Register und sind bisher zu dünn gesät.
 
 **Der Anlauf auf die Schlusszeile läuft über Erschöpfung, nie über Ruhe.**
 
+**Akt I von Band 3 bekommt keine grosse Szene, entschieden vom Autor am 06.09.** Die letzte war `b2 ch90` am 16. Mai 2027, Akt I sind elf Kapitel, und elf ist die Haelfte der Kadenz. Was Akt I bekommt, sind die kleinen Dinge und der Platz.
+
+**Und der Platz war weg.** In `b2 ch90` endet der Band damit, dass er an der Seite des Schreibtischs hinuntergeht. Zwei Tage spaeter faengt Akt I an, und in **neun Schreibtischszenen ueber hundertdreiundsechzig Tage** kam er kein einziges Mal vor; stattdessen stand dreimal ausdruecklich, dass Georgij steht. Gemessen am 06.09.: *which is where he sits*, *with his back against it*, *at the side of the desk* und *into his hair* stehen zusammen **dreissigmal in Band 2 und keinmal in Band 3**. Das ist keine fehlende Szene, das ist eine fehlende Tatsache des Zimmers.
+
 ---
 
 ## Register A · Der Boden
@@ -863,6 +868,9 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 9a | **B2 32** | **Do 4. Juni** | **Sie schickt ihn zum ersten Mal ausdruecklich runter.** *"Sit down," said Annie. He looked at the chair. "Not there."* Er setzt sich auf ihrer Seite des Zimmers auf den Boden. |
 | 9b | **B2 32** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | **B2 90** | **So 16. Mai** | Nach dem Weltsatz haelt sie ihm die Hand hin. Er steht bereits vor ihr und geht fuer die Fingerspitzen wieder hinunter: *"He went down at the side of the desk and he did not take hold of it."* |
+| 11 | **B3 1** | **Di 18. Mai** | **Die zweite Stelle, an der er absichtlich nicht runtergeht**, und die Begruendung ist dieselbe wie in B2 6: er muss an diesem Abend bitten. *"He did not go down at the side of the desk, which is where he sits."* Der Text nennt dazu die Gewohnheit beim Namen, weil der Bandanfang sie fuer den Leser wieder aufmachen muss. Annie belegt es aus ihrem Mund: *"for as long as you have been standing there"* |
+| 12 | **B3 3** | **Mi 23. Juni** | Der Abend nach Gong, an dem er nichts mitbringt. *"He went down at the side of the desk before he started, with his back against it, which is where he sits."* |
+| 13 | **B3 11** | **Di 26. Oktober** | Gewoehnlich und ohne Kommentar, damit der Platz in Akt I nicht einmal vorkommt, sondern dreimal. *"He was at the side of the desk with his back against it, which is where he sits."* |
 
 **Feststehend:** Vor dem 4. Juni war sie nie auf dem Boden. Er war es seit dem
 11. März fast täglich. Keine Zeile darf das umdrehen.
@@ -884,10 +892,11 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 7 | B2 52 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* Dann: *"She put one hand into his hair, at the back, the way she used to in the spring when a day had been long and neither of them said anything about it."* |
 | 8 | B2 54 | Di 18. Aug | Sechs Tage spaeter, waehrend sie liest. *"Then she put her hand down into his hair without looking away from the page, at the back, and left it there."* Danach steht fest: *"He has stopped counting them. He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
 | 9 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
+| 10 | **B3 3** | **Mi 23. Juni** | **Die erste in Band 3, achtunddreissig Tage nach der letzten.** *"Annie put her hand down into his hair, at the back, and left it there."* Der Erzaehler zaehlt den Abstand und sagt ausdruecklich, dass Georgij ihn nicht kennt: *"He does not know that. He stopped counting them last summer and has not started again."* Danach nimmt sie die Hand zurueck und schreibt die eine Zeile, die das Kapitel beendet |
 
 **Der Zähler:** 9, 19, 25 und 28 sind vier. In 32 folgen am selben Abend das
 fünfte und sechste Mal. 52 ist das siebte, 54 das achte, **90 das neunte und
-letzte des Bandes**. Wer eine neue schreibt, zählt hier weiter und schreibt
+letzte des Bandes**, und **`b3 ch03` das zehnte**. Wer eine neue schreibt, zählt hier weiter und schreibt
 keine Zahl aus dem Kopf. **In 54 steht fest, dass Georgij selbst schon im Juli
 aufgehoert hat mitzuzählen**, und das ist eine Figurenentwicklung und keine
 Erlaubnis, die Kette zu vergessen.
@@ -960,9 +969,10 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 | B2 54 | *"You have not eaten since yesterday."* Sie weiss von Mrs Seos Teller und schickt ihn essen, aber danach wieder zu sich hinauf. |
 | B2 78 | *"Go and eat something," she said. "Mrs Seo has held it once and she does not hold anything twice."* |
 | B2 87 | *"There is soup," she said. "You have not eaten since one and I counted."* |
+| **B3 8** | **Sie verschiebt einen Termin fuer ihn**, und das ist einer der vier, die unten als unbenutzt standen. Er bittet um einen Tag ohne Inhalt, sie fragt nicht wofuer: *"Then you have one." She turned a page over and did not look at what was under it. "Mr Chae wanted forty minutes and he can want them on Thursday."* Nachgetragen am 06.09., der Text hatte es schon |
 
 **Noch nicht benutzt und verfügbar:** dass sie sein Essen bestellt, ohne zu
-fragen. Dass sie einen Termin verschiebt und ihm nicht sagt, warum. Dass sie
+fragen. Dass sie
 etwas in seiner Handschrift aufhebt. Dass sie ihn in einem Raum voller Leute
 zuerst ansieht. Jede davon ist eine halbe Seite und keine Szene.
 
@@ -10758,8 +10768,8 @@ Der Hammer ist hölzern, etwa so lang wie ein Löffel, und macht in einem Saal d
 ## Der elfte Maerz
 
 **Das Datum gehoert zweien.** Chois Randnotiz von 2015 (`b3 ch06:222`) und der
-Abend, an dem Georgij 2027 auf den Teppich geht (`b2 ch32:286`), fallen beide
-auf den elften Maerz. **Zufall, vom Autor am 06.09. gesehen und
+Abend, an dem Georgij 2026 auf den Teppich geht (`b2 ch05`, Tag 159, belegt
+in `b2 ch32:286`), fallen beide auf den elften Maerz, elf Jahre auseinander. **Zufall, vom Autor am 06.09. gesehen und
 stehengelassen.** Kein Bild, das ausgespielt wird, und kein Fehler, der
 berichtigt wird. Die Begruendung steht in `doc/41`.
 
@@ -11085,6 +11095,10 @@ Mengenangabe.**
 256. **MRFTA NAMENTLICH NUR IN FACHSCHRIFT:** Der Monopoly Regulation and Fair Trade Act darf in Akten, Regulatorenschreiben und bei Chae/Yoon/externer Rechtsberatung namentlich auftauchen. Dort duerfen Article 6, Article 9 und Article 14 stehen. Dialoge zwischen Annie, Georgij und Werkleuten sollen nicht in Paragraphen reden.
 257. **ARTICLE 6 IST VERMUTUNG, NICHT SCHULD:** Hohe Marktanteile stuetzen die Marktbeherrschungsvermutung, aber nicht automatisch einen Vorwurf. Fuer Band 6 ist das Druck, kein Schuldspruch.
 258. **ARTICLE 9/14/REMEDIES TRAGEN DEN PLOT:** Der wichtigere Hebel ist die Frage, ob Hanseong/Motors/Electronics/Shipping als Zusammenschluss nur mit Remedies haltbar waren und ob diese Bedingungen nach Ehe, Kind und Georgijs Fuehrung noch real eingehalten werden. Article 9 ist der Zusammenschlussrahmen, Article 14 die Corrective-Measures-Schiene.
+259. **BAND-6-START: ERSTER STOSS IST ROUTINE:** Kurz vor der Geburt kommt ein Commission/KFTC-Schreiben zu Remedies, Kontrollstruktur, bindender Fuehrung, Motors/Electronics-Trennung, Shipping-Zugang, offenen Werkstattdaten und Compliance-Monitoring. Es ist beantwortbar, aber nicht belanglos.
+260. **NACH DER GEBURT WIEDERHOLT SICH DER SATZ:** Bank fragt nach Covenants und Vertretungslinien; Versicherer nach Shipping-/Industrieanlagenrisiko; Hanseong-Reste oder Minderheiten legen Beschwerdematerial nach. Jeder Stoss ist fuer sich plausibel, zusammen sind sie eine Lesart.
+261. **DER ALTE CHAIRMAN KOMMT ERST DANACH:** Er droht nicht, sondern bietet Hilfe an: Industrieaufsicht, Stabilitaetskreis, Senior Trustee, Courtesy zwischen Haeusern. Dadurch wird klar, dass die vorherigen Schreiben nicht derselbe Absender waren, aber dieselbe Richtung hatten.
+262. **GEORGIJS GEGNER IST EINE MEINUNG:** Er kaempft nicht gegen einen boesen Brief, sondern gegen eine glaubwuerdige Meinung ueber ihn. Drohung bestaetigt sie; Annie allein bestaetigt, dass er nicht tragen darf; Georgij allein bestaetigt, dass Annie nach Geburt aus Raeumen verschwindet. Antwort: Taktung und Struktur.
 
 ---
 
@@ -14138,19 +14152,19 @@ bezahlt.
 
 | Kapitel | Zusage | Naehe | Stimme | Erstauftritt |
 |---|---|---|---|---|
-| 01 Der erste Gegenstand | | | | Gong Doo-hyun |
+| 01 Der erste Gegenstand | | **ja** | | Gong Doo-hyun |
 | 02 Der neunundvierzigste Tag | | | ja | |
-| 03 Mit sechzig | | | ja | |
+| 03 Mit sechzig | | **ja** | ja | |
 | 04 Das Halsband | | | ja | Lee Jun |
 | 05 Die Spalte | | | | |
 | 06 Der Rand des Entwurfs | **ja** B2 65 | | | |
 | 07 Die Werkstaetten | | | ja | |
-| 08 Ein Tag ohne Inhalt | **ja** B2 88 | | | |
+| 08 Ein Tag ohne Inhalt | **ja** B2 88 | **ja** | | |
 | 09 Niemand zaehlt | | | ja | Han Bo-ram |
 | 10 Wohin es ginge | | | ja | Seol Gwan-ik |
-| 11 Nichts ist geschehen | | | | |
+| 11 Nichts ist geschehen | | **ja** | ja | |
 
-**Zwei Kandidaten, und beide bleiben.**
+**Am 06.09. hat Akt I die Naehe bekommen, und damit ist aus zwei Kandidaten einer geworden.** `ch01`, `ch03`, `ch08` und `ch11` stehen jetzt im Register von `doc/10`, `ch11` ausserdem im Stimmenblatt. Uebrig ist `ch05`, und es bleibt.
 
 **`ch05` traegt zwei Dinge, die kein Kriterium abfragt.** Erstens das
 Laecheln: die dritte Respektvolle Fundstelle des Buches und die erste seit
@@ -14163,10 +14177,7 @@ Dazu die Spalte selbst, achtzehn Zeilen lang: einundachtzig, neunzehn,
 vierzehn, elf mit Klausel. Vier Zahlen, die in `ch10` und `ch11` wieder
 gebraucht werden.
 
-**`ch11` ist das Ende von Akt I und traegt den Zustand.** Annies zwei Regeln,
-die drei Vorlaufkaeufe, die vier Makler, die Leihe, die zwei Seiten in der
-Schublade. Und Lee Juns zweite Absage ohne Begruendung, ohne die die Zusage
-**B3 04** in Akt II nichts zu bezahlen hat.
+**`ch11` war der zweite Kandidat und ist keiner mehr.** Es traegt seit dem 06.09. den dritten Boden-Eintrag von Akt I und Lee Juns gemessenes Register. Getragen hat es immer schon den Zustand am Ende des Aktes: Annies zwei Regeln, die drei Vorlaufkaeufe, die vier Makler, die Leihe, die zwei Seiten in der Schublade. Und Lee Juns zweite Absage ohne Begruendung, ohne die die Zusage **B3 04** in Akt II nichts zu bezahlen hat.
 
 **Die Lehre daraus ist nicht ueber diese zwei Kapitel.** Sie ist, dass die
 vier Kriterien vier sind und nicht fuenf. Ein Kapitel kann eine Festlegung aus
@@ -31337,6 +31348,42 @@ gewachsenes Haus nach Ehe, Kind und Georgijs Fuehrung weiterhin getrennt,
 offen und beaufsichtigbar genug ist. Darum koennen alte Haeuser oeffentliche
 Mechanismen nutzen, ohne dass die Regulierer gekauft sein muessen.
 
+### Startfolge: der erste sichtbare Stoss
+
+**Der erste Stoss ist kein Angriff, sondern Routine.** Kurz vor der Geburt
+kommt ein Schreiben der Commission/KFTC-Schiene: Update zu Remedies,
+Kontrollstruktur, bindender Fuehrung, Motors/Electronics-Trennung,
+Shipping-Zugang, offenen Werkstattdaten und Compliance-Monitoring. Das liest
+sich nicht wie Krieg. Genau deshalb ist es gut.
+
+**Annie behandelt es als normales Papier eines grossen Hauses.** Sie wird
+nicht aus der Schwangerschaft gerissen und nicht dramatisch geschont. Chae und
+Yoon koennen den Vorgang fachlich einordnen: beantwortbar, aber nicht
+belanglos. Georgij liest den Ton und die Anschlussstellen. Er merkt noch nicht
+den Gegner, sondern nur, dass der Brief an zu vielen richtigen Stellen
+ansetzt.
+
+**Nach der Geburt kommt derselbe Satz aus drei Richtungen wieder.** Eine Bank
+fragt nach Covenants und Zeichnungs-/Vertretungslinien. Ein Versicherer
+verlangt eine erneuerte Risikozuordnung fuer Shipping und Industrieanlagen.
+Hanseong-Reste oder Minderheiten legen Beschwerdematerial nach, das nicht
+gelogen sein muss. Jede einzelne Bewegung ist plausibel. Zusammen sind sie
+eine Lesart.
+
+**Erst danach erscheint der alte Chairman.** Nicht als Mann, der droht,
+sondern als Mann, der Hilfe anbietet: freiwillige Industrieaufsicht,
+Stabilitaetskreis, Senior Trustee, eine Courtesy zwischen Haeusern, angeblich
+um Annies neue Nachfolgeform oeffentlich haltbar zu machen. Damit versteht
+Georgij, dass die vorherigen Schreiben nicht derselbe Absender waren, aber
+dieselbe Richtung hatten.
+
+**Der Plotpunkt:** Georgij kaempft nicht gegen einen boesen Brief. Er kaempft
+gegen eine ordentliche, glaubwuerdige Meinung ueber ihn. Wenn er droht,
+beweist er sie. Wenn Annie alles selbst beantwortet, bestaetigt sie, dass er
+nicht tragen darf. Wenn sie ihn allein schickt, bekommt der alte Chairman die
+Lesart, dass Annie nach der Geburt aus Raeumen verschwindet. Also muss die
+Antwort in Taktung und Struktur liegen.
+
 ### Warum das zu Geburt und Elternregel passt
 
 **Geburt ist nicht Schwaeche und nicht Ausloeser. Geburt ist Dauer.** Das Kind
@@ -32376,7 +32423,7 @@ wieder. Baek Jun-ho hat den Entwurf zwoelf Jahre in derselben Kiste und macht
 sie erst auf, als der Errichter im April 2027 stirbt (`b3 ch06:222`,
 `b3 ch06:278`).
 
-**2027, in einem Haus in Seoul.** Georgij geht an dem Abend ohne
+**2026, in einem Haus in Seoul.** Tag 159, ein Mittwoch. Georgij geht an dem Abend ohne
 Aufforderung auf den Teppich neben ihren Schreibtisch, und es ist seither
 sein Platz (`b2 ch32:286`). Sie legt ihm die Hand in den Nacken und geht zum
 ersten Mal nicht weiter (`b2 ch32:410`). Die erste Seite des Hefts hat seit
@@ -32386,7 +32433,7 @@ Zusage aus `b2 ch12:126` und ihr Satz aus `b2 ch25:382`.
 **Der Autor hat es am 06.09. gesehen und Zufall genannt, und beide Termine
 bleiben stehen.**
 
-**Warum das hier steht und nicht bloss geschieht.** Zweimal bindet sich an
+**Warum das hier steht und nicht bloss geschieht.** Elf Jahre auseinander bindet sich an
 demselben Kalendertag ein Mann selbst, und der eine tut es gegen sich und der
 andere zu ihren Fuessen. Ein spaeterer Pruefdurchgang findet das und
 verschiebt einen der beiden, weil es aussieht wie ein Fehler. **Es ist
@@ -33951,19 +33998,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch90:86 | Annie's hand stayed where it was. |
 | 590 | b2ch90:106 | Annie did not move at all. |
 | 590 | b2ch90:124 | Annie did not say anything. |
-| 592 | b3ch01:124 | "Say the name again," said Annie. |
-| 592 | b3ch01:130 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
-| 592 | b3ch01:142 | Annie waited. |
-| 592 | b3ch01:152 | Annie did not answer for a while. |
-| 592 | b3ch01:174 | Annie looked at him for a moment. |
-| 592 | b3ch01:184 | Annie picked the pen back up, which is what she does when a thing has been decided. |
+| 592 | b3ch01:130 | "Say the name again," said Annie. |
+| 592 | b3ch01:136 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
+| 592 | b3ch01:148 | Annie waited. |
+| 592 | b3ch01:158 | Annie did not answer for a while. |
+| 592 | b3ch01:180 | Annie looked at him for a moment. |
+| 592 | b3ch01:190 | Annie picked the pen back up, which is what she does when a thing has been decided. |
 | 600 | b3ch02:172 | "And what did you get," said Annie. |
 | 600 | b3ch02:190 | Annie went on writing. |
 | 600 | b3ch02:198 | Annie stopped writing and did not put the pen down. |
-| 628 | b3ch03:288 | Annie did not interrupt any of it, and she does not. |
-| 628 | b3ch03:300 | "Then say what he is," said Annie. |
-| 628 | b3ch03:306 | Annie did not take that as the answer. |
-| 628 | b3ch03:322 | Annie wrote one line and did not say what it was. |
+| 628 | b3ch03:290 | Annie did not interrupt any of it, and she does not. |
+| 628 | b3ch03:302 | "Then say what he is," said Annie. |
+| 628 | b3ch03:308 | Annie did not take that as the answer. |
+| 628 | b3ch03:324 | Annie put her hand down into his hair, at the back, and left it there. |
 | 645 | b3ch04:262 | Annie was at the desk at half past two and had been since eleven. |
 | 645 | b3ch04:300 | Annie looked at the window and not at him. |
 | 645 | b3ch04:328 | Annie looked at him. |
@@ -33995,7 +34042,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:66 | And the other rule costs the most, and it is Annie's. |
 | 753 | b3ch11:90 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
 | 753 | b3ch11:222 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
-| 753 | b3ch11:236 | "Yes," said Annie. "I wanted to hear you say it." |
+| 753 | b3ch11:240 | "Yes," said Annie. "I wanted to hear you say it." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34240,8 +34287,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:226` (Tag 531) - eleven, four, two
 - `b2ch87:498` (Tag 531) - one
 - `b2ch89:90` (Tag 590) - four
-- `b3ch01:130` (Tag 592) - four, one, two
-- `b3ch03:322` (Tag 628) - one
+- `b3ch01:136` (Tag 592) - four, one, two
 - `b3ch04:262` (Tag 645) - eleven, two
 - `b3ch04:348` (Tag 645) - one
 - `b3ch05:286` (Tag 672) - ten
@@ -36053,7 +36099,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:14 | Mrs Seo took it in the hall and brought it up herself. |
 | 592 | b3ch01:20 | "There is a card," said Mrs Seo. "It has your name on the front of it and it has it corr.. |
 | 592 | b3ch01:28 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
-| 592 | b3ch01:202 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
+| 592 | b3ch01:208 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
 | 628 | b3ch03:30 | The telephone rang in the small room at ten past nine on the Monday, and Mrs Seo answere.. |
 | 645 | b3ch04:12 | It was that Mrs Seo was already at the front door before it stopped, which she does not .. |
 | 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
@@ -36596,13 +36642,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:38 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
 | 592 | b3ch01:58 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
 | 592 | b3ch01:104 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
-| 592 | b3ch01:140 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
-| 592 | b3ch01:200 | Choi Dae-ho was dead on the eighth of April. |
+| 592 | b3ch01:146 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
+| 592 | b3ch01:206 | Choi Dae-ho was dead on the eighth of April. |
 | 600 | b3ch02:68 | He is not sorry Choi Dae-ho is dead, and he does not arrange his face to look as if he w.. |
 | 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
 | 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
 | 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
-| 628 | b3ch03:292 | "So did Choi." |
+| 628 | b3ch03:294 | "So did Choi." |
 | 742 | b3ch10:62 | That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
@@ -36644,7 +36690,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:202` (Tag 590) - five, thirty, thirty-one, two
 - `b3ch01:38` (Tag 592) - forty
 - `b3ch01:104` (Tag 592) - four, one
-- `b3ch01:140` (Tag 592) - three
+- `b3ch01:146` (Tag 592) - three
 - `b3ch02:154` (Tag 600) - twenty-five
 - `b3ch10:62` (Tag 742) - one
 
@@ -36740,7 +36786,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:84 | He telephoned Baek Jun-ho at half past eleven and asked one question. |
 | 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
 | 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
-| 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
+| 592 | b3ch01:150 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
 | 686 | b3ch06:204 | Baek Jun-ho telephoned on the Friday morning, which he does not. |
 | 686 | b3ch06:234 | Baek Jun-ho let him have it for as long as he wanted it. |
 | 686 | b3ch06:238 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
@@ -38169,7 +38215,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:126 | "Gong Doo-hyun." |
+| 592 | b3ch01:132 | "Gong Doo-hyun." |
 | 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
 | 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
 | 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
@@ -38187,7 +38233,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
 | 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
 | 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
-| 753 | b3ch11:234 | "Gong Doo-hyun." |
+| 753 | b3ch11:238 | "Gong Doo-hyun." |
 
 ### Zahlen in der Naehe von Gong Doo-hyun
 
@@ -38377,14 +38423,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:112 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
 | 753 | b3ch11:130 | "There is a company on here twice," said Lee Jun. |
 | 753 | b3ch11:150 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:256 | Lee Jun came back at six with the sheet still in his hand. |
+| 753 | b3ch11:260 | Lee Jun came back at six with the sheet still in his hand. |
 
 ### Zahlen in der Naehe von Lee Jun
 
 - `b3ch04:360` (Tag 645) - four
 - `b3ch07:150` (Tag 707) - twenty
 - `b3ch11:112` (Tag 753) - five
-- `b3ch11:256` (Tag 753) - six
+- `b3ch11:260` (Tag 753) - six
 
 ---
 

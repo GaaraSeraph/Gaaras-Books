@@ -196,6 +196,42 @@ gewachsenes Haus nach Ehe, Kind und Georgijs Fuehrung weiterhin getrennt,
 offen und beaufsichtigbar genug ist. Darum koennen alte Haeuser oeffentliche
 Mechanismen nutzen, ohne dass die Regulierer gekauft sein muessen.
 
+### Startfolge: der erste sichtbare Stoss
+
+**Der erste Stoss ist kein Angriff, sondern Routine.** Kurz vor der Geburt
+kommt ein Schreiben der Commission/KFTC-Schiene: Update zu Remedies,
+Kontrollstruktur, bindender Fuehrung, Motors/Electronics-Trennung,
+Shipping-Zugang, offenen Werkstattdaten und Compliance-Monitoring. Das liest
+sich nicht wie Krieg. Genau deshalb ist es gut.
+
+**Annie behandelt es als normales Papier eines grossen Hauses.** Sie wird
+nicht aus der Schwangerschaft gerissen und nicht dramatisch geschont. Chae und
+Yoon koennen den Vorgang fachlich einordnen: beantwortbar, aber nicht
+belanglos. Georgij liest den Ton und die Anschlussstellen. Er merkt noch nicht
+den Gegner, sondern nur, dass der Brief an zu vielen richtigen Stellen
+ansetzt.
+
+**Nach der Geburt kommt derselbe Satz aus drei Richtungen wieder.** Eine Bank
+fragt nach Covenants und Zeichnungs-/Vertretungslinien. Ein Versicherer
+verlangt eine erneuerte Risikozuordnung fuer Shipping und Industrieanlagen.
+Hanseong-Reste oder Minderheiten legen Beschwerdematerial nach, das nicht
+gelogen sein muss. Jede einzelne Bewegung ist plausibel. Zusammen sind sie
+eine Lesart.
+
+**Erst danach erscheint der alte Chairman.** Nicht als Mann, der droht,
+sondern als Mann, der Hilfe anbietet: freiwillige Industrieaufsicht,
+Stabilitaetskreis, Senior Trustee, eine Courtesy zwischen Haeusern, angeblich
+um Annies neue Nachfolgeform oeffentlich haltbar zu machen. Damit versteht
+Georgij, dass die vorherigen Schreiben nicht derselbe Absender waren, aber
+dieselbe Richtung hatten.
+
+**Der Plotpunkt:** Georgij kaempft nicht gegen einen boesen Brief. Er kaempft
+gegen eine ordentliche, glaubwuerdige Meinung ueber ihn. Wenn er droht,
+beweist er sie. Wenn Annie alles selbst beantwortet, bestaetigt sie, dass er
+nicht tragen darf. Wenn sie ihn allein schickt, bekommt der alte Chairman die
+Lesart, dass Annie nach der Geburt aus Raeumen verschwindet. Also muss die
+Antwort in Taktung und Struktur liegen.
+
 ### Warum das zu Geburt und Elternregel passt
 
 **Geburt ist nicht Schwaeche und nicht Ausloeser. Geburt ist Dauer.** Das Kind

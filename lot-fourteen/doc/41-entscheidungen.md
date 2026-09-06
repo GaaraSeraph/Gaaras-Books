@@ -784,7 +784,7 @@ wieder. Baek Jun-ho hat den Entwurf zwoelf Jahre in derselben Kiste und macht
 sie erst auf, als der Errichter im April 2027 stirbt (`b3 ch06:222`,
 `b3 ch06:278`).
 
-**2027, in einem Haus in Seoul.** Georgij geht an dem Abend ohne
+**2026, in einem Haus in Seoul.** Tag 159, ein Mittwoch. Georgij geht an dem Abend ohne
 Aufforderung auf den Teppich neben ihren Schreibtisch, und es ist seither
 sein Platz (`b2 ch32:286`). Sie legt ihm die Hand in den Nacken und geht zum
 ersten Mal nicht weiter (`b2 ch32:410`). Die erste Seite des Hefts hat seit
@@ -794,7 +794,7 @@ Zusage aus `b2 ch12:126` und ihr Satz aus `b2 ch25:382`.
 **Der Autor hat es am 06.09. gesehen und Zufall genannt, und beide Termine
 bleiben stehen.**
 
-**Warum das hier steht und nicht bloss geschieht.** Zweimal bindet sich an
+**Warum das hier steht und nicht bloss geschieht.** Elf Jahre auseinander bindet sich an
 demselben Kalendertag ein Mann selbst, und der eine tut es gegen sich und der
 andere zu ihren Fuessen. Ein spaeterer Pruefdurchgang findet das und
 verschiebt einen der beiden, weil es aussieht wie ein Fehler. **Es ist

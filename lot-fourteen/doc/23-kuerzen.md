@@ -396,19 +396,19 @@ bezahlt.
 
 | Kapitel | Zusage | Naehe | Stimme | Erstauftritt |
 |---|---|---|---|---|
-| 01 Der erste Gegenstand | | | | Gong Doo-hyun |
+| 01 Der erste Gegenstand | | **ja** | | Gong Doo-hyun |
 | 02 Der neunundvierzigste Tag | | | ja | |
-| 03 Mit sechzig | | | ja | |
+| 03 Mit sechzig | | **ja** | ja | |
 | 04 Das Halsband | | | ja | Lee Jun |
 | 05 Die Spalte | | | | |
 | 06 Der Rand des Entwurfs | **ja** B2 65 | | | |
 | 07 Die Werkstaetten | | | ja | |
-| 08 Ein Tag ohne Inhalt | **ja** B2 88 | | | |
+| 08 Ein Tag ohne Inhalt | **ja** B2 88 | **ja** | | |
 | 09 Niemand zaehlt | | | ja | Han Bo-ram |
 | 10 Wohin es ginge | | | ja | Seol Gwan-ik |
-| 11 Nichts ist geschehen | | | | |
+| 11 Nichts ist geschehen | | **ja** | ja | |
 
-**Zwei Kandidaten, und beide bleiben.**
+**Am 06.09. hat Akt I die Naehe bekommen, und damit ist aus zwei Kandidaten einer geworden.** `ch01`, `ch03`, `ch08` und `ch11` stehen jetzt im Register von `doc/10`, `ch11` ausserdem im Stimmenblatt. Uebrig ist `ch05`, und es bleibt.
 
 **`ch05` traegt zwei Dinge, die kein Kriterium abfragt.** Erstens das
 Laecheln: die dritte Respektvolle Fundstelle des Buches und die erste seit
@@ -421,10 +421,7 @@ Dazu die Spalte selbst, achtzehn Zeilen lang: einundachtzig, neunzehn,
 vierzehn, elf mit Klausel. Vier Zahlen, die in `ch10` und `ch11` wieder
 gebraucht werden.
 
-**`ch11` ist das Ende von Akt I und traegt den Zustand.** Annies zwei Regeln,
-die drei Vorlaufkaeufe, die vier Makler, die Leihe, die zwei Seiten in der
-Schublade. Und Lee Juns zweite Absage ohne Begruendung, ohne die die Zusage
-**B3 04** in Akt II nichts zu bezahlen hat.
+**`ch11` war der zweite Kandidat und ist keiner mehr.** Es traegt seit dem 06.09. den dritten Boden-Eintrag von Akt I und Lee Juns gemessenes Register. Getragen hat es immer schon den Zustand am Ende des Aktes: Annies zwei Regeln, die drei Vorlaufkaeufe, die vier Makler, die Leihe, die zwei Seiten in der Schublade. Und Lee Juns zweite Absage ohne Begruendung, ohne die die Zusage **B3 04** in Akt II nichts zu bezahlen hat.
 
 **Die Lehre daraus ist nicht ueber diese zwei Kapitel.** Sie ist, dass die
 vier Kriterien vier sind und nicht fuenf. Ein Kapitel kann eine Festlegung aus

@@ -950,19 +950,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch90:86 | Annie's hand stayed where it was. |
 | 590 | b2ch90:106 | Annie did not move at all. |
 | 590 | b2ch90:124 | Annie did not say anything. |
-| 592 | b3ch01:124 | "Say the name again," said Annie. |
-| 592 | b3ch01:130 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
-| 592 | b3ch01:142 | Annie waited. |
-| 592 | b3ch01:152 | Annie did not answer for a while. |
-| 592 | b3ch01:174 | Annie looked at him for a moment. |
-| 592 | b3ch01:184 | Annie picked the pen back up, which is what she does when a thing has been decided. |
+| 592 | b3ch01:130 | "Say the name again," said Annie. |
+| 592 | b3ch01:136 | "Twice in four years somebody who could have moved him has tried to move him, and he is .. |
+| 592 | b3ch01:148 | Annie waited. |
+| 592 | b3ch01:158 | Annie did not answer for a while. |
+| 592 | b3ch01:180 | Annie looked at him for a moment. |
+| 592 | b3ch01:190 | Annie picked the pen back up, which is what she does when a thing has been decided. |
 | 600 | b3ch02:172 | "And what did you get," said Annie. |
 | 600 | b3ch02:190 | Annie went on writing. |
 | 600 | b3ch02:198 | Annie stopped writing and did not put the pen down. |
-| 628 | b3ch03:288 | Annie did not interrupt any of it, and she does not. |
-| 628 | b3ch03:300 | "Then say what he is," said Annie. |
-| 628 | b3ch03:306 | Annie did not take that as the answer. |
-| 628 | b3ch03:322 | Annie wrote one line and did not say what it was. |
+| 628 | b3ch03:290 | Annie did not interrupt any of it, and she does not. |
+| 628 | b3ch03:302 | "Then say what he is," said Annie. |
+| 628 | b3ch03:308 | Annie did not take that as the answer. |
+| 628 | b3ch03:324 | Annie put her hand down into his hair, at the back, and left it there. |
 | 645 | b3ch04:262 | Annie was at the desk at half past two and had been since eleven. |
 | 645 | b3ch04:300 | Annie looked at the window and not at him. |
 | 645 | b3ch04:328 | Annie looked at him. |
@@ -994,7 +994,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:66 | And the other rule costs the most, and it is Annie's. |
 | 753 | b3ch11:90 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
 | 753 | b3ch11:222 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
-| 753 | b3ch11:236 | "Yes," said Annie. "I wanted to hear you say it." |
+| 753 | b3ch11:240 | "Yes," said Annie. "I wanted to hear you say it." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1239,8 +1239,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:226` (Tag 531) - eleven, four, two
 - `b2ch87:498` (Tag 531) - one
 - `b2ch89:90` (Tag 590) - four
-- `b3ch01:130` (Tag 592) - four, one, two
-- `b3ch03:322` (Tag 628) - one
+- `b3ch01:136` (Tag 592) - four, one, two
 - `b3ch04:262` (Tag 645) - eleven, two
 - `b3ch04:348` (Tag 645) - one
 - `b3ch05:286` (Tag 672) - ten
@@ -3052,7 +3051,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:14 | Mrs Seo took it in the hall and brought it up herself. |
 | 592 | b3ch01:20 | "There is a card," said Mrs Seo. "It has your name on the front of it and it has it corr.. |
 | 592 | b3ch01:28 | "He did not ask me," said Mrs Seo. "And he was not looking at the house the way a man lo.. |
-| 592 | b3ch01:202 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
+| 592 | b3ch01:208 | The card is on the corner of the desk where Mrs Seo put it, and it has his own name on t.. |
 | 628 | b3ch03:30 | The telephone rang in the small room at ten past nine on the Monday, and Mrs Seo answere.. |
 | 645 | b3ch04:12 | It was that Mrs Seo was already at the front door before it stopped, which she does not .. |
 | 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
@@ -3595,13 +3594,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:38 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
 | 592 | b3ch01:58 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
 | 592 | b3ch01:104 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
-| 592 | b3ch01:140 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
-| 592 | b3ch01:200 | Choi Dae-ho was dead on the eighth of April. |
+| 592 | b3ch01:146 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
+| 592 | b3ch01:206 | Choi Dae-ho was dead on the eighth of April. |
 | 600 | b3ch02:68 | He is not sorry Choi Dae-ho is dead, and he does not arrange his face to look as if he w.. |
 | 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
 | 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
 | 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
-| 628 | b3ch03:292 | "So did Choi." |
+| 628 | b3ch03:294 | "So did Choi." |
 | 742 | b3ch10:62 | That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
@@ -3643,7 +3642,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:202` (Tag 590) - five, thirty, thirty-one, two
 - `b3ch01:38` (Tag 592) - forty
 - `b3ch01:104` (Tag 592) - four, one
-- `b3ch01:140` (Tag 592) - three
+- `b3ch01:146` (Tag 592) - three
 - `b3ch02:154` (Tag 600) - twenty-five
 - `b3ch10:62` (Tag 742) - one
 
@@ -3739,7 +3738,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 592 | b3ch01:84 | He telephoned Baek Jun-ho at half past eleven and asked one question. |
 | 592 | b3ch01:90 | "I did not ask." Baek said it straight out. "I have thought about that four times since... |
 | 592 | b3ch01:98 | Baek Jun-ho did not answer for a while. |
-| 592 | b3ch01:144 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
+| 592 | b3ch01:150 | "The second is that a man took the family's place." He had his hands behind his back. "B.. |
 | 686 | b3ch06:204 | Baek Jun-ho telephoned on the Friday morning, which he does not. |
 | 686 | b3ch06:234 | Baek Jun-ho let him have it for as long as he wanted it. |
 | 686 | b3ch06:238 | "He did not write *may not*," said Baek Jun-ho. "He wrote *cannot*, and then he made it .. |
@@ -5168,7 +5167,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:126 | "Gong Doo-hyun." |
+| 592 | b3ch01:132 | "Gong Doo-hyun." |
 | 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
 | 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
 | 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
@@ -5186,7 +5185,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
 | 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
 | 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
-| 753 | b3ch11:234 | "Gong Doo-hyun." |
+| 753 | b3ch11:238 | "Gong Doo-hyun." |
 
 ### Zahlen in der Naehe von Gong Doo-hyun
 
@@ -5376,14 +5375,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:112 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
 | 753 | b3ch11:130 | "There is a company on here twice," said Lee Jun. |
 | 753 | b3ch11:150 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:256 | Lee Jun came back at six with the sheet still in his hand. |
+| 753 | b3ch11:260 | Lee Jun came back at six with the sheet still in his hand. |
 
 ### Zahlen in der Naehe von Lee Jun
 
 - `b3ch04:360` (Tag 645) - four
 - `b3ch07:150` (Tag 707) - twenty
 - `b3ch11:112` (Tag 753) - five
-- `b3ch11:256` (Tag 753) - six
+- `b3ch11:260` (Tag 753) - six
 
 ---
 

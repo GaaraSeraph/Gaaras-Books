@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 11 Kapitel, 23.147 Woerter.
+Book Three, 11 Kapitel, 23.311 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,9 +11,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.13 | 2.091 |
+| 01 | v1.16 | 2.161 |
 | 02 | v1.25 | 2.114 |
-| 03 | v1.18 | 2.014 |
+| 03 | v1.19 | 2.087 |
 | 04 | v1.23 | 2.014 |
 | 05 | v1.19 | 2.104 |
 | 06 | v1.16 | 2.155 |
@@ -21,12 +21,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 08 | v1.14 | 2.047 |
 | 09 | v1.12 | 2.097 |
 | 10 | v1.20 | 2.230 |
-| 11 | v1.8 | 2.043 |
+| 11 | v1.9 | 2.064 |
 
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
@@ -144,9 +144,15 @@ There is a day for that, and this is not it.
 
 The tray went up at seven, which is the one thing fourteen days has not changed.
 
-He went down at about eight and told her all of it in order.
+He went to her at about eight and told her all of it in order.
 
 Neither of them had said anything about the Sunday and neither of them was going to, and it was in that room the whole time.
+
+He did not go down at the side of the desk, which is where he sits.
+
+He has sat there almost every evening for four hundred and thirty-three days, since the eleventh of March of last year.
+
+He was going to have to ask her for something before the evening was out, and he found out on a Monday in that same March what asking costs from down there.
 
 "Say the name again," said Annie.
 
@@ -442,7 +448,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.18 · EN
+*Lot Fourteen* · Version 1.19 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -666,6 +672,8 @@ He did not write it down.
 
 He gave her the afternoon at about eight, in the order it had happened, including the part where he had nothing to say.
 
+He went down at the side of the desk before he started, with his back against it, which is where he sits.
+
 Annie did not interrupt any of it, and she does not.
 
 "Say the last part again."
@@ -692,7 +700,13 @@ Georgij did not answer for a long time.
 
 "Nothing yet," he said.
 
-Annie wrote one line and did not say what it was.
+Annie put her hand down into his hair, at the back, and left it there.
+
+She has not done that since the sixteenth of May, which is thirty-eight days.
+
+He does not know that. He stopped counting them last summer and has not started again.
+
+Then she took it back and wrote one line and did not say what it was.
 
 ---
 
@@ -2534,7 +2548,7 @@ He has never once told her a thing that was not true and he was not going to sta
 ---
 
 # Book Three · Chapter 11: Nothing has happened
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Seven Hundred and Fifty-Three · Tuesday 26 October
 
@@ -2702,9 +2716,11 @@ He wrote the name on the page with the counterparty limits, in the column that i
 
 Annie asked one question about the whole of it on the Tuesday evening and it was not about the money.
 
+He was at the side of the desk with his back against it, which is where he sits.
+
 "Who is the first person outside this house who will be able to see it."
 
-"An examiner at the financial supervisory service, and only if somebody asks her a question in the right order." Georgij had his hands behind his back. "After that it is a week before anybody could put a name to it, and by then it will be a market event and not a plan."
+"An examiner at the financial supervisory service, and only if somebody asks her a question in the right order." He did not turn his head to say it. "After that it is a week before anybody could put a name to it, and by then it will be a market event and not a plan."
 
 "And the person who will see it first and understand it."
 

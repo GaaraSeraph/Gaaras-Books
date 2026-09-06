@@ -74,6 +74,10 @@ Sie stehen unten in ihrem eigenen Register und sind bisher zu dünn gesät.
 
 **Der Anlauf auf die Schlusszeile läuft über Erschöpfung, nie über Ruhe.**
 
+**Akt I von Band 3 bekommt keine grosse Szene, entschieden vom Autor am 06.09.** Die letzte war `b2 ch90` am 16. Mai 2027, Akt I sind elf Kapitel, und elf ist die Haelfte der Kadenz. Was Akt I bekommt, sind die kleinen Dinge und der Platz.
+
+**Und der Platz war weg.** In `b2 ch90` endet der Band damit, dass er an der Seite des Schreibtischs hinuntergeht. Zwei Tage spaeter faengt Akt I an, und in **neun Schreibtischszenen ueber hundertdreiundsechzig Tage** kam er kein einziges Mal vor; stattdessen stand dreimal ausdruecklich, dass Georgij steht. Gemessen am 06.09.: *which is where he sits*, *with his back against it*, *at the side of the desk* und *into his hair* stehen zusammen **dreissigmal in Band 2 und keinmal in Band 3**. Das ist keine fehlende Szene, das ist eine fehlende Tatsache des Zimmers.
+
 ---
 
 ## Register A · Der Boden
@@ -94,6 +98,9 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 9a | **B2 32** | **Do 4. Juni** | **Sie schickt ihn zum ersten Mal ausdruecklich runter.** *"Sit down," said Annie. He looked at the chair. "Not there."* Er setzt sich auf ihrer Seite des Zimmers auf den Boden. |
 | 9b | **B2 32** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | **B2 90** | **So 16. Mai** | Nach dem Weltsatz haelt sie ihm die Hand hin. Er steht bereits vor ihr und geht fuer die Fingerspitzen wieder hinunter: *"He went down at the side of the desk and he did not take hold of it."* |
+| 11 | **B3 1** | **Di 18. Mai** | **Die zweite Stelle, an der er absichtlich nicht runtergeht**, und die Begruendung ist dieselbe wie in B2 6: er muss an diesem Abend bitten. *"He did not go down at the side of the desk, which is where he sits."* Der Text nennt dazu die Gewohnheit beim Namen, weil der Bandanfang sie fuer den Leser wieder aufmachen muss. Annie belegt es aus ihrem Mund: *"for as long as you have been standing there"* |
+| 12 | **B3 3** | **Mi 23. Juni** | Der Abend nach Gong, an dem er nichts mitbringt. *"He went down at the side of the desk before he started, with his back against it, which is where he sits."* |
+| 13 | **B3 11** | **Di 26. Oktober** | Gewoehnlich und ohne Kommentar, damit der Platz in Akt I nicht einmal vorkommt, sondern dreimal. *"He was at the side of the desk with his back against it, which is where he sits."* |
 
 **Feststehend:** Vor dem 4. Juni war sie nie auf dem Boden. Er war es seit dem
 11. März fast täglich. Keine Zeile darf das umdrehen.
@@ -115,10 +122,11 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 7 | B2 52 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* Dann: *"She put one hand into his hair, at the back, the way she used to in the spring when a day had been long and neither of them said anything about it."* |
 | 8 | B2 54 | Di 18. Aug | Sechs Tage spaeter, waehrend sie liest. *"Then she put her hand down into his hair without looking away from the page, at the back, and left it there."* Danach steht fest: *"He has stopped counting them. He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
 | 9 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
+| 10 | **B3 3** | **Mi 23. Juni** | **Die erste in Band 3, achtunddreissig Tage nach der letzten.** *"Annie put her hand down into his hair, at the back, and left it there."* Der Erzaehler zaehlt den Abstand und sagt ausdruecklich, dass Georgij ihn nicht kennt: *"He does not know that. He stopped counting them last summer and has not started again."* Danach nimmt sie die Hand zurueck und schreibt die eine Zeile, die das Kapitel beendet |
 
 **Der Zähler:** 9, 19, 25 und 28 sind vier. In 32 folgen am selben Abend das
 fünfte und sechste Mal. 52 ist das siebte, 54 das achte, **90 das neunte und
-letzte des Bandes**. Wer eine neue schreibt, zählt hier weiter und schreibt
+letzte des Bandes**, und **`b3 ch03` das zehnte**. Wer eine neue schreibt, zählt hier weiter und schreibt
 keine Zahl aus dem Kopf. **In 54 steht fest, dass Georgij selbst schon im Juli
 aufgehoert hat mitzuzählen**, und das ist eine Figurenentwicklung und keine
 Erlaubnis, die Kette zu vergessen.
@@ -191,9 +199,10 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 | B2 54 | *"You have not eaten since yesterday."* Sie weiss von Mrs Seos Teller und schickt ihn essen, aber danach wieder zu sich hinauf. |
 | B2 78 | *"Go and eat something," she said. "Mrs Seo has held it once and she does not hold anything twice."* |
 | B2 87 | *"There is soup," she said. "You have not eaten since one and I counted."* |
+| **B3 8** | **Sie verschiebt einen Termin fuer ihn**, und das ist einer der vier, die unten als unbenutzt standen. Er bittet um einen Tag ohne Inhalt, sie fragt nicht wofuer: *"Then you have one." She turned a page over and did not look at what was under it. "Mr Chae wanted forty minutes and he can want them on Thursday."* Nachgetragen am 06.09., der Text hatte es schon |
 
 **Noch nicht benutzt und verfügbar:** dass sie sein Essen bestellt, ohne zu
-fragen. Dass sie einen Termin verschiebt und ihm nicht sagt, warum. Dass sie
+fragen. Dass sie
 etwas in seiner Handschrift aufhebt. Dass sie ihn in einem Raum voller Leute
 zuerst ansieht. Jede davon ist eine halbe Seite und keine Szene.
 

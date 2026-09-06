@@ -469,8 +469,8 @@ Der Hammer ist hölzern, etwa so lang wie ein Löffel, und macht in einem Saal d
 ## Der elfte Maerz
 
 **Das Datum gehoert zweien.** Chois Randnotiz von 2015 (`b3 ch06:222`) und der
-Abend, an dem Georgij 2027 auf den Teppich geht (`b2 ch32:286`), fallen beide
-auf den elften Maerz. **Zufall, vom Autor am 06.09. gesehen und
+Abend, an dem Georgij 2026 auf den Teppich geht (`b2 ch05`, Tag 159, belegt
+in `b2 ch32:286`), fallen beide auf den elften Maerz, elf Jahre auseinander. **Zufall, vom Autor am 06.09. gesehen und
 stehengelassen.** Kein Bild, das ausgespielt wird, und kein Fehler, der
 berichtigt wird. Die Begruendung steht in `doc/41`.
 
@@ -796,6 +796,10 @@ Mengenangabe.**
 256. **MRFTA NAMENTLICH NUR IN FACHSCHRIFT:** Der Monopoly Regulation and Fair Trade Act darf in Akten, Regulatorenschreiben und bei Chae/Yoon/externer Rechtsberatung namentlich auftauchen. Dort duerfen Article 6, Article 9 und Article 14 stehen. Dialoge zwischen Annie, Georgij und Werkleuten sollen nicht in Paragraphen reden.
 257. **ARTICLE 6 IST VERMUTUNG, NICHT SCHULD:** Hohe Marktanteile stuetzen die Marktbeherrschungsvermutung, aber nicht automatisch einen Vorwurf. Fuer Band 6 ist das Druck, kein Schuldspruch.
 258. **ARTICLE 9/14/REMEDIES TRAGEN DEN PLOT:** Der wichtigere Hebel ist die Frage, ob Hanseong/Motors/Electronics/Shipping als Zusammenschluss nur mit Remedies haltbar waren und ob diese Bedingungen nach Ehe, Kind und Georgijs Fuehrung noch real eingehalten werden. Article 9 ist der Zusammenschlussrahmen, Article 14 die Corrective-Measures-Schiene.
+259. **BAND-6-START: ERSTER STOSS IST ROUTINE:** Kurz vor der Geburt kommt ein Commission/KFTC-Schreiben zu Remedies, Kontrollstruktur, bindender Fuehrung, Motors/Electronics-Trennung, Shipping-Zugang, offenen Werkstattdaten und Compliance-Monitoring. Es ist beantwortbar, aber nicht belanglos.
+260. **NACH DER GEBURT WIEDERHOLT SICH DER SATZ:** Bank fragt nach Covenants und Vertretungslinien; Versicherer nach Shipping-/Industrieanlagenrisiko; Hanseong-Reste oder Minderheiten legen Beschwerdematerial nach. Jeder Stoss ist fuer sich plausibel, zusammen sind sie eine Lesart.
+261. **DER ALTE CHAIRMAN KOMMT ERST DANACH:** Er droht nicht, sondern bietet Hilfe an: Industrieaufsicht, Stabilitaetskreis, Senior Trustee, Courtesy zwischen Haeusern. Dadurch wird klar, dass die vorherigen Schreiben nicht derselbe Absender waren, aber dieselbe Richtung hatten.
+262. **GEORGIJS GEGNER IST EINE MEINUNG:** Er kaempft nicht gegen einen boesen Brief, sondern gegen eine glaubwuerdige Meinung ueber ihn. Drohung bestaetigt sie; Annie allein bestaetigt, dass er nicht tragen darf; Georgij allein bestaetigt, dass Annie nach Geburt aus Raeumen verschwindet. Antwort: Taktung und Struktur.
 
 ---
 
