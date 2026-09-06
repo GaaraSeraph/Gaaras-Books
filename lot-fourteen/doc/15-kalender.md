@@ -80,6 +80,9 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 6** - der Makler, und die zweite Korrektur | 686 | Fr **20. August 2027** |
 | **Band 3, Kapitel 7** - die Werkstaetten, Motors | 707 | Fr **10. September 2027** |
 | **Band 3, Kapitel 8** - die Zusage an Mrs Sunwoo, und der Posten von 278 Tagen | 718 | Di **21. September 2027** |
+| **Band 3, Kapitel 9** - Han Bo-ram, die bedingte Zusage zum Preis von vorher | 732 | Di **5. Oktober 2027** |
+| **Band 3, Kapitel 10** - Seol Gwan-ik, die Reihenfolge, und Annie nimmt einen Posten von der Liste | 742 | Fr **15. Oktober 2027** |
+| **Band 3, Kapitel 11** - die Maschine steht, und nichts ist geschehen. **Ende Akt I** | 753 | Di **26. Oktober 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis

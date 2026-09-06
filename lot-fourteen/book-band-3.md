@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 8 Kapitel, 16.766 Woerter.
+Book Three, 11 Kapitel, 22.841 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -19,6 +19,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 06 | v1.15 | 2.155 |
 | 07 | v1.13 | 2.236 |
 | 08 | v1.9 | 2.039 |
+| 09 | v1.3 | 2.013 |
+| 10 | v1.3 | 2.043 |
+| 11 | v1.3 | 2.019 |
 
 ---
 
@@ -2033,3 +2036,692 @@ Fifty-three left, and a woman of eighty-two, and a woman in a chair by a wall.
 Mr Hwang is fifty-five and works the list after four in the afternoon.
 
 He did not write down what any of that comes to.
+
+---
+
+# Book Three · Chapter 9: Nobody counts
+*Lot Fourteen* · Version 1.3 · EN
+
+## Day Seven Hundred and Thirty-Two · Tuesday 5 October
+
+The way in was twelve quarters of somebody else's reporting.
+
+The Hanseong foundation publishes what it is required to publish and puts it where it is required to put it. That is a page on the corporate site, with a link at the bottom of the link at the bottom.
+
+Twelve quarters are up there. Four hundred and some pages.
+
+Georgij read all twelve in the last two weeks of August, in the evenings, after the workshops.
+
+He did not read them the way a man reads to find something.
+
+He read them the way the person who wrote them had hoped somebody would, which is straight through and in order.
+
+He made notes on the third and the seventh. They are the two where she changed how she counts, and the seventh is the one where she says why.
+
+* * *
+
+He wrote to her on the fourteenth of September and the letter was about the seventh quarter.
+
+It was four sentences and it did not ask for anything.
+
+She answered inside two hours.
+
+* * *
+
+Annie priced it on the Friday and it took her four minutes.
+
+"The price on the day she signs," she said. "Not the price on the day it completes."
+
+"That is going to be expensive."
+
+"It is going to be very expensive, and that is what it is for." She had the second page in front of her and had not written on it. "A woman who sells to me at today’s price after the thing has happened has been robbed and knows it."
+
+"And before it happens."
+
+"Then she has made a decision, and she will say so for the rest of her life." Annie put the page back in the folder. "And if it does not happen, she has sold at a fair price to a buyer who was wrong, and she keeps the money. There is no version of this in which she is worse off, and I want you to be able to say that in the room."
+
+* * *
+
+The foundation is on the fourth floor of a building the group put up in 2009 and has not been proud of since.
+
+There is a lift that opens onto a landing with a plant on it and a door with a plate that has been unscrewed once and put back a quarter turn out.
+
+Han Bo-ram came out to the landing to meet him, which people at the fourth floor of that building do not have to do.
+
+She is twenty-six.
+
+* * *
+
+"You are the one from the Yeouido gala," she said.
+
+"I am."
+
+"October, two years ago. I was at sixty-one and you were somewhere near the front, and I was standing at the bar with a glass I was not drinking." She said it in the order she had it. "I have told that story a great many times. I have told it better than it happened, and I would like to say so before you say anything, because you were there and I was not going to get away with it."
+
+Georgij did not do anything with his face.
+
+"Say the version you tell."
+
+* * *
+
+"That a man came over and asked me what I did and then listened for nine minutes."
+
+"That is what happened."
+
+"That is what happened, and the way I tell it, he had been looking for me." Han Bo-ram put her hands in her cardigan pockets and left them there. "That part is mine. I put it in about a year ago and I have not been able to take it out again."
+
+* * *
+
+She has an office and it has a window, and there is a second desk in it with nobody at it and a printer on the floor.
+
+"I take the stairs down and the lift up," she said, on the way in, about nothing. "I have never worked out why I do that."
+
+"I am allowed to talk to you about the programme and about the published reporting," she said. "I am not allowed to talk to you about the endowment, the allocation committee or anything that goes to the board. I am telling you that now so that you do not have to work out where the wall is."
+
+"Thank you."
+
+"People do not usually thank me for that."
+
+* * *
+
+"Your seventh quarter changed the unit," said Georgij.
+
+"It did."
+
+"You went from families to households and you wrote four lines about why, and the four lines are the only place in twelve quarters where the reporting says that it was wrong before."
+
+Han Bo-ram sat down behind the desk, and then remembered the chair on the near side and offered it.
+
+"Because a family is what somebody puts on a form and a household is what is in the room." She said it the way she had written it. "We were counting four hundred and some families, and a good many of them were the same address twice, and there were addresses with two families in them that we counted once."
+
+"And the number went down."
+
+"The number went down by a hundred and four." She put both hands flat on the desk. "That is the worst thing I have ever put in writing and it is the only true one, and it took me a year to be sure and a quarter to be allowed to say it."
+
+"Nobody has ever mentioned the seventh quarter to me," she said. "Not once, and I have been waiting since the seventh quarter."
+
+* * *
+
+He put it on the desk after that, because putting it on the desk before that would have made the rest of it a payment.
+
+It is two pages.
+
+It says that on a date not yet fixed she will sell what she holds in three of the listed companies, at the price on the day she signs, to a buyer named in the second page.
+
+It does not say when. It does not say what happens between now and then. It has one condition and the condition is not hers.
+
+"These are not the three I would have picked," said Han Bo-ram.
+
+"No."
+
+"Motors is not on here, and Motors is the one anybody would want." She had not looked up from the second page. "You have put down two that hold pieces of each other, and one that holds a piece of both."
+
+"Yes."
+
+"Then you are not buying a company."
+
+"No."
+
+"That is a lot of paper for a thing that has no date on it."
+
+"It has no date on it because I do not have one."
+
+* * *
+
+She read it properly, and she took as long over it as it needed, and she did not talk while she was doing it.
+
+"The price on the day I sign," she said.
+
+"Yes."
+
+"Which is today, and which is before whatever it is you are going to do."
+
+"Yes."
+
+"So if I sign this I am selling at a price that is going to look stupid."
+
+"You are selling at a price that is going to look stupid to somebody who does not know what happened." Georgij did not soften any of it. "It will not look stupid to you, because you will have known."
+
+"And if you are wrong."
+
+"Then you have sold at a fair price to a buyer who was wrong, and you keep the money." He said it in her words, because they were hers. "There is no version of this in which you are worse off. That is not me being careful with you. It was priced that way on purpose and I was told to say so."
+
+* * *
+
+Han Bo-ram put the two pages down square in front of her.
+
+"Why me."
+
+"Because you are the one I can reach."
+
+"That is not an answer and you know that it is not."
+
+Georgij stood where he stands.
+
+"There were seven people under thirty in that ballroom and I found all seven inside a quarter of an hour, and I found them because they were the easiest people in the building to find." He did not put anything round it. "Nobody watches what they say in front of somebody nobody is counting. I was not being kind to you. I was doing the cheapest thing in the room."
+
+She did not say anything for a while.
+
+* * *
+
+"Say the rest of it," said Han Bo-ram.
+
+"There is no rest of it. That is the whole of the reason, and it has not changed, and I have come back two years later and I am asking you for something that is worth a great deal of money."
+
+"And you read twelve quarters."
+
+"I read twelve quarters."
+
+"Was that the cheapest thing as well."
+
+"It was a fortnight of evenings," said Georgij, "and I would not have spent them on somebody I did not need."
+
+* * *
+
+Han Bo-ram looked at the second desk, the one with nobody at it.
+
+"There was a woman at that desk until March," she said. "She did the schools. They did not replace her and they did not close the programme, so I do the schools now, and it goes in the same report and nobody has noticed that it is one person."
+
+She was not asking him to do anything about it.
+
+* * *
+
+"I am going to sign it," she said.
+
+"You may take it away and have somebody look at it."
+
+"I have had a person look at everything I have ever signed in this family and it has never once made a difference." She was already turning to the second page. "And I am not signing it because you read the reports."
+
+"No."
+
+"I am signing it because my brother has never once asked me what is in them, and he is the one who has to."
+
+* * *
+
+She signed it and put the date on it and turned it round.
+
+Then she asked the one that was not about the paper.
+
+"When it happens, will I be able to say that I knew."
+
+"Yes."
+
+"Then that is the part I am buying," said Han Bo-ram.
+
+* * *
+
+Georgij went down in the lift with two pages in an envelope that Annie's office had made up on the Friday.
+
+He did not feel anything about it that he could have put a name to, and he did not go looking for one.
+
+* * *
+
+There were seven of them in that ballroom and he wrote all seven down the same night.
+
+She is the first of the seven he has used.
+
+Of the other six, one is inside the company now and would not take the call. One married out of the country the spring before last. One died in February, and Georgij learned it from a notice, because there is nobody who would have told him.
+
+Three are left. Mr Hwang has all three and none of them is a Han.
+
+The page has been in the book for two years and this is the first thing that has come off it.
+
+* * *
+
+He wrote three lines in the car.
+
+*Twelve quarters. Seventh is the one.*
+
+*She had the story wrong and said so before I could.*
+
+*I told her the true reason and she signed anyway, and she signed for a reason of her own, and I did not get it out of her. She gave it.*
+
+He looked at the third line for a while and did not change it.
+
+---
+
+# Book Three · Chapter 10: Where it would go
+*Lot Fourteen* · Version 1.3 · EN
+
+## Day Seven Hundred and Forty-Two · Friday 15 October
+
+Seol Gwan-ik left the service in 2011 and has kept one room since.
+
+It is in a law faculty building in Seodaemun and it is not his, and he has it because he takes one seminar a term and the faculty has never worked out how to stop giving him the room.
+
+There are two chairs and a kettle and eleven boxes.
+
+He is seventy-four.
+
+* * *
+
+Georgij wrote to him and got a card back with a time on it and nothing else.
+
+He did not go through Mr Chae and he did not go through the ministry, because both of those are a route, and a route is a thing somebody can draw afterwards.
+
+He wrote to a retired man at a university about a dead man they had both known of, and he posted it himself.
+
+* * *
+
+"You are the one who was at the forty-ninth day," said Seol Gwan-ik.
+
+"I am."
+
+"Ninety people, and eleven of them from the service, and one of them telephoned me that evening to say that there had been somebody there that nobody could place." He poured for both of them and did not ask. "I have been retired for sixteen years and I still get that call. It is the only thing about being old that I would recommend."
+
+* * *
+
+Georgij put nothing on the table.
+
+He had brought nothing to put on it.
+
+"I am not going to ask you for anything," he said, "and I would like to say that at the start rather than at the end, because at the end it would not be believable."
+
+Seol Gwan-ik sat back.
+
+"Then say what you did bring."
+
+* * *
+
+Georgij gave him five things and none of them was a request.
+
+That there is a chain of lawyers in Singapore behind a directorship, and that the chain has been running since 2003, and that nobody at the end of it has ever made an investment.
+
+That twenty per cent of a terminal is not a position but a door, and that the door decides berth, order and which boxes get looked at.
+
+That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was the best in that building at taking companies apart, and that the fifth one he did not take apart.
+
+That the man who buried him paid for it himself and put his own name at the bottom of ninety cards.
+
+And the eleventh of March, and the words in the margin, and that they are initialled.
+
+He gave them in that order and he did not join them up.
+
+* * *
+
+Seol Gwan-ik did not write anything down.
+
+"You have not told me who any of it is against."
+
+"No."
+
+"And you are not going to."
+
+"I am not going to, and you would not use it if I did." Georgij did not move. "You would use it to work out what I wanted, and then you would have a man in front of you with a want, and that is a different room."
+
+The old man looked at him for a while.
+
+"That is correct and I do not enjoy it," he said.
+
+* * *
+
+Then he did the thing he had been kept for, and he did it without being asked.
+
+"Customs, ports and the terminal go to a section that does not exist as a section," said Seol Gwan-ik. "It is four people in three buildings and one of them is at the port authority and the other three are in Sejong, and they only ever meet on a case."
+
+"Yes."
+
+"The Singapore chain does not go to prosecutors at all. It goes to the financial supervisory service first, and it goes there as a KYC failure and not as a crime, because that is the only door that opens without a name on it."
+
+Georgij did not say anything.
+
+"And the eleventh of March goes nowhere." Seol Gwan-ik put his cup down. "It is a man telling his solicitor what he is, and that has never been evidence of anything. Whoever has that has a thing that would ruin a reputation and could not be used in a room, and if you are hoping otherwise you have wasted an afternoon."
+
+"I was not hoping otherwise."
+
+* * *
+
+"Then say the thing you actually came about," said Seol Gwan-ik.
+
+"There is going to be a file," said Georgij. "I do not know when and I do not know who writes it. I know that if it is written by the wrong office it will be written around the wrong thing, and everybody will be relieved, and it will be over."
+
+"That is the whole of the trade in one sentence and I would not have put it that well."
+
+"I want to know where it should go. Not who I should give it to. Where it should go."
+
+"That is not a favour," said Seol Gwan-ik. "That is a lecture, and I give one of those a term."
+
+* * *
+
+He gave it in about six minutes and he did not soften any of it.
+
+Four names and a sequence and two things that must never be in the same envelope.
+
+The financial supervisory service first, because they can ask a question that nobody has to answer publicly. Customs second, and only after somebody there has already written the number down for their own reasons. The prosecutors third or not at all, and never a chaebol and a foreign national in the same paragraph, because a room that reads that paragraph stops reading and starts deciding what sort of story it is.
+
+Georgij did not write it down while the man was talking, because that is his own rule.
+
+He wrote it in the car and it took him four minutes and he had all of it.
+
+* * *
+
+At the door Seol Gwan-ik said the part he had not been asked for either.
+
+"I am going to tell you what this looks like from outside, and you are not going to like it, and you are going to do it anyway, because people who bring me true things for nothing always do."
+
+"Say it."
+
+"A foreign national with no standing goes to a retired prosecutor in October." He had one hand on the doorframe and he was not leaning on it. "Then some people in offices ask some questions. Then a share price does something. Then a woman with a great deal of money buys a great deal of something. In that order, and the order is the whole of it."
+
+"Yes."
+
+"Nobody has to prove that you caused it. It reads as caused." He let go of the doorframe. "And the man who reads it will be right about the sequence and wrong about everything else, and he will not be able to tell those two apart, and neither will anybody who reads him."
+
+* * *
+
+Georgij stood in the corridor of a faculty building in Seodaemun.
+
+"May I ask you one thing that is not about any of this?"
+
+"You may."
+
+"You were in that building in 2002."
+
+Seol Gwan-ik did not pretend to think about it.
+
+"I was, and I was eleven years above him, and I was told that he was going and I was told the reason, and the reason was good." He said it flatly and completely. "I have had twenty-five years to find out what was wrong with the reason and I have not spent one of them on it. That is the answer, and I have given it before, and it has never once got better."
+
+"Thank you."
+
+"Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names."
+
+* * *
+
+Two of the four names were already in the book before he went.
+
+Chu Hye-ran is a deputy director at the ministry and Minister Min-ho put her name on a distribution list in June without meaning to. She made a decision in 2019 that was correct and was reversed, and the paper that shows it was correct exists and is not hers, and Georgij has a copy of it and has not sent it.
+
+Wi Gyeong-taek wrote a note at the port in 2016 about a company that kept coming back. He was moved sideways in 2017. Kang mentioned him twice in four years, both times as a man who had been difficult about something nobody remembered.
+
+Neither of them has met Georgij and neither of them is going to this year.
+
+**Mr Hwang keeps both pages** and they say what the people did and not what they might do.
+
+* * *
+
+He went down the stairs and out past a noticeboard with three things pinned to it.
+
+There are two men in this country who have looked at what he does and wanted nothing for it.
+
+There is a third now, and he is the only one of the three who has said out loud what it will look like from the other side.
+
+He did not put that in the book.
+
+He put the four names in, and the sequence, and the two things that must never be in the same envelope.
+
+Then he sat with the pen not moving for a while and wrote one more line under it.
+
+*He said the order and he said it in the right order, and he has never met her.*
+
+* * *
+
+He gave her the whole of it at half past seven and he gave her the last part first, because it was hers.
+
+"Say his sentence again," said Annie.
+
+"A foreign national with no standing goes to a retired prosecutor in October."
+
+"And then some people in offices ask some questions."
+
+"Yes."
+
+"And then a price moves, and then I buy." Annie did not write it down. "In that order."
+
+"He said the order is the whole of it."
+
+"He is not wrong and he is not saying anything I have not had since August."
+
+* * *
+
+"He is right and he is also four months early," she said. "Nothing has moved and nobody has bought anything, and the only person who could put that sentence together today is a retired man in a borrowed room."
+
+"And in four months."
+
+"In four months it is a paragraph anybody can write." She had both hands on the arms of the chair. "Which is why I am going to do something now, and you are not going to like it, and I am going to do it anyway."
+
+* * *
+
+Georgij stood where he stands.
+
+"From tonight you do not tell me which offices and you do not tell me when," said Annie. "Not the names, not the dates, not who wrote to whom. You tell me that it is done and you tell me nothing else about that part."
+
+"You told me in October two years ago to come back and tell you all of it in order."
+
+"I did."
+
+"And you told me again in May, about the hall."
+
+"I did that as well, and I am taking one piece of it back, and I am taking it back because a person who does not know a date cannot be asked one." Annie did not look away from him. "You are not being protected. I am."
+
+* * *
+
+That is the first thing she has ever taken off the list.
+
+"Say whether you agree with it," she said.
+
+"It is correct."
+
+"That is not what I asked you."
+
+Georgij took longer over it than he has taken over anything she has asked him this year.
+
+"No," he said.
+
+"Good. Then we both know what it costs and neither of us is going to mention it again."
+
+---
+
+# Book Three · Chapter 11: Nothing has happened
+*Lot Fourteen* · Version 1.3 · EN
+
+## Day Seven Hundred and Fifty-Three · Tuesday 26 October
+
+By the last week of October there is a thing in that house that could be pulled, and nobody has pulled it.
+
+It is not one thing and it does not look like anything.
+
+It is four brokers in three countries who have each been given a small ordinary piece of work and none of whom has the shape. It is a borrow arranged in August against a fee that is being paid monthly for nothing. It is a list of counterparties with limits against each name in Mr Hwang's hand.
+
+It is two pages signed by a woman of twenty-six in a foundation office, in a drawer, with no date on them.
+
+Nothing on any of it is unusual and nothing on any of it is illegal, and a person who was shown all of it at once would need about four minutes.
+
+Nobody is going to be shown all of it at once.
+
+* * *
+
+Three things have been bought since August and all three are small enough to be nothing.
+
+A holding in the shipping company, taken in four pieces through two brokers over nine weeks, and under the line at which anybody has to be told.
+
+The same again in the credit arm and smaller.
+
+And a block of a third company that is neither profitable nor interesting, and that holds pieces of both of the others, and that nobody has looked at in a decade.
+
+All of it is in the name of a company in Jeju that has filed dormant accounts since 2014 and belongs to a company that belongs to her.
+
+None of the three is close to a threshold. Nothing has been disclosed because there is nothing that has to be, and a man looking for a raid would go past all three and not slow down.
+
+Together it is not a position.
+
+It is somewhere to stand on the morning.
+
+* * *
+
+The rule was set on the second of September and it has not moved since.
+
+**The short side and the buying side are not the same instrument and never touch.**
+
+The short runs through things that settle in cash and pay when a price falls. They do not lock up a single share. The shares themselves are for holding and for voting, and they are bought with money, and a great deal of that money is going to come out of the short side once it has paid.
+
+If she sells short the same shares she wants to own, her first purchase only covers her own position and she ends the day with the money and none of the company.
+
+Annie put that in one sentence in September and has not repeated it since.
+
+> "The derivatives are for the profit. The shares are for the house."
+
+* * *
+
+And the other rule is the one that costs the most and it is Annie's.
+
+Nothing executes before the news is public.
+
+Not a minute before. Not a broker warmed up on the morning of. The machine is built, tested, funded and pointed, and the first order goes after the timestamp that anybody in the world can read.
+
+"That is going to cost us the best part of it," said Georgij, in September, when it was set.
+
+"It is going to cost us the first four minutes."
+
+"It is going to cost us more than that."
+
+"Then it costs more than that." Annie had not looked up. "I am not going to be a woman who traded ahead of a fact. I am going to be a woman who was faster than everybody else the moment it stopped being a secret, and those two things look identical on a chart and are not the same thing in a room."
+
+* * *
+
+Mr Hwang's tables came up on the Monday by hand and not by post.
+
+He drives them now, and he has done since the middle of September, and nobody asked him to.
+
+The first time he did it he said it was because he had been in Seoul anyway. That was not true, and it is the only untrue thing he has said in that house.
+
+There are six tables and the sixth is new.
+
+The sixth is the cross-holdings, and it is the one that took him from the middle of August until now, and it is the reason the two pages in the drawer name the companies they name.
+
+* * *
+
+Lee Jun checked the sixth table on the Tuesday morning and it took him five hours.
+
+He was not asked to check it against anything. He was asked to check that the numbers on it added up.
+
+That is a thing a boy of sixteen can do, and it is a thing a man of fifty-five will not do to his own work at nine at night.
+
+He found two.
+
+One was a transposition in a holding of no consequence at all, and he wrote it on a separate sheet with the row number and did not correct it on the table itself.
+
+The other was not an error.
+
+* * *
+
+"There is a company on here twice," said Lee Jun.
+
+"Say which."
+
+"Row nineteen and row thirty-four. The name is not the same and the registration number is." He had the sheet in his hand and he was not holding it out. "I do not know whether that is supposed to be like that."
+
+Georgij took the sheet.
+
+"It is supposed to be like that and it is also the whole of the point," he said. "Somebody changed the name in 2019 and the older one is still on two of the filings. Mr Hwang put both on so that it does not look tidier than it is."
+
+"Then it is not an error."
+
+"It is not an error and you were right to write it down."
+
+Lee Jun did not say anything to that.
+
+* * *
+
+Georgij telephoned Mr Hwang at four and told him about the transposition and about row nineteen.
+
+"The boy found the row nineteen," he said.
+
+There was a pause on the line of about two seconds.
+
+"He found it in five hours," said Mr Hwang, "and I have been looking at that table since August."
+
+"He was counting. You were reading."
+
+"That is a kinder version than I would have given myself and I am going to take it, and I would like it said that I am aware of what you are doing."
+
+* * *
+
+The divisions themselves have been read since the summer and there is nothing left in them that Georgij does not have.
+
+Shipping is the one that breaks first because it is the one that is already broken and nobody outside has been told.
+
+Credit is the one that holds the others up.
+
+Motors is the profitable one and the one that will take the longest, and it is the one with a coolant pump in it and a bulletin that is two years old.
+
+Electronics is the one Han will use to defend Motors, and that is what makes it buyable.
+
+The customers are read and so are the creditors. Shipping has two customers that matter and one of the two is her. Credit has nine banks in a syndicate and a covenant that is tested again in March.
+
+None of that is written down anywhere in that house in a form that names them together.
+
+It is in four separate places, in four hands, and one of the four is Mr Hwang's and three of the four are Georgij's, and there is no page anywhere with the word Hanseong at the top of it.
+
+* * *
+
+One of the holders is not family and he telephoned.
+
+He runs a pension fund in Busan that has held the shipping company since 2004, because it was in an index then and because selling it afterwards would have been a decision.
+
+Mr Hwang had written to him in September about the borrow and nothing else. He answered about the borrow, and then he did not stop.
+
+"I have voted with that board seventeen times," he said, on a telephone, to a man he has never met. "Some of those I told my own committee were wrong. There was never anything better in front of me, and abstaining is not a vote, it is a way of being asleep in writing."
+
+"And if there were something better."
+
+"Then I would read it, and I would put it to the committee, and I would lose, and I would put it again." He was not asking for anything either. "I have four years left before they make me go, and I would like one of them spent on something."
+
+Georgij did not tell him that there was going to be something.
+
+He wrote the name on the page with the counterparty limits, in the column that is not for counterparties, and Mr Hwang has put two more in that column since.
+
+* * *
+
+Annie asked one question about the whole of it on the Tuesday evening and it was not about the money.
+
+"Who is the first person outside this house who will be able to see it."
+
+"An examiner at the financial supervisory service, and only if somebody asks her a question in the right order." Georgij did not put anything round it. "After that it is a week before anybody could put a name to it, and by then it will be a market event and not a plan."
+
+"And the person who will see it first and understand it."
+
+"Gong Doo-hyun."
+
+"Yes," said Annie. "I wanted to hear you say it."
+
+* * *
+
+Nothing has happened.
+
+No share has been bought and no position has been opened and no authority has been telephoned. Nobody has been asked for a favour and nobody has been paid for one, and there is not one person outside that house who has been told what any of it is for.
+
+A woman in a foundation office knows that something is coming and does not know what.
+
+An old man in Seodaemun knows what it will look like afterwards and has not been told that there is an afterwards.
+
+It is the twenty-sixth of October and the thing is finished and it is standing still, and it is going to stand still until somebody else moves first.
+
+* * *
+
+Lee Jun came back at six with the sheet still in his hand.
+
+"You said I was right to write it down."
+
+"You were."
+
+"Then may I ask what row nineteen is for, sir." He was standing where he stands, which is where he can see the door. "Not what the company is. What the row is for."
+
+"No."
+
+"Yes, sir."
+
+It is the second refusal without a reason since July, and both times the boy has taken it in the same two words, and both times Georgij has heard himself do it.
+
+* * *
+
+Georgij went up at about ten and the house did the things it does at ten.
+
+He did not write anything in the book that evening.
+
+He looked at the page from the twenty-third of June for a while, which he has done perhaps six times since, and there is one line on it and it is not his.
+
+*If none of it is an offence, what is it.*
+
+He has an answer to that now and it is worse than not having one.
+
+It is a list of four brokers, a borrow, a table of cross-holdings, two pages in a drawer, and a boy of sixteen who has been taught to count rows.

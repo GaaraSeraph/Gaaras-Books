@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 371.676 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 373.806 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -109,6 +109,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Tak (seit Ende August im Haus, Gangwon-do)](#mr-tak-seit-ende-august-im-haus-gangwon-do)
   - [Gong Doo-hyun (der Oberstaatsanwalt, um die sechzig)](#gong-doo-hyun-der-oberstaatsanwalt-um-die-sechzig)
   - [Lee Jun (sechzehn, ehemals Lot 11)](#lee-jun-sechzehn-ehemals-lot-11)
+  - [Han Bo-ram (sechsundzwanzig, Stiftung, Berichterstattung)](#han-bo-ram-sechsundzwanzig-stiftung-berichterstattung)
+  - [Seol Gwan-ik (vierundsiebzig, seit 2011 ausser Dienst)](#seol-gwan-ik-vierundsiebzig-seit-2011-ausser-dienst)
   - [Und er ist nicht der einzige Stumme](#und-er-ist-nicht-der-einzige-stumme)
   - [Wer nur genannt wird und nie spricht](#wer-nur-genannt-wird-und-nie-spricht)
   - [Was die Messung beim Schreiben tatsaechlich gefangen hat](#was-die-messung-beim-schreiben-tatsaechlich-gefangen-hat)
@@ -691,13 +693,13 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Bae](#mrs-bae)
   - [Mr Im](#mr-im)
   - [Mr Koh](#mr-koh)
+  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Ji-won](#ji-won)
   - [Mrs Gwak](#mrs-gwak)
-  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Moon Hae-sook](#moon-hae-sook)
   - [Shin](#shin)
-  - [Mr Pyo](#mr-pyo)
   - [Lee Jun](#lee-jun)
+  - [Mr Pyo](#mr-pyo)
   - [Mr Sohn](#mr-sohn)
   - [Mr Baek](#mr-baek)
   - [Bae](#bae)
@@ -759,7 +761,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**132 Kapitel, 349.948 Woerter.**
+**135 Kapitel, 356.023 Woerter.**
 
 ---
 
@@ -1996,6 +1998,8 @@ diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
+| **Han Bo-ram** | **Die juengste Han, und die einzige, die arbeitet.** Stiftungsberichterstattung, vierter Stock | Sechsundzwanzig. Haelt Anteile an drei gelisteten Gesellschaften, unterschreibt in `b3 ch09` die bedingte Verkaufszusage zum Preis von vorher. Zweiundzwanzig, als Georgij sie auf der Gala ansprach | B3 9 | **Sie ist die Frau von `b1 ch07:182`**, die am Rand einer Gruppe an der Bar stand und der er ausdruecklich nicht zulaechelte, und die nach neun Minuten gerader stand (`b1 ch09:48`). Vollzug ihrer Zusage in Akt II, mit der Shipping-Festigung |
+| **Seol Gwan-ik** | **Der alte Staatsanwalt. Die Landkarte.** Ein Zimmer in einer juristischen Fakultaet in Seodaemun, ein Seminar im Semester | Vierundsiebzig, seit 2011 ausser Dienst, war 2002 elf Jahre ueber Choi. Gibt in `b3 ch10` die Reihenfolge und sagt, wie die Sache von aussen aussieht | B3 10 | **Bekommt keinen Auftrag, sondern einen wahren Rand.** Er ordnet ein, er hilft nicht. Er hat Georgij den Satz gesagt, mit dem Gong ihn spaeter angreift, Monate bevor Gong ihn hat |
 | **Lee Jun** | **Ehemals Lot 11.** Im Werk nur Jun. **Erster Auftritt `b3 ch04`, Tag 645** | Infrastructure Trainee bei Georgij; lernt Methode, nicht Gehorsam. In Band 5 bei Maeng nicht am Tisch, sondern im zweiten Raum bei Hwangs Reihe: Zeit, Tuer, Fahrzeug, Abweichung | B3 geplant, B4 aktiv | Kommt nicht lose ins Haus: Name, Schutz-/Beschaeftigungs- und Statusstruktur stehen vor Ankunft. Wird fuer spaetere Werke befaehigt; kein Motors-Pruefer, frei fuer Band 5, aber nicht in Blut-/Hinrichtungsraeumen |
 | **Choi Eun-kyung** | Teileausgabe im Hanseong Motors Ulsan Main Complex | Trocken, wach, erste starke Stimme unten; sieht, welche Fehler alle kennen | B4 geplant | Teil der ersten Stabilization Cell; echte Macht ueber Teilefreigaben |
 | **Nam Gi-tae** | Tor 4, aelterer Sicherheitsmann | Kennt Nachtlisten, manuelle Overrides und die Tore, durch die Dinge zu bequem gehen | B4 geplant | Teil der ersten Stabilization Cell; Rueckendeckung am Tor |
@@ -6769,6 +6773,117 @@ einem Jungen, der nicht von selbst spricht.**
 
 ---
 
+### Han Bo-ram (sechsundzwanzig, Stiftung, Berichterstattung)
+
+**30 Repliken, 603 Woerter, 20,1 Woerter je Replik, 27 Prozent ueber 25
+Woerter, laengste Replik 71 Woerter.** Von Hand gezaehlt: `stimmen.py` ordnet
+ihr drei zu, weil `b3 ch09` ein Zweipersonenstueck ist.
+
+**Und die Zahl ist das Blatt.** 20,1 ist mit Abstand das laengste Register im
+Buch. Baek Jun-ho steht auf 14,7, Georgij auf 11,4, Annie auf 10,1, Moon
+Hae-sook auf 6,7. **Die 27 Prozent ueber 25 Woerter sind ebenfalls Platz eins**,
+vor Mr Oks 23 und Gongs 17.
+
+**Der Grund steht in der Szene und nicht in der Figur.** Sie redet nicht viel,
+weil sie geschwaetzig ist. Sie redet viel, weil sie zwoelf Quartale lang etwas
+geschrieben hat, das niemand gelesen hat, und weil zum ersten Mal jemand im
+Zimmer sitzt, der es gelesen hat. **Wer ihr kurze Saetze gibt, nimmt der Szene
+ihren einzigen Vorgang.**
+
+**Der Zug, der ihr nicht schmeichelt, und er steht in ihrer zweiten Replik.**
+Sie hat die Geschichte von den neun Minuten zwei Jahre lang erzaehlt und sie
+dabei verbessert. Sie hat hineingelegt, dass er nach ihr gesucht hatte. Und sie
+sagt es selbst, bevor er etwas sagen kann:
+
+> *"I have told that story a great many times. I have told it better than it
+> happened, and I would like to say so before you say anything, because you
+> were there and I was not going to get away with it."*
+
+**Zweiter Zug derselben Sorte:** sie sagt ihm die Wand, bevor er dagegen
+laeuft, und zwar ungefragt, weil sie es so oft gemusst hat, dass sie es jetzt
+vorwegnimmt. *"I am telling you that now so that you do not have to work out
+where the wall is."*
+
+**Was sie will und was mit der Sache nichts zu tun hat:** dass jemand das
+siebte Quartal liest. Sie wartet seit dem siebten Quartal. Es ist die einzige
+Stelle in zwoelf Quartalen, an der die Berichterstattung sagt, dass sie vorher
+falsch war, und die Zahl ist danach um hundertvier gesunken.
+
+**Ihre Masseinheit sind Quartale und Adressen.** Nicht Geld und nicht Jahre.
+Ein Jahr, um sicher zu sein, und ein Quartal, um es sagen zu duerfen.
+
+**Ihr Zug von A nach B: sie liest Struktur.** Sie sieht auf zwei Seiten, dass
+Motors nicht darauf steht und dass die drei genannten Gesellschaften einander
+halten, und sie zieht daraus den richtigen Schluss in vier Woertern: *"Then you
+are not buying a company."*
+
+**Der unverwertbare Satz**, und er kostet die Handlung nichts:
+
+> *"I take the stairs down and the lift up. I have never worked out why I do
+> that."*
+
+**Verbote.**
+
+* **Sie ist nicht mutig und die Szene behauptet es nicht.** Sie unterschreibt
+  nicht aus Mut. Sie unterschreibt, weil ihr Bruder sie nie gefragt hat, was in
+  den Berichten steht.
+* **Sie bittet um nichts.** Der zweite Schreibtisch mit niemandem daran und die
+  Schulen, die sie jetzt mitmacht, kommen einmal vor, und sie haengt keine
+  Bitte daran.
+* **Sie bekommt kein Laecheln.** `b1 ch07` sagt ausdruecklich, warum er sie
+  damals nicht angelaechelt hat, und in `b3 ch09` kauft er sie.
+* **Ihre Fragen bekommen den Punkt.** *"Why me."* *"And if you are wrong."*
+  *"When it happens, will I be able to say that I knew."* Sie kann jederzeit
+  nein sagen und er muss liefern, und das ist die Machtlage in dem Zimmer,
+  egal wer von beiden dort angestellt ist.
+
+---
+
+### Seol Gwan-ik (vierundsiebzig, seit 2011 ausser Dienst)
+
+**8 zugeordnete Repliken, 95 Woerter, 11,9 je Satz, 12 Prozent ueber 25
+Woerter.** Sein laengster Zug, die sechs Minuten mit den vier Namen und der
+Reihenfolge, steht als Erzaehltext und nicht als Rede, und das ist Absicht:
+`b3 ch10` gibt dem Leser das Ergebnis und nicht den Vortrag.
+
+**Er ist nicht der zweite Gong, und der Unterschied ist messbar.** Gong zaehlt
+nichts, in 134 Woertern kein Jahr, keine Zahl ausser einer ueber sich selbst.
+Seol zaehlt sofort und ohne Anlass: neunzig Leute, elf aus dem Dienst, einer am
+Telefon, sechzehn Jahre Ruhestand, elf Jahre ueber Choi, fuenfundzwanzig Jahre
+seither, vier Namen, vier Leute in drei Gebaeuden.
+
+**Sein Zug: er ordnet ein.** Er bekommt eine Tatsache und sagt, wohin sie geht,
+und er tut es ungefragt und vollstaendig. Das ist sein Beruf, dreissig Jahre
+lang, und er hat ihn nicht abgelegt.
+
+**Der Zug, der ihm nicht schmeichelt.** Er war 2002 in dem Gebaeude, elf Jahre
+ueber Choi, ihm wurde der Grund gesagt und der Grund war gut. Er hat
+fuenfundzwanzig Jahre gehabt, um herauszufinden, was daran falsch war, und
+keinen davon darauf verwendet. **Und er hat eine fertige Antwort darauf**, die
+er schon oft gegeben hat, und er sagt selbst, dass sie nie besser geworden ist.
+
+**Was er will und was mit der Sache nichts zu tun hat:** den Anruf. Er
+bekommt seit sechzehn Jahren den Anruf, wenn im Dienst etwas passiert, und er
+sagt, es sei das Einzige am Altsein, was er empfehlen wuerde.
+
+**Sein Umgang mit dem Zuhoerer: er berichtigt die Lage, bevor er antwortet.**
+Er sagt Georgij, was dieser gerade getan hat, und erst danach, was er davon
+haelt. *"That is not a favour. That is a lecture, and I give one of those a
+term."*
+
+**Verbote.**
+
+* **Er nimmt keinen Auftrag an und bekommt keinen.** Georgij sagt am Anfang,
+  dass er nichts will, und haelt sich daran. Eine Szene, in der Seol etwas
+  besorgt, ist verboten.
+* **Er schreibt nichts auf.** In der ganzen Szene nicht ein einziges Mal.
+* **Er ist nicht dankbar und nicht geschmeichelt.** Als Georgij ihm dankt,
+  weist er es zurueck und sagt, wofuer man ihm danken darf.
+* **Er kommt nicht wieder, um zu helfen.** Wenn er wiederkommt, dann als der,
+  der es vorher gesagt hat.
+
+---
+
 ### Und er ist nicht der einzige Stumme
 
 **Minister Min-ho: null Zitate im ganzen Buch.** Gegengelesen am 25.08. über
@@ -8963,6 +9078,9 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 6** - der Makler, und die zweite Korrektur | 686 | Fr **20. August 2027** |
 | **Band 3, Kapitel 7** - die Werkstaetten, Motors | 707 | Fr **10. September 2027** |
 | **Band 3, Kapitel 8** - die Zusage an Mrs Sunwoo, und der Posten von 278 Tagen | 718 | Di **21. September 2027** |
+| **Band 3, Kapitel 9** - Han Bo-ram, die bedingte Zusage zum Preis von vorher | 732 | Di **5. Oktober 2027** |
+| **Band 3, Kapitel 10** - Seol Gwan-ik, die Reihenfolge, und Annie nimmt einen Posten von der Liste | 742 | Fr **15. Oktober 2027** |
+| **Band 3, Kapitel 11** - die Maschine steht, und nichts ist geschehen. **Ende Akt I** | 753 | Di **26. Oktober 2027** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -24479,6 +24597,29 @@ sie.**
    Anteilseigner, Gegenparteien, Staatsanwaelte, Ministerien und
    ausfuehrende Stellen vor. Noch kein oeffentlicher Sturz.
 
+   **Geschrieben am 06.09., und damit ist Akt I fertig:**
+
+   * `b3 ch06`, Tag 686: der Makler und Chois zweite Korrektur.
+   * `b3 ch07`, Tag 707: einunddreissig Werkstaetten, die Pumpe, das
+     Rundschreiben. Lee Jun zaehlt das Bord.
+   * `b3 ch08`, Tag 718: die Zusage an Mrs Sunwoo, und der Posten von
+     278 Tagen, den niemand verbucht hatte.
+   * `b3 ch09`, Tag 732: **die Geschwister.** Han Bo-ram, die Frau von
+     der Gala, unterschreibt die bedingte Zusage zum Preis von vorher.
+     Georgij sagt ihr den wahren Grund und sie unterschreibt trotzdem,
+     aus einem eigenen.
+   * `b3 ch10`, Tag 742: **die Staatsseite.** Seol Gwan-ik gibt die
+     Reihenfolge und sagt, wie sie von aussen aussieht. Chu Hye-ran und
+     Wi Gyeong-taek bleiben Aktennamen, wie hier verlangt. Annie nimmt
+     danach zum ersten Mal etwas von der Liste dessen, was er ihr sagen
+     darf.
+   * `b3 ch11`, Tag 753: **die Anteile und die ersten Kaeufe.** Drei
+     Vorlaufkaeufe unter jeder Schwelle, die Trennung von Derivat und
+     Aktie, die Regel, dass nichts vor dem oeffentlichen Zeitstempel
+     laeuft, ein Anteilseigner ausserhalb der Familie mit einem
+     Gesicht, und Lee Jun findet Zeile neunzehn. **Nichts ist
+     geschehen, und alles steht.**
+
 ### Akt II - Herbst
 
 6. **Die Sang-hoon-Szene**, Bandmitte, nach der Hauptvorbereitung und vor dem
@@ -32726,16 +32867,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 903 | 103 (b1ch01-b3ch08) | 1 | 718 |
+| Annie | 915 | 106 (b1ch01-b3ch11) | 1 | 753 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
-| Mr Hwang | 174 | 27 (b2ch07-b3ch08) | 166 | 718 |
+| Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
 | Mrs Seo | 151 | 53 (b1ch03-b3ch04) | 1 | 645 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 92 | 23 (b1ch07-b3ch03) | 22 | 628 |
+| Choi Dae-ho | 93 | 24 (b1ch07-b3ch10) | 22 | 742 |
 | Baek Jun-ho | 91 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mrs Sunwoo | 69 | 19 (b1ch07-b3ch08) | 22 | 718 |
@@ -32749,26 +32890,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ahn Jung-hee | 37 | 15 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch34) | 22 | 249 |
 | Mr Ku | 35 | 23 (b1ch05-b2ch87) | 6 | 531 |
-| Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
+| Kang Ji-hoon | 33 | 9 (b1ch09-b3ch10) | 22 | 742 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 31 | 87 |
 | Mr Kwon | 31 | 6 (b2ch14-b2ch73) | 193 | 445 |
 | Mrs Bae | 29 | 8 (b2ch38-b2ch88) | 262 | 578 |
 | Mr Im | 28 | 5 (b1ch05-b2ch87) | 6 | 531 |
 | Mr Koh | 25 | 7 (b2ch35-b2ch87) | 251 | 531 |
+| Gong Doo-hyun | 20 | 4 (b3ch01-b3ch11) | 592 | 753 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
-| Gong Doo-hyun | 19 | 3 (b3ch01-b3ch03) | 592 | 628 |
 | Moon Hae-sook | 18 | 10 (b2ch58-b3ch08) | 371 | 718 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
+| Lee Jun | 14 | 3 (b3ch04-b3ch11) | 645 | 753 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
-| Lee Jun | 10 | 2 (b3ch04-b3ch07) | 645 | 707 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
-| Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
+| Minister Min-ho | 4 | 2 (b1ch09-b3ch10) | 22 | 742 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Mrs Uhm | 2 | 1 (b2ch16) | 206 | 206 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
@@ -32780,7 +32921,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-903 Nennungen in 103 Kapiteln.
+915 Nennungen in 106 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -33687,6 +33828,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 707 | b3ch07:334 | Annie looked at him for a moment. |
 | 718 | b3ch08:52 | Annie was at the desk at half past eight and he did not sit down. |
 | 718 | b3ch08:64 | Annie did not ask what for, and she does not. |
+| 732 | b3ch09:36 | Annie priced it on the Friday and it took her four minutes. |
+| 732 | b3ch09:50 | "Then she has made a decision, and she will say so for the rest of her life." Annie put .. |
+| 732 | b3ch09:278 | Georgij went down in the lift with two pages in an envelope that Annie's office had made.. |
+| 742 | b3ch10:230 | "Say his sentence again," said Annie. |
+| 742 | b3ch10:240 | "And then a price moves, and then I buy." Annie did not write it down. "In that order." |
+| 742 | b3ch10:262 | "From tonight you do not tell me which offices and you do not tell me when," said Annie... |
+| 742 | b3ch10:272 | "I did that as well, and I am taking one piece of it back, and I am taking it back becau.. |
+| 753 | b3ch11:60 | Annie put that in one sentence in September and has not repeated it since. |
+| 753 | b3ch11:66 | And the other rule is the one that costs the most and it is Annie's. |
+| 753 | b3ch11:84 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
+| 753 | b3ch11:214 | Annie asked one question about the whole of it on the Tuesday evening and it was not abo.. |
+| 753 | b3ch11:228 | "Yes," said Annie. "I wanted to hear you say it." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -33938,6 +34091,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch05:286` (Tag 672) - ten
 - `b3ch05:296` (Tag 672) - four, one, two
 - `b3ch08:52` (Tag 718) - eight
+- `b3ch09:36` (Tag 732) - four
+- `b3ch09:278` (Tag 732) - two
+- `b3ch10:272` (Tag 742) - one
+- `b3ch11:60` (Tag 753) - one
+- `b3ch11:66` (Tag 753) - one
+- `b3ch11:84` (Tag 753) - two
+- `b3ch11:214` (Tag 753) - one
 
 ---
 
@@ -34784,7 +34944,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-174 Nennungen in 27 Kapiteln.
+184 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34962,6 +35122,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:28 | Mr Hwang did not telephone about either of them. He put them in the column the way he pu.. |
 | 718 | b3ch08:6 | Mr Hwang's page came by post on the Monday and there is a fifth name on it. |
 | 718 | b3ch08:320 | Mr Hwang is fifty-five and works the list after four in the afternoon. |
+| 732 | b3ch09:294 | Three are left. Mr Hwang has all three and none of them is a Han. |
+| 742 | b3ch10:202 | **Mr Hwang keeps both pages** and they say what the people did and not what they might do. |
+| 753 | b3ch11:12 | It is four brokers in three countries who have each been given a small ordinary piece of.. |
+| 753 | b3ch11:88 | Mr Hwang's tables came up on the Monday by hand and not by post. |
+| 753 | b3ch11:134 | "It is supposed to be like that and it is also the whole of the point," he said. "Somebo.. |
+| 753 | b3ch11:146 | Georgij telephoned Mr Hwang at four and told him about the transposition and about row n.. |
+| 753 | b3ch11:154 | "He found it in five hours," said Mr Hwang, "and I have been looking at that table since.. |
+| 753 | b3ch11:184 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
+| 753 | b3ch11:194 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
+| 753 | b3ch11:210 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -35057,6 +35227,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch05:110` (Tag 672) - three
 - `b3ch05:230` (Tag 672) - four
 - `b3ch08:320` (Tag 718) - fifty-five, four
+- `b3ch09:294` (Tag 732) - three
+- `b3ch11:12` (Tag 753) - four, three
+- `b3ch11:134` (Tag 753) - one, two
+- `b3ch11:146` (Tag 753) - four, nineteen
+- `b3ch11:154` (Tag 753) - five
+- `b3ch11:184` (Tag 753) - four, one, three
+- `b3ch11:210` (Tag 753) - two
 
 ---
 
@@ -36172,7 +36349,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Choi Dae-ho
 
-92 Nennungen in 23 Kapiteln.
+93 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -36268,6 +36445,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
 | 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
 | 628 | b3ch03:292 | "So did Choi." |
+| 742 | b3ch10:62 | That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -36310,6 +36488,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:104` (Tag 592) - four, one
 - `b3ch01:140` (Tag 592) - three
 - `b3ch02:154` (Tag 600) - twenty-five
+- `b3ch10:62` (Tag 742) - one
 
 ---
 
@@ -37499,7 +37678,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Kang Ji-hoon
 
-32 Nennungen in 8 Kapiteln.
+33 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -37535,6 +37714,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
 | 74 | b1ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
 | 74 | b1ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
+| 742 | b3ch10:196 | Wi Gyeong-taek wrote a note at the port in 2016 about a company that kept coming back. H.. |
 
 ### Zahlen in der Naehe von Kang Ji-hoon
 
@@ -37552,6 +37732,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:24` (Tag 74) - four, twenty-nine
 - `b1ch31:28` (Tag 74) - four, three
 - `b1ch31:34` (Tag 74) - four, one, three
+- `b3ch10:196` (Tag 742) - four
 
 ---
 
@@ -37823,6 +38004,42 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Gong Doo-hyun
+
+20 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
+| 592 | b3ch01:126 | "Gong Doo-hyun." |
+| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
+| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
+| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
+| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
+| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
+| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
+| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
+| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
+| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
+| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
+| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
+| 628 | b3ch03:198 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
+| 628 | b3ch03:220 | Gong Doo-hyun did not write it down and did not need to. |
+| 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
+| 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
+| 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
+| 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
+| 753 | b3ch11:226 | "Gong Doo-hyun." |
+
+### Zahlen in der Naehe von Gong Doo-hyun
+
+- `b3ch02:70` (Tag 600) - eleven, one, twenty
+- `b3ch02:88` (Tag 600) - one, three
+- `b3ch02:110` (Tag 600) - two
+- `b3ch03:160` (Tag 628) - four
+
+---
+
 ### Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -37906,41 +38123,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Gong Doo-hyun
-
-19 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:126 | "Gong Doo-hyun." |
-| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
-| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
-| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
-| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
-| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
-| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
-| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
-| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
-| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
-| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
-| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
-| 628 | b3ch03:198 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
-| 628 | b3ch03:220 | Gong Doo-hyun did not write it down and did not need to. |
-| 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
-| 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
-| 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
-| 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
-
-### Zahlen in der Naehe von Gong Doo-hyun
-
-- `b3ch02:70` (Tag 600) - eleven, one, twenty
-- `b3ch02:88` (Tag 600) - one, three
-- `b3ch02:110` (Tag 600) - two
-- `b3ch03:160` (Tag 628) - four
-
----
-
 ### Moon Hae-sook
 
 18 Nennungen in 10 Kapiteln.
@@ -38019,6 +38201,36 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Lee Jun
+
+14 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
+| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
+| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:104 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
+| 753 | b3ch11:122 | "There is a company on here twice," said Lee Jun. |
+| 753 | b3ch11:142 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:248 | Lee Jun came back at six with the sheet still in his hand. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:360` (Tag 645) - four
+- `b3ch07:150` (Tag 707) - twenty
+- `b3ch11:104` (Tag 753) - five
+- `b3ch11:248` (Tag 753) - six
+
+---
+
 ### Mr Pyo
 
 11 Nennungen in 8 Kapiteln.
@@ -38047,30 +38259,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
 - `b2ch02:10` (Tag 152) - two
-
----
-
-### Lee Jun
-
-10 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
-| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
-| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
-| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
-| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
-| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
-
-### Zahlen in der Naehe von Lee Jun
-
-- `b3ch04:360` (Tag 645) - four
-- `b3ch07:150` (Tag 707) - twenty
 
 ---
 
@@ -38212,13 +38400,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Minister Min-ho
 
-3 Nennungen in 1 Kapiteln.
+4 Nennungen in 2 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 22 | b1ch09:60 | Minister Min-ho was at the far end of the terrace with his back to the parapet, in an ov.. |
 | 22 | b1ch09:72 | Min-ho said almost nothing. He asked two questions, both short, both about other people... |
 | 22 | b1ch09:84 | He got that Min-ho already knew about the approach and had known before she told him, wh.. |
+| 742 | b3ch10:194 | Chu Hye-ran is a deputy director at the ministry and Minister Min-ho put her name on a d.. |
 
 ### Zahlen in der Naehe von Minister Min-ho
 

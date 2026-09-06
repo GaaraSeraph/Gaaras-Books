@@ -3380,6 +3380,117 @@ einem Jungen, der nicht von selbst spricht.**
 
 ---
 
+### Han Bo-ram (sechsundzwanzig, Stiftung, Berichterstattung)
+
+**30 Repliken, 603 Woerter, 20,1 Woerter je Replik, 27 Prozent ueber 25
+Woerter, laengste Replik 71 Woerter.** Von Hand gezaehlt: `stimmen.py` ordnet
+ihr drei zu, weil `b3 ch09` ein Zweipersonenstueck ist.
+
+**Und die Zahl ist das Blatt.** 20,1 ist mit Abstand das laengste Register im
+Buch. Baek Jun-ho steht auf 14,7, Georgij auf 11,4, Annie auf 10,1, Moon
+Hae-sook auf 6,7. **Die 27 Prozent ueber 25 Woerter sind ebenfalls Platz eins**,
+vor Mr Oks 23 und Gongs 17.
+
+**Der Grund steht in der Szene und nicht in der Figur.** Sie redet nicht viel,
+weil sie geschwaetzig ist. Sie redet viel, weil sie zwoelf Quartale lang etwas
+geschrieben hat, das niemand gelesen hat, und weil zum ersten Mal jemand im
+Zimmer sitzt, der es gelesen hat. **Wer ihr kurze Saetze gibt, nimmt der Szene
+ihren einzigen Vorgang.**
+
+**Der Zug, der ihr nicht schmeichelt, und er steht in ihrer zweiten Replik.**
+Sie hat die Geschichte von den neun Minuten zwei Jahre lang erzaehlt und sie
+dabei verbessert. Sie hat hineingelegt, dass er nach ihr gesucht hatte. Und sie
+sagt es selbst, bevor er etwas sagen kann:
+
+> *"I have told that story a great many times. I have told it better than it
+> happened, and I would like to say so before you say anything, because you
+> were there and I was not going to get away with it."*
+
+**Zweiter Zug derselben Sorte:** sie sagt ihm die Wand, bevor er dagegen
+laeuft, und zwar ungefragt, weil sie es so oft gemusst hat, dass sie es jetzt
+vorwegnimmt. *"I am telling you that now so that you do not have to work out
+where the wall is."*
+
+**Was sie will und was mit der Sache nichts zu tun hat:** dass jemand das
+siebte Quartal liest. Sie wartet seit dem siebten Quartal. Es ist die einzige
+Stelle in zwoelf Quartalen, an der die Berichterstattung sagt, dass sie vorher
+falsch war, und die Zahl ist danach um hundertvier gesunken.
+
+**Ihre Masseinheit sind Quartale und Adressen.** Nicht Geld und nicht Jahre.
+Ein Jahr, um sicher zu sein, und ein Quartal, um es sagen zu duerfen.
+
+**Ihr Zug von A nach B: sie liest Struktur.** Sie sieht auf zwei Seiten, dass
+Motors nicht darauf steht und dass die drei genannten Gesellschaften einander
+halten, und sie zieht daraus den richtigen Schluss in vier Woertern: *"Then you
+are not buying a company."*
+
+**Der unverwertbare Satz**, und er kostet die Handlung nichts:
+
+> *"I take the stairs down and the lift up. I have never worked out why I do
+> that."*
+
+**Verbote.**
+
+* **Sie ist nicht mutig und die Szene behauptet es nicht.** Sie unterschreibt
+  nicht aus Mut. Sie unterschreibt, weil ihr Bruder sie nie gefragt hat, was in
+  den Berichten steht.
+* **Sie bittet um nichts.** Der zweite Schreibtisch mit niemandem daran und die
+  Schulen, die sie jetzt mitmacht, kommen einmal vor, und sie haengt keine
+  Bitte daran.
+* **Sie bekommt kein Laecheln.** `b1 ch07` sagt ausdruecklich, warum er sie
+  damals nicht angelaechelt hat, und in `b3 ch09` kauft er sie.
+* **Ihre Fragen bekommen den Punkt.** *"Why me."* *"And if you are wrong."*
+  *"When it happens, will I be able to say that I knew."* Sie kann jederzeit
+  nein sagen und er muss liefern, und das ist die Machtlage in dem Zimmer,
+  egal wer von beiden dort angestellt ist.
+
+---
+
+### Seol Gwan-ik (vierundsiebzig, seit 2011 ausser Dienst)
+
+**8 zugeordnete Repliken, 95 Woerter, 11,9 je Satz, 12 Prozent ueber 25
+Woerter.** Sein laengster Zug, die sechs Minuten mit den vier Namen und der
+Reihenfolge, steht als Erzaehltext und nicht als Rede, und das ist Absicht:
+`b3 ch10` gibt dem Leser das Ergebnis und nicht den Vortrag.
+
+**Er ist nicht der zweite Gong, und der Unterschied ist messbar.** Gong zaehlt
+nichts, in 134 Woertern kein Jahr, keine Zahl ausser einer ueber sich selbst.
+Seol zaehlt sofort und ohne Anlass: neunzig Leute, elf aus dem Dienst, einer am
+Telefon, sechzehn Jahre Ruhestand, elf Jahre ueber Choi, fuenfundzwanzig Jahre
+seither, vier Namen, vier Leute in drei Gebaeuden.
+
+**Sein Zug: er ordnet ein.** Er bekommt eine Tatsache und sagt, wohin sie geht,
+und er tut es ungefragt und vollstaendig. Das ist sein Beruf, dreissig Jahre
+lang, und er hat ihn nicht abgelegt.
+
+**Der Zug, der ihm nicht schmeichelt.** Er war 2002 in dem Gebaeude, elf Jahre
+ueber Choi, ihm wurde der Grund gesagt und der Grund war gut. Er hat
+fuenfundzwanzig Jahre gehabt, um herauszufinden, was daran falsch war, und
+keinen davon darauf verwendet. **Und er hat eine fertige Antwort darauf**, die
+er schon oft gegeben hat, und er sagt selbst, dass sie nie besser geworden ist.
+
+**Was er will und was mit der Sache nichts zu tun hat:** den Anruf. Er
+bekommt seit sechzehn Jahren den Anruf, wenn im Dienst etwas passiert, und er
+sagt, es sei das Einzige am Altsein, was er empfehlen wuerde.
+
+**Sein Umgang mit dem Zuhoerer: er berichtigt die Lage, bevor er antwortet.**
+Er sagt Georgij, was dieser gerade getan hat, und erst danach, was er davon
+haelt. *"That is not a favour. That is a lecture, and I give one of those a
+term."*
+
+**Verbote.**
+
+* **Er nimmt keinen Auftrag an und bekommt keinen.** Georgij sagt am Anfang,
+  dass er nichts will, und haelt sich daran. Eine Szene, in der Seol etwas
+  besorgt, ist verboten.
+* **Er schreibt nichts auf.** In der ganzen Szene nicht ein einziges Mal.
+* **Er ist nicht dankbar und nicht geschmeichelt.** Als Georgij ihm dankt,
+  weist er es zurueck und sagt, wofuer man ihm danken darf.
+* **Er kommt nicht wieder, um zu helfen.** Wenn er wiederkommt, dann als der,
+  der es vorher gesagt hat.
+
+---
+
 ### Und er ist nicht der einzige Stumme
 
 **Minister Min-ho: null Zitate im ganzen Buch.** Gegengelesen am 25.08. über

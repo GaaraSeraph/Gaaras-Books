@@ -6171,6 +6171,29 @@ sie.**
    Anteilseigner, Gegenparteien, Staatsanwaelte, Ministerien und
    ausfuehrende Stellen vor. Noch kein oeffentlicher Sturz.
 
+   **Geschrieben am 06.09., und damit ist Akt I fertig:**
+
+   * `b3 ch06`, Tag 686: der Makler und Chois zweite Korrektur.
+   * `b3 ch07`, Tag 707: einunddreissig Werkstaetten, die Pumpe, das
+     Rundschreiben. Lee Jun zaehlt das Bord.
+   * `b3 ch08`, Tag 718: die Zusage an Mrs Sunwoo, und der Posten von
+     278 Tagen, den niemand verbucht hatte.
+   * `b3 ch09`, Tag 732: **die Geschwister.** Han Bo-ram, die Frau von
+     der Gala, unterschreibt die bedingte Zusage zum Preis von vorher.
+     Georgij sagt ihr den wahren Grund und sie unterschreibt trotzdem,
+     aus einem eigenen.
+   * `b3 ch10`, Tag 742: **die Staatsseite.** Seol Gwan-ik gibt die
+     Reihenfolge und sagt, wie sie von aussen aussieht. Chu Hye-ran und
+     Wi Gyeong-taek bleiben Aktennamen, wie hier verlangt. Annie nimmt
+     danach zum ersten Mal etwas von der Liste dessen, was er ihr sagen
+     darf.
+   * `b3 ch11`, Tag 753: **die Anteile und die ersten Kaeufe.** Drei
+     Vorlaufkaeufe unter jeder Schwelle, die Trennung von Derivat und
+     Aktie, die Regel, dass nichts vor dem oeffentlichen Zeitstempel
+     laeuft, ein Anteilseigner ausserhalb der Familie mit einem
+     Gesicht, und Lee Jun findet Zeile neunzehn. **Nichts ist
+     geschehen, und alles steht.**
+
 ### Akt II - Herbst
 
 6. **Die Sang-hoon-Szene**, Bandmitte, nach der Hauptvorbereitung und vor dem
