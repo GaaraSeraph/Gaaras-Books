@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 915 | 106 (b1ch01-b3ch11) | 1 | 753 |
+| Annie | 917 | 106 (b1ch01-b3ch11) | 1 | 753 |
 | Park Sang-hoon | 308 | 48 (b1ch10-b3ch03) | 22 | 628 |
 | Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
 | Mr Hwang | 184 | 30 (b2ch07-b3ch11) | 166 | 753 |
@@ -72,7 +72,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-915 Nennungen in 106 Kapiteln.
+917 Nennungen in 106 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -984,8 +984,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 732 | b3ch09:296 | Georgij went down in the lift with two pages in an envelope that Annie's office had made.. |
 | 742 | b3ch10:230 | "Say his sentence again," said Annie. |
 | 742 | b3ch10:240 | "And then a price moves, and then I buy." Annie did not write it down. "In that order." |
-| 742 | b3ch10:262 | "From tonight you do not tell me which offices and you do not tell me when," said Annie... |
-| 742 | b3ch10:272 | "I did that as well, and I am taking one piece of it back, and I am taking it back becau.. |
+| 742 | b3ch10:262 | "Mr Chae is going to write down why I am unhappy with Hanseong," said Annie. "Dated, dul.. |
+| 742 | b3ch10:272 | "I have left out the fourteen and I am going to go on leaving it out." Annie did not mak.. |
+| 742 | b3ch10:284 | "A man who wants to say I bought because you went to Seodaemun has to get past a paper t.. |
+| 742 | b3ch10:296 | "I have called it maintenance since June, and on Thursday I am going to have to call it .. |
 | 753 | b3ch11:60 | Annie put that in one sentence in September and has not repeated it since. |
 | 753 | b3ch11:66 | And the other rule is the one that costs the most and it is Annie's. |
 | 753 | b3ch11:84 | "Then it costs more than that." Annie had not looked up. "I am not going to be a woman w.. |
@@ -1244,7 +1246,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch08:52` (Tag 718) - eight
 - `b3ch09:36` (Tag 732) - four
 - `b3ch09:296` (Tag 732) - two
-- `b3ch10:272` (Tag 742) - one
+- `b3ch10:262` (Tag 742) - two
+- `b3ch10:272` (Tag 742) - four, fourteen
+- `b3ch10:284` (Tag 742) - one
+- `b3ch10:296` (Tag 742) - five
 - `b3ch11:60` (Tag 753) - one
 - `b3ch11:66` (Tag 753) - one
 - `b3ch11:84` (Tag 753) - two

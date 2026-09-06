@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 11 Kapitel, 22.901 Woerter.
+Book Three, 11 Kapitel, 23.070 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -20,7 +20,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 07 | v1.14 | 2.238 |
 | 08 | v1.9 | 2.039 |
 | 09 | v1.6 | 2.091 |
-| 10 | v1.10 | 2.023 |
+| 10 | v1.14 | 2.192 |
 | 11 | v1.3 | 2.019 |
 
 ---
@@ -2295,7 +2295,7 @@ He looked at the third line for a while and did not change it.
 ---
 
 # Book Three · Chapter 10: Where it would go
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Seven Hundred and Forty-Two · Friday 15 October
 
@@ -2375,7 +2375,7 @@ Then he did the thing he had been kept for, and he did it without being asked.
 
 "Yes."
 
-"The Singapore chain does not go to prosecutors at all, and it does not go anywhere as a crime. It goes as a failure to know who somebody is, and that is a different word and a different building, and nobody in it has to accuse anybody of anything to open the file."
+"The Singapore chain reaches nobody as a crime. Where it reaches anybody at all, it arrives as a failure to know who a person is. That is a different word and a different building, and nobody there has to accuse anybody of anything to open the file."
 
 Georgij did not say anything.
 
@@ -2491,37 +2491,45 @@ He gave her the whole of it at half past seven and he gave her the last part fir
 
 "And in four months."
 
-"In four months it is a paragraph anybody can write." She had both hands on the arms of the chair. "Which is why I am going to do something now, and you are not going to like it, and I am going to do it anyway."
+"In four months it is a paragraph anybody can write." She had both hands on the arms of the chair. "And a paragraph is only frightening while it is the only thing in the room."
 
 * * *
 
 Georgij did not move at all.
 
-"From tonight you do not tell me which offices and you do not tell me when," said Annie. "Not the names, not the dates, not who wrote to whom. You tell me that it is done and you tell me nothing else about that part."
+"Mr Chae is going to write down why I am unhappy with Hanseong," said Annie. "Dated, dull, and true. Yeosu cold twice since June. Two letters my own logistics people sent that terminal and signed. A valve on the maintenance account twice a month since May."
 
-"You told me in October two years ago to come back and tell you all of it in order."
+"All of that is older than Seodaemun."
 
-"I did."
+"All of it is older than Seodaemun and none of it came out of me." She did not look away from him. "It is their letters, their file numbers and my maintenance ledger, and every line of it was written by somebody who did not know there was anything to know."
 
-"And you told me again in May, about the hall."
+"You have left out the fourteen."
 
-"I did that as well, and I am taking one piece of it back, and I am taking it back because a person who does not know a date cannot be asked one." Annie did not look away from him. "You are not being protected. I am."
+"I have left out the fourteen and I am going to go on leaving it out." Annie did not make anything of it. "The only reason I know that number is a man who does your work after four in the afternoon, and he is not going in a memorandum."
 
 * * *
 
-That is the first thing she has ever taken off the list.
+"That is not a defence," said Georgij.
 
-"Say whether you agree with it," she said.
+"It is not a defence. It is a reason with a date on it, and the date is earlier than the order he gave you."
 
-"It is correct."
+"Yes."
 
-"That is not what I asked you."
+"A man who wants to say I bought because you went to Seodaemun has to get past a paper that says I bought because they spent a summer costing me money." Annie put one hand flat. "He can still say it. He will have to say it against something."
 
-Georgij took longer over it than he has taken over anything she has asked him this year.
+* * *
 
-"No," he said.
+She stopped there for a moment, which she does not.
 
-"Good. Then we both know what it costs and neither of us is going to mention it again."
+"And say what it costs me."
+
+"You have called it maintenance since June."
+
+"I have called it maintenance since June, and on Thursday I am going to have to call it the other thing and put my name under it." Annie was not asking him to make it smaller. "And then it is on a piece of paper. People read pieces of paper, and what they will read is that a woman in this position let somebody do that to her for five months and paid the invoices."
+
+Georgij did not tell her that nobody would read it that way.
+
+He has never once told her a thing that was not true and he was not going to start on that.
 
 ---
 

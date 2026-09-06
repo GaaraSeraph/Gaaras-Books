@@ -143,5 +143,5 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 7** *The old one* (v1.14) · Tag 707, Fr 10. September · 2.238 W
 - **B3 8** *A day with nothing in it* (v1.9) · Tag 718, Di 21. September · 2.039 W
 - **B3 9** *Nobody counts* (v1.6) · Tag 732, Di 5. Oktober · 2.091 W
-- **B3 10** *Where it would go* (v1.10) · Tag 742, Fr 15. Oktober · 2.023 W
+- **B3 10** *Where it would go* (v1.14) · Tag 742, Fr 15. Oktober · 2.192 W
 - **B3 11** *Nothing has happened* (v1.3) · Tag 753, Di 26. Oktober · 2.019 W
