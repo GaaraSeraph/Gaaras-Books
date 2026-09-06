@@ -772,6 +772,36 @@ ist woertlich wahr: Er traegt ihn herein.
 
 ---
 
+## Der elfte Maerz gehoert zweien, entschieden am 06.09.
+
+**Der elfte Maerz steht zweimal im Buch, und die beiden haben nichts
+miteinander zu tun.**
+
+**2015, in einem Anwaltsbuero in Yeouido.** Choi Dae-ho schreibt mit
+achtundvierzig in den Rand eines Entwurfs *"If I ask you to stop it, you will
+tell me that you cannot"*, setzt seine Initialen daneben, geht und kommt nie
+wieder. Baek Jun-ho hat den Entwurf zwoelf Jahre in derselben Kiste und macht
+sie erst auf, als der Errichter im April 2027 stirbt (`b3 ch06:222`,
+`b3 ch06:278`).
+
+**2027, in einem Haus in Seoul.** Georgij geht an dem Abend ohne
+Aufforderung auf den Teppich neben ihren Schreibtisch, und es ist seither
+sein Platz (`b2 ch32:286`). Sie legt ihm die Hand in den Nacken und geht zum
+ersten Mal nicht weiter (`b2 ch32:410`). Die erste Seite des Hefts hat seit
+diesem Tag einen Eintrag fuer jeden einzelnen (`b2 ch32:492`). Dazu die
+Zusage aus `b2 ch12:126` und ihr Satz aus `b2 ch25:382`.
+
+**Der Autor hat es am 06.09. gesehen und Zufall genannt, und beide Termine
+bleiben stehen.**
+
+**Warum das hier steht und nicht bloss geschieht.** Zweimal bindet sich an
+demselben Kalendertag ein Mann selbst, und der eine tut es gegen sich und der
+andere zu ihren Fuessen. Ein spaeterer Pruefdurchgang findet das und
+verschiebt einen der beiden, weil es aussieht wie ein Fehler. **Es ist
+keiner, und es ist auch kein Reim, der ausgespielt werden soll.** Wer den Zug
+im Text ausdruecklich macht, macht aus dem Zufall eine Behauptung, und die
+traegt er nicht.
+
 ## Der Schluss von Band 1, entschieden am 23.08.
 
 **Der Geschaeftsstrang ist mit Kapitel 33 gewonnen und laeuft nur noch ab.** Das
@@ -873,7 +903,7 @@ und kein Konto. Papiere gibt es seit Oktober, weil ihre Compliance sie brauchte.
 Drei Durchgaenge ueber alle 42 Kapitel von Band 2: Zahlen und Zeitachse,
 Wissens- und Zusagenkette, Punkt oder Fragezeichen. Was dabei entschieden wurde:
 
-**Woo ist achtundsiebzig, und er ist mit siebenundzwanzig eingestiegen.** Band 2,
+**Woo ist achtundsiebzig, und er ist mit siebenundzwanzig eingestiegen.** **Nachtrag vom 06.09.: beides ist zur Haelfte ueberholt.** Achtundsiebzig gilt nur bis zum 26. September 2026; danach neunundsiebzig, ab September 2027 achtzig. Und weil *fifty-one years* seine stehende Formel bleibt und nicht mitwandert, ist er mit **achtundzwanzig** eingestiegen. Die Rechnung steht in `doc/15`. Band 2,
 Kapitel 13 liess ihn zweimal *"I am seventy-five"* sagen. Band 1 sagt viermal
 achtundsiebzig, einmal aus seinem eigenen Mund (*"I am not starting at
 seventy-eight"*), und vielfach *"fifty-one years"* im Gewerbe. Der aeltere und

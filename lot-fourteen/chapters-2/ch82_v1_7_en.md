@@ -1,5 +1,5 @@
 # Chapter 82: The only line out
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Four Hundred and Ninety-Seven · Friday 12 February
 
@@ -37,7 +37,7 @@ She went to the window.
 
 ---
 
-"Monday, at ten. He is seventy-eight and he does not do afternoons well, and I am going to him and he is not coming here." She did not turn round. "And you are going to be in the room."
+"Monday, at ten. He is seventy-nine and he does not do afternoons well, and I am going to him and he is not coming here." She did not turn round. "And you are going to be in the room."
 
 ---
 
@@ -95,7 +95,7 @@ Mr Ku had them there at four minutes to ten.
 
 The house is older than the road it stands on and has been added to twice, both times badly, and Chairman Woo has lived in it since 1979.
 
-He came out into the hall himself, which a man of seventy-eight with two people in the house does not have to do, and he did not put his hand out, because he does not.
+He came out into the hall himself, which a man of seventy-nine with two people in the house does not have to do, and he did not put his hand out, because he does not.
 
 He looked at Georgij for slightly longer than a host looks at anybody.
 
@@ -203,7 +203,7 @@ Woo looked at her properly for the first time since the hall.
 
 "There is more of that, and I have the morning."
 
-"You would answer all four and you would do it well, and then you would be a man of seventy-eight who has been told what was done in his own case and cannot un-know it." Annie did not blink. "I would have four answers by lunch. You would have the rest of it, however long that is. I have looked at that trade twice this week and it is not one I am willing to make."
+"You would answer all four and you would do it well, and then you would be a man of seventy-nine who has been told what was done in his own case and cannot un-know it." Annie did not blink. "I would have four answers by lunch. You would have the rest of it, however long that is. I have looked at that trade twice this week and it is not one I am willing to make."
 
 "That is not your decision."
 
@@ -225,7 +225,7 @@ Georgij, at the window, watched an old man decide something and did not move.
 
 "Say what."
 
-"The last useful thing I had." He straightened one hand on his knee. "I am seventy-eight and I have four answers in my head that nobody else on this earth has. You have just sat in my house and told me I am to die with them rather than be made uncomfortable. You have made me expensive to consult, and that is a thing you do to an old man once."
+"The last useful thing I had." He straightened one hand on his knee. "I am seventy-nine and I have four answers in my head that nobody else on this earth has. You have just sat in my house and told me I am to die with them rather than be made uncomfortable. You have made me expensive to consult, and that is a thing you do to an old man once."
 
 "That is worse than being asked."
 
@@ -273,7 +273,7 @@ She did not say anything for the first eleven kilometres, which is the same elev
 
 "Say why."
 
-"Because you decided what an old man could carry without asking him," said Georgij, "and a man of seventy-eight who has been right about most things since 2002 would sooner name his own date than have one chosen for him by somebody being kind."
+"Because you decided what an old man could carry without asking him," said Georgij, "and a man of seventy-nine who has been right about most things since 2002 would sooner name his own date than have one chosen for him by somebody being kind."
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 375.015 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 376.074 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1975,7 +1975,7 @@ die beim Planen zaehlt.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Chairman Woo Jae-sung** | **Logistiker, und ausdruecklich kein Chaebol.** Georgijs Freund | Achtundsiebzig, einundfuenfzig Jahre im Gewerbe, Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
+| **Chairman Woo Jae-sung** | **Logistiker, und ausdruecklich kein Chaebol.** Georgijs Freund | **Achtundsiebzig in Band 1, neunundsiebzig ab dem 27. September 2026, achtzig ab dem 27. September 2027.** Einundfuenfzig Jahre im Gewerbe, und das ist seine eigene Formel und keine Rechnung. Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
 | **Hana Seo-yeon** | **Spediteurin mit eigenem Hof.** Annies aelteste Verbindung, fuehrt ihn in den Ballsaal ein | Kennt Annie seit zwanzig Jahren. Drei Prozent Unvorsichtigkeit, und die sind gewaehlt | B1 7 | Ruht seit Mai |
 | **Kim Ye-rin** | **Fuehrt eine Gruppe, in der sechs Leute sie anrufen, bevor sie unterschreiben** | Eigene 1,4 %; leitet den getrennten 41-%-Block der sechs, Name auf Seite eins und elf | B1 30 | Erledigt in B1 |
 | **Park Sang-hoon** | **Chaebol. Haelt vierzig Prozent an Hanseong Shipping** | Gegner und Handelspartner zugleich. Hat vier Entscheidungen an Chois Tischen getroffen und keine erklaeren koennen | B1 22 | **Aktiv.** Haelt Sims Namen und benutzt ihn nicht |
@@ -2436,7 +2436,7 @@ stand und in keinem Figurendokument.** Kein Name im Text.
 - **Was das mit der Familie gemacht hat:** *"nobody in that house ever asked my
   father about anything"*, und *"That family has spent thirty years agreeing
   that he was right about everything."*
-- **Woo mochte ihn.** `b2 ch78`: *"a man of seventy-eight who liked my
+- **Woo mochte ihn.** `b2 ch78`: *"a man of seventy-nine who liked my
   father"*; `b2 ch77`: Woo hat in Annies Esszimmer gesessen, die Fotografien
   ihres Vaters angesehen und ihr gesagt, sie seien schrecklich. Und der Vater
   zu Woo, ohne einen Namen zu nennen: *"he had spent forty years being right
@@ -3329,7 +3329,7 @@ und niemand muss ihn zitieren.
 34. **Sim** ist der Besteller der Blumen, telefonisch, mit Nummer, beide Male.
 35. **Kim Ye-rin** haelt **1,4 Prozent** und **kann man einmal fragen**. Der Grund, warum sie nirgends hingeht, ist der Motor der Figur: *"A woman in a room can be asked ... She has no title, so nothing protects her from a direct question."*
 36. **Hanas Regel: "Not quickly and not twice. Once."** Sie besitzt die Ostseite seit 2014 und hat sie keinen Tag vermietet.
-37. **Chairman Woo**, achtundsiebzig. **Achtung: der Index zitiert bis heute *"I am seventy-five"* aus b2 K13 - der Text sagt seit dem 24.08. zweimal *seventy-eight*.** Siehe Abschnitt F.
+37. **Chairman Woo**, achtundsiebzig in Band 1, neunundsiebzig ab `b2 ch69`. **Achtung: der Index zitiert bis heute *"I am seventy-five"* aus b2 K13 - der Text sagt seit dem 24.08. zweimal *seventy-eight*.** Siehe Abschnitt F.
 38. **Mr Hong** hat Georgij am 25. Oktober drei Namen genannt: **Woo. Sunwoo. Choi Dae-ho, dritter.** *"Hong is a decent man and he has never in his life understood why he gives people three names instead of one."*
 
 ---
@@ -9738,7 +9738,7 @@ auf **VERFALLEN**.
 | **Annie** | **39 im Januar 2027** | **18. September** (war 3. August) | `b2 ch78`: vierzehn plus fuenfundzwanzig; mit dreissig verstanden und seit neun Jahren gewusst |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 35 im April 2002; 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*; historische Nennungen auf 35 korrigiert |
-| **Chairman Woo Jae-sung** | 78 bis 26.09.2027, **danach 79** | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre. **Achtung: die Grenze liegt mitten in Band 3.** `b2 ch82` und `b2 ch87` lassen ihn selbst *"I am seventy-eight"* sagen; `b3 ch05` am 6. August 2027 und `b3 ch07` am 10. September 2027 stehen noch davor, alles ab dem 27. September dahinter |
+| **Chairman Woo Jae-sung** | **78 ab 27.09.2025, 79 ab 27.09.2026, 80 ab 27.09.2027** | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. **Berichtigt am 06.09.: hier stand *"78 bis 26.09.2027"*, ein Ende ohne Anfang.** Daraus wurden **624 Tage Achtundsiebzig** ueber dreissig Nennungen in drei Baenden, von Tag 48 bis Tag 672. Sechzehn bleiben und liegen zwischen dem 20. November 2025 und dem 9. April 2026; vierzehn stehen jetzt auf neunundsiebzig, von `b2 ch69` bis `b3 ch05`. **Die Grenze zerreisst kein Kapitel**, weil sie in die Luecke zwischen `b2 ch13` und `b2 ch69` faellt. Ab dem 27. September 2027 ist er achtzig, und das steht im Text noch nirgends: `b3 ch10` und `b3 ch11` nennen sein Alter nicht |
 | **Mrs Sunwoo** | 81 bis 16.11.2026, **danach 82** | **17. November** (war 29. September, davor 4. Juli) | `b2 ch03` nennt sie im Maerz 81; `b2 ch71` und `b2 ch89` nennen sie nach dem Geburtstag 82. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
@@ -9768,6 +9768,8 @@ auf **VERFALLEN**.
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
 | **Jang** | **58** | **offen** | Kapitel 72, am 21. Dezember aus seinem eigenen Mund im Wagen: *"I have got a street and a coffee and I am fifty-eight"*. Dreissig Jahre im Gewerbe (12, 13, 40) |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |
+
+**Warum *fifty-one years* nicht mitwandert.** Die Wendung steht achtmal im Kanon, sechsmal in Band 1 und zweimal in Band 2, und sie ist **seine eigene stehende Formel** und keine Rechnung des Erzaehlers. `b1 ch19:58` sagt *"In fifty-one years two people have said that to my face"*, und `b2 ch69:96` sagt ein Jahr spaeter *"Two men in fifty-one years"*. Das ist dieselbe Anekdote, und dass sie beim zweiten Mal dieselbe Zahl hat, ist der Punkt: ein Mann rundet seine Laufbahn nicht am Geburtstag hoch. **Daraus folgt, dass sein Eintrittsalter achtundzwanzig ist und nicht siebenundzwanzig**, und wer die Formel spaeter auf zweiundfuenfzig setzt, nimmt der Anekdote ihre Wiederholung.
 
 **Zuschreibung korrigiert am 1. September:** Der Satz mit der Strasse, dem Kaffee
 und den achtundfuenfzig Jahren gehoert Jang. Mrs Ha erscheint erst im Absatz
@@ -9885,7 +9887,7 @@ Punkt oder Fragezeichen. Die Begruendungen stehen in
 liegt in `doc/protokoll/2026-09-01-kontinuitaet-band-2.md`. Die Zahlen und
 Tatsachen, die ab jetzt gelten:
 
-- **Chairman Woo: achtundsiebzig, im Gewerbe seit siebenundzwanzig.** Band 2,
+- **Chairman Woo: achtundsiebzig in Band 1, im Gewerbe seit achtundzwanzig.** Band 2,
   Kapitel 13 sagte zweimal fuenfundsiebzig und *"since I was twenty-four"*.
 - **Mr Byun: sechsundzwanzig Jahre** am Register. Kapitel 22 sagte an der Tuer
   zweiundzwanzig, viermal vorher sechsundzwanzig.
@@ -9951,7 +9953,7 @@ beide Baende und die sieben Band-1-Inhaltsdurchgaenge vom 25.08., zusammen
 
 **Was hier absichtlich stehengeblieben ist:** *Korrigiert am 24.08., Kanon ab
 jetzt.* Die Ueberschrift traegt ein Datum, der Abschnitt aber die verbindlichen
-Zahlen des Buches - Woo achtundsiebzig, Byun sechsundzwanzig Jahre, Jang
+Zahlen des Buches - Woo achtundsiebzig in Band 1, Byun sechsundzwanzig Jahre, Jang
 dreissig, Mrs Seo neun. **Das ist Kanon in einem datierten Gewand** und gehoert
 nicht ins Archiv.
 
@@ -10753,6 +10755,14 @@ Der Hammer ist hölzern, etwa so lang wie ein Löffel, und macht in einem Saal d
 
 ---
 
+## Der elfte Maerz
+
+**Das Datum gehoert zweien.** Chois Randnotiz von 2015 (`b3 ch06:222`) und der
+Abend, an dem Georgij 2027 auf den Teppich geht (`b2 ch32:286`), fallen beide
+auf den elften Maerz. **Zufall, vom Autor am 06.09. gesehen und
+stehengelassen.** Kein Bild, das ausgespielt wird, und kein Fehler, der
+berichtigt wird. Die Begruendung steht in `doc/41`.
+
 ## Festgelegte Zeilen
 
 Wortlaut steht fest. Wer eine dieser Stellen anfasst, aendert nicht die Formulierung,
@@ -11059,19 +11069,22 @@ Mengenangabe.**
 240. **BAND 6: GLUECKLICHER VATER, UEBERBEHUTSAMER EHEMANN:** Georgij ist nach der Geburt sichtbar sehr gluecklich als Vater und ueberbehutsam mit Annie. Das ist Zaertlichkeit plus Angstrest, keine Kontrolle. Er sieht Risiken zu frueh, aber er weist Annie nicht an und entscheidet nicht ueber ihren Koerper. Wenn Annie ihn stoppt, korrigiert er.
 241. **BAND 6: NAM/LIM-ANSATZ VERWORFEN:** Nam darf nicht als externer Gegner zurueckkommen, weil Nam Annie gehoert. Lim als alter Governance-Mann traegt keinen Schlussband; hoechstens Funktionsstimme, kein Gegner und kein Finisher.
 242. **BAND 6-GEGNER: ALTE HAEUSER UND OEFFENTLICHE ORDNUNG:** Der Hauptdruck kommt von alten Chaebol-Haeusern, Regulierung, Banken, Versicherern, internationalen Zulassungen, Minderheiten und Resthaltern. Sie greifen nicht mit Gewalt an, sondern ueber Monopol, Kontrollwechsel, Marktvertrauen und Legitimität.
-243. **WARUM NACH DER GEBURT:** Geburt ist nicht Schwaeche, sondern Dauer. Aus Annie und Georgij wird ein vererbbares Haus. Die alten Haeuser handeln, bevor Georgijs Fuehrung normal wird und bevor das Kind als selbstverstaendlicher Erbe gelesen wird.
+243. **WARUM NACH DER GEBURT:** Geburt verursacht den Angriff nicht. Die konkreten Ausloeser sind Hanseong-Resthalter, Minderheitenbeschwerden, Remedies-/Fair-Trade-Fragen, Kreditlinien, Versicherungsrenewals, Shipping-Risiko, internationale Zulassungen und die Spuren aus Band 3 bis 5. Geburt ist der Lesartwechsel: Ehe, Besitzform, Fuehrungszugriff und Kind liegen auf derselben Linie und sehen wie ein vererbbares Haus aus.
 244. **BAND 6 OEFFNET MIT WARTEN:** Kurz vor der Geburt ist Annies Bauch sichtbar, aber nicht als Gefahr. Das Haus ist enger getaktet, Georgij ist gluecklich und zu aufmerksam. Die erste Fuehrungsprobe ist, dass Georgij nicht jeden Raum betritt.
 245. **DIE GEBURT IST ZENTRUM, KEIN THRILLER:** Kein Anschlag, kein Krankenhauskrimi. Annie gehoert der Raum. Georgij ist praesent und nuetzlich, nimmt ihr aber nichts ab, was ihr gehoert. Danach ist Elternpraesenz Tatsache.
 246. **GEORGIJS BAND-6-PROBE IST STRUKTUR:** Er gewinnt nicht durch Drohung, sondern durch Zuständigkeiten, Ringfences, transparente Vollmachten, echte Compliance, operative Ersatzketten und saubere Trennung zwischen legalem Imperium und Dokkaebi.
 247. **DREI RAEUME BEWEISEN BAND 6:** Ein staatlich/regulatorischer Raum, den Georgij sauber besteht; ein Annie-Raum, den nur sie fuehren kann; ein Elternraum, den kein Gremium bekommt. Diese Parallelprobe ersetzt einen langen Managementroman.
-248. **WARUM DER ALTE CHAIRMAN HANDELT:** Nicht Marktanteilskraenkung, sondern Praezedenzfall. Georgij und Annie haben gezeigt, dass ein juengeres Haus ein altes Haus ausnehmen, profitables Gewebe neu zusammensetzen, Unterweltordnung herstellen, Ministeriumswege sauber halten und danach ein Kind in diese Macht setzen kann. Wenn das normal wird, sind alte Haeuser weniger unangreifbar.
-249. **BAND-6-ANGRIFF KLINGT WIE HILFE:** Der alte Chairman bietet Stabilitaet, freiwillige Aufsicht, Industrievereinbarung, externen Governance-Kreis oder Senior Trustee an, bis Annie angeblich wieder jeden Raum selbst halten kann. Das ist die Beleidigung: Georgij wird nicht als Gegner gelesen, sondern als Risiko, das man einrahmt.
+248. **WARUM DER ALTE CHAIRMAN HANDELT:** Nicht Marktanteilskraenkung, sondern Praezedenzfall. Georgij und Annie haben gezeigt, dass ein juengeres Haus ein altes Haus ausnehmen, profitables Gewebe neu zusammensetzen, Unterweltordnung herstellen und Ministeriumswege sauber halten kann. Ehe und Kind machen diese Macht dauerhaft lesbar. Wenn das normal wird, sind alte Haeuser weniger unangreifbar.
+249. **BAND-6-ANGRIFF KLINGT WIE HILFE:** Der alte Chairman bietet Stabilitaet, freiwillige Aufsicht, Industrievereinbarung, externen Governance-Kreis oder Senior Trustee an, angeblich um die junge Nachfolgeform oeffentlich haltbar zu machen. Das ist die Beleidigung: Georgij wird nicht als Gegner gelesen, sondern als Risiko, das man einrahmt.
 250. **VIER DRUCKARME:** Alte Haeuser streuen Lesart; oeffentliche Ordnung fragt legitim; Banken/Versicherer/Risk verlangen trennbare Verantwortung; Hanseong-Reste liefern Beschwerden und Altmaterial. Keiner davon darf offensichtlich kriminell sein, sonst wird es wieder ein Georgij-Feldzug statt Band-6-Strukturprobe.
 251. **GEORGIJ DARF NICHT DROHEN:** Drohung wuerde die gegnerische Lesart bestaetigen. Die Antwort muss aus Form bestehen: Chae fuer Ehe/Vollmacht/Haftung, Hwang fuer Reihen, Yoon fuer Compliance/Ringfences, Jang fuer koerperliche Sicherheit, Dokkaebi-Funktionstische fuer getrennte Unterweltordnung, Jun/Werkleute fuer Sanierung ohne Daueranwesenheit.
 252. **GEORGIJS MITTELFEHLER:** Er versucht zuerst, zu viele Raeume selbst zu halten, weil Annie geboren hat und weil er das Kind nicht von ihr wegorganisieren will. Annie stoppt ihn. Schutz darf nicht heissen, dass er ihre Macht als seine Last verwaltet.
 253. **BAND-6-LOESUNG IST TAKTUNG:** Manchmal geht Georgij, manchmal Annie, manchmal beide, manchmal keiner von beiden, weil das Kind Vorrang hat und die Struktur den Raum halten muss. Das ist die erwachsene Form von "present when I need you, absent when I don't."
 254. **CHAEBOL-VERKEHRSORDNUNG:** Nicht Chaebol gegen Annie. Annie ist Chaebol. Der Konflikt entsteht, weil sie die alte Regel von innen bricht: Haeuser duerfen einander Maerkte, Leute, Banken, Routen und Ehre nehmen, aber sie lassen ein altes Haus stehen und rufen den Staat nicht so tief hinein, dass die Methoden aller sichtbar werden.
 255. **GEORGIJ IST DER ANGRIFFSPUNKT DER ALTEN HAEUSER:** Eine Aussenseiterin koennte man als Skandal behandeln; Annie nicht, weil sie selbst ein Haus fuehrt. Georgij ist die Methode in Annies Haus, die nicht aus der alten Verkehrsordnung stammt: Wahrheit, Beweis, Boerse, Staat, Unterweltordnung und keine automatische Schonung alter Namen.
+256. **MRFTA NAMENTLICH NUR IN FACHSCHRIFT:** Der Monopoly Regulation and Fair Trade Act darf in Akten, Regulatorenschreiben und bei Chae/Yoon/externer Rechtsberatung namentlich auftauchen. Dort duerfen Article 6, Article 9 und Article 14 stehen. Dialoge zwischen Annie, Georgij und Werkleuten sollen nicht in Paragraphen reden.
+257. **ARTICLE 6 IST VERMUTUNG, NICHT SCHULD:** Hohe Marktanteile stuetzen die Marktbeherrschungsvermutung, aber nicht automatisch einen Vorwurf. Fuer Band 6 ist das Druck, kein Schuldspruch.
+258. **ARTICLE 9/14/REMEDIES TRAGEN DEN PLOT:** Der wichtigere Hebel ist die Frage, ob Hanseong/Motors/Electronics/Shipping als Zusammenschluss nur mit Remedies haltbar waren und ob diese Bedingungen nach Ehe, Kind und Georgijs Fuehrung noch real eingehalten werden. Article 9 ist der Zusammenschlussrahmen, Article 14 die Corrective-Measures-Schiene.
 
 ---
 
@@ -20268,7 +20281,7 @@ Fassung und ist aus dem aktiven Schuldbuch entfernt.
 
 **3. Chairman Woos versiegelter Umschlag.** Vier Antworten in seiner
 Handschrift, beim Anwalt, *and not one hour before* - **faellig bei seinem
-Tod.** Er ist achtundsiebzig. **Das Buch hat seinen Tod terminiert und nicht
+Tod.** Er ist neunundsiebzig und wird im September 2027 achtzig. **Das Buch hat seinen Tod terminiert und nicht
 geschrieben.**
 
 **4. Das Halsband.** Vierundzwanzig Nennungen, und am letzten Tag des zweiten
@@ -20374,7 +20387,7 @@ Szene nicht.**
 
 **Keine Kinder, in zwei Baenden nicht einmal erwaehnt. Die Frau ist tot.**
 
-Woo ist achtundsiebzig, besitzt *one thing he cares about* (`b1 ch18:222`),
+Woo ist neunundsiebzig, besitzt *one thing he cares about* (`b1 ch18:222`),
 und zwanzig Prozent davon gehoeren seit dem Baujahr einem Fonds, den niemand
 lesen kann.
 
@@ -25925,6 +25938,21 @@ Servicenetz, Preis-/Liefergarantien fuer Flottenkunden, Compliance-Monitor,
 gegebenenfalls Trustee oder Ausgliederung fuer den schmalen monopolrelevanten
 Teil. Band 4 zeigt, dass diese Saetze echte Arbeit sind.
 
+**Rechtsanker, ohne Lehrbuchton:** Die formalen Papiere duerfen den
+**Monopoly Regulation and Fair Trade Act** nennen. Fuer unsere Zwecke tragen
+vor allem drei Stellen: **Article 6** als Vermutung von Marktbeherrschung bei
+hohen Marktanteilen, **Article 9** als Rahmen fuer
+wettbewerbsbeschraenkende Unternehmenszusammenschluesse und **Article 14** als
+Corrective-Measures-/Remedies-Anker. Das heisst nicht: Annie ist illegal, weil
+sie gross ist. Es heisst: Bei Motors/Electronics/Shipping muss vor und nach dem
+Closing belegbar sein, dass die Remedies real greifen.
+
+**Auf der Seite wird das sparsam benutzt.** Chae, Yoon, externe Anwälte,
+Regulatoren und Schreiben duerfen *Article 6*, *Article 9*, *Article 14*, *the
+Act* oder *the Commission* sagen. Annie, Georgij und Werkleute reden nicht in
+Paragraphen. Fuer sie heisst es: offene Werkstattdaten, Teilezugang, echte
+Keys, getrennte Systeme, keine heimlichen Rueckkanaele.
+
 **Darum ist Georgijs Job genau richtig.** Wettbewerbsauflagen werden nicht im
 Boardroom erfuellt, sondern in Systemen: Teilekataloge, Werkstattportale,
 Telematikdaten, Batterie-Diagnose, Warranty-APIs, Vendor-Zugaenge,
@@ -31246,11 +31274,26 @@ nicht so leicht anhaengen, weil sie selbst ein Haus fuehrt. Darum ist Georgij
 der Angriffspunkt: Er ist die Methode, die in Annies Haus sitzt, aber nicht aus
 der alten Verkehrsordnung stammt.
 
-**Warum sie erst jetzt angreifen:** Vor der Geburt konnte man Georgij noch als
-Ausnahme lesen: Annies Mann, Annies Werkzeug, Annies merkwuerdiger Schatten.
-Nach der Geburt ist er Vater des Erben und fuehrt tatsaechlich Raeume. Damit
-ist das Haus nicht nur gefaehrlich, sondern vererbbar. Die alten Haeuser
-warten nicht, bis diese Form normal wird.
+**Warum die Geburt nicht Ausloeser, sondern Lesartwechsel ist:** Der Angriff
+beginnt nicht, weil Annie ein Kind bekommt. Die konkreten Ausloeser sind
+Hanseong-Resthalter, Minderheitenbeschwerden, Fair-Trade-/Remedies-Fragen,
+Kreditlinien, Versicherungsrenewals, Shipping-Risiko, internationale
+Zulassungen und die Spuren aus Band 3 bis 5. Die Geburt macht nur
+unuebersehbar, dass diese Spuren nicht wieder verschwinden.
+
+**Vorher konnte man Georgij noch in einzelne Ausnahmen sortieren.** In Band 3
+war er der Mann, mit dem Annie Hanseong geschlagen hat. In Band 4 war er
+Krisenmann, Infrastructure Specialist, Sanierer, Werkzeug. In Band 5 war die
+Ehe gefaehrlich, aber noch privat lesbar. Nach der Geburt liegen Ehe,
+Besitzform, Fuehrungszugriff und Kind auf derselben Linie. Fuer Chaebol
+bedeutet Haus nicht nur Firma, sondern Name, Familie, Erbe und Wiederholung.
+
+**Darum wird Georgij zum Problem.** Nicht weil er Vater ist. Sondern weil er
+als Vater, Ehemann und tatsaechlich Fuehrender nicht mehr nur Annies scharfer
+Schatten ist. Er wird Teil der Nachfolgeform. Wenn Annie Raeume an ihn gibt,
+wirkt das nicht mehr wie Delegation an einen nuetzlichen Mann, sondern wie
+Institutionalisierung: Dieser Mann haelt Macht, und diese Macht bleibt in der
+Familie.
 
 **Die externen Gegner sind deshalb:**
 
@@ -31278,12 +31321,29 @@ Board-Minderheiten, internationale Zulassungen, Medienfluestern und die Frage,
 ob Georgij ueberhaupt ein legitimer Traeger dieser Macht ist. Nichts davon
 muss gelogen sein. Genau deshalb traegt es.
 
+**Der Rechtsanker bleibt schmal.** Band 6 darf den **Monopoly Regulation and
+Fair Trade Act** namentlich nur dort benutzen, wo Akten oder Fachleute
+sprechen. **Article 6** liefert die Marktbeherrschungsvermutung, aber noch
+keinen Schuldvorwurf. **Article 9** liefert den Zusammenschlussrahmen.
+**Article 14** liefert die Corrective-Measures-/Remedies-Schiene. Die
+eigentliche Frage lautet: War die Konzentration durch Hanseong/Motors/
+Electronics/Shipping nur unter Bedingungen haltbar, und haelt die neue
+Fuehrungsstruktur diese Bedingungen noch ein?
+
+**Das loest den Plot so:** Band 3 hat die Uebernahmen mit Remedies politisch
+haltbar gemacht. Band 4 zeigt die praktische Einloesung im Werk. Band 6 dreht
+nicht zurueck auf "die Uebernahme war verboten", sondern fragt, ob Annies
+gewachsenes Haus nach Ehe, Kind und Georgijs Fuehrung weiterhin getrennt,
+offen und beaufsichtigbar genug ist. Darum koennen alte Haeuser oeffentliche
+Mechanismen nutzen, ohne dass die Regulierer gekauft sein muessen.
+
 ### Warum das zu Geburt und Elternregel passt
 
-**Geburt ist nicht Schwaeche. Geburt ist Dauer.** Das Kind macht aus Annie und
-Georgij kein Paar mit Skandalwert, sondern ein Haus mit Zukunft. Wer dieses
-Haus brechen will, muss jetzt handeln, bevor Georgijs Fuehrung normal wird und
-bevor das Kind als selbstverstaendlicher Erbe gelesen wird.
+**Geburt ist nicht Schwaeche und nicht Ausloeser. Geburt ist Dauer.** Das Kind
+macht aus Annie und Georgij kein Paar mit Skandalwert, sondern ein Haus mit
+Zukunft. Die alten Haeuser handeln auf vorhandene Papiere, Beschwerden und
+Risiken; die Geburt macht nur die Rechnung unuebersehbar: Das geht nicht von
+selbst wieder weg.
 
 **Die Elternregel bleibt der innere Druck.** Annie und Georgij wollen beide
 Eltern sein, nicht nur Eigentuemernamen. Die alten Haeuser nutzen das nicht,
@@ -32304,6 +32364,36 @@ ist woertlich wahr: Er traegt ihn herein.
 
 ---
 
+## Der elfte Maerz gehoert zweien, entschieden am 06.09.
+
+**Der elfte Maerz steht zweimal im Buch, und die beiden haben nichts
+miteinander zu tun.**
+
+**2015, in einem Anwaltsbuero in Yeouido.** Choi Dae-ho schreibt mit
+achtundvierzig in den Rand eines Entwurfs *"If I ask you to stop it, you will
+tell me that you cannot"*, setzt seine Initialen daneben, geht und kommt nie
+wieder. Baek Jun-ho hat den Entwurf zwoelf Jahre in derselben Kiste und macht
+sie erst auf, als der Errichter im April 2027 stirbt (`b3 ch06:222`,
+`b3 ch06:278`).
+
+**2027, in einem Haus in Seoul.** Georgij geht an dem Abend ohne
+Aufforderung auf den Teppich neben ihren Schreibtisch, und es ist seither
+sein Platz (`b2 ch32:286`). Sie legt ihm die Hand in den Nacken und geht zum
+ersten Mal nicht weiter (`b2 ch32:410`). Die erste Seite des Hefts hat seit
+diesem Tag einen Eintrag fuer jeden einzelnen (`b2 ch32:492`). Dazu die
+Zusage aus `b2 ch12:126` und ihr Satz aus `b2 ch25:382`.
+
+**Der Autor hat es am 06.09. gesehen und Zufall genannt, und beide Termine
+bleiben stehen.**
+
+**Warum das hier steht und nicht bloss geschieht.** Zweimal bindet sich an
+demselben Kalendertag ein Mann selbst, und der eine tut es gegen sich und der
+andere zu ihren Fuessen. Ein spaeterer Pruefdurchgang findet das und
+verschiebt einen der beiden, weil es aussieht wie ein Fehler. **Es ist
+keiner, und es ist auch kein Reim, der ausgespielt werden soll.** Wer den Zug
+im Text ausdruecklich macht, macht aus dem Zufall eine Behauptung, und die
+traegt er nicht.
+
 ## Der Schluss von Band 1, entschieden am 23.08.
 
 **Der Geschaeftsstrang ist mit Kapitel 33 gewonnen und laeuft nur noch ab.** Das
@@ -32405,7 +32495,7 @@ und kein Konto. Papiere gibt es seit Oktober, weil ihre Compliance sie brauchte.
 Drei Durchgaenge ueber alle 42 Kapitel von Band 2: Zahlen und Zeitachse,
 Wissens- und Zusagenkette, Punkt oder Fragezeichen. Was dabei entschieden wurde:
 
-**Woo ist achtundsiebzig, und er ist mit siebenundzwanzig eingestiegen.** Band 2,
+**Woo ist achtundsiebzig, und er ist mit siebenundzwanzig eingestiegen.** **Nachtrag vom 06.09.: beides ist zur Haelfte ueberholt.** Achtundsiebzig gilt nur bis zum 26. September 2026; danach neunundsiebzig, ab September 2027 achtzig. Und weil *fifty-one years* seine stehende Formel bleibt und nicht mitwandert, ist er mit **achtundzwanzig** eingestiegen. Die Rechnung steht in `doc/15`. Band 2,
 Kapitel 13 liess ihn zweimal *"I am seventy-five"* sagen. Band 1 sagt viermal
 achtundsiebzig, einmal aus seinem eigenen Mund (*"I am not starting at
 seventy-eight"*), und vielfach *"fifty-one years"* im Gewerbe. Der aeltere und
@@ -34133,7 +34223,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:274` (Tag 464) - one
 - `b2ch82:48` (Tag 497) - fifty, one, two
 - `b2ch82:122` (Tag 500) - fifty, seven
-- `b2ch82:206` (Tag 500) - four, one, seventy-eight
+- `b2ch82:206` (Tag 500) - four, one, seventy-nine
 - `b2ch83:292` (Tag 514) - nine
 - `b2ch84:6` (Tag 517) - eight
 - `b2ch84:24` (Tag 517) - one
@@ -34833,7 +34923,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch77:122 | "He was not a lawyer. He was not in the ministry and he was not anybody's cousin." Woo h.. |
 | 464 | b2ch77:130 | "A man who cannot read a contract needs somebody to tell him which people to say yes to... |
 | 464 | b2ch77:134 | "Your employer's father," said Woo. |
-| 464 | b2ch77:146 | Behind him Woo did not fill the silence, because a man of seventy-eight who has come acr.. |
+| 464 | b2ch77:146 | Behind him Woo did not fill the silence, because a man of seventy-nine who has come acro.. |
 | 464 | b2ch77:154 | "That is the right question and I am going to answer it in three parts." Woo held up not.. |
 | 464 | b2ch77:158 | "The second part is mine. I knew that man for thirty-one years. I sat across a table fro.. |
 | 464 | b2ch77:166 | "The third part is that I have sat in that woman's dining room and looked at her father'.. |
@@ -34967,12 +35057,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:116` (Tag 434) - forty, one, thirty-five, thirty-six, twenty-four
 - `b2ch69:122` (Tag 434) - one
 - `b2ch69:134` (Tag 434) - four, six, three
-- `b2ch69:146` (Tag 434) - seventy-eight, twenty
+- `b2ch69:146` (Tag 434) - seventy-nine, twenty
 - `b2ch69:152` (Tag 434) - one, three, twenty-four, two
 - `b2ch69:156` (Tag 434) - fourteen, three, twenty-four
 - `b2ch69:158` (Tag 434) - three
 - `b2ch69:162` (Tag 434) - three
-- `b2ch69:204` (Tag 434) - seventy-eight, two, two thousand and two
+- `b2ch69:204` (Tag 434) - seventy-nine, two, two thousand and two
 - `b2ch69:230` (Tag 434) - nine hundred, one, six, ten
 - `b2ch69:234` (Tag 434) - four, one
 - `b2ch69:250` (Tag 434) - one
@@ -34987,10 +35077,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:110` (Tag 464) - two
 - `b2ch77:122` (Tag 464) - four
 - `b2ch77:130` (Tag 464) - one, thirty-five
-- `b2ch77:146` (Tag 464) - seventy-eight
+- `b2ch77:146` (Tag 464) - seventy-nine
 - `b2ch77:154` (Tag 464) - four, three
 - `b2ch77:158` (Tag 464) - forty, four, nine, one, ten, thirty-one, two thousand and two
-- `b2ch77:198` (Tag 464) - four, seventy-eight
+- `b2ch77:198` (Tag 464) - four, seventy-nine
 - `b2ch77:208` (Tag 464) - fourteen
 - `b2ch77:222` (Tag 464) - fourteen, one, thirty, twenty-five, two thousand and two
 - `b2ch77:234` (Tag 464) - one
@@ -36034,7 +36124,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch67:136` (Tag 404) - one
 - `b2ch67:178` (Tag 409) - one
 - `b2ch77:14` (Tag 464) - nine, one
-- `b2ch77:36` (Tag 464) - seventy-eight
+- `b2ch77:36` (Tag 464) - seventy-nine
 - `b2ch78:18` (Tag 464) - six, ten
 - `b2ch80:10` (Tag 472) - three
 - `b2ch84:102` (Tag 517) - two

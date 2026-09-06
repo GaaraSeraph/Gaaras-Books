@@ -1,5 +1,5 @@
 # Chapter 77: The doorway
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
 
@@ -33,7 +33,7 @@ Annie met him at the foot of the stairs and did not come further than that.
 
 Annie looked at him for a moment.
 
-"It sounds like a man being careful with somebody," she said. "The small room is on the left and nobody will come in. Mrs Seo will bring you something and you will drink it, because you are seventy-eight and you have come across the city on a Sunday."
+"It sounds like a man being careful with somebody," she said. "The small room is on the left and nobody will come in. Mrs Seo will bring you something and you will drink it, because you are seventy-nine and you have come across the city on a Sunday."
 
 "I will drink it. I will not enjoy it. I have not enjoyed anything hot since 2011."
 
@@ -143,7 +143,7 @@ Then he stood up and went to the window and stood there, which is a thing he has
 
 ---
 
-Behind him Woo did not fill the silence, because a man of seventy-eight who has come across a city on a Sunday knows exactly what he has just put on a table.
+Behind him Woo did not fill the silence, because a man of seventy-nine who has come across a city on a Sunday knows exactly what he has just put on a table.
 
 "How certain," said Georgij, at the glass.
 
@@ -195,7 +195,7 @@ Georgij went back and sat down.
 
 "Yes."
 
-"No." Woo said it immediately. "It is not mine. I have had it four days and they have been the worst four days I have had since my wife. I am seventy-eight and I have finished four men, and I am not going to walk into a woman's house and take her father off her on a Sunday."
+"No." Woo said it immediately. "It is not mine. I have had it four days and they have been the worst four days I have had since my wife. I am seventy-nine and I have finished four men, and I am not going to walk into a woman's house and take her father off her on a Sunday."
 
 "Then it is mine."
 

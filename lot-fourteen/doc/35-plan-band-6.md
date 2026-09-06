@@ -133,11 +133,26 @@ nicht so leicht anhaengen, weil sie selbst ein Haus fuehrt. Darum ist Georgij
 der Angriffspunkt: Er ist die Methode, die in Annies Haus sitzt, aber nicht aus
 der alten Verkehrsordnung stammt.
 
-**Warum sie erst jetzt angreifen:** Vor der Geburt konnte man Georgij noch als
-Ausnahme lesen: Annies Mann, Annies Werkzeug, Annies merkwuerdiger Schatten.
-Nach der Geburt ist er Vater des Erben und fuehrt tatsaechlich Raeume. Damit
-ist das Haus nicht nur gefaehrlich, sondern vererbbar. Die alten Haeuser
-warten nicht, bis diese Form normal wird.
+**Warum die Geburt nicht Ausloeser, sondern Lesartwechsel ist:** Der Angriff
+beginnt nicht, weil Annie ein Kind bekommt. Die konkreten Ausloeser sind
+Hanseong-Resthalter, Minderheitenbeschwerden, Fair-Trade-/Remedies-Fragen,
+Kreditlinien, Versicherungsrenewals, Shipping-Risiko, internationale
+Zulassungen und die Spuren aus Band 3 bis 5. Die Geburt macht nur
+unuebersehbar, dass diese Spuren nicht wieder verschwinden.
+
+**Vorher konnte man Georgij noch in einzelne Ausnahmen sortieren.** In Band 3
+war er der Mann, mit dem Annie Hanseong geschlagen hat. In Band 4 war er
+Krisenmann, Infrastructure Specialist, Sanierer, Werkzeug. In Band 5 war die
+Ehe gefaehrlich, aber noch privat lesbar. Nach der Geburt liegen Ehe,
+Besitzform, Fuehrungszugriff und Kind auf derselben Linie. Fuer Chaebol
+bedeutet Haus nicht nur Firma, sondern Name, Familie, Erbe und Wiederholung.
+
+**Darum wird Georgij zum Problem.** Nicht weil er Vater ist. Sondern weil er
+als Vater, Ehemann und tatsaechlich Fuehrender nicht mehr nur Annies scharfer
+Schatten ist. Er wird Teil der Nachfolgeform. Wenn Annie Raeume an ihn gibt,
+wirkt das nicht mehr wie Delegation an einen nuetzlichen Mann, sondern wie
+Institutionalisierung: Dieser Mann haelt Macht, und diese Macht bleibt in der
+Familie.
 
 **Die externen Gegner sind deshalb:**
 
@@ -165,12 +180,29 @@ Board-Minderheiten, internationale Zulassungen, Medienfluestern und die Frage,
 ob Georgij ueberhaupt ein legitimer Traeger dieser Macht ist. Nichts davon
 muss gelogen sein. Genau deshalb traegt es.
 
+**Der Rechtsanker bleibt schmal.** Band 6 darf den **Monopoly Regulation and
+Fair Trade Act** namentlich nur dort benutzen, wo Akten oder Fachleute
+sprechen. **Article 6** liefert die Marktbeherrschungsvermutung, aber noch
+keinen Schuldvorwurf. **Article 9** liefert den Zusammenschlussrahmen.
+**Article 14** liefert die Corrective-Measures-/Remedies-Schiene. Die
+eigentliche Frage lautet: War die Konzentration durch Hanseong/Motors/
+Electronics/Shipping nur unter Bedingungen haltbar, und haelt die neue
+Fuehrungsstruktur diese Bedingungen noch ein?
+
+**Das loest den Plot so:** Band 3 hat die Uebernahmen mit Remedies politisch
+haltbar gemacht. Band 4 zeigt die praktische Einloesung im Werk. Band 6 dreht
+nicht zurueck auf "die Uebernahme war verboten", sondern fragt, ob Annies
+gewachsenes Haus nach Ehe, Kind und Georgijs Fuehrung weiterhin getrennt,
+offen und beaufsichtigbar genug ist. Darum koennen alte Haeuser oeffentliche
+Mechanismen nutzen, ohne dass die Regulierer gekauft sein muessen.
+
 ### Warum das zu Geburt und Elternregel passt
 
-**Geburt ist nicht Schwaeche. Geburt ist Dauer.** Das Kind macht aus Annie und
-Georgij kein Paar mit Skandalwert, sondern ein Haus mit Zukunft. Wer dieses
-Haus brechen will, muss jetzt handeln, bevor Georgijs Fuehrung normal wird und
-bevor das Kind als selbstverstaendlicher Erbe gelesen wird.
+**Geburt ist nicht Schwaeche und nicht Ausloeser. Geburt ist Dauer.** Das Kind
+macht aus Annie und Georgij kein Paar mit Skandalwert, sondern ein Haus mit
+Zukunft. Die alten Haeuser handeln auf vorhandene Papiere, Beschwerden und
+Risiken; die Geburt macht nur die Rechnung unuebersehbar: Das geht nicht von
+selbst wieder weg.
 
 **Die Elternregel bleibt der innere Druck.** Annie und Georgij wollen beide
 Eltern sein, nicht nur Eigentuemernamen. Die alten Haeuser nutzen das nicht,

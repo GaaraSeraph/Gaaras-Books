@@ -1780,7 +1780,7 @@ Fassung und ist aus dem aktiven Schuldbuch entfernt.
 
 **3. Chairman Woos versiegelter Umschlag.** Vier Antworten in seiner
 Handschrift, beim Anwalt, *and not one hour before* - **faellig bei seinem
-Tod.** Er ist achtundsiebzig. **Das Buch hat seinen Tod terminiert und nicht
+Tod.** Er ist neunundsiebzig und wird im September 2027 achtzig. **Das Buch hat seinen Tod terminiert und nicht
 geschrieben.**
 
 **4. Das Halsband.** Vierundzwanzig Nennungen, und am letzten Tag des zweiten
@@ -1886,7 +1886,7 @@ Szene nicht.**
 
 **Keine Kinder, in zwei Baenden nicht einmal erwaehnt. Die Frau ist tot.**
 
-Woo ist achtundsiebzig, besitzt *one thing he cares about* (`b1 ch18:222`),
+Woo ist neunundsiebzig, besitzt *one thing he cares about* (`b1 ch18:222`),
 und zwanzig Prozent davon gehoeren seit dem Baujahr einem Fonds, den niemand
 lesen kann.
 

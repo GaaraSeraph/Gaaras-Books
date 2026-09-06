@@ -49,6 +49,21 @@ Servicenetz, Preis-/Liefergarantien fuer Flottenkunden, Compliance-Monitor,
 gegebenenfalls Trustee oder Ausgliederung fuer den schmalen monopolrelevanten
 Teil. Band 4 zeigt, dass diese Saetze echte Arbeit sind.
 
+**Rechtsanker, ohne Lehrbuchton:** Die formalen Papiere duerfen den
+**Monopoly Regulation and Fair Trade Act** nennen. Fuer unsere Zwecke tragen
+vor allem drei Stellen: **Article 6** als Vermutung von Marktbeherrschung bei
+hohen Marktanteilen, **Article 9** als Rahmen fuer
+wettbewerbsbeschraenkende Unternehmenszusammenschluesse und **Article 14** als
+Corrective-Measures-/Remedies-Anker. Das heisst nicht: Annie ist illegal, weil
+sie gross ist. Es heisst: Bei Motors/Electronics/Shipping muss vor und nach dem
+Closing belegbar sein, dass die Remedies real greifen.
+
+**Auf der Seite wird das sparsam benutzt.** Chae, Yoon, externe Anwälte,
+Regulatoren und Schreiben duerfen *Article 6*, *Article 9*, *Article 14*, *the
+Act* oder *the Commission* sagen. Annie, Georgij und Werkleute reden nicht in
+Paragraphen. Fuer sie heisst es: offene Werkstattdaten, Teilezugang, echte
+Keys, getrennte Systeme, keine heimlichen Rueckkanaele.
+
 **Darum ist Georgijs Job genau richtig.** Wettbewerbsauflagen werden nicht im
 Boardroom erfuellt, sondern in Systemen: Teilekataloge, Werkstattportale,
 Telematikdaten, Batterie-Diagnose, Warranty-APIs, Vendor-Zugaenge,

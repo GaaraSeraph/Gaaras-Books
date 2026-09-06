@@ -79,7 +79,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 66 | v1.5 | 2.404 |
 | 67 | v2.6 | 2.074 |
 | 68 | v3.4 | 2.072 |
-| 69 | v3.6 | 2.722 |
+| 69 | v3.7 | 2.722 |
 | 70 | v3.4 | 2.247 |
 | 71 | v3.3 | 2.226 |
 | 72 | v3.2 | 3.672 |
@@ -87,17 +87,17 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 74 | v3.2 | 2.411 |
 | 75 | v3.7 | 2.586 |
 | 76 | v3.5 | 2.820 |
-| 77 | v3.2 | 2.331 |
-| 78 | v3.2 | 2.566 |
+| 77 | v3.3 | 2.331 |
+| 78 | v3.3 | 2.566 |
 | 79 | v3.5 | 2.865 |
 | 80 | v3.5 | 2.843 |
 | 81 | v3.7 | 2.391 |
-| 82 | v1.6 | 2.807 |
+| 82 | v1.7 | 2.807 |
 | 83 | v3.8 | 2.951 |
 | 84 | v3.5 | 2.148 |
 | 85 | v3.5 | 2.590 |
 | 86 | v3.27 | 3.886 |
-| 87 | v3.26 | 4.147 |
+| 87 | v3.27 | 4.147 |
 | 88 | v3.9 | 3.367 |
 | 89 | v4.1 | 1.995 |
 | 90 | v4.2 | 1.564 |
@@ -15150,13 +15150,13 @@ Nobody in that room will be told, and that is the whole of what was decided in a
 ---
 
 # Book Two · Chapter 69: Nobody paid
-*Lot Fourteen* · Version 3.6 · EN
+*Lot Fourteen* · Version 3.7 · EN
 
 ## Day Four Hundred and Thirty-Four · Friday 11 December
 
 He did not telephone first.
 
-A man of seventy-eight who is told on Friday that somebody is coming on Monday spends the weekend deciding what he is going to say, and Georgij wanted the version that had not been decided.
+A man of seventy-nine who is told on Friday that somebody is coming on Monday spends the weekend deciding what he is going to say, and Georgij wanted the version that had not been decided.
 
 He wrote that down in the car on the way out, because it is the sort of reason that sounds like courtesy afterward if nobody has written it down at the time.
 
@@ -15256,7 +15256,7 @@ Georgij did not say it.
 
 He had it inside about two seconds and he stood in a shed on Yeongjong and did not say it. It was the second time in three days that he had done that, and it did not get easier with practice.
 
-Woo got there on his own, and it took him perhaps twenty seconds, and Georgij watched a man of seventy-eight arrive at it in his own office.
+Woo got there on his own, and it took him perhaps twenty seconds, and Georgij watched a man of seventy-nine arrive at it in his own office.
 
 "He did not want it for the case," said Woo.
 
@@ -15308,7 +15308,7 @@ He pulled a pad towards him, which is what he does instead of agreeing to things
 
 "That is a public thing to go asking."
 
-"It is an old man asking about an old case that had his own name on it. That is the least public question available in this country." Woo wrote two words on the pad and turned it face down. "And if anybody does hear about it, they will hear that Woo Jae-sung is going back over his customs matter from two thousand and two, which is the exact impression a man of seventy-eight ought to be giving."
+"It is an old man asking about an old case that had his own name on it. That is the least public question available in this country." Woo wrote two words on the pad and turned it face down. "And if anybody does hear about it, they will hear that Woo Jae-sung is going back over his customs matter from two thousand and two, which is the exact impression a man of seventy-nine ought to be giving."
 
 Georgij looked at the back of the pad.
 
@@ -17078,7 +17078,7 @@ The fan ran in the corner the whole time.
 ---
 
 # Book Two · Chapter 77: The doorway
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
 
@@ -17106,7 +17106,7 @@ Annie met him at the foot of the stairs and did not come further than that.
 
 Annie looked at him for a moment.
 
-"It sounds like a man being careful with somebody," she said. "The small room is on the left and nobody will come in. Mrs Seo will bring you something and you will drink it, because you are seventy-eight and you have come across the city on a Sunday."
+"It sounds like a man being careful with somebody," she said. "The small room is on the left and nobody will come in. Mrs Seo will bring you something and you will drink it, because you are seventy-nine and you have come across the city on a Sunday."
 
 "I will drink it. I will not enjoy it. I have not enjoyed anything hot since 2011."
 
@@ -17194,7 +17194,7 @@ Georgij sat absolutely still for about four seconds.
 
 Then he stood up and went to the window and stood there, which is a thing he has done in that room twice, and the other time was in June.
 
-Behind him Woo did not fill the silence, because a man of seventy-eight who has come across a city on a Sunday knows exactly what he has just put on a table.
+Behind him Woo did not fill the silence, because a man of seventy-nine who has come across a city on a Sunday knows exactly what he has just put on a table.
 
 "How certain," said Georgij, at the glass.
 
@@ -17238,7 +17238,7 @@ Georgij went back and sat down.
 
 "Yes."
 
-"No." Woo said it immediately. "It is not mine. I have had it four days and they have been the worst four days I have had since my wife. I am seventy-eight and I have finished four men, and I am not going to walk into a woman's house and take her father off her on a Sunday."
+"No." Woo said it immediately. "It is not mine. I have had it four days and they have been the worst four days I have had since my wife. I am seventy-nine and I have finished four men, and I am not going to walk into a woman's house and take her father off her on a Sunday."
 
 "Then it is mine."
 
@@ -17283,7 +17283,7 @@ Upstairs, a door did not open.
 ---
 
 # Book Two · Chapter 78: At thirty
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Four Hundred and Sixty-Four · Sunday 10 January
 
@@ -17385,7 +17385,7 @@ Georgij sat very still.
 
 Annie did not answer for a while.
 
-"Because I would have found out on a Tuesday afternoon in an office in Yeouido," she said, "from a man of seventy-eight who liked my father, and then I would have had to go home and have dinner."
+"Because I would have found out on a Tuesday afternoon in an office in Yeouido," she said, "from a man of seventy-nine who liked my father, and then I would have had to go home and have dinner."
 
 Georgij understood something then, and it took him about a second and a half, and it went all the way down.
 
@@ -18253,7 +18253,7 @@ He sat with that for a while.
 ---
 
 # Book Two · Chapter 82: The only line out
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Four Hundred and Ninety-Seven · Friday 12 February
 
@@ -18283,7 +18283,7 @@ Annie looked at him for a moment longer than she usually does.
 
 She went to the window.
 
-"Monday, at ten. He is seventy-eight and he does not do afternoons well, and I am going to him and he is not coming here." She did not turn round. "And you are going to be in the room."
+"Monday, at ten. He is seventy-nine and he does not do afternoons well, and I am going to him and he is not coming here." She did not turn round. "And you are going to be in the room."
 
 Georgij stood very still.
 
@@ -18333,7 +18333,7 @@ Mr Ku had them there at four minutes to ten.
 
 The house is older than the road it stands on and has been added to twice, both times badly, and Chairman Woo has lived in it since 1979.
 
-He came out into the hall himself, which a man of seventy-eight with two people in the house does not have to do, and he did not put his hand out, because he does not.
+He came out into the hall himself, which a man of seventy-nine with two people in the house does not have to do, and he did not put his hand out, because he does not.
 
 He looked at Georgij for slightly longer than a host looks at anybody.
 
@@ -18417,7 +18417,7 @@ Woo looked at her properly for the first time since the hall.
 
 "There is more of that, and I have the morning."
 
-"You would answer all four and you would do it well, and then you would be a man of seventy-eight who has been told what was done in his own case and cannot un-know it." Annie did not blink. "I would have four answers by lunch. You would have the rest of it, however long that is. I have looked at that trade twice this week and it is not one I am willing to make."
+"You would answer all four and you would do it well, and then you would be a man of seventy-nine who has been told what was done in his own case and cannot un-know it." Annie did not blink. "I would have four answers by lunch. You would have the rest of it, however long that is. I have looked at that trade twice this week and it is not one I am willing to make."
 
 "That is not your decision."
 
@@ -18433,7 +18433,7 @@ Georgij, at the window, watched an old man decide something and did not move.
 
 "Say what."
 
-"The last useful thing I had." He straightened one hand on his knee. "I am seventy-eight and I have four answers in my head that nobody else on this earth has. You have just sat in my house and told me I am to die with them rather than be made uncomfortable. You have made me expensive to consult, and that is a thing you do to an old man once."
+"The last useful thing I had." He straightened one hand on his knee. "I am seventy-nine and I have four answers in my head that nobody else on this earth has. You have just sat in my house and told me I am to die with them rather than be made uncomfortable. You have made me expensive to consult, and that is a thing you do to an old man once."
 
 "That is worse than being asked."
 
@@ -18473,7 +18473,7 @@ She did not say anything for the first eleven kilometres, which is the same elev
 
 "Say why."
 
-"Because you decided what an old man could carry without asking him," said Georgij, "and a man of seventy-eight who has been right about most things since 2002 would sooner name his own date than have one chosen for him by somebody being kind."
+"Because you decided what an old man could carry without asking him," said Georgij, "and a man of seventy-nine who has been right about most things since 2002 would sooner name his own date than have one chosen for him by somebody being kind."
 
 "That is not the whole of it."
 
@@ -19710,7 +19710,7 @@ The two places at the table were exactly as she had left them.
 ---
 
 # Book Two · Chapter 87: The length of the room
-*Lot Fourteen* · Version 3.26 · EN
+*Lot Fourteen* · Version 3.27 · EN
 
 ## Day Five Hundred and Thirty-One · Thursday 18 March
 
@@ -19862,7 +19862,7 @@ Mr Im stayed until eleven and left with the man from the shipping firm in Incheo
 
 Chairman Woo went at half past ten and Mr Ku took him, because his own driver had gone at nine on his instruction, and he did not say goodnight to anybody in the room. He stopped in the hall and said one sentence to Georgij and did not wait for an answer.
 
-"That was your employer's," he said, "and I have been at a great many of these and I have never seen it done, and I am seventy-eight and I would like to have said so out loud once."
+"That was your employer's," he said, "and I have been at a great many of these and I have never seen it done, and I am seventy-nine and I would like to have said so out loud once."
 
 * * *
 

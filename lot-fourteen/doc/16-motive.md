@@ -466,6 +466,14 @@ Der Hammer ist hölzern, etwa so lang wie ein Löffel, und macht in einem Saal d
 
 ---
 
+## Der elfte Maerz
+
+**Das Datum gehoert zweien.** Chois Randnotiz von 2015 (`b3 ch06:222`) und der
+Abend, an dem Georgij 2027 auf den Teppich geht (`b2 ch32:286`), fallen beide
+auf den elften Maerz. **Zufall, vom Autor am 06.09. gesehen und
+stehengelassen.** Kein Bild, das ausgespielt wird, und kein Fehler, der
+berichtigt wird. Die Begruendung steht in `doc/41`.
+
 ## Festgelegte Zeilen
 
 Wortlaut steht fest. Wer eine dieser Stellen anfasst, aendert nicht die Formulierung,
@@ -772,19 +780,22 @@ Mengenangabe.**
 240. **BAND 6: GLUECKLICHER VATER, UEBERBEHUTSAMER EHEMANN:** Georgij ist nach der Geburt sichtbar sehr gluecklich als Vater und ueberbehutsam mit Annie. Das ist Zaertlichkeit plus Angstrest, keine Kontrolle. Er sieht Risiken zu frueh, aber er weist Annie nicht an und entscheidet nicht ueber ihren Koerper. Wenn Annie ihn stoppt, korrigiert er.
 241. **BAND 6: NAM/LIM-ANSATZ VERWORFEN:** Nam darf nicht als externer Gegner zurueckkommen, weil Nam Annie gehoert. Lim als alter Governance-Mann traegt keinen Schlussband; hoechstens Funktionsstimme, kein Gegner und kein Finisher.
 242. **BAND 6-GEGNER: ALTE HAEUSER UND OEFFENTLICHE ORDNUNG:** Der Hauptdruck kommt von alten Chaebol-Haeusern, Regulierung, Banken, Versicherern, internationalen Zulassungen, Minderheiten und Resthaltern. Sie greifen nicht mit Gewalt an, sondern ueber Monopol, Kontrollwechsel, Marktvertrauen und Legitimität.
-243. **WARUM NACH DER GEBURT:** Geburt ist nicht Schwaeche, sondern Dauer. Aus Annie und Georgij wird ein vererbbares Haus. Die alten Haeuser handeln, bevor Georgijs Fuehrung normal wird und bevor das Kind als selbstverstaendlicher Erbe gelesen wird.
+243. **WARUM NACH DER GEBURT:** Geburt verursacht den Angriff nicht. Die konkreten Ausloeser sind Hanseong-Resthalter, Minderheitenbeschwerden, Remedies-/Fair-Trade-Fragen, Kreditlinien, Versicherungsrenewals, Shipping-Risiko, internationale Zulassungen und die Spuren aus Band 3 bis 5. Geburt ist der Lesartwechsel: Ehe, Besitzform, Fuehrungszugriff und Kind liegen auf derselben Linie und sehen wie ein vererbbares Haus aus.
 244. **BAND 6 OEFFNET MIT WARTEN:** Kurz vor der Geburt ist Annies Bauch sichtbar, aber nicht als Gefahr. Das Haus ist enger getaktet, Georgij ist gluecklich und zu aufmerksam. Die erste Fuehrungsprobe ist, dass Georgij nicht jeden Raum betritt.
 245. **DIE GEBURT IST ZENTRUM, KEIN THRILLER:** Kein Anschlag, kein Krankenhauskrimi. Annie gehoert der Raum. Georgij ist praesent und nuetzlich, nimmt ihr aber nichts ab, was ihr gehoert. Danach ist Elternpraesenz Tatsache.
 246. **GEORGIJS BAND-6-PROBE IST STRUKTUR:** Er gewinnt nicht durch Drohung, sondern durch Zuständigkeiten, Ringfences, transparente Vollmachten, echte Compliance, operative Ersatzketten und saubere Trennung zwischen legalem Imperium und Dokkaebi.
 247. **DREI RAEUME BEWEISEN BAND 6:** Ein staatlich/regulatorischer Raum, den Georgij sauber besteht; ein Annie-Raum, den nur sie fuehren kann; ein Elternraum, den kein Gremium bekommt. Diese Parallelprobe ersetzt einen langen Managementroman.
-248. **WARUM DER ALTE CHAIRMAN HANDELT:** Nicht Marktanteilskraenkung, sondern Praezedenzfall. Georgij und Annie haben gezeigt, dass ein juengeres Haus ein altes Haus ausnehmen, profitables Gewebe neu zusammensetzen, Unterweltordnung herstellen, Ministeriumswege sauber halten und danach ein Kind in diese Macht setzen kann. Wenn das normal wird, sind alte Haeuser weniger unangreifbar.
-249. **BAND-6-ANGRIFF KLINGT WIE HILFE:** Der alte Chairman bietet Stabilitaet, freiwillige Aufsicht, Industrievereinbarung, externen Governance-Kreis oder Senior Trustee an, bis Annie angeblich wieder jeden Raum selbst halten kann. Das ist die Beleidigung: Georgij wird nicht als Gegner gelesen, sondern als Risiko, das man einrahmt.
+248. **WARUM DER ALTE CHAIRMAN HANDELT:** Nicht Marktanteilskraenkung, sondern Praezedenzfall. Georgij und Annie haben gezeigt, dass ein juengeres Haus ein altes Haus ausnehmen, profitables Gewebe neu zusammensetzen, Unterweltordnung herstellen und Ministeriumswege sauber halten kann. Ehe und Kind machen diese Macht dauerhaft lesbar. Wenn das normal wird, sind alte Haeuser weniger unangreifbar.
+249. **BAND-6-ANGRIFF KLINGT WIE HILFE:** Der alte Chairman bietet Stabilitaet, freiwillige Aufsicht, Industrievereinbarung, externen Governance-Kreis oder Senior Trustee an, angeblich um die junge Nachfolgeform oeffentlich haltbar zu machen. Das ist die Beleidigung: Georgij wird nicht als Gegner gelesen, sondern als Risiko, das man einrahmt.
 250. **VIER DRUCKARME:** Alte Haeuser streuen Lesart; oeffentliche Ordnung fragt legitim; Banken/Versicherer/Risk verlangen trennbare Verantwortung; Hanseong-Reste liefern Beschwerden und Altmaterial. Keiner davon darf offensichtlich kriminell sein, sonst wird es wieder ein Georgij-Feldzug statt Band-6-Strukturprobe.
 251. **GEORGIJ DARF NICHT DROHEN:** Drohung wuerde die gegnerische Lesart bestaetigen. Die Antwort muss aus Form bestehen: Chae fuer Ehe/Vollmacht/Haftung, Hwang fuer Reihen, Yoon fuer Compliance/Ringfences, Jang fuer koerperliche Sicherheit, Dokkaebi-Funktionstische fuer getrennte Unterweltordnung, Jun/Werkleute fuer Sanierung ohne Daueranwesenheit.
 252. **GEORGIJS MITTELFEHLER:** Er versucht zuerst, zu viele Raeume selbst zu halten, weil Annie geboren hat und weil er das Kind nicht von ihr wegorganisieren will. Annie stoppt ihn. Schutz darf nicht heissen, dass er ihre Macht als seine Last verwaltet.
 253. **BAND-6-LOESUNG IST TAKTUNG:** Manchmal geht Georgij, manchmal Annie, manchmal beide, manchmal keiner von beiden, weil das Kind Vorrang hat und die Struktur den Raum halten muss. Das ist die erwachsene Form von "present when I need you, absent when I don't."
 254. **CHAEBOL-VERKEHRSORDNUNG:** Nicht Chaebol gegen Annie. Annie ist Chaebol. Der Konflikt entsteht, weil sie die alte Regel von innen bricht: Haeuser duerfen einander Maerkte, Leute, Banken, Routen und Ehre nehmen, aber sie lassen ein altes Haus stehen und rufen den Staat nicht so tief hinein, dass die Methoden aller sichtbar werden.
 255. **GEORGIJ IST DER ANGRIFFSPUNKT DER ALTEN HAEUSER:** Eine Aussenseiterin koennte man als Skandal behandeln; Annie nicht, weil sie selbst ein Haus fuehrt. Georgij ist die Methode in Annies Haus, die nicht aus der alten Verkehrsordnung stammt: Wahrheit, Beweis, Boerse, Staat, Unterweltordnung und keine automatische Schonung alter Namen.
+256. **MRFTA NAMENTLICH NUR IN FACHSCHRIFT:** Der Monopoly Regulation and Fair Trade Act darf in Akten, Regulatorenschreiben und bei Chae/Yoon/externer Rechtsberatung namentlich auftauchen. Dort duerfen Article 6, Article 9 und Article 14 stehen. Dialoge zwischen Annie, Georgij und Werkleuten sollen nicht in Paragraphen reden.
+257. **ARTICLE 6 IST VERMUTUNG, NICHT SCHULD:** Hohe Marktanteile stuetzen die Marktbeherrschungsvermutung, aber nicht automatisch einen Vorwurf. Fuer Band 6 ist das Druck, kein Schuldspruch.
+258. **ARTICLE 9/14/REMEDIES TRAGEN DEN PLOT:** Der wichtigere Hebel ist die Frage, ob Hanseong/Motors/Electronics/Shipping als Zusammenschluss nur mit Remedies haltbar waren und ob diese Bedingungen nach Ehe, Kind und Georgijs Fuehrung noch real eingehalten werden. Article 9 ist der Zusammenschlussrahmen, Article 14 die Corrective-Measures-Schiene.
 
 ---
 

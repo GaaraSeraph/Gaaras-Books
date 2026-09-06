@@ -726,7 +726,7 @@ auf **VERFALLEN**.
 | **Annie** | **39 im Januar 2027** | **18. September** (war 3. August) | `b2 ch78`: vierzehn plus fuenfundzwanzig; mit dreissig verstanden und seit neun Jahren gewusst |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 43: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 35 im April 2002; 59 bis 17.11.2026, danach **60** | **18. November** (war 8. September) | `b2 ch25`, danach fuenfmal *a man of sixty*; historische Nennungen auf 35 korrigiert |
-| **Chairman Woo Jae-sung** | 78 bis 26.09.2027, **danach 79** | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre. **Achtung: die Grenze liegt mitten in Band 3.** `b2 ch82` und `b2 ch87` lassen ihn selbst *"I am seventy-eight"* sagen; `b3 ch05` am 6. August 2027 und `b3 ch07` am 10. September 2027 stehen noch davor, alles ab dem 27. September dahinter |
+| **Chairman Woo Jae-sung** | **78 ab 27.09.2025, 79 ab 27.09.2026, 80 ab 27.09.2027** | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. **Berichtigt am 06.09.: hier stand *"78 bis 26.09.2027"*, ein Ende ohne Anfang.** Daraus wurden **624 Tage Achtundsiebzig** ueber dreissig Nennungen in drei Baenden, von Tag 48 bis Tag 672. Sechzehn bleiben und liegen zwischen dem 20. November 2025 und dem 9. April 2026; vierzehn stehen jetzt auf neunundsiebzig, von `b2 ch69` bis `b3 ch05`. **Die Grenze zerreisst kein Kapitel**, weil sie in die Luecke zwischen `b2 ch13` und `b2 ch69` faellt. Ab dem 27. September 2027 ist er achtzig, und das steht im Text noch nirgends: `b3 ch10` und `b3 ch11` nennen sein Alter nicht |
 | **Mrs Sunwoo** | 81 bis 16.11.2026, **danach 82** | **17. November** (war 29. September, davor 4. Juli) | `b2 ch03` nennt sie im Maerz 81; `b2 ch71` und `b2 ch89` nennen sie nach dem Geburtstag 82. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
@@ -756,6 +756,8 @@ auf **VERFALLEN**.
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
 | **Jang** | **58** | **offen** | Kapitel 72, am 21. Dezember aus seinem eigenen Mund im Wagen: *"I have got a street and a coffee and I am fifty-eight"*. Dreissig Jahre im Gewerbe (12, 13, 40) |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |
+
+**Warum *fifty-one years* nicht mitwandert.** Die Wendung steht achtmal im Kanon, sechsmal in Band 1 und zweimal in Band 2, und sie ist **seine eigene stehende Formel** und keine Rechnung des Erzaehlers. `b1 ch19:58` sagt *"In fifty-one years two people have said that to my face"*, und `b2 ch69:96` sagt ein Jahr spaeter *"Two men in fifty-one years"*. Das ist dieselbe Anekdote, und dass sie beim zweiten Mal dieselbe Zahl hat, ist der Punkt: ein Mann rundet seine Laufbahn nicht am Geburtstag hoch. **Daraus folgt, dass sein Eintrittsalter achtundzwanzig ist und nicht siebenundzwanzig**, und wer die Formel spaeter auf zweiundfuenfzig setzt, nimmt der Anekdote ihre Wiederholung.
 
 **Zuschreibung korrigiert am 1. September:** Der Satz mit der Strasse, dem Kaffee
 und den achtundfuenfzig Jahren gehoert Jang. Mrs Ha erscheint erst im Absatz
@@ -873,7 +875,7 @@ Punkt oder Fragezeichen. Die Begruendungen stehen in
 liegt in `doc/protokoll/2026-09-01-kontinuitaet-band-2.md`. Die Zahlen und
 Tatsachen, die ab jetzt gelten:
 
-- **Chairman Woo: achtundsiebzig, im Gewerbe seit siebenundzwanzig.** Band 2,
+- **Chairman Woo: achtundsiebzig in Band 1, im Gewerbe seit achtundzwanzig.** Band 2,
   Kapitel 13 sagte zweimal fuenfundsiebzig und *"since I was twenty-four"*.
 - **Mr Byun: sechsundzwanzig Jahre** am Register. Kapitel 22 sagte an der Tuer
   zweiundzwanzig, viermal vorher sechsundzwanzig.
@@ -939,7 +941,7 @@ beide Baende und die sieben Band-1-Inhaltsdurchgaenge vom 25.08., zusammen
 
 **Was hier absichtlich stehengeblieben ist:** *Korrigiert am 24.08., Kanon ab
 jetzt.* Die Ueberschrift traegt ein Datum, der Abschnitt aber die verbindlichen
-Zahlen des Buches - Woo achtundsiebzig, Byun sechsundzwanzig Jahre, Jang
+Zahlen des Buches - Woo achtundsiebzig in Band 1, Byun sechsundzwanzig Jahre, Jang
 dreissig, Mrs Seo neun. **Das ist Kanon in einem datierten Gewand** und gehoert
 nicht ins Archiv.
 

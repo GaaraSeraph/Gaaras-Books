@@ -578,7 +578,7 @@ die beim Planen zaehlt.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
-| **Chairman Woo Jae-sung** | **Logistiker, und ausdruecklich kein Chaebol.** Georgijs Freund | Achtundsiebzig, einundfuenfzig Jahre im Gewerbe, Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
+| **Chairman Woo Jae-sung** | **Logistiker, und ausdruecklich kein Chaebol.** Georgijs Freund | **Achtundsiebzig in Band 1, neunundsiebzig ab dem 27. September 2026, achtzig ab dem 27. September 2027.** Einundfuenfzig Jahre im Gewerbe, und das ist seine eigene Formel und keine Rechnung. Terminal auf Yeongjong. Haelt drei Stunden und gibt sie in B2 57 aus | B1 7 | **Aktiv.** Sucht, wer die Akte 2002 schliessen liess |
 | **Hana Seo-yeon** | **Spediteurin mit eigenem Hof.** Annies aelteste Verbindung, fuehrt ihn in den Ballsaal ein | Kennt Annie seit zwanzig Jahren. Drei Prozent Unvorsichtigkeit, und die sind gewaehlt | B1 7 | Ruht seit Mai |
 | **Kim Ye-rin** | **Fuehrt eine Gruppe, in der sechs Leute sie anrufen, bevor sie unterschreiben** | Eigene 1,4 %; leitet den getrennten 41-%-Block der sechs, Name auf Seite eins und elf | B1 30 | Erledigt in B1 |
 | **Park Sang-hoon** | **Chaebol. Haelt vierzig Prozent an Hanseong Shipping** | Gegner und Handelspartner zugleich. Hat vier Entscheidungen an Chois Tischen getroffen und keine erklaeren koennen | B1 22 | **Aktiv.** Haelt Sims Namen und benutzt ihn nicht |
@@ -1039,7 +1039,7 @@ stand und in keinem Figurendokument.** Kein Name im Text.
 - **Was das mit der Familie gemacht hat:** *"nobody in that house ever asked my
   father about anything"*, und *"That family has spent thirty years agreeing
   that he was right about everything."*
-- **Woo mochte ihn.** `b2 ch78`: *"a man of seventy-eight who liked my
+- **Woo mochte ihn.** `b2 ch78`: *"a man of seventy-nine who liked my
   father"*; `b2 ch77`: Woo hat in Annies Esszimmer gesessen, die Fotografien
   ihres Vaters angesehen und ihr gesagt, sie seien schrecklich. Und der Vater
   zu Woo, ohne einen Namen zu nennen: *"he had spent forty years being right
@@ -1932,7 +1932,7 @@ und niemand muss ihn zitieren.
 34. **Sim** ist der Besteller der Blumen, telefonisch, mit Nummer, beide Male.
 35. **Kim Ye-rin** haelt **1,4 Prozent** und **kann man einmal fragen**. Der Grund, warum sie nirgends hingeht, ist der Motor der Figur: *"A woman in a room can be asked ... She has no title, so nothing protects her from a direct question."*
 36. **Hanas Regel: "Not quickly and not twice. Once."** Sie besitzt die Ostseite seit 2014 und hat sie keinen Tag vermietet.
-37. **Chairman Woo**, achtundsiebzig. **Achtung: der Index zitiert bis heute *"I am seventy-five"* aus b2 K13 - der Text sagt seit dem 24.08. zweimal *seventy-eight*.** Siehe Abschnitt F.
+37. **Chairman Woo**, achtundsiebzig in Band 1, neunundsiebzig ab `b2 ch69`. **Achtung: der Index zitiert bis heute *"I am seventy-five"* aus b2 K13 - der Text sagt seit dem 24.08. zweimal *seventy-eight*.** Siehe Abschnitt F.
 38. **Mr Hong** hat Georgij am 25. Oktober drei Namen genannt: **Woo. Sunwoo. Choi Dae-ho, dritter.** *"Hong is a decent man and he has never in his life understood why he gives people three names instead of one."*
 
 ---

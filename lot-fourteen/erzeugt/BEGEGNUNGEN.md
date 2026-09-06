@@ -1222,7 +1222,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:274` (Tag 464) - one
 - `b2ch82:48` (Tag 497) - fifty, one, two
 - `b2ch82:122` (Tag 500) - fifty, seven
-- `b2ch82:206` (Tag 500) - four, one, seventy-eight
+- `b2ch82:206` (Tag 500) - four, one, seventy-nine
 - `b2ch83:292` (Tag 514) - nine
 - `b2ch84:6` (Tag 517) - eight
 - `b2ch84:24` (Tag 517) - one
@@ -1922,7 +1922,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 464 | b2ch77:122 | "He was not a lawyer. He was not in the ministry and he was not anybody's cousin." Woo h.. |
 | 464 | b2ch77:130 | "A man who cannot read a contract needs somebody to tell him which people to say yes to... |
 | 464 | b2ch77:134 | "Your employer's father," said Woo. |
-| 464 | b2ch77:146 | Behind him Woo did not fill the silence, because a man of seventy-eight who has come acr.. |
+| 464 | b2ch77:146 | Behind him Woo did not fill the silence, because a man of seventy-nine who has come acro.. |
 | 464 | b2ch77:154 | "That is the right question and I am going to answer it in three parts." Woo held up not.. |
 | 464 | b2ch77:158 | "The second part is mine. I knew that man for thirty-one years. I sat across a table fro.. |
 | 464 | b2ch77:166 | "The third part is that I have sat in that woman's dining room and looked at her father'.. |
@@ -2056,12 +2056,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:116` (Tag 434) - forty, one, thirty-five, thirty-six, twenty-four
 - `b2ch69:122` (Tag 434) - one
 - `b2ch69:134` (Tag 434) - four, six, three
-- `b2ch69:146` (Tag 434) - seventy-eight, twenty
+- `b2ch69:146` (Tag 434) - seventy-nine, twenty
 - `b2ch69:152` (Tag 434) - one, three, twenty-four, two
 - `b2ch69:156` (Tag 434) - fourteen, three, twenty-four
 - `b2ch69:158` (Tag 434) - three
 - `b2ch69:162` (Tag 434) - three
-- `b2ch69:204` (Tag 434) - seventy-eight, two, two thousand and two
+- `b2ch69:204` (Tag 434) - seventy-nine, two, two thousand and two
 - `b2ch69:230` (Tag 434) - nine hundred, one, six, ten
 - `b2ch69:234` (Tag 434) - four, one
 - `b2ch69:250` (Tag 434) - one
@@ -2076,10 +2076,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:110` (Tag 464) - two
 - `b2ch77:122` (Tag 464) - four
 - `b2ch77:130` (Tag 464) - one, thirty-five
-- `b2ch77:146` (Tag 464) - seventy-eight
+- `b2ch77:146` (Tag 464) - seventy-nine
 - `b2ch77:154` (Tag 464) - four, three
 - `b2ch77:158` (Tag 464) - forty, four, nine, one, ten, thirty-one, two thousand and two
-- `b2ch77:198` (Tag 464) - four, seventy-eight
+- `b2ch77:198` (Tag 464) - four, seventy-nine
 - `b2ch77:208` (Tag 464) - fourteen
 - `b2ch77:222` (Tag 464) - fourteen, one, thirty, twenty-five, two thousand and two
 - `b2ch77:234` (Tag 464) - one
@@ -3123,7 +3123,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch67:136` (Tag 404) - one
 - `b2ch67:178` (Tag 409) - one
 - `b2ch77:14` (Tag 464) - nine, one
-- `b2ch77:36` (Tag 464) - seventy-eight
+- `b2ch77:36` (Tag 464) - seventy-nine
 - `b2ch78:18` (Tag 464) - six, ten
 - `b2ch80:10` (Tag 472) - three
 - `b2ch84:102` (Tag 517) - two

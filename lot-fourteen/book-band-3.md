@@ -15,7 +15,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 02 | v1.25 | 2.114 |
 | 03 | v1.18 | 2.014 |
 | 04 | v1.23 | 2.014 |
-| 05 | v1.18 | 2.104 |
+| 05 | v1.19 | 2.104 |
 | 06 | v1.16 | 2.155 |
 | 07 | v1.16 | 2.238 |
 | 08 | v1.14 | 2.047 |
@@ -980,7 +980,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.18 · EN
+*Lot Fourteen* · Version 1.19 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1002,7 +1002,7 @@ The bridge is twelve minutes if there is nothing on it, and there is always some
 
 The terminal lights come up on the right about four minutes before the exit. There are a great many of them, and every one is a crane or a stack or a gate.
 
-The whole of it belongs to a man of seventy-eight who telephoned once in April, and asked one question, and rang off.
+The whole of it belongs to a man of seventy-nine who telephoned once in April, and asked one question, and rang off.
 
 * * *
 
