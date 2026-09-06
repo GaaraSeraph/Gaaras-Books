@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 8 Kapitel, 16.736 Woerter.
+Book Three, 8 Kapitel, 16.766 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -15,7 +15,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 02 | v1.22 | 2.116 |
 | 03 | v1.15 | 2.017 |
 | 04 | v1.20 | 2.012 |
-| 05 | v1.15 | 2.069 |
+| 05 | v1.17 | 2.099 |
 | 06 | v1.15 | 2.155 |
 | 07 | v1.13 | 2.236 |
 | 08 | v1.9 | 2.039 |
@@ -977,7 +977,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.15 · EN
+*Lot Fourteen* · Version 1.17 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1178,6 +1178,10 @@ Mr Hwang thought about it properly, which is not what a man does with that quest
 He put the pen in the tray where it goes.
 
 "This one I can get to the bottom of by half past four."
+
+Georgij smiled at him, and it was the tailor's one.
+
+He has spent it twice, both times in his first two months in this country, and not once since.
 
 * * *
 

@@ -965,11 +965,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:300 | Annie looked at the window and not at him. |
 | 645 | b3ch04:328 | Annie looked at him. |
 | 645 | b3ch04:348 | Annie did not offer him one. |
-| 672 | b3ch05:280 | Annie was still at the desk at half past ten, which she is not on a Friday. |
-| 672 | b3ch05:290 | "Four people in that building have read all of them," said Annie. "I am one, Mr Chae is .. |
-| 672 | b3ch05:310 | Annie did not write it down, which is how he knew she had already had it. |
-| 672 | b3ch05:324 | Annie looked at the window for a moment, which she does perhaps once a month. |
-| 672 | b3ch05:338 | "I have been paying for that twice a month since May and calling it maintenance," said A.. |
+| 672 | b3ch05:286 | Annie was still at the desk at half past ten, which she is not on a Friday. |
+| 672 | b3ch05:296 | "Four people in that building have read all of them," said Annie. "I am one, Mr Chae is .. |
+| 672 | b3ch05:316 | Annie did not write it down, which is how he knew she had already had it. |
+| 672 | b3ch05:330 | Annie looked at the window for a moment, which she does perhaps once a month. |
+| 672 | b3ch05:344 | "I have been paying for that twice a month since May and calling it maintenance," said A.. |
 | 686 | b3ch06:280 | Annie did not say anything for a long time. |
 | 686 | b3ch06:294 | Annie put the pen down. |
 | 686 | b3ch06:318 | "Say the thing you are not saying," said Annie. |
@@ -1227,8 +1227,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch03:322` (Tag 628) - one
 - `b3ch04:262` (Tag 645) - eleven, two
 - `b3ch04:348` (Tag 645) - one
-- `b3ch05:280` (Tag 672) - ten
-- `b3ch05:290` (Tag 672) - four, one, two
+- `b3ch05:286` (Tag 672) - ten
+- `b3ch05:296` (Tag 672) - four, one, two
 - `b3ch08:52` (Tag 718) - eight
 
 ---

@@ -83,7 +83,17 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
 
 **Und der Befund vom 24.08., der den ganzen Katalog betrifft: in Band 2 laechelt
 Georgij nicht ein einziges Mal.** Fuenfundvierzig Kapitel, achtundneunzigtausend
-Woerter, fuenf Monate. Die fuenf Treffer im Text gehoeren anderen: Mrs Sunwoo in
+Woerter, fuenf Monate.
+
+**Ueberholt, nachgemessen am 06.09.** Band 2 hat heute neunzig Kapitel und
+232.394 Woerter, und einundzwanzig Treffer, und **zwei davon sind Georgij**.
+`b2 ch35`, Tag 251, an Mr Koh: *It was the wide one, the one that goes all the
+way up and arrives about a quarter of a second late. It is the first time this
+year he has spent it on somebody who could not do a single thing for him.* Und
+`b2 ch86`, Tag 531, an Choi Dae-ho: *It is the broad one ... He has never once
+used it cold.* **Beide sind Abschnitt I und keins ist das Respektvolle**, der
+Zaehler fuer Abschnitt IV bleibt also bei zwei. Der Rest des Befundes haelt:
+sein Hauptwerkzeug taucht in Band 2 zweimal auf und beide Male gebaut. Die fuenf Treffer im Text gehoeren anderen: Mrs Sunwoo in
 Kapitel 10, Sang-hoon in 26, 36 und 43, Annie in 35 - und drei davon sind
 *almost*. Sein Hauptwerkzeug, fuer das dieser Katalog angelegt wurde und dessen
 offene Sorten in `doc/31-plan-band-2.md` gefuehrt werden, kommt in Band 2 nicht vor.
@@ -101,10 +111,14 @@ nichts zu tun (*almost nobody asks him*).
 
 **Das ist mehr als die Fortsetzung der Kurve.** In Band 1 steht ein Laecheln je
 2.056 Woerter, in Band 2 je 11.066, in Band 3 nie. Und der Unterschied zu Band 2
-ist nicht der Grad, sondern die Art: in Band 2 gehoerten die fuenf Treffer
-anderen Figuren, es laechelte also jemand. In Band 3 laechelt **niemand**, auch
-Gong Doo-hyun nicht, auch Mr Hwang nicht, auch der Mann in Siheung nicht, der
-vier Jahre lang etwas sagt und dem endlich einer zuhoert.
+ist nicht der Grad, sondern die Art: in Band 2 gehoeren neunzehn der
+einundzwanzig Treffer anderen Figuren, es laechelte also jemand. In Band 3
+laechelt **niemand**, auch Gong Doo-hyun nicht, auch Mr Hwang nicht, auch der
+Mann in Siheung nicht, der vier Jahre lang etwas sagt und dem endlich einer
+zuhoert.
+
+**Der Absatz beschreibt den Stand bis zum 06.09.** Seither steht in `b3 ch05`
+ein Laecheln, und der Abschnitt darunter sagt, welches und warum.
 
 **Die Entscheidung ist damit dieselbe wie am 24.08. und faelliger.** Entweder
 der Katalog beschreibt ein Werkzeug, das Georgij abgelegt hat, dann gehoeren die
@@ -112,6 +126,26 @@ offenen Sorten geschlossen und der Bogen von I und II nach IV neu geschrieben.
 Oder er beschreibt eines, das er noch hat und seit 154 Kapiteln nicht benutzt,
 dann muss irgendwo in Band 3 oder 4 die Stelle stehen, an der es wieder
 auftaucht, und sie muss verdient sein.
+
+### Entschieden am 06.09. vom Autor: er laechelt wieder
+
+**Die zweite Fassung gilt.** Das Werkzeug ist nicht abgelegt, es ist nur seit
+Tag 46 nicht benutzt worden, und die Stelle, an der es wieder auftaucht, steht
+seit dem 06.09. im Buch: `b3 ch05`, Tag 672, Mr Hwang an der Tuer.
+
+**Und daraus folgen drei Regeln, die ab hier binden.**
+
+1. **Nur Abschnitt IV.** Die Werkzeuge aus I bis III braucht er bei den
+   Leuten, die er jetzt hat, nicht mehr. Wer ihm in Band 3 ein gebautes
+   Laecheln gibt, dreht den Bogen zurueck, den das Buch gerade zu Ende
+   erzaehlt.
+2. **Ab und an heisst eins auf zwei bis drei Kapitel**, und nicht mehr. Band 1
+   steht bei einem je 2.056 Woertern, und dorthin geht es nicht zurueck. Zwei
+   Kapitel Abstand ist die Untergrenze, nicht das Ziel.
+3. **Jedes einzelne wird verdient, und die Probe ist eine Frage:** holt er
+   damit etwas? Wenn ja, gehoert es nicht hierher und wahrscheinlich gar
+   nicht ins Buch. Die drei Fundstellen haben gemeinsam, dass er in dem
+   Augenblick nichts von dem anderen will.
 
 #### I. Die Fassade - getragen, nicht gezielt
 
@@ -248,6 +282,36 @@ auftaucht, und sie muss verdient sein.
   the chin*, sondern *most of it went where it had gone once before, for an old
   man who had come to the house with a tape measure and thirty words*. Wer die
   Stelle wiedererkennt, bekommt sie; wer nicht, verliert nichts.
+
+  **Dritte Fundstelle: `b3 ch05`, Tag 672, gesetzt am 06.09.** Mr Hwang, an
+  der Tuer, nachdem Georgij ausdruecklich angesagt hat, dass die Frage nicht
+  zur Sache gehoert: *May I ask you something that is not about this?* Ein
+  Mann von fuenfundfuenfzig legt ihm dreissig Jahre hin, die er selbst nicht
+  mehr pruefen kann, weil das Haus weg ist und niemand mehr da ist, den man
+  fragen koennte, und er tut es ohne einen Tropfen Selbstmitleid.
+
+  > *Georgij smiled at him, and it was the tailor's one.*
+  >
+  > *He has spent it twice, both times in his first two months in this
+  > country, and not once since.*
+
+  **Der Rueckverweis ist wieder nicht woertlich**, und diesmal traegt er die
+  Luecke: weder *in the chin* noch *nothing was being fetched with it* noch
+  *built*, das letzte ausdruecklich nicht, weil es zu den zwei eigenen in
+  siebzehn Jahren gehoert und die nicht vermischt werden. Das Etikett ist die
+  Form, die dieses Buch fuer solche Dinge hat, *the wide one*, *the broad
+  one*, *the grey one*, und *spent* ist das Verb aus `b2 ch35`.
+
+  **Und der Zaehler gilt der Sorte und nicht dem Laecheln ueberhaupt.** Die
+  erste Fassung vom 06.09. sagte *it has not been anywhere since*, und das
+  liest sich als Aussage ueber alle Sorten und ist dann falsch: `b2 ch35` und
+  `b2 ch86` liegen dazwischen und sind beide das breite.
+
+  **Die Zahlen dahinter.** Der Schneider ist Tag 4, Sang-hoon ist Tag 46,
+  Mr Hwang ist Tag 672. Beide Anker liegen in Georgijs ersten zwei Monaten in
+  diesem Land, und dazwischen und danach liegen **626 Tage**. Der Satz nennt
+  die Luecke, ohne sie zu zaehlen, weil ein Zaehler an dieser Stelle die
+  Sorten vermischt haette.
 
   **Annie bepreist es in Kapitel 17**, ohne zu wissen, dass sie es tut: *Be
   pleased with it in this car and nowhere else. You got it because a man was
