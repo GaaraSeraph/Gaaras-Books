@@ -52,7 +52,7 @@ WURZEL = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BUCH = os.path.join(WURZEL, "doc", "13-zusagen.md")
 
 ZEILE = re.compile(
-    r"^- \[(OFFEN|BEZAHLT|VERFALLEN|KEINE)\]\s+\*\*(B[12]) (\d+)\*\*\s+(.+?)\s+·\s+"
+    r"^- \[(OFFEN|BEZAHLT|VERFALLEN|KEINE)\]\s+\*\*(B[123]) (\d+)\*\*\s+(.+?)\s+·\s+"
     r"gesagt Tag (\d+)\s+·\s+faellig (Tag (\d+)|bei (.+?)|offen)\s+·\s+(.+?)\s+·\s+(.+?)\s*$")
 
 ZUSAGE = re.compile(r"\b(I will|I am going to|you will|I shall|I promise)\b")

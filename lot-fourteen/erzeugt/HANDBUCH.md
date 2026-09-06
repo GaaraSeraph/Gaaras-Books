@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 368.104 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 368.389 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -755,7 +755,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**131 Kapitel, 347.887 Woerter.**
+**131 Kapitel, 347.890 Woerter.**
 
 ---
 
@@ -7180,9 +7180,10 @@ wird.**
 
 - [OFFEN] **B2 32** Annie an Georgij · gesagt Tag 244 · faellig Tag 248 · "What he actually owns behind the lawyers in Singapore." · **Nie eingeloest, und der Text weiss es.** B2 39, sechsundzwanzig Tage spaeter, Sang-hoon: *"I have not found the Singapore end yet."* Danach faellt das Wort im ganzen Buch nicht mehr. Siehe `doc/32-plan-band-3.md`
 - [OFFEN] **B2 19** Annie an Georgij · gesagt Tag 209 · faellig bei der Mitteilung an alle fuenf · "Go back and tell all five that they do not owe me anything." · Im heutigen Kanon wird keiner der fuenf unterrichtet. Die fruehere Kwon-Szene und vier Briefe existieren nur in geloeschten Fassungen
-- [OFFEN] **B2 88** Georgij an Mrs Sunwoo · gesagt Tag 573 · faellig bei dem Sommer nach Moons erstem Winter im Haus · "I will tell her in the summer." · Moon Hae-sook soll erfahren, dass jemand etwas fuer ihre Hochzeit zu tragen kaufte und es vier Jahre in einem Zimmer hing; Mrs Sunwoos Name darf dabei nicht fallen. Am Erzaehlstand Tag 600 ist der Sommer noch nicht erreicht
+- [OFFEN] **B2 88** Georgij an Mrs Sunwoo · gesagt Tag 573 · faellig Tag 697 · "I will tell her in the summer." · Moon Hae-sook soll erfahren, dass jemand etwas fuer ihre Hochzeit zu tragen kaufte und es vier Jahre in einem Zimmer hing; Mrs Sunwoos Name darf dabei nicht fallen. **Am 06.09. im vierundzwanzigsten Pruefdurchgang als faellig geworden erkannt, und zwar von Hand.** Moon kommt am 11. November 2026 ins Haus (B2 67, Tag 404), ihr erster Winter ist der von 2026 auf 2027, und Mrs Sunwoo sagt es im selben Zug: *"Not before. She has had a winter."* Der Sommer danach endet am 31. August 2027, das ist Tag 697. Der Erzaehlstand ist Tag 707, und B3 5 bis 7 laufen durch August und September, ohne dass es geschieht. **Bis zum 06.09. stand hier die Faelligkeit als Ereignis und der Vermerk "Am Erzaehlstand Tag 600 ist der Sommer noch nicht erreicht", und beides war am 26. Mai richtig.** `zusagen.py` konnte es nicht melden, weil ein Ereignis kein Tag ist; deshalb steht jetzt der Tag da
 - [OFFEN] **B2 67** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · "I will use your words and not mine." · B2 83 setzt Hwang an die Suche; B2 89 verbucht vier von achtundfuenfzig. Der Posten laeuft weiter
 - [BEZAHLT] **B2 65** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **B3 6, Tag 686.** Baek geht den Bestand durch, weil der Errichter im April gestorben ist, und findet die Zeile im Rand des Entwurfs, in eigener Hand und paraphiert: **11. Maerz, *If I ask you to stop it, you will tell me that you cannot.*** Georgij gibt beides weiter und nichts sonst - zweihundertneunundachtzig Erzaehltage zu spaet und ohne eine einzige Umschreibung
+- [OFFEN] **B3 04** Georgij an Lee Jun · gesagt Tag 645 · faellig Tag 1011 · "If you want to know what it is for, ask me in a year and I will tell you then." · Das Halsband. Ein Jahr nach Tag 645 ist Montag, der 10. Juli 2028. **Die Zusage ist bedingt: sie wird nur faellig, wenn der Junge fragt**, und ob er fragt, ist die eigentliche Frage. Ein Junge, der am ersten Tag wissen will, was er bezahlt bekommt, und nicht, wer ihn freigekauft hat, koennte auch diese nicht stellen. Sie faellt hinter das Ende von Band 3
 - [OFFEN] **B2 85** Mrs Seo an Georgij · gesagt Tag 531 · faellig Tag 897 · "In about a year I am going to tell you what it was." · **Sie setzt die Frist, damit sie nie faellig wird**: *you are going to have forgotten this conversation and I am not.* Tag 897 ist Samstag, der 18. Maerz 2028 - 2028 ist ein Schaltjahr, deshalb 366 und nicht 365 Tage. **Die Szene steht ganz in `doc/33-plan-band-4.md`, und er kommt auf den Tag.** Sie faellt hinter das Ende von Band 3, und der Plan dort verlangt fuer sie ein ruhiges Kapitel
 
 ## Verfallen
@@ -7243,6 +7244,7 @@ ist.
 - [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
 - [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
+- [KEINE] **B3 03** Gong Doo-hyun an Georgij · gesagt Tag 628 · faellig bei nichts · "There is a file and I am going to show it to you, because you are going to spend the next year guessing at it otherwise" · Keine Zusage mit Frist, sondern die Ankuendigung des naechsten Satzes: er schiebt die Akte in derselben Szene ueber den Tisch. Steht hier, damit `--neu` sie nicht jedes Mal wieder meldet
 - [KEINE] **B2 82** Chairman Woo an Annie · gesagt Tag 500 · faellig offen · "You will decide in about three weeks that you were wrong this morning, and you will not come back, because you will have made it into a principle by then" · **Vorhersage ueber eine dritte Person, keine Zusage.** Woo sagt nicht zu, etwas zu tun, sondern sagt voraus, was Annie tun wird. Sie kommt tatsaechlich nicht zurueck; der Text bestaetigt es durch Abwesenheit und einmal ausdruecklich in B2 83: *"Chairman Woo telephoned once, in April, and asked one question and rang off."* Steht hier, damit `--neu` sie nicht jedes Mal wieder meldet
 
 ---

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 7 Kapitel, 14.705 Woerter.
+Book Three, 7 Kapitel, 14.708 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -15,7 +15,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 02 | v1.21 | 2.120 |
 | 03 | v1.15 | 2.017 |
 | 04 | v1.20 | 2.012 |
-| 05 | v1.14 | 2.066 |
+| 05 | v1.15 | 2.069 |
 | 06 | v1.13 | 2.165 |
 | 07 | v1.13 | 2.236 |
 
@@ -976,7 +976,7 @@ He has not once been in a room without knowing where the door is.
 ---
 
 # Book Three · Chapter 5: Only hers
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 ## Day Six Hundred and Seventy-Two · Friday 6 August
 
@@ -1226,7 +1226,7 @@ Annie did not write it down, which is how he knew she had already had it.
 
 "Say why it is good news."
 
-"Because a man who read one contract could be anybody." Georgij did not move. "A man who read enough of them to pick eleven out of eighty-one has been at this for months, and he has been at it in a way that leaves a shape." The last part he said more slowly. "I have never done anything else."
+"Because a man who read one contract could be anybody." Georgij did not move. "A man who read enough of them to pick eleven out of eighty-one has been at this for months, and he has been at it in a way that leaves a shape." The last part he said more slowly. "I have done nothing else since I came here."
 
 * * *
 
