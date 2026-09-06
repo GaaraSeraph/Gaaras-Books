@@ -134,14 +134,14 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B2 88** *Not the comfortable part* (v3.9) · Tag 571, Di 27. April · Tag 573, Do 29. April · Tag 575, Sa 1. Mai · Tag 578, Di 4. Mai · 3.367 W
 - **B2 89** *What became of them* (v4.1) · Tag 590, So 16. Mai · 1.995 W
 - **B2 90** *The weapon* (v4.2) · Tag 590, So 16. Mai · 1.564 W
-- **B3 1** *The first thing that arrives* (v1.12) · Tag 592, Di 18. Mai · 2.092 W
+- **B3 1** *The first thing that arrives* (v1.13) · Tag 592, Di 18. Mai · 2.091 W
 - **B3 2** *Thank you for coming* (v1.25) · Tag 600, Mi 26. Mai · 2.114 W
-- **B3 3** *At sixty* (v1.17) · Tag 628, Mi 23. Juni · 2.018 W
-- **B3 4** *Sixteen* (v1.21) · Tag 645, Sa 10. Juli · 2.016 W
+- **B3 3** *At sixty* (v1.18) · Tag 628, Mi 23. Juni · 2.014 W
+- **B3 4** *Sixteen* (v1.23) · Tag 645, Sa 10. Juli · 2.014 W
 - **B3 5** *Only hers* (v1.18) · Tag 672, Fr 6. August · 2.104 W
 - **B3 6** *Who asked* (v1.16) · Tag 686, Fr 20. August · 2.155 W
 - **B3 7** *The old one* (v1.16) · Tag 707, Fr 10. September · 2.238 W
-- **B3 8** *A day with nothing in it* (v1.13) · Tag 718, Di 21. September · 2.049 W
-- **B3 9** *Nobody counts* (v1.10) · Tag 732, Di 5. Oktober · 2.097 W
+- **B3 8** *A day with nothing in it* (v1.14) · Tag 718, Di 21. September · 2.047 W
+- **B3 9** *Nobody counts* (v1.12) · Tag 732, Di 5. Oktober · 2.097 W
 - **B3 10** *Where it would go* (v1.20) · Tag 742, Fr 15. Oktober · 2.230 W
-- **B3 11** *Nothing has happened* (v1.7) · Tag 753, Di 26. Oktober · 2.050 W
+- **B3 11** *Nothing has happened* (v1.8) · Tag 753, Di 26. Oktober · 2.043 W

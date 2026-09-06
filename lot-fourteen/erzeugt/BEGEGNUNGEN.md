@@ -52,7 +52,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
 | Moon Hae-sook | 18 | 10 (b2ch58-b3ch08) | 371 | 718 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
-| Lee Jun | 14 | 3 (b3ch04-b3ch11) | 645 | 753 |
+| Lee Jun | 13 | 3 (b3ch04-b3ch11) | 645 | 753 |
 | Seol Gwan-ik | 12 | 1 (b3ch10) | 742 | 742 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
@@ -5360,12 +5360,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Lee Jun
 
-14 Nennungen in 3 Kapiteln.
+13 Nennungen in 3 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
-| 645 | b3ch04:146 | Lee Jun took slightly longer than he had taken over anything else. |
 | 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
 | 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
 | 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
@@ -5483,7 +5482,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 732 | b3ch09:60 | Han Bo-ram came out to the landing to meet him, which people at the fourth floor of that.. |
+| 732 | b3ch09:60 | Han Bo-ram came out to the landing to meet him, which people on that floor do not have t.. |
 | 732 | b3ch09:88 | "That is what happened, and the way I tell it, he had been looking for me." Han Bo-ram p.. |
 | 732 | b3ch09:120 | Han Bo-ram sat down behind the desk, and then remembered the chair on the near side and .. |
 | 732 | b3ch09:148 | "These are not the three I would have picked," said Han Bo-ram. |

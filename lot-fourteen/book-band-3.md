@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 11 Kapitel, 23.163 Woerter.
+Book Three, 11 Kapitel, 23.147 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,22 +11,22 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.12 | 2.092 |
+| 01 | v1.13 | 2.091 |
 | 02 | v1.25 | 2.114 |
-| 03 | v1.17 | 2.018 |
-| 04 | v1.21 | 2.016 |
+| 03 | v1.18 | 2.014 |
+| 04 | v1.23 | 2.014 |
 | 05 | v1.18 | 2.104 |
 | 06 | v1.16 | 2.155 |
 | 07 | v1.16 | 2.238 |
-| 08 | v1.13 | 2.049 |
-| 09 | v1.10 | 2.097 |
+| 08 | v1.14 | 2.047 |
+| 09 | v1.12 | 2.097 |
 | 10 | v1.20 | 2.230 |
-| 11 | v1.7 | 2.050 |
+| 11 | v1.8 | 2.043 |
 
 ---
 
 # Book Three · Chapter 1: The first thing that arrives
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Five Hundred and Ninety-Two · Tuesday 18 May
 
@@ -142,7 +142,7 @@ There is a day for that, and this is not it.
 
 * * *
 
-The tray went up at seven the way it has gone up at seven for ten years.
+The tray went up at seven, which is the one thing fourteen days has not changed.
 
 He went down at about eight and told her all of it in order.
 
@@ -442,7 +442,7 @@ Downstairs somebody shut a door and did not shut it hard.
 ---
 
 # Book Three · Chapter 3: At sixty
-*Lot Fourteen* · Version 1.17 · EN
+*Lot Fourteen* · Version 1.18 · EN
 
 ## Day Six Hundred and Twenty-Eight · Wednesday 23 June
 
@@ -506,7 +506,7 @@ A man who wants something buys something. There is nothing here that anybody gav
 
 "Sit down," said Gong Doo-hyun.
 
-Georgij sat down in the chair on the near side of the desk.
+Georgij sat down in one of the two chairs.
 
 "There is a file and I am going to show it to you, because you are going to spend the next year guessing at it otherwise, and I would rather have the year for something else."
 
@@ -697,7 +697,7 @@ Annie wrote one line and did not say what it was.
 ---
 
 # Book Three · Chapter 4: Sixteen
-*Lot Fourteen* · Version 1.21 · EN
+*Lot Fourteen* · Version 1.23 · EN
 
 ## Day Six Hundred and Forty-Five · Saturday 10 July
 
@@ -809,7 +809,7 @@ Somebody has spent twenty months making a person legal, one document at a time, 
 
 "Do you want to."
 
-Lee Jun took slightly longer than he had taken over anything else.
+The boy’s eyes went to the door and came back.
 
 "No, sir."
 
@@ -1795,7 +1795,7 @@ Annie looked at him for a moment.
 ---
 
 # Book Three · Chapter 8: A day with nothing in it
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Seven Hundred and Eighteen · Tuesday 21 September
 
@@ -1873,7 +1873,7 @@ Mrs Sunwoo put one hand flat on the arm of the chair.
 
 * * *
 
-Georgij sat down on the near side of the low table.
+Georgij sat down across the low table from her.
 
 "On the seventeenth of December you told me that you were invited to that wedding," he said. "You said it before you said anything else and I wrote it down before I wrote anything else."
 
@@ -2040,7 +2040,7 @@ He did not write down what any of that comes to.
 ---
 
 # Book Three · Chapter 9: Nobody counts
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Seven Hundred and Thirty-Two · Tuesday 5 October
 
@@ -2086,7 +2086,7 @@ The foundation is on the fourth floor of a building the group put up in 2009 and
 
 There is a lift that opens onto a landing with a plant on it and a door with a plate that has been unscrewed once and put back a quarter turn out.
 
-Han Bo-ram came out to the landing to meet him, which people at the fourth floor of that building do not have to do.
+Han Bo-ram came out to the landing to meet him, which people on that floor do not have to do.
 
 She is twenty-six.
 
@@ -2282,7 +2282,7 @@ The page has been in the book for two years and this is the first thing that has
 
 * * *
 
-He wrote three lines in the car.
+He wrote three lines before he had put the envelope down.
 
 *Twelve quarters. Seventh is the one.*
 
@@ -2534,7 +2534,7 @@ He has never once told her a thing that was not true and he was not going to sta
 ---
 
 # Book Three · Chapter 11: Nothing has happened
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Seven Hundred and Fifty-Three · Tuesday 26 October
 
@@ -2660,7 +2660,7 @@ There was a pause on the line of about two seconds.
 
 "He was counting. You were reading."
 
-"That is a kinder version than I would have given myself and I am going to take it, and I would like it said that I am aware of what you are doing."
+"That is a kinder version than I would have given myself, and I would like it said that I am aware of what you are doing."
 
 * * *
 
