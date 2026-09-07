@@ -436,6 +436,20 @@ vier Kriterien vier sind und nicht fuenf. Ein Kapitel kann eine Festlegung aus
 | 13 Zweimal | | | ja | Mr Bok |
 | 14 Wer antwortet | **ja** B3 13 | | ja | Mrs Chun |
 | 15 Him | **ja** B3 14 | **ja** | ja | |
+| 16 Comfort | | | ja | |
+| 17 Four minutes | | | ja | |
+| 18 The other bank | **ja** B3 11 | | ja | |
+| 19 The complaint | | | ja | |
+| 20 What he was | | | ja | |
+| 21 The ninth of September | | | ja | Woo Mi-sook (Grab) |
+| 22 No other word | | | ja | |
+| 23 The bulletin | | | ja | |
+| 24 Eleven thousand | | | ja | Ryu Seok-won |
+| 25 A bigger pile of the same wood | | | ja | |
+| 26 You have not eaten | | **ja** | | |
+| 27 Thirteen days | | | ja | Mr Bae |
+| 28 Refusal is also a signature | | | ja | Mr Baek |
+| 29 The twenty-ninth of February | | **ja** | ja | |
 
 **Kein Kandidat, und `ch15` ist der Grund, warum die vier Kriterien vier sind.** Es traegt den elften Eintrag im Naehe-Register, das zweite Laecheln von Band 3, Sang-hoons gemessenes Blatt und den einzigen Posten im Schuldbuch ohne Frist. **Drei davon fragt kein Kriterium ab**, und das vierte nur, weil der Posten von Hand eingetragen wurde.
 

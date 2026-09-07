@@ -124,6 +124,8 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 9 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
 | 10 | **B3 3** | **Mi 23. Juni** | **Die erste in Band 3, achtunddreissig Tage nach der letzten.** *"Annie put her hand down into his hair, at the back, and left it there."* Der Erzaehler zaehlt den Abstand und sagt ausdruecklich, dass Georgij ihn nicht kennt: *"He does not know that. He stopped counting them last summer and has not started again."* Danach nimmt sie die Hand zurueck und schreibt die eine Zeile, die das Kapitel beendet |
 | 11 | **B3 15** | **Di 14. Dez** | **Der Wangenkuss, Bandmitte, mit Zeugin.** Sie steht vor ihrer Rede auf, geht durch den Raum und kommt am Satzende neben ihm an: *"She finished it standing beside him, and looked at the side of his face."* Dann *"Yes, Mistress."*, dann *"Annie kissed him on the cheek."*, dann die Fehlfunktion, dann *"You cannot say that any more."* **Kein Haar-Eintrag**, also zaehlt der Zaehler darunter nicht weiter |
+| 12 | **B3 26** | **Di 22. Feb** | **Der Kuss auf den Mund, am Abend des Spiegelraums.** Sie nimmt ihm den Bericht aus der Hand, legt ihn hinter sich und tritt an die Stelle, an der Papier war. *"It is not a short one. She does not step back at the end of the first part of it."* Seine Haende kommen spaet, *"because she was still there, which is a fact, and he answers facts"*. Danach erklaert sie nichts: *"You have not eaten."* **Nichts liegt auf dem Tisch, Woo lebt, und er besitzt nichts** |
+| 13 | **B3 29** | **Di 29. Feb** | **Die Hand, vor mehreren hundert Leuten, und der Bandschluss.** Er steht an der Wand, weil keine der vier oeffentlichen Linien passt. Sie dreht sich um, kommt zurueck, stellt sich neben ihn und legt ihre Hand in seine. *"He waited about a second and a half. Then he closed his hand around hers, where everyone could see it."* **Der Gegensatz zu `b2 ch90` ist, dass er nicht ausweicht** |
 
 **Der Zähler:** 9, 19, 25 und 28 sind vier. In 32 folgen am selben Abend das
 fünfte und sechste Mal. 52 ist das siebte, 54 das achte, **90 das neunte und
@@ -464,6 +466,8 @@ dead and not one hour before*).
   auf dem Tisch** - damit kann der Kuss weder das Erbe noch die Trauer sein.
 * **Beisetzung, Bandschluss: sie nimmt seine Hand und laesst sie nicht mehr
   los, und sieht dabei niemanden an.** Vor mehreren hundert Leuten.
+
+**Geschrieben am 07.09.: alle drei stehen im Buch**, als `b3 ch15`, `b3 ch26` und `b3 ch29`, und keine wiederholt eine andere.
 
 **Damit steigt es dreimal und wiederholt sich nie: Wange in der Bandmitte,
 Mund vor dem Tod, Hand vor Zeugen.**

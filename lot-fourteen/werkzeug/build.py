@@ -290,6 +290,10 @@ FIGURES = {
     "Mr Namgung": [r"Namgung"],
     "Mr Bok": [r"Mr Bok", r"\bBok\b"],
     "Mrs Chun": [r"Mrs Chun", r"\bChun\b"],
+    "Ryu Seok-won": [r"Ryu Seok-won", r"\bRyu\b"],
+    "Han Yong-seok": [r"Han Yong-seok"],
+    "Mr Baek": [r"Mr Baek"],
+    "Mr Bae": [r"Mr Bae\b"],
     "Moon Hae-sook": [r"Moon Hae-sook", r"Hae-sook"],
     "Mrs Ha": [r"Mrs Ha"],
     # Cha steht neben Mr Chae im Buch, deshalb die Wortgrenze.

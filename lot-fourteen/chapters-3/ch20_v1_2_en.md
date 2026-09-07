@@ -1,5 +1,5 @@
 # Chapter 20: What he was
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eight Hundred and Sixty-One · Friday 11 February
 
@@ -309,7 +309,7 @@ The third went to a retired prosecutor in Seodaemun who has kept one room since 
 
 ---
 
-Seol Gwan-ik telephoned nobody about it. He wrote back the same day, agreed the date, and added one line that nobody had asked him for.
+Seol Gwan-ik telephoned nobody about it. He wrote back the same day, agreed the date, and added one line that was not required.
 
 *I have kept the diary since 1988 and it is complete.*
 

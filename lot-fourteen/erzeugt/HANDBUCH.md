@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 386.255 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 388.585 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -703,12 +703,14 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Moon Hae-sook](#moon-hae-sook)
   - [Ji-won](#ji-won)
   - [Mrs Gwak](#mrs-gwak)
+  - [Ryu Seok-won](#ryu-seok-won)
   - [Shin](#shin)
   - [Seol Gwan-ik](#seol-gwan-ik)
   - [Mr Baek](#mr-baek)
   - [Mr Pyo](#mr-pyo)
   - [Mr Sohn](#mr-sohn)
   - [Bae](#bae)
+  - [Han Yong-seok](#han-yong-seok)
   - [Mr Bok](#mr-bok)
   - [Han Bo-ram](#han-bo-ram)
   - [Mr Namgung](#mr-namgung)
@@ -716,6 +718,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
   - [Minister Min-ho](#minister-min-ho)
+  - [Mr Bae](#mr-bae)
   - [Mrs Ahn](#mrs-ahn)
   - [Mrs Chun](#mrs-chun)
   - [Mrs Uhm](#mrs-uhm)
@@ -771,7 +774,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**148 Kapitel, 383.314 Woerter.**
+**153 Kapitel, 393.822 Woerter.**
 
 ---
 
@@ -901,6 +904,8 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 9 | **B2 90** | **So 16. Mai** | **Die letzte des Bandes.** Waehrend sie arbeitet: *"At some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Spaeter, waehrend er an ihren Fingerspitzen bleibt, legt sie die andere Hand an seinen Hinterkopf. |
 | 10 | **B3 3** | **Mi 23. Juni** | **Die erste in Band 3, achtunddreissig Tage nach der letzten.** *"Annie put her hand down into his hair, at the back, and left it there."* Der Erzaehler zaehlt den Abstand und sagt ausdruecklich, dass Georgij ihn nicht kennt: *"He does not know that. He stopped counting them last summer and has not started again."* Danach nimmt sie die Hand zurueck und schreibt die eine Zeile, die das Kapitel beendet |
 | 11 | **B3 15** | **Di 14. Dez** | **Der Wangenkuss, Bandmitte, mit Zeugin.** Sie steht vor ihrer Rede auf, geht durch den Raum und kommt am Satzende neben ihm an: *"She finished it standing beside him, and looked at the side of his face."* Dann *"Yes, Mistress."*, dann *"Annie kissed him on the cheek."*, dann die Fehlfunktion, dann *"You cannot say that any more."* **Kein Haar-Eintrag**, also zaehlt der Zaehler darunter nicht weiter |
+| 12 | **B3 26** | **Di 22. Feb** | **Der Kuss auf den Mund, am Abend des Spiegelraums.** Sie nimmt ihm den Bericht aus der Hand, legt ihn hinter sich und tritt an die Stelle, an der Papier war. *"It is not a short one. She does not step back at the end of the first part of it."* Seine Haende kommen spaet, *"because she was still there, which is a fact, and he answers facts"*. Danach erklaert sie nichts: *"You have not eaten."* **Nichts liegt auf dem Tisch, Woo lebt, und er besitzt nichts** |
+| 13 | **B3 29** | **Di 29. Feb** | **Die Hand, vor mehreren hundert Leuten, und der Bandschluss.** Er steht an der Wand, weil keine der vier oeffentlichen Linien passt. Sie dreht sich um, kommt zurueck, stellt sich neben ihn und legt ihre Hand in seine. *"He waited about a second and a half. Then he closed his hand around hers, where everyone could see it."* **Der Gegensatz zu `b2 ch90` ist, dass er nicht ausweicht** |
 
 **Der Zähler:** 9, 19, 25 und 28 sind vier. In 32 folgen am selben Abend das
 fünfte und sechste Mal. 52 ist das siebte, 54 das achte, **90 das neunte und
@@ -1241,6 +1246,8 @@ dead and not one hour before*).
   auf dem Tisch** - damit kann der Kuss weder das Erbe noch die Trauer sein.
 * **Beisetzung, Bandschluss: sie nimmt seine Hand und laesst sie nicht mehr
   los, und sieht dabei niemanden an.** Vor mehreren hundert Leuten.
+
+**Geschrieben am 07.09.: alle drei stehen im Buch**, als `b3 ch15`, `b3 ch26` und `b3 ch29`, und keine wiederholt eine andere.
 
 **Damit steigt es dreimal und wiederholt sich nie: Wange in der Bandmitte,
 Mund vor dem Tod, Hand vor Zeugen.**
@@ -2021,6 +2028,9 @@ diese Namen weiter, statt neue Werkstimmen fuer dieselbe Funktion zu erfinden.
 
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
+| **Ryu Seok-won** | **Die rechte Hand von Hanseong, und der Mann, der die Gruppe tatsaechlich kennt.** Schmal, ruhig, runde Brille | Einundsechzig. Seit 2002 dort, seit neun Jahren Betriebschef, keine Anteile. Bekommt in `b3 ch16` neun Woerter ins Motors-Protokoll, wird von Han vor Zeugen uebergangen, und kuendigt in `b3 ch24` mit vier Zeilen | B3 24 | **Er kommt nicht herueber, er geht nach Hause**, und das ist die beste Position in der ganzen Sache. Sein Massstab sind elftausend Leute an vier Werken, und er nennt die Zahl wie eine Adresse |
+| **Mr Baek** | **Woos Anwalt.** Vierundsechzig | Haelt den Umschlag seit dem 29. Dezember 2025 und bringt ihn am 26. Februar 2028 selbst. Sagt ungefragt, dass Woo vier Stunden an seinem Tisch geschrieben und seinen Fuellfederhalter nicht benutzt hat | B3 28 | **Eine Replik, geteilt**, und der Hut bleibt in der Hand |
+| **Mr Bae** | **Woos Fahrer seit 2014.** Achtundsechzig | Faehrt ihn vierzehn Jahre, schliesst am 26. Februar um vier nach acht auf und findet ihn. Setzt sich zwanzig Minuten auf die Treppe, die Haustuer offen. Erbt das Haus in Yangpyeong | B3 27 | **Er telefoniert das Krankenhaus und den Sohn an und sonst niemanden**, weil er in vierzehn Jahren nie etwas ueber diesen Mann hat entscheiden muessen |
 | **Mrs Chun** | **Schadenregulierin, vom Versicherer bestellt.** Sitzt auf deren Seite und kommt trotzdem | Acht Jahre im Fach. Nimmt in `b3 ch14` die Novemberforderung auf, stellt drei Fragen und schreibt die Antworten in Kaesten | B3 14 | **Die erste Band-3-Nebenfigur unter dem Median**, 10,5 Woerter je Replik. Ihre einzige Eitelkeit ist die Bearbeitungszeit: sie war nie ueber sechs Arbeitstage und ruft an, um zu sagen, dass es diesmal fuenf waren |
 | **Mr Bok** | **Operations bei einem Spediteur in Busan.** Sechzehn Jahre an demselben Schreibtisch | Der Aelteste von vier an dem Tisch, und die anderen drei legen ihm Dinge hin, ohne aufzusehen. Sagt in `b3 ch13` zweimal, dass die Anweisung aus Seoul kam | B3 13 | **Er ist uebergangen worden und hat es niemandem sagen koennen.** Das erste Seoul ist die Auskunft, das zweite die Beschwerde. Dazu ein Anliegen, das mit der Sache nichts zu tun hat: sie haben den Parkplatz auf die andere Seite verlegt. **Er weiss nicht, wem er das gerade gegeben hat, und wird es nie erfahren** |
 | **Mr Namgung** | **Kunde, und zwar seit neunzehn Jahren.** Kauft das Vorprodukt, auf dem seine Anlage laeuft | Etwa sechzig. Neunzehn Jahre bei der Gruppe, acht bei ihr. Kommt in `b3 ch12` allein, um sich zu bedanken, und kuendigt im selben Atemzug die zweite Quelle an | B3 12 | **Er hoert sich nicht zu, und das ist sein Zug.** Er erzaehlt die elf Wochen von 2016 zum wiederholten Mal, ist mit dem Erzaehlen zufrieden, und sagt danach in derselben Stimme den Satz, der ihr das Geschaeft kostet. Er geht zufrieden hinaus und glaubt, er habe sich bedankt |
@@ -6842,7 +6852,9 @@ gemeinsame Grund liegt darunter und ist handwerklich: **Akt I und der Anfang
 von Akt II sind Auskunftsszenen**, und wer eine Auskunft schreibt, laesst die
 Figur erklaeren.
 
-**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** **Eingeloest in `b3 ch14`:** Mrs Chun steht bei 10,5, und ihr Blatt sagt, woran das liegt. Nicht
+**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** **Eingeloest in `b3 ch14`:** Mrs Chun steht bei 10,5, und ihr Blatt sagt, woran das liegt.
+
+**Und der Rest von Band 3, gemessen am 07.09.:** Ryu Seok-won 14,7 ueber fünfundzwanzig Repliken, Woos Sohn 16,0 ueber drei, Mr Baek 15,0 ueber zwei. **Ryu liegt unter Baek Jun-hos 15,7 und damit im Rahmen des Buchs**, aber ueber dem Median. Seine beiden längsten Repliken sind eine Belegschaftsaufzählung und der einzige Satz, den er über sich selbst sagt, und beide bleiben. **Wer nach ihm eine neue Nebenfigur schreibt, misst wieder gegen zwölf.** Nicht
 weil kurz besser ist, sondern weil vier Vielredner hintereinander keine
 Figuren mehr sind, sondern eine Angewohnheit des Schreibenden. Wer eine
 laengere braucht, schreibt vorher hierher, warum ausgerechnet diese es sein
@@ -7733,7 +7745,8 @@ ist.
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
 - [OFFEN] **B3 14** Park Sang-hoon an niemanden · gesagt Tag 802 · **keine Frist, und das ist der Eintrag.** Er streicht Menge und Ausführung, lässt das Datum stehen und legt das Blatt zurück auf ihren Tisch. **Nichts daran bindet ihn.** Er kann morgen ein zweites schreiben, und das Einzige, was dagegen steht, ist Georgijs Satz an der Tür. Der Posten steht hier, weil das Schuldbuch sonst die gefährlichste offene Sache des Bandes nicht führt, und `zusagen.py` ihn nie finden wird: **eine Zusage ohne Frist und ohne Satz ist für das Werkzeug keine.**
 - [BEZAHLT] **B3 13** Mrs Chun an Annies Haus · gesagt Tag 788, rueckwirkend am 19. November · faellig sechs Arbeitstage spaeter · "I will have it back to the underwriter inside six working days." · **Die kleinste Zusage im Buch und die einzige, die vorzeitig eingeloest wird.** Die Akte ging am 25. November heraus, also nach fuenf, und sie hat angerufen, um es zu sagen. Der Posten steht hier, weil er die einzige Frist in Band 3 ist, die jemand **unterbietet**, und weil das ihr ganzes Blatt ist.
-- [OFFEN] **B3 11** Mr Namgung an Annie · gesagt Tag 762 · faellig im Januar 2028, also zwischen Tag 822 und Tag 850 · "I am going to have to put a second source in front of my board in January." · **Der Preis der Charter, angesagt von dem Mann, der sich gerade bedankt hat.** Neunzehn Jahre Kunde, acht bei ihr. Faellt in Akt II und kostet sie Geschaeft, das nicht zurueckkommt. `zusagen.py --neu` findet es nicht, weil FRIST Monatsnamen nicht kennt; von Hand eingetragen am 06.09.
+- [BEZAHLT] **B3 11** Mr Namgung an Annie · eingeloest am 19. Januar 2028, belegt in `b3 ch18` · **Der Vorstand hat die zweite Quelle genehmigt.** Ab April gehen rund sechzig Prozent des Geschaefts an ein Werk in Gyeonggi, und es kommt nicht zurueck. Er hat am zwanzigsten selbst angerufen, um es zu sagen. **Bis zum 07.09. war der Posten in `zusagen.py` unsichtbar**, weil die Frist als Monatsname eingetragen war; die Blindstelle steht jetzt im Kopfkommentar des Werkzeugs. Der alte Wortlaut:
+- [ALT] **B3 11** Mr Namgung an Annie · gesagt Tag 762 · faellig im Januar 2028, also zwischen Tag 822 und Tag 850 · "I am going to have to put a second source in front of my board in January." · **Der Preis der Charter, angesagt von dem Mann, der sich gerade bedankt hat.** Neunzehn Jahre Kunde, acht bei ihr. Faellt in Akt II und kostet sie Geschaeft, das nicht zurueckkommt. `zusagen.py --neu` findet es nicht, weil FRIST Monatsnamen nicht kennt; von Hand eingetragen am 06.09.
 - [OFFEN] **B3 12** Annies Gruppe an elf Kunden · gesagt Tag 762 · faellig bei der Rueckkehr auf den Fahrplan · "We will write again when it returns to the scheduled service." · **Der Brief, der niemanden nennt.** Vier Zeilen an alle elf. Solange kein zweiter Brief geht, laeuft die Charter, und jeder der elf weiss das. `zusagen.py --neu` findet es nicht, weil die Zusage in einem Brief steht und nicht in einer Replik; von Hand eingetragen am 06.09.
 - [BEZAHLT] **B3 10** Annie an Georgij · gesagt Tag 742 · faellig Tag 748 · "Mr Chae is going to write down why I am unhappy with Hanseong." · **Der datierte Grund, der aelter ist als die Reihenfolge.** Der Donnerstag ist der 21. Oktober 2027. Eingeloest und belegt in `b3 ch11`, Tag 753: zweieinhalb Seiten in Mr Chaes Hand, ihre Unterschrift darunter. **Es kostet sie etwas Echtes**, und `b3 ch10` sagt was: sie muss aufhoeren, es Instandhaltung zu nennen, und dann steht auf Papier, dass sie fuenf Monate lang bezahlt hat, was ihr angetan wurde. `zusagen.py --neu` hat den Posten nicht gefunden, weil FRIST *by Thursday* kennt und nicht *on Thursday*; von Hand eingetragen am 06.09.
 - [OFFEN] **B3 09** Georgij an Han Bo-ram · gesagt Tag 732 · faellig Tag 1159 · "If nothing has happened by then, the whole of it lapses." · **Die Verfallsfrist der bedingten Verkaufszusage.** Vierzehn Monate nach Tag 732 ist Dienstag, der 5. Dezember 2028. Laeuft die Frist ab, ohne dass etwas geschehen ist, behaelt sie ihre Anteile und schuldet niemandem etwas. **Sie ist der Grund, warum ihre Unterschrift keine Kapitulation ist**, und ohne sie waere Annies Satz, es gebe keine Fassung, in der die Frau schlechter dasteht, unwahr. `zusagen.py --neu` findet sie nicht, weil Zusage und Frist in zwei Repliken stehen; von Hand eingetragen am 06.09.
@@ -9291,6 +9304,20 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 13** - das Ventil auf dem Stapel, Mr Bok sagt Seoul zweimal, und Lee Jun hoert es | 774 | Di **16. November 2027** |
 | **Band 3, Kapitel 14** - die Forderung, die zwei Briefe, und Zeile neunzehn kommt an die Tuer | 788 | Di **30. November 2027** |
 | **Band 3, Kapitel 15** - Sang-hoon stellt sie vor die Wahl, das entwertete Blatt, der Wangenkuss. **Bandmitte** | 802 | Di **14. Dezember 2027** |
+| **Band 3, Kapitel 16** *Comfort* - Credit leiht Shipping 120 Milliarden, Motors garantiert, Ryu bekommt neun Woerter ins Protokoll | 823 | Di **4. Januar 2028** |
+| **Band 3, Kapitel 17** *Four minutes* - die Antwort um acht, der erste Auftrag um neun Uhr zwoelf, die Fuenfprozentmeldung | 839 | Do **20. Januar 2028** |
+| **Band 3, Kapitel 18** *The other bank* - vierhundert Milliarden gegen vier, vier Saetze an den Vorstand, und die Kette in Singapur | 848 | Sa **29. Januar 2028** |
+| **Band 3, Kapitel 19** *The complaint* - Hans Anzeige, neun Seiten, jeder Punkt wahr, und Gong nimmt sie selbst | 853 | Do **3. Februar 2028** |
+| **Band 3, Kapitel 20** *What he was* - Georgij sagt dem Mann, der Choi begraben hat, was Choi war | 861 | Fr **11. Februar 2028** |
+| **Band 3, Kapitel 21** *The ninth of September* - das Grab von Woo Mi-sook, die zwanzig Prozent, und was neun Monate Nichtfragen gekostet haben | 863 | So **13. Februar 2028** |
+| **Band 3, Kapitel 22** *No other word* - Gong verliert die Akte, Yeom sagt das Wort, der Pachtvertrag von 2009 | 866 | Mi **16. Februar 2028** |
+| **Band 3, Kapitel 23** *The bulletin* - vierhundertzehntausend Fahrzeuge, zwoelf Prozent und neun, und es gibt keinen Satz | 868 | Fr **18. Februar 2028** |
+| **Band 3, Kapitel 24** *Eleven thousand* - Ryu Seok-won fragt eine Frage und geht nach Hause | 870 | So **20. Februar 2028** |
+| **Band 3, Kapitel 25** *A bigger pile of the same wood* - die Geschwister, der Spiegelraum, die Rede und die Guidance-Frage | 872 | Di **22. Februar 2028** |
+| **Band 3, Kapitel 26** *You have not eaten* - **der Kuss auf den Mund**, am Abend desselben Tages | 872 | Di **22. Februar 2028** |
+| **Band 3, Kapitel 27** *Thirteen days* - Woo stirbt im Schlaf, und Georgij hat am zweiundzwanzigsten nicht angerufen | 876 | Sa **26. Februar 2028** |
+| **Band 3, Kapitel 28** *Refusal is also a signature* - die drei Briefe, fuenfzig zu fuenfzig, und Regel 2 bricht | 876 | Sa **26. Februar 2028** |
+| **Band 3, Kapitel 29** *The twenty-ninth of February* - die Beisetzung, und sie nimmt seine Hand vor mehreren hundert Leuten. **Bandende** | 879 | Di **29. Februar 2028** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis
@@ -10621,7 +10648,9 @@ auftaucht, und sie muss verdient sein.
 Tag 46 nicht benutzt worden, und die Stelle, an der es wieder auftaucht, steht
 seit dem 06.09. im Buch: `b3 ch05`, Tag 672, Mr Hwang an der Tuer.
 
-**Das zweite steht seit dem 06.09. in `b3 ch15:340`, Tag 802**, und es haelt die drei Regeln von selbst. Es ist Abschnitt IV, es liegen zehn Kapitel dazwischen statt der geforderten zwei, und die Probe faellt richtig aus: **er holt damit nichts, er verhindert es nicht einmal.** *"A small smile got out. He was holding a much larger one down and he was not managing all of it."* Damit stehen in Band 3 zwei Laecheln in fuenfzehn Kapiteln, und beide gehoeren ihm.
+**Das zweite steht seit dem 06.09. in `b3 ch15:340`, Tag 802**, und es haelt die drei Regeln von selbst. Es ist Abschnitt IV, es liegen zehn Kapitel dazwischen statt der geforderten zwei, und die Probe faellt richtig aus: **er holt damit nichts, er verhindert es nicht einmal.** *"A small smile got out. He was holding a much larger one down and he was not managing all of it."* Damit stehen in Band 3 zwei Laecheln in neunundzwanzig Kapiteln, und beide gehoeren ihm.
+
+**Nachgemessen am 07.09. ueber `ch16` bis `ch29`: keins.** In den vierzehn Kapiteln nach der Bandmitte gibt es drei Treffer und keiner ist seiner: Woo am Telefon (*something at the other end that was not quite a laugh*), Yeoms Ding mit dem Mund, das nicht das Empfangslaecheln ist, und ein Foto, auf dem Woo nicht laechelt. **Der Mundkuss bekommt keins**, und das ist richtig: `doc/10` gibt den Ausfall des Zaehlwerks dem Wangenkuss, und wer ihn zweimal schreibt, halbiert beide.
 
 **Und die Formel aus `doc/10` ist an derselben Stelle eingeloest.** *something went across his face and did not stay* steht dreimal im Buch, in `b1 ch33`, `b2 ch49` und `b2 ch64`. In `b3 ch15` steht **es blieb**, und das ist das einzige Mal.
 
@@ -14384,6 +14413,20 @@ vier Kriterien vier sind und nicht fuenf. Ein Kapitel kann eine Festlegung aus
 | 13 Zweimal | | | ja | Mr Bok |
 | 14 Wer antwortet | **ja** B3 13 | | ja | Mrs Chun |
 | 15 Him | **ja** B3 14 | **ja** | ja | |
+| 16 Comfort | | | ja | |
+| 17 Four minutes | | | ja | |
+| 18 The other bank | **ja** B3 11 | | ja | |
+| 19 The complaint | | | ja | |
+| 20 What he was | | | ja | |
+| 21 The ninth of September | | | ja | Woo Mi-sook (Grab) |
+| 22 No other word | | | ja | |
+| 23 The bulletin | | | ja | |
+| 24 Eleven thousand | | | ja | Ryu Seok-won |
+| 25 A bigger pile of the same wood | | | ja | |
+| 26 You have not eaten | | **ja** | | |
+| 27 Thirteen days | | | ja | Mr Bae |
+| 28 Refusal is also a signature | | | ja | Mr Baek |
+| 29 The twenty-ninth of February | | **ja** | ja | |
 
 **Kein Kandidat, und `ch15` ist der Grund, warum die vier Kriterien vier sind.** Es traegt den elften Eintrag im Naehe-Register, das zweite Laecheln von Band 3, Sang-hoons gemessenes Blatt und den einzigen Posten im Schuldbuch ohne Frist. **Drei davon fragt kein Kriterium ab**, und das vierte nur, weil der Posten von Hand eingetragen wurde.
 
@@ -18714,6 +18757,14 @@ Zahl gekannt und trotzdem nicht weit genug gefragt.**
 ---
 
 # Plan, Band 3
+
+**Geschrieben. Am 07.09. ist Band 3 zu Ende erzaehlt: neunundzwanzig Kapitel, Tag 592 bis Tag 879, 18. Mai 2027 bis Dienstag der 29. Februar 2028.** Alle sechzehn Punkte des Geruests stehen im Buch. Was dieses Dokument ab hier ist, ist der Beleg dafuer, warum es so und nicht anders steht, und die Fundgrube fuer Band 4.
+
+**Drei Stellen sind beim Schreiben anders ausgefallen als geplant, und alle drei sind im Text begruendet.**
+
+1. **Motors wird nicht gekauft, sondern die Familienpakete kommen von selbst.** Der Plan liess Annie die profitablen Einheiten kaufen. Geschrieben ist es haerter: drei der vier Geschwister lassen am 19. Februar durch einen Anwalt anfragen, und niemand aus diesem Haus hat je mit einem von ihnen gesprochen, weil ein Mann, der den Bruder eines Chaebol-Inhabers anspricht, einen Raid faehrt. **Georgij sagt zweimal ausdruecklich, dass er das nicht gebaut hat.**
+2. **Gongs Sturz ist am Bandende nicht vollzogen, sondern entschieden.** Der Band endet am 29. Februar; der Kompetenzentzug ist am 15. Februar, die Ausweitung auf Seol, die Ministerien und die Hafenbehoerde ab dem 15., und `b3 ch29` sagt den Rest voraus, ohne ihn zu zeigen. **Das Amt gehoert am Bandende dem dritten von links auf einem Foto in Seocho.**
+3. **Der Kalender ist enger als der Plan.** Akt II und III laufen vom 4. Januar bis zum 29. Februar 2028, weil ein Boersenzug in Tagen und nicht in Monaten laeuft, sobald die Maschine einmal steht. Damit bleibt das Bandende im Winter, wie festgelegt, und Mrs Seos Frist an Tag 897 faellt wie vorgesehen in Band 4.
 
 **Der Chaebol-Angriff.** Herausgeloest am 29.08. aus dem gewachsenen
 Sammeldokument. Band 4 steht in `33-plan-band-4.md`, Band 5 in
@@ -33281,7 +33332,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 1002 | 124 (b1ch01-b3ch29) | 1 | 879 |
-| Park Sang-hoon | 322 | 52 (b1ch10-b3ch29) | 22 | 879 |
+| Park Sang-hoon | 323 | 53 (b1ch10-b3ch29) | 22 | 879 |
 | Chairman Woo | 267 | 49 (b1ch07-b3ch29) | 22 | 879 |
 | Mr Hwang | 207 | 40 (b2ch07-b3ch29) | 166 | 879 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
@@ -33314,19 +33365,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Moon Hae-sook | 23 | 13 (b2ch58-b3ch29) | 371 | 879 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
+| Ryu Seok-won | 18 | 5 (b1ch07-b3ch25) | 22 | 872 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Seol Gwan-ik | 14 | 3 (b3ch10-b3ch20) | 742 | 861 |
-| Mr Baek | 11 | 8 (b1ch05-b3ch29) | 6 | 879 |
+| Mr Baek | 12 | 9 (b1ch05-b3ch29) | 6 | 879 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Bae | 9 | 5 (b1ch03-b3ch28) | 1 | 876 |
+| Han Yong-seok | 9 | 5 (b3ch16-b3ch25) | 823 | 872 |
 | Mr Bok | 9 | 1 (b3ch13) | 774 | 774 |
 | Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
-| Mr Namgung | 7 | 1 (b3ch12) | 762 | 762 |
+| Mr Namgung | 8 | 2 (b3ch12-b3ch18) | 762 | 848 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Minister Min-ho | 4 | 2 (b1ch09-b3ch10) | 22 | 742 |
+| Mr Bae | 3 | 2 (b3ch27-b3ch28) | 876 | 876 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Mrs Chun | 2 | 1 (b3ch14) | 788 | 788 |
 | Mrs Uhm | 2 | 1 (b2ch16) | 206 | 206 |
@@ -34296,9 +34350,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 839 | b3ch17:210 | "Read me the purpose box," said Annie. |
 | 839 | b3ch17:222 | Annie signed it where the pen went. |
 | 848 | b3ch18:105 | "Say what it means and do not be careful about it," said Annie. |
-| 848 | b3ch18:199 | Then he went down at eight and told Annie, because it is her house and because he does n.. |
-| 848 | b3ch18:203 | "How long have you known where it was," said Annie. |
-| 848 | b3ch18:229 | "No," said Annie. "He would not." |
+| 848 | b3ch18:219 | Then he went down at eight and told Annie, because it is her house and because he does n.. |
+| 848 | b3ch18:223 | "How long have you known where it was," said Annie. |
+| 848 | b3ch18:249 | "No," said Annie. "He would not." |
 | 853 | b3ch19:30 | It says that on the twenty-fourth of January a company registered in Jeju, dormant since.. |
 | 853 | b3ch19:174 | Annie asked one question about the whole of it and she asked it on the Thursday evening. |
 | 853 | b3ch19:190 | Annie did not say anything for a moment. |
@@ -34314,10 +34368,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 868 | b3ch23:130 | "Say what we can buy," said Annie. |
 | 868 | b3ch23:150 | Annie looked at the last one for a while. |
 | 868 | b3ch23:158 | "No," said Annie. "You have not." |
-| 870 | b3ch24:278 | "He did not come over," said Annie. |
-| 870 | b3ch24:306 | Annie wrote it at the top of the page she was working on, which is not what that page is.. |
+| 870 | b3ch24:280 | "He did not come over," said Annie. |
+| 870 | b3ch24:308 | Annie wrote it at the top of the page she was working on, which is not what that page is.. |
 | 872 | b3ch25:32 | Georgij did not build that, and he said so out loud twice, once to Annie and once in the.. |
-| 872 | b3ch25:60 | Annie was at the near end because she owns it. Georgij stood at the end of the room wher.. |
+| 872 | b3ch25:60 | Annie was at the near end because she owns it. Georgij went to the far end and stayed th.. |
 | 872 | b3ch25:88 | He was on time. He shook hands with the four lawyers and the two directors and with Anni.. |
 | 872 | b3ch25:186 | Annie was the last person out of that room and she did not hurry it. |
 | 872 | b3ch25:206 | Neither of them said anything on the bridge. On the far side Annie asked one question an.. |
@@ -34330,17 +34384,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 876 | b3ch27:158 | Annie put her hand on the side of his face. |
 | 876 | b3ch27:176 | "He knew for two years," said Annie. "You are the only person in this country who never .. |
 | 876 | b3ch27:238 | He telephoned Annie himself on the Sunday afternoon, which he did not have to do. He ask.. |
-| 876 | b3ch27:254 | "He will be there," said Annie. "He will be standing at the back, and he will not sign t.. |
-| 876 | b3ch27:300 | He telephoned Annie first because she is named first, and he said that there were three,.. |
-| 876 | b3ch27:306 | "Say when," said Annie. |
+| 876 | b3ch27:258 | "He will be there," said Annie. "He will be standing at the back, and he will not sign t.. |
+| 876 | b3ch27:304 | He telephoned Annie first because she is named first, and he said that there were three,.. |
+| 876 | b3ch27:310 | "Say when," said Annie. |
 | 876 | b3ch28:16 | He gave three envelopes to Annie in the hall, and he said that he had not read any of th.. |
-| 876 | b3ch28:30 | One says *Annie*. One says *Both of you*. One says *For the other one, and he will know .. |
-| 876 | b3ch28:100 | To Georgij and to Annie, in equal shares, fifty and fifty. |
-| 876 | b3ch28:130 | "Say what it does," said Annie. |
-| 876 | b3ch28:152 | "I think he built it so that neither of us can leave." Annie had the schedule flat in fr.. |
-| 876 | b3ch28:170 | "I am eighty per cent angry with him," said Annie, "and I am going to be at his funeral .. |
-| 876 | b3ch28:258 | "Have you signed it," said Annie. |
-| 876 | b3ch28:270 | Annie looked at him for a while. |
+| 876 | b3ch28:48 | One says *Annie*. One says *Both of you*. One says *For the other one, and he will know .. |
+| 876 | b3ch28:118 | To Georgij and to Annie, in equal shares, fifty and fifty. |
+| 876 | b3ch28:148 | "Say what it does," said Annie. |
+| 876 | b3ch28:170 | "I think he built it so that neither of us can leave." Annie had the schedule flat in fr.. |
+| 876 | b3ch28:188 | "I am eighty per cent angry with him," said Annie, "and I am going to be at his funeral .. |
+| 876 | b3ch28:276 | "Have you signed it," said Annie. |
+| 876 | b3ch28:288 | Annie looked at him for a while. |
 | 879 | b3ch29:12 | Annie signed at twenty past. She read every page and he had already read every page, and.. |
 | 879 | b3ch29:74 | Annie was there on all four days. |
 | 879 | b3ch29:136 | He is in the will and his name is not public and will not be public until the spring. He.. |
@@ -34617,7 +34671,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch17:128` (Tag 839) - six hundred million
 - `b3ch17:134` (Tag 839) - four
 - `b3ch17:158` (Tag 839) - four
-- `b3ch18:199` (Tag 848) - eight
+- `b3ch18:219` (Tag 848) - eight
 - `b3ch19:30` (Tag 853) - five, twenty
 - `b3ch19:174` (Tag 853) - one
 - `b3ch20:22` (Tag 861) - one
@@ -34628,12 +34682,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch26:32` (Tag 872) - five
 - `b3ch26:204` (Tag 872) - forty, twenty
 - `b3ch27:176` (Tag 876) - two
-- `b3ch27:300` (Tag 876) - one, three
+- `b3ch27:304` (Tag 876) - one, three
 - `b3ch28:16` (Tag 876) - three
-- `b3ch28:30` (Tag 876) - one
-- `b3ch28:100` (Tag 876) - fifty and fifty
-- `b3ch28:152` (Tag 876) - two
-- `b3ch28:170` (Tag 876) - eighty
+- `b3ch28:48` (Tag 876) - one
+- `b3ch28:118` (Tag 876) - fifty and fifty
+- `b3ch28:170` (Tag 876) - two
+- `b3ch28:188` (Tag 876) - eighty
 - `b3ch29:12` (Tag 879) - twenty
 - `b3ch29:74` (Tag 879) - four
 - `b3ch29:158` (Tag 879) - four
@@ -34642,7 +34696,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-322 Nennungen in 52 Kapiteln.
+323 Nennungen in 53 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34967,6 +35021,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 839 | b3ch17:110 | Park Sang-hoon did nothing. |
 | 839 | b3ch17:240 | The other call was Park Sang-hoon's secretary. She arranged nothing and confirmed nothin.. |
 | 872 | b3ch26:200 | Park Sang-hoon sent nothing and telephoned nobody. |
+| 876 | b3ch28:36 | At half past ten that morning Park Sang-hoon telephoned this house and was given two o'c.. |
 | 879 | b3ch29:94 | Park Sang-hoon came at half past eight with two men and stayed eleven minutes. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -35114,6 +35169,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch15:6` (Tag 802) - eleven, four
 - `b3ch15:32` (Tag 802) - forty
 - `b3ch17:240` (Tag 839) - one
+- `b3ch28:36` (Tag 876) - four, ten, three, two, two hundred million
 - `b3ch29:94` (Tag 879) - eight, eleven, two
 
 ---
@@ -35362,7 +35418,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:44 | After four he does Georgij's work at the same desk, and Woo has never once asked him wha.. |
 | 823 | b3ch16:122 | Chairman Woo telephoned on the second of January and did not want anything. |
 | 823 | b3ch16:130 | "I have been reading about a shipping company," said Woo. "Not hers. The other one." |
-| 848 | b3ch18:183 | Chairman Woo built that terminal and he has never owned all of it. |
+| 848 | b3ch18:203 | Chairman Woo built that terminal and he has never owned all of it. |
 | 853 | b3ch19:32 | It says that Mr Hwang Sang-woo, who is not employed by her, works four days a week in an.. |
 | 853 | b3ch19:36 | And on the eighth page it says that the same three law firms in Singapore appear behind .. |
 | 853 | b3ch19:50 | It is the plate outside the office on the fourth floor where Mr Hwang works. It says Woo.. |
@@ -35387,8 +35443,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 876 | b3ch27:66 | Georgij was told at eleven twenty on the Saturday morning by a man in Woo's office who h.. |
 | 876 | b3ch27:84 | "Chairman Woo died last night," he said. |
 | 876 | b3ch28:10 | He is sixty-four and he has held that envelope since the twenty-ninth of December two ye.. |
-| 876 | b3ch28:54 | The second is that Woo answered in his own order and not in hers, and that his order is .. |
-| 876 | b3ch28:250 | Woo knew that on the twenty-ninth of December two years ago, in a lawyer's office, with .. |
+| 876 | b3ch28:72 | The second is that Woo answered in his own order and not in hers, and that his order is .. |
+| 876 | b3ch28:268 | Woo knew that on the twenty-ninth of December two years ago, in a lawyer's office, with .. |
 | 879 | b3ch29:70 | The photograph is from 2016 and Woo is not smiling in it, because he did not, and becaus.. |
 | 879 | b3ch29:216 | Woo is going next to his wife on a hill an hour outside the city. The family cars went a.. |
 
@@ -35537,7 +35593,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch27:50` (Tag 876) - four
 - `b3ch27:66` (Tag 876) - eleven twenty, ten
 - `b3ch28:10` (Tag 876) - nine, sixty-four, twenty, two
-- `b3ch28:250` (Tag 876) - twenty, two
+- `b3ch28:268` (Tag 876) - twenty, two
 - `b3ch29:70` (Tag 879) - one
 - `b3ch29:216` (Tag 879) - eleven
 
@@ -36549,9 +36605,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 872 | b3ch26:28 | Georgij worked on it from half past twelve until seven and did not eat anything, which h.. |
 | 872 | b3ch26:42 | Mrs Seo went in twice and came out twice without saying anything, and the second time sh.. |
 | 872 | b3ch26:116 | Mrs Seo put something in front of him at twenty past eight and he ate all of it. Lee Jun.. |
-| 872 | b3ch26:144 | Mrs Seo has run that house since before he came to it. |
+| 872 | b3ch26:144 | Mrs Seo was in that house before he was. |
 | 872 | b3ch26:206 | Mrs Seo asked what to do with it and was told to put it in the pantry. |
-| 876 | b3ch27:316 | Mrs Seo took the black things out on the Sunday and had them done by Monday morning. |
+| 876 | b3ch27:320 | Mrs Seo took the black things out on the Sunday and had them done by Monday morning. |
 | 879 | b3ch29:64 | Mrs Seo's suit fits and he had it on. It is the first thing anybody in that house has bo.. |
 
 ### Zahlen in der Naehe von Mrs Seo
@@ -36956,7 +37012,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 742 | b3ch10:62 | That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was.. |
 | 861 | b3ch20:254 | He did not leave out the part where he stayed in the chair. He did not soften what he sa.. |
 | 861 | b3ch20:288 | "But I want you to hear the number. That man buried Choi Dae-ho on a Tuesday in the rain.. |
-| 876 | b3ch28:42 | What is in it is her father, and Choi Dae-ho, and the tenth of January 2010, and it is n.. |
+| 876 | b3ch28:60 | What is in it is her father, and Choi Dae-ho, and the tenth of January 2010, and it is n.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -37247,7 +37303,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:242 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Twelv.. |
 | 686 | b3ch06:248 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |
 | 686 | b3ch06:254 | "Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter a.. |
-| 876 | b3ch27:294 | His name is Baek and he has held an envelope since the twenty-ninth of December two year.. |
+| 876 | b3ch27:298 | His name is Baek and he has held an envelope since the twenty-ninth of December two year.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -37301,7 +37357,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:90` (Tag 592) - four, two
 - `b3ch06:242` (Tag 686) - twelve
 - `b3ch06:248` (Tag 686) - forty-eight, sixty-three
-- `b3ch27:294` (Tag 876) - nine, twenty, two
+- `b3ch27:298` (Tag 876) - nine, twenty, two
 
 ---
 
@@ -38562,14 +38618,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 823 | b3ch16:280 | Lee Jun thought about that for longer than the answer needed. |
 | 839 | b3ch17:270 | Lee Jun asked the only question anybody asked him that week and he asked it on the stairs. |
 | 839 | b3ch17:286 | Lee Jun did not say anything for a moment. |
-| 848 | b3ch18:249 | Lee Jun carried the second box up from the hall in December and asked what was in it. |
+| 848 | b3ch18:269 | Lee Jun carried the second box up from the hall in December and asked what was in it. |
 | 853 | b3ch19:198 | Two men came to Mr Chae's office on the eleventh and Lee Jun was in the hall when they l.. |
 | 853 | b3ch19:218 | "Because I have been told for nine months that nothing we do is against the law." Lee Ju.. |
 | 866 | b3ch22:240 | Lee Jun asked one thing that evening and it was not about any of it. |
 | 866 | b3ch22:250 | Lee Jun thought about that for a moment. |
 | 872 | b3ch26:116 | Mrs Seo put something in front of him at twenty past eight and he ate all of it. Lee Jun.. |
 | 872 | b3ch26:158 | Lee Jun asked one question at half past ten and it was about a licence. |
-| 876 | b3ch27:264 | Lee Jun was in the hall at twenty past eleven and heard the eleven seconds. |
+| 876 | b3ch27:268 | Lee Jun was in the hall at twenty past eleven and heard the eleven seconds. |
 | 879 | b3ch29:256 | Lee Jun did not go and was not asked to. |
 
 ### Zahlen in der Naehe von Lee Jun
@@ -38585,7 +38641,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch22:240` (Tag 866) - one
 - `b3ch26:116` (Tag 872) - eight, twenty
 - `b3ch26:158` (Tag 872) - one, ten
-- `b3ch27:264` (Tag 876) - eleven, twenty
+- `b3ch27:268` (Tag 876) - eleven, twenty
 
 ---
 
@@ -38933,6 +38989,39 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Ryu Seok-won
+
+18 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:166 | He asked Mrs Ryu about the arbitration. He asked her whether she had actually walked out.. |
+| 823 | b3ch16:60 | *Mr Ryu asked that his view be recorded.* |
+| 823 | b3ch16:290 | *Ryu got nine words into the minutes and knew what they were worth.* |
+| 868 | b3ch23:208 | He told Ryu to sell Electronics. |
+| 868 | b3ch23:216 | Ryu Seok-won has been at Hanseong for twenty-six years and he has run the operating side.. |
+| 870 | b3ch24:6 | Ryu Seok-won asked for a meeting through Mr Chae on the Friday evening and it was arrang.. |
+| 870 | b3ch24:36 | "I am not here to give you anything," said Ryu. |
+| 870 | b3ch24:96 | "You have given me the fourth one on purpose," said Ryu. |
+| 870 | b3ch24:118 | Ryu sat with that for a while. |
+| 870 | b3ch24:126 | "That is not a promise," said Ryu. |
+| 870 | b3ch24:152 | Ryu looked at him properly for the first time since he came in. |
+| 870 | b3ch24:166 | "He told me to sell Electronics on Thursday," said Ryu. |
+| 870 | b3ch24:184 | "I am going to tell you what he said to me in December," said Ryu, "and then I am going .. |
+| 870 | b3ch24:196 | "Then he said this. *My father valued your advice, Mr Ryu. He asked you what should be d.. |
+| 870 | b3ch24:202 | "He was polite about it," said Ryu. "That is the part I have not been able to put down." |
+| 870 | b3ch24:358 | *Ryu Seok-won is not doing this for me or for this house.* |
+| 872 | b3ch25:62 | Ryu Seok-won was not there and had not been asked and would not have come. |
+| 872 | b3ch25:258 | *Ryu's note was the only paper in that room that told anybody anything.* |
+
+### Zahlen in der Naehe von Ryu Seok-won
+
+- `b3ch16:290` (Tag 823) - nine
+- `b3ch23:216` (Tag 868) - nine, twenty-six
+- `b3ch24:96` (Tag 870) - one
+
+---
+
 ### Shin
 
 18 Nennungen in 1 Kapiteln.
@@ -39005,7 +39094,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Baek
 
-11 Nennungen in 8 Kapiteln.
+12 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -39015,9 +39104,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | b1ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
 | 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 270 | b2ch39:176 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
 | 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
 | 876 | b3ch28:6 | Mr Baek came himself at ten to six and did not come in. |
-| 876 | b3ch28:22 | "He came into my office on the twenty-ninth of December and sat down and wrote all three.. |
+| 876 | b3ch28:22 | "He came into my office on the twenty-ninth of December and wrote all three of them at m.. |
 | 879 | b3ch29:6 | He signed on the Monday morning at ten past eight, in Mr Baek's office, in eleven places.. |
 | 879 | b3ch29:16 | Mr Baek said one thing on the way out and he said it to the room rather than to either o.. |
 
@@ -39027,6 +39117,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch24:46` (Tag 55) - eight, one
 - `b2ch01:18` (Tag 150) - four, six
+- `b2ch39:176` (Tag 270) - one
 - `b2ch54:66` (Tag 319) - eight, one
 - `b3ch28:6` (Tag 876) - six, ten
 - `b3ch28:22` (Tag 876) - four, three, twenty
@@ -39109,7 +39200,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 876 | b3ch27:40 | Mr Bae has driven him since 2014 and comes at eight on a Saturday because Saturday is th.. |
 | 876 | b3ch27:56 | Mr Bae telephoned the ambulance and then he telephoned the son in Toronto and then he sa.. |
-| 876 | b3ch28:84 | Mr Bae, who has driven him since 2014 and who found him, gets the house in Yangpyeong an.. |
+| 876 | b3ch28:102 | Mr Bae, who has driven him since 2014 and who found him, gets the house in Yangpyeong an.. |
 
 ### Zahlen in der Naehe von Bae
 
@@ -39117,6 +39208,32 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch05:128` (Tag 4) - one, three, two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b3ch27:40` (Tag 876) - eight
+
+---
+
+### Han Yong-seok
+
+9 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 823 | b3ch16:52 | It says that the group stands behind its shipping arm. It is true, and it is the first t.. |
+| 853 | b3ch19:6 | Han Yong-seok did not telephone anybody in the dark. He filed a complaint. |
+| 853 | b3ch19:110 | Han Yong-seok gave him one, and Han Yong-seok will never know what it cost him. |
+| 868 | b3ch23:90 | Han Yong-seok wrote that sentence on the second of February and had it published, and th.. |
+| 868 | b3ch23:196 | Han Yong-seok did the only thing left and he did it on the eighteenth. |
+| 870 | b3ch24:252 | Han Yong-seok did not accept it for two days and then accepted it. |
+| 872 | b3ch25:26 | Han Yong-seok holds nineteen and twenty-two, and the rest is spread. Eleven and nine do .. |
+| 872 | b3ch25:52 | By the Monday afternoon Han Yong-seok's name had stopped appearing on that line, and nob.. |
+| 872 | b3ch25:84 | Han Yong-seok is fifty-three and he came in a suit that fits him. |
+
+### Zahlen in der Naehe von Han Yong-seok
+
+- `b3ch19:110` (Tag 853) - one
+- `b3ch24:252` (Tag 870) - two
+- `b3ch25:26` (Tag 872) - eleven and nine, nineteen and twenty-two
+- `b3ch25:52` (Tag 872) - two
+- `b3ch25:84` (Tag 872) - fifty-three
 
 ---
 
@@ -39169,7 +39286,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Namgung
 
-7 Nennungen in 1 Kapiteln.
+8 Nennungen in 2 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -39180,6 +39297,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 762 | b3ch12:198 | He was there because Mr Namgung has met him twice and does not find him strange, and bec.. |
 | 762 | b3ch12:204 | At the door Mr Namgung said the eleven weeks again. |
 | 762 | b3ch12:236 | "Four times the berth on eleven sailings, and it will be twelve next quarter." Georgij h.. |
+| 848 | b3ch18:153 | Mr Namgung put a second source in front of his board on the nineteenth of January and hi.. |
 
 ### Zahlen in der Naehe von Mr Namgung
 
@@ -39266,6 +39384,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch09:60` (Tag 22) - two
 - `b1ch09:72` (Tag 22) - two
+
+---
+
+### Mr Bae
+
+3 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 876 | b3ch27:40 | Mr Bae has driven him since 2014 and comes at eight on a Saturday because Saturday is th.. |
+| 876 | b3ch27:56 | Mr Bae telephoned the ambulance and then he telephoned the son in Toronto and then he sa.. |
+| 876 | b3ch28:102 | Mr Bae, who has driven him since 2014 and who found him, gets the house in Yangpyeong an.. |
+
+### Zahlen in der Naehe von Mr Bae
+
+- `b3ch27:40` (Tag 876) - eight
 
 ---
 

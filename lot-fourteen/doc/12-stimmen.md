@@ -3423,7 +3423,9 @@ gemeinsame Grund liegt darunter und ist handwerklich: **Akt I und der Anfang
 von Akt II sind Auskunftsszenen**, und wer eine Auskunft schreibt, laesst die
 Figur erklaeren.
 
-**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** **Eingeloest in `b3 ch14`:** Mrs Chun steht bei 10,5, und ihr Blatt sagt, woran das liegt. Nicht
+**Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** **Eingeloest in `b3 ch14`:** Mrs Chun steht bei 10,5, und ihr Blatt sagt, woran das liegt.
+
+**Und der Rest von Band 3, gemessen am 07.09.:** Ryu Seok-won 14,7 ueber fünfundzwanzig Repliken, Woos Sohn 16,0 ueber drei, Mr Baek 15,0 ueber zwei. **Ryu liegt unter Baek Jun-hos 15,7 und damit im Rahmen des Buchs**, aber ueber dem Median. Seine beiden längsten Repliken sind eine Belegschaftsaufzählung und der einzige Satz, den er über sich selbst sagt, und beide bleiben. **Wer nach ihm eine neue Nebenfigur schreibt, misst wieder gegen zwölf.** Nicht
 weil kurz besser ist, sondern weil vier Vielredner hintereinander keine
 Figuren mehr sind, sondern eine Angewohnheit des Schreibenden. Wer eine
 laengere braucht, schreibt vorher hierher, warum ausgerechnet diese es sein

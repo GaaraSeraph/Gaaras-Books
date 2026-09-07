@@ -1,216 +1,302 @@
-Book Three · Chapter 29: The twenty-ninth of February
-Lot Fourteen · Version 1.2 · EN
+# Chapter 29: The twenty-ninth of February
+*Lot Fourteen* · Version 1.4 · EN
 
-Day Eight Hundred and Seventy-Nine · Tuesday 29 February
+## Day Eight Hundred and Seventy-Nine · Tuesday 29 February
 
 He signed on the Monday morning at ten past eight, in Mr Baek's office, in eleven places, and it took four minutes.
+
+---
 
 He did not say anything about it beforehand and he did not say anything about it afterwards.
 
 Annie signed at twenty past. She read every page and he had already read every page, and neither of them mentioned that both of them had.
 
+---
+
 Mr Baek said one thing on the way out and he said it to the room rather than to either of them.
 
 "He told me on the twenty-ninth of December that this would take two years to be signed and that it would be signed in the wrong order."
 
-———
+* * *
 
 The hall was at a hospital in Jung-gu, on the fourth floor, in the largest of the rooms, and it ran from the Saturday to the Tuesday.
+
+---
 
 Six hundred and forty people came through it. Somebody counted, because somebody always counts.
 
 Four generations of one trade came. Men who had been at his table in 1994 came with their sons. The harbourmaster came twice and stood at the back the second time.
 
+---
+
 The son received them all. He is fifty-six and he had not been in that country since 2019. He did it correctly for four days. By the Monday evening he was doing it well, and that is the worst thing about learning it.
 
-———
+* * *
 
 The envelopes go on a table by the door.
+
+---
 
 A man writes his name on the outside and puts inside what his standing and his relation require. It is a formality. It is also an account of who the dead man was, and everybody in that hall has been reading tables like that for forty years.
 
 Georgij did not write one.
 
+---
+
 He could not have. He has no money, he has never had any, and there is no version of that table in which a person of no standing puts down an amount that means something.
+
+---
 
 And this year there is a second reason and it is worse.
 
 He signed eleven pages at ten past eight on the Monday morning. A man who has just been left half of what the dead man built does not go to the door of the hall and put an envelope on a table.
 
+---
+
 There is nothing he could have written on it that would have been true.
 
-———
+* * *
 
 He went on the Tuesday morning only, and he went at seven, before it filled.
+
+---
 
 Mrs Seo's suit fits and he had it on. It is the first thing anybody in that house has bought for him in two and a half years and he has still not said anything to her about it.
 
 He bowed twice at the photograph and did it properly, because a room like that is the last one in which a man ought to be economical.
 
+---
+
 The photograph is from 2016 and Woo is not smiling in it, because he did not, and because the family chose the one that looked like him.
 
-———
+* * *
 
 Annie was there on all four days.
+
+---
 
 She went at six on the Saturday evening, four hours after the envelopes had started arriving, and she was the eleventh person into that room.
 
 She sat at the side, where a person sits who is neither family nor trade, for two hours. She did not speak to anybody except the son and she spoke to him for four minutes.
 
+---
+
 She went again on the Sunday and on the Monday.
 
 On the Monday a man of about seventy came over and asked her whether she was the daughter. She said no. He said that he was sorry, and that she had the face of somebody who was, and she thanked him.
 
+---
+
 She told Georgij about that on the Monday night and did not say why she was telling him.
 
-———
+* * *
 
 Park Sang-hoon came at half past eight with two men and stayed eleven minutes.
+
+---
 
 He wrote on the envelope and put it down. He bowed. He spoke to the son for about ninety seconds and said something that made the son straighten up, and nobody heard what it was.
 
 On the way out he passed within about two metres of the back wall and did not stop and did not turn his head.
 
+---
+
 He raised one hand about as far as his waist and put it down again.
 
 That is the whole of it, and both men understood it, and there was nothing else available in that room to either of them.
 
-———
+* * *
 
 Mr Hwang came at ten and stayed until the end.
+
+---
 
 He is not family and not staff and not a business connection, and he did not know where to stand either. He solved it by helping with the tea for four hours, which nobody asked him to do and nobody stopped.
 
 At one point he took a tray from a woman of about seventy who had been carrying it too long, and she thanked him, and he said that he had worked on the fourth floor.
 
+---
+
 He has worked on that floor since September and the man is dead, and there is no arrangement about what happens to that desk, and there is not going to be one for months.
 
-———
+* * *
 
 The departure was at eleven.
+
+---
 
 There were several hundred people in that corridor and on the stairs, and nobody organised any of it. The order it had is the one such things always have, which is that everybody knows where they belong.
 
 The family at the front. The trade behind them, by seniority, without anybody arranging it.
 
+---
+
 Georgij stood at the back, at the wall, where a man stands for whom there is no clean public line.
 
 He is in the will and his name is not public and will not be public until the spring. He is with Annie and he is not family. He works for nobody and he owns half of a group and neither of those things is a place to stand in a corridor.
 
+---
+
 He has spent two and a half years being extremely good at knowing where to be.
 
-———
+* * *
 
 He had worked out where to stand at about ten past ten and it had taken a while.
+
+---
 
 There is a place in that corridor for a man who worked for the dead man. There is one for a man who did business with him, and one for the family, and one for the friends.
 
 Every one of those places has a distance from the front, and everybody in the building can read it.
 
+---
+
 He does not fit any of them and there is no fifth place. So he took the wall, which is what he has always done and what he is extremely good at.
 
-———
+* * *
 
 Annie was four rows forward and to the left, where she belonged.
+
+---
 
 She turned round at about five to eleven, which nobody does, and found him at the wall, and looked at him for about two seconds.
 
 Then she came back through the people.
 
+---
+
 She did not say anything. She did not say his name and she did not explain it and she did not look at anybody else on the way.
 
 She came and stood beside him at the wall, on his left, so that both of them were facing the same way.
 
+---
+
 Then she put her hand into his.
 
-———
+* * *
 
 He looked down at their hands.
+
+---
 
 That is not evasion and it is not shock. He is in a room with several hundred people and a photograph and a wall at his back, and a woman has done something that four hundred of them can see. He looked at it, because looking at a thing is what he does first.
 
 He waited about a second and a half.
 
+---
+
 Then he closed his hand around hers, where everyone could see it.
 
-———
+* * *
 
-In Band Two she held her hand out to him and he did not take it.
+Nine months ago she held her hand out to him and he did not take it.
+
+---
 
 He kissed her fingertips instead, and that was the whole of what he could do that night, and both of them knew what it was.
 
 That was the sixteenth of May, in a house, with nobody watching.
 
+---
+
 This is a corridor on the fourth floor of a hospital in Jung-gu with six hundred and forty people in the building and a coffin coming through in four minutes.
 
 He did not let go until it had gone past.
 
+---
+
 She went back to where she belonged when the corridor started to move. She did it four minutes later than she would have, and she did not look at him again in that building.
 
-———
+* * *
 
 He did not go to the ground.
+
+---
 
 Woo is going next to his wife on a hill an hour outside the city. The family cars went at eleven and there were eleven of them.
 
 Georgij went as far as the car park and stood there until they had turned onto the road, which took four minutes because the exit is single-file. Then he went and got a bus.
 
+---
+
 He has been to that hill once. He knows what the last six hundred metres of that road are like, and he knows how long eleven cars will take on them.
 
-———
+* * *
 
 Nobody said anything about it that day.
+
+---
 
 Eleven people saw it who matter and about two hundred saw it who do not, and by Thursday it was in one newspaper as a sentence in a paragraph about who had attended.
 
 The sentence has her name in it and does not have his, because nobody there knew it.
 
-———
+* * *
 
 Gong Doo-hyun was not in that building and had no reason to be.
+
+---
 
 On the twenty-fifth of February a retired prosecutor of seventy-one attended his office by appointment and brought an appointment diary that has been kept complete since 1988.
 
 He was asked about eleven entries. He answered all eleven and asked, at the end, whether he might have a copy of the record of his own interview, and was told that he might, and it was given to him.
 
+---
+
 Nothing happened in February.
 
 What happened in February is the thing that ends him, and it is going to take until the spring. The man who takes that office afterwards is the third from the left in a photograph on a windowsill in Seocho.
 
+---
+
 He is fifty-eight. He has never met Georgij and he never will.
 
-———
+* * *
 
 Lee Jun did not go and was not asked to.
+
+---
 
 He was in that house for eleven hours on the Tuesday with the two women and the man at the gate. He answered the telephone forty-one times and he wrote down all forty-one.
 
 He gave the list in at seven. It is in order and it is correct.
 
-At the bottom of it he had written one more line, which nobody had asked him for.
+---
 
-Nothing needed you today.
+At the bottom of it he had written one more line that was not on the list.
 
-———
+*Nothing needed you today.*
+
+* * *
 
 There are fifty-eight names and there are twelve.
+
+---
 
 Moon Hae-sook was in the chair by the kitchen garden when they got back, with the blanket, and she asked how many people had come.
 
 She was told six hundred and forty.
 
+---
+
 "That is a great many for a man who never had a title," she said. "Somebody ought to write that down."
 
 "It is written down."
 
+---
+
 "Not in there," said Moon Hae-sook. "Somewhere a person could find it."
 
-———
+* * *
 
 He went up at about ten and the house did the things it does at ten.
+
+---
 
 He opened the book at the twenty-ninth of February, which is a page that will not exist again for four years, and he sat with it open for a while.
 
 Then he wrote one line, and it is the only line, and he did not write it about the will or about the corridor or about the six hundred and forty.
 
-He asked whether the man who repairs the crane had been paid.
+---
+
+*He asked whether the man who repairs the crane had been paid.*

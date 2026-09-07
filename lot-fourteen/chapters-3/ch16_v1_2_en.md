@@ -1,5 +1,5 @@
 # Chapter 16: Comfort
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eight Hundred and Twenty-Three · Tuesday 4 January
 
@@ -105,7 +105,7 @@ Mr Hwang said that he would listen and that he would not advise.
 
 ---
 
-"I have. In writing, on the thirtieth, and I have put it to my committee, and my committee thinks I am making work." He was not complaining about it. "They have to answer me in writing and they have twenty days. I would like somebody to know that I asked."
+"I have. In writing, on the thirty-first of December, and I have put it to my committee, and my committee thinks I am making work." He was not complaining about it. "They have to answer me in writing and they have twenty days. I would like somebody to know that I asked."
 
 * * *
 
@@ -289,7 +289,7 @@ Georgij wrote three lines in the book at about ten.
 
 *Ryu got nine words into the minutes and knew what they were worth.*
 
-*The man in Busan asked on the thirtieth. Twenty days.*
+*The man in Busan asked on the thirty-first. Twenty days.*
 
 ---
 

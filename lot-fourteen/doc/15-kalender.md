@@ -87,6 +87,20 @@ seit Band 1 im Werkzeug festgeschrieben ist.**
 | **Band 3, Kapitel 13** - das Ventil auf dem Stapel, Mr Bok sagt Seoul zweimal, und Lee Jun hoert es | 774 | Di **16. November 2027** |
 | **Band 3, Kapitel 14** - die Forderung, die zwei Briefe, und Zeile neunzehn kommt an die Tuer | 788 | Di **30. November 2027** |
 | **Band 3, Kapitel 15** - Sang-hoon stellt sie vor die Wahl, das entwertete Blatt, der Wangenkuss. **Bandmitte** | 802 | Di **14. Dezember 2027** |
+| **Band 3, Kapitel 16** *Comfort* - Credit leiht Shipping 120 Milliarden, Motors garantiert, Ryu bekommt neun Woerter ins Protokoll | 823 | Di **4. Januar 2028** |
+| **Band 3, Kapitel 17** *Four minutes* - die Antwort um acht, der erste Auftrag um neun Uhr zwoelf, die Fuenfprozentmeldung | 839 | Do **20. Januar 2028** |
+| **Band 3, Kapitel 18** *The other bank* - vierhundert Milliarden gegen vier, vier Saetze an den Vorstand, und die Kette in Singapur | 848 | Sa **29. Januar 2028** |
+| **Band 3, Kapitel 19** *The complaint* - Hans Anzeige, neun Seiten, jeder Punkt wahr, und Gong nimmt sie selbst | 853 | Do **3. Februar 2028** |
+| **Band 3, Kapitel 20** *What he was* - Georgij sagt dem Mann, der Choi begraben hat, was Choi war | 861 | Fr **11. Februar 2028** |
+| **Band 3, Kapitel 21** *The ninth of September* - das Grab von Woo Mi-sook, die zwanzig Prozent, und was neun Monate Nichtfragen gekostet haben | 863 | So **13. Februar 2028** |
+| **Band 3, Kapitel 22** *No other word* - Gong verliert die Akte, Yeom sagt das Wort, der Pachtvertrag von 2009 | 866 | Mi **16. Februar 2028** |
+| **Band 3, Kapitel 23** *The bulletin* - vierhundertzehntausend Fahrzeuge, zwoelf Prozent und neun, und es gibt keinen Satz | 868 | Fr **18. Februar 2028** |
+| **Band 3, Kapitel 24** *Eleven thousand* - Ryu Seok-won fragt eine Frage und geht nach Hause | 870 | So **20. Februar 2028** |
+| **Band 3, Kapitel 25** *A bigger pile of the same wood* - die Geschwister, der Spiegelraum, die Rede und die Guidance-Frage | 872 | Di **22. Februar 2028** |
+| **Band 3, Kapitel 26** *You have not eaten* - **der Kuss auf den Mund**, am Abend desselben Tages | 872 | Di **22. Februar 2028** |
+| **Band 3, Kapitel 27** *Thirteen days* - Woo stirbt im Schlaf, und Georgij hat am zweiundzwanzigsten nicht angerufen | 876 | Sa **26. Februar 2028** |
+| **Band 3, Kapitel 28** *Refusal is also a signature* - die drei Briefe, fuenfzig zu fuenfzig, und Regel 2 bricht | 876 | Sa **26. Februar 2028** |
+| **Band 3, Kapitel 29** *The twenty-ninth of February* - die Beisetzung, und sie nimmt seine Hand vor mehreren hundert Leuten. **Bandende** | 879 | Di **29. Februar 2028** |
 
 **Band 1 spielt also im Herbst und Winter 2025/26. Band 2 laeuft vom 2. Maerz
 2026 bis zum 16. Mai 2027 und damit ueber die Jahresgrenze**; die Kapitel 76 bis

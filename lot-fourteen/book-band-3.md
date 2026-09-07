@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 29 Kapitel, 60.382 Woerter.
+Book Three, 29 Kapitel, 60.640 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -26,20 +26,20 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 13 | v1.10 | 2.075 |
 | 14 | v1.13 | 2.115 |
 | 15 | v1.10 | 2.274 |
-| 16 | v1.1 | 2.061 |
-| 17 | v1.2 | 2.060 |
-| 18 | v1.1 | 2.001 |
+| 16 | v1.2 | 2.063 |
+| 17 | v1.4 | 2.061 |
+| 18 | v1.3 | 2.160 |
 | 19 | v1.1 | 2.028 |
-| 20 | v1.1 | 2.007 |
+| 20 | v1.2 | 2.005 |
 | 21 | v1.2 | 2.020 |
-| 22 | v1.1 | 2.008 |
-| 23 | v1.3 | 2.053 |
-| 24 | v1.2 | 2.028 |
-| 25 | v1.1 | 2.039 |
-| 26 | v1.2 | 2.006 |
-| 27 | v1.3 | 2.101 |
-| 28 | v1.1 | 2.021 |
-| 29 | v1.2 | 2.083 |
+| 22 | v1.2 | 2.004 |
+| 23 | v1.6 | 2.047 |
+| 24 | v1.4 | 2.031 |
+| 25 | v1.4 | 2.037 |
+| 26 | v1.4 | 2.005 |
+| 27 | v1.5 | 2.099 |
+| 28 | v1.4 | 2.131 |
+| 29 | v1.4 | 2.083 |
 
 ---
 
@@ -3879,7 +3879,7 @@ He did not write the other thing down.
 ---
 
 # Book Three · Chapter 16: Comfort
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eight Hundred and Twenty-Three · Tuesday 4 January
 
@@ -3955,7 +3955,7 @@ Mr Hwang said that he would listen and that he would not advise.
 
 "Then ask them."
 
-"I have. In writing, on the thirtieth, and I have put it to my committee, and my committee thinks I am making work." He was not complaining about it. "They have to answer me in writing and they have twenty days. I would like somebody to know that I asked."
+"I have. In writing, on the thirty-first of December, and I have put it to my committee, and my committee thinks I am making work." He was not complaining about it. "They have to answer me in writing and they have twenty days. I would like somebody to know that I asked."
 
 * * *
 
@@ -4091,7 +4091,7 @@ Georgij wrote three lines in the book at about ten.
 
 *Ryu got nine words into the minutes and knew what they were worth.*
 
-*The man in Busan asked on the thirtieth. Twenty days.*
+*The man in Busan asked on the thirty-first. Twenty days.*
 
 He looked at the third one and did not underline it, because he does not do that.
 
@@ -4100,7 +4100,7 @@ The twentieth day is the twentieth of January. It is going to arrive whether any
 ---
 
 # Book Three · Chapter 17: Four minutes
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Eight Hundred and Thirty-Nine · Thursday 20 January
 
@@ -4250,7 +4250,7 @@ On the second of the four she crossed five per cent.
 
 A holder who crosses five per cent of a listed company files a report, and the report names the person behind the company.
 
-It went in on the twenty-sixth of January, five business days after the crossing, as the rule requires. It is one page. It has her name on it.
+It went in on the twenty-sixth of January, which is the day after the crossing and four days sooner than the rule requires. It is one page. It has her name on it.
 
 That is the first time in nine months that any part of this has been done in public under a name.
 
@@ -4320,7 +4320,7 @@ Lee Jun did not say anything for a moment.
 
 * * *
 
-Georgij wrote two lines in the book at about ten.
+Two lines went in that night.
 
 *Nine months of nothing ended at nine twelve on a Thursday and the room was empty.*
 
@@ -4333,7 +4333,7 @@ Under the second one he wrote the thing he did not want to write and wrote it an
 ---
 
 # Book Three · Chapter 18: The other bank
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Eight Hundred and Forty-Eight · Saturday 29 January
 
@@ -4446,6 +4446,20 @@ Mr Chae drafted it and took two days over four sentences.
 
 * * *
 
+Mr Namgung put a second source in front of his board on the nineteenth of January and his board approved it.
+
+He said in November that he would have to, and he said it while he was thanking her, and he has now done it.
+
+From April about sixty per cent of that business goes to a works in Gyeonggi that has wanted it since 2019. It is nineteen years of custom and eight of them are hers, and it is not coming back, because a board that has approved a second source does not un-approve one.
+
+He telephoned himself on the twentieth to say so, which he did not have to do, and which took him four minutes and cost him something to do.
+
+Two of the other ten have written since. Neither of them has done anything yet and both of them will.
+
+That is what the charter cost, and it is not the money.
+
+* * *
+
 Hanseong announced something on the second of February and the shape of it is the whole of it.
 
 Hanseong Electronics will provide Hanseong Motors with a working capital facility of two hundred billion won, in support of what the announcement calls the group's core industrial platform.
@@ -4542,7 +4556,7 @@ Nobody in that house has ever met any of the ten.
 
 * * *
 
-Georgij wrote three lines in the book at about ten.
+Three lines before he went up.
 
 *Four hundred against four, and the second number is a court's.*
 
@@ -4762,7 +4776,7 @@ A file that travels to four hundred people is a file that four hundred people wi
 ---
 
 # Book Three · Chapter 20: What he was
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eight Hundred and Sixty-One · Friday 11 February
 
@@ -4984,7 +4998,7 @@ One went to the ministry, for the visitor records of a building in Sejong betwee
 
 The third went to a retired prosecutor in Seodaemun who has kept one room since 2011. It asked him to attend on the twenty-fifth of February and to bring his appointment diary.
 
-Seol Gwan-ik telephoned nobody about it. He wrote back the same day, agreed the date, and added one line that nobody had asked him for.
+Seol Gwan-ik telephoned nobody about it. He wrote back the same day, agreed the date, and added one line that was not required.
 
 *I have kept the diary since 1988 and it is complete.*
 
@@ -5226,7 +5240,7 @@ She asked him where he had been and he told her the truth, which is that he had 
 ---
 
 # Book Three · Chapter 22: No other word
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eight Hundred and Sixty-Six · Wednesday 16 February
 
@@ -5430,7 +5444,7 @@ That has been written down twice: once in the file, where it belongs, and once a
 
 * * *
 
-Two lines in the book at about ten.
+Two lines that night.
 
 *Nine to fourteen empty ones. The tooling is not theirs and has not been since 2009.*
 
@@ -5443,7 +5457,7 @@ Under the second one there is a third line that was written later, in different 
 ---
 
 # Book Three · Chapter 23: The bulletin
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Eight Hundred and Sixty-Eight · Friday 18 February
 
@@ -5473,7 +5487,7 @@ It was sent to the defect investigation bureau with a covering letter of six lin
 
 The letter is from a foreign national with no standing and no interest in any vehicle of that make. It says where he got the bulletin, which is from workshops, in the ordinary course of asking them about their business. It gives his own name and address. It asks for nothing.
 
-The bureau acknowledged it on the fourteenth. Then it did what a bureau does, which is to obtain the bulletin independently from four workshops of its own choosing, and to buy two of the pumps, and to take ninety-nine days.
+The bureau acknowledged it on the fourteenth. Then it did what a bureau does, which is to obtain the bulletin independently from four workshops of its own choosing, and to buy two of the pumps, and to take ninety-eight days.
 
 Nobody was telephoned. Nobody was owed anything. There is a letter in a file with a name at the bottom of it and anybody may read it.
 
@@ -5599,7 +5613,7 @@ He told Ryu to sell Electronics.
 
 That is the one instruction that man will not carry out, and the reason is not loyalty to anybody.
 
-Ryu Cheol-min has been at Hanseong for twenty-six years and he has run the operating side of it for nine. He did not build the group and he does not own any of it, and he has never once been asked what he thinks about anything that was not a plant.
+Ryu Seok-won has been at Hanseong for twenty-six years and he has run the operating side of it for nine. He did not build the group and he does not own any of it, and he has never once been asked what he thinks about anything that was not a plant.
 
 What he has is four factories, eleven thousand people, and a set of numbers he can make come out.
 
@@ -5623,7 +5637,7 @@ There is nothing left on it that anybody has to be told.
 
 * * *
 
-Georgij wrote four lines in the book at about ten.
+Four lines that evening.
 
 *Twelve and nine. The second day is people reading the second page.*
 
@@ -5638,17 +5652,19 @@ The fourth line is not about any of it.
 ---
 
 # Book Three · Chapter 24: Eleven thousand
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Eight Hundred and Seventy · Sunday 20 February
 
-Ryu Cheol-min asked for a meeting through Mr Chae on the Friday evening and it was arranged for a Sunday.
+Ryu Seok-won asked for a meeting through Mr Chae on the Friday evening and it was arranged for a Sunday.
 
 Not because a Sunday is discreet. Because a serving officer of Hanseong who walks into a lawyer's office on a working day has resigned by lunchtime whether he meant to or not, and because he had not decided.
 
 It was Mr Chae's office and Mr Chae was in it, at the far end, with the door open, taking no part.
 
-He is sixty-one. He is the sort of man who is thinner than he was and does not know it, and he came in a coat he has had a long time and did not take it off.
+He is sixty-one. He is thin, and quiet, and he wears round glasses, and a man who did not know would take him for the person who writes the minutes.
+
+He came in a coat he has had a long time and did not take it off.
 
 * * *
 
@@ -5880,7 +5896,7 @@ Mr Chae said one thing after the door shut on the Sunday and did not mention it 
 
 * * *
 
-Georgij wrote three lines in the book at about ten.
+Three lines before eleven.
 
 *Eleven thousand. Four nine, two two, two four, fifteen hundred, eight hundred agency.*
 
@@ -5890,12 +5906,12 @@ Georgij wrote three lines in the book at about ten.
 
 Under the third one he wrote the piece of paper he had promised at the door, in the same words, and he wrote it that night so that it would be dated the twentieth and not later.
 
-*Ryu Cheol-min is not doing this for me or for this house.*
+*Ryu Seok-won is not doing this for me or for this house.*
 
 ---
 
 # Book Three · Chapter 25: A bigger pile of the same wood
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Eight Hundred and Seventy-Two · Tuesday 22 February
 
@@ -5937,9 +5953,9 @@ By the Monday afternoon Han Yong-seok's name had stopped appearing on that line,
 
 The last of the profitable companies went on a Tuesday morning, in a room with a long table, with four lawyers and two directors in it.
 
-Annie was at the near end because she owns it. Georgij stood at the end of the room where he stands.
+Annie was at the near end because she owns it. Georgij went to the far end and stayed there.
 
-Ryu Cheol-min was not there and had not been asked and would not have come.
+Ryu Seok-won was not there and had not been asked and would not have come.
 
 There is a note in the pack with his initials at the bottom of nineteen pages. Everybody in that room read it in the first four minutes. It is the only document in the whole of it that tells anybody how anything actually works.
 
@@ -6033,7 +6049,7 @@ In the corridor she stopped for about four seconds and looked at the door of the
 
 "Say what you are thinking," said Georgij.
 
-"That there are eleven thousand people at four plants and I have just found out that nine hundred of them are at a company I now control." She did not look away from the door. "And that the man in that room could not have told me the number."
+"That there are eleven thousand people at four plants, and that as of about four minutes ago every one of them works for a company I control." She did not look away from the door. "And that the man in that room could not have told me the number."
 
 * * *
 
@@ -6084,13 +6100,13 @@ Three lines at about ten, and the first two are short.
 ---
 
 # Book Three · Chapter 26: You have not eaten
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Eight Hundred and Seventy-Two · Tuesday 22 February
 
 The afternoon of a morning like that is a list, and the list is longer than the morning.
 
-Nine hundred people at a plant in Gumi found out at two o'clock who owns the company they work for. It was a notice on a wall and it is four sentences long. Three of the four are about the pension scheme, because that is what people ask first.
+Two thousand two hundred people at a plant in Gumi found out at two o'clock who owns the company they work for. It was a notice on a wall and it is four sentences long. Three of the four are about the pension scheme, because that is what people ask first.
 
 Two hundred and eleven software licences have to be novated and four of them cannot be, because the company that holds them has nobody in it to sign.
 
@@ -6142,7 +6158,7 @@ It is not a short one. She does not step back at the end of the first part of it
 
 Georgij stopped somewhere in the first second and did not start again.
 
-The sentence about the licences was gone. The paper was gone. The thing behind that face that counts everything had nothing in it at all, and there was no fourth part of the report, and there had never been a room in Jung-gu that morning.
+The sentence about the licences was gone. The paper was gone. Nothing in him was counting and nothing in him was going to, and there was no fourth part of the report, and there had never been a room in Jung-gu that morning.
 
 His hands came up late.
 
@@ -6178,7 +6194,7 @@ He tried to work out what it had been for and got about eleven seconds into it.
 
 Every action he has ever watched has had a purpose in it. He can usually find the purpose, and he finds it faster than the person who acted.
 
-He got as far as noticing that there was nothing she wanted, nothing she needed him to do, nobody watching and nothing on the table. Her whole afternoon had been about nine hundred people in Gumi.
+He got as far as noticing that there was nothing she wanted, nothing she needed him to do, nobody watching and nothing on the table. Her whole afternoon had been about two thousand two hundred people in Gumi.
 
 Then he stopped, and it was not because he could not do it.
 
@@ -6186,7 +6202,7 @@ He had understood at about the tenth second that finding the purpose would be th
 
 * * *
 
-Mrs Seo has run that house since before he came to it.
+Mrs Seo was in that house before he was.
 
 She has watched him eat at that table perhaps nine hundred times. On the twenty-second of February she watched him eat a whole plate of something and put his hand out twice for a glass that was on the other side.
 
@@ -6297,7 +6313,7 @@ Then he put the pen back in the tray and shut the book, and the page for the twe
 ---
 
 # Book Three · Chapter 27: Thirteen days
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eight Hundred and Seventy-Six · Saturday 26 February
 
@@ -6399,7 +6415,7 @@ Annie did not say anything at all.
 
 "Say the rest of it."
 
-"I stood on a hill with him on the thirteenth of February and he told me that there are four people left alive who will let him do something for them." He had not moved from where he was standing. "And on the twenty-second I did not spend eleven seconds telling him myself."
+"I stood on a hill with him on the thirteenth of February and he told me what nine months of not asking him for anything had cost him." He had not moved from where he was standing. "And on the twenty-second I did not spend eleven seconds telling him myself."
 
 "Why not."
 
@@ -6475,7 +6491,9 @@ He telephoned Annie himself on the Sunday afternoon, which he did not have to do
 
 He asked one other thing, at the end, and he did not know that he was asking it.
 
-"There is a man who used to work in my father's building," he said. "Not an employee. My father spoke about him perhaps four times and never used his name."
+"There is a man who used to work in my father's building," he said. "Not an employee."
+
+"My father spoke about him perhaps four times and never used his name."
 
 "I know who you mean."
 
@@ -6546,7 +6564,7 @@ Nothing was done about them in the last week of February. That is the third week
 ---
 
 # Book Three · Chapter 28: Refusal is also a signature
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Eight Hundred and Seventy-Six · Saturday 26 February
 
@@ -6558,9 +6576,21 @@ He is sixty-four and he has held that envelope since the twenty-ninth of Decembe
 
 He gave three envelopes to Annie in the hall, and he said that he had not read any of them and did not know what was in them, which is true and which he said because people ask.
 
-Then he said the other thing, which nobody had asked him.
+Then he said the other thing, and nobody had asked for it.
 
-"He came into my office on the twenty-ninth of December and sat down and wrote all three of them at my table," said Mr Baek. "It took him four hours. He would not use my pen."
+"He came into my office on the twenty-ninth of December and wrote all three of them at my table," said Mr Baek. "It took him four hours."
+
+He had his hat in his hand and he had not put it back on.
+
+"He would not use my pen."
+
+* * *
+
+The twenty-ninth of December that year is a Monday, and there is something else on it.
+
+At half past ten that morning Park Sang-hoon telephoned this house and was given two o'clock. He arrived at four minutes to. At about three he offered two billion two hundred million won for a man who was standing at the end of the room.
+
+Nobody has ever put those two facts next to each other, because until ten to six on the twenty-sixth of February there was nobody alive who had both of them.
 
 * * *
 
@@ -6646,7 +6676,7 @@ It is a sentence in a letter from a dead man and it is the strongest thing in th
 
 "December two years ago."
 
-"He decided it eleven weeks after he met me."
+"He decided it two months after he met me."
 
 * * *
 
@@ -6772,7 +6802,7 @@ Mr Chae worked it out on the Sunday and brought it up on the Monday and did not 
 
 Two lines in the book at about midnight, and they are the only two.
 
-*He wrote them on the twenty-ninth of December, eleven weeks after we met, and would not use the man's pen.*
+*He wrote them on the twenty-ninth of December, two months after we met, and would not use the man's pen.*
 
 *Refusal is also a signature.*
 
@@ -6781,7 +6811,7 @@ Under them there is a third mark that is not a line and not a word, and it is th
 ---
 
 # Book Three · Chapter 29: The twenty-ninth of February
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Eight Hundred and Seventy-Nine · Tuesday 29 February
 
@@ -6917,7 +6947,7 @@ Then he closed his hand around hers, where everyone could see it.
 
 * * *
 
-In Band Two she held her hand out to him and he did not take it.
+Nine months ago she held her hand out to him and he did not take it.
 
 He kissed her fingertips instead, and that was the whole of what he could do that night, and both of them knew what it was.
 
@@ -6969,7 +6999,7 @@ He was in that house for eleven hours on the Tuesday with the two women and the 
 
 He gave the list in at seven. It is in order and it is correct.
 
-At the bottom of it he had written one more line, which nobody had asked him for.
+At the bottom of it he had written one more line that was not on the list.
 
 *Nothing needed you today.*
 

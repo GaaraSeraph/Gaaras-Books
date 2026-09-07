@@ -136,7 +136,9 @@ auftaucht, und sie muss verdient sein.
 Tag 46 nicht benutzt worden, und die Stelle, an der es wieder auftaucht, steht
 seit dem 06.09. im Buch: `b3 ch05`, Tag 672, Mr Hwang an der Tuer.
 
-**Das zweite steht seit dem 06.09. in `b3 ch15:340`, Tag 802**, und es haelt die drei Regeln von selbst. Es ist Abschnitt IV, es liegen zehn Kapitel dazwischen statt der geforderten zwei, und die Probe faellt richtig aus: **er holt damit nichts, er verhindert es nicht einmal.** *"A small smile got out. He was holding a much larger one down and he was not managing all of it."* Damit stehen in Band 3 zwei Laecheln in fuenfzehn Kapiteln, und beide gehoeren ihm.
+**Das zweite steht seit dem 06.09. in `b3 ch15:340`, Tag 802**, und es haelt die drei Regeln von selbst. Es ist Abschnitt IV, es liegen zehn Kapitel dazwischen statt der geforderten zwei, und die Probe faellt richtig aus: **er holt damit nichts, er verhindert es nicht einmal.** *"A small smile got out. He was holding a much larger one down and he was not managing all of it."* Damit stehen in Band 3 zwei Laecheln in neunundzwanzig Kapiteln, und beide gehoeren ihm.
+
+**Nachgemessen am 07.09. ueber `ch16` bis `ch29`: keins.** In den vierzehn Kapiteln nach der Bandmitte gibt es drei Treffer und keiner ist seiner: Woo am Telefon (*something at the other end that was not quite a laugh*), Yeoms Ding mit dem Mund, das nicht das Empfangslaecheln ist, und ein Foto, auf dem Woo nicht laechelt. **Der Mundkuss bekommt keins**, und das ist richtig: `doc/10` gibt den Ausfall des Zaehlwerks dem Wangenkuss, und wer ihn zweimal schreibt, halbiert beide.
 
 **Und die Formel aus `doc/10` ist an derselben Stelle eingeloest.** *something went across his face and did not stay* steht dreimal im Buch, in `b1 ch33`, `b2 ch49` und `b2 ch64`. In `b3 ch15` steht **es blieb**, und das ist das einzige Mal.
 

@@ -1,5 +1,13 @@
 # Plan, Band 3
 
+**Geschrieben. Am 07.09. ist Band 3 zu Ende erzaehlt: neunundzwanzig Kapitel, Tag 592 bis Tag 879, 18. Mai 2027 bis Dienstag der 29. Februar 2028.** Alle sechzehn Punkte des Geruests stehen im Buch. Was dieses Dokument ab hier ist, ist der Beleg dafuer, warum es so und nicht anders steht, und die Fundgrube fuer Band 4.
+
+**Drei Stellen sind beim Schreiben anders ausgefallen als geplant, und alle drei sind im Text begruendet.**
+
+1. **Motors wird nicht gekauft, sondern die Familienpakete kommen von selbst.** Der Plan liess Annie die profitablen Einheiten kaufen. Geschrieben ist es haerter: drei der vier Geschwister lassen am 19. Februar durch einen Anwalt anfragen, und niemand aus diesem Haus hat je mit einem von ihnen gesprochen, weil ein Mann, der den Bruder eines Chaebol-Inhabers anspricht, einen Raid faehrt. **Georgij sagt zweimal ausdruecklich, dass er das nicht gebaut hat.**
+2. **Gongs Sturz ist am Bandende nicht vollzogen, sondern entschieden.** Der Band endet am 29. Februar; der Kompetenzentzug ist am 15. Februar, die Ausweitung auf Seol, die Ministerien und die Hafenbehoerde ab dem 15., und `b3 ch29` sagt den Rest voraus, ohne ihn zu zeigen. **Das Amt gehoert am Bandende dem dritten von links auf einem Foto in Seocho.**
+3. **Der Kalender ist enger als der Plan.** Akt II und III laufen vom 4. Januar bis zum 29. Februar 2028, weil ein Boersenzug in Tagen und nicht in Monaten laeuft, sobald die Maschine einmal steht. Damit bleibt das Bandende im Winter, wie festgelegt, und Mrs Seos Frist an Tag 897 faellt wie vorgesehen in Band 4.
+
 **Der Chaebol-Angriff.** Herausgeloest am 29.08. aus dem gewachsenen
 Sammeldokument. Band 4 steht in `33-plan-band-4.md`, Band 5 in
 `34-plan-band-5.md`, Band 6 in `35-plan-band-6.md`.

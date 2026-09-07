@@ -57,6 +57,13 @@ eine Frist mit Wochentag, die sechs Tage spaeter faellt. B3 10 steht
 deshalb ebenfalls von Hand im Buch. **Wer das Muster erweitert, testet es
 gegen Band 1 und 2 auf Regression**, denn *on Monday* steht dort oft und
 meint meistens keine Zusage.
+
+**Dritte Blindstelle, gefunden am 07.09. an `B3 11`:** eine Frist, die
+als Monatsname eingetragen ist (*faellig im Januar 2028*), wird von keiner
+der sechs Listen aufgenommen. Der Posten ist nicht ueberfaellig und nicht
+offen und nicht bezahlt; er ist gar nicht da. **Wer den Stand liest und
+das Schuldbuch nicht danebenlegt, haelt einen Posten fuer erledigt, der
+nie gemeldet wurde.**
 """
 import os
 import re

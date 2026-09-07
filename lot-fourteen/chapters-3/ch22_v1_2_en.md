@@ -1,5 +1,5 @@
 # Chapter 22: No other word
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eight Hundred and Sixty-Six · Wednesday 16 February
 
@@ -283,7 +283,7 @@ That has been written down twice: once in the file, where it belongs, and once a
 
 * * *
 
-Two lines in the book at about ten.
+Two lines that night.
 
 *Nine to fourteen empty ones. The tooling is not theirs and has not been since 2009.*
 
