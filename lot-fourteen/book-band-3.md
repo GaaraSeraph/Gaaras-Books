@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 29 Kapitel, 60.640 Woerter.
+Book Three, 29 Kapitel, 60.901 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -26,20 +26,20 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 13 | v1.10 | 2.075 |
 | 14 | v1.13 | 2.115 |
 | 15 | v1.10 | 2.274 |
-| 16 | v1.2 | 2.063 |
-| 17 | v1.4 | 2.061 |
+| 16 | v1.3 | 2.066 |
+| 17 | v1.5 | 2.057 |
 | 18 | v1.3 | 2.160 |
-| 19 | v1.1 | 2.028 |
+| 19 | v1.3 | 2.286 |
 | 20 | v1.2 | 2.005 |
 | 21 | v1.2 | 2.020 |
 | 22 | v1.2 | 2.004 |
-| 23 | v1.6 | 2.047 |
-| 24 | v1.4 | 2.031 |
-| 25 | v1.4 | 2.037 |
+| 23 | v1.7 | 2.047 |
+| 24 | v1.5 | 2.032 |
+| 25 | v1.5 | 2.040 |
 | 26 | v1.4 | 2.005 |
-| 27 | v1.5 | 2.099 |
-| 28 | v1.4 | 2.131 |
-| 29 | v1.4 | 2.083 |
+| 27 | v1.7 | 2.099 |
+| 28 | v1.5 | 2.131 |
+| 29 | v1.5 | 2.083 |
 
 ---
 
@@ -3879,7 +3879,7 @@ He did not write the other thing down.
 ---
 
 # Book Three · Chapter 16: Comfort
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Eight Hundred and Twenty-Three · Tuesday 4 January
 
@@ -4045,7 +4045,7 @@ He had put the December numbers of the four-ship partner next to those of Hanseo
 
 "That is not in the six tables," said Georgij.
 
-"No. It is in the one I made on Saturday because I could not leave it alone." Mr Hwang put his coat over his arm, which is what he does instead of sitting down. "I have been doing this for thirty-one years and I have never once been paid to be right about a thing four months early."
+"No. It is in the one I made on Saturday because I could not leave it alone." Mr Hwang put his coat over his arm, which is what he does instead of sitting down. "I have been keeping other people's things since I was thirty and I have never once been paid to be right about a thing four months early."
 
 "You are not being paid for it now."
 
@@ -4100,7 +4100,7 @@ The twentieth day is the twentieth of January. It is going to arrive whether any
 ---
 
 # Book Three · Chapter 17: Four minutes
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eight Hundred and Thirty-Nine · Thursday 20 January
 
@@ -4294,7 +4294,7 @@ The Ulsan company is now the third shipper to have printed the port authority re
 
 "No."
 
-"I have been doing this for thirty-two years and I have never once seen a thing come loose on its own." He put the pages down square. "I would like it noted that I do not enjoy watching it."
+"I have never once seen a thing come loose on its own, and I have been looking." He put the pages down square. "I would like it noted that I do not enjoy watching it."
 
 * * *
 
@@ -4571,7 +4571,7 @@ The hill is an hour outside the city if the bridge is kind.
 ---
 
 # Book Three · Chapter 19: The complaint
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Eight Hundred and Fifty-Three · Thursday 3 February
 
@@ -4740,6 +4740,32 @@ Georgij looked at the road.
 "And that is not the same as being all right."
 
 "No," said Georgij. "It is not, and I am glad you did not need me to say it."
+
+* * *
+
+Jang came up on the twelfth for the first time since August.
+
+He has been on the coast since the summer with the thing that is not this and that nobody in that house discusses in a corridor. He came back for a day because two men had been in a lawyer's office and he had heard about it from the wrong person.
+
+"Who told you," said Georgij.
+
+"A man at the gate who has worked here for six years and who telephoned me because he did not know whether he was supposed to."
+
+"He was not supposed to and he was right to."
+
+"That is what I told him." Jang did not sit down either. "I am going to say one thing and then I am going back."
+
+"Say it."
+
+"There is nothing for me to do about a prosecutor." He had thirty years of not saying more than that. "If somebody comes over a wall I am useful. Nobody is coming over a wall. They are going to write to us."
+
+"That is correct."
+
+"Then do not let anybody in this house tidy anything." He was already at the door. "That is the only way it goes wrong, and it will not be you who does it, it will be somebody who thinks they are helping."
+
+The instruction went out that afternoon in eleven words and it went to everybody, including the two women in the kitchen.
+
+*Nothing is thrown away in this house until further notice.*
 
 * * *
 
@@ -5457,7 +5483,7 @@ Under the second one there is a third line that was written later, in different 
 ---
 
 # Book Three · Chapter 23: The bulletin
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Eight Hundred and Sixty-Eight · Friday 18 February
 
@@ -5607,13 +5633,13 @@ Two of those three are true.
 
 Then he did the other thing, which nobody outside four rooms knows about, and which is the reason the last week of February happened the way it did.
 
-He told Ryu to sell Electronics.
+He told Yoon to sell Electronics.
 
 * * *
 
 That is the one instruction that man will not carry out, and the reason is not loyalty to anybody.
 
-Ryu Seok-won has been at Hanseong for twenty-six years and he has run the operating side of it for nine. He did not build the group and he does not own any of it, and he has never once been asked what he thinks about anything that was not a plant.
+Yoon Seok-won has been at Hanseong for twenty-six years and he has run the operating side of it for nine. He did not build the group and he does not own any of it, and he has never once been asked what he thinks about anything that was not a plant.
 
 What he has is four factories, eleven thousand people, and a set of numbers he can make come out.
 
@@ -5652,11 +5678,11 @@ The fourth line is not about any of it.
 ---
 
 # Book Three · Chapter 24: Eleven thousand
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eight Hundred and Seventy · Sunday 20 February
 
-Ryu Seok-won asked for a meeting through Mr Chae on the Friday evening and it was arranged for a Sunday.
+Yoon Seok-won asked for a meeting through Mr Chae on the Friday evening and it was arranged for a Sunday.
 
 Not because a Sunday is discreet. Because a serving officer of Hanseong who walks into a lawyer's office on a working day has resigned by lunchtime whether he meant to or not, and because he had not decided.
 
@@ -5678,7 +5704,7 @@ He has no shares. He has a salary, a company car he did not choose, and a pensio
 
 * * *
 
-"I am not here to give you anything," said Ryu.
+"I am not here to give you anything," said Yoon.
 
 "No."
 
@@ -5720,7 +5746,7 @@ A terminal in Incheon with four thousand two hundred people at it. Nobody has be
 
 And a small firm in Mullae that this house did not save, because it could not, and where thirty-one people lost their jobs in the November before last.
 
-"You have given me the fourth one on purpose," said Ryu.
+"You have given me the fourth one on purpose," said Yoon.
 
 "Yes."
 
@@ -5736,11 +5762,11 @@ He wrote the number on the back of Mr Chae's card and pushed it across the table
 
 * * *
 
-Ryu sat with that for a while.
+Yoon sat with that for a while.
 
 Mr Chae, at the far end, turned a page of something he was not reading.
 
-"That is not a promise," said Ryu.
+"That is not a promise," said Yoon.
 
 "No. It is a record. You may check every line of it and it will take you a week."
 
@@ -5758,7 +5784,7 @@ Mr Chae, at the far end, turned a page of something he was not reading.
 
 "I know. I have read nine of the eleven."
 
-Ryu looked at him properly for the first time since he came in.
+Yoon looked at him properly for the first time since he came in.
 
 "Where."
 
@@ -5768,7 +5794,7 @@ Ryu looked at him properly for the first time since he came in.
 
 It went quiet.
 
-"He told me to sell Electronics on Thursday," said Ryu.
+"He told me to sell Electronics on Thursday," said Yoon.
 
 "Yes."
 
@@ -5782,7 +5808,7 @@ It went quiet.
 
 * * *
 
-"I am going to tell you what he said to me in December," said Ryu, "and then I am going to go home, and I would like you to understand that I am not telling you in order to be useful."
+"I am going to tell you what he said to me in December," said Yoon, "and then I am going to go home, and I would like you to understand that I am not telling you in order to be useful."
 
 "Say it."
 
@@ -5790,11 +5816,11 @@ It went quiet.
 
 He had not moved his hands off his knees since he sat down.
 
-"Then he said this. *My father valued your advice, Mr Ryu. He asked you what should be done. I am telling you to do it.*"
+"Then he said this. *My father valued your advice, Mr Yoon. He asked you what should be done. I am telling you to do it.*"
 
 Georgij did not say anything.
 
-"He was polite about it," said Ryu. "That is the part I have not been able to put down."
+"He was polite about it," said Yoon. "That is the part I have not been able to put down."
 
 * * *
 
@@ -5892,7 +5918,7 @@ Mr Chae said one thing after the door shut on the Sunday and did not mention it 
 
 "No."
 
-"He came to find out whether the people at Asan will be all right. He asked one question about it and he did not ask a single thing about himself." He put the cap on his pen. "I have been doing this for thirty-two years and that has happened twice."
+"He came to find out whether the people at Asan will be all right. He asked one question about it and he did not ask a single thing about himself." He put the cap on his pen. "That has happened twice in my career and I have had a long one."
 
 * * *
 
@@ -5906,12 +5932,12 @@ Three lines before eleven.
 
 Under the third one he wrote the piece of paper he had promised at the door, in the same words, and he wrote it that night so that it would be dated the twentieth and not later.
 
-*Ryu Seok-won is not doing this for me or for this house.*
+*Yoon Seok-won is not doing this for me or for this house.*
 
 ---
 
 # Book Three · Chapter 25: A bigger pile of the same wood
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eight Hundred and Seventy-Two · Tuesday 22 February
 
@@ -5955,7 +5981,7 @@ The last of the profitable companies went on a Tuesday morning, in a room with a
 
 Annie was at the near end because she owns it. Georgij went to the far end and stayed there.
 
-Ryu Seok-won was not there and had not been asked and would not have come.
+Yoon Seok-won was not there and had not been asked and would not have come.
 
 There is a note in the pack with his initials at the bottom of nineteen pages. Everybody in that room read it in the first four minutes. It is the only document in the whole of it that tells anybody how anything actually works.
 
@@ -6079,7 +6105,7 @@ Mr Hwang was told at one o'clock by telephone and asked one thing.
 
 There was a pause on the line of about three seconds.
 
-"Then I am going to go and have my lunch," said Mr Hwang, "and I would like it said that I am fifty-five years old and I have never in my life had a Tuesday like this one."
+"Then I am going to go and have my lunch," said Mr Hwang, "and I would like it said that I have been keeping other people's things since I was thirty and I have never had a Tuesday like this one."
 
 * * *
 
@@ -6093,7 +6119,7 @@ Three lines at about ten, and the first two are short.
 
 *Electronics and the family blocks, 22.2. Four seconds and his own pen.*
 
-*Ryu's note was the only paper in that room that told anybody anything.*
+*Yoon's note was the only paper in that room that told anybody anything.*
 
 *Nine hundred of them are hers now and she worked that out in the corridor before I did.*
 
@@ -6313,7 +6339,7 @@ Then he put the pen back in the tray and shut the book, and the page for the twe
 ---
 
 # Book Three · Chapter 27: Thirteen days
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Eight Hundred and Seventy-Six · Saturday 26 February
 
@@ -6341,7 +6367,7 @@ He went up at about half past ten.
 
 * * *
 
-Mr Bae has driven him since 2014 and comes at eight on a Saturday because Saturday is the terminal.
+Mr Myeong has driven him since 2014 and comes at eight on a Saturday because Saturday is the terminal.
 
 He let himself in at four minutes past, which he has done perhaps a thousand times, and he called out from the hall, which he has done perhaps a thousand times.
 
@@ -6353,7 +6379,7 @@ He had not got up. Nothing was knocked over. The book he had been reading was on
 
 * * *
 
-Mr Bae telephoned the ambulance and then he telephoned the son in Toronto and then he sat down on the stairs.
+Mr Myeong telephoned the ambulance and then he telephoned the son in Toronto and then he sat down on the stairs.
 
 He is sixty-eight. He did not telephone the office and he did not telephone anybody at the terminal. He did not know which of them was the right one. In fourteen years he had never once had to decide anything about that man.
 
@@ -6527,7 +6553,7 @@ Georgij looked at him for a moment.
 
 The solicitor telephoned at four on the Saturday afternoon.
 
-His name is Baek and he has held an envelope since the twenty-ninth of December two years ago, and the instruction on it is nine words long.
+His name is Cheon and he has held an envelope since the twenty-ninth of December two years ago, and the instruction on it is nine words long.
 
 *On the day I am dead and not one hour before.*
 
@@ -6564,11 +6590,11 @@ Nothing was done about them in the last week of February. That is the third week
 ---
 
 # Book Three · Chapter 28: Refusal is also a signature
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eight Hundred and Seventy-Six · Saturday 26 February
 
-Mr Baek came himself at ten to six and did not come in.
+Mr Cheon came himself at ten to six and did not come in.
 
 He is sixty-four and he has held that envelope since the twenty-ninth of December two years ago, and the instruction on the outside of it is nine words long and is in Woo's hand.
 
@@ -6578,7 +6604,7 @@ He gave three envelopes to Annie in the hall, and he said that he had not read a
 
 Then he said the other thing, and nobody had asked for it.
 
-"He came into my office on the twenty-ninth of December and wrote all three of them at my table," said Mr Baek. "It took him four hours."
+"He came into my office on the twenty-ninth of December and wrote all three of them at my table," said Mr Cheon. "It took him four hours."
 
 He had his hat in his hand and he had not put it back on.
 
@@ -6634,7 +6660,7 @@ It is a covering letter and a schedule and it is nine pages, and the covering le
 
 The first two and a half pages of the schedule are his people.
 
-Mr Bae, who has driven him since 2014 and who found him, gets the house in Yangpyeong and enough to keep it.
+Mr Myeong, who has driven him since 2014 and who found him, gets the house in Yangpyeong and enough to keep it.
 
 The harbourmaster's widow. Two men at the terminal by name, one of whom retired in 2021 and did not know he was still on anything. A woman who ran his office for nineteen years and left in 2016 because of her mother. Against her name there is a line explaining that the sum is what she would have been paid if she had stayed.
 
@@ -6811,17 +6837,17 @@ Under them there is a third mark that is not a line and not a word, and it is th
 ---
 
 # Book Three · Chapter 29: The twenty-ninth of February
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eight Hundred and Seventy-Nine · Tuesday 29 February
 
-He signed on the Monday morning at ten past eight, in Mr Baek's office, in eleven places, and it took four minutes.
+He signed on the Monday morning at ten past eight, in Mr Cheon's office, in eleven places, and it took four minutes.
 
 He did not say anything about it beforehand and he did not say anything about it afterwards.
 
 Annie signed at twenty past. She read every page and he had already read every page, and neither of them mentioned that both of them had.
 
-Mr Baek said one thing on the way out and he said it to the room rather than to either of them.
+Mr Cheon said one thing on the way out and he said it to the room rather than to either of them.
 
 "He told me on the twenty-ninth of December that this would take two years to be signed and that it would be signed in the wrong order."
 

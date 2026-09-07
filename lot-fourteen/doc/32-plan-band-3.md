@@ -4775,7 +4775,7 @@ ihn kaum, weil es ueber ihn geht. **Erst wenn Han Annie oder ihr Haus als
 *upstart* einordnet**, kommt die koerperliche Ausnahme: Hand oder Puls am
 Hals, klein genug fuer den Raum und sichtbar genug fuer kompetente Leute.
 
-**Ryu Seok-won ist im Raum.** Schmal, ruhig, runde Brille, wirkt zuerst wie
+**Yoon Seok-won ist im Raum.** **Umbenannt am 07.09.: der Plan hatte ihn Ryu Seok-won genannt und damit die Kollision mit Mrs Ryu aus `b1 ch07` wieder aufgemacht, die am 25.08. schon einmal durch eine Umbenennung geschlossen worden war.** Schmal, ruhig, runde Brille, wirkt zuerst wie
 Protokoll oder Sekretaer und ist der Mann, der Hanseong tatsaechlich kennt.
 Han kann eine konkrete Frage zu Slots, Liegeplaetzen oder Routen nicht
 beantworten; Ryu beantwortet sie mit Zahlen, ohne Triumph und ohne Han offen

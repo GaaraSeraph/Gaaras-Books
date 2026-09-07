@@ -1404,3 +1404,50 @@ Society.
 Kisten gehen ueber die Waage und erhalten eine Bescheinigung. Settlement-
 Buecher, Schriftverkehr und Personalakten bleiben getrennt nach ihren
 Aufbewahrungsfristen beim Fonds bzw. beim Verwahrer des Liquidators.
+
+## Drei Umbenennungen, entschieden am 07.09.
+
+**Beim Durchgang von Band 3 gegen Band 1 und 2 sind drei Namen aufgefallen,
+und alle drei waren meine.**
+
+| war | ist | weil |
+|---|---|---|
+| Mr Baek, Woos Anwalt | **Mr Cheon** | Es gibt den Koch aus `b1 ch05` und Baek Jun-ho, den Solicitor in Yeouido. `b2 ch39:176` gibt Sang-hoon einen ganzen Absatz nur dafuer: *"Mr Baek Jun-ho. Not the cook. A different Baek."* Ein dritter Baek, und wieder ein Anwalt, ist genau der Fehler, den das Buch dort abwehrt |
+| Mr Bae, Woos Fahrer | **Mr Myeong** | Es gibt den Wachmann am Tor aus `b1 ch03` und Mrs Bae aus `b2 ch41`, und `doc/11` fuehrt zu beiden die Warnung *Nicht der andere*. **Der Wachmann steht ausserdem in `b3 ch29`**, als *the man at the gate* |
+| Ryu Seok-won | **Yoon Seok-won** | Am 25.08. ist eine Figur zu Mr Koh umbenannt worden, **weil sie mit Mrs Ryu aus `b1 ch07` kollidierte**. `doc/32` hat danach die rechte Hand Ryu genannt und die Entscheidung wieder aufgemacht |
+
+**Der Vorname aus dem Plan bleibt in allen drei Faellen, soweit es einen
+gab.** Umbenannt wird der Nachname, weil dort die Kollision sitzt.
+
+**Und das Register hat es gefunden und nicht ich.** `erzeugt/BEGEGNUNGEN.md`
+hat *Mr Baek* mit zwoelf Nennungen von `b1ch05` bis `b3ch29` in eine Zeile
+geschrieben, als waere der Koch und der Anwalt derselbe Mensch. Genau dafuer
+steht im Kopf dieser Datei, wozu die Spalte mit dem letzten Tag da ist.
+
+## Der Redeanteil von Band 3, gemessen am 07.09.
+
+**Gemessen, nicht behoben, weil es eine Entscheidung des Autors ist und
+keine Korrektur.**
+
+| | Redeanteil |
+|---|---|
+| Band 1 | 45,1 Prozent |
+| Band 2 | 53,6 Prozent |
+| Band 3, Akt I | 34,3 Prozent |
+| **Band 3, Akt II und III** | **25,3 Prozent** |
+
+**Band 3 spricht halb so viel wie Band 2.** Die Ursache ist nicht in
+einzelnen Kapiteln zu finden, sondern in der Verteilung: die Szenenkapitel
+liegen im Rahmen des Buches (`ch20` 49,6, `ch24` 46,2, `ch22` 38,0), die
+Mechanikkapitel liegen bei zwoelf bis fuenfundzwanzig. **Ein Feldzug besteht
+aus Papier, und Papier wird erzaehlt.**
+
+**Zwei Werte sind Messfehler und keine Befunde.** `ch28` steht scheinbar bei
+18,0 Prozent, weil die drei Briefe in Blockzitaten stehen und nicht in
+Anfuehrungszeichen; mit ihnen sind es 35,3. Und `ch26` und `ch29` stehen bei
+2,9, weil in beiden absichtlich fast niemand redet.
+
+**Was daraus folgt, falls es je geaendert werden soll:** nicht Dialog in die
+Mechanikkapitel schreiben, sondern die Mechanik kuerzen. Der Anteil steigt
+von beiden Seiten, und nur eine davon macht das Buch besser.
+

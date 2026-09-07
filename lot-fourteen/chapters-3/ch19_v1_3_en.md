@@ -1,5 +1,5 @@
 # Chapter 19: The complaint
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Eight Hundred and Fifty-Three · Thursday 3 February
 
@@ -234,6 +234,44 @@ Georgij looked at the road.
 ---
 
 "No," said Georgij. "It is not, and I am glad you did not need me to say it."
+
+* * *
+
+Jang came up on the twelfth for the first time since August.
+
+---
+
+He has been on the coast since the summer with the thing that is not this and that nobody in that house discusses in a corridor. He came back for a day because two men had been in a lawyer's office and he had heard about it from the wrong person.
+
+---
+
+"Who told you," said Georgij.
+
+"A man at the gate who has worked here for six years and who telephoned me because he did not know whether he was supposed to."
+
+---
+
+"He was not supposed to and he was right to."
+
+"That is what I told him." Jang did not sit down either. "I am going to say one thing and then I am going back."
+
+---
+
+"Say it."
+
+"There is nothing for me to do about a prosecutor." He had thirty years of not saying more than that. "If somebody comes over a wall I am useful. Nobody is coming over a wall. They are going to write to us."
+
+---
+
+"That is correct."
+
+"Then do not let anybody in this house tidy anything." He was already at the door. "That is the only way it goes wrong, and it will not be you who does it, it will be somebody who thinks they are helping."
+
+---
+
+The instruction went out that afternoon in eleven words and it went to everybody, including the two women in the kitchen.
+
+*Nothing is thrown away in this house until further notice.*
 
 * * *
 

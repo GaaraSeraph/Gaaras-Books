@@ -1,9 +1,9 @@
 # Chapter 29: The twenty-ninth of February
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eight Hundred and Seventy-Nine · Tuesday 29 February
 
-He signed on the Monday morning at ten past eight, in Mr Baek's office, in eleven places, and it took four minutes.
+He signed on the Monday morning at ten past eight, in Mr Cheon's office, in eleven places, and it took four minutes.
 
 ---
 
@@ -13,7 +13,7 @@ Annie signed at twenty past. She read every page and he had already read every p
 
 ---
 
-Mr Baek said one thing on the way out and he said it to the room rather than to either of them.
+Mr Cheon said one thing on the way out and he said it to the room rather than to either of them.
 
 "He told me on the twenty-ninth of December that this would take two years to be signed and that it would be signed in the wrong order."
 

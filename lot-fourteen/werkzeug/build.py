@@ -232,6 +232,23 @@ def warn_dead_refs(root):
 # Liste sind die Schreibweisen, unter denen die Figur im Text auftaucht.
 # Georgij fehlt bewusst: er ist in jeder Begegnung, eine Liste seiner Nennungen
 # waere die Liste aller Zeilen.
+# **Doppelte Schluessel sind hier toedlich und unsichtbar.** Ein Dictliteral
+# behaelt den letzten und verwirft den ersten wortlos. Am 07.09. ist so das
+# Muster fuer Mr Baek den Koch verschwunden, weil ein zweiter Mr Baek
+# eingetragen wurde; das Register hat danach zwei Menschen in einer Zeile
+# gefuehrt, von b1ch05 bis b3ch29. Deshalb liest build.py seinen eigenen
+# Quelltext und bricht ab, statt sich darauf zu verlassen.
+def _figurenschluessel_pruefen():
+    import re as _re
+    quelle = open(__file__, encoding="utf-8").read()
+    block = quelle.split("FIGURES = {", 1)[1].split("\n}", 1)[0]
+    namen = _re.findall(r'^    "([^"]+)"\s*:', block, _re.M)
+    doppelt = sorted({n for n in namen if namen.count(n) > 1})
+    if doppelt:
+        raise SystemExit("FIGURES: doppelter Schluessel: "
+                         + ", ".join(doppelt))
+
+
 FIGURES = {
     "Annie": [r"Annie"],
     "Mrs Seo": [r"Mrs Seo"],
@@ -239,7 +256,7 @@ FIGURES = {
     "Bae": [r"(?<!Mrs )\bBae\b(?! Jun-ho)"],  # B1 K3, der Wachmann
     "Eun-ju": [r"Eun-ju"],
     "Mr Baek": [r"Mr Baek\b(?! Jun-ho)"],  # der Koch, B1. Nicht Baek Jun-ho
-    "Mr Yeo": [r"Mr Yeo", r"\bYeo\b"],
+    "Mr Yeo": [r"Mr Yeo\b", r"\bYeo\b"],  # ohne \b traf es Mr Yeom
     "Tae-min": [r"Tae-min"],
     "Mr Ku": [r"Mr Ku"],
     "Mr Pyo": [r"Mr Pyo"],
@@ -290,16 +307,19 @@ FIGURES = {
     "Mr Namgung": [r"Namgung"],
     "Mr Bok": [r"Mr Bok", r"\bBok\b"],
     "Mrs Chun": [r"Mrs Chun", r"\bChun\b"],
-    "Ryu Seok-won": [r"Ryu Seok-won", r"\bRyu\b"],
+    "Yoon Seok-won": [r"Yoon Seok-won", r"\bYoon\b"],
     "Han Yong-seok": [r"Han Yong-seok"],
-    "Mr Baek": [r"Mr Baek"],
-    "Mr Bae": [r"Mr Bae\b"],
+    "Mr Cheon": [r"Mr Cheon", r"\bCheon\b"],  # Woos Anwalt. Nicht Baek Jun-ho
+    "Mr Myeong": [r"Mr Myeong"],  # Woos Fahrer. Nicht Bae vom Tor
+    "Mr Chae": [r"Mr Chae\b"],
     "Moon Hae-sook": [r"Moon Hae-sook", r"Hae-sook"],
     "Mrs Ha": [r"Mrs Ha"],
     # Cha steht neben Mr Chae im Buch, deshalb die Wortgrenze.
     "Cha Tae-seong": [r"Cha Tae-seong"],
     "Mr Pyeon": [r"Mr Pyeon", r"\bPyeon\b"],
 }
+
+_figurenschluessel_pruefen()
 
 DATELINE = re.compile(r"Days? ([A-Za-z0-9\- ]+?) ·")
 NUMS = re.compile(

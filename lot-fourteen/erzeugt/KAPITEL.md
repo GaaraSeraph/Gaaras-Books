@@ -149,17 +149,17 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 13** *Twice* (v1.10) · Tag 774, Di 16. November · 2.075 W
 - **B3 14** *Who answers* (v1.13) · Tag 788, Di 30. November · 2.115 W
 - **B3 15** *Him* (v1.10) · Tag 802, Di 14. Dezember · 2.274 W
-- **B3 16** *Comfort* (v1.2) · Tag 823, Di 4. Januar · 2.063 W
-- **B3 17** *Four minutes* (v1.4) · Tag 839, Do 20. Januar · 2.061 W
+- **B3 16** *Comfort* (v1.3) · Tag 823, Di 4. Januar · 2.066 W
+- **B3 17** *Four minutes* (v1.5) · Tag 839, Do 20. Januar · 2.057 W
 - **B3 18** *The other bank* (v1.3) · Tag 848, Sa 29. Januar · 2.160 W
-- **B3 19** *The complaint* (v1.1) · Tag 853, Do 3. Februar · 2.028 W
+- **B3 19** *The complaint* (v1.3) · Tag 853, Do 3. Februar · 2.286 W
 - **B3 20** *What he was* (v1.2) · Tag 861, Fr 11. Februar · 2.005 W
 - **B3 21** *The ninth of September* (v1.2) · Tag 863, So 13. Februar · 2.020 W
 - **B3 22** *No other word* (v1.2) · Tag 866, Mi 16. Februar · 2.004 W
-- **B3 23** *The bulletin* (v1.6) · Tag 868, Fr 18. Februar · 2.047 W
-- **B3 24** *Eleven thousand* (v1.4) · Tag 870, So 20. Februar · 2.031 W
-- **B3 25** *A bigger pile of the same wood* (v1.4) · Tag 872, Di 22. Februar · 2.037 W
+- **B3 23** *The bulletin* (v1.7) · Tag 868, Fr 18. Februar · 2.047 W
+- **B3 24** *Eleven thousand* (v1.5) · Tag 870, So 20. Februar · 2.032 W
+- **B3 25** *A bigger pile of the same wood* (v1.5) · Tag 872, Di 22. Februar · 2.040 W
 - **B3 26** *You have not eaten* (v1.4) · Tag 872, Di 22. Februar · 2.005 W
-- **B3 27** *Thirteen days* (v1.5) · Tag 876, Sa 26. Februar · 2.099 W
-- **B3 28** *Refusal is also a signature* (v1.4) · Tag 876, Sa 26. Februar · 2.131 W
-- **B3 29** *The twenty-ninth of February* (v1.4) · Tag 879, Di 29. Februar · 2.083 W
+- **B3 27** *Thirteen days* (v1.7) · Tag 876, Sa 26. Februar · 2.099 W
+- **B3 28** *Refusal is also a signature* (v1.5) · Tag 876, Sa 26. Februar · 2.131 W
+- **B3 29** *The twenty-ninth of February* (v1.5) · Tag 879, Di 29. Februar · 2.083 W

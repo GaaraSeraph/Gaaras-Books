@@ -1785,7 +1785,9 @@ Der letzte ist der schärfste: Er hat die Antwort schon gehabt und die Frage
 trotzdem gestellt, um zu sehen, ob der andere sie ehrlich beantwortet. **Das ist
 kein Verhör, das ist ein Verkäufer, der Leute an Tischen sitzen sieht.**
 
-*(Hier stand "seit vierzig Jahren". **Die Zahl steht nirgends im Buch** - Yeoms
+**Nachtrag vom 07.09.: die Zahl steht jetzt im Buch, und sie ist dreissig.** `b3 ch22` laesst ihn sagen: *"I have spent thirty years learning what a returned compliment is worth."* Der Satz kommt aus der Szene, die der Autor am 29.08. geschrieben hat, und ist damit Kanon. **Die Warnung darunter bleibt trotzdem stehen**, weil sie erklaert, wie die vierzig zustande gekommen sind, und weil dieses Blatt sonst wieder eine Zahl bekommt, die nur richtig klingt.
+
+*(Hier stand "seit vierzig Jahren". **Die Zahl stand bis zum 07.09. nirgends im Buch** - Yeoms
 Berufsdauer wird nie genannt, gesucht über K24, K25, K34, b2 K38, b2 K50, b2 K51, b2 K52.
 Sie klang richtig und war erfunden, in einem Blatt, das sonst jede Zahl belegt.
 Belegt sind Byuns sechsundzwanzig Jahre und Yeoms vier Jahre Ruhe - nicht seine
@@ -3424,6 +3426,8 @@ von Akt II sind Auskunftsszenen**, und wer eine Auskunft schreibt, laesst die
 Figur erklaeren.
 
 **Bindend ab hier: die naechste neue Nebenfigur liegt unter zwoelf.** **Eingeloest in `b3 ch14`:** Mrs Chun steht bei 10,5, und ihr Blatt sagt, woran das liegt.
+
+**Und eine Zahl ueber Georgij, gemessen am 07.09. gegen Band 1 und 2.** In `b3 ch12` bis `ch29`, also in siebenunddreissigtausend Woertern, stellt er **vier** Fragen mit Zeichen, und drei davon fangen mit *May I ask* an. Band 1 hat 233 Fragezeichen in hunderttausend Woertern, Band 2 hat 185 in zweihundertdreissigtausend. **Der Mann, dessen Verfahren das Fragen ist, fragt im letzten Drittel seines dritten Bandes fast niemanden mehr etwas.** Das ist kein Fehler und es ist auch nicht zufaellig entstanden: es steht ueber ihm niemand mehr, den er fragen muesste. **Wer es fuer Drift haelt, zaehlt nach, wen er in Band 2 gefragt hat und ob dieselben Leute in Band 3 noch da sind.**
 
 **Und der Rest von Band 3, gemessen am 07.09.:** Ryu Seok-won 14,7 ueber fünfundzwanzig Repliken, Woos Sohn 16,0 ueber drei, Mr Baek 15,0 ueber zwei. **Ryu liegt unter Baek Jun-hos 15,7 und damit im Rahmen des Buchs**, aber ueber dem Median. Seine beiden längsten Repliken sind eine Belegschaftsaufzählung und der einzige Satz, den er über sich selbst sagt, und beide bleiben. **Wer nach ihm eine neue Nebenfigur schreibt, misst wieder gegen zwölf.** Nicht
 weil kurz besser ist, sondern weil vier Vielredner hintereinander keine
