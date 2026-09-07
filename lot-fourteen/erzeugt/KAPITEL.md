@@ -145,18 +145,18 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 9** *Nobody counts* (v1.12) · Tag 732, Di 5. Oktober · 2.097 W
 - **B3 10** *Where it would go* (v1.20) · Tag 742, Fr 15. Oktober · 2.230 W
 - **B3 11** *Nothing has happened* (v1.11) · Tag 753, Di 26. Oktober · 2.126 W
-- **B3 12** *The other word* (v1.11) · Tag 762, Do 4. November · 2.029 W
-- **B3 13** *Twice* (v1.10) · Tag 774, Di 16. November · 2.075 W
-- **B3 14** *Who answers* (v1.13) · Tag 788, Di 30. November · 2.115 W
+- **B3 12** *The other word* (v1.12) · Tag 762, Do 4. November · 1.983 W
+- **B3 13** *Twice* (v1.11) · Tag 774, Di 16. November · 2.030 W
+- **B3 14** *Who answers* (v1.14) · Tag 788, Di 30. November · 1.821 W
 - **B3 15** *Him* (v1.10) · Tag 802, Di 14. Dezember · 2.274 W
 - **B3 16** *Comfort* (v1.3) · Tag 823, Di 4. Januar · 2.066 W
-- **B3 17** *Four minutes* (v1.5) · Tag 839, Do 20. Januar · 2.057 W
-- **B3 18** *The other bank* (v1.3) · Tag 848, Sa 29. Januar · 2.160 W
+- **B3 17** *Four minutes* (v1.6) · Tag 839, Do 20. Januar · 2.028 W
+- **B3 18** *The other bank* (v1.4) · Tag 848, Sa 29. Januar · 2.084 W
 - **B3 19** *The complaint* (v1.3) · Tag 853, Do 3. Februar · 2.286 W
 - **B3 20** *What he was* (v1.2) · Tag 861, Fr 11. Februar · 2.005 W
 - **B3 21** *The ninth of September* (v1.2) · Tag 863, So 13. Februar · 2.020 W
 - **B3 22** *No other word* (v1.2) · Tag 866, Mi 16. Februar · 2.004 W
-- **B3 23** *The bulletin* (v1.7) · Tag 868, Fr 18. Februar · 2.047 W
+- **B3 23** *The bulletin* (v1.8) · Tag 868, Fr 18. Februar · 2.000 W
 - **B3 24** *Eleven thousand* (v1.5) · Tag 870, So 20. Februar · 2.032 W
 - **B3 25** *A bigger pile of the same wood* (v1.5) · Tag 872, Di 22. Februar · 2.040 W
 - **B3 26** *You have not eaten* (v1.4) · Tag 872, Di 22. Februar · 2.005 W

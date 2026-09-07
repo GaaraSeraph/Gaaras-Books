@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 389.307 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 389.662 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -667,6 +667,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Warum das *too* kein Sprung ist](#warum-das-too-kein-sprung-ist)
   - [Was verworfen ist](#was-verworfen-ist)
   - [Regel](#regel)
+  - [Am 07.09. ausgefuehrt, und die Empfehlung darueber war zur Haelfte falsch](#am-07-09-ausgefuehrt-und-die-empfehlung-darueber-war-zur-haelfte-falsch)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -776,7 +777,7 @@ zum falschen Band gestellt worden.
 *Erzeugt von `build.py`. Nicht von Hand aendern.*
 
 **21 Quelldokumente** in `doc/`, dazu das Archiv in `doc/protokoll/`.
-**153 Kapitel, 394.083 Woerter.**
+**153 Kapitel, 393.546 Woerter.**
 
 ---
 
@@ -33361,6 +33362,49 @@ Anfuehrungszeichen; mit ihnen sind es 35,3. Und `ch26` und `ch29` stehen bei
 Mechanikkapitel schreiben, sondern die Mechanik kuerzen. Der Anteil steigt
 von beiden Seiten, und nur eine davon macht das Buch besser.
 
+### Am 07.09. ausgefuehrt, und die Empfehlung darueber war zur Haelfte falsch
+
+**Gekuerzt wurden die sechs Mechanikkapitel von Akt II und III.** Gestrichen
+wurde nur, was ein zweites Mal dastand oder was der Leser aus einem frueheren
+Kapitel schon hatte.
+
+| Kapitel | vorher | nachher | minus | Redeanteil |
+|---|---|---|---|---|
+| `ch14` | 2115 | **1821** | **294** | 12,6 auf 14,6 |
+| `ch18` | 2160 | 2084 | 76 | 22,3 auf 23,1 |
+| `ch23` | 2047 | 2000 | 47 | 24,9 auf 25,5 |
+| `ch12` | 2029 | 1983 | 46 | 21,6 auf 22,1 |
+| `ch13` | 2075 | 2030 | 45 | 17,9 auf 18,3 |
+| `ch17` | 2057 | 2028 | 29 | 23,3 auf 23,5 |
+
+**Zusammen 537 Woerter, und der Anteil von Akt II und III geht von 25,3 auf
+25,9 Prozent.**
+
+**Was das beweist, ist das Gegenteil dessen, was darueber steht.** Die Kapitel
+waren nicht aufgeblasen. **Genau eins war es**, und `ch14` hat auch vierzehn
+Prozent hergegeben, ohne dass etwas fehlt: eine doppelte Erklaerung der
+Deckung, vier Zeilen ueber einen Versicherer, der vor Januar ohnehin nicht
+antwortet, Zeile neunzehn zum dritten Mal beschrieben, und zweimal dieselbe
+Zusammenfassung von `b3 ch11`. Die anderen fuenf geben zwischen 1,4 und 3,5
+Prozent her, **und das ist die normale Menge Fett in gutem Text.**
+
+**Also ist der niedrige Redeanteil kein Fett, sondern der Gegenstand.** Ein
+Kapitel ueber eine Meldung, eine Forderung und ein Verzeichnis hat nichts, was
+jemand sagen koennte, ohne dass es gestellt wirkt. **Wer den Anteil wirklich
+heben will, muss die Mechanik nicht kuerzen, sondern in Szenen umbauen** -
+also jemanden hinstellen, der sie erklaeren muss. Das ist Neuschreiben und
+nicht Kuerzen, und es ist eine Entscheidung des Autors.
+
+**Was das Kuerzen dagegen wirklich gebracht hat, ist die Spanne, und die stand
+nicht in der Aufgabe.** Band 3 lag vorher zwischen 2004 und 2286 Woertern,
+alle neunundzwanzig Kapitel, und hatte damit als einziger Band ueberhaupt
+keine. Jetzt liegt er zwischen 1821 und 2286, mit zwei Kapiteln unter
+zweitausend. Band 1 hat zwei davon, Band 2 hat acht.
+
+**Die Ursache der Schablone ist benannt und gilt fuer das naechste Mal:** ich
+habe zur Untergrenze geschrieben. `check.py` meldet unter zweitausend einen
+Hinweis, und ich habe den Hinweis als Ziel gelesen statt als Boden.
+
 ---
 
 # Begegnungsregister
@@ -33386,7 +33430,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Annie | 1002 | 124 (b1ch01-b3ch29) | 1 | 879 |
 | Park Sang-hoon | 323 | 53 (b1ch10-b3ch29) | 22 | 879 |
 | Chairman Woo | 267 | 49 (b1ch07-b3ch29) | 22 | 879 |
-| Mr Hwang | 207 | 40 (b2ch07-b3ch29) | 166 | 879 |
+| Mr Hwang | 206 | 40 (b2ch07-b3ch29) | 166 | 879 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 166 | 42 (b1ch05-b3ch19) | 4 | 853 |
 | Mrs Seo | 160 | 57 (b1ch03-b3ch29) | 1 | 879 |
@@ -34373,17 +34417,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 762 | b3ch12:100 | Annie had the quarter in front of her and had not turned the page. |
 | 762 | b3ch12:132 | "Not while the charters are the only thing on the table," said Annie. |
 | 762 | b3ch12:188 | Annie did not move at all. |
-| 762 | b3ch12:230 | Annie was at the desk at half past six. |
-| 762 | b3ch12:264 | "Interference," said Annie. "That is his word and it is a good one. An insurer uses it, .. |
-| 762 | b3ch12:270 | Annie put the pen across the page and left it there. |
-| 762 | b3ch12:280 | Annie turned the quarter face down. |
-| 774 | b3ch13:248 | Annie looked up from what she was doing, which she had not done when he came in. |
-| 774 | b3ch13:258 | Annie took her hand off the page. |
-| 774 | b3ch13:268 | Annie went back to the page and did not look up for the rest of it. |
-| 788 | b3ch14:210 | Annie holds a block of it, bought in four pieces in September, under every line at which.. |
-| 788 | b3ch14:284 | "Read the second one again," said Annie. |
-| 788 | b3ch14:294 | Annie did not say anything for a moment. |
-| 788 | b3ch14:310 | Annie went on reading the notice while he said it. |
+| 762 | b3ch12:224 | Annie was at the desk at half past six. |
+| 762 | b3ch12:258 | "Interference," said Annie. "That is his word and it is a good one. An insurer uses it, .. |
+| 762 | b3ch12:264 | Annie put the pen across the page and left it there. |
+| 762 | b3ch12:274 | Annie turned the quarter face down. |
+| 774 | b3ch13:246 | Annie looked up from what she was doing, which she had not done when he came in. |
+| 774 | b3ch13:256 | Annie took her hand off the page. |
+| 774 | b3ch13:266 | Annie went back to the page and did not look up for the rest of it. |
+| 788 | b3ch14:178 | Annie holds a block of it, bought in four pieces in September, under every line at which.. |
+| 788 | b3ch14:242 | "Read the second one again," said Annie. |
+| 788 | b3ch14:252 | Annie did not say anything for a moment. |
+| 788 | b3ch14:268 | Annie went on reading the notice while he said it. |
 | 802 | b3ch15:68 | Annie put the cap back on the pen. |
 | 802 | b3ch15:106 | "That is three," said Annie. |
 | 802 | b3ch15:150 | Annie read it where it lay and did not put a hand on it. |
@@ -34398,15 +34442,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 839 | b3ch17:34 | He telephoned nobody. Annie was at the desk by twenty past and she did not ask him anyth.. |
 | 839 | b3ch17:48 | The market opened at nine. Annie gave the instruction at nine. |
 | 839 | b3ch17:54 | "Say the number," said Annie. |
-| 839 | b3ch17:128 | Annie has been its largest outside holder since September. On the twentieth of January t.. |
-| 839 | b3ch17:134 | The short side paid out over four days and Annie did not look at the figure until the fo.. |
-| 839 | b3ch17:158 | Annie had turned the chair to face him, which she does perhaps four times a year. |
-| 839 | b3ch17:210 | "Read me the purpose box," said Annie. |
-| 839 | b3ch17:222 | Annie signed it where the pen went. |
-| 848 | b3ch18:105 | "Say what it means and do not be careful about it," said Annie. |
-| 848 | b3ch18:219 | Then he went down at eight and told Annie, because it is her house and because he does n.. |
-| 848 | b3ch18:223 | "How long have you known where it was," said Annie. |
-| 848 | b3ch18:249 | "No," said Annie. "He would not." |
+| 839 | b3ch17:124 | Annie has been its largest outside holder since September. On the twentieth of January t.. |
+| 839 | b3ch17:130 | The short side paid out over four days and Annie did not look at the figure until the fo.. |
+| 839 | b3ch17:154 | Annie had turned the chair to face him, which she does perhaps four times a year. |
+| 839 | b3ch17:202 | "Read me the purpose box," said Annie. |
+| 839 | b3ch17:214 | Annie signed it where the pen went. |
+| 848 | b3ch18:96 | "Say what it means and do not be careful about it," said Annie. |
+| 848 | b3ch18:210 | Then he went down at eight and told Annie, because it is her house and because he does n.. |
+| 848 | b3ch18:214 | "How long have you known where it was," said Annie. |
+| 848 | b3ch18:240 | "No," said Annie. "He would not." |
 | 853 | b3ch19:30 | It says that on the twenty-fourth of January a company registered in Jeju, dormant since.. |
 | 853 | b3ch19:174 | Annie asked one question about the whole of it and she asked it on the Thursday evening. |
 | 853 | b3ch19:190 | Annie did not say anything for a moment. |
@@ -34419,9 +34463,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 866 | b3ch22:188 | "Say it," said Annie. |
 | 866 | b3ch22:210 | Annie looked at him for a while. |
 | 866 | b3ch22:226 | "Yes," said Annie. "Sit down." |
-| 868 | b3ch23:130 | "Say what we can buy," said Annie. |
-| 868 | b3ch23:150 | Annie looked at the last one for a while. |
-| 868 | b3ch23:158 | "No," said Annie. "You have not." |
+| 868 | b3ch23:126 | "Say what we can buy," said Annie. |
+| 868 | b3ch23:146 | Annie looked at the last one for a while. |
+| 868 | b3ch23:154 | "No," said Annie. "You have not." |
 | 870 | b3ch24:280 | "He did not come over," said Annie. |
 | 870 | b3ch24:308 | Annie wrote it at the top of the page she was working on, which is not what that page is.. |
 | 872 | b3ch25:32 | Georgij did not build that, and he said so out loud twice, once to Annie and once in the.. |
@@ -34713,24 +34757,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:66` (Tag 753) - one
 - `b3ch11:96` (Tag 753) - two
 - `b3ch11:228` (Tag 753) - one
-- `b3ch12:230` (Tag 762) - six
-- `b3ch12:264` (Tag 762) - one
-- `b3ch14:210` (Tag 788) - four
-- `b3ch14:284` (Tag 788) - one
+- `b3ch12:224` (Tag 762) - six
+- `b3ch12:258` (Tag 762) - one
+- `b3ch14:178` (Tag 788) - four
+- `b3ch14:242` (Tag 788) - one
 - `b3ch15:106` (Tag 802) - three
 - `b3ch15:232` (Tag 802) - three
 - `b3ch15:380` (Tag 802) - two
 - `b3ch17:34` (Tag 839) - twenty
 - `b3ch17:48` (Tag 839) - nine
-- `b3ch17:128` (Tag 839) - six hundred million
-- `b3ch17:134` (Tag 839) - four
-- `b3ch17:158` (Tag 839) - four
-- `b3ch18:219` (Tag 848) - eight
+- `b3ch17:124` (Tag 839) - six hundred million
+- `b3ch17:130` (Tag 839) - four
+- `b3ch17:154` (Tag 839) - four
+- `b3ch18:210` (Tag 848) - eight
 - `b3ch19:30` (Tag 853) - five, twenty
 - `b3ch19:174` (Tag 853) - one
 - `b3ch20:22` (Tag 861) - one
 - `b3ch21:240` (Tag 863) - seven
-- `b3ch23:150` (Tag 868) - one
+- `b3ch23:146` (Tag 868) - one
 - `b3ch25:88` (Tag 872) - four, one, two
 - `b3ch25:206` (Tag 872) - one
 - `b3ch26:32` (Tag 872) - five
@@ -35072,8 +35116,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 802 | b3ch15:234 | "No," said Park Sang-hoon. |
 | 802 | b3ch15:296 | Sang-hoon looked at him then. |
 | 802 | b3ch15:362 | Mrs Seo had come in for the coffee that Sang-hoon had not drunk, and could not get out a.. |
-| 839 | b3ch17:110 | Park Sang-hoon did nothing. |
-| 839 | b3ch17:240 | The other call was Park Sang-hoon's secretary. She arranged nothing and confirmed nothin.. |
+| 839 | b3ch17:106 | Park Sang-hoon did nothing. |
+| 839 | b3ch17:232 | The other call was Park Sang-hoon's secretary. She arranged nothing and confirmed nothin.. |
 | 872 | b3ch26:200 | Park Sang-hoon sent nothing and telephoned nobody. |
 | 876 | b3ch28:36 | At half past ten that morning Park Sang-hoon telephoned this house and was given two o'c.. |
 | 879 | b3ch29:94 | Park Sang-hoon came at half past eight with two men and stayed eleven minutes. |
@@ -35222,7 +35266,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:112` (Tag 592) - one, three, two
 - `b3ch15:6` (Tag 802) - eleven, four
 - `b3ch15:32` (Tag 802) - forty
-- `b3ch17:240` (Tag 839) - one
+- `b3ch17:232` (Tag 839) - one
 - `b3ch28:36` (Tag 876) - four, ten, three, two, two hundred million
 - `b3ch29:94` (Tag 879) - eight, eleven, two
 
@@ -35472,7 +35516,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 672 | b3ch05:44 | After four he does Georgij's work at the same desk, and Woo has never once asked him wha.. |
 | 823 | b3ch16:122 | Chairman Woo telephoned on the second of January and did not want anything. |
 | 823 | b3ch16:130 | "I have been reading about a shipping company," said Woo. "Not hers. The other one." |
-| 848 | b3ch18:203 | Chairman Woo built that terminal and he has never owned all of it. |
+| 848 | b3ch18:194 | Chairman Woo built that terminal and he has never owned all of it. |
 | 853 | b3ch19:32 | It says that Mr Hwang Sang-woo, who is not employed by her, works four days a week in an.. |
 | 853 | b3ch19:36 | And on the eighth page it says that the same three law firms in Singapore appear behind .. |
 | 853 | b3ch19:50 | It is the plate outside the office on the fourth floor where Mr Hwang works. It says Woo.. |
@@ -35655,7 +35699,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-207 Nennungen in 40 Kapiteln.
+206 Nennungen in 40 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -35843,22 +35887,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:198 | It is in four separate places, in four hands, and one of the four is Mr Hwang's and thre.. |
 | 753 | b3ch11:208 | Mr Hwang had written to him in September about the borrow and nothing else. He answered .. |
 | 753 | b3ch11:224 | He wrote the name on the page with the counterparty limits, in the column that is not fo.. |
-| 788 | b3ch14:196 | Georgij put the registration number next to Mr Hwang's sixth table at about half past ni.. |
-| 788 | b3ch14:218 | Mr Hwang was in the house when the notice came, because it came on a Monday. |
-| 788 | b3ch14:346 | The cross-holdings existed and sat in a filing office. Anybody who spent four months on .. |
+| 788 | b3ch14:168 | Georgij put the registration number next to Mr Hwang's sixth table at about half past ni.. |
+| 788 | b3ch14:186 | Mr Hwang was in the house when the notice came, because it came on a Monday. |
 | 823 | b3ch16:92 | The man who runs it telephoned Mr Hwang on the fourth of January, which is a Tuesday, an.. |
 | 823 | b3ch16:98 | Mr Hwang said that he would listen and that he would not advise. |
 | 823 | b3ch16:220 | Mr Hwang came up on the Monday with the tables and one sheet that was not a table. |
 | 823 | b3ch16:232 | "No. It is in the one I made on Saturday because I could not leave it alone." Mr Hwang p.. |
 | 823 | b3ch16:246 | Mr Hwang found the fifth and the sixth in November, both in the same county. A woman in .. |
 | 823 | b3ch16:268 | "The man from Busan who telephoned Mr Hwang." He had the door in one hand. "He is a shar.. |
-| 839 | b3ch17:190 | That is the shape a price makes when the people who were going to sell have sold. Mr Hwa.. |
+| 839 | b3ch17:188 | That is the shape a price makes when the people who were going to sell have sold. Mr Hwa.. |
 | 853 | b3ch19:32 | It says that Mr Hwang Sang-woo, who is not employed by her, works four days a week in an.. |
 | 853 | b3ch19:50 | It is the plate outside the office on the fourth floor where Mr Hwang works. It says Woo.. |
 | 853 | b3ch19:124 | Mr Hwang was asked to come in on the ninth as a reference witness, which means a person .. |
 | 853 | b3ch19:140 | "Like a man who has been told he is going to find a string and has not found one." Mr Hw.. |
 | 866 | b3ch22:276 | The eleventh was found by Mr Hwang in the second week of February, in a hospital in Ando.. |
-| 868 | b3ch23:228 | Mr Hwang put the sixth table away on the twenty-second and did not bring it up again. |
+| 868 | b3ch23:224 | Mr Hwang put the sixth table away on the twenty-second and did not bring it up again. |
 | 872 | b3ch25:10 | Nobody in that house had ever spoken to any of them. There is a page in Mr Hwang's hand .. |
 | 872 | b3ch25:228 | Mr Hwang was told at one o'clock by telephone and asked one thing. |
 | 872 | b3ch25:240 | "Then I am going to go and have my lunch," said Mr Hwang, "and I would like it said that.. |
@@ -35968,17 +36011,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:168` (Tag 753) - five
 - `b3ch11:198` (Tag 753) - four, one, three
 - `b3ch11:224` (Tag 753) - two
-- `b3ch14:196` (Tag 788) - nine
-- `b3ch14:346` (Tag 788) - four, two
+- `b3ch14:168` (Tag 788) - nine
 - `b3ch16:220` (Tag 823) - one
 - `b3ch16:232` (Tag 823) - four, one, thirty
 - `b3ch16:268` (Tag 823) - four, one
-- `b3ch17:190` (Tag 839) - one
+- `b3ch17:188` (Tag 839) - one
 - `b3ch19:32` (Tag 853) - four
 - `b3ch19:50` (Tag 853) - one
 - `b3ch19:140` (Tag 853) - one
 - `b3ch22:276` (Tag 866) - fifty-four
-- `b3ch23:228` (Tag 868) - twenty
+- `b3ch23:224` (Tag 868) - twenty
 - `b3ch25:10` (Tag 872) - four
 - `b3ch25:228` (Tag 872) - one
 - `b3ch25:240` (Tag 872) - one, thirty
@@ -37509,7 +37551,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 866 | b3ch22:172 | He told her about the six sorts and about the lease from 2009. He told her that Mr Yeom .. |
 | 866 | b3ch22:244 | "May I ask what Mr Yeom does, sir?" |
 | 866 | b3ch22:290 | *Yeom said the word first and I did not give it back.* |
-| 868 | b3ch23:106 | Mr Yeom knew it was coming on the Wednesday, because he has known since 2009 what is in .. |
+| 868 | b3ch23:102 | Mr Yeom knew it was coming on the Wednesday, because he has known since 2009 what is in .. |
 
 ### Zahlen in der Naehe von Mr Yeom
 
@@ -37552,7 +37594,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch22:58` (Tag 866) - fourteen, nine, one, three
 - `b3ch22:110` (Tag 866) - four, two
 - `b3ch22:172` (Tag 866) - forty, one, six
-- `b3ch23:106` (Tag 868) - eleven
+- `b3ch23:102` (Tag 868) - eleven
 
 ---
 
@@ -37718,18 +37760,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 762 | b3ch12:12 | Mr Chae's memorandum is two weeks old and has done nothing at all. |
 | 762 | b3ch12:122 | Mr Chae put a second letter in front of her on the morning the eleven went out, and she .. |
 | 762 | b3ch12:134 | Mr Chae took it back without any argument, because he had known the answer when he broug.. |
-| 762 | b3ch12:252 | "Say the word that is in Mr Chae's paper," he said. |
-| 788 | b3ch14:44 | Mr Chae put it together in five days and did not enjoy one of them. |
-| 788 | b3ch14:90 | Mr Chae sat with her and answered, because it is his bundle and because a claimant who a.. |
+| 762 | b3ch12:246 | "Say the word that is in Mr Chae's paper," he said. |
+| 788 | b3ch14:42 | Mr Chae put it together in five days and did not enjoy one of them. |
+| 788 | b3ch14:84 | Mr Chae sat with her and answered, because it is his bundle and because a claimant who a.. |
 | 802 | b3ch15:90 | "There was no borrow left in two of those names in September. A dormant company in Jeju .. |
-| 839 | b3ch17:234 | The newspaper wanted to know whether there was going to be a bid. Mr Chae said what he h.. |
-| 839 | b3ch17:250 | Mr Chae came up on the Friday with something that was not about any of it. |
-| 839 | b3ch17:260 | "That is not us," said Mr Chae. |
-| 848 | b3ch18:139 | Mr Chae drafted it and took two days over four sentences. |
-| 848 | b3ch18:149 | "Yes." Mr Chae put the cap on his own pen. "And a man who is asked those four questions .. |
+| 839 | b3ch17:226 | The newspaper wanted to know whether there was going to be a bid. Mr Chae said what he h.. |
+| 839 | b3ch17:242 | Mr Chae came up on the Friday with something that was not about any of it. |
+| 839 | b3ch17:252 | "That is not us," said Mr Chae. |
+| 848 | b3ch18:130 | Mr Chae drafted it and took two days over four sentences. |
+| 848 | b3ch18:140 | "Yes." Mr Chae put the cap on his own pen. "And a man who is asked those four questions .. |
 | 853 | b3ch19:78 | Mr Chae read it twice and then put it down and did not pick it up again. |
 | 853 | b3ch19:198 | Two men came to Mr Chae's office on the eleventh and Lee Jun was in the hall when they l.. |
-| 868 | b3ch23:54 | That was true when it was said and it is still true, and there is a fleet enquiry in Mr .. |
+| 868 | b3ch23:50 | That was true when it was said and there is a fleet enquiry in Mr Chae's file dated the .. |
 | 870 | b3ch24:6 | Yoon Seok-won asked for a meeting through Mr Chae on the Friday evening and it was arran.. |
 | 870 | b3ch24:12 | It was Mr Chae's office and Mr Chae was in it, at the far end, with the door open, takin.. |
 | 870 | b3ch24:114 | He wrote the number on the back of Mr Chae's card and pushed it across the table. |
@@ -37763,10 +37805,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:20` (Tag 753) - two
 - `b3ch12:12` (Tag 762) - two
 - `b3ch12:122` (Tag 762) - eleven
-- `b3ch14:44` (Tag 788) - five, one
+- `b3ch14:42` (Tag 788) - five, one
 - `b3ch15:90` (Tag 802) - four hundred million, one, two
-- `b3ch18:139` (Tag 848) - four, two
-- `b3ch18:149` (Tag 848) - four
+- `b3ch18:130` (Tag 848) - four, two
+- `b3ch18:140` (Tag 848) - four
 - `b3ch19:198` (Tag 853) - two
 - `b3ch24:330` (Tag 870) - one
 - `b3ch25:6` (Tag 872) - four, three
@@ -38661,15 +38703,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 753 | b3ch11:156 | Lee Jun did not say anything to that. |
 | 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
 | 774 | b3ch13:84 | Lee Jun stood where he could see the door and the hands and did not sit down when he was.. |
-| 774 | b3ch13:194 | Lee Jun did not say thank you, which is correct, and did not look pleased, which is not .. |
-| 774 | b3ch13:210 | Lee Jun looked out of his side of the window for about two minutes. |
-| 774 | b3ch13:246 | "Lee Jun." |
-| 774 | b3ch13:340 | Lee Jun wrote nothing down in that office and nothing in the car. |
+| 774 | b3ch13:192 | Lee Jun did not say thank you, which is correct, and did not look pleased, which is not .. |
+| 774 | b3ch13:208 | Lee Jun looked out of his side of the window for about two minutes. |
+| 774 | b3ch13:244 | "Lee Jun." |
+| 774 | b3ch13:334 | Lee Jun wrote nothing down in that office and nothing in the car. |
 | 823 | b3ch16:258 | Lee Jun came in at seven with the post and did not go out again. |
 | 823 | b3ch16:280 | Lee Jun thought about that for longer than the answer needed. |
-| 839 | b3ch17:270 | Lee Jun asked the only question anybody asked him that week and he asked it on the stairs. |
-| 839 | b3ch17:286 | Lee Jun did not say anything for a moment. |
-| 848 | b3ch18:269 | Lee Jun carried the second box up from the hall in December and asked what was in it. |
+| 839 | b3ch17:262 | Lee Jun asked the only question anybody asked him that week and he asked it on the stairs. |
+| 839 | b3ch17:278 | Lee Jun did not say anything for a moment. |
+| 848 | b3ch18:260 | Lee Jun carried the second box up from the hall in December and asked what was in it. |
 | 853 | b3ch19:198 | Two men came to Mr Chae's office on the eleventh and Lee Jun was in the hall when they l.. |
 | 853 | b3ch19:218 | "Because I have been told for nine months that nothing we do is against the law." Lee Ju.. |
 | 866 | b3ch22:240 | Lee Jun asked one thing that evening and it was not about any of it. |
@@ -38685,7 +38727,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch07:150` (Tag 707) - twenty
 - `b3ch11:118` (Tag 753) - five
 - `b3ch11:266` (Tag 753) - six
-- `b3ch13:210` (Tag 774) - two
+- `b3ch13:208` (Tag 774) - two
 - `b3ch16:258` (Tag 823) - seven
 - `b3ch19:198` (Tag 853) - two
 - `b3ch19:218` (Tag 853) - nine, two
@@ -39084,8 +39126,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 868 | b3ch23:208 | He told Yoon to sell Electronics. |
-| 868 | b3ch23:216 | Yoon Seok-won has been at Hanseong for twenty-six years and he has run the operating sid.. |
+| 868 | b3ch23:204 | He told Yoon to sell Electronics. |
+| 868 | b3ch23:212 | Yoon Seok-won has been at Hanseong for twenty-six years and he has run the operating sid.. |
 | 870 | b3ch24:6 | Yoon Seok-won asked for a meeting through Mr Chae on the Friday evening and it was arran.. |
 | 870 | b3ch24:36 | "I am not here to give you anything," said Yoon. |
 | 870 | b3ch24:96 | "You have given me the fourth one on purpose," said Yoon. |
@@ -39102,7 +39144,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Yoon Seok-won
 
-- `b3ch23:216` (Tag 868) - nine, twenty-six
+- `b3ch23:212` (Tag 868) - nine, twenty-six
 - `b3ch24:96` (Tag 870) - one
 
 ---
@@ -39125,7 +39167,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 742 | b3ch10:170 | Seol Gwan-ik had come out of the doorway with him. |
 | 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
 | 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
-| 774 | b3ch13:288 | Seol Gwan-ik said in a borrowed room in October that the order would read as caused. |
+| 774 | b3ch13:286 | Seol Gwan-ik said in a borrowed room in October that the order would read as caused. |
 | 861 | b3ch20:312 | Seol Gwan-ik telephoned nobody about it. He wrote back the same day, agreed the date, an.. |
 
 ### Zahlen in der Naehe von Seol Gwan-ik
@@ -39208,8 +39250,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 823 | b3ch16:52 | It says that the group stands behind its shipping arm. It is true, and it is the first t.. |
 | 853 | b3ch19:6 | Han Yong-seok did not telephone anybody in the dark. He filed a complaint. |
 | 853 | b3ch19:110 | Han Yong-seok gave him one, and Han Yong-seok will never know what it cost him. |
-| 868 | b3ch23:90 | Han Yong-seok wrote that sentence on the second of February and had it published, and th.. |
-| 868 | b3ch23:196 | Han Yong-seok did the only thing left and he did it on the eighteenth. |
+| 868 | b3ch23:86 | Han Yong-seok wrote that sentence on the second of February and had it published, and th.. |
+| 868 | b3ch23:192 | Han Yong-seok did the only thing left and he did it on the eighteenth. |
 | 870 | b3ch24:252 | Han Yong-seok did not accept it for two days and then accepted it. |
 | 872 | b3ch25:26 | Han Yong-seok holds nineteen and twenty-two, and the rest is spread. Eleven and nine do .. |
 | 872 | b3ch25:52 | By the Monday afternoon Han Yong-seok's name had stopped appearing on that line, and nob.. |
@@ -39234,18 +39276,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 774 | b3ch13:72 | Mr Bok has the operations desk and has had it for sixteen years. |
 | 774 | b3ch13:78 | Mr Bok is the fourth and the oldest, and the other three put things in front of him with.. |
 | 774 | b3ch13:88 | "It is on the nineteenth," said Mr Bok. |
-| 774 | b3ch13:106 | He asked him what the movement had been booked as, and then what it was booked as now, a.. |
-| 774 | b3ch13:110 | Then Mr Bok said the part he had been carrying since the ninth. |
-| 774 | b3ch13:120 | "Nine hundred boxes off that berth this month and not one came down from Seoul." Mr Bok .. |
-| 774 | b3ch13:124 | Mr Bok came round the desk to the door with them, which he did not have to do. |
-| 774 | b3ch13:202 | "You found the telling. Mr Bok gave it to you twice and I had it once." |
-| 774 | b3ch13:254 | "Mr Bok said Seoul twice. The second time was not an answer to anything, and the boy hea.. |
+| 774 | b3ch13:104 | He asked him what the movement had been booked as, and then what it was booked as now, a.. |
+| 774 | b3ch13:108 | Then Mr Bok said the part he had been carrying since the ninth. |
+| 774 | b3ch13:118 | "Nine hundred boxes off that berth this month and not one came down from Seoul." Mr Bok .. |
+| 774 | b3ch13:122 | Mr Bok came round the desk to the door with them, which he did not have to do. |
+| 774 | b3ch13:200 | "You found the telling. Mr Bok gave it to you twice and I had it once." |
+| 774 | b3ch13:252 | "Mr Bok said Seoul twice. The second time was not an answer to anything, and the boy hea.. |
 
 ### Zahlen in der Naehe von Mr Bok
 
 - `b3ch13:72` (Tag 774) - sixteen
 - `b3ch13:78` (Tag 774) - three
-- `b3ch13:120` (Tag 774) - nine hundred, one
+- `b3ch13:118` (Tag 774) - nine hundred, one
 
 ---
 
@@ -39284,14 +39326,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 762 | b3ch12:190 | "That is not about you," said Mr Namgung. "You will understand that better than anybody .. |
 | 762 | b3ch12:198 | He was there because Mr Namgung has met him twice and does not find him strange, and bec.. |
 | 762 | b3ch12:204 | At the door Mr Namgung said the eleven weeks again. |
-| 762 | b3ch12:236 | "Four times the berth on eleven sailings, and it will be twelve next quarter." Georgij h.. |
-| 848 | b3ch18:153 | Mr Namgung put a second source in front of his board on the nineteenth of January and hi.. |
+| 762 | b3ch12:230 | "Four times the berth on eleven sailings, and it will be twelve next quarter." Georgij h.. |
+| 848 | b3ch18:144 | Mr Namgung put a second source in front of his board on the nineteenth of January and hi.. |
 
 ### Zahlen in der Naehe von Mr Namgung
 
 - `b3ch12:174` (Tag 762) - eleven, fifty-one, one, thirty
 - `b3ch12:204` (Tag 762) - eleven
-- `b3ch12:236` (Tag 762) - eleven, four, twelve, two
+- `b3ch12:230` (Tag 762) - eleven, four, twelve, two
 
 ---
 
@@ -39500,12 +39542,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 788 | b3ch14:80 | Mrs Chun was appointed by the underwriter on the nineteenth. |
-| 788 | b3ch14:124 | Mrs Chun sent the file to the underwriter on the twenty-fifth, which is five working day.. |
+| 788 | b3ch14:74 | Mrs Chun was appointed by the underwriter on the nineteenth. |
+| 788 | b3ch14:118 | Mrs Chun sent the file to the underwriter on the twenty-fifth, which is five working day.. |
 
 ### Zahlen in der Naehe von Mrs Chun
 
-- `b3ch14:124` (Tag 788) - five, six, twenty
+- `b3ch14:118` (Tag 788) - five, six, twenty
 
 ---
 

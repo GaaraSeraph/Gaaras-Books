@@ -1451,3 +1451,45 @@ Anfuehrungszeichen; mit ihnen sind es 35,3. Und `ch26` und `ch29` stehen bei
 Mechanikkapitel schreiben, sondern die Mechanik kuerzen. Der Anteil steigt
 von beiden Seiten, und nur eine davon macht das Buch besser.
 
+### Am 07.09. ausgefuehrt, und die Empfehlung darueber war zur Haelfte falsch
+
+**Gekuerzt wurden die sechs Mechanikkapitel von Akt II und III.** Gestrichen
+wurde nur, was ein zweites Mal dastand oder was der Leser aus einem frueheren
+Kapitel schon hatte.
+
+| Kapitel | vorher | nachher | minus | Redeanteil |
+|---|---|---|---|---|
+| `ch14` | 2115 | **1821** | **294** | 12,6 auf 14,6 |
+| `ch18` | 2160 | 2084 | 76 | 22,3 auf 23,1 |
+| `ch23` | 2047 | 2000 | 47 | 24,9 auf 25,5 |
+| `ch12` | 2029 | 1983 | 46 | 21,6 auf 22,1 |
+| `ch13` | 2075 | 2030 | 45 | 17,9 auf 18,3 |
+| `ch17` | 2057 | 2028 | 29 | 23,3 auf 23,5 |
+
+**Zusammen 537 Woerter, und der Anteil von Akt II und III geht von 25,3 auf
+25,9 Prozent.**
+
+**Was das beweist, ist das Gegenteil dessen, was darueber steht.** Die Kapitel
+waren nicht aufgeblasen. **Genau eins war es**, und `ch14` hat auch vierzehn
+Prozent hergegeben, ohne dass etwas fehlt: eine doppelte Erklaerung der
+Deckung, vier Zeilen ueber einen Versicherer, der vor Januar ohnehin nicht
+antwortet, Zeile neunzehn zum dritten Mal beschrieben, und zweimal dieselbe
+Zusammenfassung von `b3 ch11`. Die anderen fuenf geben zwischen 1,4 und 3,5
+Prozent her, **und das ist die normale Menge Fett in gutem Text.**
+
+**Also ist der niedrige Redeanteil kein Fett, sondern der Gegenstand.** Ein
+Kapitel ueber eine Meldung, eine Forderung und ein Verzeichnis hat nichts, was
+jemand sagen koennte, ohne dass es gestellt wirkt. **Wer den Anteil wirklich
+heben will, muss die Mechanik nicht kuerzen, sondern in Szenen umbauen** -
+also jemanden hinstellen, der sie erklaeren muss. Das ist Neuschreiben und
+nicht Kuerzen, und es ist eine Entscheidung des Autors.
+
+**Was das Kuerzen dagegen wirklich gebracht hat, ist die Spanne, und die stand
+nicht in der Aufgabe.** Band 3 lag vorher zwischen 2004 und 2286 Woertern,
+alle neunundzwanzig Kapitel, und hatte damit als einziger Band ueberhaupt
+keine. Jetzt liegt er zwischen 1821 und 2286, mit zwei Kapiteln unter
+zweitausend. Band 1 hat zwei davon, Band 2 hat acht.
+
+**Die Ursache der Schablone ist benannt und gilt fuer das naechste Mal:** ich
+habe zur Untergrenze geschrieben. `check.py` meldet unter zweitausend einen
+Hinweis, und ich habe den Hinweis als Ziel gelesen statt als Boden.

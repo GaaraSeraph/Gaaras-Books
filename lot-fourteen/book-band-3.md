@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 29 Kapitel, 60.901 Woerter.
+Book Three, 29 Kapitel, 60.364 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -22,18 +22,18 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 09 | v1.12 | 2.097 |
 | 10 | v1.20 | 2.230 |
 | 11 | v1.11 | 2.126 |
-| 12 | v1.11 | 2.029 |
-| 13 | v1.10 | 2.075 |
-| 14 | v1.13 | 2.115 |
+| 12 | v1.12 | 1.983 |
+| 13 | v1.11 | 2.030 |
+| 14 | v1.14 | 1.821 |
 | 15 | v1.10 | 2.274 |
 | 16 | v1.3 | 2.066 |
-| 17 | v1.5 | 2.057 |
-| 18 | v1.3 | 2.160 |
+| 17 | v1.6 | 2.028 |
+| 18 | v1.4 | 2.084 |
 | 19 | v1.3 | 2.286 |
 | 20 | v1.2 | 2.005 |
 | 21 | v1.2 | 2.020 |
 | 22 | v1.2 | 2.004 |
-| 23 | v1.7 | 2.047 |
+| 23 | v1.8 | 2.000 |
 | 24 | v1.5 | 2.032 |
 | 25 | v1.5 | 2.040 |
 | 26 | v1.4 | 2.005 |
@@ -2795,7 +2795,7 @@ It is a list of four brokers, a borrow, a table of cross-holdings, two pages in 
 ---
 
 # Book Three · Chapter 12: The other word
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Seven Hundred and Sixty-Two · Thursday 4 November
 
@@ -2961,11 +2961,7 @@ He had come to say thank you. He had said it. He had also, from January, taken a
 
 * * *
 
-Georgij has spent three months building a thing that has cost nobody anything.
-
-Four brokers who have each been paid a small ordinary fee. A borrow that is paid for monthly and would cost nothing to give back. Two pages in a drawer that cost a woman in a foundation office nothing at all and may never cost her anything.
-
-None of it has been spent. That is what it was built to be.
+Georgij has spent three months building a thing that has cost nobody anything, and none of it has been spent, and that is what it was built to be.
 
 The first thing that has actually happened in six months is hers, and it went out of her account on the third of November, and it is going to go out again in February.
 
@@ -3050,7 +3046,7 @@ But it is not standing still any more, because it is not the only thing in the r
 ---
 
 # Book Three · Chapter 13: Twice
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Seven Hundred and Seventy-Four · Tuesday 16 November
 
@@ -3124,9 +3120,7 @@ Lee Jun stood where he could see the door and the hands and did not sit down whe
 
 He said all of that in front of the boy.
 
-A boy of sixteen standing by a door with nothing in his hands is not a person in an office. He is a chair with a coat over it, and men talk over a chair.
-
-Georgij has watched him arrange that in thirty-one workshops and stopped being pleased about it somewhere around the ninth of them.
+A boy of sixteen standing by a door with nothing in his hands is not a person in an office. He is a chair with a coat over it, and men talk over a chair, and Georgij stopped being pleased about how well he does it somewhere around the ninth workshop.
 
 Georgij did not ask him why.
 
@@ -3284,15 +3278,11 @@ Nobody has seen the instruction and nobody is going to ask for it.
 
 It exists and it has a date. It went from an office in Seoul to a desk in Busan and a girl of twenty-three wrote it on a slip.
 
-A man who wanted it could not get it and would ruin himself trying, and the only thing anybody needs from it today is that it is not weather.
-
 * * *
 
 It does not have to be got. It has to have been there.
 
-Somebody with the standing to ask will ask for it one day, and on that day the only question is whether it existed on the ninth of November.
-
-The answer to that is already fixed, and nobody in this house fixed it.
+Somebody with the standing to ask will ask one day whether it existed on the ninth of November, and the answer is already fixed, and nobody in this house fixed it.
 
 That is the difference between a case and a grievance, and an old man in Seodaemun gave it to him for nothing.
 
@@ -3317,15 +3307,13 @@ Nobody has told him to do that.
 ---
 
 # Book Three · Chapter 14: Who answers
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Seven Hundred and Eighty-Eight · Tuesday 30 November
 
 The claim went in on the seventeenth of November and it is the most ordinary document in this business.
 
 A carrier that is late is liable, and a carrier that is liable carries cover against it, and a shipper who has paid for a substitute claims the difference.
-
-That is what the cover is for. It is why the premium is what it is.
 
 The November claim is one billion four hundred million won. It is the difference on eleven sailings, and the air freight on the one they could not place, and nothing else at all.
 
@@ -3373,8 +3361,6 @@ A shipper who charters round her own carrier for a month and does not claim the 
 
 An auditor who is told that asks why, and the answer is the second thing she has been not saying since May.
 
-The claim is the cheap end of it. The expensive end was already paid in November.
-
 * * *
 
 Mrs Chun was appointed by the underwriter on the nineteenth.
@@ -3415,21 +3401,9 @@ She telephoned to say so.
 
 * * *
 
-The claim is a document, and a document makes other documents.
+A claim of that size opens a file at the underwriter, a file at the adjuster and a file at the broker who placed the cover.
 
-The underwriter opens a file. The adjuster opens a file. The broker who placed the cover opens a file, because a claim of that size against that policy is a thing the broker's own people will be asked about at renewal.
-
-Three companies that are not Hanseong now hold paper with the words *allocation* and *November* on it.
-
-Not one of them has been told anything untrue and not one of them has been asked for a favour.
-
-* * *
-
-The underwriter has not answered and will not answer this side of January.
-
-That is normal and it is not a delay. A file of that size goes to somebody who has forty of them.
-
-The answer, when it comes, will be an offer or a question, and either one will be in writing.
+Three companies that are not Hanseong now hold paper with the words *allocation* and *November* on it, and not one of them has been told anything untrue or asked for a favour.
 
 * * *
 
@@ -3445,8 +3419,6 @@ Georgij read it standing up and did not need it twice.
 
 * * *
 
-That letter says nothing, and it is worth keeping for exactly that reason.
-
 A man who writes that word four times in two pages has been told what he may not write.
 
 * * *
@@ -3457,9 +3429,7 @@ It is a notice of subcontracting. From the first of December, the space under he
 
 Hanseong Shipping remains the contracting carrier and remains liable. That is on the front of it and it is true.
 
-What it does is take the operating record off Hanseong Shipping and put it somewhere else.
-
-The next twelve months of berth decisions belong to a different company. So do the next twelve months of claims, if anybody keeps making them.
+The next twelve months of berth decisions belong to a different company, and so do the next twelve months of claims.
 
 * * *
 
@@ -3469,9 +3439,7 @@ It is row nineteen.
 
 * * *
 
-Row nineteen is the company that is on that table twice, under a name it stopped using in 2019 and the name it uses now.
-
-It is neither profitable nor interesting. It holds a piece of Hanseong Shipping and a piece of Hanseong Credit, and nobody outside a filing office has looked at it in a decade.
+Row nineteen is the company that is on that table twice, under the name it stopped using in 2019 and the name it uses now.
 
 Annie holds a block of it, bought in four pieces in September, under every line at which anybody has to be told.
 
@@ -3497,13 +3465,7 @@ Two are on the Busan feeder run and two are chartered out. It has one office abo
 
 It has no legal department, because a company with four ships does not have one and could not use one.
 
-Hanseong Shipping has a legal department, and a legal department wrote that answer.
-
-From the first of December the questions about allocation go to that office.
-
-The man there will answer them briefly and in his own words, because that is how one man with one office answers anything.
-
-That is the part Han has not looked at, and it is not the small part.
+A legal department wrote that two-page answer. From the first of December the questions about allocation go to a man with one office, and he will answer them briefly and in his own words.
 
 * * *
 
@@ -3511,17 +3473,15 @@ Nobody is going to write to the partner.
 
 A letter to a four-ship company from anybody in this house is a letter that gets shown to somebody, and the somebody is in Seoul.
 
-The notice will be acknowledged in the ordinary way by the ordinary person. The first of December will happen. The first allocation under the new arrangement will be made by a man who has never made one for her before.
-
-That is the thing to wait for, and waiting for it costs nothing.
+The first allocation under the new arrangement will be made by a man who has never made one for her before. That is the thing to wait for, and waiting for it costs nothing.
 
 * * *
 
 December is twelve charters and not eleven.
 
-Nothing in the notice changes that. A four-ship company with two of the four chartered out is not going to find her a window in the week before Christmas, and she is not going to ask it to.
+A four-ship company with two of the four chartered out is not going to find her a window in the week before Christmas, and she is not going to ask it to.
 
-The cost goes on. It goes on into February, and it goes on being on the front of the quarter under its own name.
+The cost goes on into February, under its own name, on the front of the quarter.
 
 * * *
 
@@ -3573,11 +3533,7 @@ That is the fourth time this year he has written something down in order to be a
 
 * * *
 
-None of that was ever going to arrive by post.
-
-The cross-holdings existed and sat in a filing office. Anybody who spent four months on them could have had them, and Mr Hwang spent four months on them. The two pages in the drawer name what they name because of it.
-
-Everything this house knows about that company, it went and got.
+Everything this house knows about that company, it went and got. Four months of it, in a filing office, by a man of fifty-five.
 
 Except this.
 
@@ -4100,7 +4056,7 @@ The twentieth day is the twentieth of January. It is going to arrive whether any
 ---
 
 # Book Three · Chapter 17: Four minutes
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Eight Hundred and Thirty-Nine · Thursday 20 January
 
@@ -4164,8 +4120,6 @@ That is the one that matters, and the reason is one line on the second page of a
 
 * * *
 
-A lender is worth what people think it can pay.
-
 Hanseong Credit had just told the world that it lent a hundred and twenty billion won to a related company whose ability to repay depends on getting back business it has lost.
 
 Nobody at Hanseong wrote that sentence. Hanseong Shipping wrote a true sentence about itself, and the true sentence was about somebody else.
@@ -4192,7 +4146,7 @@ The sheet with the line through it and the date under the line is in a drawer in
 
 The third of the three small holdings is row nineteen, and row nineteen fell with everything else.
 
-It is not profitable, it is not interesting, and nobody had looked at it in a decade. It holds pieces of two companies that both went down on the same morning, so it went down further than either of them did.
+It holds pieces of two companies that both went down on the same morning, so it went down further than either of them did.
 
 Annie has been its largest outside holder since September. On the twentieth of January that was worth about six hundred million won less than it had been worth on the nineteenth.
 
@@ -4238,13 +4192,11 @@ She went back to the desk and picked the pen up.
 
 She bought on the twenty-fourth, and the four days in between were not caution.
 
+She bought through the Jeju company, which already held a little, and she bought for four days, and on the second of them she crossed five per cent.
+
 A price that falls nineteen per cent in a morning does not stay still. It came back three, and then went down five, and on the Monday it did nothing at all for six hours.
 
 That is the shape a price makes when the people who were going to sell have sold. Mr Hwang calls it the flat part, and says there is one in every fall, and that nobody can see it until it is over.
-
-She bought through the Jeju company, which already held a little, and she bought for four days.
-
-On the second of the four she crossed five per cent.
 
 * * *
 
@@ -4333,7 +4285,7 @@ Under the second one he wrote the thing he did not want to write and wrote it an
 ---
 
 # Book Three · Chapter 18: The other bank
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Eight Hundred and Forty-Eight · Saturday 29 January
 
@@ -4373,7 +4325,7 @@ There is a third possibility, and it is the only one left.
 
 An administrator's first duty is to find out who is owed what.
 
-He cannot pay anybody until he knows the order, so he builds a list. The list goes to a court. Everyone who thinks they should be on it and is not says so, in writing, by a date, and everyone who is on it for the wrong amount says that too.
+He cannot pay anybody until he knows the order, so he builds a list, and the list goes to a court, and everybody who is on it for the wrong amount says so in writing by a date.
 
 Then it is settled, and it becomes a schedule, and the schedule is a public document that nobody ever reads.
 
@@ -4385,7 +4337,7 @@ Georgij ordered a copy in November for forty thousand won and a form. It came in
 
 He read it between the twenty-sixth of December and the second of January.
 
-Not all of it. The first four hundred pages are individual depositors and there are eleven thousand of them, and he read those the way a man reads a directory, which is to say quickly and once, and he stopped four times.
+Not all of it. The first four hundred pages are individual depositors and there are eleven thousand of them, and he read those the way a man reads a directory, and he stopped four times.
 
 The corporate claims begin on page six hundred and nine.
 
@@ -4398,13 +4350,6 @@ Four billion, one hundred and sixteen million.
 Not four hundred billion. Four.
 
 * * *
-
-Two documents, and both of them are true in the sense that both of them exist.
-
-| | says |
-|---|---|
-| Hanseong Credit's own accounts, December 2024 | four hundred billion won at Sunjin |
-| the administrator of Sunjin, October 2026 | Hanseong Credit had four billion with us |
 
 Nobody stole either of them. One was published by the company itself and the other was filed at a court, and the two of them have been sitting a hundred and eighty kilometres apart for sixteen months.
 
@@ -4474,7 +4419,7 @@ Han has done it again, one company further out. This time the company he has rea
 
 The other thing came out of the same four months and it has nothing to do with any of it.
 
-Hanseong Credit does not move money in a straight line. It never has. It goes out through a holding company called Jinyang, which does nothing else and has three employees, and Jinyang holds through a chain of law firms in Singapore that hold for clients.
+Hanseong Credit has never moved money in a straight line. It goes out through a holding company called Jinyang, which does nothing else and has three employees, and Jinyang holds through a chain of law firms in Singapore that hold for clients.
 
 Georgij has read that chain twice before. Once in the January of his first year here, and once in the spring of the year after.
 
@@ -5483,7 +5428,7 @@ Under the second one there is a third line that was written later, in different 
 ---
 
 # Book Three · Chapter 23: The bulletin
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Eight Hundred and Sixty-Eight · Friday 18 February
 
@@ -5511,11 +5456,9 @@ The ministry has had the bulletin since the eleventh of November.
 
 It was sent to the defect investigation bureau with a covering letter of six lines.
 
-The letter is from a foreign national with no standing and no interest in any vehicle of that make. It says where he got the bulletin, which is from workshops, in the ordinary course of asking them about their business. It gives his own name and address. It asks for nothing.
+It is from a foreign national with no standing and no interest in any vehicle of that make. It says where he got the bulletin, it gives his own name and address, and it asks for nothing.
 
 The bureau acknowledged it on the fourteenth. Then it did what a bureau does, which is to obtain the bulletin independently from four workshops of its own choosing, and to buy two of the pumps, and to take ninety-eight days.
-
-Nobody was telephoned. Nobody was owed anything. There is a letter in a file with a name at the bottom of it and anybody may read it.
 
 * * *
 
@@ -5523,7 +5466,7 @@ Sixty workshops were visited between June and September.
 
 Every one of them was asked the same four questions. Every one of them was told who was asking and why, which is that a woman was thinking about a large fleet and wanted to know what the trade thought of the vehicles.
 
-That was true when it was said and it is still true, and there is a fleet enquiry in Mr Chae's file dated the second of June to prove it.
+That was true when it was said and there is a fleet enquiry in Mr Chae's file dated the second of June to prove it.
 
 Forty-one of the sixty produced the bulletin without being asked for it.
 
