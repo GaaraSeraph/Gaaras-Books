@@ -1,0 +1,310 @@
+# Chapter 17: Four minutes
+*Lot Fourteen* · Version 1.2 · EN
+
+## Day Eight Hundred and Thirty-Nine · Thursday 20 January
+
+The answer went on the filing system at eight in the morning and it is three pages long.
+
+---
+
+A listed company that gives material information to one shareholder has to give it to all of them, and it has twenty days, and the twentieth day was the twentieth.
+
+Hanseong Shipping could have answered in four lines and said nothing. It answered properly, because the man who wrote it is a company secretary of thirty years' standing and because a shipping company that has just been lent money by its sister has no interesting way to be vague.
+
+---
+
+The three pages say what the hundred and twenty billion is for.
+
+They say that the December and January obligations of the company exceed its available working capital. They say that two claims are outstanding and one is reserved. They say that the arrangement with the partner operator carries a cost differential which the company bears.
+
+And on the second page there is a sentence that is entirely correct and that nobody at Hanseong read twice. The facility is repayable in September. The company's ability to repay it depends on the return of contracted volumes.
+
+* * *
+
+Georgij read it at four minutes past eight, which is when the alert reached the house, and he had it all by ten past.
+
+---
+
+There was nothing in it he did not know. That is not what he was reading it for.
+
+He was reading it to find out whether it existed, and it existed, and it had a time on it.
+
+---
+
+He telephoned nobody. Annie was at the desk by twenty past and she did not ask him anything for a while.
+
+* * *
+
+The first order went in at twelve minutes past nine.
+
+---
+
+That is not four minutes. It is one hour and twelve, and the difference is the whole of the discipline.
+
+A machine that starts on a filing starts on the second the filing appears. Four brokers in three countries had standing instructions that did not say *when the news breaks*. They said *on my instruction, and not before, and there will be no instruction outside market hours*.
+
+---
+
+The market opened at nine. Annie gave the instruction at nine.
+
+The price of Hanseong Credit had already moved eleven per cent by the time anything of hers was live.
+
+* * *
+
+"Say the number," said Annie.
+
+---
+
+"It cost between nine and eleven billion won against a start at the open." Georgij had the sheet and was not holding it out. "Against a start at eight-oh-four it would have been more, and I am not going to give you that figure, because you would only be paying for it twice."
+
+"Give it to me."
+
+---
+
+He gave it to her.
+
+She read it, and put it face down on the desk, and did not say anything about it at all.
+
+* * *
+
+By eleven the group's paper had done three different things and only one of them was interesting.
+
+---
+
+Hanseong Shipping fell and it does not matter, because it is small and because half of it is held by two people who were not selling.
+
+Hanseong Motors fell four per cent and came back, because Motors is a real company with real cash and the market knows it.
+
+---
+
+Hanseong Credit fell nineteen per cent and stayed down.
+
+That is the one that matters, and the reason is one line on the second page of a document about a shipping company.
+
+* * *
+
+A lender is worth what people think it can pay.
+
+---
+
+Hanseong Credit had just told the world that it lent a hundred and twenty billion won to a related company whose ability to repay depends on getting back business it has lost.
+
+Nobody at Hanseong wrote that sentence. Hanseong Shipping wrote a true sentence about itself, and the true sentence was about somebody else.
+
+---
+
+The nine banks in the Credit syndicate have a covenant that is tested in March.
+
+They did not do anything on the twentieth of January. They are banks. What they did was ask for the same information they get every quarter, four weeks earlier than they usually ask for it.
+
+* * *
+
+At two in the afternoon a man in a government building in Yeouido opened the filing, read it twice, and put a note against the name of the company in a file that has been open since October.
+
+---
+
+Nobody in that house knows that, and nobody in that house is going to know it for five weeks.
+
+* * *
+
+Park Sang-hoon did nothing.
+
+---
+
+He holds forty per cent of the company whose document moved the market, and he did not sell a share of it, and he did not buy one, and he did not telephone anybody.
+
+The sheet with the line through it and the date under the line is in a drawer in that house with two pages that have no date on them.
+
+* * *
+
+The third of the three small holdings is row nineteen, and row nineteen fell with everything else.
+
+---
+
+It is not profitable, it is not interesting, and nobody had looked at it in a decade. It holds pieces of two companies that both went down on the same morning, so it went down further than either of them did.
+
+---
+
+Annie has been its largest outside holder since September. On the twentieth of January that was worth about six hundred million won less than it had been worth on the nineteenth.
+
+She did not sell any of it, and she did not say anything about it either.
+
+* * *
+
+The short side paid out over four days and Annie did not look at the figure until the fourth.
+
+---
+
+She looked at it once. Then she moved most of it into the account that the buying is done out of and left the rest where it was.
+
+---
+
+"Say it out loud," she said. "I want to hear whether it sounds like what I think it is."
+
+"Nothing that has been done in this house since May was done for that money." Georgij was at the side of the desk. "The money exists because a price fell, and the price fell because a company answered a shareholder's question honestly, and the shareholder asked it because he wanted to."
+
+---
+
+"And the reason he had something to ask about."
+
+"Is a man who lent money to his own shipping arm and guaranteed it with a car company." He did not soften any of it. "He did that on the twenty-ninth of December and no living person told him to."
+
+* * *
+
+"That is not an answer to the question I asked."
+
+---
+
+Annie had turned the chair to face him, which she does perhaps four times a year.
+
+"I asked whether it sounds like what I think it is."
+
+---
+
+"It sounds like a woman who has just made a great deal of money out of a company she is going to buy."
+
+"Yes."
+
+---
+
+"And every word of the answer is true, and it will not survive four minutes in front of a man who has decided otherwise." Georgij did not move. "That is what it cost. It did not cost the eleven billion."
+
+* * *
+
+She went back to the desk and picked the pen up.
+
+---
+
+"Then we do the next one properly."
+
+"We do the next one exactly as slowly."
+
+* * *
+
+She bought on the twenty-fourth, and the four days in between were not caution.
+
+---
+
+A price that falls nineteen per cent in a morning does not stay still. It came back three, and then went down five, and on the Monday it did nothing at all for six hours.
+
+That is the shape a price makes when the people who were going to sell have sold. Mr Hwang calls it the flat part, and says there is one in every fall, and that nobody can see it until it is over.
+
+---
+
+She bought through the Jeju company, which already held a little, and she bought for four days.
+
+On the second of the four she crossed five per cent.
+
+* * *
+
+A holder who crosses five per cent of a listed company files a report, and the report names the person behind the company.
+
+---
+
+It went in on the twenty-sixth of January, five business days after the crossing, as the rule requires. It is one page. It has her name on it.
+
+That is the first time in nine months that any part of this has been done in public under a name.
+
+---
+
+"Read me the purpose box," said Annie.
+
+"It has three choices and we have marked the one that says participation in management."
+
+---
+
+"Not investment."
+
+"Not investment. Investment is the comfortable box and it would have been untrue by March." Georgij had the copy in front of him. "The box we have marked says that you intend to have a view about how that company is run. A person who marks it is allowed to be a nuisance and is not allowed to be a surprise."
+
+---
+
+Annie signed it where the pen went.
+
+"Then everybody knows on Wednesday."
+
+"Everybody who reads that system knows on Wednesday. About four hundred people in this country read it before lunch."
+
+* * *
+
+By Thursday there had been two telephone calls and one of them was a newspaper.
+
+---
+
+The newspaper wanted to know whether there was going to be a bid. Mr Chae said what he had been told to say, which is that the filing says what it says and that the company has nothing to add to it.
+
+He said it in eleven words and did not enjoy that either.
+
+---
+
+The other call was Park Sang-hoon's secretary. She arranged nothing and confirmed nothing, and asked whether Wednesday's filing was the one they had all read correctly.
+
+The answer given was yes.
+
+---
+
+Nothing else was said. Nobody expected anything else to be said, and both houses understood the call perfectly.
+
+* * *
+
+Mr Chae came up on the Friday with something that was not about any of it.
+
+---
+
+He had two pages from the Ulsan chemical company's broker, which he had not asked for and had been sent, and a covering line of four words: *You will want this.*
+
+The Ulsan company is now the third shipper to have printed the port authority record.
+
+---
+
+"That is not us," said Mr Chae.
+
+"No."
+
+---
+
+"I have been doing this for thirty-two years and I have never once seen a thing come loose on its own." He put the pages down square. "I would like it noted that I do not enjoy watching it."
+
+* * *
+
+Lee Jun asked the only question anybody asked him that week and he asked it on the stairs.
+
+---
+
+"How many people lost money this morning, sir?"
+
+"A great many."
+
+---
+
+"Do you know who they are?"
+
+"No." Georgij did not soften it either. "Some of them are funds and some of them are men in Busan who bought that company in an index in 2004 and have never sold it because selling would be a decision."
+
+---
+
+Lee Jun did not say anything for a moment.
+
+"The man who asked the question."
+
+"Him too."
+
+---
+
+"Then he made it happen and it cost him."
+
+"Yes. And he does not know that he made it happen, and nobody in this house is ever going to tell him."
+
+* * *
+
+Georgij wrote two lines in the book at about ten.
+
+*Nine months of nothing ended at nine twelve on a Thursday and the room was empty.*
+
+*Credit is down nineteen and the covenant is in March.*
+
+---
+
+Under the second one he wrote the thing he did not want to write and wrote it anyway, because a page that only holds what is convenient is a page for somebody else.
+
+*A pension fund in Busan is down about four hundred million won and he asked the question himself.*

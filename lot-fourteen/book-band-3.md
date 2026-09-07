@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 15 Kapitel, 31.866 Woerter.
+Book Three, 20 Kapitel, 42.023 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -26,6 +26,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 13 | v1.10 | 2.075 |
 | 14 | v1.13 | 2.115 |
 | 15 | v1.10 | 2.274 |
+| 16 | v1.1 | 2.061 |
+| 17 | v1.2 | 2.060 |
+| 18 | v1.1 | 2.001 |
+| 19 | v1.1 | 2.028 |
+| 20 | v1.1 | 2.007 |
 
 ---
 
@@ -3861,3 +3866,1135 @@ Georgij wrote two lines in the book at about ten.
 *Not that date. Han's.*
 
 He did not write the other thing down.
+
+---
+
+# Book Three · Chapter 16: Comfort
+*Lot Fourteen* · Version 1.1 · EN
+
+## Day Eight Hundred and Twenty-Three · Tuesday 4 January
+
+Three things happened to Hanseong Shipping in December and two of them were done by this house in writing.
+
+The claim went to the underwriter on the twenty-fifth of November and the underwriter put a reserve against it on the ninth of December. A reserve is not a payment. It is a number a company has to carry on its own books until the thing is settled, and it is the reason a carrier's cover costs what it costs the following year.
+
+The second was not this house at all.
+
+A chemical company in Ulsan read the port authority record of the changed allocations. It is public, and it had been printed out once in November for a claim file. Then it asked its own broker why nobody had told it that two of its own sailings in September were moved after booking.
+
+It claimed on the twenty-second of December. It is a smaller claim and it is a worse one, because it is the second.
+
+The third is arithmetic. The traffic that went to a company with four ships went at a rate that a company with four ships has to charge, and Hanseong Shipping is paying the difference itself, because it is still the contracting carrier.
+
+* * *
+
+By the middle of December Hanseong Shipping needed money by a date.
+
+Not a great deal of it and not for long. A revolving facility of eighty billion won came up for renewal on the eleventh of January. A bank that has just watched two claims arrive and a reserve go on asks one more question than it asked last year.
+
+That is the whole of the pressure, and nobody applied it.
+
+Georgij wrote three lines about it in the second week of December and did nothing else. There was nothing to do. A man who is in a hole and who is proud does not need help.
+
+* * *
+
+The board of Hanseong Credit met on the twenty-ninth of December and the board of Hanseong Motors met on the same afternoon.
+
+Hanseong Credit extended a short-term line of one hundred and twenty billion won to Hanseong Shipping, repayable in September, at a rate that a bank would not have offered.
+
+Hanseong Motors guaranteed it.
+
+The word on the paper is *stabilisation*. Then *continuity of service to customers*. Then, in the fourth paragraph, and it is the reason the whole thing exists, *creditor comfort*.
+
+It says that the group stands behind its shipping arm. It is true, and it is the first true thing Han Yong-seok has written down this year.
+
+* * *
+
+The minutes of the Motors board run to two and a half pages and one line of them is not ordinary.
+
+*Mr Ryu asked that his view be recorded.*
+
+It was recorded in nine words.
+
+> *A guarantee from Motors makes this a group matter.*
+
+Georgij read that line four times.
+
+A man who gets nine words into the minutes of a board he does not control has done the only thing available to him. He did it knowing that it would change nothing on the day, and knowing who would read it afterwards.
+
+* * *
+
+None of it was stolen and none of it came from anybody inside that group.
+
+A guarantee of that size between two listed companies in the same group is a related-party transaction. It is disclosed to the exchange in three lines that say nothing. It is disclosed properly, and in full, to four places that are entitled to it.
+
+The agent bank of the Credit syndicate. The auditors of Motors. The trustee of an outstanding Motors bond. And the shareholders of the company that receives the money.
+
+Hanseong Shipping has a register.
+
+The pension fund in Busan has been on that register since 2004.
+
+* * *
+
+The man who runs it telephoned Mr Hwang on the fourth of January, which is a Tuesday, and he was not returning anybody's call.
+
+"You wrote to me in September about a borrow," he said. "I have a different question and it is not about that, and I am asking you because you are the only person outside my own committee who has written to me about that company in four years."
+
+Mr Hwang said that he would listen and that he would not advise.
+
+"A company I hold shares in has just been lent one hundred and twenty billion won by its sister, and a third sister has guaranteed it. Nobody has explained to me what my company is going to do with the money."
+
+"Then ask them."
+
+"I have. In writing, on the thirtieth, and I have put it to my committee, and my committee thinks I am making work." He was not complaining about it. "They have to answer me in writing and they have twenty days. I would like somebody to know that I asked."
+
+* * *
+
+Georgij did not tell him anything and did not ask him for anything.
+
+He had not told him in October either. The man said then that he would read something if there were ever anything to read, and would put it to his committee, and would lose, and would put it again. He is doing it without anything to read.
+
+That is the second time this year that somebody has done the useful thing for a reason of their own.
+
+* * *
+
+Chairman Woo telephoned on the second of January and did not want anything.
+
+He was eighty in September. He did not mention it then and he did not mention it now, and the only person in that house who marked the day marked it in a book that nobody reads.
+
+"I have been reading about a shipping company," said Woo. "Not hers. The other one."
+
+"Yes, sir."
+
+"There was a line in a filing on Friday that I did not understand." He was not amused about it. "The one where a car company puts its name behind a boat."
+
+"Yes."
+
+"I am not asking you what it means. I am telling you that an old man read it on Friday and had to sit down, and that he has been in this trade since before your mother was born."
+
+Georgij did not tell him that there was going to be anything.
+
+"May I ask how you are, sir?"
+
+"You may ask, and you have asked." There was something at the other end that was not quite a laugh. "I am eighty and I am not going to describe it to you."
+
+* * *
+
+Annie read the paper at the desk with her coat still over the back of the chair.
+
+"Say what it is."
+
+"It is the first document in this since May with his name on the bottom of it." Georgij was at the side of the desk. "Everything else has been ours, or a third party's, or a public record. This one is his, and it puts three companies on one page."
+
+"Shipping, Credit, Motors."
+
+"Shipping needs money. Credit lends it. Motors stands behind it." He did not hurry any of it. "Until the twenty-ninth of December those were three companies with a surname in common. They are now one exposure, and the man who made them one wrote it himself and dated it."
+
+Annie turned the page over and looked at the back of it, which was blank, and turned it back.
+
+"And he thinks it is strength."
+
+"He thinks it is the answer to a question about whether his house can hold itself up." Georgij looked at the fourth paragraph. "He is right. It can. That is not the part that matters."
+
+* * *
+
+"Then say the part that matters."
+
+"A guarantee is a door between two companies that did not have one." He had not moved. "For four months I have been reading Motors and Credit as two separate things, because that is what they were, and everything I had about one of them stopped at its own edge. It does not stop any more, and he is the reason."
+
+"Because now anything true about one of them is a fact about the other."
+
+"Yes."
+
+Annie put the cap back on the pen and did not pick it up again.
+
+* * *
+
+She asked the only question that was left and she asked it flatly.
+
+"Do we go now."
+
+"No."
+
+"Why not."
+
+"Because nothing has been published." Georgij said it the way he says the things he has said before. "The rule is yours and it has not changed and it costs the same today as it cost in September."
+
+"Say it back to me."
+
+"Not a minute before the timestamp. Not a broker warmed up on the morning of." He did not look away from the page. "There will be a morning, and on that morning we will be four minutes late and correct, and the two things that look identical on a chart will still not be the same thing in a room."
+
+"Then we wait for the twentieth day."
+
+* * *
+
+Mr Hwang came up on the Monday with the tables and one sheet that was not a table.
+
+He had put the December numbers of the four-ship partner next to those of Hanseong Shipping's own feeder run. The two do not go together at all. He had written one line under it and nothing else.
+
+*This is not a company that can carry this traffic in March.*
+
+"That is not in the six tables," said Georgij.
+
+"No. It is in the one I made on Saturday because I could not leave it alone." Mr Hwang put his coat over his arm, which is what he does instead of sitting down. "I have been doing this for thirty-one years and I have never once been paid to be right about a thing four months early."
+
+"You are not being paid for it now."
+
+"I am aware."
+
+* * *
+
+There are fifty-eight names and there are now nine.
+
+Mr Hwang found the fifth and the sixth in November, both in the same county. A woman in Gimhae who is on the list and who is alive wrote back in December. She did not wish to be found, and would be grateful if nobody wrote to her again.
+
+She is counted. She is the seventh, and the letter has been kept.
+
+Two of the fifty-eight are dead and neither of them died recently.
+
+Moon Hae-sook has the names and sits in a chair by the kitchen garden and is slower than she was in the spring, and none of that has been written down anywhere either.
+
+* * *
+
+Lee Jun came in at seven with the post and did not go out again.
+
+"May I say something that is not about the post, sir?"
+
+"You may."
+
+"The man from Busan who telephoned Mr Hwang." He had the door in one hand. "He is a shareholder of the company that is being lent the money, and he has asked what it is for. I have read what happened in November four times and I cannot find the part where we made him do that."
+
+"There is no such part."
+
+"Then he did it because he wanted to."
+
+"Yes."
+
+Lee Jun thought about that for longer than the answer needed.
+
+"That is the first thing in nine months that nobody built."
+
+* * *
+
+Georgij wrote three lines in the book at about ten.
+
+*He has put the three of them on one page and he thinks it is a wall.*
+
+*Ryu got nine words into the minutes and knew what they were worth.*
+
+*The man in Busan asked on the thirtieth. Twenty days.*
+
+He looked at the third one and did not underline it, because he does not do that.
+
+The twentieth day is the twentieth of January. It is going to arrive whether anybody in that house is ready for it or not.
+
+---
+
+# Book Three · Chapter 17: Four minutes
+*Lot Fourteen* · Version 1.2 · EN
+
+## Day Eight Hundred and Thirty-Nine · Thursday 20 January
+
+The answer went on the filing system at eight in the morning and it is three pages long.
+
+A listed company that gives material information to one shareholder has to give it to all of them, and it has twenty days, and the twentieth day was the twentieth.
+
+Hanseong Shipping could have answered in four lines and said nothing. It answered properly, because the man who wrote it is a company secretary of thirty years' standing and because a shipping company that has just been lent money by its sister has no interesting way to be vague.
+
+The three pages say what the hundred and twenty billion is for.
+
+They say that the December and January obligations of the company exceed its available working capital. They say that two claims are outstanding and one is reserved. They say that the arrangement with the partner operator carries a cost differential which the company bears.
+
+And on the second page there is a sentence that is entirely correct and that nobody at Hanseong read twice. The facility is repayable in September. The company's ability to repay it depends on the return of contracted volumes.
+
+* * *
+
+Georgij read it at four minutes past eight, which is when the alert reached the house, and he had it all by ten past.
+
+There was nothing in it he did not know. That is not what he was reading it for.
+
+He was reading it to find out whether it existed, and it existed, and it had a time on it.
+
+He telephoned nobody. Annie was at the desk by twenty past and she did not ask him anything for a while.
+
+* * *
+
+The first order went in at twelve minutes past nine.
+
+That is not four minutes. It is one hour and twelve, and the difference is the whole of the discipline.
+
+A machine that starts on a filing starts on the second the filing appears. Four brokers in three countries had standing instructions that did not say *when the news breaks*. They said *on my instruction, and not before, and there will be no instruction outside market hours*.
+
+The market opened at nine. Annie gave the instruction at nine.
+
+The price of Hanseong Credit had already moved eleven per cent by the time anything of hers was live.
+
+* * *
+
+"Say the number," said Annie.
+
+"It cost between nine and eleven billion won against a start at the open." Georgij had the sheet and was not holding it out. "Against a start at eight-oh-four it would have been more, and I am not going to give you that figure, because you would only be paying for it twice."
+
+"Give it to me."
+
+He gave it to her.
+
+She read it, and put it face down on the desk, and did not say anything about it at all.
+
+* * *
+
+By eleven the group's paper had done three different things and only one of them was interesting.
+
+Hanseong Shipping fell and it does not matter, because it is small and because half of it is held by two people who were not selling.
+
+Hanseong Motors fell four per cent and came back, because Motors is a real company with real cash and the market knows it.
+
+Hanseong Credit fell nineteen per cent and stayed down.
+
+That is the one that matters, and the reason is one line on the second page of a document about a shipping company.
+
+* * *
+
+A lender is worth what people think it can pay.
+
+Hanseong Credit had just told the world that it lent a hundred and twenty billion won to a related company whose ability to repay depends on getting back business it has lost.
+
+Nobody at Hanseong wrote that sentence. Hanseong Shipping wrote a true sentence about itself, and the true sentence was about somebody else.
+
+The nine banks in the Credit syndicate have a covenant that is tested in March.
+
+They did not do anything on the twentieth of January. They are banks. What they did was ask for the same information they get every quarter, four weeks earlier than they usually ask for it.
+
+* * *
+
+At two in the afternoon a man in a government building in Yeouido opened the filing, read it twice, and put a note against the name of the company in a file that has been open since October.
+
+Nobody in that house knows that, and nobody in that house is going to know it for five weeks.
+
+* * *
+
+Park Sang-hoon did nothing.
+
+He holds forty per cent of the company whose document moved the market, and he did not sell a share of it, and he did not buy one, and he did not telephone anybody.
+
+The sheet with the line through it and the date under the line is in a drawer in that house with two pages that have no date on them.
+
+* * *
+
+The third of the three small holdings is row nineteen, and row nineteen fell with everything else.
+
+It is not profitable, it is not interesting, and nobody had looked at it in a decade. It holds pieces of two companies that both went down on the same morning, so it went down further than either of them did.
+
+Annie has been its largest outside holder since September. On the twentieth of January that was worth about six hundred million won less than it had been worth on the nineteenth.
+
+She did not sell any of it, and she did not say anything about it either.
+
+* * *
+
+The short side paid out over four days and Annie did not look at the figure until the fourth.
+
+She looked at it once. Then she moved most of it into the account that the buying is done out of and left the rest where it was.
+
+"Say it out loud," she said. "I want to hear whether it sounds like what I think it is."
+
+"Nothing that has been done in this house since May was done for that money." Georgij was at the side of the desk. "The money exists because a price fell, and the price fell because a company answered a shareholder's question honestly, and the shareholder asked it because he wanted to."
+
+"And the reason he had something to ask about."
+
+"Is a man who lent money to his own shipping arm and guaranteed it with a car company." He did not soften any of it. "He did that on the twenty-ninth of December and no living person told him to."
+
+* * *
+
+"That is not an answer to the question I asked."
+
+Annie had turned the chair to face him, which she does perhaps four times a year.
+
+"I asked whether it sounds like what I think it is."
+
+"It sounds like a woman who has just made a great deal of money out of a company she is going to buy."
+
+"Yes."
+
+"And every word of the answer is true, and it will not survive four minutes in front of a man who has decided otherwise." Georgij did not move. "That is what it cost. It did not cost the eleven billion."
+
+* * *
+
+She went back to the desk and picked the pen up.
+
+"Then we do the next one properly."
+
+"We do the next one exactly as slowly."
+
+* * *
+
+She bought on the twenty-fourth, and the four days in between were not caution.
+
+A price that falls nineteen per cent in a morning does not stay still. It came back three, and then went down five, and on the Monday it did nothing at all for six hours.
+
+That is the shape a price makes when the people who were going to sell have sold. Mr Hwang calls it the flat part, and says there is one in every fall, and that nobody can see it until it is over.
+
+She bought through the Jeju company, which already held a little, and she bought for four days.
+
+On the second of the four she crossed five per cent.
+
+* * *
+
+A holder who crosses five per cent of a listed company files a report, and the report names the person behind the company.
+
+It went in on the twenty-sixth of January, five business days after the crossing, as the rule requires. It is one page. It has her name on it.
+
+That is the first time in nine months that any part of this has been done in public under a name.
+
+"Read me the purpose box," said Annie.
+
+"It has three choices and we have marked the one that says participation in management."
+
+"Not investment."
+
+"Not investment. Investment is the comfortable box and it would have been untrue by March." Georgij had the copy in front of him. "The box we have marked says that you intend to have a view about how that company is run. A person who marks it is allowed to be a nuisance and is not allowed to be a surprise."
+
+Annie signed it where the pen went.
+
+"Then everybody knows on Wednesday."
+
+"Everybody who reads that system knows on Wednesday. About four hundred people in this country read it before lunch."
+
+* * *
+
+By Thursday there had been two telephone calls and one of them was a newspaper.
+
+The newspaper wanted to know whether there was going to be a bid. Mr Chae said what he had been told to say, which is that the filing says what it says and that the company has nothing to add to it.
+
+He said it in eleven words and did not enjoy that either.
+
+The other call was Park Sang-hoon's secretary. She arranged nothing and confirmed nothing, and asked whether Wednesday's filing was the one they had all read correctly.
+
+The answer given was yes.
+
+Nothing else was said. Nobody expected anything else to be said, and both houses understood the call perfectly.
+
+* * *
+
+Mr Chae came up on the Friday with something that was not about any of it.
+
+He had two pages from the Ulsan chemical company's broker, which he had not asked for and had been sent, and a covering line of four words: *You will want this.*
+
+The Ulsan company is now the third shipper to have printed the port authority record.
+
+"That is not us," said Mr Chae.
+
+"No."
+
+"I have been doing this for thirty-two years and I have never once seen a thing come loose on its own." He put the pages down square. "I would like it noted that I do not enjoy watching it."
+
+* * *
+
+Lee Jun asked the only question anybody asked him that week and he asked it on the stairs.
+
+"How many people lost money this morning, sir?"
+
+"A great many."
+
+"Do you know who they are?"
+
+"No." Georgij did not soften it either. "Some of them are funds and some of them are men in Busan who bought that company in an index in 2004 and have never sold it because selling would be a decision."
+
+Lee Jun did not say anything for a moment.
+
+"The man who asked the question."
+
+"Him too."
+
+"Then he made it happen and it cost him."
+
+"Yes. And he does not know that he made it happen, and nobody in this house is ever going to tell him."
+
+* * *
+
+Georgij wrote two lines in the book at about ten.
+
+*Nine months of nothing ended at nine twelve on a Thursday and the room was empty.*
+
+*Credit is down nineteen and the covenant is in March.*
+
+Under the second one he wrote the thing he did not want to write and wrote it anyway, because a page that only holds what is convenient is a page for somebody else.
+
+*A pension fund in Busan is down about four hundred million won and he asked the question himself.*
+
+---
+
+# Book Three · Chapter 18: The other bank
+*Lot Fourteen* · Version 1.1 · EN
+
+## Day Eight Hundred and Forty-Eight · Saturday 29 January
+
+A lender is worth what people believe it can pay, and belief is a document.
+
+Hanseong Credit lends money and borrows money in order to lend it. Nobody hands a company like that anything unless it can show what it has, so once a year it publishes what it has, and an auditor writes underneath that he has looked.
+
+On page forty-one of the accounts for the year to December 2024 there is a line.
+
+*Cash and deposits with financial institutions: 612.4 billion won.*
+
+And in the note beneath it, because the note is required when one institution holds more than a tenth of it, a single sentence that says that four hundred billion of that is held at Sunjin Bank.
+
+* * *
+
+Sunjin Bank failed in March 2025.
+
+It is not an interesting failure and nobody has talked about it for two years. A mid-sized house with a bad property book, a run of four days, a Sunday announcement, and an administrator in the building on the Monday morning.
+
+Depositors under the guarantee were made whole. Everybody above the guarantee waited, and is still waiting, and will get a proportion.
+
+Hanseong Credit reported no loss.
+
+Not a reduced one. None.
+
+* * *
+
+That is the whole of it, and it took four months to be able to say it in one sentence.
+
+A company that holds four hundred billion won at a bank that fails has two ways to go. It got its money out in the four days, which leaves a record. Or it lost a great deal of it, which appears in the accounts of the following year.
+
+Hanseong Credit did neither. The 2025 accounts show cash and deposits of six hundred and forty billion won and a note that no longer names anybody.
+
+There is a third possibility, and it is the only one left.
+
+* * *
+
+An administrator's first duty is to find out who is owed what.
+
+He cannot pay anybody until he knows the order, so he builds a list. The list goes to a court. Everyone who thinks they should be on it and is not says so, in writing, by a date, and everyone who is on it for the wrong amount says that too.
+
+Then it is settled, and it becomes a schedule, and the schedule is a public document that nobody ever reads.
+
+The Sunjin schedule was finalised in October 2026. It runs to one thousand one hundred and forty pages and it is arranged by claim number and not by name.
+
+Georgij ordered a copy in November for forty thousand won and a form. It came in December in two boxes.
+
+* * *
+
+He read it between the twenty-sixth of December and the second of January.
+
+Not all of it. The first four hundred pages are individual depositors and there are eleven thousand of them, and he read those the way a man reads a directory, which is to say quickly and once, and he stopped four times.
+
+The corporate claims begin on page six hundred and nine.
+
+Hanseong Credit Co. Ltd is claim number 4,182.
+
+*Admitted: 4,116,900,000 won.*
+
+Four billion, one hundred and sixteen million.
+
+Not four hundred billion. Four.
+
+* * *
+
+Two documents, and both of them are true in the sense that both of them exist.
+
+| | says |
+|---|---|
+| Hanseong Credit's own accounts, December 2024 | four hundred billion won at Sunjin |
+| the administrator of Sunjin, October 2026 | Hanseong Credit had four billion with us |
+
+Nobody stole either of them. One was published by the company itself and the other was filed at a court, and the two of them have been sitting a hundred and eighty kilometres apart for sixteen months.
+
+Georgij did not find a secret. He put two things next to each other that nobody had put next to each other.
+
+* * *
+
+"Say what it means and do not be careful about it," said Annie.
+
+"It means that on the thirty-first of December 2024 Hanseong Credit did not have three hundred and ninety-six billion won that it told the world it had." He had both pages on the desk, squared. "It means that everything since has been built on top of that."
+
+"And the auditor."
+
+"The auditor asked Sunjin for a confirmation and got one, or he asked the company for the confirmation and the company obtained it for him." Georgij did not move. "Those are two different jobs and only one of them is auditing, and the difference between them is the whole of this."
+
+"You do not know which."
+
+"I do not know which and I am not going to guess." He said it flatly. "That is the question, and the good part is that it is not mine to answer."
+
+* * *
+
+A holder of five per cent of a listed company may put a written question to its board.
+
+The board must answer it, at the general meeting if not before, and the auditor gets a copy because the question is about his work.
+
+The question went out on the first of February. It is four sentences long and it makes no allegation of any kind.
+
+It asks whether the confirmation behind the note on page forty-one of the 2024 accounts came to the auditor from Sunjin Bank or through the company. It asks for the date on that confirmation. It asks how the position at Sunjin was accounted for in 2025.
+
+It asks nothing else.
+
+Mr Chae drafted it and took two days over four sentences.
+
+"I have written a great many letters in thirty-two years," he said, "and this is the first one I have written that does not say anything and will end a company."
+
+"It does not end anything. It asks four questions."
+
+"Yes." Mr Chae put the cap on his own pen. "And a man who is asked those four questions in writing has to go and look, and after he has looked he cannot un-look, and he has a professional body."
+
+* * *
+
+Hanseong announced something on the second of February and the shape of it is the whole of it.
+
+Hanseong Electronics will provide Hanseong Motors with a working capital facility of two hundred billion won, in support of what the announcement calls the group's core industrial platform.
+
+Motors does not need working capital. Motors has more cash than anything else in that group.
+
+What Motors has is a guarantee outstanding to Credit, a syndicate that tests a covenant in March, and its name on a document from the twenty-ninth of December.
+
+Han has done it again, one company further out. This time the company he has reached for is the last profitable thing he owns that nobody had been looking at.
+
+* * *
+
+The other thing came out of the same four months and it has nothing to do with any of it.
+
+Hanseong Credit does not move money in a straight line. It never has. It goes out through a holding company called Jinyang, which does nothing else and has three employees, and Jinyang holds through a chain of law firms in Singapore that hold for clients.
+
+Georgij has read that chain twice before. Once in the January of his first year here, and once in the spring of the year after.
+
+Behind the third firm in the chain there is a fund, and the fund has been there since 2011, and it holds twenty per cent of a container terminal in Incheon.
+
+Chairman Woo built that terminal and he has never owned all of it.
+
+Twenty per cent went out in the year it was built and has sat behind that chain ever since. He said so once in front of Georgij, in the first winter, in the room with the photograph of the fourteen metres in it, and he has not said it since.
+
+He was not ashamed of owing it. He was ashamed of not being able to say to whom.
+
+* * *
+
+He did not write it in the book.
+
+He wrote it on a separate sheet, with the firm, the fund, the date and the register entry. Then he put the sheet in the envelope in the second drawer, where the two undated pages are, and he did not put a date on this one either.
+
+Then he went down at eight and told Annie, because it is her house and because he does not keep things in it.
+
+"How long have you known where it was," said Annie.
+
+"Since the fourteenth of January. I have known it was somewhere in that chain since the first year."
+
+"And you have not done anything with it for two weeks."
+
+"No."
+
+* * *
+
+She let that sit.
+
+"Say what you want."
+
+"When Credit comes apart, that fund comes apart with it, because everything behind Jinyang is going to be looked at by somebody whose job is to look." Georgij had not sat down. "What is in it will be sold. Nobody will bid on paper out of that chain, and it will go for very little."
+
+"And you would like to be the one who tells him."
+
+"I would like to be the one who tells him that nobody can ask him for it any more." He did not decorate it. "I am not going to buy it for him and I could not. He would not take it if I did."
+
+"No," said Annie. "He would not."
+
+She turned the page over on the desk and looked at nothing for a moment.
+
+"Then you go, and you go on your own, and you do not tell me what you said afterwards."
+
+* * *
+
+"May I ask why not?"
+
+"Because the last time somebody in this house did something for that man without being asked, I paid for it and I was right to." She picked the pen up. "This one is not mine. Do not make it mine by reporting it."
+
+"Yes, Mistress."
+
+* * *
+
+Lee Jun carried the second box up from the hall in December and asked what was in it.
+
+"Eleven thousand people who had money in a bank that closed."
+
+"Are any of them ours, sir?"
+
+"No."
+
+"Then why do we have it?"
+
+"Because one of the eleven thousand is a company, and a company on a list of people who lost money is telling the truth about how much it had." Georgij put the lid back on the box. "You are not going to be reading this one."
+
+"No, sir."
+
+* * *
+
+There are fifty-eight names and there are now ten.
+
+The tenth is a man in Wonju who was twenty-two in the photograph and is fifty-one now. He wrote back in January in a hand that took four attempts to read. He asked one question, and it was whether the person who invited him is dead.
+
+He is. The answer went back the same week and it was two sentences.
+
+Nobody in that house has ever met any of the ten.
+
+* * *
+
+Georgij wrote three lines in the book at about ten.
+
+*Four hundred against four, and the second number is a court's.*
+
+*Four sentences to the board, copied to the man who signed it. He has to look now.*
+
+*She has said yes and she does not want to hear about it.*
+
+He put the pen down and looked at the second drawer, which was shut, and did not open it.
+
+The hill is an hour outside the city if the bridge is kind.
+
+---
+
+# Book Three · Chapter 19: The complaint
+*Lot Fourteen* · Version 1.1 · EN
+
+## Day Eight Hundred and Fifty-Three · Thursday 3 February
+
+Han Yong-seok did not telephone anybody in the dark. He filed a complaint.
+
+It went in on the first of February at the Seoul Central District Prosecutors' Office, on paper, through a firm that has done Hanseong's work for twenty years, and it is nine pages long with seven annexes.
+
+A chaebol owner's complaint against the person taking his group apart is ordinarily worth nothing at all. Everybody in the building knows what it is. It goes to a young prosecutor, who reads it, and writes four lines, and it dies.
+
+This one is not worth nothing, and the reason is that every item in it is true.
+
+* * *
+
+It says that a foreign national with no standing and no employment of any kind has been in and out of government offices since October.
+
+It says that in that same period four named authorities received information about companies in the Hanseong group. It says that some of that information was correct. And it says that none of it arrived through any channel that keeps a record of who brought it.
+
+It says that on the twentieth of January the price of Hanseong Credit fell nineteen per cent. It says that a position had been prepared against that fall through four brokers in three countries, funded in August and paid for monthly since.
+
+It says that on the twenty-fourth of January a company registered in Jeju, dormant since 2014, bought five per cent of that company and that the report names Annie.
+
+It says that Mr Hwang Sang-woo, who is not employed by her, works four days a week in an office belonging to Chairman Woo Jae-sung.
+
+And on the eighth page it says that the same three law firms in Singapore appear behind Hanseong's own structure and behind a fund connected to Chairman Woo's terminal in Incheon.
+
+Then it asks how a person outside all of it came to be reading that chain.
+
+Every one of those sentences is correct.
+
+* * *
+
+The seventh annexe is a photocopy of a door.
+
+It is the plate outside the office on the fourth floor where Mr Hwang works. It says Woo Jae-sung, and it has been on a door in this city in one form or another since 1974.
+
+Chairman Woo telephoned on the fourth. He did not sound like an old man on the telephone and he did not sound like a friend either.
+
+"My name is in a criminal complaint," he said. "It has never been in one."
+
+"No, sir."
+
+"I am not asking you to explain it and I am not going to be careful with you about it." The pause was longer than it needed to be. "I want to know whether you knew that this would happen."
+
+"I knew that something of this kind would happen. I did not know that it would be your door."
+
+"Would you have told me if you had."
+
+"No."
+
+"Good," said Woo. "Then stop worrying about it and let me be angry in my own house."
+
+* * *
+
+Mr Chae read it twice and then put it down and did not pick it up again.
+
+"There is nothing in there that is a crime," he said.
+
+"No."
+
+"There is nothing in there that we can deny."
+
+"No."
+
+"Then I am going to say the thing I have been avoiding for four months." He had his hands flat on the table, which he does not do. "This is the document that man in Seodaemun described to you in October, and it is not a coincidence that it looks like the one he described. It looks like it because he was right."
+
+* * *
+
+Gong Doo-hyun kept it.
+
+A complaint of that size is assigned. He assigned it to himself, which is unusual and which is not irregular, and he did it on the second of February.
+
+He did not need Han's complaint to want it. He has wanted it since the twenty-sixth of May and he has said so out loud, in his own office, to the person concerned.
+
+What he needed was a credible piece of paper filed by somebody with standing, so that a file could exist that was not about a feeling he has had since 2002.
+
+Han Yong-seok gave him one, and Han Yong-seok will never know what it cost him.
+
+* * *
+
+The requests went out on the third.
+
+To the exchange, for the trading records of eleven accounts. To the financial supervisory service, for the short-interest history in three names since July. To four brokers in three countries, through their Korean correspondents, for the standing instructions and the times they were given.
+
+None of that can be refused and none of it should be. It is exactly what those requests are for.
+
+Mr Hwang was asked to come in on the ninth as a reference witness, which means a person who is not a suspect and who may leave when he likes.
+
+He went on the ninth. He was there for nine hours and he answered everything.
+
+* * *
+
+He came up on the Monday afterwards with the tables, as he does, and stood with his coat over his arm.
+
+"They asked me forty-one times who told me to do a thing," he said. "I answered forty-one times that nobody did, and the fortieth time the younger one stopped writing and looked at me, and I have thought about that look since Thursday."
+
+"What did it look like."
+
+"Like a man who has been told he is going to find a string and has not found one." Mr Hwang moved the coat to the other arm. "They are not stupid and they are not bent. They have been given a true document and told to find the bottom of it, and there is no bottom, and that is going to take them a long time to believe."
+
+"It is going to take them until March."
+
+"And then they will believe it?"
+
+"No," said Georgij. "Then they will stop looking for it and start looking for something else, and what they find instead will depend entirely on who is standing where by then."
+
+* * *
+
+He did not stop any of it, and he could have made it slower.
+
+There are four or five things that would have made it slower and every one of them is the thing the file is looking for. A request that goes astray. A record that is not there. A conversation with somebody who owes somebody a favour.
+
+Nothing was done, nothing was asked, and nobody was telephoned.
+
+The papers travelled instead, and where they travelled matters more than what is in them.
+
+A request about short-interest history goes to a section of four people in three buildings. A question about who fed the authorities and when goes to the people who were fed, and they have to answer it, and their answers say what they were given and when and by whom.
+
+By the end of February there will be a written record of two things, made by prosecutors, in a file belonging to Gong Doo-hyun. Everything this house gave anybody was true. None of it was given in exchange for anything.
+
+Nobody in that house will have written a word of it.
+
+* * *
+
+Annie asked one question about the whole of it and she asked it on the Thursday evening.
+
+"What is the worst version."
+
+"The worst version is that a prosecutor with a true file and a private reason takes eleven months over it. During those eleven months no bank in this country lends you anything. Motors goes to somebody else while you are waiting." Georgij was at the side of the desk. "Nothing has to be proved for that to happen. It happens while it is being looked into."
+
+"And the second worst."
+
+"That he is right about one thing." He did not look away. "He thinks this house made a man in 2002 and then removed him when he stopped being useful. It did not, and I can show every step of what it did instead, and there is no version of the showing that does not sound exactly like the thing he already believes."
+
+Annie did not say anything for a moment.
+
+"You have thought about that sentence for a while."
+
+"Since the twenty-third of June."
+
+* * *
+
+Two men came to Mr Chae's office on the eleventh and Lee Jun was in the hall when they left.
+
+He did not ask about it and he did not go and find out. He carried what he was carrying, and put it where it goes, and then he stood at the top of the back stairs for about a minute and did nothing at all, which is not like him.
+
+Georgij saw it from the corridor and did not say anything that day.
+
+He said it on the Saturday, on the way back from the yard, in the car, which is where the three rules were given in September.
+
+"You stood at the top of the stairs on Friday."
+
+"Yes, sir."
+
+"Say why."
+
+"Because I have been told for nine months that nothing we do is against the law." Lee Jun had his hands on his knees. "And on Friday two men came to the house about it, and I found out that I had been believing it instead of knowing it."
+
+Georgij looked at the road.
+
+"Which is it."
+
+"I do not know, sir. That is the part that made me stand there."
+
+"Then I will give you the answer and you may check it for the rest of your life." He did not soften it. "Every single thing this house has done since May is lawful. I can put my hand on the paper for each of them. I will show you any of them you ask for, on any day you ask."
+
+"And that is not the same as being all right."
+
+"No," said Georgij. "It is not, and I am glad you did not need me to say it."
+
+* * *
+
+There is a way out of it that is clean, and it will be on Gong Doo-hyun's desk inside a fortnight.
+
+The part of the file that is about Annie can be closed. Nothing points at her, and a prosecutor who closes what does not stand up is doing his job and is seen to be doing it.
+
+The part that is about a credit company and a bank that failed in 2025 belongs to the financial section, and it belongs there so obviously that a first-year would say so.
+
+If he does both of those, he is a man who took a chaebol's complaint seriously, found the real thing inside it, sent it where it goes and closed the rest.
+
+He would come out of this larger than he went into it.
+
+* * *
+
+There are fifty-eight names and there are still ten.
+
+Nothing was done about the fifty-eight in February. There was no time, and that is a reason and not an excuse, and it went in the book as one line without any softening on it.
+
+* * *
+
+Georgij wrote three lines at about ten.
+
+*He filed it in his own name. He thinks it buys a year.*
+
+*Gong took it himself on the second. He has waited eight months for a piece of paper with somebody else's name on it.*
+
+*Nothing to do. Let it travel.*
+
+Under the last one he did not write what he was actually thinking.
+
+A file that travels to four hundred people is a file that four hundred people will remember afterwards. Afterwards is a place he has been standing in since October, and nobody else has.
+
+---
+
+# Book Three · Chapter 20: What he was
+*Lot Fourteen* · Version 1.1 · EN
+
+## Day Eight Hundred and Sixty-One · Friday 11 February
+
+He asked for it on the ninth and was given four o'clock on the eleventh, and he was told that it would be twenty minutes.
+
+There was no reason to go. Nothing was needed from that office and nothing could be got from it.
+
+Georgij went because the file was going to be closed and because a file that is closed by a man in that condition does not stay closed.
+
+* * *
+
+There were two documents on the desk and neither of them was the complaint.
+
+One was two pages from the financial crimes section, which had read the Sunjin material and wanted it, and which had said so in the way a section says so when it is certain, which is briefly.
+
+The other was one page from his own deputy and it said that the part of the file concerning Annie did not stand up.
+
+Gong Doo-hyun did not hide either of them.
+
+"You know what these are," he said.
+
+"I can see the letterhead on one of them."
+
+"Then I will save you the twenty minutes." He put his hand flat on the deputy's page. "There is nothing in this that points at her. I have had four people on it for eight days and there is no instruction, no payment, no favour and no exchange. Everything your side gave anybody was true and none of it bought anything."
+
+He did not say it grudgingly. He said it the way a man reads out a measurement.
+
+"I am closing that part on Monday and I am sending the rest to the section that wants it."
+
+* * *
+
+That was the whole of what Georgij had come for, and he had it at four minutes past four.
+
+A man who wanted only that would have thanked him and gone.
+
+* * *
+
+"May I ask you something before I go?"
+
+"You may ask. I have twenty minutes and you have used four."
+
+"The photograph on the sill."
+
+Gong Doo-hyun turned his head and looked at it, which he does not need to do.
+
+"Eleven men outside a place in Seocho in the spring of 2001," he said. "I am the fourth from the left and I am thirty-one. Four of the eleven are dead. Three are in the Supreme Prosecutors' Office now and one of those will have my job when I am finished with it."
+
+"And the eleventh."
+
+"You know who the eleventh is."
+
+"Yes."
+
+"Then do not make me say it in my own office."
+
+* * *
+
+Georgij did not move from the chair.
+
+"You buried him," he said.
+
+"I did."
+
+"Nobody else did. There were four hundred people at the forty-ninth day and not one of them went to the ground with him." He did not raise his voice. "You went, in a coat that had been rained on, and you did not tell anybody you were going."
+
+"You are describing my Tuesday to me and I was there."
+
+"I am describing it because I want you to hear me say what he was."
+
+* * *
+
+Gong Doo-hyun did not say anything.
+
+"He bought me when I was fourteen," said Georgij. "Not from anybody. He bought me from a room. There were nine of us in that year and I know what happened to four."
+
+He did not raise his voice and he did not hurry any of it.
+
+"He did it for twenty-five years. It was not a thing that happened to him in an April and then went on happening by itself. It was a series and it had a calendar and somebody had to book the rooms, and he booked them, and there are nineteen boxes of paper about it that went over a weighbridge last year."
+
+"Stop."
+
+"He was good at it, and he improved at it, and the improving is the part I would like you to have."
+
+* * *
+
+"I said stop."
+
+Georgij stopped.
+
+The building did the things a building of that size does at ten past four.
+
+"You said a thing to me in June," said Georgij. "You said that a man in that house bought him at thirty-five and finished him at sixty, and that he spent twenty-five years being what one afternoon made him. Every word of that is true."
+
+"Then you have nothing to add."
+
+"Nobody made him buy the second one."
+
+* * *
+
+Gong Doo-hyun sat very still.
+
+He is not a man who shouts and he did not go red and he did not stand up. What happened was smaller than any of those and worse.
+
+He looked at the deputy's page, and then at the two pages from the financial section, and then at neither of them.
+
+"Why have you come here and said that to me."
+
+"Because it is true."
+
+"That is not an answer and you know it is not." His voice had not changed at all. "Everything you say is true. That is your entire method and I have had it in a file for eight months. I am asking why you have brought this particular true thing into this particular room on the day before I close a file."
+
+* * *
+
+Georgij had his hands where the man could see them.
+
+"You asked me in June what I would be at sixty," he said. "I could not answer you. I have thought about it since and I still cannot, and I am not going to pretend to you that I have got better at it."
+
+"That is not what I asked either."
+
+"No."
+
+* * *
+
+It went quiet in a way that neither of them filled.
+
+"You are afraid of me," said Gong Doo-hyun.
+
+"Yes."
+
+"And you have come to my office and told me what the only decent thing I ever did for anybody was done for. You would like me to be too sick about it to think straight."
+
+Georgij did not answer that.
+
+"Say it or do not," said Gong Doo-hyun, "but do not sit in that chair and be silent at me. I have had better men than you be silent at me."
+
+* * *
+
+"I would like you to close the file on Monday," said Georgij.
+
+"That is not what you would like."
+
+"It is what I would like. It is not what I expect."
+
+Gong Doo-hyun looked at him for a long moment.
+
+"Then we understand each other, and it has taken us nine months, and I do not feel any better for it."
+
+* * *
+
+He stood up, which he had not done in June.
+
+"I am going to tell you what you have done, because I would like it said out loud once by somebody who is not writing it down." He was at the window with his back to the room. "You have taken the one thing I have that is not a case, and you have put your hand on it, and you have told me the truth about it. I cannot punish you for that. There is nothing in any code about it."
+
+"No."
+
+"And you knew there would not be." He did not turn round. "You are the most careful man I have ever met and you have never once done anything I could reach. So you have reached into the only place that has no code in it at all."
+
+* * *
+
+"You may go."
+
+Georgij stood up.
+
+"I am not going to say a true thing to you on the way out," he said. "I have used them up."
+
+"Yes," said Gong Doo-hyun. "You have."
+
+He was still at the window when the door shut.
+
+* * *
+
+It is an hour back if the bridge is kind, and it was not.
+
+Georgij did not do anything in the car. He did not write, he did not read, and he did not ask Mr Ku to go a different way.
+
+He counted the exits on the expressway between Seocho and the river, which is eleven, and then he counted them again on the other side, and there are nine.
+
+* * *
+
+He told her all of it in order, standing at the side of the desk, and it took four minutes.
+
+He did not leave out the part where he stayed in the chair. He did not soften what he said about Choi and he did not explain why he had said it, because there is one reason and she was sitting in front of it.
+
+Annie listened to the whole of it without moving.
+
+"Is he going to close it," she said.
+
+"No."
+
+"Did you know that when you sat down."
+
+"I knew it when I asked for the appointment on the ninth."
+
+* * *
+
+She did not say anything for a while.
+
+"I am not going to thank you for that," she said.
+
+"No, Mistress."
+
+"And I am not going to tell you that you should not have done it, because I would be lying." She did not look away from him. "I have watched you do six things this year that I did not ask for, and every one of them was for me."
+
+She put the pen down and did not pick it up again.
+
+"But I want you to hear the number. That man buried Choi Dae-ho on a Tuesday in the rain because nobody else would, and there are four people in this country who know that he did it, and you are one of them and I am another."
+
+"Yes."
+
+"You will be at his funeral too," said Annie. "You will not be able to help it. And when you are standing there you will remember this afternoon, and there will be nobody to tell it to, because I will be dead or I will not be there."
+
+* * *
+
+He did not close it on the Monday.
+
+On the Tuesday three requests went out of that office and none of the three is about Hanseong.
+
+One went to the ministry, for the visitor records of a building in Sejong between October and January. One went to the port authority, for the same thing.
+
+The third went to a retired prosecutor in Seodaemun who has kept one room since 2011. It asked him to attend on the twenty-fifth of February and to bring his appointment diary.
+
+Seol Gwan-ik telephoned nobody about it. He wrote back the same day, agreed the date, and added one line that nobody had asked him for.
+
+*I have kept the diary since 1988 and it is complete.*
+
+* * *
+
+A prosecutor who is asked to look at a market matter, and who instead begins taking the visitor books of ministries, has changed what his file is about.
+
+It is now about who spoke to whom. The people who spoke to whom are prosecutors, officials, and a man of seventy-one with a diary.
+
+None of them has done anything.
+
+* * *
+
+He did not write anything in the book that evening.
+
+He sat with it open at the page from the twenty-third of June, which he has done perhaps eight times since, and there is one line on it and it is not his.
+
+*If none of it is an offence, what is it.*
+
+He has had an answer to that since October and it is a list.
+
+He added nothing to the list. He put the pen back in the tray, and shut the book, and went up at about ten, and the house did the things it does at ten.

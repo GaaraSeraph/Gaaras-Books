@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 381.678 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 383.255 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -677,8 +677,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Jang](#jang)
   - [Mrs Seo](#mrs-seo)
   - [Sim](#sim)
-  - [Mrs Jeon](#mrs-jeon)
   - [Choi Dae-ho](#choi-dae-ho)
+  - [Mrs Jeon](#mrs-jeon)
   - [Baek Jun-ho](#baek-jun-ho)
   - [Mr Yeom](#mr-yeom)
   - [Mrs Sunwoo](#mrs-sunwoo)
@@ -693,15 +693,15 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Hong](#mr-hong)
   - [Mr Ku](#mr-ku)
   - [Kang Ji-hoon](#kang-ji-hoon)
+  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Kim Do-yun](#kim-do-yun)
   - [Mr Kwon](#mr-kwon)
   - [Mrs Bae](#mrs-bae)
   - [Mr Im](#mr-im)
+  - [Lee Jun](#lee-jun)
   - [Mr Koh](#mr-koh)
-  - [Gong Doo-hyun](#gong-doo-hyun)
   - [Ji-won](#ji-won)
   - [Mrs Gwak](#mrs-gwak)
-  - [Lee Jun](#lee-jun)
   - [Moon Hae-sook](#moon-hae-sook)
   - [Shin](#shin)
   - [Seol Gwan-ik](#seol-gwan-ik)
@@ -33280,16 +33280,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 941 | 110 (b1ch01-b3ch15) | 1 | 802 |
-| Park Sang-hoon | 318 | 49 (b1ch10-b3ch15) | 22 | 802 |
-| Chairman Woo | 236 | 41 (b1ch07-b3ch05) | 22 | 672 |
-| Mr Hwang | 187 | 31 (b2ch07-b3ch14) | 166 | 788 |
+| Annie | 963 | 115 (b1ch01-b3ch20) | 1 | 861 |
+| Park Sang-hoon | 320 | 50 (b1ch10-b3ch17) | 22 | 839 |
+| Chairman Woo | 244 | 44 (b1ch07-b3ch19) | 22 | 853 |
+| Mr Hwang | 198 | 34 (b2ch07-b3ch19) | 166 | 853 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
 | Mrs Seo | 153 | 54 (b1ch03-b3ch15) | 1 | 802 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
+| Choi Dae-ho | 95 | 25 (b1ch07-b3ch20) | 22 | 861 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
-| Choi Dae-ho | 93 | 24 (b1ch07-b3ch10) | 22 | 742 |
 | Baek Jun-ho | 91 | 13 (b2ch39-b3ch06) | 270 | 686 |
 | Mr Yeom | 76 | 13 (b2ch22-b2ch89) | 223 | 590 |
 | Mrs Sunwoo | 69 | 19 (b1ch07-b3ch08) | 22 | 718 |
@@ -33302,20 +33302,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Byun | 41 | 14 (b2ch21-b2ch89) | 215 | 590 |
 | Ahn Jung-hee | 37 | 15 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch34) | 22 | 249 |
-| Mr Ku | 35 | 23 (b1ch05-b2ch87) | 6 | 531 |
+| Mr Ku | 36 | 24 (b1ch05-b3ch20) | 6 | 861 |
 | Kang Ji-hoon | 33 | 9 (b1ch09-b3ch10) | 22 | 742 |
+| Gong Doo-hyun | 32 | 6 (b3ch01-b3ch20) | 592 | 861 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 31 | 87 |
 | Mr Kwon | 31 | 6 (b2ch14-b2ch73) | 193 | 445 |
 | Mrs Bae | 29 | 8 (b2ch38-b2ch88) | 262 | 578 |
 | Mr Im | 28 | 5 (b1ch05-b2ch87) | 6 | 531 |
+| Lee Jun | 25 | 8 (b3ch04-b3ch19) | 645 | 853 |
 | Mr Koh | 25 | 7 (b2ch35-b2ch87) | 251 | 531 |
-| Gong Doo-hyun | 20 | 4 (b3ch01-b3ch11) | 592 | 753 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
-| Lee Jun | 18 | 4 (b3ch04-b3ch13) | 645 | 774 |
-| Moon Hae-sook | 18 | 10 (b2ch58-b3ch08) | 371 | 718 |
+| Moon Hae-sook | 19 | 11 (b2ch58-b3ch16) | 371 | 823 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
-| Seol Gwan-ik | 13 | 2 (b3ch10-b3ch13) | 742 | 774 |
+| Seol Gwan-ik | 14 | 3 (b3ch10-b3ch20) | 742 | 861 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
 | Mr Bok | 9 | 1 (b3ch13) | 774 | 774 |
@@ -33339,7 +33339,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-941 Nennungen in 110 Kapiteln.
+963 Nennungen in 115 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34284,6 +34284,28 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 802 | b3ch15:324 | Annie put down the page she had not been reading, and stood up, and started across the r.. |
 | 802 | b3ch15:336 | Annie kissed him on the cheek. |
 | 802 | b3ch15:380 | Then Annie put it in the drawer with the two pages that have no date on them. |
+| 823 | b3ch16:156 | Annie read the paper at the desk with her coat still over the back of the chair. |
+| 823 | b3ch16:172 | Annie turned the page over and looked at the back of it, which was blank, and turned it .. |
+| 823 | b3ch16:192 | Annie put the cap back on the pen and did not pick it up again. |
+| 839 | b3ch17:34 | He telephoned nobody. Annie was at the desk by twenty past and she did not ask him anyth.. |
+| 839 | b3ch17:48 | The market opened at nine. Annie gave the instruction at nine. |
+| 839 | b3ch17:54 | "Say the number," said Annie. |
+| 839 | b3ch17:128 | Annie has been its largest outside holder since September. On the twentieth of January t.. |
+| 839 | b3ch17:134 | The short side paid out over four days and Annie did not look at the figure until the fo.. |
+| 839 | b3ch17:158 | Annie had turned the chair to face him, which she does perhaps four times a year. |
+| 839 | b3ch17:210 | "Read me the purpose box," said Annie. |
+| 839 | b3ch17:222 | Annie signed it where the pen went. |
+| 848 | b3ch18:105 | "Say what it means and do not be careful about it," said Annie. |
+| 848 | b3ch18:199 | Then he went down at eight and told Annie, because it is her house and because he does n.. |
+| 848 | b3ch18:203 | "How long have you known where it was," said Annie. |
+| 848 | b3ch18:229 | "No," said Annie. "He would not." |
+| 853 | b3ch19:30 | It says that on the twenty-fourth of January a company registered in Jeju, dormant since.. |
+| 853 | b3ch19:174 | Annie asked one question about the whole of it and she asked it on the Thursday evening. |
+| 853 | b3ch19:190 | Annie did not say anything for a moment. |
+| 853 | b3ch19:244 | The part of the file that is about Annie can be closed. Nothing points at her, and a pro.. |
+| 861 | b3ch20:22 | The other was one page from his own deputy and it said that the part of the file concern.. |
+| 861 | b3ch20:256 | Annie listened to the whole of it without moving. |
+| 861 | b3ch20:294 | "You will be at his funeral too," said Annie. "You will not be able to help it. And when.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -34551,12 +34573,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch15:106` (Tag 802) - three
 - `b3ch15:232` (Tag 802) - three
 - `b3ch15:380` (Tag 802) - two
+- `b3ch17:34` (Tag 839) - twenty
+- `b3ch17:48` (Tag 839) - nine
+- `b3ch17:128` (Tag 839) - six hundred million
+- `b3ch17:134` (Tag 839) - four
+- `b3ch17:158` (Tag 839) - four
+- `b3ch18:199` (Tag 848) - eight
+- `b3ch19:30` (Tag 853) - five, twenty
+- `b3ch19:174` (Tag 853) - one
+- `b3ch20:22` (Tag 861) - one
 
 ---
 
 ### Park Sang-hoon
 
-318 Nennungen in 49 Kapiteln.
+320 Nennungen in 50 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -34878,6 +34909,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 802 | b3ch15:234 | "No," said Park Sang-hoon. |
 | 802 | b3ch15:296 | Sang-hoon looked at him then. |
 | 802 | b3ch15:362 | Mrs Seo had come in for the coffee that Sang-hoon had not drunk, and could not get out a.. |
+| 839 | b3ch17:110 | Park Sang-hoon did nothing. |
+| 839 | b3ch17:240 | The other call was Park Sang-hoon's secretary. She arranged nothing and confirmed nothin.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -35023,12 +35056,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:112` (Tag 592) - one, three, two
 - `b3ch15:6` (Tag 802) - eleven, four
 - `b3ch15:32` (Tag 802) - forty
+- `b3ch17:240` (Tag 839) - one
 
 ---
 
 ### Chairman Woo
 
-236 Nennungen in 41 Kapiteln.
+244 Nennungen in 44 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -35268,6 +35302,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch89:28 | Chairman Woo telephoned once, in April, and asked one question and rang off, and the que.. |
 | 628 | b3ch03:16 | He did not ask Park Sang-hoon and he did not ask Chairman Woo. |
 | 672 | b3ch05:44 | After four he does Georgij's work at the same desk, and Woo has never once asked him wha.. |
+| 823 | b3ch16:122 | Chairman Woo telephoned on the second of January and did not want anything. |
+| 823 | b3ch16:130 | "I have been reading about a shipping company," said Woo. "Not hers. The other one." |
+| 848 | b3ch18:183 | Chairman Woo built that terminal and he has never owned all of it. |
+| 853 | b3ch19:32 | It says that Mr Hwang Sang-woo, who is not employed by her, works four days a week in an.. |
+| 853 | b3ch19:36 | And on the eighth page it says that the same three law firms in Singapore appear behind .. |
+| 853 | b3ch19:50 | It is the plate outside the office on the fourth floor where Mr Hwang works. It says Woo.. |
+| 853 | b3ch19:54 | Chairman Woo telephoned on the fourth. He did not sound like an old man on the telephone.. |
+| 853 | b3ch19:74 | "Good," said Woo. "Then stop worrying about it and let me be angry in my own house." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -35404,12 +35446,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:428` (Tag 531) - five, one, three
 - `b2ch89:28` (Tag 590) - one
 - `b3ch05:44` (Tag 672) - four
+- `b3ch16:130` (Tag 823) - one
+- `b3ch19:32` (Tag 853) - four
+- `b3ch19:36` (Tag 853) - three
+- `b3ch19:50` (Tag 853) - one
 
 ---
 
 ### Mr Hwang
 
-187 Nennungen in 31 Kapiteln.
+198 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -35600,6 +35646,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 788 | b3ch14:196 | Georgij put the registration number next to Mr Hwang's sixth table at about half past ni.. |
 | 788 | b3ch14:218 | Mr Hwang was in the house when the notice came, because it came on a Monday. |
 | 788 | b3ch14:346 | The cross-holdings existed and sat in a filing office. Anybody who spent four months on .. |
+| 823 | b3ch16:92 | The man who runs it telephoned Mr Hwang on the fourth of January, which is a Tuesday, an.. |
+| 823 | b3ch16:98 | Mr Hwang said that he would listen and that he would not advise. |
+| 823 | b3ch16:220 | Mr Hwang came up on the Monday with the tables and one sheet that was not a table. |
+| 823 | b3ch16:232 | "No. It is in the one I made on Saturday because I could not leave it alone." Mr Hwang p.. |
+| 823 | b3ch16:246 | Mr Hwang found the fifth and the sixth in November, both in the same county. A woman in .. |
+| 823 | b3ch16:268 | "The man from Busan who telephoned Mr Hwang." He had the door in one hand. "He is a shar.. |
+| 839 | b3ch17:190 | That is the shape a price makes when the people who were going to sell have sold. Mr Hwa.. |
+| 853 | b3ch19:32 | It says that Mr Hwang Sang-woo, who is not employed by her, works four days a week in an.. |
+| 853 | b3ch19:50 | It is the plate outside the office on the fourth floor where Mr Hwang works. It says Woo.. |
+| 853 | b3ch19:124 | Mr Hwang was asked to come in on the ninth as a reference witness, which means a person .. |
+| 853 | b3ch19:140 | "Like a man who has been told he is going to find a string and has not found one." Mr Hw.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -35704,6 +35761,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch11:224` (Tag 753) - two
 - `b3ch14:196` (Tag 788) - nine
 - `b3ch14:346` (Tag 788) - four, two
+- `b3ch16:220` (Tag 823) - one
+- `b3ch16:232` (Tag 823) - four, one, thirty-one
+- `b3ch16:268` (Tag 823) - four, one
+- `b3ch17:190` (Tag 839) - one
+- `b3ch19:32` (Tag 853) - four
+- `b3ch19:50` (Tag 853) - one
+- `b3ch19:140` (Tag 853) - one
 
 ---
 
@@ -36674,6 +36738,155 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Choi Dae-ho
+
+95 Nennungen in 25 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 155 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+| 236 | b2ch25:142 | "Choi Dae-ho," he said. |
+| 236 | b2ch25:152 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
+| 236 | b2ch25:160 | Woo. Sunwoo. Choi Dae-ho. |
+| 236 | b2ch25:248 | "Choi Dae-ho," he said. |
+| 243 | b2ch31:38 | "That he is not Choi Dae-ho. He is the one Choi Dae-ho tells to make the calls," said Ge.. |
+| 244 | b2ch32:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
+| 244 | b2ch32:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
+| 249 | b2ch34:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
+| 249 | b2ch34:46 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
+| 249 | b2ch34:96 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
+| 259 | b2ch36:250 | The man he is looking for does not eat in front of anybody he is working on. Whoever sat.. |
+| 259 | b2ch36:330 | "The one who was not Choi wanted the cook to like him." He stayed where he was. "A man w.. |
+| 263 | b2ch38:188 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
+| 273 | b2ch40:158 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 273 | b2ch40:190 | "Where that would be, for a man like Choi." |
+| 288 | b2ch44:148 | "He has not told Choi Dae-ho," he said slowly. |
+| 290 | b2ch45:138 | "And if he goes to Choi Dae-ho the same afternoon." |
+| 322 | b2ch55:56 | Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the flo.. |
+| 322 | b2ch55:64 | He has treated the woman on the oxygen the way the whole of that trade treats her, which.. |
+| 371 | b2ch58:170 | "Somebody gets made by being handed a good reason at the wrong moment," said Georgij. "C.. |
+| 397 | b2ch65:116 | "Choi Dae-ho." |
+| 464 | b2ch77:66 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
+| 464 | b2ch78:158 | "You gave it to a man with no telephone." His hands stayed on his knees. "Not because I .. |
+| 531 | b2ch85:68 | Choi Dae-ho arrived at three minutes past eight in a car he did not drive. |
+| 531 | b2ch85:138 | Eleven people said good evening to Choi Dae-ho between five past eight and the gong. Fou.. |
+| 531 | b2ch85:202 | Georgij watched Choi Dae-ho watch it. |
+| 531 | b2ch85:234 | And at twenty past nine Choi Dae-ho picked up a fork, and put a piece of something on it.. |
+| 531 | b2ch85:276 | Choi Dae-ho put his napkin on the table beside his plate and got up. |
+| 531 | b2ch85:294 | Choi Dae-ho answered him and smiled. |
+| 531 | b2ch86:18 | Choi Dae-ho was standing at the window with his back to the door and he turned round bef.. |
+| 531 | b2ch86:30 | There were two places at that table and Choi Dae-ho did not look at either of them. It i.. |
+| 531 | b2ch86:32 | "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been a.. |
+| 531 | b2ch86:40 | Choi Dae-ho sat down about four seconds afterwards, because a man of that sort does not .. |
+| 531 | b2ch86:48 | Choi Dae-ho took longer over it than he had taken over anything yet. |
+| 531 | b2ch86:70 | Choi Dae-ho looked at him properly then for the first time. |
+| 531 | b2ch86:86 | Choi Dae-ho did not do anything with his face at all. |
+| 531 | b2ch86:92 | Choi Dae-ho let a moment go past and did not use it. |
+| 531 | b2ch86:110 | Choi Dae-ho did not answer that, and the not answering was itself an answer. |
+| 531 | b2ch86:114 | Choi Dae-ho did not look surprised by any of it. |
+| 531 | b2ch86:120 | Choi Dae-ho waited about two seconds longer than a man waits. |
+| 531 | b2ch86:128 | "No," said Choi Dae-ho. "I do not think it would." |
+| 531 | b2ch86:138 | "You have spent twenty-five years arranging things so that other people carry the weight.. |
+| 531 | b2ch86:140 | Choi Dae-ho put one hand flat on the cloth beside the place that had been laid for him. |
+| 531 | b2ch86:150 | "There is a thing I can do for you," said Choi Dae-ho. |
+| 531 | b2ch86:154 | Choi Dae-ho put both hands down, one on either side of a bowl he had not touched. |
+| 531 | b2ch86:164 | "Ah," said Choi Dae-ho. |
+| 531 | b2ch86:174 | Choi Dae-ho moved one finger on the cloth and put it back where it had been. |
+| 531 | b2ch86:176 | "I did not send you anywhere," said Choi Dae-ho. |
+| 531 | b2ch86:186 | Choi Dae-ho got up and went to the window. |
+| 531 | b2ch86:190 | "There is a thing you saw at twenty past nine," said Choi Dae-ho. |
+| 531 | b2ch86:216 | "You had that put there," said Choi Dae-ho. |
+| 531 | b2ch86:224 | "You do not eat. Not with people you work on." Choi Dae-ho's hand was still on the sill... |
+| 531 | b2ch86:226 | Choi Dae-ho looked at the table for the first time. |
+| 531 | b2ch86:234 | Choi Dae-ho turned round from the glass. |
+| 531 | b2ch86:242 | Choi Dae-ho looked away from the two bowls. |
+| 531 | b2ch86:252 | "It is not a discipline and it is not a superstition." Choi Dae-ho's hand stayed where i.. |
+| 531 | b2ch86:270 | Choi Dae-ho did not say anything to that at all. |
+| 531 | b2ch86:278 | Choi Dae-ho put his other hand on the sill. |
+| 531 | b2ch86:292 | Choi Dae-ho was looking at the carpet. |
+| 531 | b2ch86:300 | Choi Dae-ho did not turn round. |
+| 531 | b2ch86:322 | "She has a room on a ground floor with a window and a door that opens, and the account b.. |
+| 531 | b2ch86:324 | Choi Dae-ho did not ask for any of the four things he had just been refused. |
+| 531 | b2ch86:330 | Choi Dae-ho did not lift his head. |
+| 531 | b2ch86:334 | Choi Dae-ho did not do anything with that at all. |
+| 531 | b2ch86:344 | Choi Dae-ho put his hand back on the sill. |
+| 531 | b2ch86:352 | "No," said Choi Dae-ho. "They did not." |
+| 531 | b2ch86:362 | "There are two places at that table," said Choi Dae-ho. |
+| 531 | b2ch86:378 | Choi Dae-ho stood at the window of a small room in somebody else's house. |
+| 531 | b2ch86:394 | Choi Dae-ho put a hand flat on the glass and took it away again, and the mark stayed on .. |
+| 531 | b2ch86:404 | "There are twenty-six people at that table, and most of them have worked out what the ot.. |
+| 531 | b2ch86:406 | "No," said Choi Dae-ho. "There was not." |
+| 531 | b2ch86:412 | Choi Dae-ho looked at the glass and not at anything through it. |
+| 531 | b2ch86:422 | Choi Dae-ho did not have an answer. |
+| 531 | b2ch86:442 | At the door there was one thing and it was Choi Dae-ho's, and Georgij heard it with his .. |
+| 531 | b2ch87:54 | Choi Dae-ho walked the length of that dining room to get to the hall. |
+| 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
+| 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
+| 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
+| 590 | b2ch89:202 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
+| 592 | b3ch01:38 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
+| 592 | b3ch01:58 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
+| 592 | b3ch01:104 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
+| 592 | b3ch01:146 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
+| 592 | b3ch01:206 | Choi Dae-ho was dead on the eighth of April. |
+| 600 | b3ch02:68 | He is not sorry Choi Dae-ho is dead, and he does not arrange his face to look as if he w.. |
+| 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
+| 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
+| 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
+| 628 | b3ch03:294 | "So did Choi." |
+| 742 | b3ch10:62 | That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was.. |
+| 861 | b3ch20:254 | He did not leave out the part where he stayed in the chair. He did not soften what he sa.. |
+| 861 | b3ch20:288 | "But I want you to hear the number. That man buried Choi Dae-ho on a Tuesday in the rain.. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 155) - eight hundred, four hundred and thirty
+- `b2ch25:152` (Tag 236) - fifty-nine
+- `b2ch31:38` (Tag 243) - one
+- `b2ch32:42` (Tag 244) - four, one, six, two
+- `b2ch34:12` (Tag 249) - four, one
+- `b2ch34:46` (Tag 249) - eleven, four, one, thirty
+- `b2ch34:96` (Tag 249) - three
+- `b2ch36:250` (Tag 259) - one
+- `b2ch36:330` (Tag 259) - eleven, four, one
+- `b2ch40:158` (Tag 273) - one, six
+- `b2ch55:56` (Tag 322) - eleven, hundred and forty
+- `b2ch55:64` (Tag 322) - five
+- `b2ch58:170` (Tag 371) - eleven, four, one
+- `b2ch77:66` (Tag 464) - eleven, one, two thousand and two
+- `b2ch85:68` (Tag 531) - eight, three
+- `b2ch85:138` (Tag 531) - eight, eleven, fifty, five, four, one, six, two
+- `b2ch85:234` (Tag 531) - nine, twenty
+- `b2ch86:30` (Tag 531) - two
+- `b2ch86:40` (Tag 531) - four
+- `b2ch86:120` (Tag 531) - two
+- `b2ch86:138` (Tag 531) - twenty-five
+- `b2ch86:140` (Tag 531) - one
+- `b2ch86:154` (Tag 531) - one
+- `b2ch86:174` (Tag 531) - one
+- `b2ch86:190` (Tag 531) - nine, twenty
+- `b2ch86:242` (Tag 531) - two
+- `b2ch86:252` (Tag 531) - twenty-five
+- `b2ch86:324` (Tag 531) - four
+- `b2ch86:362` (Tag 531) - two
+- `b2ch86:404` (Tag 531) - four, one, twenty-five, twenty-six
+- `b2ch86:442` (Tag 531) - one
+- `b2ch87:138` (Tag 531) - eleven
+- `b2ch87:292` (Tag 531) - eight, three
+- `b2ch89:202` (Tag 590) - five, thirty, thirty-one, two
+- `b3ch01:38` (Tag 592) - forty
+- `b3ch01:104` (Tag 592) - four, one
+- `b3ch01:146` (Tag 592) - three
+- `b3ch02:154` (Tag 600) - twenty-five
+- `b3ch10:62` (Tag 742) - one
+- `b3ch20:254` (Tag 861) - one
+- `b3ch20:288` (Tag 861) - four, one
+
+---
+
 ### Mrs Jeon
 
 95 Nennungen in 21 Kapiteln.
@@ -36816,151 +37029,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch66:210` (Tag 399) - four, one
 - `b2ch66:266` (Tag 400) - eleven
 - `b2ch66:272` (Tag 400) - three
-
----
-
-### Choi Dae-ho
-
-93 Nennungen in 24 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-| 155 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
-| 236 | b2ch25:142 | "Choi Dae-ho," he said. |
-| 236 | b2ch25:152 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
-| 236 | b2ch25:160 | Woo. Sunwoo. Choi Dae-ho. |
-| 236 | b2ch25:248 | "Choi Dae-ho," he said. |
-| 243 | b2ch31:38 | "That he is not Choi Dae-ho. He is the one Choi Dae-ho tells to make the calls," said Ge.. |
-| 244 | b2ch32:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
-| 244 | b2ch32:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
-| 249 | b2ch34:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
-| 249 | b2ch34:46 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
-| 249 | b2ch34:96 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
-| 259 | b2ch36:250 | The man he is looking for does not eat in front of anybody he is working on. Whoever sat.. |
-| 259 | b2ch36:330 | "The one who was not Choi wanted the cook to like him." He stayed where he was. "A man w.. |
-| 263 | b2ch38:188 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
-| 273 | b2ch40:158 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
-| 273 | b2ch40:190 | "Where that would be, for a man like Choi." |
-| 288 | b2ch44:148 | "He has not told Choi Dae-ho," he said slowly. |
-| 290 | b2ch45:138 | "And if he goes to Choi Dae-ho the same afternoon." |
-| 322 | b2ch55:56 | Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the flo.. |
-| 322 | b2ch55:64 | He has treated the woman on the oxygen the way the whole of that trade treats her, which.. |
-| 371 | b2ch58:170 | "Somebody gets made by being handed a good reason at the wrong moment," said Georgij. "C.. |
-| 397 | b2ch65:116 | "Choi Dae-ho." |
-| 464 | b2ch77:66 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
-| 464 | b2ch78:158 | "You gave it to a man with no telephone." His hands stayed on his knees. "Not because I .. |
-| 531 | b2ch85:68 | Choi Dae-ho arrived at three minutes past eight in a car he did not drive. |
-| 531 | b2ch85:138 | Eleven people said good evening to Choi Dae-ho between five past eight and the gong. Fou.. |
-| 531 | b2ch85:202 | Georgij watched Choi Dae-ho watch it. |
-| 531 | b2ch85:234 | And at twenty past nine Choi Dae-ho picked up a fork, and put a piece of something on it.. |
-| 531 | b2ch85:276 | Choi Dae-ho put his napkin on the table beside his plate and got up. |
-| 531 | b2ch85:294 | Choi Dae-ho answered him and smiled. |
-| 531 | b2ch86:18 | Choi Dae-ho was standing at the window with his back to the door and he turned round bef.. |
-| 531 | b2ch86:30 | There were two places at that table and Choi Dae-ho did not look at either of them. It i.. |
-| 531 | b2ch86:32 | "You look tired," said Choi Dae-ho. "That is not a remark about tonight. You have been a.. |
-| 531 | b2ch86:40 | Choi Dae-ho sat down about four seconds afterwards, because a man of that sort does not .. |
-| 531 | b2ch86:48 | Choi Dae-ho took longer over it than he had taken over anything yet. |
-| 531 | b2ch86:70 | Choi Dae-ho looked at him properly then for the first time. |
-| 531 | b2ch86:86 | Choi Dae-ho did not do anything with his face at all. |
-| 531 | b2ch86:92 | Choi Dae-ho let a moment go past and did not use it. |
-| 531 | b2ch86:110 | Choi Dae-ho did not answer that, and the not answering was itself an answer. |
-| 531 | b2ch86:114 | Choi Dae-ho did not look surprised by any of it. |
-| 531 | b2ch86:120 | Choi Dae-ho waited about two seconds longer than a man waits. |
-| 531 | b2ch86:128 | "No," said Choi Dae-ho. "I do not think it would." |
-| 531 | b2ch86:138 | "You have spent twenty-five years arranging things so that other people carry the weight.. |
-| 531 | b2ch86:140 | Choi Dae-ho put one hand flat on the cloth beside the place that had been laid for him. |
-| 531 | b2ch86:150 | "There is a thing I can do for you," said Choi Dae-ho. |
-| 531 | b2ch86:154 | Choi Dae-ho put both hands down, one on either side of a bowl he had not touched. |
-| 531 | b2ch86:164 | "Ah," said Choi Dae-ho. |
-| 531 | b2ch86:174 | Choi Dae-ho moved one finger on the cloth and put it back where it had been. |
-| 531 | b2ch86:176 | "I did not send you anywhere," said Choi Dae-ho. |
-| 531 | b2ch86:186 | Choi Dae-ho got up and went to the window. |
-| 531 | b2ch86:190 | "There is a thing you saw at twenty past nine," said Choi Dae-ho. |
-| 531 | b2ch86:216 | "You had that put there," said Choi Dae-ho. |
-| 531 | b2ch86:224 | "You do not eat. Not with people you work on." Choi Dae-ho's hand was still on the sill... |
-| 531 | b2ch86:226 | Choi Dae-ho looked at the table for the first time. |
-| 531 | b2ch86:234 | Choi Dae-ho turned round from the glass. |
-| 531 | b2ch86:242 | Choi Dae-ho looked away from the two bowls. |
-| 531 | b2ch86:252 | "It is not a discipline and it is not a superstition." Choi Dae-ho's hand stayed where i.. |
-| 531 | b2ch86:270 | Choi Dae-ho did not say anything to that at all. |
-| 531 | b2ch86:278 | Choi Dae-ho put his other hand on the sill. |
-| 531 | b2ch86:292 | Choi Dae-ho was looking at the carpet. |
-| 531 | b2ch86:300 | Choi Dae-ho did not turn round. |
-| 531 | b2ch86:322 | "She has a room on a ground floor with a window and a door that opens, and the account b.. |
-| 531 | b2ch86:324 | Choi Dae-ho did not ask for any of the four things he had just been refused. |
-| 531 | b2ch86:330 | Choi Dae-ho did not lift his head. |
-| 531 | b2ch86:334 | Choi Dae-ho did not do anything with that at all. |
-| 531 | b2ch86:344 | Choi Dae-ho put his hand back on the sill. |
-| 531 | b2ch86:352 | "No," said Choi Dae-ho. "They did not." |
-| 531 | b2ch86:362 | "There are two places at that table," said Choi Dae-ho. |
-| 531 | b2ch86:378 | Choi Dae-ho stood at the window of a small room in somebody else's house. |
-| 531 | b2ch86:394 | Choi Dae-ho put a hand flat on the glass and took it away again, and the mark stayed on .. |
-| 531 | b2ch86:404 | "There are twenty-six people at that table, and most of them have worked out what the ot.. |
-| 531 | b2ch86:406 | "No," said Choi Dae-ho. "There was not." |
-| 531 | b2ch86:412 | Choi Dae-ho looked at the glass and not at anything through it. |
-| 531 | b2ch86:422 | Choi Dae-ho did not have an answer. |
-| 531 | b2ch86:442 | At the door there was one thing and it was Choi Dae-ho's, and Georgij heard it with his .. |
-| 531 | b2ch87:54 | Choi Dae-ho walked the length of that dining room to get to the hall. |
-| 531 | b2ch87:138 | Choi Dae-ho stopped, which he had not done in eleven metres. |
-| 531 | b2ch87:292 | At the bottom she stopped and turned round, and she was standing where Choi Dae-ho had s.. |
-| 590 | b2ch89:6 | Choi Dae-ho has been dead since the eighth of April. |
-| 590 | b2ch89:202 | A woman in her sixties who put flowers and linen into halls for thirty years has taken t.. |
-| 592 | b3ch01:38 | The forty-ninth day is counted from the death and the death is the first of them. Choi D.. |
-| 592 | b3ch01:58 | *Choi Dae-ho. 59. Former prosecutor, out early and nobody says why.* |
-| 592 | b3ch01:104 | "You are on it because he wrote you on it." Something had gone out of his voice. "I am g.. |
-| 592 | b3ch01:146 | "Three things, and none of the three is written on it." Georgij did not sit down. "The f.. |
-| 592 | b3ch01:206 | Choi Dae-ho was dead on the eighth of April. |
-| 600 | b3ch02:68 | He is not sorry Choi Dae-ho is dead, and he does not arrange his face to look as if he w.. |
-| 600 | b3ch02:150 | There is nobody in that hall who owed Choi Dae-ho anything by the end of it. |
-| 600 | b3ch02:154 | Choi Dae-ho has been out of that service for twenty-five years and out of the trade sinc.. |
-| 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
-| 628 | b3ch03:294 | "So did Choi." |
-| 742 | b3ch10:62 | That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was.. |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-- `b2ch03:40` (Tag 155) - eight hundred, four hundred and thirty
-- `b2ch25:152` (Tag 236) - fifty-nine
-- `b2ch31:38` (Tag 243) - one
-- `b2ch32:42` (Tag 244) - four, one, six, two
-- `b2ch34:12` (Tag 249) - four, one
-- `b2ch34:46` (Tag 249) - eleven, four, one, thirty
-- `b2ch34:96` (Tag 249) - three
-- `b2ch36:250` (Tag 259) - one
-- `b2ch36:330` (Tag 259) - eleven, four, one
-- `b2ch40:158` (Tag 273) - one, six
-- `b2ch55:56` (Tag 322) - eleven, hundred and forty
-- `b2ch55:64` (Tag 322) - five
-- `b2ch58:170` (Tag 371) - eleven, four, one
-- `b2ch77:66` (Tag 464) - eleven, one, two thousand and two
-- `b2ch85:68` (Tag 531) - eight, three
-- `b2ch85:138` (Tag 531) - eight, eleven, fifty, five, four, one, six, two
-- `b2ch85:234` (Tag 531) - nine, twenty
-- `b2ch86:30` (Tag 531) - two
-- `b2ch86:40` (Tag 531) - four
-- `b2ch86:120` (Tag 531) - two
-- `b2ch86:138` (Tag 531) - twenty-five
-- `b2ch86:140` (Tag 531) - one
-- `b2ch86:154` (Tag 531) - one
-- `b2ch86:174` (Tag 531) - one
-- `b2ch86:190` (Tag 531) - nine, twenty
-- `b2ch86:242` (Tag 531) - two
-- `b2ch86:252` (Tag 531) - twenty-five
-- `b2ch86:324` (Tag 531) - four
-- `b2ch86:362` (Tag 531) - two
-- `b2ch86:404` (Tag 531) - four, one, twenty-five, twenty-six
-- `b2ch86:442` (Tag 531) - one
-- `b2ch87:138` (Tag 531) - eleven
-- `b2ch87:292` (Tag 531) - eight, three
-- `b2ch89:202` (Tag 590) - five, thirty, thirty-one, two
-- `b3ch01:38` (Tag 592) - forty
-- `b3ch01:104` (Tag 592) - four, one
-- `b3ch01:146` (Tag 592) - three
-- `b3ch02:154` (Tag 600) - twenty-five
-- `b3ch10:62` (Tag 742) - one
 
 ---
 
@@ -38084,7 +38152,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ku
 
-35 Nennungen in 23 Kapiteln.
+36 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -38123,6 +38191,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 500 | b2ch82:92 | Mr Ku had them there at four minutes to ten. |
 | 531 | b2ch87:200 | Chairman Woo went at half past ten and Mr Ku took him, because his own driver had gone a.. |
 | 531 | b2ch87:302 | Mr Ku took her to the station. |
+| 861 | b3ch20:244 | Georgij did not do anything in the car. He did not write, he did not read, and he did no.. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -38205,6 +38274,56 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:28` (Tag 74) - four, three
 - `b1ch31:34` (Tag 74) - four, one, three
 - `b3ch10:194` (Tag 742) - four
+
+---
+
+### Gong Doo-hyun
+
+32 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
+| 592 | b3ch01:132 | "Gong Doo-hyun." |
+| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
+| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
+| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
+| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
+| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
+| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
+| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
+| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
+| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
+| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
+| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
+| 628 | b3ch03:198 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
+| 628 | b3ch03:220 | Gong Doo-hyun did not write it down and did not need to. |
+| 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
+| 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
+| 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
+| 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
+| 753 | b3ch11:244 | "Gong Doo-hyun." |
+| 853 | b3ch19:98 | Gong Doo-hyun kept it. |
+| 853 | b3ch19:168 | By the end of February there will be a written record of two things, made by prosecutors.. |
+| 853 | b3ch19:240 | There is a way out of it that is clean, and it will be on Gong Doo-hyun's desk inside a .. |
+| 853 | b3ch19:268 | *Gong took it himself on the second. He has waited eight months for a piece of paper wit.. |
+| 861 | b3ch20:26 | Gong Doo-hyun did not hide either of them. |
+| 861 | b3ch20:62 | Gong Doo-hyun turned his head and looked at it, which he does not need to do. |
+| 861 | b3ch20:100 | Gong Doo-hyun did not say anything. |
+| 861 | b3ch20:140 | Gong Doo-hyun sat very still. |
+| 861 | b3ch20:178 | "You are afraid of me," said Gong Doo-hyun. |
+| 861 | b3ch20:190 | "Say it or do not," said Gong Doo-hyun, "but do not sit in that chair and be silent at m.. |
+| 861 | b3ch20:204 | Gong Doo-hyun looked at him for a long moment. |
+| 861 | b3ch20:232 | "Yes," said Gong Doo-hyun. "You have." |
+
+### Zahlen in der Naehe von Gong Doo-hyun
+
+- `b3ch02:70` (Tag 600) - eleven, one, twenty
+- `b3ch02:88` (Tag 600) - one, three
+- `b3ch02:110` (Tag 600) - two
+- `b3ch03:160` (Tag 628) - four
+- `b3ch19:168` (Tag 853) - two
+- `b3ch19:268` (Tag 853) - eight
 
 ---
 
@@ -38428,6 +38547,51 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Lee Jun
+
+25 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
+| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
+| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
+| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
+| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
+| 774 | b3ch13:84 | Lee Jun stood where he could see the door and the hands and did not sit down when he was.. |
+| 774 | b3ch13:194 | Lee Jun did not say thank you, which is correct, and did not look pleased, which is not .. |
+| 774 | b3ch13:210 | Lee Jun looked out of his side of the window for about two minutes. |
+| 774 | b3ch13:246 | "Lee Jun." |
+| 774 | b3ch13:340 | Lee Jun wrote nothing down in that office and nothing in the car. |
+| 823 | b3ch16:258 | Lee Jun came in at seven with the post and did not go out again. |
+| 823 | b3ch16:280 | Lee Jun thought about that for longer than the answer needed. |
+| 839 | b3ch17:270 | Lee Jun asked the only question anybody asked him that week and he asked it on the stairs. |
+| 839 | b3ch17:286 | Lee Jun did not say anything for a moment. |
+| 848 | b3ch18:249 | Lee Jun carried the second box up from the hall in December and asked what was in it. |
+| 853 | b3ch19:198 | Two men came to Mr Chae's office on the eleventh and Lee Jun was in the hall when they l.. |
+| 853 | b3ch19:218 | "Because I have been told for nine months that nothing we do is against the law." Lee Ju.. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:360` (Tag 645) - four
+- `b3ch07:150` (Tag 707) - twenty
+- `b3ch11:118` (Tag 753) - five
+- `b3ch11:266` (Tag 753) - six
+- `b3ch13:210` (Tag 774) - two
+- `b3ch16:258` (Tag 823) - seven
+- `b3ch19:198` (Tag 853) - two
+- `b3ch19:218` (Tag 853) - nine, two
+
+---
+
 ### Mr Koh
 
 25 Nennungen in 7 Kapiteln.
@@ -38473,42 +38637,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:310` (Tag 453) - two
 - `b2ch85:52` (Tag 531) - eight, one
 - `b2ch87:192` (Tag 531) - ten
-
----
-
-### Gong Doo-hyun
-
-20 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 592 | b3ch01:48 | The name is Gong Doo-hyun. He is the Prosecutor General. |
-| 592 | b3ch01:132 | "Gong Doo-hyun." |
-| 600 | b3ch02:70 | Gong Doo-hyun stood at the front of it from eleven until twenty past one. |
-| 600 | b3ch02:78 | "Thank you for coming," said Gong Doo-hyun. |
-| 600 | b3ch02:88 | "There are three others who do not, and they are from the hall, the crematorium, and the.. |
-| 600 | b3ch02:106 | "You may say anything you like." Gong Doo-hyun did not step back and did not look at the.. |
-| 600 | b3ch02:110 | Gong Doo-hyun looked at him for about two seconds. |
-| 628 | b3ch03:12 | He asked Mr Chae what an office of that sort can do to a man without a case, and got a p.. |
-| 628 | b3ch03:80 | "Sit down," said Gong Doo-hyun. |
-| 628 | b3ch03:98 | "That is where it starts," said Gong Doo-hyun. "You wrote it yourself and you knew what .. |
-| 628 | b3ch03:140 | Gong Doo-hyun took the file back and put it square with the edge of the desk. |
-| 628 | b3ch03:160 | "I am not interested in whether you can justify what you did," said Gong Doo-hyun. "You .. |
-| 628 | b3ch03:184 | Gong Doo-hyun sat back for the first time since Georgij had come in. |
-| 628 | b3ch03:198 | "That is what I brought you here for," said Gong Doo-hyun, "and you asked me for it your.. |
-| 628 | b3ch03:220 | Gong Doo-hyun did not write it down and did not need to. |
-| 628 | b3ch03:228 | "So did Choi," said Gong Doo-hyun. |
-| 628 | b3ch03:242 | Gong Doo-hyun did not follow it up. |
-| 628 | b3ch03:248 | "You may go," said Gong Doo-hyun. "I am not going to ask you anything and I am not going.. |
-| 628 | b3ch03:262 | Gong Doo-hyun did not stand up with him. |
-| 753 | b3ch11:244 | "Gong Doo-hyun." |
-
-### Zahlen in der Naehe von Gong Doo-hyun
-
-- `b3ch02:70` (Tag 600) - eleven, one, twenty
-- `b3ch02:88` (Tag 600) - one, three
-- `b3ch02:110` (Tag 600) - two
-- `b3ch03:160` (Tag 628) - four
 
 ---
 
@@ -38595,44 +38723,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Lee Jun
-
-18 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
-| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
-| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
-| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
-| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
-| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
-| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
-| 774 | b3ch13:84 | Lee Jun stood where he could see the door and the hands and did not sit down when he was.. |
-| 774 | b3ch13:194 | Lee Jun did not say thank you, which is correct, and did not look pleased, which is not .. |
-| 774 | b3ch13:210 | Lee Jun looked out of his side of the window for about two minutes. |
-| 774 | b3ch13:246 | "Lee Jun." |
-| 774 | b3ch13:340 | Lee Jun wrote nothing down in that office and nothing in the car. |
-
-### Zahlen in der Naehe von Lee Jun
-
-- `b3ch04:360` (Tag 645) - four
-- `b3ch07:150` (Tag 707) - twenty
-- `b3ch11:118` (Tag 753) - five
-- `b3ch11:266` (Tag 753) - six
-- `b3ch13:210` (Tag 774) - two
-
----
-
 ### Moon Hae-sook
 
-18 Nennungen in 10 Kapiteln.
+19 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -38654,6 +38747,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 590 | b2ch89:144 | Moon Hae-sook asked in November what became of sixty-two people, and she also asked that.. |
 | 718 | b3ch08:190 | Moon Hae-sook was in the chair with her feet on a stool and a rug she had not pulled up. |
 | 718 | b3ch08:232 | Moon Hae-sook looked at the wall and not at him, which is where she looks. |
+| 823 | b3ch16:254 | Moon Hae-sook has the names and sits in a chair by the kitchen garden and is slower than.. |
 
 ### Zahlen in der Naehe von Moon Hae-sook
 
@@ -38710,7 +38804,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Seol Gwan-ik
 
-13 Nennungen in 2 Kapiteln.
+14 Nennungen in 3 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -38727,6 +38821,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 742 | b3ch10:176 | Seol Gwan-ik did not pretend to think about it. |
 | 742 | b3ch10:184 | "Do not thank me for that one," said Seol Gwan-ik. "Thank me for the four names." |
 | 774 | b3ch13:288 | Seol Gwan-ik said in a borrowed room in October that the order would read as caused. |
+| 861 | b3ch20:312 | Seol Gwan-ik telephoned nobody about it. He wrote back the same day, agreed the date, an.. |
 
 ### Zahlen in der Naehe von Seol Gwan-ik
 
@@ -38735,6 +38830,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch10:98` (Tag 742) - four, one, three
 - `b3ch10:126` (Tag 742) - one
 - `b3ch10:184` (Tag 742) - four, one
+- `b3ch20:312` (Tag 861) - one
 
 ---
 
