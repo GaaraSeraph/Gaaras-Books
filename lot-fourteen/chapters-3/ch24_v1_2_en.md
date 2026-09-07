@@ -1,0 +1,356 @@
+# Chapter 24: Eleven thousand
+*Lot Fourteen* · Version 1.2 · EN
+
+## Day Eight Hundred and Seventy · Sunday 20 February
+
+Ryu Cheol-min asked for a meeting through Mr Chae on the Friday evening and it was arranged for a Sunday.
+
+---
+
+Not because a Sunday is discreet. Because a serving officer of Hanseong who walks into a lawyer's office on a working day has resigned by lunchtime whether he meant to or not, and because he had not decided.
+
+It was Mr Chae's office and Mr Chae was in it, at the far end, with the door open, taking no part.
+
+---
+
+He is sixty-one. He is the sort of man who is thinner than he was and does not know it, and he came in a coat he has had a long time and did not take it off.
+
+* * *
+
+He has run the operating side of that group for nine years and has been in it for twenty-six.
+
+---
+
+He came in as a shift engineer at Changwon in 2002 and has never worked anywhere else. He is not on the board of the holding company and never has been. He is on the boards of the four operating companies, where the work is, and where nobody photographs anything.
+
+Everybody in that trade knows his name. Nobody outside it has ever heard it.
+
+---
+
+He has no shares. He has a salary, a company car he did not choose, and a pension worth about what a man of sixty-one has after twenty-six years in one place.
+
+* * *
+
+"I am not here to give you anything," said Ryu.
+
+---
+
+"No."
+
+"I want to know one thing and then I am going to go home."
+
+---
+
+"Ask it."
+
+* * *
+
+"There are eleven thousand people at the four plants."
+
+---
+
+He said the number the way a man says his own address.
+
+"Four thousand nine hundred at Changwon. Two thousand two hundred at Gumi. Two thousand four hundred at Asan. Fifteen hundred at Pyeongtaek, and eight hundred of those are agency and have been for six years, which I have raised eleven times."
+
+---
+
+"Yes."
+
+"When it is over, how many of them are there."
+
+* * *
+
+Georgij did not answer straight away and both men noticed it.
+
+---
+
+"I cannot tell you a number," he said. "Anybody who gives you a number today is lying to you and you would know it inside four seconds."
+
+"Then say what you can say."
+
+---
+
+"I can tell you what has happened at the places this house has already touched, and you can go and count them yourself, and none of them will have been told that you are coming."
+
+* * *
+
+He gave him four.
+
+---
+
+Five haulage firms in the south that were going to be bought out in the spring of 2026 and were not. All five are still trading. Two are bigger.
+
+A yard in Siheung with nine men in it and a lease that had four months left on it. It has eleven men now.
+
+---
+
+A terminal in Incheon with four thousand two hundred people at it. Nobody has been put out of that building in two years and the wage bill is the same, adjusted, and the man who runs it will confirm both if he is telephoned.
+
+And a small firm in Mullae that this house did not save, because it could not, and where thirty-one people lost their jobs in the November before last.
+
+---
+
+"You have given me the fourth one on purpose," said Ryu.
+
+"Yes."
+
+---
+
+"Why."
+
+"Because you were going to find it, and because a list of three is a brochure."
+
+---
+
+Then he gave him a fifth thing, and it is not a company.
+
+"There is a man of fifty-five who does four days a week for this house and takes no money for any of it," said Georgij. "You may telephone him and ask him whatever you like about how it is here, and I will not know what you asked or what he told you."
+
+---
+
+He wrote the number on the back of Mr Chae's card and pushed it across the table.
+
+* * *
+
+Ryu sat with that for a while.
+
+---
+
+Mr Chae, at the far end, turned a page of something he was not reading.
+
+---
+
+"That is not a promise," said Ryu.
+
+"No. It is a record. You may check every line of it and it will take you a week."
+
+---
+
+"And if I check it and it holds."
+
+"Then you will know what this house does with a factory," said Georgij. "You will still not know what it does with yours, because nobody knows that yet, and I am not going to pretend to you that a good record is the same as an assurance."
+
+* * *
+
+"Say what happens to the ones that do not work."
+
+---
+
+"They stop and the people are moved, and it is done slowly and it costs money and it is written down." He did not soften it. "Pyeongtaek does not work. You know that better than I do and you have known it for six years."
+
+"I have raised it eleven times."
+
+---
+
+"I know. I have read nine of the eleven."
+
+---
+
+Ryu looked at him properly for the first time since he came in.
+
+"Where."
+
+---
+
+"In the board packs, which go to nine people, one of whom is a pension fund in Busan that keeps everything." Georgij did not decorate it. "Your minutes are the only useful documents that group produces and you are the reason."
+
+* * *
+
+It went quiet.
+
+---
+
+"He told me to sell Electronics on Thursday," said Ryu.
+
+"Yes."
+
+---
+
+"You knew that."
+
+"I knew on Friday morning. I did not know from anybody in your building."
+
+---
+
+"I am not going to ask how."
+
+"You would not like the answer, and the answer is that it was in a broker's diary and brokers keep diaries."
+
+* * *
+
+"I am going to tell you what he said to me in December," said Ryu, "and then I am going to go home, and I would like you to understand that I am not telling you in order to be useful."
+
+---
+
+"Say it."
+
+"I asked that my view be recorded. It was recorded in nine words and they were not mine, they were the secretary's, and they were accurate."
+
+---
+
+He had not moved his hands off his knees since he sat down.
+
+"Then he said this. *My father valued your advice, Mr Ryu. He asked you what should be done. I am telling you to do it.*"
+
+---
+
+Georgij did not say anything.
+
+"He was polite about it," said Ryu. "That is the part I have not been able to put down."
+
+* * *
+
+"I have been in that building for twenty-six years," he said. "I built the Asan line. His father walked it with me in 2011 and asked me forty questions and did not know the answer to any of them and said so."
+
+---
+
+He stood up.
+
+"His son has never asked me one."
+
+* * *
+
+At the door he stopped and did not turn round, which is a thing men of that age do in this country when they are about to say the true part.
+
+---
+
+"I am not coming to you."
+
+"No."
+
+---
+
+"I am going to resign on Monday and I am going to sit in my own house, and in three months somebody will telephone me, and it may be you and it may be somebody else."
+
+"Yes."
+
+---
+
+"If it is you, I will listen." He had his hand on the frame. "I am not doing this for you and I would like that on a piece of paper somewhere."
+
+"It is going to be on one tonight."
+
+* * *
+
+He resigned at nine on the Monday morning, by letter, with immediate effect, and he gave no reason.
+
+---
+
+The letter is four lines long and the fourth line is that the handover note is attached.
+
+The handover note is nineteen pages. It lists every open matter at four plants, with a name against each, and the name is never his.
+
+---
+
+He initialled the bottom of each page and did not sign the last one, because a handover note is not an agreement.
+
+* * *
+
+Han Yong-seok did not accept it for two days and then accepted it.
+
+---
+
+There was no announcement. There is never an announcement when the operating director of a group resigns in the middle of a defect investigation, and everybody who needs to know found out inside four hours.
+
+The agent bank found out on the Tuesday afternoon.
+
+---
+
+The fair trade commission found out on the Wednesday, because it had a meeting arranged with him and the meeting was cancelled by somebody else.
+
+* * *
+
+What a resignation of that kind does is not visible for about a week.
+
+---
+
+Then it is visible everywhere at once. Four plants that had one man to telephone about anything that mattered now have a committee, and the committee has to be told things the one man already knew.
+
+Two suppliers asked for a meeting in the same week and neither had ever asked for one before.
+
+---
+
+The agent bank did not ask about it and did not have to. A bank that has requested a schedule of fixed assets, and then watches the operating director leave, has had its answer in a form nobody can write down.
+
+* * *
+
+"He did not come over," said Annie.
+
+---
+
+"No. He resigned and went home."
+
+"Say the difference."
+
+---
+
+"A man who comes over is a man somebody has. A man who goes home is a man who is going to be at home in three months when the people who are left have to decide what happens to eleven thousand jobs." Georgij was at the side of the desk. "He has made himself the only person in this country who can do that work and is not attached to anybody."
+
+---
+
+"That is a better position than mine."
+
+"Yes, Mistress. It is the best position of anybody in this and it took him one letter and four lines."
+
+* * *
+
+"Say the number again."
+
+---
+
+"Eleven thousand at four plants. Eight hundred of them agency."
+
+---
+
+Annie wrote it at the top of the page she was working on, which is not what that page is for.
+
+"When somebody gets to the part where Pyeongtaek is decided, you will bring me that number and you will not soften it."
+
+---
+
+"Yes, Mistress."
+
+"And you will make me say out loud what I am doing."
+
+---
+
+"Yes."
+
+"And if I do not say it, you will say it for me."
+
+---
+
+"Yes."
+
+* * *
+
+Mr Chae said one thing after the door shut on the Sunday and did not mention it again.
+
+---
+
+"I have been in rooms with a great many men who were changing sides," he said. "That was not one."
+
+"No."
+
+---
+
+"He came to find out whether the people at Asan will be all right. He asked one question about it and he did not ask a single thing about himself." He put the cap on his pen. "I have been doing this for thirty-two years and that has happened twice."
+
+* * *
+
+Georgij wrote three lines in the book at about ten.
+
+---
+
+*Eleven thousand. Four nine, two two, two four, fifteen hundred, eight hundred agency.*
+
+*He gave me the December sentence and did not want anything for it.*
+
+*He is not coming over. He is going home, and in June somebody telephones him.*
+
+---
+
+Under the third one he wrote the piece of paper he had promised at the door, in the same words, and he wrote it that night so that it would be dated the twentieth and not later.
+
+*Ryu Cheol-min is not doing this for me or for this house.*

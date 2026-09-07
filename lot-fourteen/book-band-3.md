@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 20 Kapitel, 42.023 Woerter.
+Book Three, 24 Kapitel, 50.132 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -31,6 +31,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 18 | v1.1 | 2.001 |
 | 19 | v1.1 | 2.028 |
 | 20 | v1.1 | 2.007 |
+| 21 | v1.2 | 2.020 |
+| 22 | v1.1 | 2.008 |
+| 23 | v1.3 | 2.053 |
+| 24 | v1.2 | 2.028 |
 
 ---
 
@@ -4998,3 +5002,887 @@ He sat with it open at the page from the twenty-third of June, which he has done
 He has had an answer to that since October and it is a list.
 
 He added nothing to the list. He put the pen back in the tray, and shut the book, and went up at about ten, and the house did the things it does at ten.
+
+---
+
+# Book Three · Chapter 21: The ninth of September
+*Lot Fourteen* · Version 1.2 · EN
+
+## Day Eight Hundred and Sixty-Three · Sunday 13 February
+
+Woo Mi-sook died on the ninth of September 2026 and Georgij found out on the eleventh of December.
+
+He did not find out. He was told, in a subordinate clause, in a sentence about three other men, by her husband, in a room with a photograph of fourteen metres of water in it.
+
+> *"The third is alive. I have not had a real conversation with him since my wife died."*
+
+The sentence was about the fact that nobody had paid.
+
+* * *
+
+He looked the ninth of September up before he went, because he keeps everything and because he wanted to know and not to guess.
+
+There are four lines on that page. A yard in Siheung, a name and a number, a note about a lease, and a line about the weather that is there because it mattered to a delivery.
+
+None of them is her, and there is no reason why any of them should have been.
+
+He read the page twice and put it back on the shelf, and that is the whole of what a book like that is worth on a day like that.
+
+* * *
+
+The hill is an hour outside the city if the bridge is kind, and it was not.
+
+He went by bus to the interchange and by another bus after that, and by taxi for the last eleven kilometres, and it took two hours and forty minutes.
+
+There is a car in that house and he could have had it. He did not ask for it, and nobody would have thought anything of it if he had, and that is exactly why.
+
+The fares were paid out of the house account, with a card that has his name on it and is not his. There is one of those in that house for every person who has to go anywhere.
+
+He has never used it for a single thing that was not an errand. On the Sunday he used it to go to a grave, and he wrote it at the back of the book with the amount, because that is what the back of the book is for.
+
+The second bus had eleven people on it and nine of them were over seventy. It stopped at four places that are not villages, and at the third one an old woman got off with a bucket of chrysanthemums, and nobody helped her, because everybody on that bus was carrying something too.
+
+He was not.
+
+He did not bring anything. He did not know what she had liked and there was nobody left to ask.
+
+There is a stall at the interchange that sells them for eight thousand won, and he stood in front of it for about a minute.
+
+The card in his pocket is for errands and it belongs to a house. There is no version of that afternoon in which flowers on that stone were bought with it.
+
+* * *
+
+Chairman Woo was already there and had been for some time.
+
+He does not come on the ninth. He comes when it is quiet, and the second Sunday in February on a hill an hour outside the city is as quiet as this country gets.
+
+His car was at the bottom of the path and his driver was in it and had been told to stay.
+
+"I am sorry," said Georgij. "You said it to me in December and I did not hear it."
+
+"I know. It was in the middle of a sentence about three men who never paid, and I put it there so that it would be said." Woo did not turn round. "I have thought about that since and I do not know which of the two of us it says something about."
+
+"I would have come."
+
+"I know you would. That is why I did not tell you." He had his hands in his coat. "You had a thing to do and it was mine as well, and I was not going to be the reason you put it down."
+
+* * *
+
+Neither of them said anything for a while.
+
+The stone is grey and it is small for a man of that kind of money, and it has two names on it and one of the two has no second date under it yet.
+
+"What do you want." Woo said it without any edge on it at all. "You do not come somewhere and do nothing. I have watched you do it for eighteen months and you have never once done it."
+
+"I am here to visit a friend."
+
+Woo worked out that he did not mean the stone.
+
+* * *
+
+"There is a thing I am going to say once," said Woo.
+
+"Yes, sir."
+
+"You have not asked me for anything since May." He said it to the valley and not to him. "Nine months. In the two years before that you asked me for four things and I gave you three."
+
+"That is correct."
+
+"I know why you did it. So that when this ends there is nothing anybody can put next to my name." He moved his weight once. "I worked that out in July and I have been angry about it since July."
+
+"Yes, sir."
+
+"Do not say yes sir to me on this hill."
+
+It came out harder than the rest of it had.
+
+"I am eighty. There are four people left alive who will let me do something for them, and you have taken yourself off that list on purpose." He did not soften it. "You did it kindly, and it is the unkindest thing anybody has done to me in ten years."
+
+Georgij did not answer for a while.
+
+"I did not think of it that way."
+
+"You thought of it exactly that way. You think of everything exactly that way." Woo put his hands back in the coat. "That is not a complaint. It is the reason I am standing here."
+
+* * *
+
+"There is one thing and it is not why I came," said Georgij.
+
+"Say it anyway."
+
+"The twenty per cent is still on the register and it is still theirs." He did not decorate any of it. "It came out of the same place as a great many other things and it went with them. There is nobody who can ask you for it now."
+
+Woo did not say anything for a long moment.
+
+"Then it is not mine."
+
+"No."
+
+"Good," said Woo. "Then I can buy it."
+
+"How much will that cost me."
+
+"Nothing I am going to put in front of you today."
+
+* * *
+
+Georgij looked at the stone rather than at him.
+
+"I did not bring an envelope," he said. "I would not have known what to write on it. I hope that does instead."
+
+Chairman Woo stood on a hill outside the city with his hands in his coat.
+
+"She asked me twice who you were," he said, "and I gave her two different answers, and neither of them was it."
+
+* * *
+
+They stood there for a while longer and neither of them filled it.
+
+"I am going to tell you what she said the second time," said Woo, "and then I am going to go down that path, and we are not going to talk about this again."
+
+"Yes, sir."
+
+"I told her that you were a young man who worked for the woman at Lot Fourteen and that you were useful to me." He was not looking at the stone either now. "She said that she had not asked me what you did."
+
+* * *
+
+He went down the path at his own speed and did not look back.
+
+The car took four minutes to get out onto the road because the road is single-track for six hundred metres, and Georgij watched it the whole way because there was nothing else on that hill to look at.
+
+Then he stood there for about twenty minutes more.
+
+He did not say anything to her and he did not know what he would have said. He has never in his life spoken to somebody who was not there.
+
+* * *
+
+He understood something on the second bus and it took the whole of the second bus.
+
+Woo had come to that hill on a Sunday in February when nobody would see him. He had brought a driver and told him to stay in the car. He had been there for some time before anybody else arrived.
+
+He does that on a great many Sundays.
+
+A man who does that is not grieving in the ordinary way and slowly getting better at it. He is a man who has found somewhere to be.
+
+There is nobody in his house. His son does not telephone him. There are four people left alive who will let him do something for them, and he said so out loud, on a hill, to somebody who has spent nine months making sure he is not one of them.
+
+Georgij looked out of the window of a bus and tried to work out what that was worth, and could not.
+
+* * *
+
+The taxi came at half past three and the buses were the other way round.
+
+He did not report any of it.
+
+He came in at seven and Annie was at the desk. She asked him what the traffic had been like and he told her. That was the whole of it, and both of them meant it that way.
+
+She did not ask and she was never going to, and he understood on the stairs afterwards that not asking had cost her something.
+
+* * *
+
+He wrote one line in the book that night and it is not about the hill.
+
+*Woo Mi-sook. The ninth of September. He was on his own for three months and told nobody.*
+
+Under it he wrote the second thing, which is the only part of the afternoon that is going to matter to anybody who is not on that hill.
+
+*He is going to buy it. It has to be able to be bought.*
+
+* * *
+
+Which means a fund has to be wound up.
+
+A fund is wound up when the people who own it cannot go on holding it. The people behind that chain are going to have a very bad spring. What they hold will be sold by an administrator who does not care who buys it.
+
+Nobody in this house has to do anything about that. It is going to happen because of a note on page forty-one of a set of accounts published in March 2025.
+
+The only thing that has to be done is that somebody has to be watching the notices in the summer, and somebody has to tell an old man which Tuesday to be at a telephone.
+
+That is eight months away and it is written on the back of the sheet in the second drawer.
+
+* * *
+
+There are fifty-eight names and there are still ten.
+
+Moon Hae-sook was in the chair by the kitchen garden on the Sunday when he got back, with a blanket over her knees, which is new since November.
+
+She asked him where he had been and he told her the truth, which is that he had been to a grave.
+
+"Whose."
+
+"The wife of a man I know."
+
+"Did you know her."
+
+"No."
+
+"Then you went for him," said Moon Hae-sook, "and that is a different thing and it is the better one, and I would not tell him so if I were you."
+
+---
+
+# Book Three · Chapter 22: No other word
+*Lot Fourteen* · Version 1.1 · EN
+
+## Day Eight Hundred and Sixty-Six · Wednesday 16 February
+
+On the fifteenth of February the Hanseong matter was taken off Gong Doo-hyun's desk.
+
+Not by him. The financial crimes section had asked for it on the eighth, the deputy chief prosecutor decided it on the fifteenth, and the reason given in writing is subject-matter competence and nothing else.
+
+It is an ordinary decision and it was correct, and the man who signed it does not know Georgij and has never heard of him.
+
+Gong Doo-hyun kept the other part.
+
+It is the part about who spoke to whom, and about visitor books, and about a diary that has been kept complete since 1988, and nobody asked him for it because there is no section that wants it.
+
+* * *
+
+Mr Yeom is on the third floor of a building in Jung-gu with a lift that has been out since the spring.
+
+Georgij went up on the Wednesday because the empty companies had to be read before anything could be cut out of Motors. There is exactly one man in this country who has spent his working life inside companies that do not exist.
+
+He knocked. There were two cups on the table before he did.
+
+* * *
+
+"You want to ask me about companies with nobody in them," said Mr Yeom. "You are taking apart a group that is held together by that kind of company, and I have spent my life inside the kind of company that does not exist."
+
+"Yes."
+
+"Then ask. And when you have finished I have something of my own to say, and you are going to stay in that chair for it."
+
+* * *
+
+He answered for about forty minutes, in order, and he did not once ask why Georgij wanted any of it, and both of them noticed that he did not.
+
+There are six sorts and he did them in the order in which they are usually built.
+
+The company that owns the name. The company that licenses the name to the company that makes the thing. The company that holds the software that the thing will not run without. The company that carries the warranty, which is never the company that made the promise.
+
+Then the two that are the point.
+
+The company with no employees and full signing authority, which exists so that a signature can come from somewhere that cannot be asked questions. And the company that has one contract, and the contract is with a company in the same group, and the price in it has never once been tested.
+
+"You will find between nine and fourteen of them behind a group that size," said Mr Yeom. "You will find them by looking for the same registered address, or the same auditor, or the same three dates in a row, and the third one is the best because nobody thinks about dates."
+
+"And what they are for."
+
+"They are for the day the family needs something to be true that is not." He was not being clever about it. "Most of them are never used. A man builds them because his father built them, and they sit there, and then one afternoon somebody needs a signature and there is one available."
+
+* * *
+
+He named four and wrote down the registration numbers of two.
+
+The fourth one is the one Georgij will remember, and it is the reason a car company can be pulled out of a group without stopping a single line.
+
+The tooling in the Hanseong Motors plants is not owned by Hanseong Motors. It is owned by a company with two directors and no staff, and it has been leased back since 2009, and the lease is renewable annually and has been renewed nineteen times without anybody reading it.
+
+"Somebody is going to read it this year," said Mr Yeom.
+
+"Yes."
+
+"Good. It is a bad lease and it has been a bad lease since 2009, and I have wanted somebody to read it for eleven years, and I am not going to tell you why."
+
+* * *
+
+The lease is the reason the guarantee is worse than it looks.
+
+Hanseong Motors stood behind a hundred and twenty billion won in December, and everybody who read that document read it as the strongest company in the group putting its name behind the weakest.
+
+A company that does not own the tooling in its own plants is not what it appears to be on a page. It has cash, a brand, a dealer network and very good engineers.
+
+What it does not have is the thing a bank looks for when it looks at a guarantor, which is a great many expensive objects standing on the floor of a building it owns.
+
+Nobody has to tell the nine banks that. The covenant is tested in March, and the test asks for a schedule of fixed assets, and the schedule is the schedule.
+
+* * *
+
+Then he refilled both cups, which nobody had asked him to do.
+
+"Now mine," said Mr Yeom. "You never asked me why I read those folders. Four years of them, August to the new year, in a cupboard in a house in the suburbs. And then two pages in my own hand, posted from a box that is not near my house."
+
+"I did not ask because you would have had to decide what to answer."
+
+"I know your rule. I have watched you keep it in this room twice." Mr Yeom put his hands flat on either side of his cup. "I am going to answer it anyway, because I have done the arithmetic and it does not come out."
+
+"I have spent my life being paid to know things. I know the going rate for every kind of knowing there is. Somebody pays, or somebody owes, or somebody is afraid, and the rate follows from which one it is."
+
+He was entirely comfortable about all of it.
+
+"There is no rate for what I did with those folders. Nobody paid. Nobody owed. Nobody in that house was afraid of me, which at my age is a novelty in itself."
+
+Georgij did not move.
+
+"A man does unpaid work for a friend," said Mr Yeom. "I looked it up. There is no other word."
+
+* * *
+
+Georgij did not say it back.
+
+Mr Yeom watched him not say it, and then he did the thing with his mouth that is not the front-desk smile.
+
+"Good," he said. "If you had said it back inside a minute, I would have taken it off the table. I have spent thirty years learning what a returned compliment is worth, and it is the same everywhere, and it is nothing."
+
+"I know."
+
+"I know you know. It is why the word holds."
+
+He stood up, and took both cups, and put them where they go.
+
+"Come again when there is nothing to take apart. I would like to find out what you are like when you are not working, and I suspect the answer is that nobody has ever seen it."
+
+* * *
+
+The lift was still out and it is eleven flights down and up in that building because the third floor is the third above a mezzanine.
+
+Georgij stood on the landing between the second and the first for about as long as it takes to do up a coat, and he did not do up his coat.
+
+Then he went down.
+
+* * *
+
+He told her in the evening, in the library, in four sentences.
+
+He told her about the six sorts and about the lease from 2009. He told her that Mr Yeom had asked nothing at all for forty minutes. He told her the last of it as a fact, because it is one.
+
+Then he said the thing he had not planned to say.
+
+"I like him," said Georgij, and heard himself say it, because he does not say that about people who are alive.
+
+"I know you do." Annie did not look up from the page. "I like him too."
+
+* * *
+
+He stood there for a moment longer than the exchange needed.
+
+"Say it," said Annie.
+
+"There are three now."
+
+She put the page down at that, which she had not done for the rest of it.
+
+"Say the whole of it and do not make me build it."
+
+"In December a man came to this house and offered you two billion two hundred million for me and did not get it." He had not moved from where he stands. "In the middle of this month a man on a hill told me that there are four people left alive who will let him do something for them. And this afternoon a man in Jung-gu did the arithmetic out loud and could not make it come out any other way."
+
+"And you have not said the word to any of the three."
+
+"I said it to one of them in February and I meant it, and I have not said it since to anybody."
+
+* * *
+
+Annie looked at him for a while.
+
+"Do you know what you were two years ago."
+
+"Yes."
+
+"Say it."
+
+"A man with nothing in this country to telephone."
+
+"Yes," said Annie. "Sit down."
+
+* * *
+
+He did not sit down and she did not make him, and both of them knew that the instruction had not been about the chair.
+
+He stayed where he stands, at the side of the desk, and she went back to the page, and neither of them said anything for about ten minutes.
+
+That is the last quiet evening in that house for eleven days and neither of them knew it.
+
+* * *
+
+Lee Jun asked one thing that evening and it was not about any of it.
+
+"May I ask what Mr Yeom does, sir?"
+
+"He finds out things about people for money. He has done it for thirty years and he is very good at it."
+
+Lee Jun thought about that for a moment.
+
+"Then how is he a friend?"
+
+"Say why you asked it in that order."
+
+"Because you told me in September that the first thing to know about a man is what he is paid for." He had not come all the way into the room. "And I have just found out that it does not always answer the question."
+
+"It answers it about forty-nine times out of fifty," said Georgij. "The fiftieth is the one you will remember for the rest of your life."
+
+"How many have you had, sir?"
+
+"Three."
+
+* * *
+
+There are fifty-eight names and there are now eleven.
+
+The eleventh was found by Mr Hwang in the second week of February, in a hospital in Andong, and he is fifty-four and he does not remember any of it.
+
+His sister remembers all of it and she was not on the list.
+
+That has been written down twice: once in the file, where it belongs, and once at the back of the book, where the fares are, because Georgij did not know where else to put it.
+
+* * *
+
+Two lines in the book at about ten.
+
+*Nine to fourteen empty ones. The tooling is not theirs and has not been since 2009.*
+
+*Yeom said the word first and I did not give it back.*
+
+Under the second one there is a third line that was written later, in different ink, because he went back to it.
+
+*He was right about that. It cost me something not to say it and he knew that too.*
+
+---
+
+# Book Three · Chapter 23: The bulletin
+*Lot Fourteen* · Version 1.3 · EN
+
+## Day Eight Hundred and Sixty-Eight · Friday 18 February
+
+The ministry put four lines on its website at nine on the seventeenth and did not telephone anybody about it.
+
+*A preliminary defect investigation has been opened in respect of the coolant pump assembly fitted to two model lines manufactured between 2019 and 2023. The number of vehicles concerned is approximately four hundred and ten thousand.*
+
+That is the whole of it. There is no company named in the four lines, because the ministry does not name companies at that stage, and there did not need to be.
+
+* * *
+
+The thing the investigation is about is not the pump.
+
+A pump that fails is a warranty matter and every manufacturer has them. What the investigation is about is a service bulletin issued to authorised workshops in March 2026. It describes the failure. It describes the symptom that comes before it. And it instructs the workshop to replace the assembly and to charge it to goodwill.
+
+A bulletin of that kind is an internal document and there is nothing wrong with issuing one.
+
+There is something wrong with issuing one and not reporting the defect, because the law says that a manufacturer who becomes aware of a defect reports it within thirty days.
+
+March 2026 was twenty-three months ago.
+
+* * *
+
+The ministry has had the bulletin since the eleventh of November.
+
+It was sent to the defect investigation bureau with a covering letter of six lines.
+
+The letter is from a foreign national with no standing and no interest in any vehicle of that make. It says where he got the bulletin, which is from workshops, in the ordinary course of asking them about their business. It gives his own name and address. It asks for nothing.
+
+The bureau acknowledged it on the fourteenth. Then it did what a bureau does, which is to obtain the bulletin independently from four workshops of its own choosing, and to buy two of the pumps, and to take ninety-nine days.
+
+Nobody was telephoned. Nobody was owed anything. There is a letter in a file with a name at the bottom of it and anybody may read it.
+
+* * *
+
+Sixty workshops were visited between June and September.
+
+Every one of them was asked the same four questions. Every one of them was told who was asking and why, which is that a woman was thinking about a large fleet and wanted to know what the trade thought of the vehicles.
+
+That was true when it was said and it is still true, and there is a fleet enquiry in Mr Chae's file dated the second of June to prove it.
+
+Forty-one of the sixty produced the bulletin without being asked for it.
+
+Nine said that they had stopped charging it to goodwill because the goodwill claims were being refused. Two said that they had told the regional office and had been told to stop telephoning.
+
+None of that was written down by anybody until a man with a notebook wrote it down.
+
+* * *
+
+The price of Hanseong Motors fell twelve per cent on the seventeenth and nine more on the eighteenth.
+
+It is a real company and it fell like a real company, which is to say slowly, all day, in a straight line, on very large volume.
+
+The second day is the one that matters. A twelve per cent day is a fright. A twelve and then a nine is people reading the second page.
+
+* * *
+
+Hanseong Electronics fell with it and did not have to.
+
+Electronics makes different things, in different factories, for different customers. Nothing in the ministry's four lines touches it.
+
+What touches it is a facility of two hundred billion won, announced on the second of February, in support of what the announcement called the group's core industrial platform.
+
+A company that has publicly attached itself to another company is attached to it on the way down as well.
+
+Han Yong-seok wrote that sentence on the second of February and had it published, and there is no version of the seventeenth in which Electronics is not in it.
+
+* * *
+
+The nine banks moved on the twenty-first.
+
+They did not accelerate anything and they did not have to. The Credit syndicate agreement is tested annually and the test date is in March, and one of the things the test asks for is a schedule of the fixed assets of any guarantor.
+
+The agent bank asked for the Motors schedule four weeks early, and then asked one supplementary question about the tooling in three plants, and the supplementary question is two lines long.
+
+Nobody outside two buildings knows that the supplementary question was asked.
+
+Mr Yeom knew it was coming on the Wednesday, because he has known since 2009 what is in that lease, and he has been waiting eleven years for somebody to read it.
+
+* * *
+
+There is a second envelope at that bureau and it has been there since the fourteenth of December.
+
+It is about a battery module made by Hanseong Electronics and fitted to three household products, and it is eleven pages long, and Georgij wrote every line of it himself between October and December.
+
+Two of the eleven pages are about a cell that vents when it is charged in a cold room. The other nine are about the warranty, and they are the cheaper pages, and he put them second on purpose.
+
+It has not been opened.
+
+Nothing is wrong. It is in a queue behind eleven other things and the bureau has fourteen people. The pump took ninety-nine days and the pump came in on a day when there was less in front of it.
+
+He looks at the site on Thursdays. He has looked at it on eight Thursdays and there is nothing there, and there is not one lawful thing he can do to make it faster, and he has been through the whole of that four times.
+
+* * *
+
+"Say what we can buy," said Annie.
+
+"Credit. It is not a question of price any more and it is going to be a question of who is prepared to take the liabilities with it." Georgij had them in order. "That is a matter for the summer and it will be done through an administrator or through the syndicate, and it will be ugly and slow and cheap."
+
+"And Electronics."
+
+"Electronics is a good company that has been damaged by something that has nothing to do with it. It will come back and it will not come back all the way, and the family will need money before it does."
+
+"And Motors."
+
+"Motors is not for sale and will not be for sale, and the fair trade commission has had a market abuse case open on the dealer network since the eleventh of January." He put the last of them on top. "If that case ends the way those cases end, the remedy is that they have to sell part of the network. Not the company. Part of the network."
+
+Annie looked at the last one for a while.
+
+"Then we do not get Motors."
+
+"We get the part of it that a competition remedy makes buyable, and we get it at the price a forced seller takes, and it will be about a third of what is on that sheet." Georgij did not soften it. "I have never once told you that we would get all of it."
+
+* * *
+
+"No," said Annie. "You have not."
+
+She put them down square.
+
+"I would like to say the thing that everybody in this house is too polite to say, and I would like to say it once."
+
+"Yes, Mistress."
+
+"Four hundred and ten thousand people have been driving cars with a fault in them for two years." Her hands had not moved. "They are going to find out this month, and every one of them is going to be safer in April than they were in January."
+
+"Yes."
+
+"And I am going to make money out of it." She said it flatly and she did not look for anything in his face. "Say the sentence that makes that all right."
+
+"There is not one," said Georgij.
+
+"No."
+
+"The bulletin was written in March 2026 by a man in an engineering department who did his job properly and told his own company. Nobody in this house made him write it and nobody in this house stopped anybody reporting it." He did not move. "What this house did was ask sixty workshops a true question and hand the answer to the people whose job it is. Everything after that is theirs."
+
+"That is not the sentence I asked for."
+
+"There is not one," he said again. "There is only the order in which it happened, and the order is on paper." He had not taken his hands off the desk. "If somebody wants to write that we did it for the money, the eleventh of November is a Thursday, and the price did not move until February."
+
+* * *
+
+Han Yong-seok did the only thing left and he did it on the eighteenth.
+
+He put out a statement saying that the company would co-operate fully with the investigation, that the safety of customers was its first concern, and that the group's financial position was sound.
+
+Two of those three are true.
+
+Then he did the other thing, which nobody outside four rooms knows about, and which is the reason the last week of February happened the way it did.
+
+He told Ryu to sell Electronics.
+
+* * *
+
+That is the one instruction that man will not carry out, and the reason is not loyalty to anybody.
+
+Ryu Cheol-min has been at Hanseong for twenty-six years and he has run the operating side of it for nine. He did not build the group and he does not own any of it, and he has never once been asked what he thinks about anything that was not a plant.
+
+What he has is four factories, eleven thousand people, and a set of numbers he can make come out.
+
+Selling Electronics in the third week of February means selling the only company in that group that still works properly. It means selling it at the bottom of the worst month it has ever had. And it means doing it to hold up a car company that is under investigation.
+
+A man who has spent twenty-six years being told to do it and doing it knows exactly what that is.
+
+* * *
+
+Mr Hwang put the sixth table away on the twenty-second and did not bring it up again.
+
+He had built it between the middle of August and the end of October and it is the cross-holdings. Every company on it is now in a newspaper, or in a file at a ministry, or on a schedule at a bank.
+
+There is nothing left on it that anybody has to be told.
+
+"I would like to say something and I would like it to be the last time," he said, with the coat over his arm. "I have made one useful thing in thirty-one years and it took four months and it is finished."
+
+"You have made four others this year."
+
+"I have made four tables. That is not the same and you know it is not." He moved the coat. "Do not be kind to me about arithmetic."
+
+* * *
+
+Georgij wrote four lines in the book at about ten.
+
+*Twelve and nine. The second day is people reading the second page.*
+
+*The agent bank asked about the tooling on the twenty-first. Two lines.*
+
+*Motors is not for sale and never was. A third of the network is.*
+
+The fourth line is not about any of it.
+
+*She asked me for a sentence and there is not one and I said so twice.*
+
+---
+
+# Book Three · Chapter 24: Eleven thousand
+*Lot Fourteen* · Version 1.2 · EN
+
+## Day Eight Hundred and Seventy · Sunday 20 February
+
+Ryu Cheol-min asked for a meeting through Mr Chae on the Friday evening and it was arranged for a Sunday.
+
+Not because a Sunday is discreet. Because a serving officer of Hanseong who walks into a lawyer's office on a working day has resigned by lunchtime whether he meant to or not, and because he had not decided.
+
+It was Mr Chae's office and Mr Chae was in it, at the far end, with the door open, taking no part.
+
+He is sixty-one. He is the sort of man who is thinner than he was and does not know it, and he came in a coat he has had a long time and did not take it off.
+
+* * *
+
+He has run the operating side of that group for nine years and has been in it for twenty-six.
+
+He came in as a shift engineer at Changwon in 2002 and has never worked anywhere else. He is not on the board of the holding company and never has been. He is on the boards of the four operating companies, where the work is, and where nobody photographs anything.
+
+Everybody in that trade knows his name. Nobody outside it has ever heard it.
+
+He has no shares. He has a salary, a company car he did not choose, and a pension worth about what a man of sixty-one has after twenty-six years in one place.
+
+* * *
+
+"I am not here to give you anything," said Ryu.
+
+"No."
+
+"I want to know one thing and then I am going to go home."
+
+"Ask it."
+
+* * *
+
+"There are eleven thousand people at the four plants."
+
+He said the number the way a man says his own address.
+
+"Four thousand nine hundred at Changwon. Two thousand two hundred at Gumi. Two thousand four hundred at Asan. Fifteen hundred at Pyeongtaek, and eight hundred of those are agency and have been for six years, which I have raised eleven times."
+
+"Yes."
+
+"When it is over, how many of them are there."
+
+* * *
+
+Georgij did not answer straight away and both men noticed it.
+
+"I cannot tell you a number," he said. "Anybody who gives you a number today is lying to you and you would know it inside four seconds."
+
+"Then say what you can say."
+
+"I can tell you what has happened at the places this house has already touched, and you can go and count them yourself, and none of them will have been told that you are coming."
+
+* * *
+
+He gave him four.
+
+Five haulage firms in the south that were going to be bought out in the spring of 2026 and were not. All five are still trading. Two are bigger.
+
+A yard in Siheung with nine men in it and a lease that had four months left on it. It has eleven men now.
+
+A terminal in Incheon with four thousand two hundred people at it. Nobody has been put out of that building in two years and the wage bill is the same, adjusted, and the man who runs it will confirm both if he is telephoned.
+
+And a small firm in Mullae that this house did not save, because it could not, and where thirty-one people lost their jobs in the November before last.
+
+"You have given me the fourth one on purpose," said Ryu.
+
+"Yes."
+
+"Why."
+
+"Because you were going to find it, and because a list of three is a brochure."
+
+Then he gave him a fifth thing, and it is not a company.
+
+"There is a man of fifty-five who does four days a week for this house and takes no money for any of it," said Georgij. "You may telephone him and ask him whatever you like about how it is here, and I will not know what you asked or what he told you."
+
+He wrote the number on the back of Mr Chae's card and pushed it across the table.
+
+* * *
+
+Ryu sat with that for a while.
+
+Mr Chae, at the far end, turned a page of something he was not reading.
+
+"That is not a promise," said Ryu.
+
+"No. It is a record. You may check every line of it and it will take you a week."
+
+"And if I check it and it holds."
+
+"Then you will know what this house does with a factory," said Georgij. "You will still not know what it does with yours, because nobody knows that yet, and I am not going to pretend to you that a good record is the same as an assurance."
+
+* * *
+
+"Say what happens to the ones that do not work."
+
+"They stop and the people are moved, and it is done slowly and it costs money and it is written down." He did not soften it. "Pyeongtaek does not work. You know that better than I do and you have known it for six years."
+
+"I have raised it eleven times."
+
+"I know. I have read nine of the eleven."
+
+Ryu looked at him properly for the first time since he came in.
+
+"Where."
+
+"In the board packs, which go to nine people, one of whom is a pension fund in Busan that keeps everything." Georgij did not decorate it. "Your minutes are the only useful documents that group produces and you are the reason."
+
+* * *
+
+It went quiet.
+
+"He told me to sell Electronics on Thursday," said Ryu.
+
+"Yes."
+
+"You knew that."
+
+"I knew on Friday morning. I did not know from anybody in your building."
+
+"I am not going to ask how."
+
+"You would not like the answer, and the answer is that it was in a broker's diary and brokers keep diaries."
+
+* * *
+
+"I am going to tell you what he said to me in December," said Ryu, "and then I am going to go home, and I would like you to understand that I am not telling you in order to be useful."
+
+"Say it."
+
+"I asked that my view be recorded. It was recorded in nine words and they were not mine, they were the secretary's, and they were accurate."
+
+He had not moved his hands off his knees since he sat down.
+
+"Then he said this. *My father valued your advice, Mr Ryu. He asked you what should be done. I am telling you to do it.*"
+
+Georgij did not say anything.
+
+"He was polite about it," said Ryu. "That is the part I have not been able to put down."
+
+* * *
+
+"I have been in that building for twenty-six years," he said. "I built the Asan line. His father walked it with me in 2011 and asked me forty questions and did not know the answer to any of them and said so."
+
+He stood up.
+
+"His son has never asked me one."
+
+* * *
+
+At the door he stopped and did not turn round, which is a thing men of that age do in this country when they are about to say the true part.
+
+"I am not coming to you."
+
+"No."
+
+"I am going to resign on Monday and I am going to sit in my own house, and in three months somebody will telephone me, and it may be you and it may be somebody else."
+
+"Yes."
+
+"If it is you, I will listen." He had his hand on the frame. "I am not doing this for you and I would like that on a piece of paper somewhere."
+
+"It is going to be on one tonight."
+
+* * *
+
+He resigned at nine on the Monday morning, by letter, with immediate effect, and he gave no reason.
+
+The letter is four lines long and the fourth line is that the handover note is attached.
+
+The handover note is nineteen pages. It lists every open matter at four plants, with a name against each, and the name is never his.
+
+He initialled the bottom of each page and did not sign the last one, because a handover note is not an agreement.
+
+* * *
+
+Han Yong-seok did not accept it for two days and then accepted it.
+
+There was no announcement. There is never an announcement when the operating director of a group resigns in the middle of a defect investigation, and everybody who needs to know found out inside four hours.
+
+The agent bank found out on the Tuesday afternoon.
+
+The fair trade commission found out on the Wednesday, because it had a meeting arranged with him and the meeting was cancelled by somebody else.
+
+* * *
+
+What a resignation of that kind does is not visible for about a week.
+
+Then it is visible everywhere at once. Four plants that had one man to telephone about anything that mattered now have a committee, and the committee has to be told things the one man already knew.
+
+Two suppliers asked for a meeting in the same week and neither had ever asked for one before.
+
+The agent bank did not ask about it and did not have to. A bank that has requested a schedule of fixed assets, and then watches the operating director leave, has had its answer in a form nobody can write down.
+
+* * *
+
+"He did not come over," said Annie.
+
+"No. He resigned and went home."
+
+"Say the difference."
+
+"A man who comes over is a man somebody has. A man who goes home is a man who is going to be at home in three months when the people who are left have to decide what happens to eleven thousand jobs." Georgij was at the side of the desk. "He has made himself the only person in this country who can do that work and is not attached to anybody."
+
+"That is a better position than mine."
+
+"Yes, Mistress. It is the best position of anybody in this and it took him one letter and four lines."
+
+* * *
+
+"Say the number again."
+
+"Eleven thousand at four plants. Eight hundred of them agency."
+
+Annie wrote it at the top of the page she was working on, which is not what that page is for.
+
+"When somebody gets to the part where Pyeongtaek is decided, you will bring me that number and you will not soften it."
+
+"Yes, Mistress."
+
+"And you will make me say out loud what I am doing."
+
+"Yes."
+
+"And if I do not say it, you will say it for me."
+
+"Yes."
+
+* * *
+
+Mr Chae said one thing after the door shut on the Sunday and did not mention it again.
+
+"I have been in rooms with a great many men who were changing sides," he said. "That was not one."
+
+"No."
+
+"He came to find out whether the people at Asan will be all right. He asked one question about it and he did not ask a single thing about himself." He put the cap on his pen. "I have been doing this for thirty-two years and that has happened twice."
+
+* * *
+
+Georgij wrote three lines in the book at about ten.
+
+*Eleven thousand. Four nine, two two, two four, fifteen hundred, eight hundred agency.*
+
+*He gave me the December sentence and did not want anything for it.*
+
+*He is not coming over. He is going home, and in June somebody telephones him.*
+
+Under the third one he wrote the piece of paper he had promised at the door, in the same words, and he wrote it that night so that it would be dated the twentieth and not later.
+
+*Ryu Cheol-min is not doing this for me or for this house.*

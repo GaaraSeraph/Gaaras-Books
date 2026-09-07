@@ -2,7 +2,7 @@
 
 *Erzeugt von `build.py` aus den Kapitelkoepfen. Wird nicht bearbeitet.*
 
-144 Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im Kapitel selbst
+148 Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im Kapitel selbst
 und werden hier nur eingesammelt. **Wer etwas aendern will, aendert das Kapitel.**
 
 Was ein Kapitel *bedeutet*, steht nicht hier, sondern unter seinem Thema im Kanon.
@@ -154,3 +154,7 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 18** *The other bank* (v1.1) · Tag 848, Sa 29. Januar · 2.001 W
 - **B3 19** *The complaint* (v1.1) · Tag 853, Do 3. Februar · 2.028 W
 - **B3 20** *What he was* (v1.1) · Tag 861, Fr 11. Februar · 2.007 W
+- **B3 21** *The ninth of September* (v1.2) · Tag 863, So 13. Februar · 2.020 W
+- **B3 22** *No other word* (v1.1) · Tag 866, Mi 16. Februar · 2.008 W
+- **B3 23** *The bulletin* (v1.3) · Tag 868, Fr 18. Februar · 2.053 W
+- **B3 24** *Eleven thousand* (v1.2) · Tag 870, So 20. Februar · 2.028 W

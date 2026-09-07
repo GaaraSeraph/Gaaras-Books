@@ -1,0 +1,300 @@
+# Chapter 21: The ninth of September
+*Lot Fourteen* · Version 1.2 · EN
+
+## Day Eight Hundred and Sixty-Three · Sunday 13 February
+
+Woo Mi-sook died on the ninth of September 2026 and Georgij found out on the eleventh of December.
+
+---
+
+He did not find out. He was told, in a subordinate clause, in a sentence about three other men, by her husband, in a room with a photograph of fourteen metres of water in it.
+
+> *"The third is alive. I have not had a real conversation with him since my wife died."*
+
+---
+
+The sentence was about the fact that nobody had paid.
+
+* * *
+
+He looked the ninth of September up before he went, because he keeps everything and because he wanted to know and not to guess.
+
+---
+
+There are four lines on that page. A yard in Siheung, a name and a number, a note about a lease, and a line about the weather that is there because it mattered to a delivery.
+
+None of them is her, and there is no reason why any of them should have been.
+
+---
+
+He read the page twice and put it back on the shelf, and that is the whole of what a book like that is worth on a day like that.
+
+* * *
+
+The hill is an hour outside the city if the bridge is kind, and it was not.
+
+---
+
+He went by bus to the interchange and by another bus after that, and by taxi for the last eleven kilometres, and it took two hours and forty minutes.
+
+There is a car in that house and he could have had it. He did not ask for it, and nobody would have thought anything of it if he had, and that is exactly why.
+
+---
+
+The fares were paid out of the house account, with a card that has his name on it and is not his. There is one of those in that house for every person who has to go anywhere.
+
+He has never used it for a single thing that was not an errand. On the Sunday he used it to go to a grave, and he wrote it at the back of the book with the amount, because that is what the back of the book is for.
+
+---
+
+The second bus had eleven people on it and nine of them were over seventy. It stopped at four places that are not villages, and at the third one an old woman got off with a bucket of chrysanthemums, and nobody helped her, because everybody on that bus was carrying something too.
+
+He was not.
+
+---
+
+He did not bring anything. He did not know what she had liked and there was nobody left to ask.
+
+---
+
+There is a stall at the interchange that sells them for eight thousand won, and he stood in front of it for about a minute.
+
+The card in his pocket is for errands and it belongs to a house. There is no version of that afternoon in which flowers on that stone were bought with it.
+
+* * *
+
+Chairman Woo was already there and had been for some time.
+
+---
+
+He does not come on the ninth. He comes when it is quiet, and the second Sunday in February on a hill an hour outside the city is as quiet as this country gets.
+
+His car was at the bottom of the path and his driver was in it and had been told to stay.
+
+---
+
+"I am sorry," said Georgij. "You said it to me in December and I did not hear it."
+
+"I know. It was in the middle of a sentence about three men who never paid, and I put it there so that it would be said." Woo did not turn round. "I have thought about that since and I do not know which of the two of us it says something about."
+
+---
+
+"I would have come."
+
+"I know you would. That is why I did not tell you." He had his hands in his coat. "You had a thing to do and it was mine as well, and I was not going to be the reason you put it down."
+
+* * *
+
+Neither of them said anything for a while.
+
+---
+
+The stone is grey and it is small for a man of that kind of money, and it has two names on it and one of the two has no second date under it yet.
+
+---
+
+"What do you want." Woo said it without any edge on it at all. "You do not come somewhere and do nothing. I have watched you do it for eighteen months and you have never once done it."
+
+"I am here to visit a friend."
+
+---
+
+Woo worked out that he did not mean the stone.
+
+* * *
+
+"There is a thing I am going to say once," said Woo.
+
+---
+
+"Yes, sir."
+
+"You have not asked me for anything since May." He said it to the valley and not to him. "Nine months. In the two years before that you asked me for four things and I gave you three."
+
+---
+
+"That is correct."
+
+"I know why you did it. So that when this ends there is nothing anybody can put next to my name." He moved his weight once. "I worked that out in July and I have been angry about it since July."
+
+---
+
+"Yes, sir."
+
+"Do not say yes sir to me on this hill."
+
+---
+
+It came out harder than the rest of it had.
+
+"I am eighty. There are four people left alive who will let me do something for them, and you have taken yourself off that list on purpose." He did not soften it. "You did it kindly, and it is the unkindest thing anybody has done to me in ten years."
+
+---
+
+Georgij did not answer for a while.
+
+"I did not think of it that way."
+
+---
+
+"You thought of it exactly that way. You think of everything exactly that way." Woo put his hands back in the coat. "That is not a complaint. It is the reason I am standing here."
+
+* * *
+
+"There is one thing and it is not why I came," said Georgij.
+
+---
+
+"Say it anyway."
+
+"The twenty per cent is still on the register and it is still theirs." He did not decorate any of it. "It came out of the same place as a great many other things and it went with them. There is nobody who can ask you for it now."
+
+---
+
+Woo did not say anything for a long moment.
+
+"Then it is not mine."
+
+---
+
+"No."
+
+"Good," said Woo. "Then I can buy it."
+
+---
+
+"How much will that cost me."
+
+"Nothing I am going to put in front of you today."
+
+* * *
+
+Georgij looked at the stone rather than at him.
+
+---
+
+"I did not bring an envelope," he said. "I would not have known what to write on it. I hope that does instead."
+
+---
+
+Chairman Woo stood on a hill outside the city with his hands in his coat.
+
+"She asked me twice who you were," he said, "and I gave her two different answers, and neither of them was it."
+
+* * *
+
+They stood there for a while longer and neither of them filled it.
+
+---
+
+"I am going to tell you what she said the second time," said Woo, "and then I am going to go down that path, and we are not going to talk about this again."
+
+"Yes, sir."
+
+---
+
+"I told her that you were a young man who worked for the woman at Lot Fourteen and that you were useful to me." He was not looking at the stone either now. "She said that she had not asked me what you did."
+
+* * *
+
+He went down the path at his own speed and did not look back.
+
+---
+
+The car took four minutes to get out onto the road because the road is single-track for six hundred metres, and Georgij watched it the whole way because there was nothing else on that hill to look at.
+
+Then he stood there for about twenty minutes more.
+
+---
+
+He did not say anything to her and he did not know what he would have said. He has never in his life spoken to somebody who was not there.
+
+* * *
+
+He understood something on the second bus and it took the whole of the second bus.
+
+---
+
+Woo had come to that hill on a Sunday in February when nobody would see him. He had brought a driver and told him to stay in the car. He had been there for some time before anybody else arrived.
+
+He does that on a great many Sundays.
+
+---
+
+A man who does that is not grieving in the ordinary way and slowly getting better at it. He is a man who has found somewhere to be.
+
+---
+
+There is nobody in his house. His son does not telephone him. There are four people left alive who will let him do something for them, and he said so out loud, on a hill, to somebody who has spent nine months making sure he is not one of them.
+
+Georgij looked out of the window of a bus and tried to work out what that was worth, and could not.
+
+* * *
+
+The taxi came at half past three and the buses were the other way round.
+
+---
+
+He did not report any of it.
+
+He came in at seven and Annie was at the desk. She asked him what the traffic had been like and he told her. That was the whole of it, and both of them meant it that way.
+
+---
+
+She did not ask and she was never going to, and he understood on the stairs afterwards that not asking had cost her something.
+
+* * *
+
+He wrote one line in the book that night and it is not about the hill.
+
+---
+
+*Woo Mi-sook. The ninth of September. He was on his own for three months and told nobody.*
+
+---
+
+Under it he wrote the second thing, which is the only part of the afternoon that is going to matter to anybody who is not on that hill.
+
+*He is going to buy it. It has to be able to be bought.*
+
+* * *
+
+Which means a fund has to be wound up.
+
+---
+
+A fund is wound up when the people who own it cannot go on holding it. The people behind that chain are going to have a very bad spring. What they hold will be sold by an administrator who does not care who buys it.
+
+Nobody in this house has to do anything about that. It is going to happen because of a note on page forty-one of a set of accounts published in March 2025.
+
+---
+
+The only thing that has to be done is that somebody has to be watching the notices in the summer, and somebody has to tell an old man which Tuesday to be at a telephone.
+
+That is eight months away and it is written on the back of the sheet in the second drawer.
+
+* * *
+
+There are fifty-eight names and there are still ten.
+
+---
+
+Moon Hae-sook was in the chair by the kitchen garden on the Sunday when he got back, with a blanket over her knees, which is new since November.
+
+She asked him where he had been and he told her the truth, which is that he had been to a grave.
+
+---
+
+"Whose."
+
+"The wife of a man I know."
+
+---
+
+"Did you know her."
+
+"No."
+
+---
+
+"Then you went for him," said Moon Hae-sook, "and that is a different thing and it is the better one, and I would not tell him so if I were you."

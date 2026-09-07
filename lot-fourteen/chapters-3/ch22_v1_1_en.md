@@ -1,0 +1,296 @@
+# Chapter 22: No other word
+*Lot Fourteen* · Version 1.1 · EN
+
+## Day Eight Hundred and Sixty-Six · Wednesday 16 February
+
+On the fifteenth of February the Hanseong matter was taken off Gong Doo-hyun's desk.
+
+---
+
+Not by him. The financial crimes section had asked for it on the eighth, the deputy chief prosecutor decided it on the fifteenth, and the reason given in writing is subject-matter competence and nothing else.
+
+It is an ordinary decision and it was correct, and the man who signed it does not know Georgij and has never heard of him.
+
+---
+
+Gong Doo-hyun kept the other part.
+
+It is the part about who spoke to whom, and about visitor books, and about a diary that has been kept complete since 1988, and nobody asked him for it because there is no section that wants it.
+
+* * *
+
+Mr Yeom is on the third floor of a building in Jung-gu with a lift that has been out since the spring.
+
+---
+
+Georgij went up on the Wednesday because the empty companies had to be read before anything could be cut out of Motors. There is exactly one man in this country who has spent his working life inside companies that do not exist.
+
+He knocked. There were two cups on the table before he did.
+
+* * *
+
+"You want to ask me about companies with nobody in them," said Mr Yeom. "You are taking apart a group that is held together by that kind of company, and I have spent my life inside the kind of company that does not exist."
+
+---
+
+"Yes."
+
+"Then ask. And when you have finished I have something of my own to say, and you are going to stay in that chair for it."
+
+* * *
+
+He answered for about forty minutes, in order, and he did not once ask why Georgij wanted any of it, and both of them noticed that he did not.
+
+---
+
+There are six sorts and he did them in the order in which they are usually built.
+
+The company that owns the name. The company that licenses the name to the company that makes the thing. The company that holds the software that the thing will not run without. The company that carries the warranty, which is never the company that made the promise.
+
+---
+
+Then the two that are the point.
+
+The company with no employees and full signing authority, which exists so that a signature can come from somewhere that cannot be asked questions. And the company that has one contract, and the contract is with a company in the same group, and the price in it has never once been tested.
+
+---
+
+"You will find between nine and fourteen of them behind a group that size," said Mr Yeom. "You will find them by looking for the same registered address, or the same auditor, or the same three dates in a row, and the third one is the best because nobody thinks about dates."
+
+"And what they are for."
+
+---
+
+"They are for the day the family needs something to be true that is not." He was not being clever about it. "Most of them are never used. A man builds them because his father built them, and they sit there, and then one afternoon somebody needs a signature and there is one available."
+
+* * *
+
+He named four and wrote down the registration numbers of two.
+
+---
+
+The fourth one is the one Georgij will remember, and it is the reason a car company can be pulled out of a group without stopping a single line.
+
+The tooling in the Hanseong Motors plants is not owned by Hanseong Motors. It is owned by a company with two directors and no staff, and it has been leased back since 2009, and the lease is renewable annually and has been renewed nineteen times without anybody reading it.
+
+---
+
+"Somebody is going to read it this year," said Mr Yeom.
+
+"Yes."
+
+---
+
+"Good. It is a bad lease and it has been a bad lease since 2009, and I have wanted somebody to read it for eleven years, and I am not going to tell you why."
+
+* * *
+
+The lease is the reason the guarantee is worse than it looks.
+
+---
+
+Hanseong Motors stood behind a hundred and twenty billion won in December, and everybody who read that document read it as the strongest company in the group putting its name behind the weakest.
+
+A company that does not own the tooling in its own plants is not what it appears to be on a page. It has cash, a brand, a dealer network and very good engineers.
+
+---
+
+What it does not have is the thing a bank looks for when it looks at a guarantor, which is a great many expensive objects standing on the floor of a building it owns.
+
+---
+
+Nobody has to tell the nine banks that. The covenant is tested in March, and the test asks for a schedule of fixed assets, and the schedule is the schedule.
+
+* * *
+
+Then he refilled both cups, which nobody had asked him to do.
+
+---
+
+"Now mine," said Mr Yeom. "You never asked me why I read those folders. Four years of them, August to the new year, in a cupboard in a house in the suburbs. And then two pages in my own hand, posted from a box that is not near my house."
+
+"I did not ask because you would have had to decide what to answer."
+
+---
+
+"I know your rule. I have watched you keep it in this room twice." Mr Yeom put his hands flat on either side of his cup. "I am going to answer it anyway, because I have done the arithmetic and it does not come out."
+
+---
+
+"I have spent my life being paid to know things. I know the going rate for every kind of knowing there is. Somebody pays, or somebody owes, or somebody is afraid, and the rate follows from which one it is."
+
+He was entirely comfortable about all of it.
+
+---
+
+"There is no rate for what I did with those folders. Nobody paid. Nobody owed. Nobody in that house was afraid of me, which at my age is a novelty in itself."
+
+Georgij did not move.
+
+---
+
+"A man does unpaid work for a friend," said Mr Yeom. "I looked it up. There is no other word."
+
+* * *
+
+Georgij did not say it back.
+
+---
+
+Mr Yeom watched him not say it, and then he did the thing with his mouth that is not the front-desk smile.
+
+"Good," he said. "If you had said it back inside a minute, I would have taken it off the table. I have spent thirty years learning what a returned compliment is worth, and it is the same everywhere, and it is nothing."
+
+---
+
+"I know."
+
+"I know you know. It is why the word holds."
+
+---
+
+He stood up, and took both cups, and put them where they go.
+
+"Come again when there is nothing to take apart. I would like to find out what you are like when you are not working, and I suspect the answer is that nobody has ever seen it."
+
+* * *
+
+The lift was still out and it is eleven flights down and up in that building because the third floor is the third above a mezzanine.
+
+---
+
+Georgij stood on the landing between the second and the first for about as long as it takes to do up a coat, and he did not do up his coat.
+
+Then he went down.
+
+* * *
+
+He told her in the evening, in the library, in four sentences.
+
+---
+
+He told her about the six sorts and about the lease from 2009. He told her that Mr Yeom had asked nothing at all for forty minutes. He told her the last of it as a fact, because it is one.
+
+Then he said the thing he had not planned to say.
+
+---
+
+"I like him," said Georgij, and heard himself say it, because he does not say that about people who are alive.
+
+"I know you do." Annie did not look up from the page. "I like him too."
+
+* * *
+
+He stood there for a moment longer than the exchange needed.
+
+---
+
+"Say it," said Annie.
+
+"There are three now."
+
+---
+
+She put the page down at that, which she had not done for the rest of it.
+
+"Say the whole of it and do not make me build it."
+
+---
+
+"In December a man came to this house and offered you two billion two hundred million for me and did not get it." He had not moved from where he stands. "In the middle of this month a man on a hill told me that there are four people left alive who will let him do something for them. And this afternoon a man in Jung-gu did the arithmetic out loud and could not make it come out any other way."
+
+---
+
+"And you have not said the word to any of the three."
+
+"I said it to one of them in February and I meant it, and I have not said it since to anybody."
+
+* * *
+
+Annie looked at him for a while.
+
+---
+
+"Do you know what you were two years ago."
+
+"Yes."
+
+---
+
+"Say it."
+
+"A man with nothing in this country to telephone."
+
+---
+
+"Yes," said Annie. "Sit down."
+
+* * *
+
+He did not sit down and she did not make him, and both of them knew that the instruction had not been about the chair.
+
+---
+
+He stayed where he stands, at the side of the desk, and she went back to the page, and neither of them said anything for about ten minutes.
+
+That is the last quiet evening in that house for eleven days and neither of them knew it.
+
+* * *
+
+Lee Jun asked one thing that evening and it was not about any of it.
+
+---
+
+"May I ask what Mr Yeom does, sir?"
+
+"He finds out things about people for money. He has done it for thirty years and he is very good at it."
+
+---
+
+Lee Jun thought about that for a moment.
+
+"Then how is he a friend?"
+
+---
+
+"Say why you asked it in that order."
+
+"Because you told me in September that the first thing to know about a man is what he is paid for." He had not come all the way into the room. "And I have just found out that it does not always answer the question."
+
+---
+
+"It answers it about forty-nine times out of fifty," said Georgij. "The fiftieth is the one you will remember for the rest of your life."
+
+---
+
+"How many have you had, sir?"
+
+"Three."
+
+* * *
+
+There are fifty-eight names and there are now eleven.
+
+---
+
+The eleventh was found by Mr Hwang in the second week of February, in a hospital in Andong, and he is fifty-four and he does not remember any of it.
+
+His sister remembers all of it and she was not on the list.
+
+---
+
+That has been written down twice: once in the file, where it belongs, and once at the back of the book, where the fares are, because Georgij did not know where else to put it.
+
+* * *
+
+Two lines in the book at about ten.
+
+*Nine to fourteen empty ones. The tooling is not theirs and has not been since 2009.*
+
+*Yeom said the word first and I did not give it back.*
+
+---
+
+Under the second one there is a third line that was written later, in different ink, because he went back to it.
+
+*He was right about that. It cost me something not to say it and he knew that too.*
