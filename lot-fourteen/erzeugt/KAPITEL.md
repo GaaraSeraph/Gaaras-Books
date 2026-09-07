@@ -2,7 +2,7 @@
 
 *Erzeugt von `build.py` aus den Kapitelkoepfen. Wird nicht bearbeitet.*
 
-148 Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im Kapitel selbst
+153 Kapitel. Titel, Fassung, Erzaehltag, Datum und Laenge stehen im Kapitel selbst
 und werden hier nur eingesammelt. **Wer etwas aendern will, aendert das Kapitel.**
 
 Was ein Kapitel *bedeutet*, steht nicht hier, sondern unter seinem Thema im Kanon.
@@ -158,3 +158,8 @@ Gestrichene Nummern stehen am Ende und bleiben frei - siehe `GESTRICHEN` in `bui
 - **B3 22** *No other word* (v1.1) · Tag 866, Mi 16. Februar · 2.008 W
 - **B3 23** *The bulletin* (v1.3) · Tag 868, Fr 18. Februar · 2.053 W
 - **B3 24** *Eleven thousand* (v1.2) · Tag 870, So 20. Februar · 2.028 W
+- **B3 25** *A bigger pile of the same wood* (v1.1) · Tag 872, Di 22. Februar · 2.039 W
+- **B3 26** *You have not eaten* (v1.2) · Tag 872, Di 22. Februar · 2.006 W
+- **B3 27** *Thirteen days* (v1.3) · Tag 876, Sa 26. Februar · 2.101 W
+- **B3 28** *Refusal is also a signature* (v1.1) · Tag 876, Sa 26. Februar · 2.021 W
+- **B3 29** *The twenty-ninth of February* (v1.2) · Tag 879, Di 29. Februar · 2.083 W

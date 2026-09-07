@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Three, 24 Kapitel, 50.132 Woerter.
+Book Three, 29 Kapitel, 60.382 Woerter.
 
 Kanon sind die Dateien in `chapters-3/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -35,6 +35,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 22 | v1.1 | 2.008 |
 | 23 | v1.3 | 2.053 |
 | 24 | v1.2 | 2.028 |
+| 25 | v1.1 | 2.039 |
+| 26 | v1.2 | 2.006 |
+| 27 | v1.3 | 2.101 |
+| 28 | v1.1 | 2.021 |
+| 29 | v1.2 | 2.083 |
 
 ---
 
@@ -5886,3 +5891,1108 @@ Georgij wrote three lines in the book at about ten.
 Under the third one he wrote the piece of paper he had promised at the door, in the same words, and he wrote it that night so that it would be dated the twentieth and not later.
 
 *Ryu Cheol-min is not doing this for me or for this house.*
+
+---
+
+# Book Three · Chapter 25: A bigger pile of the same wood
+*Lot Fourteen* · Version 1.1 · EN
+
+## Day Eight Hundred and Seventy-Two · Tuesday 22 February
+
+A lawyer telephoned Mr Chae on the nineteenth of February on behalf of three of the four.
+
+Nobody in that house had ever spoken to any of them. There is a page in Mr Hwang's hand from September with four names on it and the sizes of their holdings. Against each name there is a line that says the same thing in four different ways, and the thing it says is *do not*.
+
+A man who approaches a chaebol owner's brother is running a raid. A man who reads a register is reading a register.
+
+The eldest sister has lived in Vancouver since 2016 and has not been to a board meeting in nine years. The second brother runs a gallery that has never made money and does not have to. The youngest is forty-four and is on the board of Hanseong Heavy, which loses money, and has been on it since he was thirty-one.
+
+None of the three telephoned each other before they telephoned the lawyer. All three telephoned him inside the same forty-eight hours, and he did not tell any of them about the other two until all three had asked.
+
+* * *
+
+Between them they hold eleven per cent of Hanseong Electronics and nine of Hanseong Motors.
+
+Han Yong-seok holds nineteen and twenty-two, and the rest is spread. Eleven and nine do not sound like control and are not control.
+
+They are the difference between control and not, once the holding company has pledged what it has pledged and once a bank has looked at a schedule of fixed assets.
+
+Georgij did not build that, and he said so out loud twice, once to Annie and once in the book. A man who lets a piece of luck be taken for planning has told a lie without saying anything.
+
+* * *
+
+Four days of handover ran from the Thursday.
+
+Not the papers. The other thing, which nobody puts in an announcement.
+
+Bank mandates. Insurance certificates. The list of who may sign what, and up to how much. Supplier master data. Warranty and telematics records. Software licences, of which there are two hundred and eleven, and four of them are held by a company with no employees.
+
+Keys, in a box, forty of them, and nobody knew what nine of them opened.
+
+Every one of those is a small transaction between two clerks, and each of them ends with a form, and every form has a line that says who authorised it.
+
+By the Monday afternoon Han Yong-seok's name had stopped appearing on that line, and nobody had decided that it should stop, and nobody noticed until it had been true for two days.
+
+* * *
+
+The last of the profitable companies went on a Tuesday morning, in a room with a long table, with four lawyers and two directors in it.
+
+Annie was at the near end because she owns it. Georgij stood at the end of the room where he stands.
+
+Ryu Cheol-min was not there and had not been asked and would not have come.
+
+There is a note in the pack with his initials at the bottom of nineteen pages. Everybody in that room read it in the first four minutes. It is the only document in the whole of it that tells anybody how anything actually works.
+
+* * *
+
+What is on that table is not what she took.
+
+It is what he kept, and it is on one page because that is how a handover pack is put together, and nobody did it to be cruel.
+
+The holding company, with its debt. Hanseong Heavy, which has lost money for nine years. Hanseong Construction, which has lost money for six. A guarantee to a credit company that no longer belongs to him, which will be called in June. Twenty-two per cent of a car company that is under investigation and cannot be sold while it is.
+
+And a building with the name over the door, which is his, and which is one of the things that has lost money for nine years.
+
+* * *
+
+Han Yong-seok is fifty-three and he came in a suit that fits him.
+
+He was on time. He shook hands with the four lawyers and the two directors and with Annie, in the correct order, and he did it well, because doing that well is the one thing four generations of that family have taught properly.
+
+He did not shake hands with Georgij and nobody expected him to, and it was not a slight. There was no reason to. Georgij is not a party to anything and has never been a party to anything.
+
+* * *
+
+The last signature took four seconds and the pen was his own.
+
+Georgij stood at the end of the room where he stands, and nobody had asked him anything, and nobody had asked for two years why he was ever in the rooms he was in.
+
+When the folders were closed, he spoke.
+
+* * *
+
+"There was a woman in Ulsan with four trucks, and I took the firm off her myself. There was an auction house that had been on that river for thirty years. I told one of its buyers what was still in her copy of the catalogue. That is the whole of what I did to it, and there is nothing left of it now."
+
+"And there was a man who used to be a prosecutor. He decided for twenty-five years which men in this country sat down to dinner together, and eleven of them lost something afterwards, and none of them has ever been told why. Nobody has seen him since April."
+
+"Every one of them had pointed something at her. So I burnt them to the ground."
+
+His voice did not go up anywhere in it. It went down on the last word, and that is the only part of the morning he had not decided on beforehand.
+
+"I did not do all of that myself. I did enough of it."
+
+* * *
+
+"It was never said out loud and it did not have to be. There is no version of the last two years in which you did not understand it." He kept his hands at his sides. "You understood it and you decided it was not about you, because nobody touches a chaebol."
+
+"Your grandfather could have told me what was behind every door in this building. Your father could have told me most of it. I asked you about your grandfather once, in the spring, in front of people who had been there, and you answered, and every man at that table knew the answer was wrong except you."
+
+The man at the head of the table did not move.
+
+"A group of this size runs itself. The managers manage, the directors direct, and the man at the top can be anything at all, because the building does not need him." Georgij said it evenly, the way a man reads a clause. "That is what protected you. Your incompetence never cost you anything, because nothing was ever yours to lose by it."
+
+"And it is what ended you. The same thing that made your incompetence free of consequence made your consent unnecessary." He did not soften any of it. "Nobody asked you on the way up. Nobody had to ask you on the way down. Your brothers and sisters sold, and the first you knew of it was the paper."
+
+"You were not an exception. You were a bigger pile of the same wood, and a bigger pile takes longer."
+
+* * *
+
+The room had stopped being a room some time ago and become a place where one man was standing and five were present.
+
+"You were born into the name," said Georgij. "You never became the man it required."
+
+"Please give me your guidance. How does an incompetent man, arrogant on the strength of things he never built and was only born in, save the legacy he is so proud of?"
+
+He asked it with the mark on the end of it, and there was not one word in it that could be argued with, and that is a different thing from being polite.
+
+He did not wait for an answer.
+
+* * *
+
+Georgij left, and the two directors left behind him, and then the lawyers.
+
+Some time after the door had closed, the chairman of what was left began an answer.
+
+It reached the eighteenth century and stopped there, because there was nobody in the room to hear the rest of it, and no rest of it.
+
+* * *
+
+He will keep the office and the floor and the car and the driver.
+
+Nobody is going to take any of that off him, because nobody wants it and because there is nobody left with the standing to do it. The holding company will hold its annual meeting in a room that seats four hundred. About ninety people will come, and it will be reported in two paragraphs.
+
+He is fifty-three. The plate on the door will say the same thing for the rest of his life, and every year it will mean less, and there is no morning on which anybody is going to tell him so.
+
+* * *
+
+Annie was the last person out of that room and she did not hurry it.
+
+She put the pack in her own bag rather than give it to anybody, which she has not done since the fourth of January. She said one thing to the nearest lawyer on the way past, and it was about a date in March.
+
+In the corridor she stopped for about four seconds and looked at the door of the room she had just come out of.
+
+"Say what you are thinking," said Georgij.
+
+"That there are eleven thousand people at four plants and I have just found out that nine hundred of them are at a company I now control." She did not look away from the door. "And that the man in that room could not have told me the number."
+
+* * *
+
+The car came at half past eleven.
+
+Neither of them said anything on the bridge. On the far side Annie asked one question and it was not about the morning.
+
+"How long have you had that speech."
+
+"Since the twenty-fifth of August."
+
+"Six months."
+
+"Yes."
+
+"And you did not change it after February."
+
+"I changed one word in it in December and I put a sentence in it this morning at about six." Georgij looked out of his own window. "It was not written for him. It was written for the second time somebody tells me that nobody touches a chaebol."
+
+* * *
+
+Mr Hwang was told at one o'clock by telephone and asked one thing.
+
+"Is it done."
+
+"It is done."
+
+There was a pause on the line of about three seconds.
+
+"Then I am going to go and have my lunch," said Mr Hwang, "and I would like it said that I am fifty-five years old and I have never in my life had a Tuesday like this one."
+
+* * *
+
+There are fifty-eight names and there are still eleven.
+
+Nothing was done about them in the third week of February either, and that is the second week in a row, and it went in the book both times without any softening on it.
+
+* * *
+
+Three lines at about ten, and the first two are short.
+
+*Electronics and the family blocks, 22.2. Four seconds and his own pen.*
+
+*Ryu's note was the only paper in that room that told anybody anything.*
+
+*Nine hundred of them are hers now and she worked that out in the corridor before I did.*
+
+---
+
+# Book Three · Chapter 26: You have not eaten
+*Lot Fourteen* · Version 1.2 · EN
+
+## Day Eight Hundred and Seventy-Two · Tuesday 22 February
+
+The afternoon of a morning like that is a list, and the list is longer than the morning.
+
+Nine hundred people at a plant in Gumi found out at two o'clock who owns the company they work for. It was a notice on a wall and it is four sentences long. Three of the four are about the pension scheme, because that is what people ask first.
+
+Two hundred and eleven software licences have to be novated and four of them cannot be, because the company that holds them has nobody in it to sign.
+
+An insurer wanted to know by Friday whether the directors' cover was continuing.
+
+A supplier in Ansan who has been paid at ninety days since 2014 wanted to know whether it was still going to be ninety.
+
+A works council in Changwon asked for a meeting and had to be told, correctly, that Changwon is not one of the plants that changed hands and that nothing about it has moved.
+
+And somebody had to decide what happens to a canteen contract that expires in nine days at a site with three hundred people on two shifts.
+
+Georgij worked on it from half past twelve until seven and did not eat anything, which he did not notice and which Mrs Seo did.
+
+* * *
+
+Annie stopped at about five.
+
+She had the pack open at the page that lists the sites, and she got as far as Gumi, and then she did not turn any more pages.
+
+She did not read anything else and she did not write anything, and at half past six she stood up and went and stood at the window that looks down the drive, and she was still there at eight.
+
+Mrs Seo went in twice and came out twice without saying anything, and the second time she took the tray away again untouched.
+
+* * *
+
+He came up at eight with the day in order, because that is what eight is for.
+
+He had it in four parts and he started with the third, which is the one about the licences, because it is the only one that has a date on it that cannot move.
+
+He was three sentences into it when he registered that she was not at the desk.
+
+He did not stop. A man who stops when the person he is reporting to moves has made the report about himself.
+
+* * *
+
+She came away from the window while he was still talking.
+
+She did not say anything on the way, and she did not say his name, and she did not do the thing she does with her hand when she wants a sentence finished.
+
+She took the report out of his hand.
+
+Then she put it behind her on the table, face down, and stepped into the place where it had been.
+
+* * *
+
+Annie kissed him on the mouth.
+
+It is not a short one. She does not step back at the end of the first part of it, and that is the whole of the difference between this and everything before it.
+
+Georgij stopped somewhere in the first second and did not start again.
+
+The sentence about the licences was gone. The paper was gone. The thing behind that face that counts everything had nothing in it at all, and there was no fourth part of the report, and there had never been a room in Jung-gu that morning.
+
+His hands came up late.
+
+Not as a claim. There is no version of that man in which a hand goes anywhere first. They came up because she was still there, which is a fact, and he answers facts.
+
+He held her because she let him.
+
+* * *
+
+Neither of them said anything for a while afterwards, and neither of them moved very far.
+
+She did not explain it. She has never explained anything she has done to him and she was not going to start on the twenty-second of February.
+
+What she said, when she said something, was this.
+
+"You have not eaten."
+
+* * *
+
+He went down and ate.
+
+Mrs Seo put something in front of him at twenty past eight and he ate all of it. Lee Jun came in twice about the licences and got answers both times, and wrote them down, and went away and did what he had been told.
+
+Mr Chae telephoned at nine about the insurer and was on for eleven minutes.
+
+He must have answered all of it correctly, because nothing went wrong.
+
+He remembered none of it.
+
+* * *
+
+He tried to work out what it had been for and got about eleven seconds into it.
+
+Every action he has ever watched has had a purpose in it. He can usually find the purpose, and he finds it faster than the person who acted.
+
+He got as far as noticing that there was nothing she wanted, nothing she needed him to do, nobody watching and nothing on the table. Her whole afternoon had been about nine hundred people in Gumi.
+
+Then he stopped, and it was not because he could not do it.
+
+He had understood at about the tenth second that finding the purpose would be the same as deciding that there had been one.
+
+* * *
+
+Mrs Seo has run that house since before he came to it.
+
+She has watched him eat at that table perhaps nine hundred times. On the twenty-second of February she watched him eat a whole plate of something and put his hand out twice for a glass that was on the other side.
+
+She did not say anything about it to him and she did not say anything about it in the kitchen either, which is new.
+
+There was nothing to tell anybody. The house had already been told in December and it has been managing it since. A house manages a thing like that by not mentioning it in front of the two of them, and by mentioning very little else anywhere.
+
+* * *
+
+Lee Jun asked one question at half past ten and it was about a licence.
+
+He asked it at the door of the small room, in his working voice, and he got a correct answer.
+
+Then he stood there for a moment.
+
+"Is everything all right, sir?"
+
+"Yes."
+
+"Yes, sir."
+
+He went. On the stairs he worked out that he had asked a man who never says anything untrue whether everything was all right, and had been told yes, and that this was therefore the case.
+
+He has thought about that a number of times since.
+
+* * *
+
+There are fifty-eight names and there are now twelve.
+
+The twelfth arrived on the Wednesday in an envelope addressed to Mr Hwang, and was not found by anybody. A woman of sixty-one in Jeonju wrote because her brother had been on a list once, and because a neighbour had told her that somebody was asking.
+
+Her brother is not on the list. She is.
+
+She was nineteen. Nobody has ever asked her anything about it, and she did not know until that week that anybody had ever looked, and the first line of her letter is an apology for her handwriting.
+
+Mr Hwang brought it up on the Monday and put it on the desk and did not say anything about it, and then he stood at the window for a moment, which he does not do.
+
+* * *
+
+Park Sang-hoon sent nothing and telephoned nobody.
+
+On the twenty-third a case of something arrived at that house with no card in it, addressed to Annie, from a shipping company in Busan that he holds forty per cent of.
+
+Mrs Seo asked what to do with it and was told to put it in the pantry.
+
+* * *
+
+Chairman Woo is alive.
+
+He is eighty. He was at home that evening, in the house with nobody in it, and he had been told at midday by his own office that it was done, and he had said thank you and put the telephone down.
+
+He telephoned nobody. There is a list of four people who would have let him do something for them and none of them needed anything that Tuesday.
+
+There is no envelope open anywhere in this country. There is no will, no estate, no lawyer with instructions and a date on them.
+
+Georgij owns nothing. He owns nothing on the twenty-second of February 2028 exactly as much as he owned nothing on the fourth of October 2025. There is no page anywhere in this country with his name on it as the holder of anything at all.
+
+That is the whole of what the evening is made of, and none of it is an accident.
+
+* * *
+
+The notice at Gumi went up at two and somebody photographed it, and it was on a message board by four.
+
+There are two hundred and thirty replies under that photograph and Mr Chae read all of them on the Wednesday, because somebody has to.
+
+Most of them are about the pension scheme. Eleven are about whether the plant closes. Four are jokes about the name of the company that owns it now, and two of the four are quite good.
+
+One of them is nine words long, and Mr Chae printed it out and brought it up.
+
+*My father worked here. Nobody has ever written to us.*
+
+"That is the whole of it," said Mr Chae. "Four sentences on a wall, and what surprised the man is that anybody bothered."
+
+"Yes."
+
+"The second letter goes out in March and I am going to write it myself, and I am telling you rather than asking you."
+
+* * *
+
+He came down at six on the Wednesday, which is when he comes down.
+
+The licences were still four short. The insurer still wanted its answer by Friday. The man in Ansan still wanted to know about ninety days, and the answer is that it stays at ninety, and it took two telephone calls to be able to say so.
+
+Nothing about any of that had changed and none of it was going to.
+
+He worked from six until half past seven and then went up with the morning list. She took it and read it and asked two questions about the second item, and both of them were good questions.
+
+Neither of them said anything about the evening before.
+
+There is a version of that morning in which somebody says something. It is not this house, and both of them knew it before either of them came down the stairs.
+
+The one thing that was different is that at about nine she said *Georgij* instead of nothing, at the start of a sentence that did not need a name in it.
+
+She has done that perhaps forty times in two and a half years and he has counted all forty.
+
+* * *
+
+He went up at about eleven.
+
+The book is on the shelf where it is and he took it down and opened it at the twenty-second.
+
+There are three lines on it and he wrote all three at ten past six, before he went up with the report. The day had been long and he had wanted the morning down before he lost the order of it.
+
+He looked at the page for a while.
+
+Then he put the pen back in the tray and shut the book, and the page for the twenty-second stops at six.
+
+---
+
+# Book Three · Chapter 27: Thirteen days
+*Lot Fourteen* · Version 1.3 · EN
+
+## Day Eight Hundred and Seventy-Six · Saturday 26 February
+
+Chairman Woo Jae-sung had an ordinary Friday and there is a record of all of it, because a man of that kind is on a schedule whether he likes it or not.
+
+He was at the terminal at half past eight. He walked the east quay with the harbourmaster, which he does on the last Friday of the month and has done since 2009, and it takes forty minutes and neither of them has ever cut it short.
+
+He had lunch with two men from a bank and ate half of it.
+
+At three he sat in on the end of a meeting about a crane that has been out of service since December. He asked one question. The question was whether the man who repairs it had been paid.
+
+He was told that the man had been paid.
+
+He signed nine things between four and half past. He left at twenty to six.
+
+* * *
+
+He telephoned his son at seven and the call lasted four minutes.
+
+They talked about the weather in Toronto and about a grandchild's school. His son says now that there was nothing in it, and his son is right, and that is not going to help him.
+
+He read for a while. His housekeeper leaves at eight and she left at eight.
+
+He went up at about half past ten.
+
+* * *
+
+Mr Bae has driven him since 2014 and comes at eight on a Saturday because Saturday is the terminal.
+
+He let himself in at four minutes past, which he has done perhaps a thousand times, and he called out from the hall, which he has done perhaps a thousand times.
+
+Then he went up.
+
+Chairman Woo had died in his sleep at some time before four in the morning and there was nothing in the room to say when.
+
+He had not got up. Nothing was knocked over. The book he had been reading was on the floor on his side of the bed, closed, because he closes them.
+
+* * *
+
+Mr Bae telephoned the ambulance and then he telephoned the son in Toronto and then he sat down on the stairs.
+
+He is sixty-eight. He did not telephone the office and he did not telephone anybody at the terminal. He did not know which of them was the right one. In fourteen years he had never once had to decide anything about that man.
+
+He sat on the stairs for about twenty minutes with the front door open.
+
+* * *
+
+Georgij was told at eleven twenty on the Saturday morning by a man in Woo's office who had been told at ten.
+
+The call lasted eleven seconds. There was nothing in it that needed longer.
+
+He said thank you and put the telephone down. Then he stood in the small room for a while and did not go anywhere. It is the only time in two and a half years that anybody in that house has seen him do that.
+
+Then he went and found Annie, because she was going to be told by somebody and it was going to be him.
+
+* * *
+
+She was in the library and she had the door open.
+
+"Chairman Woo died last night," he said.
+
+Annie put down what she was holding.
+
+"How."
+
+"In his sleep. Before four. His driver found him at eight."
+
+"Was anybody with him."
+
+"No."
+
+* * *
+
+She did not say anything for a while.
+
+"He was eighty," she said, "and he did the east quay yesterday morning, and he asked somebody whether a man had been paid."
+
+"Yes."
+
+"How do you know that."
+
+"His office told me. They have his Friday and they read it to me because they did not know what else to do with it."
+
+* * *
+
+She stood up then and came round the desk and stood in front of him.
+
+"Say the thing you are not saying."
+
+"I did not telephone him on Tuesday."
+
+Annie did not say anything at all.
+
+"He was told at midday by his own office," said Georgij. "That is how he found out that it was finished. A man in an office read him a sentence off a screen."
+
+* * *
+
+"Thirteen days," he said.
+
+"Say the rest of it."
+
+"I stood on a hill with him on the thirteenth of February and he told me that there are four people left alive who will let him do something for them." He had not moved from where he was standing. "And on the twenty-second I did not spend eleven seconds telling him myself."
+
+"Why not."
+
+"Because I was in a car, and then there was a list, and then it was seven."
+
+He said it flatly and he did not offer any of it as a reason.
+
+"There is no other answer. I have been through it four times since eleven twenty and it comes out the same way every time."
+
+* * *
+
+Annie put her hand on the side of his face.
+
+She has not done that before.
+
+She did not say that it was not his fault, because she does not say things like that and because he would have taken it apart in about a second and a half.
+
+What she said was this.
+
+"He knew."
+
+"He did not know from me."
+
+"He knew for two years," said Annie. "You are the only person in this country who never asked him for anything, and he told you on a hill what that cost him." She did not look away from him. "You are going to spend a very long time deciding that he died thinking you did not care."
+
+She took her hand away.
+
+"He did not think that. I am not going to be able to prove it to you and I am going to say it once."
+
+* * *
+
+Nobody did this.
+
+That has to be said because of the year it happened in, and because of what was in the newspapers that week. A man of eighty who dies four days after a chaebol comes apart is a man about whom people will say things.
+
+There is no version of it. He was eighty. He had a heart that a doctor had been quietly unhappy about since 2019 and had said so twice and had been ignored twice.
+
+No enemy of that house was within two hundred kilometres of him. Nobody knew anything, nobody arranged anything, nobody hurried anything and nobody benefited from the timing.
+
+It was Friday, and then it was Saturday, and he had gone up at half past ten.
+
+* * *
+
+At the terminal they found out at about half past nine, and the east gate stopped for four minutes at ten.
+
+Nobody organised it. A crane driver at the far end stopped, and then the two nearest him stopped, and by the time it reached the gate there were about eleven hundred people standing still on a quay in the cold.
+
+Then it started again, because a terminal that stops costs money, and every one of them knew whose money it used to be.
+
+Four thousand two hundred people work at that terminal. The number has not moved in two years.
+
+* * *
+
+Mr Hwang works four days a week on the fourth floor of a building that belonged to a man who died on Friday night.
+
+He went in on the Saturday because nobody had told him not to, and the building was open, and there were three people in it who did not know yet.
+
+He told them. Then he sat at the desk he has used since September and did not do any work for about two hours.
+
+He telephoned at four and said one sentence and rang off before there could be an answer.
+
+"He came in on the ninth of January and asked me whether I was warm enough in that room."
+
+* * *
+
+The son came in on the Sunday morning and he is fifty-six and he had not been in that house since 2019.
+
+He did what an eldest son does, and he did it correctly, and he was not good at it because nobody is good at it the first time.
+
+He telephoned Annie himself on the Sunday afternoon, which he did not have to do. He asked her whether she would sit on the family side at the funeral hall. She said no, and she said why, and he understood it.
+
+* * *
+
+He asked one other thing, at the end, and he did not know that he was asking it.
+
+"There is a man who used to work in my father's building," he said. "Not an employee. My father spoke about him perhaps four times and never used his name."
+
+"I know who you mean."
+
+"Is he going to be there?"
+
+"He will be there," said Annie. "He will be standing at the back, and he will not sign the book, and he is the only person in that room who will have been on a hill with your father this month."
+
+There was a pause on the line from Toronto that went on rather too long.
+
+"Then I should like to be introduced to him," said the son. "Afterwards. Not on the day."
+
+* * *
+
+Lee Jun was in the hall at twenty past eleven and heard the eleven seconds.
+
+He did not say anything on the Saturday and he did not say anything on the Sunday. On the Monday morning he came into the small room and stood where he stands, which is not all the way in.
+
+"May I say one thing that is not a question, sir?"
+
+"You may."
+
+"You went to a grave two weeks ago and did not tell anybody where you were going." He had both hands at his sides. "I found out afterwards from Mrs Moon. I would like you to know that I know, and that is all I wanted."
+
+Georgij looked at him for a moment.
+
+"Thank you."
+
+"Yes, sir."
+
+* * *
+
+The solicitor telephoned at four on the Saturday afternoon.
+
+His name is Baek and he has held an envelope since the twenty-ninth of December two years ago, and the instruction on it is nine words long.
+
+*On the day I am dead and not one hour before.*
+
+He telephoned Annie first because she is named first, and he said that there were three, and that one was for her, one was for both of them, and one was for the other party.
+
+He did not use Georgij's name on the telephone because he had not been told that he might.
+
+"Say when," said Annie.
+
+"Today. It is not a reading and there is nothing to attend, and the instruction says the day and not the week." A pause. "I can put them in your hands by six."
+
+"Put them in our hands by six."
+
+* * *
+
+Mrs Seo took the black things out on the Sunday and had them done by Monday morning.
+
+There is nothing black in that house for Georgij and there never has been. He has been to two funerals in two years and he went to both of them in the suit he works in, because it is the only one, and because nobody looks at the back of a hall.
+
+She went and got him one on the Monday morning and did not ask anybody's permission, and she put it in his room herself, and she did not say anything about it.
+
+He found it at half past one and stood in the doorway looking at it for a moment.
+
+Then he went down, because the solicitor was coming at two, and he did not mention it to her for eleven days.
+
+* * *
+
+There are fifty-eight names and there are still twelve.
+
+Nothing was done about them in the last week of February. That is the third week in a row, and it is the last one, and the reason is written in the book on the twenty-sixth in four words.
+
+*He died on Friday night.*
+
+---
+
+# Book Three · Chapter 28: Refusal is also a signature
+*Lot Fourteen* · Version 1.1 · EN
+
+## Day Eight Hundred and Seventy-Six · Saturday 26 February
+
+Mr Baek came himself at ten to six and did not come in.
+
+He is sixty-four and he has held that envelope since the twenty-ninth of December two years ago, and the instruction on the outside of it is nine words long and is in Woo's hand.
+
+*On the day I am dead and not one hour before.*
+
+He gave three envelopes to Annie in the hall, and he said that he had not read any of them and did not know what was in them, which is true and which he said because people ask.
+
+Then he said the other thing, which nobody had asked him.
+
+"He came into my office on the twenty-ninth of December and sat down and wrote all three of them at my table," said Mr Baek. "It took him four hours. He would not use my pen."
+
+* * *
+
+They are not thick. The third one is the thickest and it is eleven pages.
+
+One says *Annie*. One says *Both of you*. One says *For the other one, and he will know that this is what I called him*.
+
+* * *
+
+She took the first one and went into the library and shut the door, which she has not done in two and a half years.
+
+She was in there for about fifty minutes.
+
+What is in it is her father, and Choi Dae-ho, and the tenth of January 2010, and it is not going in this account because it is hers.
+
+Three things about it can be said.
+
+The first is the line at the top, which is the only part she has ever read out loud to anybody.
+
+> *Your third question is first, because it is the only one that dies with me.*
+
+The second is that Woo answered in his own order and not in hers, and that his order is correct, and that she saw it was correct on the second page.
+
+The third is that two of the four answers have documents behind them and he says where, with names and with the years, and the fourth has nothing behind it at all and he says so.
+
+* * *
+
+When she came out she had it in her hand and she did not put it down for the rest of the evening.
+
+"Was it what you wanted," said Georgij.
+
+"No."
+
+She did not say anything else about it that night and she has said very little about it since.
+
+* * *
+
+The second one they read at the desk with both of them there, because it says *Both of you* on it.
+
+It is a covering letter and a schedule and it is nine pages, and the covering letter is one and a half.
+
+The first two and a half pages of the schedule are his people.
+
+Mr Bae, who has driven him since 2014 and who found him, gets the house in Yangpyeong and enough to keep it.
+
+The harbourmaster's widow. Two men at the terminal by name, one of whom retired in 2021 and did not know he was still on anything. A woman who ran his office for nineteen years and left in 2016 because of her mother. Against her name there is a line explaining that the sum is what she would have been paid if she had stayed.
+
+Eleven names in all, with the business each of them is in, and the sums are not large and they are not small either.
+
+Every one of them is exact. Nothing is a round number.
+
+* * *
+
+Then the group.
+
+To Georgij and to Annie, in equal shares, fifty and fifty.
+
+No sale, no pledge, no merger and no decision above a threshold without both signatures. Not either. Both.
+
+And if the two of them cannot agree, then the whole of it, all of it, immediately, to the people who work in it.
+
+*I have made it inconvenient on purpose. Convenient things are sold.*
+
+* * *
+
+There is a paragraph after that which is the reason Georgij read the page four times.
+
+*You may hold it quietly while it is being made safe. You may not profit from it quietly.*
+
+*Before either of you takes one won out of this, both names will have stood where the work is done.*
+
+He did not explain what that meant and he did not need to, and there is no mechanism attached to it and no trustee to enforce it.
+
+It is a sentence in a letter from a dead man and it is the strongest thing in the whole of the nine pages.
+
+* * *
+
+"Say what it does," said Annie.
+
+"It makes it impossible to be what I have been for two and a half years." Georgij had not sat down. "A man who owns half of a thing and stands at the end of a room is hiding."
+
+"He has written it down where both of us can see it, and he has put a date on it that is older than any of this."
+
+"December two years ago."
+
+"He decided it eleven weeks after he met me."
+
+* * *
+
+"Say what you think of the structure," said Georgij.
+
+"I think he built it so that neither of us can leave." Annie had the schedule flat in front of her. "He has known since December two years ago that the danger is not that we fall out. It is that you find a reason to go and stand somewhere else."
+
+"That is not what it says."
+
+"It is what it does."
+
+She turned the page and did not read it.
+
+"If we disagree, four thousand two hundred people at a terminal own a terminal. Neither of us will ever let that be tested. He knew it, and it is the most expensive lock anybody has ever put on me."
+
+"You are angry with him."
+
+"I am eighty per cent angry with him," said Annie, "and I am going to be at his funeral on Tuesday, and I am going to be the only person in that hall who is."
+
+* * *
+
+The third one he took upstairs.
+
+He read it at the desk in his own room with the door shut and it took him a long time, and it is eleven pages, and there is nothing in it that is a thank you.
+
+It begins on the first page with two lines and then a space.
+
+> *I am going to my wife.*
+>
+> *She waited badly when I was late for dinner, and I have been late for some years.*
+
+Then, after the space:
+
+> *That is mine. This next part is yours.*
+
+* * *
+
+The middle of it is about the first fortnight and it goes on for four pages.
+
+> *You asked me for guidance in your first fortnight. Several people have told me since that you asked another man the same thing a few minutes earlier, in almost the same words. I have always known that and I have never once minded it.*
+>
+> *I answered the question you put in front of me. It was not the answer you needed.*
+>
+> *I have thought about that for two years and I am going to say it plainly, because there is nobody left for me to be careful with.*
+
+> *You asked me how a man with nothing should proceed. I told you how to be useful. That is what I knew and it is what I did for fifty-one years.*
+>
+> *It works. It is not enough. I did not tell you that it was not enough, because I did not want to say it out loud about myself.*
+>
+> *A man can be selfish by refusing as cleanly as by taking.*
+
+* * *
+
+The last two pages are the will again, from the other side.
+
+> *I know the value of a quiet name. I have had one for fifty-one years and it is the most useful thing I own. Use it while the thing is still bleeding. Do not call it ownership when it begins to pay.*
+>
+> *I have arranged the document so that refusal is also a signature.*
+
+> *Sign the papers.*
+>
+> *If you cannot do it for yourself, do it because otherwise she will have to hold both halves.*
+
+> *I am not giving you anything. I am leaving two people a problem that they are better suited to than I was.*
+>
+> *Do not leave her to own what you were too clean to touch.*
+
+* * *
+
+He sat with it for about an hour.
+
+Every argument he has ever made about himself is in that room and none of them works any more, and the reason none of them works is arithmetic and not sentiment.
+
+If he refuses, the fifty per cent does not disappear. It goes to her. Then she holds a group that is on fire, alone, in a year when a prosecutor is taking visitor books out of ministries, and every decision that would have needed two names needs one.
+
+Refusing would not be clean. It would be the largest thing he has ever put on somebody else and it would be dressed as modesty.
+
+Woo knew that on the twenty-ninth of December two years ago, in a lawyer's office, with somebody else's table and his own pen.
+
+* * *
+
+He went down at about eleven and she was still at the desk.
+
+"Have you signed it," said Annie.
+
+"No."
+
+"When."
+
+"Not tonight. Not because I am deciding." He had the eleven pages in his hand and he did not put them down. "Because he is not buried yet, and because a man who signs for half a group on the night the man dies is a man who has been waiting."
+
+Annie looked at him for a while.
+
+"That is the answer he expected."
+
+"Yes."
+
+"He put a sentence in mine about you," she said. "It is one line and I am not going to give you the rest of the page it is on."
+
+"You do not have to give me any of it."
+
+"I am going to give you the line."
+
+* * *
+
+She did not read it off the paper. She had it.
+
+> *He will try to give it back. Do not let him, and do not argue with him about it, because he will win the argument.*
+
+Georgij did not say anything at all.
+
+* * *
+
+None of it is quick.
+
+There is a probate court, and a valuation, and a tax that is the largest single number anybody in that house has ever looked at. It is payable in six instalments over five years, and the first of them is due in September.
+
+Mr Chae worked it out on the Sunday and brought it up on the Monday and did not soften it either.
+
+"You will both be poorer in cash for four years than you are today," he said. "That is what inheriting a group of this size does. Anybody who tells you otherwise has never done one."
+
+* * *
+
+Two lines in the book at about midnight, and they are the only two.
+
+*He wrote them on the twenty-ninth of December, eleven weeks after we met, and would not use the man's pen.*
+
+*Refusal is also a signature.*
+
+Under them there is a third mark that is not a line and not a word, and it is the place where he put the pen down on the page and left it there for some time.
+
+---
+
+# Book Three · Chapter 29: The twenty-ninth of February
+*Lot Fourteen* · Version 1.2 · EN
+
+## Day Eight Hundred and Seventy-Nine · Tuesday 29 February
+
+He signed on the Monday morning at ten past eight, in Mr Baek's office, in eleven places, and it took four minutes.
+
+He did not say anything about it beforehand and he did not say anything about it afterwards.
+
+Annie signed at twenty past. She read every page and he had already read every page, and neither of them mentioned that both of them had.
+
+Mr Baek said one thing on the way out and he said it to the room rather than to either of them.
+
+"He told me on the twenty-ninth of December that this would take two years to be signed and that it would be signed in the wrong order."
+
+* * *
+
+The hall was at a hospital in Jung-gu, on the fourth floor, in the largest of the rooms, and it ran from the Saturday to the Tuesday.
+
+Six hundred and forty people came through it. Somebody counted, because somebody always counts.
+
+Four generations of one trade came. Men who had been at his table in 1994 came with their sons. The harbourmaster came twice and stood at the back the second time.
+
+The son received them all. He is fifty-six and he had not been in that country since 2019. He did it correctly for four days. By the Monday evening he was doing it well, and that is the worst thing about learning it.
+
+* * *
+
+The envelopes go on a table by the door.
+
+A man writes his name on the outside and puts inside what his standing and his relation require. It is a formality. It is also an account of who the dead man was, and everybody in that hall has been reading tables like that for forty years.
+
+Georgij did not write one.
+
+He could not have. He has no money, he has never had any, and there is no version of that table in which a person of no standing puts down an amount that means something.
+
+And this year there is a second reason and it is worse.
+
+He signed eleven pages at ten past eight on the Monday morning. A man who has just been left half of what the dead man built does not go to the door of the hall and put an envelope on a table.
+
+There is nothing he could have written on it that would have been true.
+
+* * *
+
+He went on the Tuesday morning only, and he went at seven, before it filled.
+
+Mrs Seo's suit fits and he had it on. It is the first thing anybody in that house has bought for him in two and a half years and he has still not said anything to her about it.
+
+He bowed twice at the photograph and did it properly, because a room like that is the last one in which a man ought to be economical.
+
+The photograph is from 2016 and Woo is not smiling in it, because he did not, and because the family chose the one that looked like him.
+
+* * *
+
+Annie was there on all four days.
+
+She went at six on the Saturday evening, four hours after the envelopes had started arriving, and she was the eleventh person into that room.
+
+She sat at the side, where a person sits who is neither family nor trade, for two hours. She did not speak to anybody except the son and she spoke to him for four minutes.
+
+She went again on the Sunday and on the Monday.
+
+On the Monday a man of about seventy came over and asked her whether she was the daughter. She said no. He said that he was sorry, and that she had the face of somebody who was, and she thanked him.
+
+She told Georgij about that on the Monday night and did not say why she was telling him.
+
+* * *
+
+Park Sang-hoon came at half past eight with two men and stayed eleven minutes.
+
+He wrote on the envelope and put it down. He bowed. He spoke to the son for about ninety seconds and said something that made the son straighten up, and nobody heard what it was.
+
+On the way out he passed within about two metres of the back wall and did not stop and did not turn his head.
+
+He raised one hand about as far as his waist and put it down again.
+
+That is the whole of it, and both men understood it, and there was nothing else available in that room to either of them.
+
+* * *
+
+Mr Hwang came at ten and stayed until the end.
+
+He is not family and not staff and not a business connection, and he did not know where to stand either. He solved it by helping with the tea for four hours, which nobody asked him to do and nobody stopped.
+
+At one point he took a tray from a woman of about seventy who had been carrying it too long, and she thanked him, and he said that he had worked on the fourth floor.
+
+He has worked on that floor since September and the man is dead, and there is no arrangement about what happens to that desk, and there is not going to be one for months.
+
+* * *
+
+The departure was at eleven.
+
+There were several hundred people in that corridor and on the stairs, and nobody organised any of it. The order it had is the one such things always have, which is that everybody knows where they belong.
+
+The family at the front. The trade behind them, by seniority, without anybody arranging it.
+
+Georgij stood at the back, at the wall, where a man stands for whom there is no clean public line.
+
+He is in the will and his name is not public and will not be public until the spring. He is with Annie and he is not family. He works for nobody and he owns half of a group and neither of those things is a place to stand in a corridor.
+
+He has spent two and a half years being extremely good at knowing where to be.
+
+* * *
+
+He had worked out where to stand at about ten past ten and it had taken a while.
+
+There is a place in that corridor for a man who worked for the dead man. There is one for a man who did business with him, and one for the family, and one for the friends.
+
+Every one of those places has a distance from the front, and everybody in the building can read it.
+
+He does not fit any of them and there is no fifth place. So he took the wall, which is what he has always done and what he is extremely good at.
+
+* * *
+
+Annie was four rows forward and to the left, where she belonged.
+
+She turned round at about five to eleven, which nobody does, and found him at the wall, and looked at him for about two seconds.
+
+Then she came back through the people.
+
+She did not say anything. She did not say his name and she did not explain it and she did not look at anybody else on the way.
+
+She came and stood beside him at the wall, on his left, so that both of them were facing the same way.
+
+Then she put her hand into his.
+
+* * *
+
+He looked down at their hands.
+
+That is not evasion and it is not shock. He is in a room with several hundred people and a photograph and a wall at his back, and a woman has done something that four hundred of them can see. He looked at it, because looking at a thing is what he does first.
+
+He waited about a second and a half.
+
+Then he closed his hand around hers, where everyone could see it.
+
+* * *
+
+In Band Two she held her hand out to him and he did not take it.
+
+He kissed her fingertips instead, and that was the whole of what he could do that night, and both of them knew what it was.
+
+That was the sixteenth of May, in a house, with nobody watching.
+
+This is a corridor on the fourth floor of a hospital in Jung-gu with six hundred and forty people in the building and a coffin coming through in four minutes.
+
+He did not let go until it had gone past.
+
+She went back to where she belonged when the corridor started to move. She did it four minutes later than she would have, and she did not look at him again in that building.
+
+* * *
+
+He did not go to the ground.
+
+Woo is going next to his wife on a hill an hour outside the city. The family cars went at eleven and there were eleven of them.
+
+Georgij went as far as the car park and stood there until they had turned onto the road, which took four minutes because the exit is single-file. Then he went and got a bus.
+
+He has been to that hill once. He knows what the last six hundred metres of that road are like, and he knows how long eleven cars will take on them.
+
+* * *
+
+Nobody said anything about it that day.
+
+Eleven people saw it who matter and about two hundred saw it who do not, and by Thursday it was in one newspaper as a sentence in a paragraph about who had attended.
+
+The sentence has her name in it and does not have his, because nobody there knew it.
+
+* * *
+
+Gong Doo-hyun was not in that building and had no reason to be.
+
+On the twenty-fifth of February a retired prosecutor of seventy-one attended his office by appointment and brought an appointment diary that has been kept complete since 1988.
+
+He was asked about eleven entries. He answered all eleven and asked, at the end, whether he might have a copy of the record of his own interview, and was told that he might, and it was given to him.
+
+Nothing happened in February.
+
+What happened in February is the thing that ends him, and it is going to take until the spring. The man who takes that office afterwards is the third from the left in a photograph on a windowsill in Seocho.
+
+He is fifty-eight. He has never met Georgij and he never will.
+
+* * *
+
+Lee Jun did not go and was not asked to.
+
+He was in that house for eleven hours on the Tuesday with the two women and the man at the gate. He answered the telephone forty-one times and he wrote down all forty-one.
+
+He gave the list in at seven. It is in order and it is correct.
+
+At the bottom of it he had written one more line, which nobody had asked him for.
+
+*Nothing needed you today.*
+
+* * *
+
+There are fifty-eight names and there are twelve.
+
+Moon Hae-sook was in the chair by the kitchen garden when they got back, with the blanket, and she asked how many people had come.
+
+She was told six hundred and forty.
+
+"That is a great many for a man who never had a title," she said. "Somebody ought to write that down."
+
+"It is written down."
+
+"Not in there," said Moon Hae-sook. "Somewhere a person could find it."
+
+* * *
+
+He went up at about ten and the house did the things it does at ten.
+
+He opened the book at the twenty-ninth of February, which is a page that will not exist again for four years, and he sat with it open for a while.
+
+Then he wrote one line, and it is the only line, and he did not write it about the will or about the corridor or about the six hundred and forty.
+
+*He asked whether the man who repairs the crane had been paid.*

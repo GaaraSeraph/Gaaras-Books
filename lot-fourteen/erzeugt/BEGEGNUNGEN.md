@@ -18,17 +18,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 973 | 119 (b1ch01-b3ch24) | 1 | 870 |
-| Park Sang-hoon | 320 | 50 (b1ch10-b3ch17) | 22 | 839 |
-| Chairman Woo | 257 | 45 (b1ch07-b3ch21) | 22 | 863 |
-| Mr Hwang | 200 | 36 (b2ch07-b3ch23) | 166 | 868 |
+| Annie | 1002 | 124 (b1ch01-b3ch29) | 1 | 879 |
+| Park Sang-hoon | 322 | 52 (b1ch10-b3ch29) | 22 | 879 |
+| Chairman Woo | 267 | 49 (b1ch07-b3ch29) | 22 | 879 |
+| Mr Hwang | 207 | 40 (b2ch07-b3ch29) | 166 | 879 |
 | Hana | 169 | 22 (b1ch09-b2ch90) | 22 | 590 |
 | Jang | 164 | 41 (b1ch05-b3ch05) | 4 | 672 |
-| Mrs Seo | 153 | 54 (b1ch03-b3ch15) | 1 | 802 |
+| Mrs Seo | 160 | 57 (b1ch03-b3ch29) | 1 | 879 |
 | Sim | 136 | 20 (b2ch29-b2ch88) | 239 | 578 |
-| Choi Dae-ho | 95 | 25 (b1ch07-b3ch20) | 22 | 861 |
+| Choi Dae-ho | 96 | 26 (b1ch07-b3ch28) | 22 | 876 |
 | Mrs Jeon | 95 | 21 (b2ch06-b2ch89) | 164 | 590 |
-| Baek Jun-ho | 91 | 13 (b2ch39-b3ch06) | 270 | 686 |
+| Baek Jun-ho | 92 | 14 (b2ch39-b3ch27) | 270 | 876 |
 | Mr Yeom | 88 | 15 (b2ch22-b3ch23) | 223 | 868 |
 | Mrs Sunwoo | 69 | 19 (b1ch07-b3ch08) | 22 | 718 |
 | Mr Yeo | 68 | 13 (b1ch05-b3ch23) | 6 | 868 |
@@ -41,26 +41,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ahn Jung-hee | 37 | 15 (b2ch53-b2ch89) | 315 | 590 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch34) | 22 | 249 |
 | Mr Ku | 36 | 24 (b1ch05-b3ch20) | 6 | 861 |
-| Gong Doo-hyun | 34 | 7 (b3ch01-b3ch22) | 592 | 866 |
+| Gong Doo-hyun | 35 | 8 (b3ch01-b3ch29) | 592 | 879 |
 | Kang Ji-hoon | 33 | 9 (b1ch09-b3ch10) | 22 | 742 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 31 | 87 |
+| Lee Jun | 31 | 12 (b3ch04-b3ch29) | 645 | 879 |
 | Mr Kwon | 31 | 6 (b2ch14-b2ch73) | 193 | 445 |
 | Mrs Bae | 29 | 8 (b2ch38-b2ch88) | 262 | 578 |
 | Mr Im | 28 | 5 (b1ch05-b2ch87) | 6 | 531 |
-| Lee Jun | 27 | 9 (b3ch04-b3ch22) | 645 | 866 |
 | Mr Koh | 25 | 7 (b2ch35-b2ch87) | 251 | 531 |
-| Moon Hae-sook | 21 | 12 (b2ch58-b3ch21) | 371 | 863 |
+| Moon Hae-sook | 23 | 13 (b2ch58-b3ch29) | 371 | 879 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mrs Gwak | 20 | 4 (b2ch29-b2ch76) | 239 | 461 |
 | Shin | 18 | 1 (b2ch02) | 152 | 152 |
 | Seol Gwan-ik | 14 | 3 (b3ch10-b3ch20) | 742 | 861 |
+| Mr Baek | 11 | 8 (b1ch05-b3ch29) | 6 | 879 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 6 | 152 |
 | Mr Sohn | 10 | 2 (b2ch36-b2ch54) | 259 | 319 |
+| Bae | 9 | 5 (b1ch03-b3ch28) | 1 | 876 |
 | Mr Bok | 9 | 1 (b3ch13) | 774 | 774 |
 | Han Bo-ram | 8 | 1 (b3ch09) | 732 | 732 |
-| Mr Baek | 7 | 6 (b1ch05-b2ch54) | 6 | 319 |
 | Mr Namgung | 7 | 1 (b3ch12) | 762 | 762 |
-| Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 6 | 5 (b1ch05-b2ch84) | 6 | 522 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
@@ -77,7 +77,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-973 Nennungen in 119 Kapiteln.
+1002 Nennungen in 124 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1054,6 +1054,35 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 868 | b3ch23:158 | "No," said Annie. "You have not." |
 | 870 | b3ch24:278 | "He did not come over," said Annie. |
 | 870 | b3ch24:306 | Annie wrote it at the top of the page she was working on, which is not what that page is.. |
+| 872 | b3ch25:32 | Georgij did not build that, and he said so out loud twice, once to Annie and once in the.. |
+| 872 | b3ch25:60 | Annie was at the near end because she owns it. Georgij stood at the end of the room wher.. |
+| 872 | b3ch25:88 | He was on time. He shook hands with the four lawyers and the two directors and with Anni.. |
+| 872 | b3ch25:186 | Annie was the last person out of that room and she did not hurry it. |
+| 872 | b3ch25:206 | Neither of them said anything on the bridge. On the far side Annie asked one question an.. |
+| 872 | b3ch26:32 | Annie stopped at about five. |
+| 872 | b3ch26:74 | Annie kissed him on the mouth. |
+| 872 | b3ch26:204 | On the twenty-third a case of something arrived at that house with no card in it, addres.. |
+| 876 | b3ch27:76 | Then he went and found Annie, because she was going to be told by somebody and it was go.. |
+| 876 | b3ch27:86 | Annie put down what she was holding. |
+| 876 | b3ch27:128 | Annie did not say anything at all. |
+| 876 | b3ch27:158 | Annie put her hand on the side of his face. |
+| 876 | b3ch27:176 | "He knew for two years," said Annie. "You are the only person in this country who never .. |
+| 876 | b3ch27:238 | He telephoned Annie himself on the Sunday afternoon, which he did not have to do. He ask.. |
+| 876 | b3ch27:254 | "He will be there," said Annie. "He will be standing at the back, and he will not sign t.. |
+| 876 | b3ch27:300 | He telephoned Annie first because she is named first, and he said that there were three,.. |
+| 876 | b3ch27:306 | "Say when," said Annie. |
+| 876 | b3ch28:16 | He gave three envelopes to Annie in the hall, and he said that he had not read any of th.. |
+| 876 | b3ch28:30 | One says *Annie*. One says *Both of you*. One says *For the other one, and he will know .. |
+| 876 | b3ch28:100 | To Georgij and to Annie, in equal shares, fifty and fifty. |
+| 876 | b3ch28:130 | "Say what it does," said Annie. |
+| 876 | b3ch28:152 | "I think he built it so that neither of us can leave." Annie had the schedule flat in fr.. |
+| 876 | b3ch28:170 | "I am eighty per cent angry with him," said Annie, "and I am going to be at his funeral .. |
+| 876 | b3ch28:258 | "Have you signed it," said Annie. |
+| 876 | b3ch28:270 | Annie looked at him for a while. |
+| 879 | b3ch29:12 | Annie signed at twenty past. She read every page and he had already read every page, and.. |
+| 879 | b3ch29:74 | Annie was there on all four days. |
+| 879 | b3ch29:136 | He is in the will and his name is not public and will not be public until the spring. He.. |
+| 879 | b3ch29:158 | Annie was four rows forward and to the left, where she belonged. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1332,12 +1361,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch20:22` (Tag 861) - one
 - `b3ch21:240` (Tag 863) - seven
 - `b3ch23:150` (Tag 868) - one
+- `b3ch25:88` (Tag 872) - four, one, two
+- `b3ch25:206` (Tag 872) - one
+- `b3ch26:32` (Tag 872) - five
+- `b3ch26:204` (Tag 872) - forty, twenty
+- `b3ch27:176` (Tag 876) - two
+- `b3ch27:300` (Tag 876) - one, three
+- `b3ch28:16` (Tag 876) - three
+- `b3ch28:30` (Tag 876) - one
+- `b3ch28:100` (Tag 876) - fifty and fifty
+- `b3ch28:152` (Tag 876) - two
+- `b3ch28:170` (Tag 876) - eighty
+- `b3ch29:12` (Tag 879) - twenty
+- `b3ch29:74` (Tag 879) - four
+- `b3ch29:158` (Tag 879) - four
 
 ---
 
 ## Park Sang-hoon
 
-320 Nennungen in 50 Kapiteln.
+322 Nennungen in 52 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1661,6 +1704,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 802 | b3ch15:362 | Mrs Seo had come in for the coffee that Sang-hoon had not drunk, and could not get out a.. |
 | 839 | b3ch17:110 | Park Sang-hoon did nothing. |
 | 839 | b3ch17:240 | The other call was Park Sang-hoon's secretary. She arranged nothing and confirmed nothin.. |
+| 872 | b3ch26:200 | Park Sang-hoon sent nothing and telephoned nobody. |
+| 879 | b3ch29:94 | Park Sang-hoon came at half past eight with two men and stayed eleven minutes. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1807,12 +1852,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch15:6` (Tag 802) - eleven, four
 - `b3ch15:32` (Tag 802) - forty
 - `b3ch17:240` (Tag 839) - one
+- `b3ch29:94` (Tag 879) - eight, eleven, two
 
 ---
 
 ## Chairman Woo
 
-257 Nennungen in 45 Kapiteln.
+267 Nennungen in 49 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2073,6 +2119,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 863 | b3ch21:190 | "I am going to tell you what she said the second time," said Woo, "and then I am going t.. |
 | 863 | b3ch21:218 | Woo had come to that hill on a Sunday in February when nobody would see him. He had brou.. |
 | 863 | b3ch21:252 | *Woo Mi-sook. The ninth of September. He was on his own for three months and told nobody.* |
+| 872 | b3ch26:210 | Chairman Woo is alive. |
+| 876 | b3ch27:6 | Chairman Woo Jae-sung had an ordinary Friday and there is a record of all of it, because.. |
+| 876 | b3ch27:50 | Chairman Woo had died in his sleep at some time before four in the morning and there was.. |
+| 876 | b3ch27:66 | Georgij was told at eleven twenty on the Saturday morning by a man in Woo's office who h.. |
+| 876 | b3ch27:84 | "Chairman Woo died last night," he said. |
+| 876 | b3ch28:10 | He is sixty-four and he has held that envelope since the twenty-ninth of December two ye.. |
+| 876 | b3ch28:54 | The second is that Woo answered in his own order and not in hers, and that his order is .. |
+| 876 | b3ch28:250 | Woo knew that on the twenty-ninth of December two years ago, in a lawyer's office, with .. |
+| 879 | b3ch29:70 | The photograph is from 2016 and Woo is not smiling in it, because he did not, and becaus.. |
+| 879 | b3ch29:216 | Woo is going next to his wife on a hill an hour outside the city. The family cars went a.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -2216,12 +2272,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch21:78` (Tag 863) - three, two
 - `b3ch21:96` (Tag 863) - eighteen
 - `b3ch21:252` (Tag 863) - three
+- `b3ch27:50` (Tag 876) - four
+- `b3ch27:66` (Tag 876) - eleven twenty, ten
+- `b3ch28:10` (Tag 876) - nine, sixty-four, twenty, two
+- `b3ch28:250` (Tag 876) - twenty, two
+- `b3ch29:70` (Tag 879) - one
+- `b3ch29:216` (Tag 879) - eleven
 
 ---
 
 ## Mr Hwang
 
-200 Nennungen in 36 Kapiteln.
+207 Nennungen in 40 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2425,6 +2487,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 853 | b3ch19:140 | "Like a man who has been told he is going to find a string and has not found one." Mr Hw.. |
 | 866 | b3ch22:276 | The eleventh was found by Mr Hwang in the second week of February, in a hospital in Ando.. |
 | 868 | b3ch23:228 | Mr Hwang put the sixth table away on the twenty-second and did not bring it up again. |
+| 872 | b3ch25:10 | Nobody in that house had ever spoken to any of them. There is a page in Mr Hwang's hand .. |
+| 872 | b3ch25:228 | Mr Hwang was told at one o'clock by telephone and asked one thing. |
+| 872 | b3ch25:240 | "Then I am going to go and have my lunch," said Mr Hwang, "and I would like it said that.. |
+| 872 | b3ch26:186 | The twelfth arrived on the Wednesday in an envelope addressed to Mr Hwang, and was not f.. |
+| 872 | b3ch26:196 | Mr Hwang brought it up on the Monday and put it on the desk and did not say anything abo.. |
+| 876 | b3ch27:216 | Mr Hwang works four days a week on the fourth floor of a building that belonged to a man.. |
+| 879 | b3ch29:110 | Mr Hwang came at ten and stayed until the end. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -2538,6 +2607,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch19:140` (Tag 853) - one
 - `b3ch22:276` (Tag 866) - fifty-four
 - `b3ch23:228` (Tag 868) - twenty
+- `b3ch25:10` (Tag 872) - four
+- `b3ch25:228` (Tag 872) - one
+- `b3ch25:240` (Tag 872) - fifty-five, one
+- `b3ch26:186` (Tag 872) - sixty-one
+- `b3ch27:216` (Tag 876) - four
+- `b3ch29:110` (Tag 879) - ten
 
 ---
 
@@ -3052,7 +3127,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-153 Nennungen in 54 Kapiteln.
+160 Nennungen in 57 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3209,6 +3284,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
 | 802 | b3ch15:78 | Mrs Seo brought it because Mrs Seo brings it, and he thanked her properly, and the cup s.. |
 | 802 | b3ch15:362 | Mrs Seo had come in for the coffee that Sang-hoon had not drunk, and could not get out a.. |
+| 872 | b3ch26:28 | Georgij worked on it from half past twelve until seven and did not eat anything, which h.. |
+| 872 | b3ch26:42 | Mrs Seo went in twice and came out twice without saying anything, and the second time sh.. |
+| 872 | b3ch26:116 | Mrs Seo put something in front of him at twenty past eight and he ate all of it. Lee Jun.. |
+| 872 | b3ch26:144 | Mrs Seo has run that house since before he came to it. |
+| 872 | b3ch26:206 | Mrs Seo asked what to do with it and was told to put it in the pantry. |
+| 876 | b3ch27:316 | Mrs Seo took the black things out on the Sunday and had them done by Monday morning. |
+| 879 | b3ch29:64 | Mrs Seo's suit fits and he had it on. It is the first thing anybody in that house has bo.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -3297,6 +3379,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch04:66` (Tag 645) - one
 - `b3ch04:356` (Tag 645) - seven, ten
 - `b3ch04:360` (Tag 645) - four
+- `b3ch26:28` (Tag 872) - seven, twelve
+- `b3ch26:116` (Tag 872) - eight, twenty
+- `b3ch29:64` (Tag 879) - two
 
 ---
 
@@ -3510,7 +3595,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Choi Dae-ho
 
-95 Nennungen in 25 Kapiteln.
+96 Nennungen in 26 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3609,6 +3694,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 742 | b3ch10:62 | That a man called Choi Dae-ho was taken out of the service in the spring of 2002 and was.. |
 | 861 | b3ch20:254 | He did not leave out the part where he stayed in the chair. He did not soften what he sa.. |
 | 861 | b3ch20:288 | "But I want you to hear the number. That man buried Choi Dae-ho on a Tuesday in the rain.. |
+| 876 | b3ch28:42 | What is in it is her father, and Choi Dae-ho, and the tenth of January 2010, and it is n.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -3804,7 +3890,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Baek Jun-ho
 
-91 Nennungen in 13 Kapiteln.
+92 Nennungen in 14 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3899,6 +3985,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 686 | b3ch06:242 | "He never came." Baek put the draft back in the sleeve and did not close the box. "Twelv.. |
 | 686 | b3ch06:248 | "That he knew what he was going to be and he did not think he would be able to stop hims.. |
 | 686 | b3ch06:254 | "Nothing." Baek Jun-ho put both hands on the box. "It pays on the first of the quarter a.. |
+| 876 | b3ch27:294 | His name is Baek and he has held an envelope since the twenty-ninth of December two year.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -3952,6 +4039,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch01:90` (Tag 592) - four, two
 - `b3ch06:242` (Tag 686) - twelve
 - `b3ch06:248` (Tag 686) - forty-eight, sixty-three
+- `b3ch27:294` (Tag 876) - nine, twenty, two
 
 ---
 
@@ -5020,7 +5108,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Gong Doo-hyun
 
-34 Nennungen in 7 Kapiteln.
+35 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5058,6 +5146,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 861 | b3ch20:232 | "Yes," said Gong Doo-hyun. "You have." |
 | 866 | b3ch22:6 | On the fifteenth of February the Hanseong matter was taken off Gong Doo-hyun's desk. |
 | 866 | b3ch22:16 | Gong Doo-hyun kept the other part. |
+| 879 | b3ch29:236 | Gong Doo-hyun was not in that building and had no reason to be. |
 
 ### Zahlen in der Naehe von Gong Doo-hyun
 
@@ -5180,6 +5269,61 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch32:22` (Tag 80) - eleven
 - `b1ch32:160` (Tag 80) - one, six, twenty-nine
 - `b1ch32:242` (Tag 80) - two
+
+---
+
+## Lee Jun
+
+31 Nennungen in 12 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
+| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
+| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
+| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
+| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
+| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
+| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
+| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
+| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
+| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
+| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
+| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
+| 774 | b3ch13:84 | Lee Jun stood where he could see the door and the hands and did not sit down when he was.. |
+| 774 | b3ch13:194 | Lee Jun did not say thank you, which is correct, and did not look pleased, which is not .. |
+| 774 | b3ch13:210 | Lee Jun looked out of his side of the window for about two minutes. |
+| 774 | b3ch13:246 | "Lee Jun." |
+| 774 | b3ch13:340 | Lee Jun wrote nothing down in that office and nothing in the car. |
+| 823 | b3ch16:258 | Lee Jun came in at seven with the post and did not go out again. |
+| 823 | b3ch16:280 | Lee Jun thought about that for longer than the answer needed. |
+| 839 | b3ch17:270 | Lee Jun asked the only question anybody asked him that week and he asked it on the stairs. |
+| 839 | b3ch17:286 | Lee Jun did not say anything for a moment. |
+| 848 | b3ch18:249 | Lee Jun carried the second box up from the hall in December and asked what was in it. |
+| 853 | b3ch19:198 | Two men came to Mr Chae's office on the eleventh and Lee Jun was in the hall when they l.. |
+| 853 | b3ch19:218 | "Because I have been told for nine months that nothing we do is against the law." Lee Ju.. |
+| 866 | b3ch22:240 | Lee Jun asked one thing that evening and it was not about any of it. |
+| 866 | b3ch22:250 | Lee Jun thought about that for a moment. |
+| 872 | b3ch26:116 | Mrs Seo put something in front of him at twenty past eight and he ate all of it. Lee Jun.. |
+| 872 | b3ch26:158 | Lee Jun asked one question at half past ten and it was about a licence. |
+| 876 | b3ch27:264 | Lee Jun was in the hall at twenty past eleven and heard the eleven seconds. |
+| 879 | b3ch29:256 | Lee Jun did not go and was not asked to. |
+
+### Zahlen in der Naehe von Lee Jun
+
+- `b3ch04:360` (Tag 645) - four
+- `b3ch07:150` (Tag 707) - twenty
+- `b3ch11:118` (Tag 753) - five
+- `b3ch11:266` (Tag 753) - six
+- `b3ch13:210` (Tag 774) - two
+- `b3ch16:258` (Tag 823) - seven
+- `b3ch19:198` (Tag 853) - two
+- `b3ch19:218` (Tag 853) - nine, two
+- `b3ch22:240` (Tag 866) - one
+- `b3ch26:116` (Tag 872) - eight, twenty
+- `b3ch26:158` (Tag 872) - one, ten
+- `b3ch27:264` (Tag 876) - eleven, twenty
 
 ---
 
@@ -5350,54 +5494,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Lee Jun
-
-27 Nennungen in 9 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 645 | b3ch04:50 | "This is Lee Jun," said Mrs Seo. |
-| 645 | b3ch04:176 | Lee Jun was checking it against something he already had. |
-| 645 | b3ch04:184 | At the door of the room Lee Jun stopped and looked at the collar. |
-| 645 | b3ch04:360 | Lee Jun sat where he was put and ate what he was given and said four words in an hour, a.. |
-| 707 | b3ch07:44 | He did not explain why and Lee Jun did not ask. |
-| 707 | b3ch07:58 | By the eleventh workshop Lee Jun was better in the room than Georgij was. |
-| 707 | b3ch07:150 | Lee Jun said his first unprompted sentence of the month in the car outside the twenty-se.. |
-| 707 | b3ch07:182 | Lee Jun took slightly longer over that than he had taken over anything since he came int.. |
-| 707 | b3ch07:198 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:118 | Lee Jun checked the sixth table on the Tuesday morning and it took him five hours. |
-| 753 | b3ch11:136 | "There is a company on here twice," said Lee Jun. |
-| 753 | b3ch11:156 | Lee Jun did not say anything to that. |
-| 753 | b3ch11:266 | Lee Jun came back at six with the sheet still in his hand. |
-| 774 | b3ch13:84 | Lee Jun stood where he could see the door and the hands and did not sit down when he was.. |
-| 774 | b3ch13:194 | Lee Jun did not say thank you, which is correct, and did not look pleased, which is not .. |
-| 774 | b3ch13:210 | Lee Jun looked out of his side of the window for about two minutes. |
-| 774 | b3ch13:246 | "Lee Jun." |
-| 774 | b3ch13:340 | Lee Jun wrote nothing down in that office and nothing in the car. |
-| 823 | b3ch16:258 | Lee Jun came in at seven with the post and did not go out again. |
-| 823 | b3ch16:280 | Lee Jun thought about that for longer than the answer needed. |
-| 839 | b3ch17:270 | Lee Jun asked the only question anybody asked him that week and he asked it on the stairs. |
-| 839 | b3ch17:286 | Lee Jun did not say anything for a moment. |
-| 848 | b3ch18:249 | Lee Jun carried the second box up from the hall in December and asked what was in it. |
-| 853 | b3ch19:198 | Two men came to Mr Chae's office on the eleventh and Lee Jun was in the hall when they l.. |
-| 853 | b3ch19:218 | "Because I have been told for nine months that nothing we do is against the law." Lee Ju.. |
-| 866 | b3ch22:240 | Lee Jun asked one thing that evening and it was not about any of it. |
-| 866 | b3ch22:250 | Lee Jun thought about that for a moment. |
-
-### Zahlen in der Naehe von Lee Jun
-
-- `b3ch04:360` (Tag 645) - four
-- `b3ch07:150` (Tag 707) - twenty
-- `b3ch11:118` (Tag 753) - five
-- `b3ch11:266` (Tag 753) - six
-- `b3ch13:210` (Tag 774) - two
-- `b3ch16:258` (Tag 823) - seven
-- `b3ch19:198` (Tag 853) - two
-- `b3ch19:218` (Tag 853) - nine, two
-- `b3ch22:240` (Tag 866) - one
-
----
-
 ## Mr Koh
 
 25 Nennungen in 7 Kapiteln.
@@ -5448,7 +5544,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Moon Hae-sook
 
-21 Nennungen in 12 Kapiteln.
+23 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5473,6 +5569,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 823 | b3ch16:254 | Moon Hae-sook has the names and sits in a chair by the kitchen garden and is slower than.. |
 | 863 | b3ch21:282 | Moon Hae-sook was in the chair by the kitchen garden on the Sunday when he got back, wit.. |
 | 863 | b3ch21:300 | "Then you went for him," said Moon Hae-sook, "and that is a different thing and it is th.. |
+| 879 | b3ch29:276 | Moon Hae-sook was in the chair by the kitchen garden when they got back, with the blanke.. |
+| 879 | b3ch29:288 | "Not in there," said Moon Hae-sook. "Somewhere a person could find it." |
 
 ### Zahlen in der Naehe von Moon Hae-sook
 
@@ -5643,6 +5741,38 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Baek
+
+11 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | b1ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
+| 876 | b3ch28:6 | Mr Baek came himself at ten to six and did not come in. |
+| 876 | b3ch28:22 | "He came into my office on the twenty-ninth of December and sat down and wrote all three.. |
+| 879 | b3ch29:6 | He signed on the Monday morning at ten past eight, in Mr Baek's office, in eleven places.. |
+| 879 | b3ch29:16 | Mr Baek said one thing on the way out and he said it to the room rather than to either o.. |
+
+### Zahlen in der Naehe von Mr Baek
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch24:46` (Tag 55) - eight, one
+- `b2ch01:18` (Tag 150) - four, six
+- `b2ch54:66` (Tag 319) - eight, one
+- `b3ch28:6` (Tag 876) - six, ten
+- `b3ch28:22` (Tag 876) - four, three, twenty
+- `b3ch29:6` (Tag 879) - eight, eleven, four, ten
+- `b3ch29:16` (Tag 879) - one
+
+---
+
 ## Mr Pyo
 
 11 Nennungen in 8 Kapiteln.
@@ -5703,6 +5833,31 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Bae
+
+9 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
+| 1 | b1ch03:168 | Bae's jaw moved. |
+| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
+| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 876 | b3ch27:40 | Mr Bae has driven him since 2014 and comes at eight on a Saturday because Saturday is th.. |
+| 876 | b3ch27:56 | Mr Bae telephoned the ambulance and then he telephoned the son in Toronto and then he sa.. |
+| 876 | b3ch28:84 | Mr Bae, who has driven him since 2014 and who found him, gets the house in Yangpyeong an.. |
+
+### Zahlen in der Naehe von Bae
+
+- `b1ch03:150` (Tag 1) - forty
+- `b1ch05:128` (Tag 4) - one, three, two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b3ch27:40` (Tag 876) - eight
+
+---
+
 ## Mr Bok
 
 9 Nennungen in 1 Kapiteln.
@@ -5750,30 +5905,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mr Baek
-
-7 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | b1ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 150 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
-| 319 | b2ch54:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
-
-### Zahlen in der Naehe von Mr Baek
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b1ch24:46` (Tag 55) - eight, one
-- `b2ch01:18` (Tag 150) - four, six
-- `b2ch54:66` (Tag 319) - eight, one
-
----
-
 ## Mr Namgung
 
 7 Nennungen in 1 Kapiteln.
@@ -5793,27 +5924,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b3ch12:174` (Tag 762) - eleven, fifty-one, one, thirty
 - `b3ch12:204` (Tag 762) - eleven
 - `b3ch12:236` (Tag 762) - eleven, four, twelve, two
-
----
-
-## Bae
-
-6 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
-| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
-| 1 | b1ch03:168 | Bae's jaw moved. |
-| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
-| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-
-### Zahlen in der Naehe von Bae
-
-- `b1ch03:150` (Tag 1) - forty
-- `b1ch05:128` (Tag 4) - one, three, two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 
 ---
 

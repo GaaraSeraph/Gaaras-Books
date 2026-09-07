@@ -1,0 +1,338 @@
+# Chapter 27: Thirteen days
+*Lot Fourteen* · Version 1.3 · EN
+
+## Day Eight Hundred and Seventy-Six · Saturday 26 February
+
+Chairman Woo Jae-sung had an ordinary Friday and there is a record of all of it, because a man of that kind is on a schedule whether he likes it or not.
+
+---
+
+He was at the terminal at half past eight. He walked the east quay with the harbourmaster, which he does on the last Friday of the month and has done since 2009, and it takes forty minutes and neither of them has ever cut it short.
+
+He had lunch with two men from a bank and ate half of it.
+
+---
+
+At three he sat in on the end of a meeting about a crane that has been out of service since December. He asked one question. The question was whether the man who repairs it had been paid.
+
+He was told that the man had been paid.
+
+---
+
+He signed nine things between four and half past. He left at twenty to six.
+
+* * *
+
+He telephoned his son at seven and the call lasted four minutes.
+
+---
+
+They talked about the weather in Toronto and about a grandchild's school. His son says now that there was nothing in it, and his son is right, and that is not going to help him.
+
+He read for a while. His housekeeper leaves at eight and she left at eight.
+
+---
+
+He went up at about half past ten.
+
+* * *
+
+Mr Bae has driven him since 2014 and comes at eight on a Saturday because Saturday is the terminal.
+
+---
+
+He let himself in at four minutes past, which he has done perhaps a thousand times, and he called out from the hall, which he has done perhaps a thousand times.
+
+Then he went up.
+
+---
+
+Chairman Woo had died in his sleep at some time before four in the morning and there was nothing in the room to say when.
+
+He had not got up. Nothing was knocked over. The book he had been reading was on the floor on his side of the bed, closed, because he closes them.
+
+* * *
+
+Mr Bae telephoned the ambulance and then he telephoned the son in Toronto and then he sat down on the stairs.
+
+---
+
+He is sixty-eight. He did not telephone the office and he did not telephone anybody at the terminal. He did not know which of them was the right one. In fourteen years he had never once had to decide anything about that man.
+
+He sat on the stairs for about twenty minutes with the front door open.
+
+* * *
+
+Georgij was told at eleven twenty on the Saturday morning by a man in Woo's office who had been told at ten.
+
+---
+
+The call lasted eleven seconds. There was nothing in it that needed longer.
+
+He said thank you and put the telephone down. Then he stood in the small room for a while and did not go anywhere. It is the only time in two and a half years that anybody in that house has seen him do that.
+
+---
+
+Then he went and found Annie, because she was going to be told by somebody and it was going to be him.
+
+* * *
+
+She was in the library and she had the door open.
+
+---
+
+"Chairman Woo died last night," he said.
+
+Annie put down what she was holding.
+
+---
+
+"How."
+
+"In his sleep. Before four. His driver found him at eight."
+
+---
+
+"Was anybody with him."
+
+"No."
+
+* * *
+
+She did not say anything for a while.
+
+---
+
+"He was eighty," she said, "and he did the east quay yesterday morning, and he asked somebody whether a man had been paid."
+
+"Yes."
+
+---
+
+"How do you know that."
+
+"His office told me. They have his Friday and they read it to me because they did not know what else to do with it."
+
+* * *
+
+She stood up then and came round the desk and stood in front of him.
+
+---
+
+"Say the thing you are not saying."
+
+"I did not telephone him on Tuesday."
+
+---
+
+Annie did not say anything at all.
+
+---
+
+"He was told at midday by his own office," said Georgij. "That is how he found out that it was finished. A man in an office read him a sentence off a screen."
+
+* * *
+
+"Thirteen days," he said.
+
+---
+
+"Say the rest of it."
+
+"I stood on a hill with him on the thirteenth of February and he told me that there are four people left alive who will let him do something for them." He had not moved from where he was standing. "And on the twenty-second I did not spend eleven seconds telling him myself."
+
+---
+
+"Why not."
+
+"Because I was in a car, and then there was a list, and then it was seven."
+
+---
+
+He said it flatly and he did not offer any of it as a reason.
+
+"There is no other answer. I have been through it four times since eleven twenty and it comes out the same way every time."
+
+* * *
+
+Annie put her hand on the side of his face.
+
+---
+
+She has not done that before.
+
+She did not say that it was not his fault, because she does not say things like that and because he would have taken it apart in about a second and a half.
+
+---
+
+What she said was this.
+
+"He knew."
+
+---
+
+"He did not know from me."
+
+"He knew for two years," said Annie. "You are the only person in this country who never asked him for anything, and he told you on a hill what that cost him." She did not look away from him. "You are going to spend a very long time deciding that he died thinking you did not care."
+
+---
+
+She took her hand away.
+
+"He did not think that. I am not going to be able to prove it to you and I am going to say it once."
+
+* * *
+
+Nobody did this.
+
+---
+
+That has to be said because of the year it happened in, and because of what was in the newspapers that week. A man of eighty who dies four days after a chaebol comes apart is a man about whom people will say things.
+
+There is no version of it. He was eighty. He had a heart that a doctor had been quietly unhappy about since 2019 and had said so twice and had been ignored twice.
+
+---
+
+No enemy of that house was within two hundred kilometres of him. Nobody knew anything, nobody arranged anything, nobody hurried anything and nobody benefited from the timing.
+
+It was Friday, and then it was Saturday, and he had gone up at half past ten.
+
+* * *
+
+At the terminal they found out at about half past nine, and the east gate stopped for four minutes at ten.
+
+---
+
+Nobody organised it. A crane driver at the far end stopped, and then the two nearest him stopped, and by the time it reached the gate there were about eleven hundred people standing still on a quay in the cold.
+
+Then it started again, because a terminal that stops costs money, and every one of them knew whose money it used to be.
+
+---
+
+Four thousand two hundred people work at that terminal. The number has not moved in two years.
+
+* * *
+
+Mr Hwang works four days a week on the fourth floor of a building that belonged to a man who died on Friday night.
+
+---
+
+He went in on the Saturday because nobody had told him not to, and the building was open, and there were three people in it who did not know yet.
+
+He told them. Then he sat at the desk he has used since September and did not do any work for about two hours.
+
+---
+
+He telephoned at four and said one sentence and rang off before there could be an answer.
+
+"He came in on the ninth of January and asked me whether I was warm enough in that room."
+
+* * *
+
+The son came in on the Sunday morning and he is fifty-six and he had not been in that house since 2019.
+
+---
+
+He did what an eldest son does, and he did it correctly, and he was not good at it because nobody is good at it the first time.
+
+He telephoned Annie himself on the Sunday afternoon, which he did not have to do. He asked her whether she would sit on the family side at the funeral hall. She said no, and she said why, and he understood it.
+
+* * *
+
+He asked one other thing, at the end, and he did not know that he was asking it.
+
+---
+
+"There is a man who used to work in my father's building," he said. "Not an employee. My father spoke about him perhaps four times and never used his name."
+
+"I know who you mean."
+
+---
+
+"Is he going to be there?"
+
+"He will be there," said Annie. "He will be standing at the back, and he will not sign the book, and he is the only person in that room who will have been on a hill with your father this month."
+
+---
+
+There was a pause on the line from Toronto that went on rather too long.
+
+"Then I should like to be introduced to him," said the son. "Afterwards. Not on the day."
+
+* * *
+
+Lee Jun was in the hall at twenty past eleven and heard the eleven seconds.
+
+---
+
+He did not say anything on the Saturday and he did not say anything on the Sunday. On the Monday morning he came into the small room and stood where he stands, which is not all the way in.
+
+"May I say one thing that is not a question, sir?"
+
+---
+
+"You may."
+
+"You went to a grave two weeks ago and did not tell anybody where you were going." He had both hands at his sides. "I found out afterwards from Mrs Moon. I would like you to know that I know, and that is all I wanted."
+
+---
+
+Georgij looked at him for a moment.
+
+"Thank you."
+
+---
+
+"Yes, sir."
+
+* * *
+
+The solicitor telephoned at four on the Saturday afternoon.
+
+---
+
+His name is Baek and he has held an envelope since the twenty-ninth of December two years ago, and the instruction on it is nine words long.
+
+*On the day I am dead and not one hour before.*
+
+---
+
+He telephoned Annie first because she is named first, and he said that there were three, and that one was for her, one was for both of them, and one was for the other party.
+
+He did not use Georgij's name on the telephone because he had not been told that he might.
+
+---
+
+"Say when," said Annie.
+
+"Today. It is not a reading and there is nothing to attend, and the instruction says the day and not the week." A pause. "I can put them in your hands by six."
+
+---
+
+"Put them in our hands by six."
+
+* * *
+
+Mrs Seo took the black things out on the Sunday and had them done by Monday morning.
+
+---
+
+There is nothing black in that house for Georgij and there never has been. He has been to two funerals in two years and he went to both of them in the suit he works in, because it is the only one, and because nobody looks at the back of a hall.
+
+She went and got him one on the Monday morning and did not ask anybody's permission, and she put it in his room herself, and she did not say anything about it.
+
+---
+
+He found it at half past one and stood in the doorway looking at it for a moment.
+
+Then he went down, because the solicitor was coming at two, and he did not mention it to her for eleven days.
+
+* * *
+
+There are fifty-eight names and there are still twelve.
+
+---
+
+Nothing was done about them in the last week of February. That is the third week in a row, and it is the last one, and the reason is written in the book on the twenty-sixth in four words.
+
+*He died on Friday night.*
