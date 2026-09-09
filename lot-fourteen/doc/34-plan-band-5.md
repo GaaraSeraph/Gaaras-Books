@@ -1845,7 +1845,7 @@ stand, weil nie eine stattgefunden hat.**
 
 **Und das ist besser als Gewalt, weil es unbeantwortbar ist.** Eine Bande kann
 einen Mann toeten. **Sie kann kein Dokument aus einer Reihe nehmen**
-(`b2 ch59:102`, `b2 ch87:350`: *it cannot be sealed and it cannot be
+(`b2 ch59:102`, `b2 ch87:376`: *it cannot be sealed and it cannot be
 withdrawn*).
 
 ## Die Genehmigungspflicht ist keine Lizenz, sondern eine Buchfuehrung
@@ -2085,7 +2085,7 @@ Stelle.
 
 **Am 29.08. richtiggestellt: Hwang ist kein Pruefer von aussen. Er hat den
 Handel verwaltet.** `b2 ch07:30`: *"He was Mr Hwang then and he is Mr Hwang
-now, and in between he was **Mr Hwang at three other houses**."* `b2 ch59:178`:
+now, and in between he was **Mr Hwang at three other houses**."* `b2 ch59:250`:
 *"**I am the administrator of a house** that is going to be gone by
 Christmas."* Und `b2 ch35:340`: er wurde in ein Haus geholt, **das schon starb
 und es noch nicht wusste.**
@@ -2266,7 +2266,7 @@ erklaert es ihm.**
 
 ## Zweitens: Choi hat den Grund geliefert, warum er nicht toetet
 
-`b2 ch86:166` und `:172`:
+`b2 ch86:134` und `:172`:
 
 > "Because it would be one-sided," said Georgij. ... "**A killing is quick,
 > and it is private.** It would let you finish exactly the way you have lived,
@@ -2324,7 +2324,7 @@ The last thing he saw was a face that had not moved.
 
 ## Was daran haengt
 
-**Das Fragezeichen ist richtig und es ist belegt.** `b2 ch86:82`: *"Please
+**Das Fragezeichen ist richtig und es ist belegt.** `b2 ch86:78`: *"Please
 guide me," said Georgij. "Who should I be careful of?"* - **Zeichen, bei
 voller Macht.** Und `b2 ch86:162` schreibt die Regel sogar aus: *He asked it
 with the mark on the end of it, and it is the first question anybody has asked
@@ -2337,7 +2337,7 @@ Augenblick beginnen. Es ist eine Vorhersage ueber etwas, das der Sprecher
 selbst herbeifuehrt, und darum keine Luege.
 
 **Der Blick nach oben ist die Oeffnung, und das Buch hat das Mass dafuer
-schon gesetzt.** `b2 ch86:90`: *He did not answer for about three seconds,
+schon gesetzt.** `b2 ch86:82`: *He did not answer for about three seconds,
 **and the three seconds are the whole of it.*** **Dasselbe Intervall, anders
 gefuellt.** Es darf nirgends darauf gezeigt werden.
 
@@ -2460,7 +2460,7 @@ alles.
 
 **Das Haus registriert seit zwei Baenden, was mit ihm los ist, ohne dass es
 jemand ausspricht.** Mrs Seo hat elf Minuten in einer Kueche abgezaehlt
-(`b2 ch86:556`). Ji-won hat ein Licht gebracht, das keiner brauchte
+(`b2 ch86:456`). Ji-won hat ein Licht gebracht, das keiner brauchte
 (`b1 ch03:90`). Jang stand in der Halle, **ohne dass er dort sein musste**
 (`b1 ch33:12`).
 

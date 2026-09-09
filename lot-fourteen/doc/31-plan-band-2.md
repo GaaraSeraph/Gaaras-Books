@@ -2606,19 +2606,19 @@ wuerde. **Noch nicht geschrieben - hier der Inhalt und die Fundstellen.**
 
 ### Der Platz dafuer ist bereits gebaut
 
-* `b2 ch86:556` - *Behind him, in a small room at the end of it, a man of
+* `b2 ch86:456` - *Behind him, in a small room at the end of it, a man of
   sixty stood at a window and looked at four cars on a drive. **Nobody came
   for him for eleven minutes.***
-* `b2 ch85:124` - *Sang-hoon was by the window with two other men and did not
+* `b2 ch85:284` - *Sang-hoon was by the window with two other men and did not
   turn round.*
 * `b2 ch85:284` - *One of them was Park Sang-hoon, **who had not said a word to
   him all evening**.* (zu Georgij, nicht zu Choi)
-* `b2 ch87:180` - ***Park Sang-hoon left last of the men and left at eleven.***
+* `b2 ch87:206` - ***Park Sang-hoon left last of the men and left at eleven.***
 
 **Chois elf Minuten und Sang-hoons elf Uhr liegen nebeneinander.** Die Szene
 gehoert dazwischen, in den Gang oder an die Wagen.
 
-**Und Georgij ist nicht dabei** - `b2 ch86:552`: *He went up the passage.*
+**Und Georgij ist nicht dabei** - `b2 ch86:454`: *He went up the passage.*
 **Das ist der Gewinn und nicht das Problem:** der Leser bekommt Chois
 Schaetzung, und Georgij bekommt sie nie. Das Buch erzaehlt an dieser Stelle
 ohnehin schon ohne ihn, vier Zeilen weiter.
@@ -2647,7 +2647,7 @@ stop having to think about it."*
 have ever been able to pay* heisst nicht *zu teuer fuer mich*. Es heisst,
 **dass es nie in Geld war.**
 
-**Und das steht drei Seiten vorher, aus Georgijs Mund**, `b2 ch86:310`:
+**Und das steht drei Seiten vorher, aus Georgijs Mund**, `b2 ch86:260`:
 *"You do not carry anything yourself."* **Was dieser Mann kostet, ist
 Tragen** - und Choi hat in fuenfundzwanzig Jahren nie in dieser Waehrung
 gezahlt.
@@ -2664,7 +2664,7 @@ not a number."* ist eine Feststellung und keine Frage.
 ## Die Krämerzahl und die zweite Frau, geprüft am 29.08.
 
 **Vom Autor gefunden:** Ahn Jung-hee und Moon Hae-sook sind im selben Haus
-(`b2 ch59:154`: *a woman in **the same building** who has been there eleven
+(`b2 ch59:226`: *a woman in **the same building** who has been there eleven
 years*), Ahn seit vier Jahren, Moon seit elf. **Dann müsste die Bestellung
 für elf reichen und nicht für zehn.**
 
@@ -2716,7 +2716,7 @@ oeffentliche Datensatz endet bei der Zulassung des Unternehmens. Alles andere
 ueber sie laeuft durch einen Kanal, der gebaut ist, um kein Haushaltsbeleg zu
 sein.
 
-**`b2 ch59:238` sagt es bereits:** *There is no line anywhere on the other
+**`b2 ch59:310` sagt es bereits:** *There is no line anywhere on the other
 woman. Not one. That is not an oversight and it is not carelessness.*
 **Auch nicht in der Küche.**
 

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 21 Dokumente am Stueck plus das Begegnungsregister. 389.662 Woerter.
+Alle 21 Dokumente am Stueck plus das Begegnungsregister. 390.205 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -859,7 +859,11 @@ Sie stehen unten in ihrem eigenen Register und sind bisher zu dünn gesät.
 
 **Akt I von Band 3 bekommt keine grosse Szene, entschieden vom Autor am 06.09.** Die letzte war `b2 ch90` am 16. Mai 2027, Akt I sind elf Kapitel, und elf ist die Haelfte der Kadenz. Was Akt I bekommt, sind die kleinen Dinge und der Platz.
 
-**Und der Platz war weg.** In `b2 ch90` endet der Band damit, dass er an der Seite des Schreibtischs hinuntergeht. Zwei Tage spaeter faengt Akt I an, und in **neun Schreibtischszenen ueber hundertdreiundsechzig Tage** kam er kein einziges Mal vor; stattdessen stand dreimal ausdruecklich, dass Georgij steht. Gemessen am 06.09.: *which is where he sits*, *with his back against it*, *at the side of the desk* und *into his hair* stehen zusammen **dreissigmal in Band 2 und keinmal in Band 3**. Das ist keine fehlende Szene, das ist eine fehlende Tatsache des Zimmers.
+**Und der Platz war weg.** In `b2 ch90` endet der Band damit, dass er an der Seite des Schreibtischs hinuntergeht. Zwei Tage spaeter faengt Akt I an, und in **neun Schreibtischszenen ueber hundertdreiundsechzig Tage** kam er kein einziges Mal vor; stattdessen stand dreimal ausdruecklich, dass Georgij steht. Gemessen am 06.09.: *which is where he sits*, *with his back against it*, *at the side of the desk* und *into his hair* standen zusammen **dreissigmal in Band 2 und keinmal in Band 3**. Das ist keine fehlende Szene, das ist eine fehlende Tatsache des Zimmers.
+
+**Nachgemessen am 09.09., und der Satz darueber ist zweimal ueberholt.** Band 2 hat weiterhin dreissig. **Akt I hat neun**, und Akt I ist seit dem 06.09. nicht angefasst worden: die Messung von damals hat die Luecke gefunden, dieselbe Sitzung hat sie geschlossen, und der Befund ist stehengeblieben, als gaelte er noch. Akt II und III haben sechs, alle sechs *at the side of the desk*.
+
+**Und die zweite Zahl aendert die Deutung: Band 1 hat null.** Keine der vier Wendungen kommt dort auch nur einmal vor. Sie sind in Band 2 entstanden. **Ein Band ohne sie ist deshalb kein Rueckschritt, sondern der Zustand von Band 1**, und wer sie das naechste Mal vermisst, zaehlt zuerst nach, seit wann es sie gibt.
 
 ---
 
@@ -1340,9 +1344,9 @@ Bemerkenswert ist das Weinen.**
 
 ### Es geschieht an seinem Platz, und den kennt der Leser zehnmal
 
-*which is where he sits* steht **sechsmal** woertlich im Buch: auf dem
+*which is where he sits* steht **neunmal** woertlich im Buch: auf dem
 Teppich, seitlich vom Schreibtisch, mit dem Ruecken an den Schubladen
-(`b2 ch09:280`, `b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch90:24`). **Dazu vier weitere Stellen ohne
+(`b2 ch09:280`, `b2 ch15:186`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch90:24`, `b3 ch01:124`, `b3 ch03:286`, `b3 ch11:232`). **Nachgezaehlt am 09.09.: es waren sechs, und Band 3 hat drei hinzugefuegt.** Dasselbe Blatt haelt weiter oben fest, die Formel stehe in Band 3 keinmal; das galt bis zum 06.09. und gilt nicht mehr. **Dazu vier weitere Stellen ohne
 die Formel** - `b2 ch32:282`, `b2 ch42:212`, `b2 ch66:302`, `b2 ch87:478`.
 
 **Also derselbe Boden, dasselbe Zimmer, dieselbe Haltung. Eine Sache anders.**
@@ -2080,7 +2084,7 @@ werden nicht verhindert; sie werden kontrolliert.
 | Figur | Wer das ist | Was | Auftritt | Stand |
 |---|---|---|---|---|
 | **Die alten Haeuser** | **Stiller Kreis alter Chaebol-Haeuser** | Keine einheitliche Organisation, sondern dieselbe Lesart in mehreren Raeumen: Georgij und Annie haben die ungeschriebene Regel gebrochen, dass Haeuser einander nicht vollstaendig zerstoeren | B6 geplant | Externe Hauptgegenfront. Greift nicht mit Gewalt an, sondern ueber Monopol, Regulierung, Banken, Versicherer, Zulassungen, Minderheitenrechte, Presse und die Frage, ob Georgij legitimer Traeger dieser Macht ist |
-| **Arbeitsgesicht offen / neues altes Haus** | **Ein alter Chairman als sichtbares Gesicht** | Muss gross genug sein, um nicht wie ein Lane-Kleingegner zu wirken, und klug genug, Georgij nicht zu unterschaetzen | B6 geplant | Noch nicht fest benannt. Default ist ein groesseres altes Haus. Kyeongil nur, falls es spaeter bewusst mit echter Reichweite aufgebaut wird. Nam darf diese Funktion nicht haben, weil Nam Annie gehoert |
+| **Chairman Yu Beom-seok** | **Arbeitsname: sichtbares Gesicht der alten Haeuser** | Alter Chairman aus einem groesseren Haus. Traegt Banken, Versicherer, Kunden, Ausschuesse, ehemalige Ministeriumsraeume und Familienkontakte, ohne wie ein direkter Lane-Gegner zu wirken | B6 geplant | Arbeitsname austauschbar, Funktion fest. Yu ist nicht Boss aller alten Haeuser, sondern Gesicht derselben Lesart. Er behandelt Annie als Haus und Georgij hoeflich als Risiko, das beaufsichtigt werden soll. Kein Nam, kein Lim, kein Kyeongil-Randgegner |
 | **Oeffentliche Ordnung** | **Regulierungs-/Fair-Trade-Seite** | Nicht korrupt und nicht gekauft. Muss nach Konzentration, Kontrollwechsel, Remedies, Shipping-Zugang und bindender Fuehrung fragen | B6 geplant | Gefaehrlich, weil die Fragen legitim sind. Gibt den alten Haeusern Form, ohne ihr Werkzeug zu sein |
 | **Banken/Versicherer/Risk** | **Finanz- und Versicherungsdruck** | Kreditlinien, Covenants, Industrieversicherungen, Shipping-Risiko, Export- und Lieferausfallbewertung | B6 geplant | Erzwingen trennbare Verantwortung, Nachfolgeketten und Nachweise, dass Dokkaebi nicht im legalen Konzern steckt |
 | **Hanseong-Reste** | **Geschwister, Resthalter, Minderheiten, alte Board-Leute** | Keine Armee mehr, aber Beschwerderechte, Altvertraege, Protokolle und Geduld | B6 geplant | Liefern Anlaesse fuer Pruefungen. Sind nicht der Hauptgegner, sondern das Material, das die alten Haeuser in oeffentliche Raeume tragen |
@@ -8380,8 +8384,8 @@ nicht.
 | **Neun Institute** im Syndikat | `b1 ch13:94` |
 | Drei davon gross genug fuer eine interne Freigabe, **keines veroeffentlicht den Namen darunter** | `b1 ch13:94` |
 | Zwei davon gewoehnliche Haeuser, **das dritte ein Fonds** | `b1 ch13:96` |
-| Dessen **beneficial ownership** laeuft in eine **Kette von Kanzleien in Singapur** und hoert dort auf | `b1 ch13:96` |
-| Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**: eine **Private-Equity-Gesellschaft in Hongkong** | `b1 ch13:96` |
+| Dessen **beneficial ownership** laeuft in eine **Kette von Kanzleien in Singapur** und hoert dort auf | `b1 ch13:100` |
+| Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**: eine **Private-Equity-Gesellschaft in Hongkong** | `b1 ch13:100` |
 | Dahinter *nothing whatsoever, because that is what it is for* | `b1 ch13:208` |
 | *So he had a company behind a chain behind a fund.* **He had no person at all.** | `b1 ch13:98/100` |
 | **Vierhundert Milliarden Won** hat der Mann geliehen | `b2 ch69:92` |
@@ -8401,8 +8405,8 @@ nicht.
 
 | Was | Beleg |
 |---|---|
-| Drei im Raum: zwei Anwaelte, deren Namen Woo **absichtlich vergessen** hat | `b1 ch13:186` |
-| Der dritte fuehrte das Wort: **etwa fuenfzig, Hongkong-Akzent im Englischen, keiner im Koreanischen** | `b1 ch13:186` |
+| Drei im Raum: zwei Anwaelte, deren Namen Woo **absichtlich vergessen** hat | `b1 ch13:190` |
+| Der dritte fuehrte das Wort: **etwa fuenfzig, Hongkong-Akzent im Englischen, keiner im Koreanischen** | `b1 ch13:190` |
 | **Gab niemandem eine Karte.** *He was not that sort* | `b1 ch13:190` |
 | Fragte **eine** Frage: *what would happen to the terminal if I died on the Tuesday* | `b1 ch13:190` |
 | Woos Antwort: *sold within a year and split three ways and probably one of the three would be Sang-hoon* | `b1 ch13:194` |
@@ -8461,7 +8465,7 @@ schmutzigsten Sache im Land**, und beides ist wahr.
 * Er hat bei *Hongkong* nicht gezuckt, weil er im Zusagejahr die **Sorte**
   Geld erkannt hat und nicht die Leute: *a man does not ask when the money is
   already in the concrete.*
-* **Und er hat es nie aufgeloest, weil es nicht aufgeht.** `b1 ch31:368`:
+* **Und er hat es nie aufgeloest, weil es nicht aufgeht.** `b1 ch31:364`:
   *"I have never known what to do with the fact that the best thing anybody
   ever did for me took him nine seconds."* Der Bote war anstaendig, das Geld
   ist es nicht, und Woo hat die beiden nie zusammenbekommen. **Deshalb hat er
@@ -9129,7 +9133,7 @@ getrennte Auskuenfte, und nur die erste kommt im Oktober.
 
 **1. Wann die Reihe aufhoert: gesagt, ohne Datum, mit Zusage.**
 
-`b2 ch59:112`, 15. Oktober: *"it exists until somebody signs it over to an
+`b2 ch59:144`, 15. Oktober: *"it exists until somebody signs it over to an
 archive or to a successor... a fund is in no hurry, and nobody has told me the
 morning."* Georgij bittet: *"I would like it before the envelope."* Hwang sagt
 zu: *"On the day I have it."*
@@ -11327,6 +11331,10 @@ Mengenangabe.**
 260. **NACH DER GEBURT WIEDERHOLT SICH DER SATZ:** Bank fragt nach Covenants und Vertretungslinien; Versicherer nach Shipping-/Industrieanlagenrisiko; Hanseong-Reste oder Minderheiten legen Beschwerdematerial nach. Jeder Stoss ist fuer sich plausibel, zusammen sind sie eine Lesart.
 261. **DER ALTE CHAIRMAN KOMMT ERST DANACH:** Er droht nicht, sondern bietet Hilfe an: Industrieaufsicht, Stabilitaetskreis, Senior Trustee, Courtesy zwischen Haeusern. Dadurch wird klar, dass die vorherigen Schreiben nicht derselbe Absender waren, aber dieselbe Richtung hatten.
 262. **GEORGIJS GEGNER IST EINE MEINUNG:** Er kaempft nicht gegen einen boesen Brief, sondern gegen eine glaubwuerdige Meinung ueber ihn. Drohung bestaetigt sie; Annie allein bestaetigt, dass er nicht tragen darf; Georgij allein bestaetigt, dass Annie nach Geburt aus Raeumen verschwindet. Antwort: Taktung und Struktur.
+263. **BAND-6-GESICHT ARBEITSNAME YU BEOM-SEOK:** Yu ist ein alter Chairman aus einem groesseren Haus, mit Reichweite in Banken, Versicherern, Kunden, Ausschuesse, ehemalige Ministeriumsraeume und Familienkontakte. Er ist nicht Boss aller alten Haeuser, sondern das sichtbare Gesicht derselben Lesart.
+264. **YU UND DER PRAEZEDENZFALL:** Er will nicht Annies Besitz stehlen und nicht ihr Kind bedrohen. Er will verhindern, dass Annies Haus den Hanseong-Praezedenzfall normalisiert: alte Namen koennen mit Wahrheit, Staat, Boerse, Sanierung und Unterweltordnung vollstaendig entkernt werden.
+265. **YUS BELEIDIGUNG IST HOEFFLICHKEIT:** Er nennt Georgij nicht Mutt, Dog oder Upstart. Er behandelt ihn korrekt und gerade dadurch herabsetzend: als begabtes Risiko in Annies Haus, das beaufsichtigt, versichert und aus bestimmten Raeumen entfernt werden sollte.
+266. **YU DARF KEIN BILLIGER SCHURKE WERDEN:** Keine Drohung gegen Kind, Krankenhaus oder Zuhause; keine plumpe Bestechung; keine offene Unterwelt-Erpressung. Er muss formal sauber bleiben, damit Georgij ihn nicht mit einem einfachen Choi/Han/Maeng-Zug erledigen kann.
 
 ---
 
@@ -11383,7 +11391,7 @@ Georgij Annie, einen Tisch und zwei Stuehle zu schicken, und muss vor ihr
 aussprechen, warum: *"It makes it a chair." / "It makes it a chair that went
 before I wanted anything."*
 
-**3. `b2 ch59:26`, Tag 377.** *Georgij sat down.* **Ein Satz, kein Kommentar.**
+**3. `b2 ch59:154`, Tag 377.** *Georgij sat down.* **Ein Satz, kein Kommentar.**
 Erst am Ende desselben Gespraechs benennt Hwang es, und zwar bevor er
 unterschreibt und nicht danach: *"I want it said before I do the thing you
 came here for, because afterwards it will look like the reason."*
@@ -18628,19 +18636,19 @@ wuerde. **Noch nicht geschrieben - hier der Inhalt und die Fundstellen.**
 
 ### Der Platz dafuer ist bereits gebaut
 
-* `b2 ch86:556` - *Behind him, in a small room at the end of it, a man of
+* `b2 ch86:456` - *Behind him, in a small room at the end of it, a man of
   sixty stood at a window and looked at four cars on a drive. **Nobody came
   for him for eleven minutes.***
-* `b2 ch85:124` - *Sang-hoon was by the window with two other men and did not
+* `b2 ch85:284` - *Sang-hoon was by the window with two other men and did not
   turn round.*
 * `b2 ch85:284` - *One of them was Park Sang-hoon, **who had not said a word to
   him all evening**.* (zu Georgij, nicht zu Choi)
-* `b2 ch87:180` - ***Park Sang-hoon left last of the men and left at eleven.***
+* `b2 ch87:206` - ***Park Sang-hoon left last of the men and left at eleven.***
 
 **Chois elf Minuten und Sang-hoons elf Uhr liegen nebeneinander.** Die Szene
 gehoert dazwischen, in den Gang oder an die Wagen.
 
-**Und Georgij ist nicht dabei** - `b2 ch86:552`: *He went up the passage.*
+**Und Georgij ist nicht dabei** - `b2 ch86:454`: *He went up the passage.*
 **Das ist der Gewinn und nicht das Problem:** der Leser bekommt Chois
 Schaetzung, und Georgij bekommt sie nie. Das Buch erzaehlt an dieser Stelle
 ohnehin schon ohne ihn, vier Zeilen weiter.
@@ -18669,7 +18677,7 @@ stop having to think about it."*
 have ever been able to pay* heisst nicht *zu teuer fuer mich*. Es heisst,
 **dass es nie in Geld war.**
 
-**Und das steht drei Seiten vorher, aus Georgijs Mund**, `b2 ch86:310`:
+**Und das steht drei Seiten vorher, aus Georgijs Mund**, `b2 ch86:260`:
 *"You do not carry anything yourself."* **Was dieser Mann kostet, ist
 Tragen** - und Choi hat in fuenfundzwanzig Jahren nie in dieser Waehrung
 gezahlt.
@@ -18686,7 +18694,7 @@ not a number."* ist eine Feststellung und keine Frage.
 ## Die Krämerzahl und die zweite Frau, geprüft am 29.08.
 
 **Vom Autor gefunden:** Ahn Jung-hee und Moon Hae-sook sind im selben Haus
-(`b2 ch59:154`: *a woman in **the same building** who has been there eleven
+(`b2 ch59:226`: *a woman in **the same building** who has been there eleven
 years*), Ahn seit vier Jahren, Moon seit elf. **Dann müsste die Bestellung
 für elf reichen und nicht für zehn.**
 
@@ -18738,7 +18746,7 @@ oeffentliche Datensatz endet bei der Zulassung des Unternehmens. Alles andere
 ueber sie laeuft durch einen Kanal, der gebaut ist, um kein Haushaltsbeleg zu
 sein.
 
-**`b2 ch59:238` sagt es bereits:** *There is no line anywhere on the other
+**`b2 ch59:310` sagt es bereits:** *There is no line anywhere on the other
 woman. Not one. That is not an oversight and it is not carelessness.*
 **Auch nicht in der Küche.**
 
@@ -20542,7 +20550,7 @@ es kommt, und wenn Woo Anteile hinterlaesst, arbeitet sie fuer Georgij, ohne
 es zu wissen.
 
 **Ihre Zeile bleibt damit unbeantwortet, und das ist die Absicht.**
-`b2 ch87:254`, woertlich und mit dem Begleitsatz, der das Zitat teilt:
+`b2 ch87:280`, woertlich und mit dem Begleitsatz, der das Zitat teilt:
 
 > **"I want my firm," said Nam Byung-hee. "I am not going to get it, and there
 > is nobody in this house who can give it to me, and I would not take it from
@@ -20627,7 +20635,7 @@ geht der Mann, der nichts besitzt, als einziger unbeschaedigt hinaus.**
 | `b1 ch25:240` | 59 | *My wife has asked me twice who you were* |
 | `b1 ch26:180` | 66 | *in a way I can repeat to my wife* |
 | `b2 ch24:16` | **230** | *I told my wife you would and she said you would not* |
-| `b2 ch69:152` | **434** | *I have not had a real conversation with him **since my wife died*** |
+| `b2 ch69:156` | **434** | *I have not had a real conversation with him **since my wife died*** |
 | `b2 ch77:198` | 464 | *the worst four days I have had **since my wife*** |
 
 **Zwischen dem 21. Mai und dem 11. Dezember 2026 stirbt sie.** Das Buch zeigt
@@ -20637,7 +20645,7 @@ einzigen Mann, der ihm etwas geschenkt hat.**
 ### Entschieden am 29.08., und der Text hatte die Antwort schon
 
 **Es war kein Versehen, und es war auch nicht so, dass niemand es ihm gesagt
-haette. Woo hat es ihm gesagt** - `b2 ch69:152`, am elften Dezember:
+haette. Woo hat es ihm gesagt** - `b2 ch69:156`, am elften Dezember:
 
 > "The third is alive. **I have not had a real conversation with him since my
 > wife died.**" Woo looked at the photograph of the fourteen metres. "Nobody
@@ -20906,7 +20914,7 @@ schmaler begruendet und dadurch schaerfer.
 **Der erste Umbau hatte die Guidance-Frage am Anfang, und der Autor hat sie
 ans Ende gestellt: sie ist der Finisher, am Anfang ist sie schwach.** Die
 Vorbilder geben ihm recht - bei Choi sitzt die toedliche Guidance-Bitte
-spaet (`b2 ch86:506`), bei Sang-hoon kommt *Please guide me* als zweite
+spaet (`b2 ch86:420`), bei Sang-hoon kommt *Please guide me* als zweite
 Bitte (`b1 ch33:138`). **Und die Burnt-Zeile ist zurueck, vom Autor:** sie
 fuettert den Brennholz-Schluss, und *I did enough of it* kalibriert sie
 danach exakt. **Und sie wird leise wuetend gesprochen und nicht
@@ -20988,7 +20996,7 @@ selbst aus, was mit ihm geschieht, wenn Georgij sich Muehe gibt.
 
 **Und der Staatsanwalt steht jetzt so hoch, wie er im Buch tatsaechlich
 steht.** *Which men in this country sat down to dinner together* ist gedeckt:
-`b2 ch86:172` - *you have spent twenty-five years arranging things so that
+`b2 ch86:138` - *you have spent twenty-five years arranging things so that
 other people carry the weight and you carry none of it*; `b2 ch31:38` - er ist
 der, der andere telefonieren laesst und nie im Raum ist. **Die elf sind
 woertlich belegt**, `b2 ch34:46` und `b2 ch34:50`: elf Namen, gegen jeden eine
@@ -21431,7 +21439,7 @@ etwas schuldet.
 
 ### Und das ist der Grund, es zu tun: er wird angreifbar
 
-`b2 ch87:390`, seine eigene Regel: *A handle is a house that can be asked and
+`b2 ch87:434`, seine eigene Regel: *A handle is a house that can be asked and
 a book that can be opened.*
 
 **In dem Augenblick, in dem er eingetragener Anteilseigner eines Terminals
@@ -21899,9 +21907,15 @@ die Antwort ist falsch, **und alle im Raum wissen es und keiner sagt es** -
 weil man so etwas nicht sagt. **Und genau die Hoeflichkeit, die ihn zwei
 Jahrzehnte geschuetzt hat, ist die, an der er in dem Augenblick verblutet.**
 
-**Georgij hat den Raum eingerichtet.** `b2 ch86:506` steht dafuer schon Modell:
-*"I would like your guidance, since you are the expert in the room and I am
-only the one who arranged it."*
+**Georgij hat den Raum eingerichtet.** `b2 ch86:420` steht dafuer schon Modell:
+*"Please guide me," said Georgij. "How does a man with nothing left escape a
+thing he cannot see coming?"*
+
+**Berichtigt am 09.09.** Hier stand *"I would like your guidance, since you
+are the expert in the room and I am only the one who arranged it."* **Den Satz
+gibt es im Buch nicht**, in keinem der drei Baende; er war eine Zusammenfassung,
+die als Zitat gesetzt war. Dieselbe Klasse hat `doc/12` bei Sang-hoons
+Protokollsatz schon einmal aufgeraeumt.
 
 ### Und die Rede trifft ihn genau da
 
@@ -22068,7 +22082,7 @@ gefallen.** Nachgesehen ueber alle hundertdreiundzwanzig Kapitel: **keine
 einzige Stelle.** Die Maechtigen im Buch reden ueber sie mit Respekt oder
 neutral, und die beiden gefaehrlichsten tun es ausdruecklich - `b2 ch78:254`,
 Sang-hoon: *a woman who has never once needed a reason for anything.*
-`b2 ch86:352`, Choi: *"She did the opposite of you in one morning, in front of
+`b2 ch86:294`, Choi: *"She did the opposite of you in one morning, in front of
 a woman who could do nothing for her at all."*
 
 **Es braucht also gar keine Mechanik.** Ein Mann, der zwei Baende lang alles
@@ -22706,12 +22720,12 @@ in `b2 ch39`. Danach kommt es nicht mehr vor.
 * Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**:
   **eine Private-Equity-Gesellschaft in Hongkong.**
 * Dahinter: *nothing whatsoever, because that is what it is for*
-  (`b1 ch13:208`).
+  (`b1 ch13:98`).
 
 `b1 ch13:98`: *So he had a company behind a chain behind a fund.*
 `b1 ch13:100`: **He had no person at all.**
 
-**Der Anteil.** `b1 ch19:162`, Woo: *"**Twenty per cent of this** has been
+**Der Anteil.** `b1 ch19:166`, Woo: *"**Twenty per cent of this** has been
 owed since the year I built it, to a fund I could not fund it without. It
 came out of a chain of law firms in Singapore."* Und `b1 ch19:166`: *"I have
 never had a name and I have never asked for one."*
@@ -24691,7 +24705,7 @@ Besitz einen Gefallen zu tun.** Und er hat zwei Jahre lang nichts davon
 gewusst.
 
 **Es ist ihr zweiter Gefallen an ihn, nicht der erste - vom Autor am 29.08.
-berichtigt.** Der erste liegt am allerersten Abend: `b1 ch02:192`, die
+berichtigt.** Der erste liegt am allerersten Abend: `b1 ch02:232`, die
 Nagelschere durch das Auge des Wachmanns, in der ersten Stunde des
 Besitzens. **Sie hat es uebersehen und sich darum gekuemmert** - *"A fair
 point," she said. "He was mediocre at best."* (`b1 ch02:232`).
@@ -24817,7 +24831,7 @@ Ende auch die Macht des Namens. Er behaelt nur die Silben an der Tuer.
 
 | Band | Empfaenger | Was die Frage tut |
 |---|---|---|
-| 2 | Choi (`b2 ch86:82`) | **eine echte Frage** - *Who should I be careful of?* Er haette antworten koennen |
+| 2 | Choi (`b2 ch86:78`) | **eine echte Frage** - *Who should I be careful of?* Er haette antworten koennen |
 | 3 | der Hanseong-Erbe | **eine Selbstbeschreibung als Frage.** Er kann nicht antworten, ohne sie zu bestaetigen |
 | 5 | der Warlord | **die Exekution als Frage.** Die Antwort ist der Vollzug |
 
@@ -25362,7 +25376,7 @@ fuenfundzwanzig Jahre gehoeren der Zollsache von 2002 (`b2 ch69:242`).
 **Zwei verschiedene Rechnungen, die ich zusammengezogen hatte.**
 
 **7. *Be careful in the rooms you should not be in. I did tell you.***
-`b1 ch19:382`: *"That is the only trick you have got, and it is a very good
+`b1 ch31:382`: *"That is the only trick you have got, and it is a very good
 one, and one day it is going to get you into a room you should not be in."*
 **Der letzte Satz des Briefes ist ein Rueckruf auf den ersten Rat, den er ihm
 je gegeben hat** - und in Band 5 stimmt er.
@@ -25453,7 +25467,7 @@ beide Baende und wird nie geoeffnet.
 
 | Wo | Was dort steht |
 |---|---|
-| `b1 ch13:96` | Ein Fonds, dessen wirtschaftlich Berechtigte in eine Kette von Kanzleien in Singapur laufen **und dort aufhoeren** |
+| `b1 ch13:208` | Ein Fonds, dessen wirtschaftlich Berechtigte in eine Kette von Kanzleien in Singapur laufen **und dort aufhoeren** |
 | `b1 ch13:208` | *"The filings end in Singapore, and behind Singapore there is a company in Hong Kong."* |
 | `b1 ch13:210` | **Chairman Woo reagiert nicht auf Hongkong**, und das ist eine eigene Zeile |
 | `b1 ch19:162` | Woo: zwanzig Prozent des Terminals schuldet er seit dem Baujahr einem Fonds aus derselben Kette |
@@ -28015,7 +28029,7 @@ das war die schwerere Arbeit.
 
 Sein Verfahren war zwei Baende lang, zwei Papiere nebeneinanderzulegen, die
 nie fuereinander gedacht waren, und die trotzdem uebereinstimmen
-(`b2 ch40:222`). **Das setzt voraus, dass sie von Leuten geschrieben wurden,
+(`b2 ch40:30`). **Das setzt voraus, dass sie von Leuten geschrieben wurden,
 die keinen Grund zu luegen hatten.** In diesem Konzern haben alle einen.
 **Zwei erfundene Papiere stimmen auch ueberein.**
 
@@ -30039,7 +30053,7 @@ stand, weil nie eine stattgefunden hat.**
 
 **Und das ist besser als Gewalt, weil es unbeantwortbar ist.** Eine Bande kann
 einen Mann toeten. **Sie kann kein Dokument aus einer Reihe nehmen**
-(`b2 ch59:102`, `b2 ch87:350`: *it cannot be sealed and it cannot be
+(`b2 ch59:102`, `b2 ch87:376`: *it cannot be sealed and it cannot be
 withdrawn*).
 
 ## Die Genehmigungspflicht ist keine Lizenz, sondern eine Buchfuehrung
@@ -30279,7 +30293,7 @@ Stelle.
 
 **Am 29.08. richtiggestellt: Hwang ist kein Pruefer von aussen. Er hat den
 Handel verwaltet.** `b2 ch07:30`: *"He was Mr Hwang then and he is Mr Hwang
-now, and in between he was **Mr Hwang at three other houses**."* `b2 ch59:178`:
+now, and in between he was **Mr Hwang at three other houses**."* `b2 ch59:250`:
 *"**I am the administrator of a house** that is going to be gone by
 Christmas."* Und `b2 ch35:340`: er wurde in ein Haus geholt, **das schon starb
 und es noch nicht wusste.**
@@ -30460,7 +30474,7 @@ erklaert es ihm.**
 
 ## Zweitens: Choi hat den Grund geliefert, warum er nicht toetet
 
-`b2 ch86:166` und `:172`:
+`b2 ch86:134` und `:172`:
 
 > "Because it would be one-sided," said Georgij. ... "**A killing is quick,
 > and it is private.** It would let you finish exactly the way you have lived,
@@ -30518,7 +30532,7 @@ The last thing he saw was a face that had not moved.
 
 ## Was daran haengt
 
-**Das Fragezeichen ist richtig und es ist belegt.** `b2 ch86:82`: *"Please
+**Das Fragezeichen ist richtig und es ist belegt.** `b2 ch86:78`: *"Please
 guide me," said Georgij. "Who should I be careful of?"* - **Zeichen, bei
 voller Macht.** Und `b2 ch86:162` schreibt die Regel sogar aus: *He asked it
 with the mark on the end of it, and it is the first question anybody has asked
@@ -30531,7 +30545,7 @@ Augenblick beginnen. Es ist eine Vorhersage ueber etwas, das der Sprecher
 selbst herbeifuehrt, und darum keine Luege.
 
 **Der Blick nach oben ist die Oeffnung, und das Buch hat das Mass dafuer
-schon gesetzt.** `b2 ch86:90`: *He did not answer for about three seconds,
+schon gesetzt.** `b2 ch86:82`: *He did not answer for about three seconds,
 **and the three seconds are the whole of it.*** **Dasselbe Intervall, anders
 gefuellt.** Es darf nirgends darauf gezeigt werden.
 
@@ -30654,7 +30668,7 @@ alles.
 
 **Das Haus registriert seit zwei Baenden, was mit ihm los ist, ohne dass es
 jemand ausspricht.** Mrs Seo hat elf Minuten in einer Kueche abgezaehlt
-(`b2 ch86:556`). Ji-won hat ein Licht gebracht, das keiner brauchte
+(`b2 ch86:456`). Ji-won hat ein Licht gebracht, das keiner brauchte
 (`b1 ch03:90`). Jang stand in der Halle, **ohne dass er dort sein musste**
 (`b1 ch33:12`).
 
@@ -31678,19 +31692,40 @@ nicht wie ein Feind behandelt werden muss?
 
 ### Arbeitsrichtung fuer den Gegner
 
-**Ein Gesicht braucht der Kreis trotzdem.** Arbeitsrichtung: ein alter
-Chairman, der die ungeschriebene Chaebol-Regel verkoerpert und persoenlich
-nicht dumm genug ist, Georgij zu unterschaetzen. Default ist ein neues,
-groesseres Haus. Kyeongil ist nur brauchbar, wenn es spaeter bewusst als
-respektables altes Haus mit echter Reichweite aufgebaut wird; als
-Lane-Randnotiz traegt es den Schluss nicht. Nam ist fuer diese Funktion
-gesperrt, weil Nam Annie gehoert.
+**Ein Gesicht braucht der Kreis trotzdem.** Arbeitsname: **Chairman Yu
+Beom-seok**. Der Name ist noch austauschbar; die Funktion sitzt. Yu ist ein
+alter Chairman aus einem groesseren Haus, das nicht wie ein direkter
+Lane-Kleingegner wirkt. Seine Staerke liegt in Reichweite: Banken,
+Versicherer, Kunden, Ausschuesse, ehemalige Ministeriumsraeume und alte
+Familienkontakte hoeren ihn, ohne dass er ihnen Befehle geben muss.
+
+**Yu ist nicht der Boss aller alten Haeuser.** Er ist das sichtbare Gesicht
+einer gemeinsamen Lesart. Andere alte Haeuser handeln nicht fuer ihn, sondern
+in dieselbe Richtung. Das haelt den Gegner gross: Wenn Yu faellt, ist nicht
+automatisch jeder Druck verschwunden; aber wenn Georgij ihn sauber widerlegt,
+bricht die hoefliche Form des Angriffs.
 
 **Dieser Mann greift nicht Annie als Mutter an.** Er greift Georgijs
-Legitimität an: Herkunft, Eigentum, Gewaltgeschichte, Unterweltgeruecht,
-Konzentration, Kontrollwechsel. Er will nicht Annie ruinieren. Er will sie
+Legitimitaet an: Herkunft, Eigentum, Gewaltgeschichte, Unterweltgeruecht,
+Konzentration, Kontrollwechsel. Er will Annie nicht ruinieren. Er will sie
 zwingen, Georgij aus der Fuehrung herauszunehmen oder Teile des neuen Hauses
 unter alte Aufsicht zu stellen.
+
+**Seine Beleidigung ist Hoefflichkeit.** Yu behandelt Annie als Haus und
+Georgij als schwierigen, begabten Mann im Haus. Er nennt ihn nicht Mutt, Dog
+oder Upstart; das waere Han. Yu ist gefaehrlicher, weil er Georgij korrekt
+anspricht und ihn trotzdem wie ein Risiko behandelt, das man versichern,
+beaufsichtigen und aus bestimmten Raeumen entfernen sollte.
+
+**Yu darf keinen billigen Fehler machen.** Keine Drohung gegen Kind,
+Krankenhaus oder Zuhause. Keine plumpe Bestechung. Keine offene
+Unterwelt-Erpressung. Er muss formal so sauber bleiben, dass Georgij ihn nicht
+einfach wie Choi, Han oder Maeng behandeln kann.
+
+**Sein Irrtum:** Yu glaubt, Struktur koenne Georgij einhegen, weil er Georgij
+als Gefahr innerhalb von Annies Haus liest. Er versteht zu spaet, dass Georgij
+selbst die Struktur ist, durch die Annie Liebe, Kind und Haus gleichzeitig
+halten will.
 
 ### Warum er handelt
 

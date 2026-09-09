@@ -76,7 +76,11 @@ Sie stehen unten in ihrem eigenen Register und sind bisher zu dünn gesät.
 
 **Akt I von Band 3 bekommt keine grosse Szene, entschieden vom Autor am 06.09.** Die letzte war `b2 ch90` am 16. Mai 2027, Akt I sind elf Kapitel, und elf ist die Haelfte der Kadenz. Was Akt I bekommt, sind die kleinen Dinge und der Platz.
 
-**Und der Platz war weg.** In `b2 ch90` endet der Band damit, dass er an der Seite des Schreibtischs hinuntergeht. Zwei Tage spaeter faengt Akt I an, und in **neun Schreibtischszenen ueber hundertdreiundsechzig Tage** kam er kein einziges Mal vor; stattdessen stand dreimal ausdruecklich, dass Georgij steht. Gemessen am 06.09.: *which is where he sits*, *with his back against it*, *at the side of the desk* und *into his hair* stehen zusammen **dreissigmal in Band 2 und keinmal in Band 3**. Das ist keine fehlende Szene, das ist eine fehlende Tatsache des Zimmers.
+**Und der Platz war weg.** In `b2 ch90` endet der Band damit, dass er an der Seite des Schreibtischs hinuntergeht. Zwei Tage spaeter faengt Akt I an, und in **neun Schreibtischszenen ueber hundertdreiundsechzig Tage** kam er kein einziges Mal vor; stattdessen stand dreimal ausdruecklich, dass Georgij steht. Gemessen am 06.09.: *which is where he sits*, *with his back against it*, *at the side of the desk* und *into his hair* standen zusammen **dreissigmal in Band 2 und keinmal in Band 3**. Das ist keine fehlende Szene, das ist eine fehlende Tatsache des Zimmers.
+
+**Nachgemessen am 09.09., und der Satz darueber ist zweimal ueberholt.** Band 2 hat weiterhin dreissig. **Akt I hat neun**, und Akt I ist seit dem 06.09. nicht angefasst worden: die Messung von damals hat die Luecke gefunden, dieselbe Sitzung hat sie geschlossen, und der Befund ist stehengeblieben, als gaelte er noch. Akt II und III haben sechs, alle sechs *at the side of the desk*.
+
+**Und die zweite Zahl aendert die Deutung: Band 1 hat null.** Keine der vier Wendungen kommt dort auch nur einmal vor. Sie sind in Band 2 entstanden. **Ein Band ohne sie ist deshalb kein Rueckschritt, sondern der Zustand von Band 1**, und wer sie das naechste Mal vermisst, zaehlt zuerst nach, seit wann es sie gibt.
 
 ---
 
@@ -557,9 +561,9 @@ Bemerkenswert ist das Weinen.**
 
 ### Es geschieht an seinem Platz, und den kennt der Leser zehnmal
 
-*which is where he sits* steht **sechsmal** woertlich im Buch: auf dem
+*which is where he sits* steht **neunmal** woertlich im Buch: auf dem
 Teppich, seitlich vom Schreibtisch, mit dem Ruecken an den Schubladen
-(`b2 ch09:280`, `b2 ch15:210`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch90:24`). **Dazu vier weitere Stellen ohne
+(`b2 ch09:280`, `b2 ch15:186`, `b2 ch19:280`, `b2 ch54:528`, `b2 ch58:98`, `b2 ch90:24`, `b3 ch01:124`, `b3 ch03:286`, `b3 ch11:232`). **Nachgezaehlt am 09.09.: es waren sechs, und Band 3 hat drei hinzugefuegt.** Dasselbe Blatt haelt weiter oben fest, die Formel stehe in Band 3 keinmal; das galt bis zum 06.09. und gilt nicht mehr. **Dazu vier weitere Stellen ohne
 die Formel** - `b2 ch32:282`, `b2 ch42:212`, `b2 ch66:302`, `b2 ch87:478`.
 
 **Also derselbe Boden, dasselbe Zimmer, dieselbe Haltung. Eine Sache anders.**

@@ -254,19 +254,40 @@ nicht wie ein Feind behandelt werden muss?
 
 ### Arbeitsrichtung fuer den Gegner
 
-**Ein Gesicht braucht der Kreis trotzdem.** Arbeitsrichtung: ein alter
-Chairman, der die ungeschriebene Chaebol-Regel verkoerpert und persoenlich
-nicht dumm genug ist, Georgij zu unterschaetzen. Default ist ein neues,
-groesseres Haus. Kyeongil ist nur brauchbar, wenn es spaeter bewusst als
-respektables altes Haus mit echter Reichweite aufgebaut wird; als
-Lane-Randnotiz traegt es den Schluss nicht. Nam ist fuer diese Funktion
-gesperrt, weil Nam Annie gehoert.
+**Ein Gesicht braucht der Kreis trotzdem.** Arbeitsname: **Chairman Yu
+Beom-seok**. Der Name ist noch austauschbar; die Funktion sitzt. Yu ist ein
+alter Chairman aus einem groesseren Haus, das nicht wie ein direkter
+Lane-Kleingegner wirkt. Seine Staerke liegt in Reichweite: Banken,
+Versicherer, Kunden, Ausschuesse, ehemalige Ministeriumsraeume und alte
+Familienkontakte hoeren ihn, ohne dass er ihnen Befehle geben muss.
+
+**Yu ist nicht der Boss aller alten Haeuser.** Er ist das sichtbare Gesicht
+einer gemeinsamen Lesart. Andere alte Haeuser handeln nicht fuer ihn, sondern
+in dieselbe Richtung. Das haelt den Gegner gross: Wenn Yu faellt, ist nicht
+automatisch jeder Druck verschwunden; aber wenn Georgij ihn sauber widerlegt,
+bricht die hoefliche Form des Angriffs.
 
 **Dieser Mann greift nicht Annie als Mutter an.** Er greift Georgijs
-Legitimität an: Herkunft, Eigentum, Gewaltgeschichte, Unterweltgeruecht,
-Konzentration, Kontrollwechsel. Er will nicht Annie ruinieren. Er will sie
+Legitimitaet an: Herkunft, Eigentum, Gewaltgeschichte, Unterweltgeruecht,
+Konzentration, Kontrollwechsel. Er will Annie nicht ruinieren. Er will sie
 zwingen, Georgij aus der Fuehrung herauszunehmen oder Teile des neuen Hauses
 unter alte Aufsicht zu stellen.
+
+**Seine Beleidigung ist Hoefflichkeit.** Yu behandelt Annie als Haus und
+Georgij als schwierigen, begabten Mann im Haus. Er nennt ihn nicht Mutt, Dog
+oder Upstart; das waere Han. Yu ist gefaehrlicher, weil er Georgij korrekt
+anspricht und ihn trotzdem wie ein Risiko behandelt, das man versichern,
+beaufsichtigen und aus bestimmten Raeumen entfernen sollte.
+
+**Yu darf keinen billigen Fehler machen.** Keine Drohung gegen Kind,
+Krankenhaus oder Zuhause. Keine plumpe Bestechung. Keine offene
+Unterwelt-Erpressung. Er muss formal so sauber bleiben, dass Georgij ihn nicht
+einfach wie Choi, Han oder Maeng behandeln kann.
+
+**Sein Irrtum:** Yu glaubt, Struktur koenne Georgij einhegen, weil er Georgij
+als Gefahr innerhalb von Annies Haus liest. Er versteht zu spaet, dass Georgij
+selbst die Struktur ist, durch die Annie Liebe, Kind und Haus gleichzeitig
+halten will.
 
 ### Warum er handelt
 

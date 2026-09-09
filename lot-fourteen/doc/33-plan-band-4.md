@@ -1843,7 +1843,7 @@ das war die schwerere Arbeit.
 
 Sein Verfahren war zwei Baende lang, zwei Papiere nebeneinanderzulegen, die
 nie fuereinander gedacht waren, und die trotzdem uebereinstimmen
-(`b2 ch40:222`). **Das setzt voraus, dass sie von Leuten geschrieben wurden,
+(`b2 ch40:30`). **Das setzt voraus, dass sie von Leuten geschrieben wurden,
 die keinen Grund zu luegen hatten.** In diesem Konzern haben alle einen.
 **Zwei erfundene Papiere stimmen auch ueberein.**
 

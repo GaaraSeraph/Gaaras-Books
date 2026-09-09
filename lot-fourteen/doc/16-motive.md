@@ -808,6 +808,10 @@ Mengenangabe.**
 260. **NACH DER GEBURT WIEDERHOLT SICH DER SATZ:** Bank fragt nach Covenants und Vertretungslinien; Versicherer nach Shipping-/Industrieanlagenrisiko; Hanseong-Reste oder Minderheiten legen Beschwerdematerial nach. Jeder Stoss ist fuer sich plausibel, zusammen sind sie eine Lesart.
 261. **DER ALTE CHAIRMAN KOMMT ERST DANACH:** Er droht nicht, sondern bietet Hilfe an: Industrieaufsicht, Stabilitaetskreis, Senior Trustee, Courtesy zwischen Haeusern. Dadurch wird klar, dass die vorherigen Schreiben nicht derselbe Absender waren, aber dieselbe Richtung hatten.
 262. **GEORGIJS GEGNER IST EINE MEINUNG:** Er kaempft nicht gegen einen boesen Brief, sondern gegen eine glaubwuerdige Meinung ueber ihn. Drohung bestaetigt sie; Annie allein bestaetigt, dass er nicht tragen darf; Georgij allein bestaetigt, dass Annie nach Geburt aus Raeumen verschwindet. Antwort: Taktung und Struktur.
+263. **BAND-6-GESICHT ARBEITSNAME YU BEOM-SEOK:** Yu ist ein alter Chairman aus einem groesseren Haus, mit Reichweite in Banken, Versicherern, Kunden, Ausschuesse, ehemalige Ministeriumsraeume und Familienkontakte. Er ist nicht Boss aller alten Haeuser, sondern das sichtbare Gesicht derselben Lesart.
+264. **YU UND DER PRAEZEDENZFALL:** Er will nicht Annies Besitz stehlen und nicht ihr Kind bedrohen. Er will verhindern, dass Annies Haus den Hanseong-Praezedenzfall normalisiert: alte Namen koennen mit Wahrheit, Staat, Boerse, Sanierung und Unterweltordnung vollstaendig entkernt werden.
+265. **YUS BELEIDIGUNG IST HOEFFLICHKEIT:** Er nennt Georgij nicht Mutt, Dog oder Upstart. Er behandelt ihn korrekt und gerade dadurch herabsetzend: als begabtes Risiko in Annies Haus, das beaufsichtigt, versichert und aus bestimmten Raeumen entfernt werden sollte.
+266. **YU DARF KEIN BILLIGER SCHURKE WERDEN:** Keine Drohung gegen Kind, Krankenhaus oder Zuhause; keine plumpe Bestechung; keine offene Unterwelt-Erpressung. Er muss formal sauber bleiben, damit Georgij ihn nicht mit einem einfachen Choi/Han/Maeng-Zug erledigen kann.
 
 ---
 
@@ -864,7 +868,7 @@ Georgij Annie, einen Tisch und zwei Stuehle zu schicken, und muss vor ihr
 aussprechen, warum: *"It makes it a chair." / "It makes it a chair that went
 before I wanted anything."*
 
-**3. `b2 ch59:26`, Tag 377.** *Georgij sat down.* **Ein Satz, kein Kommentar.**
+**3. `b2 ch59:154`, Tag 377.** *Georgij sat down.* **Ein Satz, kein Kommentar.**
 Erst am Ende desselben Gespraechs benennt Hwang es, und zwar bevor er
 unterschreibt und nicht danach: *"I want it said before I do the thing you
 came here for, because afterwards it will look like the reason."*

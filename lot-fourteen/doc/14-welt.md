@@ -513,8 +513,8 @@ nicht.
 | **Neun Institute** im Syndikat | `b1 ch13:94` |
 | Drei davon gross genug fuer eine interne Freigabe, **keines veroeffentlicht den Namen darunter** | `b1 ch13:94` |
 | Zwei davon gewoehnliche Haeuser, **das dritte ein Fonds** | `b1 ch13:96` |
-| Dessen **beneficial ownership** laeuft in eine **Kette von Kanzleien in Singapur** und hoert dort auf | `b1 ch13:96` |
-| Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**: eine **Private-Equity-Gesellschaft in Hongkong** | `b1 ch13:96` |
+| Dessen **beneficial ownership** laeuft in eine **Kette von Kanzleien in Singapur** und hoert dort auf | `b1 ch13:100` |
+| Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**: eine **Private-Equity-Gesellschaft in Hongkong** | `b1 ch13:100` |
 | Dahinter *nothing whatsoever, because that is what it is for* | `b1 ch13:208` |
 | *So he had a company behind a chain behind a fund.* **He had no person at all.** | `b1 ch13:98/100` |
 | **Vierhundert Milliarden Won** hat der Mann geliehen | `b2 ch69:92` |
@@ -534,8 +534,8 @@ nicht.
 
 | Was | Beleg |
 |---|---|
-| Drei im Raum: zwei Anwaelte, deren Namen Woo **absichtlich vergessen** hat | `b1 ch13:186` |
-| Der dritte fuehrte das Wort: **etwa fuenfzig, Hongkong-Akzent im Englischen, keiner im Koreanischen** | `b1 ch13:186` |
+| Drei im Raum: zwei Anwaelte, deren Namen Woo **absichtlich vergessen** hat | `b1 ch13:190` |
+| Der dritte fuehrte das Wort: **etwa fuenfzig, Hongkong-Akzent im Englischen, keiner im Koreanischen** | `b1 ch13:190` |
 | **Gab niemandem eine Karte.** *He was not that sort* | `b1 ch13:190` |
 | Fragte **eine** Frage: *what would happen to the terminal if I died on the Tuesday* | `b1 ch13:190` |
 | Woos Antwort: *sold within a year and split three ways and probably one of the three would be Sang-hoon* | `b1 ch13:194` |
@@ -594,7 +594,7 @@ schmutzigsten Sache im Land**, und beides ist wahr.
 * Er hat bei *Hongkong* nicht gezuckt, weil er im Zusagejahr die **Sorte**
   Geld erkannt hat und nicht die Leute: *a man does not ask when the money is
   already in the concrete.*
-* **Und er hat es nie aufgeloest, weil es nicht aufgeht.** `b1 ch31:368`:
+* **Und er hat es nie aufgeloest, weil es nicht aufgeht.** `b1 ch31:364`:
   *"I have never known what to do with the fact that the best thing anybody
   ever did for me took him nine seconds."* Der Bote war anstaendig, das Geld
   ist es nicht, und Woo hat die beiden nie zusammenbekommen. **Deshalb hat er
@@ -1262,7 +1262,7 @@ getrennte Auskuenfte, und nur die erste kommt im Oktober.
 
 **1. Wann die Reihe aufhoert: gesagt, ohne Datum, mit Zusage.**
 
-`b2 ch59:112`, 15. Oktober: *"it exists until somebody signs it over to an
+`b2 ch59:144`, 15. Oktober: *"it exists until somebody signs it over to an
 archive or to a successor... a fund is in no hurry, and nobody has told me the
 morning."* Georgij bittet: *"I would like it before the envelope."* Hwang sagt
 zu: *"On the day I have it."*

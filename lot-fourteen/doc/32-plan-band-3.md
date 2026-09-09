@@ -1777,7 +1777,7 @@ es kommt, und wenn Woo Anteile hinterlaesst, arbeitet sie fuer Georgij, ohne
 es zu wissen.
 
 **Ihre Zeile bleibt damit unbeantwortet, und das ist die Absicht.**
-`b2 ch87:254`, woertlich und mit dem Begleitsatz, der das Zitat teilt:
+`b2 ch87:280`, woertlich und mit dem Begleitsatz, der das Zitat teilt:
 
 > **"I want my firm," said Nam Byung-hee. "I am not going to get it, and there
 > is nobody in this house who can give it to me, and I would not take it from
@@ -1862,7 +1862,7 @@ geht der Mann, der nichts besitzt, als einziger unbeschaedigt hinaus.**
 | `b1 ch25:240` | 59 | *My wife has asked me twice who you were* |
 | `b1 ch26:180` | 66 | *in a way I can repeat to my wife* |
 | `b2 ch24:16` | **230** | *I told my wife you would and she said you would not* |
-| `b2 ch69:152` | **434** | *I have not had a real conversation with him **since my wife died*** |
+| `b2 ch69:156` | **434** | *I have not had a real conversation with him **since my wife died*** |
 | `b2 ch77:198` | 464 | *the worst four days I have had **since my wife*** |
 
 **Zwischen dem 21. Mai und dem 11. Dezember 2026 stirbt sie.** Das Buch zeigt
@@ -1872,7 +1872,7 @@ einzigen Mann, der ihm etwas geschenkt hat.**
 ### Entschieden am 29.08., und der Text hatte die Antwort schon
 
 **Es war kein Versehen, und es war auch nicht so, dass niemand es ihm gesagt
-haette. Woo hat es ihm gesagt** - `b2 ch69:152`, am elften Dezember:
+haette. Woo hat es ihm gesagt** - `b2 ch69:156`, am elften Dezember:
 
 > "The third is alive. **I have not had a real conversation with him since my
 > wife died.**" Woo looked at the photograph of the fourteen metres. "Nobody
@@ -2141,7 +2141,7 @@ schmaler begruendet und dadurch schaerfer.
 **Der erste Umbau hatte die Guidance-Frage am Anfang, und der Autor hat sie
 ans Ende gestellt: sie ist der Finisher, am Anfang ist sie schwach.** Die
 Vorbilder geben ihm recht - bei Choi sitzt die toedliche Guidance-Bitte
-spaet (`b2 ch86:506`), bei Sang-hoon kommt *Please guide me* als zweite
+spaet (`b2 ch86:420`), bei Sang-hoon kommt *Please guide me* als zweite
 Bitte (`b1 ch33:138`). **Und die Burnt-Zeile ist zurueck, vom Autor:** sie
 fuettert den Brennholz-Schluss, und *I did enough of it* kalibriert sie
 danach exakt. **Und sie wird leise wuetend gesprochen und nicht
@@ -2223,7 +2223,7 @@ selbst aus, was mit ihm geschieht, wenn Georgij sich Muehe gibt.
 
 **Und der Staatsanwalt steht jetzt so hoch, wie er im Buch tatsaechlich
 steht.** *Which men in this country sat down to dinner together* ist gedeckt:
-`b2 ch86:172` - *you have spent twenty-five years arranging things so that
+`b2 ch86:138` - *you have spent twenty-five years arranging things so that
 other people carry the weight and you carry none of it*; `b2 ch31:38` - er ist
 der, der andere telefonieren laesst und nie im Raum ist. **Die elf sind
 woertlich belegt**, `b2 ch34:46` und `b2 ch34:50`: elf Namen, gegen jeden eine
@@ -2666,7 +2666,7 @@ etwas schuldet.
 
 ### Und das ist der Grund, es zu tun: er wird angreifbar
 
-`b2 ch87:390`, seine eigene Regel: *A handle is a house that can be asked and
+`b2 ch87:434`, seine eigene Regel: *A handle is a house that can be asked and
 a book that can be opened.*
 
 **In dem Augenblick, in dem er eingetragener Anteilseigner eines Terminals
@@ -3134,9 +3134,15 @@ die Antwort ist falsch, **und alle im Raum wissen es und keiner sagt es** -
 weil man so etwas nicht sagt. **Und genau die Hoeflichkeit, die ihn zwei
 Jahrzehnte geschuetzt hat, ist die, an der er in dem Augenblick verblutet.**
 
-**Georgij hat den Raum eingerichtet.** `b2 ch86:506` steht dafuer schon Modell:
-*"I would like your guidance, since you are the expert in the room and I am
-only the one who arranged it."*
+**Georgij hat den Raum eingerichtet.** `b2 ch86:420` steht dafuer schon Modell:
+*"Please guide me," said Georgij. "How does a man with nothing left escape a
+thing he cannot see coming?"*
+
+**Berichtigt am 09.09.** Hier stand *"I would like your guidance, since you
+are the expert in the room and I am only the one who arranged it."* **Den Satz
+gibt es im Buch nicht**, in keinem der drei Baende; er war eine Zusammenfassung,
+die als Zitat gesetzt war. Dieselbe Klasse hat `doc/12` bei Sang-hoons
+Protokollsatz schon einmal aufgeraeumt.
 
 ### Und die Rede trifft ihn genau da
 
@@ -3303,7 +3309,7 @@ gefallen.** Nachgesehen ueber alle hundertdreiundzwanzig Kapitel: **keine
 einzige Stelle.** Die Maechtigen im Buch reden ueber sie mit Respekt oder
 neutral, und die beiden gefaehrlichsten tun es ausdruecklich - `b2 ch78:254`,
 Sang-hoon: *a woman who has never once needed a reason for anything.*
-`b2 ch86:352`, Choi: *"She did the opposite of you in one morning, in front of
+`b2 ch86:294`, Choi: *"She did the opposite of you in one morning, in front of
 a woman who could do nothing for her at all."*
 
 **Es braucht also gar keine Mechanik.** Ein Mann, der zwei Baende lang alles
@@ -3941,12 +3947,12 @@ in `b2 ch39`. Danach kommt es nicht mehr vor.
 * Dahinter, laut einer Meldung von **2021 zu einem ganz anderen Zweck**:
   **eine Private-Equity-Gesellschaft in Hongkong.**
 * Dahinter: *nothing whatsoever, because that is what it is for*
-  (`b1 ch13:208`).
+  (`b1 ch13:98`).
 
 `b1 ch13:98`: *So he had a company behind a chain behind a fund.*
 `b1 ch13:100`: **He had no person at all.**
 
-**Der Anteil.** `b1 ch19:162`, Woo: *"**Twenty per cent of this** has been
+**Der Anteil.** `b1 ch19:166`, Woo: *"**Twenty per cent of this** has been
 owed since the year I built it, to a fund I could not fund it without. It
 came out of a chain of law firms in Singapore."* Und `b1 ch19:166`: *"I have
 never had a name and I have never asked for one."*
@@ -5926,7 +5932,7 @@ Besitz einen Gefallen zu tun.** Und er hat zwei Jahre lang nichts davon
 gewusst.
 
 **Es ist ihr zweiter Gefallen an ihn, nicht der erste - vom Autor am 29.08.
-berichtigt.** Der erste liegt am allerersten Abend: `b1 ch02:192`, die
+berichtigt.** Der erste liegt am allerersten Abend: `b1 ch02:232`, die
 Nagelschere durch das Auge des Wachmanns, in der ersten Stunde des
 Besitzens. **Sie hat es uebersehen und sich darum gekuemmert** - *"A fair
 point," she said. "He was mediocre at best."* (`b1 ch02:232`).
@@ -6052,7 +6058,7 @@ Ende auch die Macht des Namens. Er behaelt nur die Silben an der Tuer.
 
 | Band | Empfaenger | Was die Frage tut |
 |---|---|---|
-| 2 | Choi (`b2 ch86:82`) | **eine echte Frage** - *Who should I be careful of?* Er haette antworten koennen |
+| 2 | Choi (`b2 ch86:78`) | **eine echte Frage** - *Who should I be careful of?* Er haette antworten koennen |
 | 3 | der Hanseong-Erbe | **eine Selbstbeschreibung als Frage.** Er kann nicht antworten, ohne sie zu bestaetigen |
 | 5 | der Warlord | **die Exekution als Frage.** Die Antwort ist der Vollzug |
 
@@ -6597,7 +6603,7 @@ fuenfundzwanzig Jahre gehoeren der Zollsache von 2002 (`b2 ch69:242`).
 **Zwei verschiedene Rechnungen, die ich zusammengezogen hatte.**
 
 **7. *Be careful in the rooms you should not be in. I did tell you.***
-`b1 ch19:382`: *"That is the only trick you have got, and it is a very good
+`b1 ch31:382`: *"That is the only trick you have got, and it is a very good
 one, and one day it is going to get you into a room you should not be in."*
 **Der letzte Satz des Briefes ist ein Rueckruf auf den ersten Rat, den er ihm
 je gegeben hat** - und in Band 5 stimmt er.
@@ -6688,7 +6694,7 @@ beide Baende und wird nie geoeffnet.
 
 | Wo | Was dort steht |
 |---|---|
-| `b1 ch13:96` | Ein Fonds, dessen wirtschaftlich Berechtigte in eine Kette von Kanzleien in Singapur laufen **und dort aufhoeren** |
+| `b1 ch13:208` | Ein Fonds, dessen wirtschaftlich Berechtigte in eine Kette von Kanzleien in Singapur laufen **und dort aufhoeren** |
 | `b1 ch13:208` | *"The filings end in Singapore, and behind Singapore there is a company in Hong Kong."* |
 | `b1 ch13:210` | **Chairman Woo reagiert nicht auf Hongkong**, und das ist eine eigene Zeile |
 | `b1 ch19:162` | Woo: zwanzig Prozent des Terminals schuldet er seit dem Baujahr einem Fonds aus derselben Kette |
