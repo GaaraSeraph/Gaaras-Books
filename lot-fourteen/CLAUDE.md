@@ -138,6 +138,42 @@ Baende und einem Inhaltsverzeichnis. Eine md-Datei bekommt man im Chat zum
 Herunterladen, eine HTML-Seite kann man aufmachen und lesen. Kanon bleiben
 `chapters/` und `chapters-2/`.
 
+### Alle Werkzeuge, und warum diese Liste vollstaendig ist
+
+**Am 10.09. sind drei Werkzeuge nachgebaut worden, die es gab.** `belege.py` prueft jedes englische Zitat der Dokumente gegen den Text und kennt die Vorschlagsbloecke; es wurde in drei Anlaeufen neu geschrieben und war am Ende schlechter. `alter.py` stellt jede Altersangabe neben den Tag, an dem sie faellt. `datumsprobe.py` prueft jedes Datum im Fliesstext gegen das Tagesregister.
+
+**Die Ursache war diese Datei:** sie nannte sieben Werkzeuge, und es gibt siebenundzwanzig. **Wer etwas pruefen will, sieht zuerst hier nach, ob es das schon gibt.**
+
+| | Was es tut |
+|---|---|
+| `abendbericht.py` | Welcher Abendbericht zahlt auf die Jagd ein und welcher wiederholt nur. |
+| `alter.py` | Jede Altersangabe neben dem Tag, an dem sie faellt. |
+| `anwesenheit.py` | prueft, ob die Zuege einer Figur in ihrer eigenen Rede |
+| `belege.py` | Belege pruefen: jedes englische Zitat in den Dokumenten muss im Text stehen. |
+| `build.py` | Lot Fourteen, Build. |
+| `check.py` | Lot Fourteen, mechanische Kapitelpruefung. |
+| `datumsprobe.py` | Jedes ausdrueckliche Datum im Fliesstext gegen das Tagesregister. |
+| `doppelt-im-kapitel.py` | Welcher Absatz sagt noch einmal, was ein frueherer schon gesagt hat. |
+| `doppelt.py` | was steht zweimal da, und welcher Gespraechszug laeuft immer gleich. |
+| `faktenspur.py` | Faktenspur: was hat ein Stildurchgang wirklich angefasst. |
+| `heft.py` | wird ins Heft geschrieben, oder wird etwas herausgeholt. |
+| `kalenderverweise.py` | Prueft die Kapitelverweise in `doc/15-kalender.md` gegen die Kapitel selbst. |
+| `kontinuitaet.py` | Kontinuitaetspruefungen ueber alle Baende, die check.py nicht macht. |
+| `kuerzen.py` | welche Kapitel sind Kuerzungskandidaten, und welche nicht. |
+| `plan.py` | Jedes Kapitel von Band 2 gegen seine Zielgroesse aus TEIL XII der CHOI-LISTEN. |
+| `reader.py` | Lot Fourteen, Lesefassungen als HTML. |
+| `register.py` | Das Tagesregister: welcher Erzaehltag steht in welchem Kapitel. |
+| `spanne.py` | Saetze, die zwei Daten nennen und den Abstand zwischen ihnen behaupten. |
+| `sprechbefehl.py` | wer im Buch befiehlt zu reden, und wie oft. |
+| `stimmen.py` | misst, wie verschieden die Figuren tatsaechlich reden. |
+| `szenen.py` | Das Geruest eines Kapitels: Tag, Szene, Umfang, Aufhaenger. |
+| `umgebung.py` | jede Sprechbefehl-Stelle mit ihren Nachbarzeilen. |
+| `umnummerieren.py` | Band 2 auf die Folge aus Teil XII bringen, durchnummeriert von 1. |
+| `verweise-nachziehen.py` | Die Kapitelverweise in doc/ auf die Nummerierung vom 27.08. ziehen. |
+| `wochentag.py` | Jede Stelle, an der der Text einen Wochentag an ein Datum bindet. |
+| `zusagen.py` | haelt fest, was im Text versprochen wurde, und was davon offen ist. |
+| `zuschreibung.py` | sucht Zuschreibungsfehler: eine Tat, ein Gefuehl oder ein |
+
 ---
 
 ## Zwei Baende

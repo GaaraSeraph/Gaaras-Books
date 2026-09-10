@@ -199,9 +199,13 @@ Arbeitsteilung: **lesen findet die Klasse, das Skript findet den Rest.**
 |---|---|---|
 | `werkzeug/check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
 | `werkzeug/zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
-| `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text, getrennt nach *ohne Beleg* / *alte Fassung* / *Vorschlag*; `--kapitel` zusätzlich die Kapitelnummer | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
+| `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text, getrennt nach *ohne Beleg* / *alte Fassung* / *Vorschlag*; `--kapitel` zusätzlich die Kapitelnummer, `--zeilen` ob die Zeilennummer eines Verweises überhaupt noch existiert | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
 | `werkzeug/faktenspur.py` | was ein Stildurchgang an Zahlen, Daten und Namen bewegt hat; `--seit <sha>` gegen den Stand vor dem Durchgang | **ja**, drei Proben, darunter eine reine Stiländerung, die schweigen muss |
 | `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | - |
+
+**`--zeilen` ist am 10.09. dazugekommen, und der Anlass ist ein Fund.** Am 09.09. waren nach neunzehn neuen Kapitelfassungen **acht Zeilennummern tot** und zeigten hinter das Dateiende. Kein Werkzeug hat es gemeldet, weil `--kapitel` die Kapitelnummer prüft und die Zeile nicht. **Die Prüfung braucht keine Paarung und kein Urteil**, und das ist ihr ganzer Wert: eine Zeile 210 in einer Datei mit 199 Zeilen ist tot, ohne dass jemand entscheiden muss, zu welchem Zitat sie gehört.
+
+**Und die Zuschreibung ist genau dort die Grenze.** Am 10.09. ist `belege.py` in drei Anläufen nachgebaut worden, ohne dass jemand nachgesehen hat, ob es das gibt. Der Nachbau schlug zweiundzwanzig Berichtigungen vor, **und alle zweiundzwanzig waren falsch**: er paarte ein Zitat mit der nächstgelegenen Fundstelle, und in einem Absatz, der eine Fundstelle für Tatsache A nennt und daneben Text B zitiert, ist die nächstgelegene die falsche. `belege.py --kapitel` meldet an derselben Stelle null. **Wer eine Sonde baut, sieht zuerst in die Werkzeugtabelle in `CLAUDE.md`.**
 
 **Die zwei stehenden `check.py`-Fehler sind geprüft und bleiben.** Sie melden
 eine Zahl-Konstante mit einem anderen Subjekt; die Begründung steht in `doc/05`.

@@ -396,7 +396,68 @@ def kapitelpruefung(root):
     return treffer
 
 
+def zeilenpruefung(root):
+    u"""Dritter Modus: zeigt die Zeilennummer eines Verweises noch irgendwohin.
+
+    **Fehlerklasse: der Verweis, der ins Leere zeigt.** Ein Verweis der Form
+    `b2 ch86:456` nennt eine Zeile, und eine Zeilennummer verrutscht bei jeder
+    neuen Fassung eines Kapitels. Am 09.09. waren nach neunzehn neuen Fassungen
+    **acht Zeilennummern tot** - sie standen in `doc/10`, `doc/31`, `doc/32`,
+    `doc/33` und `doc/34` und zeigten hinter das Dateiende. Kein Werkzeug hat
+    das gemeldet, weil `--kapitel` die Kapitelnummer prueft und die Zeile nicht.
+
+    **Diese Pruefung braucht keine Paarung und kein Urteil**, und das ist ihr
+    ganzer Wert: eine Zeile 210 in einer Datei mit 199 Zeilen ist tot, ohne dass
+    jemand entscheiden muss, zu welchem Zitat sie gehoert. Genau an der Paarung
+    ist am 10.09. ein Nachbau gescheitert, der zweiundzwanzig Berichtigungen
+    vorschlug, von denen alle zweiundzwanzig falsch waren.
+    """
+    ordner = {u"1": "chapters", u"2": "chapters-2", u"3": "chapters-3"}
+    laenge = {}
+    for b, o in ordner.items():
+        for k, f in lebende(os.path.join(root, o)).items():
+            # lebende() schluesselt auf "ch07" und nicht auf 7
+            nr = int(re.sub(r"\D", "", k))
+            laenge[(b, nr)] = len(
+                io.open(f, encoding="utf-8").read().split(u"\n"))
+    if not laenge:
+        print(u"Eichung DURCHGEFALLEN: keine Kapitel gefunden.")
+        return 2
+    # Eichung: eine erfundene Zeile muss auffallen, Zeile 1 darf nicht.
+    probe = sorted(laenge)[0]
+    if not (laenge[probe] < 99999 and laenge[probe] >= 1):
+        print(u"Eichung DURCHGEFALLEN.")
+        return 2
+    print(u"Eichung: %d Kapitel gelesen, laengstes %d Zeilen."
+          % (len(laenge), max(laenge.values())))
+
+    verweis = re.compile(r"\bb([123]) ch(\d{1,2}):(\d{1,5})\b")
+    tot = 0
+    for d in dokumente(root):
+        zeilen = io.open(d, encoding="utf-8").read().split(u"\n")
+        schlecht = []
+        for i, z in enumerate(zeilen, 1):
+            for m in verweis.finditer(z):
+                b, k, ln = m.group(1), int(m.group(2)), int(m.group(3))
+                if (b, k) not in laenge:
+                    schlecht.append((i, m.group(0), u"Kapitel gibt es nicht"))
+                elif ln > laenge[(b, k)]:
+                    schlecht.append((i, m.group(0), u"Datei hat %d Zeilen"
+                                     % laenge[(b, k)]))
+        if schlecht:
+            tot += len(schlecht)
+            print(u"")
+            print(os.path.relpath(d, root).replace(chr(92), "/"))
+            for i, v, grund in schlecht:
+                print(u"  Zeile %-5d %-16s %s" % (i, v, grund))
+    print(u"")
+    print(u"%d Verweise zeigen hinter das Dateiende." % tot)
+    return tot
+
+
 if __name__ == "__main__":
+    if "--zeilen" in sys.argv:
+        sys.exit(1 if zeilenpruefung(projektwurzel()) else 0)
     if "--kapitel" in sys.argv:
         wurzel = projektwurzel()
         gut, text = eichung(korpus(wurzel))
