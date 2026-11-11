@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 31 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 6 Dokumente am Stueck. 81.439 Woerter.
+Alle 6 Dokumente am Stueck. 81.954 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -848,6 +848,46 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== The hole gets ground, probably under the lord's commission, and the road gets inns ===
+Two author directions in one message, recorded as direction with details
+open. ONE: "Wir grinden das Loch." The Band 1 finale's spine moves from
+paperwork to REOPENING THE HOLE AS A GRIND. He asks what speaks against
+doing it under the lord's public commission. Answer, and it is not
+settled until he confirms: nothing structural. ch26's counter (a company
+engaged for a season, a stated thing, a stated price) already IS that
+commission. THE REAL COSTS, named so the plan carries them:
+(1) THE WITNESS. A sealed commission puts the lord's man in the hole,
+which is Hallvard's ch12 fear with a contract on it. Gaara can select
+but never lie, and the drum bills the witness too. Engine, not obstacle.
+(2) THE CIRCLE IS THE EDGE OF THE CONTRACT. Inside the groove everything
+reads ??? (ch10: hundreds of unopened nests starting twenty feet in, all
+???), so the stated thing must be the valley and the gate, never the
+emptying of the brood. And inside the line Gaara cannot call numbers:
+the first place his doctrine fails, where Marit's wall-calling (ch25) is
+the better tool.
+(3) THE PAYOFF IS LAYERED. He is Level 7, same-level kills stop paying
+(ch6, ch11) and the counter counts only his own last stroke (ch15 to
+17). The rim (fours to sixes) feeds the crew and pays him nothing; his
+own advancement is deeper, blind and unwitnessed. Two grinds under one
+commission: official shallow, private deep.
+Plus the lord can recall the season (war east) and the sureties pay,
+which is a clock he signs himself.
+TWO: MORE BEDDING, BARD STYLE. His words: "mehr flachlegen - ein bisschen
+wie ein Bard aus D&D. Innkeeper, merchant, was auch immer huebsch ist wo
+man eben Pause hat." The standing rule "he propositions almost nobody"
+is retired in frequency and kept in manner: he asks once, takes the
+answer, never chases, never repeats. It is the wild decade (vita story
+3) coming back after the nine dead years (story 6). GUARDRAILS: every
+scene keeps its own governing sense; the power asymmetry stays the only
+limit (his own crew only if they come to him); sex is never currency.
+Rest stops are also where the vita gets told, because strangers who
+leave in the morning are the only audience a trust-budget man can afford.
+CANDIDATE FIRST WAVE, all provisional: an innkeeper at the ford on the
+Oldstep-Wold road (ch14, ch21), Frida, and a practised woman in the Wold
+(two professionals trading technique; ties to the erotica volume).
+STILL OPEN: whether Band 1 grows past 35 chapters to hold the cycles,
+and what people read as inside the circle.
 
 === Enough, not well - and the numbers ===
 The author, on "because it paid well": "enough. It paid enough." With
@@ -3051,6 +3091,11 @@ STATUS, updated during Band 1 planning:
    docs/vita-stories.md (leading document for the material) and find
    their places as the books fill - no pre-assigned recipients, per the
    author. Ledger and rules: bible, section 1, HOW HIS STORY GETS TOLD.
+4. DIRECTION, NOT YET A PLAN: the finale becomes a grind of the hole,
+   probably under the lord's commission, with rest stops (inns, a ford,
+   the Wold) between the dives. Costs, layers and the bard-style rest
+   scenes are in decisions.md, "The hole gets ground...". Sections 3 and
+   6 below are superseded in spine and stand only as the record.
 
 
 === 1. WHAT BAND 1 IS ===

@@ -19,6 +19,11 @@ STATUS, updated during Band 1 planning:
    docs/vita-stories.md (leading document for the material) and find
    their places as the books fill - no pre-assigned recipients, per the
    author. Ledger and rules: bible, section 1, HOW HIS STORY GETS TOLD.
+4. DIRECTION, NOT YET A PLAN: the finale becomes a grind of the hole,
+   probably under the lord's commission, with rest stops (inns, a ford,
+   the Wold) between the dives. Costs, layers and the bard-style rest
+   scenes are in decisions.md, "The hole gets ground...". Sections 3 and
+   6 below are superseded in spine and stand only as the record.
 
 
 === 1. WHAT BAND 1 IS ===
